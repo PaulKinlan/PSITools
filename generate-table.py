@@ -8,7 +8,7 @@ import sys
 import fileinput
 
 for line in fileinput.input():
-  (domain, score, rest) = line.split("\t")
+  (domain, score) = line.split("\t")
   print "%s\n--------\n\n" % (domain)
   print "*  Score: %s" % (score)
   sys.stdout.flush()
