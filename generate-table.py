@@ -9,6 +9,6 @@ import fileinput
 
 for line in fileinput.input():
   (domain, score) = line.split("\t")
-  print "%s\n--------\n\n" % (domain)
+  print "## %s\n" % (domain)
   print "*  Score: %s" % (score)
   sys.stdout.flush()
