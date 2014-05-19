@@ -2,4 +2,7 @@
 layout: article
 title: Wordpress Themes
 description: PageSpeed insights scores across all of themes provided by Wordpress
+collections:
+  results:
+  	output: true
 ---
