@@ -6,8 +6,9 @@ description: PageSpeed Insights crawl
 
 <div class="wrapper">
   <div>
-    {% for page in site.results %}
-      {{ page.title }}
+    {% for page in site.pages %}
+      {{page.id}}
+     <div><a href="{{page.url}}">{{ page.title }}</a></div>
     {% endfor %}
   </div>
 </div>

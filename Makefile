@@ -14,7 +14,7 @@ webdeveloperdocs.tmp: output/webdeveloperdocs
 	./generate-table.py ./output/webdeveloperdocs > webdeveloperdocs.tmp 
 
 results/webdeveloperdocs.markdown: webdeveloperdocs.tmp generate-table.py
-	cat frontmatter/webdeveloperdocs.frontmatter webdeveloperdocs.tmp > results/webdeveloperdocs.markdown
+	cat _frontmatter/webdeveloperdocs.frontmatter webdeveloperdocs.tmp > results/webdeveloperdocs.markdown
 	rm -f webdeveloperdocs.tmp
 
 output/alexa-top-10:
@@ -24,7 +24,7 @@ alexa-top-10.tmp: output/alexa-top-10
 	./generate-table.py ./output/alexa-top-10 > alexa-top-10.tmp 
 
 results/alexa-top-10.markdown: alexa-top-10.tmp generate-table.py
-	cat frontmatter/alexa-top-10.frontmatter alexa-top-10.tmp > results/alexa-top-10.markdown
+	cat _frontmatter/alexa-top-10.frontmatter alexa-top-10.tmp > results/alexa-top-10.markdown
 	rm -f alexa-top-10.tmp
 
 output/wordpress:
@@ -34,7 +34,7 @@ wordpress.tmp: output/wordpress
 	./generate-table.py ./output/wordpress > wordpress.tmp 
 
 results/wordpress.markdown: wordpress.tmp generate-table.py
-	cat frontmatter/wordpress.frontmatter wordpress.tmp > results/wordpress.markdown
+	cat _frontmatter/wordpress.frontmatter wordpress.tmp > results/wordpress.markdown
 	rm -f wordpress.tmp
 
 mergepsi: results/wordpress.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
