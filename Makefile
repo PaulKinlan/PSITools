@@ -7,7 +7,7 @@ clean:
 
 
 output/alexa-top-10.output:
-	./run.py source/alexa-top-10.source | ./parse-score.py > output/alexa-top-10.output
+	./run.py source/alexa-top-10.source > output/alexa-top-10.output
 
 alexa-top-10.tmp: output/alexa-top-10.output
 	./generate-table.py ./output/alexa-top-10.output > alexa-top-10.tmp 
@@ -17,7 +17,7 @@ results/alexa-top-10.markdown: alexa-top-10.tmp
 	rm -f alexa-top-10.tmp
 
 output/wordpress.output:
-	./run.py source/wordpress.source | ./parse-score.py > output/wordpress.output
+	./run.py source/wordpress.source > output/wordpress.output
 
 wordpress.tmp: # output/wordpress.output
 	./generate-table.py ./output/wordpress.output > wordpress.tmp 
