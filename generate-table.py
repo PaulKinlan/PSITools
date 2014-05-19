@@ -17,7 +17,7 @@ for line in fileinput.input():
     score = obj["score"]
     pageStats = obj["pageStats"]
     image_mime = obj["screenshot"]["mime_type"]
-    image_url = obj["screenshot"]["data"].replace("_", "/")
+    image_url = obj["screenshot"]["data"].replace("_", "/").replace("-", "+")
 
     sys.stdout.write("## [")
     sys.stdout.write(title.encode('utf-8'))
