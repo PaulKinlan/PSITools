@@ -8,7 +8,7 @@ description: PageSpeed Insights crawl
   <div>
     {% for page in site.pages %}
       {{page.id}}
-     <div><a href="{{page.url}}">{{ page.title }}</a></div>
+     <div><a href="{{site.baseurl}}{{page.url}}">{{ page.title }}</a></div>
     {% endfor %}
   </div>
 </div>
