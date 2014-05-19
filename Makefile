@@ -5,6 +5,16 @@ clean:
 	rm -rf ./_site/
 
 
+output/alexa-top-10.output:
+	./run.py source/alexa-top-10.source | ./parse-score.py > output/alexa-top-10.output
+
+alexa-top-10.tmp: output/alexa-top-10.output
+	./generate-table.py ./output/alexa-top-10.output > alexa-top-10.tmp 
+
+alexa-top-10.markdown: alexa-top-10.tmp
+	cat alexa-top-10.frontmatter alexa-top-10.tmp > alexa-top-10.markdown
+	rm -f alexa-top-10.tmp
+
 output/wordpress.output:
 	./run.py source/wordpress.source | ./parse-score.py > output/wordpress.output
 
