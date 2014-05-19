@@ -12,7 +12,7 @@ alexa-top-10.tmp: output/alexa-top-10.output
 	./generate-table.py ./output/alexa-top-10.output > alexa-top-10.tmp 
 
 alexa-top-10.markdown: alexa-top-10.tmp
-	cat alexa-top-10.frontmatter alexa-top-10.tmp > alexa-top-10.markdown
+	cat frontmatter/alexa-top-10.frontmatter alexa-top-10.tmp > alexa-top-10.markdown
 	rm -f alexa-top-10.tmp
 
 output/wordpress.output:
@@ -22,7 +22,7 @@ wordpress.tmp: # output/wordpress.output
 	./generate-table.py ./output/wordpress.output > wordpress.tmp 
 
 wordpress.markdown: wordpress.tmp
-	cat wordpress.frontmatter wordpress.tmp > wordpress.markdown
+	cat frontmatter/wordpress.frontmatter wordpress.tmp > wordpress.markdown
 	rm -f wordpress.tmp
 
 mergepsi: wordpress.markdown
