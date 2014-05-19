@@ -25,6 +25,8 @@ for line in fileinput.input():
 
 sorted_sites = sorted(sites, key=lambda k: k['score'])
 
+sorted_sites.reverse()
+
 for site in sorted_sites:
 
   id = site["id"]
