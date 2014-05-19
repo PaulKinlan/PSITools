@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "Wordpress Themes"
+title: Wordpress Themes
+description: PageSpeed insights scores across all of themes provided by Wordpress
 ---
-
 ## http://theme.wordpress.com/themes/twentyeleven/
 
 *  Score: 56
