@@ -103,7 +103,7 @@ for line in fileinput.input():
 
     print "\n\n"
 
-    print "<img src='%s'>" % (image_url)
+    print "<img src='data:%s'>" % (image_url)
 
     sys.stdout.flush()
   #except:
