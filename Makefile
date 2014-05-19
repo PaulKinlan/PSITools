@@ -1,6 +1,7 @@
 clean:
 	# rm -f output/wordpress.output
-	rm -f wordpress.markdown
+	rm -f results/wordpress.markdown
+	rm -f results/alexa-top-10.markdown
 	rm -f wordpress.tmp
 	rm -rf ./_site/
 
@@ -25,7 +26,7 @@ results/wordpress.markdown: wordpress.tmp
 	cat frontmatter/wordpress.frontmatter wordpress.tmp > results/wordpress.markdown
 	rm -f wordpress.tmp
 
-mergepsi: wordpress.markdown
+mergepsi: results/wordpress.markdown
 
 build: mergepsi
 
