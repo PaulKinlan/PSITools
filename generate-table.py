@@ -16,7 +16,8 @@ for line in fileinput.input():
     title = obj["title"]
     score = obj["score"]
     pageStats = obj["pageStats"]
-    image_url = obj["screenshot"]["data"]
+    image_mime = obj["screenshot"]["mime_type"]
+    image_url = obj["screenshot"]["data"].replace("_", "/")
 
     sys.stdout.write("## [")
     sys.stdout.write(title.encode('utf-8'))
@@ -103,7 +104,7 @@ for line in fileinput.input():
 
     print "\n\n"
 
-    print "<img src='data:%s'>" % (image_url)
+    print "<img src='data:%s;base64,%s'>" % (image_mime, image_url)
 
     sys.stdout.flush()
   #except:
