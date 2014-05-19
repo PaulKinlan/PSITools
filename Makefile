@@ -7,6 +7,18 @@ clean:
 	rm -rf ./_site/
 
 
+# News
+output/news:
+	./run.py source/news > output/news
+
+news.tmp: output/news
+	./generate-table.py ./output/news > news.tmp 
+
+results/news.markdown: news.tmp generate-table.py
+	cat _frontmatter/news.frontmatter news.tmp > results/news.markdown
+	rm -f news.tmp
+
+# Web Developer Docs
 output/webdeveloperdocs:
 	./run.py source/webdeveloperdocs > output/webdeveloperdocs
 
@@ -17,6 +29,7 @@ results/webdeveloperdocs.markdown: webdeveloperdocs.tmp generate-table.py
 	cat _frontmatter/webdeveloperdocs.frontmatter webdeveloperdocs.tmp > results/webdeveloperdocs.markdown
 	rm -f webdeveloperdocs.tmp
 
+# Alexa Top 10
 output/alexa-top-10:
 	./run.py source/alexa-top-10 > output/alexa-top-10
 
@@ -27,6 +40,7 @@ results/alexa-top-10.markdown: alexa-top-10.tmp generate-table.py
 	cat _frontmatter/alexa-top-10.frontmatter alexa-top-10.tmp > results/alexa-top-10.markdown
 	rm -f alexa-top-10.tmp
 
+# Top Wordpress Themes
 output/wordpress:
 	./run.py source/wordpress > output/wordpress
 
@@ -37,7 +51,10 @@ results/wordpress.markdown: wordpress.tmp generate-table.py
 	cat _frontmatter/wordpress.frontmatter wordpress.tmp > results/wordpress.markdown
 	rm -f wordpress.tmp
 
-mergepsi: results/wordpress.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
+
+# Main process
+
+mergepsi: results/wordpress.markdown results/news.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
 
 build: mergepsi
 
