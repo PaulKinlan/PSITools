@@ -16,7 +16,7 @@ for line in fileinput.input():
     title = obj["title"]
     score = obj["score"]
     pageStats = obj["pageStats"]
-    #image_url = obj[""]
+    image_url = obj["screenshot"]["data"]
 
     sys.stdout.write("## [")
     sys.stdout.write(title.encode('utf-8'))
@@ -103,7 +103,7 @@ for line in fileinput.input():
 
     print "\n\n"
 
-    #print "<img src='%s'>" % (image_url)
+    print "<img src='%s'>" % (image_url)
 
     sys.stdout.flush()
   #except:

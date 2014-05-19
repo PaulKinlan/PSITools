@@ -6,7 +6,6 @@ clean:
 	rm -f wordpress.tmp
 	rm -rf ./_site/
 
-
 output/alexa-top-10.output:
 	./run.py source/alexa-top-10.source > output/alexa-top-10.output
 
@@ -20,7 +19,7 @@ results/alexa-top-10.markdown: alexa-top-10.tmp generate-table.py
 output/wordpress.output:
 	./run.py source/wordpress.source > output/wordpress.output
 
-wordpress.tmp: # output/wordpress.output
+wordpress.tmp: output/wordpress.output
 	./generate-table.py ./output/wordpress.output > wordpress.tmp 
 
 results/wordpress.markdown: wordpress.tmp generate-table.py
