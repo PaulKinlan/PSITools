@@ -3,8 +3,7 @@ layout: article
 title: Developer Docs
 description: Tracking Web Developer documentation
 collections:
-  results:
-  	output: true
+  - results
 ---
 
 
