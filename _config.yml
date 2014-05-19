@@ -1,2 +1,5 @@
 markdown: kramdown
 baseurl: /PSITools/
+collections:
+  results:
+    output: true
