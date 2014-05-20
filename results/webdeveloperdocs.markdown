@@ -13,7 +13,7 @@ collections:
 
 *  Number of Resources: 19
 *  Number of Hosts: 6
-*  Total Resources Bytes: 2291
+*  Total Request Bytes: 2291
 *  Nubmer of Static Resources: 11
 *  HTML Response Bytes: 45441
 *  Text Response Bytes: 0
@@ -37,7 +37,7 @@ collections:
 
 *  Number of Resources: 12
 *  Number of Hosts: 4
-*  Total Resources Bytes: 1459
+*  Total Request Bytes: 1459
 *  Nubmer of Static Resources: 7
 *  HTML Response Bytes: 15302
 *  Text Response Bytes: 0
@@ -61,7 +61,7 @@ collections:
 
 *  Number of Resources: 86
 *  Number of Hosts: 12
-*  Total Resources Bytes: 9796
+*  Total Request Bytes: 9796
 *  Nubmer of Static Resources: 18
 *  HTML Response Bytes: 207103
 *  Text Response Bytes: 0
@@ -85,7 +85,7 @@ collections:
 
 *  Number of Resources: 47
 *  Number of Hosts: 16
-*  Total Resources Bytes: 7333
+*  Total Request Bytes: 7333
 *  Nubmer of Static Resources: 28
 *  HTML Response Bytes: 145378
 *  Text Response Bytes: 0
@@ -109,7 +109,7 @@ collections:
 
 *  Number of Resources: 77
 *  Number of Hosts: 16
-*  Total Resources Bytes: 8586
+*  Total Request Bytes: 8586
 *  Nubmer of Static Resources: 64
 *  HTML Response Bytes: 112509
 *  Text Response Bytes: 44004
@@ -133,7 +133,7 @@ collections:
 
 *  Number of Resources: 104
 *  Number of Hosts: 7
-*  Total Resources Bytes: 10961
+*  Total Request Bytes: 10961
 *  Nubmer of Static Resources: 88
 *  HTML Response Bytes: 227436
 *  Text Response Bytes: 131604
