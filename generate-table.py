@@ -42,84 +42,20 @@ for site in sorted_sites:
   sys.stdout.write(title.encode('utf-8'))
   sys.stdout.write("](%s)\n" % (id))
 
-
   print "*  Score: [%s](%s%s)\n\n" % (score, pagespeed_url, id)
-
-  sys.stdout.write("\n|Number of Resources")
-  sys.stdout.write( "|Number of Hosts")
-  sys.stdout.write( "|Total Resources Bytes")
-  sys.stdout.write( "|Nubmer of Static Resources")
-  sys.stdout.write( "|HTML Response Bytes")
-  sys.stdout.write( "|Text Response Bytes")
-  sys.stdout.write( "|CSS Response Bytes")
-  sys.stdout.write( "|Image Response Bytes")
-  sys.stdout.write( "|JS Response Bytes")
-  sys.stdout.write( "|Flash Response Bytes")
-  sys.stdout.write( "|Other Response Bytes")
-  sys.stdout.write( "|Number of JS Resources")
-  sys.stdout.write( "|Number of CSS Resources")
-
-  sys.stdout.write("\n|-------------------")
-  sys.stdout.write("|-------------------")
-  sys.stdout.write("|-------------------")
-  sys.stdout.write("|-------------------")
-  sys.stdout.write("|-------------------")
-  sys.stdout.write("|-------------------")
-  sys.stdout.write("|-------------------")
-  sys.stdout.write("|-------------------")
-  sys.stdout.write("|-------------------")
-  sys.stdout.write("|-------------------")
-  sys.stdout.write("|-------------------")
-  sys.stdout.write("|-------------------")
-  sys.stdout.write("|-------------------")
-
-
-  sys.stdout.write("\n|%s" % (pageStats["numberResources"]))
-  sys.stdout.write("|%s" % (pageStats["numberHosts"]))
-  sys.stdout.write("|%s" % (pageStats["totalRequestBytes"]))
-  sys.stdout.write("|%s" % (pageStats["numberStaticResources"]))
-  sys.stdout.write("|%s" % (pageStats["htmlResponseBytes"]))
-
-  if "textResponseBytes" in pageStats:
-    sys.stdout.write("|%s" % (pageStats["textResponseBytes"]))
-  else:
-    sys.stdout.write("|0")
-
-
-  if "cssResponseBytes" in pageStats:
-    sys.stdout.write("|%s" % (pageStats["cssResponseBytes"]))
-  else:
-    sys.stdout.write("|0")
-
-  if "imageResponseBytes" in pageStats:
-    sys.stdout.write("|%s" % (pageStats["imageResponseBytes"]))
-  else:
-    sys.stdout.write("|0")
-
-  if "javascriptResponseBytes" in pageStats:
-    sys.stdout.write("|%s" % (pageStats["javascriptResponseBytes"]))
-  else:
-    sys.stdout.write("|0")
-
-  if "flashResponseBytes" in pageStats:
-    sys.stdout.write("|%s" % (pageStats["flashResponseBytes"]))
-  else:
-    sys.stdout.write("|0")
-
-  if "otherResponseBytes" in pageStats:
-    sys.stdout.write("|%s" % (pageStats["otherResponseBytes"]))
-  else:
-    sys.stdout.write("|0")
-
-  if "numberJsResources" in pageStats:
-    sys.stdout.write("|%s" % (pageStats["numberJsResources"]))
-  else:
-    sys.stdout.write("|0")
-
-  if "numberCssResources" in pageStats:
-    sys.stdout.write("|%s" % (pageStats["numberCssResources"]))
-  else:
-    sys.stdout.write("|0")
+  print "*  Number of Resources: %s" % (pageStats["numberResources"])
+  print "*  Number of Hosts: %s" % (pageStats["numberHosts"])
+  print "*  Total Resources Bytes: %s" % (pageStats["totalRequestBytes"])
+  print "*  Nubmer of Static Resources: %s" % (pageStats["numberStaticResources"])
+  print "*  HTML Response Bytes: %s" % (pageStats["htmlResponseBytes"])
+  print "*  Text Response Bytes: %s" % (pageStats.get("textResponseBytes", "0"))
+  print "*  CSS Response Bytes: %s" % (pageStats.get("cssResponseBytes", "0"))
+  print "*  Image Response Bytes: %s" % (pageStats.get("imageResponseBytes", "0"))
+  print "*  JS Response Bytes: %s" % (pageStats.get("javascriptResponseBytes", "0"))
+  print "*  Flash Response Bytes: %s" % (pageStats.get("flashResponseBytes", "0"))
+  print "*  Other Response Bytes: %s" % (pageStats.get("otherResponseBytes", "0"))
+  print "*  Number of JS Resources: %s" % (pageStats.get("numberJsResources", "0"))
+  print "*  Number of CSS Resources: %s" % (pageStats.get("numberCssResources", "0"))
 
   print "\n\n"
 
