@@ -1,11 +1,12 @@
 clean:
 	rm -f output/wordpress
-	rm -f output/alexa-top-top
+	rm -f output/alexa-top-10
+	rm -f output/news
+	rm -f output/webdeveloperdocs
 	rm -f results/wordpress.markdown
 	rm -f results/alexa-top-10.markdown
 	rm -f wordpress.tmp
 	rm -rf ./_site/
-
 
 # News
 output/news:

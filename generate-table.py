@@ -36,13 +36,13 @@ for site in sorted_sites:
   image_mime = site["image_mime"]
   image_url = site["image_url"]
 
-  print "\n\n"
+  print "\n"
 
   sys.stdout.write("## [")
   sys.stdout.write(title.encode('utf-8'))
-  sys.stdout.write("](%s)\n" % (id))
+  sys.stdout.write("](%s)\n\n" % (id))
 
-  print "Score: [%s](%s%s)\n\n" % (score, pagespeed_url, id)
+  print "**Score**: [%s](%s%s)\n" % (score, pagespeed_url, id)
   
   print "*  Number of Resources: %s" % (pageStats["numberResources"])
   print "*  Number of Hosts: %s" % (pageStats["numberHosts"])
@@ -58,7 +58,7 @@ for site in sorted_sites:
   print "*  Number of JS Resources: %s" % (pageStats.get("numberJsResources", "0"))
   print "*  Number of CSS Resources: %s" % (pageStats.get("numberCssResources", "0"))
 
-  print "\n\n"
+  print "\n"
 
   print "<img src='data:%s;base64,%s'>\n\n" % (image_mime, image_url)
 
