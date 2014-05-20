@@ -9,7 +9,7 @@ collections:
 
 
 ## [Latest news, sport and comment from the Guardian | The Guardian](http://www.theguardian.com/uk)
-*  Score: [89](https://developers.google.com/speed/pagespeed/insights/?url=http://www.theguardian.com/uk)
+Score: [89](https://developers.google.com/speed/pagespeed/insights/?url=http://www.theguardian.com/uk)
 
 
 *  Number of Resources: 110
@@ -35,7 +35,7 @@ collections:
 
 
 ## [The New York Times](http://mobile.nytimes.com/)
-*  Score: [81](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.nytimes.com/)
+Score: [81](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.nytimes.com/)
 
 
 *  Number of Resources: 38
@@ -61,7 +61,7 @@ collections:
 
 
 ## [Latest World & National News & Headlines - USATODAY.com](http://www.usatoday.com/)
-*  Score: [78](https://developers.google.com/speed/pagespeed/insights/?url=http://www.usatoday.com/)
+Score: [78](https://developers.google.com/speed/pagespeed/insights/?url=http://www.usatoday.com/)
 
 
 *  Number of Resources: 88
@@ -87,7 +87,7 @@ collections:
 
 
 ## [CNN](http://www.cnn.com/)
-*  Score: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://www.cnn.com/)
+Score: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://www.cnn.com/)
 
 
 *  Number of Resources: 52
@@ -113,7 +113,7 @@ collections:
 
 
 ## [U.S. & International Headline News - ABC News](http://abcnews.go.com/News/)
-*  Score: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://abcnews.go.com/News/)
+Score: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://abcnews.go.com/News/)
 
 
 *  Number of Resources: 56
@@ -139,7 +139,7 @@ collections:
 
 
 ## [BuzzFeed](http://www.buzzfeed.com/?s=mobile)
-*  Score: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://www.buzzfeed.com/?s=mobile)
+Score: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://www.buzzfeed.com/?s=mobile)
 
 
 *  Number of Resources: 62
@@ -165,7 +165,7 @@ collections:
 
 
 ## [The Next Web - International technology news, business & culture](http://thenextweb.com/)
-*  Score: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://thenextweb.com/)
+Score: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://thenextweb.com/)
 
 
 *  Number of Resources: 77
@@ -191,7 +191,7 @@ collections:
 
 
 ## [TechCrunch - The latest technology news and information on startups](http://techcrunch.com/)
-*  Score: [65](https://developers.google.com/speed/pagespeed/insights/?url=http://techcrunch.com/)
+Score: [65](https://developers.google.com/speed/pagespeed/insights/?url=http://techcrunch.com/)
 
 
 *  Number of Resources: 70
@@ -217,7 +217,7 @@ collections:
 
 
 ## [Washington Post](http://m.washingtonpost.com/)
-*  Score: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://m.washingtonpost.com/)
+Score: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://m.washingtonpost.com/)
 
 
 *  Number of Resources: 86
@@ -243,7 +243,7 @@ collections:
 
 
 ## [](http://www.cnet.com/news/)
-*  Score: [63](https://developers.google.com/speed/pagespeed/insights/?url=http://www.cnet.com/news/)
+Score: [63](https://developers.google.com/speed/pagespeed/insights/?url=http://www.cnet.com/news/)
 
 
 *  Number of Resources: 64
@@ -269,7 +269,7 @@ collections:
 
 
 ## [CBS News - Breaking News, U.S., World, Business, Entertainment & Video](http://www.cbsnews.com/)
-*  Score: [62](https://developers.google.com/speed/pagespeed/insights/?url=http://www.cbsnews.com/)
+Score: [62](https://developers.google.com/speed/pagespeed/insights/?url=http://www.cbsnews.com/)
 
 
 *  Number of Resources: 134
@@ -295,7 +295,7 @@ collections:
 
 
 ## [News: U.S. and World News Headlines : NPR](http://www.npr.org/sections/news/)
-*  Score: [59](https://developers.google.com/speed/pagespeed/insights/?url=http://www.npr.org/sections/news/)
+Score: [59](https://developers.google.com/speed/pagespeed/insights/?url=http://www.npr.org/sections/news/)
 
 
 *  Number of Resources: 83
@@ -321,7 +321,7 @@ collections:
 
 
 ## [detnews](http://m.detnews.com/)
-*  Score: [56](https://developers.google.com/speed/pagespeed/insights/?url=http://m.detnews.com/)
+Score: [56](https://developers.google.com/speed/pagespeed/insights/?url=http://m.detnews.com/)
 
 
 *  Number of Resources: 43
@@ -347,7 +347,7 @@ collections:
 
 
 ## [NBC News - Breaking News & Top Stories - Latest World, US & Local News](http://www.nbcnews.com/)
-*  Score: [55](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nbcnews.com/)
+Score: [55](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nbcnews.com/)
 
 
 *  Number of Resources: 216
@@ -373,7 +373,7 @@ collections:
 
 
 ## [The Wall Street Journal - Breaking News, Business, Financial and Economic News, World News &amp; Video &#45; Wall Street Journal](http://m.us.wsj.com/home-page?mg=reno64-wsj)
-*  Score: [52](https://developers.google.com/speed/pagespeed/insights/?url=http://m.us.wsj.com/home-page?mg=reno64-wsj)
+Score: [52](https://developers.google.com/speed/pagespeed/insights/?url=http://m.us.wsj.com/home-page?mg=reno64-wsj)
 
 
 *  Number of Resources: 52
@@ -399,7 +399,7 @@ collections:
 
 
 ## [Yahoo News - Latest News & Headlines](http://news.yahoo.com/)
-*  Score: [51](https://developers.google.com/speed/pagespeed/insights/?url=http://news.yahoo.com/)
+Score: [51](https://developers.google.com/speed/pagespeed/insights/?url=http://news.yahoo.com/)
 
 
 *  Number of Resources: 84
@@ -425,7 +425,7 @@ collections:
 
 
 ## [Home | Mail Online](http://www.dailymail.co.uk/ushome/index.html)
-*  Score: [49](https://developers.google.com/speed/pagespeed/insights/?url=http://www.dailymail.co.uk/ushome/index.html)
+Score: [49](https://developers.google.com/speed/pagespeed/insights/?url=http://www.dailymail.co.uk/ushome/index.html)
 
 
 *  Number of Resources: 247
@@ -451,7 +451,7 @@ collections:
 
 
 ## [The Register: Sci/Tech News for the World](http://www.theregister.co.uk/)
-*  Score: [45](https://developers.google.com/speed/pagespeed/insights/?url=http://www.theregister.co.uk/)
+Score: [45](https://developers.google.com/speed/pagespeed/insights/?url=http://www.theregister.co.uk/)
 
 
 *  Number of Resources: 81
@@ -477,7 +477,7 @@ collections:
 
 
 ## [BBC News - Home](http://m.bbc.com/news)
-*  Score: [34](https://developers.google.com/speed/pagespeed/insights/?url=http://m.bbc.com/news)
+Score: [34](https://developers.google.com/speed/pagespeed/insights/?url=http://m.bbc.com/news)
 
 
 *  Number of Resources: 82

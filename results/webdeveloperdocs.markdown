@@ -9,7 +9,7 @@ collections:
 
 
 ## [Build with Chrome: Bringing LEGO® bricks to the Multi-Device Web - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/casestudies/buildwithchrome/)
-*  Score: [78](https://developers.google.com/speed/pagespeed/insights/?url=http://www.html5rocks.com/en/tutorials/casestudies/buildwithchrome/)
+Score: [78](https://developers.google.com/speed/pagespeed/insights/?url=http://www.html5rocks.com/en/tutorials/casestudies/buildwithchrome/)
 
 
 *  Number of Resources: 19
@@ -35,7 +35,7 @@ collections:
 
 
 ## [Images — Google Web Fundamentals](https://developers.google.com/web/fundamentals/documentation/introduction-to-media/images/)
-*  Score: [71](https://developers.google.com/speed/pagespeed/insights/?url=https://developers.google.com/web/fundamentals/documentation/introduction-to-media/images/)
+Score: [71](https://developers.google.com/speed/pagespeed/insights/?url=https://developers.google.com/web/fundamentals/documentation/introduction-to-media/images/)
 
 
 *  Number of Resources: 12
@@ -61,7 +61,7 @@ collections:
 
 
 ## [Editing Styles And The DOM - Google Chrome](https://developer.chrome.com/devtools/docs/dom-and-styles)
-*  Score: [70](https://developers.google.com/speed/pagespeed/insights/?url=https://developer.chrome.com/devtools/docs/dom-and-styles)
+Score: [70](https://developers.google.com/speed/pagespeed/insights/?url=https://developer.chrome.com/devtools/docs/dom-and-styles)
 
 
 *  Number of Resources: 86
@@ -87,7 +87,7 @@ collections:
 
 
 ## [Google Chrome — Google Developers](https://developers.google.com/chrome/)
-*  Score: [68](https://developers.google.com/speed/pagespeed/insights/?url=https://developers.google.com/chrome/)
+Score: [68](https://developers.google.com/speed/pagespeed/insights/?url=https://developers.google.com/chrome/)
 
 
 *  Number of Resources: 47
@@ -113,7 +113,7 @@ collections:
 
 
 ## [Debugger - Firefox Developer Tools | MDN](https://developer.mozilla.org/en-US/docs/Tools/Debugger)
-*  Score: [65](https://developers.google.com/speed/pagespeed/insights/?url=https://developer.mozilla.org/en-US/docs/Tools/Debugger)
+Score: [65](https://developers.google.com/speed/pagespeed/insights/?url=https://developer.mozilla.org/en-US/docs/Tools/Debugger)
 
 
 *  Number of Resources: 77
@@ -139,7 +139,7 @@ collections:
 
 
 ## [Pointer Events · concepts · WPD · WebPlatform.org](http://docs.webplatform.org/wiki/concepts/Pointer_Events)
-*  Score: [41](https://developers.google.com/speed/pagespeed/insights/?url=http://docs.webplatform.org/wiki/concepts/Pointer_Events)
+Score: [41](https://developers.google.com/speed/pagespeed/insights/?url=http://docs.webplatform.org/wiki/concepts/Pointer_Events)
 
 
 *  Number of Resources: 104

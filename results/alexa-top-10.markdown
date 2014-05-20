@@ -9,7 +9,7 @@ collections:
 
 
 ## [百度一下,你就知道](http://www.baidu.com/)
-*  Score: [100](https://developers.google.com/speed/pagespeed/insights/?url=http://www.baidu.com/)
+Score: [100](https://developers.google.com/speed/pagespeed/insights/?url=http://www.baidu.com/)
 
 
 *  Number of Resources: 4
@@ -35,7 +35,7 @@ collections:
 
 
 ## [Yahoo! Mobile](https://www.yahoo.com/)
-*  Score: [99](https://developers.google.com/speed/pagespeed/insights/?url=https://www.yahoo.com/)
+Score: [99](https://developers.google.com/speed/pagespeed/insights/?url=https://www.yahoo.com/)
 
 
 *  Number of Resources: 9
@@ -61,7 +61,7 @@ collections:
 
 
 ## [Wikipedia](http://www.wikipedia.org/)
-*  Score: [80](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wikipedia.org/)
+Score: [80](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wikipedia.org/)
 
 
 *  Number of Resources: 34
@@ -87,7 +87,7 @@ collections:
 
 
 ## [Google](https://www.google.co.uk/?gws_rd=cr&ei=OgZ6U4HqNvHV4QTMmoHQAg)
-*  Score: [74](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.co.uk/?gws_rd=cr&ei=OgZ6U4HqNvHV4QTMmoHQAg)
+Score: [74](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.co.uk/?gws_rd=cr&ei=OgZ6U4HqNvHV4QTMmoHQAg)
 
 
 *  Number of Resources: 15
@@ -113,7 +113,7 @@ collections:
 
 
 ## [Yahoo! JAPAN](http://m.yahoo.co.jp/)
-*  Score: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://m.yahoo.co.jp/)
+Score: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://m.yahoo.co.jp/)
 
 
 *  Number of Resources: 40
@@ -139,7 +139,7 @@ collections:
 
 
 ## [MSN](http://t.msn.com/)
-*  Score: [61](https://developers.google.com/speed/pagespeed/insights/?url=http://t.msn.com/)
+Score: [61](https://developers.google.com/speed/pagespeed/insights/?url=http://t.msn.com/)
 
 
 *  Number of Resources: 58
@@ -165,7 +165,7 @@ collections:
 
 
 ## [Blogger](https://accounts.google.com/ServiceLogin?service=blogger&passive=1209600&continue=https://www.blogger.com/home&followup=https://www.blogger.com/home&ltmpl=start)
-*  Score: [61](https://developers.google.com/speed/pagespeed/insights/?url=https://accounts.google.com/ServiceLogin?service=blogger&passive=1209600&continue=https://www.blogger.com/home&followup=https://www.blogger.com/home&ltmpl=start)
+Score: [61](https://developers.google.com/speed/pagespeed/insights/?url=https://accounts.google.com/ServiceLogin?service=blogger&passive=1209600&continue=https://www.blogger.com/home&followup=https://www.blogger.com/home&ltmpl=start)
 
 
 *  Number of Resources: 11
@@ -191,7 +191,7 @@ collections:
 
 
 ## [What to Watch - YouTube](http://m.youtube.com/)
-*  Score: [61](https://developers.google.com/speed/pagespeed/insights/?url=http://m.youtube.com/)
+Score: [61](https://developers.google.com/speed/pagespeed/insights/?url=http://m.youtube.com/)
 
 
 *  Number of Resources: 28
@@ -217,7 +217,7 @@ collections:
 
 
 ## [Sign In](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1400505939&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fm%2F&lc=1033&id=64855&pcexp=false&snsc=1)
-*  Score: [56](https://developers.google.com/speed/pagespeed/insights/?url=https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1400505939&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fm%2F&lc=1033&id=64855&pcexp=false&snsc=1)
+Score: [56](https://developers.google.com/speed/pagespeed/insights/?url=https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1400505939&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fm%2F&lc=1033&id=64855&pcexp=false&snsc=1)
 
 
 *  Number of Resources: 7
@@ -243,7 +243,7 @@ collections:
 
 
 ## [Welcome to Facebook](https://m.facebook.com/?refsrc=http%3A%2F%2Fwww.facebook.com%2F&_rdr)
-*  Score: [56](https://developers.google.com/speed/pagespeed/insights/?url=https://m.facebook.com/?refsrc=http%3A%2F%2Fwww.facebook.com%2F&_rdr)
+Score: [56](https://developers.google.com/speed/pagespeed/insights/?url=https://m.facebook.com/?refsrc=http%3A%2F%2Fwww.facebook.com%2F&_rdr)
 
 
 *  Number of Resources: 24

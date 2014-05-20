@@ -42,7 +42,8 @@ for site in sorted_sites:
   sys.stdout.write(title.encode('utf-8'))
   sys.stdout.write("](%s)\n" % (id))
 
-  print "*  Score: [%s](%s%s)\n\n" % (score, pagespeed_url, id)
+  print "Score: [%s](%s%s)\n\n" % (score, pagespeed_url, id)
+  
   print "*  Number of Resources: %s" % (pageStats["numberResources"])
   print "*  Number of Hosts: %s" % (pageStats["numberHosts"])
   print "*  Total Resources Bytes: %s" % (pageStats["totalRequestBytes"])
