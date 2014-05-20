@@ -46,7 +46,7 @@ for site in sorted_sites:
   
   print "*  Number of Resources: %s" % (pageStats["numberResources"])
   print "*  Number of Hosts: %s" % (pageStats["numberHosts"])
-  print "*  Total Resources Bytes: %s" % (pageStats["totalRequestBytes"])
+  print "*  Total Request Bytes: %s" % (pageStats["totalRequestBytes"])
   print "*  Nubmer of Static Resources: %s" % (pageStats["numberStaticResources"])
   print "*  HTML Response Bytes: %s" % (pageStats["htmlResponseBytes"])
   print "*  Text Response Bytes: %s" % (pageStats.get("textResponseBytes", "0"))
