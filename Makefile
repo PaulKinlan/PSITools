@@ -19,6 +19,17 @@ results/news.markdown: news.tmp generate-table.py
 	cat _frontmatter/news.frontmatter news.tmp > results/news.markdown
 	rm -f news.tmp
 
+# Theme forest popular themes
+output/themeforest-livepopular:
+	./run.py source/themeforest-livepopular > output/themeforest-livepopular
+
+themeforest-livepopular.tmp: output/themeforest-livepopular
+	./generate-table.py ./output/themeforest-livepopular > themeforest-livepopular.tmp 
+
+results/themeforest-livepopular.markdown: themeforest-livepopular.tmp generate-table.py
+	cat _frontmatter/themeforest-livepopular.frontmatter themeforest-livepopular.tmp > results/themeforest-livepopular.markdown
+	rm -f themeforest-livepopular.tmp
+
 # Web Developer Docs
 output/webdeveloperdocs:
 	./run.py source/webdeveloperdocs > output/webdeveloperdocs
@@ -55,7 +66,7 @@ results/wordpress.markdown: wordpress.tmp generate-table.py
 
 # Main process
 
-mergepsi: results/wordpress.markdown results/news.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
+mergepsi: results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
 
 build: mergepsi
 
