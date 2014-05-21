@@ -18,7 +18,7 @@ news.tmp: output/news
 	./generate-table.py ./output/news > news.tmp 
 
 results/news.markdown: news.tmp generate-table.py
-	cat _frontmatter/news.frontmatter news.tmp > results/news.markdown
+	cat _frontmatter/news news.tmp > results/news.markdown
 	rm -f news.tmp
 
 # Theme forest popular themes
@@ -29,7 +29,7 @@ themeforest-livepopular.tmp: output/themeforest-livepopular
 	./generate-table.py ./output/themeforest-livepopular > themeforest-livepopular.tmp 
 
 results/themeforest-livepopular.markdown: themeforest-livepopular.tmp generate-table.py
-	cat _frontmatter/themeforest-livepopular.frontmatter themeforest-livepopular.tmp > results/themeforest-livepopular.markdown
+	cat _frontmatter/themeforest-livepopular themeforest-livepopular.tmp > results/themeforest-livepopular.markdown
 	rm -f themeforest-livepopular.tmp
 
 # Web Developer Docs
@@ -40,7 +40,7 @@ webdeveloperdocs.tmp: output/webdeveloperdocs
 	./generate-table.py ./output/webdeveloperdocs > webdeveloperdocs.tmp 
 
 results/webdeveloperdocs.markdown: webdeveloperdocs.tmp generate-table.py
-	cat _frontmatter/webdeveloperdocs.frontmatter webdeveloperdocs.tmp > results/webdeveloperdocs.markdown
+	cat _frontmatter/webdeveloperdocs webdeveloperdocs.tmp > results/webdeveloperdocs.markdown
 	rm -f webdeveloperdocs.tmp
 
 # Alexa Top 10
@@ -51,7 +51,7 @@ alexa-top-10.tmp: output/alexa-top-10
 	./generate-table.py ./output/alexa-top-10 > alexa-top-10.tmp 
 
 results/alexa-top-10.markdown: alexa-top-10.tmp generate-table.py
-	cat _frontmatter/alexa-top-10.frontmatter alexa-top-10.tmp > results/alexa-top-10.markdown
+	cat _frontmatter/alexa-top-10 alexa-top-10.tmp > results/alexa-top-10.markdown
 	rm -f alexa-top-10.tmp
 
 # Top Wordpress Themes
@@ -62,7 +62,7 @@ wordpress.tmp: output/wordpress
 	./generate-table.py ./output/wordpress > wordpress.tmp 
 
 results/wordpress.markdown: wordpress.tmp generate-table.py
-	cat _frontmatter/wordpress.frontmatter wordpress.tmp > results/wordpress.markdown
+	cat _frontmatter/wordpress wordpress.tmp > results/wordpress.markdown
 	rm -f wordpress.tmp
 
 
