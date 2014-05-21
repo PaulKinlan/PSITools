@@ -1,14 +1,14 @@
 ---
-layout: article
-title: Home
+layout: home
+title: PSI Tools
 description: We crawl a selection of sites once a week and analyse them for common performance issues and document them here.
 ---
 
 
-{% for page in site.pages %}
+{% for page in site.pages %}{% if page.layout == "article" %}
 <div>
  <h3><a href="{{site.baseurl}}{{page.url}}">{{ page.title }}</a></h3>
  <p>{{page.description}}</p>
 </div>
-{% endfor %}
+{% endif %}{% endfor %}
 
