@@ -3,6 +3,8 @@ clean:
 	rm -f output/alexa-top-10
 	rm -f output/news
 	rm -f output/webdeveloperdocs
+	rm -f output/themeforest-livepopular
+	rm -f results/themeforest-livepopular.markdown
 	rm -f results/wordpress.markdown
 	rm -f results/alexa-top-10.markdown
 	rm -f wordpress.tmp
