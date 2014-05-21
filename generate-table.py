@@ -43,11 +43,18 @@ for site in sorted_sites:
   sys.stdout.write("](%s)\n\n" % (id))
 
   print "**Score**: [%s](%s%s)\n" % (score, pagespeed_url, id)
+
+  print "\n### Request inforamtion\n"
   
   print "*  Number of Resources: %s" % (pageStats["numberResources"])
   print "*  Number of Hosts: %s" % (pageStats["numberHosts"])
-  print "*  Total Request Bytes: %s" % (pageStats["totalRequestBytes"])
+  print "*  Number of JS Resources: %s" % (pageStats.get("numberJsResources", "0"))
+  print "*  Number of CSS Resources: %s" % (pageStats.get("numberCssResources", "0"))
   print "*  Nubmer of Static Resources: %s" % (pageStats["numberStaticResources"])
+  print "*  Total Request Bytes: %s" % (pageStats["totalRequestBytes"])
+
+  print "\n### Response data\n"
+
   print "*  HTML Response Bytes: %s" % (pageStats["htmlResponseBytes"])
   print "*  Text Response Bytes: %s" % (pageStats.get("textResponseBytes", "0"))
   print "*  CSS Response Bytes: %s" % (pageStats.get("cssResponseBytes", "0"))
@@ -55,8 +62,7 @@ for site in sorted_sites:
   print "*  JS Response Bytes: %s" % (pageStats.get("javascriptResponseBytes", "0"))
   print "*  Flash Response Bytes: %s" % (pageStats.get("flashResponseBytes", "0"))
   print "*  Other Response Bytes: %s" % (pageStats.get("otherResponseBytes", "0"))
-  print "*  Number of JS Resources: %s" % (pageStats.get("numberJsResources", "0"))
-  print "*  Number of CSS Resources: %s" % (pageStats.get("numberCssResources", "0"))
+
 
   print "\n"
 
