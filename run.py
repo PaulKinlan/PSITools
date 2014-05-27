@@ -25,11 +25,12 @@ class UrlFetchThread(threading.Thread):
       host = self.queue.get()
 
       #grabs urls of hosts and then grabs chunk of webpage
-      res = urllib2.urlopen(url + urllib.quote(host.rstrip()))
-      print json.dumps(json.loads(res.read()))
-
-      #signals to queue job is done
-      self.queue.task_done()
+      try:
+        res = urllib2.urlopen(url + urllib.quote(host.rstrip()))
+        print json.dumps(json.loads(res.read()))
+      except:
+        #signals to queue job is done even if it errors
+        self.queue.task_done()
 
 
 def main():
