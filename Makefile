@@ -1,14 +1,18 @@
-clean:
+clean: cleanresults
 	rm -f output/wordpress
 	rm -f output/alexa-top-10
 	rm -f output/news
 	rm -f output/webdeveloperdocs
 	rm -f output/themeforest-livepopular
+	rm -f wordpress.tmp
+	rm -rf ./_site/
+
+cleanresults:
 	rm -f results/themeforest-livepopular.markdown
 	rm -f results/wordpress.markdown
 	rm -f results/alexa-top-10.markdown
-	rm -f wordpress.tmp
-	rm -rf ./_site/
+	rm -f results/news.markdown
+	rm -f results/webdeveloperdocs.markdown
 
 # News
 output/news:

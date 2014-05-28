@@ -42,9 +42,11 @@ for site in sorted_sites:
   sys.stdout.write(title.encode('utf-8'))
   sys.stdout.write("](%s)\n\n" % (id))
 
-  print "**Score**: [%s](%s%s)\n" % (score, pagespeed_url, id)
 
-  print "\n### Request inforamtion\n"
+  print "**Score**: [%s](%s%s)\n\n" % (score, pagespeed_url, id)
+  print "<img src='data:%s;base64,%s'>" % (image_mime, image_url)
+
+  print "\n### Request information\n"
   
   print "*  Number of Resources: %s" % (pageStats["numberResources"])
   print "*  Number of Hosts: %s" % (pageStats["numberHosts"])
@@ -63,10 +65,8 @@ for site in sorted_sites:
   print "*  Flash Response Bytes: %s" % (pageStats.get("flashResponseBytes", "0"))
   print "*  Other Response Bytes: %s" % (pageStats.get("otherResponseBytes", "0"))
 
-
-  print "\n"
-
-  print "<img src='data:%s;base64,%s'>\n\n" % (image_mime, image_url)
+  print "<hr>"
+  
 
   sys.stdout.flush()
 
