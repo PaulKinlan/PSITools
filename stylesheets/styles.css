@@ -26,6 +26,11 @@ h1 {
 
 h2 {
   color:#393939;
+  clear: both;
+}
+
+hr {
+  clear: both;
 }
 
 h3, h4, h5, h6 {
@@ -93,9 +98,8 @@ th {
 
 img {
   max-width:100%;
-}
-
-header {
+  float: left;
+  padding: 0 20px 20px 0;
 }
 
 header ul {
