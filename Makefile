@@ -18,7 +18,7 @@ cleanresults:
 
 
 # Japanese Top 100
-output/news:
+output/japanese-top-100:
 	./run.py source/japanese-top-100 > output/japanese-top-100
 
 japanese-top-100.tmp: output/japanese-top-100
