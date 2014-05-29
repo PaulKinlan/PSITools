@@ -4,6 +4,7 @@ clean: cleanresults
 	rm -f output/news
 	rm -f output/webdeveloperdocs
 	rm -f output/themeforest-livepopular
+	rm -f output/japanese-top-100
 	rm -f wordpress.tmp
 	rm -rf ./_site/
 
@@ -13,6 +14,19 @@ cleanresults:
 	rm -f results/alexa-top-10.markdown
 	rm -f results/news.markdown
 	rm -f results/webdeveloperdocs.markdown
+	rm -f results/output/japanese-top-100
+
+
+# Japanese Top 100
+output/news:
+	./run.py source/japanese-top-100 > output/japanese-top-100
+
+japanese-top-100.tmp: output/japanese-top-100
+	./generate-table.py ./output/japanese-top-100 > japanese-top-100.tmp 
+
+results/japanese-top-100.markdown: japanese-top-100.tmp generate-table.py
+	cat _frontmatter/japanese-top-100 japanese-top-100.tmp > results/japanese-top-100.markdown
+	rm -f japanese-top-100.tmp
 
 # News
 output/news:
@@ -72,7 +86,7 @@ results/wordpress.markdown: wordpress.tmp generate-table.py
 
 # Main process
 
-mergepsi: results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
+mergepsi: results/japanese-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
 
 build: mergepsi
 

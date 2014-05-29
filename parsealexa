@@ -1,0 +1,1 @@
+i = document.querySelectorAll("a[href*='/siteinfo/']"); output = ""; for(var x = 0; x < i.length; x++) {output+= "http://"+ i[x].href.slice(30)+"\n"}
