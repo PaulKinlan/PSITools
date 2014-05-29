@@ -5,6 +5,7 @@ clean: cleanresults
 	rm -f output/webdeveloperdocs
 	rm -f output/themeforest-livepopular
 	rm -f output/japanese-top-100
+	rm -f output/french-top-100
 	rm -f wordpress.tmp
 	rm -rf ./_site/
 
@@ -14,8 +15,20 @@ cleanresults:
 	rm -f results/alexa-top-10.markdown
 	rm -f results/news.markdown
 	rm -f results/webdeveloperdocs.markdown
-	rm -f results/output/japanese-top-100
+	rm -f results/japanese-top-100.markdown
+	rm -f results/french-top-100.markdown
 
+
+# French Top 100
+output/french-top-100:
+	./run.py source/french-top-100 > output/french-top-100
+
+french-top-100.tmp: output/french-top-100
+	./generate-table.py ./output/french-top-100 > french-top-100.tmp 
+
+results/french-top-100.markdown: french-top-100.tmp generate-table.py
+	cat _frontmatter/french-top-100 french-top-100.tmp > results/french-top-100.markdown
+	rm -f french-top-100.tmp
 
 # Japanese Top 100
 output/japanese-top-100:
@@ -86,7 +99,7 @@ results/wordpress.markdown: wordpress.tmp generate-table.py
 
 # Main process
 
-mergepsi: results/japanese-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
+mergepsi: results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
 
 build: mergepsi
 
