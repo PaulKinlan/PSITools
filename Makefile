@@ -96,7 +96,6 @@ results/wordpress.markdown: wordpress.tmp generate-table.py
 	cat _frontmatter/wordpress wordpress.tmp > results/wordpress.markdown
 	rm -f wordpress.tmp
 
-
 # Main process
 
 mergepsi: results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
