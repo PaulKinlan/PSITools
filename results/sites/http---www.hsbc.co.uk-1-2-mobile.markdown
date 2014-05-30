@@ -16,14 +16,14 @@ title: http://www.hsbc.co.uk/1/2/mobile
 *  Number of JS Resources: 28
 *  Number of CSS Resources: 17
 *  Nubmer of Static Resources: 71
-*  Total Request Bytes: 12637
+*  Total Request Bytes: 12638
 
 ### Response data
 
 *  HTML Response Bytes: 105677
 *  Text Response Bytes: 61436
 *  CSS Response Bytes: 376086
-*  Image Response Bytes: 453092
+*  Image Response Bytes: 453070
 *  JS Response Bytes: 634205
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 115913
+*  Other Response Bytes: 115914

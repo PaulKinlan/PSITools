@@ -16,14 +16,14 @@ title: http://www.argos.co.uk/m/static/Home.htm
 *  Number of JS Resources: 25
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 54
-*  Total Request Bytes: 11343
+*  Total Request Bytes: 11339
 
 ### Response data
 
 *  HTML Response Bytes: 15541
 *  Text Response Bytes: 14325
 *  CSS Response Bytes: 178141
-*  Image Response Bytes: 84998
-*  JS Response Bytes: 898331
+*  Image Response Bytes: 85001
+*  JS Response Bytes: 898330
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 7020
+*  Other Response Bytes: 7017

@@ -16,14 +16,14 @@ title: http://www.telegraph.co.uk/
 *  Number of JS Resources: 37
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 43
-*  Total Request Bytes: 12857
+*  Total Request Bytes: 12860
 
 ### Response data
 
-*  HTML Response Bytes: 45566
+*  HTML Response Bytes: 45567
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 49658
-*  Image Response Bytes: 91654
-*  JS Response Bytes: 1668286
+*  Image Response Bytes: 91653
+*  JS Response Bytes: 1668282
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 3580
+*  Other Response Bytes: 3581

@@ -16,14 +16,14 @@ title: https://hootsuite.com/
 *  Number of JS Resources: 29
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 44
-*  Total Request Bytes: 21721
+*  Total Request Bytes: 21176
 
 ### Response data
 
 *  HTML Response Bytes: 142543
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 364566
-*  Image Response Bytes: 365325
-*  JS Response Bytes: 2387111
+*  Image Response Bytes: 365336
+*  JS Response Bytes: 2387102
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 22136
+*  Other Response Bytes: 21408

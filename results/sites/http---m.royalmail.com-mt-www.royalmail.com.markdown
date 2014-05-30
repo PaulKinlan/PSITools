@@ -16,11 +16,11 @@ title: http://m.royalmail.com/mt/www.royalmail.com
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 19
-*  Total Request Bytes: 4479
+*  Total Request Bytes: 4477
 
 ### Response data
 
-*  HTML Response Bytes: 50482
+*  HTML Response Bytes: 50481
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 25198

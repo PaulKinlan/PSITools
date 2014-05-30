@@ -16,14 +16,14 @@ title: http://m.national-lottery.co.uk/mt/www.national-lottery.co.uk/player/p/ho
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 16
-*  Total Request Bytes: 4208
+*  Total Request Bytes: 4206
 
 ### Response data
 
-*  HTML Response Bytes: 104420
+*  HTML Response Bytes: 104419
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 104242
 *  JS Response Bytes: 58991
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 3143
+*  Other Response Bytes: 3142

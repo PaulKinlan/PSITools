@@ -16,14 +16,14 @@ title: http://lockerdome.com/
 *  Number of JS Resources: 22
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 63
-*  Total Request Bytes: 9295
+*  Total Request Bytes: 9301
 
 ### Response data
 
-*  HTML Response Bytes: 63235
+*  HTML Response Bytes: 63236
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 498227
-*  Image Response Bytes: 764803
-*  JS Response Bytes: 2933659
+*  CSS Response Bytes: 498193
+*  Image Response Bytes: 764815
+*  JS Response Bytes: 2933555
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 65666
+*  Other Response Bytes: 65670

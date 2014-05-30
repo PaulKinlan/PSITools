@@ -16,14 +16,14 @@ title: http://www.aweber.com/
 *  Number of JS Resources: 16
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 31
-*  Total Request Bytes: 9363
+*  Total Request Bytes: 9362
 
 ### Response data
 
 *  HTML Response Bytes: 31523
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 119508
-*  Image Response Bytes: 141176
-*  JS Response Bytes: 591504
+*  Image Response Bytes: 141179
+*  JS Response Bytes: 591510
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7541

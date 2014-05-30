@@ -16,14 +16,14 @@ title: http://m.zoopla.co.uk/#appsmart
 *  Number of JS Resources: 7
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 12
-*  Total Request Bytes: 3417
+*  Total Request Bytes: 3418
 
 ### Response data
 
 *  HTML Response Bytes: 15202
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 255302
-*  Image Response Bytes: 84051
+*  Image Response Bytes: 84049
 *  JS Response Bytes: 772819
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2186
+*  Other Response Bytes: 2187

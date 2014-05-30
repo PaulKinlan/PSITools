@@ -16,7 +16,7 @@ title: http://www.santander.co.uk/csgs/Satellite?appID=abbey.internet.Abbeycom&c
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 33
-*  Total Request Bytes: 8211
+*  Total Request Bytes: 8214
 
 ### Response data
 
@@ -24,6 +24,6 @@ title: http://www.santander.co.uk/csgs/Satellite?appID=abbey.internet.Abbeycom&c
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 81016
 *  Image Response Bytes: 124692
-*  JS Response Bytes: 95849
+*  JS Response Bytes: 95851
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1214

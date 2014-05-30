@@ -11,19 +11,19 @@ title: http://www.independent.co.uk/
 
 ### Request information
 
-*  Number of Resources: 121
+*  Number of Resources: 120
 *  Number of Hosts: 32
-*  Number of JS Resources: 60
+*  Number of JS Resources: 57
 *  Number of CSS Resources: 14
-*  Nubmer of Static Resources: 89
-*  Total Request Bytes: 21051
+*  Nubmer of Static Resources: 86
+*  Total Request Bytes: 20929
 
 ### Response data
 
-*  HTML Response Bytes: 175330
+*  HTML Response Bytes: 175181
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 217320
-*  Image Response Bytes: 178161
-*  JS Response Bytes: 1518754
+*  CSS Response Bytes: 217321
+*  Image Response Bytes: 178159
+*  JS Response Bytes: 1438870
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 7439
+*  Other Response Bytes: 8485

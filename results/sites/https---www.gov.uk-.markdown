@@ -15,15 +15,15 @@ title: https://www.gov.uk/
 *  Number of Hosts: 5
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 6
-*  Nubmer of Static Resources: 21
+*  Nubmer of Static Resources: 22
 *  Total Request Bytes: 3353
 
 ### Response data
 
-*  HTML Response Bytes: 25610
+*  HTML Response Bytes: 25611
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 486198
-*  Image Response Bytes: 72549
-*  JS Response Bytes: 313521
+*  CSS Response Bytes: 486184
+*  Image Response Bytes: 72457
+*  JS Response Bytes: 313512
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 868

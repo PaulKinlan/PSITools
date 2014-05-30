@@ -16,14 +16,14 @@ title: http://www.moneysavingexpert.com/
 *  Number of JS Resources: 14
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 102
-*  Total Request Bytes: 9438
+*  Total Request Bytes: 9439
 
 ### Response data
 
 *  HTML Response Bytes: 135983
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 107292
-*  Image Response Bytes: 1561182
-*  JS Response Bytes: 305814
+*  Image Response Bytes: 1561180
+*  JS Response Bytes: 305788
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 534

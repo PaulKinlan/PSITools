@@ -20,10 +20,10 @@ title: http://m.johnlewis.com/mt/www.johnlewis.com/#page_loaded
 
 ### Response data
 
-*  HTML Response Bytes: 72680
+*  HTML Response Bytes: 72682
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 169820
-*  JS Response Bytes: 148909
+*  JS Response Bytes: 148911
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1654

@@ -16,14 +16,14 @@ title: http://m.wikihow.com/Main-Page
 *  Number of JS Resources: 7
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 17
-*  Total Request Bytes: 4664
+*  Total Request Bytes: 4670
 
 ### Response data
 
 *  HTML Response Bytes: 34998
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 23683
-*  Image Response Bytes: 370335
-*  JS Response Bytes: 388973
+*  CSS Response Bytes: 23682
+*  Image Response Bytes: 370410
+*  JS Response Bytes: 388965
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 497
+*  Other Response Bytes: 494

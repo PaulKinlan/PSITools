@@ -16,11 +16,11 @@ title: http://m.tesco.com/mt/www.tesco.com/
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 17
-*  Total Request Bytes: 2417
+*  Total Request Bytes: 2415
 
 ### Response data
 
-*  HTML Response Bytes: 25942
+*  HTML Response Bytes: 25939
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 259476

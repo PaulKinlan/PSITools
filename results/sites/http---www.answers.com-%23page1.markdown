@@ -16,14 +16,14 @@ title: http://www.answers.com/#page1
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 34
-*  Total Request Bytes: 12880
+*  Total Request Bytes: 13135
 
 ### Response data
 
-*  HTML Response Bytes: 170772
+*  HTML Response Bytes: 170862
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 70790
-*  Image Response Bytes: 2078478
-*  JS Response Bytes: 465429
+*  Image Response Bytes: 2078476
+*  JS Response Bytes: 465434
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1123
+*  Other Response Bytes: 1122

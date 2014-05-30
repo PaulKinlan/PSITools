@@ -23,7 +23,7 @@ title: http://www.hmrc.gov.uk/
 *  HTML Response Bytes: 14921
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 28956
-*  Image Response Bytes: 60083
-*  JS Response Bytes: 177608
+*  Image Response Bytes: 60063
+*  JS Response Bytes: 177607
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1201

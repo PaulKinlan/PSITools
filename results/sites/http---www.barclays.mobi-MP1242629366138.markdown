@@ -20,10 +20,10 @@ title: http://www.barclays.mobi/MP1242629366138
 
 ### Response data
 
-*  HTML Response Bytes: 15732
+*  HTML Response Bytes: 15733
 *  Text Response Bytes: 42785
-*  CSS Response Bytes: 20095
-*  Image Response Bytes: 124363
-*  JS Response Bytes: 243040
+*  CSS Response Bytes: 20099
+*  Image Response Bytes: 124378
+*  JS Response Bytes: 260978
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 3643
+*  Other Response Bytes: 3644
