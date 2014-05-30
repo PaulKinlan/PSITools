@@ -38,7 +38,7 @@ for site in sorted_sites:
 
   sys.stdout.write("[")
   sys.stdout.write(title.encode('utf-8').replace("|","&#124;"))
-  sys.stdout.write("](%s)|[%s](%s%s)|\n" % (id, score, pagespeed_url, id))
+  sys.stdout.write("](%s)|[%s](%s%s) - [Check now](/results/sites/%s)|\n" % (id, score, pagespeed_url, id, urllib.quote_plus(id.replace("/","-").replace(":","-"))))
 
 for site in sorted_sites:
 

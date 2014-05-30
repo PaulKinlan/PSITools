@@ -16,14 +16,14 @@ title: http://www.wikipedia.org/
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 32
-*  Total Request Bytes: 3168
+*  Total Request Bytes: 3118
 
 ### Response data
 
-*  HTML Response Bytes: 42947
+*  HTML Response Bytes: 42914
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 6295
-*  Image Response Bytes: 209719
-*  JS Response Bytes: 7395
+*  Image Response Bytes: 209722
+*  JS Response Bytes: 7387
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 692
+*  Other Response Bytes: 668

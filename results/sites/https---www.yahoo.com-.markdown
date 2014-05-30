@@ -20,10 +20,10 @@ title: https://www.yahoo.com/
 
 ### Response data
 
-*  HTML Response Bytes: 30711
-*  Text Response Bytes: 1091
+*  HTML Response Bytes: 30709
+*  Text Response Bytes: 1093
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 86094
-*  JS Response Bytes: 36625
+*  Image Response Bytes: 86092
+*  JS Response Bytes: 36628
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1708
