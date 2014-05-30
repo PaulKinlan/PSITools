@@ -4,6 +4,7 @@ title: http://handmadedemo.wordpress.com/
 ---
 ## [Handmade | A Blogging Theme for Foodies and Crafters](http://handmadedemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://handmadedemo.wordpress.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://handmadedemo.wordpress.com/)
 
 

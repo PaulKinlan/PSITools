@@ -4,6 +4,7 @@ title: http://floraandfaunademo.wordpress.com/
 ---
 ## [Flora & Fauna | A flower-powered WordPress.com theme](http://floraandfaunademo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://floraandfaunademo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://floraandfaunademo.wordpress.com/)
 
 

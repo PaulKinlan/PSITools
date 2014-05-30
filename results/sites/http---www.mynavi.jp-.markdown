@@ -4,6 +4,7 @@ title: http://www.mynavi.jp/
 ---
 ## [「マイナビ」のサイトへようこそ](http://www.mynavi.jp/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.mynavi.jp/) **
 **Score**: [80](https://developers.google.com/speed/pagespeed/insights/?url=http://www.mynavi.jp/)
 
 

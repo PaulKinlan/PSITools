@@ -4,6 +4,7 @@ title: http://twentythirteendemo.wordpress.com/
 ---
 ## [Twenty Thirteen | The Future Is Fantastic!](http://twentythirteendemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://twentythirteendemo.wordpress.com/) **
 **Score**: [65](https://developers.google.com/speed/pagespeed/insights/?url=http://twentythirteendemo.wordpress.com/)
 
 

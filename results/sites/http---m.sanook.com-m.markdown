@@ -4,6 +4,7 @@ title: http://m.sanook.com/m
 ---
 ## [ดูดวง ข่าว กีฬา น้ำมัน สลากกินแบ่งรัฐบาล Sanook! Mobile](http://m.sanook.com/m)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.sanook.com/m) **
 **Score**: [58](https://developers.google.com/speed/pagespeed/insights/?url=http://m.sanook.com/m)
 
 

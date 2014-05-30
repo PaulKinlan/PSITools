@@ -4,6 +4,7 @@ title: https://developers.google.com/web/fundamentals/documentation/introduction
 ---
 ## [Images — Google Web Fundamentals](https://developers.google.com/web/fundamentals/documentation/introduction-to-media/images/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://developers.google.com/web/fundamentals/documentation/introduction-to-media/images/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=https://developers.google.com/web/fundamentals/documentation/introduction-to-media/images/)
 
 

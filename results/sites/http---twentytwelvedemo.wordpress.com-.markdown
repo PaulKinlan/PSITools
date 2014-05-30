@@ -4,6 +4,7 @@ title: http://twentytwelvedemo.wordpress.com/
 ---
 ## [Twenty Twelve | Your favorite WordPress theme, updated and polished for 2012.](http://twentytwelvedemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://twentytwelvedemo.wordpress.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://twentytwelvedemo.wordpress.com/)
 
 

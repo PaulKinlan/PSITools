@@ -4,6 +4,7 @@ title: http://hogash.com/themeforest/?theme=kallyas_wp
 ---
 ## [HOGASH | Theme: KALLYAS Wordpress Theme](http://hogash.com/themeforest/?theme=kallyas_wp)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://hogash.com/themeforest/?theme=kallyas_wp) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://hogash.com/themeforest/?theme=kallyas_wp)
 
 

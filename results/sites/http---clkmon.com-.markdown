@@ -4,6 +4,7 @@ title: http://clkmon.com/
 ---
 ## [Contact Us](http://clkmon.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://clkmon.com/) **
 **Score**: [80](https://developers.google.com/speed/pagespeed/insights/?url=http://clkmon.com/)
 
 

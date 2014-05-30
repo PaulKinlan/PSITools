@@ -4,6 +4,7 @@ title: http://m.bild.de/,variante=S
 ---
 ## [Home - Bild.de](http://m.bild.de/,variante=S)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.bild.de/,variante=S) **
 **Score**: [56](https://developers.google.com/speed/pagespeed/insights/?url=http://m.bild.de/,variante=S)
 
 

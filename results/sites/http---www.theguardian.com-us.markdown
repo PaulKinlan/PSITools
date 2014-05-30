@@ -4,6 +4,7 @@ title: http://www.theguardian.com/us
 ---
 ## [Latest news, world news, sport and comment from the Guardian | theguardian.com | The Guardian](http://www.theguardian.com/us)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.theguardian.com/us) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://www.theguardian.com/us)
 
 

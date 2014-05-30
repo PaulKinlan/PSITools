@@ -4,6 +4,7 @@ title: http://www.html5rocks.com/en/tutorials/casestudies/buildwithchrome/
 ---
 ## [Build with Chrome: Bringing LEGO® bricks to the Multi-Device Web - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/casestudies/buildwithchrome/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.html5rocks.com/en/tutorials/casestudies/buildwithchrome/) **
 **Score**: [79](https://developers.google.com/speed/pagespeed/insights/?url=http://www.html5rocks.com/en/tutorials/casestudies/buildwithchrome/)
 
 

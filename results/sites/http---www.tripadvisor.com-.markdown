@@ -4,6 +4,7 @@ title: http://www.tripadvisor.com/
 ---
 ## [Reviews of Hotels, Flights and Vacation Rentals - TripAdvisor](http://www.tripadvisor.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.tripadvisor.com/) **
 **Score**: [65](https://developers.google.com/speed/pagespeed/insights/?url=http://www.tripadvisor.com/)
 
 

@@ -4,6 +4,7 @@ title: http://www.cbsnews.com/
 ---
 ## [CBS News - Breaking News, U.S., World, Business, Entertainment & Video](http://www.cbsnews.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.cbsnews.com/) **
 **Score**: [62](https://developers.google.com/speed/pagespeed/insights/?url=http://www.cbsnews.com/)
 
 

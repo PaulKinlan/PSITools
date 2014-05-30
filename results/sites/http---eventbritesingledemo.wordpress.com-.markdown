@@ -4,6 +4,7 @@ title: http://eventbritesingledemo.wordpress.com/
 ---
 ## [Eventbrite Single](http://eventbritesingledemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://eventbritesingledemo.wordpress.com/) **
 **Score**: [59](https://developers.google.com/speed/pagespeed/insights/?url=http://eventbritesingledemo.wordpress.com/)
 
 

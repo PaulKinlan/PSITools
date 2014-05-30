@@ -4,6 +4,7 @@ title: https://mobile.bet365.com/languages.aspx
 ---
 ## [bet365](https://mobile.bet365.com/languages.aspx)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://mobile.bet365.com/languages.aspx) **
 **Score**: [59](https://developers.google.com/speed/pagespeed/insights/?url=https://mobile.bet365.com/languages.aspx)
 
 

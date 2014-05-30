@@ -4,6 +4,7 @@ title: http://chunkdemo.wordpress.com/
 ---
 ## [Chunk | A mighty & chunky WordPress.com theme](http://chunkdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://chunkdemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://chunkdemo.wordpress.com/)
 
 

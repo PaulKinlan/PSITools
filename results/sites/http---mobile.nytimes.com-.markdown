@@ -4,6 +4,7 @@ title: http://mobile.nytimes.com/
 ---
 ## [The New York Times](http://mobile.nytimes.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.nytimes.com/) **
 **Score**: [66](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.nytimes.com/)
 
 

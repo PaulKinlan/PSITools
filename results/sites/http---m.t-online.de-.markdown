@@ -4,6 +4,7 @@ title: http://m.t-online.de/
 ---
 ## [T-Online.de Mobil](http://m.t-online.de/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.t-online.de/) **
 **Score**: [58](https://developers.google.com/speed/pagespeed/insights/?url=http://m.t-online.de/)
 
 

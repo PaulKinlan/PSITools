@@ -4,6 +4,7 @@ title: http://canadaalltax.com/
 ---
 ## [Special](http://canadaalltax.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://canadaalltax.com/) **
 **Score**: [100](https://developers.google.com/speed/pagespeed/insights/?url=http://canadaalltax.com/)
 
 

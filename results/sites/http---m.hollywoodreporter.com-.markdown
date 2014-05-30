@@ -4,6 +4,7 @@ title: http://m.hollywoodreporter.com/
 ---
 ## [The Hollywood Reporter](http://m.hollywoodreporter.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.hollywoodreporter.com/) **
 **Score**: [55](https://developers.google.com/speed/pagespeed/insights/?url=http://m.hollywoodreporter.com/)
 
 

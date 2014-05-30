@@ -4,6 +4,7 @@ title: http://www.thetimes.co.uk/tto/news/
 ---
 ## [The Times | UK News, World News and Opinion](http://www.thetimes.co.uk/tto/news/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.thetimes.co.uk/tto/news/) **
 **Score**: [63](https://developers.google.com/speed/pagespeed/insights/?url=http://www.thetimes.co.uk/tto/news/)
 
 

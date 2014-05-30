@@ -4,6 +4,7 @@ title: https://m.lenovo.com/us/en/
 ---
 ## [Lenovo](https://m.lenovo.com/us/en/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://m.lenovo.com/us/en/) **
 **Score**: [56](https://developers.google.com/speed/pagespeed/insights/?url=https://m.lenovo.com/us/en/)
 
 

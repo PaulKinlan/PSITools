@@ -4,6 +4,7 @@ title: http://brandnewdaydemo.wordpress.com/
 ---
 ## [Brand New Day | A fun, illustrated WordPress.com theme](http://brandnewdaydemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://brandnewdaydemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://brandnewdaydemo.wordpress.com/)
 
 

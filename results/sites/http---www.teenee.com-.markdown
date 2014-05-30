@@ -4,6 +4,7 @@ title: http://www.teenee.com/
 ---
 ## [TeeNee.com : ทันทุกเรื่องhit อัพเดททุกเรื่องhot](http://www.teenee.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.teenee.com/) **
 **Score**: [53](https://developers.google.com/speed/pagespeed/insights/?url=http://www.teenee.com/)
 
 

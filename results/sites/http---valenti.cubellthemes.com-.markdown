@@ -4,6 +4,7 @@ title: http://valenti.cubellthemes.com/
 ---
 ## [Valenti - Premium Wordpress Magazine Review Theme](http://valenti.cubellthemes.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://valenti.cubellthemes.com/) **
 **Score**: [75](https://developers.google.com/speed/pagespeed/insights/?url=http://valenti.cubellthemes.com/)
 
 

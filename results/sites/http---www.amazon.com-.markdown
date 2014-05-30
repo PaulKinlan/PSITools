@@ -4,6 +4,7 @@ title: http://www.amazon.com/
 ---
 ## [Amazon.com](http://www.amazon.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.amazon.com/) **
 **Score**: [100](https://developers.google.com/speed/pagespeed/insights/?url=http://www.amazon.com/)
 
 

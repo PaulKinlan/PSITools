@@ -4,6 +4,7 @@ title: http://www.1und1.de/
 ---
 ## [1&1 Internet AG - DSL, Hosting, Mobile Internet, Domain, Server](http://www.1und1.de/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.1und1.de/) **
 **Score**: [74](https://developers.google.com/speed/pagespeed/insights/?url=http://www.1und1.de/)
 
 

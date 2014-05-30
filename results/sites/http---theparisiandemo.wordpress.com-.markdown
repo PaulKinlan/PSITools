@@ -4,6 +4,7 @@ title: http://theparisiandemo.wordpress.com/
 ---
 ## [The Parisian | A bold WordPress.com theme](http://theparisiandemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://theparisiandemo.wordpress.com/) **
 **Score**: [62](https://developers.google.com/speed/pagespeed/insights/?url=http://theparisiandemo.wordpress.com/)
 
 

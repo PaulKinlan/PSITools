@@ -4,6 +4,7 @@ title: http://demo-rt.com/?theme=rttheme18
 ---
 ## [RT-THEME 18](http://demo-rt.com/?theme=rttheme18)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://demo-rt.com/?theme=rttheme18) **
 **Score**: [78](https://developers.google.com/speed/pagespeed/insights/?url=http://demo-rt.com/?theme=rttheme18)
 
 

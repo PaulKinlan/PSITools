@@ -4,6 +4,7 @@ title: http://syntaxdemo.wordpress.com/
 ---
 ## [Syntax | Just write at WordPress.com](http://syntaxdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://syntaxdemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://syntaxdemo.wordpress.com/)
 
 

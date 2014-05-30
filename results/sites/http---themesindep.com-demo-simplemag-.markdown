@@ -4,6 +4,7 @@ title: http://themesindep.com/demo/simplemag/
 ---
 ## [ThemesIndep | Theme: SimpleMag](http://themesindep.com/demo/simplemag/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://themesindep.com/demo/simplemag/) **
 **Score**: [73](https://developers.google.com/speed/pagespeed/insights/?url=http://themesindep.com/demo/simplemag/)
 
 

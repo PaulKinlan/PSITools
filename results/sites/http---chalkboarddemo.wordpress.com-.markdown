@@ -4,6 +4,7 @@ title: http://chalkboarddemo.wordpress.com/
 ---
 ## [Chalkboard | Mrs. Smith's 3rd Grade Class](http://chalkboarddemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://chalkboarddemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://chalkboarddemo.wordpress.com/)
 
 

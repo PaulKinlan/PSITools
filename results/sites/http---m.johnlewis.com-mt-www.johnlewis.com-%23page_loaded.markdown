@@ -4,6 +4,7 @@ title: http://m.johnlewis.com/mt/www.johnlewis.com/#page_loaded
 ---
 ## [John Lewis | iPads, TVs, Furniture, Fashion & More](http://m.johnlewis.com/mt/www.johnlewis.com/#page_loaded)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.johnlewis.com/mt/www.johnlewis.com/#page_loaded) **
 **Score**: [59](https://developers.google.com/speed/pagespeed/insights/?url=http://m.johnlewis.com/mt/www.johnlewis.com/#page_loaded)
 
 

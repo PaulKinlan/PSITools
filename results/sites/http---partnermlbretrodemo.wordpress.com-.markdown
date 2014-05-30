@@ -4,6 +4,7 @@ title: http://partnermlbretrodemo.wordpress.com/
 ---
 ## [MLBlogs.com "Retro" | Just another WordPress.com site](http://partnermlbretrodemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://partnermlbretrodemo.wordpress.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://partnermlbretrodemo.wordpress.com/)
 
 

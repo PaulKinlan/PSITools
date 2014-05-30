@@ -4,6 +4,7 @@ title: http://circademo.wordpress.com/
 ---
 ## [Circa | A well-rounded WordPress.com theme](http://circademo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://circademo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://circademo.wordpress.com/)
 
 

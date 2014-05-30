@@ -4,6 +4,7 @@ title: http://www.mirror.co.uk/
 ---
 ## [Mirror Online: The intelligent tabloid. #madeuthink](http://www.mirror.co.uk/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.mirror.co.uk/) **
 **Score**: [27](https://developers.google.com/speed/pagespeed/insights/?url=http://www.mirror.co.uk/)
 
 

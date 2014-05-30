@@ -4,6 +4,7 @@ title: http://www.cnn.com/
 ---
 ## [CNN](http://www.cnn.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.cnn.com/) **
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://www.cnn.com/)
 
 

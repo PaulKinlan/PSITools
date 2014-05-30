@@ -4,6 +4,7 @@ title: http://ideationandintentdemo.wordpress.com/
 ---
 ## [Ideation & Intent | This WordPress.com theme is the cat’s pajamas](http://ideationandintentdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://ideationandintentdemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://ideationandintentdemo.wordpress.com/)
 
 

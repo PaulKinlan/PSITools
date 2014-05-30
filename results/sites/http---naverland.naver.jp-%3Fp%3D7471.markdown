@@ -4,6 +4,7 @@ title: http://naverland.naver.jp/?p=7471
 ---
 ## [NAVER、国内の検索・辞書関連サービス終了のお知らせ | NAVER公式ブログ - NAVERLAND](http://naverland.naver.jp/?p=7471)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://naverland.naver.jp/?p=7471) **
 **Score**: [59](https://developers.google.com/speed/pagespeed/insights/?url=http://naverland.naver.jp/?p=7471)
 
 

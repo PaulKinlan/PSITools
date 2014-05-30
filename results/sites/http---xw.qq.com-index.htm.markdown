@@ -4,6 +4,7 @@ title: http://xw.qq.com/index.htm
 ---
 ## [腾讯网](http://xw.qq.com/index.htm)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://xw.qq.com/index.htm) **
 **Score**: [61](https://developers.google.com/speed/pagespeed/insights/?url=http://xw.qq.com/index.htm)
 
 

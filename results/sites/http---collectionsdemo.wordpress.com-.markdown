@@ -4,6 +4,7 @@ title: http://collectionsdemo.wordpress.com/
 ---
 ## [Collections](http://collectionsdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://collectionsdemo.wordpress.com/) **
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://collectionsdemo.wordpress.com/)
 
 

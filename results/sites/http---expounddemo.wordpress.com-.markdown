@@ -4,6 +4,7 @@ title: http://expounddemo.wordpress.com/
 ---
 ## [Expound | A topnotch magazine theme](http://expounddemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://expounddemo.wordpress.com/) **
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://expounddemo.wordpress.com/)
 
 

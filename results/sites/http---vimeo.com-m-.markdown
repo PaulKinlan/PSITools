@@ -4,6 +4,7 @@ title: http://vimeo.com/m/
 ---
 ## [Vimeo on Vimeo](http://vimeo.com/m/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://vimeo.com/m/) **
 **Score**: [74](https://developers.google.com/speed/pagespeed/insights/?url=http://vimeo.com/m/)
 
 

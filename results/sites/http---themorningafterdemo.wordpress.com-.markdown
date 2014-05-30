@@ -4,6 +4,7 @@ title: http://themorningafterdemo.wordpress.com/
 ---
 ## [The Morning After | A classic magazine theme](http://themorningafterdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://themorningafterdemo.wordpress.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://themorningafterdemo.wordpress.com/)
 
 

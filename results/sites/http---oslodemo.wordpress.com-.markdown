@@ -4,6 +4,7 @@ title: http://oslodemo.wordpress.com/
 ---
 ## [Oslo | A fine WordPress.com site](http://oslodemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://oslodemo.wordpress.com/) **
 **Score**: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://oslodemo.wordpress.com/)
 
 

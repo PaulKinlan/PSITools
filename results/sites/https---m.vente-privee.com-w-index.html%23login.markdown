@@ -4,6 +4,7 @@ title: https://m.vente-privee.com/w/index.html#login
 ---
 ## [vente-privee.com](https://m.vente-privee.com/w/index.html#login)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://m.vente-privee.com/w/index.html#login) **
 **Score**: [54](https://developers.google.com/speed/pagespeed/insights/?url=https://m.vente-privee.com/w/index.html#login)
 
 

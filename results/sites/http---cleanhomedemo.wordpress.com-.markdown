@@ -4,6 +4,7 @@ title: http://cleanhomedemo.wordpress.com/
 ---
 ## [Clean Home | A WordPress.com theme with clean-looking, minimal design](http://cleanhomedemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://cleanhomedemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://cleanhomedemo.wordpress.com/)
 
 

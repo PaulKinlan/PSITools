@@ -4,6 +4,7 @@ title: http://lensdemo.wordpress.com/
 ---
 ## [Life Through a Lens | Beautiful Photography](http://lensdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://lensdemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://lensdemo.wordpress.com/)
 
 

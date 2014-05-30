@@ -4,6 +4,7 @@ title: http://chalkdemo.wordpress.com/
 ---
 ## [Chalk](http://chalkdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://chalkdemo.wordpress.com/) **
 **Score**: [62](https://developers.google.com/speed/pagespeed/insights/?url=http://chalkdemo.wordpress.com/)
 
 

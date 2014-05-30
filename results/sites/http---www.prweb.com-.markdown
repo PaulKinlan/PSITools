@@ -4,6 +4,7 @@ title: http://www.prweb.com/
 ---
 ## [Press Release Services - News Release Distribution Services - PRWeb](http://www.prweb.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.prweb.com/) **
 **Score**: [52](https://developers.google.com/speed/pagespeed/insights/?url=http://www.prweb.com/)
 
 

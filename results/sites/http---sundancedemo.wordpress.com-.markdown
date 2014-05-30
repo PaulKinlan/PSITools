@@ -4,6 +4,7 @@ title: http://sundancedemo.wordpress.com/
 ---
 ## [Sundance | An elegant video theme for WordPress.com](http://sundancedemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://sundancedemo.wordpress.com/) **
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://sundancedemo.wordpress.com/)
 
 

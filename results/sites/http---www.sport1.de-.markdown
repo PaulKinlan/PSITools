@@ -4,6 +4,7 @@ title: http://www.sport1.de/
 ---
 ## [SPORT1 | Fußball | WM 2014 | #wirfuer4 | Handball | Formel 1 | US-Sport | Basketball | MotoGP](http://www.sport1.de/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.sport1.de/) **
 **Score**: [31](https://developers.google.com/speed/pagespeed/insights/?url=http://www.sport1.de/)
 
 

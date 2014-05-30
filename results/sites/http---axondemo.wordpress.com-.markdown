@@ -4,6 +4,7 @@ title: http://axondemo.wordpress.com/
 ---
 ## [Axon | Clean & Responsive Theme](http://axondemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://axondemo.wordpress.com/) **
 **Score**: [54](https://developers.google.com/speed/pagespeed/insights/?url=http://axondemo.wordpress.com/)
 
 

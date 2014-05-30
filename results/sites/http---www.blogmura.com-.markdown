@@ -4,6 +4,7 @@ title: http://www.blogmura.com/
 ---
 ## [にほんブログ村 - 人気ブログランキングとブログ検索](http://www.blogmura.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.blogmura.com/) **
 **Score**: [49](https://developers.google.com/speed/pagespeed/insights/?url=http://www.blogmura.com/)
 
 

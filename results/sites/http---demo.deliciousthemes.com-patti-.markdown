@@ -4,6 +4,7 @@ title: http://demo.deliciousthemes.com/patti/
 ---
 ## [Patti](http://demo.deliciousthemes.com/patti/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.deliciousthemes.com/patti/) **
 **Score**: [35](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.deliciousthemes.com/patti/)
 
 

@@ -4,6 +4,7 @@ title: http://streamcloud.eu/
 ---
 ## [404 Not Found](http://streamcloud.eu/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://streamcloud.eu/) **
 **Score**: [100](https://developers.google.com/speed/pagespeed/insights/?url=http://streamcloud.eu/)
 
 

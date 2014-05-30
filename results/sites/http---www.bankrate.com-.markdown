@@ -4,6 +4,7 @@ title: http://www.bankrate.com/
 ---
 ## [Mortgage Rates Credit Cards Refinance Home CD Rates by Bankrate.com](http://www.bankrate.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.bankrate.com/) **
 **Score**: [51](https://developers.google.com/speed/pagespeed/insights/?url=http://www.bankrate.com/)
 
 

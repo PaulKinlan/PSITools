@@ -4,6 +4,7 @@ title: http://abcnews.go.com/
 ---
 ## [ABC News: Breaking News & Latest News - ABC News](http://abcnews.go.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://abcnews.go.com/) **
 **Score**: [53](https://developers.google.com/speed/pagespeed/insights/?url=http://abcnews.go.com/)
 
 

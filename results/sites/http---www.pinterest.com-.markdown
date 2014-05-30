@@ -4,6 +4,7 @@ title: http://www.pinterest.com/
 ---
 ## [Pinterest](http://www.pinterest.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.pinterest.com/) **
 **Score**: [65](https://developers.google.com/speed/pagespeed/insights/?url=http://www.pinterest.com/)
 
 

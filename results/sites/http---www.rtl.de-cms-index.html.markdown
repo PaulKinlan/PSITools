@@ -4,6 +4,7 @@ title: http://www.rtl.de/cms/index.html
 ---
 ## [TV Programm heute | aktuelle Informationen zum RTL Fernsehprogramm - RTL.de](http://www.rtl.de/cms/index.html)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.rtl.de/cms/index.html) **
 **Score**: [62](https://developers.google.com/speed/pagespeed/insights/?url=http://www.rtl.de/cms/index.html)
 
 

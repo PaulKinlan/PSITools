@@ -4,6 +4,7 @@ title: http://aridemo.wordpress.com/
 ---
 ## [Ari | A beautiful WordPress.com theme](http://aridemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://aridemo.wordpress.com/) **
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://aridemo.wordpress.com/)
 
 

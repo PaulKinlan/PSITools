@@ -4,6 +4,7 @@ title: http://www.themes.red-sun-design.com/?theme=lemonchili
 ---
 ## [Red Sun Themes](http://www.themes.red-sun-design.com/?theme=lemonchili)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.themes.red-sun-design.com/?theme=lemonchili) **
 **Score**: [48](https://developers.google.com/speed/pagespeed/insights/?url=http://www.themes.red-sun-design.com/?theme=lemonchili)
 
 

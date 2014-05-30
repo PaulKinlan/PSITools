@@ -4,6 +4,7 @@ title: http://m.theweek.com/
 ---
 ## [The Week Magazine: Political News and Cartoons, Current Events and Entertainment Online](http://m.theweek.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.theweek.com/) **
 **Score**: [34](https://developers.google.com/speed/pagespeed/insights/?url=http://m.theweek.com/)
 
 

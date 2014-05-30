@@ -4,6 +4,7 @@ title: http://linendemo.wordpress.com/
 ---
 ## [Linen](http://linendemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://linendemo.wordpress.com/) **
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://linendemo.wordpress.com/)
 
 

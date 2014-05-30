@@ -4,6 +4,7 @@ title: http://t.co/
 ---
 ## [t.co / Twitter](http://t.co/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://t.co/) **
 **Score**: [100](https://developers.google.com/speed/pagespeed/insights/?url=http://t.co/)
 
 

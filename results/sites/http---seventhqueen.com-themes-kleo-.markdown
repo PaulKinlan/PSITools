@@ -4,6 +4,7 @@ title: http://seventhqueen.com/themes/kleo/
 ---
 ## [Premium WordPress & BuddyPress Theme | KLEO Template](http://seventhqueen.com/themes/kleo/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://seventhqueen.com/themes/kleo/) **
 **Score**: [77](https://developers.google.com/speed/pagespeed/insights/?url=http://seventhqueen.com/themes/kleo/)
 
 

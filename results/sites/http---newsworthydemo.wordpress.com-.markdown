@@ -4,6 +4,7 @@ title: http://newsworthydemo.wordpress.com/
 ---
 ## [Newsworthy](http://newsworthydemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://newsworthydemo.wordpress.com/) **
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://newsworthydemo.wordpress.com/)
 
 

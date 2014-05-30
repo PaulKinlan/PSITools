@@ -4,6 +4,7 @@ title: http://www.reddit.com/
 ---
 ## [reddit: the front page of the internet](http://www.reddit.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.reddit.com/) **
 **Score**: [75](https://developers.google.com/speed/pagespeed/insights/?url=http://www.reddit.com/)
 
 

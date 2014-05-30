@@ -4,6 +4,7 @@ title: http://foreverdemo.wordpress.com/
 ---
 ## [Forever | A gorgeous wedding theme for WordPress.com](http://foreverdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://foreverdemo.wordpress.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://foreverdemo.wordpress.com/)
 
 

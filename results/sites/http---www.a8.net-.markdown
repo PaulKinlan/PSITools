@@ -4,6 +4,7 @@ title: http://www.a8.net/
 ---
 ## [アフィリエイトサービスなら日本最大級のA8.net（PC・スマートフォン対応）](http://www.a8.net/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.a8.net/) **
 **Score**: [79](https://developers.google.com/speed/pagespeed/insights/?url=http://www.a8.net/)
 
 

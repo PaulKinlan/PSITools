@@ -4,6 +4,7 @@ title: http://somethingfishydemo.wordpress.com/
 ---
 ## [Something Fishy | An animated undersea theme with a fun, whimsical design](http://somethingfishydemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://somethingfishydemo.wordpress.com/) **
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://somethingfishydemo.wordpress.com/)
 
 

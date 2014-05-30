@@ -4,6 +4,7 @@ title: http://m.huffpost.com/us/
 ---
 ## [News: Pictures, Videos, Breaking News](http://m.huffpost.com/us/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.huffpost.com/us/) **
 **Score**: [56](https://developers.google.com/speed/pagespeed/insights/?url=http://m.huffpost.com/us/)
 
 

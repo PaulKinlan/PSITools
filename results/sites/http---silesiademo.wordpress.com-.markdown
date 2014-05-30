@@ -4,6 +4,7 @@ title: http://silesiademo.wordpress.com/
 ---
 ## [Silesia | A unique blog-style WordPress.com theme](http://silesiademo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://silesiademo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://silesiademo.wordpress.com/)
 
 

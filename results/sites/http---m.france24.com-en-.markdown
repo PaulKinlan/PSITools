@@ -4,6 +4,7 @@ title: http://m.france24.com/en/
 ---
 ## [International breaking news and headlines - France 24](http://m.france24.com/en/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.france24.com/en/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://m.france24.com/en/)
 
 

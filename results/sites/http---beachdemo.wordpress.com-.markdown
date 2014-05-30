@@ -4,6 +4,7 @@ title: http://beachdemo.wordpress.com/
 ---
 ## [The Beach | A WordPress.com theme with the warm feel of Thailand](http://beachdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://beachdemo.wordpress.com/) **
 **Score**: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://beachdemo.wordpress.com/)
 
 

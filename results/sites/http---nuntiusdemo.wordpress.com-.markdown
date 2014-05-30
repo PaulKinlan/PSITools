@@ -4,6 +4,7 @@ title: http://nuntiusdemo.wordpress.com/
 ---
 ## [Nuntius | A bright and clean WordPress.com magazine theme](http://nuntiusdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://nuntiusdemo.wordpress.com/) **
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://nuntiusdemo.wordpress.com/)
 
 

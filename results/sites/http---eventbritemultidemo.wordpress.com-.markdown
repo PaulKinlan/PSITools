@@ -4,6 +4,7 @@ title: http://eventbritemultidemo.wordpress.com/
 ---
 ## [Eventbrite Multi](http://eventbritemultidemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://eventbritemultidemo.wordpress.com/) **
 **Score**: [59](https://developers.google.com/speed/pagespeed/insights/?url=http://eventbritemultidemo.wordpress.com/)
 
 

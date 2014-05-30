@@ -4,6 +4,7 @@ title: http://www.shinobi.jp/
 ---
 ## [shinobi.jp - アクセス解析, ブログ, カウンター とかを提供している忍者ツールズの別館的サイト](http://www.shinobi.jp/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.shinobi.jp/) **
 **Score**: [73](https://developers.google.com/speed/pagespeed/insights/?url=http://www.shinobi.jp/)
 
 

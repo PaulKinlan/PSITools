@@ -4,6 +4,7 @@ title: http://m.siamsport.co.th/home.asp
 ---
 ## [Siamsport](http://m.siamsport.co.th/home.asp)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.siamsport.co.th/home.asp) **
 **Score**: [43](https://developers.google.com/speed/pagespeed/insights/?url=http://m.siamsport.co.th/home.asp)
 
 

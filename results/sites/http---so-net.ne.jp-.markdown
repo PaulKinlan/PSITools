@@ -4,6 +4,7 @@ title: http://so-net.ne.jp/
 ---
 ## [So-net](http://so-net.ne.jp/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://so-net.ne.jp/) **
 **Score**: [46](https://developers.google.com/speed/pagespeed/insights/?url=http://so-net.ne.jp/)
 
 

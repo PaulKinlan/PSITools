@@ -4,6 +4,7 @@ title: http://thewriterdemo.wordpress.com/
 ---
 ## [The Writer](http://thewriterdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://thewriterdemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://thewriterdemo.wordpress.com/)
 
 

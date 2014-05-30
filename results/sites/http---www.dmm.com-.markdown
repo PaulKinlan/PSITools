@@ -4,6 +4,7 @@ title: http://www.dmm.com/
 ---
 ## [DMM.com DVDレンタル、通販、動画配信、FX等の総合サイト](http://www.dmm.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.dmm.com/) **
 **Score**: [80](https://developers.google.com/speed/pagespeed/insights/?url=http://www.dmm.com/)
 
 

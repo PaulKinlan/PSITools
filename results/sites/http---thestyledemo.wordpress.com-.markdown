@@ -4,6 +4,7 @@ title: http://thestyledemo.wordpress.com/
 ---
 ## [TheStyle | A grid-based blog theme featuring a bold and beautiful style.](http://thestyledemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://thestyledemo.wordpress.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://thestyledemo.wordpress.com/)
 
 

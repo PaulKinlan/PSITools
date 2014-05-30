@@ -4,6 +4,7 @@ title: http://blog.jp/lite/
 ---
 ## [ブログにピッタリのドメイン「blog.jp」を無料で開放 - ライブドアブログ](http://blog.jp/lite/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://blog.jp/lite/) **
 **Score**: [66](https://developers.google.com/speed/pagespeed/insights/?url=http://blog.jp/lite/)
 
 

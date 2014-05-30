@@ -4,6 +4,7 @@ title: http://www.denverpost.com/
 ---
 ## [Mobile Web - Home](http://www.denverpost.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.denverpost.com/) **
 **Score**: [57](https://developers.google.com/speed/pagespeed/insights/?url=http://www.denverpost.com/)
 
 

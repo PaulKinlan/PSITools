@@ -4,6 +4,7 @@ title: http://money.cnn.com/
 ---
 ## [CNNMoney - Business, financial and personal finance news](http://money.cnn.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://money.cnn.com/) **
 **Score**: [51](https://developers.google.com/speed/pagespeed/insights/?url=http://money.cnn.com/)
 
 

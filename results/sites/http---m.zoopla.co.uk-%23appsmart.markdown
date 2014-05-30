@@ -4,6 +4,7 @@ title: http://m.zoopla.co.uk/#appsmart
 ---
 ## [Zoopla](http://m.zoopla.co.uk/#appsmart)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.zoopla.co.uk/#appsmart) **
 **Score**: [59](https://developers.google.com/speed/pagespeed/insights/?url=http://m.zoopla.co.uk/#appsmart)
 
 

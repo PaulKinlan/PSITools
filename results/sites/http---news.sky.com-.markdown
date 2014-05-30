@@ -4,6 +4,7 @@ title: http://news.sky.com/
 ---
 ## [Sky News - First For Breaking News From The UK And Around The World](http://news.sky.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://news.sky.com/) **
 **Score**: [49](https://developers.google.com/speed/pagespeed/insights/?url=http://news.sky.com/)
 
 

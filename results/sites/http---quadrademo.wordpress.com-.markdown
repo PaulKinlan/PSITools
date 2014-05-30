@@ -4,6 +4,7 @@ title: http://quadrademo.wordpress.com/
 ---
 ## [Quadra | It's hip to be square at WordPress.com](http://quadrademo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://quadrademo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://quadrademo.wordpress.com/)
 
 

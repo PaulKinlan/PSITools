@@ -4,6 +4,7 @@ title: http://mystiquedemo.wordpress.com/
 ---
 ## [Mystique | Just another great WordPress.com theme](http://mystiquedemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mystiquedemo.wordpress.com/) **
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://mystiquedemo.wordpress.com/)
 
 

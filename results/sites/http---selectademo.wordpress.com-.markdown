@@ -4,6 +4,7 @@ title: http://selectademo.wordpress.com/
 ---
 ## [Selecta | A theme for showcasing videos or images](http://selectademo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://selectademo.wordpress.com/) **
 **Score**: [66](https://developers.google.com/speed/pagespeed/insights/?url=http://selectademo.wordpress.com/)
 
 

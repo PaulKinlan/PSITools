@@ -4,6 +4,7 @@ title: http://www.nbcnews.com/
 ---
 ## [NBC News - Breaking News & Top Stories - Latest World, US & Local News](http://www.nbcnews.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nbcnews.com/) **
 **Score**: [44](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nbcnews.com/)
 
 

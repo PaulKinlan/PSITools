@@ -4,6 +4,7 @@ title: http://zorendemo.wordpress.com/
 ---
 ## [Zoren | A Flexible and Versatile Theme for Personal Bloggers](http://zorendemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://zorendemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://zorendemo.wordpress.com/)
 
 

@@ -4,6 +4,7 @@ title: http://hexademo.wordpress.com/
 ---
 ## [Hexa | Your content with a new angle at WordPress.com](http://hexademo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://hexademo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://hexademo.wordpress.com/)
 
 

@@ -4,6 +4,7 @@ title: http://m.huffpost.com/fr/
 ---
 ## [Infos de dernière minute et opinions sur Le Huffington Post](http://m.huffpost.com/fr/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.huffpost.com/fr/) **
 **Score**: [52](https://developers.google.com/speed/pagespeed/insights/?url=http://m.huffpost.com/fr/)
 
 

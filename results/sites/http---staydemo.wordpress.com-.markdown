@@ -4,6 +4,7 @@ title: http://staydemo.wordpress.com/
 ---
 ## [Stay | The perfect theme for your hotel, inn, or bed & breakfast](http://staydemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://staydemo.wordpress.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://staydemo.wordpress.com/)
 
 

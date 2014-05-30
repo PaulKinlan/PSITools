@@ -4,6 +4,7 @@ title: http://demo.codestag.com/?theme=ink
 ---
 ## [Codestag Demo | Ink](http://demo.codestag.com/?theme=ink)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.codestag.com/?theme=ink) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.codestag.com/?theme=ink)
 
 

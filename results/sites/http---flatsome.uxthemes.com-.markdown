@@ -4,6 +4,7 @@ title: http://flatsome.uxthemes.com/
 ---
 ## [Flatsome | Just another UX Themes site](http://flatsome.uxthemes.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://flatsome.uxthemes.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://flatsome.uxthemes.com/)
 
 

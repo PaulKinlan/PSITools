@@ -4,6 +4,7 @@ title: http://asimplertimedemo.wordpress.com/
 ---
 ## [A Simpler Time | A beautiful, bold, and memorable theme](http://asimplertimedemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://asimplertimedemo.wordpress.com/) **
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://asimplertimedemo.wordpress.com/)
 
 

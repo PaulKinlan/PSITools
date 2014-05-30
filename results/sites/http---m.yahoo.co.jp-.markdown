@@ -4,6 +4,7 @@ title: http://m.yahoo.co.jp/
 ---
 ## [Yahoo! JAPAN](http://m.yahoo.co.jp/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.yahoo.co.jp/) **
 **Score**: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://m.yahoo.co.jp/)
 
 

@@ -4,6 +4,7 @@ title: http://www.arbeitsagentur.de/
 ---
 ## [www.arbeitsagentur.de](http://www.arbeitsagentur.de/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.arbeitsagentur.de/) **
 **Score**: [52](https://developers.google.com/speed/pagespeed/insights/?url=http://www.arbeitsagentur.de/)
 
 

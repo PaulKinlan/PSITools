@@ -4,6 +4,7 @@ title: http://blogsimpledemo.wordpress.com/
 ---
 ## [Blog Simple | A simple, blog-centric theme](http://blogsimpledemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://blogsimpledemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://blogsimpledemo.wordpress.com/)
 
 

@@ -4,6 +4,7 @@ title: http://web.de/
 ---
 ## [WEB.DE - E-Mail-Adresse kostenlos, FreeMail, Nachrichten & Services - WEB.DE](http://web.de/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://web.de/) **
 **Score**: [63](https://developers.google.com/speed/pagespeed/insights/?url=http://web.de/)
 
 

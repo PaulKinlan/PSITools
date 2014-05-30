@@ -4,6 +4,7 @@ title: http://m.stltoday.com/?mobile_touch=true
 ---
 ## [St. Louis Sports, News, Jobs, Classifieds, Entertainment & Weather](http://m.stltoday.com/?mobile_touch=true)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.stltoday.com/?mobile_touch=true) **
 **Score**: [41](https://developers.google.com/speed/pagespeed/insights/?url=http://m.stltoday.com/?mobile_touch=true)
 
 

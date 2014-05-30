@@ -4,6 +4,7 @@ title: http://m.kapook.com/
 ---
 ## [กระปุกดอทคอม รวม เกมส์ เกม ดูดวง ฟังเพลง เพลง หาเพื่อน เกมส์ทำอาหาร กลอน ทำนายฝัน ดารา ฟุตบอล มากมาย](http://m.kapook.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.kapook.com/) **
 **Score**: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://m.kapook.com/)
 
 

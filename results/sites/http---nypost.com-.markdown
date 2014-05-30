@@ -4,6 +4,7 @@ title: http://nypost.com/
 ---
 ## [New York Post](http://nypost.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://nypost.com/) **
 **Score**: [60](https://developers.google.com/speed/pagespeed/insights/?url=http://nypost.com/)
 
 

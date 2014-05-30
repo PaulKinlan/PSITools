@@ -4,6 +4,7 @@ title: http://www.meteofrance.com/mf3-rpc-portlet/html/redirection.html
 ---
 ## [Météo France](http://www.meteofrance.com/mf3-rpc-portlet/html/redirection.html)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.meteofrance.com/mf3-rpc-portlet/html/redirection.html) **
 **Score**: [74](https://developers.google.com/speed/pagespeed/insights/?url=http://www.meteofrance.com/mf3-rpc-portlet/html/redirection.html)
 
 

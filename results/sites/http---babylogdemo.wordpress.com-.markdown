@@ -4,6 +4,7 @@ title: http://babylogdemo.wordpress.com/
 ---
 ## [Babylog | A sweet, illustrated theme for baby blogs](http://babylogdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://babylogdemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://babylogdemo.wordpress.com/)
 
 

@@ -4,6 +4,7 @@ title: http://www.adweek.com/
 ---
 ## [Adweek – Breaking News in Advertising, Media and Technology](http://www.adweek.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.adweek.com/) **
 **Score**: [75](https://developers.google.com/speed/pagespeed/insights/?url=http://www.adweek.com/)
 
 

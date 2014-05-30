@@ -4,6 +4,7 @@ title: http://matalademo.wordpress.com/
 ---
 ## [Matala | A colorful, textured theme for WordPress.com](http://matalademo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://matalademo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://matalademo.wordpress.com/)
 
 

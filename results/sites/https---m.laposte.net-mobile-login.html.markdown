@@ -4,6 +4,7 @@ title: https://m.laposte.net/mobile/login.html
 ---
 ## [Laposte.net](https://m.laposte.net/mobile/login.html)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://m.laposte.net/mobile/login.html) **
 **Score**: [41](https://developers.google.com/speed/pagespeed/insights/?url=https://m.laposte.net/mobile/login.html)
 
 

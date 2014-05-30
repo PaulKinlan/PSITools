@@ -4,6 +4,7 @@ title: http://nurturedemo.wordpress.com/
 ---
 ## [Nurture | A parenting theme for mommy and daddy](http://nurturedemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://nurturedemo.wordpress.com/) **
 **Score**: [63](https://developers.google.com/speed/pagespeed/insights/?url=http://nurturedemo.wordpress.com/)
 
 

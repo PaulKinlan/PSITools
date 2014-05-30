@@ -4,6 +4,7 @@ title: http://t.uk.msn.com/?rd=1&ucc=GB&dcc=GB&opt=0
 ---
 ## [MSN](http://t.uk.msn.com/?rd=1&ucc=GB&dcc=GB&opt=0)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://t.uk.msn.com/?rd=1&ucc=GB&dcc=GB&opt=0) **
 **Score**: [56](https://developers.google.com/speed/pagespeed/insights/?url=http://t.uk.msn.com/?rd=1&ucc=GB&dcc=GB&opt=0)
 
 

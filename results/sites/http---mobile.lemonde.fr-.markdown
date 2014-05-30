@@ -4,6 +4,7 @@ title: http://mobile.lemonde.fr/
 ---
 ## [Le Monde.fr - Actualité à la Une pour mobiles](http://mobile.lemonde.fr/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.lemonde.fr/) **
 **Score**: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.lemonde.fr/)
 
 

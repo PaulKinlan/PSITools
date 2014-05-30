@@ -4,6 +4,7 @@ title: http://awesomedemo.wordpress.com/
 ---
 ## [Awesome | Your images, slideshows and videos have never looked better.](http://awesomedemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://awesomedemo.wordpress.com/) **
 **Score**: [65](https://developers.google.com/speed/pagespeed/insights/?url=http://awesomedemo.wordpress.com/)
 
 

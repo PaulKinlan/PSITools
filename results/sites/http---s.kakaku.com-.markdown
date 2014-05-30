@@ -4,6 +4,7 @@ title: http://s.kakaku.com/
 ---
 ## [価格.com](http://s.kakaku.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://s.kakaku.com/) **
 **Score**: [75](https://developers.google.com/speed/pagespeed/insights/?url=http://s.kakaku.com/)
 
 

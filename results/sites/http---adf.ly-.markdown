@@ -4,6 +4,7 @@ title: http://adf.ly/
 ---
 ## [AdFly - The URL shortener service that pays you! Earn money for every visitor to your links.](http://adf.ly/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://adf.ly/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://adf.ly/)
 
 

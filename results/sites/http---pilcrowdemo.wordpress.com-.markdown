@@ -4,6 +4,7 @@ title: http://pilcrowdemo.wordpress.com/
 ---
 ## [Pilcrow | A clean and simple WordPress.com theme](http://pilcrowdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://pilcrowdemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://pilcrowdemo.wordpress.com/)
 
 

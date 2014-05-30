@@ -4,6 +4,7 @@ title: http://m.washingtonpost.com/
 ---
 ## [Washington Post](http://m.washingtonpost.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.washingtonpost.com/) **
 **Score**: [56](https://developers.google.com/speed/pagespeed/insights/?url=http://m.washingtonpost.com/)
 
 

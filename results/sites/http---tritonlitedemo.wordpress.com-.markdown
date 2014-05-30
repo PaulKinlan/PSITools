@@ -4,6 +4,7 @@ title: http://tritonlitedemo.wordpress.com/
 ---
 ## [Triton Lite | A clean and simple photography theme for WordPress.com](http://tritonlitedemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://tritonlitedemo.wordpress.com/) **
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://tritonlitedemo.wordpress.com/)
 
 

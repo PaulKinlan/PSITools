@@ -4,6 +4,7 @@ title: http://duotonedemo.wordpress.com/
 ---
 ## [Duotone | A brilliant photoblogging theme with a dynamic background color based on the colors in your photos](http://duotonedemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://duotonedemo.wordpress.com/) **
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://duotonedemo.wordpress.com/)
 
 

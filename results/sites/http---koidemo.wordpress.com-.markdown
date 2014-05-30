@@ -4,6 +4,7 @@ title: http://koidemo.wordpress.com/
 ---
 ## [Koi | A light and colorful WordPress.com theme](http://koidemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://koidemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://koidemo.wordpress.com/)
 
 

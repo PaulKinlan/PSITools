@@ -4,6 +4,7 @@ title: http://elemindemo.wordpress.com/
 ---
 ## [Elemin](http://elemindemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://elemindemo.wordpress.com/) **
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://elemindemo.wordpress.com/)
 
 

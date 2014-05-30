@@ -1,9 +1,7 @@
 ---
 layout: article
 title: Developer Docs
-description: Tracking Web Developer documentation
-collections:
-  - results
+description:  PageSpeed insights scores for mobile across web developer documentation
 ---
 |Site|Score|
 |----|-----|

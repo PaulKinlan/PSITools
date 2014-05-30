@@ -4,6 +4,7 @@ title: http://sp.nicovideo.jp/
 ---
 ## [niconico](http://sp.nicovideo.jp/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://sp.nicovideo.jp/) **
 **Score**: [61](https://developers.google.com/speed/pagespeed/insights/?url=http://sp.nicovideo.jp/)
 
 

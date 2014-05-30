@@ -4,6 +4,7 @@ title: http://ilovemobi.com/
 ---
 ## [Welcome - Home | iLovemobi](http://ilovemobi.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://ilovemobi.com/) **
 **Score**: [91](https://developers.google.com/speed/pagespeed/insights/?url=http://ilovemobi.com/)
 
 

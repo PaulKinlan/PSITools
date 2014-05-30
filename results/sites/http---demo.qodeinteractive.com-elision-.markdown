@@ -4,6 +4,7 @@ title: http://demo.qodeinteractive.com/elision/
 ---
 ## [Elision | Responsive Multi-Purpose WordPress Theme](http://demo.qodeinteractive.com/elision/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.qodeinteractive.com/elision/) **
 **Score**: [53](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.qodeinteractive.com/elision/)
 
 

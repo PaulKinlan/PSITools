@@ -4,6 +4,7 @@ title: http://theme.co/x/
 ---
 ## [X | The Ultimate WordPress Theme 2014](http://theme.co/x/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://theme.co/x/) **
 **Score**: [75](https://developers.google.com/speed/pagespeed/insights/?url=http://theme.co/x/)
 
 

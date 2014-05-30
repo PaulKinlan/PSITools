@@ -4,6 +4,7 @@ title: http://www.usnews.com/
 ---
 ## [U.S. News & World Report: News, Rankings and Analysis on Politics, Education, Healthcare and More](http://www.usnews.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.usnews.com/) **
 **Score**: [56](https://developers.google.com/speed/pagespeed/insights/?url=http://www.usnews.com/)
 
 

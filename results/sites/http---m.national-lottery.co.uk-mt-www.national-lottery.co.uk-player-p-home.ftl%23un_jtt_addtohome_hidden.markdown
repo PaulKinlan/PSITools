@@ -4,6 +4,7 @@ title: http://m.national-lottery.co.uk/mt/www.national-lottery.co.uk/player/p/ho
 ---
 ## [The National Lottery](http://m.national-lottery.co.uk/mt/www.national-lottery.co.uk/player/p/home.ftl#un_jtt_addtohome_hidden)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.national-lottery.co.uk/mt/www.national-lottery.co.uk/player/p/home.ftl#un_jtt_addtohome_hidden) **
 **Score**: [74](https://developers.google.com/speed/pagespeed/insights/?url=http://m.national-lottery.co.uk/mt/www.national-lottery.co.uk/player/p/home.ftl#un_jtt_addtohome_hidden)
 
 

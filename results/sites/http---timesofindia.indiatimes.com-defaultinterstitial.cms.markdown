@@ -4,6 +4,7 @@ title: http://timesofindia.indiatimes.com/defaultinterstitial.cms
 ---
 ## [The Times Of India](http://timesofindia.indiatimes.com/defaultinterstitial.cms)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://timesofindia.indiatimes.com/defaultinterstitial.cms) **
 **Score**: [99](https://developers.google.com/speed/pagespeed/insights/?url=http://timesofindia.indiatimes.com/defaultinterstitial.cms)
 
 

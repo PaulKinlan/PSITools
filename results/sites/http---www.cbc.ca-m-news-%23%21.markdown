@@ -4,6 +4,7 @@ title: http://www.cbc.ca/m/news/#!
 ---
 ## [News | CBCNews.ca Mobile](http://www.cbc.ca/m/news/#!)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.cbc.ca/m/news/#!) **
 **Score**: [57](https://developers.google.com/speed/pagespeed/insights/?url=http://www.cbc.ca/m/news/#!)
 
 

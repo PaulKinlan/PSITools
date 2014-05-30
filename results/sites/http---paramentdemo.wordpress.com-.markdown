@@ -4,6 +4,7 @@ title: http://paramentdemo.wordpress.com/
 ---
 ## [Parament | Dark color schemes are the new black](http://paramentdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://paramentdemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://paramentdemo.wordpress.com/)
 
 

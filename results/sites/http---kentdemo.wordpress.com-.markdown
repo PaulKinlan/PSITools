@@ -4,6 +4,7 @@ title: http://kentdemo.wordpress.com/
 ---
 ## [Kent | A gorgeous theme for WordPress.com](http://kentdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://kentdemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://kentdemo.wordpress.com/)
 
 

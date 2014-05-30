@@ -4,6 +4,7 @@ title: http://craftydemo.wordpress.com/
 ---
 ## [Crafty | A blogging theme with a bright and playful design](http://craftydemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://craftydemo.wordpress.com/) **
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://craftydemo.wordpress.com/)
 
 

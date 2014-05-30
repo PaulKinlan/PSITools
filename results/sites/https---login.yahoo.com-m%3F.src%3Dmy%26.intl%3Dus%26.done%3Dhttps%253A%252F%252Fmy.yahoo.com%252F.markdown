@@ -4,6 +4,7 @@ title: https://login.yahoo.com/m?.src=my&.intl=us&.done=https%3A%2F%2Fmy.yahoo.c
 ---
 ## [Yahoo - login](https://login.yahoo.com/m?.src=my&.intl=us&.done=https%3A%2F%2Fmy.yahoo.com%2F)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://login.yahoo.com/m?.src=my&.intl=us&.done=https%3A%2F%2Fmy.yahoo.com%2F) **
 **Score**: [52](https://developers.google.com/speed/pagespeed/insights/?url=https://login.yahoo.com/m?.src=my&.intl=us&.done=https%3A%2F%2Fmy.yahoo.com%2F)
 
 

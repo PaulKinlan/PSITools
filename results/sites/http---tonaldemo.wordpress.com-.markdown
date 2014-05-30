@@ -4,6 +4,7 @@ title: http://tonaldemo.wordpress.com/
 ---
 ## [Tonal | Let your content set the tone](http://tonaldemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://tonaldemo.wordpress.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://tonaldemo.wordpress.com/)
 
 

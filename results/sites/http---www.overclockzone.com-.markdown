@@ -4,6 +4,7 @@ title: http://www.overclockzone.com/
 ---
 ## [!!!! OVERCLOCKZONE !!!!](http://www.overclockzone.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.overclockzone.com/) **
 **Score**: [78](https://developers.google.com/speed/pagespeed/insights/?url=http://www.overclockzone.com/)
 
 

@@ -4,6 +4,7 @@ title: http://www.yengo.com/
 ---
 ## [Yengo](http://www.yengo.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.yengo.com/) **
 **Score**: [66](https://developers.google.com/speed/pagespeed/insights/?url=http://www.yengo.com/)
 
 

@@ -4,6 +4,7 @@ title: http://nextsaturdaydemo.wordpress.com/
 ---
 ## [Next Saturday | A bold and playful theme for WordPress.com](http://nextsaturdaydemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://nextsaturdaydemo.wordpress.com/) **
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://nextsaturdaydemo.wordpress.com/)
 
 

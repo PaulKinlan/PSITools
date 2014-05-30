@@ -4,6 +4,7 @@ title: http://radar.weather.gov/
 ---
 ## [National Weather Service Doppler Radar Images](http://radar.weather.gov/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://radar.weather.gov/) **
 **Score**: [85](https://developers.google.com/speed/pagespeed/insights/?url=http://radar.weather.gov/)
 
 

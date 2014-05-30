@@ -4,6 +4,7 @@ title: http://my.chicagotribune.com/#section/543/
 ---
 ## [Chicago Tribune - Front Page](http://my.chicagotribune.com/#section/543/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://my.chicagotribune.com/#section/543/) **
 **Score**: [47](https://developers.google.com/speed/pagespeed/insights/?url=http://my.chicagotribune.com/#section/543/)
 
 

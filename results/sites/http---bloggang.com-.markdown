@@ -4,6 +4,7 @@ title: http://bloggang.com/
 ---
 ## [](http://bloggang.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://bloggang.com/) **
 **Score**: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://bloggang.com/)
 
 

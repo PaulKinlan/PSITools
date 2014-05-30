@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Top 100 Sites in Germnay
-description: PageSpeed insights scores across the top 100 sites from Germany (via Alexa)
+description: PageSpeed insights scores for mobile across the top 100 sites from Germany (via Alexa)
 ---
 |Site|Score|
 |----|-----|

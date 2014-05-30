@@ -4,6 +4,7 @@ title: http://shaandemo.wordpress.com/
 ---
 ## [Shaan | A calm, blue WordPress.com theme with subtle textures](http://shaandemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://shaandemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://shaandemo.wordpress.com/)
 
 

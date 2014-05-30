@@ -4,6 +4,7 @@ title: https://m.postbank.de/portal/
 ---
 ## [Postbank: Herzlich Willkommen](https://m.postbank.de/portal/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://m.postbank.de/portal/) **
 **Score**: [54](https://developers.google.com/speed/pagespeed/insights/?url=https://m.postbank.de/portal/)
 
 

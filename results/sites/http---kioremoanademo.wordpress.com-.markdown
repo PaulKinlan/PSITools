@@ -4,6 +4,7 @@ title: http://kioremoanademo.wordpress.com/
 ---
 ## [Kiore Moana | A beautiful blogging theme](http://kioremoanademo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://kioremoanademo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://kioremoanademo.wordpress.com/)
 
 

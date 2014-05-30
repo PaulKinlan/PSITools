@@ -4,6 +4,7 @@ title: http://www.amazon.de/gp/aw/h.html/275-7788708-7431155?ie=UTF8&pc_redir=14
 ---
 ## [Amazon.de](http://www.amazon.de/gp/aw/h.html/275-7788708-7431155?ie=UTF8&pc_redir=1401458612)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.amazon.de/gp/aw/h.html/275-7788708-7431155?ie=UTF8&pc_redir=1401458612) **
 **Score**: [90](https://developers.google.com/speed/pagespeed/insights/?url=http://www.amazon.de/gp/aw/h.html/275-7788708-7431155?ie=UTF8&pc_redir=1401458612)
 
 

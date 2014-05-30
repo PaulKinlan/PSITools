@@ -4,6 +4,7 @@ title: http://m.ebay.de/
 ---
 ## [eBay Mobile Web](http://m.ebay.de/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.ebay.de/) **
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://m.ebay.de/)
 
 

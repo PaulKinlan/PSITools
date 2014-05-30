@@ -4,6 +4,7 @@ title: http://fr.openclassrooms.com/
 ---
 ## [OpenClassrooms, Le Site du Zéro - Les cours les plus ouverts du Web](http://fr.openclassrooms.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://fr.openclassrooms.com/) **
 **Score**: [73](https://developers.google.com/speed/pagespeed/insights/?url=http://fr.openclassrooms.com/)
 
 

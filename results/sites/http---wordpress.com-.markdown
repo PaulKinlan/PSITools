@@ -4,6 +4,7 @@ title: http://wordpress.com/
 ---
 ## [WordPress.com - Get a Free Website and Blog Here](http://wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://wordpress.com/) **
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://wordpress.com/)
 
 

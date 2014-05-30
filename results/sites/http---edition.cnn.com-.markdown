@@ -4,6 +4,7 @@ title: http://edition.cnn.com/
 ---
 ## [CNNi](http://edition.cnn.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://edition.cnn.com/) **
 **Score**: [60](https://developers.google.com/speed/pagespeed/insights/?url=http://edition.cnn.com/)
 
 

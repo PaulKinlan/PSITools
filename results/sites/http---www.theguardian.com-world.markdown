@@ -4,6 +4,7 @@ title: http://www.theguardian.com/world
 ---
 ## [World news and comment from the Guardian | The Guardian](http://www.theguardian.com/world)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.theguardian.com/world) **
 **Score**: [99](https://developers.google.com/speed/pagespeed/insights/?url=http://www.theguardian.com/world)
 
 

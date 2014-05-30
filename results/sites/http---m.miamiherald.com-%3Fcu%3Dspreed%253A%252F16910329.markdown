@@ -4,6 +4,7 @@ title: http://m.miamiherald.com/?cu=spreed%3A%2F16910329
 ---
 ## [MiamiHerald.com - Miami &; Ft. Lauderdale News, Weather, Miami Dolphins &](http://m.miamiherald.com/?cu=spreed%3A%2F16910329)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.miamiherald.com/?cu=spreed%3A%2F16910329) **
 **Score**: [54](https://developers.google.com/speed/pagespeed/insights/?url=http://m.miamiherald.com/?cu=spreed%3A%2F16910329)
 
 

@@ -4,6 +4,7 @@ title: http://www.givemesport.com/
 ---
 ## [Latest News, Opinion and Features | GiveMeSport](http://www.givemesport.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.givemesport.com/) **
 **Score**: [45](https://developers.google.com/speed/pagespeed/insights/?url=http://www.givemesport.com/)
 
 

@@ -4,6 +4,7 @@ title: https://www.dropbox.com/m/login
 ---
 ## [Dropbox - Sign in](https://www.dropbox.com/m/login)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://www.dropbox.com/m/login) **
 **Score**: [50](https://developers.google.com/speed/pagespeed/insights/?url=https://www.dropbox.com/m/login)
 
 

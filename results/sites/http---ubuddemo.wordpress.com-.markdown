@@ -4,6 +4,7 @@ title: http://ubuddemo.wordpress.com/
 ---
 ## [Ubud.](http://ubuddemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://ubuddemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://ubuddemo.wordpress.com/)
 
 

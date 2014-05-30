@@ -4,6 +4,7 @@ title: http://www.intellicast.com/
 ---
 ## [Intellicast - Local and National Weather Forecast, Radar, Maps and Severe Report](http://www.intellicast.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.intellicast.com/) **
 **Score**: [57](https://developers.google.com/speed/pagespeed/insights/?url=http://www.intellicast.com/)
 
 

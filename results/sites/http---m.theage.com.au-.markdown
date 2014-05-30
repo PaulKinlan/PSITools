@@ -4,6 +4,7 @@ title: http://m.theage.com.au/
 ---
 ## [Latest & Breaking News Melbourne, Victoria | The Age](http://m.theage.com.au/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.theage.com.au/) **
 **Score**: [54](https://developers.google.com/speed/pagespeed/insights/?url=http://m.theage.com.au/)
 
 

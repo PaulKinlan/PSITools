@@ -4,6 +4,7 @@ title: http://m.us.wsj.com/home-page?mg=reno64-wsj
 ---
 ## [The Wall Street Journal - Breaking News, Business, Financial and Economic News, World News &amp; Video &#45; Wall Street Journal](http://m.us.wsj.com/home-page?mg=reno64-wsj)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.us.wsj.com/home-page?mg=reno64-wsj) **
 **Score**: [54](https://developers.google.com/speed/pagespeed/insights/?url=http://m.us.wsj.com/home-page?mg=reno64-wsj)
 
 

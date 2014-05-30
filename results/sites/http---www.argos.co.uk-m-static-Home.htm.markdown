@@ -4,6 +4,7 @@ title: http://www.argos.co.uk/m/static/Home.htm
 ---
 ## [Argos.co.uk for Toys, Home Furnishings, Personal Care & more](http://www.argos.co.uk/m/static/Home.htm)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.argos.co.uk/m/static/Home.htm) **
 **Score**: [59](https://developers.google.com/speed/pagespeed/insights/?url=http://www.argos.co.uk/m/static/Home.htm)
 
 

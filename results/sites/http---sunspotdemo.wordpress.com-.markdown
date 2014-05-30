@@ -4,6 +4,7 @@ title: http://sunspotdemo.wordpress.com/
 ---
 ## [Sunspot | A sharp and sun-splashed theme for WordPress.com](http://sunspotdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://sunspotdemo.wordpress.com/) **
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://sunspotdemo.wordpress.com/)
 
 

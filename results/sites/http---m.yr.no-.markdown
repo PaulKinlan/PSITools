@@ -4,6 +4,7 @@ title: http://m.yr.no/
 ---
 ## [yr.no: Værvarsel](http://m.yr.no/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.yr.no/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://m.yr.no/)
 
 

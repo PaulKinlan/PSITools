@@ -4,6 +4,7 @@ title: http://demo.rocknrolladesigns.com/wordpress/jarvis/text-slider/
 ---
 ## [Text Slider → Just another Jarvis Demos site](http://demo.rocknrolladesigns.com/wordpress/jarvis/text-slider/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.rocknrolladesigns.com/wordpress/jarvis/text-slider/) **
 **Score**: [50](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.rocknrolladesigns.com/wordpress/jarvis/text-slider/)
 
 

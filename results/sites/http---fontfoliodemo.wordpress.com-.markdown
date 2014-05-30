@@ -4,6 +4,7 @@ title: http://fontfoliodemo.wordpress.com/
 ---
 ## [Fontfolio | A fantastic WordPress.com portfolio theme](http://fontfoliodemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://fontfoliodemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://fontfoliodemo.wordpress.com/)
 
 

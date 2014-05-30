@@ -4,6 +4,7 @@ title: http://manifestdemo.wordpress.com/
 ---
 ## [Manifest | A lean and streamlined theme for WordPress.com](http://manifestdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://manifestdemo.wordpress.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://manifestdemo.wordpress.com/)
 
 

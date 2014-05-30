@@ -4,6 +4,7 @@ title: http://pantip.com/
 ---
 ## [Pantip - Learn, Share & Fun](http://pantip.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://pantip.com/) **
 **Score**: [36](https://developers.google.com/speed/pagespeed/insights/?url=http://pantip.com/)
 
 

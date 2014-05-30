@@ -4,6 +4,7 @@ title: http://singldemo.wordpress.com/
 ---
 ## [Singl | A theme that’s in tune](http://singldemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://singldemo.wordpress.com/) **
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://singldemo.wordpress.com/)
 
 

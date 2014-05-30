@@ -4,6 +4,7 @@ title: http://wuweidemo.wordpress.com/
 ---
 ## [Wu Wei | A clean, minimalist, grid-based theme](http://wuweidemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://wuweidemo.wordpress.com/) **
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://wuweidemo.wordpress.com/)
 
 

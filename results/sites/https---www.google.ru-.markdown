@@ -4,6 +4,7 @@ title: https://www.google.ru/
 ---
 ## [Google](https://www.google.ru/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.ru/) **
 **Score**: [79](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.ru/)
 
 

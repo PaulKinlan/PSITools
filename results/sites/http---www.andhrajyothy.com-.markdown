@@ -4,6 +4,7 @@ title: http://www.andhrajyothy.com/
 ---
 ## [ఆంధ్రజ్యోతి](http://www.andhrajyothy.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.andhrajyothy.com/) **
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://www.andhrajyothy.com/)
 
 

@@ -4,6 +4,7 @@ title: http://ondemanddemo.wordpress.com/
 ---
 ## [On Demand](http://ondemanddemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://ondemanddemo.wordpress.com/) **
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://ondemanddemo.wordpress.com/)
 
 

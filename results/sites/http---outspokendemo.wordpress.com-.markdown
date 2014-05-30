@@ -4,6 +4,7 @@ title: http://outspokendemo.wordpress.com/
 ---
 ## [Outspoken | The perfect theme for news, magazines, & blogs](http://outspokendemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://outspokendemo.wordpress.com/) **
 **Score**: [66](https://developers.google.com/speed/pagespeed/insights/?url=http://outspokendemo.wordpress.com/)
 
 

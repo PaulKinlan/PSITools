@@ -4,6 +4,7 @@ title: http://www.888casino.com/
 ---
 ## [Online Casino | Play casino games at 888casino.com](http://www.888casino.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.888casino.com/) **
 **Score**: [79](https://developers.google.com/speed/pagespeed/insights/?url=http://www.888casino.com/)
 
 

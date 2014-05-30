@@ -4,6 +4,7 @@ title: http://zozo.jp/sp/
 ---
 ## [ファッション通販ZOZOTOWN【全品送料無料】](http://zozo.jp/sp/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://zozo.jp/sp/) **
 **Score**: [63](https://developers.google.com/speed/pagespeed/insights/?url=http://zozo.jp/sp/)
 
 

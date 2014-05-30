@@ -4,6 +4,7 @@ title: http://asia.nikkei.com/
 ---
 ## [NIKKEI ASIAN REVIEW](http://asia.nikkei.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://asia.nikkei.com/) **
 **Score**: [29](https://developers.google.com/speed/pagespeed/insights/?url=http://asia.nikkei.com/)
 
 

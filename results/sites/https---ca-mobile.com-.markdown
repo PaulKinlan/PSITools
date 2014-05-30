@@ -4,6 +4,7 @@ title: https://ca-mobile.com/
 ---
 ## [Crédit Agricole - Banque en ligne mobile](https://ca-mobile.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://ca-mobile.com/) **
 **Score**: [53](https://developers.google.com/speed/pagespeed/insights/?url=https://ca-mobile.com/)
 
 

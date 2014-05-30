@@ -4,6 +4,7 @@ title: http://en.gameforge.com/home/index
 ---
 ## [Online Games | Browser games | play for free at Gameforge.com](http://en.gameforge.com/home/index)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://en.gameforge.com/home/index) **
 **Score**: [55](https://developers.google.com/speed/pagespeed/insights/?url=http://en.gameforge.com/home/index)
 
 

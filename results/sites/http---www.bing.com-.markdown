@@ -4,6 +4,7 @@ title: http://www.bing.com/
 ---
 ## [Bing](http://www.bing.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.bing.com/) **
 **Score**: [82](https://developers.google.com/speed/pagespeed/insights/?url=http://www.bing.com/)
 
 

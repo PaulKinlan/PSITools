@@ -4,6 +4,7 @@ title: http://webapp.lesechos.fr/
 ---
 ## [Les Echos - News](http://webapp.lesechos.fr/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://webapp.lesechos.fr/) **
 **Score**: [53](https://developers.google.com/speed/pagespeed/insights/?url=http://webapp.lesechos.fr/)
 
 

@@ -4,6 +4,7 @@ title: http://pictoricodemo.wordpress.com/
 ---
 ## [Pictorico | Your life in pictures at WordPress.com](http://pictoricodemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://pictoricodemo.wordpress.com/) **
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://pictoricodemo.wordpress.com/)
 
 

@@ -4,6 +4,7 @@ title: http://news.yahoo.com/
 ---
 ## [Yahoo News - Latest News & Headlines](http://news.yahoo.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://news.yahoo.com/) **
 **Score**: [53](https://developers.google.com/speed/pagespeed/insights/?url=http://news.yahoo.com/)
 
 

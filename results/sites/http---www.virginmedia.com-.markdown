@@ -4,6 +4,7 @@ title: http://www.virginmedia.com/
 ---
 ## [Virgin Media - Cable broadband, TV & phone plus mobile broadband & phone](http://www.virginmedia.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.virginmedia.com/) **
 **Score**: [74](https://developers.google.com/speed/pagespeed/insights/?url=http://www.virginmedia.com/)
 
 

@@ -4,6 +4,7 @@ title: http://mobile.news.com.au/
 ---
 ## [News.com.au| Top Stories | NewsComAu](http://mobile.news.com.au/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.news.com.au/) **
 **Score**: [51](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.news.com.au/)
 
 

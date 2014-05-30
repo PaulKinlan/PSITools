@@ -4,6 +4,7 @@ title: http://s.tabelog.com/
 ---
 ## [食べログ - ランキングと口コミで探せるグルメサイト](http://s.tabelog.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://s.tabelog.com/) **
 **Score**: [66](https://developers.google.com/speed/pagespeed/insights/?url=http://s.tabelog.com/)
 
 

@@ -4,6 +4,7 @@ title: https://www.google.co.jp/
 ---
 ## [Google](https://www.google.co.jp/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.co.jp/) **
 **Score**: [79](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.co.jp/)
 
 

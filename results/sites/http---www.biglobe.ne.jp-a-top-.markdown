@@ -4,6 +4,7 @@ title: http://www.biglobe.ne.jp/a-top/
 ---
 ## [BIGLOBE](http://www.biglobe.ne.jp/a-top/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.biglobe.ne.jp/a-top/) **
 **Score**: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://www.biglobe.ne.jp/a-top/)
 
 

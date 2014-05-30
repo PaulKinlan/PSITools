@@ -4,6 +4,7 @@ title: http://bloggydemo.wordpress.com/
 ---
 ## [Bloggy | WordPress Theme for Bloggers](http://bloggydemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://bloggydemo.wordpress.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://bloggydemo.wordpress.com/)
 
 

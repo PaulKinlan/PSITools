@@ -4,6 +4,7 @@ title: http://www.jeuxvideo.com/
 ---
 ## [JEUXVIDEO.COM - La Référence des Jeux Vidéo sur PC et Consoles !](http://www.jeuxvideo.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.jeuxvideo.com/) **
 **Score**: [76](https://developers.google.com/speed/pagespeed/insights/?url=http://www.jeuxvideo.com/)
 
 

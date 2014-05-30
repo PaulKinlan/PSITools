@@ -4,6 +4,7 @@ title: http://fictivedemo.wordpress.com/
 ---
 ## [Fictive | Making it personal at WordPress.com](http://fictivedemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://fictivedemo.wordpress.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://fictivedemo.wordpress.com/)
 
 

@@ -4,6 +4,7 @@ title: http://service-public.fr/
 ---
 ## [Accueil Particuliers - Service-public.fr](http://service-public.fr/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://service-public.fr/) **
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://service-public.fr/)
 
 

@@ -4,6 +4,7 @@ title: http://mobile.businessweek.com/#bm
 ---
 ## [Businessweek - Business News, Stock Market & Financial Advice](http://mobile.businessweek.com/#bm)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.businessweek.com/#bm) **
 **Score**: [65](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.businessweek.com/#bm)
 
 

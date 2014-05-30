@@ -4,6 +4,7 @@ title: http://www.alarabiya.net/mob/ar/
 ---
 ## [العربية.نت موبايل | الصفحة الرئيسية](http://www.alarabiya.net/mob/ar/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.alarabiya.net/mob/ar/) **
 **Score**: [56](https://developers.google.com/speed/pagespeed/insights/?url=http://www.alarabiya.net/mob/ar/)
 
 

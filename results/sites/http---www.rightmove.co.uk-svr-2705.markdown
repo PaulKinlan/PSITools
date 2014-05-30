@@ -4,6 +4,7 @@ title: http://www.rightmove.co.uk/svr/2705
 ---
 ## [Rightmove.co.uk](http://www.rightmove.co.uk/svr/2705)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.rightmove.co.uk/svr/2705) **
 **Score**: [84](https://developers.google.com/speed/pagespeed/insights/?url=http://www.rightmove.co.uk/svr/2705)
 
 

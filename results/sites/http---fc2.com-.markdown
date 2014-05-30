@@ -4,6 +4,7 @@ title: http://fc2.com/
 ---
 ## [FC2 -無料ブログ 無料動画 無料ホームページ レンタルサーバー 無料アクセス解析 SEO対策ツールなど-](http://fc2.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://fc2.com/) **
 **Score**: [74](https://developers.google.com/speed/pagespeed/insights/?url=http://fc2.com/)
 
 

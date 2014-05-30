@@ -4,6 +4,7 @@ title: http://www.japanpost.jp/
 ---
 ## [日本郵政ホーム‐日本郵政](http://www.japanpost.jp/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.japanpost.jp/) **
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://www.japanpost.jp/)
 
 

@@ -4,6 +4,7 @@ title: http://highwinddemo.wordpress.com/
 ---
 ## [Highwind | A lightweight theme designed to showcase content](http://highwinddemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://highwinddemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://highwinddemo.wordpress.com/)
 
 

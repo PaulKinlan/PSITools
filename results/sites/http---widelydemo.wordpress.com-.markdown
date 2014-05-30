@@ -4,6 +4,7 @@ title: http://widelydemo.wordpress.com/
 ---
 ## [Widely « A modern and elegant WordPress theme](http://widelydemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://widelydemo.wordpress.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://widelydemo.wordpress.com/)
 
 

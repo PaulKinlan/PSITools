@@ -4,6 +4,7 @@ title: http://www.wunderground.com/
 ---
 ## [Weather Forecast & Reports - Long Range & Local | Wunderground | Weather Underground](http://www.wunderground.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wunderground.com/) **
 **Score**: [46](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wunderground.com/)
 
 

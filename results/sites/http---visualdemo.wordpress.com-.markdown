@@ -4,6 +4,7 @@ title: http://visualdemo.wordpress.com/
 ---
 ## [Visual | An eye-opening WordPress.com theme](http://visualdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://visualdemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://visualdemo.wordpress.com/)
 
 

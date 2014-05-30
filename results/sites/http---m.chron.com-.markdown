@@ -4,6 +4,7 @@ title: http://m.chron.com/
 ---
 ## [Houston News, Sports, Business, and Entertainment - The Houston Chronicle at Chron.com - Houston Chronicle](http://m.chron.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.chron.com/) **
 **Score**: [47](https://developers.google.com/speed/pagespeed/insights/?url=http://m.chron.com/)
 
 

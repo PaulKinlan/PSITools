@@ -4,6 +4,7 @@ title: http://themes-lab.com/preview/?theme=Pixit%20Admin
 ---
 ## [Themes Lab | Item : Pixit Admin](http://themes-lab.com/preview/?theme=Pixit%20Admin)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://themes-lab.com/preview/?theme=Pixit%20Admin) **
 **Score**: [79](https://developers.google.com/speed/pagespeed/insights/?url=http://themes-lab.com/preview/?theme=Pixit%20Admin)
 
 

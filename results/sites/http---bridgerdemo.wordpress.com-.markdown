@@ -4,6 +4,7 @@ title: http://bridgerdemo.wordpress.com/
 ---
 ## [Bridger | WordPress](http://bridgerdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://bridgerdemo.wordpress.com/) **
 **Score**: [63](https://developers.google.com/speed/pagespeed/insights/?url=http://bridgerdemo.wordpress.com/)
 
 

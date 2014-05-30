@@ -1,9 +1,7 @@
 ---
 layout: article
 title: Alexa Top 10
-description: PageSpeed insights scores across the top 10 sites as per alexa
-collections:
-  - results
+description: PageSpeed insights scores for mobile across the top 10 sites as per alexa
 ---
 |Site|Score|
 |----|-----|

@@ -4,6 +4,7 @@ title: http://8theme.com/demo/legenda/preview/index.html
 ---
 ## [Legenda Theme Preview](http://8theme.com/demo/legenda/preview/index.html)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://8theme.com/demo/legenda/preview/index.html) **
 **Score**: [80](https://developers.google.com/speed/pagespeed/insights/?url=http://8theme.com/demo/legenda/preview/index.html)
 
 

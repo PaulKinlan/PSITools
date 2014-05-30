@@ -4,6 +4,7 @@ title: http://www.ask.com/
 ---
 ## [Ask.com - What's Your Question?](http://www.ask.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.ask.com/) **
 **Score**: [89](https://developers.google.com/speed/pagespeed/insights/?url=http://www.ask.com/)
 
 

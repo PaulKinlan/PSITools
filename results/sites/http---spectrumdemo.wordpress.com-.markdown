@@ -4,6 +4,7 @@ title: http://spectrumdemo.wordpress.com/
 ---
 ## [Spectrum | A beautiful and colorful theme for WordPress.com](http://spectrumdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://spectrumdemo.wordpress.com/) **
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://spectrumdemo.wordpress.com/)
 
 

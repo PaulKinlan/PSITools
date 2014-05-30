@@ -4,6 +4,7 @@ title: http://www.weloveshopping.com/webmode/
 ---
 ## [Welcome to Weloveshopping](http://www.weloveshopping.com/webmode/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.weloveshopping.com/webmode/) **
 **Score**: [66](https://developers.google.com/speed/pagespeed/insights/?url=http://www.weloveshopping.com/webmode/)
 
 

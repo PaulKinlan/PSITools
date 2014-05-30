@@ -4,6 +4,7 @@ title: https://touch.www.linkedin.com/?sessionid=6999010250326016&or=true#home
 ---
 ## [LinkedIn](https://touch.www.linkedin.com/?sessionid=6999010250326016&or=true#home)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://touch.www.linkedin.com/?sessionid=6999010250326016&or=true#home) **
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=https://touch.www.linkedin.com/?sessionid=6999010250326016&or=true#home)
 
 

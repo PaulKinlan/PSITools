@@ -4,6 +4,7 @@ title: http://m.prnewswire.com/
 ---
 ## [PR Newswire: press release distribution, targeting, monitoring and marketing](http://m.prnewswire.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.prnewswire.com/) **
 **Score**: [76](https://developers.google.com/speed/pagespeed/insights/?url=http://m.prnewswire.com/)
 
 

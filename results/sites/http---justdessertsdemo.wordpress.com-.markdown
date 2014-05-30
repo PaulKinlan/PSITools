@@ -4,6 +4,7 @@ title: http://justdessertsdemo.wordpress.com/
 ---
 ## [Just Desserts | Another scrumptious WordPress.com theme](http://justdessertsdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://justdessertsdemo.wordpress.com/) **
 **Score**: [63](https://developers.google.com/speed/pagespeed/insights/?url=http://justdessertsdemo.wordpress.com/)
 
 

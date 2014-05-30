@@ -4,6 +4,7 @@ title: http://touch.pixiv.net/index.php
 ---
 ## [[pixiv] イラストコミュニケーションサービス](http://touch.pixiv.net/index.php)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://touch.pixiv.net/index.php) **
 **Score**: [38](https://developers.google.com/speed/pagespeed/insights/?url=http://touch.pixiv.net/index.php)
 
 

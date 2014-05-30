@@ -4,6 +4,7 @@ title: http://www.latimes.com/
 ---
 ## [Los Angeles Times - California, national and world news - Los Angeles Times](http://www.latimes.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.latimes.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://www.latimes.com/)
 
 

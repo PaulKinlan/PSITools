@@ -4,6 +4,7 @@ title: http://demo.jawtemplates.com/goodstore/
 ---
 ## [Goodstore](http://demo.jawtemplates.com/goodstore/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.jawtemplates.com/goodstore/) **
 **Score**: [80](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.jawtemplates.com/goodstore/)
 
 

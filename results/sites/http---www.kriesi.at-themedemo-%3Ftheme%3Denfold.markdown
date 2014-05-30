@@ -4,6 +4,7 @@ title: http://www.kriesi.at/themedemo/?theme=enfold
 ---
 ## [Kriesi.at Theme Demos | Theme: Enfold](http://www.kriesi.at/themedemo/?theme=enfold)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.kriesi.at/themedemo/?theme=enfold) **
 **Score**: [84](https://developers.google.com/speed/pagespeed/insights/?url=http://www.kriesi.at/themedemo/?theme=enfold)
 
 

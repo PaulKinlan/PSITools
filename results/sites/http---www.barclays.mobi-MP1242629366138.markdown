@@ -4,6 +4,7 @@ title: http://www.barclays.mobi/MP1242629366138
 ---
 ## [Mobile Personal Banking - Barclays Personal Banking](http://www.barclays.mobi/MP1242629366138)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.barclays.mobi/MP1242629366138) **
 **Score**: [47](https://developers.google.com/speed/pagespeed/insights/?url=http://www.barclays.mobi/MP1242629366138)
 
 

@@ -4,6 +4,7 @@ title: https://m.flickr.com/#/home
 ---
 ## [Flickr](https://m.flickr.com/#/home)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://m.flickr.com/#/home) **
 **Score**: [49](https://developers.google.com/speed/pagespeed/insights/?url=https://m.flickr.com/#/home)
 
 

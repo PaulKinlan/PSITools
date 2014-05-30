@@ -4,6 +4,7 @@ title: http://www.newsvine.com/
 ---
 ## [Newsvine](http://www.newsvine.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.newsvine.com/) **
 **Score**: [52](https://developers.google.com/speed/pagespeed/insights/?url=http://www.newsvine.com/)
 
 

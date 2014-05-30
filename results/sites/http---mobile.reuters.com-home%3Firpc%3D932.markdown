@@ -4,6 +4,7 @@ title: http://mobile.reuters.com/home?irpc=932
 ---
 ## [Reuters.com](http://mobile.reuters.com/home?irpc=932)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.reuters.com/home?irpc=932) **
 **Score**: [62](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.reuters.com/home?irpc=932)
 
 

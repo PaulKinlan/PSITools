@@ -4,6 +4,7 @@ title: http://www.booking.com/
 ---
 ## [Booking.com: 477,907 hotels worldwide. 30+ million hotel reviews.](http://www.booking.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.booking.com/) **
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://www.booking.com/)
 
 

@@ -4,6 +4,7 @@ title: http://imbalance2demo.wordpress.com/
 ---
 ## [Imbalance 2 | A theme designed in strict modern style with a minimalistic touch](http://imbalance2demo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://imbalance2demo.wordpress.com/) **
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://imbalance2demo.wordpress.com/)
 
 

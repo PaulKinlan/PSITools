@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Top 100 Sites in Thailand
-description: PageSpeed insights scores across the top 100 sites from Thailand (via Alexa)
+description: PageSpeed insights scores for mobile across the top 100 sites from Thailand (via Alexa)
 ---
 |Site|Score|
 |----|-----|

@@ -4,6 +4,7 @@ title: http://www.economist.com/
 ---
 ## [The Economist - World News, Politics, Economics, Business & Finance](http://www.economist.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.economist.com/) **
 **Score**: [62](https://developers.google.com/speed/pagespeed/insights/?url=http://www.economist.com/)
 
 

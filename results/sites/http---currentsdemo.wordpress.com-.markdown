@@ -4,6 +4,7 @@ title: http://currentsdemo.wordpress.com/
 ---
 ## [Currents | A Premium WordPress theme by WooThemes](http://currentsdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://currentsdemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://currentsdemo.wordpress.com/)
 
 

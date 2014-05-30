@@ -4,6 +4,7 @@ title: http://www.examiner.com/
 ---
 ## [Welcome to Examiner.com | Examiner.com](http://www.examiner.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.examiner.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://www.examiner.com/)
 
 

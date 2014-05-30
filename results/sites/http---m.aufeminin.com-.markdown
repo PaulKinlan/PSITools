@@ -4,6 +4,7 @@ title: http://m.aufeminin.com/
 ---
 ## [aufeminin.com : Mode femme, Beauté femmes, Maman, Mariage, Psycho...](http://m.aufeminin.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.aufeminin.com/) **
 **Score**: [83](https://developers.google.com/speed/pagespeed/insights/?url=http://m.aufeminin.com/)
 
 

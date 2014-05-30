@@ -4,6 +4,7 @@ title: http://www.deezer.com/soon.php
 ---
 ## [Deezer's music services are not yet available in your country.](http://www.deezer.com/soon.php)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.deezer.com/soon.php) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://www.deezer.com/soon.php)
 
 

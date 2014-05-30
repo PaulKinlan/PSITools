@@ -4,6 +4,7 @@ title: http://www.bahn.de/m/
 ---
 ## [DB Bahn: bahn.de/m/ - Ihr Mobilitätsportal für Reisen, Bahn, Urlaub, Hotels, Städtereisen und Mietwagen](http://www.bahn.de/m/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.bahn.de/m/) **
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://www.bahn.de/m/)
 
 

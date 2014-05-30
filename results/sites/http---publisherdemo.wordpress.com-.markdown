@@ -4,6 +4,7 @@ title: http://publisherdemo.wordpress.com/
 ---
 ## [Publisher](http://publisherdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://publisherdemo.wordpress.com/) **
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://publisherdemo.wordpress.com/)
 
 

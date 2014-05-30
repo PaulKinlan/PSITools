@@ -4,6 +4,7 @@ title: http://www.goo.ne.jp/
 ---
 ## [goo](http://www.goo.ne.jp/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.goo.ne.jp/) **
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://www.goo.ne.jp/)
 
 

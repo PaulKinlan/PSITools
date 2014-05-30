@@ -4,6 +4,7 @@ title: http://photographerdemo.wordpress.com/
 ---
 ## [Photographer | A fine WordPress.com theme for photographers](http://photographerdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://photographerdemo.wordpress.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://photographerdemo.wordpress.com/)
 
 

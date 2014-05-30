@@ -4,6 +4,7 @@ title: http://freshnewsdemo.wordpress.com/
 ---
 ## [Fresh News | A news/magazine WordPress.com theme](http://freshnewsdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://freshnewsdemo.wordpress.com/) **
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://freshnewsdemo.wordpress.com/)
 
 

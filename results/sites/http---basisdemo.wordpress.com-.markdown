@@ -4,6 +4,7 @@ title: http://basisdemo.wordpress.com/
 ---
 ## [Basis](http://basisdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://basisdemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://basisdemo.wordpress.com/)
 
 

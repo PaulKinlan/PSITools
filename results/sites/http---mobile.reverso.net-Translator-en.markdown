@@ -4,6 +4,7 @@ title: http://mobile.reverso.net/Translator/en
 ---
 ## [Reverso : mobile translation](http://mobile.reverso.net/Translator/en)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.reverso.net/Translator/en) **
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.reverso.net/Translator/en)
 
 

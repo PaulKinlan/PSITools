@@ -4,6 +4,7 @@ title: http://artbees.net/themes/jupiter-demo/
 ---
 ## [Jupiter – Responsive Multi-Purpose Theme](http://artbees.net/themes/jupiter-demo/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://artbees.net/themes/jupiter-demo/) **
 **Score**: [66](https://developers.google.com/speed/pagespeed/insights/?url=http://artbees.net/themes/jupiter-demo/)
 
 

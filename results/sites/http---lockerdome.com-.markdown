@@ -4,6 +4,7 @@ title: http://lockerdome.com/
 ---
 ## [LockerDome - Collect anything](http://lockerdome.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://lockerdome.com/) **
 **Score**: [60](https://developers.google.com/speed/pagespeed/insights/?url=http://lockerdome.com/)
 
 

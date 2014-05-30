@@ -4,6 +4,7 @@ title: http://gallerydemo.wordpress.com/
 ---
 ## [Gallery | because everyone loves grid layouts](http://gallerydemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://gallerydemo.wordpress.com/) **
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://gallerydemo.wordpress.com/)
 
 

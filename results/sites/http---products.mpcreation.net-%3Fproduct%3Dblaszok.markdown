@@ -4,6 +4,7 @@ title: http://products.mpcreation.net/?product=blaszok
 ---
 ## [Blaszok | mpcreation](http://products.mpcreation.net/?product=blaszok)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://products.mpcreation.net/?product=blaszok) **
 **Score**: [75](https://developers.google.com/speed/pagespeed/insights/?url=http://products.mpcreation.net/?product=blaszok)
 
 

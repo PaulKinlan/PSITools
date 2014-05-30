@@ -4,6 +4,7 @@ title: http://www.lloydsbank.com/M/default.asp
 ---
 ## [Lloyds Bank Mobile Home Page](http://www.lloydsbank.com/M/default.asp)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.lloydsbank.com/M/default.asp) **
 **Score**: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://www.lloydsbank.com/M/default.asp)
 
 

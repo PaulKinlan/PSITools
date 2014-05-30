@@ -4,6 +4,7 @@ title: http://www.cdiscount.com/
 ---
 ## [Cdiscount.com - N°1 du e-commerce - Tous vos achats à prix discount](http://www.cdiscount.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.cdiscount.com/) **
 **Score**: [79](https://developers.google.com/speed/pagespeed/insights/?url=http://www.cdiscount.com/)
 
 

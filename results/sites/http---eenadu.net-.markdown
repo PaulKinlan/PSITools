@@ -4,6 +4,7 @@ title: http://eenadu.net/
 ---
 ## [EENADU Online Edition - Telugu news paper](http://eenadu.net/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://eenadu.net/) **
 **Score**: [62](https://developers.google.com/speed/pagespeed/insights/?url=http://eenadu.net/)
 
 

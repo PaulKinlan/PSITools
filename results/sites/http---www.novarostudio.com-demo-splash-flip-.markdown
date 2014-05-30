@@ -4,6 +4,7 @@ title: http://www.novarostudio.com/demo-splash/flip/
 ---
 ## [Flip Creative Theme](http://www.novarostudio.com/demo-splash/flip/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.novarostudio.com/demo-splash/flip/) **
 **Score**: [80](https://developers.google.com/speed/pagespeed/insights/?url=http://www.novarostudio.com/demo-splash/flip/)
 
 

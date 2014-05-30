@@ -4,6 +4,7 @@ title: http://www.rakuten.co.jp/
 ---
 ## [楽天市場](http://www.rakuten.co.jp/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.rakuten.co.jp/) **
 **Score**: [43](https://developers.google.com/speed/pagespeed/insights/?url=http://www.rakuten.co.jp/)
 
 

@@ -4,6 +4,7 @@ title: http://www.caf.fr/
 ---
 ## [Bienvenue sur Caf.fr | caf.fr](http://www.caf.fr/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.caf.fr/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://www.caf.fr/)
 
 

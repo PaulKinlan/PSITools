@@ -4,6 +4,7 @@ title: http://boldnewsdemo.wordpress.com/
 ---
 ## [Bold News | A new-focused WordPress.com theme](http://boldnewsdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://boldnewsdemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://boldnewsdemo.wordpress.com/)
 
 

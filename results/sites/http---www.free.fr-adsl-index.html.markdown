@@ -4,6 +4,7 @@ title: http://www.free.fr/adsl/index.html
 ---
 ## [Freebox, la meilleure offre ADSL : Internet, Téléphone, Télévision](http://www.free.fr/adsl/index.html)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.free.fr/adsl/index.html) **
 **Score**: [80](https://developers.google.com/speed/pagespeed/insights/?url=http://www.free.fr/adsl/index.html)
 
 

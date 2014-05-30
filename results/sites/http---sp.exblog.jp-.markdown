@@ -4,6 +4,7 @@ title: http://sp.exblog.jp/
 ---
 ## [エキサイトブログ](http://sp.exblog.jp/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://sp.exblog.jp/) **
 **Score**: [38](https://developers.google.com/speed/pagespeed/insights/?url=http://sp.exblog.jp/)
 
 

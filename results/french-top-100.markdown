@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Top 100 Sites in France
-description: PageSpeed insights scores across the top 100 sites from France (via Alexa)
+description: PageSpeed insights scores for mobile across the top 100 sites from France (via Alexa)
 ---
 |Site|Score|
 |----|-----|

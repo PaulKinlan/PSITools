@@ -4,6 +4,7 @@ title: http://www.newsmax.com/t/
 ---
 ## [Newsmax.com - Breaking news from around the globe: U.S. news, politics, world, health, finance, video, science, technology, live news stream](http://www.newsmax.com/t/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.newsmax.com/t/) **
 **Score**: [49](https://developers.google.com/speed/pagespeed/insights/?url=http://www.newsmax.com/t/)
 
 

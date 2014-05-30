@@ -4,6 +4,7 @@ title: http://mobile.bloomberg.com/
 ---
 ## [Bloomberg - Business, Financial & Economic News, Stock Quotes](http://mobile.bloomberg.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.bloomberg.com/) **
 **Score**: [65](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.bloomberg.com/)
 
 

@@ -4,6 +4,7 @@ title: http://mobil.stern.de/?mobil=1
 ---
 ## [News - Aktuelle Nachrichten und spannende Hintergrundberichte auf STERN.DE Mobile](http://mobil.stern.de/?mobil=1)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mobil.stern.de/?mobil=1) **
 **Score**: [58](https://developers.google.com/speed/pagespeed/insights/?url=http://mobil.stern.de/?mobil=1)
 
 

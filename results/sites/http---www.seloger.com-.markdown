@@ -4,6 +4,7 @@ title: http://www.seloger.com/
 ---
 ## [Petites annonces immobilières | 1er site immobilier français | Portail immo](http://www.seloger.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.seloger.com/) **
 **Score**: [80](https://developers.google.com/speed/pagespeed/insights/?url=http://www.seloger.com/)
 
 

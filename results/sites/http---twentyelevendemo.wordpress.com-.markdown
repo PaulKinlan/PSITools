@@ -4,6 +4,7 @@ title: http://twentyelevendemo.wordpress.com/
 ---
 ## [Twenty Eleven | The 2011 theme for WordPress is sophisticated, lightweight, and adaptable](http://twentyelevendemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://twentyelevendemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://twentyelevendemo.wordpress.com/)
 
 

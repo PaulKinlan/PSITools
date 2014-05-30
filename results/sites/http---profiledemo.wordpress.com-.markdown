@@ -4,6 +4,7 @@ title: http://profiledemo.wordpress.com/
 ---
 ## [Profile | A Theme All About You!](http://profiledemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://profiledemo.wordpress.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://profiledemo.wordpress.com/)
 
 

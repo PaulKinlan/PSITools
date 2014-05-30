@@ -4,6 +4,7 @@ title: http://chaptersdemo.wordpress.com/
 ---
 ## [Chapters | A clean, blog-focused WordPress.com theme to help promote your blog posts or your upcoming novel.](http://chaptersdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://chaptersdemo.wordpress.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://chaptersdemo.wordpress.com/)
 
 

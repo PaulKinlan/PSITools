@@ -4,6 +4,7 @@ title: http://personaldemo.wordpress.com/
 ---
 ## [Personal](http://personaldemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://personaldemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://personaldemo.wordpress.com/)
 
 

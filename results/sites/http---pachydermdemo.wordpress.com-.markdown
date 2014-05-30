@@ -4,6 +4,7 @@ title: http://pachydermdemo.wordpress.com/
 ---
 ## [Pachyderm | A cute, clean, responsive microblogging theme](http://pachydermdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://pachydermdemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://pachydermdemo.wordpress.com/)
 
 

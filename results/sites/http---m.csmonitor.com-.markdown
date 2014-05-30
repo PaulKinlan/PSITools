@@ -4,6 +4,7 @@ title: http://m.csmonitor.com/
 ---
 ## [The Christian Science Monitor - CSMonitor.com](http://m.csmonitor.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.csmonitor.com/) **
 **Score**: [34](https://developers.google.com/speed/pagespeed/insights/?url=http://m.csmonitor.com/)
 
 

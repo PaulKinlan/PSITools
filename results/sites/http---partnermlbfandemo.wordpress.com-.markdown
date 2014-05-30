@@ -4,6 +4,7 @@ title: http://partnermlbfandemo.wordpress.com/
 ---
 ## [MLBlogs.com "Fan" | Just another WordPress.com site](http://partnermlbfandemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://partnermlbfandemo.wordpress.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://partnermlbfandemo.wordpress.com/)
 
 

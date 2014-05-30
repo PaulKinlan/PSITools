@@ -4,6 +4,7 @@ title: http://massivepressdemo.wordpress.com/
 ---
 ## [Massive Press | WordPress Theme by Press75](http://massivepressdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://massivepressdemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://massivepressdemo.wordpress.com/)
 
 

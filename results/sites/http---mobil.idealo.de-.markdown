@@ -4,6 +4,7 @@ title: http://mobil.idealo.de/
 ---
 ## [Preisvergleich bei idealo.de](http://mobil.idealo.de/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mobil.idealo.de/) **
 **Score**: [63](https://developers.google.com/speed/pagespeed/insights/?url=http://mobil.idealo.de/)
 
 

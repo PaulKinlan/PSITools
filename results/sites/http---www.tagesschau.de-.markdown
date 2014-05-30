@@ -4,6 +4,7 @@ title: http://www.tagesschau.de/
 ---
 ## [Aktuelle Nachrichten - Inland Ausland Wirtschaft Kultur Sport - ARD Tagesschau | tagesschau.de](http://www.tagesschau.de/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.tagesschau.de/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://www.tagesschau.de/)
 
 

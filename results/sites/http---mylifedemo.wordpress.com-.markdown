@@ -4,6 +4,7 @@ title: http://mylifedemo.wordpress.com/
 ---
 ## [My Life | 4 out of 5 dentists recommend this WordPress.com theme](http://mylifedemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mylifedemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://mylifedemo.wordpress.com/)
 
 

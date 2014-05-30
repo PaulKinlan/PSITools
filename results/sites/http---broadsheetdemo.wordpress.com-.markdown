@@ -4,6 +4,7 @@ title: http://broadsheetdemo.wordpress.com/
 ---
 ## [Broadsheet | A theme for creating interesting, immersive websites](http://broadsheetdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://broadsheetdemo.wordpress.com/) **
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://broadsheetdemo.wordpress.com/)
 
 

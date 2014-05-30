@@ -4,6 +4,7 @@ title: http://ampersanddemo.wordpress.com/
 ---
 ## [Ampersand](http://ampersanddemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://ampersanddemo.wordpress.com/) **
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://ampersanddemo.wordpress.com/)
 
 

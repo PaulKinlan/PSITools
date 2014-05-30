@@ -4,6 +4,7 @@ title: http://spundemo.wordpress.com/
 ---
 ## [Spun | Let your content shine at WordPress.com](http://spundemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://spundemo.wordpress.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://spundemo.wordpress.com/)
 
 

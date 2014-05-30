@@ -4,6 +4,7 @@ title: http://www.colissimo.fr/particuliers/home.jsp
 ---
 ## [Colissimo.fr](http://www.colissimo.fr/particuliers/home.jsp)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.colissimo.fr/particuliers/home.jsp) **
 **Score**: [61](https://developers.google.com/speed/pagespeed/insights/?url=http://www.colissimo.fr/particuliers/home.jsp)
 
 

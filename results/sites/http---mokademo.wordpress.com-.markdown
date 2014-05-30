@@ -4,6 +4,7 @@ title: http://mokademo.wordpress.com/
 ---
 ## [Moka | A Pure & Minimal Premium WordPress Theme](http://mokademo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mokademo.wordpress.com/) **
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://mokademo.wordpress.com/)
 
 

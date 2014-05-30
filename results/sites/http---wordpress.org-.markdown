@@ -4,6 +4,7 @@ title: http://wordpress.org/
 ---
 ## [WordPress › Blog Tool, Publishing Platform, and CMS](http://wordpress.org/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://wordpress.org/) **
 **Score**: [75](https://developers.google.com/speed/pagespeed/insights/?url=http://wordpress.org/)
 
 

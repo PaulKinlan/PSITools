@@ -4,6 +4,7 @@ title: http://greyzeddemo.wordpress.com/
 ---
 ## [Greyzed | A popular dark and grungy theme for WordPress.com](http://greyzeddemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://greyzeddemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://greyzeddemo.wordpress.com/)
 
 

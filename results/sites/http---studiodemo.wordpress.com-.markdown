@@ -4,6 +4,7 @@ title: http://studiodemo.wordpress.com/
 ---
 ## [Peter Galbraith | Photographer / Designer](http://studiodemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://studiodemo.wordpress.com/) **
 **Score**: [62](https://developers.google.com/speed/pagespeed/insights/?url=http://studiodemo.wordpress.com/)
 
 

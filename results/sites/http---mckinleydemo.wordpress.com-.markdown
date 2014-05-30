@@ -4,6 +4,7 @@ title: http://mckinleydemo.wordpress.com/
 ---
 ## [McKinley | A sleek theme with a gallery post format slideshow](http://mckinleydemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mckinleydemo.wordpress.com/) **
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://mckinleydemo.wordpress.com/)
 
 

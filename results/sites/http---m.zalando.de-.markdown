@@ -4,6 +4,7 @@ title: http://m.zalando.de/
 ---
 ## [Schuhe & Mode | ZALANDO](http://m.zalando.de/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.zalando.de/) **
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://m.zalando.de/)
 
 

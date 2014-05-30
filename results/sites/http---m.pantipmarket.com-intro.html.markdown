@@ -4,6 +4,7 @@ title: http://m.pantipmarket.com/intro.html
 ---
 ## [Pantipmarket.com (Mobile) :: Home](http://m.pantipmarket.com/intro.html)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.pantipmarket.com/intro.html) **
 **Score**: [99](https://developers.google.com/speed/pagespeed/insights/?url=http://m.pantipmarket.com/intro.html)
 
 

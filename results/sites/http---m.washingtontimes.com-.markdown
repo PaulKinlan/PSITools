@@ -4,6 +4,7 @@ title: http://m.washingtontimes.com/
 ---
 ## [Washington Times - Politics, Breaking News, US and World News](http://m.washingtontimes.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.washingtontimes.com/) **
 **Score**: [34](https://developers.google.com/speed/pagespeed/insights/?url=http://m.washingtontimes.com/)
 
 

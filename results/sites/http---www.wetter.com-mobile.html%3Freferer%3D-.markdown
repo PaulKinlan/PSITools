@@ -4,6 +4,7 @@ title: http://www.wetter.com/mobile.html?referer=/
 ---
 ## [wetter.com](http://www.wetter.com/mobile.html?referer=/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wetter.com/mobile.html?referer=/) **
 **Score**: [100](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wetter.com/mobile.html?referer=/)
 
 

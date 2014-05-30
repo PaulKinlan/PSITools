@@ -4,6 +4,7 @@ title: http://ryudemo.wordpress.com/
 ---
 ## [Ryu | A WordPress Theme for Personal Bloggers](http://ryudemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://ryudemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://ryudemo.wordpress.com/)
 
 

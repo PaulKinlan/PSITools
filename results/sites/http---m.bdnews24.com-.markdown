@@ -4,6 +4,7 @@ title: http://m.bdnews24.com/
 ---
 ## [Home - m.bdnews24.com](http://m.bdnews24.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.bdnews24.com/) **
 **Score**: [75](https://developers.google.com/speed/pagespeed/insights/?url=http://m.bdnews24.com/)
 
 

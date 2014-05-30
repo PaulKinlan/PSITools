@@ -4,6 +4,7 @@ title: http://www.yandex.ru/
 ---
 ## [Яндекс](http://www.yandex.ru/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.yandex.ru/) **
 **Score**: [75](https://developers.google.com/speed/pagespeed/insights/?url=http://www.yandex.ru/)
 
 

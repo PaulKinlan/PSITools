@@ -4,6 +4,7 @@ title: http://touch.sun-sentinel.com/#section/1097/
 ---
 ## [Sun Sentinel - Front Page](http://touch.sun-sentinel.com/#section/1097/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://touch.sun-sentinel.com/#section/1097/) **
 **Score**: [42](https://developers.google.com/speed/pagespeed/insights/?url=http://touch.sun-sentinel.com/#section/1097/)
 
 

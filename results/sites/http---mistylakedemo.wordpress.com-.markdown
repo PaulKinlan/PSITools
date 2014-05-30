@@ -4,6 +4,7 @@ title: http://mistylakedemo.wordpress.com/
 ---
 ## [Misty Lake | A tranquil WordPress.com theme](http://mistylakedemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mistylakedemo.wordpress.com/) **
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://mistylakedemo.wordpress.com/)
 
 

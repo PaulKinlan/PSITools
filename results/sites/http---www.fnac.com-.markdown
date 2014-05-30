@@ -4,6 +4,7 @@ title: http://www.fnac.com/
 ---
 ## [Fnac.com](http://www.fnac.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.fnac.com/) **
 **Score**: [45](https://developers.google.com/speed/pagespeed/insights/?url=http://www.fnac.com/)
 
 

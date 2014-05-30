@@ -4,6 +4,7 @@ title: http://www.indeed.co.uk/m/
 ---
 ## [Indeed Mobile](http://www.indeed.co.uk/m/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.indeed.co.uk/m/) **
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://www.indeed.co.uk/m/)
 
 

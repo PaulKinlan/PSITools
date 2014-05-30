@@ -4,6 +4,7 @@ title: http://www.olx.co.th/
 ---
 ## [OLX ก็คือ dealfish: รถ มือสอง, บ้าน, มือถือ มือสอง || ลงประกาศฟรี](http://www.olx.co.th/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.olx.co.th/) **
 **Score**: [75](https://developers.google.com/speed/pagespeed/insights/?url=http://www.olx.co.th/)
 
 

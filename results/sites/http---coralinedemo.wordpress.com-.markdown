@@ -4,6 +4,7 @@ title: http://coralinedemo.wordpress.com/
 ---
 ## [The Coraline | A squeaky-clean theme for WordPress.com](http://coralinedemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://coralinedemo.wordpress.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://coralinedemo.wordpress.com/)
 
 

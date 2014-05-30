@@ -4,6 +4,7 @@ title: http://www.telegraph.co.uk/
 ---
 ## [The Telegraph - Telegraph online, Daily Telegraph, Sunday Telegraph - Telegraph](http://www.telegraph.co.uk/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.telegraph.co.uk/) **
 **Score**: [60](https://developers.google.com/speed/pagespeed/insights/?url=http://www.telegraph.co.uk/)
 
 

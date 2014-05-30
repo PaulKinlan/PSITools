@@ -4,6 +4,7 @@ title: http://sakura.ne.jp/
 ---
 ## [レンタルサーバー｜さくらインターネット](http://sakura.ne.jp/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://sakura.ne.jp/) **
 **Score**: [54](https://developers.google.com/speed/pagespeed/insights/?url=http://sakura.ne.jp/)
 
 

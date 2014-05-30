@@ -4,6 +4,7 @@ title: http://responsivedemo.wordpress.com/
 ---
 ## [Responsive | A versatile theme with a responsive layout](http://responsivedemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://responsivedemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://responsivedemo.wordpress.com/)
 
 

@@ -4,6 +4,7 @@ title: http://uk.m.godaddy.com/?mrk=sales.none&mrf=%2F
 ---
 ## [Domain Names | The World's Largest Domain Name Registrar - GoDaddy.com](http://uk.m.godaddy.com/?mrk=sales.none&mrf=%2F)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://uk.m.godaddy.com/?mrk=sales.none&mrf=%2F) **
 **Score**: [58](https://developers.google.com/speed/pagespeed/insights/?url=http://uk.m.godaddy.com/?mrk=sales.none&mrf=%2F)
 
 

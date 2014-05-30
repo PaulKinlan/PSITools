@@ -4,6 +4,7 @@ title: http://www.jalan.net/smart/
 ---
 ## [宿・ホテル予約 - じゃらんnetスマートフォン版](http://www.jalan.net/smart/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.jalan.net/smart/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://www.jalan.net/smart/)
 
 

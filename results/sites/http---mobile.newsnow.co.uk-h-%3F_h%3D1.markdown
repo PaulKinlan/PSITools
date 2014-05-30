@@ -4,6 +4,7 @@ title: http://mobile.newsnow.co.uk/h/?_h=1
 ---
 ## [NewsNow Mobile](http://mobile.newsnow.co.uk/h/?_h=1)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.newsnow.co.uk/h/?_h=1) **
 **Score**: [59](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.newsnow.co.uk/h/?_h=1)
 
 

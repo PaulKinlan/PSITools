@@ -4,6 +4,7 @@ title: http://touch.dailymotion.com/
 ---
 ## [Dailymotion](http://touch.dailymotion.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://touch.dailymotion.com/) **
 **Score**: [60](https://developers.google.com/speed/pagespeed/insights/?url=http://touch.dailymotion.com/)
 
 

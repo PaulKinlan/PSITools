@@ -4,6 +4,7 @@ title: https://www.paypal.com/home
 ---
 ## [Send Money, Pay Online or Set Up a Merchant Account - PayPal](https://www.paypal.com/home)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://www.paypal.com/home) **
 **Score**: [55](https://developers.google.com/speed/pagespeed/insights/?url=https://www.paypal.com/home)
 
 

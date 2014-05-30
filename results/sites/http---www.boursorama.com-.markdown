@@ -4,6 +4,7 @@ title: http://www.boursorama.com/
 ---
 ## [Boursorama : numéro 1 de la banque en ligne et portail leader de l'information financière](http://www.boursorama.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.boursorama.com/) **
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://www.boursorama.com/)
 
 

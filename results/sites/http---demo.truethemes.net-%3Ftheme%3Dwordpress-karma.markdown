@@ -4,6 +4,7 @@ title: http://demo.truethemes.net/?theme=wordpress-karma
 ---
 ## [Live Preview - A Product by TrueThemes](http://demo.truethemes.net/?theme=wordpress-karma)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.truethemes.net/?theme=wordpress-karma) **
 **Score**: [62](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.truethemes.net/?theme=wordpress-karma)
 
 

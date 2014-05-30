@@ -4,6 +4,7 @@ title: http://bromleydemo.wordpress.com/
 ---
 ## [Bromley | An awesome magazine style theme](http://bromleydemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://bromleydemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://bromleydemo.wordpress.com/)
 
 

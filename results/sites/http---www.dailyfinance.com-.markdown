@@ -4,6 +4,7 @@ title: http://www.dailyfinance.com/
 ---
 ## [DailyFinance - News and Advice for a Lifetime of Financial Decisions](http://www.dailyfinance.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.dailyfinance.com/) **
 **Score**: [91](https://developers.google.com/speed/pagespeed/insights/?url=http://www.dailyfinance.com/)
 
 

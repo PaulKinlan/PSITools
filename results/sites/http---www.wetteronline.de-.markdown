@@ -4,6 +4,7 @@ title: http://www.wetteronline.de/
 ---
 ## [Wetter aktuell, Wettervorhersage und Wetterbericht - WetterOnline](http://www.wetteronline.de/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wetteronline.de/) **
 **Score**: [52](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wetteronline.de/)
 
 

@@ -4,6 +4,7 @@ title: http://m.hao123.com/?vit=h123&from=3w123
 ---
 ## [hao123导航-上网从这里开始](http://m.hao123.com/?vit=h123&from=3w123)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.hao123.com/?vit=h123&from=3w123) **
 **Score**: [56](https://developers.google.com/speed/pagespeed/insights/?url=http://m.hao123.com/?vit=h123&from=3w123)
 
 

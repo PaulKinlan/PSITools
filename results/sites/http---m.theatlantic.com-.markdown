@@ -4,6 +4,7 @@ title: http://m.theatlantic.com/
 ---
 ## [Atlantic Mobile](http://m.theatlantic.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.theatlantic.com/) **
 **Score**: [58](https://developers.google.com/speed/pagespeed/insights/?url=http://m.theatlantic.com/)
 
 

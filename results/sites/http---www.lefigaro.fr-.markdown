@@ -4,6 +4,7 @@ title: http://www.lefigaro.fr/
 ---
 ## [Le Figaro - Actualités](http://www.lefigaro.fr/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.lefigaro.fr/) **
 **Score**: [28](https://developers.google.com/speed/pagespeed/insights/?url=http://www.lefigaro.fr/)
 
 

@@ -4,6 +4,7 @@ title: http://chocodemo.wordpress.com/
 ---
 ## [Choco | Stylish and colorful WordPress.com theme](http://chocodemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://chocodemo.wordpress.com/) **
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://chocodemo.wordpress.com/)
 
 

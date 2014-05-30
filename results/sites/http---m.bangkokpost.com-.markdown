@@ -4,6 +4,7 @@ title: http://m.bangkokpost.com/
 ---
 ## [latest breaking news headline](http://m.bangkokpost.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.bangkokpost.com/) **
 **Score**: [55](https://developers.google.com/speed/pagespeed/insights/?url=http://m.bangkokpost.com/)
 
 

@@ -4,6 +4,7 @@ title: http://booklitedemo.wordpress.com/
 ---
 ## [Book Lite | A classic, book-style blog theme with large fonts](http://booklitedemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://booklitedemo.wordpress.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://booklitedemo.wordpress.com/)
 
 

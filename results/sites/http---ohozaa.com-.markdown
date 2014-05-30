@@ -4,6 +4,7 @@ title: http://ohozaa.com/
 ---
 ## [โอ้โหซ่าส์ : เว็บนี้มีแต่ให้ ความบันเทิงมีให้เว็บเดียวจบ!](http://ohozaa.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://ohozaa.com/) **
 **Score**: [56](https://developers.google.com/speed/pagespeed/insights/?url=http://ohozaa.com/)
 
 

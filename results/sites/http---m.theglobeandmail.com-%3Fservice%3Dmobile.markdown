@@ -4,6 +4,7 @@ title: http://m.theglobeandmail.com/?service=mobile
 ---
 ## [Home - The Globe and Mail](http://m.theglobeandmail.com/?service=mobile)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.theglobeandmail.com/?service=mobile) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://m.theglobeandmail.com/?service=mobile)
 
 

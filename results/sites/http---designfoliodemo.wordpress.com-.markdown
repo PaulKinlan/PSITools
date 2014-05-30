@@ -4,6 +4,7 @@ title: http://designfoliodemo.wordpress.com/
 ---
 ## [Designfolio](http://designfoliodemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://designfoliodemo.wordpress.com/) **
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://designfoliodemo.wordpress.com/)
 
 

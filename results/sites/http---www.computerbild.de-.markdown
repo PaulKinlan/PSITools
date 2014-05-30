@@ -4,6 +4,7 @@ title: http://www.computerbild.de/
 ---
 ## [COMPUTER BILD: Tests, Downloads, Ratgeber & Kurse, Kaufberatung, Video](http://www.computerbild.de/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.computerbild.de/) **
 **Score**: [53](https://developers.google.com/speed/pagespeed/insights/?url=http://www.computerbild.de/)
 
 

@@ -4,6 +4,7 @@ title: http://modernnewsdemo.wordpress.com/
 ---
 ## [Modern News](http://modernnewsdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://modernnewsdemo.wordpress.com/) **
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://modernnewsdemo.wordpress.com/)
 
 

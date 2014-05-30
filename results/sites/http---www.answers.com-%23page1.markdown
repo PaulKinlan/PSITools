@@ -4,6 +4,7 @@ title: http://www.answers.com/#page1
 ---
 ## [Answers](http://www.answers.com/#page1)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.answers.com/#page1) **
 **Score**: [74](https://developers.google.com/speed/pagespeed/insights/?url=http://www.answers.com/#page1)
 
 

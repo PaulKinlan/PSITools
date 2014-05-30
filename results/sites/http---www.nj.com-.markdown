@@ -4,6 +4,7 @@ title: http://www.nj.com/
 ---
 ## [New Jersey Local News, Breaking News, Sports & Weather - NJ.com](http://www.nj.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nj.com/) **
 **Score**: [57](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nj.com/)
 
 

@@ -4,6 +4,7 @@ title: http://weddingdemo.wordpress.com/
 ---
 ## [Wedding | Love is a canvas furnished by Nature and embroidered by imagination](http://weddingdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://weddingdemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://weddingdemo.wordpress.com/)
 
 

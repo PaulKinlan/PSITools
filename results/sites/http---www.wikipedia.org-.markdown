@@ -4,6 +4,7 @@ title: http://www.wikipedia.org/
 ---
 ## [Wikipedia](http://www.wikipedia.org/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wikipedia.org/) **
 **Score**: [80](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wikipedia.org/)
 
 

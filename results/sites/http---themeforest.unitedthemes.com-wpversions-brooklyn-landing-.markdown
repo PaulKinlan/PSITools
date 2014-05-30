@@ -4,6 +4,7 @@ title: http://themeforest.unitedthemes.com/wpversions/brooklyn/landing/
 ---
 ## [Welcome to Brooklyn | Just another WordPress site](http://themeforest.unitedthemes.com/wpversions/brooklyn/landing/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://themeforest.unitedthemes.com/wpversions/brooklyn/landing/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://themeforest.unitedthemes.com/wpversions/brooklyn/landing/)
 
 

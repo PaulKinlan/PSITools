@@ -4,6 +4,7 @@ title: http://mimboprodemo.wordpress.com/
 ---
 ## [Mimbo Pro | A classicly designed magazine theme for WordPress.com](http://mimboprodemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mimboprodemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://mimboprodemo.wordpress.com/)
 
 

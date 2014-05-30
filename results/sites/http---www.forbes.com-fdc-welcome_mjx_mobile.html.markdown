@@ -4,6 +4,7 @@ title: http://www.forbes.com/fdc/welcome_mjx_mobile.html
 ---
 ## [Welcome to Forbes](http://www.forbes.com/fdc/welcome_mjx_mobile.html)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.forbes.com/fdc/welcome_mjx_mobile.html) **
 **Score**: [73](https://developers.google.com/speed/pagespeed/insights/?url=http://www.forbes.com/fdc/welcome_mjx_mobile.html)
 
 

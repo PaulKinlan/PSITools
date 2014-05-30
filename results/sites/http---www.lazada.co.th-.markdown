@@ -4,6 +4,7 @@ title: http://www.lazada.co.th/
 ---
 ## [Lazada.co.th - ซื้อของออนไลน์ ช้อปปิ้ง ลาซาด้า โทรศัพท์มือถือ แท็บเล็ต เครื่องสำอาง](http://www.lazada.co.th/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.lazada.co.th/) **
 **Score**: [73](https://developers.google.com/speed/pagespeed/insights/?url=http://www.lazada.co.th/)
 
 

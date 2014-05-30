@@ -4,6 +4,7 @@ title: http://m.voanews.com/
 ---
 ## [VOA News](http://m.voanews.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.voanews.com/) **
 **Score**: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://m.voanews.com/)
 
 

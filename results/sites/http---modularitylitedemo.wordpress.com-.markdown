@@ -4,6 +4,7 @@ title: http://modularitylitedemo.wordpress.com/
 ---
 ## [Modularity Lite | A minimally styled photography theme for WordPress.com](http://modularitylitedemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://modularitylitedemo.wordpress.com/) **
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://modularitylitedemo.wordpress.com/)
 
 

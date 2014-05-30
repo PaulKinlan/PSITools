@@ -4,6 +4,7 @@ title: http://www.dailymail.co.uk/ushome/index.html
 ---
 ## [Home | Mail Online](http://www.dailymail.co.uk/ushome/index.html)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.dailymail.co.uk/ushome/index.html) **
 **Score**: [50](https://developers.google.com/speed/pagespeed/insights/?url=http://www.dailymail.co.uk/ushome/index.html)
 
 

@@ -4,6 +4,7 @@ title: http://petitemelodiesdemo.wordpress.com/
 ---
 ## [Petite Melodies | A whimsical theme in three beautifully illustrated motifs](http://petitemelodiesdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://petitemelodiesdemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://petitemelodiesdemo.wordpress.com/)
 
 

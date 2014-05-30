@@ -4,6 +4,7 @@ title: http://retrofitteddemo.wordpress.com/
 ---
 ## [Retro-fitted | A beautifully balanced theme with subtle textures](http://retrofitteddemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://retrofitteddemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://retrofitteddemo.wordpress.com/)
 
 

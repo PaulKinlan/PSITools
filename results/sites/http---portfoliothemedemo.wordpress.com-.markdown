@@ -4,6 +4,7 @@ title: http://portfoliothemedemo.wordpress.com/
 ---
 ## [Portfolio.](http://portfoliothemedemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://portfoliothemedemo.wordpress.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://portfoliothemedemo.wordpress.com/)
 
 

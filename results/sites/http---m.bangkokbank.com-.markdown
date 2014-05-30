@@ -4,6 +4,7 @@ title: http://m.bangkokbank.com/
 ---
 ## [Bangkok Bank](http://m.bangkokbank.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.bangkokbank.com/) **
 **Score**: [48](https://developers.google.com/speed/pagespeed/insights/?url=http://m.bangkokbank.com/)
 
 

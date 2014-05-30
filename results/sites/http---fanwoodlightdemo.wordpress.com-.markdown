@@ -4,6 +4,7 @@ title: http://fanwoodlightdemo.wordpress.com/
 ---
 ## [Fanwood Light | A bright, bold theme for your personal blog](http://fanwoodlightdemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://fanwoodlightdemo.wordpress.com/) **
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://fanwoodlightdemo.wordpress.com/)
 
 

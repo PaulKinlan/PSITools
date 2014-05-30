@@ -4,6 +4,7 @@ title: http://www.directrev.com/
 ---
 ## [DirectREV - Media Delivery Platform](http://www.directrev.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.directrev.com/) **
 **Score**: [60](https://developers.google.com/speed/pagespeed/insights/?url=http://www.directrev.com/)
 
 

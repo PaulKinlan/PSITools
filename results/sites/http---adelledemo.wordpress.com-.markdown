@@ -4,6 +4,7 @@ title: http://adelledemo.wordpress.com/
 ---
 ## [Adelle | A chic and elegant blogging theme](http://adelledemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://adelledemo.wordpress.com/) **
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://adelledemo.wordpress.com/)
 
 

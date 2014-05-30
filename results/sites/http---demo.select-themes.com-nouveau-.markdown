@@ -4,6 +4,7 @@ title: http://demo.select-themes.com/nouveau/
 ---
 ## [Nouveau | Creative Multi-Purpose WordPress Theme](http://demo.select-themes.com/nouveau/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.select-themes.com/nouveau/) **
 **Score**: [76](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.select-themes.com/nouveau/)
 
 

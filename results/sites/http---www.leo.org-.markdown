@@ -4,6 +4,7 @@ title: http://www.leo.org/
 ---
 ## [WWW leo.org](http://www.leo.org/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.leo.org/) **
 **Score**: [85](https://developers.google.com/speed/pagespeed/insights/?url=http://www.leo.org/)
 
 

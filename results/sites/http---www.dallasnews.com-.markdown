@@ -4,6 +4,7 @@ title: http://www.dallasnews.com/
 ---
 ## [Dallas Morning News](http://www.dallasnews.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.dallasnews.com/) **
 **Score**: [74](https://developers.google.com/speed/pagespeed/insights/?url=http://www.dallasnews.com/)
 
 

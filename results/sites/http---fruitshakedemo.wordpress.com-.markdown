@@ -4,6 +4,7 @@ title: http://fruitshakedemo.wordpress.com/
 ---
 ## [Fruit Shake | The perfectly fruitylicious theme for your blog](http://fruitshakedemo.wordpress.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://fruitshakedemo.wordpress.com/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://fruitshakedemo.wordpress.com/)
 
 

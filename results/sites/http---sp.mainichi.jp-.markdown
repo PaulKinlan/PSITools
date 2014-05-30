@@ -4,6 +4,7 @@ title: http://sp.mainichi.jp/
 ---
 ## [毎日新聞](http://sp.mainichi.jp/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://sp.mainichi.jp/) **
 **Score**: [74](https://developers.google.com/speed/pagespeed/insights/?url=http://sp.mainichi.jp/)
 
 

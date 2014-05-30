@@ -4,6 +4,7 @@ title: http://www.independent.co.uk/
 ---
 ## [The Independent | News | UK and Worldwide News | Newspaper](http://www.independent.co.uk/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.independent.co.uk/) **
 **Score**: [58](https://developers.google.com/speed/pagespeed/insights/?url=http://www.independent.co.uk/)
 
 

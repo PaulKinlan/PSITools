@@ -4,6 +4,7 @@ title: http://m.accuweather.com/
 ---
 ## [Weather for Local and International Locations - AccuWeather.com](http://m.accuweather.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.accuweather.com/) **
 **Score**: [52](https://developers.google.com/speed/pagespeed/insights/?url=http://m.accuweather.com/)
 
 

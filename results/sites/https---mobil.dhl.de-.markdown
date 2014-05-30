@@ -4,6 +4,7 @@ title: https://mobil.dhl.de/
 ---
 ## [Sendungsverfolgung](https://mobil.dhl.de/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://mobil.dhl.de/) **
 **Score**: [60](https://developers.google.com/speed/pagespeed/insights/?url=https://mobil.dhl.de/)
 
 

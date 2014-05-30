@@ -4,6 +4,7 @@ title: http://soccersuck.com/
 ---
 ## [#### ได้รู้ความจริง ได้ยิ่งกว่าฟุตบอล อ่าน soccersuck.com####](http://soccersuck.com/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://soccersuck.com/) **
 **Score**: [60](https://developers.google.com/speed/pagespeed/insights/?url=http://soccersuck.com/)
 
 

@@ -4,6 +4,7 @@ title: http://themeforest.net/
 ---
 ## [WordPress Themes | Website Templates | Create a Website | ThemeForest](http://themeforest.net/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://themeforest.net/) **
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://themeforest.net/)
 
 

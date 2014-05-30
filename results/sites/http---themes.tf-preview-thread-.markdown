@@ -4,6 +4,7 @@ title: http://themes.tf/preview/thread/
 ---
 ## [Thread One Page Template](http://themes.tf/preview/thread/)
 
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://themes.tf/preview/thread/) **
 **Score**: [65](https://developers.google.com/speed/pagespeed/insights/?url=http://themes.tf/preview/thread/)
 
 
