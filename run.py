@@ -27,7 +27,9 @@ class UrlFetchThread(threading.Thread):
       #grabs urls of hosts and then grabs chunk of webpage
       try:
         res = urllib2.urlopen(url + urllib.quote(host.rstrip()))
-        print json.dumps(json.loads(res.read()))
+        result = json.loads(res.read())
+        result["original_url"] = host.rstrip()
+        print json.dumps(result)
       except:
         #signals to queue job is done even if it errors
         sys.stderr.write("ERROR: %s" % (host) )
