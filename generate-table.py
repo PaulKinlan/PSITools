@@ -35,14 +35,16 @@ for site in sorted_sites:
   id = site["id"]
   title = site["title"]
   score = site["score"]
+  url = id[:150] if len(id) > 150 else id
 
   sys.stdout.write("[")
   sys.stdout.write(title.encode('utf-8').replace("|","&#124;"))
-  sys.stdout.write("]({{site.baseurl}}results/sites/%s.html)|[%s](%s%s)|\n" % (urllib.quote_plus(id.replace("/","-").replace(":","-")), score, pagespeed_url, id))
+  sys.stdout.write("]({{site.baseurl}}results/sites/%s.html)|[%s](%s%s)|\n" % (urllib.quote_plus(url.replace("/","-").replace(":","-")), score, pagespeed_url, id))
 
 for site in sorted_sites:
 
   id = site["id"]
+  url = id[:150] if len(id) > 150 else id
   title = site["title"]
   score = site["score"]
   pageStats = site["pageStats"]
@@ -53,7 +55,7 @@ for site in sorted_sites:
 
   sys.stdout.write("## [")
   sys.stdout.write(title.encode('utf-8'))
-  sys.stdout.write("](%s)\n\n" % (id))
+  sys.stdout.write("](%s)\n\n" % (url))
 
   print "**Score**: [%s](%s%s)\n\n" % (score, pagespeed_url, id)
   print "<img src='data:%s;base64,%s'>" % (image_mime, image_url)

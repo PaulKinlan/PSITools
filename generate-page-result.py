@@ -40,6 +40,7 @@ for site in sorted_sites:
   image_url = site["image_url"]
 
   path = os.path.join("results", "sites","%s.markdown" % urllib.quote_plus(id.replace("/","-").replace(":","-")))
+  path = path[:150] if len(path) > 150 else path
 
   with open(path, 'w') as f:
     print >> f, "---"

@@ -58,8 +58,8 @@ description: PageSpeed insights scores across the top 100 sites from UK (via Ale
 [Tumblr]({{site.baseurl}}results/sites/https---www.tumblr.com-.html)|[63](https://developers.google.com/speed/pagespeed/insights/?url=https://www.tumblr.com/)|
 [Collaborative communities for everyone!]({{site.baseurl}}results/sites/http---www.wikia.com-Wikia.html)|[62](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wikia.com/Wikia)|
 [Send Better Email &#124; MailChimp]({{site.baseurl}}results/sites/http---mailchimp.com-.html)|[62](https://developers.google.com/speed/pagespeed/insights/?url=http://mailchimp.com/)|
-[Bank Accounts, Savings, Loans and Mortgages: Santander]({{site.baseurl}}results/sites/http---www.santander.co.uk-csgs-Satellite%3FappID%3Dabbey.internet.Abbeycom%26canal%3DCABBEYCOM%26cid%3D1237889419188%26empr%3DAbbeycom%26leng%3Den_GB%26pagename%3DAbbeycom-Page-WC_ACOM_Home.html)|[62](https://developers.google.com/speed/pagespeed/insights/?url=http://www.santander.co.uk/csgs/Satellite?appID=abbey.internet.Abbeycom&canal=CABBEYCOM&cid=1237889419188&empr=Abbeycom&leng=en_GB&pagename=Abbeycom/Page/WC_ACOM_Home)|
-[Blogger]({{site.baseurl}}results/sites/https---accounts.google.com-ServiceLogin%3Fservice%3Dblogger%26passive%3D1209600%26continue%3Dhttps---www.blogger.com-home%26followup%3Dhttps---www.blogger.com-home%26ltmpl%3Dstart.html)|[61](https://developers.google.com/speed/pagespeed/insights/?url=https://accounts.google.com/ServiceLogin?service=blogger&passive=1209600&continue=https://www.blogger.com/home&followup=https://www.blogger.com/home&ltmpl=start)|
+[Bank Accounts, Savings, Loans and Mortgages: Santander]({{site.baseurl}}results/sites/http---www.santander.co.uk-csgs-Satellite%3FappID%3Dabbey.internet.Abbeycom%26canal%3DCABBEYCOM%26cid%3D1237889419188%26empr%3DAbbeycom%26leng%3Den_GB%26pagename%3DAbbeycom-P.html)|[62](https://developers.google.com/speed/pagespeed/insights/?url=http://www.santander.co.uk/csgs/Satellite?appID=abbey.internet.Abbeycom&canal=CABBEYCOM&cid=1237889419188&empr=Abbeycom&leng=en_GB&pagename=Abbeycom/Page/WC_ACOM_Home)|
+[Blogger]({{site.baseurl}}results/sites/https---accounts.google.com-ServiceLogin%3Fservice%3Dblogger%26passive%3D1209600%26continue%3Dhttps---www.blogger.com-home%26followup%3Dhttps---www.blogger.com-home%26l.html)|[61](https://developers.google.com/speed/pagespeed/insights/?url=https://accounts.google.com/ServiceLogin?service=blogger&passive=1209600&continue=https://www.blogger.com/home&followup=https://www.blogger.com/home&ltmpl=start)|
 [wikiHow - How to do anything]({{site.baseurl}}results/sites/http---m.wikihow.com-Main-Page.html)|[61](https://developers.google.com/speed/pagespeed/insights/?url=http://m.wikihow.com/Main-Page)|
 [LockerDome - Collect anything]({{site.baseurl}}results/sites/http---lockerdome.com-.html)|[60](https://developers.google.com/speed/pagespeed/insights/?url=http://lockerdome.com/)|
 [DirectREV - Media Delivery Platform]({{site.baseurl}}results/sites/http---www.directrev.com-.html)|[60](https://developers.google.com/speed/pagespeed/insights/?url=http://www.directrev.com/)|
@@ -78,7 +78,7 @@ description: PageSpeed insights scores across the top 100 sites from UK (via Ale
 [The Independent &#124; News &#124; UK and Worldwide News &#124; Newspaper]({{site.baseurl}}results/sites/http---www.independent.co.uk-.html)|[58](https://developers.google.com/speed/pagespeed/insights/?url=http://www.independent.co.uk/)|
 [News: Pictures, Videos, Breaking News]({{site.baseurl}}results/sites/http---m.huffpost.com-us-.html)|[56](https://developers.google.com/speed/pagespeed/insights/?url=http://m.huffpost.com/us/)|
 [Sky.com &#124; Your Home for the Latest Sky News, Sports & Entertainment]({{site.baseurl}}results/sites/http---www.sky.com-.html)|[56](https://developers.google.com/speed/pagespeed/insights/?url=http://www.sky.com/)|
-[Sign In]({{site.baseurl}}results/sites/https---login.live.com-login.srf%3Fwa%3Dwsignin1.0%26rpsnv%3D12%26ct%3D1401456397%26rver%3D6.4.6456.0%26wp%3DMBI_SSL_SHARED%26wreply%3Dhttps-%252F%252Fmail.live.com%252Fm%252F%26lc%3D1033%26id%3D64855%26pcexp%3Dfalse%26snsc%3D1.html)|[56](https://developers.google.com/speed/pagespeed/insights/?url=https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1401456397&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fm%2F&lc=1033&id=64855&pcexp=false&snsc=1)|
+[Sign In]({{site.baseurl}}results/sites/https---login.live.com-login.srf%3Fwa%3Dwsignin1.0%26rpsnv%3D12%26ct%3D1401456397%26rver%3D6.4.6456.0%26wp%3DMBI_SSL_SHARED%26wreply%3Dhttps-%252F%252Fmail.live.com%252Fm%252F%26lc%3D103.html)|[56](https://developers.google.com/speed/pagespeed/insights/?url=https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1401456397&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fm%2F&lc=1033&id=64855&pcexp=false&snsc=1)|
 [Welcome to Facebook]({{site.baseurl}}results/sites/https---m.facebook.com-%3Frefsrc%3Dhttp%253A%252F%252Fwww.facebook.com%252F%26_rdr.html)|[56](https://developers.google.com/speed/pagespeed/insights/?url=https://m.facebook.com/?refsrc=http%3A%2F%2Fwww.facebook.com%2F&_rdr)|
 [Welcome to GOV.UK]({{site.baseurl}}results/sites/https---www.gov.uk-.html)|[55](https://developers.google.com/speed/pagespeed/insights/?url=https://www.gov.uk/)|
 [Sky Sports]({{site.baseurl}}results/sites/http---m.skysports.com-.html)|[55](https://developers.google.com/speed/pagespeed/insights/?url=http://m.skysports.com/)|
@@ -1582,7 +1582,7 @@ description: PageSpeed insights scores across the top 100 sites from UK (via Ale
 <hr>
 
 
-## [Bank Accounts, Savings, Loans and Mortgages: Santander](http://www.santander.co.uk/csgs/Satellite?appID=abbey.internet.Abbeycom&canal=CABBEYCOM&cid=1237889419188&empr=Abbeycom&leng=en_GB&pagename=Abbeycom/Page/WC_ACOM_Home)
+## [Bank Accounts, Savings, Loans and Mortgages: Santander](http://www.santander.co.uk/csgs/Satellite?appID=abbey.internet.Abbeycom&canal=CABBEYCOM&cid=1237889419188&empr=Abbeycom&leng=en_GB&pagename=Abbeycom/P)
 
 **Score**: [62](https://developers.google.com/speed/pagespeed/insights/?url=http://www.santander.co.uk/csgs/Satellite?appID=abbey.internet.Abbeycom&canal=CABBEYCOM&cid=1237889419188&empr=Abbeycom&leng=en_GB&pagename=Abbeycom/Page/WC_ACOM_Home)
 
@@ -1610,7 +1610,7 @@ description: PageSpeed insights scores across the top 100 sites from UK (via Ale
 <hr>
 
 
-## [Blogger](https://accounts.google.com/ServiceLogin?service=blogger&passive=1209600&continue=https://www.blogger.com/home&followup=https://www.blogger.com/home&ltmpl=start)
+## [Blogger](https://accounts.google.com/ServiceLogin?service=blogger&passive=1209600&continue=https://www.blogger.com/home&followup=https://www.blogger.com/home&l)
 
 **Score**: [61](https://developers.google.com/speed/pagespeed/insights/?url=https://accounts.google.com/ServiceLogin?service=blogger&passive=1209600&continue=https://www.blogger.com/home&followup=https://www.blogger.com/home&ltmpl=start)
 
@@ -2142,7 +2142,7 @@ description: PageSpeed insights scores across the top 100 sites from UK (via Ale
 <hr>
 
 
-## [Sign In](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1401456397&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fm%2F&lc=1033&id=64855&pcexp=false&snsc=1)
+## [Sign In](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1401456397&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fm%2F&lc=103)
 
 **Score**: [56](https://developers.google.com/speed/pagespeed/insights/?url=https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1401456397&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fm%2F&lc=1033&id=64855&pcexp=false&snsc=1)
 
