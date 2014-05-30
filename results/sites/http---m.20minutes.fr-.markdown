@@ -4,7 +4,8 @@ title: http://m.20minutes.fr/
 ---
 ## [20minutes.fr, information en continu. Actualités, Politique, Football, People, High Tech](http://m.20minutes.fr/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.20minutes.fr/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.20minutes.fr/)**
+
 **Score**: [45](https://developers.google.com/speed/pagespeed/insights/?url=http://m.20minutes.fr/)
 
 

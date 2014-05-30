@@ -4,7 +4,8 @@ title: https://www.google.fr/
 ---
 ## [Google](https://www.google.fr/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.fr/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.fr/)**
+
 **Score**: [79](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.fr/)
 
 

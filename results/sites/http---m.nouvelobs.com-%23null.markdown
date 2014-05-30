@@ -4,7 +4,8 @@ title: http://m.nouvelobs.com/#null
 ---
 ## [Le Nouvel Observateur mobile - Information et Actualités en temps réel](http://m.nouvelobs.com/#null)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.nouvelobs.com/#null) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.nouvelobs.com/#null)**
+
 **Score**: [60](https://developers.google.com/speed/pagespeed/insights/?url=http://m.nouvelobs.com/#null)
 
 

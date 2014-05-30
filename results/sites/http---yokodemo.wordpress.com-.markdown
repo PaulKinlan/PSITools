@@ -4,7 +4,8 @@ title: http://yokodemo.wordpress.com/
 ---
 ## [Yoko | 4 out of 5 dentists recommend this WordPress.com theme](http://yokodemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://yokodemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://yokodemo.wordpress.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://yokodemo.wordpress.com/)
 
 

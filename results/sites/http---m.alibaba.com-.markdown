@@ -4,7 +4,8 @@ title: http://m.alibaba.com/
 ---
 ## [Alibaba Manufacturer Directory](http://m.alibaba.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.alibaba.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.alibaba.com/)**
+
 **Score**: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://m.alibaba.com/)
 
 

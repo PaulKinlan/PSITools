@@ -4,7 +4,8 @@ title: http://template.progressive.itembridge.com/2.1.5/
 ---
 ## [Creative Home \ Progressive — Responsive Multipurpose HTML Template](http://template.progressive.itembridge.com/2.1.5/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://template.progressive.itembridge.com/2.1.5/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://template.progressive.itembridge.com/2.1.5/)**
+
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://template.progressive.itembridge.com/2.1.5/)
 
 

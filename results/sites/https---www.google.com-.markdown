@@ -4,7 +4,8 @@ title: https://www.google.com/
 ---
 ## [Google](https://www.google.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.com/)**
+
 **Score**: [79](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.com/)
 
 

@@ -4,7 +4,8 @@ title: http://m.mobile.de/portal/index.html#Car
 ---
 ## [mobile.de](http://m.mobile.de/portal/index.html#Car)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.mobile.de/portal/index.html#Car) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.mobile.de/portal/index.html#Car)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://m.mobile.de/portal/index.html#Car)
 
 

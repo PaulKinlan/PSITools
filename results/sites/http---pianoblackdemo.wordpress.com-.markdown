@@ -4,7 +4,8 @@ title: http://pianoblackdemo.wordpress.com/
 ---
 ## [Piano Black | A dark and elegant WordPress.com theme](http://pianoblackdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://pianoblackdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://pianoblackdemo.wordpress.com/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://pianoblackdemo.wordpress.com/)
 
 

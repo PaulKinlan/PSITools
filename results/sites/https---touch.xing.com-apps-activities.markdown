@@ -4,7 +4,8 @@ title: https://touch.xing.com/apps/activities
 ---
 ## [XING Mobile Web App](https://touch.xing.com/apps/activities)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://touch.xing.com/apps/activities) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://touch.xing.com/apps/activities)**
+
 **Score**: [56](https://developers.google.com/speed/pagespeed/insights/?url=https://touch.xing.com/apps/activities)
 
 

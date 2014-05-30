@@ -4,7 +4,8 @@ title: http://herodemo.wordpress.com/
 ---
 ## [Hero | A very neat and clean, black and red business theme](http://herodemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://herodemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://herodemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://herodemo.wordpress.com/)
 
 

@@ -4,7 +4,8 @@ title: http://m.commentcamarche.net/
 ---
 ## [Comment Ça Marche (CCM) - Communauté informatique](http://m.commentcamarche.net/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.commentcamarche.net/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.commentcamarche.net/)**
+
 **Score**: [61](https://developers.google.com/speed/pagespeed/insights/?url=http://m.commentcamarche.net/)
 
 

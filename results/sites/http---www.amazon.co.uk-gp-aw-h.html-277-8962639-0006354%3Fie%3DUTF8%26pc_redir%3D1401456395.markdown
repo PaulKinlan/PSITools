@@ -4,7 +4,8 @@ title: http://www.amazon.co.uk/gp/aw/h.html/277-8962639-0006354?ie=UTF8&pc_redir
 ---
 ## [Amazon.co.uk](http://www.amazon.co.uk/gp/aw/h.html/277-8962639-0006354?ie=UTF8&pc_redir=1401456395)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.amazon.co.uk/gp/aw/h.html/277-8962639-0006354?ie=UTF8&pc_redir=1401456395) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.amazon.co.uk/gp/aw/h.html/277-8962639-0006354?ie=UTF8&pc_redir=1401456395)**
+
 **Score**: [90](https://developers.google.com/speed/pagespeed/insights/?url=http://www.amazon.co.uk/gp/aw/h.html/277-8962639-0006354?ie=UTF8&pc_redir=1401456395)
 
 

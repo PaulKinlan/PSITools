@@ -4,7 +4,8 @@ title: http://esquiredemo.wordpress.com/
 ---
 ## [The Esquire | An elegant and bold theme for WordPress.com](http://esquiredemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://esquiredemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://esquiredemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://esquiredemo.wordpress.com/)
 
 

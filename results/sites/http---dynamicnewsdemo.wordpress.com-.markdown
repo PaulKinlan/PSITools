@@ -4,7 +4,8 @@ title: http://dynamicnewsdemo.wordpress.com/
 ---
 ## [Dynamic News](http://dynamicnewsdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://dynamicnewsdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://dynamicnewsdemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://dynamicnewsdemo.wordpress.com/)
 
 

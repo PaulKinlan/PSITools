@@ -4,7 +4,8 @@ title: http://vintagecamerademo.wordpress.com/
 ---
 ## [Vintage Camera | An illustrated microblogging theme for WordPress.com](http://vintagecamerademo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://vintagecamerademo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://vintagecamerademo.wordpress.com/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://vintagecamerademo.wordpress.com/)
 
 

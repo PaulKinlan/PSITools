@@ -4,7 +4,8 @@ title: http://asceticademo.wordpress.com/
 ---
 ## [Ascetica | This WordPress.com theme is the bee's knees](http://asceticademo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://asceticademo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://asceticademo.wordpress.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://asceticademo.wordpress.com/)
 
 

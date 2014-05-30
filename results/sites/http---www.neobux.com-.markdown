@@ -4,7 +4,8 @@ title: http://www.neobux.com/
 ---
 ## [NeoBux: The Innovation in Paid-to-Click Services](http://www.neobux.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.neobux.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.neobux.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://www.neobux.com/)
 
 

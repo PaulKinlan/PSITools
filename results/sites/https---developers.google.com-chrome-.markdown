@@ -4,7 +4,8 @@ title: https://developers.google.com/chrome/
 ---
 ## [Google Chrome — Google Developers](https://developers.google.com/chrome/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://developers.google.com/chrome/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://developers.google.com/chrome/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=https://developers.google.com/chrome/)
 
 

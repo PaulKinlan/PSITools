@@ -4,7 +4,8 @@ title: http://themes.goodlayers.com/?theme=tourpackage
 ---
 ## [GoodLayers | Theme: Tourpackage](http://themes.goodlayers.com/?theme=tourpackage)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://themes.goodlayers.com/?theme=tourpackage) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://themes.goodlayers.com/?theme=tourpackage)**
+
 **Score**: [58](https://developers.google.com/speed/pagespeed/insights/?url=http://themes.goodlayers.com/?theme=tourpackage)
 
 

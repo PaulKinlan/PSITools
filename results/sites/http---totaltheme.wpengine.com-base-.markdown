@@ -4,7 +4,8 @@ title: http://totaltheme.wpengine.com/base/
 ---
 ## [Total WordPress Theme](http://totaltheme.wpengine.com/base/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://totaltheme.wpengine.com/base/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://totaltheme.wpengine.com/base/)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://totaltheme.wpengine.com/base/)
 
 

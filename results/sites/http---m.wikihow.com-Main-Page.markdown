@@ -4,7 +4,8 @@ title: http://m.wikihow.com/Main-Page
 ---
 ## [wikiHow - How to do anything](http://m.wikihow.com/Main-Page)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.wikihow.com/Main-Page) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.wikihow.com/Main-Page)**
+
 **Score**: [61](https://developers.google.com/speed/pagespeed/insights/?url=http://m.wikihow.com/Main-Page)
 
 

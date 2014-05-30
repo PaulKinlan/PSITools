@@ -4,7 +4,8 @@ title: http://www.gutefrage.net/
 ---
 ## [Gute Fragen - hilfreiche Antworten - die Ratgeber Community gutefrage.net](http://www.gutefrage.net/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.gutefrage.net/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.gutefrage.net/)**
+
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://www.gutefrage.net/)
 
 

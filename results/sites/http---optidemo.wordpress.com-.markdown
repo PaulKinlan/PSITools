@@ -4,7 +4,8 @@ title: http://optidemo.wordpress.com/
 ---
 ## [Opti](http://optidemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://optidemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://optidemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://optidemo.wordpress.com/)
 
 

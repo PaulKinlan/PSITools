@@ -4,7 +4,8 @@ title: http://basicmathsdemo.wordpress.com/
 ---
 ## [Basic Maths | A thoughtfully designed and well-constructed grid theme.](http://basicmathsdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://basicmathsdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://basicmathsdemo.wordpress.com/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://basicmathsdemo.wordpress.com/)
 
 

@@ -4,7 +4,8 @@ title: http://www.weblio.jp/
 ---
 ## [Weblio辞書](http://www.weblio.jp/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.weblio.jp/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.weblio.jp/)**
+
 **Score**: [73](https://developers.google.com/speed/pagespeed/insights/?url=http://www.weblio.jp/)
 
 

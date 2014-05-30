@@ -4,7 +4,8 @@ title: http://time.com/
 ---
 ## [TIME - Breaking News, Analysis, Politics, Blogs, News Photos, Video, Tech Reviews](http://time.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://time.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://time.com/)**
+
 **Score**: [52](https://developers.google.com/speed/pagespeed/insights/?url=http://time.com/)
 
 

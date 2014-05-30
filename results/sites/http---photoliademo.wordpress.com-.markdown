@@ -4,7 +4,8 @@ title: http://photoliademo.wordpress.com/
 ---
 ## [Photolia | A responsive photoblogging theme](http://photoliademo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://photoliademo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://photoliademo.wordpress.com/)**
+
 **Score**: [66](https://developers.google.com/speed/pagespeed/insights/?url=http://photoliademo.wordpress.com/)
 
 

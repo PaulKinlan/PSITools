@@ -4,7 +4,8 @@ title: http://www.mydealz.de/
 ---
 ## [myDealZ.de - Der Schnäppchen Blog mit Z](http://www.mydealz.de/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.mydealz.de/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.mydealz.de/)**
+
 **Score**: [79](https://developers.google.com/speed/pagespeed/insights/?url=http://www.mydealz.de/)
 
 

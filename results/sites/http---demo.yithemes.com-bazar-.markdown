@@ -4,7 +4,8 @@ title: http://demo.yithemes.com/bazar/
 ---
 ## [Bazar SHOP | usable and clean e-commerce theme](http://demo.yithemes.com/bazar/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.yithemes.com/bazar/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.yithemes.com/bazar/)**
+
 **Score**: [65](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.yithemes.com/bazar/)
 
 

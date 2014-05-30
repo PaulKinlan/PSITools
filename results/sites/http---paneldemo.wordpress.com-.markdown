@@ -4,7 +4,8 @@ title: http://paneldemo.wordpress.com/
 ---
 ## [Panel | A theme for webcomics from WordPress.com](http://paneldemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://paneldemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://paneldemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://paneldemo.wordpress.com/)
 
 

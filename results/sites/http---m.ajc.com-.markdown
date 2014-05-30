@@ -4,7 +4,8 @@ title: http://m.ajc.com/
 ---
 ## [Atlanta News, Sports, Atlanta Weather, Business News | www.ajc.com](http://m.ajc.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.ajc.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.ajc.com/)**
+
 **Score**: [61](https://developers.google.com/speed/pagespeed/insights/?url=http://m.ajc.com/)
 
 

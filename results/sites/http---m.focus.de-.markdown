@@ -4,7 +4,8 @@ title: http://m.focus.de/
 ---
 ## [FOCUS Online Mobile - Nachrichten](http://m.focus.de/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.focus.de/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.focus.de/)**
+
 **Score**: [43](https://developers.google.com/speed/pagespeed/insights/?url=http://m.focus.de/)
 
 

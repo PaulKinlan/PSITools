@@ -4,7 +4,8 @@ title: http://www.societe.com/
 ---
 ## [Societe.com](http://www.societe.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.societe.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.societe.com/)**
+
 **Score**: [85](https://developers.google.com/speed/pagespeed/insights/?url=http://www.societe.com/)
 
 

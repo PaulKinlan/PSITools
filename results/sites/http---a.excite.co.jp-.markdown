@@ -4,7 +4,8 @@ title: http://a.excite.co.jp/
 ---
 ## [Excite エキサイト](http://a.excite.co.jp/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://a.excite.co.jp/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://a.excite.co.jp/)**
+
 **Score**: [62](https://developers.google.com/speed/pagespeed/insights/?url=http://a.excite.co.jp/)
 
 

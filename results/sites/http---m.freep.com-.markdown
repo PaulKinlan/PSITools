@@ -4,7 +4,8 @@ title: http://m.freep.com/
 ---
 ## [freep](http://m.freep.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.freep.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.freep.com/)**
+
 **Score**: [57](https://developers.google.com/speed/pagespeed/insights/?url=http://m.freep.com/)
 
 

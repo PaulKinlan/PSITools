@@ -4,7 +4,8 @@ title: http://www.nikkeibp.co.jp/mobile/
 ---
 ## [nikkei BPnet 〈日経BPネット〉：日経BPオールジャンルまとめ読みサイト](http://www.nikkeibp.co.jp/mobile/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nikkeibp.co.jp/mobile/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nikkeibp.co.jp/mobile/)**
+
 **Score**: [45](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nikkeibp.co.jp/mobile/)
 
 

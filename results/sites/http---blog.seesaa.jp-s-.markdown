@@ -4,7 +4,8 @@ title: http://blog.seesaa.jp/s/
 ---
 ## [シーサー株式会社](http://blog.seesaa.jp/s/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://blog.seesaa.jp/s/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://blog.seesaa.jp/s/)**
+
 **Score**: [85](https://developers.google.com/speed/pagespeed/insights/?url=http://blog.seesaa.jp/s/)
 
 

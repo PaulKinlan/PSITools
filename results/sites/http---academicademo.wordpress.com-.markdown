@@ -4,7 +4,8 @@ title: http://academicademo.wordpress.com/
 ---
 ## [Academica « This WordPress.com theme is the cat’s pajamas](http://academicademo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://academicademo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://academicademo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://academicademo.wordpress.com/)
 
 

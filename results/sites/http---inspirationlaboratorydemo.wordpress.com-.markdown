@@ -4,7 +4,8 @@ title: http://inspirationlaboratorydemo.wordpress.com/
 ---
 ## [Inspiration Laboratory | Another zany WordPress.com theme](http://inspirationlaboratorydemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://inspirationlaboratorydemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://inspirationlaboratorydemo.wordpress.com/)**
+
 **Score**: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://inspirationlaboratorydemo.wordpress.com/)
 
 

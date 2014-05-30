@@ -4,7 +4,8 @@ title: http://shineondemo.wordpress.com/
 ---
 ## [Shine On | Happiness, Joy, and WordPress.com](http://shineondemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://shineondemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://shineondemo.wordpress.com/)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://shineondemo.wordpress.com/)
 
 

@@ -4,7 +4,8 @@ title: http://m.dailynews.co.th/NewsList.do
 ---
 ## [เดลินิวส์ | อ่านความจริง อ่านเดลินิวส์](http://m.dailynews.co.th/NewsList.do)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.dailynews.co.th/NewsList.do) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.dailynews.co.th/NewsList.do)**
+
 **Score**: [52](https://developers.google.com/speed/pagespeed/insights/?url=http://m.dailynews.co.th/NewsList.do)
 
 

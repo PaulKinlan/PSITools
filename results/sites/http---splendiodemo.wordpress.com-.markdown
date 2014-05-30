@@ -4,7 +4,8 @@ title: http://splendiodemo.wordpress.com/
 ---
 ## [splendio | A stylish WordPress.com theme](http://splendiodemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://splendiodemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://splendiodemo.wordpress.com/)**
+
 **Score**: [65](https://developers.google.com/speed/pagespeed/insights/?url=http://splendiodemo.wordpress.com/)
 
 

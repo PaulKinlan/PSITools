@@ -4,7 +4,8 @@ title: http://www.cnbc.com/id/100746255?region=world
 ---
 ## [CNBC International – World Business News Leader](http://www.cnbc.com/id/100746255?region=world)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.cnbc.com/id/100746255?region=world) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.cnbc.com/id/100746255?region=world)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://www.cnbc.com/id/100746255?region=world)
 
 

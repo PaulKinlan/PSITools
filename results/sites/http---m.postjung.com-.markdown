@@ -4,7 +4,8 @@ title: http://m.postjung.com/
 ---
 ## [โพสท์จัง on Mobile](http://m.postjung.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.postjung.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.postjung.com/)**
+
 **Score**: [74](https://developers.google.com/speed/pagespeed/insights/?url=http://m.postjung.com/)
 
 

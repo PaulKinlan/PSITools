@@ -4,7 +4,8 @@ title: http://blaskandemo.wordpress.com/
 ---
 ## [Blaskan | Just another super-awesome WordPress theme](http://blaskandemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://blaskandemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://blaskandemo.wordpress.com/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://blaskandemo.wordpress.com/)
 
 

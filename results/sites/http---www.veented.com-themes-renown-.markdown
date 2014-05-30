@@ -4,7 +4,8 @@ title: http://www.veented.com/themes/renown/
 ---
 ## [Renown](http://www.veented.com/themes/renown/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.veented.com/themes/renown/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.veented.com/themes/renown/)**
+
 **Score**: [31](https://developers.google.com/speed/pagespeed/insights/?url=http://www.veented.com/themes/renown/)
 
 

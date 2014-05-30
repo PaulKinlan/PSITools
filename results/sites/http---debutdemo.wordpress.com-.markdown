@@ -4,7 +4,8 @@ title: http://debutdemo.wordpress.com/
 ---
 ## [Debut | An eye-catching multimedia WordPress.com theme](http://debutdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://debutdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://debutdemo.wordpress.com/)**
+
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://debutdemo.wordpress.com/)
 
 

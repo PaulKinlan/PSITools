@@ -4,7 +4,8 @@ title: http://bloccodemo.wordpress.com/
 ---
 ## [Blocco | A Unique Block Style Theme](http://bloccodemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://bloccodemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://bloccodemo.wordpress.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://bloccodemo.wordpress.com/)
 
 

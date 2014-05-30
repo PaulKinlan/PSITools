@@ -4,7 +4,8 @@ title: http://mobil.n-tv.de/
 ---
 ## [n-tv.de](http://mobil.n-tv.de/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mobil.n-tv.de/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mobil.n-tv.de/)**
+
 **Score**: [60](https://developers.google.com/speed/pagespeed/insights/?url=http://mobil.n-tv.de/)
 
 

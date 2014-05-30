@@ -4,7 +4,8 @@ title: http://www.leboncoin.fr/
 ---
 ## [Petites annonces gratuites d'occasion - leboncoin.fr](http://www.leboncoin.fr/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.leboncoin.fr/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.leboncoin.fr/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://www.leboncoin.fr/)
 
 

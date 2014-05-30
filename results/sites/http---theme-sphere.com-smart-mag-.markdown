@@ -4,7 +4,8 @@ title: http://theme-sphere.com/smart-mag/
 ---
 ## [SmartMag — Premium Content](http://theme-sphere.com/smart-mag/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://theme-sphere.com/smart-mag/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://theme-sphere.com/smart-mag/)**
+
 **Score**: [80](https://developers.google.com/speed/pagespeed/insights/?url=http://theme-sphere.com/smart-mag/)
 
 

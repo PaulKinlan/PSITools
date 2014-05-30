@@ -4,7 +4,8 @@ title: http://www.carview.co.jp/movepage/?u=http%3A%2F%2Fcarview.yahoo.co.jp%2F
 ---
 ## [サイト統合のお知らせ｜carview（カービュー）](http://www.carview.co.jp/movepage/?u=http%3A%2F%2Fcarview.yahoo.co.jp%2F)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.carview.co.jp/movepage/?u=http%3A%2F%2Fcarview.yahoo.co.jp%2F) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.carview.co.jp/movepage/?u=http%3A%2F%2Fcarview.yahoo.co.jp%2F)**
+
 **Score**: [84](https://developers.google.com/speed/pagespeed/insights/?url=http://www.carview.co.jp/movepage/?u=http%3A%2F%2Fcarview.yahoo.co.jp%2F)
 
 

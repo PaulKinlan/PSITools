@@ -4,7 +4,8 @@ title: http://m.thestar.com/
 ---
 ## [TheStar](http://m.thestar.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.thestar.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.thestar.com/)**
+
 **Score**: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://m.thestar.com/)
 
 

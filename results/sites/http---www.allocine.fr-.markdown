@@ -4,7 +4,8 @@ title: http://www.allocine.fr/
 ---
 ## [AlloCiné : Cinéma, Séries TV, Stars, Vidéos, DVD et VOD](http://www.allocine.fr/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.allocine.fr/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.allocine.fr/)**
+
 **Score**: [61](https://developers.google.com/speed/pagespeed/insights/?url=http://www.allocine.fr/)
 
 

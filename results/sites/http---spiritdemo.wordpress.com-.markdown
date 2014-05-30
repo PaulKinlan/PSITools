@@ -4,7 +4,8 @@ title: http://spiritdemo.wordpress.com/
 ---
 ## [Spirit | Have a Happy Holiday at WordPress.com](http://spiritdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://spiritdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://spiritdemo.wordpress.com/)**
+
 **Score**: [65](https://developers.google.com/speed/pagespeed/insights/?url=http://spiritdemo.wordpress.com/)
 
 

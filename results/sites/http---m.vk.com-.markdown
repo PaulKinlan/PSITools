@@ -4,7 +4,8 @@ title: http://m.vk.com/
 ---
 ## [VK mobile version](http://m.vk.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.vk.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.vk.com/)**
+
 **Score**: [75](https://developers.google.com/speed/pagespeed/insights/?url=http://m.vk.com/)
 
 

@@ -4,7 +4,8 @@ title: http://www.mediafire.com/
 ---
 ## [Free File Sharing and Storage made Simple.](http://www.mediafire.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.mediafire.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.mediafire.com/)**
+
 **Score**: [65](https://developers.google.com/speed/pagespeed/insights/?url=http://www.mediafire.com/)
 
 

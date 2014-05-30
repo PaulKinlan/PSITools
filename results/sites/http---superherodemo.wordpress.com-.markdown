@@ -4,7 +4,8 @@ title: http://superherodemo.wordpress.com/
 ---
 ## [Superhero | The greatest WordPress.com theme in all the land](http://superherodemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://superherodemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://superherodemo.wordpress.com/)**
+
 **Score**: [66](https://developers.google.com/speed/pagespeed/insights/?url=http://superherodemo.wordpress.com/)
 
 

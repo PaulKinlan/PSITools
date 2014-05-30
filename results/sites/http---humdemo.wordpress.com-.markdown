@@ -4,7 +4,8 @@ title: http://humdemo.wordpress.com/
 ---
 ## [Hum | A responsive theme designed to show off a stream of posts, quotes, and images](http://humdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://humdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://humdemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://humdemo.wordpress.com/)
 
 

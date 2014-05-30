@@ -4,7 +4,8 @@ title: http://sidekickdemo.wordpress.com/
 ---
 ## [Sidekick | Every superhero needs one](http://sidekickdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://sidekickdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://sidekickdemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://sidekickdemo.wordpress.com/)
 
 

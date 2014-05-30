@@ -4,7 +4,8 @@ title: http://the7.dream-demo.com/main/
 ---
 ## [The7 - Ultimate WordPress Theme | Main Demo](http://the7.dream-demo.com/main/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://the7.dream-demo.com/main/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://the7.dream-demo.com/main/)**
+
 **Score**: [54](https://developers.google.com/speed/pagespeed/insights/?url=http://the7.dream-demo.com/main/)
 
 

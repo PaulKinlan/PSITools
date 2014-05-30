@@ -4,7 +4,8 @@ title: http://m.bbc.com/
 ---
 ## [BBC - Homepage](http://m.bbc.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.bbc.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.bbc.com/)**
+
 **Score**: [40](https://developers.google.com/speed/pagespeed/insights/?url=http://m.bbc.com/)
 
 

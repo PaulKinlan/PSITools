@@ -4,7 +4,8 @@ title: http://onawhimdemo.wordpress.com/
 ---
 ## [On a Whim | A whimsically fun theme](http://onawhimdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://onawhimdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://onawhimdemo.wordpress.com/)**
+
 **Score**: [61](https://developers.google.com/speed/pagespeed/insights/?url=http://onawhimdemo.wordpress.com/)
 
 

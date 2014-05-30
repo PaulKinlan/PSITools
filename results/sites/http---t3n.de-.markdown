@@ -4,7 +4,8 @@ title: http://t3n.de/
 ---
 ## [t3n - Das Magazin für Digitales Business | digital pioneers](http://t3n.de/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://t3n.de/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://t3n.de/)**
+
 **Score**: [49](https://developers.google.com/speed/pagespeed/insights/?url=http://t3n.de/)
 
 

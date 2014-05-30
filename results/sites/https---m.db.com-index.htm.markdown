@@ -4,7 +4,8 @@ title: https://m.db.com/index.htm
 ---
 ## [Deutsche Bank Mobil - Startseite](https://m.db.com/index.htm)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://m.db.com/index.htm) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://m.db.com/index.htm)**
+
 **Score**: [44](https://developers.google.com/speed/pagespeed/insights/?url=https://m.db.com/index.htm)
 
 

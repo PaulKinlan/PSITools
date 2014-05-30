@@ -4,7 +4,8 @@ title: http://okwave.jp/
 ---
 ## [質問・疑問に答えるQ&AサイトOKWave](http://okwave.jp/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://okwave.jp/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://okwave.jp/)**
+
 **Score**: [65](https://developers.google.com/speed/pagespeed/insights/?url=http://okwave.jp/)
 
 

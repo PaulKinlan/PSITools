@@ -4,7 +4,8 @@ title: http://docs.webplatform.org/wiki/concepts/Pointer_Events
 ---
 ## [Pointer Events · concepts · WPD · WebPlatform.org](http://docs.webplatform.org/wiki/concepts/Pointer_Events)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://docs.webplatform.org/wiki/concepts/Pointer_Events) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://docs.webplatform.org/wiki/concepts/Pointer_Events)**
+
 **Score**: [41](https://developers.google.com/speed/pagespeed/insights/?url=http://docs.webplatform.org/wiki/concepts/Pointer_Events)
 
 

@@ -4,7 +4,8 @@ title: http://publishdemo.wordpress.com/
 ---
 ## [Publish - A Clean Minimal WordPress Theme for Bloggers](http://publishdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://publishdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://publishdemo.wordpress.com/)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://publishdemo.wordpress.com/)
 
 

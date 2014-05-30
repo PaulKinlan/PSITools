@@ -4,7 +4,8 @@ title: http://stackoverflow.com/
 ---
 ## [Stack Overflow](http://stackoverflow.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://stackoverflow.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://stackoverflow.com/)**
+
 **Score**: [75](https://developers.google.com/speed/pagespeed/insights/?url=http://stackoverflow.com/)
 
 

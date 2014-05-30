@@ -4,7 +4,8 @@ title: http://skylarkdemo.wordpress.com/
 ---
 ## [Skylark | 4 out of 5 dentists recommend this WordPress.com theme](http://skylarkdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://skylarkdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://skylarkdemo.wordpress.com/)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://skylarkdemo.wordpress.com/)
 
 

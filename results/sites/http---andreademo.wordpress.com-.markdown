@@ -4,7 +4,8 @@ title: http://andreademo.wordpress.com/
 ---
 ## [Andrea | A fluid, blue WordPress.com theme](http://andreademo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://andreademo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://andreademo.wordpress.com/)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://andreademo.wordpress.com/)
 
 

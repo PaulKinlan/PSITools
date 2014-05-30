@@ -4,7 +4,8 @@ title: http://elegantgrungedemo.wordpress.com/
 ---
 ## [Elegant Grunge | A crisp theme with an unwashed look](http://elegantgrungedemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://elegantgrungedemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://elegantgrungedemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://elegantgrungedemo.wordpress.com/)
 
 

@@ -4,7 +4,8 @@ title: http://caisse-epargne.fr/
 ---
 ## [Banque et Assurances - Caisse d'Epargne](http://caisse-epargne.fr/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://caisse-epargne.fr/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://caisse-epargne.fr/)**
+
 **Score**: [72](https://developers.google.com/speed/pagespeed/insights/?url=http://caisse-epargne.fr/)
 
 

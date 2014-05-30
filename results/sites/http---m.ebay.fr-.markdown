@@ -4,7 +4,8 @@ title: http://m.ebay.fr/
 ---
 ## [eBay Mobile Web](http://m.ebay.fr/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.ebay.fr/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.ebay.fr/)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://m.ebay.fr/)
 
 

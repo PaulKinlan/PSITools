@@ -4,7 +4,8 @@ title: http://minimumdemo.wordpress.com/
 ---
 ## [Minimum](http://minimumdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://minimumdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://minimumdemo.wordpress.com/)**
+
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://minimumdemo.wordpress.com/)
 
 

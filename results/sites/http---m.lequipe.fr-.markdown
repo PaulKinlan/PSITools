@@ -4,7 +4,8 @@ title: http://m.lequipe.fr/
 ---
 ## [Le sport à la Une. L'information sportive en temps réel avec L'EQUIPE](http://m.lequipe.fr/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.lequipe.fr/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.lequipe.fr/)**
+
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://m.lequipe.fr/)
 
 

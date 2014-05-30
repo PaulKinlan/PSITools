@@ -4,7 +4,8 @@ title: http://vube.com/trending?t=s
 ---
 ## [Vube.com](http://vube.com/trending?t=s)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://vube.com/trending?t=s) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://vube.com/trending?t=s)**
+
 **Score**: [65](https://developers.google.com/speed/pagespeed/insights/?url=http://vube.com/trending?t=s)
 
 

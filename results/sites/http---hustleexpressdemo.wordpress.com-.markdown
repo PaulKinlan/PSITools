@@ -4,7 +4,8 @@ title: http://hustleexpressdemo.wordpress.com/
 ---
 ## [Hustle Express | A freshly designed, open and responsive blogging theme](http://hustleexpressdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://hustleexpressdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://hustleexpressdemo.wordpress.com/)**
+
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://hustleexpressdemo.wordpress.com/)
 
 

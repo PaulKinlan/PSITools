@@ -4,7 +4,8 @@ title: http://rm.amarujala.com/
 ---
 ## [Hindi News - Breaking News in Hindi, News Headlines in Hindi, Latest Hindi News, News in Hindi Online : Amarujala.com](http://rm.amarujala.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://rm.amarujala.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://rm.amarujala.com/)**
+
 **Score**: [79](https://developers.google.com/speed/pagespeed/insights/?url=http://rm.amarujala.com/)
 
 

@@ -4,7 +4,8 @@ title: http://www.about.com/
 ---
 ## [About.com](http://www.about.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.about.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.about.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://www.about.com/)
 
 

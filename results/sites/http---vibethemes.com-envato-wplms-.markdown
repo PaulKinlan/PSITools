@@ -4,7 +4,8 @@ title: http://vibethemes.com/envato/wplms/
 ---
 ## [Home | WPLMS](http://vibethemes.com/envato/wplms/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://vibethemes.com/envato/wplms/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://vibethemes.com/envato/wplms/)**
+
 **Score**: [14](https://developers.google.com/speed/pagespeed/insights/?url=http://vibethemes.com/envato/wplms/)
 
 

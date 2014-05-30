@@ -4,7 +4,8 @@ title: http://m.nbt.in/appinterstitial.php
 ---
 ## [Navbharat Times](http://m.nbt.in/appinterstitial.php)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.nbt.in/appinterstitial.php) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.nbt.in/appinterstitial.php)**
+
 **Score**: [84](https://developers.google.com/speed/pagespeed/insights/?url=http://m.nbt.in/appinterstitial.php)
 
 

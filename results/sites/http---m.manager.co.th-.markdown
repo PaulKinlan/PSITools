@@ -4,7 +4,8 @@ title: http://m.manager.co.th/
 ---
 ## [ASTVManager on Mobile](http://m.manager.co.th/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.manager.co.th/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.manager.co.th/)**
+
 **Score**: [45](https://developers.google.com/speed/pagespeed/insights/?url=http://m.manager.co.th/)
 
 

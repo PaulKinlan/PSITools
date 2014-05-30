@@ -4,7 +4,8 @@ title: http://reddledemo.wordpress.com/
 ---
 ## [Reddle | A minimal, elegant theme for WordPress.com](http://reddledemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://reddledemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://reddledemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://reddledemo.wordpress.com/)
 
 

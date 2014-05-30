@@ -4,7 +4,8 @@ title: http://sempressdemo.wordpress.com/
 ---
 ## [SemPress | a theme designed to show off your posts, quotes, and images](http://sempressdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://sempressdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://sempressdemo.wordpress.com/)**
+
 **Score**: [66](https://developers.google.com/speed/pagespeed/insights/?url=http://sempressdemo.wordpress.com/)
 
 

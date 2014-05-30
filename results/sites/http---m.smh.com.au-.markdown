@@ -4,7 +4,8 @@ title: http://m.smh.com.au/
 ---
 ## [Australian Breaking News Headlines & World News Online | SMH.com.au](http://m.smh.com.au/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.smh.com.au/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.smh.com.au/)**
+
 **Score**: [53](https://developers.google.com/speed/pagespeed/insights/?url=http://m.smh.com.au/)
 
 

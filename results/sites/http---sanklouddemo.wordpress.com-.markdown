@@ -4,7 +4,8 @@ title: http://sanklouddemo.wordpress.com/
 ---
 ## [San Kloud | Just another awesome WordPress.com theme](http://sanklouddemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://sanklouddemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://sanklouddemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://sanklouddemo.wordpress.com/)
 
 

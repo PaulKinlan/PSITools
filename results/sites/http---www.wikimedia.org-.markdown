@@ -4,7 +4,8 @@ title: http://www.wikimedia.org/
 ---
 ## [Wikimedia](http://www.wikimedia.org/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wikimedia.org/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wikimedia.org/)**
+
 **Score**: [80](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wikimedia.org/)
 
 

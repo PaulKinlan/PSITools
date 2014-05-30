@@ -4,7 +4,8 @@ title: http://www.autotrader.co.uk/
 ---
 ## [Auto Trader UK - New & used cars for sale](http://www.autotrader.co.uk/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.autotrader.co.uk/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.autotrader.co.uk/)**
+
 **Score**: [85](https://developers.google.com/speed/pagespeed/insights/?url=http://www.autotrader.co.uk/)
 
 

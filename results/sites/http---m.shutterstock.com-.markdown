@@ -4,7 +4,8 @@ title: http://m.shutterstock.com/
 ---
 ## [Shutterstock Mobile: Royalty-Free Subscription Stock Photography & Vector Art](http://m.shutterstock.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.shutterstock.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.shutterstock.com/)**
+
 **Score**: [66](https://developers.google.com/speed/pagespeed/insights/?url=http://m.shutterstock.com/)
 
 

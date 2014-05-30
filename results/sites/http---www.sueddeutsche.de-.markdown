@@ -4,7 +4,8 @@ title: http://www.sueddeutsche.de/
 ---
 ## [Nachrichten aus Politik, Kultur, Wirtschaft und Sport - Süddeutsche.de](http://www.sueddeutsche.de/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.sueddeutsche.de/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.sueddeutsche.de/)**
+
 **Score**: [62](https://developers.google.com/speed/pagespeed/insights/?url=http://www.sueddeutsche.de/)
 
 

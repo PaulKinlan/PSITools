@@ -4,7 +4,8 @@ title: http://newsydemo.wordpress.com/
 ---
 ## [Newsy](http://newsydemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://newsydemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://newsydemo.wordpress.com/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://newsydemo.wordpress.com/)
 
 

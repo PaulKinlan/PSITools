@@ -4,7 +4,8 @@ title: https://mobile.airasia.com/en/
 ---
 ## [AirAsia Mobile | Book Low Fares Online | Flight Search](https://mobile.airasia.com/en/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://mobile.airasia.com/en/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://mobile.airasia.com/en/)**
+
 **Score**: [48](https://developers.google.com/speed/pagespeed/insights/?url=https://mobile.airasia.com/en/)
 
 

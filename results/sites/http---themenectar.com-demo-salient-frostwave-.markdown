@@ -4,7 +4,8 @@ title: http://themenectar.com/demo/salient-frostwave/
 ---
 ## [Salient](http://themenectar.com/demo/salient-frostwave/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://themenectar.com/demo/salient-frostwave/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://themenectar.com/demo/salient-frostwave/)**
+
 **Score**: [62](https://developers.google.com/speed/pagespeed/insights/?url=http://themenectar.com/demo/salient-frostwave/)
 
 

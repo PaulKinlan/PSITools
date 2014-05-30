@@ -4,7 +4,8 @@ title: http://m.heise.de/?from-classic=1
 ---
 ## [News - heise online](http://m.heise.de/?from-classic=1)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.heise.de/?from-classic=1) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.heise.de/?from-classic=1)**
+
 **Score**: [38](https://developers.google.com/speed/pagespeed/insights/?url=http://m.heise.de/?from-classic=1)
 
 

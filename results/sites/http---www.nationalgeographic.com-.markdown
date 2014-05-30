@@ -4,7 +4,8 @@ title: http://www.nationalgeographic.com/
 ---
 ## [National Geographic - Inspiring People to Care About the Planet Since 1888](http://www.nationalgeographic.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nationalgeographic.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nationalgeographic.com/)**
+
 **Score**: [58](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nationalgeographic.com/)
 
 

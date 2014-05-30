@@ -4,7 +4,8 @@ title: http://home.bt.com/
 ---
 ## [BT - Broadband, TV, phone, home & business](http://home.bt.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://home.bt.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://home.bt.com/)**
+
 **Score**: [49](https://developers.google.com/speed/pagespeed/insights/?url=http://home.bt.com/)
 
 

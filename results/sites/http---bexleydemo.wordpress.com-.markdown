@@ -4,7 +4,8 @@ title: http://bexleydemo.wordpress.com/
 ---
 ## [Bexley | A photoblogging theme](http://bexleydemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://bexleydemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://bexleydemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://bexleydemo.wordpress.com/)
 
 

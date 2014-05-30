@@ -4,7 +4,8 @@ title: http://m2newmedia.com/
 ---
 ## [M2 New Media](http://m2newmedia.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m2newmedia.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m2newmedia.com/)**
+
 **Score**: [75](https://developers.google.com/speed/pagespeed/insights/?url=http://m2newmedia.com/)
 
 

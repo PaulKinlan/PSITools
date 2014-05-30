@@ -4,7 +4,8 @@ title: http://tunedballoondemo.wordpress.com/
 ---
 ## [Tuned Balloon | A musical WordPress.com theme](http://tunedballoondemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://tunedballoondemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://tunedballoondemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://tunedballoondemo.wordpress.com/)
 
 

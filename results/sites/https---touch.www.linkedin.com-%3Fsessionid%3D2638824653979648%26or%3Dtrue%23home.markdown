@@ -4,7 +4,8 @@ title: https://touch.www.linkedin.com/?sessionid=2638824653979648&or=true#home
 ---
 ## [LinkedIn](https://touch.www.linkedin.com/?sessionid=2638824653979648&or=true#home)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://touch.www.linkedin.com/?sessionid=2638824653979648&or=true#home) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://touch.www.linkedin.com/?sessionid=2638824653979648&or=true#home)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=https://touch.www.linkedin.com/?sessionid=2638824653979648&or=true#home)
 
 

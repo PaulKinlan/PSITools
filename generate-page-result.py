@@ -52,7 +52,7 @@ for site in sorted_sites:
     f.write(title.encode('utf-8'))
     f.write("](%s)\n\n" % (id))
 
-    print >> f, "**Check against [PageSpeed Insights live](%s%s) **" % (pagespeed_url, id)
+    print >> f, "**Check against [PageSpeed Insights live](%s%s)**\n" % (pagespeed_url, id)
 
     print >> f, "**Score**: [%s](%s%s)\n\n" % (score, pagespeed_url, id)
     print >> f, "<img src='data:%s;base64,%s'>" % (image_mime, image_url)

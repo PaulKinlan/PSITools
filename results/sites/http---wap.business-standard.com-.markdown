@@ -4,7 +4,8 @@ title: http://wap.business-standard.com/
 ---
 ## [Business Standard](http://wap.business-standard.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://wap.business-standard.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://wap.business-standard.com/)**
+
 **Score**: [73](https://developers.google.com/speed/pagespeed/insights/?url=http://wap.business-standard.com/)
 
 

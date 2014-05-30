@@ -4,7 +4,8 @@ title: http://www.4shared.com/
 ---
 ## [4shared.com - free file sharing and storage](http://www.4shared.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.4shared.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.4shared.com/)**
+
 **Score**: [59](https://developers.google.com/speed/pagespeed/insights/?url=http://www.4shared.com/)
 
 

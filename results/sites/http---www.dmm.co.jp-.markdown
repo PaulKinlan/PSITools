@@ -4,7 +4,8 @@ title: http://www.dmm.co.jp/
 ---
 ## [年齢認証 - DMM.R18](http://www.dmm.co.jp/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.dmm.co.jp/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.dmm.co.jp/)**
+
 **Score**: [80](https://developers.google.com/speed/pagespeed/insights/?url=http://www.dmm.co.jp/)
 
 

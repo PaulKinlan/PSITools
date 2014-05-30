@@ -4,7 +4,8 @@ title: http://www.stepstone.de/
 ---
 ## [Jobbörse StepStone: Jobs und Stellenangebote](http://www.stepstone.de/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.stepstone.de/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.stepstone.de/)**
+
 **Score**: [76](https://developers.google.com/speed/pagespeed/insights/?url=http://www.stepstone.de/)
 
 

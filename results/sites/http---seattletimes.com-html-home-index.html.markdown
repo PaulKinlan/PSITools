@@ -4,7 +4,8 @@ title: http://seattletimes.com/html/home/index.html
 ---
 ## [The Seattle Times | News, sports, weather, events in the Northwest](http://seattletimes.com/html/home/index.html)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://seattletimes.com/html/home/index.html) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://seattletimes.com/html/home/index.html)**
+
 **Score**: [53](https://developers.google.com/speed/pagespeed/insights/?url=http://seattletimes.com/html/home/index.html)
 
 

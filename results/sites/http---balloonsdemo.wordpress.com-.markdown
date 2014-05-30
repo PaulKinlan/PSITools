@@ -4,7 +4,8 @@ title: http://balloonsdemo.wordpress.com/
 ---
 ## [Balloons | A simple, whimsical WordPress.com theme](http://balloonsdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://balloonsdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://balloonsdemo.wordpress.com/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://balloonsdemo.wordpress.com/)
 
 

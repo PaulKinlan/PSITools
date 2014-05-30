@@ -4,7 +4,8 @@ title: http://www.affili.net/de/Home.aspx
 ---
 ## [affilinet - Erfolgreiches Affiliate Marketing bei dem Affiliate Netzwerk](http://www.affili.net/de/Home.aspx)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.affili.net/de/Home.aspx) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.affili.net/de/Home.aspx)**
+
 **Score**: [72](https://developers.google.com/speed/pagespeed/insights/?url=http://www.affili.net/de/Home.aspx)
 
 

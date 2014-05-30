@@ -4,7 +4,8 @@ title: http://www.buzzfeed.com/?country=uk&s=mobile
 ---
 ## [BuzzFeed](http://www.buzzfeed.com/?country=uk&s=mobile)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.buzzfeed.com/?country=uk&s=mobile) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.buzzfeed.com/?country=uk&s=mobile)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://www.buzzfeed.com/?country=uk&s=mobile)
 
 

@@ -4,7 +4,8 @@ title: http://www.boerse.bz/
 ---
 ## [BoerseBZ](http://www.boerse.bz/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.boerse.bz/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.boerse.bz/)**
+
 **Score**: [74](https://developers.google.com/speed/pagespeed/insights/?url=http://www.boerse.bz/)
 
 

@@ -4,7 +4,8 @@ title: https://developer.chrome.com/devtools/docs/dom-and-styles
 ---
 ## [Editing Styles And The DOM - Google Chrome](https://developer.chrome.com/devtools/docs/dom-and-styles)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://developer.chrome.com/devtools/docs/dom-and-styles) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://developer.chrome.com/devtools/docs/dom-and-styles)**
+
 **Score**: [72](https://developers.google.com/speed/pagespeed/insights/?url=https://developer.chrome.com/devtools/docs/dom-and-styles)
 
 

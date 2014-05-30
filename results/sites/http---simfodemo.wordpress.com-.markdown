@@ -4,7 +4,8 @@ title: http://simfodemo.wordpress.com/
 ---
 ## [Simfo | A great WordPress.com theme for portfolios](http://simfodemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://simfodemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://simfodemo.wordpress.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://simfodemo.wordpress.com/)
 
 

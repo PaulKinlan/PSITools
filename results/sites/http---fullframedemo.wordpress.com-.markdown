@@ -4,7 +4,8 @@ title: http://fullframedemo.wordpress.com/
 ---
 ## [Full Frame | So long clutter. Hello creative control.](http://fullframedemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://fullframedemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://fullframedemo.wordpress.com/)**
+
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://fullframedemo.wordpress.com/)
 
 

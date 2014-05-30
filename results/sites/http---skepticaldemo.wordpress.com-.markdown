@@ -4,7 +4,8 @@ title: http://skepticaldemo.wordpress.com/
 ---
 ## [Skeptical | A clean and simple WordPress.com theme](http://skepticaldemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://skepticaldemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://skepticaldemo.wordpress.com/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://skepticaldemo.wordpress.com/)
 
 

@@ -4,7 +4,8 @@ title: http://liquoricedemo.wordpress.com/
 ---
 ## [Liquorice | A vintage-style WordPress.com theme](http://liquoricedemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://liquoricedemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://liquoricedemo.wordpress.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://liquoricedemo.wordpress.com/)
 
 

@@ -4,7 +4,8 @@ title: http://m.hotukdeals.com/?mforwarded=true
 ---
 ## [HotUKDeals - Deals - All](http://m.hotukdeals.com/?mforwarded=true)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.hotukdeals.com/?mforwarded=true) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.hotukdeals.com/?mforwarded=true)**
+
 **Score**: [52](https://developers.google.com/speed/pagespeed/insights/?url=http://m.hotukdeals.com/?mforwarded=true)
 
 

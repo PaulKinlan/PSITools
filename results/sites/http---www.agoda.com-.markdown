@@ -4,7 +4,8 @@ title: http://www.agoda.com/
 ---
 ## [Agoda.com: Smarter Hotel Booking](http://www.agoda.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.agoda.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.agoda.com/)**
+
 **Score**: [75](https://developers.google.com/speed/pagespeed/insights/?url=http://www.agoda.com/)
 
 

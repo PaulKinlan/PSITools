@@ -4,7 +4,8 @@ title: http://uk.ask.com/?o=312&l=dir
 ---
 ## [Ask Jeeves - What's Your Question?](http://uk.ask.com/?o=312&l=dir)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://uk.ask.com/?o=312&l=dir) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://uk.ask.com/?o=312&l=dir)**
+
 **Score**: [74](https://developers.google.com/speed/pagespeed/insights/?url=http://uk.ask.com/?o=312&l=dir)
 
 

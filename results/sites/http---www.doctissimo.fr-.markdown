@@ -4,7 +4,8 @@ title: http://www.doctissimo.fr/
 ---
 ## [Santé et bien être avec Doctissimo](http://www.doctissimo.fr/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.doctissimo.fr/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.doctissimo.fr/)**
+
 **Score**: [61](https://developers.google.com/speed/pagespeed/insights/?url=http://www.doctissimo.fr/)
 
 

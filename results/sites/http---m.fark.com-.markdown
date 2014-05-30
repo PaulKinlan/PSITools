@@ -4,7 +4,8 @@ title: http://m.fark.com/
 ---
 ## [Drew Curtis' FARK.com (Mobile)](http://m.fark.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.fark.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.fark.com/)**
+
 **Score**: [54](https://developers.google.com/speed/pagespeed/insights/?url=http://m.fark.com/)
 
 

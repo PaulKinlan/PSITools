@@ -4,7 +4,8 @@ title: http://itheme2demo.wordpress.com/
 ---
 ## [i2 | A beautiful Apple-inspired design perfect for technology & Mac related blogs](http://itheme2demo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://itheme2demo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://itheme2demo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://itheme2demo.wordpress.com/)
 
 

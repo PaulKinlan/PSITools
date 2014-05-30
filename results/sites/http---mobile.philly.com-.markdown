@@ -4,7 +4,8 @@ title: http://mobile.philly.com/
 ---
 ## [Philadelphia News, Sports, and Entertainment - Philly.com](http://mobile.philly.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.philly.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.philly.com/)**
+
 **Score**: [47](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.philly.com/)
 
 

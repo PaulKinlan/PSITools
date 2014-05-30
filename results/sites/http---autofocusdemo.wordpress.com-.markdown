@@ -4,7 +4,8 @@ title: http://autofocusdemo.wordpress.com/
 ---
 ## [AutoFocus | An elegant, minimal WordPress.com theme](http://autofocusdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://autofocusdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://autofocusdemo.wordpress.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://autofocusdemo.wordpress.com/)
 
 

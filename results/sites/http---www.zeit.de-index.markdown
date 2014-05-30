@@ -4,7 +4,8 @@ title: http://www.zeit.de/index
 ---
 ## [ZEIT ONLINE mobil](http://www.zeit.de/index)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.zeit.de/index) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.zeit.de/index)**
+
 **Score**: [75](https://developers.google.com/speed/pagespeed/insights/?url=http://www.zeit.de/index)
 
 

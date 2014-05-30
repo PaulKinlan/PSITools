@@ -4,7 +4,8 @@ title: http://www.usatoday.com/
 ---
 ## [Latest World & National News & Headlines - USATODAY.com](http://www.usatoday.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.usatoday.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.usatoday.com/)**
+
 **Score**: [78](https://developers.google.com/speed/pagespeed/insights/?url=http://www.usatoday.com/)
 
 

@@ -4,7 +4,8 @@ title: http://www.microsoft.com/en-us/default.aspx
 ---
 ## [Microsoft US | Devices and Services](http://www.microsoft.com/en-us/default.aspx)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.microsoft.com/en-us/default.aspx) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.microsoft.com/en-us/default.aspx)**
+
 **Score**: [88](https://developers.google.com/speed/pagespeed/insights/?url=http://www.microsoft.com/en-us/default.aspx)
 
 

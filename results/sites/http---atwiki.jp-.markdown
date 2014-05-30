@@ -4,7 +4,8 @@ title: http://atwiki.jp/
 ---
 ## [@wiki（ アット ウィキ ）無料 wiki レンタルサービス](http://atwiki.jp/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://atwiki.jp/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://atwiki.jp/)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://atwiki.jp/)
 
 

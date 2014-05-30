@@ -4,7 +4,8 @@ title: http://mobile.gnavi.co.jp/iphone/
 ---
 ## [ぐるなび-宴会・グルメ情報検索サイト](http://mobile.gnavi.co.jp/iphone/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.gnavi.co.jp/iphone/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.gnavi.co.jp/iphone/)**
+
 **Score**: [66](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.gnavi.co.jp/iphone/)
 
 

@@ -4,7 +4,8 @@ title: http://voyages-sncf.mobi/
 ---
 ## [Voyage en Train - Voyages-sncf.com](http://voyages-sncf.mobi/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://voyages-sncf.mobi/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://voyages-sncf.mobi/)**
+
 **Score**: [60](https://developers.google.com/speed/pagespeed/insights/?url=http://voyages-sncf.mobi/)
 
 

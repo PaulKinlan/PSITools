@@ -4,7 +4,8 @@ title: http://delicacydemo.wordpress.com/
 ---
 ## [Delicacy | Culinary-oriented theme for WordPress.com](http://delicacydemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://delicacydemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://delicacydemo.wordpress.com/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://delicacydemo.wordpress.com/)
 
 

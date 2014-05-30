@@ -4,7 +4,8 @@ title: http://m.economictimes.com/
 ---
 ## [ET Mobile Home | The Economic Times Mobile Website](http://m.economictimes.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.economictimes.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.economictimes.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://m.economictimes.com/)
 
 

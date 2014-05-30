@@ -4,7 +4,8 @@ title: http://longdo.com/
 ---
 ## [Longdo Services : บริการลองดู](http://longdo.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://longdo.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://longdo.com/)**
+
 **Score**: [62](https://developers.google.com/speed/pagespeed/insights/?url=http://longdo.com/)
 
 

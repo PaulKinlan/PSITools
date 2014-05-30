@@ -4,7 +4,8 @@ title: http://www.lnwshop.com/
 ---
 ## [LnwShop เปิดร้านค้าออนไลน์ฟรี Free E-commerce Shop](http://www.lnwshop.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.lnwshop.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.lnwshop.com/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://www.lnwshop.com/)
 
 

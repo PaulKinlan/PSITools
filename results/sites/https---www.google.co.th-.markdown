@@ -4,7 +4,8 @@ title: https://www.google.co.th/
 ---
 ## [Google](https://www.google.co.th/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.co.th/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.co.th/)**
+
 **Score**: [79](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.co.th/)
 
 

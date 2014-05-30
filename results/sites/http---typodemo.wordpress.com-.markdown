@@ -4,7 +4,8 @@ title: http://typodemo.wordpress.com/
 ---
 ## [Typo | Write your heart out at WordPress.com](http://typodemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://typodemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://typodemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://typodemo.wordpress.com/)
 
 

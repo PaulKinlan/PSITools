@@ -4,7 +4,8 @@ title: http://www.duden.de/
 ---
 ## [Duden online](http://www.duden.de/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.duden.de/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.duden.de/)**
+
 **Score**: [65](https://developers.google.com/speed/pagespeed/insights/?url=http://www.duden.de/)
 
 

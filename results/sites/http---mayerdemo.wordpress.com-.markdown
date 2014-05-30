@@ -4,7 +4,8 @@ title: http://mayerdemo.wordpress.com/
 ---
 ## [Mayer | For writers, established bloggers, and inspired authors](http://mayerdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mayerdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mayerdemo.wordpress.com/)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://mayerdemo.wordpress.com/)
 
 

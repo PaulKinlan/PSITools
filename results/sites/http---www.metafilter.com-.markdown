@@ -4,7 +4,8 @@ title: http://www.metafilter.com/
 ---
 ## [MetaFilter | Community Weblog](http://www.metafilter.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.metafilter.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.metafilter.com/)**
+
 **Score**: [79](https://developers.google.com/speed/pagespeed/insights/?url=http://www.metafilter.com/)
 
 

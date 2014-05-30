@@ -4,7 +4,8 @@ title: http://www.baidu.com/
 ---
 ## [百度一下,你就知道](http://www.baidu.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.baidu.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.baidu.com/)**
+
 **Score**: [100](https://developers.google.com/speed/pagespeed/insights/?url=http://www.baidu.com/)
 
 

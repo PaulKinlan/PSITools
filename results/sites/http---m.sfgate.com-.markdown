@@ -4,7 +4,8 @@ title: http://m.sfgate.com/
 ---
 ## [San Francisco Bay Area News, Sports, Business, Entertainment, Classifieds - SFGate](http://m.sfgate.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.sfgate.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.sfgate.com/)**
+
 **Score**: [45](https://developers.google.com/speed/pagespeed/insights/?url=http://m.sfgate.com/)
 
 

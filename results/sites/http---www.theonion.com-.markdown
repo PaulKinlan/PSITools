@@ -4,7 +4,8 @@ title: http://www.theonion.com/
 ---
 ## [The Onion - America's Finest News Source](http://www.theonion.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.theonion.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.theonion.com/)**
+
 **Score**: [57](https://developers.google.com/speed/pagespeed/insights/?url=http://www.theonion.com/)
 
 

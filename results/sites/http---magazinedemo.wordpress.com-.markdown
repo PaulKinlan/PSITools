@@ -4,7 +4,8 @@ title: http://magazinedemo.wordpress.com/
 ---
 ## [Magazine | A Stylish Premium WordPress Theme](http://magazinedemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://magazinedemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://magazinedemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://magazinedemo.wordpress.com/)
 
 

@@ -4,7 +4,8 @@ title: http://trulyminimaldemo.wordpress.com/
 ---
 ## [Truly Minimal | A clean, modern theme for WordPress.com](http://trulyminimaldemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://trulyminimaldemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://trulyminimaldemo.wordpress.com/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://trulyminimaldemo.wordpress.com/)
 
 

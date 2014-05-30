@@ -4,7 +4,8 @@ title: http://pinboarddemo.wordpress.com/
 ---
 ## [Pinboard | A crafty, textured WordPress.com theme](http://pinboarddemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://pinboarddemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://pinboarddemo.wordpress.com/)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://pinboarddemo.wordpress.com/)
 
 

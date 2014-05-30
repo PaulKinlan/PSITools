@@ -4,7 +4,8 @@ title: http://iarouse.com/admin-square/dist-v1.2/index.html#/dashboard
 ---
 ## [Web Application](http://iarouse.com/admin-square/dist-v1.2/index.html#/dashboard)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://iarouse.com/admin-square/dist-v1.2/index.html#/dashboard) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://iarouse.com/admin-square/dist-v1.2/index.html#/dashboard)**
+
 **Score**: [62](https://developers.google.com/speed/pagespeed/insights/?url=http://iarouse.com/admin-square/dist-v1.2/index.html#/dashboard)
 
 

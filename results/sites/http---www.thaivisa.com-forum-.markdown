@@ -4,7 +4,8 @@ title: http://www.thaivisa.com/forum/
 ---
 ## [Thailand Forum - All about Thailand | thaivisa.com](http://www.thaivisa.com/forum/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.thaivisa.com/forum/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.thaivisa.com/forum/)**
+
 **Score**: [73](https://developers.google.com/speed/pagespeed/insights/?url=http://www.thaivisa.com/forum/)
 
 

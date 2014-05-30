@@ -4,7 +4,8 @@ title: http://confitdemo.wordpress.com/
 ---
 ## [Confit | WordPress theme for restaurants](http://confitdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://confitdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://confitdemo.wordpress.com/)**
+
 **Score**: [53](https://developers.google.com/speed/pagespeed/insights/?url=http://confitdemo.wordpress.com/)
 
 

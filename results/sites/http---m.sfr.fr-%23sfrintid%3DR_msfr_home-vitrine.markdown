@@ -4,7 +4,8 @@ title: http://m.sfr.fr/#sfrintid=R_msfr_home-vitrine
 ---
 ## [m.sfr.fr | Le site mobile de SFR](http://m.sfr.fr/#sfrintid=R_msfr_home-vitrine)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.sfr.fr/#sfrintid=R_msfr_home-vitrine) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.sfr.fr/#sfrintid=R_msfr_home-vitrine)**
+
 **Score**: [55](https://developers.google.com/speed/pagespeed/insights/?url=http://m.sfr.fr/#sfrintid=R_msfr_home-vitrine)
 
 

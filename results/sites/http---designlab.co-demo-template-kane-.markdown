@@ -4,7 +4,8 @@ title: http://designlab.co/demo/template/kane/
 ---
 ## [Kane - Responsive App Landing Page](http://designlab.co/demo/template/kane/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://designlab.co/demo/template/kane/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://designlab.co/demo/template/kane/)**
+
 **Score**: [73](https://developers.google.com/speed/pagespeed/insights/?url=http://designlab.co/demo/template/kane/)
 
 

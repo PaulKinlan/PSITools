@@ -4,7 +4,8 @@ title: http://origindemo.wordpress.com/
 ---
 ## [Origin | A minimalistic, mobile-optimized theme for WordPress.com](http://origindemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://origindemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://origindemo.wordpress.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://origindemo.wordpress.com/)
 
 

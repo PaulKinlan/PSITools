@@ -4,7 +4,8 @@ title: http://m.linternaute.com/
 ---
 ## [L'Internaute : Le magazine de l'internet, des loisirs, de la culture et de la découverte](http://m.linternaute.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.linternaute.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.linternaute.com/)**
+
 **Score**: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://m.linternaute.com/)
 
 

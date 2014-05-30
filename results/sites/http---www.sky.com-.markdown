@@ -4,7 +4,8 @@ title: http://www.sky.com/
 ---
 ## [Sky.com | Your Home for the Latest Sky News, Sports & Entertainment](http://www.sky.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.sky.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.sky.com/)**
+
 **Score**: [56](https://developers.google.com/speed/pagespeed/insights/?url=http://www.sky.com/)
 
 

@@ -4,7 +4,8 @@ title: http://heftig.co/
 ---
 ## [Heftig! Dinge die wichtig sind. Erzähl' sie weiter!](http://heftig.co/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://heftig.co/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://heftig.co/)**
+
 **Score**: [75](https://developers.google.com/speed/pagespeed/insights/?url=http://heftig.co/)
 
 

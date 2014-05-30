@@ -4,7 +4,8 @@ title: http://m.uk.weather.com/
 ---
 ## [The Weather Channel - m.weather.co.uk](http://m.uk.weather.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.uk.weather.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.uk.weather.com/)**
+
 **Score**: [48](https://developers.google.com/speed/pagespeed/insights/?url=http://m.uk.weather.com/)
 
 

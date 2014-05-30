@@ -4,7 +4,8 @@ title: http://boldlifedemo.wordpress.com/
 ---
 ## [Bold Life | Living boldly, the WordPress way](http://boldlifedemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://boldlifedemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://boldlifedemo.wordpress.com/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://boldlifedemo.wordpress.com/)
 
 

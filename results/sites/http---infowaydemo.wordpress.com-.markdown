@@ -4,7 +4,8 @@ title: http://infowaydemo.wordpress.com/
 ---
 ## [InfoWay | Clean, simple, elegant and responsive](http://infowaydemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://infowaydemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://infowaydemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://infowaydemo.wordpress.com/)
 
 

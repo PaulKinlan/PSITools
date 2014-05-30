@@ -4,7 +4,8 @@ title: http://us.fotolia.com/
 ---
 ## [Royalty free images, photos, vectors and videos on Fotolia](http://us.fotolia.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://us.fotolia.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://us.fotolia.com/)**
+
 **Score**: [62](https://developers.google.com/speed/pagespeed/insights/?url=http://us.fotolia.com/)
 
 

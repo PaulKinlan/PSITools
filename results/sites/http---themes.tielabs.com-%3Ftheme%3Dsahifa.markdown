@@ -4,7 +4,8 @@ title: http://themes.tielabs.com/?theme=sahifa
 ---
 ## [TieLabs | Theme: Sahifa](http://themes.tielabs.com/?theme=sahifa)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://themes.tielabs.com/?theme=sahifa) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://themes.tielabs.com/?theme=sahifa)**
+
 **Score**: [76](https://developers.google.com/speed/pagespeed/insights/?url=http://themes.tielabs.com/?theme=sahifa)
 
 

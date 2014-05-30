@@ -4,7 +4,8 @@ title: http://zbenchdemo.wordpress.com/
 ---
 ## [zBench | Just another WordPress.com theme](http://zbenchdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://zbenchdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://zbenchdemo.wordpress.com/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://zbenchdemo.wordpress.com/)
 
 

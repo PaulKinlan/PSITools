@@ -4,7 +4,8 @@ title: http://oxygendemo.wordpress.com/
 ---
 ## [Oxygen | Minimalistic, mobile-optimized magazine for WordPress.com](http://oxygendemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://oxygendemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://oxygendemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://oxygendemo.wordpress.com/)
 
 

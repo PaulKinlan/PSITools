@@ -4,7 +4,8 @@ title: http://sightdemo.wordpress.com/
 ---
 ## [Sight | This WordPress.com theme is the cat’s pajamas](http://sightdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://sightdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://sightdemo.wordpress.com/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://sightdemo.wordpress.com/)
 
 

@@ -4,7 +4,8 @@ title: http://www.strato.de/
 ---
 ## [Hosting, Online-Speicher, Webshop & Server - STRATO](http://www.strato.de/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.strato.de/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.strato.de/)**
+
 **Score**: [74](https://developers.google.com/speed/pagespeed/insights/?url=http://www.strato.de/)
 
 

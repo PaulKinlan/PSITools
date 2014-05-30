@@ -4,7 +4,8 @@ title: http://suburbiademo.wordpress.com/
 ---
 ## [Suburbia | A minimalist magazine theme for WordPress.com](http://suburbiademo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://suburbiademo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://suburbiademo.wordpress.com/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://suburbiademo.wordpress.com/)
 
 

@@ -4,7 +4,8 @@ title: http://preview.imithemes.com/?theme=NativeChurch-WP
 ---
 ## [IMITHEMES | Item : NativeChurch-WP](http://preview.imithemes.com/?theme=NativeChurch-WP)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://preview.imithemes.com/?theme=NativeChurch-WP) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://preview.imithemes.com/?theme=NativeChurch-WP)**
+
 **Score**: [51](https://developers.google.com/speed/pagespeed/insights/?url=http://preview.imithemes.com/?theme=NativeChurch-WP)
 
 

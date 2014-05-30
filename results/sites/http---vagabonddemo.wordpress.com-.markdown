@@ -4,7 +4,8 @@ title: http://vagabonddemo.wordpress.com/
 ---
 ## [Vagabond | a clutter-free travel theme for personal bloggers!](http://vagabonddemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://vagabonddemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://vagabonddemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://vagabonddemo.wordpress.com/)
 
 

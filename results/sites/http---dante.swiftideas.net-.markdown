@@ -4,7 +4,8 @@ title: http://dante.swiftideas.net/
 ---
 ## [Dante](http://dante.swiftideas.net/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://dante.swiftideas.net/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://dante.swiftideas.net/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://dante.swiftideas.net/)
 
 

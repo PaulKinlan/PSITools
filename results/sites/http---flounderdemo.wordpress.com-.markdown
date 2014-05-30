@@ -4,7 +4,8 @@ title: http://flounderdemo.wordpress.com/
 ---
 ## [Flounder | A colorful theme for bloggers](http://flounderdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://flounderdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://flounderdemo.wordpress.com/)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://flounderdemo.wordpress.com/)
 
 

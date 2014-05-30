@@ -4,7 +4,8 @@ title: http://variety.com/
 ---
 ## [Variety](http://variety.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://variety.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://variety.com/)**
+
 **Score**: [47](https://developers.google.com/speed/pagespeed/insights/?url=http://variety.com/)
 
 

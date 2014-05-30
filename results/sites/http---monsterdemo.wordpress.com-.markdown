@@ -4,7 +4,8 @@ title: http://monsterdemo.wordpress.com/
 ---
 ## [Monster | Boo! You’re at the spookiest WordPress.com theme ever](http://monsterdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://monsterdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://monsterdemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://monsterdemo.wordpress.com/)
 
 

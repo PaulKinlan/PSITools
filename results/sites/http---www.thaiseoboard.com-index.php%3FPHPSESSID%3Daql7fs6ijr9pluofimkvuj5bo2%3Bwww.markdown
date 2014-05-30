@@ -4,7 +4,8 @@ title: http://www.thaiseoboard.com/index.php?PHPSESSID=aql7fs6ijr9pluofimkvuj5bo
 ---
 ## [ThaiSEOBoard.com - กลยุทธ SEO, Adsense, Adwords, Affiliate และ Internet Marketing](http://www.thaiseoboard.com/index.php?PHPSESSID=aql7fs6ijr9pluofimkvuj5bo2;www)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.thaiseoboard.com/index.php?PHPSESSID=aql7fs6ijr9pluofimkvuj5bo2;www) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.thaiseoboard.com/index.php?PHPSESSID=aql7fs6ijr9pluofimkvuj5bo2;www)**
+
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://www.thaiseoboard.com/index.php?PHPSESSID=aql7fs6ijr9pluofimkvuj5bo2;www)
 
 

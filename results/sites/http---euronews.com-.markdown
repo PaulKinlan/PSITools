@@ -4,7 +4,8 @@ title: http://euronews.com/
 ---
 ## [International news | euronews, latest international news](http://euronews.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://euronews.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://euronews.com/)**
+
 **Score**: [49](https://developers.google.com/speed/pagespeed/insights/?url=http://euronews.com/)
 
 

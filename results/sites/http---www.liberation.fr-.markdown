@@ -4,7 +4,8 @@ title: http://www.liberation.fr/
 ---
 ## [Toute l'actualité en direct - photos et vidéos avec Libération - Libération](http://www.liberation.fr/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.liberation.fr/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.liberation.fr/)**
+
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://www.liberation.fr/)
 
 

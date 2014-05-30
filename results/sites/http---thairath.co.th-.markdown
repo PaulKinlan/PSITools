@@ -4,7 +4,8 @@ title: http://thairath.co.th/
 ---
 ## [ข่าวไทยรัฐออนไลน์](http://thairath.co.th/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://thairath.co.th/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://thairath.co.th/)**
+
 **Score**: [55](https://developers.google.com/speed/pagespeed/insights/?url=http://thairath.co.th/)
 
 

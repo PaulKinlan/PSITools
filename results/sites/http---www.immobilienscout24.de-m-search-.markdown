@@ -4,7 +4,8 @@ title: http://www.immobilienscout24.de/m/search/
 ---
 ## [Wohnungen, Immobilien und Häuser bei ImmobilienScout24 mieten oder kaufen](http://www.immobilienscout24.de/m/search/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.immobilienscout24.de/m/search/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.immobilienscout24.de/m/search/)**
+
 **Score**: [79](https://developers.google.com/speed/pagespeed/insights/?url=http://www.immobilienscout24.de/m/search/)
 
 

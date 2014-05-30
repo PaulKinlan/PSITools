@@ -4,7 +4,8 @@ title: http://untitleddemo.wordpress.com/
 ---
 ## [Untitled | A bold theme for WordPress.com](http://untitleddemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://untitleddemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://untitleddemo.wordpress.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://untitleddemo.wordpress.com/)
 
 

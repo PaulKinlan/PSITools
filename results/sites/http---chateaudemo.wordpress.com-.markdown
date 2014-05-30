@@ -4,7 +4,8 @@ title: http://chateaudemo.wordpress.com/
 ---
 ## [Château | A clean and minimalistic theme](http://chateaudemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://chateaudemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://chateaudemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://chateaudemo.wordpress.com/)
 
 

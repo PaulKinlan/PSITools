@@ -4,7 +4,8 @@ title: http://mobile.chefkoch.de/
 ---
 ## [240.000 Rezepte / Kochrezepte bei Chefkoch.de](http://mobile.chefkoch.de/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.chefkoch.de/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.chefkoch.de/)**
+
 **Score**: [44](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.chefkoch.de/)
 
 

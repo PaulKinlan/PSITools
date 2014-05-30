@@ -4,7 +4,8 @@ title: http://www.gmx.net/
 ---
 ## [GMX - E-Mail, FreeMail, De-Mail, Themen- & Shopping-Portal - kostenlos - GMX](http://www.gmx.net/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.gmx.net/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.gmx.net/)**
+
 **Score**: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://www.gmx.net/)
 
 

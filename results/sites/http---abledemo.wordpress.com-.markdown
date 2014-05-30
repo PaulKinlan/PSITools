@@ -4,7 +4,8 @@ title: http://abledemo.wordpress.com/
 ---
 ## [Able | A multipurpose, traditional blog theme](http://abledemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://abledemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://abledemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://abledemo.wordpress.com/)
 
 

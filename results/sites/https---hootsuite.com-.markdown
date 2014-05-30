@@ -4,7 +4,8 @@ title: https://hootsuite.com/
 ---
 ## [Social Media Management Dashboard - HootSuite](https://hootsuite.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://hootsuite.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://hootsuite.com/)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=https://hootsuite.com/)
 
 

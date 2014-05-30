@@ -4,7 +4,8 @@ title: http://m.journaldunet.com/
 ---
 ## [Le Journal du Net : e-Business, Informatique, Economie et Management](http://m.journaldunet.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.journaldunet.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.journaldunet.com/)**
+
 **Score**: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://m.journaldunet.com/)
 
 

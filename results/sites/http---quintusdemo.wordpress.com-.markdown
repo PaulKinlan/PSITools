@@ -4,7 +4,8 @@ title: http://quintusdemo.wordpress.com/
 ---
 ## [Quintus « A theme with old-style appeal and elegant typography](http://quintusdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://quintusdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://quintusdemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://quintusdemo.wordpress.com/)
 
 

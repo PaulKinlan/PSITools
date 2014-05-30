@@ -4,7 +4,8 @@ title: http://touch.allabout.co.jp/?spref=
 ---
 ## [All About (オールアバウト)](http://touch.allabout.co.jp/?spref=)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://touch.allabout.co.jp/?spref=) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://touch.allabout.co.jp/?spref=)**
+
 **Score**: [49](https://developers.google.com/speed/pagespeed/insights/?url=http://touch.allabout.co.jp/?spref=)
 
 

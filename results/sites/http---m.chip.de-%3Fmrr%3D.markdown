@@ -4,7 +4,8 @@ title: http://m.chip.de/?mrr=
 ---
 ## [CHIP - Deutschlands Webseite Nr. 1 für Computer, Handy und Home Entertainment](http://m.chip.de/?mrr=)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.chip.de/?mrr=) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.chip.de/?mrr=)**
+
 **Score**: [59](https://developers.google.com/speed/pagespeed/insights/?url=http://m.chip.de/?mrr=)
 
 

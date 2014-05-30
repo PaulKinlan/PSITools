@@ -4,7 +4,8 @@ title: http://www.breitbart.com/
 ---
 ## [Breitbart News Network](http://www.breitbart.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.breitbart.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.breitbart.com/)**
+
 **Score**: [41](https://developers.google.com/speed/pagespeed/insights/?url=http://www.breitbart.com/)
 
 

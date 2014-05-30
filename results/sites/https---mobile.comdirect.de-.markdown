@@ -4,7 +4,8 @@ title: https://mobile.comdirect.de/
 ---
 ## [mobile](https://mobile.comdirect.de/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://mobile.comdirect.de/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://mobile.comdirect.de/)**
+
 **Score**: [62](https://developers.google.com/speed/pagespeed/insights/?url=https://mobile.comdirect.de/)
 
 

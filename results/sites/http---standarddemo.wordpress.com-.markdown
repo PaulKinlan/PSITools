@@ -4,7 +4,8 @@ title: http://standarddemo.wordpress.com/
 ---
 ## [Standard](http://standarddemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://standarddemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://standarddemo.wordpress.com/)**
+
 **Score**: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://standarddemo.wordpress.com/)
 
 

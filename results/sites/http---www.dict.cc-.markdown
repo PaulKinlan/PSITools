@@ -4,7 +4,8 @@ title: http://www.dict.cc/
 ---
 ## [dict.cc | Wörterbuch Englisch-Deutsch](http://www.dict.cc/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.dict.cc/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.dict.cc/)**
+
 **Score**: [73](https://developers.google.com/speed/pagespeed/insights/?url=http://www.dict.cc/)
 
 

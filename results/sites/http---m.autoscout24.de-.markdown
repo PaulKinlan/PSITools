@@ -4,7 +4,8 @@ title: http://m.autoscout24.de/
 ---
 ## [AutoScout24 - mobile Autosuche](http://m.autoscout24.de/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.autoscout24.de/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.autoscout24.de/)**
+
 **Score**: [45](https://developers.google.com/speed/pagespeed/insights/?url=http://m.autoscout24.de/)
 
 

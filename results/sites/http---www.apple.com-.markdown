@@ -4,7 +4,8 @@ title: http://www.apple.com/
 ---
 ## [Apple](http://www.apple.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.apple.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.apple.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://www.apple.com/)
 
 

@@ -4,7 +4,8 @@ title: http://www.mercurynews.com/
 ---
 ## [Mobile Web - Home](http://www.mercurynews.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.mercurynews.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.mercurynews.com/)**
+
 **Score**: [56](https://developers.google.com/speed/pagespeed/insights/?url=http://www.mercurynews.com/)
 
 

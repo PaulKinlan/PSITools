@@ -4,7 +4,8 @@ title: http://m.imgur.com/
 ---
 ## [imgur: the simple image sharer](http://m.imgur.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.imgur.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.imgur.com/)**
+
 **Score**: [75](https://developers.google.com/speed/pagespeed/insights/?url=http://m.imgur.com/)
 
 

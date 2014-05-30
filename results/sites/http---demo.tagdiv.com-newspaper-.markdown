@@ -4,7 +4,8 @@ title: http://demo.tagdiv.com/newspaper/
 ---
 ## [Newspaper | Just another WordPress site](http://demo.tagdiv.com/newspaper/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.tagdiv.com/newspaper/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.tagdiv.com/newspaper/)**
+
 **Score**: [98](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.tagdiv.com/newspaper/)
 
 

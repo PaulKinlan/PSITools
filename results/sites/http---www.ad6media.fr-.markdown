@@ -4,7 +4,8 @@ title: http://www.ad6media.fr/
 ---
 ## [Ad6media, régie publicitaire au CPM](http://www.ad6media.fr/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.ad6media.fr/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.ad6media.fr/)**
+
 **Score**: [91](https://developers.google.com/speed/pagespeed/insights/?url=http://www.ad6media.fr/)
 
 

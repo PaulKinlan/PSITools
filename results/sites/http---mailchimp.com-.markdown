@@ -4,7 +4,8 @@ title: http://mailchimp.com/
 ---
 ## [Send Better Email | MailChimp](http://mailchimp.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mailchimp.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mailchimp.com/)**
+
 **Score**: [62](https://developers.google.com/speed/pagespeed/insights/?url=http://mailchimp.com/)
 
 

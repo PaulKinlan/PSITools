@@ -4,7 +4,8 @@ title: http://hatchdemo.wordpress.com/
 ---
 ## [Hatch | A simple, responsive, and minimal portfolio theme](http://hatchdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://hatchdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://hatchdemo.wordpress.com/)**
+
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://hatchdemo.wordpress.com/)
 
 

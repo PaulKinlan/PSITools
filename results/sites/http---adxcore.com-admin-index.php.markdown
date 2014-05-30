@@ -4,7 +4,8 @@ title: http://adxcore.com/admin/index.php
 ---
 ## [AdAccess - AdvertStream AdServer](http://adxcore.com/admin/index.php)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://adxcore.com/admin/index.php) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://adxcore.com/admin/index.php)**
+
 **Score**: [80](https://developers.google.com/speed/pagespeed/insights/?url=http://adxcore.com/admin/index.php)
 
 

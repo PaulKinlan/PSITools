@@ -4,7 +4,8 @@ title: https://developer.mozilla.org/en-US/docs/Tools/Debugger
 ---
 ## [Debugger - Firefox Developer Tools | MDN](https://developer.mozilla.org/en-US/docs/Tools/Debugger)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://developer.mozilla.org/en-US/docs/Tools/Debugger) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://developer.mozilla.org/en-US/docs/Tools/Debugger)**
+
 **Score**: [64](https://developers.google.com/speed/pagespeed/insights/?url=https://developer.mozilla.org/en-US/docs/Tools/Debugger)
 
 

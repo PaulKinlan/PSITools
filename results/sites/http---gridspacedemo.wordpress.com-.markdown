@@ -4,7 +4,8 @@ title: http://gridspacedemo.wordpress.com/
 ---
 ## [Gridspace | a minimalist theme that designers, photographers, artists and creatives can use to showcase their portfolio, photo or music blog.](http://gridspacedemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://gridspacedemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://gridspacedemo.wordpress.com/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://gridspacedemo.wordpress.com/)
 
 

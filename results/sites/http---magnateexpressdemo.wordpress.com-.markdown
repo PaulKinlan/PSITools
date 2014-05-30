@@ -4,7 +4,8 @@ title: http://magnateexpressdemo.wordpress.com/
 ---
 ## [Magnate Express | A blogging and photography theme by WooThemes](http://magnateexpressdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://magnateexpressdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://magnateexpressdemo.wordpress.com/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://magnateexpressdemo.wordpress.com/)
 
 

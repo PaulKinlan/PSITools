@@ -4,7 +4,8 @@ title: http://runolitedemo.wordpress.com/
 ---
 ## [Runo Lite | A lightweight and clean theme for poets and writers](http://runolitedemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://runolitedemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://runolitedemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://runolitedemo.wordpress.com/)
 
 

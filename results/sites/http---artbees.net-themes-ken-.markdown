@@ -4,7 +4,8 @@ title: http://artbees.net/themes/ken/
 ---
 ## [The Ken – Multi-Purpose Creative Wordpress Theme](http://artbees.net/themes/ken/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://artbees.net/themes/ken/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://artbees.net/themes/ken/)**
+
 **Score**: [66](https://developers.google.com/speed/pagespeed/insights/?url=http://artbees.net/themes/ken/)
 
 

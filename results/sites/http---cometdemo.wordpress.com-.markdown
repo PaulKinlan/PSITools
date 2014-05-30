@@ -4,7 +4,8 @@ title: http://cometdemo.wordpress.com/
 ---
 ## [Comet | A very classy, lightweight, and content-focused theme](http://cometdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://cometdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://cometdemo.wordpress.com/)**
+
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://cometdemo.wordpress.com/)
 
 

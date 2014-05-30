@@ -4,7 +4,8 @@ title: http://badoo.com/bma/promo_iphone.phtml?burl=1401460128045
 ---
 ## [Badoo for iPhone and iPod touch is here!](http://badoo.com/bma/promo_iphone.phtml?burl=1401460128045)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://badoo.com/bma/promo_iphone.phtml?burl=1401460128045) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://badoo.com/bma/promo_iphone.phtml?burl=1401460128045)**
+
 **Score**: [100](https://developers.google.com/speed/pagespeed/insights/?url=http://badoo.com/bma/promo_iphone.phtml?burl=1401460128045)
 
 

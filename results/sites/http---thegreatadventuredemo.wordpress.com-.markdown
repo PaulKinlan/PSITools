@@ -4,7 +4,8 @@ title: http://thegreatadventuredemo.wordpress.com/
 ---
 ## [The Great Adventure! | A fine WordPress.com theme](http://thegreatadventuredemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://thegreatadventuredemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://thegreatadventuredemo.wordpress.com/)**
+
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://thegreatadventuredemo.wordpress.com/)
 
 

@@ -4,7 +4,8 @@ title: http://shelfdemo.wordpress.com/
 ---
 ## [Shelf](http://shelfdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://shelfdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://shelfdemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://shelfdemo.wordpress.com/)
 
 

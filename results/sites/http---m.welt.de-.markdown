@@ -4,7 +4,8 @@ title: http://m.welt.de/
 ---
 ## [DIE WELT](http://m.welt.de/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.welt.de/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.welt.de/)**
+
 **Score**: [54](https://developers.google.com/speed/pagespeed/insights/?url=http://m.welt.de/)
 
 

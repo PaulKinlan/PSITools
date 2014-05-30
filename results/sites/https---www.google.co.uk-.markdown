@@ -4,7 +4,8 @@ title: https://www.google.co.uk/
 ---
 ## [Google](https://www.google.co.uk/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.co.uk/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.co.uk/)**
+
 **Score**: [79](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.co.uk/)
 
 

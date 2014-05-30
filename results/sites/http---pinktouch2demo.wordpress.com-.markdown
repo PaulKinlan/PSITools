@@ -4,7 +4,8 @@ title: http://pinktouch2demo.wordpress.com/
 ---
 ## [Pink Touch 2 | A stellar WordPress.com theme](http://pinktouch2demo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://pinktouch2demo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://pinktouch2demo.wordpress.com/)**
+
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://pinktouch2demo.wordpress.com/)
 
 

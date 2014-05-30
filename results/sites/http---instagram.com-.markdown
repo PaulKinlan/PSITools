@@ -4,7 +4,8 @@ title: http://instagram.com/
 ---
 ## [Instagram](http://instagram.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://instagram.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://instagram.com/)**
+
 **Score**: [75](https://developers.google.com/speed/pagespeed/insights/?url=http://instagram.com/)
 
 

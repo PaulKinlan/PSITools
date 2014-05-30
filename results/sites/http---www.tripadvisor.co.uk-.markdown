@@ -4,7 +4,8 @@ title: http://www.tripadvisor.co.uk/
 ---
 ## [Holiday Reviews - Hotels, Resorts and Holiday Packages - TripAdvisor](http://www.tripadvisor.co.uk/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.tripadvisor.co.uk/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.tripadvisor.co.uk/)**
+
 **Score**: [65](https://developers.google.com/speed/pagespeed/insights/?url=http://www.tripadvisor.co.uk/)
 
 

@@ -4,7 +4,8 @@ title: http://mixfoliodemo.wordpress.com/
 ---
 ## [Mixfolio](http://mixfoliodemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mixfoliodemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mixfoliodemo.wordpress.com/)**
+
 **Score**: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://mixfoliodemo.wordpress.com/)
 
 

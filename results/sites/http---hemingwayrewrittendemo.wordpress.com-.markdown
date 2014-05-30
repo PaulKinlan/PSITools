@@ -4,7 +4,8 @@ title: http://hemingwayrewrittendemo.wordpress.com/
 ---
 ## [Hemingway Rewritten | A work of literary intrigue at WordPress.com](http://hemingwayrewrittendemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://hemingwayrewrittendemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://hemingwayrewrittendemo.wordpress.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://hemingwayrewrittendemo.wordpress.com/)
 
 

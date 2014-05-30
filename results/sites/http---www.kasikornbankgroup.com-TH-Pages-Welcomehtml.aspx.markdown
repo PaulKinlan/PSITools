@@ -4,7 +4,8 @@ title: http://www.kasikornbankgroup.com/TH/Pages/Welcomehtml.aspx
 ---
 ## [ธนาคารกสิกรไทย](http://www.kasikornbankgroup.com/TH/Pages/Welcomehtml.aspx)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.kasikornbankgroup.com/TH/Pages/Welcomehtml.aspx) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.kasikornbankgroup.com/TH/Pages/Welcomehtml.aspx)**
+
 **Score**: [73](https://developers.google.com/speed/pagespeed/insights/?url=http://www.kasikornbankgroup.com/TH/Pages/Welcomehtml.aspx)
 
 

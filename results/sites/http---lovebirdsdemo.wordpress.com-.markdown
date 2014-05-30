@@ -4,7 +4,8 @@ title: http://lovebirdsdemo.wordpress.com/
 ---
 ## [Lovebirds | "A loving heart is the truest wisdom." ~ Charles Dickens](http://lovebirdsdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://lovebirdsdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://lovebirdsdemo.wordpress.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://lovebirdsdemo.wordpress.com/)
 
 

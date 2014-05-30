@@ -4,7 +4,8 @@ title: http://hatenablog.com/
 ---
 ## [はてなブログ](http://hatenablog.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://hatenablog.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://hatenablog.com/)**
+
 **Score**: [81](https://developers.google.com/speed/pagespeed/insights/?url=http://hatenablog.com/)
 
 

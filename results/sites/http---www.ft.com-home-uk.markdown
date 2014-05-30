@@ -4,7 +4,8 @@ title: http://www.ft.com/home/uk
 ---
 ## [World business, finance, and political news from the Financial Times - FT.com](http://www.ft.com/home/uk)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.ft.com/home/uk) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.ft.com/home/uk)**
+
 **Score**: [57](https://developers.google.com/speed/pagespeed/insights/?url=http://www.ft.com/home/uk)
 
 

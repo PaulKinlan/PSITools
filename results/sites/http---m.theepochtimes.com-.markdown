@@ -4,7 +4,8 @@ title: http://m.theepochtimes.com/
 ---
 ## [Epoch Times | China News, World News | NYC | Business, Science and Beyond | The New Times](http://m.theepochtimes.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.theepochtimes.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.theepochtimes.com/)**
+
 **Score**: [62](https://developers.google.com/speed/pagespeed/insights/?url=http://m.theepochtimes.com/)
 
 

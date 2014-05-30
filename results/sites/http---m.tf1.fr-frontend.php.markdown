@@ -4,7 +4,8 @@ title: http://m.tf1.fr/frontend.php
 ---
 ## [MYTF1 : Infos, émissions, séries US, TF1 sur votre mobile](http://m.tf1.fr/frontend.php)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.tf1.fr/frontend.php) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.tf1.fr/frontend.php)**
+
 **Score**: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://m.tf1.fr/frontend.php)
 
 

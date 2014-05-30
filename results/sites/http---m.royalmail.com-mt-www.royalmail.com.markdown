@@ -4,7 +4,8 @@ title: http://m.royalmail.com/mt/www.royalmail.com
 ---
 ## [Royal Mail](http://m.royalmail.com/mt/www.royalmail.com)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.royalmail.com/mt/www.royalmail.com) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.royalmail.com/mt/www.royalmail.com)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://m.royalmail.com/mt/www.royalmail.com)
 
 

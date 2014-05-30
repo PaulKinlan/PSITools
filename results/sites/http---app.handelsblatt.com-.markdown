@@ -4,7 +4,8 @@ title: http://app.handelsblatt.com/
 ---
 ## [Handelsblatt.com - Nachrichten aus Wirtschaft, Finanzen, Politik, Unternehmen und Märkten](http://app.handelsblatt.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://app.handelsblatt.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://app.handelsblatt.com/)**
+
 **Score**: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://app.handelsblatt.com/)
 
 

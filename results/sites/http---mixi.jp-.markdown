@@ -4,7 +4,8 @@ title: http://mixi.jp/
 ---
 ## [ソーシャル・ネットワーキング サービス [mixi(ミクシィ)]](http://mixi.jp/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mixi.jp/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mixi.jp/)**
+
 **Score**: [75](https://developers.google.com/speed/pagespeed/insights/?url=http://mixi.jp/)
 
 

@@ -4,7 +4,8 @@ title: http://blissfulblogdemo.wordpress.com/
 ---
 ## [Blissful Blog | A beautifully designed wedding photography theme](http://blissfulblogdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://blissfulblogdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://blissfulblogdemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://blissfulblogdemo.wordpress.com/)
 
 

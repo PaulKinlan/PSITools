@@ -4,7 +4,8 @@ title: http://www.outbrain.com/
 ---
 ## [Outbrain](http://www.outbrain.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.outbrain.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.outbrain.com/)**
+
 **Score**: [63](https://developers.google.com/speed/pagespeed/insights/?url=http://www.outbrain.com/)
 
 

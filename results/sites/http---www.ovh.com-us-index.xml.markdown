@@ -4,7 +4,8 @@ title: http://www.ovh.com/us/index.xml
 ---
 ## [Dedicated Infrastructure for your Business - OVH](http://www.ovh.com/us/index.xml)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.ovh.com/us/index.xml) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.ovh.com/us/index.xml)**
+
 **Score**: [66](https://developers.google.com/speed/pagespeed/insights/?url=http://www.ovh.com/us/index.xml)
 
 

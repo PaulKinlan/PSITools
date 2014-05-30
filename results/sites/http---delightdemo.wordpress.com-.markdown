@@ -4,7 +4,8 @@ title: http://delightdemo.wordpress.com/
 ---
 ## [Delight | A Clean, Tablet and Phone Friendly Responsive Theme](http://delightdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://delightdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://delightdemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://delightdemo.wordpress.com/)
 
 

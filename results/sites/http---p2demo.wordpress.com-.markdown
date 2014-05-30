@@ -4,7 +4,8 @@ title: http://p2demo.wordpress.com/
 ---
 ## [P2 / Faster Blogging | Blogging at the speed of thought](http://p2demo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://p2demo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://p2demo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://p2demo.wordpress.com/)
 
 

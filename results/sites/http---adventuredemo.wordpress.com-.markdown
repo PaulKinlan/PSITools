@@ -4,7 +4,8 @@ title: http://adventuredemo.wordpress.com/
 ---
 ## [Adventure | Share The Journey!](http://adventuredemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://adventuredemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://adventuredemo.wordpress.com/)**
+
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://adventuredemo.wordpress.com/)
 
 

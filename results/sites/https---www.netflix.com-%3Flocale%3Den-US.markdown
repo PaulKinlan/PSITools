@@ -4,7 +4,8 @@ title: https://www.netflix.com/?locale=en-US
 ---
 ## [Netflix - Watch TV Shows Online, Watch Movies Online](https://www.netflix.com/?locale=en-US)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://www.netflix.com/?locale=en-US) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://www.netflix.com/?locale=en-US)**
+
 **Score**: [54](https://developers.google.com/speed/pagespeed/insights/?url=https://www.netflix.com/?locale=en-US)
 
 

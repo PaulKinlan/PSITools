@@ -4,7 +4,8 @@ title: http://ameblo.jp/
 ---
 ## [Ameba（アメーバ）｜CM放送中！無料ブログをはじめよう](http://ameblo.jp/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://ameblo.jp/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://ameblo.jp/)**
+
 **Score**: [80](https://developers.google.com/speed/pagespeed/insights/?url=http://ameblo.jp/)
 
 

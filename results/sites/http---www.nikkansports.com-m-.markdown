@@ -4,7 +4,8 @@ title: http://www.nikkansports.com/m/
 ---
 ## [nikkansports.com mobile](http://www.nikkansports.com/m/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nikkansports.com/m/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nikkansports.com/m/)**
+
 **Score**: [56](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nikkansports.com/m/)
 
 

@@ -4,7 +4,8 @@ title: http://ultimo.infortis-themes.com/demo/select-demo/
 ---
 ## [Ultimo - Responsive Magento Theme | Select demo](http://ultimo.infortis-themes.com/demo/select-demo/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://ultimo.infortis-themes.com/demo/select-demo/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://ultimo.infortis-themes.com/demo/select-demo/)**
+
 **Score**: [80](https://developers.google.com/speed/pagespeed/insights/?url=http://ultimo.infortis-themes.com/demo/select-demo/)
 
 

@@ -4,7 +4,8 @@ title: http://everafterdemo.wordpress.com/
 ---
 ## [Ever After | A beautiful, textured wedding theme](http://everafterdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://everafterdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://everafterdemo.wordpress.com/)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://everafterdemo.wordpress.com/)
 
 

@@ -4,7 +4,8 @@ title: http://www.livemint.com/
 ---
 ## [Livemint.com - Breaking Business News, Latest Financial News Headlines, Stock Market Quotes](http://www.livemint.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.livemint.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.livemint.com/)**
+
 **Score**: [63](https://developers.google.com/speed/pagespeed/insights/?url=http://www.livemint.com/)
 
 

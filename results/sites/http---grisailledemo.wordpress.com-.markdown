@@ -4,7 +4,8 @@ title: http://grisailledemo.wordpress.com/
 ---
 ## [Grisaille | A classic two-column design, pronounced "griz-eye"](http://grisailledemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://grisailledemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://grisailledemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://grisailledemo.wordpress.com/)
 
 

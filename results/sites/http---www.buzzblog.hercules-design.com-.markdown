@@ -4,7 +4,8 @@ title: http://www.buzzblog.hercules-design.com/
 ---
 ## [BUZZBLOG | MINIMALIST BLOGGING PLATFORM](http://www.buzzblog.hercules-design.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.buzzblog.hercules-design.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.buzzblog.hercules-design.com/)**
+
 **Score**: [82](https://developers.google.com/speed/pagespeed/insights/?url=http://www.buzzblog.hercules-design.com/)
 
 

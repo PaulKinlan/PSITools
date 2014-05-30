@@ -4,7 +4,8 @@ title: http://www.wordreference.com/
 ---
 ## [English to French, Italian, German & Spanish Dictionary - WordReference.com](http://www.wordreference.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wordreference.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wordreference.com/)**
+
 **Score**: [100](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wordreference.com/)
 
 

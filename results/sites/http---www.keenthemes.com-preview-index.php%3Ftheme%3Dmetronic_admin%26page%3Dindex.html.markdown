@@ -4,7 +4,8 @@ title: http://www.keenthemes.com/preview/index.php?theme=metronic_admin&page=ind
 ---
 ## [KeenThemes | Metronic - Responsive Admin Dashboard Template](http://www.keenthemes.com/preview/index.php?theme=metronic_admin&page=index.html)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.keenthemes.com/preview/index.php?theme=metronic_admin&page=index.html) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.keenthemes.com/preview/index.php?theme=metronic_admin&page=index.html)**
+
 **Score**: [46](https://developers.google.com/speed/pagespeed/insights/?url=http://www.keenthemes.com/preview/index.php?theme=metronic_admin&page=index.html)
 
 

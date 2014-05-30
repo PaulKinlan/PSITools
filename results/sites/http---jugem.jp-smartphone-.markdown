@@ -4,7 +4,8 @@ title: http://jugem.jp/smartphone/
 ---
 ## [無料ブログ JUGEM(ジュゲム) - スマホ完全対応！占い・ニュース・漫画など毎日更新のコンテンツ満載！](http://jugem.jp/smartphone/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://jugem.jp/smartphone/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://jugem.jp/smartphone/)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://jugem.jp/smartphone/)
 
 

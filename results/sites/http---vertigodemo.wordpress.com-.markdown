@@ -4,7 +4,8 @@ title: http://vertigodemo.wordpress.com/
 ---
 ## [Vertigo | A stylish and fun theme for WordPress.com](http://vertigodemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://vertigodemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://vertigodemo.wordpress.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://vertigodemo.wordpress.com/)
 
 

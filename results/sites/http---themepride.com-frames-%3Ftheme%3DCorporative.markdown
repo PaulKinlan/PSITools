@@ -4,7 +4,8 @@ title: http://themepride.com/frames/?theme=Corporative
 ---
 ## [Ridwan Studio | Item : Corporative](http://themepride.com/frames/?theme=Corporative)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://themepride.com/frames/?theme=Corporative) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://themepride.com/frames/?theme=Corporative)**
+
 **Score**: [78](https://developers.google.com/speed/pagespeed/insights/?url=http://themepride.com/frames/?theme=Corporative)
 
 

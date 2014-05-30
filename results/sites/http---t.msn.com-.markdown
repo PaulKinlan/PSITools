@@ -4,7 +4,8 @@ title: http://t.msn.com/
 ---
 ## [MSN](http://t.msn.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://t.msn.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://t.msn.com/)**
+
 **Score**: [64](https://developers.google.com/speed/pagespeed/insights/?url=http://t.msn.com/)
 
 

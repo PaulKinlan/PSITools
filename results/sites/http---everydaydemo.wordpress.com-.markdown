@@ -4,7 +4,8 @@ title: http://everydaydemo.wordpress.com/
 ---
 ## [Everyday | Another wonderful WordPress.com theme](http://everydaydemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://everydaydemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://everydaydemo.wordpress.com/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://everydaydemo.wordpress.com/)
 
 

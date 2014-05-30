@@ -4,7 +4,8 @@ title: http://www.hotpepper.jp/
 ---
 ## [グルメ・クーポンならホットペッパーグルメ](http://www.hotpepper.jp/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.hotpepper.jp/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.hotpepper.jp/)**
+
 **Score**: [75](https://developers.google.com/speed/pagespeed/insights/?url=http://www.hotpepper.jp/)
 
 

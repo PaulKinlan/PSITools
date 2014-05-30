@@ -4,7 +4,8 @@ title: http://prettyyoungthingdemo.wordpress.com/
 ---
 ## [Pretty Young Thing](http://prettyyoungthingdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://prettyyoungthingdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://prettyyoungthingdemo.wordpress.com/)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://prettyyoungthingdemo.wordpress.com/)
 
 

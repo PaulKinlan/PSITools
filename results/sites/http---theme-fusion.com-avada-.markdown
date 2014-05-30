@@ -4,7 +4,8 @@ title: http://theme-fusion.com/avada/
 ---
 ## [Avada Premium WordPress Theme by ThemeFusion](http://theme-fusion.com/avada/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://theme-fusion.com/avada/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://theme-fusion.com/avada/)**
+
 **Score**: [51](https://developers.google.com/speed/pagespeed/insights/?url=http://theme-fusion.com/avada/)
 
 

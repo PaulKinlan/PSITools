@@ -4,7 +4,8 @@ title: http://www.azcentral.com/
 ---
 ## [azcentral.com - Home](http://www.azcentral.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.azcentral.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.azcentral.com/)**
+
 **Score**: [78](https://developers.google.com/speed/pagespeed/insights/?url=http://www.azcentral.com/)
 
 

@@ -4,7 +4,8 @@ title: http://mhmagazinedemo.wordpress.com/
 ---
 ## [MH Magazine | Premium Magazine WordPress Theme](http://mhmagazinedemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mhmagazinedemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mhmagazinedemo.wordpress.com/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://mhmagazinedemo.wordpress.com/)
 
 

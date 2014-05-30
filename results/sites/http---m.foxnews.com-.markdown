@@ -4,7 +4,8 @@ title: http://m.foxnews.com/
 ---
 ## [Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos](http://m.foxnews.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.foxnews.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.foxnews.com/)**
+
 **Score**: [47](https://developers.google.com/speed/pagespeed/insights/?url=http://m.foxnews.com/)
 
 

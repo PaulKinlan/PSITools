@@ -4,7 +4,8 @@ title: http://www.nifty.com/smp/?top
 ---
 ## [@nifty](http://www.nifty.com/smp/?top)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nifty.com/smp/?top) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nifty.com/smp/?top)**
+
 **Score**: [40](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nifty.com/smp/?top)
 
 

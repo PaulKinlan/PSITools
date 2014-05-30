@@ -4,7 +4,8 @@ title: http://dreamthemedesign.com/themes/u-design/
 ---
 ## [U-Design](http://dreamthemedesign.com/themes/u-design/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://dreamthemedesign.com/themes/u-design/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://dreamthemedesign.com/themes/u-design/)**
+
 **Score**: [52](https://developers.google.com/speed/pagespeed/insights/?url=http://dreamthemedesign.com/themes/u-design/)
 
 

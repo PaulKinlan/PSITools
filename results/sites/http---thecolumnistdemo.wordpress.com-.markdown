@@ -4,7 +4,8 @@ title: http://thecolumnistdemo.wordpress.com/
 ---
 ## [The Columnist | Attractive and minimalist theme with big, bold typography](http://thecolumnistdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://thecolumnistdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://thecolumnistdemo.wordpress.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://thecolumnistdemo.wordpress.com/)
 
 

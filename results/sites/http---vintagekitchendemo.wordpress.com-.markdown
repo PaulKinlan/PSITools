@@ -4,7 +4,8 @@ title: http://vintagekitchendemo.wordpress.com/
 ---
 ## [Vintage Kitchen | A food- and kitchen-oriented blog theme](http://vintagekitchendemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://vintagekitchendemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://vintagekitchendemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://vintagekitchendemo.wordpress.com/)
 
 

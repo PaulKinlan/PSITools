@@ -4,7 +4,8 @@ title: http://writrdemo.wordpress.com/
 ---
 ## [Writr | A Content-oriented Tumblelog theme](http://writrdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://writrdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://writrdemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://writrdemo.wordpress.com/)
 
 

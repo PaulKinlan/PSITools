@@ -4,7 +4,8 @@ title: http://www.livedoor.com/lite/
 ---
 ## [livedoor for スマートフォン](http://www.livedoor.com/lite/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.livedoor.com/lite/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.livedoor.com/lite/)**
+
 **Score**: [50](https://developers.google.com/speed/pagespeed/insights/?url=http://www.livedoor.com/lite/)
 
 

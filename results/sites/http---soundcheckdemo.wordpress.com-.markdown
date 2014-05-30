@@ -4,7 +4,8 @@ title: http://soundcheckdemo.wordpress.com/
 ---
 ## [Soundcheck | An audio-centric WordPress.com theme for bands, artists, and musicians](http://soundcheckdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://soundcheckdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://soundcheckdemo.wordpress.com/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://soundcheckdemo.wordpress.com/)
 
 

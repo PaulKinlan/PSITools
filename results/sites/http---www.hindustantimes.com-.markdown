@@ -4,7 +4,8 @@ title: http://www.hindustantimes.com/
 ---
 ## [Hindustan Times - Breaking News, India, World, Bollywood, Sports, Business, Technology](http://www.hindustantimes.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.hindustantimes.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.hindustantimes.com/)**
+
 **Score**: [37](https://developers.google.com/speed/pagespeed/insights/?url=http://www.hindustantimes.com/)
 
 

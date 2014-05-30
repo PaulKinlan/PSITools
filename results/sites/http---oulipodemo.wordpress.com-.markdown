@@ -4,7 +4,8 @@ title: http://oulipodemo.wordpress.com/
 ---
 ## [Oulipo | A clean grid-based theme with fixed navigation](http://oulipodemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://oulipodemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://oulipodemo.wordpress.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://oulipodemo.wordpress.com/)
 
 

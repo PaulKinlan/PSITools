@@ -4,7 +4,8 @@ title: http://www.pole-emploi.fr/accueil/
 ---
 ## [Accueil Pôle emploi | pole-emploi.fr, fusion des sites anpe.fr et assedic.fr](http://www.pole-emploi.fr/accueil/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.pole-emploi.fr/accueil/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.pole-emploi.fr/accueil/)**
+
 **Score**: [66](https://developers.google.com/speed/pagespeed/insights/?url=http://www.pole-emploi.fr/accueil/)
 
 

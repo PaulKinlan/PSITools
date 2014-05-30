@@ -4,7 +4,8 @@ title: http://www.deccanchronicle.com/
 ---
 ## [Deccan Chronicle - Latest India news | Breaking news | Hyderabad News | World news | Business | Politics](http://www.deccanchronicle.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.deccanchronicle.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.deccanchronicle.com/)**
+
 **Score**: [50](https://developers.google.com/speed/pagespeed/insights/?url=http://www.deccanchronicle.com/)
 
 

@@ -4,7 +4,8 @@ title: http://www.alternet.org/
 ---
 ## [Alternet | Alternative News and Information](http://www.alternet.org/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.alternet.org/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.alternet.org/)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://www.alternet.org/)
 
 

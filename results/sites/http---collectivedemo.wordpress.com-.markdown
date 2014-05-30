@@ -4,7 +4,8 @@ title: http://collectivedemo.wordpress.com/
 ---
 ## [Collective | A theme for small businesses.](http://collectivedemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://collectivedemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://collectivedemo.wordpress.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://collectivedemo.wordpress.com/)
 
 

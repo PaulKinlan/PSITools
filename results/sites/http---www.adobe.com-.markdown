@@ -4,7 +4,8 @@ title: http://www.adobe.com/
 ---
 ## [Adobe](http://www.adobe.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.adobe.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.adobe.com/)**
+
 **Score**: [53](https://developers.google.com/speed/pagespeed/insights/?url=http://www.adobe.com/)
 
 

@@ -4,7 +4,8 @@ title: http://demo.qodeinteractive.com/bridge/
 ---
 ## [Bridge | Creative Multi-Purpose WordPress Theme](http://demo.qodeinteractive.com/bridge/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.qodeinteractive.com/bridge/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.qodeinteractive.com/bridge/)**
+
 **Score**: [76](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.qodeinteractive.com/bridge/)
 
 

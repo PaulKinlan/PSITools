@@ -4,7 +4,8 @@ title: http://gigawattdemo.wordpress.com/
 ---
 ## [Gigawatt | A grungy, vintage WordPress Video theme, by Obox.](http://gigawattdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://gigawattdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://gigawattdemo.wordpress.com/)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://gigawattdemo.wordpress.com/)
 
 

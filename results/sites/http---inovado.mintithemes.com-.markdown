@@ -4,7 +4,8 @@ title: http://inovado.mintithemes.com/
 ---
 ## [Inovado](http://inovado.mintithemes.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://inovado.mintithemes.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://inovado.mintithemes.com/)**
+
 **Score**: [44](https://developers.google.com/speed/pagespeed/insights/?url=http://inovado.mintithemes.com/)
 
 

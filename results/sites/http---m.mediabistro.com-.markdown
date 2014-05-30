@@ -4,7 +4,8 @@ title: http://m.mediabistro.com/
 ---
 ## [mediabistro.com](http://m.mediabistro.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.mediabistro.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.mediabistro.com/)**
+
 **Score**: [50](https://developers.google.com/speed/pagespeed/insights/?url=http://m.mediabistro.com/)
 
 

@@ -4,7 +4,8 @@ title: http://sixteenninedemo.wordpress.com/
 ---
 ## [Sixteen Nine](http://sixteenninedemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://sixteenninedemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://sixteenninedemo.wordpress.com/)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://sixteenninedemo.wordpress.com/)
 
 

@@ -4,7 +4,8 @@ title: http://2ch.net/
 ---
 ## [２ちゃんねる掲示板へようこそ](http://2ch.net/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://2ch.net/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://2ch.net/)**
+
 **Score**: [84](https://developers.google.com/speed/pagespeed/insights/?url=http://2ch.net/)
 
 

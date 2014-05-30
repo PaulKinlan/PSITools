@@ -4,7 +4,8 @@ title: https://siam-movie.com/
 ---
 ## [ดูหนังออนไลน์ siam-movie.com | เว็บดูหนัง ดูหนังฟรี หนังhd](https://siam-movie.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://siam-movie.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://siam-movie.com/)**
+
 **Score**: [57](https://developers.google.com/speed/pagespeed/insights/?url=https://siam-movie.com/)
 
 

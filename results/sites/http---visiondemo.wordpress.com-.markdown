@@ -4,7 +4,8 @@ title: http://visiondemo.wordpress.com/
 ---
 ## [Vision | A Photographers Dream](http://visiondemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://visiondemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://visiondemo.wordpress.com/)**
+
 **Score**: [66](https://developers.google.com/speed/pagespeed/insights/?url=http://visiondemo.wordpress.com/)
 
 

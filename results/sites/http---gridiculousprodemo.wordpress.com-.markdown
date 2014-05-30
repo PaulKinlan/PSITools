@@ -4,7 +4,8 @@ title: http://gridiculousprodemo.wordpress.com/
 ---
 ## [Gridiculous Pro | created by bavotasan.com](http://gridiculousprodemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://gridiculousprodemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://gridiculousprodemo.wordpress.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://gridiculousprodemo.wordpress.com/)
 
 

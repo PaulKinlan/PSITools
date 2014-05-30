@@ -4,7 +4,8 @@ title: http://www.hatena.ne.jp/
 ---
 ## [はてな](http://www.hatena.ne.jp/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.hatena.ne.jp/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.hatena.ne.jp/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://www.hatena.ne.jp/)
 
 

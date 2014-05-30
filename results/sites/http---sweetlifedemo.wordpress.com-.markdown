@@ -4,7 +4,8 @@ title: http://sweetlifedemo.wordpress.com/
 ---
 ## [Sweet Life | Coffee & Cakes](http://sweetlifedemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://sweetlifedemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://sweetlifedemo.wordpress.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://sweetlifedemo.wordpress.com/)
 
 

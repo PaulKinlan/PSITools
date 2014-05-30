@@ -4,7 +4,8 @@ title: http://www.anitube.se/
 ---
 ## [AniTube! Animes Online](http://www.anitube.se/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.anitube.se/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.anitube.se/)**
+
 **Score**: [44](https://developers.google.com/speed/pagespeed/insights/?url=http://www.anitube.se/)
 
 

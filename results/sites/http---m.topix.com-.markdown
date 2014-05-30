@@ -4,7 +4,8 @@ title: http://m.topix.com/
 ---
 ## [Topix: Your town. Your news. Your take.](http://m.topix.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.topix.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.topix.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://m.topix.com/)
 
 

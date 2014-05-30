@@ -4,7 +4,8 @@ title: http://www.adscale.de/
 ---
 ## [adscale.de](http://www.adscale.de/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.adscale.de/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.adscale.de/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://www.adscale.de/)
 
 

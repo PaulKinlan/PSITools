@@ -4,7 +4,8 @@ title: https://s.amebame.com/#top?frm_id=c.am-brow_l.top-_r.am-www
 ---
 ## [Ameba (アメーバ)｜コミュニティ&ゲーム 1万人以上の芸能人ブログや定番アメーバピグで遊ぼう♪](https://s.amebame.com/#top?frm_id=c.am-brow_l.top-_r.am-www)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://s.amebame.com/#top?frm_id=c.am-brow_l.top-_r.am-www) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://s.amebame.com/#top?frm_id=c.am-brow_l.top-_r.am-www)**
+
 **Score**: [49](https://developers.google.com/speed/pagespeed/insights/?url=https://s.amebame.com/#top?frm_id=c.am-brow_l.top-_r.am-www)
 
 

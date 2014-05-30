@@ -4,7 +4,8 @@ title: http://dusktodawndemo.wordpress.com/
 ---
 ## [Dusk to Dawn demo | A dark theme for WordPress.com](http://dusktodawndemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://dusktodawndemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://dusktodawndemo.wordpress.com/)**
+
 **Score**: [65](https://developers.google.com/speed/pagespeed/insights/?url=http://dusktodawndemo.wordpress.com/)
 
 

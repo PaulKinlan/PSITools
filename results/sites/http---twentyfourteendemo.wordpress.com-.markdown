@@ -4,7 +4,8 @@ title: http://twentyfourteendemo.wordpress.com/
 ---
 ## [Twenty Fourteen | A beautiful magazine theme](http://twentyfourteendemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://twentyfourteendemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://twentyfourteendemo.wordpress.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://twentyfourteendemo.wordpress.com/)
 
 

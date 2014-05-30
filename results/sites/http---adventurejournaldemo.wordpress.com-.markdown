@@ -4,7 +4,8 @@ title: http://adventurejournaldemo.wordpress.com/
 ---
 ## [Adventure Journal | The best-traveled theme your blog has ever seen.](http://adventurejournaldemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://adventurejournaldemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://adventurejournaldemo.wordpress.com/)**
+
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://adventurejournaldemo.wordpress.com/)
 
 

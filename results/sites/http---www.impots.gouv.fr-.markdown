@@ -4,7 +4,8 @@ title: http://www.impots.gouv.fr/
 ---
 ## [Impots.gouv.fr - Accueil](http://www.impots.gouv.fr/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.impots.gouv.fr/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.impots.gouv.fr/)**
+
 **Score**: [80](https://developers.google.com/speed/pagespeed/insights/?url=http://www.impots.gouv.fr/)
 
 

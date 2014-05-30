@@ -4,7 +4,8 @@ title: http://www.foreca.com/United_States/New_York/New_York_City
 ---
 ## [Weather Forecast New York City - Foreca.com](http://www.foreca.com/United_States/New_York/New_York_City)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.foreca.com/United_States/New_York/New_York_City) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.foreca.com/United_States/New_York/New_York_City)**
+
 **Score**: [79](https://developers.google.com/speed/pagespeed/insights/?url=http://www.foreca.com/United_States/New_York/New_York_City)
 
 

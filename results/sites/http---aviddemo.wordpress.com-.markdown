@@ -4,7 +4,8 @@ title: http://aviddemo.wordpress.com/
 ---
 ## [Avid](http://aviddemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://aviddemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://aviddemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://aviddemo.wordpress.com/)
 
 

@@ -4,7 +4,8 @@ title: http://guardianlv.com/
 ---
 ## [Guardian Liberty Voice | Breaking news, opinion, blogs and original content offering coverage of US news, politics, entertainment, sports, world news, technology, health and science.](http://guardianlv.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://guardianlv.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://guardianlv.com/)**
+
 **Score**: [74](https://developers.google.com/speed/pagespeed/insights/?url=http://guardianlv.com/)
 
 

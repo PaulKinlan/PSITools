@@ -4,7 +4,8 @@ title: https://weather.yahoo.com/
 ---
 ## [Yahoo! Mobile](https://weather.yahoo.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://weather.yahoo.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://weather.yahoo.com/)**
+
 **Score**: [99](https://developers.google.com/speed/pagespeed/insights/?url=https://weather.yahoo.com/)
 
 

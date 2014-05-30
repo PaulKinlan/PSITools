@@ -4,7 +4,8 @@ title: http://www.spiegel.de/
 ---
 ## [SPIEGEL ONLINE - Nachrichten](http://www.spiegel.de/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.spiegel.de/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.spiegel.de/)**
+
 **Score**: [54](https://developers.google.com/speed/pagespeed/insights/?url=http://www.spiegel.de/)
 
 

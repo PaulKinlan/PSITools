@@ -4,7 +4,8 @@ title: http://m.bfmtv.com/
 ---
 ## [BFMTV](http://m.bfmtv.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.bfmtv.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.bfmtv.com/)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://m.bfmtv.com/)
 
 

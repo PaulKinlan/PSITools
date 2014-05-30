@@ -4,7 +4,8 @@ title: http://blogumdemo.wordpress.com/
 ---
 ## [Blogum | Simple, grid-based WordPress.com theme](http://blogumdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://blogumdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://blogumdemo.wordpress.com/)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://blogumdemo.wordpress.com/)
 
 

@@ -4,7 +4,8 @@ title: http://fioredemo.wordpress.com/
 ---
 ## [Fiore | A light, feminine theme in vintage colors](http://fioredemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://fioredemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://fioredemo.wordpress.com/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://fioredemo.wordpress.com/)
 
 

@@ -4,7 +4,8 @@ title: http://deliciousmagazinedemo.wordpress.com/
 ---
 ## [Delicious Magazine | An elegant and versatile magazine-style WordPress.com theme](http://deliciousmagazinedemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://deliciousmagazinedemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://deliciousmagazinedemo.wordpress.com/)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://deliciousmagazinedemo.wordpress.com/)
 
 

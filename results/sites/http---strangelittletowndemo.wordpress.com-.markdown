@@ -4,7 +4,8 @@ title: http://strangelittletowndemo.wordpress.com/
 ---
 ## [Strange Little Town | A whimsical holiday theme](http://strangelittletowndemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://strangelittletowndemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://strangelittletowndemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://strangelittletowndemo.wordpress.com/)
 
 

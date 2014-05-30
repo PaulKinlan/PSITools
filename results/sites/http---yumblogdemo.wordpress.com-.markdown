@@ -4,7 +4,8 @@ title: http://yumblogdemo.wordpress.com/
 ---
 ## [Yumblog | A tasty WordPress.com theme](http://yumblogdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://yumblogdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://yumblogdemo.wordpress.com/)**
+
 **Score**: [58](https://developers.google.com/speed/pagespeed/insights/?url=http://yumblogdemo.wordpress.com/)
 
 

@@ -4,7 +4,8 @@ title: http://alt-realhomes.inspirythemes.com/
 ---
 ## [Real Homes](http://alt-realhomes.inspirythemes.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://alt-realhomes.inspirythemes.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://alt-realhomes.inspirythemes.com/)**
+
 **Score**: [41](https://developers.google.com/speed/pagespeed/insights/?url=http://alt-realhomes.inspirythemes.com/)
 
 

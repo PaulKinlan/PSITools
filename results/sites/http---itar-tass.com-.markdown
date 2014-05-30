@@ -4,7 +4,8 @@ title: http://itar-tass.com/
 ---
 ## [ИТАР-ТАСС - Новости в России и мире](http://itar-tass.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://itar-tass.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://itar-tass.com/)**
+
 **Score**: [74](https://developers.google.com/speed/pagespeed/insights/?url=http://itar-tass.com/)
 
 

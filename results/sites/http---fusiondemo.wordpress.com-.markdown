@@ -4,7 +4,8 @@ title: http://fusiondemo.wordpress.com/
 ---
 ## [Fusion | A flexible and versatile theme for WordPress.com](http://fusiondemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://fusiondemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://fusiondemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://fusiondemo.wordpress.com/)
 
 

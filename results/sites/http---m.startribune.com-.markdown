@@ -4,7 +4,8 @@ title: http://m.startribune.com/
 ---
 ## [StarTribune.com Mobile | News, weather, sports](http://m.startribune.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.startribune.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.startribune.com/)**
+
 **Score**: [58](https://developers.google.com/speed/pagespeed/insights/?url=http://m.startribune.com/)
 
 

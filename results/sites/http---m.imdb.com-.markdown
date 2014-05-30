@@ -4,7 +4,8 @@ title: http://m.imdb.com/
 ---
 ## [IMDb](http://m.imdb.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.imdb.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.imdb.com/)**
+
 **Score**: [59](https://developers.google.com/speed/pagespeed/insights/?url=http://m.imdb.com/)
 
 

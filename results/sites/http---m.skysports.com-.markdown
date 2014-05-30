@@ -4,7 +4,8 @@ title: http://m.skysports.com/
 ---
 ## [Sky Sports](http://m.skysports.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.skysports.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.skysports.com/)**
+
 **Score**: [55](https://developers.google.com/speed/pagespeed/insights/?url=http://m.skysports.com/)
 
 

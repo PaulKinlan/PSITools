@@ -4,7 +4,8 @@ title: https://www.labanquepostale.fr/accueil.html
 ---
 ## [Banque - Votre banque en ligne avec La Banque Postale](https://www.labanquepostale.fr/accueil.html)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://www.labanquepostale.fr/accueil.html) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://www.labanquepostale.fr/accueil.html)**
+
 **Score**: [54](https://developers.google.com/speed/pagespeed/insights/?url=https://www.labanquepostale.fr/accueil.html)
 
 

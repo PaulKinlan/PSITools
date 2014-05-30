@@ -4,7 +4,8 @@ title: http://motifdemo.wordpress.com/
 ---
 ## [Motif | A crisp, minimalist, and fully responsive business theme](http://motifdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://motifdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://motifdemo.wordpress.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://motifdemo.wordpress.com/)
 
 

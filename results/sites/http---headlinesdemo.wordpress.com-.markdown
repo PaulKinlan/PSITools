@@ -4,7 +4,8 @@ title: http://headlinesdemo.wordpress.com/
 ---
 ## [Headlines | A clean and sophisticated magazine theme](http://headlinesdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://headlinesdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://headlinesdemo.wordpress.com/)**
+
 **Score**: [67](https://developers.google.com/speed/pagespeed/insights/?url=http://headlinesdemo.wordpress.com/)
 
 

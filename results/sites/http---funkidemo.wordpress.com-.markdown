@@ -4,7 +4,8 @@ title: http://funkidemo.wordpress.com/
 ---
 ## [Funki](http://funkidemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://funkidemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://funkidemo.wordpress.com/)**
+
 **Score**: [68](https://developers.google.com/speed/pagespeed/insights/?url=http://funkidemo.wordpress.com/)
 
 

@@ -4,7 +4,8 @@ title: http://cheerdemo.wordpress.com/
 ---
 ## [Cheer | Celebrate the holidays with this whimsical, textured holiday theme](http://cheerdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://cheerdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://cheerdemo.wordpress.com/)**
+
 **Score**: [59](https://developers.google.com/speed/pagespeed/insights/?url=http://cheerdemo.wordpress.com/)
 
 

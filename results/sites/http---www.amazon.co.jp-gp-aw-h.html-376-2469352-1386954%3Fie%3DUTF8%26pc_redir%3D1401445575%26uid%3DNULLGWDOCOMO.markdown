@@ -4,7 +4,8 @@ title: http://www.amazon.co.jp/gp/aw/h.html/376-2469352-1386954?ie=UTF8&pc_redir
 ---
 ## [Amazon.co.jp](http://www.amazon.co.jp/gp/aw/h.html/376-2469352-1386954?ie=UTF8&pc_redir=1401445575&uid=NULLGWDOCOMO)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.amazon.co.jp/gp/aw/h.html/376-2469352-1386954?ie=UTF8&pc_redir=1401445575&uid=NULLGWDOCOMO) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.amazon.co.jp/gp/aw/h.html/376-2469352-1386954?ie=UTF8&pc_redir=1401445575&uid=NULLGWDOCOMO)**
+
 **Score**: [90](https://developers.google.com/speed/pagespeed/insights/?url=http://www.amazon.co.jp/gp/aw/h.html/376-2469352-1386954?ie=UTF8&pc_redir=1401445575&uid=NULLGWDOCOMO)
 
 

@@ -4,7 +4,8 @@ title: http://gb.viadeo.com/en/
 ---
 ## [Viadeo.com - United Kingdom: Professional Social Network](http://gb.viadeo.com/en/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://gb.viadeo.com/en/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://gb.viadeo.com/en/)**
+
 **Score**: [60](https://developers.google.com/speed/pagespeed/insights/?url=http://gb.viadeo.com/en/)
 
 

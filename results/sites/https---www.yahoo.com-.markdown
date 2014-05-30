@@ -4,7 +4,8 @@ title: https://www.yahoo.com/
 ---
 ## [Yahoo! Mobile](https://www.yahoo.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://www.yahoo.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://www.yahoo.com/)**
+
 **Score**: [99](https://developers.google.com/speed/pagespeed/insights/?url=https://www.yahoo.com/)
 
 

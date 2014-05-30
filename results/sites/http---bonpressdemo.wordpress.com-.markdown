@@ -4,7 +4,8 @@ title: http://bonpressdemo.wordpress.com/
 ---
 ## [BonPress | The personal blog theme for everyone](http://bonpressdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://bonpressdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://bonpressdemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://bonpressdemo.wordpress.com/)
 
 

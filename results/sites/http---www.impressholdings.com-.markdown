@@ -4,7 +4,8 @@ title: http://www.impressholdings.com/
 ---
 ## [株式会社インプレスホールディングス](http://www.impressholdings.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.impressholdings.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.impressholdings.com/)**
+
 **Score**: [57](https://developers.google.com/speed/pagespeed/insights/?url=http://www.impressholdings.com/)
 
 

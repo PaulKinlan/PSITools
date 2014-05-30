@@ -4,7 +4,8 @@ title: http://mpnrs.com/
 ---
 ## [M,P,NEWMEDIA, GmbH](http://mpnrs.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mpnrs.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://mpnrs.com/)**
+
 **Score**: [100](https://developers.google.com/speed/pagespeed/insights/?url=http://mpnrs.com/)
 
 

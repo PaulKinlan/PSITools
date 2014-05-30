@@ -4,7 +4,8 @@ title: http://www.oknation.net/mblog/
 ---
 ## [OK Nation Mobile Blog](http://www.oknation.net/mblog/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.oknation.net/mblog/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.oknation.net/mblog/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://www.oknation.net/mblog/)
 
 

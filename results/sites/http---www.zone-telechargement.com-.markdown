@@ -4,7 +4,8 @@ title: http://www.zone-telechargement.com/
 ---
 ## [Zone Telechargement - Site de Téléchargement Gratuit](http://www.zone-telechargement.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.zone-telechargement.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.zone-telechargement.com/)**
+
 **Score**: [75](https://developers.google.com/speed/pagespeed/insights/?url=http://www.zone-telechargement.com/)
 
 

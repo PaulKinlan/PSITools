@@ -4,7 +4,8 @@ title: http://m.dailytelegraph.com.au/
 ---
 ## [dailytelegraph.com.au| Home | DailyTelegraph](http://m.dailytelegraph.com.au/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.dailytelegraph.com.au/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.dailytelegraph.com.au/)**
+
 **Score**: [42](https://developers.google.com/speed/pagespeed/insights/?url=http://m.dailytelegraph.com.au/)
 
 

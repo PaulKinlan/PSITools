@@ -4,7 +4,8 @@ title: https://www.google.co.uk/?gws_rd=cr&ei=C4eIU_O_M-W_0QWt3YHIBA
 ---
 ## [Google](https://www.google.co.uk/?gws_rd=cr&ei=C4eIU_O_M-W_0QWt3YHIBA)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.co.uk/?gws_rd=cr&ei=C4eIU_O_M-W_0QWt3YHIBA) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.co.uk/?gws_rd=cr&ei=C4eIU_O_M-W_0QWt3YHIBA)**
+
 **Score**: [79](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.co.uk/?gws_rd=cr&ei=C4eIU_O_M-W_0QWt3YHIBA)
 
 

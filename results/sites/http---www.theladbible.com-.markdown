@@ -4,7 +4,8 @@ title: http://www.theladbible.com/
 ---
 ## [The LAD Bible](http://www.theladbible.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.theladbible.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.theladbible.com/)**
+
 **Score**: [49](https://developers.google.com/speed/pagespeed/insights/?url=http://www.theladbible.com/)
 
 

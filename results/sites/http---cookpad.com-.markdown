@@ -4,7 +4,8 @@ title: http://cookpad.com/
 ---
 ## [レシピ検索No.1／料理レシピ載せるなら クックパッド](http://cookpad.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://cookpad.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://cookpad.com/)**
+
 **Score**: [77](https://developers.google.com/speed/pagespeed/insights/?url=http://cookpad.com/)
 
 

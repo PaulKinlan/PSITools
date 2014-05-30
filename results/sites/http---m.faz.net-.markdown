@@ -4,7 +4,8 @@ title: http://m.faz.net/
 ---
 ## [Aktuelle Nachrichten Online - FAZ.NET](http://m.faz.net/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.faz.net/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.faz.net/)**
+
 **Score**: [72](https://developers.google.com/speed/pagespeed/insights/?url=http://m.faz.net/)
 
 

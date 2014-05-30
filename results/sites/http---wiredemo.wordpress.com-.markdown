@@ -4,7 +4,8 @@ title: http://wiredemo.wordpress.com/
 ---
 ## [Wire | A highly customizable, responsive, personal blog theme for the creative in you.](http://wiredemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://wiredemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://wiredemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://wiredemo.wordpress.com/)
 
 

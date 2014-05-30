@@ -4,7 +4,8 @@ title: http://organizationdemo.wordpress.com/
 ---
 ## [Organization | A Business Theme For Organizations](http://organizationdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://organizationdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://organizationdemo.wordpress.com/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://organizationdemo.wordpress.com/)
 
 

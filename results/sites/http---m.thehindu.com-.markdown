@@ -4,7 +4,8 @@ title: http://m.thehindu.com/
 ---
 ## [The Hindu: Mobile Edition](http://m.thehindu.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.thehindu.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://m.thehindu.com/)**
+
 **Score**: [45](https://developers.google.com/speed/pagespeed/insights/?url=http://m.thehindu.com/)
 
 

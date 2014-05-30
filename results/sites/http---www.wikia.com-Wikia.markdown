@@ -4,7 +4,8 @@ title: http://www.wikia.com/Wikia
 ---
 ## [Collaborative communities for everyone!](http://www.wikia.com/Wikia)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wikia.com/Wikia) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wikia.com/Wikia)**
+
 **Score**: [62](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wikia.com/Wikia)
 
 

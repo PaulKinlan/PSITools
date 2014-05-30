@@ -4,7 +4,8 @@ title: http://timepiecedemo.wordpress.com/
 ---
 ## [Timepiece | A simple and minimalist WordPress theme](http://timepiecedemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://timepiecedemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://timepiecedemo.wordpress.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://timepiecedemo.wordpress.com/)
 
 

@@ -4,7 +4,8 @@ title: http://worldviewdemo.wordpress.com/
 ---
 ## [Worldview | A big, bold theme for broadcasting your voice to the world.](http://worldviewdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://worldviewdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://worldviewdemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://worldviewdemo.wordpress.com/)
 
 

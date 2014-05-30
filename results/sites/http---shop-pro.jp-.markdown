@@ -4,7 +4,8 @@ title: http://shop-pro.jp/
 ---
 ## [カラーミーショップ - ネットショップかんたん作成サービス](http://shop-pro.jp/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://shop-pro.jp/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://shop-pro.jp/)**
+
 **Score**: [69](https://developers.google.com/speed/pagespeed/insights/?url=http://shop-pro.jp/)
 
 

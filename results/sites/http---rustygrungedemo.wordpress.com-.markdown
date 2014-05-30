@@ -4,7 +4,8 @@ title: http://rustygrungedemo.wordpress.com/
 ---
 ## [Rusty Grunge | A somewhat dirty and grungy theme for WordPress.com](http://rustygrungedemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://rustygrungedemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://rustygrungedemo.wordpress.com/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://rustygrungedemo.wordpress.com/)
 
 

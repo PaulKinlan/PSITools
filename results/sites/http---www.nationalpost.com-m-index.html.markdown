@@ -4,7 +4,8 @@ title: http://www.nationalpost.com/m/index.html
 ---
 ## [National Post](http://www.nationalpost.com/m/index.html)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nationalpost.com/m/index.html) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nationalpost.com/m/index.html)**
+
 **Score**: [72](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nationalpost.com/m/index.html)
 
 

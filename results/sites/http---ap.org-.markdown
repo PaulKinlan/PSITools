@@ -4,7 +4,8 @@ title: http://ap.org/
 ---
 ## [Associated Press](http://ap.org/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://ap.org/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://ap.org/)**
+
 **Score**: [71](https://developers.google.com/speed/pagespeed/insights/?url=http://ap.org/)
 
 

@@ -4,7 +4,8 @@ title: http://illustratrdemo.wordpress.com/
 ---
 ## [Illustratr | A minimalist portfolio theme](http://illustratrdemo.wordpress.com/)
 
-**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://illustratrdemo.wordpress.com/) **
+**Check against [PageSpeed Insights live](https://developers.google.com/speed/pagespeed/insights/?url=http://illustratrdemo.wordpress.com/)**
+
 **Score**: [70](https://developers.google.com/speed/pagespeed/insights/?url=http://illustratrdemo.wordpress.com/)
 
 
