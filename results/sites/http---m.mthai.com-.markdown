@@ -11,19 +11,19 @@ title: http://m.mthai.com/
 
 ### Request information
 
-*  Number of Resources: 46
-*  Number of Hosts: 8
-*  Number of JS Resources: 9
+*  Number of Resources: 47
+*  Number of Hosts: 9
+*  Number of JS Resources: 10
 *  Number of CSS Resources: 2
-*  Nubmer of Static Resources: 39
-*  Total Request Bytes: 6798
+*  Nubmer of Static Resources: 40
+*  Total Request Bytes: 6860
 
 ### Response data
 
 *  HTML Response Bytes: 12084
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 22057
-*  Image Response Bytes: 540637
-*  JS Response Bytes: 142404
+*  Image Response Bytes: 540649
+*  JS Response Bytes: 147979
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 970

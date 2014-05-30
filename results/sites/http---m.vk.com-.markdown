@@ -16,7 +16,7 @@ title: http://m.vk.com/
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 5
-*  Total Request Bytes: 947
+*  Total Request Bytes: 945
 
 ### Response data
 
@@ -26,4 +26,4 @@ title: http://m.vk.com/
 *  Image Response Bytes: 2364
 *  JS Response Bytes: 164643
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1336
+*  Other Response Bytes: 1334

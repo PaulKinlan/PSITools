@@ -16,7 +16,7 @@ title: http://www.yengo.com/
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 23
-*  Total Request Bytes: 3849
+*  Total Request Bytes: 3850
 
 ### Response data
 
@@ -26,4 +26,4 @@ title: http://www.yengo.com/
 *  Image Response Bytes: 715036
 *  JS Response Bytes: 284206
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1194
+*  Other Response Bytes: 1195

@@ -11,19 +11,19 @@ title: http://www.lazada.co.th/
 
 ### Request information
 
-*  Number of Resources: 80
-*  Number of Hosts: 33
+*  Number of Resources: 72
+*  Number of Hosts: 32
 *  Number of JS Resources: 22
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 39
-*  Total Request Bytes: 17215
+*  Total Request Bytes: 16351
 
 ### Response data
 
-*  HTML Response Bytes: 63096
+*  HTML Response Bytes: 60694
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 94675
-*  Image Response Bytes: 263596
-*  JS Response Bytes: 1006064
+*  Image Response Bytes: 262679
+*  JS Response Bytes: 1006059
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 14840
+*  Other Response Bytes: 12020

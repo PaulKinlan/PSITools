@@ -16,14 +16,14 @@ title: http://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 29
-*  Total Request Bytes: 9996
+*  Total Request Bytes: 9997
 
 ### Response data
 
-*  HTML Response Bytes: 11812
-*  Text Response Bytes: 23356
+*  HTML Response Bytes: 11808
+*  Text Response Bytes: 23357
 *  CSS Response Bytes: 34681
-*  Image Response Bytes: 293266
+*  Image Response Bytes: 293267
 *  JS Response Bytes: 290205
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 3236
+*  Other Response Bytes: 3237

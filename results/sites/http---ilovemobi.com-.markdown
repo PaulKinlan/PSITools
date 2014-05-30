@@ -16,14 +16,14 @@ title: http://ilovemobi.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 24
-*  Total Request Bytes: 3169
+*  Total Request Bytes: 3190
 
 ### Response data
 
 *  HTML Response Bytes: 18345
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 3883
-*  Image Response Bytes: 397461
-*  JS Response Bytes: 273199
+*  Image Response Bytes: 397570
+*  JS Response Bytes: 273295
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

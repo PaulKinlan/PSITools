@@ -20,10 +20,10 @@ title: http://thepiratebay.se/
 
 ### Response data
 
-*  HTML Response Bytes: 115843
+*  HTML Response Bytes: 115689
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 173142
 *  Image Response Bytes: 43728
-*  JS Response Bytes: 1267532
+*  JS Response Bytes: 1267540
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

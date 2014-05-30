@@ -16,7 +16,7 @@ title: http://m.pantipmarket.com/intro.html
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 6
-*  Total Request Bytes: 2339
+*  Total Request Bytes: 2341
 
 ### Response data
 

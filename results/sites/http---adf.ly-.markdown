@@ -16,14 +16,14 @@ title: http://adf.ly/
 *  Number of JS Resources: 25
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 64
-*  Total Request Bytes: 7545
+*  Total Request Bytes: 7526
 
 ### Response data
 
-*  HTML Response Bytes: 36784
+*  HTML Response Bytes: 28729
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 200336
-*  Image Response Bytes: 165863
-*  JS Response Bytes: 861665
+*  Image Response Bytes: 168509
+*  JS Response Bytes: 861885
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

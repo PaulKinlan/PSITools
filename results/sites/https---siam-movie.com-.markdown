@@ -12,18 +12,18 @@ title: https://siam-movie.com/
 ### Request information
 
 *  Number of Resources: 118
-*  Number of Hosts: 26
+*  Number of Hosts: 25
 *  Number of JS Resources: 33
 *  Number of CSS Resources: 12
 *  Nubmer of Static Resources: 96
-*  Total Request Bytes: 16926
+*  Total Request Bytes: 16804
 
 ### Response data
 
-*  HTML Response Bytes: 239941
+*  HTML Response Bytes: 240536
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 244644
-*  Image Response Bytes: 677986
-*  JS Response Bytes: 2233840
+*  CSS Response Bytes: 244629
+*  Image Response Bytes: 677770
+*  JS Response Bytes: 2233659
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 364779
+*  Other Response Bytes: 364776

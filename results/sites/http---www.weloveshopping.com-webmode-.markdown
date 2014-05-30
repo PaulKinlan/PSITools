@@ -26,4 +26,4 @@ title: http://www.weloveshopping.com/webmode/
 *  Image Response Bytes: 154908
 *  JS Response Bytes: 94545
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 997
+*  Other Response Bytes: 987
