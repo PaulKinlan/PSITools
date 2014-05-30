@@ -6,7 +6,7 @@ description: PageSpeed insights scores across the top 100 sites from France (via
 |Site|Score|
 |----|-----|
 [Amazon.com](http://www.amazon.com/)|[100](https://developers.google.com/speed/pagespeed/insights/?url=http://www.amazon.com/)|
-[English to French, Italian, German &amp; Spanish Dictionary - WordReference.com](http://www.wordreference.com/)|[100](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wordreference.com/)|
+[English to French, Italian, German & Spanish Dictionary - WordReference.com](http://www.wordreference.com/)|[100](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wordreference.com/)|
 [t.co / Twitter](http://t.co/)|[100](https://developers.google.com/speed/pagespeed/insights/?url=http://t.co/)|
 [Yahoo! Mobile](https://www.yahoo.com/)|[99](https://developers.google.com/speed/pagespeed/insights/?url=https://www.yahoo.com/)|
 [What To Watch - YouTube](http://m.youtube.com/)|[98](https://developers.google.com/speed/pagespeed/insights/?url=http://m.youtube.com/)|

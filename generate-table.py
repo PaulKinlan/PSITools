@@ -38,7 +38,7 @@ for site in sorted_sites:
   score = site["score"]
 
   sys.stdout.write("[")
-  sys.stdout.write(escape(title.encode('utf-8')).replace("|","&#124;"))
+  sys.stdout.write(title.encode('utf-8').replace("|","&#124;"))
   sys.stdout.write("](%s)|[%s](%s%s)|\n" % (id, score, pagespeed_url, id))
 
 for site in sorted_sites:

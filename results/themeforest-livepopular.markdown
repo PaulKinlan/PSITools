@@ -19,7 +19,7 @@ collections:
 [Themes Lab &#124; Item : Pixit Admin](http://themes-lab.com/preview/?theme=Pixit%20Admin)|[79](https://developers.google.com/speed/pagespeed/insights/?url=http://themes-lab.com/preview/?theme=Pixit%20Admin)|
 [Ridwan Studio &#124; Item : Corporative](http://themepride.com/frames/?theme=Corporative)|[78](https://developers.google.com/speed/pagespeed/insights/?url=http://themepride.com/frames/?theme=Corporative)|
 [RT-THEME 18](http://demo-rt.com/?theme=rttheme18)|[78](https://developers.google.com/speed/pagespeed/insights/?url=http://demo-rt.com/?theme=rttheme18)|
-[Premium WordPress &amp; BuddyPress Theme &#124; KLEO Template](http://seventhqueen.com/themes/kleo/)|[77](https://developers.google.com/speed/pagespeed/insights/?url=http://seventhqueen.com/themes/kleo/)|
+[Premium WordPress & BuddyPress Theme &#124; KLEO Template](http://seventhqueen.com/themes/kleo/)|[77](https://developers.google.com/speed/pagespeed/insights/?url=http://seventhqueen.com/themes/kleo/)|
 [Nouveau &#124; Creative Multi-Purpose WordPress Theme](http://demo.select-themes.com/nouveau/)|[76](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.select-themes.com/nouveau/)|
 [TieLabs &#124; Theme: Sahifa](http://themes.tielabs.com/?theme=sahifa)|[76](https://developers.google.com/speed/pagespeed/insights/?url=http://themes.tielabs.com/?theme=sahifa)|
 [Bridge &#124; Creative Multi-Purpose WordPress Theme](http://demo.qodeinteractive.com/bridge/)|[76](https://developers.google.com/speed/pagespeed/insights/?url=http://demo.qodeinteractive.com/bridge/)|
