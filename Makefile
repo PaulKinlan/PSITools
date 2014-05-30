@@ -10,15 +10,29 @@ clean: cleanresults
 	rm -rf ./_site/
 
 cleanresults:
-	rm -f results/themeforest-livepopular.markdown
+	rm -r results/themeforest-livepopular.markdown
 	rm -f results/wordpress.markdown
 	rm -f results/alexa-top-10.markdown
 	rm -f results/news.markdown
 	rm -f results/webdeveloperdocs.markdown
 	rm -f results/japanese-top-100.markdown
 	rm -f results/french-top-100.markdown
+	rm -f results/french-top-100.markdown
+	rm -f results/sites/*.markdown
 
-# French Top 100
+# UK Top 100
+output/german-top-100:
+	./run.py source/german-top-100 > output/german-top-100
+
+german-top-100.tmp: output/german-top-100
+	./generate-table.py ./output/german-top-100 > german-top-100.tmp 
+	./generate-page-result.py ./output/german-top-100
+
+results/german-top-100.markdown: german-top-100.tmp generate-table.py
+	cat _frontmatter/german-top-100 german-top-100.tmp > results/german-top-100.markdown
+	rm -f german-top-100.tmp
+
+# UK Top 100
 output/uk-top-100:
 	./run.py source/uk-top-100 > output/uk-top-100
 
@@ -116,7 +130,7 @@ results/wordpress.markdown: wordpress.tmp generate-table.py
 
 # Main process
 
-mergepsi: results/uk-top-100.markdown results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
+mergepsi: results/german-top-100.markdown results/uk-top-100.markdown results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
 
 build: mergepsi
 
