@@ -25,6 +25,7 @@ output/french-top-100:
 
 french-top-100.tmp: output/french-top-100
 	./generate-table.py ./output/french-top-100 > french-top-100.tmp 
+	./generate-page-result.py ./output/french-top-100
 
 results/french-top-100.markdown: french-top-100.tmp generate-table.py
 	cat _frontmatter/french-top-100 french-top-100.tmp > results/french-top-100.markdown
@@ -36,6 +37,7 @@ output/japanese-top-100:
 
 japanese-top-100.tmp: output/japanese-top-100
 	./generate-table.py ./output/japanese-top-100 > japanese-top-100.tmp 
+	./generate-page-result.py ./output/japanese-top-100
 
 results/japanese-top-100.markdown: japanese-top-100.tmp generate-table.py
 	cat _frontmatter/japanese-top-100 japanese-top-100.tmp > results/japanese-top-100.markdown
@@ -46,7 +48,8 @@ output/news:
 	./run.py source/news > output/news
 
 news.tmp: output/news
-	./generate-table.py ./output/news > news.tmp 
+	./generate-table.py ./output/news > news.tmp
+	./generate-page-result.py ./output/news
 
 results/news.markdown: news.tmp generate-table.py
 	cat _frontmatter/news news.tmp > results/news.markdown
@@ -58,6 +61,7 @@ output/themeforest-livepopular:
 
 themeforest-livepopular.tmp: output/themeforest-livepopular
 	./generate-table.py ./output/themeforest-livepopular > themeforest-livepopular.tmp 
+	./generate-page-result.py ./output/themeforest-livepopular
 
 results/themeforest-livepopular.markdown: themeforest-livepopular.tmp generate-table.py
 	cat _frontmatter/themeforest-livepopular themeforest-livepopular.tmp > results/themeforest-livepopular.markdown
@@ -68,7 +72,8 @@ output/webdeveloperdocs:
 	./run.py source/webdeveloperdocs > output/webdeveloperdocs
 
 webdeveloperdocs.tmp: output/webdeveloperdocs
-	./generate-table.py ./output/webdeveloperdocs > webdeveloperdocs.tmp 
+	./generate-table.py ./output/webdeveloperdocs > webdeveloperdocs.tmp
+	./generate-page-result.py ./output/webdeveloperdocs
 
 results/webdeveloperdocs.markdown: webdeveloperdocs.tmp generate-table.py
 	cat _frontmatter/webdeveloperdocs webdeveloperdocs.tmp > results/webdeveloperdocs.markdown
@@ -80,6 +85,7 @@ output/alexa-top-10:
 
 alexa-top-10.tmp: output/alexa-top-10
 	./generate-table.py ./output/alexa-top-10 > alexa-top-10.tmp 
+	./generate-page-result.py ./output/alexa-top-10
 
 results/alexa-top-10.markdown: alexa-top-10.tmp generate-table.py
 	cat _frontmatter/alexa-top-10 alexa-top-10.tmp > results/alexa-top-10.markdown
