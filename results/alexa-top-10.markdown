@@ -5,6 +5,18 @@ description: PageSpeed insights scores across the top 10 sites as per alexa
 collections:
   - results
 ---
+|Site|Score|
+|----|-----|
+[百度一下,你就知道](http://www.baidu.com/)|[100](https://developers.google.com/speed/pagespeed/insights/?url=http://www.baidu.com/)|
+[Yahoo! Mobile](https://www.yahoo.com/)|[99](https://developers.google.com/speed/pagespeed/insights/?url=https://www.yahoo.com/)|
+[Wikipedia](http://www.wikipedia.org/)|[80](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wikipedia.org/)|
+[Google](https://www.google.com/)|[79](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.com/)|
+[What to Watch - YouTube](http://m.youtube.com/)|[67](https://developers.google.com/speed/pagespeed/insights/?url=http://m.youtube.com/)|
+[Yahoo! JAPAN](http://m.yahoo.co.jp/)|[64](https://developers.google.com/speed/pagespeed/insights/?url=http://m.yahoo.co.jp/)|
+[Blogger](https://accounts.google.com/ServiceLogin?service=blogger&passive=1209600&continue=https://www.blogger.com/home&followup=https://www.blogger.com/home&ltmpl=start)|[61](https://developers.google.com/speed/pagespeed/insights/?url=https://accounts.google.com/ServiceLogin?service=blogger&passive=1209600&continue=https://www.blogger.com/home&followup=https://www.blogger.com/home&ltmpl=start)|
+[MSN](http://t.uk.msn.com/?rd=1&ucc=GB&dcc=GB&opt=0)|[56](https://developers.google.com/speed/pagespeed/insights/?url=http://t.uk.msn.com/?rd=1&ucc=GB&dcc=GB&opt=0)|
+[Sign In](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1401259849&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fm%2F&lc=1033&id=64855&pcexp=false&snsc=1)|[56](https://developers.google.com/speed/pagespeed/insights/?url=https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1401259849&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fm%2F&lc=1033&id=64855&pcexp=false&snsc=1)|
+[Welcome to Facebook](https://m.facebook.com/?refsrc=http%3A%2F%2Fwww.facebook.com%2F&_rdr)|[56](https://developers.google.com/speed/pagespeed/insights/?url=https://m.facebook.com/?refsrc=http%3A%2F%2Fwww.facebook.com%2F&_rdr)|
 
 
 ## [百度一下,你就知道](http://www.baidu.com/)

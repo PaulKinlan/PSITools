@@ -2,9 +2,89 @@
 layout: article
 title: Top 100 Sites in Japan
 description: PageSpeed insights scores across the top 100 sites from Japan (via Alexa)
-collections:
-  - results
 ---
+|Site|Score|
+|----|-----|
+[カラーミーショップ メンテナンスのお知らせ](http://shop-pro.jp/)|[100](https://developers.google.com/speed/pagespeed/insights/?url=http://shop-pro.jp/)|
+[](http://loading-delivery1.com/)|[100](https://developers.google.com/speed/pagespeed/insights/?url=http://loading-delivery1.com/)|
+[t.co / Twitter](http://t.co/)|[100](https://developers.google.com/speed/pagespeed/insights/?url=http://t.co/)|
+[百度一下,你就知道](http://www.baidu.com/)|[100](https://developers.google.com/speed/pagespeed/insights/?url=http://www.baidu.com/)|
+[Yahoo! Mobile](https://www.yahoo.com/)|[99](https://developers.google.com/speed/pagespeed/insights/?url=https://www.yahoo.com/)|
+[What To Watch - YouTube](http://m.youtube.com/)|[98](https://developers.google.com/speed/pagespeed/insights/?url=http://m.youtube.com/)|
+[Amazon.com](http://www.amazon.com/)|[91](https://developers.google.com/speed/pagespeed/insights/?url=http://www.amazon.com/)|
+[eNet硅谷动力网站-中国权威IT产品信息与商业流通门户](http://www.enet.com.cn/)|[90](https://developers.google.com/speed/pagespeed/insights/?url=http://www.enet.com.cn/)|
+[Microsoft US &#124; Devices and Services](http://www.microsoft.com/en-us/default.aspx)|[88](https://developers.google.com/speed/pagespeed/insights/?url=http://www.microsoft.com/en-us/default.aspx)|
+[シーサー株式会社](http://blog.seesaa.jp/s/)|[85](https://developers.google.com/speed/pagespeed/insights/?url=http://blog.seesaa.jp/s/)|
+[２ちゃんねる掲示板へようこそ](http://2ch.net/)|[84](https://developers.google.com/speed/pagespeed/insights/?url=http://2ch.net/)|
+[Amazon.co.jp](http://www.amazon.co.jp/gp/aw/h.html/378-3216952-7705228?ie=UTF8&pc_redir=1401397117&uid=NULLGWDOCOMO)|[84](https://developers.google.com/speed/pagespeed/insights/?url=http://www.amazon.co.jp/gp/aw/h.html/378-3216952-7705228?ie=UTF8&pc_redir=1401397117&uid=NULLGWDOCOMO)|
+[Bing](http://www.bing.com/)|[82](https://developers.google.com/speed/pagespeed/insights/?url=http://www.bing.com/)|
+[はてなブログ](http://hatenablog.com/)|[81](https://developers.google.com/speed/pagespeed/insights/?url=http://hatenablog.com/)|
+[「マイナビ」のサイトへようこそ](http://www.mynavi.jp/)|[80](https://developers.google.com/speed/pagespeed/insights/?url=http://www.mynavi.jp/)|
+[手机新浪网](http://sina.cn/?from=www&ref=http%3A%2F%2Fsina.com.cn%2F)|[80](https://developers.google.com/speed/pagespeed/insights/?url=http://sina.cn/?from=www&ref=http%3A%2F%2Fsina.com.cn%2F)|
+[DMM.com DVDレンタル、通販、動画配信、FX等の総合サイト](http://www.dmm.com/)|[80](https://developers.google.com/speed/pagespeed/insights/?url=http://www.dmm.com/)|
+[年齢認証 - DMM.R18](http://www.dmm.co.jp/)|[80](https://developers.google.com/speed/pagespeed/insights/?url=http://www.dmm.co.jp/)|
+[Ameba（アメーバ）｜CM放送中！無料ブログをはじめよう](http://ameblo.jp/)|[80](https://developers.google.com/speed/pagespeed/insights/?url=http://ameblo.jp/)|
+[Wikipedia](http://www.wikipedia.org/)|[80](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wikipedia.org/)|
+[アフィリエイトサービスなら日本最大級のA8.net（PC・スマートフォン対応）](http://www.a8.net/)|[79](https://developers.google.com/speed/pagespeed/insights/?url=http://www.a8.net/)|
+[Google](https://www.google.co.uk/?gws_rd=cr&ei=gJ-HU5-0M_Ga1AW534C4CQ)|[79](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.co.uk/?gws_rd=cr&ei=gJ-HU5-0M_Ga1AW534C4CQ)|
+[Google](https://www.google.co.jp/)|[79](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.co.jp/)|
+[レシピ検索No.1／料理レシピ載せるなら クックパッド](http://cookpad.com/)|[76](https://developers.google.com/speed/pagespeed/insights/?url=http://cookpad.com/)|
+[グルメ・クーポンならホットペッパーグルメ](http://www.hotpepper.jp/)|[75](https://developers.google.com/speed/pagespeed/insights/?url=http://www.hotpepper.jp/)|
+[ソーシャル・ネットワーキング サービス [mixi(ミクシィ)]](http://mixi.jp/)|[75](https://developers.google.com/speed/pagespeed/insights/?url=http://mixi.jp/)|
+[価格.com](http://s.kakaku.com/)|[75](https://developers.google.com/speed/pagespeed/insights/?url=http://s.kakaku.com/)|
+[shinobi.jp - アクセス解析, ブログ, カウンター とかを提供している忍者ツールズの別館的サイト](http://www.shinobi.jp/)|[74](https://developers.google.com/speed/pagespeed/insights/?url=http://www.shinobi.jp/)|
+[毎日新聞](http://sp.mainichi.jp/)|[74](https://developers.google.com/speed/pagespeed/insights/?url=http://sp.mainichi.jp/)|
+[宿・ホテル予約 - じゃらんnetスマートフォン版](http://www.jalan.net/smart/)|[74](https://developers.google.com/speed/pagespeed/insights/?url=http://www.jalan.net/smart/)|
+[Ask Jeeves - What's Your Question?](http://uk.ask.com/?o=312&l=dir)|[74](https://developers.google.com/speed/pagespeed/insights/?url=http://uk.ask.com/?o=312&l=dir)|
+[Weblio辞書](http://www.weblio.jp/)|[73](https://developers.google.com/speed/pagespeed/insights/?url=http://www.weblio.jp/)|
+[FC2 -無料ブログ 無料動画 無料ホームページ レンタルサーバー 無料アクセス解析 SEO対策ツールなど-](http://fc2.com/)|[73](https://developers.google.com/speed/pagespeed/insights/?url=http://fc2.com/)|
+[Apple](http://www.apple.com/)|[71](https://developers.google.com/speed/pagespeed/insights/?url=http://www.apple.com/)|
+[日本郵政ホーム‐日本郵政](http://www.japanpost.jp/)|[69](https://developers.google.com/speed/pagespeed/insights/?url=http://www.japanpost.jp/)|
+[WordPress.com - Get a Free Website and Blog Here](http://wordpress.com/)|[68](https://developers.google.com/speed/pagespeed/insights/?url=http://wordpress.com/)|
+[@wiki（ アット ウィキ ）無料 wiki レンタルサービス](http://atwiki.jp/)|[67](https://developers.google.com/speed/pagespeed/insights/?url=http://atwiki.jp/)|
+[無料ブログ JUGEM(ジュゲム) - スマホ完全対応！占い・ニュース・漫画など毎日更新のコンテンツ満載！](http://jugem.jp/smartphone/)|[67](https://developers.google.com/speed/pagespeed/insights/?url=http://jugem.jp/smartphone/)|
+[Google](https://www.google.co.uk/?gws_rd=cr&ei=jZ-HU6LoGY_s0gWz1YDgAg)|[67](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.co.uk/?gws_rd=cr&ei=jZ-HU6LoGY_s0gWz1YDgAg)|
+[goo](http://www.goo.ne.jp/)|[67](https://developers.google.com/speed/pagespeed/insights/?url=http://www.goo.ne.jp/)|
+[ぐるなび-宴会・グルメ情報検索サイト](http://mobile.gnavi.co.jp/iphone/)|[66](https://developers.google.com/speed/pagespeed/insights/?url=http://mobile.gnavi.co.jp/iphone/)|
+[質問・疑問に答えるQ&amp;AサイトOKWave](http://okwave.jp/)|[66](https://developers.google.com/speed/pagespeed/insights/?url=http://okwave.jp/)|
+[ブログにピッタリのドメイン「blog.jp」を無料で開放 - ライブドアブログ](http://blog.jp/lite/)|[66](https://developers.google.com/speed/pagespeed/insights/?url=http://blog.jp/lite/)|
+[Dailymotion](http://www.dailymotion.com/)|[66](https://developers.google.com/speed/pagespeed/insights/?url=http://www.dailymotion.com/)|
+[eBay Mobile Web](http://m.ebay.com/)|[66](https://developers.google.com/speed/pagespeed/insights/?url=http://m.ebay.com/)|
+[はてな](http://www.hatena.ne.jp/)|[65](https://developers.google.com/speed/pagespeed/insights/?url=http://www.hatena.ne.jp/)|
+[BIGLOBE](http://www.biglobe.ne.jp/a-top/)|[64](https://developers.google.com/speed/pagespeed/insights/?url=http://www.biglobe.ne.jp/a-top/)|
+[食べログ - ランキングと口コミで探せるグルメサイト](http://s.tabelog.com/)|[64](https://developers.google.com/speed/pagespeed/insights/?url=http://s.tabelog.com/)|
+[Yahoo! JAPAN](http://m.yahoo.co.jp/)|[64](https://developers.google.com/speed/pagespeed/insights/?url=http://m.yahoo.co.jp/)|
+[MSN](http://t.msn.com/)|[64](https://developers.google.com/speed/pagespeed/insights/?url=http://t.msn.com/)|
+[ファッション通販ZOZOTOWN【全品送料無料】](http://zozo.jp/sp/)|[63](https://developers.google.com/speed/pagespeed/insights/?url=http://zozo.jp/sp/)|
+[Tumblr](https://www.tumblr.com/)|[63](https://developers.google.com/speed/pagespeed/insights/?url=https://www.tumblr.com/)|
+[Excite エキサイト](http://a.excite.co.jp/)|[62](https://developers.google.com/speed/pagespeed/insights/?url=http://a.excite.co.jp/)|
+[腾讯网](http://xw.qq.com/index.htm)|[61](https://developers.google.com/speed/pagespeed/insights/?url=http://xw.qq.com/index.htm)|
+[niconico](http://sp.nicovideo.jp/)|[61](https://developers.google.com/speed/pagespeed/insights/?url=http://sp.nicovideo.jp/)|
+[Adcash® Advertising Network &#124; International Advertising Platform](https://www.adcash.com/en/index.php)|[59](https://developers.google.com/speed/pagespeed/insights/?url=https://www.adcash.com/en/index.php)|
+[NAVER、国内の検索・辞書関連サービス終了のお知らせ &#124; NAVER公式ブログ - NAVERLAND](http://naverland.naver.jp/?p=7471)|[59](https://developers.google.com/speed/pagespeed/insights/?url=http://naverland.naver.jp/?p=7471)|
+[株式会社インプレスホールディングス](http://www.impressholdings.com/)|[57](https://developers.google.com/speed/pagespeed/insights/?url=http://www.impressholdings.com/)|
+[nikkansports.com mobile](http://www.nikkansports.com/m/)|[57](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nikkansports.com/m/)|
+[Lenovo](https://m.lenovo.com/us/en/)|[56](https://developers.google.com/speed/pagespeed/insights/?url=https://m.lenovo.com/us/en/)|
+[hao123导航-上网从这里开始](http://m.hao123.com/?vit=h123&from=3w123)|[56](https://developers.google.com/speed/pagespeed/insights/?url=http://m.hao123.com/?vit=h123&from=3w123)|
+[Sign In](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1401397135&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fm%2F&lc=1033&id=64855&pcexp=false&snsc=1)|[56](https://developers.google.com/speed/pagespeed/insights/?url=https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1401397135&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fm%2F&lc=1033&id=64855&pcexp=false&snsc=1)|
+[Welcome to Facebook](https://m.facebook.com/?refsrc=http%3A%2F%2Fwww.facebook.com%2F&_rdr)|[56](https://developers.google.com/speed/pagespeed/insights/?url=https://m.facebook.com/?refsrc=http%3A%2F%2Fwww.facebook.com%2F&_rdr)|
+[淘宝网触屏版](http://m.taobao.com/?sprefer=sypc00)|[55](https://developers.google.com/speed/pagespeed/insights/?url=http://m.taobao.com/?sprefer=sypc00)|
+[Twitter](https://mobile.twitter.com/)|[55](https://developers.google.com/speed/pagespeed/insights/?url=https://mobile.twitter.com/)|
+[レンタルサーバー｜さくらインターネット](http://sakura.ne.jp/)|[54](https://developers.google.com/speed/pagespeed/insights/?url=http://sakura.ne.jp/)|
+[So-net](http://so-net.ne.jp/)|[53](https://developers.google.com/speed/pagespeed/insights/?url=http://so-net.ne.jp/)|
+[Adobe](http://www.adobe.com/)|[52](https://developers.google.com/speed/pagespeed/insights/?url=http://www.adobe.com/)|
+[livedoor for スマートフォン](http://www.livedoor.com/lite/)|[52](https://developers.google.com/speed/pagespeed/insights/?url=http://www.livedoor.com/lite/)|
+[All About (オールアバウト)](http://touch.allabout.co.jp/?spref=)|[49](https://developers.google.com/speed/pagespeed/insights/?url=http://touch.allabout.co.jp/?spref=)|
+[Ameba (アメーバ)｜コミュニティ&amp;ゲーム 1万人以上の芸能人ブログや定番アメーバピグで遊ぼう♪](https://s.amebame.com/#top?frm_id=c.am-brow_l.top-_r.am-www)|[49](https://developers.google.com/speed/pagespeed/insights/?url=https://s.amebame.com/#top?frm_id=c.am-brow_l.top-_r.am-www)|
+[にほんブログ村 - 人気ブログランキングとブログ検索](http://www.blogmura.com/)|[47](https://developers.google.com/speed/pagespeed/insights/?url=http://www.blogmura.com/)|
+[AniTube! Animes Online](http://www.anitube.se/)|[44](https://developers.google.com/speed/pagespeed/insights/?url=http://www.anitube.se/)|
+[nikkei BPnet 〈日経BPネット〉：日経BPオールジャンルまとめ読みサイト](http://www.nikkeibp.co.jp/mobile/)|[44](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nikkeibp.co.jp/mobile/)|
+[デイリースポーツ online](http://daily.co.jp/)|[43](https://developers.google.com/speed/pagespeed/insights/?url=http://daily.co.jp/)|
+[[pixiv] イラストコミュニケーションサービス](http://touch.pixiv.net/index.php)|[42](https://developers.google.com/speed/pagespeed/insights/?url=http://touch.pixiv.net/index.php)|
+[@nifty](http://www.nifty.com/smp/?top)|[40](https://developers.google.com/speed/pagespeed/insights/?url=http://www.nifty.com/smp/?top)|
+[楽天市場](http://www.rakuten.co.jp/)|[40](https://developers.google.com/speed/pagespeed/insights/?url=http://www.rakuten.co.jp/)|
+[エキサイトブログ](http://sp.exblog.jp/)|[38](https://developers.google.com/speed/pagespeed/insights/?url=http://sp.exblog.jp/)|
+[NIKKEI ASIAN REVIEW](http://asia.nikkei.com/)|[29](https://developers.google.com/speed/pagespeed/insights/?url=http://asia.nikkei.com/)|
 
 
 ## [カラーミーショップ メンテナンスのお知らせ](http://shop-pro.jp/)

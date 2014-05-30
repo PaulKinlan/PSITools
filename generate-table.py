@@ -6,6 +6,7 @@ import urllib2
 import urllib
 import sys
 import fileinput
+from cgi import escape
 
 pagespeed_url = "https://developers.google.com/speed/pagespeed/insights/?url="
 
@@ -27,6 +28,19 @@ sorted_sites = sorted(sites, key=lambda k: k['score'])
 
 sorted_sites.reverse()
 
+
+print "|Site|Score|"
+print "|----|-----|"
+
+for site in sorted_sites:
+  id = site["id"]
+  title = site["title"]
+  score = site["score"]
+
+  sys.stdout.write("[")
+  sys.stdout.write(escape(title.encode('utf-8')).replace("|","&#124;"))
+  sys.stdout.write("](%s)|[%s](%s%s)|\n" % (id, score, pagespeed_url, id))
+
 for site in sorted_sites:
 
   id = site["id"]
@@ -41,7 +55,6 @@ for site in sorted_sites:
   sys.stdout.write("## [")
   sys.stdout.write(title.encode('utf-8'))
   sys.stdout.write("](%s)\n\n" % (id))
-
 
   print "**Score**: [%s](%s%s)\n\n" % (score, pagespeed_url, id)
   print "<img src='data:%s;base64,%s'>" % (image_mime, image_url)
