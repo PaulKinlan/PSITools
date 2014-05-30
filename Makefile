@@ -91,6 +91,7 @@ output/wordpress:
 
 wordpress.tmp: output/wordpress
 	./generate-table.py ./output/wordpress > wordpress.tmp 
+	./generate-page-result.py ./output/wordpress
 
 results/wordpress.markdown: wordpress.tmp generate-table.py
 	cat _frontmatter/wordpress wordpress.tmp > results/wordpress.markdown

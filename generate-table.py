@@ -28,7 +28,6 @@ sorted_sites = sorted(sites, key=lambda k: k['score'])
 
 sorted_sites.reverse()
 
-
 print "|Site|Score|"
 print "|----|-----|"
 
