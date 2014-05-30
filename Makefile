@@ -80,6 +80,18 @@ results/japanese-top-100.markdown: japanese-top-100.tmp generate-table.py
 	cat _frontmatter/japanese-top-100 japanese-top-100.tmp > results/japanese-top-100.markdown
 	rm -f japanese-top-100.tmp
 
+# Shopping
+output/shopping:
+	./run.py source/shopping > output/shopping
+
+shopping.tmp: output/shopping
+	./generate-table.py ./output/shopping > shopping.tmp
+	./generate-page-result.py ./output/shopping
+
+results/shopping.markdown: shopping.tmp generate-table.py
+	cat _frontmatter/shopping shopping.tmp > results/shopping.markdown
+	rm -f shopping.tmp
+
 # News
 output/news:
 	./run.py source/news > output/news
@@ -142,7 +154,7 @@ results/wordpress.markdown: wordpress.tmp generate-table.py
 
 # Main process
 
-mergepsi: results/thai-top-100.markdown results/german-top-100.markdown results/uk-top-100.markdown results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
+mergepsi: results/shopping.markdown results/thai-top-100.markdown results/german-top-100.markdown results/uk-top-100.markdown results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
 
 build: mergepsi
 
