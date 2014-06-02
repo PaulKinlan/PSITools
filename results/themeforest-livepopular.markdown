@@ -2,6 +2,7 @@
 layout: article
 title: Themeforests most popular items
 description: PageSpeed insights scores for mobile across the most popular themes hosted on themeforest
+category: industry
 ---
 |Site|Score|
 |----|-----|

@@ -2,6 +2,7 @@
 layout: article
 title: Developer Docs
 description:  PageSpeed insights scores for mobile across web developer documentation
+category: industry
 ---
 |Site|Score|
 |----|-----|

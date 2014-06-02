@@ -2,6 +2,7 @@
 layout: article
 title: Top Shopping Sites
 description: PageSpeed insights scores for mobile across the top shopping sites
+category: industry
 ---
 |Site|Score|
 |----|-----|

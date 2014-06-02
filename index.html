@@ -4,8 +4,16 @@ title: Mobile Web Speed Scores (PageSpeed Insights)
 description: Using a mobile browser we crawl a selection of sites once a week and analyse them for common performance issues and document them here.
 ---
 
+<h2>Country breakdown</h2>
+{% for page in site.pages %}{% if page.layout == "article" and page.category == "country" %}
+<div>
+ <h3><a href="{{site.baseurl}}{{page.url | remove_first:'/'}}">{{ page.title }}</a></h3>
+ <p>{{page.description}}</p>
+</div>
+{% endif %}{% endfor %}
 
-{% for page in site.pages %}{% if page.layout == "article" %}
+<h2>Industry breakdown</h2>
+{% for page in site.pages %}{% if page.layout == "article" and page.category == "industry" %}
 <div>
  <h3><a href="{{site.baseurl}}{{page.url | remove_first:'/'}}">{{ page.title }}</a></h3>
  <p>{{page.description}}</p>
