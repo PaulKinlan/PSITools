@@ -18,14 +18,14 @@ title: http://kioremoanademo.wordpress.com/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 22
-*  Total Request Bytes: 4141
+*  Total Request Bytes: 4139
 
 ### Response data
 
 *  HTML Response Bytes: 34131
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 226630
+*  CSS Response Bytes: 226634
 *  Image Response Bytes: 822541
-*  JS Response Bytes: 562496
+*  JS Response Bytes: 562256
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 150951

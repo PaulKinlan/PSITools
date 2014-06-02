@@ -25,7 +25,7 @@ title: http://ultimo.infortis-themes.com/demo/select-demo/
 *  HTML Response Bytes: 7777
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 146015
-*  Image Response Bytes: 284435
+*  Image Response Bytes: 284436
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

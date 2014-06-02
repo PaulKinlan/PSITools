@@ -18,14 +18,14 @@ title: http://m.carmax.com/AppPromo/promo?ReturnUrl=%2Fmt%2Fwww.carmax.com%2F
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 5
-*  Total Request Bytes: 2169
+*  Total Request Bytes: 2165
 
 ### Response data
 
 *  HTML Response Bytes: 3090
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 108271
-*  Image Response Bytes: 76844
-*  JS Response Bytes: 558033
+*  Image Response Bytes: 76843
+*  JS Response Bytes: 558032
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2601
+*  Other Response Bytes: 2597

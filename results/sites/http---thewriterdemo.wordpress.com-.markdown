@@ -14,18 +14,18 @@ title: http://thewriterdemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 22
-*  Number of Hosts: 9
+*  Number of Hosts: 8
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 14
-*  Total Request Bytes: 3002
+*  Total Request Bytes: 3001
 
 ### Response data
 
-*  HTML Response Bytes: 24192
+*  HTML Response Bytes: 24049
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 157541
+*  CSS Response Bytes: 157545
 *  Image Response Bytes: 1012294
 *  JS Response Bytes: 266291
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 134925
+*  Other Response Bytes: 134927

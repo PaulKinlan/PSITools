@@ -14,18 +14,18 @@ title: http://nextsaturdaydemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 27
-*  Number of Hosts: 12
+*  Number of Hosts: 11
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 22
-*  Total Request Bytes: 3811
+*  Total Request Bytes: 3893
 
 ### Response data
 
-*  HTML Response Bytes: 49158
+*  HTML Response Bytes: 49353
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 346705
-*  Image Response Bytes: 551678
-*  JS Response Bytes: 1534053
+*  CSS Response Bytes: 346710
+*  Image Response Bytes: 551702
+*  JS Response Bytes: 1535246
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

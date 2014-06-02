@@ -18,7 +18,7 @@ title: http://www.gamestop.com/INTL/choose_site_all.html
 *  Number of JS Resources: 0
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 589
+*  Total Request Bytes: 588
 
 ### Response data
 
@@ -28,4 +28,4 @@ title: http://www.gamestop.com/INTL/choose_site_all.html
 *  Image Response Bytes: 35278
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1009
+*  Other Response Bytes: 1008

@@ -18,14 +18,14 @@ title: http://itheme2demo.wordpress.com/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 9
-*  Total Request Bytes: 2279
+*  Total Request Bytes: 2285
 
 ### Response data
 
-*  HTML Response Bytes: 44128
+*  HTML Response Bytes: 44131
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 179277
+*  CSS Response Bytes: 179281
 *  Image Response Bytes: 786
-*  JS Response Bytes: 560327
+*  JS Response Bytes: 560234
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

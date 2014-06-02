@@ -18,14 +18,14 @@ title: http://m.lowes.com/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 6
-*  Total Request Bytes: 6593
+*  Total Request Bytes: 6646
 
 ### Response data
 
-*  HTML Response Bytes: 16607
+*  HTML Response Bytes: 16616
 *  Text Response Bytes: 204720
 *  CSS Response Bytes: 60765
-*  Image Response Bytes: 368646
+*  Image Response Bytes: 368687
 *  JS Response Bytes: 681022
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 5512
+*  Other Response Bytes: 5516

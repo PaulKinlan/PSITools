@@ -14,17 +14,17 @@ title: http://herodemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 13
-*  Number of Hosts: 6
+*  Number of Hosts: 5
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 9
-*  Total Request Bytes: 2043
+*  Total Request Bytes: 2041
 
 ### Response data
 
-*  HTML Response Bytes: 17565
+*  HTML Response Bytes: 17537
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 134546
+*  CSS Response Bytes: 134550
 *  Image Response Bytes: 598229
 *  JS Response Bytes: 190983
 *  Flash Response Bytes: 0

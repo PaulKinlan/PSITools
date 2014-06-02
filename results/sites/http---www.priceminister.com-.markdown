@@ -13,19 +13,19 @@ title: http://www.priceminister.com/
 
 ### Request information
 
-*  Number of Resources: 58
-*  Number of Hosts: 23
-*  Number of JS Resources: 16
+*  Number of Resources: 56
+*  Number of Hosts: 21
+*  Number of JS Resources: 15
 *  Number of CSS Resources: 2
-*  Nubmer of Static Resources: 32
-*  Total Request Bytes: 11302
+*  Nubmer of Static Resources: 30
+*  Total Request Bytes: 10641
 
 ### Response data
 
-*  HTML Response Bytes: 19840
+*  HTML Response Bytes: 19658
 *  Text Response Bytes: 106962
 *  CSS Response Bytes: 173758
-*  Image Response Bytes: 218523
-*  JS Response Bytes: 517250
+*  Image Response Bytes: 225848
+*  JS Response Bytes: 516102
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 13382
+*  Other Response Bytes: 13456

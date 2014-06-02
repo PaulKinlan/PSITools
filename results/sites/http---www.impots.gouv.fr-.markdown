@@ -18,14 +18,14 @@ title: http://www.impots.gouv.fr/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 24
-*  Total Request Bytes: 2755
+*  Total Request Bytes: 2751
 
 ### Response data
 
 *  HTML Response Bytes: 30969
 *  Text Response Bytes: 255416
-*  CSS Response Bytes: 39410
-*  Image Response Bytes: 109456
-*  JS Response Bytes: 134312
+*  CSS Response Bytes: 39409
+*  Image Response Bytes: 109454
+*  JS Response Bytes: 134311
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2105
+*  Other Response Bytes: 2102

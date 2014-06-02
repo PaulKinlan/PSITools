@@ -18,13 +18,13 @@ title: http://infowaydemo.wordpress.com/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 44
-*  Total Request Bytes: 5865
+*  Total Request Bytes: 5866
 
 ### Response data
 
-*  HTML Response Bytes: 54656
+*  HTML Response Bytes: 54712
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 239198
+*  CSS Response Bytes: 239202
 *  Image Response Bytes: 1800794
 *  JS Response Bytes: 263676
 *  Flash Response Bytes: 0

@@ -18,14 +18,14 @@ title: http://flounderdemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 31
-*  Total Request Bytes: 5464
+*  Total Request Bytes: 5552
 
 ### Response data
 
-*  HTML Response Bytes: 60379
+*  HTML Response Bytes: 60756
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 411274
-*  Image Response Bytes: 517704
-*  JS Response Bytes: 1535942
+*  CSS Response Bytes: 411279
+*  Image Response Bytes: 517712
+*  JS Response Bytes: 1536985
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 282943
+*  Other Response Bytes: 282950

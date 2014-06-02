@@ -18,14 +18,14 @@ title: http://sweetlifedemo.wordpress.com/
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 13
-*  Total Request Bytes: 3424
+*  Total Request Bytes: 3421
 
 ### Response data
 
-*  HTML Response Bytes: 97147
+*  HTML Response Bytes: 96787
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 243318
+*  CSS Response Bytes: 243322
 *  Image Response Bytes: 1466200
-*  JS Response Bytes: 316102
+*  JS Response Bytes: 315701
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 28486
+*  Other Response Bytes: 28485

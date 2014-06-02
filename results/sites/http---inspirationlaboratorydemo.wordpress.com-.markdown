@@ -18,14 +18,14 @@ title: http://inspirationlaboratorydemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 39
-*  Total Request Bytes: 6156
+*  Total Request Bytes: 6236
 
 ### Response data
 
-*  HTML Response Bytes: 75677
+*  HTML Response Bytes: 75699
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 358011
-*  Image Response Bytes: 749823
-*  JS Response Bytes: 1535973
+*  CSS Response Bytes: 358016
+*  Image Response Bytes: 749838
+*  JS Response Bytes: 1537016
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 74204
+*  Other Response Bytes: 74202

@@ -18,14 +18,14 @@ title: http://www.bodybuilding.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 9
 *  Nubmer of Static Resources: 36
-*  Total Request Bytes: 6353
+*  Total Request Bytes: 6341
 
 ### Response data
 
-*  HTML Response Bytes: 86175
-*  Text Response Bytes: 155338
+*  HTML Response Bytes: 85998
+*  Text Response Bytes: 163300
 *  CSS Response Bytes: 250942
-*  Image Response Bytes: 452016
-*  JS Response Bytes: 929165
+*  Image Response Bytes: 449230
+*  JS Response Bytes: 929167
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 3128
+*  Other Response Bytes: 3127

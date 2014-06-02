@@ -18,14 +18,14 @@ title: http://voyages-sncf.mobi/
 *  Number of JS Resources: 16
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 71
-*  Total Request Bytes: 18675
+*  Total Request Bytes: 18673
 
 ### Response data
 
-*  HTML Response Bytes: 33058
+*  HTML Response Bytes: 33043
 *  Text Response Bytes: 57424
 *  CSS Response Bytes: 40495
-*  Image Response Bytes: 728800
-*  JS Response Bytes: 296973
+*  Image Response Bytes: 728799
+*  JS Response Bytes: 297342
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1050

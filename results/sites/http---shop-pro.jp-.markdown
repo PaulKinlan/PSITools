@@ -18,7 +18,7 @@ title: http://shop-pro.jp/
 *  Number of JS Resources: 35
 *  Number of CSS Resources: 8
 *  Nubmer of Static Resources: 126
-*  Total Request Bytes: 24537
+*  Total Request Bytes: 24478
 
 ### Response data
 
@@ -26,6 +26,6 @@ title: http://shop-pro.jp/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 127283
 *  Image Response Bytes: 4250129
-*  JS Response Bytes: 584989
+*  JS Response Bytes: 584998
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 16243
+*  Other Response Bytes: 16188

@@ -18,14 +18,14 @@ title: http://m.ikea.com/
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 17
-*  Total Request Bytes: 3775
+*  Total Request Bytes: 3772
 
 ### Response data
 
 *  HTML Response Bytes: 16493
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 144549
-*  Image Response Bytes: 18190
+*  Image Response Bytes: 18793
 *  JS Response Bytes: 562786
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1672
+*  Other Response Bytes: 1671

@@ -18,14 +18,14 @@ title: https://www.directv.com/m/?referer=&CMP=
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 18
-*  Total Request Bytes: 3485
+*  Total Request Bytes: 3349
 
 ### Response data
 
-*  HTML Response Bytes: 65771
+*  HTML Response Bytes: 58160
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 457952
-*  Image Response Bytes: 106663
-*  JS Response Bytes: 3004162
+*  Image Response Bytes: 106662
+*  JS Response Bytes: 3012433
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 26789
+*  Other Response Bytes: 26439

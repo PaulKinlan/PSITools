@@ -13,19 +13,19 @@ title: http://www.cabelas.com/
 
 ### Request information
 
-*  Number of Resources: 74
-*  Number of Hosts: 27
+*  Number of Resources: 79
+*  Number of Hosts: 31
 *  Number of JS Resources: 16
 *  Number of CSS Resources: 3
-*  Nubmer of Static Resources: 42
-*  Total Request Bytes: 13429
+*  Nubmer of Static Resources: 43
+*  Total Request Bytes: 14718
 
 ### Response data
 
-*  HTML Response Bytes: 34244
+*  HTML Response Bytes: 34254
 *  Text Response Bytes: 139071
 *  CSS Response Bytes: 137226
-*  Image Response Bytes: 623283
-*  JS Response Bytes: 375194
+*  Image Response Bytes: 622286
+*  JS Response Bytes: 375941
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 7749
+*  Other Response Bytes: 11142

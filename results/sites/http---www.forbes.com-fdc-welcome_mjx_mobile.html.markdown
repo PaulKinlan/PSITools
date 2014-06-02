@@ -13,19 +13,19 @@ title: http://www.forbes.com/fdc/welcome_mjx_mobile.html
 
 ### Request information
 
-*  Number of Resources: 53
-*  Number of Hosts: 23
+*  Number of Resources: 52
+*  Number of Hosts: 22
 *  Number of JS Resources: 22
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 25
-*  Total Request Bytes: 16593
+*  Total Request Bytes: 15107
 
 ### Response data
 
-*  HTML Response Bytes: 46281
+*  HTML Response Bytes: 46233
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 6356
-*  Image Response Bytes: 43027
-*  JS Response Bytes: 752658
+*  Image Response Bytes: 43037
+*  JS Response Bytes: 752382
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 5373
+*  Other Response Bytes: 4224

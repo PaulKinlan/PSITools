@@ -14,18 +14,18 @@ title: http://vertigodemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 19
-*  Number of Hosts: 10
+*  Number of Hosts: 11
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 14
-*  Total Request Bytes: 3104
+*  Total Request Bytes: 3187
 
 ### Response data
 
-*  HTML Response Bytes: 39231
+*  HTML Response Bytes: 39408
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 344477
-*  Image Response Bytes: 126775
-*  JS Response Bytes: 1550758
+*  CSS Response Bytes: 344482
+*  Image Response Bytes: 126776
+*  JS Response Bytes: 1551952
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

@@ -25,7 +25,7 @@ title: http://8theme.com/demo/legenda/preview/index.html
 *  HTML Response Bytes: 7127
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 13301
-*  Image Response Bytes: 2957809
+*  Image Response Bytes: 2957811
 *  JS Response Bytes: 104834
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46049

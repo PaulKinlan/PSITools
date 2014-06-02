@@ -14,18 +14,18 @@ title: http://publishdemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 27
-*  Number of Hosts: 10
+*  Number of Hosts: 11
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 22
-*  Total Request Bytes: 3758
+*  Total Request Bytes: 3842
 
 ### Response data
 
-*  HTML Response Bytes: 60334
+*  HTML Response Bytes: 60444
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 284121
-*  Image Response Bytes: 216227
-*  JS Response Bytes: 1535461
+*  CSS Response Bytes: 284126
+*  Image Response Bytes: 216228
+*  JS Response Bytes: 1536497
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

@@ -14,7 +14,7 @@ title: http://mixfoliodemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 23
-*  Number of Hosts: 5
+*  Number of Hosts: 6
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 18
@@ -22,9 +22,9 @@ title: http://mixfoliodemo.wordpress.com/
 
 ### Response data
 
-*  HTML Response Bytes: 24118
+*  HTML Response Bytes: 24152
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 163675
+*  CSS Response Bytes: 163679
 *  Image Response Bytes: 166232
 *  JS Response Bytes: 194351
 *  Flash Response Bytes: 0

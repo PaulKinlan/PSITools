@@ -14,18 +14,18 @@ title: http://reactdemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 18
-*  Number of Hosts: 9
+*  Number of Hosts: 8
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 12
-*  Total Request Bytes: 2479
+*  Total Request Bytes: 2477
 
 ### Response data
 
 *  HTML Response Bytes: 19119
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 81057
+*  CSS Response Bytes: 81061
 *  Image Response Bytes: 546563
 *  JS Response Bytes: 181076
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 64989
+*  Other Response Bytes: 64990

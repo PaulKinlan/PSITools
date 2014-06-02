@@ -18,14 +18,14 @@ title: http://www.google.com/shopping
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 18
-*  Total Request Bytes: 2788
+*  Total Request Bytes: 2789
 
 ### Response data
 
 *  HTML Response Bytes: 301440
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 623791
-*  JS Response Bytes: 183530
+*  Image Response Bytes: 623809
+*  JS Response Bytes: 183531
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 971

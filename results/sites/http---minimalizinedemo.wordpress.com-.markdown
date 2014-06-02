@@ -18,14 +18,14 @@ title: http://minimalizinedemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 28
-*  Total Request Bytes: 4716
+*  Total Request Bytes: 4798
 
 ### Response data
 
-*  HTML Response Bytes: 59046
+*  HTML Response Bytes: 59271
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 344030
-*  Image Response Bytes: 229208
-*  JS Response Bytes: 1535463
+*  CSS Response Bytes: 344035
+*  Image Response Bytes: 229214
+*  JS Response Bytes: 1536498
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52048

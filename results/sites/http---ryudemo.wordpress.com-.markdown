@@ -18,14 +18,14 @@ title: http://ryudemo.wordpress.com/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 29
-*  Total Request Bytes: 6159
+*  Total Request Bytes: 6162
 
 ### Response data
 
-*  HTML Response Bytes: 141129
+*  HTML Response Bytes: 140742
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 206885
-*  Image Response Bytes: 3471274
-*  JS Response Bytes: 562396
+*  CSS Response Bytes: 206889
+*  Image Response Bytes: 3455871
+*  JS Response Bytes: 562457
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 499906

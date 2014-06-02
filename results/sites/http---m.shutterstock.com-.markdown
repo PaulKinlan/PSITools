@@ -18,14 +18,14 @@ title: http://m.shutterstock.com/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 25
-*  Total Request Bytes: 4450
+*  Total Request Bytes: 4458
 
 ### Response data
 
-*  HTML Response Bytes: 12432
+*  HTML Response Bytes: 12436
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 112847
-*  Image Response Bytes: 127900
+*  Image Response Bytes: 127902
 *  JS Response Bytes: 253430
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1614
+*  Other Response Bytes: 1622

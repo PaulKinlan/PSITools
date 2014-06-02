@@ -18,14 +18,14 @@ title: http://www.free.fr/adsl/index.html
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 22
-*  Total Request Bytes: 1973
+*  Total Request Bytes: 1972
 
 ### Response data
 
 *  HTML Response Bytes: 28521
-*  Text Response Bytes: 53806
-*  CSS Response Bytes: 27894
-*  Image Response Bytes: 597648
+*  Text Response Bytes: 53807
+*  CSS Response Bytes: 27893
+*  Image Response Bytes: 597647
 *  JS Response Bytes: 142528
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 496

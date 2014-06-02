@@ -18,13 +18,13 @@ title: http://autofocusdemo.wordpress.com/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 28
-*  Total Request Bytes: 3620
+*  Total Request Bytes: 3614
 
 ### Response data
 
-*  HTML Response Bytes: 24415
+*  HTML Response Bytes: 24225
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 135918
+*  CSS Response Bytes: 135922
 *  Image Response Bytes: 2096157
 *  JS Response Bytes: 167569
 *  Flash Response Bytes: 0

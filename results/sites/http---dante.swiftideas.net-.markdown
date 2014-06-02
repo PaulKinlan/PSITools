@@ -22,7 +22,7 @@ title: http://dante.swiftideas.net/
 
 ### Response data
 
-*  HTML Response Bytes: 203175
+*  HTML Response Bytes: 203209
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 583213
 *  Image Response Bytes: 1446082

@@ -26,6 +26,6 @@ title: https://www.adcash.com/en/index.php
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 58991
 *  Image Response Bytes: 506083
-*  JS Response Bytes: 336344
+*  JS Response Bytes: 336346
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 717

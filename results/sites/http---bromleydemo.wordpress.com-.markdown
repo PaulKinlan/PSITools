@@ -13,19 +13,19 @@ title: http://bromleydemo.wordpress.com/
 
 ### Request information
 
-*  Number of Resources: 33
+*  Number of Resources: 34
 *  Number of Hosts: 12
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 4
-*  Nubmer of Static Resources: 27
-*  Total Request Bytes: 4148
+*  Nubmer of Static Resources: 28
+*  Total Request Bytes: 4242
 
 ### Response data
 
 *  HTML Response Bytes: 50830
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 206104
-*  Image Response Bytes: 1031173
-*  JS Response Bytes: 606576
+*  CSS Response Bytes: 206108
+*  Image Response Bytes: 1033625
+*  JS Response Bytes: 606638
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46981

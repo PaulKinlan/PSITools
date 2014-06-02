@@ -13,19 +13,19 @@ title: http://demo.select-themes.com/nouveau/
 
 ### Request information
 
-*  Number of Resources: 84
-*  Number of Hosts: 7
+*  Number of Resources: 93
+*  Number of Hosts: 12
 *  Number of JS Resources: 31
 *  Number of CSS Resources: 17
-*  Nubmer of Static Resources: 72
-*  Total Request Bytes: 9973
+*  Nubmer of Static Resources: 79
+*  Total Request Bytes: 10840
 
 ### Response data
 
-*  HTML Response Bytes: 147674
+*  HTML Response Bytes: 147670
 *  Text Response Bytes: 44693
-*  CSS Response Bytes: 526261
-*  Image Response Bytes: 1920231
-*  JS Response Bytes: 1383182
+*  CSS Response Bytes: 526253
+*  Image Response Bytes: 1966675
+*  JS Response Bytes: 1377001
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 58655
+*  Other Response Bytes: 58974

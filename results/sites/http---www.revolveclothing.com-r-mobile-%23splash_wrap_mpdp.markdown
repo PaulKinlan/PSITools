@@ -18,11 +18,11 @@ title: http://www.revolveclothing.com/r/mobile/#splash_wrap_mpdp
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 0
-*  Total Request Bytes: 525
+*  Total Request Bytes: 524
 
 ### Response data
 
-*  HTML Response Bytes: 2981
+*  HTML Response Bytes: 2980
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 25748

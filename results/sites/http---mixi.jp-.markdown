@@ -24,8 +24,8 @@ title: http://mixi.jp/
 
 *  HTML Response Bytes: 13583
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 175737
-*  Image Response Bytes: 13574
+*  CSS Response Bytes: 175738
+*  Image Response Bytes: 13568
 *  JS Response Bytes: 339554
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

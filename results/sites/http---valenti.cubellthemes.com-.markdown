@@ -18,14 +18,14 @@ title: http://valenti.cubellthemes.com/
 *  Number of JS Resources: 36
 *  Number of CSS Resources: 13
 *  Nubmer of Static Resources: 150
-*  Total Request Bytes: 18034
+*  Total Request Bytes: 18105
 
 ### Response data
 
-*  HTML Response Bytes: 310720
+*  HTML Response Bytes: 310625
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 659112
-*  Image Response Bytes: 2066904
-*  JS Response Bytes: 1550162
+*  CSS Response Bytes: 659113
+*  Image Response Bytes: 2073283
+*  JS Response Bytes: 1553167
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 347553

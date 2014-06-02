@@ -18,14 +18,14 @@ title: http://nishitademo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 47
-*  Total Request Bytes: 6041
+*  Total Request Bytes: 6127
 
 ### Response data
 
-*  HTML Response Bytes: 62414
+*  HTML Response Bytes: 62254
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 347429
+*  CSS Response Bytes: 347434
 *  Image Response Bytes: 6478730
-*  JS Response Bytes: 1534201
+*  JS Response Bytes: 1535245
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

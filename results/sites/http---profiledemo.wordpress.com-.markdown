@@ -18,14 +18,14 @@ title: http://profiledemo.wordpress.com/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 17
-*  Total Request Bytes: 3774
+*  Total Request Bytes: 3775
 
 ### Response data
 
-*  HTML Response Bytes: 19426
+*  HTML Response Bytes: 19398
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 196743
+*  CSS Response Bytes: 196747
 *  Image Response Bytes: 1082826
-*  JS Response Bytes: 329625
+*  JS Response Bytes: 329225
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 174201
+*  Other Response Bytes: 174202

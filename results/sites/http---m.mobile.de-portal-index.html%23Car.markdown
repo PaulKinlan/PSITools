@@ -13,19 +13,19 @@ title: http://m.mobile.de/portal/index.html#Car
 
 ### Request information
 
-*  Number of Resources: 28
-*  Number of Hosts: 8
-*  Number of JS Resources: 14
+*  Number of Resources: 27
+*  Number of Hosts: 7
+*  Number of JS Resources: 13
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 19
-*  Total Request Bytes: 3739
+*  Total Request Bytes: 3670
 
 ### Response data
 
-*  HTML Response Bytes: 37695
+*  HTML Response Bytes: 37726
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 49620
-*  Image Response Bytes: 50243
-*  JS Response Bytes: 525556
+*  CSS Response Bytes: 49653
+*  Image Response Bytes: 50312
+*  JS Response Bytes: 513063
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 6669
+*  Other Response Bytes: 500

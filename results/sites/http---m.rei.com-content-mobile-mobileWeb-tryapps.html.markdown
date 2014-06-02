@@ -18,14 +18,14 @@ title: http://m.rei.com/content/mobile/mobileWeb/tryapps.html
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 3653
+*  Total Request Bytes: 3705
 
 ### Response data
 
-*  HTML Response Bytes: 6361
-*  Text Response Bytes: 181984
+*  HTML Response Bytes: 6359
+*  Text Response Bytes: 182043
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 221210
 *  JS Response Bytes: 2913
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 5562
+*  Other Response Bytes: 5561

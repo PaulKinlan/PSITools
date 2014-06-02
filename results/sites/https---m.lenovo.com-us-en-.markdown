@@ -18,14 +18,14 @@ title: https://m.lenovo.com/us/en/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 14
-*  Total Request Bytes: 4107
+*  Total Request Bytes: 4105
 
 ### Response data
 
-*  HTML Response Bytes: 16470
+*  HTML Response Bytes: 16452
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 211704
 *  Image Response Bytes: 331459
-*  JS Response Bytes: 1163587
+*  JS Response Bytes: 1163588
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1483
+*  Other Response Bytes: 1484

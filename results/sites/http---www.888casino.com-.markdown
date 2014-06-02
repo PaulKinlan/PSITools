@@ -18,14 +18,14 @@ title: http://www.888casino.com/
 *  Number of JS Resources: 7
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 29
-*  Total Request Bytes: 7586
+*  Total Request Bytes: 7591
 
 ### Response data
 
 *  HTML Response Bytes: 26095
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 32714
-*  Image Response Bytes: 784725
-*  JS Response Bytes: 323200
+*  Image Response Bytes: 784731
+*  JS Response Bytes: 323202
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 6531
+*  Other Response Bytes: 6532

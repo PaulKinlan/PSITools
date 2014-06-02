@@ -13,19 +13,19 @@ title: http://designfoliodemo.wordpress.com/
 
 ### Request information
 
-*  Number of Resources: 59
+*  Number of Resources: 58
 *  Number of Hosts: 13
-*  Number of JS Resources: 19
+*  Number of JS Resources: 18
 *  Number of CSS Resources: 5
-*  Nubmer of Static Resources: 48
-*  Total Request Bytes: 6551
+*  Nubmer of Static Resources: 47
+*  Total Request Bytes: 6592
 
 ### Response data
 
-*  HTML Response Bytes: 57507
+*  HTML Response Bytes: 57459
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 234032
-*  Image Response Bytes: 826928
-*  JS Response Bytes: 731320
+*  CSS Response Bytes: 234036
+*  Image Response Bytes: 826932
+*  JS Response Bytes: 729073
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 16223
+*  Other Response Bytes: 16222

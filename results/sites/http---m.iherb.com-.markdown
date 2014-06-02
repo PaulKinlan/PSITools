@@ -17,15 +17,15 @@ title: http://m.iherb.com/
 *  Number of Hosts: 15
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 1
-*  Nubmer of Static Resources: 11
-*  Total Request Bytes: 7261
+*  Nubmer of Static Resources: 12
+*  Total Request Bytes: 7257
 
 ### Response data
 
-*  HTML Response Bytes: 13039
-*  Text Response Bytes: 1825
+*  HTML Response Bytes: 13088
+*  Text Response Bytes: 1874
 *  CSS Response Bytes: 106950
-*  Image Response Bytes: 192306
-*  JS Response Bytes: 190722
+*  Image Response Bytes: 192332
+*  JS Response Bytes: 190720
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8004

@@ -18,14 +18,14 @@ title: http://altodemo.wordpress.com/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 24
-*  Total Request Bytes: 4423
+*  Total Request Bytes: 4417
 
 ### Response data
 
 *  HTML Response Bytes: 50909
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 285301
+*  CSS Response Bytes: 285305
 *  Image Response Bytes: 2424067
-*  JS Response Bytes: 565994
+*  JS Response Bytes: 565912
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 77533

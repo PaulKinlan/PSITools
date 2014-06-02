@@ -22,10 +22,10 @@ title: http://www.arbeitsagentur.de/
 
 ### Response data
 
-*  HTML Response Bytes: 99556
+*  HTML Response Bytes: 99555
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 309554
-*  Image Response Bytes: 2097107
-*  JS Response Bytes: 602798
+*  CSS Response Bytes: 309546
+*  Image Response Bytes: 2097053
+*  JS Response Bytes: 602782
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 586
+*  Other Response Bytes: 580

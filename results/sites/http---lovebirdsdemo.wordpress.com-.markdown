@@ -18,14 +18,14 @@ title: http://lovebirdsdemo.wordpress.com/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 21
-*  Total Request Bytes: 3599
+*  Total Request Bytes: 3590
 
 ### Response data
 
-*  HTML Response Bytes: 24388
+*  HTML Response Bytes: 24412
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 150818
+*  CSS Response Bytes: 150822
 *  Image Response Bytes: 649550
 *  JS Response Bytes: 236664
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 51906
+*  Other Response Bytes: 51907

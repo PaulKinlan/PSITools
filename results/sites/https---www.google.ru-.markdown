@@ -18,14 +18,14 @@ title: https://www.google.ru/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 3239
+*  Total Request Bytes: 3216
 
 ### Response data
 
-*  HTML Response Bytes: 77031
+*  HTML Response Bytes: 76995
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 78852
-*  JS Response Bytes: 428183
+*  Image Response Bytes: 78853
+*  JS Response Bytes: 428174
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1717

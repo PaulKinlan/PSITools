@@ -14,18 +14,18 @@ title: http://asceticademo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 14
-*  Number of Hosts: 7
+*  Number of Hosts: 8
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 2486
+*  Total Request Bytes: 2485
 
 ### Response data
 
-*  HTML Response Bytes: 36563
+*  HTML Response Bytes: 36569
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 181588
+*  CSS Response Bytes: 181592
 *  Image Response Bytes: 81049
-*  JS Response Bytes: 572360
+*  JS Response Bytes: 572268
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

@@ -18,14 +18,14 @@ title: http://www.wordreference.com/
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 6
-*  Total Request Bytes: 1920
+*  Total Request Bytes: 1921
 
 ### Response data
 
 *  HTML Response Bytes: 24681
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 1153
-*  JS Response Bytes: 201947
+*  Image Response Bytes: 1154
+*  JS Response Bytes: 202017
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1062
+*  Other Response Bytes: 1063

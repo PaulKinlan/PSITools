@@ -14,18 +14,18 @@ title: http://bouquetdemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 37
-*  Number of Hosts: 18
+*  Number of Hosts: 17
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 28
-*  Total Request Bytes: 4722
+*  Total Request Bytes: 4800
 
 ### Response data
 
-*  HTML Response Bytes: 61936
+*  HTML Response Bytes: 61944
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 345653
-*  Image Response Bytes: 991836
-*  JS Response Bytes: 1535113
+*  CSS Response Bytes: 345658
+*  Image Response Bytes: 984786
+*  JS Response Bytes: 1536317
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 56605
+*  Other Response Bytes: 56606

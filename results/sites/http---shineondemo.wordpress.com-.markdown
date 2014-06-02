@@ -13,19 +13,19 @@ title: http://shineondemo.wordpress.com/
 
 ### Request information
 
-*  Number of Resources: 43
-*  Number of Hosts: 12
+*  Number of Resources: 38
+*  Number of Hosts: 11
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 8
-*  Nubmer of Static Resources: 31
-*  Total Request Bytes: 5526
+*  Nubmer of Static Resources: 26
+*  Total Request Bytes: 5195
 
 ### Response data
 
-*  HTML Response Bytes: 58747
+*  HTML Response Bytes: 58920
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 363659
-*  Image Response Bytes: 2116316
-*  JS Response Bytes: 1265825
+*  CSS Response Bytes: 363664
+*  Image Response Bytes: 1660073
+*  JS Response Bytes: 1267819
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 305863
+*  Other Response Bytes: 305864

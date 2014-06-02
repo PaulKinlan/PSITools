@@ -13,19 +13,19 @@ title: http://m.sanook.com/m
 
 ### Request information
 
-*  Number of Resources: 30
-*  Number of Hosts: 15
-*  Number of JS Resources: 12
+*  Number of Resources: 29
+*  Number of Hosts: 14
+*  Number of JS Resources: 11
 *  Number of CSS Resources: 4
-*  Nubmer of Static Resources: 13
-*  Total Request Bytes: 5262
+*  Nubmer of Static Resources: 12
+*  Total Request Bytes: 5077
 
 ### Response data
 
-*  HTML Response Bytes: 17637
-*  Text Response Bytes: 54398
-*  CSS Response Bytes: 12325
-*  Image Response Bytes: 2662
-*  JS Response Bytes: 185409
+*  HTML Response Bytes: 17424
+*  Text Response Bytes: 54360
+*  CSS Response Bytes: 12306
+*  Image Response Bytes: 2663
+*  JS Response Bytes: 184475
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1764
+*  Other Response Bytes: 1765

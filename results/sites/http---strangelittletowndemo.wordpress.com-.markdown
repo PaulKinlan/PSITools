@@ -18,14 +18,14 @@ title: http://strangelittletowndemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 34
-*  Total Request Bytes: 5100
+*  Total Request Bytes: 5180
 
 ### Response data
 
-*  HTML Response Bytes: 61311
+*  HTML Response Bytes: 61254
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 336413
-*  Image Response Bytes: 872349
-*  JS Response Bytes: 1534205
+*  CSS Response Bytes: 336418
+*  Image Response Bytes: 872357
+*  JS Response Bytes: 1535252
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

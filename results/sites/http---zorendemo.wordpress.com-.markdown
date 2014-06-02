@@ -18,14 +18,14 @@ title: http://zorendemo.wordpress.com/
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 8
 *  Nubmer of Static Resources: 34
-*  Total Request Bytes: 6188
+*  Total Request Bytes: 6285
 
 ### Response data
 
-*  HTML Response Bytes: 62162
+*  HTML Response Bytes: 62358
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 415945
-*  Image Response Bytes: 535935
-*  JS Response Bytes: 1810397
+*  CSS Response Bytes: 415953
+*  Image Response Bytes: 536021
+*  JS Response Bytes: 1801647
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 104407
+*  Other Response Bytes: 104408

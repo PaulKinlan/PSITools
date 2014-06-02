@@ -13,19 +13,19 @@ title: http://www.bahn.de/m/
 
 ### Request information
 
-*  Number of Resources: 25
+*  Number of Resources: 30
 *  Number of Hosts: 4
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 1
-*  Nubmer of Static Resources: 18
-*  Total Request Bytes: 3773
+*  Nubmer of Static Resources: 23
+*  Total Request Bytes: 4728
 
 ### Response data
 
 *  HTML Response Bytes: 121160
-*  Text Response Bytes: 37785
+*  Text Response Bytes: 33806
 *  CSS Response Bytes: 18972
-*  Image Response Bytes: 99488
+*  Image Response Bytes: 104057
 *  JS Response Bytes: 338417
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1950

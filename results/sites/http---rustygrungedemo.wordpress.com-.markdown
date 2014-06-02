@@ -18,14 +18,14 @@ title: http://rustygrungedemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 26
-*  Total Request Bytes: 4192
+*  Total Request Bytes: 4271
 
 ### Response data
 
-*  HTML Response Bytes: 50471
+*  HTML Response Bytes: 50609
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 286114
-*  Image Response Bytes: 374686
-*  JS Response Bytes: 1533903
+*  CSS Response Bytes: 286119
+*  Image Response Bytes: 373461
+*  JS Response Bytes: 1535251
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

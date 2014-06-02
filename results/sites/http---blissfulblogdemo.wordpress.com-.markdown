@@ -14,18 +14,18 @@ title: http://blissfulblogdemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 40
-*  Number of Hosts: 10
+*  Number of Hosts: 11
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 34
-*  Total Request Bytes: 5250
+*  Total Request Bytes: 5332
 
 ### Response data
 
-*  HTML Response Bytes: 67158
+*  HTML Response Bytes: 67332
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 346490
+*  CSS Response Bytes: 346495
 *  Image Response Bytes: 642231
-*  JS Response Bytes: 1545937
+*  JS Response Bytes: 1547141
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 266

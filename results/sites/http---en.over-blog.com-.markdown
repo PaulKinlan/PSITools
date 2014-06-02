@@ -18,14 +18,14 @@ title: http://en.over-blog.com/
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 20
-*  Total Request Bytes: 4517
+*  Total Request Bytes: 4519
 
 ### Response data
 
-*  HTML Response Bytes: 33628
+*  HTML Response Bytes: 33500
 *  Text Response Bytes: 867
 *  CSS Response Bytes: 40456
-*  Image Response Bytes: 1305604
-*  JS Response Bytes: 278680
+*  Image Response Bytes: 1305616
+*  JS Response Bytes: 278682
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 547

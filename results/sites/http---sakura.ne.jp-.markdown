@@ -18,14 +18,14 @@ title: http://sakura.ne.jp/
 *  Number of JS Resources: 21
 *  Number of CSS Resources: 11
 *  Nubmer of Static Resources: 180
-*  Total Request Bytes: 14450
+*  Total Request Bytes: 14452
 
 ### Response data
 
 *  HTML Response Bytes: 55864
-*  Text Response Bytes: 583
-*  CSS Response Bytes: 138317
-*  Image Response Bytes: 3097509
-*  JS Response Bytes: 872331
+*  Text Response Bytes: 549
+*  CSS Response Bytes: 138316
+*  Image Response Bytes: 3097612
+*  JS Response Bytes: 872332
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

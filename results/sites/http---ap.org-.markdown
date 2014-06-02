@@ -18,14 +18,14 @@ title: http://ap.org/
 *  Number of JS Resources: 24
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 50
-*  Total Request Bytes: 5433
+*  Total Request Bytes: 5431
 
 ### Response data
 
-*  HTML Response Bytes: 98841
+*  HTML Response Bytes: 98842
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 31773
-*  Image Response Bytes: 499604
-*  JS Response Bytes: 1429557
+*  Image Response Bytes: 499605
+*  JS Response Bytes: 1429445
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100656

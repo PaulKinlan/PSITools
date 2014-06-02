@@ -18,14 +18,14 @@ title: http://awesomedemo.wordpress.com/
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 33
-*  Total Request Bytes: 6159
+*  Total Request Bytes: 6162
 
 ### Response data
 
-*  HTML Response Bytes: 74315
-*  Text Response Bytes: 1596
-*  CSS Response Bytes: 260818
-*  Image Response Bytes: 5060244
-*  JS Response Bytes: 1350499
+*  HTML Response Bytes: 74618
+*  Text Response Bytes: 1557
+*  CSS Response Bytes: 261079
+*  Image Response Bytes: 5060243
+*  JS Response Bytes: 1350792
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 191590
+*  Other Response Bytes: 191591

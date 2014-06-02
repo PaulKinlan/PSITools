@@ -13,19 +13,19 @@ title: http://demo.tagdiv.com/newspaper/
 
 ### Request information
 
-*  Number of Resources: 94
-*  Number of Hosts: 9
+*  Number of Resources: 95
+*  Number of Hosts: 10
 *  Number of JS Resources: 17
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 81
-*  Total Request Bytes: 10622
+*  Total Request Bytes: 10775
 
 ### Response data
 
-*  HTML Response Bytes: 135697
+*  HTML Response Bytes: 135691
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 403329
 *  Image Response Bytes: 1317423
-*  JS Response Bytes: 357433
+*  JS Response Bytes: 357434
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 160906
+*  Other Response Bytes: 161721

@@ -18,14 +18,14 @@ title: http://quadrademo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 9
 *  Nubmer of Static Resources: 28
-*  Total Request Bytes: 5118
+*  Total Request Bytes: 5209
 
 ### Response data
 
-*  HTML Response Bytes: 65527
+*  HTML Response Bytes: 65777
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 372406
-*  Image Response Bytes: 1078853
-*  JS Response Bytes: 1552685
+*  CSS Response Bytes: 372411
+*  Image Response Bytes: 1078854
+*  JS Response Bytes: 1553877
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 149251

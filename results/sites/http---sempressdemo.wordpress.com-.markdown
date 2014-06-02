@@ -18,14 +18,14 @@ title: http://sempressdemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 24
-*  Total Request Bytes: 4621
+*  Total Request Bytes: 4712
 
 ### Response data
 
-*  HTML Response Bytes: 143540
+*  HTML Response Bytes: 143428
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 350892
+*  CSS Response Bytes: 350897
 *  Image Response Bytes: 261809
-*  JS Response Bytes: 1535315
+*  JS Response Bytes: 1536509
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

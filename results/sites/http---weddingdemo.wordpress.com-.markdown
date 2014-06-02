@@ -14,18 +14,18 @@ title: http://weddingdemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 28
-*  Number of Hosts: 8
+*  Number of Hosts: 9
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 19
-*  Total Request Bytes: 3959
+*  Total Request Bytes: 3964
 
 ### Response data
 
-*  HTML Response Bytes: 36082
+*  HTML Response Bytes: 36086
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 228391
+*  CSS Response Bytes: 228395
 *  Image Response Bytes: 489403
-*  JS Response Bytes: 338956
+*  JS Response Bytes: 339819
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 87790
+*  Other Response Bytes: 87791

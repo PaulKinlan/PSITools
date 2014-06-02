@@ -14,18 +14,18 @@ title: http://gigawattdemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 43
-*  Number of Hosts: 15
+*  Number of Hosts: 16
 *  Number of JS Resources: 13
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 34
-*  Total Request Bytes: 5067
+*  Total Request Bytes: 5307
 
 ### Response data
 
-*  HTML Response Bytes: 46020
+*  HTML Response Bytes: 46130
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 176832
-*  Image Response Bytes: 170354
-*  JS Response Bytes: 509950
+*  CSS Response Bytes: 176836
+*  Image Response Bytes: 170356
+*  JS Response Bytes: 509859
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

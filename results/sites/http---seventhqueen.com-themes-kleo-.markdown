@@ -14,18 +14,18 @@ title: http://seventhqueen.com/themes/kleo/
 ### Request information
 
 *  Number of Resources: 138
-*  Number of Hosts: 11
+*  Number of Hosts: 10
 *  Number of JS Resources: 49
 *  Number of CSS Resources: 25
 *  Nubmer of Static Resources: 118
-*  Total Request Bytes: 15965
+*  Total Request Bytes: 16030
 
 ### Response data
 
-*  HTML Response Bytes: 159008
+*  HTML Response Bytes: 159439
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 1137245
-*  Image Response Bytes: 2470651
-*  JS Response Bytes: 1345867
+*  CSS Response Bytes: 1137228
+*  Image Response Bytes: 2480992
+*  JS Response Bytes: 1346398
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 53071
+*  Other Response Bytes: 53129

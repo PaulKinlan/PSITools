@@ -18,14 +18,14 @@ title: http://m.sephora.com/
 *  Number of JS Resources: 14
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 16
-*  Total Request Bytes: 14075
+*  Total Request Bytes: 13927
 
 ### Response data
 
-*  HTML Response Bytes: 53379
+*  HTML Response Bytes: 53385
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 91376
-*  Image Response Bytes: 253869
-*  JS Response Bytes: 645094
+*  Image Response Bytes: 253821
+*  JS Response Bytes: 645092
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 44232
+*  Other Response Bytes: 44165

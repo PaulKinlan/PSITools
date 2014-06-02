@@ -14,18 +14,18 @@ title: http://axondemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 82
-*  Number of Hosts: 19
+*  Number of Hosts: 18
 *  Number of JS Resources: 17
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 66
-*  Total Request Bytes: 10524
+*  Total Request Bytes: 10578
 
 ### Response data
 
-*  HTML Response Bytes: 83118
+*  HTML Response Bytes: 83227
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 223207
-*  Image Response Bytes: 1894792
-*  JS Response Bytes: 1176823
+*  CSS Response Bytes: 223211
+*  Image Response Bytes: 1894221
+*  JS Response Bytes: 1178435
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 95900
+*  Other Response Bytes: 95901

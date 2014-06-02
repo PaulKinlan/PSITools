@@ -18,14 +18,14 @@ title: http://uk.moo.com/mobile/
 *  Number of JS Resources: 18
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 52
-*  Total Request Bytes: 17532
+*  Total Request Bytes: 17146
 
 ### Response data
 
-*  HTML Response Bytes: 14279
-*  Text Response Bytes: 772
-*  CSS Response Bytes: 253652
-*  Image Response Bytes: 1489220
-*  JS Response Bytes: 995500
+*  HTML Response Bytes: 14307
+*  Text Response Bytes: 773
+*  CSS Response Bytes: 253650
+*  Image Response Bytes: 1489250
+*  JS Response Bytes: 995255
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 15439
+*  Other Response Bytes: 15434

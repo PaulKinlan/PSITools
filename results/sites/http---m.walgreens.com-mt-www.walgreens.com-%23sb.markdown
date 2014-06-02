@@ -18,14 +18,14 @@ title: http://m.walgreens.com/mt/www.walgreens.com/#sb
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 11
-*  Total Request Bytes: 3044
+*  Total Request Bytes: 3039
 
 ### Response data
 
-*  HTML Response Bytes: 30747
+*  HTML Response Bytes: 30743
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 8340
 *  Image Response Bytes: 22597
-*  JS Response Bytes: 265190
+*  JS Response Bytes: 265191
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1711

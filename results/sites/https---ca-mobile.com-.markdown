@@ -23,9 +23,9 @@ title: https://ca-mobile.com/
 ### Response data
 
 *  HTML Response Bytes: 18004
-*  Text Response Bytes: 36327
-*  CSS Response Bytes: 43078
-*  Image Response Bytes: 179059
-*  JS Response Bytes: 173134
+*  Text Response Bytes: 36326
+*  CSS Response Bytes: 43077
+*  Image Response Bytes: 179060
+*  JS Response Bytes: 173135
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17076

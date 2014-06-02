@@ -18,14 +18,14 @@ title: https://www.google.co.jp/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 3248
+*  Total Request Bytes: 3202
 
 ### Response data
 
-*  HTML Response Bytes: 76577
+*  HTML Response Bytes: 76475
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 78851
-*  JS Response Bytes: 428173
+*  Image Response Bytes: 78853
+*  JS Response Bytes: 428183
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1730

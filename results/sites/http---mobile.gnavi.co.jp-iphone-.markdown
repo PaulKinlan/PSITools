@@ -18,14 +18,14 @@ title: http://mobile.gnavi.co.jp/iphone/
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 20
-*  Total Request Bytes: 3674
+*  Total Request Bytes: 3675
 
 ### Response data
 
-*  HTML Response Bytes: 20911
+*  HTML Response Bytes: 20872
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 168901
-*  Image Response Bytes: 48073
-*  JS Response Bytes: 278981
+*  CSS Response Bytes: 168900
+*  Image Response Bytes: 44795
+*  JS Response Bytes: 279273
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54

@@ -22,10 +22,10 @@ title: http://alt-realhomes.inspirythemes.com/
 
 ### Response data
 
-*  HTML Response Bytes: 55183
+*  HTML Response Bytes: 55172
 *  Text Response Bytes: 44718
 *  CSS Response Bytes: 418875
 *  Image Response Bytes: 1196141
 *  JS Response Bytes: 630155
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 148441
+*  Other Response Bytes: 148421

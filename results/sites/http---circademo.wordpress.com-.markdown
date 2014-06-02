@@ -18,14 +18,14 @@ title: http://circademo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 10
 *  Nubmer of Static Resources: 29
-*  Total Request Bytes: 5335
+*  Total Request Bytes: 5419
 
 ### Response data
 
-*  HTML Response Bytes: 65835
+*  HTML Response Bytes: 66004
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 373577
-*  Image Response Bytes: 1379750
-*  JS Response Bytes: 1552833
+*  CSS Response Bytes: 373582
+*  Image Response Bytes: 1379751
+*  JS Response Bytes: 1553872
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 153350
+*  Other Response Bytes: 153353

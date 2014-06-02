@@ -18,14 +18,14 @@ title: http://chunkdemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 29
-*  Total Request Bytes: 4582
+*  Total Request Bytes: 4666
 
 ### Response data
 
-*  HTML Response Bytes: 53624
+*  HTML Response Bytes: 53857
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 336696
-*  Image Response Bytes: 289209
-*  JS Response Bytes: 1534205
+*  CSS Response Bytes: 336701
+*  Image Response Bytes: 289215
+*  JS Response Bytes: 1535250
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 21830
+*  Other Response Bytes: 21831

@@ -22,10 +22,10 @@ title: http://www.adscale.de/
 
 ### Response data
 
-*  HTML Response Bytes: 14840
+*  HTML Response Bytes: 14836
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 36616
-*  Image Response Bytes: 197602
-*  JS Response Bytes: 218574
+*  Image Response Bytes: 197603
+*  JS Response Bytes: 218575
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 764

@@ -18,14 +18,14 @@ title: https://mobile.comdirect.de/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 23
-*  Total Request Bytes: 4493
+*  Total Request Bytes: 4491
 
 ### Response data
 
 *  HTML Response Bytes: 116656
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 50000
-*  Image Response Bytes: 120700
-*  JS Response Bytes: 313278
+*  CSS Response Bytes: 49998
+*  Image Response Bytes: 116998
+*  JS Response Bytes: 313273
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 953

@@ -18,14 +18,14 @@ title: http://manifestdemo.wordpress.com/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 33
-*  Total Request Bytes: 4625
+*  Total Request Bytes: 4628
 
 ### Response data
 
 *  HTML Response Bytes: 41968
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 129158
-*  Image Response Bytes: 771227
-*  JS Response Bytes: 559472
+*  CSS Response Bytes: 129162
+*  Image Response Bytes: 769991
+*  JS Response Bytes: 559382
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

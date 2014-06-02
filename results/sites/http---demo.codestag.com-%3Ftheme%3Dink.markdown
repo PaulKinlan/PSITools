@@ -18,14 +18,14 @@ title: http://demo.codestag.com/?theme=ink
 *  Number of JS Resources: 17
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 31
-*  Total Request Bytes: 4765
+*  Total Request Bytes: 4829
 
 ### Response data
 
-*  HTML Response Bytes: 26560
+*  HTML Response Bytes: 26511
 *  Text Response Bytes: 84130
-*  CSS Response Bytes: 104802
+*  CSS Response Bytes: 104822
 *  Image Response Bytes: 1617871
-*  JS Response Bytes: 332014
+*  JS Response Bytes: 332083
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 65768
+*  Other Response Bytes: 65809

@@ -18,14 +18,14 @@ title: http://silesiademo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 21
-*  Total Request Bytes: 3718
+*  Total Request Bytes: 3802
 
 ### Response data
 
-*  HTML Response Bytes: 58861
+*  HTML Response Bytes: 58948
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 347385
-*  Image Response Bytes: 64791
-*  JS Response Bytes: 1536017
+*  CSS Response Bytes: 347390
+*  Image Response Bytes: 64792
+*  JS Response Bytes: 1537061
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

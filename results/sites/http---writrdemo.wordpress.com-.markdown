@@ -18,14 +18,14 @@ title: http://writrdemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 31
-*  Total Request Bytes: 4994
+*  Total Request Bytes: 5089
 
 ### Response data
 
-*  HTML Response Bytes: 57187
+*  HTML Response Bytes: 56935
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 374459
-*  Image Response Bytes: 284948
-*  JS Response Bytes: 1555043
+*  CSS Response Bytes: 374464
+*  Image Response Bytes: 284947
+*  JS Response Bytes: 1556088
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 29768
+*  Other Response Bytes: 29770

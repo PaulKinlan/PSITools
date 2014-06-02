@@ -18,14 +18,14 @@ title: https://m.bedbathandbeyond.com/m/
 *  Number of JS Resources: 14
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 49
-*  Total Request Bytes: 16338
+*  Total Request Bytes: 16330
 
 ### Response data
 
-*  HTML Response Bytes: 65037
+*  HTML Response Bytes: 64870
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 278557
-*  Image Response Bytes: 369097
-*  JS Response Bytes: 571119
+*  Image Response Bytes: 370981
+*  JS Response Bytes: 571123
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8311

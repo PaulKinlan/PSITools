@@ -18,14 +18,14 @@ title: https://developers.google.com/chrome/
 *  Number of JS Resources: 16
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 28
-*  Total Request Bytes: 7329
+*  Total Request Bytes: 7326
 
 ### Response data
 
-*  HTML Response Bytes: 146794
+*  HTML Response Bytes: 146849
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 120236
-*  Image Response Bytes: 607051
-*  JS Response Bytes: 1163450
+*  Image Response Bytes: 607041
+*  JS Response Bytes: 1163503
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 160200
+*  Other Response Bytes: 160197

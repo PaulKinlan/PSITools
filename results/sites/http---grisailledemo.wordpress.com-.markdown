@@ -24,8 +24,8 @@ title: http://grisailledemo.wordpress.com/
 
 *  HTML Response Bytes: 39118
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 179804
+*  CSS Response Bytes: 179808
 *  Image Response Bytes: 69796
-*  JS Response Bytes: 559317
+*  JS Response Bytes: 559378
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 62583
+*  Other Response Bytes: 62584

@@ -18,14 +18,14 @@ title: http://zbenchdemo.wordpress.com/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 54
-*  Total Request Bytes: 6760
+*  Total Request Bytes: 6843
 
 ### Response data
 
-*  HTML Response Bytes: 80072
+*  HTML Response Bytes: 80213
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 277212
-*  Image Response Bytes: 4033361
-*  JS Response Bytes: 1225586
+*  CSS Response Bytes: 277217
+*  Image Response Bytes: 4033580
+*  JS Response Bytes: 1227580
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

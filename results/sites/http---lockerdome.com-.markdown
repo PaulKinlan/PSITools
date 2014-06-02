@@ -22,10 +22,10 @@ title: http://lockerdome.com/
 
 ### Response data
 
-*  HTML Response Bytes: 63236
+*  HTML Response Bytes: 63235
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 498193
+*  CSS Response Bytes: 506620
 *  Image Response Bytes: 764815
-*  JS Response Bytes: 2933555
+*  JS Response Bytes: 2949786
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 65670
+*  Other Response Bytes: 65671

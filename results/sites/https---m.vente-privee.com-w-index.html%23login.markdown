@@ -25,7 +25,7 @@ title: https://m.vente-privee.com/w/index.html#login
 *  HTML Response Bytes: 6952
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 152140
-*  Image Response Bytes: 136998
-*  JS Response Bytes: 940631
+*  Image Response Bytes: 78180
+*  JS Response Bytes: 940664
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1741

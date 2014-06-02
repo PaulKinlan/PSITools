@@ -18,14 +18,14 @@ title: http://typodemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 28
-*  Total Request Bytes: 4964
+*  Total Request Bytes: 5054
 
 ### Response data
 
-*  HTML Response Bytes: 65536
+*  HTML Response Bytes: 65697
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 373780
+*  CSS Response Bytes: 373785
 *  Image Response Bytes: 349468
-*  JS Response Bytes: 1535769
+*  JS Response Bytes: 1536815
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 100542
+*  Other Response Bytes: 100541

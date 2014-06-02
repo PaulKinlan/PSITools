@@ -18,14 +18,14 @@ title: http://vintagekitchendemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 26
-*  Total Request Bytes: 4740
+*  Total Request Bytes: 4810
 
 ### Response data
 
-*  HTML Response Bytes: 60184
+*  HTML Response Bytes: 60336
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 354253
-*  Image Response Bytes: 307845
-*  JS Response Bytes: 1534056
+*  CSS Response Bytes: 354258
+*  Image Response Bytes: 307861
+*  JS Response Bytes: 1535250
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 55311
+*  Other Response Bytes: 55310

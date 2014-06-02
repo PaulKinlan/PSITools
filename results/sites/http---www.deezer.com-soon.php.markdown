@@ -25,7 +25,7 @@ title: http://www.deezer.com/soon.php
 *  HTML Response Bytes: 3832
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 7475
-*  Image Response Bytes: 3752
+*  Image Response Bytes: 3753
 *  JS Response Bytes: 114065
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1102

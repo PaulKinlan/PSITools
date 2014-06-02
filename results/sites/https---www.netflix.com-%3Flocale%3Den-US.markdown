@@ -13,19 +13,19 @@ title: https://www.netflix.com/?locale=en-US
 
 ### Request information
 
-*  Number of Resources: 48
-*  Number of Hosts: 14
-*  Number of JS Resources: 12
+*  Number of Resources: 50
+*  Number of Hosts: 15
+*  Number of JS Resources: 13
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 16
-*  Total Request Bytes: 19185
+*  Total Request Bytes: 19490
 
 ### Response data
 
-*  HTML Response Bytes: 41204
+*  HTML Response Bytes: 41128
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 40506
-*  Image Response Bytes: 473304
-*  JS Response Bytes: 682337
+*  CSS Response Bytes: 40960
+*  Image Response Bytes: 473774
+*  JS Response Bytes: 688070
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 6211
+*  Other Response Bytes: 6202

@@ -18,14 +18,14 @@ title: http://floraandfaunademo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 27
-*  Total Request Bytes: 5057
+*  Total Request Bytes: 5143
 
 ### Response data
 
-*  HTML Response Bytes: 74292
+*  HTML Response Bytes: 74460
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 349404
-*  Image Response Bytes: 436847
-*  JS Response Bytes: 1536015
+*  CSS Response Bytes: 349409
+*  Image Response Bytes: 436852
+*  JS Response Bytes: 1537055
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 94761
+*  Other Response Bytes: 94759

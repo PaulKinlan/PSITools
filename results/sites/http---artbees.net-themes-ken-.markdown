@@ -22,10 +22,10 @@ title: http://artbees.net/themes/ken/
 
 ### Response data
 
-*  HTML Response Bytes: 131409
+*  HTML Response Bytes: 131414
 *  Text Response Bytes: 64105
 *  CSS Response Bytes: 397198
-*  Image Response Bytes: 4345036
+*  Image Response Bytes: 4345041
 *  JS Response Bytes: 544473
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 76639

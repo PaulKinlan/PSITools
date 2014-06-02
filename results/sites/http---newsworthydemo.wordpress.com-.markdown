@@ -14,18 +14,18 @@ title: http://newsworthydemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 27
-*  Number of Hosts: 14
+*  Number of Hosts: 13
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 16
-*  Total Request Bytes: 4489
+*  Total Request Bytes: 4569
 
 ### Response data
 
-*  HTML Response Bytes: 137417
+*  HTML Response Bytes: 137464
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 351412
+*  CSS Response Bytes: 351417
 *  Image Response Bytes: 72443
-*  JS Response Bytes: 1535861
+*  JS Response Bytes: 1537061
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46712

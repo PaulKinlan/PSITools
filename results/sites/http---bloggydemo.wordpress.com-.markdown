@@ -13,19 +13,19 @@ title: http://bloggydemo.wordpress.com/
 
 ### Request information
 
-*  Number of Resources: 62
-*  Number of Hosts: 17
+*  Number of Resources: 71
+*  Number of Hosts: 19
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 6
-*  Nubmer of Static Resources: 51
-*  Total Request Bytes: 7036
+*  Nubmer of Static Resources: 60
+*  Total Request Bytes: 8488
 
 ### Response data
 
-*  HTML Response Bytes: 67489
+*  HTML Response Bytes: 67504
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 259868
-*  Image Response Bytes: 2367619
-*  JS Response Bytes: 1044197
+*  CSS Response Bytes: 260014
+*  Image Response Bytes: 2125348
+*  JS Response Bytes: 1103957
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 88280

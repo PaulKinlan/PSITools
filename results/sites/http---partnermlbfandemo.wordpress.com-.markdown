@@ -14,17 +14,17 @@ title: http://partnermlbfandemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 9
-*  Number of Hosts: 6
+*  Number of Hosts: 5
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 5
-*  Total Request Bytes: 1756
+*  Total Request Bytes: 1758
 
 ### Response data
 
 *  HTML Response Bytes: 14746
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 148025
+*  CSS Response Bytes: 148029
 *  Image Response Bytes: 786
 *  JS Response Bytes: 236264
 *  Flash Response Bytes: 0

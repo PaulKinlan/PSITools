@@ -13,19 +13,19 @@ title: http://gallerydemo.wordpress.com/
 
 ### Request information
 
-*  Number of Resources: 104
-*  Number of Hosts: 45
+*  Number of Resources: 106
+*  Number of Hosts: 47
 *  Number of JS Resources: 31
 *  Number of CSS Resources: 8
-*  Nubmer of Static Resources: 55
-*  Total Request Bytes: 15153
+*  Nubmer of Static Resources: 56
+*  Total Request Bytes: 15918
 
 ### Response data
 
-*  HTML Response Bytes: 245607
-*  Text Response Bytes: 4788
-*  CSS Response Bytes: 1699307
-*  Image Response Bytes: 2245082
-*  JS Response Bytes: 4276022
+*  HTML Response Bytes: 253623
+*  Text Response Bytes: 4671
+*  CSS Response Bytes: 1633216
+*  Image Response Bytes: 2245383
+*  JS Response Bytes: 4284644
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 24719
+*  Other Response Bytes: 25187

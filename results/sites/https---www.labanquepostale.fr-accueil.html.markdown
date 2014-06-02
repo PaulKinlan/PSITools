@@ -18,14 +18,14 @@ title: https://www.labanquepostale.fr/accueil.html
 *  Number of JS Resources: 17
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 60
-*  Total Request Bytes: 9115
+*  Total Request Bytes: 9113
 
 ### Response data
 
-*  HTML Response Bytes: 65190
+*  HTML Response Bytes: 65173
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 40631
-*  Image Response Bytes: 281841
+*  CSS Response Bytes: 40608
+*  Image Response Bytes: 249555
 *  JS Response Bytes: 438396
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3541

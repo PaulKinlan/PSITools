@@ -18,14 +18,14 @@ title: http://esquiredemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 35
-*  Total Request Bytes: 4705
+*  Total Request Bytes: 4792
 
 ### Response data
 
-*  HTML Response Bytes: 46863
+*  HTML Response Bytes: 47047
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 340213
-*  Image Response Bytes: 329736
-*  JS Response Bytes: 1535561
+*  CSS Response Bytes: 340218
+*  Image Response Bytes: 329737
+*  JS Response Bytes: 1536599
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

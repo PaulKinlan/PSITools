@@ -13,19 +13,19 @@ title: http://www.caf.fr/
 
 ### Request information
 
-*  Number of Resources: 34
-*  Number of Hosts: 3
+*  Number of Resources: 35
+*  Number of Hosts: 4
 *  Number of JS Resources: 8
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 30
-*  Total Request Bytes: 5630
+*  Total Request Bytes: 5717
 
 ### Response data
 
-*  HTML Response Bytes: 45905
+*  HTML Response Bytes: 46319
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 183506
-*  Image Response Bytes: 197289
+*  Image Response Bytes: 197290
 *  JS Response Bytes: 858063
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 519

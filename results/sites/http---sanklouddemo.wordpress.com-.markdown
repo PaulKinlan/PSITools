@@ -18,14 +18,14 @@ title: http://sanklouddemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 34
-*  Total Request Bytes: 5617
+*  Total Request Bytes: 5696
 
 ### Response data
 
-*  HTML Response Bytes: 49869
+*  HTML Response Bytes: 49971
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 350539
-*  Image Response Bytes: 358716
-*  JS Response Bytes: 1534209
+*  CSS Response Bytes: 350544
+*  Image Response Bytes: 358721
+*  JS Response Bytes: 1535253
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 68036
+*  Other Response Bytes: 68025

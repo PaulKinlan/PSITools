@@ -18,14 +18,14 @@ title: http://www.duden.de/
 *  Number of JS Resources: 24
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 49
-*  Total Request Bytes: 12125
+*  Total Request Bytes: 12148
 
 ### Response data
 
-*  HTML Response Bytes: 60541
+*  HTML Response Bytes: 60569
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 256125
-*  Image Response Bytes: 509705
-*  JS Response Bytes: 1376044
+*  Image Response Bytes: 509724
+*  JS Response Bytes: 1376049
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4600

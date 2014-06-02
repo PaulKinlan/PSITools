@@ -18,11 +18,11 @@ title: http://ameblo.jp/
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 18
-*  Total Request Bytes: 1916
+*  Total Request Bytes: 1918
 
 ### Response data
 
-*  HTML Response Bytes: 13423
+*  HTML Response Bytes: 13425
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 58233
 *  Image Response Bytes: 261590

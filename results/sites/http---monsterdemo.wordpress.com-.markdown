@@ -14,18 +14,18 @@ title: http://monsterdemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 39
-*  Number of Hosts: 12
+*  Number of Hosts: 13
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 28
-*  Total Request Bytes: 5088
+*  Total Request Bytes: 5170
 
 ### Response data
 
-*  HTML Response Bytes: 64415
+*  HTML Response Bytes: 64647
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 343938
-*  Image Response Bytes: 484309
-*  JS Response Bytes: 1535312
+*  CSS Response Bytes: 343943
+*  Image Response Bytes: 484310
+*  JS Response Bytes: 1536502
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 192107
+*  Other Response Bytes: 192096

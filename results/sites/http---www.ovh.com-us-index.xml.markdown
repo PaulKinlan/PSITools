@@ -18,14 +18,14 @@ title: http://www.ovh.com/us/index.xml
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 70
-*  Total Request Bytes: 10257
+*  Total Request Bytes: 10327
 
 ### Response data
 
-*  HTML Response Bytes: 40849
+*  HTML Response Bytes: 40850
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 155741
-*  Image Response Bytes: 634136
-*  JS Response Bytes: 285857
+*  CSS Response Bytes: 155723
+*  Image Response Bytes: 634212
+*  JS Response Bytes: 285817
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1835
+*  Other Response Bytes: 1837

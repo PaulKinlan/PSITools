@@ -18,14 +18,14 @@ title: http://www.wiley.com/WileyCDA/
 *  Number of JS Resources: 8
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 32
-*  Total Request Bytes: 6732
+*  Total Request Bytes: 6721
 
 ### Response data
 
-*  HTML Response Bytes: 31020
+*  HTML Response Bytes: 31018
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 73089
-*  Image Response Bytes: 119675
+*  Image Response Bytes: 119674
 *  JS Response Bytes: 265666
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 175705
+*  Other Response Bytes: 175699

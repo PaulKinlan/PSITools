@@ -18,14 +18,14 @@ title: http://m.nike.com/gb/en_gb/
 *  Number of JS Resources: 16
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 26
-*  Total Request Bytes: 7496
+*  Total Request Bytes: 7495
 
 ### Response data
 
-*  HTML Response Bytes: 163416
+*  HTML Response Bytes: 163415
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 1039624
-*  Image Response Bytes: 34714
+*  CSS Response Bytes: 1039623
+*  Image Response Bytes: 34712
 *  JS Response Bytes: 1828307
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5310

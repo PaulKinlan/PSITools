@@ -18,7 +18,7 @@ title: https://www.jcrew.com/index.jsp
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 2525
+*  Total Request Bytes: 2538
 
 ### Response data
 
@@ -26,6 +26,6 @@ title: https://www.jcrew.com/index.jsp
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 18293
-*  JS Response Bytes: 96610
+*  JS Response Bytes: 96611
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2209
+*  Other Response Bytes: 2222

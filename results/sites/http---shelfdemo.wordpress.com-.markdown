@@ -13,19 +13,19 @@ title: http://shelfdemo.wordpress.com/
 
 ### Request information
 
-*  Number of Resources: 56
+*  Number of Resources: 54
 *  Number of Hosts: 15
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 4
-*  Nubmer of Static Resources: 37
-*  Total Request Bytes: 6360
+*  Nubmer of Static Resources: 36
+*  Total Request Bytes: 6252
 
 ### Response data
 
-*  HTML Response Bytes: 82137
-*  Text Response Bytes: 3192
-*  CSS Response Bytes: 192328
-*  Image Response Bytes: 516714
-*  JS Response Bytes: 908218
+*  HTML Response Bytes: 74835
+*  Text Response Bytes: 3114
+*  CSS Response Bytes: 192586
+*  Image Response Bytes: 517349
+*  JS Response Bytes: 908127
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 386

@@ -18,14 +18,14 @@ title: http://tonaldemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 24
-*  Total Request Bytes: 4163
+*  Total Request Bytes: 4292
 
 ### Response data
 
-*  HTML Response Bytes: 59514
+*  HTML Response Bytes: 59584
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 356630
+*  CSS Response Bytes: 356635
 *  Image Response Bytes: 773010
-*  JS Response Bytes: 1552223
+*  JS Response Bytes: 1553264
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48770

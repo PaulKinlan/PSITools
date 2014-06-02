@@ -14,18 +14,18 @@ title: http://delicacydemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 42
-*  Number of Hosts: 10
+*  Number of Hosts: 11
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 37
-*  Total Request Bytes: 5239
+*  Total Request Bytes: 5324
 
 ### Response data
 
-*  HTML Response Bytes: 61614
+*  HTML Response Bytes: 61686
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 338348
-*  Image Response Bytes: 709757
-*  JS Response Bytes: 1534685
+*  CSS Response Bytes: 338353
+*  Image Response Bytes: 709763
+*  JS Response Bytes: 1535735
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

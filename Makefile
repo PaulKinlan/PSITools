@@ -1,23 +1,9 @@
 clean: cleanresults
-	rm -f output/wordpress
-	rm -f output/alexa-top-10
-	rm -f output/news
-	rm -f output/webdeveloperdocs
-	rm -f output/themeforest-livepopular
-	rm -f output/japanese-top-100
-	rm -f output/french-top-100
-	rm -f wordpress.tmp
+	rm -f output/*
 	rm -rf ./_site/
 
 cleanresults:
-	rm -r results/themeforest-livepopular.markdown
-	rm -f results/wordpress.markdown
-	rm -f results/alexa-top-10.markdown
-	rm -f results/news.markdown
-	rm -f results/webdeveloperdocs.markdown
-	rm -f results/japanese-top-100.markdown
-	rm -f results/french-top-100.markdown
-	rm -f results/french-top-100.markdown
+	rm -f results/*.markdown
 	rm -f results/sites/*.markdown
 
 # Thai Top 100

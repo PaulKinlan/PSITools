@@ -14,18 +14,18 @@ title: http://mistylakedemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 45
-*  Number of Hosts: 17
+*  Number of Hosts: 16
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 24
-*  Total Request Bytes: 5779
+*  Total Request Bytes: 5865
 
 ### Response data
 
-*  HTML Response Bytes: 55278
+*  HTML Response Bytes: 55101
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 354203
-*  Image Response Bytes: 614770
-*  JS Response Bytes: 1535461
+*  CSS Response Bytes: 354208
+*  Image Response Bytes: 603296
+*  JS Response Bytes: 1536508
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 310325
+*  Other Response Bytes: 310328

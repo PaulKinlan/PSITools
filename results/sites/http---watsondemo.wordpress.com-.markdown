@@ -22,10 +22,10 @@ title: http://watsondemo.wordpress.com/
 
 ### Response data
 
-*  HTML Response Bytes: 43203
+*  HTML Response Bytes: 43241
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 217741
+*  CSS Response Bytes: 217745
 *  Image Response Bytes: 934991
-*  JS Response Bytes: 583645
+*  JS Response Bytes: 583564
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 146424
+*  Other Response Bytes: 146422

@@ -13,19 +13,19 @@ title: http://twentytwelvedemo.wordpress.com/
 
 ### Request information
 
-*  Number of Resources: 15
+*  Number of Resources: 14
 *  Number of Hosts: 8
 *  Number of JS Resources: 3
-*  Number of CSS Resources: 4
-*  Nubmer of Static Resources: 9
-*  Total Request Bytes: 2308
+*  Number of CSS Resources: 3
+*  Nubmer of Static Resources: 8
+*  Total Request Bytes: 2113
 
 ### Response data
 
-*  HTML Response Bytes: 16933
+*  HTML Response Bytes: 16907
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 95996
+*  CSS Response Bytes: 77777
 *  Image Response Bytes: 292783
 *  JS Response Bytes: 179269
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 54013
+*  Other Response Bytes: 54014

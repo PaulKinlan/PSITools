@@ -18,14 +18,14 @@ title: http://bloccodemo.wordpress.com/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 21
-*  Total Request Bytes: 3387
+*  Total Request Bytes: 3388
 
 ### Response data
 
 *  HTML Response Bytes: 28498
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 191822
+*  CSS Response Bytes: 191826
 *  Image Response Bytes: 477751
-*  JS Response Bytes: 580428
+*  JS Response Bytes: 580493
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

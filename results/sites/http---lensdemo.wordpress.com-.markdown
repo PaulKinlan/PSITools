@@ -18,14 +18,14 @@ title: http://lensdemo.wordpress.com/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 27
-*  Total Request Bytes: 4303
+*  Total Request Bytes: 4300
 
 ### Response data
 
-*  HTML Response Bytes: 41411
+*  HTML Response Bytes: 41390
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 199535
-*  Image Response Bytes: 2867394
-*  JS Response Bytes: 607132
+*  CSS Response Bytes: 199539
+*  Image Response Bytes: 2867408
+*  JS Response Bytes: 607035
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35604

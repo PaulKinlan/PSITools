@@ -18,14 +18,14 @@ title: http://superherodemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 26
-*  Total Request Bytes: 4464
+*  Total Request Bytes: 4553
 
 ### Response data
 
-*  HTML Response Bytes: 69854
+*  HTML Response Bytes: 69980
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 348469
+*  CSS Response Bytes: 348474
 *  Image Response Bytes: 1324595
-*  JS Response Bytes: 1552690
+*  JS Response Bytes: 1553578
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 17703
+*  Other Response Bytes: 17713

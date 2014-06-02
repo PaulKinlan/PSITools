@@ -18,14 +18,14 @@ title: http://hexademo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 26
-*  Total Request Bytes: 5115
+*  Total Request Bytes: 5204
 
 ### Response data
 
-*  HTML Response Bytes: 71540
+*  HTML Response Bytes: 71653
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 373877
-*  Image Response Bytes: 1804665
-*  JS Response Bytes: 1552833
+*  CSS Response Bytes: 373882
+*  Image Response Bytes: 1804666
+*  JS Response Bytes: 1553881
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141386

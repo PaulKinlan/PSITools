@@ -18,7 +18,7 @@ title: http://www.natwest.com/personal.ashx
 *  Number of JS Resources: 16
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 33
-*  Total Request Bytes: 10647
+*  Total Request Bytes: 10646
 
 ### Response data
 
@@ -26,6 +26,6 @@ title: http://www.natwest.com/personal.ashx
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 204172
 *  Image Response Bytes: 482120
-*  JS Response Bytes: 1260707
+*  JS Response Bytes: 1260716
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2642
+*  Other Response Bytes: 2641

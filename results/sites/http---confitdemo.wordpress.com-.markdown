@@ -18,14 +18,14 @@ title: http://confitdemo.wordpress.com/
 *  Number of JS Resources: 17
 *  Number of CSS Resources: 10
 *  Nubmer of Static Resources: 48
-*  Total Request Bytes: 11407
+*  Total Request Bytes: 11400
 
 ### Response data
 
 *  HTML Response Bytes: 14280
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 192022
-*  Image Response Bytes: 1029636
-*  JS Response Bytes: 840315
+*  CSS Response Bytes: 192026
+*  Image Response Bytes: 1035790
+*  JS Response Bytes: 840610
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 148011
+*  Other Response Bytes: 147994

@@ -13,19 +13,19 @@ title: http://www.fnac.com/
 
 ### Request information
 
-*  Number of Resources: 52
+*  Number of Resources: 51
 *  Number of Hosts: 15
 *  Number of JS Resources: 15
 *  Number of CSS Resources: 6
-*  Nubmer of Static Resources: 40
-*  Total Request Bytes: 8952
+*  Nubmer of Static Resources: 39
+*  Total Request Bytes: 8815
 
 ### Response data
 
-*  HTML Response Bytes: 47022
+*  HTML Response Bytes: 46744
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 198309
-*  Image Response Bytes: 277499
+*  CSS Response Bytes: 198289
+*  Image Response Bytes: 228919
 *  JS Response Bytes: 567157
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2469
+*  Other Response Bytes: 2466

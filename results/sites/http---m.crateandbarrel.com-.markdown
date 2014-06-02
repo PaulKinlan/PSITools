@@ -18,14 +18,14 @@ title: http://m.crateandbarrel.com/
 *  Number of JS Resources: 19
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 25
-*  Total Request Bytes: 18294
+*  Total Request Bytes: 17215
 
 ### Response data
 
-*  HTML Response Bytes: 46451
-*  Text Response Bytes: 142202
-*  CSS Response Bytes: 327064
-*  Image Response Bytes: 484874
-*  JS Response Bytes: 869145
+*  HTML Response Bytes: 46471
+*  Text Response Bytes: 141531
+*  CSS Response Bytes: 327063
+*  Image Response Bytes: 484672
+*  JS Response Bytes: 868253
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 13493
+*  Other Response Bytes: 13498

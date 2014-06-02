@@ -22,7 +22,7 @@ title: http://www.yell.com/
 
 ### Response data
 
-*  HTML Response Bytes: 10625
+*  HTML Response Bytes: 10623
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 52837
 *  Image Response Bytes: 676

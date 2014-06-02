@@ -14,18 +14,18 @@ title: http://bonpressdemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 30
-*  Number of Hosts: 11
+*  Number of Hosts: 12
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 25
-*  Total Request Bytes: 4146
+*  Total Request Bytes: 4238
 
 ### Response data
 
-*  HTML Response Bytes: 61534
+*  HTML Response Bytes: 61279
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 346101
-*  Image Response Bytes: 219861
-*  JS Response Bytes: 1536013
+*  CSS Response Bytes: 346106
+*  Image Response Bytes: 219863
+*  JS Response Bytes: 1537063
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

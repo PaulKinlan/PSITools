@@ -18,14 +18,14 @@ title: http://ampersanddemo.wordpress.com/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 20
-*  Total Request Bytes: 3764
+*  Total Request Bytes: 3760
 
 ### Response data
 
-*  HTML Response Bytes: 26809
+*  HTML Response Bytes: 26805
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 227994
+*  CSS Response Bytes: 227998
 *  Image Response Bytes: 794654
-*  JS Response Bytes: 357308
+*  JS Response Bytes: 356903
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 64268

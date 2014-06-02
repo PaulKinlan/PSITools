@@ -18,14 +18,14 @@ title: http://anthemdemo.wordpress.com/
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 36
-*  Total Request Bytes: 5872
+*  Total Request Bytes: 5873
 
 ### Response data
 
-*  HTML Response Bytes: 87504
-*  Text Response Bytes: 1596
-*  CSS Response Bytes: 263665
-*  Image Response Bytes: 1072583
-*  JS Response Bytes: 1309275
+*  HTML Response Bytes: 87744
+*  Text Response Bytes: 1557
+*  CSS Response Bytes: 263921
+*  Image Response Bytes: 1072585
+*  JS Response Bytes: 1309248
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120

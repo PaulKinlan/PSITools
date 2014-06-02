@@ -18,14 +18,14 @@ title: http://twentyfourteendemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 8
 *  Nubmer of Static Resources: 42
-*  Total Request Bytes: 7419
+*  Total Request Bytes: 7602
 
 ### Response data
 
-*  HTML Response Bytes: 133225
+*  HTML Response Bytes: 133834
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 434882
+*  CSS Response Bytes: 434884
 *  Image Response Bytes: 4348903
-*  JS Response Bytes: 1664181
+*  JS Response Bytes: 1665432
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 237858

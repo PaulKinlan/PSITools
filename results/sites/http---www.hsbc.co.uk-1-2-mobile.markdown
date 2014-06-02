@@ -26,6 +26,6 @@ title: http://www.hsbc.co.uk/1/2/mobile
 *  Text Response Bytes: 61436
 *  CSS Response Bytes: 376086
 *  Image Response Bytes: 453070
-*  JS Response Bytes: 634205
+*  JS Response Bytes: 634227
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115914

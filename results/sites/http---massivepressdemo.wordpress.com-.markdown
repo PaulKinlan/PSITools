@@ -18,13 +18,13 @@ title: http://massivepressdemo.wordpress.com/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 20
-*  Total Request Bytes: 3268
+*  Total Request Bytes: 3267
 
 ### Response data
 
 *  HTML Response Bytes: 26021
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 150862
+*  CSS Response Bytes: 150866
 *  Image Response Bytes: 1782991
 *  JS Response Bytes: 217643
 *  Flash Response Bytes: 0

@@ -18,14 +18,14 @@ title: http://m.dsw.com/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 9
-*  Total Request Bytes: 5306
+*  Total Request Bytes: 5504
 
 ### Response data
 
-*  HTML Response Bytes: 17028
+*  HTML Response Bytes: 17092
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 153562
 *  Image Response Bytes: 1070866
 *  JS Response Bytes: 138086
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 4836
+*  Other Response Bytes: 4967

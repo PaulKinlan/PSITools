@@ -18,7 +18,7 @@ title: http://www.carview.co.jp/movepage/?u=http%3A%2F%2Fcarview.yahoo.co.jp%2F
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 1229
+*  Total Request Bytes: 1230
 
 ### Response data
 

@@ -18,14 +18,14 @@ title: http://cleanhomedemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 19
-*  Total Request Bytes: 3649
+*  Total Request Bytes: 3731
 
 ### Response data
 
-*  HTML Response Bytes: 54207
+*  HTML Response Bytes: 54328
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 288528
-*  Image Response Bytes: 2609903
-*  JS Response Bytes: 1534052
+*  CSS Response Bytes: 288533
+*  Image Response Bytes: 2609905
+*  JS Response Bytes: 1535241
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

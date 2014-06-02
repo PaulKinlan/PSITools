@@ -18,14 +18,14 @@ title: http://www.pole-emploi.fr/accueil/
 *  Number of JS Resources: 15
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 63
-*  Total Request Bytes: 8971
+*  Total Request Bytes: 8969
 
 ### Response data
 
-*  HTML Response Bytes: 57977
+*  HTML Response Bytes: 57978
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 143268
-*  Image Response Bytes: 273806
+*  Image Response Bytes: 273827
 *  JS Response Bytes: 209905
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2293
+*  Other Response Bytes: 2292

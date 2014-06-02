@@ -13,19 +13,19 @@ title: http://gb.viadeo.com/en/
 
 ### Request information
 
-*  Number of Resources: 37
-*  Number of Hosts: 14
+*  Number of Resources: 35
+*  Number of Hosts: 15
 *  Number of JS Resources: 13
 *  Number of CSS Resources: 2
-*  Nubmer of Static Resources: 27
-*  Total Request Bytes: 5319
+*  Nubmer of Static Resources: 25
+*  Total Request Bytes: 5113
 
 ### Response data
 
-*  HTML Response Bytes: 41574
+*  HTML Response Bytes: 33962
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 146389
-*  Image Response Bytes: 337346
-*  JS Response Bytes: 719766
+*  CSS Response Bytes: 146366
+*  Image Response Bytes: 335755
+*  JS Response Bytes: 728285
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1802
+*  Other Response Bytes: 1804

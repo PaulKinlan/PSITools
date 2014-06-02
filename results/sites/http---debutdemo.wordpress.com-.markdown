@@ -18,14 +18,14 @@ title: http://debutdemo.wordpress.com/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 29
-*  Total Request Bytes: 4878
+*  Total Request Bytes: 4874
 
 ### Response data
 
-*  HTML Response Bytes: 112773
+*  HTML Response Bytes: 112591
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 177856
+*  CSS Response Bytes: 177860
 *  Image Response Bytes: 660811
-*  JS Response Bytes: 399471
+*  JS Response Bytes: 399221
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

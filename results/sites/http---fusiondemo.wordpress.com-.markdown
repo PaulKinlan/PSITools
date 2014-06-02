@@ -18,14 +18,14 @@ title: http://fusiondemo.wordpress.com/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 19
-*  Total Request Bytes: 3066
+*  Total Request Bytes: 3070
 
 ### Response data
 
-*  HTML Response Bytes: 38570
+*  HTML Response Bytes: 38519
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 142337
+*  CSS Response Bytes: 142341
 *  Image Response Bytes: 12961
-*  JS Response Bytes: 559473
+*  JS Response Bytes: 559379
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

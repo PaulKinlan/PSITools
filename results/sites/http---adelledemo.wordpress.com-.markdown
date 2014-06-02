@@ -14,18 +14,18 @@ title: http://adelledemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 52
-*  Number of Hosts: 16
+*  Number of Hosts: 15
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 37
-*  Total Request Bytes: 6114
+*  Total Request Bytes: 6113
 
 ### Response data
 
-*  HTML Response Bytes: 56803
+*  HTML Response Bytes: 56469
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 189746
-*  Image Response Bytes: 1608171
-*  JS Response Bytes: 561128
+*  CSS Response Bytes: 189750
+*  Image Response Bytes: 1585291
+*  JS Response Bytes: 561192
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 235602
+*  Other Response Bytes: 235600

@@ -18,14 +18,14 @@ title: http://staydemo.wordpress.com/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 12
-*  Total Request Bytes: 2941
+*  Total Request Bytes: 2945
 
 ### Response data
 
-*  HTML Response Bytes: 20531
+*  HTML Response Bytes: 20345
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 160516
+*  CSS Response Bytes: 160520
 *  Image Response Bytes: 1429988
 *  JS Response Bytes: 238895
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 64051
+*  Other Response Bytes: 64050

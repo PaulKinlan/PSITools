@@ -18,14 +18,14 @@ title: http://photoliademo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 33
-*  Total Request Bytes: 5545
+*  Total Request Bytes: 5622
 
 ### Response data
 
-*  HTML Response Bytes: 77347
+*  HTML Response Bytes: 77427
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 345433
-*  Image Response Bytes: 1596588
-*  JS Response Bytes: 1539854
+*  CSS Response Bytes: 345472
+*  Image Response Bytes: 1645119
+*  JS Response Bytes: 1540898
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 71437

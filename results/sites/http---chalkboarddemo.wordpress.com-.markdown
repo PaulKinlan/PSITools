@@ -18,14 +18,14 @@ title: http://chalkboarddemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 33
-*  Total Request Bytes: 5476
+*  Total Request Bytes: 5557
 
 ### Response data
 
-*  HTML Response Bytes: 68546
+*  HTML Response Bytes: 68705
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 344675
+*  CSS Response Bytes: 344680
 *  Image Response Bytes: 1807391
-*  JS Response Bytes: 1535313
+*  JS Response Bytes: 1536503
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 168930
+*  Other Response Bytes: 168927

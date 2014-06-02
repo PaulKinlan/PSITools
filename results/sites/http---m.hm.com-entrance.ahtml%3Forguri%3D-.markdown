@@ -26,6 +26,6 @@ title: http://m.hm.com/entrance.ahtml?orguri=/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 506162
 *  Image Response Bytes: 964
-*  JS Response Bytes: 645698
+*  JS Response Bytes: 645729
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1910

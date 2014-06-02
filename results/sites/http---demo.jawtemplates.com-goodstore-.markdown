@@ -18,7 +18,7 @@ title: http://demo.jawtemplates.com/goodstore/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 26
-*  Total Request Bytes: 3949
+*  Total Request Bytes: 3951
 
 ### Response data
 
@@ -26,6 +26,6 @@ title: http://demo.jawtemplates.com/goodstore/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 22645
 *  Image Response Bytes: 664789
-*  JS Response Bytes: 141812
+*  JS Response Bytes: 141813
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 180200
+*  Other Response Bytes: 180199

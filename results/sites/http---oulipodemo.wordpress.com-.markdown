@@ -18,14 +18,14 @@ title: http://oulipodemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 17
-*  Total Request Bytes: 3364
+*  Total Request Bytes: 3445
 
 ### Response data
 
-*  HTML Response Bytes: 47958
+*  HTML Response Bytes: 48126
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 287565
+*  CSS Response Bytes: 287570
 *  Image Response Bytes: 1737896
-*  JS Response Bytes: 1534052
+*  JS Response Bytes: 1535248
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

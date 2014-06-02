@@ -18,14 +18,14 @@ title: http://duetdemo.wordpress.com/
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 39
-*  Total Request Bytes: 6533
+*  Total Request Bytes: 6530
 
 ### Response data
 
-*  HTML Response Bytes: 85382
-*  Text Response Bytes: 1596
-*  CSS Response Bytes: 210321
-*  Image Response Bytes: 1506943
-*  JS Response Bytes: 1301882
+*  HTML Response Bytes: 85619
+*  Text Response Bytes: 1557
+*  CSS Response Bytes: 210583
+*  Image Response Bytes: 1506950
+*  JS Response Bytes: 1302329
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 98524
+*  Other Response Bytes: 98522

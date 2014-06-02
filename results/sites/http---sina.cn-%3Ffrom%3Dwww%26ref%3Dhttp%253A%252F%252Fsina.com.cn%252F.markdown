@@ -24,8 +24,8 @@ title: http://sina.cn/?from=www&ref=http%3A%2F%2Fsina.com.cn%2F
 
 *  HTML Response Bytes: 2296
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 3954
-*  Image Response Bytes: 14773
+*  CSS Response Bytes: 3917
+*  Image Response Bytes: 14771
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 253

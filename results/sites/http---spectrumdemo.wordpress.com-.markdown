@@ -14,18 +14,18 @@ title: http://spectrumdemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 83
-*  Number of Hosts: 14
+*  Number of Hosts: 15
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 77
-*  Total Request Bytes: 9534
+*  Total Request Bytes: 9707
 
 ### Response data
 
-*  HTML Response Bytes: 142185
+*  HTML Response Bytes: 142706
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 303232
-*  Image Response Bytes: 3320411
-*  JS Response Bytes: 1560357
+*  CSS Response Bytes: 303237
+*  Image Response Bytes: 3320430
+*  JS Response Bytes: 1561400
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

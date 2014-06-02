@@ -18,14 +18,14 @@ title: http://www.stepstone.de/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 5
-*  Total Request Bytes: 10723
+*  Total Request Bytes: 11077
 
 ### Response data
 
-*  HTML Response Bytes: 33755
+*  HTML Response Bytes: 33782
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 86181
-*  Image Response Bytes: 97828
-*  JS Response Bytes: 390292
+*  Image Response Bytes: 98074
+*  JS Response Bytes: 390304
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8967

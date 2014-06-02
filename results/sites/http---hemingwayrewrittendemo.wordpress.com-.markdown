@@ -18,14 +18,14 @@ title: http://hemingwayrewrittendemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 34
-*  Total Request Bytes: 6073
+*  Total Request Bytes: 6160
 
 ### Response data
 
-*  HTML Response Bytes: 71265
+*  HTML Response Bytes: 71432
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 357514
-*  Image Response Bytes: 1410838
-*  JS Response Bytes: 1553055
+*  CSS Response Bytes: 357519
+*  Image Response Bytes: 1420912
+*  JS Response Bytes: 1553801
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 125132
+*  Other Response Bytes: 125133

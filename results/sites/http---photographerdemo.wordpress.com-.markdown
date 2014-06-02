@@ -14,18 +14,18 @@ title: http://photographerdemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 34
-*  Number of Hosts: 9
+*  Number of Hosts: 8
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 23
-*  Total Request Bytes: 4387
+*  Total Request Bytes: 4397
 
 ### Response data
 
-*  HTML Response Bytes: 21725
+*  HTML Response Bytes: 21729
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 191128
+*  CSS Response Bytes: 191132
 *  Image Response Bytes: 1759354
 *  JS Response Bytes: 253613
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 121724
+*  Other Response Bytes: 121723

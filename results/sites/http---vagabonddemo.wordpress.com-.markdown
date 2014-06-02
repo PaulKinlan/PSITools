@@ -18,14 +18,14 @@ title: http://vagabonddemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 33
-*  Total Request Bytes: 6318
+*  Total Request Bytes: 6413
 
 ### Response data
 
-*  HTML Response Bytes: 64141
+*  HTML Response Bytes: 64184
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 371956
+*  CSS Response Bytes: 371961
 *  Image Response Bytes: 452433
-*  JS Response Bytes: 1554079
+*  JS Response Bytes: 1555124
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 183185
+*  Other Response Bytes: 183192

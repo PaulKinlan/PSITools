@@ -18,14 +18,14 @@ title: http://reddledemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 28
-*  Total Request Bytes: 4337
+*  Total Request Bytes: 4423
 
 ### Response data
 
-*  HTML Response Bytes: 66630
+*  HTML Response Bytes: 66829
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 342510
-*  Image Response Bytes: 513624
-*  JS Response Bytes: 1549898
+*  CSS Response Bytes: 342515
+*  Image Response Bytes: 513630
+*  JS Response Bytes: 1551091
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

@@ -18,14 +18,14 @@ title: https://www.dropbox.com/m/login
 *  Number of JS Resources: 7
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 9
-*  Total Request Bytes: 1849
+*  Total Request Bytes: 1851
 
 ### Response data
 
-*  HTML Response Bytes: 14050
+*  HTML Response Bytes: 13970
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 308763
-*  Image Response Bytes: 3421
-*  JS Response Bytes: 365723
+*  CSS Response Bytes: 308980
+*  Image Response Bytes: 3420
+*  JS Response Bytes: 366622
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2389
+*  Other Response Bytes: 2391

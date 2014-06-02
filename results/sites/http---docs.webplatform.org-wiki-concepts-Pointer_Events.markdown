@@ -23,9 +23,9 @@ title: http://docs.webplatform.org/wiki/concepts/Pointer_Events
 ### Response data
 
 *  HTML Response Bytes: 220951
-*  Text Response Bytes: 131610
+*  Text Response Bytes: 131604
 *  CSS Response Bytes: 178010
-*  Image Response Bytes: 305511
-*  JS Response Bytes: 1906005
+*  Image Response Bytes: 305517
+*  JS Response Bytes: 1906007
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 124632
+*  Other Response Bytes: 124641

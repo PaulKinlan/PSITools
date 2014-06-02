@@ -25,7 +25,7 @@ title: http://www.wetter.com/mobile.html?referer=/
 *  HTML Response Bytes: 4641
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 8583
+*  Image Response Bytes: 8605
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 199

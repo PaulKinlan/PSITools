@@ -13,19 +13,19 @@ title: http://the7.dream-demo.com/main/
 
 ### Request information
 
-*  Number of Resources: 103
-*  Number of Hosts: 5
-*  Number of JS Resources: 23
+*  Number of Resources: 124
+*  Number of Hosts: 15
+*  Number of JS Resources: 25
 *  Number of CSS Resources: 20
-*  Nubmer of Static Resources: 57
-*  Total Request Bytes: 12959
+*  Nubmer of Static Resources: 59
+*  Total Request Bytes: 17427
 
 ### Response data
 
-*  HTML Response Bytes: 191675
+*  HTML Response Bytes: 192432
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 1090772
-*  Image Response Bytes: 1600151
-*  JS Response Bytes: 1183102
+*  Image Response Bytes: 1603769
+*  JS Response Bytes: 1295310
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 76320
+*  Other Response Bytes: 84882

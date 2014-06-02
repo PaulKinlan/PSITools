@@ -14,18 +14,18 @@ title: http://bexleydemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 26
-*  Number of Hosts: 9
+*  Number of Hosts: 10
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 20
-*  Total Request Bytes: 3556
+*  Total Request Bytes: 3548
 
 ### Response data
 
-*  HTML Response Bytes: 37646
+*  HTML Response Bytes: 37670
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 195687
+*  CSS Response Bytes: 195691
 *  Image Response Bytes: 6260332
-*  JS Response Bytes: 603000
+*  JS Response Bytes: 602910
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 35705
+*  Other Response Bytes: 35704

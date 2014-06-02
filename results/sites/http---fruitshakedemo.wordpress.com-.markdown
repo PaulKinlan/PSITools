@@ -14,18 +14,18 @@ title: http://fruitshakedemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 15
-*  Number of Hosts: 8
+*  Number of Hosts: 7
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 11
-*  Total Request Bytes: 2441
+*  Total Request Bytes: 2442
 
 ### Response data
 
-*  HTML Response Bytes: 29923
+*  HTML Response Bytes: 29929
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 131484
-*  Image Response Bytes: 95893
-*  JS Response Bytes: 560324
+*  CSS Response Bytes: 131488
+*  Image Response Bytes: 95894
+*  JS Response Bytes: 560238
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

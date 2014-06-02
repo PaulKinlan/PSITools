@@ -18,14 +18,14 @@ title: http://blog.jp/lite/
 *  Number of JS Resources: 8
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 19
-*  Total Request Bytes: 3069
+*  Total Request Bytes: 3068
 
 ### Response data
 
-*  HTML Response Bytes: 95305
+*  HTML Response Bytes: 95307
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 115169
 *  Image Response Bytes: 97784
-*  JS Response Bytes: 488338
+*  JS Response Bytes: 488337
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 402

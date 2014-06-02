@@ -18,14 +18,14 @@ title: http://m.kohls.com/kohlsopenapi/indexmobile.html
 *  Number of JS Resources: 32
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 44
-*  Total Request Bytes: 12829
+*  Total Request Bytes: 12922
 
 ### Response data
 
 *  HTML Response Bytes: 28038
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 804354
-*  Image Response Bytes: 124246
-*  JS Response Bytes: 5229700
+*  CSS Response Bytes: 804350
+*  Image Response Bytes: 129057
+*  JS Response Bytes: 5229832
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 8664
+*  Other Response Bytes: 8661

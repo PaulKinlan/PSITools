@@ -18,14 +18,14 @@ title: http://themes.goodlayers.com/?theme=tourpackage
 *  Number of JS Resources: 30
 *  Number of CSS Resources: 20
 *  Nubmer of Static Resources: 64
-*  Total Request Bytes: 14128
+*  Total Request Bytes: 14211
 
 ### Response data
 
-*  HTML Response Bytes: 116156
+*  HTML Response Bytes: 116514
 *  Text Response Bytes: 43858
-*  CSS Response Bytes: 358552
+*  CSS Response Bytes: 358553
 *  Image Response Bytes: 2609511
-*  JS Response Bytes: 1530862
+*  JS Response Bytes: 1531993
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 227272

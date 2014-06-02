@@ -18,14 +18,14 @@ title: http://m.macys.com/
 *  Number of JS Resources: 20
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 31
-*  Total Request Bytes: 7678
+*  Total Request Bytes: 7680
 
 ### Response data
 
-*  HTML Response Bytes: 31406
+*  HTML Response Bytes: 31425
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 748924
 *  Image Response Bytes: 249174
-*  JS Response Bytes: 1293219
+*  JS Response Bytes: 1293232
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 7017
+*  Other Response Bytes: 6964

@@ -18,14 +18,14 @@ title: http://suitsdemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 33
-*  Total Request Bytes: 5172
+*  Total Request Bytes: 5249
 
 ### Response data
 
-*  HTML Response Bytes: 67580
+*  HTML Response Bytes: 67743
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 353718
-*  Image Response Bytes: 586436
-*  JS Response Bytes: 1534888
+*  CSS Response Bytes: 353723
+*  Image Response Bytes: 586264
+*  JS Response Bytes: 1535932
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 105859
+*  Other Response Bytes: 105861

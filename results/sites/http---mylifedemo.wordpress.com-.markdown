@@ -14,18 +14,18 @@ title: http://mylifedemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 36
-*  Number of Hosts: 10
+*  Number of Hosts: 11
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 31
-*  Total Request Bytes: 4673
+*  Total Request Bytes: 4758
 
 ### Response data
 
-*  HTML Response Bytes: 61849
+*  HTML Response Bytes: 62093
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 346762
-*  Image Response Bytes: 306304
-*  JS Response Bytes: 1535731
+*  CSS Response Bytes: 346767
+*  Image Response Bytes: 306311
+*  JS Response Bytes: 1536776
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

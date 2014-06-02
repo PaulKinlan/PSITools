@@ -18,14 +18,14 @@ title: http://bushwickdemo.wordpress.com/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 15
-*  Total Request Bytes: 3290
+*  Total Request Bytes: 3291
 
 ### Response data
 
 *  HTML Response Bytes: 34108
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 185015
+*  CSS Response Bytes: 185019
 *  Image Response Bytes: 355806
-*  JS Response Bytes: 595928
+*  JS Response Bytes: 595835
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 98808
+*  Other Response Bytes: 98809

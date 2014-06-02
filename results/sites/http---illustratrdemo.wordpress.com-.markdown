@@ -18,14 +18,14 @@ title: http://illustratrdemo.wordpress.com/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 9
 *  Nubmer of Static Resources: 25
-*  Total Request Bytes: 5058
+*  Total Request Bytes: 5059
 
 ### Response data
 
 *  HTML Response Bytes: 30653
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 234034
+*  CSS Response Bytes: 234038
 *  Image Response Bytes: 624131
 *  JS Response Bytes: 237164
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 440897
+*  Other Response Bytes: 440879

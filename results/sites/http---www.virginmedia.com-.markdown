@@ -13,19 +13,19 @@ title: http://www.virginmedia.com/
 
 ### Request information
 
-*  Number of Resources: 137
+*  Number of Resources: 136
 *  Number of Hosts: 59
 *  Number of JS Resources: 16
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 45
-*  Total Request Bytes: 31820
+*  Total Request Bytes: 30916
 
 ### Response data
 
-*  HTML Response Bytes: 48418
+*  HTML Response Bytes: 48417
 *  Text Response Bytes: 44765
 *  CSS Response Bytes: 109041
-*  Image Response Bytes: 421355
-*  JS Response Bytes: 281887
+*  Image Response Bytes: 420790
+*  JS Response Bytes: 281869
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 28238
+*  Other Response Bytes: 27642

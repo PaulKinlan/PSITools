@@ -18,14 +18,14 @@ title: https://login.yahoo.com/m?.src=my&.intl=us&.done=https%3A%2F%2Fmy.yahoo.c
 *  Number of JS Resources: 44
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 45
-*  Total Request Bytes: 6168
+*  Total Request Bytes: 6160
 
 ### Response data
 
 *  HTML Response Bytes: 4661
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 23685
-*  Image Response Bytes: 42453
+*  Image Response Bytes: 42454
 *  JS Response Bytes: 261673
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2621
+*  Other Response Bytes: 2623

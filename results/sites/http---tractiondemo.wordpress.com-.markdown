@@ -18,13 +18,13 @@ title: http://tractiondemo.wordpress.com/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 37
-*  Total Request Bytes: 4615
+*  Total Request Bytes: 4618
 
 ### Response data
 
-*  HTML Response Bytes: 34248
+*  HTML Response Bytes: 34220
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 97549
+*  CSS Response Bytes: 97553
 *  Image Response Bytes: 603521
 *  JS Response Bytes: 178718
 *  Flash Response Bytes: 0

@@ -24,8 +24,8 @@ title: http://mobile.pagesjaunes.fr/
 
 *  HTML Response Bytes: 28367
 *  Text Response Bytes: 114239
-*  CSS Response Bytes: 38386
-*  Image Response Bytes: 77653
-*  JS Response Bytes: 112941
+*  CSS Response Bytes: 38385
+*  Image Response Bytes: 77650
+*  JS Response Bytes: 112939
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1417
+*  Other Response Bytes: 1416

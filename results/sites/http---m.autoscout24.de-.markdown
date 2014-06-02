@@ -18,14 +18,14 @@ title: http://m.autoscout24.de/
 *  Number of JS Resources: 12
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 22
-*  Total Request Bytes: 8151
+*  Total Request Bytes: 8167
 
 ### Response data
 
-*  HTML Response Bytes: 11422
+*  HTML Response Bytes: 11440
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 99078
+*  CSS Response Bytes: 99077
 *  Image Response Bytes: 39080
-*  JS Response Bytes: 590006
+*  JS Response Bytes: 590202
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4723

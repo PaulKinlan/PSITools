@@ -18,14 +18,14 @@ title: https://www.google.co.th/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 3232
+*  Total Request Bytes: 3273
 
 ### Response data
 
-*  HTML Response Bytes: 76848
+*  HTML Response Bytes: 76930
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 78852
+*  Image Response Bytes: 78853
 *  JS Response Bytes: 428184
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1730

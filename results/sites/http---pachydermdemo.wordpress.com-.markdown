@@ -18,14 +18,14 @@ title: http://pachydermdemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 8
 *  Nubmer of Static Resources: 29
-*  Total Request Bytes: 5324
+*  Total Request Bytes: 5412
 
 ### Response data
 
-*  HTML Response Bytes: 70009
+*  HTML Response Bytes: 70275
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 355354
-*  Image Response Bytes: 308794
-*  JS Response Bytes: 1536017
+*  CSS Response Bytes: 355359
+*  Image Response Bytes: 308795
+*  JS Response Bytes: 1537059
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 90287
+*  Other Response Bytes: 90277

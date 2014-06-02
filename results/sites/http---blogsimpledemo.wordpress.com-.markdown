@@ -14,7 +14,7 @@ title: http://blogsimpledemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 25
-*  Number of Hosts: 9
+*  Number of Hosts: 8
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 19
@@ -22,10 +22,10 @@ title: http://blogsimpledemo.wordpress.com/
 
 ### Response data
 
-*  HTML Response Bytes: 40877
+*  HTML Response Bytes: 40833
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 193931
+*  CSS Response Bytes: 193935
 *  Image Response Bytes: 9427
-*  JS Response Bytes: 560717
+*  JS Response Bytes: 560635
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48808

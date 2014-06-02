@@ -22,10 +22,10 @@ title: http://mobile.yoox.com/us/women
 
 ### Response data
 
-*  HTML Response Bytes: 63856
+*  HTML Response Bytes: 63674
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 75516
-*  Image Response Bytes: 349129
-*  JS Response Bytes: 516709
+*  Image Response Bytes: 348770
+*  JS Response Bytes: 516512
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2494

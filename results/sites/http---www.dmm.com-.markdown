@@ -18,14 +18,14 @@ title: http://www.dmm.com/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 39
-*  Total Request Bytes: 4628
+*  Total Request Bytes: 4627
 
 ### Response data
 
-*  HTML Response Bytes: 59156
+*  HTML Response Bytes: 59168
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 147880
-*  Image Response Bytes: 341614
-*  JS Response Bytes: 159600
+*  Image Response Bytes: 341613
+*  JS Response Bytes: 159760
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5242

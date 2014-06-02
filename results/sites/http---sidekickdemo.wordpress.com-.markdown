@@ -18,14 +18,14 @@ title: http://sidekickdemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 20
-*  Total Request Bytes: 3744
+*  Total Request Bytes: 3829
 
 ### Response data
 
-*  HTML Response Bytes: 55551
+*  HTML Response Bytes: 55597
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 341239
+*  CSS Response Bytes: 341244
 *  Image Response Bytes: 1384150
-*  JS Response Bytes: 1536043
+*  JS Response Bytes: 1537087
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 17714
+*  Other Response Bytes: 17713

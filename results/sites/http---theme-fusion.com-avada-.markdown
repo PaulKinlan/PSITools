@@ -18,14 +18,14 @@ title: http://theme-fusion.com/avada/
 *  Number of JS Resources: 21
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 83
-*  Total Request Bytes: 10825
+*  Total Request Bytes: 10826
 
 ### Response data
 
-*  HTML Response Bytes: 316472
+*  HTML Response Bytes: 315865
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 405189
-*  Image Response Bytes: 882768
-*  JS Response Bytes: 1032106
+*  CSS Response Bytes: 405187
+*  Image Response Bytes: 882710
+*  JS Response Bytes: 1032105
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 545524
+*  Other Response Bytes: 545522

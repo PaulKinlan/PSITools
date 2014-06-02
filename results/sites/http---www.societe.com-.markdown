@@ -15,7 +15,7 @@ title: http://www.societe.com/
 
 *  Number of Resources: 13
 *  Number of Hosts: 7
-*  Number of JS Resources: 5
+*  Number of JS Resources: 4
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 8
 *  Total Request Bytes: 1593
@@ -25,7 +25,7 @@ title: http://www.societe.com/
 *  HTML Response Bytes: 5139
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 14508
-*  JS Response Bytes: 44907
+*  Image Response Bytes: 14763
+*  JS Response Bytes: 44676
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 44507
+*  Other Response Bytes: 44506

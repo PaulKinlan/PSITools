@@ -18,14 +18,14 @@ title: http://www.hotpepper.jp/
 *  Number of JS Resources: 32
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 54
-*  Total Request Bytes: 10619
+*  Total Request Bytes: 10618
 
 ### Response data
 
 *  HTML Response Bytes: 25734
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 48661
-*  Image Response Bytes: 238607
-*  JS Response Bytes: 458834
+*  CSS Response Bytes: 48699
+*  Image Response Bytes: 238634
+*  JS Response Bytes: 458877
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5879

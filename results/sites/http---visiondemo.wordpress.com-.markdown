@@ -14,18 +14,18 @@ title: http://visiondemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 35
-*  Number of Hosts: 12
+*  Number of Hosts: 11
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 29
-*  Total Request Bytes: 4476
+*  Total Request Bytes: 4473
 
 ### Response data
 
-*  HTML Response Bytes: 40173
+*  HTML Response Bytes: 40354
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 200650
-*  Image Response Bytes: 922867
-*  JS Response Bytes: 607080
+*  CSS Response Bytes: 200654
+*  Image Response Bytes: 926698
+*  JS Response Bytes: 607144
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 47708
+*  Other Response Bytes: 47710

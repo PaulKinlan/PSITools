@@ -17,15 +17,15 @@ title: http://www.abebooks.com/
 *  Number of Hosts: 8
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 5
-*  Nubmer of Static Resources: 20
+*  Nubmer of Static Resources: 24
 *  Total Request Bytes: 5124
 
 ### Response data
 
-*  HTML Response Bytes: 44664
+*  HTML Response Bytes: 44662
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 68660
-*  Image Response Bytes: 170039
-*  JS Response Bytes: 179750
+*  CSS Response Bytes: 68357
+*  Image Response Bytes: 170045
+*  JS Response Bytes: 179761
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4262

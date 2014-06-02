@@ -18,14 +18,14 @@ title: https://www.google.co.uk/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 3208
+*  Total Request Bytes: 3213
 
 ### Response data
 
-*  HTML Response Bytes: 76335
+*  HTML Response Bytes: 76345
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 78852
-*  JS Response Bytes: 430366
+*  Image Response Bytes: 78853
+*  JS Response Bytes: 430368
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1730

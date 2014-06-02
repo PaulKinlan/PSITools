@@ -18,7 +18,7 @@ title: http://demo.deliciousthemes.com/patti/
 *  Number of JS Resources: 40
 *  Number of CSS Resources: 11
 *  Nubmer of Static Resources: 44
-*  Total Request Bytes: 11009
+*  Total Request Bytes: 11010
 
 ### Response data
 

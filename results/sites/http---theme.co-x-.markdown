@@ -13,19 +13,19 @@ title: http://theme.co/x/
 
 ### Request information
 
-*  Number of Resources: 125
-*  Number of Hosts: 13
+*  Number of Resources: 133
+*  Number of Hosts: 14
 *  Number of JS Resources: 29
 *  Number of CSS Resources: 12
-*  Nubmer of Static Resources: 107
-*  Total Request Bytes: 10480
+*  Nubmer of Static Resources: 114
+*  Total Request Bytes: 11047
 
 ### Response data
 
-*  HTML Response Bytes: 92976
-*  Text Response Bytes: 1596
-*  CSS Response Bytes: 277311
-*  Image Response Bytes: 1890762
-*  JS Response Bytes: 1036672
+*  HTML Response Bytes: 94273
+*  Text Response Bytes: 1557
+*  CSS Response Bytes: 279025
+*  Image Response Bytes: 2243902
+*  JS Response Bytes: 1046231
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 207230
+*  Other Response Bytes: 208015

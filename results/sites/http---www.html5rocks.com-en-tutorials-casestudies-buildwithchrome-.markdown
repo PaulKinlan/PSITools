@@ -18,14 +18,14 @@ title: http://www.html5rocks.com/en/tutorials/casestudies/buildwithchrome/
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 11
-*  Total Request Bytes: 2292
+*  Total Request Bytes: 2291
 
 ### Response data
 
 *  HTML Response Bytes: 45441
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 54381
-*  Image Response Bytes: 1847924
+*  CSS Response Bytes: 54382
+*  Image Response Bytes: 1847914
 *  JS Response Bytes: 71975
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 78589

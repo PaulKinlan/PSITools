@@ -18,14 +18,14 @@ title: http://littlestorydemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 30
-*  Total Request Bytes: 5235
+*  Total Request Bytes: 5325
 
 ### Response data
 
-*  HTML Response Bytes: 73853
+*  HTML Response Bytes: 73921
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 358682
-*  Image Response Bytes: 958147
-*  JS Response Bytes: 1536753
+*  CSS Response Bytes: 358687
+*  Image Response Bytes: 958148
+*  JS Response Bytes: 1537791
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 64666
+*  Other Response Bytes: 64648

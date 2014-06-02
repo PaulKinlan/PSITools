@@ -18,14 +18,14 @@ title: http://www.immobilienscout24.de/m/search/
 *  Number of JS Resources: 7
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 9
-*  Total Request Bytes: 5181
+*  Total Request Bytes: 5194
 
 ### Response data
 
-*  HTML Response Bytes: 175051
+*  HTML Response Bytes: 175068
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 52013
-*  Image Response Bytes: 14877
-*  JS Response Bytes: 247785
+*  Image Response Bytes: 14875
+*  JS Response Bytes: 247790
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 5277
+*  Other Response Bytes: 5278

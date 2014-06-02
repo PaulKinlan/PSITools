@@ -18,14 +18,14 @@ title: http://sightdemo.wordpress.com/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 30
-*  Total Request Bytes: 4542
+*  Total Request Bytes: 4540
 
 ### Response data
 
-*  HTML Response Bytes: 65368
+*  HTML Response Bytes: 65316
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 184442
-*  Image Response Bytes: 1312968
-*  JS Response Bytes: 612833
+*  CSS Response Bytes: 184446
+*  Image Response Bytes: 1312967
+*  JS Response Bytes: 612899
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 40126
+*  Other Response Bytes: 40127

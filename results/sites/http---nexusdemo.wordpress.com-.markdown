@@ -18,14 +18,14 @@ title: http://nexusdemo.wordpress.com/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 36
-*  Total Request Bytes: 5179
+*  Total Request Bytes: 5180
 
 ### Response data
 
 *  HTML Response Bytes: 52321
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 207562
+*  CSS Response Bytes: 207566
 *  Image Response Bytes: 1118445
-*  JS Response Bytes: 563675
+*  JS Response Bytes: 563727
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 115109
+*  Other Response Bytes: 115108

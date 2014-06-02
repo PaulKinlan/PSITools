@@ -14,17 +14,17 @@ title: http://organizationdemo.wordpress.com/
 ### Request information
 
 *  Number of Resources: 38
-*  Number of Hosts: 10
+*  Number of Hosts: 9
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 26
-*  Total Request Bytes: 5070
+*  Total Request Bytes: 5068
 
 ### Response data
 
-*  HTML Response Bytes: 41587
+*  HTML Response Bytes: 41643
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 193481
+*  CSS Response Bytes: 193485
 *  Image Response Bytes: 2375706
 *  JS Response Bytes: 272965
 *  Flash Response Bytes: 0

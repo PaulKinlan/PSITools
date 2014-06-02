@@ -13,19 +13,19 @@ title: http://www.about.com/
 
 ### Request information
 
-*  Number of Resources: 43
+*  Number of Resources: 44
 *  Number of Hosts: 14
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 2
-*  Nubmer of Static Resources: 32
-*  Total Request Bytes: 3654
+*  Nubmer of Static Resources: 33
+*  Total Request Bytes: 3725
 
 ### Response data
 
-*  HTML Response Bytes: 164029
+*  HTML Response Bytes: 164343
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 37343
-*  Image Response Bytes: 354737
-*  JS Response Bytes: 517734
+*  Image Response Bytes: 380694
+*  JS Response Bytes: 518245
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 36081
+*  Other Response Bytes: 36080

@@ -28,4 +28,4 @@ title: http://www.novarostudio.com/demo-splash/flip/
 *  Image Response Bytes: 1003244
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 29768
+*  Other Response Bytes: 29769

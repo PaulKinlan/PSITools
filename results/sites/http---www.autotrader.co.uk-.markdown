@@ -18,14 +18,14 @@ title: http://www.autotrader.co.uk/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 16
-*  Total Request Bytes: 5637
+*  Total Request Bytes: 5919
 
 ### Response data
 
-*  HTML Response Bytes: 40257
+*  HTML Response Bytes: 40215
 *  Text Response Bytes: 442
-*  CSS Response Bytes: 170752
-*  Image Response Bytes: 146042
-*  JS Response Bytes: 210063
+*  CSS Response Bytes: 170929
+*  Image Response Bytes: 146041
+*  JS Response Bytes: 210240
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2007
+*  Other Response Bytes: 1947

@@ -18,14 +18,14 @@ title: http://www.kasikornbankgroup.com/TH/Pages/Welcomehtml.aspx
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 1
-*  Total Request Bytes: 4853
+*  Total Request Bytes: 4461
 
 ### Response data
 
 *  HTML Response Bytes: 40732
 *  Text Response Bytes: 20319
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 265552
+*  Image Response Bytes: 265398
 *  JS Response Bytes: 132823
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 33722
+*  Other Response Bytes: 29191

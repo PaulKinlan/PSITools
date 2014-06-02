@@ -14,18 +14,18 @@ title: http://m.homedepot.com/
 ### Request information
 
 *  Number of Resources: 42
-*  Number of Hosts: 8
-*  Number of JS Resources: 8
+*  Number of Hosts: 9
+*  Number of JS Resources: 9
 *  Number of CSS Resources: 2
-*  Nubmer of Static Resources: 32
-*  Total Request Bytes: 9044
+*  Nubmer of Static Resources: 31
+*  Total Request Bytes: 9198
 
 ### Response data
 
-*  HTML Response Bytes: 28327
+*  HTML Response Bytes: 28357
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 68275
-*  Image Response Bytes: 539922
-*  JS Response Bytes: 603720
+*  Image Response Bytes: 499806
+*  JS Response Bytes: 615965
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2036
+*  Other Response Bytes: 2258

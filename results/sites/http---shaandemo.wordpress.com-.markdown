@@ -18,14 +18,14 @@ title: http://shaandemo.wordpress.com/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 2366
+*  Total Request Bytes: 2357
 
 ### Response data
 
-*  HTML Response Bytes: 29680
+*  HTML Response Bytes: 29676
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 179277
-*  Image Response Bytes: 70680
-*  JS Response Bytes: 560329
+*  CSS Response Bytes: 179281
+*  Image Response Bytes: 70681
+*  JS Response Bytes: 560235
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

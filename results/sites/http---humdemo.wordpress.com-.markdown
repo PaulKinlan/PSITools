@@ -18,14 +18,14 @@ title: http://humdemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 18
-*  Total Request Bytes: 3334
+*  Total Request Bytes: 3420
 
 ### Response data
 
-*  HTML Response Bytes: 53234
+*  HTML Response Bytes: 53107
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 378179
+*  CSS Response Bytes: 378184
 *  Image Response Bytes: 127977
-*  JS Response Bytes: 1534201
+*  JS Response Bytes: 1535247
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

@@ -25,7 +25,7 @@ title: http://theme-sphere.com/smart-mag/
 *  HTML Response Bytes: 106885
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 128794
-*  Image Response Bytes: 865084
+*  Image Response Bytes: 865086
 *  JS Response Bytes: 213075
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 63280
+*  Other Response Bytes: 63279

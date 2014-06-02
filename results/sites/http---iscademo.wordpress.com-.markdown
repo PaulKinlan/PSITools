@@ -18,14 +18,14 @@ title: http://iscademo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 32
-*  Total Request Bytes: 4911
+*  Total Request Bytes: 4999
 
 ### Response data
 
-*  HTML Response Bytes: 68434
+*  HTML Response Bytes: 68738
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 349114
-*  Image Response Bytes: 389669
-*  JS Response Bytes: 1572056
+*  CSS Response Bytes: 349119
+*  Image Response Bytes: 389670
+*  JS Response Bytes: 1573254
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 36782

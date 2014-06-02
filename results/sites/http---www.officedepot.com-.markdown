@@ -18,14 +18,14 @@ title: http://www.officedepot.com/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 3021
+*  Total Request Bytes: 3028
 
 ### Response data
 
-*  HTML Response Bytes: 171943
+*  HTML Response Bytes: 171961
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 67315
-*  JS Response Bytes: 17958
+*  Image Response Bytes: 66815
+*  JS Response Bytes: 17957
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1032

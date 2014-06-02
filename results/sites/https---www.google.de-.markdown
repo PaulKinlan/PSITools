@@ -18,11 +18,11 @@ title: https://www.google.de/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 3223
+*  Total Request Bytes: 3181
 
 ### Response data
 
-*  HTML Response Bytes: 76257
+*  HTML Response Bytes: 76169
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 78853

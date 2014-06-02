@@ -13,19 +13,19 @@ title: http://www.strato.de/
 
 ### Request information
 
-*  Number of Resources: 76
+*  Number of Resources: 71
 *  Number of Hosts: 24
 *  Number of JS Resources: 31
 *  Number of CSS Resources: 3
-*  Nubmer of Static Resources: 45
-*  Total Request Bytes: 12785
+*  Nubmer of Static Resources: 40
+*  Total Request Bytes: 12303
 
 ### Response data
 
-*  HTML Response Bytes: 71554
+*  HTML Response Bytes: 72095
 *  Text Response Bytes: 459
-*  CSS Response Bytes: 548347
-*  Image Response Bytes: 424020
-*  JS Response Bytes: 502538
+*  CSS Response Bytes: 550058
+*  Image Response Bytes: 287216
+*  JS Response Bytes: 503544
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 4045
+*  Other Response Bytes: 4063

@@ -18,14 +18,14 @@ title: https://developer.chrome.com/devtools/docs/dom-and-styles
 *  Number of JS Resources: 19
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 18
-*  Total Request Bytes: 9797
+*  Total Request Bytes: 9798
 
 ### Response data
 
-*  HTML Response Bytes: 207523
+*  HTML Response Bytes: 207524
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 98737
-*  Image Response Bytes: 2592336
-*  JS Response Bytes: 987644
+*  CSS Response Bytes: 98736
+*  Image Response Bytes: 2592343
+*  JS Response Bytes: 990001
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141766

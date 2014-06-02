@@ -18,14 +18,14 @@ title: http://www.overstock.com/
 *  Number of JS Resources: 7
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 27
-*  Total Request Bytes: 6238
+*  Total Request Bytes: 6507
 
 ### Response data
 
-*  HTML Response Bytes: 22886
+*  HTML Response Bytes: 22887
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 56659
 *  Image Response Bytes: 918271
 *  JS Response Bytes: 604831
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1608
+*  Other Response Bytes: 2045

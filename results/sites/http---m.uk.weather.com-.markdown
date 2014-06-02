@@ -18,14 +18,14 @@ title: http://m.uk.weather.com/
 *  Number of JS Resources: 20
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 19
-*  Total Request Bytes: 4456
+*  Total Request Bytes: 4660
 
 ### Response data
 
-*  HTML Response Bytes: 103131
+*  HTML Response Bytes: 103278
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 21151
-*  JS Response Bytes: 341628
+*  Image Response Bytes: 21183
+*  JS Response Bytes: 342221
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 3700
+*  Other Response Bytes: 3706

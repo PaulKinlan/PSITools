@@ -18,14 +18,14 @@ title: http://www.lloydsbank.com/M/default.asp
 *  Number of JS Resources: 22
 *  Number of CSS Resources: 8
 *  Nubmer of Static Resources: 42
-*  Total Request Bytes: 9950
+*  Total Request Bytes: 9298
 
 ### Response data
 
 *  HTML Response Bytes: 19781
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 201557
-*  Image Response Bytes: 138350
-*  JS Response Bytes: 542952
+*  CSS Response Bytes: 201221
+*  Image Response Bytes: 138328
+*  JS Response Bytes: 542663
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 99883
+*  Other Response Bytes: 99822

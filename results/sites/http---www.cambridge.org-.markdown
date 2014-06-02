@@ -18,14 +18,14 @@ title: http://www.cambridge.org/
 *  Number of JS Resources: 17
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 49
-*  Total Request Bytes: 11272
+*  Total Request Bytes: 10908
 
 ### Response data
 
-*  HTML Response Bytes: 227079
-*  Text Response Bytes: 305
-*  CSS Response Bytes: 241154
-*  Image Response Bytes: 627198
-*  JS Response Bytes: 1342409
+*  HTML Response Bytes: 227028
+*  Text Response Bytes: 303
+*  CSS Response Bytes: 218582
+*  Image Response Bytes: 663936
+*  JS Response Bytes: 1342499
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 18423
+*  Other Response Bytes: 18415

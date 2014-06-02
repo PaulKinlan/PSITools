@@ -18,14 +18,14 @@ title: http://m.futureshop.ca/?lang=en
 *  Number of JS Resources: 28
 *  Number of CSS Resources: 9
 *  Nubmer of Static Resources: 46
-*  Total Request Bytes: 8989
+*  Total Request Bytes: 8004
 
 ### Response data
 
-*  HTML Response Bytes: 34358
+*  HTML Response Bytes: 33452
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 199009
 *  Image Response Bytes: 259537
-*  JS Response Bytes: 674548
+*  JS Response Bytes: 674517
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 13916
+*  Other Response Bytes: 13854

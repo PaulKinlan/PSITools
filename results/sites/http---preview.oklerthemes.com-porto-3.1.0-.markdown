@@ -18,14 +18,14 @@ title: http://preview.oklerthemes.com/porto/3.1.0/
 *  Number of JS Resources: 28
 *  Number of CSS Resources: 20
 *  Nubmer of Static Resources: 83
-*  Total Request Bytes: 8947
+*  Total Request Bytes: 8949
 
 ### Response data
 
-*  HTML Response Bytes: 41776
+*  HTML Response Bytes: 41916
 *  Text Response Bytes: 53620
 *  CSS Response Bytes: 361970
 *  Image Response Bytes: 1262955
 *  JS Response Bytes: 986555
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 104937
+*  Other Response Bytes: 104936

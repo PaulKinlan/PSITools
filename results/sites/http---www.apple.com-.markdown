@@ -18,14 +18,14 @@ title: http://www.apple.com/
 *  Number of JS Resources: 14
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 49
-*  Total Request Bytes: 6903
+*  Total Request Bytes: 6901
 
 ### Response data
 
-*  HTML Response Bytes: 13683
+*  HTML Response Bytes: 13677
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 90851
-*  Image Response Bytes: 1143222
-*  JS Response Bytes: 534564
+*  CSS Response Bytes: 90835
+*  Image Response Bytes: 1143239
+*  JS Response Bytes: 534526
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1353

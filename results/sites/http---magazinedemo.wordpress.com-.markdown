@@ -18,14 +18,14 @@ title: http://magazinedemo.wordpress.com/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 2350
+*  Total Request Bytes: 2351
 
 ### Response data
 
-*  HTML Response Bytes: 40077
+*  HTML Response Bytes: 40049
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 179277
+*  CSS Response Bytes: 179281
 *  Image Response Bytes: 21797
-*  JS Response Bytes: 560320
+*  JS Response Bytes: 560240
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

@@ -18,14 +18,14 @@ title: http://optidemo.wordpress.com/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 23
-*  Total Request Bytes: 3655
+*  Total Request Bytes: 3654
 
 ### Response data
 
-*  HTML Response Bytes: 49337
+*  HTML Response Bytes: 49365
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 180880
+*  CSS Response Bytes: 180884
 *  Image Response Bytes: 158471
-*  JS Response Bytes: 600337
+*  JS Response Bytes: 600396
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17959

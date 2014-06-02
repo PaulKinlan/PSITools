@@ -18,14 +18,14 @@ title: http://www.zappos.com/zappos-interstitial/public/iphone.html?redirectTo=h
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 2612
+*  Total Request Bytes: 2603
 
 ### Response data
 
-*  HTML Response Bytes: 15671
+*  HTML Response Bytes: 15440
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 134527
+*  Image Response Bytes: 134482
 *  JS Response Bytes: 120578
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 825

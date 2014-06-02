@@ -18,14 +18,14 @@ title: http://www.cargurus.com/
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 17
-*  Total Request Bytes: 2719
+*  Total Request Bytes: 2714
 
 ### Response data
 
-*  HTML Response Bytes: 8666
+*  HTML Response Bytes: 8658
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 168509
 *  Image Response Bytes: 31235
 *  JS Response Bytes: 849366
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1091
+*  Other Response Bytes: 1093

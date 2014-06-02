@@ -28,4 +28,4 @@ title: http://iarouse.com/admin-square/dist-v1.2/index.html#/dashboard
 *  Image Response Bytes: 34123
 *  JS Response Bytes: 1147448
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 103560
+*  Other Response Bytes: 103559

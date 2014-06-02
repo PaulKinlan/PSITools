@@ -18,14 +18,14 @@ title: http://fontfoliodemo.wordpress.com/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 20
-*  Total Request Bytes: 3665
+*  Total Request Bytes: 3672
 
 ### Response data
 
-*  HTML Response Bytes: 31822
+*  HTML Response Bytes: 31826
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 202208
+*  CSS Response Bytes: 202212
 *  Image Response Bytes: 365506
-*  JS Response Bytes: 560730
+*  JS Response Bytes: 560946
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31022

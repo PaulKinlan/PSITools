@@ -18,14 +18,14 @@ title: http://syntaxdemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 27
-*  Total Request Bytes: 5309
+*  Total Request Bytes: 5388
 
 ### Response data
 
-*  HTML Response Bytes: 64503
+*  HTML Response Bytes: 64620
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 371030
-*  Image Response Bytes: 1739487
-*  JS Response Bytes: 1551484
+*  CSS Response Bytes: 371035
+*  Image Response Bytes: 1739489
+*  JS Response Bytes: 1552533
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 127514
+*  Other Response Bytes: 127512

@@ -18,14 +18,14 @@ title: http://sixteenninedemo.wordpress.com/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 2764
+*  Total Request Bytes: 2771
 
 ### Response data
 
-*  HTML Response Bytes: 29926
+*  HTML Response Bytes: 29930
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 176439
+*  CSS Response Bytes: 176443
 *  Image Response Bytes: 527426
 *  JS Response Bytes: 180609
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 83452
+*  Other Response Bytes: 83453

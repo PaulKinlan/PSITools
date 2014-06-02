@@ -18,14 +18,14 @@ title: http://babylogdemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 23
-*  Total Request Bytes: 4112
+*  Total Request Bytes: 4201
 
 ### Response data
 
-*  HTML Response Bytes: 63723
+*  HTML Response Bytes: 63883
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 341884
+*  CSS Response Bytes: 341889
 *  Image Response Bytes: 302161
-*  JS Response Bytes: 1535463
+*  JS Response Bytes: 1536508
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46110

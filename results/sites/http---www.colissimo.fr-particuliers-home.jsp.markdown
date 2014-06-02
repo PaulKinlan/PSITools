@@ -18,14 +18,14 @@ title: http://www.colissimo.fr/particuliers/home.jsp
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 9
 *  Nubmer of Static Resources: 60
-*  Total Request Bytes: 5875
+*  Total Request Bytes: 5872
 
 ### Response data
 
 *  HTML Response Bytes: 28232
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 109699
-*  Image Response Bytes: 288432
-*  JS Response Bytes: 284634
+*  CSS Response Bytes: 109702
+*  Image Response Bytes: 288435
+*  JS Response Bytes: 284635
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2675
+*  Other Response Bytes: 2674

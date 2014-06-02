@@ -18,14 +18,14 @@ title: http://www.tripadvisor.com/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 11
-*  Total Request Bytes: 4192
+*  Total Request Bytes: 4184
 
 ### Response data
 
-*  HTML Response Bytes: 86271
+*  HTML Response Bytes: 86262
 *  Text Response Bytes: 221
 *  CSS Response Bytes: 747288
-*  Image Response Bytes: 1069950
+*  Image Response Bytes: 1069951
 *  JS Response Bytes: 463190
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1488
+*  Other Response Bytes: 1487

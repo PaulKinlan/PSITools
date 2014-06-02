@@ -18,14 +18,14 @@ title: http://chateaudemo.wordpress.com/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 14
-*  Total Request Bytes: 2755
+*  Total Request Bytes: 2839
 
 ### Response data
 
-*  HTML Response Bytes: 56135
+*  HTML Response Bytes: 56153
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 324364
+*  CSS Response Bytes: 324369
 *  Image Response Bytes: 208630
-*  JS Response Bytes: 1142306
+*  JS Response Bytes: 1143437
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

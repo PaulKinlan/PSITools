@@ -22,10 +22,10 @@ title: http://m.imgur.com/
 
 ### Response data
 
-*  HTML Response Bytes: 59869
+*  HTML Response Bytes: 59875
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 60606
+*  CSS Response Bytes: 60632
 *  Image Response Bytes: 36351
-*  JS Response Bytes: 675591
+*  JS Response Bytes: 675595
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 235
+*  Other Response Bytes: 233

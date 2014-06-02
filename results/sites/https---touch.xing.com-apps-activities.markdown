@@ -18,14 +18,14 @@ title: https://touch.xing.com/apps/activities
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 1384
+*  Total Request Bytes: 1451
 
 ### Response data
 
-*  HTML Response Bytes: 5184
+*  HTML Response Bytes: 5183
 *  Text Response Bytes: 5517
-*  CSS Response Bytes: 15768
+*  CSS Response Bytes: 15802
 *  Image Response Bytes: 64608
-*  JS Response Bytes: 100907
+*  JS Response Bytes: 100941
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2370

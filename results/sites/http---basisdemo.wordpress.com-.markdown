@@ -18,14 +18,14 @@ title: http://basisdemo.wordpress.com/
 *  Number of JS Resources: 7
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 23
-*  Total Request Bytes: 4533
+*  Total Request Bytes: 4537
 
 ### Response data
 
-*  HTML Response Bytes: 52562
-*  Text Response Bytes: 1596
-*  CSS Response Bytes: 210673
-*  Image Response Bytes: 4573895
-*  JS Response Bytes: 906543
+*  HTML Response Bytes: 52778
+*  Text Response Bytes: 1557
+*  CSS Response Bytes: 210676
+*  Image Response Bytes: 4573894
+*  JS Response Bytes: 906598
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13966

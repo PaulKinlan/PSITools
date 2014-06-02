@@ -18,14 +18,14 @@ title: http://runolitedemo.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 18
-*  Total Request Bytes: 3976
+*  Total Request Bytes: 4062
 
 ### Response data
 
-*  HTML Response Bytes: 58788
+*  HTML Response Bytes: 58760
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 341767
-*  Image Response Bytes: 122097
-*  JS Response Bytes: 1535503
+*  CSS Response Bytes: 341772
+*  Image Response Bytes: 122098
+*  JS Response Bytes: 1536700
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 99851
+*  Other Response Bytes: 99837
