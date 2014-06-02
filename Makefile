@@ -6,6 +6,18 @@ cleanresults:
 	rm -f results/*.markdown
 	rm -f results/sites/*.markdown
 
+# South Korean Top 100
+output/south-korean-top-100:
+	./run.py source/south-korean-top-100 > output/south-korean-top-100
+
+south-korean-top-100.tmp: output/south-korean-top-100
+	./generate-table.py ./output/south-korean-top-100 > south-korean-top-100.tmp 
+	./generate-page-result.py ./output/south-korean-top-100
+
+results/south-korean-top-100.markdown: south-korean-top-100.tmp generate-table.py
+	cat _frontmatter/south-korean-top-100 south-korean-top-100.tmp > results/south-korean-top-100.markdown
+	rm -f south-korean-top-100.tmp
+
 # Thai Top 100
 output/thai-top-100:
 	./run.py source/thai-top-100 > output/thai-top-100
@@ -140,7 +152,7 @@ results/wordpress.markdown: wordpress.tmp generate-table.py
 
 # Main process
 
-mergepsi: results/shopping.markdown results/thai-top-100.markdown results/german-top-100.markdown results/uk-top-100.markdown results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
+mergepsi: results/south-korean-top-100.markdown results/shopping.markdown results/thai-top-100.markdown results/german-top-100.markdown results/uk-top-100.markdown results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
 
 build: mergepsi
 
