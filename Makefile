@@ -7,6 +7,18 @@ cleanresults:
 	rm -f results/sites/*.markdown
 
 # Sports 
+output/computers:
+	./run.py source/computers > output/computers
+
+computers.tmp: output/computers
+	./generate-table.py ./output/computers > computers.tmp 
+	./generate-page-result.py ./output/computers
+
+results/computers.markdown: computers.tmp generate-table.py
+	cat _frontmatter/computers computers.tmp > results/computers.markdown
+	rm -f computers.tmp
+
+# Sports 
 output/sports:
 	./run.py source/sports > output/sports
 
@@ -164,7 +176,7 @@ results/wordpress.markdown: wordpress.tmp generate-table.py
 
 # Main process
 
-mergepsi: results/sports.markdown results/south-korean-top-100.markdown results/shopping.markdown results/thai-top-100.markdown results/german-top-100.markdown results/uk-top-100.markdown results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
+mergepsi: results/computers.markdown results/sports.markdown results/south-korean-top-100.markdown results/shopping.markdown results/thai-top-100.markdown results/german-top-100.markdown results/uk-top-100.markdown results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
 
 build: mergepsi
 
