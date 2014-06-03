@@ -164,7 +164,7 @@ results/wordpress.markdown: wordpress.tmp generate-table.py
 
 # Main process
 
-mergepsi: results/sports results/south-korean-top-100.markdown results/shopping.markdown results/thai-top-100.markdown results/german-top-100.markdown results/uk-top-100.markdown results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
+mergepsi: results/sports.markdown results/south-korean-top-100.markdown results/shopping.markdown results/thai-top-100.markdown results/german-top-100.markdown results/uk-top-100.markdown results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
 
 build: mergepsi
 
