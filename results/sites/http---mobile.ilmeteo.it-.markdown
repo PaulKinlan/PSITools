@@ -18,14 +18,14 @@ title: http://mobile.ilmeteo.it/
 *  Number of JS Resources: 16
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 20
-*  Total Request Bytes: 5497
+*  Total Request Bytes: 5519
 
 ### Response data
 
-*  HTML Response Bytes: 64486
+*  HTML Response Bytes: 64482
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 3305
-*  Image Response Bytes: 75790
+*  Image Response Bytes: 75718
 *  JS Response Bytes: 640345
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1567

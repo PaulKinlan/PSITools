@@ -18,14 +18,14 @@ title: http://m.vodafone.it/
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 16
-*  Total Request Bytes: 3818
+*  Total Request Bytes: 3810
 
 ### Response data
 
-*  HTML Response Bytes: 14559
+*  HTML Response Bytes: 14557
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 75320
-*  Image Response Bytes: 80154
-*  JS Response Bytes: 261306
+*  Image Response Bytes: 80140
+*  JS Response Bytes: 261305
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2509
+*  Other Response Bytes: 2505

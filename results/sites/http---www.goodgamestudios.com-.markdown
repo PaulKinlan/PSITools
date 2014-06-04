@@ -26,6 +26,6 @@ title: http://www.goodgamestudios.com/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 84442
 *  Image Response Bytes: 722535
-*  JS Response Bytes: 216075
+*  JS Response Bytes: 216074
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 478

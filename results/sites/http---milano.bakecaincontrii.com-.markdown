@@ -25,7 +25,7 @@ title: http://milano.bakecaincontrii.com/
 *  HTML Response Bytes: 45902
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 64716
-*  Image Response Bytes: 169209
-*  JS Response Bytes: 374674
+*  Image Response Bytes: 169208
+*  JS Response Bytes: 374673
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 456

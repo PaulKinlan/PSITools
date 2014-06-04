@@ -18,14 +18,14 @@ title: http://mediaset.it/
 *  Number of JS Resources: 24
 *  Number of CSS Resources: 8
 *  Nubmer of Static Resources: 129
-*  Total Request Bytes: 18026
+*  Total Request Bytes: 18022
 
 ### Response data
 
-*  HTML Response Bytes: 80511
-*  Text Response Bytes: 65172
+*  HTML Response Bytes: 80917
+*  Text Response Bytes: 65072
 *  CSS Response Bytes: 66235
-*  Image Response Bytes: 1709503
-*  JS Response Bytes: 349423
+*  Image Response Bytes: 1730020
+*  JS Response Bytes: 349326
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 356835
+*  Other Response Bytes: 357734

@@ -25,7 +25,7 @@ title: http://www.nowvideo.at/mobile/#/login
 *  HTML Response Bytes: 4627
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 49648
-*  Image Response Bytes: 40715
-*  JS Response Bytes: 246560
+*  Image Response Bytes: 40718
+*  JS Response Bytes: 246561
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1632

@@ -18,14 +18,14 @@ title: http://m.casa.it/homepageredirector.ds?theme=mrea
 *  Number of JS Resources: 7
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 11
-*  Total Request Bytes: 4777
+*  Total Request Bytes: 4779
 
 ### Response data
 
-*  HTML Response Bytes: 6004
+*  HTML Response Bytes: 6005
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 9465
+*  CSS Response Bytes: 9463
 *  Image Response Bytes: 33085
-*  JS Response Bytes: 124603
+*  JS Response Bytes: 124602
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 4549
+*  Other Response Bytes: 4551

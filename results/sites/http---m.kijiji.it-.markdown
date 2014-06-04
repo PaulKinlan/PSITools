@@ -18,7 +18,7 @@ title: http://m.kijiji.it/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 7
-*  Total Request Bytes: 1581
+*  Total Request Bytes: 1582
 
 ### Response data
 
