@@ -13,19 +13,19 @@ title: https://www.google.es/?gws_rd=ssl
 
 ### Request information
 
-*  Number of Resources: 14
-*  Number of Hosts: 3
+*  Number of Resources: 15
+*  Number of Hosts: 4
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 3288
+*  Total Request Bytes: 3608
 
 ### Response data
 
-*  HTML Response Bytes: 76912
+*  HTML Response Bytes: 76790
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 79102
 *  JS Response Bytes: 432627
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1734
+*  Other Response Bytes: 2094

@@ -18,11 +18,11 @@ title: http://m.elcorteingles.es/mt/www.elcorteingles.es/
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 8
-*  Total Request Bytes: 3180
+*  Total Request Bytes: 3178
 
 ### Response data
 
-*  HTML Response Bytes: 65297
+*  HTML Response Bytes: 65301
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 60220

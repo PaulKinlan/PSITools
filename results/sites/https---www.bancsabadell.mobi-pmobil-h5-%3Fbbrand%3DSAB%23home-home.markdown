@@ -18,7 +18,7 @@ title: https://www.bancsabadell.mobi/pmobil/h5/?bbrand=SAB#home/home
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 5
-*  Total Request Bytes: 4604
+*  Total Request Bytes: 4606
 
 ### Response data
 
@@ -26,6 +26,6 @@ title: https://www.bancsabadell.mobi/pmobil/h5/?bbrand=SAB#home/home
 *  Text Response Bytes: 3643
 *  CSS Response Bytes: 134298
 *  Image Response Bytes: 230447
-*  JS Response Bytes: 862936
+*  JS Response Bytes: 862961
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1563

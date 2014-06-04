@@ -14,18 +14,18 @@ title: http://www.lavanguardia.com/index.html
 ### Request information
 
 *  Number of Resources: 252
-*  Number of Hosts: 38
+*  Number of Hosts: 37
 *  Number of JS Resources: 55
 *  Number of CSS Resources: 11
-*  Nubmer of Static Resources: 218
-*  Total Request Bytes: 29582
+*  Nubmer of Static Resources: 219
+*  Total Request Bytes: 29168
 
 ### Response data
 
-*  HTML Response Bytes: 455386
+*  HTML Response Bytes: 453989
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 860477
-*  Image Response Bytes: 763392
-*  JS Response Bytes: 1118793
+*  Image Response Bytes: 785912
+*  JS Response Bytes: 1119218
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 9883
+*  Other Response Bytes: 9882

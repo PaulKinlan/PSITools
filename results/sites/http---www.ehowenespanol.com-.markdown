@@ -18,14 +18,14 @@ title: http://www.ehowenespanol.com/
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 15
-*  Total Request Bytes: 4228
+*  Total Request Bytes: 4232
 
 ### Response data
 
 *  HTML Response Bytes: 58642
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 33135
-*  Image Response Bytes: 260578
-*  JS Response Bytes: 296536
+*  Image Response Bytes: 260577
+*  JS Response Bytes: 296534
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 511

@@ -25,7 +25,7 @@ title: http://www.segundamano.es/
 *  HTML Response Bytes: 33356
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 50858
-*  Image Response Bytes: 10002
-*  JS Response Bytes: 76568
+*  Image Response Bytes: 10016
+*  JS Response Bytes: 76561
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1899

@@ -18,7 +18,7 @@ title: https://www.bbva.mobi/MOBI/kuxa_mult_web_pub/BBVAMOBI_login.html
 *  Number of JS Resources: 13
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 23
-*  Total Request Bytes: 5734
+*  Total Request Bytes: 5732
 
 ### Response data
 
@@ -28,4 +28,4 @@ title: https://www.bbva.mobi/MOBI/kuxa_mult_web_pub/BBVAMOBI_login.html
 *  Image Response Bytes: 26755
 *  JS Response Bytes: 770579
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1964
+*  Other Response Bytes: 1963

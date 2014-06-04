@@ -18,14 +18,14 @@ title: http://m.bankia.es/PMOVILES/FrontController
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 17
-*  Total Request Bytes: 2708
+*  Total Request Bytes: 2787
 
 ### Response data
 
-*  HTML Response Bytes: 13869
+*  HTML Response Bytes: 13944
 *  Text Response Bytes: 222730
 *  CSS Response Bytes: 23192
-*  Image Response Bytes: 81966
+*  Image Response Bytes: 81965
 *  JS Response Bytes: 23448
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 771
+*  Other Response Bytes: 772

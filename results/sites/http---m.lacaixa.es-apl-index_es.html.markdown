@@ -18,14 +18,14 @@ title: http://m.lacaixa.es/apl/index_es.html
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 6
-*  Total Request Bytes: 1027
+*  Total Request Bytes: 1028
 
 ### Response data
 
 *  HTML Response Bytes: 6472
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 28426
-*  Image Response Bytes: 6411
+*  Image Response Bytes: 6373
 *  JS Response Bytes: 7851
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1021

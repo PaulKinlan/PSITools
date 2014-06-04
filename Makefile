@@ -7,6 +7,18 @@ cleanresults:
 	rm -f results/sites/*.markdown
 
 # Italian top 100 
+output/czech-republic-top-100:
+	./run.py source/czech-republic-top-100 > output/czech-republic-top-100
+
+czech-republic-top-100.tmp: output/czech-republic-top-100
+	./generate-table.py ./output/czech-republic-top-100 > czech-republic-top-100.tmp 
+	./generate-page-result.py ./output/czech-republic-top-100
+
+results/czech-republic-top-100.markdown: czech-republic-top-100.tmp generate-table.py
+	cat _frontmatter/czech-republic-top-100 czech-republic-top-100.tmp > results/czech-republic-top-100.markdown
+	rm -f czech-republic-top-100.tmp
+
+# Italian top 100 
 output/italian-top-100:
 	./run.py source/italian-top-100 > output/italian-top-100
 
@@ -200,7 +212,7 @@ results/wordpress.markdown: wordpress.tmp generate-table.py
 
 # Main process
 
-mergepsi: results/italian-top-100.markdown results/spanish-top-100.markdown results/computers.markdown results/sports.markdown results/south-korean-top-100.markdown results/shopping.markdown results/thai-top-100.markdown results/german-top-100.markdown results/uk-top-100.markdown results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
+mergepsi: results/czech-republic-top-100.markdown results/italian-top-100.markdown results/spanish-top-100.markdown results/computers.markdown results/sports.markdown results/south-korean-top-100.markdown results/shopping.markdown results/thai-top-100.markdown results/german-top-100.markdown results/uk-top-100.markdown results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
 
 build: mergepsi
 

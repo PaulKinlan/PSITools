@@ -18,14 +18,14 @@ title: http://www.ingdirect.es/
 *  Number of JS Resources: 16
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 38
-*  Total Request Bytes: 5227
+*  Total Request Bytes: 5229
 
 ### Response data
 
-*  HTML Response Bytes: 31526
+*  HTML Response Bytes: 31504
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 130823
 *  Image Response Bytes: 629060
-*  JS Response Bytes: 408160
+*  JS Response Bytes: 408159
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1939
+*  Other Response Bytes: 1940

@@ -13,19 +13,19 @@ title: http://m.softonic.com/iphone
 
 ### Request information
 
-*  Number of Resources: 47
-*  Number of Hosts: 17
-*  Number of JS Resources: 15
+*  Number of Resources: 44
+*  Number of Hosts: 15
+*  Number of JS Resources: 12
 *  Number of CSS Resources: 1
-*  Nubmer of Static Resources: 21
-*  Total Request Bytes: 14751
+*  Nubmer of Static Resources: 19
+*  Total Request Bytes: 14119
 
 ### Response data
 
-*  HTML Response Bytes: 201193
+*  HTML Response Bytes: 197179
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 49619
-*  Image Response Bytes: 91866
-*  JS Response Bytes: 911068
+*  CSS Response Bytes: 49620
+*  Image Response Bytes: 91865
+*  JS Response Bytes: 769184
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2109
