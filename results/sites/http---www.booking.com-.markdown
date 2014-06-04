@@ -13,19 +13,19 @@ title: http://www.booking.com/
 
 ### Request information
 
-*  Number of Resources: 27
-*  Number of Hosts: 6
-*  Number of JS Resources: 4
+*  Number of Resources: 35
+*  Number of Hosts: 10
+*  Number of JS Resources: 5
 *  Number of CSS Resources: 2
-*  Nubmer of Static Resources: 23
-*  Total Request Bytes: 4357
+*  Nubmer of Static Resources: 27
+*  Total Request Bytes: 5772
 
 ### Response data
 
-*  HTML Response Bytes: 52157
-*  Text Response Bytes: 0
+*  HTML Response Bytes: 43569
+*  Text Response Bytes: 429
 *  CSS Response Bytes: 311995
-*  Image Response Bytes: 73647
-*  JS Response Bytes: 355751
+*  Image Response Bytes: 118584
+*  JS Response Bytes: 356432
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 144
+*  Other Response Bytes: 880

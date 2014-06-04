@@ -13,19 +13,19 @@ title: http://t.uk.msn.com/?rd=1&ucc=GB&dcc=GB&opt=0
 
 ### Request information
 
-*  Number of Resources: 55
-*  Number of Hosts: 18
+*  Number of Resources: 57
+*  Number of Hosts: 19
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 40
-*  Total Request Bytes: 9396
+*  Total Request Bytes: 11101
 
 ### Response data
 
-*  HTML Response Bytes: 193911
+*  HTML Response Bytes: 193524
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 33506
-*  Image Response Bytes: 948351
+*  Image Response Bytes: 970439
 *  JS Response Bytes: 375572
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 5239
+*  Other Response Bytes: 6594

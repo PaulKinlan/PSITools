@@ -26,6 +26,6 @@ title: https://wordpress.com/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 74081
 *  Image Response Bytes: 94320
-*  JS Response Bytes: 210601
+*  JS Response Bytes: 210603
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46257

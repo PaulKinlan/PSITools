@@ -18,14 +18,14 @@ title: https://mobile.twitter.com/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 6
-*  Total Request Bytes: 2439
+*  Total Request Bytes: 2438
 
 ### Response data
 
-*  HTML Response Bytes: 439491
+*  HTML Response Bytes: 439248
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 46620
-*  Image Response Bytes: 153547
+*  Image Response Bytes: 153546
 *  JS Response Bytes: 381052
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 268

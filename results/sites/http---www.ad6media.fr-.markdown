@@ -13,19 +13,19 @@ title: http://www.ad6media.fr/
 
 ### Request information
 
-*  Number of Resources: 37
-*  Number of Hosts: 8
+*  Number of Resources: 38
+*  Number of Hosts: 9
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 30
-*  Total Request Bytes: 3601
+*  Total Request Bytes: 3806
 
 ### Response data
 
 *  HTML Response Bytes: 404
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 43399
-*  Image Response Bytes: 711515
+*  Image Response Bytes: 711577
 *  JS Response Bytes: 129798
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1977
+*  Other Response Bytes: 2903

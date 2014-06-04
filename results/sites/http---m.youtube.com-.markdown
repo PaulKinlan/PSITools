@@ -13,19 +13,19 @@ title: http://m.youtube.com/
 
 ### Request information
 
-*  Number of Resources: 30
+*  Number of Resources: 31
 *  Number of Hosts: 7
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 25
-*  Total Request Bytes: 3469
+*  Total Request Bytes: 3552
 
 ### Response data
 
-*  HTML Response Bytes: 368183
+*  HTML Response Bytes: 368415
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 97779
+*  Image Response Bytes: 97783
 *  JS Response Bytes: 109267
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 871
+*  Other Response Bytes: 1245

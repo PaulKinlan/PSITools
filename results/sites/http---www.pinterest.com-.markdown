@@ -13,19 +13,19 @@ title: http://www.pinterest.com/
 
 ### Request information
 
-*  Number of Resources: 19
+*  Number of Resources: 18
 *  Number of Hosts: 9
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 11
-*  Total Request Bytes: 3835
+*  Total Request Bytes: 3270
 
 ### Response data
 
-*  HTML Response Bytes: 86592
+*  HTML Response Bytes: 86580
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 208603
-*  Image Response Bytes: 80679
-*  JS Response Bytes: 986812
+*  Image Response Bytes: 80295
+*  JS Response Bytes: 986820
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1560

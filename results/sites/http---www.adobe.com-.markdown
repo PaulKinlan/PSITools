@@ -18,14 +18,14 @@ title: http://www.adobe.com/
 *  Number of JS Resources: 42
 *  Number of CSS Resources: 14
 *  Nubmer of Static Resources: 73
-*  Total Request Bytes: 33200
+*  Total Request Bytes: 33175
 
 ### Response data
 
-*  HTML Response Bytes: 121889
+*  HTML Response Bytes: 121517
 *  Text Response Bytes: 384
 *  CSS Response Bytes: 519552
-*  Image Response Bytes: 1834082
+*  Image Response Bytes: 1834081
 *  JS Response Bytes: 1995719
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 29910
+*  Other Response Bytes: 29984

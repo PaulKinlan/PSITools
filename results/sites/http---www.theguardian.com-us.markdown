@@ -18,14 +18,14 @@ title: http://www.theguardian.com/us
 *  Number of JS Resources: 13
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 40
-*  Total Request Bytes: 16228
+*  Total Request Bytes: 16238
 
 ### Response data
 
-*  HTML Response Bytes: 209813
+*  HTML Response Bytes: 209809
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 365431
-*  Image Response Bytes: 414199
-*  JS Response Bytes: 620608
+*  Image Response Bytes: 416169
+*  JS Response Bytes: 620595
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 9544
+*  Other Response Bytes: 9550
