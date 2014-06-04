@@ -18,11 +18,11 @@ title: https://www.google.fr/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 3208
+*  Total Request Bytes: 3190
 
 ### Response data
 
-*  HTML Response Bytes: 76481
+*  HTML Response Bytes: 76445
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 78853

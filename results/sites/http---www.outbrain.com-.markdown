@@ -18,14 +18,14 @@ title: http://www.outbrain.com/
 *  Number of JS Resources: 36
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 62
-*  Total Request Bytes: 18494
+*  Total Request Bytes: 18652
 
 ### Response data
 
 *  HTML Response Bytes: 27377
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 673668
-*  Image Response Bytes: 323269
-*  JS Response Bytes: 645821
+*  Image Response Bytes: 323438
+*  JS Response Bytes: 645829
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 17105
+*  Other Response Bytes: 17101

@@ -18,7 +18,7 @@ title: http://instagram.com/
 *  Number of JS Resources: 7
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 25
-*  Total Request Bytes: 3143
+*  Total Request Bytes: 3141
 
 ### Response data
 

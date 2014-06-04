@@ -22,7 +22,7 @@ title: http://m2newmedia.com/
 
 ### Response data
 
-*  HTML Response Bytes: 2518
+*  HTML Response Bytes: 2321
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 11863
 *  Image Response Bytes: 0

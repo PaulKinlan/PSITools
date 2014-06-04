@@ -13,19 +13,19 @@ title: http://conduit.com/
 
 ### Request information
 
-*  Number of Resources: 86
-*  Number of Hosts: 23
+*  Number of Resources: 82
+*  Number of Hosts: 22
 *  Number of JS Resources: 13
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 39
-*  Total Request Bytes: 14851
+*  Total Request Bytes: 13513
 
 ### Response data
 
-*  HTML Response Bytes: 31818
+*  HTML Response Bytes: 31642
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 76428
-*  Image Response Bytes: 989848
-*  JS Response Bytes: 270237
+*  Image Response Bytes: 989062
+*  JS Response Bytes: 269656
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 126259
+*  Other Response Bytes: 124052

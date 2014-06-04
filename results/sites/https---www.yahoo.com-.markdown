@@ -18,14 +18,14 @@ title: https://www.yahoo.com/
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 5
-*  Total Request Bytes: 1280
+*  Total Request Bytes: 1275
 
 ### Response data
 
-*  HTML Response Bytes: 31327
-*  Text Response Bytes: 1093
+*  HTML Response Bytes: 31328
+*  Text Response Bytes: 1091
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 133107
-*  JS Response Bytes: 36842
+*  Image Response Bytes: 133100
+*  JS Response Bytes: 36841
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1709

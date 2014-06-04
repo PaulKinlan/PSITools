@@ -18,14 +18,14 @@ title: http://m.imgur.com/
 *  Number of JS Resources: 7
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 11
-*  Total Request Bytes: 1594
+*  Total Request Bytes: 1595
 
 ### Response data
 
-*  HTML Response Bytes: 59875
+*  HTML Response Bytes: 59876
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 60632
-*  Image Response Bytes: 36351
-*  JS Response Bytes: 675595
+*  CSS Response Bytes: 60606
+*  Image Response Bytes: 36352
+*  JS Response Bytes: 675592
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 233

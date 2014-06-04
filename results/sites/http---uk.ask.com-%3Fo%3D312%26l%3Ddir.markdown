@@ -18,14 +18,14 @@ title: http://uk.ask.com/?o=312&l=dir
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 7
-*  Total Request Bytes: 3835
+*  Total Request Bytes: 3832
 
 ### Response data
 
-*  HTML Response Bytes: 15591
+*  HTML Response Bytes: 15584
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 11841
 *  Image Response Bytes: 42534
 *  JS Response Bytes: 269663
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 3745
+*  Other Response Bytes: 3743
