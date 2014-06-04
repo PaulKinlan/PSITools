@@ -6,17 +6,17 @@ cleanresults:
 	rm -f results/*.markdown
 	rm -f results/sites/*.markdown
 
-# Spanish top 100 
-output/spanish-top-100:
-	./run.py source/spanish-top-100 > output/spanish-top-100
+# Italian top 100 
+output/italian-top-100:
+	./run.py source/italian-top-100 > output/italian-top-100
 
-spanish-top-100.tmp: output/spanish-top-100
-	./generate-table.py ./output/spanish-top-100 > spanish-top-100.tmp 
-	./generate-page-result.py ./output/spanish-top-100
+italian-top-100.tmp: output/italian-top-100
+	./generate-table.py ./output/italian-top-100 > italian-top-100.tmp 
+	./generate-page-result.py ./output/italian-top-100
 
-results/spanish-top-100.markdown: spanish-top-100.tmp generate-table.py
-	cat _frontmatter/spanish-top-100 spanish-top-100.tmp > results/spanish-top-100.markdown
-	rm -f spanish-top-100.tmp
+results/italian-top-100.markdown: italian-top-100.tmp generate-table.py
+	cat _frontmatter/italian-top-100 italian-top-100.tmp > results/italian-top-100.markdown
+	rm -f italian-top-100.tmp
 
 # Computers 
 output/computers:
@@ -200,7 +200,7 @@ results/wordpress.markdown: wordpress.tmp generate-table.py
 
 # Main process
 
-mergepsi: results/spanish-top-100.markdown results/computers.markdown results/sports.markdown results/south-korean-top-100.markdown results/shopping.markdown results/thai-top-100.markdown results/german-top-100.markdown results/uk-top-100.markdown results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
+mergepsi: results/italian-top-100.markdown results/spanish-top-100.markdown results/computers.markdown results/sports.markdown results/south-korean-top-100.markdown results/shopping.markdown results/thai-top-100.markdown results/german-top-100.markdown results/uk-top-100.markdown results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
 
 build: mergepsi
 
