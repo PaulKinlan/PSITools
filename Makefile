@@ -6,6 +6,18 @@ cleanresults:
 	rm -f results/*.markdown
 	rm -f results/sites/*.markdown
 
+# Kenyan top 100 
+output/kenyan-top-100:
+	./run.py source/kenyan-top-100 > output/kenyan-top-100
+
+kenyan-top-100.tmp: output/kenyan-top-100
+	./generate-table.py ./output/kenyan-top-100 > kenyan-top-100.tmp 
+	./generate-page-result.py ./output/kenyan-top-100
+
+results/kenyan-top-100.markdown: kenyan-top-100.tmp generate-table.py
+	cat _frontmatter/kenyan-top-100 kenyan-top-100.tmp > results/kenyan-top-100.markdown
+	rm -f kenyan-top-100.tmp
+
 # Indian top 100 
 output/indian-top-100:
 	./run.py source/indian-top-100 > output/indian-top-100
@@ -284,7 +296,7 @@ results/wordpress.markdown: wordpress.tmp generate-table.py
 
 # Main process
 
-mergepsi: results/south-african-top-100.markdown results/indian-top-100.markdown results/dutch-top-100.markdown results/danish-top-100.markdown results/romainian-top-100.markdown results/polish-top-100.markdown results/czech-republic-top-100.markdown results/italian-top-100.markdown results/spanish-top-100.markdown results/computers.markdown results/sports.markdown results/south-korean-top-100.markdown results/shopping.markdown results/thai-top-100.markdown results/german-top-100.markdown results/uk-top-100.markdown results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
+mergepsi: results/kenyan-top-100.markdown results/south-african-top-100.markdown results/indian-top-100.markdown results/dutch-top-100.markdown results/danish-top-100.markdown results/romainian-top-100.markdown results/polish-top-100.markdown results/czech-republic-top-100.markdown results/italian-top-100.markdown results/spanish-top-100.markdown results/computers.markdown results/sports.markdown results/south-korean-top-100.markdown results/shopping.markdown results/thai-top-100.markdown results/german-top-100.markdown results/uk-top-100.markdown results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
 
 build: mergepsi
 
