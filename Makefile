@@ -18,6 +18,18 @@ results/indian-top-100.markdown: indian-top-100.tmp generate-table.py
 	cat _frontmatter/indian-top-100 indian-top-100.tmp > results/indian-top-100.markdown
 	rm -f indian-top-100.tmp
 
+# South African top 100 
+output/south-african-top-100:
+	./run.py source/south-african-top-100 > output/south-african-top-100
+
+south-african-top-100.tmp: output/south-african-top-100
+	./generate-table.py ./output/south-african-top-100 > south-african-top-100.tmp 
+	./generate-page-result.py ./output/south-african-top-100
+
+results/south-african-top-100.markdown: south-african-top-100.tmp generate-table.py
+	cat _frontmatter/south-african-top-100 south-african-top-100.tmp > results/south-african-top-100.markdown
+	rm -f south-african-top-100.tmp
+
 # Dutch top 100 
 output/dutch-top-100:
 	./run.py source/dutch-top-100 > output/dutch-top-100
@@ -272,7 +284,7 @@ results/wordpress.markdown: wordpress.tmp generate-table.py
 
 # Main process
 
-mergepsi: results/indian-top-100.markdown results/dutch-top-100.markdown results/danish-top-100.markdown results/romainian-top-100.markdown results/polish-top-100.markdown results/czech-republic-top-100.markdown results/italian-top-100.markdown results/spanish-top-100.markdown results/computers.markdown results/sports.markdown results/south-korean-top-100.markdown results/shopping.markdown results/thai-top-100.markdown results/german-top-100.markdown results/uk-top-100.markdown results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
+mergepsi: results/south-african-top-100.markdown results/indian-top-100.markdown results/dutch-top-100.markdown results/danish-top-100.markdown results/romainian-top-100.markdown results/polish-top-100.markdown results/czech-republic-top-100.markdown results/italian-top-100.markdown results/spanish-top-100.markdown results/computers.markdown results/sports.markdown results/south-korean-top-100.markdown results/shopping.markdown results/thai-top-100.markdown results/german-top-100.markdown results/uk-top-100.markdown results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
 
 build: mergepsi
 
