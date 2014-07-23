@@ -1,6 +1,7 @@
 clean: cleanresults
 	rm -f output/*
 	rm -rf ./_site/
+	rm *.tmp
 
 cleanresults:
 	rm -f results/*.markdown
