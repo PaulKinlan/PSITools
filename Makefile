@@ -6,6 +6,54 @@ cleanresults:
 	rm -f results/*.markdown
 	rm -f results/sites/*.markdown
 
+#  Singapore top 100 
+output/singapore-top-100:
+	./run.py source/singapore-top-100 > output/singapore-top-100
+
+singapore-top-100.tmp: output/singapore-top-100
+	./generate-table.py ./output/singapore-top-100 > singapore-top-100.tmp 
+	./generate-page-result.py ./output/singapore-top-100
+
+results/singapore-top-100.markdown: singapore-top-100.tmp generate-table.py
+	cat _frontmatter/singapore-top-100 singapore-top-100.tmp > results/singapore-top-100.markdown
+	rm -f singapore-top-100.tmp
+
+#  Philippines top 100 
+output/philippines-top-100:
+	./run.py source/philippines-top-100 > output/philippines-top-100
+
+philippines-top-100.tmp: output/philippines-top-100
+	./generate-table.py ./output/philippines-top-100 > philippines-top-100.tmp 
+	./generate-page-result.py ./output/philippines-top-100
+
+results/philippines-top-100.markdown: philippines-top-100.tmp generate-table.py
+	cat _frontmatter/philippines-top-100 philippines-top-100.tmp > results/philippines-top-100.markdown
+	rm -f philippines-top-100.tmp
+
+#  Malaysian top 100 
+output/malaysian-top-100:
+	./run.py source/malaysian-top-100 > output/malaysian-top-100
+
+malaysian-top-100.tmp: output/malaysian-top-100
+	./generate-table.py ./output/malaysian-top-100 > malaysian-top-100.tmp 
+	./generate-page-result.py ./output/malaysian-top-100
+
+results/malaysian-top-100.markdown: malaysian-top-100.tmp generate-table.py
+	cat _frontmatter/malaysian-top-100 malaysian-top-100.tmp > results/malaysian-top-100.markdown
+	rm -f malaysian-top-100.tmp
+
+# Indoneisan top 100 
+output/indonesian-top-100:
+	./run.py source/indonesian-top-100 > output/indonesian-top-100
+
+indonesian-top-100.tmp: output/indonesian-top-100
+	./generate-table.py ./output/indonesian-top-100 > indonesian-top-100.tmp 
+	./generate-page-result.py ./output/indonesian-top-100
+
+results/indonesian-top-100.markdown: indonesian-top-100.tmp generate-table.py
+	cat _frontmatter/indonesian-top-100 indonesian-top-100.tmp > results/indonesian-top-100.markdown
+	rm -f indonesian-top-100.tmp
+
 # Nigerian top 100 
 output/nigerian-top-100:
 	./run.py source/nigerian-top-100 > output/nigerian-top-100
@@ -308,7 +356,7 @@ results/wordpress.markdown: wordpress.tmp generate-table.py
 
 # Main process
 
-mergepsi: results/nigerian-top-100.markdown results/kenyan-top-100.markdown results/south-african-top-100.markdown results/indian-top-100.markdown results/dutch-top-100.markdown results/danish-top-100.markdown results/romainian-top-100.markdown results/polish-top-100.markdown results/czech-republic-top-100.markdown results/italian-top-100.markdown results/spanish-top-100.markdown results/computers.markdown results/sports.markdown results/south-korean-top-100.markdown results/shopping.markdown results/thai-top-100.markdown results/german-top-100.markdown results/uk-top-100.markdown results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
+mergepsi: results/singapore-top-100.markdown results/philippines-top-100.markdown results/malaysian-top-100.markdown results/indonesian-top-100.markdown results/nigerian-top-100.markdown results/kenyan-top-100.markdown results/south-african-top-100.markdown results/indian-top-100.markdown results/dutch-top-100.markdown results/danish-top-100.markdown results/romainian-top-100.markdown results/polish-top-100.markdown results/czech-republic-top-100.markdown results/italian-top-100.markdown results/spanish-top-100.markdown results/computers.markdown results/sports.markdown results/south-korean-top-100.markdown results/shopping.markdown results/thai-top-100.markdown results/german-top-100.markdown results/uk-top-100.markdown results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
 
 build: mergepsi
 
