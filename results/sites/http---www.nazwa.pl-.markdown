@@ -29,3 +29,16 @@ title: http://www.nazwa.pl/
 *  JS Response Bytes: 1730688
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4849
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

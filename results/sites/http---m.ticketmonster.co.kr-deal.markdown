@@ -29,3 +29,17 @@ title: http://m.ticketmonster.co.kr/deal
 *  JS Response Bytes: 338938
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46546
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,15 @@ title: http://www.viralo.ro/
 *  JS Response Bytes: 468989
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148209
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

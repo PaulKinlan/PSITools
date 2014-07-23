@@ -29,3 +29,16 @@ title: http://themesindep.com/demo/simplemag/
 *  JS Response Bytes: 93385
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15531
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

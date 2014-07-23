@@ -29,3 +29,17 @@ title: http://www.sport.es/es/
 *  JS Response Bytes: 1062008
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2093
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

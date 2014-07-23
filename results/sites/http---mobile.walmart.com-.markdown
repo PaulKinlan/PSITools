@@ -29,3 +29,16 @@ title: http://mobile.walmart.com/
 *  JS Response Bytes: 427106
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2109
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

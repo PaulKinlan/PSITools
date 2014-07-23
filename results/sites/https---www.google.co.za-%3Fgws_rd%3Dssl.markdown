@@ -29,3 +29,14 @@ title: https://www.google.co.za/?gws_rd=ssl
 *  JS Response Bytes: 435311
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1752
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Prioritize visible content
+
+### Mobile UX issues
+

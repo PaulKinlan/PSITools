@@ -29,3 +29,19 @@ title: http://www.xda-developers.com/
 *  JS Response Bytes: 1252215
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 38114
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

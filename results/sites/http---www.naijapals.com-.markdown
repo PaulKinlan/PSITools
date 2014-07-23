@@ -29,3 +29,12 @@ title: http://www.naijapals.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 341
+
+### Performance issues
+
+
+### Performance issues
+
+
+### Mobile UX issues
+

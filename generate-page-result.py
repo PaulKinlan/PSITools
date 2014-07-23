@@ -22,7 +22,8 @@ for line in fileinput.input():
       "score": obj["score"],
       "pageStats": obj["pageStats"],
       "image_mime": obj["screenshot"]["mime_type"],
-      "image_url": obj["screenshot"]["data"].replace("_", "/").replace("-", "+")
+      "image_url": obj["screenshot"]["data"].replace("_", "/").replace("-", "+"),
+      "formattedResults": obj["formattedResults"]
     }) 
 
 sorted_sites = sorted(sites, key=lambda k: k['score'])
@@ -36,8 +37,12 @@ for site in sorted_sites:
   title = site["title"]
   score = site["score"]
   pageStats = site["pageStats"]
+  rule_results = site["formattedResults"]["ruleResults"] if "formattedResults" in site else []
   image_mime = site["image_mime"]
   image_url = site["image_url"]
+
+  speed_rules = [u"AvoidLandingPageRedirects", u"MinimizeRenderBlockingResources", u"InlineRenderBlockingCss", u"PreferAsyncResources", u"PrioritizeVisibleContent", u"EnableGzipCompression", u"ServerResponseTime"]
+  ux_rules = [u"AvoidPlugins", u"Configure Viewport", u"SizeContentToViewport", u"SizeTapTargetsAppropriately", u"UseLegibleFontSizes"]
 
   path = os.path.join("results", "sites","%s.markdown" % urllib.quote_plus(id.replace("/","-").replace(":","-")))
   path = path[:150] if len(path) > 150 else path
@@ -74,6 +79,15 @@ for site in sorted_sites:
     print >> f, "*  Image Response Bytes: %s" % (pageStats.get("imageResponseBytes", "0"))
     print >> f, "*  JS Response Bytes: %s" % (pageStats.get("javascriptResponseBytes", "0"))
     print >> f, "*  Flash Response Bytes: %s" % (pageStats.get("flashResponseBytes", "0"))
-    print >> f, "*  Other Response Bytes: %s" % (pageStats.get("otherResponseBytes", "0"))
+    print >> f, "*  Other Response Bytes: %s" % (pageStats.get("otherResponseBytes", "0")) 
 
+    print >> f, "\n### Performance issues\n"
+    print >> f, "\n### Performance issues\n"
+    for rule in speed_rules:
+      if rule in rule_results and rule_results[rule]["ruleImpact"] > 0:
+        print >> f, "*  %s" % (rule_results[rule]["localizedRuleName"])
 
+    print >> f, "\n### Mobile UX issues\n"
+    for rule in ux_rules:
+      if rule in rule_results and rule_results[rule]["ruleImpact"] > 0:
+        print >> f, "*  %s" % (rule_results[rule]["localizedRuleName"])

@@ -29,3 +29,15 @@ title: http://billdesk.com/
 *  JS Response Bytes: 1233
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

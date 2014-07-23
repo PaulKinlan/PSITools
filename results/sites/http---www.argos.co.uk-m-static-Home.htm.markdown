@@ -29,3 +29,14 @@ title: http://www.argos.co.uk/m/static/Home.htm
 *  JS Response Bytes: 898331
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7017
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+

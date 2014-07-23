@@ -29,3 +29,14 @@ title: http://mobile.smart.com.ph/
 *  JS Response Bytes: 619359
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 417
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+

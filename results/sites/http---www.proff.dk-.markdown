@@ -29,3 +29,14 @@ title: http://www.proff.dk/
 *  JS Response Bytes: 1392081
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2238
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,15 @@ title: http://bridgerdemo.wordpress.com/
 *  JS Response Bytes: 688986
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 267018
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

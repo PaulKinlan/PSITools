@@ -29,3 +29,17 @@ title: http://buienradar.nl/
 *  JS Response Bytes: 1727250
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 224714
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

@@ -29,3 +29,18 @@ title: http://www.rotoworld.com/
 *  JS Response Bytes: 1543993
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4862
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

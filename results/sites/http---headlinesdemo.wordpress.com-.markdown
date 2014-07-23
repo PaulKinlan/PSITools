@@ -29,3 +29,16 @@ title: http://headlinesdemo.wordpress.com/
 *  JS Response Bytes: 181210
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5457
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

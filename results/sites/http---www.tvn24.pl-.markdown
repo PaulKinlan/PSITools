@@ -29,3 +29,16 @@ title: http://www.tvn24.pl/
 *  JS Response Bytes: 1887916
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 288104
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately

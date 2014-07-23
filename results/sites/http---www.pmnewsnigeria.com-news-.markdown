@@ -29,3 +29,16 @@ title: http://www.pmnewsnigeria.com/news/
 *  JS Response Bytes: 612662
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1201
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

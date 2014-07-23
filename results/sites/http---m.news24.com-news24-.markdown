@@ -29,3 +29,17 @@ title: http://m.news24.com/news24/
 *  JS Response Bytes: 276820
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331454
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

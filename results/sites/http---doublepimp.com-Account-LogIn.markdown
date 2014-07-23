@@ -29,3 +29,13 @@ title: http://doublepimp.com/Account/LogIn
 *  JS Response Bytes: 1108390
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100251
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+

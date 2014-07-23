@@ -29,3 +29,13 @@ title: http://m.melon.com/pda/msvc/common/blank.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1691
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+

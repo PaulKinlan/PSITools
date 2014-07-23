@@ -29,3 +29,15 @@ title: http://www.eltiempo.es/
 *  JS Response Bytes: 1073828
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 123332
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

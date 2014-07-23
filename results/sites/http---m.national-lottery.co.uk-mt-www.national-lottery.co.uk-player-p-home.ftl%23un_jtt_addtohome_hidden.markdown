@@ -29,3 +29,15 @@ title: http://m.national-lottery.co.uk/mt/www.national-lottery.co.uk/player/p/ho
 *  JS Response Bytes: 58991
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3144
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

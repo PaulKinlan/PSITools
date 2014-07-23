@@ -29,3 +29,16 @@ title: http://www.manoramaonline.com/cgi-bin/MMOnline.dll/portal/ep/home.do?tabI
 *  JS Response Bytes: 922431
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1413
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

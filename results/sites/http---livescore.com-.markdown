@@ -29,3 +29,14 @@ title: http://livescore.com/
 *  JS Response Bytes: 23031
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
+
+### Performance issues
+
+
+### Performance issues
+
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

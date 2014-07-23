@@ -29,3 +29,19 @@ title: http://www.softpedia.com/
 *  JS Response Bytes: 1986535
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98255
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

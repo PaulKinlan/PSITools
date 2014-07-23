@@ -29,3 +29,17 @@ title: http://m.bbc.com/news
 *  JS Response Bytes: 637401
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3727
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

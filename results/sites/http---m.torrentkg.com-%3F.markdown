@@ -29,3 +29,13 @@ title: http://m.torrentkg.com/?
 *  JS Response Bytes: 112491
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 986
+
+### Performance issues
+
+
+### Performance issues
+
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

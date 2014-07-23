@@ -29,3 +29,17 @@ title: http://publisherdemo.wordpress.com/
 *  JS Response Bytes: 1019777
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

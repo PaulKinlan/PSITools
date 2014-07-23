@@ -29,3 +29,15 @@ title: http://www.iplt20.com/
 *  JS Response Bytes: 1491063
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1550
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

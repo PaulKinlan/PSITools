@@ -29,3 +29,15 @@ title: http://www.ansa.it/
 *  JS Response Bytes: 393106
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 417
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,13 @@ title: https://www.google.co.ke/?gws_rd=ssl
 *  JS Response Bytes: 407689
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1752
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+

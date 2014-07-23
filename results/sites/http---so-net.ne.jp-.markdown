@@ -29,3 +29,16 @@ title: http://so-net.ne.jp/
 *  JS Response Bytes: 316584
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2474
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

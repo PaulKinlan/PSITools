@@ -29,3 +29,18 @@ title: http://wazua.co.ke/
 *  JS Response Bytes: 810703
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63709
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

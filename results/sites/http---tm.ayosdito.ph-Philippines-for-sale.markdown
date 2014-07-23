@@ -29,3 +29,14 @@ title: http://tm.ayosdito.ph/Philippines/for-sale
 *  JS Response Bytes: 34757
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3420
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+

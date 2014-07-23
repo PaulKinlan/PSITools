@@ -29,3 +29,17 @@ title: http://www.e-boks.dk/
 *  JS Response Bytes: 99634
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1305
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

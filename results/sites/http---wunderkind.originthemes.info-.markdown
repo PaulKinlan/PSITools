@@ -29,3 +29,14 @@ title: http://wunderkind.originthemes.info/
 *  JS Response Bytes: 156546
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+

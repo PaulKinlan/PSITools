@@ -29,3 +29,19 @@ title: http://www.danjur.com/8959/video-improve-your-concentration-in-3-easy-ste
 *  JS Response Bytes: 745176
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27000
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

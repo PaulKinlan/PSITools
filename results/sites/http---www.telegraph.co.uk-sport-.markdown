@@ -29,3 +29,15 @@ title: http://www.telegraph.co.uk/sport/
 *  JS Response Bytes: 1447379
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4201
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

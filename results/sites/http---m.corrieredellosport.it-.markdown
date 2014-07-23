@@ -29,3 +29,17 @@ title: http://m.corrieredellosport.it/
 *  JS Response Bytes: 1123584
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18050
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

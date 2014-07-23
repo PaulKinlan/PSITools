@@ -29,3 +29,15 @@ title: http://demo-rt.com/?theme=rttheme18
 *  JS Response Bytes: 765265
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105924
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Improve server response time
+
+### Mobile UX issues
+

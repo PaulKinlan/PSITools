@@ -29,3 +29,16 @@ title: http://m.bonanza.com/
 *  JS Response Bytes: 363188
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2568
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

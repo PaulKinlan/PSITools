@@ -29,3 +29,16 @@ title: http://m.pricerunner.co.uk/
 *  JS Response Bytes: 334743
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1185
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

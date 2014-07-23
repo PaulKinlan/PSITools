@@ -29,3 +29,14 @@ title: http://www.saavn.com/
 *  JS Response Bytes: 134677
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61431
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+

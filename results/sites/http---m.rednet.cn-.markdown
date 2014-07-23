@@ -29,3 +29,16 @@ title: http://m.rednet.cn/
 *  JS Response Bytes: 59049
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 402
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,17 @@ title: http://m.sify.com/
 *  JS Response Bytes: 165630
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2353
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,15 @@ title: http://m.ikea.com/
 *  JS Response Bytes: 562786
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1671
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+

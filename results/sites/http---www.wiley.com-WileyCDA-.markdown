@@ -29,3 +29,18 @@ title: http://www.wiley.com/WileyCDA/
 *  JS Response Bytes: 265666
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 175699
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

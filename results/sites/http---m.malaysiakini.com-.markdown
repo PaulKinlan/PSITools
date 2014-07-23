@@ -29,3 +29,13 @@ title: http://m.malaysiakini.com/
 *  JS Response Bytes: 568926
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3089
+
+### Performance issues
+
+
+### Performance issues
+
+*  Improve server response time
+
+### Mobile UX issues
+

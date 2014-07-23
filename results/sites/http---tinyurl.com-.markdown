@@ -29,3 +29,17 @@ title: http://tinyurl.com/
 *  JS Response Bytes: 808668
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25539
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

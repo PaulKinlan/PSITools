@@ -29,3 +29,18 @@ title: http://sinchew.com.my/
 *  JS Response Bytes: 2015177
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1757
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

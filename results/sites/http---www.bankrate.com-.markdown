@@ -29,3 +29,15 @@ title: http://www.bankrate.com/
 *  JS Response Bytes: 1241797
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 36839
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,16 @@ title: http://www.zone-telechargement.com/
 *  JS Response Bytes: 350167
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1288
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

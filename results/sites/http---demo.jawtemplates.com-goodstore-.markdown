@@ -29,3 +29,14 @@ title: http://demo.jawtemplates.com/goodstore/
 *  JS Response Bytes: 141813
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 180199
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+

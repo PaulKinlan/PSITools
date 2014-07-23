@@ -29,3 +29,17 @@ title: http://ganool.com/
 *  JS Response Bytes: 1612123
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110314
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

@@ -29,3 +29,16 @@ title: http://m.johnlewis.com/mt/www.johnlewis.com/#page_loaded
 *  JS Response Bytes: 148912
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1653
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

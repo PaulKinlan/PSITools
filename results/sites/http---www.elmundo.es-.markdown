@@ -29,3 +29,16 @@ title: http://www.elmundo.es/
 *  JS Response Bytes: 327977
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5057
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

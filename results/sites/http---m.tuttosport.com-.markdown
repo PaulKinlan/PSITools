@@ -29,3 +29,16 @@ title: http://m.tuttosport.com/
 *  JS Response Bytes: 1153755
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18666
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

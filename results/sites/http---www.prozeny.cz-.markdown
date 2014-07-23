@@ -29,3 +29,17 @@ title: http://www.prozeny.cz/
 *  JS Response Bytes: 456565
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1157
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately

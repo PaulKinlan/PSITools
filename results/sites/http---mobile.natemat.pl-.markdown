@@ -29,3 +29,14 @@ title: http://mobile.natemat.pl/
 *  JS Response Bytes: 377802
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1749
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+

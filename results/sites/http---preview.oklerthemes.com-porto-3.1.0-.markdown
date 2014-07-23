@@ -29,3 +29,15 @@ title: http://preview.oklerthemes.com/porto/3.1.0/
 *  JS Response Bytes: 986555
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104936
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

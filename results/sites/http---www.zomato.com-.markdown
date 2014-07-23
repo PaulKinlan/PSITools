@@ -29,3 +29,14 @@ title: http://www.zomato.com/
 *  JS Response Bytes: 676579
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1753
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

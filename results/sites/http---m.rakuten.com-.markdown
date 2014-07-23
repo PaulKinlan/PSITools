@@ -29,3 +29,17 @@ title: http://m.rakuten.com/
 *  JS Response Bytes: 1264868
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3893
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

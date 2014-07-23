@@ -29,3 +29,16 @@ title: http://m.accuweather.com/
 *  JS Response Bytes: 115633
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17592
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Improve server response time
+
+### Mobile UX issues
+

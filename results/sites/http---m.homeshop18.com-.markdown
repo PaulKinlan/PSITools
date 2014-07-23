@@ -29,3 +29,15 @@ title: http://m.homeshop18.com/
 *  JS Response Bytes: 182571
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 555
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

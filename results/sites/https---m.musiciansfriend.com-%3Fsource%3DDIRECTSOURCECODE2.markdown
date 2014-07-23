@@ -29,3 +29,18 @@ title: https://m.musiciansfriend.com/?source=DIRECTSOURCECODE2
 *  JS Response Bytes: 825928
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2682
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

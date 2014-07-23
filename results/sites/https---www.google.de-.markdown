@@ -29,3 +29,13 @@ title: https://www.google.de/
 *  JS Response Bytes: 430323
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1712
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+

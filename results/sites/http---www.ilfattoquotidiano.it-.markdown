@@ -29,3 +29,15 @@ title: http://www.ilfattoquotidiano.it/
 *  JS Response Bytes: 848504
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7127
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

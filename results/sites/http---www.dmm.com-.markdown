@@ -29,3 +29,14 @@ title: http://www.dmm.com/
 *  JS Response Bytes: 159760
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5242
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

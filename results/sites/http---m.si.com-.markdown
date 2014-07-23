@@ -29,3 +29,18 @@ title: http://m.si.com/
 *  JS Response Bytes: 2167768
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3555869
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

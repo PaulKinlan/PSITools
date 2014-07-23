@@ -29,3 +29,16 @@ title: http://fr.openclassrooms.com/
 *  JS Response Bytes: 1248799
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 130646
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+

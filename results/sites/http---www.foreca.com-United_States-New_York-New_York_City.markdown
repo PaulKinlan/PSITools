@@ -29,3 +29,15 @@ title: http://www.foreca.com/United_States/New_York/New_York_City
 *  JS Response Bytes: 1543251
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30398
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

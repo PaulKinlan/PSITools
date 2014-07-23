@@ -29,3 +29,15 @@ title: http://www.lide.cz/
 *  JS Response Bytes: 726110
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8210
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+

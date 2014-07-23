@@ -29,3 +29,17 @@ title: http://the-star.co.ke/
 *  JS Response Bytes: 1886409
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21385
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

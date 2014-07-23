@@ -29,3 +29,16 @@ title: http://m.prnewswire.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1837
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

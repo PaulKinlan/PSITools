@@ -29,3 +29,16 @@ title: http://www.ordbogen.com/mobil/#___1__
 *  JS Response Bytes: 59189
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1420
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+

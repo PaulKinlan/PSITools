@@ -29,3 +29,18 @@ title: http://www.play.pl/?utm_expid=45543276-73.gONFz17BTTaCx0zr5s19pw.0
 *  JS Response Bytes: 1865610
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104806
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

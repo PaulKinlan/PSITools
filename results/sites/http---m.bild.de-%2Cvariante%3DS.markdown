@@ -29,3 +29,15 @@ title: http://m.bild.de/,variante=S
 *  JS Response Bytes: 412029
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3538
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+

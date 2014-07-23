@@ -29,3 +29,15 @@ title: http://espieddemo.wordpress.com/
 *  JS Response Bytes: 181346
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 269533
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

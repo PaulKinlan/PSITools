@@ -29,3 +29,16 @@ title: http://www.corriere.it/
 *  JS Response Bytes: 1259998
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 382206
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

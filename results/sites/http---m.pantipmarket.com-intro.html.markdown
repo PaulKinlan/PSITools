@@ -29,3 +29,13 @@ title: http://m.pantipmarket.com/intro.html
 *  JS Response Bytes: 40505
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1831
+
+### Performance issues
+
+
+### Performance issues
+
+*  Enable compression
+
+### Mobile UX issues
+

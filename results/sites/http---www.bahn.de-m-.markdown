@@ -29,3 +29,16 @@ title: http://www.bahn.de/m/
 *  JS Response Bytes: 338417
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1950
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Prioritize visible content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

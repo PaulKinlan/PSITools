@@ -29,3 +29,14 @@ title: http://iarouse.com/admin-square/dist-v1.2/index.html#/dashboard
 *  JS Response Bytes: 1147448
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103559
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+

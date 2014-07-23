@@ -29,3 +29,18 @@ title: http://m.amino.dk/default.aspx
 *  JS Response Bytes: 473847
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3173
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Prioritize visible content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

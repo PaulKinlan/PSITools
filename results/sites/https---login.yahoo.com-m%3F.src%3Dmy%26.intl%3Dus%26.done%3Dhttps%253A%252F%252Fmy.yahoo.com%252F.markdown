@@ -29,3 +29,17 @@ title: https://login.yahoo.com/m?.src=my&.intl=us&.done=https%3A%2F%2Fmy.yahoo.c
 *  JS Response Bytes: 261673
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2623
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,14 @@ title: http://www.jeevansathi.com/
 *  JS Response Bytes: 140899
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 355
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

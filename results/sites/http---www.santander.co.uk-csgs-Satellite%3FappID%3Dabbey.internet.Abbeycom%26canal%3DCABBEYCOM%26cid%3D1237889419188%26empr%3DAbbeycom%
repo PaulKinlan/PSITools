@@ -29,3 +29,17 @@ title: http://www.santander.co.uk/csgs/Satellite?appID=abbey.internet.Abbeycom&c
 *  JS Response Bytes: 95853
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1214
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

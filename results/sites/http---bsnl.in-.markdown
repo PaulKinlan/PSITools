@@ -29,3 +29,18 @@ title: http://bsnl.in/
 *  JS Response Bytes: 224990
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 639
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

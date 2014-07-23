@@ -29,3 +29,16 @@ title: http://m.shutterstock.com/
 *  JS Response Bytes: 253430
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1622
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+

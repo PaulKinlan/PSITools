@@ -29,3 +29,14 @@ title: http://www.tripadvisor.com.my/
 *  JS Response Bytes: 483583
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1576
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+

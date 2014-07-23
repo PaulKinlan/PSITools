@@ -29,3 +29,15 @@ title: http://www.infonu.nl/
 *  JS Response Bytes: 61390
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 247
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

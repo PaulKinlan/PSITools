@@ -29,3 +29,13 @@ title: https://www.google.nl/?gws_rd=ssl
 *  JS Response Bytes: 432615
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1734
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+

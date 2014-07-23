@@ -29,3 +29,18 @@ title: http://www.iibr.pl/pl/
 *  JS Response Bytes: 504067
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1531
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately

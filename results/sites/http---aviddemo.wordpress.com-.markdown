@@ -29,3 +29,16 @@ title: http://aviddemo.wordpress.com/
 *  JS Response Bytes: 1331107
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46638
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

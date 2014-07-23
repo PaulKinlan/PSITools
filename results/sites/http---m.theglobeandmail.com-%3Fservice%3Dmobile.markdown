@@ -29,3 +29,15 @@ title: http://m.theglobeandmail.com/?service=mobile
 *  JS Response Bytes: 254155
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8176
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

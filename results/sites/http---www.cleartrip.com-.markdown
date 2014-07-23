@@ -29,3 +29,14 @@ title: http://www.cleartrip.com/
 *  JS Response Bytes: 6458
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 524
+
+### Performance issues
+
+
+### Performance issues
+
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

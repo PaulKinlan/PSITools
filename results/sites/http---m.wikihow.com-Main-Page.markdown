@@ -29,3 +29,15 @@ title: http://m.wikihow.com/Main-Page
 *  JS Response Bytes: 388922
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 497
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

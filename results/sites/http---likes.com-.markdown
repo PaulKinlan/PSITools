@@ -29,3 +29,15 @@ title: http://likes.com/
 *  JS Response Bytes: 328918
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1176
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Improve server response time
+
+### Mobile UX issues
+

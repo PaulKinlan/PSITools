@@ -29,3 +29,17 @@ title: http://a1.ro/
 *  JS Response Bytes: 607105
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115900
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately

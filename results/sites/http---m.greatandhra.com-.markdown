@@ -29,3 +29,17 @@ title: http://m.greatandhra.com/
 *  JS Response Bytes: 381489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50170
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+

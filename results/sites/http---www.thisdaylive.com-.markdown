@@ -29,3 +29,18 @@ title: http://www.thisdaylive.com/
 *  JS Response Bytes: 1102760
 *  Flash Response Bytes: 93040
 *  Other Response Bytes: 1426
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately

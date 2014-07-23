@@ -29,3 +29,15 @@ title: http://www.zoso.ro/
 *  JS Response Bytes: 324311
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 181854
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

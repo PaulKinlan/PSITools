@@ -29,3 +29,16 @@ title: https://m.livingsocial.com/cities/13-san-jose/deals
 *  JS Response Bytes: 429486
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15911
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

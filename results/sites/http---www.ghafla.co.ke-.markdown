@@ -29,3 +29,14 @@ title: http://www.ghafla.co.ke/
 *  JS Response Bytes: 707998
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1360
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+

@@ -29,3 +29,19 @@ title: http://www.tupaki.com/index.php
 *  JS Response Bytes: 622944
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16867
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

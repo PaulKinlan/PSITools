@@ -29,3 +29,18 @@ title: http://carigold.com/
 *  JS Response Bytes: 87716
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 173
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

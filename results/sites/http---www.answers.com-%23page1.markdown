@@ -29,3 +29,16 @@ title: http://www.answers.com/#page1
 *  JS Response Bytes: 465439
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1121
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

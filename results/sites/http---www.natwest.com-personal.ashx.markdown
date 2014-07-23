@@ -29,3 +29,18 @@ title: http://www.natwest.com/personal.ashx
 *  JS Response Bytes: 1260716
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2641
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

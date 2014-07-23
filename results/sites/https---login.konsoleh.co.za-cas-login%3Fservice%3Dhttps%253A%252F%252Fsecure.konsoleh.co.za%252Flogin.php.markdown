@@ -29,3 +29,19 @@ title: https://login.konsoleh.co.za/cas/login?service=https%3A%2F%2Fsecure.konso
 *  JS Response Bytes: 177685
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5505
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

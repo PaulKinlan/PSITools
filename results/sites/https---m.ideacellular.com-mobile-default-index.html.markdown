@@ -29,3 +29,17 @@ title: https://m.ideacellular.com/mobile/default/index.html
 *  JS Response Bytes: 370053
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1176
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

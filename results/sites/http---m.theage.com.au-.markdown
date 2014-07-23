@@ -29,3 +29,19 @@ title: http://m.theage.com.au/
 *  JS Response Bytes: 958255
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18898
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately

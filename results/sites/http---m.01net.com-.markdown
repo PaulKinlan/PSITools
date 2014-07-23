@@ -29,3 +29,19 @@ title: http://m.01net.com/
 *  JS Response Bytes: 327419
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 66346
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

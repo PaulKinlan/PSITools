@@ -29,3 +29,18 @@ title: http://mobile.newsnow.co.uk/h/?_h=1
 *  JS Response Bytes: 570120
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26022
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

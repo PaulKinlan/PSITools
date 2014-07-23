@@ -29,3 +29,15 @@ title: http://m.skysports.com/
 *  JS Response Bytes: 298182
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31268
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

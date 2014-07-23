@@ -29,3 +29,15 @@ title: http://www.indeed.co.uk/m/
 *  JS Response Bytes: 105592
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3186
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+

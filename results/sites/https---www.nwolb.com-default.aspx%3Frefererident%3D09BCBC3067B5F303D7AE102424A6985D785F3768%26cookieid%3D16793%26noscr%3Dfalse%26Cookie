@@ -29,3 +29,16 @@ title: https://www.nwolb.com/default.aspx?refererident=09BCBC3067B5F303D7AE10242
 *  JS Response Bytes: 341591
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2994
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

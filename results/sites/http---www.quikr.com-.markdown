@@ -29,3 +29,16 @@ title: http://www.quikr.com/
 *  JS Response Bytes: 198746
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1120
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

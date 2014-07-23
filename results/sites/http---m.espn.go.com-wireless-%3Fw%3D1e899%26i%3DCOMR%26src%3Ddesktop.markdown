@@ -29,3 +29,15 @@ title: http://m.espn.go.com/wireless/?w=1e899&i=COMR&src=desktop
 *  JS Response Bytes: 449793
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5088
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

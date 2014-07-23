@@ -29,3 +29,18 @@ title: http://www.tatadocomo.com/
 *  JS Response Bytes: 848038
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7235
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

@@ -29,3 +29,13 @@ title: http://m.vk.com/
 *  JS Response Bytes: 164643
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1337
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+

@@ -29,3 +29,16 @@ title: https://shorte.st/monetize-external-links?utm_expid=74298948-3.kEqOVKvsRy
 *  JS Response Bytes: 874555
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 329567
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

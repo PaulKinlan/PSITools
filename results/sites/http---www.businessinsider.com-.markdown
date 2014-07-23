@@ -29,3 +29,14 @@ title: http://www.businessinsider.com/
 *  JS Response Bytes: 751643
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7503
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+

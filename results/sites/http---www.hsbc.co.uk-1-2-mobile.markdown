@@ -29,3 +29,15 @@ title: http://www.hsbc.co.uk/1/2/mobile
 *  JS Response Bytes: 634227
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115914
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,16 @@ title: http://www.mbank.cz/
 *  JS Response Bytes: 655853
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5546
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

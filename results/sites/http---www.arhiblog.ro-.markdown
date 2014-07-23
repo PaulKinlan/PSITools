@@ -29,3 +29,14 @@ title: http://www.arhiblog.ro/
 *  JS Response Bytes: 989576
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 583
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

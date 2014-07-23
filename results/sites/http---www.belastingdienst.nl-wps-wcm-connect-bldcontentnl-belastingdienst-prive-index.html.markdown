@@ -29,3 +29,16 @@ title: http://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdiens
 *  JS Response Bytes: 177600
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2386
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

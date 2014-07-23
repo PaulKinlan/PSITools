@@ -29,3 +29,18 @@ title: http://mail2web.com/
 *  JS Response Bytes: 514439
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40400
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

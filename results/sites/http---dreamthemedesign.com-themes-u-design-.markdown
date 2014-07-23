@@ -29,3 +29,16 @@ title: http://dreamthemedesign.com/themes/u-design/
 *  JS Response Bytes: 1067967
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32619
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,15 @@ title: http://www.webs.com/
 *  JS Response Bytes: 713214
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 240639
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

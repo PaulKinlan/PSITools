@@ -29,3 +29,16 @@ title: http://touch.pricecheck.co.za/
 *  JS Response Bytes: 75910
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1390
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+

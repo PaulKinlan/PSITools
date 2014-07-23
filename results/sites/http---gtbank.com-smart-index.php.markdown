@@ -29,3 +29,18 @@ title: http://gtbank.com/smart/index.php
 *  JS Response Bytes: 178256
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28088
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,17 @@ title: http://t.msn.com/
 *  JS Response Bytes: 383931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4143
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,18 @@ title: http://m.mthai.com/
 *  JS Response Bytes: 144974
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 970
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

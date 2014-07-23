@@ -29,3 +29,18 @@ title: http://bpiexpressonline.com/
 *  JS Response Bytes: 294889
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 977
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

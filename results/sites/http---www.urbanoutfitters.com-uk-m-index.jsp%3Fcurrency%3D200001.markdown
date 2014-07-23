@@ -29,3 +29,15 @@ title: http://www.urbanoutfitters.com/uk/m/index.jsp?currency=200001
 *  JS Response Bytes: 919061
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2958
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+

@@ -29,3 +29,19 @@ title: http://www.ft.com/home/uk
 *  JS Response Bytes: 1452973
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61098
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

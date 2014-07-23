@@ -29,3 +29,16 @@ title: http://www.theguardian.com/us
 *  JS Response Bytes: 620595
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9550
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

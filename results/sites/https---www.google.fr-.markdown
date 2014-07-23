@@ -29,3 +29,13 @@ title: https://www.google.fr/
 *  JS Response Bytes: 430368
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1712
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+

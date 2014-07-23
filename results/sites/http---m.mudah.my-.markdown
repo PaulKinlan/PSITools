@@ -29,3 +29,14 @@ title: http://m.mudah.my/
 *  JS Response Bytes: 168443
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2449
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+

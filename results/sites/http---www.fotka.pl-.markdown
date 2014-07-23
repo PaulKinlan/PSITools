@@ -29,3 +29,16 @@ title: http://www.fotka.pl/
 *  JS Response Bytes: 142244
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1305
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

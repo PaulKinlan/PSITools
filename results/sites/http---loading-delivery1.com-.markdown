@@ -29,3 +29,13 @@ title: http://loading-delivery1.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 420
+
+### Performance issues
+
+
+### Performance issues
+
+
+### Mobile UX issues
+
+*  Use legible font sizes

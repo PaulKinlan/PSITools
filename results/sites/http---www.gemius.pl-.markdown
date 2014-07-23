@@ -29,3 +29,15 @@ title: http://www.gemius.pl/
 *  JS Response Bytes: 161859
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1464
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

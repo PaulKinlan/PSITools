@@ -29,3 +29,16 @@ title: https://mobile.bet365.com/languages.aspx
 *  JS Response Bytes: 31297
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1053
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prioritize visible content
+
+### Mobile UX issues
+

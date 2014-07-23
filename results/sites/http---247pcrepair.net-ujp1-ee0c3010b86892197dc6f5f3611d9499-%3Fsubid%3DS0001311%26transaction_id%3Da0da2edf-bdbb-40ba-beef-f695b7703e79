@@ -29,3 +29,18 @@ title: http://247pcrepair.net/ujp1/ee0c3010b86892197dc6f5f3611d9499/?subid=S0001
 *  JS Response Bytes: 104828
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 734
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

@@ -29,3 +29,17 @@ title: http://rol.ro/
 *  JS Response Bytes: 956052
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3882
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

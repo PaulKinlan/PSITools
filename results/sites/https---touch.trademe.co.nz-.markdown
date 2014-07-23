@@ -29,3 +29,17 @@ title: https://touch.trademe.co.nz/
 *  JS Response Bytes: 1968595
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27635
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

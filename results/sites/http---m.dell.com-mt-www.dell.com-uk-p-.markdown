@@ -29,3 +29,17 @@ title: http://m.dell.com/mt/www.dell.com/uk/p/
 *  JS Response Bytes: 87058
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11133
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

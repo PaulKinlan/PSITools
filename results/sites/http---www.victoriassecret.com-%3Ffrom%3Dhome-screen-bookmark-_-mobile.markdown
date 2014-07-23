@@ -29,3 +29,14 @@ title: http://www.victoriassecret.com/?from=home-screen-bookmark-_-mobile
 *  JS Response Bytes: 327756
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15262
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+

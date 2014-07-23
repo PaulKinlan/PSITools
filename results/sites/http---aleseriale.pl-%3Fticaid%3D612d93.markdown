@@ -29,3 +29,19 @@ title: http://aleseriale.pl/?ticaid=612d93
 *  JS Response Bytes: 876557
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 82814
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

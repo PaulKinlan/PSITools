@@ -29,3 +29,14 @@ title: http://popcash.net/
 *  JS Response Bytes: 267668
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61016
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

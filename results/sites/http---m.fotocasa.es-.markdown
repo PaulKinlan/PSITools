@@ -29,3 +29,15 @@ title: http://m.fotocasa.es/
 *  JS Response Bytes: 107470
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 597
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+

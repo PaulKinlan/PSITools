@@ -29,3 +29,15 @@ title: http://m.rediff.com/
 *  JS Response Bytes: 7964
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1090
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

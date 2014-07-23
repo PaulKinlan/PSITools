@@ -29,3 +29,18 @@ title: http://www.mangareader.net/
 *  JS Response Bytes: 489044
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47977
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

@@ -29,3 +29,14 @@ title: http://m.nrc.nl/
 *  JS Response Bytes: 199219
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 899
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

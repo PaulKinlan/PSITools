@@ -29,3 +29,15 @@ title: http://ameblo.jp/
 *  JS Response Bytes: 95752
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 389
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,13 @@ title: http://heftig.co/
 *  JS Response Bytes: 585071
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 315630
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+

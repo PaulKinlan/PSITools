@@ -29,3 +29,15 @@ title: http://in.bookmyshow.com/m5/
 *  JS Response Bytes: 353373
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1064
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

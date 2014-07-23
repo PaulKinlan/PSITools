@@ -29,3 +29,15 @@ title: http://www.theguardian.com/football
 *  JS Response Bytes: 787032
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12131
+
+### Performance issues
+
+
+### Performance issues
+
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

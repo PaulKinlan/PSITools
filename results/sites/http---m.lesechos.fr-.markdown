@@ -29,3 +29,17 @@ title: http://m.lesechos.fr/
 *  JS Response Bytes: 205416
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51505
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

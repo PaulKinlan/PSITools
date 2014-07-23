@@ -29,3 +29,19 @@ title: http://m.divyabhaskar.co.in/home/320-t/
 *  JS Response Bytes: 687617
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13300
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

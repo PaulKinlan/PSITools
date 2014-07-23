@@ -29,3 +29,16 @@ title: http://www.surfline.com/home/index.cfm
 *  JS Response Bytes: 1034146
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15872
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

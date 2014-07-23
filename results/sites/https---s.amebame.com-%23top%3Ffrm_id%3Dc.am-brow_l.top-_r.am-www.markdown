@@ -29,3 +29,17 @@ title: https://s.amebame.com/#top?frm_id=c.am-brow_l.top-_r.am-www
 *  JS Response Bytes: 429901
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1471
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

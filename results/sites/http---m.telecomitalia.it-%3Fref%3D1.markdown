@@ -29,3 +29,16 @@ title: http://m.telecomitalia.it/?ref=1
 *  JS Response Bytes: 489275
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30339
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,16 @@ title: http://www.abs-cbnnews.com/
 *  JS Response Bytes: 943890
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21878
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

@@ -29,3 +29,16 @@ title: http://www.forbes.com/fdc/welcome_mjx_mobile.html
 *  JS Response Bytes: 752382
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4224
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+

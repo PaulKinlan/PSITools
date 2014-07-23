@@ -29,3 +29,16 @@ title: http://www.cineblog01.tv/
 *  JS Response Bytes: 1772667
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287642
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

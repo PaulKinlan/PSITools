@@ -29,3 +29,16 @@ title: http://www.blox.pl/html
 *  JS Response Bytes: 853742
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2270
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

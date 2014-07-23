@@ -29,3 +29,17 @@ title: http://www.ehow.com/
 *  JS Response Bytes: 342052
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 407
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

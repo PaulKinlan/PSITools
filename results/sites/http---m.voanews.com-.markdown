@@ -29,3 +29,14 @@ title: http://m.voanews.com/
 *  JS Response Bytes: 249763
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2539
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+

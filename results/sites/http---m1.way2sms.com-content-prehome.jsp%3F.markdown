@@ -29,3 +29,14 @@ title: http://m1.way2sms.com/content/prehome.jsp?
 *  JS Response Bytes: 173480
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1310
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

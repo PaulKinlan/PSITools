@@ -29,3 +29,16 @@ title: http://m.focus.de/
 *  JS Response Bytes: 1141025
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3136
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

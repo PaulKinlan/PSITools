@@ -29,3 +29,17 @@ title: https://iphone.paddypower.it/#!/
 *  JS Response Bytes: 502692
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10099
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

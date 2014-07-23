@@ -83,6 +83,14 @@ category: industry
 *  JS Response Bytes: 93425
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61
+
+### Performance issues
+
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -111,6 +119,14 @@ category: industry
 *  JS Response Bytes: 357434
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 161721
+
+### Performance issues
+
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -139,6 +155,17 @@ category: industry
 *  JS Response Bytes: 621525
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30614
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -167,6 +194,16 @@ category: industry
 *  JS Response Bytes: 2074182
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1019
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -195,6 +232,14 @@ category: industry
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29769
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -223,6 +268,14 @@ category: industry
 *  JS Response Bytes: 141813
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 180199
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -251,6 +304,15 @@ category: industry
 *  JS Response Bytes: 104834
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46049
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -279,6 +341,14 @@ category: industry
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -307,6 +377,14 @@ category: industry
 *  JS Response Bytes: 213075
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63279
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -335,6 +413,16 @@ category: industry
 *  JS Response Bytes: 93385
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15531
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -363,6 +451,16 @@ category: industry
 *  JS Response Bytes: 2372454
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 205070
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -391,6 +489,15 @@ category: industry
 *  JS Response Bytes: 765265
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105924
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Improve server response time
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -419,6 +526,16 @@ category: industry
 *  JS Response Bytes: 1346398
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53129
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -447,6 +564,18 @@ category: industry
 *  JS Response Bytes: 2027667
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 318939
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -475,6 +604,15 @@ category: industry
 *  JS Response Bytes: 1377001
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58974
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -503,6 +641,15 @@ category: industry
 *  JS Response Bytes: 1553167
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 347553
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -531,6 +678,17 @@ category: industry
 *  JS Response Bytes: 1334640
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 169306
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Use legible font sizes
 <hr>
 
 
@@ -559,6 +717,16 @@ category: industry
 *  JS Response Bytes: 95533
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 68
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -587,6 +755,16 @@ category: industry
 *  JS Response Bytes: 1046231
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 208015
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -615,6 +793,14 @@ category: industry
 *  JS Response Bytes: 3232
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49976
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -643,6 +829,18 @@ category: industry
 *  JS Response Bytes: 493242
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 136378
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -671,6 +869,15 @@ category: industry
 *  JS Response Bytes: 219046
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 803985
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -699,6 +906,16 @@ category: industry
 *  JS Response Bytes: 369684
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 362781
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -727,6 +944,16 @@ category: industry
 *  JS Response Bytes: 805508
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -755,6 +982,15 @@ category: industry
 *  JS Response Bytes: 332083
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 65809
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Improve server response time
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -783,6 +1019,16 @@ category: industry
 *  JS Response Bytes: 1230733
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28499
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -811,6 +1057,16 @@ category: industry
 *  JS Response Bytes: 416848
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 143274
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -839,6 +1095,15 @@ category: industry
 *  JS Response Bytes: 544473
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 76639
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -867,6 +1132,16 @@ category: industry
 *  JS Response Bytes: 606942
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106858
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -895,6 +1170,14 @@ category: industry
 *  JS Response Bytes: 518524
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 82493
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -923,6 +1206,14 @@ category: industry
 *  JS Response Bytes: 1147448
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103559
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -951,6 +1242,18 @@ category: industry
 *  JS Response Bytes: 1303201
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 138565
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -979,6 +1282,17 @@ category: industry
 *  JS Response Bytes: 1531993
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 227272
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -1007,6 +1321,14 @@ category: industry
 *  JS Response Bytes: 156546
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -1035,6 +1357,17 @@ category: industry
 *  JS Response Bytes: 1295310
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 84882
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1063,6 +1396,16 @@ category: industry
 *  JS Response Bytes: 1294150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 316042
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1091,6 +1434,16 @@ category: industry
 *  JS Response Bytes: 1137251
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118929
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1119,6 +1472,17 @@ category: industry
 *  JS Response Bytes: 2337647
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 241448
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1147,6 +1511,16 @@ category: industry
 *  JS Response Bytes: 716153
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 932195
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1175,6 +1549,17 @@ category: industry
 *  JS Response Bytes: 1032105
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 545522
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1203,6 +1588,15 @@ category: industry
 *  JS Response Bytes: 986555
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104936
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1231,6 +1625,19 @@ category: industry
 *  JS Response Bytes: 416011
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 203573
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -1259,6 +1666,16 @@ category: industry
 *  JS Response Bytes: 1067967
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32619
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1287,6 +1704,17 @@ category: industry
 *  JS Response Bytes: 373663
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 62420
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1315,6 +1743,15 @@ category: industry
 *  JS Response Bytes: 630155
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148421
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -1343,6 +1780,18 @@ category: industry
 *  JS Response Bytes: 1737968
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 297904
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -1371,6 +1820,17 @@ category: industry
 *  JS Response Bytes: 835715
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 76639
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1399,6 +1859,17 @@ category: industry
 *  JS Response Bytes: 896828
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 145788
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1427,6 +1898,15 @@ category: industry
 *  JS Response Bytes: 655224
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46406
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1455,4 +1935,15 @@ category: industry
 *  JS Response Bytes: 1009655
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>

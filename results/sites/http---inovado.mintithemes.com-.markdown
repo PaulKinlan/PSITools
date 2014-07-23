@@ -29,3 +29,17 @@ title: http://inovado.mintithemes.com/
 *  JS Response Bytes: 373663
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 62420
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

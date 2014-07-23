@@ -29,3 +29,14 @@ title: http://m.cricbuzz.com/cricbuzz-roadblock/cbz-iphone-app/0?show_header=fal
 *  JS Response Bytes: 59743
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 535
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+

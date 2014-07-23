@@ -29,3 +29,17 @@ title: http://m.csmonitor.com/
 *  JS Response Bytes: 1525537
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7589
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

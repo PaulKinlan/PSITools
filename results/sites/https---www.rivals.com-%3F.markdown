@@ -29,3 +29,17 @@ title: https://www.rivals.com/?
 *  JS Response Bytes: 801813
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8230
+
+### Performance issues
+
+
+### Performance issues
+
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

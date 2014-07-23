@@ -29,3 +29,14 @@ title: http://www.slideshare.net/mobile/
 *  JS Response Bytes: 921524
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4323
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

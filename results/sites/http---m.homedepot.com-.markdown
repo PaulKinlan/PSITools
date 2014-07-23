@@ -29,3 +29,17 @@ title: http://m.homedepot.com/
 *  JS Response Bytes: 615965
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2258
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

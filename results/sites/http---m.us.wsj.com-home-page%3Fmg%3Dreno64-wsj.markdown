@@ -29,3 +29,17 @@ title: http://m.us.wsj.com/home-page?mg=reno64-wsj
 *  JS Response Bytes: 375348
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7032
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

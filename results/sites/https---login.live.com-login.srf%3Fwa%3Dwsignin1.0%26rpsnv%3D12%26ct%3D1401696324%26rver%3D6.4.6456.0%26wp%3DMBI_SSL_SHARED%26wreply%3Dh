@@ -29,3 +29,16 @@ title: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1401696324&rve
 *  JS Response Bytes: 29715
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2463
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prioritize visible content
+
+### Mobile UX issues
+

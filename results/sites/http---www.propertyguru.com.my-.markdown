@@ -29,3 +29,13 @@ title: http://www.propertyguru.com.my/
 *  JS Response Bytes: 15641
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 347
+
+### Performance issues
+
+
+### Performance issues
+
+*  Improve server response time
+
+### Mobile UX issues
+

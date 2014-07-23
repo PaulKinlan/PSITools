@@ -29,3 +29,15 @@ title: http://www.zalora.co.id/
 *  JS Response Bytes: 900184
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14201
+
+### Performance issues
+
+
+### Performance issues
+
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

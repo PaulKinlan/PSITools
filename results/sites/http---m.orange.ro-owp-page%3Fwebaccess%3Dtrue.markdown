@@ -29,3 +29,15 @@ title: http://m.orange.ro/owp/page?webaccess=true
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 710
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

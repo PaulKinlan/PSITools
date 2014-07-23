@@ -29,3 +29,14 @@ title: http://demo.tagdiv.com/newspaper/
 *  JS Response Bytes: 357434
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 161721
+
+### Performance issues
+
+
+### Performance issues
+
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

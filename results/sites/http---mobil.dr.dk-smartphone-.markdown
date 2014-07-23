@@ -29,3 +29,16 @@ title: http://mobil.dr.dk/smartphone/
 *  JS Response Bytes: 587549
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1144
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

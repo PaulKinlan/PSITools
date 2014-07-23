@@ -29,3 +29,18 @@ title: http://profootballtalk.nbcsports.com/
 *  JS Response Bytes: 2385836
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10701
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

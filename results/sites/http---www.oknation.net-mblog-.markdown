@@ -29,3 +29,17 @@ title: http://www.oknation.net/mblog/
 *  JS Response Bytes: 8880
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 665
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+

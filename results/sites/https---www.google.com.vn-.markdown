@@ -29,3 +29,13 @@ title: https://www.google.com.vn/
 *  JS Response Bytes: 402404
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1736
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+

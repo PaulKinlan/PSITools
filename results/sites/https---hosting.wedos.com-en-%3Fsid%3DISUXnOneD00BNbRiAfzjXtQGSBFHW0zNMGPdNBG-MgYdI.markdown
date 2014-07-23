@@ -29,3 +29,16 @@ title: https://hosting.wedos.com/en/?sid=ISUXnOneD00BNbRiAfzjXtQGSBFHW0zNMGPdNBG
 *  JS Response Bytes: 1125453
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97497
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

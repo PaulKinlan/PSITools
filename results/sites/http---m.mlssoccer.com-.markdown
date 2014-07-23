@@ -29,3 +29,16 @@ title: http://m.mlssoccer.com/
 *  JS Response Bytes: 479223
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3340
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

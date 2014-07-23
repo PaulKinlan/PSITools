@@ -29,3 +29,16 @@ title: http://news.sky.com/
 *  JS Response Bytes: 506564
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4777
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately

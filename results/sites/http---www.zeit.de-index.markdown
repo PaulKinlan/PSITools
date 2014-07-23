@@ -29,3 +29,14 @@ title: http://www.zeit.de/index
 *  JS Response Bytes: 378031
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 128578
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+

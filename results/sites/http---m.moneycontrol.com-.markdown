@@ -29,3 +29,16 @@ title: http://m.moneycontrol.com/
 *  JS Response Bytes: 1278040
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2191
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

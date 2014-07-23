@@ -29,3 +29,16 @@ title: http://themes-lab.com/preview/?theme=Pixit%20Admin
 *  JS Response Bytes: 2372454
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 205070
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

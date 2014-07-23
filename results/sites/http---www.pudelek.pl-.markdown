@@ -29,3 +29,16 @@ title: http://www.pudelek.pl/
 *  JS Response Bytes: 780021
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24906
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

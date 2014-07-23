@@ -29,3 +29,13 @@ title: https://www.google.es/?gws_rd=ssl
 *  JS Response Bytes: 432627
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2094
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+

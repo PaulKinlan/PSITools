@@ -29,3 +29,16 @@ title: https://developers.google.com/chrome/
 *  JS Response Bytes: 1163503
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 160197
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

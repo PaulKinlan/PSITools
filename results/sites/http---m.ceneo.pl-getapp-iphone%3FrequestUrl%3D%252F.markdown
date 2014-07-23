@@ -29,3 +29,13 @@ title: http://m.ceneo.pl/getapp/iphone?requestUrl=%2F
 *  JS Response Bytes: 40505
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1715
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+

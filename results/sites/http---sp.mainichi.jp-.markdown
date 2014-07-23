@@ -29,3 +29,15 @@ title: http://sp.mainichi.jp/
 *  JS Response Bytes: 1038874
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3146
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

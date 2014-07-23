@@ -29,3 +29,15 @@ title: http://irctc.co.in/
 *  JS Response Bytes: 788930
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17620
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

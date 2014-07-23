@@ -6,6 +6,7 @@ import urllib2
 import urllib
 import sys
 import fileinput
+import pprint
 from cgi import escape
 
 pagespeed_url = "https://developers.google.com/speed/pagespeed/insights/?url="
@@ -21,7 +22,8 @@ for line in fileinput.input():
       "score": obj["score"],
       "pageStats": obj["pageStats"],
       "image_mime": obj["screenshot"]["mime_type"],
-      "image_url": obj["screenshot"]["data"].replace("_", "/").replace("-", "+")
+      "image_url": obj["screenshot"]["data"].replace("_", "/").replace("-", "+"),
+      "formattedResults": obj["formattedResults"]
     }) 
 
 sorted_sites = sorted(sites, key=lambda k: k['score'])
@@ -47,9 +49,15 @@ for site in sorted_sites:
   url = id[:150] if len(id) > 150 else id
   title = site["title"]
   score = site["score"]
+  formatted_results = site["formattedResults"] if "formattedResults" in site else {}
+  rule_results = formatted_results["ruleResults"] if "ruleResults" in formatted_results else {ruleImpact: 0}
   pageStats = site["pageStats"]
   image_mime = site["image_mime"]
   image_url = site["image_url"]
+
+  speed_rules = [u"AvoidLandingPageRedirects", u"MinimizeRenderBlockingResources", u"InlineRenderBlockingCss", u"PreferAsyncResources", u"PrioritizeVisibleContent", u"EnableGzipCompression", u"ServerResponseTime"]
+  ux_rules = [u"AvoidPlugins", u"Configure Viewport", u"SizeContentToViewport", u"SizeTapTargetsAppropriately", u"UseLegibleFontSizes"]
+
 
   print "\n"
 
@@ -79,8 +87,16 @@ for site in sorted_sites:
   print "*  Flash Response Bytes: %s" % (pageStats.get("flashResponseBytes", "0"))
   print "*  Other Response Bytes: %s" % (pageStats.get("otherResponseBytes", "0"))
 
+  print "\n### Performance issues\n"
+  for rule in speed_rules:
+    if rule in rule_results and rule_results[rule]["ruleImpact"] > 0:
+      print "*  %s" % (rule_results[rule]["localizedRuleName"])
+
+  print "\n### Mobile UX issues\n"
+  for rule in ux_rules:
+    if rule in rule_results and rule_results[rule]["ruleImpact"] > 0:
+      print "*  %s" % (rule_results[rule]["localizedRuleName"])
+
   print "<hr>"
   
-
   sys.stdout.flush()
-

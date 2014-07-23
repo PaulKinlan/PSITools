@@ -29,3 +29,16 @@ title: http://www.cheki.co.ke/
 *  JS Response Bytes: 264987
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 227
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+

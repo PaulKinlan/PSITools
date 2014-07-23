@@ -29,3 +29,15 @@ title: http://m.taringa.net/top/posts/
 *  JS Response Bytes: 367820
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 37237
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+

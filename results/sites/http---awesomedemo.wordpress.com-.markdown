@@ -29,3 +29,17 @@ title: http://awesomedemo.wordpress.com/
 *  JS Response Bytes: 1350792
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 191591
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

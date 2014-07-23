@@ -29,3 +29,15 @@ title: http://pantip.com/
 *  JS Response Bytes: 1071409
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 545
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

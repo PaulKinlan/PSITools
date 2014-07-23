@@ -29,3 +29,15 @@ title: https://touch.www.linkedin.com/?sessionid=3622110467457024&or=true#home
 *  JS Response Bytes: 14620
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1898
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+

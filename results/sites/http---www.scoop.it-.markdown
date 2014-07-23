@@ -29,3 +29,16 @@ title: http://www.scoop.it/
 *  JS Response Bytes: 1685113
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 170021
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

@@ -29,3 +29,17 @@ title: http://www.colissimo.fr/particuliers/home.jsp
 *  JS Response Bytes: 284635
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2674
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

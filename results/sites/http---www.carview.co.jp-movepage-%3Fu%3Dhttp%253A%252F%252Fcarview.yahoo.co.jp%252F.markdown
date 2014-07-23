@@ -29,3 +29,15 @@ title: http://www.carview.co.jp/movepage/?u=http%3A%2F%2Fcarview.yahoo.co.jp%2F
 *  JS Response Bytes: 40505
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 895
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+

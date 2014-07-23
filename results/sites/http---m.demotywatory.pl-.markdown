@@ -29,3 +29,15 @@ title: http://m.demotywatory.pl/
 *  JS Response Bytes: 1007344
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39382
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

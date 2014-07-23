@@ -29,3 +29,16 @@ title: http://www.vi.nl/home.htm?channel=phone
 *  JS Response Bytes: 1200375
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 142682
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+

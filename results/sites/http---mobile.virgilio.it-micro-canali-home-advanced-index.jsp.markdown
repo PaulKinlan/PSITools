@@ -29,3 +29,17 @@ title: http://mobile.virgilio.it/micro/canali/home/advanced/index.jsp
 *  JS Response Bytes: 517622
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6313
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

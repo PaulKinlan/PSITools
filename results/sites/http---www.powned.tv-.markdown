@@ -29,3 +29,18 @@ title: http://www.powned.tv/
 *  JS Response Bytes: 191727
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9043
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

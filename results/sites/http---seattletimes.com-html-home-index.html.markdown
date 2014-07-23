@@ -29,3 +29,19 @@ title: http://seattletimes.com/html/home/index.html
 *  JS Response Bytes: 1778537
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28055
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

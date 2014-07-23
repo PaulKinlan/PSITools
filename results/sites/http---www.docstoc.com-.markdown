@@ -29,3 +29,15 @@ title: http://www.docstoc.com/
 *  JS Response Bytes: 391544
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33643
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,14 @@ title: http://m.orange.pl/m-start.phtml
 *  JS Response Bytes: 454064
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2085
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+

@@ -29,3 +29,16 @@ title: http://m.ulozto.cz/
 *  JS Response Bytes: 558912
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16099
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

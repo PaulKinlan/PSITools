@@ -29,3 +29,17 @@ title: http://m.avg.com/
 *  JS Response Bytes: 799336
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2914
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

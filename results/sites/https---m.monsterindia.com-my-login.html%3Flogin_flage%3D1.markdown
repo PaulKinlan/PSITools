@@ -29,3 +29,15 @@ title: https://m.monsterindia.com/my/login.html?login_flage=1
 *  JS Response Bytes: 402835
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5454
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+

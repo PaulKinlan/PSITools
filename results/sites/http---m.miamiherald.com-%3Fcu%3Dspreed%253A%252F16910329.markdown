@@ -29,3 +29,17 @@ title: http://m.miamiherald.com/?cu=spreed%3A%2F16910329
 *  JS Response Bytes: 567636
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34097
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+

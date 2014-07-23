@@ -29,3 +29,18 @@ title: http://www.lowyat.net/
 *  JS Response Bytes: 1608034
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 435849
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

@@ -29,3 +29,15 @@ title: http://demo.codestag.com/?theme=ink
 *  JS Response Bytes: 332083
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 65809
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Improve server response time
+
+### Mobile UX issues
+

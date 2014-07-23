@@ -124,6 +124,12 @@ category: country
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1514
+
+### Performance issues
+
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -152,6 +158,12 @@ category: country
 *  JS Response Bytes: 36844
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1708
+
+### Performance issues
+
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -180,6 +192,16 @@ category: country
 *  JS Response Bytes: 23031
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
+
+### Performance issues
+
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -208,6 +230,14 @@ category: country
 *  JS Response Bytes: 645567
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3890
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -236,6 +266,16 @@ category: country
 *  JS Response Bytes: 1273546
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -264,6 +304,17 @@ category: country
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 288
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -292,6 +343,16 @@ category: country
 *  JS Response Bytes: 191884
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2987
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -320,6 +381,15 @@ category: country
 *  JS Response Bytes: 5459
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2966
+
+### Performance issues
+
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -348,6 +418,15 @@ category: country
 *  JS Response Bytes: 479574
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2287
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -376,6 +455,15 @@ category: country
 *  JS Response Bytes: 186809
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -404,6 +492,15 @@ category: country
 *  JS Response Bytes: 7390
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 667
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -432,6 +529,17 @@ category: country
 *  JS Response Bytes: 9733
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59665
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -460,6 +568,15 @@ category: country
 *  JS Response Bytes: 656481
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20383
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -488,6 +605,13 @@ category: country
 *  JS Response Bytes: 430430
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1734
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -516,6 +640,13 @@ category: country
 *  JS Response Bytes: 432626
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2324
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -544,6 +675,15 @@ category: country
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 710
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -572,6 +712,14 @@ category: country
 *  JS Response Bytes: 989576
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 583
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -600,6 +748,15 @@ category: country
 *  JS Response Bytes: 265284
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -628,6 +785,16 @@ category: country
 *  JS Response Bytes: 1445676
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 143485
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -656,6 +823,14 @@ category: country
 *  JS Response Bytes: 360328
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 237241
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -684,6 +859,16 @@ category: country
 *  JS Response Bytes: 429089
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 140
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -712,6 +897,19 @@ category: country
 *  JS Response Bytes: 1986535
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98255
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -740,6 +938,14 @@ category: country
 *  JS Response Bytes: 249955
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9513
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -768,6 +974,14 @@ category: country
 *  JS Response Bytes: 256788
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 824
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -796,6 +1010,17 @@ category: country
 *  JS Response Bytes: 273354
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -824,6 +1049,13 @@ category: country
 *  JS Response Bytes: 620098
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 233
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -852,6 +1084,13 @@ category: country
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3592
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -880,6 +1119,18 @@ category: country
 *  JS Response Bytes: 2247334
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46743
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -908,6 +1159,18 @@ category: country
 *  JS Response Bytes: 646584
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95670
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -936,6 +1199,15 @@ category: country
 *  JS Response Bytes: 324311
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 181854
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -964,6 +1236,16 @@ category: country
 *  JS Response Bytes: 1857192
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97293
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -992,6 +1274,15 @@ category: country
 *  JS Response Bytes: 837
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12310
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -1020,6 +1311,16 @@ category: country
 *  JS Response Bytes: 505364
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2086
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -1048,6 +1349,16 @@ category: country
 *  JS Response Bytes: 96568
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 845
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -1076,6 +1387,17 @@ category: country
 *  JS Response Bytes: 816728
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95394
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1104,6 +1426,13 @@ category: country
 *  JS Response Bytes: 41132
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 79
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -1132,6 +1461,16 @@ category: country
 *  JS Response Bytes: 274370
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 79
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -1160,6 +1499,16 @@ category: country
 *  JS Response Bytes: 81245
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1561
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1188,6 +1537,15 @@ category: country
 *  JS Response Bytes: 646736
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13775
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1216,6 +1574,15 @@ category: country
 *  JS Response Bytes: 14659
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1900
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -1244,6 +1611,18 @@ category: country
 *  JS Response Bytes: 468789
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17200
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1272,6 +1651,15 @@ category: country
 *  JS Response Bytes: 448841
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4389
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1300,6 +1688,17 @@ category: country
 *  JS Response Bytes: 1252944
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95054
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -1328,6 +1727,18 @@ category: country
 *  JS Response Bytes: 615588
 *  Flash Response Bytes: 15629
 *  Other Response Bytes: 2884
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -1356,6 +1767,15 @@ category: country
 *  JS Response Bytes: 120583
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1565
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1384,6 +1804,15 @@ category: country
 *  JS Response Bytes: 239736
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46257
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1412,6 +1841,15 @@ category: country
 *  JS Response Bytes: 109492
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 871
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Prioritize visible content
+*  Improve server response time
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -1440,6 +1878,17 @@ category: country
 *  JS Response Bytes: 71323
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1042
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1468,6 +1917,17 @@ category: country
 *  JS Response Bytes: 203219
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4512
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1496,6 +1956,17 @@ category: country
 *  JS Response Bytes: 487415
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1992
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1524,6 +1995,15 @@ category: country
 *  JS Response Bytes: 1620733
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1190
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1552,6 +2032,17 @@ category: country
 *  JS Response Bytes: 956052
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3882
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1580,6 +2071,18 @@ category: country
 *  JS Response Bytes: 605754
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 138986
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1608,6 +2111,14 @@ category: country
 *  JS Response Bytes: 990464
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1554
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -1636,6 +2147,19 @@ category: country
 *  JS Response Bytes: 502794
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42324
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1664,6 +2188,15 @@ category: country
 *  JS Response Bytes: 468989
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148209
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1692,6 +2225,16 @@ category: country
 *  JS Response Bytes: 290205
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3234
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1720,6 +2263,17 @@ category: country
 *  JS Response Bytes: 1206278
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6166
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -1748,6 +2302,16 @@ category: country
 *  JS Response Bytes: 475998
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24994
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1776,6 +2340,18 @@ category: country
 *  JS Response Bytes: 267039
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1245
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -1804,6 +2380,16 @@ category: country
 *  JS Response Bytes: 310881
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16646
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -1832,6 +2418,18 @@ category: country
 *  JS Response Bytes: 175563
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1775
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1860,6 +2458,16 @@ category: country
 *  JS Response Bytes: 310336
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 778
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1888,6 +2496,18 @@ category: country
 *  JS Response Bytes: 231034
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1252
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1916,6 +2536,14 @@ category: country
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56825
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1944,6 +2572,16 @@ category: country
 *  JS Response Bytes: 149418
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46956
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -1972,6 +2610,16 @@ category: country
 *  JS Response Bytes: 261299
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 69725
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -2000,6 +2648,18 @@ category: country
 *  JS Response Bytes: 175296
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1466
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -2028,6 +2688,17 @@ category: country
 *  JS Response Bytes: 181313
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1610
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -2056,6 +2727,17 @@ category: country
 *  JS Response Bytes: 731060
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1713
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -2084,6 +2766,17 @@ category: country
 *  JS Response Bytes: 336346
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 717
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -2112,6 +2805,18 @@ category: country
 *  JS Response Bytes: 427875
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 85358
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Prioritize visible content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -2140,6 +2845,17 @@ category: country
 *  JS Response Bytes: 399750
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 811
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -2168,6 +2884,17 @@ category: country
 *  JS Response Bytes: 31297
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1053
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prioritize visible content
+*  Improve server response time
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -2196,6 +2923,18 @@ category: country
 *  JS Response Bytes: 370474
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1890
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -2224,6 +2963,16 @@ category: country
 *  JS Response Bytes: 29715
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2463
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prioritize visible content
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -2252,6 +3001,15 @@ category: country
 *  JS Response Bytes: 327487
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1847
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -2280,6 +3038,17 @@ category: country
 *  JS Response Bytes: 495534
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5420
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -2308,6 +3077,17 @@ category: country
 *  JS Response Bytes: 443936
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1419
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -2336,6 +3116,15 @@ category: country
 *  JS Response Bytes: 381051
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 268
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+
 <hr>
 
 
@@ -2364,6 +3153,18 @@ category: country
 *  JS Response Bytes: 639093
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45734
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -2392,6 +3193,15 @@ category: country
 *  JS Response Bytes: 921032
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 137976
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -2420,6 +3230,17 @@ category: country
 *  JS Response Bytes: 339049
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1907
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -2448,6 +3269,18 @@ category: country
 *  JS Response Bytes: 697119
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11116
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -2476,6 +3309,17 @@ category: country
 *  JS Response Bytes: 466383
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4195
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -2504,6 +3348,17 @@ category: country
 *  JS Response Bytes: 520351
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2881
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -2532,6 +3387,17 @@ category: country
 *  JS Response Bytes: 607105
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115900
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
 <hr>
 
 
@@ -2560,6 +3426,16 @@ category: country
 *  JS Response Bytes: 213196
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 70296
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
 <hr>
 
 
@@ -2588,6 +3464,18 @@ category: country
 *  JS Response Bytes: 611588
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 129371
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -2616,6 +3504,17 @@ category: country
 *  JS Response Bytes: 793076
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110072
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>
 
 
@@ -2644,4 +3543,15 @@ category: country
 *  JS Response Bytes: 1123993
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2450
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes
 <hr>

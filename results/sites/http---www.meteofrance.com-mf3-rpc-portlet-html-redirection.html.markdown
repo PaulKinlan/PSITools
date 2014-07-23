@@ -29,3 +29,14 @@ title: http://www.meteofrance.com/mf3-rpc-portlet/html/redirection.html
 *  JS Response Bytes: 2954
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1162
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+

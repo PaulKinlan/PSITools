@@ -29,3 +29,18 @@ title: http://www.hulkshare.com/mobile/index.php
 *  JS Response Bytes: 394763
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7284
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

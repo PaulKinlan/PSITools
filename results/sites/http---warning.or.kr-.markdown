@@ -29,3 +29,14 @@ title: http://warning.or.kr/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
+
+### Performance issues
+
+
+### Performance issues
+
+*  Enable compression
+
+### Mobile UX issues
+
+*  Use legible font sizes

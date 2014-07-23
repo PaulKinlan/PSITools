@@ -29,3 +29,15 @@ title: http://www.360nobs.com/
 *  JS Response Bytes: 490968
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 653
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

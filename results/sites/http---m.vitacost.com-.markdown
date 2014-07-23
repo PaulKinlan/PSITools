@@ -29,3 +29,17 @@ title: http://m.vitacost.com/
 *  JS Response Bytes: 620160
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1870
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+

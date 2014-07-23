@@ -29,3 +29,18 @@ title: http://www.4shared.com/
 *  JS Response Bytes: 221164
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 860
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,16 @@ title: http://m.cvs.com/mt/www.cvs.com/#banner
 *  JS Response Bytes: 95755
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2058
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

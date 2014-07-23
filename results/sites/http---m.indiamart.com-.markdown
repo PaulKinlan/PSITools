@@ -29,3 +29,15 @@ title: http://m.indiamart.com/
 *  JS Response Bytes: 125940
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1092
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

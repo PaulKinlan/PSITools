@@ -29,3 +29,17 @@ title: http://moe.gov.my/v/mobile-home
 *  JS Response Bytes: 90986
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

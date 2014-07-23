@@ -29,3 +29,16 @@ title: http://m.stirileprotv.ro/lbin/mobile/index.php?article_id=
 *  JS Response Bytes: 310881
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16646
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

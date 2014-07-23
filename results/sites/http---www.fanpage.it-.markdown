@@ -29,3 +29,16 @@ title: http://www.fanpage.it/
 *  JS Response Bytes: 2861339
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23133
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

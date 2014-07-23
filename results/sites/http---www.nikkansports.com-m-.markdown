@@ -29,3 +29,18 @@ title: http://www.nikkansports.com/m/
 *  JS Response Bytes: 1142487
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2253
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

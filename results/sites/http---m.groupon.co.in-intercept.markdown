@@ -29,3 +29,15 @@ title: http://m.groupon.co.in/intercept
 *  JS Response Bytes: 443310
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1117
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+

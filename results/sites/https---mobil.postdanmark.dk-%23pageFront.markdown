@@ -29,3 +29,15 @@ title: https://mobil.postdanmark.dk/#pageFront
 *  JS Response Bytes: 725033
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 66590
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+

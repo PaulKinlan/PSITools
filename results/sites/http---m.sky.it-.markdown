@@ -29,3 +29,17 @@ title: http://m.sky.it/
 *  JS Response Bytes: 174439
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2355
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

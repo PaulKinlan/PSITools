@@ -29,3 +29,14 @@ title: http://www.zappos.com/zappos-interstitial/public/iphone.html?redirectTo=h
 *  JS Response Bytes: 120578
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 825
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+

@@ -29,3 +29,14 @@ title: http://www.pinterest.com/
 *  JS Response Bytes: 986820
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1560
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+

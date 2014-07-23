@@ -29,3 +29,15 @@ title: http://m.11st.co.kr/MW/
 *  JS Response Bytes: 223988
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3680
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

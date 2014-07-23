@@ -29,3 +29,17 @@ title: http://www.6pm.com/
 *  JS Response Bytes: 597888
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3205
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

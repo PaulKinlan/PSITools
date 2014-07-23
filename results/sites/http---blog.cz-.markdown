@@ -29,3 +29,16 @@ title: http://blog.cz/
 *  JS Response Bytes: 810868
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1577
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

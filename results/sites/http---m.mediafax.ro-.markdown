@@ -29,3 +29,18 @@ title: http://m.mediafax.ro/
 *  JS Response Bytes: 175296
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1466
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

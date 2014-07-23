@@ -29,3 +29,14 @@ title: http://liverpoolfc.com/welcome-to-liverpool-fc
 *  JS Response Bytes: 426278
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 67
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+

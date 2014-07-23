@@ -29,3 +29,17 @@ title: http://m.todayhumor.co.kr/
 *  JS Response Bytes: 657585
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 716
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

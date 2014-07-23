@@ -29,3 +29,16 @@ title: http://m.futureshop.ca/?lang=en
 *  JS Response Bytes: 674517
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13854
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+

@@ -29,3 +29,17 @@ title: http://portal.chmi.cz/portal/dt?portal_lang=cs&menu=JSPTabContainer/P1_0_
 *  JS Response Bytes: 139503
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 549
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

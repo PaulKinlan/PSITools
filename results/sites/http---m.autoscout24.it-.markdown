@@ -29,3 +29,15 @@ title: http://m.autoscout24.it/
 *  JS Response Bytes: 590206
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4973
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+

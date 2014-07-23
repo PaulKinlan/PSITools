@@ -29,3 +29,15 @@ title: https://www.halifax-online.co.uk/personal/logon/login.jsp
 *  JS Response Bytes: 60863
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1422
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

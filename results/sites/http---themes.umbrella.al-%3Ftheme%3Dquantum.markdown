@@ -29,3 +29,14 @@ title: http://themes.umbrella.al/?theme=quantum
 *  JS Response Bytes: 93425
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61
+
+### Performance issues
+
+
+### Performance issues
+
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

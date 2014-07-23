@@ -29,3 +29,15 @@ title: http://addmefast.com/
 *  JS Response Bytes: 578342
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 259
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

@@ -29,3 +29,16 @@ title: http://sports.yahoo.com/blogs/nba-ball-dont-lie/
 *  JS Response Bytes: 2134646
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1152
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,14 @@ title: http://www.dealdey.com/
 *  JS Response Bytes: 469482
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1791
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

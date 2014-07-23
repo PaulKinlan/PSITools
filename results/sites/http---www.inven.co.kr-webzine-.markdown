@@ -29,3 +29,17 @@ title: http://www.inven.co.kr/webzine/
 *  JS Response Bytes: 265685
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 522
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

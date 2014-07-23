@@ -29,3 +29,17 @@ title: http://www.ovh.com/us/index.xml
 *  JS Response Bytes: 285817
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1837
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

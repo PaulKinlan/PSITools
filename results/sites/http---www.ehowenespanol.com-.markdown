@@ -29,3 +29,16 @@ title: http://www.ehowenespanol.com/
 *  JS Response Bytes: 296534
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 511
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

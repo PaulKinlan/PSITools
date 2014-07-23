@@ -29,3 +29,18 @@ title: http://www.trafic.ro/
 *  JS Response Bytes: 615588
 *  Flash Response Bytes: 15629
 *  Other Response Bytes: 2884
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

@@ -29,3 +29,14 @@ title: http://m.zoopla.co.uk/#appsmart
 *  JS Response Bytes: 774331
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2188
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+

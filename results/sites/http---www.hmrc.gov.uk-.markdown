@@ -29,3 +29,16 @@ title: http://www.hmrc.gov.uk/
 *  JS Response Bytes: 177608
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1201
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

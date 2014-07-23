@@ -29,3 +29,17 @@ title: https://m.sportium.es/sportsbook/?lang=es
 *  JS Response Bytes: 1139789
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25895
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

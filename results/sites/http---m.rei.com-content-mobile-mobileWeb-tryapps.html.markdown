@@ -29,3 +29,13 @@ title: http://m.rei.com/content/mobile/mobileWeb/tryapps.html
 *  JS Response Bytes: 2913
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5561
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+

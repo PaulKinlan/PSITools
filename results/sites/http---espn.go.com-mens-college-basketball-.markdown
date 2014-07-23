@@ -29,3 +29,17 @@ title: http://espn.go.com/mens-college-basketball/
 *  JS Response Bytes: 2536916
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5856
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

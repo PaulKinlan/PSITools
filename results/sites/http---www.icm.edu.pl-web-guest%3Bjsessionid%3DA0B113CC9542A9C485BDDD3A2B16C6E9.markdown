@@ -29,3 +29,17 @@ title: http://www.icm.edu.pl/web/guest;jsessionid=A0B113CC9542A9C485BDDD3A2B16C6
 *  JS Response Bytes: 391492
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1366
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

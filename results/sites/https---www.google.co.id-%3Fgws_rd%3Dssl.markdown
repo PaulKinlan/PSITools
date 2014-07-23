@@ -29,3 +29,13 @@ title: https://www.google.co.id/?gws_rd=ssl
 *  JS Response Bytes: 371815
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1752
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+

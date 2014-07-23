@@ -29,3 +29,16 @@ title: http://www.xl.co.id/
 *  JS Response Bytes: 916454
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 222
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

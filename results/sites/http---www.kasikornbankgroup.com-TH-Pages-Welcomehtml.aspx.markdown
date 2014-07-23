@@ -29,3 +29,17 @@ title: http://www.kasikornbankgroup.com/TH/Pages/Welcomehtml.aspx
 *  JS Response Bytes: 132823
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29191
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

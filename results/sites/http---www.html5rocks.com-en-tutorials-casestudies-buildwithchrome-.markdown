@@ -29,3 +29,15 @@ title: http://www.html5rocks.com/en/tutorials/casestudies/buildwithchrome/
 *  JS Response Bytes: 71975
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 78589
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

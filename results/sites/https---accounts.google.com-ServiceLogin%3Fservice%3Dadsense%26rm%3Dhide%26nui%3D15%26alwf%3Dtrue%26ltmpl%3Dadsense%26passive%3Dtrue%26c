@@ -29,3 +29,14 @@ title: https://accounts.google.com/ServiceLogin?service=adsense&rm=hide&nui=15&a
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56957
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

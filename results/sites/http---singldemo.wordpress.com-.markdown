@@ -29,3 +29,16 @@ title: http://singldemo.wordpress.com/
 *  JS Response Bytes: 786208
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 202078
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

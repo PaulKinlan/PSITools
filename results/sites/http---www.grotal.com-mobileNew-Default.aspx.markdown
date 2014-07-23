@@ -29,3 +29,15 @@ title: http://www.grotal.com/mobileNew/Default.aspx
 *  JS Response Bytes: 59547
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12214
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+

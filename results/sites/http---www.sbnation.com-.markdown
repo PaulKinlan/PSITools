@@ -29,3 +29,17 @@ title: http://www.sbnation.com/
 *  JS Response Bytes: 1970675
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 133765
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

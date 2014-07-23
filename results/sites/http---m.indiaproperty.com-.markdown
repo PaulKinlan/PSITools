@@ -29,3 +29,16 @@ title: http://m.indiaproperty.com/
 *  JS Response Bytes: 133343
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1982
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+

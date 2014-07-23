@@ -29,3 +29,18 @@ title: http://www.impressholdings.com/
 *  JS Response Bytes: 177772
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 460
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

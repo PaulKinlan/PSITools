@@ -29,3 +29,18 @@ title: http://m.smh.com.au/
 *  JS Response Bytes: 956974
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17849
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately

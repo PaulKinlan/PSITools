@@ -29,3 +29,17 @@ title: http://www.manutd.com/Splash-Page.aspx
 *  JS Response Bytes: 502211
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2938
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

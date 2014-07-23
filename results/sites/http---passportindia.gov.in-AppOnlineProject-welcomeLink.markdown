@@ -29,3 +29,15 @@ title: http://passportindia.gov.in/AppOnlineProject/welcomeLink
 *  JS Response Bytes: 2514
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 77
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

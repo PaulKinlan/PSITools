@@ -29,3 +29,17 @@ title: http://m.sou300.com/
 *  JS Response Bytes: 3467
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 392
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

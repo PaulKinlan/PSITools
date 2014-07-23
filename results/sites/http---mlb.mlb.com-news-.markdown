@@ -29,3 +29,17 @@ title: http://mlb.mlb.com/news/
 *  JS Response Bytes: 1331941
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54836
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

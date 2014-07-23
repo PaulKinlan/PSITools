@@ -29,3 +29,17 @@ title: http://www.teepr.com/
 *  JS Response Bytes: 2468733
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10064
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Prioritize visible content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

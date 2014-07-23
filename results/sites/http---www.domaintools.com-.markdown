@@ -29,3 +29,14 @@ title: http://www.domaintools.com/
 *  JS Response Bytes: 904069
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95228
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

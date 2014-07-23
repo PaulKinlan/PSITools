@@ -29,3 +29,15 @@ title: http://www.tradus.com/
 *  JS Response Bytes: 55055
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 541
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

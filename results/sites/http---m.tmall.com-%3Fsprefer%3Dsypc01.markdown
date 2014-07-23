@@ -29,3 +29,14 @@ title: http://m.tmall.com/?sprefer=sypc01
 *  JS Response Bytes: 94969
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 989
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+

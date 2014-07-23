@@ -29,3 +29,17 @@ title: https://www.payu.in/index
 *  JS Response Bytes: 1397157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1781
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

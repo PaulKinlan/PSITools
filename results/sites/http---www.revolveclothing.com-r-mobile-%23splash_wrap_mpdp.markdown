@@ -29,3 +29,14 @@ title: http://www.revolveclothing.com/r/mobile/#splash_wrap_mpdp
 *  JS Response Bytes: 104939
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1058
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+

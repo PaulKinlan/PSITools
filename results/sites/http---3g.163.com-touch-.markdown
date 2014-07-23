@@ -29,3 +29,16 @@ title: http://3g.163.com/touch/
 *  JS Response Bytes: 77566
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 851
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,15 @@ title: http://m.clien.net/cs3/
 *  JS Response Bytes: 453906
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 842
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+

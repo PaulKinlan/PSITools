@@ -29,3 +29,14 @@ title: http://www.officedepot.com/
 *  JS Response Bytes: 17957
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1032
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

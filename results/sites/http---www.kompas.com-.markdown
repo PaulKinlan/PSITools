@@ -29,3 +29,17 @@ title: http://www.kompas.com/
 *  JS Response Bytes: 678034
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56965
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

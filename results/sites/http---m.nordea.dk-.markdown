@@ -29,3 +29,17 @@ title: http://m.nordea.dk/
 *  JS Response Bytes: 109508
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3573
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+

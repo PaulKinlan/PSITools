@@ -29,3 +29,17 @@ title: http://www.superbru.com/home/index_starting.php
 *  JS Response Bytes: 510363
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 205925
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

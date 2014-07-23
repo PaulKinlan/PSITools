@@ -29,3 +29,12 @@ title: http://badoo.com/bma/promo_iphone.phtml?burl=1401696397510
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1008
+
+### Performance issues
+
+
+### Performance issues
+
+
+### Mobile UX issues
+

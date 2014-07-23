@@ -29,3 +29,15 @@ title: http://www.espnfc.us/
 *  JS Response Bytes: 362281
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1120
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

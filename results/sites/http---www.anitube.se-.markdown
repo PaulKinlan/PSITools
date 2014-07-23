@@ -29,3 +29,14 @@ title: http://www.anitube.se/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4221
+
+### Performance issues
+
+
+### Performance issues
+
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Use legible font sizes

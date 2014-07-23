@@ -29,3 +29,19 @@ title: http://www.mathrubhumi.com/mobile/malayalam/
 *  JS Response Bytes: 774289
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18241
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

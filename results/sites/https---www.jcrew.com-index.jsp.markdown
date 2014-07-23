@@ -29,3 +29,16 @@ title: https://www.jcrew.com/index.jsp
 *  JS Response Bytes: 96611
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2222
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Prioritize visible content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

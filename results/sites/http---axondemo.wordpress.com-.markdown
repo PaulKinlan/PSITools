@@ -29,3 +29,16 @@ title: http://axondemo.wordpress.com/
 *  JS Response Bytes: 1178435
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95901
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

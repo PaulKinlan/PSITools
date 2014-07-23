@@ -29,3 +29,15 @@ title: http://www.rtl.de/cms/index.html
 *  JS Response Bytes: 861432
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1044
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

@@ -29,3 +29,16 @@ title: http://m.vodafone.it/
 *  JS Response Bytes: 261305
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2505
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

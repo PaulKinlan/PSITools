@@ -29,3 +29,15 @@ title: http://www.wikia.com/Wikia
 *  JS Response Bytes: 730818
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 190723
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+

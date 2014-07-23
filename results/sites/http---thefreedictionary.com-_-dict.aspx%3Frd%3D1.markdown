@@ -29,3 +29,14 @@ title: http://thefreedictionary.com/_/dict.aspx?rd=1
 *  JS Response Bytes: 684657
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4844
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

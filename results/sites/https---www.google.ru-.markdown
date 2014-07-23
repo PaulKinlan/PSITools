@@ -29,3 +29,13 @@ title: https://www.google.ru/
 *  JS Response Bytes: 428174
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1717
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+

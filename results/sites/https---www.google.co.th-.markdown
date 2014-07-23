@@ -29,3 +29,13 @@ title: https://www.google.co.th/
 *  JS Response Bytes: 428184
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1730
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+

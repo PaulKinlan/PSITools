@@ -29,3 +29,18 @@ title: http://m.chron.com/
 *  JS Response Bytes: 2915805
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9138
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

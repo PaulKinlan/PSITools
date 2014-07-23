@@ -29,3 +29,15 @@ title: http://www.babylon.com/products/mobile/m_main.html
 *  JS Response Bytes: 326840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1235
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+

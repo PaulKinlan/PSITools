@@ -29,3 +29,16 @@ title: http://otomoto.pl/
 *  JS Response Bytes: 497253
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 135870
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

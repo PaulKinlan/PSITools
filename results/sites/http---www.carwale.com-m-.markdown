@@ -29,3 +29,18 @@ title: http://www.carwale.com/m/
 *  JS Response Bytes: 564699
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3382
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

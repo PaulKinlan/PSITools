@@ -29,3 +29,18 @@ title: http://m.careers24.com/
 *  JS Response Bytes: 54107
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 788
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

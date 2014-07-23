@@ -29,3 +29,17 @@ title: https://bitly.com/m/
 *  JS Response Bytes: 378900
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 175
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

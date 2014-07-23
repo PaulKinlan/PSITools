@@ -29,3 +29,15 @@ title: http://m.saramin.co.kr/
 *  JS Response Bytes: 459880
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1507
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

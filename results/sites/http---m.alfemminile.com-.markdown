@@ -29,3 +29,16 @@ title: http://m.alfemminile.com/
 *  JS Response Bytes: 576930
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23179
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

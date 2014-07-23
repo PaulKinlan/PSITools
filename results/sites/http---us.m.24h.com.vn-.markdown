@@ -29,3 +29,15 @@ title: http://us.m.24h.com.vn/
 *  JS Response Bytes: 619425
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32920
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

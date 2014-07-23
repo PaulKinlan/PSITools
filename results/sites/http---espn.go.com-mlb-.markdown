@@ -29,3 +29,17 @@ title: http://espn.go.com/mlb/
 *  JS Response Bytes: 2597330
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6839
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

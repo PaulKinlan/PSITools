@@ -29,3 +29,15 @@ title: http://worlddaily.com/#/videos
 *  JS Response Bytes: 2655640
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 350474
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately

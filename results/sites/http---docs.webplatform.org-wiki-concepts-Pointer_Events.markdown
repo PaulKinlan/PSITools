@@ -29,3 +29,15 @@ title: http://docs.webplatform.org/wiki/concepts/Pointer_Events
 *  JS Response Bytes: 1906007
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124641
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,14 @@ title: http://www.bhinneka.com/mobile/Default.aspx
 *  JS Response Bytes: 297487
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14981
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+

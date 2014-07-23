@@ -29,3 +29,14 @@ title: http://wap.soso.com/?g_f=2405
 *  JS Response Bytes: 30805
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 385
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+

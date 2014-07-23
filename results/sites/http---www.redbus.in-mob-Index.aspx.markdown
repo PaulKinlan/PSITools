@@ -29,3 +29,16 @@ title: http://www.redbus.in/mob/Index.aspx
 *  JS Response Bytes: 149281
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24080
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Improve server response time
+
+### Mobile UX issues
+

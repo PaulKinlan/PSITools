@@ -29,3 +29,14 @@ title: http://m.espncricinfo.com/ci/content/fanatix/index.html
 *  JS Response Bytes: 158921
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2197
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Improve server response time
+
+### Mobile UX issues
+

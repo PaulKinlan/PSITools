@@ -29,3 +29,15 @@ title: http://www.dallasnews.com/
 *  JS Response Bytes: 1409373
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4570
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

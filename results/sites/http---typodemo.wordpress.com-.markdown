@@ -29,3 +29,15 @@ title: http://typodemo.wordpress.com/
 *  JS Response Bytes: 1536815
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100541
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

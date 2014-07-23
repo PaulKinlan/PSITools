@@ -29,3 +29,15 @@ title: http://m.9gag.com/
 *  JS Response Bytes: 656481
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20383
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,17 @@ title: http://olx.ro/i2/
 *  JS Response Bytes: 731060
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1713
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

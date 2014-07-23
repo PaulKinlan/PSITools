@@ -29,3 +29,14 @@ title: http://nansubscriber.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1548
+
+### Performance issues
+
+
+### Performance issues
+
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

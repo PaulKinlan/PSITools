@@ -29,3 +29,17 @@ title: http://m.hp.com/us/en/home.html
 *  JS Response Bytes: 610416
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6969
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

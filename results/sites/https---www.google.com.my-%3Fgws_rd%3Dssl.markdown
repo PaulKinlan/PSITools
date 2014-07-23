@@ -29,3 +29,13 @@ title: https://www.google.com.my/?gws_rd=ssl
 *  JS Response Bytes: 399428
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1758
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+

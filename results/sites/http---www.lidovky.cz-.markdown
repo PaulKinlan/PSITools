@@ -29,3 +29,15 @@ title: http://www.lidovky.cz/
 *  JS Response Bytes: 131194
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1132
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Prioritize visible content
+
+### Mobile UX issues
+

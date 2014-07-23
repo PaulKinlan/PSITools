@@ -29,3 +29,14 @@ title: http://www.autotrader.co.uk/
 *  JS Response Bytes: 210240
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1947
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

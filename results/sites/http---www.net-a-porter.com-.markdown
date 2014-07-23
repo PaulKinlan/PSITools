@@ -29,3 +29,16 @@ title: http://www.net-a-porter.com/
 *  JS Response Bytes: 457007
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25331
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

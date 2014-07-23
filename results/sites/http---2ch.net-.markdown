@@ -29,3 +29,18 @@ title: http://2ch.net/
 *  JS Response Bytes: 46274
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 157
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

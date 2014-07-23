@@ -29,3 +29,17 @@ title: http://m.commentcamarche.net/
 *  JS Response Bytes: 720473
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3338
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

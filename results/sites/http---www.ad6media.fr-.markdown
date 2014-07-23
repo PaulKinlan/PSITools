@@ -29,3 +29,16 @@ title: http://www.ad6media.fr/
 *  JS Response Bytes: 129798
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2903
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

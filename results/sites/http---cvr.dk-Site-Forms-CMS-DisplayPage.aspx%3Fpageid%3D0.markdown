@@ -29,3 +29,16 @@ title: http://cvr.dk/Site/Forms/CMS/DisplayPage.aspx?pageid=0
 *  JS Response Bytes: 361756
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 75
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

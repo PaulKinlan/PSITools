@@ -29,3 +29,17 @@ title: http://www.youporn.com/
 *  JS Response Bytes: 421484
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 325
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

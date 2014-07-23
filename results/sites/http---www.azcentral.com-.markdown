@@ -29,3 +29,15 @@ title: http://www.azcentral.com/
 *  JS Response Bytes: 455571
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3480
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

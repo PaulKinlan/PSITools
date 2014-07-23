@@ -29,3 +29,15 @@ title: http://www.freemalaysiatoday.com/mobile-landing/mobile-landing.php
 *  JS Response Bytes: 24840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 458
+
+### Performance issues
+
+
+### Performance issues
+
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

@@ -29,3 +29,15 @@ title: http://www.about.com/
 *  JS Response Bytes: 518245
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 36080
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,16 @@ title: http://www.leboncoin.fr/
 *  JS Response Bytes: 16549
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 911
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

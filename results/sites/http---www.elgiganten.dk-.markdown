@@ -29,3 +29,14 @@ title: http://www.elgiganten.dk/
 *  JS Response Bytes: 683824
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26988
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

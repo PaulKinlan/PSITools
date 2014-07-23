@@ -29,3 +29,15 @@ title: https://m.bol.com/nl/
 *  JS Response Bytes: 212179
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2496
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,13 @@ title: https://www.homebank.ro/public/HomeBankLogin/jsp/index.jsp
 *  JS Response Bytes: 41132
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 79
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+

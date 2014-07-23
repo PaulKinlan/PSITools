@@ -29,3 +29,15 @@ title: http://www.lazada.co.th/
 *  JS Response Bytes: 1006197
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14953
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+

@@ -29,3 +29,15 @@ title: http://paultan.org/
 *  JS Response Bytes: 1575534
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20362
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+

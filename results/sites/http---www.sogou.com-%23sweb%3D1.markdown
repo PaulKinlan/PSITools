@@ -29,3 +29,16 @@ title: http://www.sogou.com/#sweb=1
 *  JS Response Bytes: 36774
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 337
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

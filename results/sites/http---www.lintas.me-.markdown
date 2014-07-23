@@ -29,3 +29,16 @@ title: http://www.lintas.me/
 *  JS Response Bytes: 799653
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3832
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,16 @@ title: http://www.cashcashpinoy.com/mobile/
 *  JS Response Bytes: 1255455
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99422
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

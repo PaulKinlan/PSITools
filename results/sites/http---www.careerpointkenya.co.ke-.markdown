@@ -29,3 +29,14 @@ title: http://www.careerpointkenya.co.ke/
 *  JS Response Bytes: 595282
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 70609
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

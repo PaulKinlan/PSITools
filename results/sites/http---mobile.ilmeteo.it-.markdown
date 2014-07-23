@@ -29,3 +29,16 @@ title: http://mobile.ilmeteo.it/
 *  JS Response Bytes: 640345
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1567
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

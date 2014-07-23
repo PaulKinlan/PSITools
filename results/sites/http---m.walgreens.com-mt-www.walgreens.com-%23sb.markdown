@@ -29,3 +29,14 @@ title: http://m.walgreens.com/mt/www.walgreens.com/#sb
 *  JS Response Bytes: 265191
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1711
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+

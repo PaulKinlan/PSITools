@@ -29,3 +29,15 @@ title: http://www.priceminister.com/
 *  JS Response Bytes: 516102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13456
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+

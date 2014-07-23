@@ -29,3 +29,13 @@ title: http://m.makemytrip.com/?
 *  JS Response Bytes: 489490
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1713
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+

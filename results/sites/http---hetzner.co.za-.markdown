@@ -29,3 +29,14 @@ title: http://hetzner.co.za/
 *  JS Response Bytes: 542360
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 808
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

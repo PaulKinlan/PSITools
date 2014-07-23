@@ -29,3 +29,17 @@ title: http://mobiel.nujij.nl/?period=&zoek=&topic=&tags=&pageStart=1
 *  JS Response Bytes: 428190
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2988
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

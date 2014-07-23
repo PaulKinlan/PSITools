@@ -29,3 +29,16 @@ title: http://www.addynamo.com/en/
 *  JS Response Bytes: 139261
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1000
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

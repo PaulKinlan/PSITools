@@ -29,3 +29,14 @@ title: http://www.romedic.ro/
 *  JS Response Bytes: 645567
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3890
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+

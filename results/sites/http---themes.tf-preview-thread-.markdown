@@ -29,3 +29,14 @@ title: http://themes.tf/preview/thread/
 *  JS Response Bytes: 518524
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 82493
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+

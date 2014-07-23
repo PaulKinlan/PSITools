@@ -29,3 +29,14 @@ title: http://designlab.co/demo/template/kane/
 *  JS Response Bytes: 3232
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49976
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+

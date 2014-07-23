@@ -29,3 +29,16 @@ title: http://s.tabelog.com/
 *  JS Response Bytes: 436072
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10186
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

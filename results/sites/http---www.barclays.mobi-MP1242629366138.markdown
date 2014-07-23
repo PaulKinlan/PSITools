@@ -29,3 +29,18 @@ title: http://www.barclays.mobi/MP1242629366138
 *  JS Response Bytes: 243032
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3641
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+

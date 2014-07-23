@@ -29,3 +29,18 @@ title: http://m.programme-tv.net/
 *  JS Response Bytes: 1397477
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50505
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,14 @@ title: http://www.amazon.com/
 *  JS Response Bytes: 249723
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9177
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

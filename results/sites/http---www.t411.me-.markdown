@@ -29,3 +29,17 @@ title: http://www.t411.me/
 *  JS Response Bytes: 413340
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 349
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

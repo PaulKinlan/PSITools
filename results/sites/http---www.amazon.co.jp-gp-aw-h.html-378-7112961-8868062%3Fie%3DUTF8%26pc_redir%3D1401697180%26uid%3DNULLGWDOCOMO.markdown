@@ -29,3 +29,14 @@ title: http://www.amazon.co.jp/gp/aw/h.html/378-7112961-8868062?ie=UTF8&pc_redir
 *  JS Response Bytes: 153392
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1862
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

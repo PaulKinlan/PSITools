@@ -29,3 +29,17 @@ title: http://www.aruba.it/
 *  JS Response Bytes: 304198
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2460
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

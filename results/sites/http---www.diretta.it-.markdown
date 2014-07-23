@@ -29,3 +29,17 @@ title: http://www.diretta.it/
 *  JS Response Bytes: 2259201
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111118
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

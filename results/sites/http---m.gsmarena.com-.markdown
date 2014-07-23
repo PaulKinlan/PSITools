@@ -29,3 +29,18 @@ title: http://m.gsmarena.com/
 *  JS Response Bytes: 477957
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1279
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,19 @@ title: http://m.volkskrant.nl/
 *  JS Response Bytes: 369893
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 815
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

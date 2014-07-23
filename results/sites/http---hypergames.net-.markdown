@@ -29,3 +29,13 @@ title: http://hypergames.net/
 *  JS Response Bytes: 8306
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
+
+### Performance issues
+
+
+### Performance issues
+
+*  Improve server response time
+
+### Mobile UX issues
+

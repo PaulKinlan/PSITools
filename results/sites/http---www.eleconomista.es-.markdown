@@ -29,3 +29,19 @@ title: http://www.eleconomista.es/
 *  JS Response Bytes: 1386708
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3204
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

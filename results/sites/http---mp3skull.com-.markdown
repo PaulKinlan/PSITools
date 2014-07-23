@@ -29,3 +29,17 @@ title: http://mp3skull.com/
 *  JS Response Bytes: 1002956
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106309
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

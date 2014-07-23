@@ -29,3 +29,15 @@ title: https://t.zoosk.com/?touchRedirect=1
 *  JS Response Bytes: 56258
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 379
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

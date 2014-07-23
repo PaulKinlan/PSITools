@@ -29,3 +29,16 @@ title: http://lindaikeji.blogspot.com/?m=1
 *  JS Response Bytes: 808452
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19248
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

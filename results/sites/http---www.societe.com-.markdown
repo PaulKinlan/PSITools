@@ -29,3 +29,16 @@ title: http://www.societe.com/
 *  JS Response Bytes: 44676
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44506
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

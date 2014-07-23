@@ -29,3 +29,15 @@ title: http://cartfill.in/
 *  JS Response Bytes: 100911
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 993
+
+### Performance issues
+
+
+### Performance issues
+
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

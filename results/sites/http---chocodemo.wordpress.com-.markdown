@@ -29,3 +29,17 @@ title: http://chocodemo.wordpress.com/
 *  JS Response Bytes: 1537881
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8320
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

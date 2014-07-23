@@ -29,3 +29,18 @@ title: http://www.ilbe.com/
 *  JS Response Bytes: 287064
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1256
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately

@@ -29,3 +29,18 @@ title: http://www.trovaprezzi.it/
 *  JS Response Bytes: 928657
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3786
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

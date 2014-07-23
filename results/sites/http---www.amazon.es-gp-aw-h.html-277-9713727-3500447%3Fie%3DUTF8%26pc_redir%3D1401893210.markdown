@@ -29,3 +29,15 @@ title: http://www.amazon.es/gp/aw/h.html/277-9713727-3500447?ie=UTF8&pc_redir=14
 *  JS Response Bytes: 146801
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3451
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,16 @@ title: https://www.bancsabadell.mobi/pmobil/h5/?bbrand=SAB#home/home
 *  JS Response Bytes: 862961
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1563
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

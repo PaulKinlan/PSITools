@@ -29,3 +29,15 @@ title: http://m.bdnews24.com/
 *  JS Response Bytes: 1121775
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

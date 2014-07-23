@@ -29,3 +29,15 @@ title: http://www.economist.com/
 *  JS Response Bytes: 1276982
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40887
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately

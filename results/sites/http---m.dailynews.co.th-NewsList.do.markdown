@@ -29,3 +29,19 @@ title: http://m.dailynews.co.th/NewsList.do
 *  JS Response Bytes: 471429
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

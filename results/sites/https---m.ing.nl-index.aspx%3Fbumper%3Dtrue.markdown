@@ -29,3 +29,16 @@ title: https://m.ing.nl/index.aspx?bumper=true
 *  JS Response Bytes: 233040
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2487
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+

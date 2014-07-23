@@ -29,3 +29,17 @@ title: http://www.1and1.es/
 *  JS Response Bytes: 709249
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 38676
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

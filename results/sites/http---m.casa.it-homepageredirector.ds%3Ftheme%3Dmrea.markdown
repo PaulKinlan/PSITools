@@ -29,3 +29,16 @@ title: http://m.casa.it/homepageredirector.ds?theme=mrea
 *  JS Response Bytes: 124602
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4551
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

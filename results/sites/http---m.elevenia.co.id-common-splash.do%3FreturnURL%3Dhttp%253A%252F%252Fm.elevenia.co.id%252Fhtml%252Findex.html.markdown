@@ -29,3 +29,16 @@ title: http://m.elevenia.co.id/common/splash.do?returnURL=http%3A%2F%2Fm.eleveni
 *  JS Response Bytes: 104748
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 800
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+

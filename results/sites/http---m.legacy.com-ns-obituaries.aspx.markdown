@@ -29,3 +29,18 @@ title: http://m.legacy.com/ns/obituaries.aspx
 *  JS Response Bytes: 385980
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13753
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately

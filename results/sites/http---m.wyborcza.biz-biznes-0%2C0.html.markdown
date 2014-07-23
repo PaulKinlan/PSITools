@@ -29,3 +29,17 @@ title: http://m.wyborcza.biz/biznes/0,0.html
 *  JS Response Bytes: 897000
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4540
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

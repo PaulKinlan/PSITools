@@ -29,3 +29,18 @@ title: http://m.marktplaats.nl/
 *  JS Response Bytes: 606660
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8104
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

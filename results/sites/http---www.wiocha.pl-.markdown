@@ -29,3 +29,19 @@ title: http://www.wiocha.pl/
 *  JS Response Bytes: 563730
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14751
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

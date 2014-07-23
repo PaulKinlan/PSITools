@@ -29,3 +29,16 @@ title: http://www.brightermonday.co.ke/
 *  JS Response Bytes: 432050
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1728
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

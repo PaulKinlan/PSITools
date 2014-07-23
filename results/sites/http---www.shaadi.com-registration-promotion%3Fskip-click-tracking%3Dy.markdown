@@ -29,3 +29,16 @@ title: http://www.shaadi.com/registration/promotion?skip-click-tracking=y
 *  JS Response Bytes: 163535
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2594
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Improve server response time
+
+### Mobile UX issues
+

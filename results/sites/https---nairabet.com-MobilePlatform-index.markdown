@@ -29,3 +29,14 @@ title: https://nairabet.com/MobilePlatform/index
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 456
+
+### Performance issues
+
+
+### Performance issues
+
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

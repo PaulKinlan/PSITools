@@ -29,3 +29,16 @@ title: http://m.21cineplex.com/index?sid=&act=set_cookies
 *  JS Response Bytes: 405555
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20105
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

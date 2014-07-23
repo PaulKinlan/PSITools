@@ -29,3 +29,17 @@ title: http://guardianlv.com/
 *  JS Response Bytes: 1153169
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 38945
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

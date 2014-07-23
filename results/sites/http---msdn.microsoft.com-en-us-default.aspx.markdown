@@ -29,3 +29,16 @@ title: http://msdn.microsoft.com/en-us/default.aspx
 *  JS Response Bytes: 1090406
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13555
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

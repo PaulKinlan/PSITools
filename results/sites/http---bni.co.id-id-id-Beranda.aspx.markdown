@@ -29,3 +29,16 @@ title: http://bni.co.id/id-id/Beranda.aspx
 *  JS Response Bytes: 282587
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1202
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

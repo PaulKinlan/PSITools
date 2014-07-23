@@ -29,3 +29,16 @@ title: http://lockerdome.com/
 *  JS Response Bytes: 2949786
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 65671
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

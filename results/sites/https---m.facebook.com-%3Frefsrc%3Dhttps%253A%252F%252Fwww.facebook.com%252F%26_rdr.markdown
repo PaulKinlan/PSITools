@@ -29,3 +29,14 @@ title: https://m.facebook.com/?refsrc=https%3A%2F%2Fwww.facebook.com%2F&_rdr
 *  JS Response Bytes: 328704
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 633
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

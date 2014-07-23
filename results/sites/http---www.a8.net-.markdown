@@ -29,3 +29,17 @@ title: http://www.a8.net/
 *  JS Response Bytes: 389402
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 503
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

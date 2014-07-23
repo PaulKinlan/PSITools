@@ -29,3 +29,15 @@ title: http://www.cabelas.com/
 *  JS Response Bytes: 375941
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11142
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

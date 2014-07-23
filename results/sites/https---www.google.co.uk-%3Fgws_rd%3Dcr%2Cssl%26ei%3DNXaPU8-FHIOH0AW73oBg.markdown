@@ -29,3 +29,13 @@ title: https://www.google.co.uk/?gws_rd=cr,ssl&ei=NXaPU8-FHIOH0AW73oBg
 *  JS Response Bytes: 432626
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2324
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+

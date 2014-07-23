@@ -29,3 +29,16 @@ title: https://m.vente-privee.com/w/index.html#login
 *  JS Response Bytes: 940664
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1741
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

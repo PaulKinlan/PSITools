@@ -29,3 +29,16 @@ title: http://m.bigrock.in/
 *  JS Response Bytes: 320000
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 784
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+

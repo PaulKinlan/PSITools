@@ -29,3 +29,15 @@ title: http://www.theguardian.com/us/sport
 *  JS Response Bytes: 929122
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10536
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

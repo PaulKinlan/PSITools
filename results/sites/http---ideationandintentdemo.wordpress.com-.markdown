@@ -29,3 +29,15 @@ title: http://ideationandintentdemo.wordpress.com/
 *  JS Response Bytes: 559947
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 68567
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

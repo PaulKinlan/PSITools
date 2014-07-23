@@ -29,3 +29,15 @@ title: https://developer.chrome.com/devtools/docs/dom-and-styles
 *  JS Response Bytes: 990001
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141766
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

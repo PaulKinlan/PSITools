@@ -29,3 +29,14 @@ title: http://www.bing.com/
 *  JS Response Bytes: 1781
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1336
+
+### Performance issues
+
+
+### Performance issues
+
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+

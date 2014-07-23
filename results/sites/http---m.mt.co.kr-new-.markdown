@@ -29,3 +29,15 @@ title: http://m.mt.co.kr/new/
 *  JS Response Bytes: 464295
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

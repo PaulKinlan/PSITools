@@ -29,3 +29,15 @@ title: http://www.theguardian.com/world
 *  JS Response Bytes: 628199
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8668
+
+### Performance issues
+
+
+### Performance issues
+
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

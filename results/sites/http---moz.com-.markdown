@@ -29,3 +29,16 @@ title: http://moz.com/
 *  JS Response Bytes: 585110
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9009
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

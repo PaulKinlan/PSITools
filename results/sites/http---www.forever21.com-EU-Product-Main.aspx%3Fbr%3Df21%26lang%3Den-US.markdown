@@ -29,3 +29,18 @@ title: http://www.forever21.com/EU/Product/Main.aspx?br=f21&lang=en-US
 *  JS Response Bytes: 908255
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12551
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

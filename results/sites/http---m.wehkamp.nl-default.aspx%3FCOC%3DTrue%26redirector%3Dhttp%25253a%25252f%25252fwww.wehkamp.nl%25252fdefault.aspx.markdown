@@ -29,3 +29,16 @@ title: http://m.wehkamp.nl/default.aspx?COC=True&redirector=http%253a%252f%252fw
 *  JS Response Bytes: 781703
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14197
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

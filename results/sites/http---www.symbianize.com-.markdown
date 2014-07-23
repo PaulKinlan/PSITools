@@ -29,3 +29,18 @@ title: http://www.symbianize.com/
 *  JS Response Bytes: 1289820
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13313
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

@@ -29,3 +29,13 @@ title: http://www.dmm.co.jp/
 *  JS Response Bytes: 40302
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3609
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+

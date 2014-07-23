@@ -29,3 +29,15 @@ title: http://littlestorydemo.wordpress.com/
 *  JS Response Bytes: 1537791
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 64648
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

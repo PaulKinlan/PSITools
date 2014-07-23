@@ -29,3 +29,16 @@ title: http://m.ticketmaster.com/
 *  JS Response Bytes: 494214
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3274
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

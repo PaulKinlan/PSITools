@@ -29,3 +29,18 @@ title: http://m.faz.net/
 *  JS Response Bytes: 797640
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9901
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Prefer asynchronous resources
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

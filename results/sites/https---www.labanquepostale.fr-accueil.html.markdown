@@ -29,3 +29,17 @@ title: https://www.labanquepostale.fr/accueil.html
 *  JS Response Bytes: 438396
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3541
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately

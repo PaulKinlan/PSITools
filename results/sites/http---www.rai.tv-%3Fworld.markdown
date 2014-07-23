@@ -29,3 +29,19 @@ title: http://www.rai.tv/?world
 *  JS Response Bytes: 1926251
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 142705
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

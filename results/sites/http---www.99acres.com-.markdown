@@ -29,3 +29,14 @@ title: http://www.99acres.com/
 *  JS Response Bytes: 428623
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 351
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

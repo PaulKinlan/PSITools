@@ -29,3 +29,16 @@ title: http://www.alternet.org/
 *  JS Response Bytes: 823302
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19828
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

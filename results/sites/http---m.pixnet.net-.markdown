@@ -29,3 +29,16 @@ title: http://m.pixnet.net/
 *  JS Response Bytes: 800609
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1967
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+

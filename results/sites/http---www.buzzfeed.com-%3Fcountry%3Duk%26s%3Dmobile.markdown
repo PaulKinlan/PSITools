@@ -29,3 +29,17 @@ title: http://www.buzzfeed.com/?country=uk&s=mobile
 *  JS Response Bytes: 1808546
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2735
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,14 @@ title: http://www.mywapblog.com/
 *  JS Response Bytes: 2617
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 453
+
+### Performance issues
+
+
+### Performance issues
+
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

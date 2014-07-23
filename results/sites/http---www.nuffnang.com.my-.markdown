@@ -29,3 +29,15 @@ title: http://www.nuffnang.com.my/
 *  JS Response Bytes: 400620
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 471
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

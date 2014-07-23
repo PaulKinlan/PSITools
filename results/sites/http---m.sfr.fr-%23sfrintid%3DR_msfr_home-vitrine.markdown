@@ -29,3 +29,16 @@ title: http://m.sfr.fr/#sfrintid=R_msfr_home-vitrine
 *  JS Response Bytes: 499640
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 136008
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

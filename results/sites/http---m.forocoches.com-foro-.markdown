@@ -29,3 +29,16 @@ title: http://m.forocoches.com/foro/
 *  JS Response Bytes: 953344
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24985
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

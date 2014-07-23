@@ -29,3 +29,13 @@ title: https://www.google.co.kr/
 *  JS Response Bytes: 428165
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1735
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+

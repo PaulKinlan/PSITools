@@ -29,3 +29,17 @@ title: http://eventbritesingledemo.wordpress.com/
 *  JS Response Bytes: 1848948
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39942
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

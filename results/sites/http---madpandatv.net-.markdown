@@ -29,3 +29,17 @@ title: http://madpandatv.net/
 *  JS Response Bytes: 1092439
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21245
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately

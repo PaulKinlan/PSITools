@@ -29,3 +29,14 @@ title: http://mktmobi.com/
 *  JS Response Bytes: 3461
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
+
+### Performance issues
+
+
+### Performance issues
+
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+

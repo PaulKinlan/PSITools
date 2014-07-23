@@ -29,3 +29,17 @@ title: http://m.ebay.de/
 *  JS Response Bytes: 184270
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1224
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

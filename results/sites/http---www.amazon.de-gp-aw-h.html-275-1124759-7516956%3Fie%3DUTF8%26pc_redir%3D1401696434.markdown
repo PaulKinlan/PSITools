@@ -29,3 +29,14 @@ title: http://www.amazon.de/gp/aw/h.html/275-1124759-7516956?ie=UTF8&pc_redir=14
 *  JS Response Bytes: 146345
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1969
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,16 @@ title: http://m.tesco.com/mt/www.tesco.com/
 *  JS Response Bytes: 4246
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 194
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

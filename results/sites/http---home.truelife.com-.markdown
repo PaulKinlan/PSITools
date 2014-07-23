@@ -29,3 +29,17 @@ title: http://home.truelife.com/
 *  JS Response Bytes: 698941
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 208
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

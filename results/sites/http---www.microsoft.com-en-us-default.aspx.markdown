@@ -29,3 +29,14 @@ title: http://www.microsoft.com/en-us/default.aspx
 *  JS Response Bytes: 479616
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2287
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Improve server response time
+
+### Mobile UX issues
+

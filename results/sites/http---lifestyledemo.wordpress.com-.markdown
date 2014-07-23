@@ -29,3 +29,16 @@ title: http://lifestyledemo.wordpress.com/
 *  JS Response Bytes: 280213
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15103
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

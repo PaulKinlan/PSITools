@@ -29,3 +29,15 @@ title: http://timesofindia.indiatimes.com/defaultinterstitial.cms
 *  JS Response Bytes: 72075
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 79
+
+### Performance issues
+
+
+### Performance issues
+
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

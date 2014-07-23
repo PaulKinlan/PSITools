@@ -29,3 +29,16 @@ title: http://www.rightmove.co.uk/svr/3120
 *  JS Response Bytes: 318929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1599
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

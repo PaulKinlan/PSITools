@@ -29,3 +29,14 @@ title: https://www.wattpad.com/?v=3&utm_expid=1529920-55.4dURN6EZTeSnDvbPYW4mfA.
 *  JS Response Bytes: 385417
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 64508
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+

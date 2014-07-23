@@ -29,3 +29,16 @@ title: http://m.taobao.com/?sprefer=sypc00
 *  JS Response Bytes: 277357
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1484
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

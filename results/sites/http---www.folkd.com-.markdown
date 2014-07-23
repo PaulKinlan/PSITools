@@ -29,3 +29,18 @@ title: http://www.folkd.com/
 *  JS Response Bytes: 836162
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17400
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

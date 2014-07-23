@@ -29,3 +29,16 @@ title: http://www.skype.com/en/
 *  JS Response Bytes: 576016
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 278279
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

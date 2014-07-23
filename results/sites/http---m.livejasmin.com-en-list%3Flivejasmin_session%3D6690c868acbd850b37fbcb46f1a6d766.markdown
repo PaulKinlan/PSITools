@@ -29,3 +29,15 @@ title: http://m.livejasmin.com/en/list?livejasmin_session=6690c868acbd850b37fbcb
 *  JS Response Bytes: 619513
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2922
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

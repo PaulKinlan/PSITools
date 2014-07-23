@@ -29,3 +29,16 @@ title: http://m.aol.co.uk/?r=m.aol.com
 *  JS Response Bytes: 285569
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 36059
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

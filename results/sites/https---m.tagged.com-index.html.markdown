@@ -29,3 +29,16 @@ title: https://m.tagged.com/index.html
 *  JS Response Bytes: 482662
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1689
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,17 @@ title: http://mobile.auction.co.kr/
 *  JS Response Bytes: 369366
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 491
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

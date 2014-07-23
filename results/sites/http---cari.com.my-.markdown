@@ -29,3 +29,18 @@ title: http://cari.com.my/
 *  JS Response Bytes: 137722
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4341
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately
+*  Use legible font sizes

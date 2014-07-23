@@ -29,3 +29,14 @@ title: http://dwnews.com/mdw_login.html
 *  JS Response Bytes: 43668
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+

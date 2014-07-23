@@ -29,3 +29,15 @@ title: http://www.yandex.ru/
 *  JS Response Bytes: 246647
 *  Flash Response Bytes: 1890
 *  Other Response Bytes: 1542
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,15 @@ title: http://www.kenyan-post.com/?m=1
 *  JS Response Bytes: 762422
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2003
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+

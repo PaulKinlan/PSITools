@@ -29,3 +29,14 @@ title: http://chirpstory.com/
 *  JS Response Bytes: 837803
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20237
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,15 @@ title: http://forefrontdemo.wordpress.com/
 *  JS Response Bytes: 270420
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 178214
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

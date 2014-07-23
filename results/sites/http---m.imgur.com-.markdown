@@ -29,3 +29,13 @@ title: http://m.imgur.com/
 *  JS Response Bytes: 675595
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 233
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+

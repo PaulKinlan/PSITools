@@ -29,3 +29,16 @@ title: http://www.keenthemes.com/preview/index.php?theme=metronic_admin&page=ind
 *  JS Response Bytes: 1294150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 316042
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

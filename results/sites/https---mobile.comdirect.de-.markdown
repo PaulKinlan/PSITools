@@ -29,3 +29,14 @@ title: https://mobile.comdirect.de/
 *  JS Response Bytes: 313273
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 953
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+

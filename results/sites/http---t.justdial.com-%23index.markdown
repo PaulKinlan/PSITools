@@ -29,3 +29,16 @@ title: http://t.justdial.com/#index
 *  JS Response Bytes: 846738
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 701
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,16 @@ title: http://www.mysmartprice.com/m/
 *  JS Response Bytes: 410357
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2988
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+

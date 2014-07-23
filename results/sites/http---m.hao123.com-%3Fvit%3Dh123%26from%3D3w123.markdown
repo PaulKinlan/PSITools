@@ -29,3 +29,16 @@ title: http://m.hao123.com/?vit=h123&from=3w123
 *  JS Response Bytes: 93736
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 484
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

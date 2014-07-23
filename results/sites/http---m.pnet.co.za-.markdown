@@ -29,3 +29,16 @@ title: http://m.pnet.co.za/
 *  JS Response Bytes: 231914
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2171
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

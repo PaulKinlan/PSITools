@@ -29,3 +29,17 @@ title: http://themepride.com/frames/?theme=Corporative
 *  JS Response Bytes: 1334640
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 169306
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Use legible font sizes

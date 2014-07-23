@@ -29,3 +29,19 @@ title: http://m.nouvelobs.com/#null
 *  JS Response Bytes: 179058
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1337
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

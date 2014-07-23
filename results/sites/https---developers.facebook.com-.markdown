@@ -29,3 +29,15 @@ title: https://developers.facebook.com/
 *  JS Response Bytes: 741357
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 570
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

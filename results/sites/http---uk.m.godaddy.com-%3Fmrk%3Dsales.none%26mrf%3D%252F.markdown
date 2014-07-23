@@ -29,3 +29,15 @@ title: http://uk.m.godaddy.com/?mrk=sales.none&mrf=%2F
 *  JS Response Bytes: 243205
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8055
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+

@@ -29,3 +29,16 @@ title: http://www.affili.net/de/Home.aspx
 *  JS Response Bytes: 1147178
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 107035
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

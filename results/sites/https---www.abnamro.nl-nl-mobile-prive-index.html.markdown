@@ -29,3 +29,18 @@ title: https://www.abnamro.nl/nl/mobile/prive/index.html
 *  JS Response Bytes: 877266
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3830
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

@@ -29,3 +29,17 @@ title: http://m.ilmessaggero.it/
 *  JS Response Bytes: 569833
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49716
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

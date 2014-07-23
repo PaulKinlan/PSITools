@@ -29,3 +29,15 @@ title: http://www.sbazar.cz/
 *  JS Response Bytes: 477644
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12791
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

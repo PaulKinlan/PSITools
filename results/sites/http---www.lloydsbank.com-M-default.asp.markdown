@@ -29,3 +29,16 @@ title: http://www.lloydsbank.com/M/default.asp
 *  JS Response Bytes: 542663
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99822
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

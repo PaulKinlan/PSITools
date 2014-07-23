@@ -29,3 +29,16 @@ title: http://www.travelstart.co.za/mobile/pages/search.xhtml
 *  JS Response Bytes: 678270
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2311
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

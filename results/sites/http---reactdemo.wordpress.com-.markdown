@@ -29,3 +29,15 @@ title: http://reactdemo.wordpress.com/
 *  JS Response Bytes: 181076
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 64990
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

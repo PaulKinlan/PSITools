@@ -29,3 +29,16 @@ title: http://news.yahoo.com/
 *  JS Response Bytes: 1536329
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3184
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

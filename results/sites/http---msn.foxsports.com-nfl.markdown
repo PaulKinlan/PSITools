@@ -29,3 +29,18 @@ title: http://msn.foxsports.com/nfl
 *  JS Response Bytes: 1763610
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11956
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Avoid plugins
+*  Size tap targets appropriately

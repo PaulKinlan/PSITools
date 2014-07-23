@@ -29,3 +29,17 @@ title: http://www.regielive.ro/
 *  JS Response Bytes: 1123993
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2450
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

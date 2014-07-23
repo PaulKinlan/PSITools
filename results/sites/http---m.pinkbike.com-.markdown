@@ -29,3 +29,16 @@ title: http://m.pinkbike.com/
 *  JS Response Bytes: 348483
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1908
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

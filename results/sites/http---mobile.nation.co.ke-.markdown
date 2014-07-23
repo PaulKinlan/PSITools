@@ -29,3 +29,14 @@ title: http://mobile.nation.co.ke/
 *  JS Response Bytes: 1200174
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1842
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+

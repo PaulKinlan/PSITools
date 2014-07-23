@@ -29,3 +29,17 @@ title: http://www.3.dk/
 *  JS Response Bytes: 452976
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7863
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

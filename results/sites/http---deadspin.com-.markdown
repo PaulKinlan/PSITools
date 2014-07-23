@@ -29,3 +29,15 @@ title: http://deadspin.com/
 *  JS Response Bytes: 1203707
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2036
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

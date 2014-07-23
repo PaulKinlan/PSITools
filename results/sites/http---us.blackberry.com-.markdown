@@ -29,3 +29,15 @@ title: http://us.blackberry.com/
 *  JS Response Bytes: 356725
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2471
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

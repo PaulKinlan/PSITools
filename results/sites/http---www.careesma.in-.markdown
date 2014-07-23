@@ -29,3 +29,14 @@ title: http://www.careesma.in/
 *  JS Response Bytes: 1536845
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2756
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

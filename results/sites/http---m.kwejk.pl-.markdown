@@ -29,3 +29,16 @@ title: http://m.kwejk.pl/
 *  JS Response Bytes: 1245912
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 38114
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

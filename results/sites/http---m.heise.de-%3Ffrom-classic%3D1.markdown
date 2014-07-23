@@ -29,3 +29,17 @@ title: http://m.heise.de/?from-classic=1
 *  JS Response Bytes: 422095
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1328
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

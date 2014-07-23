@@ -29,3 +29,15 @@ title: http://www.dailyfinance.com/
 *  JS Response Bytes: 600583
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 81553
+
+### Performance issues
+
+
+### Performance issues
+
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

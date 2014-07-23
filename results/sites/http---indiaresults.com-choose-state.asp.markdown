@@ -29,3 +29,17 @@ title: http://indiaresults.com/choose-state.asp
 *  JS Response Bytes: 198015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16226
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

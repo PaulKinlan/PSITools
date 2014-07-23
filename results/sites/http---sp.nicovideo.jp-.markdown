@@ -29,3 +29,17 @@ title: http://sp.nicovideo.jp/
 *  JS Response Bytes: 184989
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 696
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

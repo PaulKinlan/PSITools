@@ -29,3 +29,16 @@ title: http://ekstrabladet.dk/
 *  JS Response Bytes: 868209
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3498
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

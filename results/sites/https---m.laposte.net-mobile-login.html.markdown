@@ -29,3 +29,17 @@ title: https://m.laposte.net/mobile/login.html
 *  JS Response Bytes: 317726
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1644
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prioritize visible content
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

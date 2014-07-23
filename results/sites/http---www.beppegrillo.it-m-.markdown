@@ -29,3 +29,17 @@ title: http://www.beppegrillo.it/m/
 *  JS Response Bytes: 1633525
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21024
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Enable compression
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

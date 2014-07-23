@@ -29,3 +29,17 @@ title: http://www.football365.com/
 *  JS Response Bytes: 952197
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7031
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+*  Improve server response time
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
+*  Use legible font sizes

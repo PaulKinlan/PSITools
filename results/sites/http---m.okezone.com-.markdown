@@ -29,3 +29,16 @@ title: http://m.okezone.com/
 *  JS Response Bytes: 97917
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1426
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

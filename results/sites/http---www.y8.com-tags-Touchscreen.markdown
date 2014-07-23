@@ -29,3 +29,16 @@ title: http://www.y8.com/tags/Touchscreen
 *  JS Response Bytes: 1494375
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3507
+
+### Performance issues
+
+
+### Performance issues
+
+*  Avoid landing page redirects
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
+
+### Mobile UX issues
+
+*  Size tap targets appropriately

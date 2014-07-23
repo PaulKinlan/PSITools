@@ -29,3 +29,14 @@ title: http://m.bestbuy.com/m/e/digital/
 *  JS Response Bytes: 705456
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1255
+
+### Performance issues
+
+
+### Performance issues
+
+*  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+
+### Mobile UX issues
+
+*  Size tap targets appropriately
