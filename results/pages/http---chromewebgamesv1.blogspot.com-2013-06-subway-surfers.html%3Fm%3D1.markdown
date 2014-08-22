@@ -18,15 +18,15 @@ title: http://chromewebgamesv1.blogspot.com/2013/06/subway-surfers.html?m=1
 *  Number of JS Resources: 19
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 26
-*  Total Request Bytes: 6258
+*  Total Request Bytes: 6134
 
 ### Response data
 
 *  HTML Response Bytes: 92787
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 38386
-*  Image Response Bytes: 39369
-*  JS Response Bytes: 1067604
+*  Image Response Bytes: 39370
+*  JS Response Bytes: 1067611
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97991
 
@@ -36,8 +36,6 @@ title: http://chromewebgamesv1.blogspot.com/2013/06/subway-surfers.html?m=1
 ### Performance issues
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
-*  Prefer asynchronous resources
-*  Improve server response time
 
 ### Mobile UX issues
 

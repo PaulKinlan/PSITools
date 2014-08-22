@@ -18,14 +18,14 @@ title: http://moviesforalldevices.blogspot.com/?m=1
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 1011
+*  Total Request Bytes: 1010
 
 ### Response data
 
 *  HTML Response Bytes: 0
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 46652
-*  Image Response Bytes: 2949
+*  Image Response Bytes: 2950
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18802
@@ -36,7 +36,6 @@ title: http://moviesforalldevices.blogspot.com/?m=1
 ### Performance issues
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
-*  Inline render-blocking CSS
 
 ### Mobile UX issues
 
