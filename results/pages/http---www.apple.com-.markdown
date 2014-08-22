@@ -22,13 +22,13 @@ title: http://www.apple.com/
 
 ### Response data
 
-*  HTML Response Bytes: 11179
+*  HTML Response Bytes: 11178
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 88907
-*  Image Response Bytes: 1511604
+*  Image Response Bytes: 1511586
 *  JS Response Bytes: 314859
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1321
+*  Other Response Bytes: 1322
 
 ### Performance issues
 

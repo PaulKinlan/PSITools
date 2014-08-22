@@ -22,11 +22,11 @@ title: https://msite.unicredit.it/it.touch.html
 
 ### Response data
 
-*  HTML Response Bytes: 56133
+*  HTML Response Bytes: 56121
 *  Text Response Bytes: 78369
-*  CSS Response Bytes: 87090
+*  CSS Response Bytes: 87091
 *  Image Response Bytes: 315379
-*  JS Response Bytes: 759379
+*  JS Response Bytes: 765862
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3188
 

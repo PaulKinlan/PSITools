@@ -18,17 +18,17 @@ title: http://m.immobiliare.it/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 2391
+*  Total Request Bytes: 2392
 
 ### Response data
 
 *  HTML Response Bytes: 29053
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 53449
-*  Image Response Bytes: 372161
-*  JS Response Bytes: 259326
+*  CSS Response Bytes: 53448
+*  Image Response Bytes: 372158
+*  JS Response Bytes: 259327
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1612
+*  Other Response Bytes: 1614
 
 ### Performance issues
 

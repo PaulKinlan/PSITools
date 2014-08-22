@@ -18,17 +18,17 @@ title: http://rai.it/
 *  Number of JS Resources: 45
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 226
-*  Total Request Bytes: 18969
+*  Total Request Bytes: 19004
 
 ### Response data
 
-*  HTML Response Bytes: 215699
+*  HTML Response Bytes: 214360
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 390381
-*  Image Response Bytes: 2471777
-*  JS Response Bytes: 1145325
+*  Image Response Bytes: 2409081
+*  JS Response Bytes: 1145015
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 78993
+*  Other Response Bytes: 78994
 
 ### Performance issues
 

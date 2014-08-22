@@ -18,17 +18,17 @@ title: http://m.alibaba.com/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 26
-*  Total Request Bytes: 7068
+*  Total Request Bytes: 7032
 
 ### Response data
 
-*  HTML Response Bytes: 201269
+*  HTML Response Bytes: 201208
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 386090
-*  JS Response Bytes: 53190
+*  Image Response Bytes: 413809
+*  JS Response Bytes: 53191
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2536
+*  Other Response Bytes: 2535
 
 ### Performance issues
 

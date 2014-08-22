@@ -18,14 +18,14 @@ title: https://www.google.it/?gws_rd=ssl
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 3189
+*  Total Request Bytes: 3197
 
 ### Response data
 
-*  HTML Response Bytes: 68175
+*  HTML Response Bytes: 68201
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 79100
+*  Image Response Bytes: 79101
 *  JS Response Bytes: 381929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1734

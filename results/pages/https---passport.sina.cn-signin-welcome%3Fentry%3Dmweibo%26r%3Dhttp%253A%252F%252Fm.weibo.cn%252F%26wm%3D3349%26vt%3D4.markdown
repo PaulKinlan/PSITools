@@ -18,17 +18,17 @@ title: https://passport.sina.cn/signin/welcome?entry=mweibo&r=http%3A%2F%2Fm.wei
 *  Number of JS Resources: 0
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 1652
+*  Total Request Bytes: 1654
 
 ### Response data
 
 *  HTML Response Bytes: 2100
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 14100
+*  CSS Response Bytes: 14102
 *  Image Response Bytes: 11673
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2028
+*  Other Response Bytes: 2025
 
 ### Performance issues
 

@@ -13,22 +13,22 @@ title: http://m.sky.it/
 
 ### Request information
 
-*  Number of Resources: 94
+*  Number of Resources: 93
 *  Number of Hosts: 9
 *  Number of JS Resources: 7
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 83
-*  Total Request Bytes: 10144
+*  Total Request Bytes: 9961
 
 ### Response data
 
-*  HTML Response Bytes: 45271
+*  HTML Response Bytes: 45266
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 159128
-*  Image Response Bytes: 738735
-*  JS Response Bytes: 174488
+*  Image Response Bytes: 739800
+*  JS Response Bytes: 174494
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2509
+*  Other Response Bytes: 2353
 
 ### Performance issues
 

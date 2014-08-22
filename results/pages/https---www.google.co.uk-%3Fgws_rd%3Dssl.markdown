@@ -26,7 +26,7 @@ title: https://www.google.co.uk/?gws_rd=ssl
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 79101
-*  JS Response Bytes: 381899
+*  JS Response Bytes: 381912
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1752
 

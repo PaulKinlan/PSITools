@@ -13,22 +13,22 @@ title: http://www.speedtest.net/
 
 ### Request information
 
-*  Number of Resources: 41
-*  Number of Hosts: 15
+*  Number of Resources: 37
+*  Number of Hosts: 14
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 18
-*  Total Request Bytes: 6771
+*  Total Request Bytes: 5499
 
 ### Response data
 
 *  HTML Response Bytes: 7887
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 29635
-*  Image Response Bytes: 263318
+*  Image Response Bytes: 262185
 *  JS Response Bytes: 245734
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 8071
+*  Other Response Bytes: 6579
 
 ### Performance issues
 

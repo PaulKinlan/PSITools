@@ -17,15 +17,15 @@ title: http://www.goodgamestudios.com/
 *  Number of Hosts: 5
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 4
-*  Nubmer of Static Resources: 50
-*  Total Request Bytes: 6407
+*  Nubmer of Static Resources: 51
+*  Total Request Bytes: 6404
 
 ### Response data
 
 *  HTML Response Bytes: 18859
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 84442
-*  Image Response Bytes: 684388
+*  Image Response Bytes: 684436
 *  JS Response Bytes: 216593
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 478

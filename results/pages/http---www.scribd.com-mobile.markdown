@@ -18,17 +18,17 @@ title: http://www.scribd.com/mobile
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 35
-*  Total Request Bytes: 7064
+*  Total Request Bytes: 7065
 
 ### Response data
 
 *  HTML Response Bytes: 16058
 *  Text Response Bytes: 335
-*  CSS Response Bytes: 183457
-*  Image Response Bytes: 739603
-*  JS Response Bytes: 400068
+*  CSS Response Bytes: 183418
+*  Image Response Bytes: 739548
+*  JS Response Bytes: 400041
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1551
+*  Other Response Bytes: 1548
 
 ### Performance issues
 

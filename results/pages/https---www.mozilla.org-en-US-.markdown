@@ -22,11 +22,11 @@ title: https://www.mozilla.org/en-US/
 
 ### Response data
 
-*  HTML Response Bytes: 45718
+*  HTML Response Bytes: 45717
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 120774
 *  Image Response Bytes: 184412
-*  JS Response Bytes: 435155
+*  JS Response Bytes: 435166
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1258
 

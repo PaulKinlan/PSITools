@@ -18,17 +18,17 @@ title: http://m.telecomitalia.it/
 *  Number of JS Resources: 23
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 33
-*  Total Request Bytes: 19571
+*  Total Request Bytes: 19495
 
 ### Response data
 
 *  HTML Response Bytes: 19934
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 66954
-*  Image Response Bytes: 139189
-*  JS Response Bytes: 568330
+*  Image Response Bytes: 139083
+*  JS Response Bytes: 568257
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 31996
+*  Other Response Bytes: 32134
 
 ### Performance issues
 

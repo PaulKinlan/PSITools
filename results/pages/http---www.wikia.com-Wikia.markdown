@@ -13,22 +13,22 @@ title: http://www.wikia.com/Wikia
 
 ### Request information
 
-*  Number of Resources: 50
-*  Number of Hosts: 28
+*  Number of Resources: 49
+*  Number of Hosts: 27
 *  Number of JS Resources: 20
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 29
-*  Total Request Bytes: 12071
+*  Total Request Bytes: 12076
 
 ### Response data
 
-*  HTML Response Bytes: 29380
+*  HTML Response Bytes: 29517
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 57450
-*  Image Response Bytes: 406713
-*  JS Response Bytes: 751160
+*  CSS Response Bytes: 57451
+*  Image Response Bytes: 406707
+*  JS Response Bytes: 751197
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 187192
+*  Other Response Bytes: 186821
 
 ### Performance issues
 

@@ -25,8 +25,8 @@ title: https://m.facebook.com/?refsrc=https%3A%2F%2Fwww.facebook.com%2F&_rdr
 *  HTML Response Bytes: 13264
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 63425
-*  Image Response Bytes: 36007
-*  JS Response Bytes: 329391
+*  Image Response Bytes: 36008
+*  JS Response Bytes: 329389
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1336
 

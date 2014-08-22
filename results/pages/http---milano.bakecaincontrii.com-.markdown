@@ -18,14 +18,14 @@ title: http://milano.bakecaincontrii.com/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 33
-*  Total Request Bytes: 4079
+*  Total Request Bytes: 4077
 
 ### Response data
 
 *  HTML Response Bytes: 67997
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 69131
-*  Image Response Bytes: 225474
+*  Image Response Bytes: 225477
 *  JS Response Bytes: 158317
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 456

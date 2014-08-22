@@ -13,22 +13,22 @@ title: http://www.livemint.com/
 
 ### Request information
 
-*  Number of Resources: 166
-*  Number of Hosts: 53
+*  Number of Resources: 163
+*  Number of Hosts: 49
 *  Number of JS Resources: 54
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 80
-*  Total Request Bytes: 43013
+*  Total Request Bytes: 41420
 
 ### Response data
 
-*  HTML Response Bytes: 214166
+*  HTML Response Bytes: 293791
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 667411
-*  Image Response Bytes: 423055
-*  JS Response Bytes: 1094574
+*  CSS Response Bytes: 667143
+*  Image Response Bytes: 404779
+*  JS Response Bytes: 1093402
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 14617
+*  Other Response Bytes: 14562
 
 ### Performance issues
 

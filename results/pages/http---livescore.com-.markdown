@@ -18,7 +18,7 @@ title: http://livescore.com/
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 718
+*  Total Request Bytes: 716
 
 ### Response data
 

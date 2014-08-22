@@ -18,15 +18,15 @@ title: http://uk.m.godaddy.com/?mrk=sales.none&mrf=%2F
 *  Number of JS Resources: 13
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 14
-*  Total Request Bytes: 10235
+*  Total Request Bytes: 10228
 
 ### Response data
 
-*  HTML Response Bytes: 66511
+*  HTML Response Bytes: 66504
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 23026
-*  Image Response Bytes: 55661
-*  JS Response Bytes: 247376
+*  Image Response Bytes: 55660
+*  JS Response Bytes: 247414
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6633
 

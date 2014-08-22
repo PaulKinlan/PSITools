@@ -18,17 +18,17 @@ title: http://www.rai.tv/?world
 *  Number of JS Resources: 63
 *  Number of CSS Resources: 9
 *  Nubmer of Static Resources: 208
-*  Total Request Bytes: 24089
+*  Total Request Bytes: 24087
 
 ### Response data
 
-*  HTML Response Bytes: 575514
+*  HTML Response Bytes: 575451
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 465285
-*  Image Response Bytes: 2110611
-*  JS Response Bytes: 2076099
+*  CSS Response Bytes: 465216
+*  Image Response Bytes: 2110832
+*  JS Response Bytes: 2075788
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 351095
+*  Other Response Bytes: 351093
 
 ### Performance issues
 

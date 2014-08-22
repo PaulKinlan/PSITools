@@ -25,10 +25,10 @@ title: http://www.ask.com/
 *  HTML Response Bytes: 22782
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 7138
-*  Image Response Bytes: 22939
+*  Image Response Bytes: 22940
 *  JS Response Bytes: 193442
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2989
+*  Other Response Bytes: 2988
 
 ### Performance issues
 

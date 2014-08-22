@@ -18,7 +18,7 @@ title: https://es.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 13
-*  Total Request Bytes: 3081
+*  Total Request Bytes: 3088
 
 ### Response data
 
@@ -26,7 +26,7 @@ title: https://es.wordpress.com/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 48587
 *  Image Response Bytes: 192825
-*  JS Response Bytes: 327149
+*  JS Response Bytes: 327150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44387
 

@@ -18,15 +18,15 @@ title: http://themobilebay.org/
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 13
-*  Total Request Bytes: 2611
+*  Total Request Bytes: 2505
 
 ### Response data
 
-*  HTML Response Bytes: 105542
+*  HTML Response Bytes: 105402
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 22155
-*  Image Response Bytes: 26511
-*  JS Response Bytes: 337731
+*  Image Response Bytes: 26510
+*  JS Response Bytes: 337841
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1090
 

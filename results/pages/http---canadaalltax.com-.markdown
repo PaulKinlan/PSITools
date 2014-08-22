@@ -22,7 +22,7 @@ title: http://canadaalltax.com/
 
 ### Response data
 
-*  HTML Response Bytes: 4003
+*  HTML Response Bytes: 4004
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 384

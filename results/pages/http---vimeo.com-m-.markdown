@@ -24,11 +24,11 @@ title: http://vimeo.com/m/
 
 *  HTML Response Bytes: 100937
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 116529
-*  Image Response Bytes: 401318
-*  JS Response Bytes: 428954
+*  CSS Response Bytes: 116504
+*  Image Response Bytes: 401342
+*  JS Response Bytes: 428911
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1321
+*  Other Response Bytes: 1320
 
 ### Performance issues
 

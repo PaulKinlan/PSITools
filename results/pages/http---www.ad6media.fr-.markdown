@@ -18,7 +18,7 @@ title: http://www.ad6media.fr/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 30
-*  Total Request Bytes: 3601
+*  Total Request Bytes: 3598
 
 ### Response data
 
@@ -28,7 +28,7 @@ title: http://www.ad6media.fr/
 *  Image Response Bytes: 711515
 *  JS Response Bytes: 130548
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1977
+*  Other Response Bytes: 1976
 
 ### Performance issues
 

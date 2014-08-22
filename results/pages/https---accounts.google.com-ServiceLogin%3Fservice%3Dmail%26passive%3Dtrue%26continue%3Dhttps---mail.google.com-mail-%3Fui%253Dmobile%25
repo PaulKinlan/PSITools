@@ -14,21 +14,21 @@ title: https://accounts.google.com/ServiceLogin?service=mail&passive=true&contin
 ### Request information
 
 *  Number of Resources: 10
-*  Number of Hosts: 6
+*  Number of Hosts: 5
 *  Number of JS Resources: 0
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 1032
+*  Total Request Bytes: 1040
 
 ### Response data
 
-*  HTML Response Bytes: 63638
+*  HTML Response Bytes: 63676
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 23721
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 50826
+*  Other Response Bytes: 50312
 
 ### Performance issues
 

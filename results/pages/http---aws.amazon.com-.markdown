@@ -13,22 +13,22 @@ title: http://aws.amazon.com/
 
 ### Request information
 
-*  Number of Resources: 57
-*  Number of Hosts: 8
+*  Number of Resources: 62
+*  Number of Hosts: 7
 *  Number of JS Resources: 8
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 46
-*  Total Request Bytes: 8915
+*  Total Request Bytes: 15556
 
 ### Response data
 
 *  HTML Response Bytes: 141157
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 248658
-*  Image Response Bytes: 1291411
+*  Image Response Bytes: 1295616
 *  JS Response Bytes: 363308
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2876
+*  Other Response Bytes: 2470
 
 ### Performance issues
 

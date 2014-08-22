@@ -18,7 +18,7 @@ title: https://www.adcash.com/en/index.php
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 13
 *  Nubmer of Static Resources: 34
-*  Total Request Bytes: 2988
+*  Total Request Bytes: 2984
 
 ### Response data
 

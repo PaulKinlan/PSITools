@@ -18,7 +18,7 @@ title: http://www.aruba.it/
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 63
-*  Total Request Bytes: 5832
+*  Total Request Bytes: 5833
 
 ### Response data
 

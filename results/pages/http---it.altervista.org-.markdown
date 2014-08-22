@@ -13,22 +13,22 @@ title: http://it.altervista.org/
 
 ### Request information
 
-*  Number of Resources: 98
-*  Number of Hosts: 31
-*  Number of JS Resources: 28
+*  Number of Resources: 99
+*  Number of Hosts: 32
+*  Number of JS Resources: 29
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 69
-*  Total Request Bytes: 18202
+*  Total Request Bytes: 18378
 
 ### Response data
 
-*  HTML Response Bytes: 208235
+*  HTML Response Bytes: 208034
 *  Text Response Bytes: 60846
 *  CSS Response Bytes: 43618
-*  Image Response Bytes: 796300
-*  JS Response Bytes: 1312690
+*  Image Response Bytes: 796299
+*  JS Response Bytes: 1312970
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 100327
+*  Other Response Bytes: 100326
 
 ### Performance issues
 

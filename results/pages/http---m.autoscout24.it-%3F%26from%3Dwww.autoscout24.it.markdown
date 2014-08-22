@@ -25,10 +25,10 @@ title: http://m.autoscout24.it/?&from=www.autoscout24.it
 *  HTML Response Bytes: 13678
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 103052
-*  Image Response Bytes: 39080
-*  JS Response Bytes: 621151
+*  Image Response Bytes: 39078
+*  JS Response Bytes: 621152
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 952
+*  Other Response Bytes: 1192
 
 ### Performance issues
 

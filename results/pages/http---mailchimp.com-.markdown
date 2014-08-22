@@ -18,14 +18,14 @@ title: http://mailchimp.com/
 *  Number of JS Resources: 8
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 29
-*  Total Request Bytes: 3392
+*  Total Request Bytes: 3242
 
 ### Response data
 
-*  HTML Response Bytes: 8259
+*  HTML Response Bytes: 8242
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 204073
-*  Image Response Bytes: 670059
+*  Image Response Bytes: 670062
 *  JS Response Bytes: 235399
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

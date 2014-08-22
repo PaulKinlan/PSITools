@@ -25,8 +25,8 @@ title: http://m.shutterstock.com/
 *  HTML Response Bytes: 11464
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 112204
-*  Image Response Bytes: 127902
-*  JS Response Bytes: 259496
+*  Image Response Bytes: 127900
+*  JS Response Bytes: 258760
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1597
 

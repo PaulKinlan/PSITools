@@ -18,17 +18,17 @@ title: http://www.domaintools.com/
 *  Number of JS Resources: 13
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 25
-*  Total Request Bytes: 6301
+*  Total Request Bytes: 6303
 
 ### Response data
 
-*  HTML Response Bytes: 162049
+*  HTML Response Bytes: 162079
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 346481
-*  Image Response Bytes: 188395
-*  JS Response Bytes: 922898
+*  CSS Response Bytes: 346466
+*  Image Response Bytes: 188332
+*  JS Response Bytes: 922817
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 95795
+*  Other Response Bytes: 95796
 
 ### Performance issues
 

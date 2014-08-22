@@ -25,10 +25,10 @@ title: http://m.ikea.com/
 *  HTML Response Bytes: 16306
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 147259
-*  Image Response Bytes: 18189
+*  Image Response Bytes: 18190
 *  JS Response Bytes: 573433
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1673
+*  Other Response Bytes: 1672
 
 ### Performance issues
 

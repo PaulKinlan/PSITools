@@ -25,7 +25,7 @@ title: https://www.netflix.com/?locale=en-US
 *  HTML Response Bytes: 40688
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 54581
-*  Image Response Bytes: 639780
+*  Image Response Bytes: 639781
 *  JS Response Bytes: 681077
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7900
@@ -40,6 +40,7 @@ title: https://www.netflix.com/?locale=en-US
 *  Inline render-blocking CSS
 *  Prioritize visible content
 *  Enable compression
+*  Improve server response time
 
 ### Mobile UX issues
 

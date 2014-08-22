@@ -18,7 +18,7 @@ title: https://m.tagged.com/index.html
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 18
-*  Total Request Bytes: 3227
+*  Total Request Bytes: 3226
 
 ### Response data
 
@@ -26,9 +26,9 @@ title: https://m.tagged.com/index.html
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 152119
 *  Image Response Bytes: 66072
-*  JS Response Bytes: 605882
+*  JS Response Bytes: 605884
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 54234
+*  Other Response Bytes: 54235
 
 ### Performance issues
 

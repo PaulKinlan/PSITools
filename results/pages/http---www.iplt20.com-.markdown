@@ -18,17 +18,17 @@ title: http://www.iplt20.com/
 *  Number of JS Resources: 21
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 33
-*  Total Request Bytes: 4276
+*  Total Request Bytes: 4277
 
 ### Response data
 
-*  HTML Response Bytes: 69238
+*  HTML Response Bytes: 69244
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 361697
-*  Image Response Bytes: 316516
-*  JS Response Bytes: 1490806
+*  CSS Response Bytes: 361698
+*  Image Response Bytes: 316514
+*  JS Response Bytes: 1490937
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1594
+*  Other Response Bytes: 1592
 
 ### Performance issues
 

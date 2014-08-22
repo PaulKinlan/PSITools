@@ -18,17 +18,17 @@ title: http://www.stumbleupon.com/
 *  Number of JS Resources: 23
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 29
-*  Total Request Bytes: 5599
+*  Total Request Bytes: 5596
 
 ### Response data
 
-*  HTML Response Bytes: 27265
+*  HTML Response Bytes: 27264
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 194726
-*  Image Response Bytes: 411834
-*  JS Response Bytes: 1560602
+*  Image Response Bytes: 411835
+*  JS Response Bytes: 1560603
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 14690
+*  Other Response Bytes: 14688
 
 ### Performance issues
 
