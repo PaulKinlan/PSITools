@@ -9,7 +9,7 @@ import fileinput
 from cgi import escape
 
 pagespeed_url = "https://developers.google.com/speed/pagespeed/insights/?url="
-output_directory = "results/sites/"
+output_directory = "results/pages/"
 
 sites = []
 
@@ -44,7 +44,7 @@ for site in sorted_sites:
   speed_rules = [u"AvoidLandingPageRedirects", u"MinimizeRenderBlockingResources", u"InlineRenderBlockingCss", u"PreferAsyncResources", u"PrioritizeVisibleContent", u"EnableGzipCompression", u"ServerResponseTime"]
   ux_rules = [u"AvoidPlugins", u"Configure Viewport", u"SizeContentToViewport", u"SizeTapTargetsAppropriately", u"UseLegibleFontSizes"]
 
-  path = os.path.join("results", "sites","%s.markdown" % urllib.quote_plus(id.replace("/","-").replace(":","-")))
+  path = os.path.join("results", "pages","%s.markdown" % urllib.quote_plus(id.replace("/","-").replace(":","-")))
   path = path[:150] if len(path) > 150 else path
 
   with open(path, 'w') as f:

@@ -41,7 +41,7 @@ for site in sorted_sites:
 
   sys.stdout.write("[")
   sys.stdout.write(title.encode('utf-8').replace("|","&#124;"))
-  sys.stdout.write("]({{site.baseurl}}results/sites/%s.html)|[%s](%s%s)|\n" % (urllib.quote_plus(url.replace("/","-").replace(":","-")), score, pagespeed_url, id))
+  sys.stdout.write("]({{site.baseurl}}results/page/%s.html)|[%s](%s%s)|\n" % (urllib.quote_plus(url.replace("/","-").replace(":","-")), score, pagespeed_url, id))
 
 for site in sorted_sites:
 
