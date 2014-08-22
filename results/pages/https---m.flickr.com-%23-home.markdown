@@ -18,17 +18,17 @@ title: https://m.flickr.com/#/home
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 27
-*  Total Request Bytes: 4833
+*  Total Request Bytes: 4830
 
 ### Response data
 
 *  HTML Response Bytes: 23494
-*  Text Response Bytes: 1124
-*  CSS Response Bytes: 78096
-*  Image Response Bytes: 184257
-*  JS Response Bytes: 308710
+*  Text Response Bytes: 1130
+*  CSS Response Bytes: 78129
+*  Image Response Bytes: 184282
+*  JS Response Bytes: 308709
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2449
+*  Other Response Bytes: 2483
 
 ### Performance issues
 

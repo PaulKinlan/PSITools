@@ -25,7 +25,7 @@ title: https://www.netflix.com/?locale=en-US
 *  HTML Response Bytes: 42339
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 54581
-*  Image Response Bytes: 639778
+*  Image Response Bytes: 639782
 *  JS Response Bytes: 681077
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7895

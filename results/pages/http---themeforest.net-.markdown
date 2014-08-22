@@ -18,15 +18,15 @@ title: http://themeforest.net/
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 83
-*  Total Request Bytes: 11064
+*  Total Request Bytes: 11070
 
 ### Response data
 
 *  HTML Response Bytes: 100198
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 268329
-*  Image Response Bytes: 780792
-*  JS Response Bytes: 517104
+*  Image Response Bytes: 780766
+*  JS Response Bytes: 517103
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2034
 

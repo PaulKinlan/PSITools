@@ -18,7 +18,7 @@ title: https://touch.unibet.com/
 *  Number of JS Resources: 8
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 15
-*  Total Request Bytes: 2977
+*  Total Request Bytes: 2975
 
 ### Response data
 
@@ -26,9 +26,9 @@ title: https://touch.unibet.com/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 182658
 *  Image Response Bytes: 345189
-*  JS Response Bytes: 391183
+*  JS Response Bytes: 391209
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 758
+*  Other Response Bytes: 757
 
 ### Performance issues
 

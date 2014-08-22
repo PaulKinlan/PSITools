@@ -13,19 +13,19 @@ title: http://t.uk.msn.com/?rd=1&ucc=GB&dcc=GB&opt=0
 
 ### Request information
 
-*  Number of Resources: 60
+*  Number of Resources: 61
 *  Number of Hosts: 22
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 1
-*  Nubmer of Static Resources: 42
-*  Total Request Bytes: 9740
+*  Nubmer of Static Resources: 43
+*  Total Request Bytes: 9854
 
 ### Response data
 
-*  HTML Response Bytes: 197025
+*  HTML Response Bytes: 197281
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 33875
-*  Image Response Bytes: 1304675
+*  Image Response Bytes: 1335603
 *  JS Response Bytes: 389433
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5835
@@ -39,6 +39,7 @@ title: http://t.uk.msn.com/?rd=1&ucc=GB&dcc=GB&opt=0
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Prioritize visible content
 *  Enable compression
+*  Improve server response time
 
 ### Mobile UX issues
 

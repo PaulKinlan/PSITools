@@ -39,6 +39,7 @@ title: http://m.imdb.com/
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Inline render-blocking CSS
 *  Prioritize visible content
+*  Improve server response time
 
 ### Mobile UX issues
 

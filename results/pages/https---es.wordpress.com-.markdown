@@ -26,7 +26,7 @@ title: https://es.wordpress.com/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 48587
 *  Image Response Bytes: 192825
-*  JS Response Bytes: 327149
+*  JS Response Bytes: 327162
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44387
 
