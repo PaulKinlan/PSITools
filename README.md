@@ -13,4 +13,4 @@ To generate the markdown results run:
 
 ## Run across alexa top 10
 
-`cat source/alexa-top-10 | ./run.py | ./generate-table.py > output
+`cat source/alexa-top-10 | ./run.py | ./generate-table.py > output`
