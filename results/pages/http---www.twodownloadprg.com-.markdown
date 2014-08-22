@@ -13,22 +13,22 @@ title: http://www.twodownloadprg.com/
 
 ### Request information
 
-*  Number of Resources: 37
+*  Number of Resources: 36
 *  Number of Hosts: 10
 *  Number of JS Resources: 13
 *  Number of CSS Resources: 4
-*  Nubmer of Static Resources: 23
-*  Total Request Bytes: 6416
+*  Nubmer of Static Resources: 24
+*  Total Request Bytes: 6235
 
 ### Response data
 
-*  HTML Response Bytes: 209485
+*  HTML Response Bytes: 208732
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 71166
-*  Image Response Bytes: 71977
-*  JS Response Bytes: 513642
+*  Image Response Bytes: 72721
+*  JS Response Bytes: 513652
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 16622
+*  Other Response Bytes: 14488
 
 ### Performance issues
 

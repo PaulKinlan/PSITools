@@ -22,10 +22,10 @@ title: http://endersgames.com/
 
 ### Response data
 
-*  HTML Response Bytes: 10842
+*  HTML Response Bytes: 10841
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 1329
+*  Image Response Bytes: 1304
 *  JS Response Bytes: 167633
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
