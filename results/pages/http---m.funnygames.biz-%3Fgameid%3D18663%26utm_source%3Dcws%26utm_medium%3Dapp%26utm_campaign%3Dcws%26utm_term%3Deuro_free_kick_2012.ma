@@ -18,14 +18,14 @@ title: http://m.funnygames.biz/?gameid=18663&utm_source=cws&utm_medium=app&utm_c
 *  Number of JS Resources: 19
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 58
-*  Total Request Bytes: 8061
+*  Total Request Bytes: 8040
 
 ### Response data
 
-*  HTML Response Bytes: 56248
+*  HTML Response Bytes: 55981
 *  Text Response Bytes: 43914
 *  CSS Response Bytes: 47353
-*  Image Response Bytes: 548415
+*  Image Response Bytes: 548419
 *  JS Response Bytes: 1265758
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28440

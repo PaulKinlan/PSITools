@@ -15,9 +15,8 @@ apps-%.tmp: output/apps/apps-%
 	./generate-page-result.py ./output/apps/apps-$*
 
 results/apps/apps-%.markdown: apps-%.tmp generate-table.py
-	cat _frontmatter/apps apps-$*.tmp > $@
+	cat _frontmatter/apps apps-$*.tmp | sed "s/title: Web Apps/title: Web Apps $*/" > $@
 	rm -f apps-$*.tmp
-
 
 # Sites
 output/sites/%: source/sites/%

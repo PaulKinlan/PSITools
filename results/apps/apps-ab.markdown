@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Web Apps
+title: Web Apps ab
 description: PageSpeed insights scores for mobile web apps
 category: apps
 ---

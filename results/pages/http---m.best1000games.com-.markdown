@@ -18,15 +18,15 @@ title: http://m.best1000games.com/
 *  Number of JS Resources: 22
 *  Number of CSS Resources: 12
 *  Nubmer of Static Resources: 25
-*  Total Request Bytes: 7470
+*  Total Request Bytes: 7445
 
 ### Response data
 
-*  HTML Response Bytes: 91710
+*  HTML Response Bytes: 91543
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 190628
-*  Image Response Bytes: 2014913
-*  JS Response Bytes: 579742
+*  Image Response Bytes: 2014884
+*  JS Response Bytes: 579745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 334875
 
@@ -38,6 +38,7 @@ title: http://m.best1000games.com/
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Prefer asynchronous resources
 *  Enable compression
+*  Improve server response time
 
 ### Mobile UX issues
 
