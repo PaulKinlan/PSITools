@@ -18,11 +18,11 @@ title: http://ww2.gamezroyal.com/?folio=7POJ4E717
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 2613
+*  Total Request Bytes: 2583
 
 ### Response data
 
-*  HTML Response Bytes: 20898
+*  HTML Response Bytes: 20783
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 2099

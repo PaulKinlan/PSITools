@@ -18,11 +18,11 @@ title: http://mategames.com/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 1254
+*  Total Request Bytes: 1244
 
 ### Response data
 
-*  HTML Response Bytes: 11202
+*  HTML Response Bytes: 10915
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 1304

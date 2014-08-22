@@ -22,10 +22,10 @@ title: http://freeforexeducation.com/
 
 ### Response data
 
-*  HTML Response Bytes: 11043
+*  HTML Response Bytes: 10938
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 1330
+*  Image Response Bytes: 1329
 *  JS Response Bytes: 167680
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

@@ -18,15 +18,15 @@ title: http://ww38.abf.poodlegames.com/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 8
-*  Total Request Bytes: 2481
+*  Total Request Bytes: 2469
 
 ### Response data
 
-*  HTML Response Bytes: 16374
+*  HTML Response Bytes: 16320
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 2895
-*  Image Response Bytes: 6485
-*  JS Response Bytes: 209104
+*  CSS Response Bytes: 2894
+*  Image Response Bytes: 6486
+*  JS Response Bytes: 209105
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 215
 

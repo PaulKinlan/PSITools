@@ -13,22 +13,22 @@ title: http://www.bzuu.com.br/mobile/
 
 ### Request information
 
-*  Number of Resources: 142
-*  Number of Hosts: 6
-*  Number of JS Resources: 12
-*  Number of CSS Resources: 2
-*  Nubmer of Static Resources: 132
-*  Total Request Bytes: 14039
+*  Number of Resources: 151
+*  Number of Hosts: 12
+*  Number of JS Resources: 13
+*  Number of CSS Resources: 3
+*  Nubmer of Static Resources: 137
+*  Total Request Bytes: 15245
 
 ### Response data
 
-*  HTML Response Bytes: 96248
+*  HTML Response Bytes: 141249
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 12530
-*  Image Response Bytes: 2175443
-*  JS Response Bytes: 1823038
+*  CSS Response Bytes: 13094
+*  Image Response Bytes: 2177729
+*  JS Response Bytes: 1854447
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1090
+*  Other Response Bytes: 15945
 
 ### Performance issues
 
@@ -42,3 +42,4 @@ title: http://www.bzuu.com.br/mobile/
 
 ### Mobile UX issues
 
+*  Size tap targets appropriately
