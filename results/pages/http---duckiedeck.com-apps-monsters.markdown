@@ -18,7 +18,7 @@ title: http://duckiedeck.com/apps/monsters
 *  Number of JS Resources: 8
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 33
-*  Total Request Bytes: 3665
+*  Total Request Bytes: 3675
 
 ### Response data
 
@@ -28,7 +28,7 @@ title: http://duckiedeck.com/apps/monsters
 *  Image Response Bytes: 749124
 *  JS Response Bytes: 161385
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 68755
+*  Other Response Bytes: 68263
 
 ### Performance issues
 

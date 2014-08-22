@@ -13,12 +13,12 @@ title: http://www.games-h.com/casino-games/uno.html
 
 ### Request information
 
-*  Number of Resources: 3
-*  Number of Hosts: 3
+*  Number of Resources: 2
+*  Number of Hosts: 2
 *  Number of JS Resources: 0
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 0
-*  Total Request Bytes: 379
+*  Total Request Bytes: 336
 
 ### Response data
 
@@ -28,7 +28,7 @@ title: http://www.games-h.com/casino-games/uno.html
 *  Image Response Bytes: 0
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2344
+*  Other Response Bytes: 1755
 
 ### Performance issues
 
