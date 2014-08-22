@@ -22,10 +22,10 @@ title: http://profitableforextradingsystem.com/
 
 ### Response data
 
-*  HTML Response Bytes: 11031
+*  HTML Response Bytes: 11032
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 1329
+*  Image Response Bytes: 1330
 *  JS Response Bytes: 167752
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

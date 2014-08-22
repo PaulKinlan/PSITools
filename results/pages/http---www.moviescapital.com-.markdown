@@ -18,7 +18,7 @@ title: http://www.moviescapital.com/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 60
-*  Total Request Bytes: 4402
+*  Total Request Bytes: 4404
 
 ### Response data
 
@@ -26,7 +26,7 @@ title: http://www.moviescapital.com/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 25994
 *  Image Response Bytes: 1303871
-*  JS Response Bytes: 110556
+*  JS Response Bytes: 110555
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50
 

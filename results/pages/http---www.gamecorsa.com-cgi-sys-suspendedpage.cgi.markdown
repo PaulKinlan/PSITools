@@ -18,7 +18,7 @@ title: http://www.gamecorsa.com/cgi-sys/suspendedpage.cgi
 *  Number of JS Resources: 0
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 293
+*  Total Request Bytes: 287
 
 ### Response data
 

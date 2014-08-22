@@ -18,17 +18,17 @@ title: http://www.gamse.us/
 *  Number of JS Resources: 7
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 67
-*  Total Request Bytes: 5921
+*  Total Request Bytes: 5932
 
 ### Response data
 
 *  HTML Response Bytes: 87990
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 48525
-*  Image Response Bytes: 700473
+*  Image Response Bytes: 700388
 *  JS Response Bytes: 420427
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 111
+*  Other Response Bytes: 119
 
 ### Performance issues
 

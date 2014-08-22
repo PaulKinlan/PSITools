@@ -18,17 +18,17 @@ title: http://www.bhawanigarg.com/using-whatsapp-pc-easy/
 *  Number of JS Resources: 25
 *  Number of CSS Resources: 10
 *  Nubmer of Static Resources: 202
-*  Total Request Bytes: 28168
+*  Total Request Bytes: 28237
 
 ### Response data
 
-*  HTML Response Bytes: 528008
+*  HTML Response Bytes: 493661
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 127667
-*  Image Response Bytes: 433603
-*  JS Response Bytes: 975695
+*  Image Response Bytes: 410156
+*  JS Response Bytes: 975697
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 46540
+*  Other Response Bytes: 46539
 
 ### Performance issues
 

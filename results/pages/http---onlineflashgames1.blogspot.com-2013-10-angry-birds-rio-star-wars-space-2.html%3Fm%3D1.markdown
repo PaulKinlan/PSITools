@@ -22,11 +22,11 @@ title: http://onlineflashgames1.blogspot.com/2013/10/angry-birds-rio-star-wars-s
 
 ### Response data
 
-*  HTML Response Bytes: 21940
+*  HTML Response Bytes: 20510
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 66777
-*  Image Response Bytes: 41637
-*  JS Response Bytes: 789177
+*  CSS Response Bytes: 66776
+*  Image Response Bytes: 41639
+*  JS Response Bytes: 788528
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 339293
 

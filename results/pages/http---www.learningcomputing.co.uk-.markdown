@@ -25,8 +25,8 @@ title: http://www.learningcomputing.co.uk/
 *  HTML Response Bytes: 41111
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 196263
-*  Image Response Bytes: 268357
-*  JS Response Bytes: 453418
+*  Image Response Bytes: 268356
+*  JS Response Bytes: 453414
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
 

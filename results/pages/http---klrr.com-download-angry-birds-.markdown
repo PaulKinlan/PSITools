@@ -18,11 +18,11 @@ title: http://klrr.com/download-angry-birds/
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 1
-*  Total Request Bytes: 368
+*  Total Request Bytes: 372
 
 ### Response data
 
-*  HTML Response Bytes: 1364
+*  HTML Response Bytes: 1368
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 299

@@ -25,7 +25,7 @@ title: http://downloadgamesamazon.blogspot.com/?m=1
 *  HTML Response Bytes: 0
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 46652
-*  Image Response Bytes: 2949
+*  Image Response Bytes: 2950
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18804

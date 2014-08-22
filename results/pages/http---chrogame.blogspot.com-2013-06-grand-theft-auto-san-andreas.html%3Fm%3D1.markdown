@@ -18,17 +18,17 @@ title: http://chrogame.blogspot.com/2013/06/grand-theft-auto-san-andreas.html?m=
 *  Number of JS Resources: 19
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 26
-*  Total Request Bytes: 6162
+*  Total Request Bytes: 6145
 
 ### Response data
 
-*  HTML Response Bytes: 93116
+*  HTML Response Bytes: 93117
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 38386
-*  Image Response Bytes: 93313
-*  JS Response Bytes: 1067597
+*  Image Response Bytes: 93311
+*  JS Response Bytes: 1067617
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 98002
+*  Other Response Bytes: 98001
 
 ### Performance issues
 

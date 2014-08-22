@@ -18,17 +18,17 @@ title: http://www.chrome-downloads.com/
 *  Number of JS Resources: 14
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 23
-*  Total Request Bytes: 6336
+*  Total Request Bytes: 6335
 
 ### Response data
 
-*  HTML Response Bytes: 172277
+*  HTML Response Bytes: 173474
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 34422
-*  Image Response Bytes: 177204
-*  JS Response Bytes: 685183
+*  Image Response Bytes: 177145
+*  JS Response Bytes: 685184
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 82536
+*  Other Response Bytes: 82537
 
 ### Performance issues
 

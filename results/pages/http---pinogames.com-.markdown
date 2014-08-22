@@ -22,11 +22,11 @@ title: http://pinogames.com/
 
 ### Response data
 
-*  HTML Response Bytes: 10862
+*  HTML Response Bytes: 10966
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 1305
-*  JS Response Bytes: 167711
+*  JS Response Bytes: 167689
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
 
