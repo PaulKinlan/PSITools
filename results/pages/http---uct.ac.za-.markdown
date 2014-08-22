@@ -18,14 +18,14 @@ title: http://uct.ac.za/
 *  Number of JS Resources: 21
 *  Number of CSS Resources: 12
 *  Nubmer of Static Resources: 103
-*  Total Request Bytes: 9012
+*  Total Request Bytes: 9014
 
 ### Response data
 
 *  HTML Response Bytes: 79926
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 87525
-*  Image Response Bytes: 1336705
+*  Image Response Bytes: 1336823
 *  JS Response Bytes: 744370
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1604

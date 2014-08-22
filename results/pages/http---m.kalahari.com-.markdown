@@ -18,17 +18,17 @@ title: http://m.kalahari.com/
 *  Number of JS Resources: 13
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 17
-*  Total Request Bytes: 29381
+*  Total Request Bytes: 29386
 
 ### Response data
 
 *  HTML Response Bytes: 31041
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 109141
-*  Image Response Bytes: 732157
-*  JS Response Bytes: 651306
+*  Image Response Bytes: 732154
+*  JS Response Bytes: 651301
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 33413
+*  Other Response Bytes: 33419
 
 ### Performance issues
 

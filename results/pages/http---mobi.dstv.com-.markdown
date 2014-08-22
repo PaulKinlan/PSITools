@@ -13,18 +13,18 @@ title: http://mobi.dstv.com/
 
 ### Request information
 
-*  Number of Resources: 17
-*  Number of Hosts: 5
+*  Number of Resources: 16
+*  Number of Hosts: 4
 *  Number of JS Resources: 5
-*  Number of CSS Resources: 5
-*  Nubmer of Static Resources: 4
-*  Total Request Bytes: 1224
+*  Number of CSS Resources: 4
+*  Nubmer of Static Resources: 3
+*  Total Request Bytes: 1067
 
 ### Response data
 
 *  HTML Response Bytes: 5535
 *  Text Response Bytes: 178549
-*  CSS Response Bytes: 98451
+*  CSS Response Bytes: 52965
 *  Image Response Bytes: 143163
 *  JS Response Bytes: 159155
 *  Flash Response Bytes: 0
@@ -37,6 +37,7 @@ title: http://mobi.dstv.com/
 
 *  Avoid landing page redirects
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Inline render-blocking CSS
 
 ### Mobile UX issues
 

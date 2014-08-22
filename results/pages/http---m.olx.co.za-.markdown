@@ -18,11 +18,11 @@ title: http://m.olx.co.za/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 12
-*  Total Request Bytes: 3677
+*  Total Request Bytes: 3678
 
 ### Response data
 
-*  HTML Response Bytes: 9242
+*  HTML Response Bytes: 9241
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 134175
 *  Image Response Bytes: 36227
@@ -38,6 +38,7 @@ title: http://m.olx.co.za/
 *  Avoid landing page redirects
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Prioritize visible content
+*  Improve server response time
 
 ### Mobile UX issues
 

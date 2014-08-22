@@ -18,17 +18,17 @@ title: http://www.afrihost.com/
 *  Number of JS Resources: 16
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 51
-*  Total Request Bytes: 7998
+*  Total Request Bytes: 7996
 
 ### Response data
 
-*  HTML Response Bytes: 102318
+*  HTML Response Bytes: 102291
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 331930
-*  Image Response Bytes: 1961729
-*  JS Response Bytes: 1041858
+*  CSS Response Bytes: 331929
+*  Image Response Bytes: 1961728
+*  JS Response Bytes: 1041842
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 398541
+*  Other Response Bytes: 398542
 
 ### Performance issues
 

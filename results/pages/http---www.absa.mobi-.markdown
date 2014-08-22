@@ -18,17 +18,17 @@ title: http://www.absa.mobi/
 *  Number of JS Resources: 0
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 7
-*  Total Request Bytes: 2173
+*  Total Request Bytes: 2171
 
 ### Response data
 
-*  HTML Response Bytes: 4068
+*  HTML Response Bytes: 4067
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 1244
-*  Image Response Bytes: 18963
+*  Image Response Bytes: 18965
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1701
+*  Other Response Bytes: 1700
 
 ### Performance issues
 

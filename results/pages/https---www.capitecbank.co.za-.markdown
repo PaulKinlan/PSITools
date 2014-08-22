@@ -18,14 +18,14 @@ title: https://www.capitecbank.co.za/
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 19
-*  Total Request Bytes: 2671
+*  Total Request Bytes: 2821
 
 ### Response data
 
 *  HTML Response Bytes: 15948
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 122096
-*  Image Response Bytes: 149533
+*  Image Response Bytes: 149531
 *  JS Response Bytes: 165111
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 358

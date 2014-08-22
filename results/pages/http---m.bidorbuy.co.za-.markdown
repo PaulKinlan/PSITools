@@ -18,15 +18,15 @@ title: http://m.bidorbuy.co.za/
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 20
-*  Total Request Bytes: 3092
+*  Total Request Bytes: 3091
 
 ### Response data
 
-*  HTML Response Bytes: 18204
+*  HTML Response Bytes: 18205
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 108087
 *  Image Response Bytes: 76043
-*  JS Response Bytes: 281061
+*  JS Response Bytes: 281060
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 985
 

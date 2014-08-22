@@ -18,7 +18,7 @@ title: http://m.careerjunction.co.za/
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 2667
+*  Total Request Bytes: 2670
 
 ### Response data
 
@@ -26,7 +26,7 @@ title: http://m.careerjunction.co.za/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 14093
 *  Image Response Bytes: 8181
-*  JS Response Bytes: 77721
+*  JS Response Bytes: 77722
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 790
 

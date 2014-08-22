@@ -18,17 +18,17 @@ title: https://hootsuite.com/
 *  Number of JS Resources: 27
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 35
-*  Total Request Bytes: 20484
+*  Total Request Bytes: 20506
 
 ### Response data
 
-*  HTML Response Bytes: 135476
+*  HTML Response Bytes: 135478
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 184983
-*  Image Response Bytes: 82966
-*  JS Response Bytes: 1735544
+*  CSS Response Bytes: 184986
+*  Image Response Bytes: 82903
+*  JS Response Bytes: 1735546
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 188141
+*  Other Response Bytes: 188134
 
 ### Performance issues
 
@@ -38,6 +38,7 @@ title: https://hootsuite.com/
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Prefer asynchronous resources
 *  Enable compression
+*  Improve server response time
 
 ### Mobile UX issues
 

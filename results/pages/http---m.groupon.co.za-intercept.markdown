@@ -25,7 +25,7 @@ title: http://m.groupon.co.za/intercept
 *  HTML Response Bytes: 7213
 *  Text Response Bytes: 387
 *  CSS Response Bytes: 42489
-*  Image Response Bytes: 399542
+*  Image Response Bytes: 399543
 *  JS Response Bytes: 462601
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1816

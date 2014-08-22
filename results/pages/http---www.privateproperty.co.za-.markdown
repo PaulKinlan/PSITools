@@ -18,17 +18,17 @@ title: http://www.privateproperty.co.za/
 *  Number of JS Resources: 12
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 24
-*  Total Request Bytes: 4004
+*  Total Request Bytes: 4003
 
 ### Response data
 
 *  HTML Response Bytes: 30910
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 73197
-*  Image Response Bytes: 442706
-*  JS Response Bytes: 427420
+*  Image Response Bytes: 442705
+*  JS Response Bytes: 427418
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1111
+*  Other Response Bytes: 1110
 
 ### Performance issues
 

@@ -18,7 +18,7 @@ title: http://www.standardbank.co.za/portal/site/standardbank
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 18
-*  Total Request Bytes: 3719
+*  Total Request Bytes: 3721
 
 ### Response data
 
@@ -28,7 +28,7 @@ title: http://www.standardbank.co.za/portal/site/standardbank
 *  Image Response Bytes: 172057
 *  JS Response Bytes: 73905
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1277
+*  Other Response Bytes: 1278
 
 ### Performance issues
 

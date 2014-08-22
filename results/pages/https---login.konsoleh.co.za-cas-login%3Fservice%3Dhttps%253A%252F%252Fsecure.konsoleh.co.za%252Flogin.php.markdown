@@ -22,11 +22,11 @@ title: https://login.konsoleh.co.za/cas/login?service=https%3A%2F%2Fsecure.konso
 
 ### Response data
 
-*  HTML Response Bytes: 3096
+*  HTML Response Bytes: 3098
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 6565
 *  Image Response Bytes: 4404
-*  JS Response Bytes: 177685
+*  JS Response Bytes: 177684
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5505
 

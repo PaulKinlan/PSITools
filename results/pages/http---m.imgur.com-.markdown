@@ -18,7 +18,7 @@ title: http://m.imgur.com/
 *  Number of JS Resources: 7
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 1718
+*  Total Request Bytes: 1719
 
 ### Response data
 

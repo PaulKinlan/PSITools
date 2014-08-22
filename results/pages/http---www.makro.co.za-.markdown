@@ -18,17 +18,17 @@ title: http://www.makro.co.za/
 *  Number of JS Resources: 12
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 40
-*  Total Request Bytes: 37273
+*  Total Request Bytes: 36746
 
 ### Response data
 
 *  HTML Response Bytes: 150959
 *  Text Response Bytes: 343194
 *  CSS Response Bytes: 309000
-*  Image Response Bytes: 787486
+*  Image Response Bytes: 786708
 *  JS Response Bytes: 1690805
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 22165
+*  Other Response Bytes: 22812
 
 ### Performance issues
 

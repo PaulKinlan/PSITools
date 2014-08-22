@@ -28,7 +28,7 @@ title: http://www.ananzi.co.za/
 *  Image Response Bytes: 19075
 *  JS Response Bytes: 305776
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 549
+*  Other Response Bytes: 557
 
 ### Performance issues
 

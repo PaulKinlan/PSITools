@@ -18,15 +18,15 @@ title: http://hetzner.co.za/
 *  Number of JS Resources: 16
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 47
-*  Total Request Bytes: 14234
+*  Total Request Bytes: 14233
 
 ### Response data
 
-*  HTML Response Bytes: 44154
-*  Text Response Bytes: 72507
+*  HTML Response Bytes: 44128
+*  Text Response Bytes: 72506
 *  CSS Response Bytes: 93801
 *  Image Response Bytes: 578591
-*  JS Response Bytes: 711023
+*  JS Response Bytes: 711011
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 808
 

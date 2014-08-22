@@ -18,14 +18,14 @@ title: http://www.directrev.com/
 *  Number of JS Resources: 7
 *  Number of CSS Resources: 10
 *  Nubmer of Static Resources: 23
-*  Total Request Bytes: 2422
+*  Total Request Bytes: 2424
 
 ### Response data
 
 *  HTML Response Bytes: 8749
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 156658
-*  Image Response Bytes: 17304
+*  Image Response Bytes: 17306
 *  JS Response Bytes: 262955
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 66376

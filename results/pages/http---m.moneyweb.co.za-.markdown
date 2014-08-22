@@ -13,22 +13,22 @@ title: http://m.moneyweb.co.za/
 
 ### Request information
 
-*  Number of Resources: 54
-*  Number of Hosts: 21
+*  Number of Resources: 52
+*  Number of Hosts: 20
 *  Number of JS Resources: 17
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 13
-*  Total Request Bytes: 11738
+*  Total Request Bytes: 11365
 
 ### Response data
 
-*  HTML Response Bytes: 202031
+*  HTML Response Bytes: 204755
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 164327
-*  Image Response Bytes: 39093
+*  Image Response Bytes: 38648
 *  JS Response Bytes: 816050
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 46997
+*  Other Response Bytes: 46642
 
 ### Performance issues
 
@@ -41,4 +41,3 @@ title: http://m.moneyweb.co.za/
 
 ### Mobile UX issues
 
-*  Size tap targets appropriately

@@ -18,14 +18,14 @@ title: https://m.takealot.com/#home
 *  Number of JS Resources: 23
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 58
-*  Total Request Bytes: 4612
+*  Total Request Bytes: 4613
 
 ### Response data
 
 *  HTML Response Bytes: 1472
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 273636
-*  Image Response Bytes: 462879
+*  Image Response Bytes: 462843
 *  JS Response Bytes: 845014
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 730

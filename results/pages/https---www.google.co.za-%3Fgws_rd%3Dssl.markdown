@@ -18,15 +18,15 @@ title: https://www.google.co.za/?gws_rd=ssl
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 3252
+*  Total Request Bytes: 3206
 
 ### Response data
 
-*  HTML Response Bytes: 67443
+*  HTML Response Bytes: 67351
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 79100
-*  JS Response Bytes: 381891
+*  Image Response Bytes: 79101
+*  JS Response Bytes: 381913
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1752
 

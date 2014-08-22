@@ -18,15 +18,15 @@ title: http://vimeo.com/m/
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 69
-*  Total Request Bytes: 5806
+*  Total Request Bytes: 5885
 
 ### Response data
 
-*  HTML Response Bytes: 100889
+*  HTML Response Bytes: 100937
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 116500
-*  Image Response Bytes: 401343
-*  JS Response Bytes: 428917
+*  CSS Response Bytes: 116620
+*  Image Response Bytes: 401375
+*  JS Response Bytes: 428956
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1321
 

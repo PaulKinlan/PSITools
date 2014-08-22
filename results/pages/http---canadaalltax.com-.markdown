@@ -18,17 +18,17 @@ title: http://canadaalltax.com/
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 1
-*  Total Request Bytes: 3470
+*  Total Request Bytes: 3473
 
 ### Response data
 
-*  HTML Response Bytes: 4593
+*  HTML Response Bytes: 4594
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 383
+*  Image Response Bytes: 384
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 4434
+*  Other Response Bytes: 4435
 
 ### Performance issues
 

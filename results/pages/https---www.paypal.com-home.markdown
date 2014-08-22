@@ -22,13 +22,13 @@ title: https://www.paypal.com/home
 
 ### Response data
 
-*  HTML Response Bytes: 52136
+*  HTML Response Bytes: 52312
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 171630
-*  Image Response Bytes: 795612
+*  Image Response Bytes: 795615
 *  JS Response Bytes: 523431
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 5523
+*  Other Response Bytes: 5522
 
 ### Performance issues
 

@@ -18,7 +18,7 @@ title: https://t.zoosk.com/?touchRedirect=1
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 5
-*  Total Request Bytes: 2026
+*  Total Request Bytes: 2027
 
 ### Response data
 
@@ -28,7 +28,7 @@ title: https://t.zoosk.com/?touchRedirect=1
 *  Image Response Bytes: 134927
 *  JS Response Bytes: 41241
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 379
+*  Other Response Bytes: 378
 
 ### Performance issues
 

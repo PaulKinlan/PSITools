@@ -13,20 +13,20 @@ title: http://en.popmog.com/games
 
 ### Request information
 
-*  Number of Resources: 122
+*  Number of Resources: 121
 *  Number of Hosts: 23
 *  Number of JS Resources: 22
 *  Number of CSS Resources: 2
-*  Nubmer of Static Resources: 94
-*  Total Request Bytes: 17587
+*  Nubmer of Static Resources: 93
+*  Total Request Bytes: 17565
 
 ### Response data
 
-*  HTML Response Bytes: 281568
+*  HTML Response Bytes: 269509
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 239832
-*  Image Response Bytes: 2261655
-*  JS Response Bytes: 1867754
+*  CSS Response Bytes: 239833
+*  Image Response Bytes: 2260924
+*  JS Response Bytes: 1868395
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156063
 

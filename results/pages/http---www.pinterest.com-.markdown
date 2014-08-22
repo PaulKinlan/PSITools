@@ -22,11 +22,11 @@ title: http://www.pinterest.com/
 
 ### Response data
 
-*  HTML Response Bytes: 96545
+*  HTML Response Bytes: 96462
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 272394
 *  Image Response Bytes: 29011
-*  JS Response Bytes: 1203670
+*  JS Response Bytes: 1203671
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1646
 

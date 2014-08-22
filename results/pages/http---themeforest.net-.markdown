@@ -18,7 +18,7 @@ title: http://themeforest.net/
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 83
-*  Total Request Bytes: 11063
+*  Total Request Bytes: 11069
 
 ### Response data
 
@@ -26,7 +26,7 @@ title: http://themeforest.net/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 268329
 *  Image Response Bytes: 780789
-*  JS Response Bytes: 517082
+*  JS Response Bytes: 517092
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2034
 
@@ -37,7 +37,6 @@ title: http://themeforest.net/
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Enable compression
-*  Improve server response time
 
 ### Mobile UX issues
 

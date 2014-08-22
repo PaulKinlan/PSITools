@@ -18,7 +18,7 @@ title: http://m.bizcommunity.com//
 *  Number of JS Resources: 20
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 101
-*  Total Request Bytes: 9621
+*  Total Request Bytes: 9648
 
 ### Response data
 
@@ -26,7 +26,7 @@ title: http://m.bizcommunity.com//
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 204585
 *  Image Response Bytes: 376509
-*  JS Response Bytes: 490319
+*  JS Response Bytes: 490320
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25455
 

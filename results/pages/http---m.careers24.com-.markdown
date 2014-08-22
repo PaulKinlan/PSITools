@@ -18,15 +18,15 @@ title: http://m.careers24.com/
 *  Number of JS Resources: 12
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 31
-*  Total Request Bytes: 4165
+*  Total Request Bytes: 4160
 
 ### Response data
 
-*  HTML Response Bytes: 36401
+*  HTML Response Bytes: 36400
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 223976
 *  Image Response Bytes: 20941
-*  JS Response Bytes: 994777
+*  JS Response Bytes: 994776
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2172
 

@@ -18,17 +18,17 @@ title: http://m.bbc.com/
 *  Number of JS Resources: 24
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 58
-*  Total Request Bytes: 18442
+*  Total Request Bytes: 18449
 
 ### Response data
 
-*  HTML Response Bytes: 81415
+*  HTML Response Bytes: 81381
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 37841
-*  Image Response Bytes: 357571
-*  JS Response Bytes: 859898
+*  Image Response Bytes: 349638
+*  JS Response Bytes: 860017
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 8735
+*  Other Response Bytes: 8739
 
 ### Performance issues
 

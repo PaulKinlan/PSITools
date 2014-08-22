@@ -13,22 +13,22 @@ title: http://wn.com/world_daily
 
 ### Request information
 
-*  Number of Resources: 154
+*  Number of Resources: 151
 *  Number of Hosts: 35
 *  Number of JS Resources: 20
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 118
-*  Total Request Bytes: 14940
+*  Total Request Bytes: 14778
 
 ### Response data
 
-*  HTML Response Bytes: 1315582
+*  HTML Response Bytes: 1315563
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 399539
-*  Image Response Bytes: 1448455
-*  JS Response Bytes: 2744735
+*  CSS Response Bytes: 399537
+*  Image Response Bytes: 1448456
+*  JS Response Bytes: 2744740
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 363124
+*  Other Response Bytes: 360765
 
 ### Performance issues
 
