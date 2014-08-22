@@ -18,14 +18,14 @@ title: http://www.mimicme.com/en/create/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 19
-*  Total Request Bytes: 2572
+*  Total Request Bytes: 2573
 
 ### Response data
 
 *  HTML Response Bytes: 0
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 137873
-*  Image Response Bytes: 29974
+*  CSS Response Bytes: 137874
+*  Image Response Bytes: 29978
 *  JS Response Bytes: 478545
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7776

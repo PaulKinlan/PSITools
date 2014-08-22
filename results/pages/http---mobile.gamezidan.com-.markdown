@@ -14,19 +14,19 @@ title: http://mobile.gamezidan.com/
 ### Request information
 
 *  Number of Resources: 45
-*  Number of Hosts: 9
+*  Number of Hosts: 10
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 34
-*  Total Request Bytes: 5644
+*  Total Request Bytes: 5614
 
 ### Response data
 
 *  HTML Response Bytes: 37259
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 155021
-*  Image Response Bytes: 1472103
-*  JS Response Bytes: 304713
+*  Image Response Bytes: 1452402
+*  JS Response Bytes: 304717
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2329
 

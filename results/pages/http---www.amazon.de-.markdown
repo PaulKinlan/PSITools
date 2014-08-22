@@ -13,22 +13,22 @@ title: http://www.amazon.de/
 
 ### Request information
 
-*  Number of Resources: 132
+*  Number of Resources: 131
 *  Number of Hosts: 17
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 1
-*  Nubmer of Static Resources: 102
-*  Total Request Bytes: 19419
+*  Nubmer of Static Resources: 101
+*  Total Request Bytes: 19525
 
 ### Response data
 
-*  HTML Response Bytes: 225541
+*  HTML Response Bytes: 223437
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 157177
-*  Image Response Bytes: 1398787
+*  Image Response Bytes: 1220002
 *  JS Response Bytes: 254348
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 9768
+*  Other Response Bytes: 9702
 
 ### Performance issues
 

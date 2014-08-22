@@ -18,7 +18,7 @@ title: http://downloadgamesamazon.blogspot.com/?m=1
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 1012
+*  Total Request Bytes: 1010
 
 ### Response data
 

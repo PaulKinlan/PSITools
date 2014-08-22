@@ -13,22 +13,22 @@ title: http://slotgames100.com/
 
 ### Request information
 
-*  Number of Resources: 10
+*  Number of Resources: 9
 *  Number of Hosts: 6
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 1376
+*  Total Request Bytes: 1267
 
 ### Response data
 
-*  HTML Response Bytes: 10900
+*  HTML Response Bytes: 10879
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 1305
-*  JS Response Bytes: 167746
+*  Image Response Bytes: 1330
+*  JS Response Bytes: 167726
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 209
+*  Other Response Bytes: 0
 
 ### Performance issues
 

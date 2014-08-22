@@ -18,15 +18,15 @@ title: http://themactv.blogspot.com/?m=1
 *  Number of JS Resources: 16
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 17
-*  Total Request Bytes: 4827
+*  Total Request Bytes: 4718
 
 ### Response data
 
-*  HTML Response Bytes: 152351
+*  HTML Response Bytes: 152219
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 29534
 *  Image Response Bytes: 2563
-*  JS Response Bytes: 1604979
+*  JS Response Bytes: 1605079
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98220
 

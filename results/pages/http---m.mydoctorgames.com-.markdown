@@ -18,14 +18,14 @@ title: http://m.mydoctorgames.com/
 *  Number of JS Resources: 19
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 39
-*  Total Request Bytes: 8537
+*  Total Request Bytes: 8536
 
 ### Response data
 
-*  HTML Response Bytes: 129747
+*  HTML Response Bytes: 130423
 *  Text Response Bytes: 36813
 *  CSS Response Bytes: 97581
-*  Image Response Bytes: 1479660
+*  Image Response Bytes: 1479661
 *  JS Response Bytes: 693666
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 321164
@@ -37,7 +37,6 @@ title: http://m.mydoctorgames.com/
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Enable compression
-*  Improve server response time
 
 ### Mobile UX issues
 
