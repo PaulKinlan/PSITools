@@ -18,17 +18,17 @@ title: http://www.onclickads.net/
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 2575
+*  Total Request Bytes: 2574
 
 ### Response data
 
 *  HTML Response Bytes: 3640
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 2514
-*  Image Response Bytes: 32861
+*  Image Response Bytes: 30256
 *  JS Response Bytes: 9966
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 42636
+*  Other Response Bytes: 42625
 
 ### Performance issues
 

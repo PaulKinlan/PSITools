@@ -18,7 +18,7 @@ title: http://www.goodreads.com/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 5
-*  Total Request Bytes: 1449
+*  Total Request Bytes: 1448
 
 ### Response data
 

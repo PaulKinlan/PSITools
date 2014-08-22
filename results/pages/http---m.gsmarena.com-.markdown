@@ -13,16 +13,16 @@ title: http://m.gsmarena.com/
 
 ### Request information
 
-*  Number of Resources: 73
+*  Number of Resources: 74
 *  Number of Hosts: 10
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 65
-*  Total Request Bytes: 7163
+*  Total Request Bytes: 7741
 
 ### Response data
 
-*  HTML Response Bytes: 62447
+*  HTML Response Bytes: 67684
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 31116
 *  Image Response Bytes: 334841

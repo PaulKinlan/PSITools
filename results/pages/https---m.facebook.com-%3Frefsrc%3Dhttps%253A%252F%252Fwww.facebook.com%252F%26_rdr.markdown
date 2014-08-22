@@ -13,20 +13,20 @@ title: https://m.facebook.com/?refsrc=https%3A%2F%2Fwww.facebook.com%2F&_rdr
 
 ### Request information
 
-*  Number of Resources: 24
+*  Number of Resources: 19
 *  Number of Hosts: 4
-*  Number of JS Resources: 9
+*  Number of JS Resources: 4
 *  Number of CSS Resources: 5
-*  Nubmer of Static Resources: 19
-*  Total Request Bytes: 2174
+*  Nubmer of Static Resources: 15
+*  Total Request Bytes: 1642
 
 ### Response data
 
-*  HTML Response Bytes: 13611
+*  HTML Response Bytes: 13264
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 63425
-*  Image Response Bytes: 36008
-*  JS Response Bytes: 395268
+*  Image Response Bytes: 36009
+*  JS Response Bytes: 329391
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1336
 

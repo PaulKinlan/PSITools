@@ -24,11 +24,11 @@ title: http://www.wikipedia.org/
 
 *  HTML Response Bytes: 42872
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 6307
-*  Image Response Bytes: 138692
-*  JS Response Bytes: 7418
+*  CSS Response Bytes: 6304
+*  Image Response Bytes: 138683
+*  JS Response Bytes: 7417
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 678
+*  Other Response Bytes: 677
 
 ### Performance issues
 

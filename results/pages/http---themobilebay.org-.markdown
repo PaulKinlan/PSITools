@@ -22,11 +22,11 @@ title: http://themobilebay.org/
 
 ### Response data
 
-*  HTML Response Bytes: 105402
+*  HTML Response Bytes: 105542
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 22155
-*  Image Response Bytes: 26511
-*  JS Response Bytes: 337736
+*  Image Response Bytes: 26510
+*  JS Response Bytes: 337735
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1090
 

@@ -13,22 +13,22 @@ title: http://photobucket.com/
 
 ### Request information
 
-*  Number of Resources: 105
+*  Number of Resources: 101
 *  Number of Hosts: 42
 *  Number of JS Resources: 18
 *  Number of CSS Resources: 3
-*  Nubmer of Static Resources: 36
-*  Total Request Bytes: 30739
+*  Nubmer of Static Resources: 35
+*  Total Request Bytes: 27380
 
 ### Response data
 
-*  HTML Response Bytes: 155140
+*  HTML Response Bytes: 155686
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 132251
-*  Image Response Bytes: 688222
-*  JS Response Bytes: 1133834
+*  CSS Response Bytes: 132249
+*  Image Response Bytes: 624566
+*  JS Response Bytes: 1140188
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 20273
+*  Other Response Bytes: 18782
 
 ### Performance issues
 

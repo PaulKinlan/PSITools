@@ -6,16 +6,16 @@ category: industry
 ---
 |Site|Score|
 |----|-----|
-[百度一下,你就知道]({{site.baseurl}}results/sites/http---www.baidu.com-.html)|[100](https://developers.google.com/speed/pagespeed/insights/?url=http://www.baidu.com/)|
-[Yahoo! Mailhp]({{site.baseurl}}results/sites/https---www.yahoo.com-.html)|[98](https://developers.google.com/speed/pagespeed/insights/?url=https://www.yahoo.com/)|
-[Wikipedia]({{site.baseurl}}results/sites/http---www.wikipedia.org-.html)|[80](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wikipedia.org/)|
-[Google]({{site.baseurl}}results/sites/https---www.google.co.uk-%3Fgws_rd%3Dcr%2Cssl%26ei%3DvUf3U6PGM4XgaP67gOgO.html)|[79](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.co.uk/?gws_rd=cr,ssl&ei=vUf3U6PGM4XgaP67gOgO)|
-[Yahoo! JAPAN]({{site.baseurl}}results/sites/http---m.yahoo.co.jp-.html)|[64](https://developers.google.com/speed/pagespeed/insights/?url=http://m.yahoo.co.jp/)|
-[What to Watch - YouTube]({{site.baseurl}}results/sites/https---m.youtube.com-.html)|[62](https://developers.google.com/speed/pagespeed/insights/?url=https://m.youtube.com/)|
-[Blogger]({{site.baseurl}}results/sites/https---accounts.google.com-ServiceLogin%3Fservice%3Dblogger%26passive%3D1209600%26continue%3Dhttps---www.blogger.com-home%26followup%3Dhttps---www.blogger.com-home%26l.html)|[61](https://developers.google.com/speed/pagespeed/insights/?url=https://accounts.google.com/ServiceLogin?service=blogger&passive=1209600&continue=https://www.blogger.com/home&followup=https://www.blogger.com/home&ltmpl=start)|
-[MSN]({{site.baseurl}}results/sites/http---t.uk.msn.com-%3Frd%3D1%26ucc%3DGB%26dcc%3DGB%26opt%3D0.html)|[56](https://developers.google.com/speed/pagespeed/insights/?url=http://t.uk.msn.com/?rd=1&ucc=GB&dcc=GB&opt=0)|
-[Sign In]({{site.baseurl}}results/sites/https---login.live.com-login.srf%3Fwa%3Dwsignin1.0%26rpsnv%3D12%26ct%3D1408714686%26rver%3D6.4.6456.0%26wp%3DMBI_SSL_SHARED%26wreply%3Dhttps-%252F%252Fmail.live.com%252Fm%252F%26lc%3D103.html)|[56](https://developers.google.com/speed/pagespeed/insights/?url=https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1408714686&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fm%2F&lc=1033&id=64855&pcexp=false&snsc=1)|
-[Welcome to Facebook]({{site.baseurl}}results/sites/https---m.facebook.com-%3Frefsrc%3Dhttps%253A%252F%252Fwww.facebook.com%252F%26_rdr.html)|[54](https://developers.google.com/speed/pagespeed/insights/?url=https://m.facebook.com/?refsrc=https%3A%2F%2Fwww.facebook.com%2F&_rdr)|
+[百度一下,你就知道]({{site.baseurl}}results/page/http---www.baidu.com-.html)|[100](https://developers.google.com/speed/pagespeed/insights/?url=http://www.baidu.com/)|
+[Yahoo! Mailhp]({{site.baseurl}}results/page/https---www.yahoo.com-.html)|[98](https://developers.google.com/speed/pagespeed/insights/?url=https://www.yahoo.com/)|
+[Wikipedia]({{site.baseurl}}results/page/http---www.wikipedia.org-.html)|[80](https://developers.google.com/speed/pagespeed/insights/?url=http://www.wikipedia.org/)|
+[Google]({{site.baseurl}}results/page/https---www.google.co.uk-%3Fgws_rd%3Dcr%2Cssl%26ei%3DvUf3U6PGM4XgaP67gOgO.html)|[79](https://developers.google.com/speed/pagespeed/insights/?url=https://www.google.co.uk/?gws_rd=cr,ssl&ei=vUf3U6PGM4XgaP67gOgO)|
+[Yahoo! JAPAN]({{site.baseurl}}results/page/http---m.yahoo.co.jp-.html)|[64](https://developers.google.com/speed/pagespeed/insights/?url=http://m.yahoo.co.jp/)|
+[What to Watch - YouTube]({{site.baseurl}}results/page/https---m.youtube.com-.html)|[62](https://developers.google.com/speed/pagespeed/insights/?url=https://m.youtube.com/)|
+[Blogger]({{site.baseurl}}results/page/https---accounts.google.com-ServiceLogin%3Fservice%3Dblogger%26passive%3D1209600%26continue%3Dhttps---www.blogger.com-home%26followup%3Dhttps---www.blogger.com-home%26l.html)|[61](https://developers.google.com/speed/pagespeed/insights/?url=https://accounts.google.com/ServiceLogin?service=blogger&passive=1209600&continue=https://www.blogger.com/home&followup=https://www.blogger.com/home&ltmpl=start)|
+[MSN]({{site.baseurl}}results/page/http---t.uk.msn.com-%3Frd%3D1%26ucc%3DGB%26dcc%3DGB%26opt%3D0.html)|[56](https://developers.google.com/speed/pagespeed/insights/?url=http://t.uk.msn.com/?rd=1&ucc=GB&dcc=GB&opt=0)|
+[Sign In]({{site.baseurl}}results/page/https---login.live.com-login.srf%3Fwa%3Dwsignin1.0%26rpsnv%3D12%26ct%3D1408714686%26rver%3D6.4.6456.0%26wp%3DMBI_SSL_SHARED%26wreply%3Dhttps-%252F%252Fmail.live.com%252Fm%252F%26lc%3D103.html)|[56](https://developers.google.com/speed/pagespeed/insights/?url=https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1408714686&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fm%2F&lc=1033&id=64855&pcexp=false&snsc=1)|
+[Welcome to Facebook]({{site.baseurl}}results/page/https---m.facebook.com-%3Frefsrc%3Dhttps%253A%252F%252Fwww.facebook.com%252F%26_rdr.html)|[54](https://developers.google.com/speed/pagespeed/insights/?url=https://m.facebook.com/?refsrc=https%3A%2F%2Fwww.facebook.com%2F&_rdr)|
 
 
 ## [百度一下,你就知道](http://www.baidu.com/)

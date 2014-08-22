@@ -18,15 +18,15 @@ title: https://www.google.com.au/?gws_rd=ssl
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 3236
+*  Total Request Bytes: 3253
 
 ### Response data
 
-*  HTML Response Bytes: 68117
+*  HTML Response Bytes: 68159
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 79100
-*  JS Response Bytes: 381908
+*  JS Response Bytes: 381912
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1758
 

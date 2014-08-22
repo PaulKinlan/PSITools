@@ -24,9 +24,9 @@ title: http://www.w3schools.com/
 
 *  HTML Response Bytes: 19266
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 59376
+*  CSS Response Bytes: 59375
 *  Image Response Bytes: 33538
-*  JS Response Bytes: 627728
+*  JS Response Bytes: 627749
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 597
 

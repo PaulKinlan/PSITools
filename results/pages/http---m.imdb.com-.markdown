@@ -22,10 +22,10 @@ title: http://m.imdb.com/
 
 ### Response data
 
-*  HTML Response Bytes: 24772
+*  HTML Response Bytes: 24811
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 20502
-*  Image Response Bytes: 805348
+*  Image Response Bytes: 805270
 *  JS Response Bytes: 397007
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 811
@@ -39,7 +39,6 @@ title: http://m.imdb.com/
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Inline render-blocking CSS
 *  Prioritize visible content
-*  Improve server response time
 
 ### Mobile UX issues
 

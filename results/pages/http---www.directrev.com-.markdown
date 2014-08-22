@@ -25,10 +25,10 @@ title: http://www.directrev.com/
 *  HTML Response Bytes: 8749
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 156658
-*  Image Response Bytes: 17306
+*  Image Response Bytes: 17304
 *  JS Response Bytes: 262955
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 66377
+*  Other Response Bytes: 66376
 
 ### Performance issues
 

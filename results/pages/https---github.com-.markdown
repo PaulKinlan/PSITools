@@ -18,15 +18,15 @@ title: https://github.com/
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 11
-*  Total Request Bytes: 2730
+*  Total Request Bytes: 2725
 
 ### Response data
 
-*  HTML Response Bytes: 16625
+*  HTML Response Bytes: 16623
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 465879
-*  Image Response Bytes: 676984
-*  JS Response Bytes: 773307
+*  CSS Response Bytes: 465872
+*  Image Response Bytes: 676979
+*  JS Response Bytes: 773299
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 76
 

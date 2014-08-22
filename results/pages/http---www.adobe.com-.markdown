@@ -13,22 +13,22 @@ title: http://www.adobe.com/
 
 ### Request information
 
-*  Number of Resources: 100
-*  Number of Hosts: 45
+*  Number of Resources: 97
+*  Number of Hosts: 44
 *  Number of JS Resources: 24
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 24
-*  Total Request Bytes: 28285
+*  Total Request Bytes: 27224
 
 ### Response data
 
 *  HTML Response Bytes: 142928
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 388064
-*  Image Response Bytes: 214571
-*  JS Response Bytes: 786373
+*  Image Response Bytes: 214646
+*  JS Response Bytes: 786390
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 29609
+*  Other Response Bytes: 27809
 
 ### Performance issues
 
@@ -38,6 +38,7 @@ title: http://www.adobe.com/
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Prioritize visible content
 *  Enable compression
+*  Improve server response time
 
 ### Mobile UX issues
 

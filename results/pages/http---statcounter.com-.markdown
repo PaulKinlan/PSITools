@@ -18,7 +18,7 @@ title: http://statcounter.com/
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 31
-*  Total Request Bytes: 2911
+*  Total Request Bytes: 2912
 
 ### Response data
 

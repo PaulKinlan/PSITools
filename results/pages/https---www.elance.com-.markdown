@@ -18,7 +18,7 @@ title: https://www.elance.com/
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 32
-*  Total Request Bytes: 6303
+*  Total Request Bytes: 6302
 
 ### Response data
 

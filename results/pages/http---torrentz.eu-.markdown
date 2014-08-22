@@ -22,7 +22,7 @@ title: http://torrentz.eu/
 
 ### Response data
 
-*  HTML Response Bytes: 2655
+*  HTML Response Bytes: 2653
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 16576
 *  Image Response Bytes: 2226

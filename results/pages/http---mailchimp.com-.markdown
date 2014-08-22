@@ -24,9 +24,9 @@ title: http://mailchimp.com/
 
 *  HTML Response Bytes: 8259
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 204073
-*  Image Response Bytes: 670058
-*  JS Response Bytes: 235398
+*  CSS Response Bytes: 204072
+*  Image Response Bytes: 670057
+*  JS Response Bytes: 235397
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
 

@@ -18,17 +18,17 @@ title: http://www.speedtest.net/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 18
-*  Total Request Bytes: 6771
+*  Total Request Bytes: 6774
 
 ### Response data
 
 *  HTML Response Bytes: 7887
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 29635
-*  Image Response Bytes: 263319
-*  JS Response Bytes: 245734
+*  Image Response Bytes: 263318
+*  JS Response Bytes: 245733
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 8070
+*  Other Response Bytes: 8072
 
 ### Performance issues
 

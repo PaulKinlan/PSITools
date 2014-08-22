@@ -14,19 +14,19 @@ title: http://adf.ly/
 ### Request information
 
 *  Number of Resources: 82
-*  Number of Hosts: 12
+*  Number of Hosts: 11
 *  Number of JS Resources: 29
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 70
-*  Total Request Bytes: 9686
+*  Total Request Bytes: 10440
 
 ### Response data
 
-*  HTML Response Bytes: 94112
+*  HTML Response Bytes: 86016
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 390330
-*  Image Response Bytes: 151975
-*  JS Response Bytes: 1243064
+*  CSS Response Bytes: 390329
+*  Image Response Bytes: 149033
+*  JS Response Bytes: 1243222
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1877
 
