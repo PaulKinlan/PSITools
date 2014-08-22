@@ -18,17 +18,17 @@ title: https://www.trustpilot.com/
 *  Number of JS Resources: 19
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 32
-*  Total Request Bytes: 6313
+*  Total Request Bytes: 6312
 
 ### Response data
 
-*  HTML Response Bytes: 54240
+*  HTML Response Bytes: 54239
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 153322
-*  Image Response Bytes: 146529
-*  JS Response Bytes: 963151
+*  Image Response Bytes: 151495
+*  JS Response Bytes: 964550
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 929
+*  Other Response Bytes: 927
 
 ### Performance issues
 

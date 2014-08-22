@@ -18,15 +18,15 @@ title: https://www.mozilla.org/en-US/
 *  Number of JS Resources: 7
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 31
-*  Total Request Bytes: 3233
+*  Total Request Bytes: 3234
 
 ### Response data
 
-*  HTML Response Bytes: 45717
+*  HTML Response Bytes: 45718
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 120738
+*  CSS Response Bytes: 120774
 *  Image Response Bytes: 184412
-*  JS Response Bytes: 435154
+*  JS Response Bytes: 435155
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1258
 

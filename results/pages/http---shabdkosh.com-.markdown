@@ -13,22 +13,22 @@ title: http://shabdkosh.com/
 
 ### Request information
 
-*  Number of Resources: 46
-*  Number of Hosts: 23
-*  Number of JS Resources: 17
-*  Number of CSS Resources: 2
-*  Nubmer of Static Resources: 28
-*  Total Request Bytes: 7958
+*  Number of Resources: 41
+*  Number of Hosts: 19
+*  Number of JS Resources: 16
+*  Number of CSS Resources: 1
+*  Nubmer of Static Resources: 26
+*  Total Request Bytes: 7413
 
 ### Response data
 
-*  HTML Response Bytes: 139045
+*  HTML Response Bytes: 108047
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 120475
-*  Image Response Bytes: 25183
-*  JS Response Bytes: 1128725
+*  CSS Response Bytes: 119911
+*  Image Response Bytes: 76592
+*  JS Response Bytes: 1097409
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 16131
+*  Other Response Bytes: 2343
 
 ### Performance issues
 

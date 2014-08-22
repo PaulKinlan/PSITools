@@ -18,7 +18,7 @@ title: http://www.w3schools.com/
 *  Number of JS Resources: 7
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 15
-*  Total Request Bytes: 2478
+*  Total Request Bytes: 2477
 
 ### Response data
 
@@ -26,7 +26,7 @@ title: http://www.w3schools.com/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 59375
 *  Image Response Bytes: 33538
-*  JS Response Bytes: 627729
+*  JS Response Bytes: 627750
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 597
 

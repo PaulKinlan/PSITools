@@ -18,7 +18,7 @@ title: http://m.bestjobs.ro/mobile/login
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 9
-*  Total Request Bytes: 2057
+*  Total Request Bytes: 2055
 
 ### Response data
 
@@ -26,7 +26,7 @@ title: http://m.bestjobs.ro/mobile/login
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 37787
 *  Image Response Bytes: 39318
-*  JS Response Bytes: 149888
+*  JS Response Bytes: 149889
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45390
 

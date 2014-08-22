@@ -18,7 +18,7 @@ title: http://www.backpage.com/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 5
-*  Total Request Bytes: 715
+*  Total Request Bytes: 714
 
 ### Response data
 

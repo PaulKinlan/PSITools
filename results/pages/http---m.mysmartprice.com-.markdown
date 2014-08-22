@@ -18,14 +18,14 @@ title: http://m.mysmartprice.com/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 8
-*  Total Request Bytes: 2098
+*  Total Request Bytes: 2100
 
 ### Response data
 
 *  HTML Response Bytes: 7204
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 72082
-*  Image Response Bytes: 5477
+*  Image Response Bytes: 5476
 *  JS Response Bytes: 164225
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2207

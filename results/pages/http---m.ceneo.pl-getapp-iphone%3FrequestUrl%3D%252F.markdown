@@ -18,7 +18,7 @@ title: http://m.ceneo.pl/getapp/iphone?requestUrl=%2F
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 7
-*  Total Request Bytes: 1783
+*  Total Request Bytes: 1785
 
 ### Response data
 

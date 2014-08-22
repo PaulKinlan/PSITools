@@ -18,15 +18,15 @@ title: http://hubpages.com/
 *  Number of JS Resources: 12
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 31
-*  Total Request Bytes: 4007
+*  Total Request Bytes: 4006
 
 ### Response data
 
 *  HTML Response Bytes: 24405
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 215384
-*  Image Response Bytes: 758683
-*  JS Response Bytes: 917402
+*  Image Response Bytes: 758682
+*  JS Response Bytes: 917410
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 810
 

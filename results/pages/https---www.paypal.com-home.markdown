@@ -18,14 +18,14 @@ title: https://www.paypal.com/home
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 20
-*  Total Request Bytes: 8923
+*  Total Request Bytes: 8924
 
 ### Response data
 
-*  HTML Response Bytes: 52312
+*  HTML Response Bytes: 52160
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 171630
-*  Image Response Bytes: 795615
+*  Image Response Bytes: 795614
 *  JS Response Bytes: 523431
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5522

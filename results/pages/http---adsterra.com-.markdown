@@ -26,7 +26,7 @@ title: http://adsterra.com/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 12473
 *  Image Response Bytes: 517720
-*  JS Response Bytes: 364421
+*  JS Response Bytes: 364420
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112
 

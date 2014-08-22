@@ -18,17 +18,17 @@ title: http://www.autovit.ro/
 *  Number of JS Resources: 26
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 37
-*  Total Request Bytes: 10235
+*  Total Request Bytes: 10233
 
 ### Response data
 
-*  HTML Response Bytes: 68173
+*  HTML Response Bytes: 68115
 *  Text Response Bytes: 7424
 *  CSS Response Bytes: 405669
 *  Image Response Bytes: 745658
-*  JS Response Bytes: 1881203
+*  JS Response Bytes: 1881201
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 77589
+*  Other Response Bytes: 77588
 
 ### Performance issues
 

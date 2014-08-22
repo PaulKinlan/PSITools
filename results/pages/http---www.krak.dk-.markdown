@@ -18,17 +18,17 @@ title: http://www.krak.dk/
 *  Number of JS Resources: 19
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 28
-*  Total Request Bytes: 11533
+*  Total Request Bytes: 11524
 
 ### Response data
 
-*  HTML Response Bytes: 35817
+*  HTML Response Bytes: 35818
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 66326
-*  Image Response Bytes: 102115
-*  JS Response Bytes: 668532
+*  Image Response Bytes: 102116
+*  JS Response Bytes: 668516
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 10548
+*  Other Response Bytes: 10523
 
 ### Performance issues
 
@@ -36,7 +36,6 @@ title: http://www.krak.dk/
 ### Performance issues
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
-*  Improve server response time
 
 ### Mobile UX issues
 

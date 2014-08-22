@@ -18,15 +18,15 @@ title: http://m.homeshop18.com/
 *  Number of JS Resources: 7
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 22
-*  Total Request Bytes: 4399
+*  Total Request Bytes: 4397
 
 ### Response data
 
 *  HTML Response Bytes: 34313
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 54458
-*  Image Response Bytes: 214955
-*  JS Response Bytes: 245268
+*  Image Response Bytes: 214884
+*  JS Response Bytes: 245267
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 555
 
@@ -37,7 +37,6 @@ title: http://m.homeshop18.com/
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Prioritize visible content
-*  Improve server response time
 
 ### Mobile UX issues
 

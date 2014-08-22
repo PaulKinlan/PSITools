@@ -18,17 +18,17 @@ title: http://narendramodi.in/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 31
-*  Total Request Bytes: 10068
+*  Total Request Bytes: 10075
 
 ### Response data
 
-*  HTML Response Bytes: 97177
+*  HTML Response Bytes: 97180
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 222530
-*  Image Response Bytes: 10836463
-*  JS Response Bytes: 640643
+*  CSS Response Bytes: 222524
+*  Image Response Bytes: 10836411
+*  JS Response Bytes: 640651
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 7837
+*  Other Response Bytes: 7834
 
 ### Performance issues
 

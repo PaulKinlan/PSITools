@@ -18,17 +18,17 @@ title: http://m.ebay.nl/
 *  Number of JS Resources: 8
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 21
-*  Total Request Bytes: 5105
+*  Total Request Bytes: 5203
 
 ### Response data
 
-*  HTML Response Bytes: 17018
+*  HTML Response Bytes: 17060
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 59767
-*  Image Response Bytes: 385582
-*  JS Response Bytes: 266946
+*  Image Response Bytes: 385590
+*  JS Response Bytes: 266913
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1271
+*  Other Response Bytes: 1373
 
 ### Performance issues
 
@@ -37,6 +37,7 @@ title: http://m.ebay.nl/
 
 *  Avoid landing page redirects
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
 
 ### Mobile UX issues
 

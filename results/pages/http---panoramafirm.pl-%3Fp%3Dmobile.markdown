@@ -13,22 +13,22 @@ title: http://panoramafirm.pl/?p=mobile
 
 ### Request information
 
-*  Number of Resources: 58
+*  Number of Resources: 59
 *  Number of Hosts: 20
-*  Number of JS Resources: 19
+*  Number of JS Resources: 20
 *  Number of CSS Resources: 4
-*  Nubmer of Static Resources: 32
-*  Total Request Bytes: 8965
+*  Nubmer of Static Resources: 33
+*  Total Request Bytes: 9019
 
 ### Response data
 
-*  HTML Response Bytes: 65908
+*  HTML Response Bytes: 65903
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 254681
-*  Image Response Bytes: 339630
-*  JS Response Bytes: 565942
+*  CSS Response Bytes: 254675
+*  Image Response Bytes: 359850
+*  JS Response Bytes: 566057
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 31241
+*  Other Response Bytes: 31253
 
 ### Performance issues
 

@@ -18,17 +18,17 @@ title: http://m.okazii.ro/
 *  Number of JS Resources: 8
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 32
-*  Total Request Bytes: 4166
+*  Total Request Bytes: 4171
 
 ### Response data
 
-*  HTML Response Bytes: 12292
+*  HTML Response Bytes: 12279
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 66843
-*  Image Response Bytes: 193085
-*  JS Response Bytes: 200402
+*  CSS Response Bytes: 66844
+*  Image Response Bytes: 193109
+*  JS Response Bytes: 200410
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 78915
+*  Other Response Bytes: 78917
 
 ### Performance issues
 

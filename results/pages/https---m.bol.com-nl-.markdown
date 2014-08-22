@@ -18,14 +18,14 @@ title: https://m.bol.com/nl/
 *  Number of JS Resources: 14
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 73
-*  Total Request Bytes: 8159
+*  Total Request Bytes: 8158
 
 ### Response data
 
-*  HTML Response Bytes: 22046
+*  HTML Response Bytes: 22045
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 104031
-*  Image Response Bytes: 333700
+*  Image Response Bytes: 333717
 *  JS Response Bytes: 260228
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2627

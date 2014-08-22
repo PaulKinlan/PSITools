@@ -22,7 +22,7 @@ title: http://phoenixads.co.in/
 
 ### Response data
 
-*  HTML Response Bytes: 2980
+*  HTML Response Bytes: 2979
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 142649
 *  Image Response Bytes: 19448

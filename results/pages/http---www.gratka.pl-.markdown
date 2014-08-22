@@ -18,15 +18,15 @@ title: http://www.gratka.pl/
 *  Number of JS Resources: 8
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 23
-*  Total Request Bytes: 3755
+*  Total Request Bytes: 3741
 
 ### Response data
 
-*  HTML Response Bytes: 29402
+*  HTML Response Bytes: 29269
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 337467
-*  Image Response Bytes: 77750
-*  JS Response Bytes: 304407
+*  CSS Response Bytes: 337470
+*  Image Response Bytes: 50223
+*  JS Response Bytes: 304401
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 214351
 

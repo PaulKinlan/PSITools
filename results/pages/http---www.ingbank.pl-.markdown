@@ -13,22 +13,22 @@ title: http://www.ingbank.pl/
 
 ### Request information
 
-*  Number of Resources: 68
+*  Number of Resources: 66
 *  Number of Hosts: 10
-*  Number of JS Resources: 20
+*  Number of JS Resources: 19
 *  Number of CSS Resources: 13
 *  Nubmer of Static Resources: 53
-*  Total Request Bytes: 7836
+*  Total Request Bytes: 7563
 
 ### Response data
 
-*  HTML Response Bytes: 55823
-*  Text Response Bytes: 78
-*  CSS Response Bytes: 431027
-*  Image Response Bytes: 1197589
-*  JS Response Bytes: 802628
+*  HTML Response Bytes: 55385
+*  Text Response Bytes: 0
+*  CSS Response Bytes: 431038
+*  Image Response Bytes: 1188542
+*  JS Response Bytes: 796382
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 884
+*  Other Response Bytes: 885
 
 ### Performance issues
 

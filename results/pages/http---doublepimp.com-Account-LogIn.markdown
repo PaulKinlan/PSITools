@@ -18,17 +18,17 @@ title: http://doublepimp.com/Account/LogIn
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 21
-*  Total Request Bytes: 2942
+*  Total Request Bytes: 2937
 
 ### Response data
 
 *  HTML Response Bytes: 45239
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 256299
-*  Image Response Bytes: 19173
-*  JS Response Bytes: 1143866
+*  Image Response Bytes: 19227
+*  JS Response Bytes: 1143861
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 77223
+*  Other Response Bytes: 77225
 
 ### Performance issues
 

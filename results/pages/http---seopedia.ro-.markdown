@@ -18,7 +18,7 @@ title: http://seopedia.ro/
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 646
+*  Total Request Bytes: 649
 
 ### Response data
 

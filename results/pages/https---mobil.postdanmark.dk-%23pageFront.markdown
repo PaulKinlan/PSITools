@@ -18,7 +18,7 @@ title: https://mobil.postdanmark.dk/#pageFront
 *  Number of JS Resources: 28
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 54
-*  Total Request Bytes: 6504
+*  Total Request Bytes: 6506
 
 ### Response data
 
@@ -26,7 +26,7 @@ title: https://mobil.postdanmark.dk/#pageFront
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 101101
 *  Image Response Bytes: 1289518
-*  JS Response Bytes: 725621
+*  JS Response Bytes: 725649
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55510
 

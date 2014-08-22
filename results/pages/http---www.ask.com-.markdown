@@ -18,17 +18,17 @@ title: http://www.ask.com/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 7
-*  Total Request Bytes: 3105
+*  Total Request Bytes: 3090
 
 ### Response data
 
-*  HTML Response Bytes: 22838
+*  HTML Response Bytes: 22782
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 7138
 *  Image Response Bytes: 22939
 *  JS Response Bytes: 193442
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 3005
+*  Other Response Bytes: 2989
 
 ### Performance issues
 

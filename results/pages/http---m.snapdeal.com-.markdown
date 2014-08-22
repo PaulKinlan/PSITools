@@ -25,8 +25,8 @@ title: http://m.snapdeal.com/
 *  HTML Response Bytes: 347806
 *  Text Response Bytes: 450
 *  CSS Response Bytes: 22819
-*  Image Response Bytes: 177004
-*  JS Response Bytes: 670926
+*  Image Response Bytes: 177003
+*  JS Response Bytes: 670991
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3482
 

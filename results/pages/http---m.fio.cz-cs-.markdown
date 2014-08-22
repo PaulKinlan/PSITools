@@ -18,7 +18,7 @@ title: http://m.fio.cz/cs/
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 12
-*  Total Request Bytes: 1407
+*  Total Request Bytes: 1410
 
 ### Response data
 
@@ -38,7 +38,6 @@ title: http://m.fio.cz/cs/
 *  Avoid landing page redirects
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Enable compression
-*  Improve server response time
 
 ### Mobile UX issues
 

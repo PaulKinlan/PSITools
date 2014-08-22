@@ -18,14 +18,14 @@ title: http://zippyshare.com/
 *  Number of JS Resources: 20
 *  Number of CSS Resources: 10
 *  Nubmer of Static Resources: 49
-*  Total Request Bytes: 3423
+*  Total Request Bytes: 3421
 
 ### Response data
 
-*  HTML Response Bytes: 34157
+*  HTML Response Bytes: 34205
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 99092
-*  Image Response Bytes: 20862
+*  Image Response Bytes: 20863
 *  JS Response Bytes: 832070
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

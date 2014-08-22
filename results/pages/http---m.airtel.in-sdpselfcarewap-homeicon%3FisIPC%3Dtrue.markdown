@@ -18,15 +18,15 @@ title: http://m.airtel.in/sdpselfcarewap/homeicon?isIPC=true
 *  Number of JS Resources: 14
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 13
-*  Total Request Bytes: 8678
+*  Total Request Bytes: 8675
 
 ### Response data
 
 *  HTML Response Bytes: 18786
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 151223
-*  JS Response Bytes: 575870
+*  Image Response Bytes: 151211
+*  JS Response Bytes: 575864
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3986
 

@@ -18,17 +18,17 @@ title: http://m.heureka.cz/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 9
-*  Total Request Bytes: 2667
+*  Total Request Bytes: 2662
 
 ### Response data
 
-*  HTML Response Bytes: 22044
+*  HTML Response Bytes: 22040
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 40727
-*  Image Response Bytes: 41821
-*  JS Response Bytes: 174825
+*  Image Response Bytes: 41820
+*  JS Response Bytes: 174821
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1779
+*  Other Response Bytes: 1780
 
 ### Performance issues
 

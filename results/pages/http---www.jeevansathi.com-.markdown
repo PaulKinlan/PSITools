@@ -18,15 +18,15 @@ title: http://www.jeevansathi.com/
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 7
-*  Total Request Bytes: 1166
+*  Total Request Bytes: 1165
 
 ### Response data
 
-*  HTML Response Bytes: 142367
+*  HTML Response Bytes: 142366
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 38552
 *  Image Response Bytes: 20553
-*  JS Response Bytes: 103768
+*  JS Response Bytes: 103769
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 355
 
@@ -36,6 +36,7 @@ title: http://www.jeevansathi.com/
 ### Performance issues
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Improve server response time
 
 ### Mobile UX issues
 

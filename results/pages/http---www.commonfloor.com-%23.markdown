@@ -18,17 +18,17 @@ title: http://www.commonfloor.com/#
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 8
 *  Nubmer of Static Resources: 28
-*  Total Request Bytes: 3865
+*  Total Request Bytes: 3866
 
 ### Response data
 
 *  HTML Response Bytes: 140879
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 121565
-*  Image Response Bytes: 129009
+*  CSS Response Bytes: 121563
+*  Image Response Bytes: 129010
 *  JS Response Bytes: 1001285
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 27639
+*  Other Response Bytes: 27640
 
 ### Performance issues
 

@@ -18,15 +18,15 @@ title: http://www.auto.cz/
 *  Number of JS Resources: 22
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 25
-*  Total Request Bytes: 9368
+*  Total Request Bytes: 9352
 
 ### Response data
 
-*  HTML Response Bytes: 92157
+*  HTML Response Bytes: 92195
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 14016
 *  Image Response Bytes: 66761
-*  JS Response Bytes: 519197
+*  JS Response Bytes: 519199
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15581
 

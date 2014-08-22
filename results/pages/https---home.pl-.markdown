@@ -18,7 +18,7 @@ title: https://home.pl/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 42
-*  Total Request Bytes: 5092
+*  Total Request Bytes: 5096
 
 ### Response data
 
@@ -26,7 +26,7 @@ title: https://home.pl/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 202268
 *  Image Response Bytes: 417119
-*  JS Response Bytes: 399498
+*  JS Response Bytes: 399497
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 805
 

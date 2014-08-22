@@ -18,15 +18,15 @@ title: https://www.google.de/?gws_rd=ssl
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 3174
+*  Total Request Bytes: 3206
 
 ### Response data
 
-*  HTML Response Bytes: 68129
+*  HTML Response Bytes: 68193
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 79101
-*  JS Response Bytes: 381950
+*  Image Response Bytes: 79100
+*  JS Response Bytes: 381952
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1734
 

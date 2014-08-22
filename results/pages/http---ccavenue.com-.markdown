@@ -18,7 +18,7 @@ title: http://ccavenue.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 91
-*  Total Request Bytes: 26875
+*  Total Request Bytes: 26876
 
 ### Response data
 

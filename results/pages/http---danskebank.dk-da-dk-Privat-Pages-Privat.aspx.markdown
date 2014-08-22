@@ -25,8 +25,8 @@ title: http://danskebank.dk/da-dk/Privat/Pages/Privat.aspx
 *  HTML Response Bytes: 86185
 *  Text Response Bytes: 2165
 *  CSS Response Bytes: 106137
-*  Image Response Bytes: 1910682
-*  JS Response Bytes: 947059
+*  Image Response Bytes: 1910678
+*  JS Response Bytes: 947060
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1570
 

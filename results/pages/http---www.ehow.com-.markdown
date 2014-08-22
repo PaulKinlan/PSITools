@@ -18,14 +18,14 @@ title: http://www.ehow.com/
 *  Number of JS Resources: 8
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 25
-*  Total Request Bytes: 4808
+*  Total Request Bytes: 4960
 
 ### Response data
 
-*  HTML Response Bytes: 76177
+*  HTML Response Bytes: 76170
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 43849
-*  Image Response Bytes: 43074
+*  Image Response Bytes: 43067
 *  JS Response Bytes: 345822
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1321

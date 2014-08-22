@@ -17,18 +17,18 @@ title: https://mobil.danskespil.dk/
 *  Number of Hosts: 9
 *  Number of JS Resources: 13
 *  Number of CSS Resources: 2
-*  Nubmer of Static Resources: 56
-*  Total Request Bytes: 13558
+*  Nubmer of Static Resources: 55
+*  Total Request Bytes: 13566
 
 ### Response data
 
 *  HTML Response Bytes: 24768
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 61515
-*  Image Response Bytes: 940027
-*  JS Response Bytes: 252585
+*  CSS Response Bytes: 61485
+*  Image Response Bytes: 940025
+*  JS Response Bytes: 252587
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 5191
+*  Other Response Bytes: 5177
 
 ### Performance issues
 

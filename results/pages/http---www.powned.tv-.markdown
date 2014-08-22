@@ -18,17 +18,17 @@ title: http://www.powned.tv/
 *  Number of JS Resources: 8
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 34
-*  Total Request Bytes: 4811
+*  Total Request Bytes: 4854
 
 ### Response data
 
-*  HTML Response Bytes: 34027
+*  HTML Response Bytes: 33747
 *  Text Response Bytes: 20347
 *  CSS Response Bytes: 41338
-*  Image Response Bytes: 1197469
-*  JS Response Bytes: 193727
+*  Image Response Bytes: 1051772
+*  JS Response Bytes: 193736
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 5932
+*  Other Response Bytes: 5941
 
 ### Performance issues
 

@@ -13,22 +13,22 @@ title: http://m.amarujala.com/
 
 ### Request information
 
-*  Number of Resources: 76
+*  Number of Resources: 77
 *  Number of Hosts: 15
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 54
-*  Total Request Bytes: 15568
+*  Total Request Bytes: 14572
 
 ### Response data
 
-*  HTML Response Bytes: 104956
+*  HTML Response Bytes: 104965
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 12835
-*  Image Response Bytes: 165579
-*  JS Response Bytes: 561523
+*  Image Response Bytes: 164419
+*  JS Response Bytes: 561518
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 3626
+*  Other Response Bytes: 4080
 
 ### Performance issues
 

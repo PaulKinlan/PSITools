@@ -18,11 +18,11 @@ title: http://m.axisbank.com/
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 23
-*  Total Request Bytes: 2648
+*  Total Request Bytes: 2649
 
 ### Response data
 
-*  HTML Response Bytes: 9340
+*  HTML Response Bytes: 9341
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 80093
 *  Image Response Bytes: 112165

@@ -13,22 +13,22 @@ title: http://mobile.yatra.com/
 
 ### Request information
 
-*  Number of Resources: 21
+*  Number of Resources: 20
 *  Number of Hosts: 6
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 13
-*  Total Request Bytes: 2464
+*  Total Request Bytes: 2352
 
 ### Response data
 
-*  HTML Response Bytes: 30141
+*  HTML Response Bytes: 30114
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 307752
-*  Image Response Bytes: 251514
+*  Image Response Bytes: 251513
 *  JS Response Bytes: 635912
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 541054
+*  Other Response Bytes: 539135
 
 ### Performance issues
 

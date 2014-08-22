@@ -18,14 +18,14 @@ title: http://www.proff.dk/
 *  Number of JS Resources: 13
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 23
-*  Total Request Bytes: 6279
+*  Total Request Bytes: 6282
 
 ### Response data
 
-*  HTML Response Bytes: 52423
+*  HTML Response Bytes: 52396
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 203061
-*  Image Response Bytes: 111988
+*  Image Response Bytes: 111987
 *  JS Response Bytes: 522812
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3844

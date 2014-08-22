@@ -24,9 +24,9 @@ title: http://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdiens
 
 *  HTML Response Bytes: 31256
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 93330
+*  CSS Response Bytes: 93328
 *  Image Response Bytes: 221248
-*  JS Response Bytes: 178045
+*  JS Response Bytes: 178046
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 619
 

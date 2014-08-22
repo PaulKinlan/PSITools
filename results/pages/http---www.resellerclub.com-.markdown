@@ -13,22 +13,22 @@ title: http://www.resellerclub.com/
 
 ### Request information
 
-*  Number of Resources: 56
+*  Number of Resources: 59
 *  Number of Hosts: 7
-*  Number of JS Resources: 17
+*  Number of JS Resources: 18
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 48
-*  Total Request Bytes: 6493
+*  Total Request Bytes: 7634
 
 ### Response data
 
 *  HTML Response Bytes: 47856
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 163692
-*  Image Response Bytes: 268528
-*  JS Response Bytes: 277246
+*  Image Response Bytes: 268882
+*  JS Response Bytes: 278200
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2009
+*  Other Response Bytes: 2863
 
 ### Performance issues
 

@@ -18,17 +18,17 @@ title: http://m.plotek.pl/plotek/0,0.html
 *  Number of JS Resources: 14
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 31
-*  Total Request Bytes: 7451
+*  Total Request Bytes: 7444
 
 ### Response data
 
-*  HTML Response Bytes: 30110
+*  HTML Response Bytes: 30111
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 178613
-*  Image Response Bytes: 309165
-*  JS Response Bytes: 650268
+*  CSS Response Bytes: 178612
+*  Image Response Bytes: 307969
+*  JS Response Bytes: 650270
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 4274
+*  Other Response Bytes: 4276
 
 ### Performance issues
 

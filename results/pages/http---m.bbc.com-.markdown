@@ -22,13 +22,13 @@ title: http://m.bbc.com/
 
 ### Response data
 
-*  HTML Response Bytes: 81381
+*  HTML Response Bytes: 81366
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 37841
-*  Image Response Bytes: 349638
-*  JS Response Bytes: 860017
+*  Image Response Bytes: 345990
+*  JS Response Bytes: 859889
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 8739
+*  Other Response Bytes: 8738
 
 ### Performance issues
 

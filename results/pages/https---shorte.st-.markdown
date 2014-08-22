@@ -17,18 +17,18 @@ title: https://shorte.st/
 *  Number of Hosts: 26
 *  Number of JS Resources: 25
 *  Number of CSS Resources: 1
-*  Nubmer of Static Resources: 20
-*  Total Request Bytes: 10291
+*  Nubmer of Static Resources: 18
+*  Total Request Bytes: 10203
 
 ### Response data
 
 *  HTML Response Bytes: 111130
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 243245
-*  Image Response Bytes: 181251
-*  JS Response Bytes: 877265
+*  Image Response Bytes: 181181
+*  JS Response Bytes: 877262
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 330422
+*  Other Response Bytes: 322384
 
 ### Performance issues
 

@@ -13,22 +13,22 @@ title: http://www.zumi.pl/
 
 ### Request information
 
-*  Number of Resources: 50
+*  Number of Resources: 49
 *  Number of Hosts: 13
 *  Number of JS Resources: 13
 *  Number of CSS Resources: 7
-*  Nubmer of Static Resources: 32
-*  Total Request Bytes: 7004
+*  Nubmer of Static Resources: 31
+*  Total Request Bytes: 6897
 
 ### Response data
 
-*  HTML Response Bytes: 55541
+*  HTML Response Bytes: 55543
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 98927
-*  Image Response Bytes: 364938
-*  JS Response Bytes: 455769
+*  Image Response Bytes: 348175
+*  JS Response Bytes: 455845
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2921
+*  Other Response Bytes: 2917
 
 ### Performance issues
 

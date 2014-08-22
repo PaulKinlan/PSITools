@@ -25,7 +25,7 @@ title: http://m.jagran.com/check.php
 *  HTML Response Bytes: 3931
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 6314
+*  Image Response Bytes: 6315
 *  JS Response Bytes: 134823
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1125

@@ -13,12 +13,12 @@ title: http://m1.way2sms.com/content/prehome.html?
 
 ### Request information
 
-*  Number of Resources: 11
-*  Number of Hosts: 9
+*  Number of Resources: 9
+*  Number of Hosts: 8
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 1375
+*  Total Request Bytes: 1147
 
 ### Response data
 
@@ -26,9 +26,9 @@ title: http://m1.way2sms.com/content/prehome.html?
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 26741
-*  JS Response Bytes: 145060
+*  JS Response Bytes: 145059
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1226
+*  Other Response Bytes: 634
 
 ### Performance issues
 

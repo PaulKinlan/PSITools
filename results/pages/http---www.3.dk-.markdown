@@ -18,17 +18,17 @@ title: http://www.3.dk/
 *  Number of JS Resources: 33
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 42
-*  Total Request Bytes: 18102
+*  Total Request Bytes: 18090
 
 ### Response data
 
 *  HTML Response Bytes: 71408
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 428903
-*  Image Response Bytes: 788736
-*  JS Response Bytes: 872761
+*  Image Response Bytes: 788730
+*  JS Response Bytes: 872760
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 8395
+*  Other Response Bytes: 8471
 
 ### Performance issues
 

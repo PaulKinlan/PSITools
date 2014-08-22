@@ -18,15 +18,15 @@ title: http://bsnl.co.in/
 *  Number of JS Resources: 17
 *  Number of CSS Resources: 13
 *  Nubmer of Static Resources: 64
-*  Total Request Bytes: 7116
+*  Total Request Bytes: 7150
 
 ### Response data
 
-*  HTML Response Bytes: 188967
+*  HTML Response Bytes: 198297
 *  Text Response Bytes: 1597
 *  CSS Response Bytes: 560189
 *  Image Response Bytes: 1825702
-*  JS Response Bytes: 1207040
+*  JS Response Bytes: 1211514
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 316336
 

@@ -25,7 +25,7 @@ title: http://m.shopmania.ro/
 *  HTML Response Bytes: 16079
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 107451
-*  Image Response Bytes: 23719
+*  Image Response Bytes: 23720
 *  JS Response Bytes: 310496
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 778

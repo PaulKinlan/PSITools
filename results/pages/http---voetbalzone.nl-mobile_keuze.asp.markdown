@@ -18,7 +18,7 @@ title: http://voetbalzone.nl/mobile_keuze.asp
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 6
-*  Total Request Bytes: 1403
+*  Total Request Bytes: 1389
 
 ### Response data
 
@@ -26,7 +26,7 @@ title: http://voetbalzone.nl/mobile_keuze.asp
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 4352
 *  Image Response Bytes: 9355
-*  JS Response Bytes: 145046
+*  JS Response Bytes: 145045
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 683
 

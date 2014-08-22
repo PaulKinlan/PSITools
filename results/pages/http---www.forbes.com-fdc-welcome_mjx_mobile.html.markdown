@@ -13,22 +13,22 @@ title: http://www.forbes.com/fdc/welcome_mjx_mobile.html
 
 ### Request information
 
-*  Number of Resources: 66
-*  Number of Hosts: 29
-*  Number of JS Resources: 28
+*  Number of Resources: 56
+*  Number of Hosts: 24
+*  Number of JS Resources: 26
 *  Number of CSS Resources: 1
-*  Nubmer of Static Resources: 27
-*  Total Request Bytes: 17002
+*  Nubmer of Static Resources: 26
+*  Total Request Bytes: 14373
 
 ### Response data
 
-*  HTML Response Bytes: 56903
+*  HTML Response Bytes: 55705
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 7951
-*  Image Response Bytes: 75338
-*  JS Response Bytes: 1035857
+*  Image Response Bytes: 75076
+*  JS Response Bytes: 997836
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 8875
+*  Other Response Bytes: 3400
 
 ### Performance issues
 
@@ -39,8 +39,6 @@ title: http://www.forbes.com/fdc/welcome_mjx_mobile.html
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Inline render-blocking CSS
 *  Prefer asynchronous resources
-*  Enable compression
-*  Improve server response time
 
 ### Mobile UX issues
 

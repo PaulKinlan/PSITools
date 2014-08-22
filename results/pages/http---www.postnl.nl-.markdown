@@ -18,11 +18,11 @@ title: http://www.postnl.nl/
 *  Number of JS Resources: 14
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 28
-*  Total Request Bytes: 5055
+*  Total Request Bytes: 5053
 
 ### Response data
 
-*  HTML Response Bytes: 23614
+*  HTML Response Bytes: 21892
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 280101
 *  Image Response Bytes: 1221590

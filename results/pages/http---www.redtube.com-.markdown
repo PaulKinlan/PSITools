@@ -14,19 +14,19 @@ title: http://www.redtube.com/
 ### Request information
 
 *  Number of Resources: 53
-*  Number of Hosts: 18
+*  Number of Hosts: 19
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 46
-*  Total Request Bytes: 7367
+*  Total Request Bytes: 6787
 
 ### Response data
 
-*  HTML Response Bytes: 51776
+*  HTML Response Bytes: 51827
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 71359
-*  Image Response Bytes: 338171
-*  JS Response Bytes: 567545
+*  Image Response Bytes: 356215
+*  JS Response Bytes: 567471
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 361
 
@@ -37,6 +37,7 @@ title: http://www.redtube.com/
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Enable compression
+*  Improve server response time
 
 ### Mobile UX issues
 

@@ -18,17 +18,17 @@ title: http://airtel.com/M-airtelcom/index.html
 *  Number of JS Resources: 8
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 12
-*  Total Request Bytes: 5646
+*  Total Request Bytes: 5641
 
 ### Response data
 
-*  HTML Response Bytes: 14877
-*  Text Response Bytes: 29138
-*  CSS Response Bytes: 3092
-*  Image Response Bytes: 519362
-*  JS Response Bytes: 523234
+*  HTML Response Bytes: 14505
+*  Text Response Bytes: 0
+*  CSS Response Bytes: 3027
+*  Image Response Bytes: 519283
+*  JS Response Bytes: 523232
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2857
+*  Other Response Bytes: 31929
 
 ### Performance issues
 
@@ -37,6 +37,7 @@ title: http://airtel.com/M-airtelcom/index.html
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Inline render-blocking CSS
+*  Enable compression
 *  Improve server response time
 
 ### Mobile UX issues

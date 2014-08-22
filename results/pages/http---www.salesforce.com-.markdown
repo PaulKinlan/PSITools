@@ -13,22 +13,22 @@ title: http://www.salesforce.com/
 
 ### Request information
 
-*  Number of Resources: 75
+*  Number of Resources: 76
 *  Number of Hosts: 24
 *  Number of JS Resources: 14
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 43
-*  Total Request Bytes: 15258
+*  Total Request Bytes: 15652
 
 ### Response data
 
 *  HTML Response Bytes: 111269
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 164374
-*  Image Response Bytes: 688306
-*  JS Response Bytes: 895729
+*  Image Response Bytes: 688278
+*  JS Response Bytes: 896619
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 13247
+*  Other Response Bytes: 13834
 
 ### Performance issues
 

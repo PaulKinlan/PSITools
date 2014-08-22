@@ -24,9 +24,9 @@ title: http://mojebanka.cz/
 
 *  HTML Response Bytes: 39546
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 226808
-*  Image Response Bytes: 614435
-*  JS Response Bytes: 462242
+*  CSS Response Bytes: 226807
+*  Image Response Bytes: 614411
+*  JS Response Bytes: 462243
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
 

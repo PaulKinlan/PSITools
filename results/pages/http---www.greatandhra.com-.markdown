@@ -18,7 +18,7 @@ title: http://www.greatandhra.com/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 5
-*  Total Request Bytes: 1628
+*  Total Request Bytes: 1629
 
 ### Response data
 

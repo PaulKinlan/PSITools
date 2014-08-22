@@ -13,22 +13,22 @@ title: http://m.kwejk.pl/
 
 ### Request information
 
-*  Number of Resources: 118
-*  Number of Hosts: 20
-*  Number of JS Resources: 28
-*  Number of CSS Resources: 5
-*  Nubmer of Static Resources: 75
-*  Total Request Bytes: 24827
+*  Number of Resources: 120
+*  Number of Hosts: 21
+*  Number of JS Resources: 31
+*  Number of CSS Resources: 6
+*  Nubmer of Static Resources: 78
+*  Total Request Bytes: 24944
 
 ### Response data
 
-*  HTML Response Bytes: 431372
+*  HTML Response Bytes: 441393
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 264644
-*  Image Response Bytes: 7898554
-*  JS Response Bytes: 1645198
+*  CSS Response Bytes: 428243
+*  Image Response Bytes: 936533
+*  JS Response Bytes: 2711094
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 12411
+*  Other Response Bytes: 12376
 
 ### Performance issues
 

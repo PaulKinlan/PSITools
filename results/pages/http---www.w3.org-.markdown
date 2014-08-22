@@ -22,10 +22,10 @@ title: http://www.w3.org/
 
 ### Response data
 
-*  HTML Response Bytes: 33990
+*  HTML Response Bytes: 34037
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 42002
-*  Image Response Bytes: 155926
+*  Image Response Bytes: 158626
 *  JS Response Bytes: 91159
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 455

@@ -25,10 +25,10 @@ title: http://www.onclickads.net/
 *  HTML Response Bytes: 3640
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 2514
-*  Image Response Bytes: 29459
+*  Image Response Bytes: 29443
 *  JS Response Bytes: 9966
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 42626
+*  Other Response Bytes: 42635
 
 ### Performance issues
 

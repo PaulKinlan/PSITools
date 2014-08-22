@@ -18,17 +18,17 @@ title: http://mobile.aliorbank.pl/pl
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 15
-*  Total Request Bytes: 2301
+*  Total Request Bytes: 2429
 
 ### Response data
 
 *  HTML Response Bytes: 7217
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 6648
-*  Image Response Bytes: 19746
+*  Image Response Bytes: 19744
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 981
+*  Other Response Bytes: 1109
 
 ### Performance issues
 

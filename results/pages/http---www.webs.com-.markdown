@@ -18,17 +18,17 @@ title: http://www.webs.com/
 *  Number of JS Resources: 22
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 34
-*  Total Request Bytes: 18970
+*  Total Request Bytes: 18963
 
 ### Response data
 
-*  HTML Response Bytes: 25633
+*  HTML Response Bytes: 25634
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 68139
-*  Image Response Bytes: 296086
-*  JS Response Bytes: 810319
+*  Image Response Bytes: 296087
+*  JS Response Bytes: 810329
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 189055
+*  Other Response Bytes: 188916
 
 ### Performance issues
 
@@ -37,7 +37,6 @@ title: http://www.webs.com/
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Enable compression
-*  Improve server response time
 
 ### Mobile UX issues
 

@@ -18,7 +18,7 @@ title: http://www.viralo.ro/
 *  Number of JS Resources: 22
 *  Number of CSS Resources: 16
 *  Nubmer of Static Resources: 67
-*  Total Request Bytes: 10183
+*  Total Request Bytes: 10184
 
 ### Response data
 
@@ -28,7 +28,7 @@ title: http://www.viralo.ro/
 *  Image Response Bytes: 874652
 *  JS Response Bytes: 543783
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 117757
+*  Other Response Bytes: 117779
 
 ### Performance issues
 

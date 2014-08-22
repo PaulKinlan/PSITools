@@ -18,14 +18,14 @@ title: http://www.mysearchdial.com/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 22
-*  Total Request Bytes: 2514
+*  Total Request Bytes: 2516
 
 ### Response data
 
 *  HTML Response Bytes: 12745
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 13264
-*  Image Response Bytes: 928547
+*  Image Response Bytes: 928548
 *  JS Response Bytes: 141072
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29550

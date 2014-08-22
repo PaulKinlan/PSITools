@@ -26,7 +26,7 @@ title: http://m.funda.nl/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 58130
 *  Image Response Bytes: 33938
-*  JS Response Bytes: 219811
+*  JS Response Bytes: 219804
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1079
 

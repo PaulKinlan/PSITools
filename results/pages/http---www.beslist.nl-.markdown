@@ -13,22 +13,22 @@ title: http://www.beslist.nl/
 
 ### Request information
 
-*  Number of Resources: 124
+*  Number of Resources: 127
 *  Number of Hosts: 24
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 47
-*  Total Request Bytes: 23894
+*  Total Request Bytes: 24196
 
 ### Response data
 
-*  HTML Response Bytes: 152501
+*  HTML Response Bytes: 152506
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 512972
-*  Image Response Bytes: 851486
-*  JS Response Bytes: 705656
+*  CSS Response Bytes: 512937
+*  Image Response Bytes: 850718
+*  JS Response Bytes: 705645
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 18896
+*  Other Response Bytes: 20067
 
 ### Performance issues
 

@@ -18,15 +18,15 @@ title: http://www.fakt.pl/
 *  Number of JS Resources: 41
 *  Number of CSS Resources: 8
 *  Nubmer of Static Resources: 51
-*  Total Request Bytes: 23004
+*  Total Request Bytes: 23230
 
 ### Response data
 
-*  HTML Response Bytes: 343570
+*  HTML Response Bytes: 344024
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 209710
-*  Image Response Bytes: 3605746
-*  JS Response Bytes: 1876960
+*  CSS Response Bytes: 172642
+*  Image Response Bytes: 3631340
+*  JS Response Bytes: 1877653
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6431
 

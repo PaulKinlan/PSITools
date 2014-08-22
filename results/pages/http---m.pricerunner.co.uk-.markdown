@@ -13,22 +13,22 @@ title: http://m.pricerunner.co.uk/
 
 ### Request information
 
-*  Number of Resources: 17
-*  Number of Hosts: 8
-*  Number of JS Resources: 4
+*  Number of Resources: 15
+*  Number of Hosts: 7
+*  Number of JS Resources: 3
 *  Number of CSS Resources: 1
-*  Nubmer of Static Resources: 7
-*  Total Request Bytes: 3147
+*  Nubmer of Static Resources: 6
+*  Total Request Bytes: 2868
 
 ### Response data
 
-*  HTML Response Bytes: 12286
+*  HTML Response Bytes: 11692
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 44042
-*  Image Response Bytes: 56340
-*  JS Response Bytes: 340183
+*  Image Response Bytes: 56117
+*  JS Response Bytes: 336682
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1250
+*  Other Response Bytes: 1249
 
 ### Performance issues
 

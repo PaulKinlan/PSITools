@@ -18,15 +18,15 @@ title: https://www.google.nl/?gws_rd=ssl
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 3172
+*  Total Request Bytes: 3157
 
 ### Response data
 
-*  HTML Response Bytes: 68168
+*  HTML Response Bytes: 68138
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 79100
-*  JS Response Bytes: 381919
+*  Image Response Bytes: 79101
+*  JS Response Bytes: 381918
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1734
 

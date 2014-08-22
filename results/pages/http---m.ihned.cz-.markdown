@@ -13,20 +13,20 @@ title: http://m.ihned.cz/
 
 ### Request information
 
-*  Number of Resources: 78
+*  Number of Resources: 76
 *  Number of Hosts: 16
 *  Number of JS Resources: 18
 *  Number of CSS Resources: 1
-*  Nubmer of Static Resources: 59
-*  Total Request Bytes: 10881
+*  Nubmer of Static Resources: 57
+*  Total Request Bytes: 10632
 
 ### Response data
 
-*  HTML Response Bytes: 46345
+*  HTML Response Bytes: 46562
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 32115
-*  Image Response Bytes: 132001
-*  JS Response Bytes: 412225
+*  Image Response Bytes: 124658
+*  JS Response Bytes: 412227
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1678
 

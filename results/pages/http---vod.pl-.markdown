@@ -13,22 +13,22 @@ title: http://vod.pl/
 
 ### Request information
 
-*  Number of Resources: 76
+*  Number of Resources: 77
 *  Number of Hosts: 13
 *  Number of JS Resources: 12
 *  Number of CSS Resources: 6
-*  Nubmer of Static Resources: 53
-*  Total Request Bytes: 15043
+*  Nubmer of Static Resources: 54
+*  Total Request Bytes: 15048
 
 ### Response data
 
-*  HTML Response Bytes: 420474
+*  HTML Response Bytes: 420549
 *  Text Response Bytes: 409
 *  CSS Response Bytes: 123044
-*  Image Response Bytes: 808039
+*  Image Response Bytes: 807524
 *  JS Response Bytes: 629346
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 69517
+*  Other Response Bytes: 69516
 
 ### Performance issues
 

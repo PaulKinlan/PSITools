@@ -22,7 +22,7 @@ title: https://mobile.bet365.dk/languages.aspx
 
 ### Response data
 
-*  HTML Response Bytes: 11947
+*  HTML Response Bytes: 11948
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 32411
 *  Image Response Bytes: 103177

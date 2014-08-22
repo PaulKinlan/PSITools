@@ -18,17 +18,17 @@ title: http://m.dba.dk/
 *  Number of JS Resources: 12
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 17
-*  Total Request Bytes: 4009
+*  Total Request Bytes: 4008
 
 ### Response data
 
-*  HTML Response Bytes: 14059
+*  HTML Response Bytes: 14060
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 30950
-*  Image Response Bytes: 139735
-*  JS Response Bytes: 263332
+*  Image Response Bytes: 139734
+*  JS Response Bytes: 263331
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1415
+*  Other Response Bytes: 1414
 
 ### Performance issues
 

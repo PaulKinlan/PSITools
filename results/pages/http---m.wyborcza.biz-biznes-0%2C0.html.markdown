@@ -18,17 +18,17 @@ title: http://m.wyborcza.biz/biznes/0,0.html
 *  Number of JS Resources: 18
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 25
-*  Total Request Bytes: 7811
+*  Total Request Bytes: 7813
 
 ### Response data
 
-*  HTML Response Bytes: 45443
+*  HTML Response Bytes: 45321
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 178686
-*  Image Response Bytes: 347498
-*  JS Response Bytes: 827347
+*  CSS Response Bytes: 178688
+*  Image Response Bytes: 347505
+*  JS Response Bytes: 827353
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 4256
+*  Other Response Bytes: 4257
 
 ### Performance issues
 
@@ -39,7 +39,6 @@ title: http://m.wyborcza.biz/biznes/0,0.html
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Prioritize visible content
 *  Enable compression
-*  Improve server response time
 
 ### Mobile UX issues
 

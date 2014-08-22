@@ -13,22 +13,22 @@ title: http://www.arhiblog.ro/
 
 ### Request information
 
-*  Number of Resources: 63
+*  Number of Resources: 62
 *  Number of Hosts: 13
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 12
-*  Total Request Bytes: 5883
+*  Total Request Bytes: 5801
 
 ### Response data
 
-*  HTML Response Bytes: 185163
+*  HTML Response Bytes: 184806
 *  Text Response Bytes: 84058
-*  CSS Response Bytes: 65151
-*  Image Response Bytes: 622382
+*  CSS Response Bytes: 65142
+*  Image Response Bytes: 613739
 *  JS Response Bytes: 343778
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 154672
+*  Other Response Bytes: 154652
 
 ### Performance issues
 

@@ -13,22 +13,22 @@ title: http://www.reference.com/
 
 ### Request information
 
-*  Number of Resources: 55
-*  Number of Hosts: 21
+*  Number of Resources: 57
+*  Number of Hosts: 22
 *  Number of JS Resources: 19
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 34
-*  Total Request Bytes: 9663
+*  Total Request Bytes: 9919
 
 ### Response data
 
-*  HTML Response Bytes: 57776
+*  HTML Response Bytes: 64327
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 15800
-*  Image Response Bytes: 492664
-*  JS Response Bytes: 957561
+*  Image Response Bytes: 477326
+*  JS Response Bytes: 957771
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 3111
+*  Other Response Bytes: 3113
 
 ### Performance issues
 

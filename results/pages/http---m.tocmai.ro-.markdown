@@ -18,7 +18,7 @@ title: http://m.tocmai.ro/
 *  Number of JS Resources: 7
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 13
-*  Total Request Bytes: 2657
+*  Total Request Bytes: 2943
 
 ### Response data
 
@@ -26,9 +26,9 @@ title: http://m.tocmai.ro/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 6583
 *  Image Response Bytes: 31913
-*  JS Response Bytes: 141504
+*  JS Response Bytes: 141653
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1389
+*  Other Response Bytes: 1537
 
 ### Performance issues
 

@@ -18,15 +18,15 @@ title: http://www.kieskeurig.nl/
 *  Number of JS Resources: 21
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 30
-*  Total Request Bytes: 8428
+*  Total Request Bytes: 8427
 
 ### Response data
 
-*  HTML Response Bytes: 106010
+*  HTML Response Bytes: 106011
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 283146
-*  Image Response Bytes: 563267
-*  JS Response Bytes: 694233
+*  CSS Response Bytes: 283147
+*  Image Response Bytes: 563268
+*  JS Response Bytes: 694220
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63722
 

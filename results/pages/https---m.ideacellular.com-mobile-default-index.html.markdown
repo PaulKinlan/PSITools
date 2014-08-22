@@ -18,15 +18,15 @@ title: https://m.ideacellular.com/mobile/default/index.html
 *  Number of JS Resources: 24
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 38
-*  Total Request Bytes: 6077
+*  Total Request Bytes: 6079
 
 ### Response data
 
-*  HTML Response Bytes: 11968
+*  HTML Response Bytes: 11938
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 84978
+*  CSS Response Bytes: 84867
 *  Image Response Bytes: 38191
-*  JS Response Bytes: 403377
+*  JS Response Bytes: 403537
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1176
 

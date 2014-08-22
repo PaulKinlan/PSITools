@@ -13,12 +13,12 @@ title: https://wordpress.com/
 
 ### Request information
 
-*  Number of Resources: 22
-*  Number of Hosts: 12
-*  Number of JS Resources: 8
+*  Number of Resources: 23
+*  Number of Hosts: 13
+*  Number of JS Resources: 9
 *  Number of CSS Resources: 4
-*  Nubmer of Static Resources: 12
-*  Total Request Bytes: 2960
+*  Nubmer of Static Resources: 13
+*  Total Request Bytes: 3019
 
 ### Response data
 
@@ -26,7 +26,7 @@ title: https://wordpress.com/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 48587
 *  Image Response Bytes: 192825
-*  JS Response Bytes: 248452
+*  JS Response Bytes: 327159
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44145
 

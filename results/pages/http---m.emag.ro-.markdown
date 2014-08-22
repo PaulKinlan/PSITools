@@ -18,15 +18,15 @@ title: http://m.emag.ro/
 *  Number of JS Resources: 8
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 17
-*  Total Request Bytes: 3958
+*  Total Request Bytes: 3962
 
 ### Response data
 
-*  HTML Response Bytes: 55577
+*  HTML Response Bytes: 55536
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 224681
-*  Image Response Bytes: 307282
-*  JS Response Bytes: 474156
+*  Image Response Bytes: 307284
+*  JS Response Bytes: 474161
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 85363
 

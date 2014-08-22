@@ -18,17 +18,17 @@ title: http://thefreedictionary.com/_/dict.aspx?rd=1
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 24
-*  Total Request Bytes: 4449
+*  Total Request Bytes: 4444
 
 ### Response data
 
-*  HTML Response Bytes: 62468
+*  HTML Response Bytes: 62521
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 24807
-*  Image Response Bytes: 55944
-*  JS Response Bytes: 702961
+*  CSS Response Bytes: 24829
+*  Image Response Bytes: 56032
+*  JS Response Bytes: 702972
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 5439
+*  Other Response Bytes: 5435
 
 ### Performance issues
 

@@ -13,22 +13,22 @@ title: http://m.shopclues.com/
 
 ### Request information
 
-*  Number of Resources: 193
-*  Number of Hosts: 39
-*  Number of JS Resources: 32
+*  Number of Resources: 197
+*  Number of Hosts: 36
+*  Number of JS Resources: 35
 *  Number of CSS Resources: 11
-*  Nubmer of Static Resources: 105
-*  Total Request Bytes: 28361
+*  Nubmer of Static Resources: 109
+*  Total Request Bytes: 28144
 
 ### Response data
 
-*  HTML Response Bytes: 302229
+*  HTML Response Bytes: 268238
 *  Text Response Bytes: 54164
-*  CSS Response Bytes: 799961
-*  Image Response Bytes: 976056
-*  JS Response Bytes: 1180706
+*  CSS Response Bytes: 802613
+*  Image Response Bytes: 1050798
+*  JS Response Bytes: 1244154
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 25618
+*  Other Response Bytes: 24999
 
 ### Performance issues
 

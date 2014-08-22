@@ -18,17 +18,17 @@ title: http://mtsindia.in/
 *  Number of JS Resources: 12
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 60
-*  Total Request Bytes: 4793
+*  Total Request Bytes: 4795
 
 ### Response data
 
 *  HTML Response Bytes: 44774
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 35432
-*  Image Response Bytes: 1449829
+*  Image Response Bytes: 1449828
 *  JS Response Bytes: 355416
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 6709
+*  Other Response Bytes: 6710
 
 ### Performance issues
 

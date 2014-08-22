@@ -22,13 +22,13 @@ title: http://www.pepperfry.com/
 
 ### Response data
 
-*  HTML Response Bytes: 24859
+*  HTML Response Bytes: 24855
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 99796
 *  Image Response Bytes: 251828
-*  JS Response Bytes: 287007
+*  JS Response Bytes: 287057
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 43950
+*  Other Response Bytes: 43949
 
 ### Performance issues
 

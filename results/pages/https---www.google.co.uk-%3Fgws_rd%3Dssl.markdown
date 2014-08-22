@@ -18,15 +18,15 @@ title: https://www.google.co.uk/?gws_rd=ssl
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 3270
+*  Total Request Bytes: 3239
 
 ### Response data
 
-*  HTML Response Bytes: 68143
+*  HTML Response Bytes: 68144
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 79101
-*  JS Response Bytes: 413441
+*  JS Response Bytes: 381899
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1752
 

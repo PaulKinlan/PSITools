@@ -13,22 +13,22 @@ title: https://www.google.pl/?gws_rd=ssl
 
 ### Request information
 
-*  Number of Resources: 15
+*  Number of Resources: 14
 *  Number of Hosts: 3
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 4664
+*  Total Request Bytes: 3179
 
 ### Response data
 
-*  HTML Response Bytes: 68042
+*  HTML Response Bytes: 67880
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 79100
-*  JS Response Bytes: 380035
+*  JS Response Bytes: 379860
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1938
+*  Other Response Bytes: 1734
 
 ### Performance issues
 

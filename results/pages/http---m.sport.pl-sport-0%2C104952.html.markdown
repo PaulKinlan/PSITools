@@ -13,22 +13,22 @@ title: http://m.sport.pl/sport/0,104952.html
 
 ### Request information
 
-*  Number of Resources: 56
+*  Number of Resources: 58
 *  Number of Hosts: 18
 *  Number of JS Resources: 17
 *  Number of CSS Resources: 1
-*  Nubmer of Static Resources: 28
-*  Total Request Bytes: 8277
+*  Nubmer of Static Resources: 30
+*  Total Request Bytes: 8313
 
 ### Response data
 
-*  HTML Response Bytes: 33003
+*  HTML Response Bytes: 35370
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 113373
-*  Image Response Bytes: 234675
-*  JS Response Bytes: 439208
+*  Image Response Bytes: 236631
+*  JS Response Bytes: 439206
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 5682
+*  Other Response Bytes: 5680
 
 ### Performance issues
 
@@ -37,6 +37,7 @@ title: http://m.sport.pl/sport/0,104952.html
 
 *  Avoid landing page redirects
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Prefer asynchronous resources
 *  Enable compression
 
 ### Mobile UX issues

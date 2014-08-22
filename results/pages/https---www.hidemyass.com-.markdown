@@ -18,15 +18,15 @@ title: https://www.hidemyass.com/
 *  Number of JS Resources: 18
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 41
-*  Total Request Bytes: 8360
+*  Total Request Bytes: 8338
 
 ### Response data
 
 *  HTML Response Bytes: 168371
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 233959
-*  Image Response Bytes: 1077661
-*  JS Response Bytes: 2539450
+*  Image Response Bytes: 1077659
+*  JS Response Bytes: 2539451
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 496
 

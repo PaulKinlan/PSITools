@@ -18,17 +18,17 @@ title: http://www.iibr.pl/pl/
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 40
-*  Total Request Bytes: 8527
+*  Total Request Bytes: 8534
 
 ### Response data
 
-*  HTML Response Bytes: 134139
+*  HTML Response Bytes: 134058
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 20966
-*  Image Response Bytes: 74011
-*  JS Response Bytes: 513621
+*  Image Response Bytes: 74012
+*  JS Response Bytes: 513618
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2348
+*  Other Response Bytes: 2350
 
 ### Performance issues
 

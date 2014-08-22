@@ -18,14 +18,14 @@ title: http://mobiel.rabobank.nl/
 *  Number of JS Resources: 8
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 15
-*  Total Request Bytes: 2730
+*  Total Request Bytes: 2727
 
 ### Response data
 
-*  HTML Response Bytes: 9416
+*  HTML Response Bytes: 9410
 *  Text Response Bytes: 121160
 *  CSS Response Bytes: 26948
-*  Image Response Bytes: 59723
+*  Image Response Bytes: 59724
 *  JS Response Bytes: 185565
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 533

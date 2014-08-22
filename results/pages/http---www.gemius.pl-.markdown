@@ -18,17 +18,17 @@ title: http://www.gemius.pl/
 *  Number of JS Resources: 17
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 43
-*  Total Request Bytes: 6702
+*  Total Request Bytes: 6698
 
 ### Response data
 
-*  HTML Response Bytes: 134139
+*  HTML Response Bytes: 134225
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 24452
-*  Image Response Bytes: 755675
-*  JS Response Bytes: 145976
+*  Image Response Bytes: 755594
+*  JS Response Bytes: 145972
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1463
+*  Other Response Bytes: 1462
 
 ### Performance issues
 

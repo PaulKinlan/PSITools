@@ -18,17 +18,17 @@ title: http://www.ceskatelevize.cz/
 *  Number of JS Resources: 31
 *  Number of CSS Resources: 11
 *  Nubmer of Static Resources: 23
-*  Total Request Bytes: 12907
+*  Total Request Bytes: 12901
 
 ### Response data
 
-*  HTML Response Bytes: 64772
+*  HTML Response Bytes: 64919
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 106437
-*  Image Response Bytes: 456747
-*  JS Response Bytes: 387516
+*  CSS Response Bytes: 106413
+*  Image Response Bytes: 460666
+*  JS Response Bytes: 387451
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 11517
+*  Other Response Bytes: 11512
 
 ### Performance issues
 

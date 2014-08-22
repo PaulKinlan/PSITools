@@ -18,17 +18,17 @@ title: http://m.nk.pl/login
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 5
-*  Total Request Bytes: 1274
+*  Total Request Bytes: 1271
 
 ### Response data
 
-*  HTML Response Bytes: 5657
+*  HTML Response Bytes: 5658
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 153822
-*  Image Response Bytes: 14136
+*  Image Response Bytes: 14134
 *  JS Response Bytes: 185331
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1249
+*  Other Response Bytes: 1247
 
 ### Performance issues
 

@@ -18,17 +18,17 @@ title: http://www.partner-ads.com/dk/
 *  Number of JS Resources: 12
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 28
-*  Total Request Bytes: 3827
+*  Total Request Bytes: 3828
 
 ### Response data
 
-*  HTML Response Bytes: 31911
+*  HTML Response Bytes: 31912
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 8541
+*  CSS Response Bytes: 8542
 *  Image Response Bytes: 111783
-*  JS Response Bytes: 650906
+*  JS Response Bytes: 650903
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 95297
+*  Other Response Bytes: 95298
 
 ### Performance issues
 

@@ -18,14 +18,14 @@ title: http://www.firmy.cz/
 *  Number of JS Resources: 12
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 23
-*  Total Request Bytes: 7326
+*  Total Request Bytes: 7323
 
 ### Response data
 
-*  HTML Response Bytes: 8592
+*  HTML Response Bytes: 8591
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 114155
-*  Image Response Bytes: 358648
+*  Image Response Bytes: 358640
 *  JS Response Bytes: 1238458
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1657

@@ -26,7 +26,7 @@ title: http://m.bilbasen.dk/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 175516
-*  JS Response Bytes: 138592
+*  JS Response Bytes: 138591
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 281
 

@@ -24,9 +24,9 @@ title: http://goo.gl/
 
 *  HTML Response Bytes: 14122
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 6884
-*  Image Response Bytes: 57073
-*  JS Response Bytes: 1073544
+*  CSS Response Bytes: 6883
+*  Image Response Bytes: 57068
+*  JS Response Bytes: 1073545
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1320
 

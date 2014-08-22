@@ -13,22 +13,22 @@ title: http://photobucket.com/
 
 ### Request information
 
-*  Number of Resources: 101
-*  Number of Hosts: 42
+*  Number of Resources: 106
+*  Number of Hosts: 41
 *  Number of JS Resources: 18
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 35
-*  Total Request Bytes: 27380
+*  Total Request Bytes: 30117
 
 ### Response data
 
-*  HTML Response Bytes: 155686
+*  HTML Response Bytes: 155793
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 132249
-*  Image Response Bytes: 624566
-*  JS Response Bytes: 1140188
+*  CSS Response Bytes: 132251
+*  Image Response Bytes: 626691
+*  JS Response Bytes: 1140065
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 18782
+*  Other Response Bytes: 21742
 
 ### Performance issues
 
@@ -38,7 +38,6 @@ title: http://photobucket.com/
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Prioritize visible content
 *  Enable compression
-*  Improve server response time
 
 ### Mobile UX issues
 

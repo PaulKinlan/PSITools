@@ -18,7 +18,7 @@ title: http://www.sklik.cz/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 11
-*  Total Request Bytes: 1989
+*  Total Request Bytes: 1988
 
 ### Response data
 

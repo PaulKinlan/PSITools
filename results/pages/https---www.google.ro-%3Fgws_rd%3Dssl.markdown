@@ -18,15 +18,15 @@ title: https://www.google.ro/?gws_rd=ssl
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 3215
+*  Total Request Bytes: 3163
 
 ### Response data
 
-*  HTML Response Bytes: 67651
+*  HTML Response Bytes: 67542
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 79100
-*  JS Response Bytes: 379896
+*  JS Response Bytes: 379898
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1734
 

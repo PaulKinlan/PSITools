@@ -18,14 +18,14 @@ title: http://t.justdial.com/#index
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 122
-*  Total Request Bytes: 8248
+*  Total Request Bytes: 8249
 
 ### Response data
 
 *  HTML Response Bytes: 21327
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 56645
-*  Image Response Bytes: 312906
+*  Image Response Bytes: 313255
 *  JS Response Bytes: 856127
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1131

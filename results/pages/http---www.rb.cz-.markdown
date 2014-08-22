@@ -18,17 +18,17 @@ title: http://www.rb.cz/
 *  Number of JS Resources: 27
 *  Number of CSS Resources: 8
 *  Nubmer of Static Resources: 82
-*  Total Request Bytes: 8415
+*  Total Request Bytes: 8416
 
 ### Response data
 
 *  HTML Response Bytes: 35917
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 150885
-*  Image Response Bytes: 240081
-*  JS Response Bytes: 550988
+*  CSS Response Bytes: 150975
+*  Image Response Bytes: 240057
+*  JS Response Bytes: 550926
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 4463
+*  Other Response Bytes: 4462
 
 ### Performance issues
 

@@ -18,17 +18,17 @@ title: http://www.zoso.ro/
 *  Number of JS Resources: 8
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 34
-*  Total Request Bytes: 4893
+*  Total Request Bytes: 4894
 
 ### Response data
 
-*  HTML Response Bytes: 35649
+*  HTML Response Bytes: 35680
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 67504
-*  Image Response Bytes: 341404
+*  CSS Response Bytes: 67510
+*  Image Response Bytes: 341414
 *  JS Response Bytes: 196249
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 206516
+*  Other Response Bytes: 206510
 
 ### Performance issues
 

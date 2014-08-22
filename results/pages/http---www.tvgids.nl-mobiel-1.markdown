@@ -13,20 +13,20 @@ title: http://www.tvgids.nl/mobiel/1
 
 ### Request information
 
-*  Number of Resources: 73
-*  Number of Hosts: 12
+*  Number of Resources: 75
+*  Number of Hosts: 13
 *  Number of JS Resources: 15
-*  Number of CSS Resources: 4
-*  Nubmer of Static Resources: 47
-*  Total Request Bytes: 9460
+*  Number of CSS Resources: 5
+*  Nubmer of Static Resources: 49
+*  Total Request Bytes: 9718
 
 ### Response data
 
-*  HTML Response Bytes: 259182
+*  HTML Response Bytes: 265561
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 337606
-*  Image Response Bytes: 195889
-*  JS Response Bytes: 670731
+*  CSS Response Bytes: 338170
+*  Image Response Bytes: 196651
+*  JS Response Bytes: 670729
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15029
 

@@ -18,14 +18,14 @@ title: http://www.mediafire.com/
 *  Number of JS Resources: 7
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 42
-*  Total Request Bytes: 4840
+*  Total Request Bytes: 4844
 
 ### Response data
 
 *  HTML Response Bytes: 99357
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 599384
-*  Image Response Bytes: 2916169
+*  Image Response Bytes: 2916168
 *  JS Response Bytes: 1136106
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59562

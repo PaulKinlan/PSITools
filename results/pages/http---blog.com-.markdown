@@ -18,15 +18,15 @@ title: http://blog.com/
 *  Number of JS Resources: 14
 *  Number of CSS Resources: 11
 *  Nubmer of Static Resources: 51
-*  Total Request Bytes: 5929
+*  Total Request Bytes: 5931
 
 ### Response data
 
-*  HTML Response Bytes: 23613
+*  HTML Response Bytes: 23596
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 55866
+*  CSS Response Bytes: 56000
 *  Image Response Bytes: 641885
-*  JS Response Bytes: 208468
+*  JS Response Bytes: 208473
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 526
 

@@ -18,17 +18,17 @@ title: http://zovi.com/
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 78
-*  Total Request Bytes: 9752
+*  Total Request Bytes: 9745
 
 ### Response data
 
 *  HTML Response Bytes: 106160
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 117258
-*  Image Response Bytes: 2489000
-*  JS Response Bytes: 489147
+*  Image Response Bytes: 2488996
+*  JS Response Bytes: 489146
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1302
+*  Other Response Bytes: 1296
 
 ### Performance issues
 

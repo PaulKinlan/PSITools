@@ -22,10 +22,10 @@ title: http://www.wikimedia.org/
 
 ### Response data
 
-*  HTML Response Bytes: 6681
+*  HTML Response Bytes: 6679
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 6304
-*  Image Response Bytes: 194227
+*  CSS Response Bytes: 6307
+*  Image Response Bytes: 194163
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1301

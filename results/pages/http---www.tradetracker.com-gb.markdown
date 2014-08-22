@@ -24,9 +24,9 @@ title: http://www.tradetracker.com/gb
 
 *  HTML Response Bytes: 27108
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 35777
-*  Image Response Bytes: 252590
-*  JS Response Bytes: 212179
+*  CSS Response Bytes: 35776
+*  Image Response Bytes: 252573
+*  JS Response Bytes: 212177
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 243
 

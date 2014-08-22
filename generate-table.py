@@ -13,10 +13,14 @@ pagespeed_url = "https://developers.google.com/speed/pagespeed/insights/?url="
 
 sites = []
 
+linecount = 0
 for line in fileinput.input():
-  obj = json.loads(line)
+  try:  
+    obj = json.loads(line)
+
+    linecount = linecount + 1
  
-  sites.append({
+    sites.append({
       "id": obj["id"],
       "title": obj["title"],
       "score": obj["score"],
@@ -25,6 +29,8 @@ for line in fileinput.input():
       "image_url": obj["screenshot"]["data"].replace("_", "/").replace("-", "+"),
       "formattedResults": obj["formattedResults"]
     }) 
+  except:
+    print "Error parsing line: %s" % linecount
 
 sorted_sites = sorted(sites, key=lambda k: k['score'])
 

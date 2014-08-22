@@ -13,22 +13,22 @@ title: http://www.wehkamp.nl/
 
 ### Request information
 
-*  Number of Resources: 124
+*  Number of Resources: 116
 *  Number of Hosts: 34
 *  Number of JS Resources: 36
 *  Number of CSS Resources: 9
 *  Nubmer of Static Resources: 46
-*  Total Request Bytes: 19749
+*  Total Request Bytes: 20892
 
 ### Response data
 
-*  HTML Response Bytes: 30271
+*  HTML Response Bytes: 29887
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 146825
-*  Image Response Bytes: 565934
-*  JS Response Bytes: 901689
+*  CSS Response Bytes: 146842
+*  Image Response Bytes: 570172
+*  JS Response Bytes: 901823
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 496269
+*  Other Response Bytes: 489859
 
 ### Performance issues
 

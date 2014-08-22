@@ -18,17 +18,17 @@ title: http://m.webnode.cz/
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 9
-*  Total Request Bytes: 4320
+*  Total Request Bytes: 4358
 
 ### Response data
 
-*  HTML Response Bytes: 7638
+*  HTML Response Bytes: 7658
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 3983
 *  Image Response Bytes: 21895
-*  JS Response Bytes: 330587
+*  JS Response Bytes: 330586
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1023
+*  Other Response Bytes: 1035
 
 ### Performance issues
 

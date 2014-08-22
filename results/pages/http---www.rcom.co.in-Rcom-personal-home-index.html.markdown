@@ -18,14 +18,14 @@ title: http://www.rcom.co.in/Rcom/personal/home/index.html
 *  Number of JS Resources: 15
 *  Number of CSS Resources: 8
 *  Nubmer of Static Resources: 62
-*  Total Request Bytes: 5474
+*  Total Request Bytes: 5477
 
 ### Response data
 
 *  HTML Response Bytes: 65382
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 89068
-*  Image Response Bytes: 468234
+*  Image Response Bytes: 468235
 *  JS Response Bytes: 393477
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1992

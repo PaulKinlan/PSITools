@@ -18,7 +18,7 @@ title: http://www.indiatodaygroup.com/
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 45
-*  Total Request Bytes: 4674
+*  Total Request Bytes: 4672
 
 ### Response data
 

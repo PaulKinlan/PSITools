@@ -24,9 +24,9 @@ title: http://lajt.mbank.pl/
 
 *  HTML Response Bytes: 7538
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 43934
-*  Image Response Bytes: 50965
-*  JS Response Bytes: 182521
+*  CSS Response Bytes: 43933
+*  Image Response Bytes: 50967
+*  JS Response Bytes: 182523
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1517
 

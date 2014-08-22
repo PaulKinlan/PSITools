@@ -18,17 +18,17 @@ title: https://www.abnamro.nl/nl/mobile/prive/index.html
 *  Number of JS Resources: 31
 *  Number of CSS Resources: 10
 *  Nubmer of Static Resources: 49
-*  Total Request Bytes: 12002
+*  Total Request Bytes: 12004
 
 ### Response data
 
 *  HTML Response Bytes: 45424
-*  Text Response Bytes: 65958
-*  CSS Response Bytes: 459699
-*  Image Response Bytes: 115789
-*  JS Response Bytes: 1102305
+*  Text Response Bytes: 66009
+*  CSS Response Bytes: 459698
+*  Image Response Bytes: 115864
+*  JS Response Bytes: 1102279
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 4239
+*  Other Response Bytes: 4243
 
 ### Performance issues
 

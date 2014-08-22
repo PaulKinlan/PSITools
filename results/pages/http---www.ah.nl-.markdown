@@ -18,17 +18,17 @@ title: http://www.ah.nl/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 34
-*  Total Request Bytes: 4346
+*  Total Request Bytes: 4348
 
 ### Response data
 
-*  HTML Response Bytes: 61794
+*  HTML Response Bytes: 61796
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 83176
-*  Image Response Bytes: 753857
-*  JS Response Bytes: 311440
+*  CSS Response Bytes: 83159
+*  Image Response Bytes: 753835
+*  JS Response Bytes: 311351
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 82699
+*  Other Response Bytes: 82662
 
 ### Performance issues
 

@@ -18,17 +18,17 @@ title: http://www.filmweb.pl/
 *  Number of JS Resources: 23
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 97
-*  Total Request Bytes: 10957
+*  Total Request Bytes: 10889
 
 ### Response data
 
-*  HTML Response Bytes: 162527
+*  HTML Response Bytes: 162380
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 146972
-*  Image Response Bytes: 1605925
-*  JS Response Bytes: 783483
+*  CSS Response Bytes: 146960
+*  Image Response Bytes: 1575357
+*  JS Response Bytes: 783476
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 397621
+*  Other Response Bytes: 397620
 
 ### Performance issues
 

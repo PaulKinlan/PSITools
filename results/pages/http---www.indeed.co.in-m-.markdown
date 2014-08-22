@@ -18,17 +18,17 @@ title: http://www.indeed.co.in/m/
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 9
-*  Total Request Bytes: 2840
+*  Total Request Bytes: 2842
 
 ### Response data
 
 *  HTML Response Bytes: 32906
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 14284
-*  Image Response Bytes: 34553
-*  JS Response Bytes: 154927
+*  Image Response Bytes: 34552
+*  JS Response Bytes: 154959
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2050
+*  Other Response Bytes: 2082
 
 ### Performance issues
 

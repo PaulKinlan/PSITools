@@ -18,14 +18,14 @@ title: http://m.olx.in/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 13
-*  Total Request Bytes: 4250
+*  Total Request Bytes: 4247
 
 ### Response data
 
-*  HTML Response Bytes: 10068
+*  HTML Response Bytes: 10067
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 134175
-*  Image Response Bytes: 36225
+*  Image Response Bytes: 36226
 *  JS Response Bytes: 519662
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1171

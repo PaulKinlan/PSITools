@@ -18,15 +18,15 @@ title: http://m.wp.pl/
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 29
-*  Total Request Bytes: 7926
+*  Total Request Bytes: 7927
 
 ### Response data
 
-*  HTML Response Bytes: 80589
+*  HTML Response Bytes: 80603
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 81616
-*  Image Response Bytes: 632596
-*  JS Response Bytes: 239236
+*  Image Response Bytes: 607071
+*  JS Response Bytes: 239233
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1267
 

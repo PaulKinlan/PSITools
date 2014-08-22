@@ -24,11 +24,11 @@ title: http://www.makemytrip.com/
 
 *  HTML Response Bytes: 37341
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 112340
-*  Image Response Bytes: 126428
-*  JS Response Bytes: 368265
+*  CSS Response Bytes: 112123
+*  Image Response Bytes: 126429
+*  JS Response Bytes: 368274
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 3946
+*  Other Response Bytes: 3947
 
 ### Performance issues
 

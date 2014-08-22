@@ -18,15 +18,15 @@ title: http://touch.gaana.com/
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 53
-*  Total Request Bytes: 6415
+*  Total Request Bytes: 6427
 
 ### Response data
 
 *  HTML Response Bytes: 26098
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 37695
-*  Image Response Bytes: 181153
-*  JS Response Bytes: 579189
+*  Image Response Bytes: 181158
+*  JS Response Bytes: 579062
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1718
 

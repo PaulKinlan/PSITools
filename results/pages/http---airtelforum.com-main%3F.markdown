@@ -25,7 +25,7 @@ title: http://airtelforum.com/main?
 *  HTML Response Bytes: 8093
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 2789
-*  Image Response Bytes: 19141
+*  Image Response Bytes: 19142
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 504

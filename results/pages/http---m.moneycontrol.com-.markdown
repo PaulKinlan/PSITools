@@ -18,15 +18,15 @@ title: http://m.moneycontrol.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 36
-*  Total Request Bytes: 6400
+*  Total Request Bytes: 6404
 
 ### Response data
 
-*  HTML Response Bytes: 51944
+*  HTML Response Bytes: 52053
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 19204
-*  Image Response Bytes: 65002
-*  JS Response Bytes: 527567
+*  Image Response Bytes: 63791
+*  JS Response Bytes: 527673
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2193
 

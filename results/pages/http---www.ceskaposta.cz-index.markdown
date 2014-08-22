@@ -18,15 +18,15 @@ title: http://www.ceskaposta.cz/index
 *  Number of JS Resources: 27
 *  Number of CSS Resources: 16
 *  Nubmer of Static Resources: 67
-*  Total Request Bytes: 12997
+*  Total Request Bytes: 13471
 
 ### Response data
 
-*  HTML Response Bytes: 38832
+*  HTML Response Bytes: 39345
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 570543
-*  Image Response Bytes: 528562
-*  JS Response Bytes: 1024098
+*  Image Response Bytes: 528561
+*  JS Response Bytes: 1024137
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 853
 

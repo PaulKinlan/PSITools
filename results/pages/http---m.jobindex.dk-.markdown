@@ -22,7 +22,7 @@ title: http://m.jobindex.dk/
 
 ### Response data
 
-*  HTML Response Bytes: 349902
+*  HTML Response Bytes: 349896
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 85504
 *  Image Response Bytes: 87042
@@ -38,6 +38,7 @@ title: http://m.jobindex.dk/
 *  Avoid landing page redirects
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Prioritize visible content
+*  Improve server response time
 
 ### Mobile UX issues
 

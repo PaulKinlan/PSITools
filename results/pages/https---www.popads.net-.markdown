@@ -18,15 +18,15 @@ title: https://www.popads.net/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 31
-*  Total Request Bytes: 2699
+*  Total Request Bytes: 2700
 
 ### Response data
 
 *  HTML Response Bytes: 14543
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 7947
-*  Image Response Bytes: 314046
-*  JS Response Bytes: 130740
+*  Image Response Bytes: 314105
+*  JS Response Bytes: 130745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1422
 

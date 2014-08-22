@@ -22,7 +22,7 @@ title: http://m.nordea.dk/
 
 ### Response data
 
-*  HTML Response Bytes: 24921
+*  HTML Response Bytes: 24920
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 13743
 *  Image Response Bytes: 466955

@@ -18,15 +18,15 @@ title: http://tutorialspoint.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 32
-*  Total Request Bytes: 3941
+*  Total Request Bytes: 3940
 
 ### Response data
 
 *  HTML Response Bytes: 35166
 *  Text Response Bytes: 84063
 *  CSS Response Bytes: 103758
-*  Image Response Bytes: 391370
-*  JS Response Bytes: 414150
+*  Image Response Bytes: 391369
+*  JS Response Bytes: 414151
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 91888
 

@@ -18,15 +18,15 @@ title: http://www.tatadocomo.com/
 *  Number of JS Resources: 8
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 14
-*  Total Request Bytes: 6882
+*  Total Request Bytes: 6905
 
 ### Response data
 
 *  HTML Response Bytes: 24821
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 15748
-*  Image Response Bytes: 68473
-*  JS Response Bytes: 849220
+*  Image Response Bytes: 68496
+*  JS Response Bytes: 849219
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8218
 

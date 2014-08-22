@@ -13,22 +13,22 @@ title: http://m.libertatea.ro/
 
 ### Request information
 
-*  Number of Resources: 85
-*  Number of Hosts: 25
-*  Number of JS Resources: 31
+*  Number of Resources: 89
+*  Number of Hosts: 26
+*  Number of JS Resources: 32
 *  Number of CSS Resources: 3
-*  Nubmer of Static Resources: 54
-*  Total Request Bytes: 12586
+*  Nubmer of Static Resources: 57
+*  Total Request Bytes: 12908
 
 ### Response data
 
-*  HTML Response Bytes: 260039
+*  HTML Response Bytes: 230119
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 117610
-*  Image Response Bytes: 667638
-*  JS Response Bytes: 1156214
+*  CSS Response Bytes: 117623
+*  Image Response Bytes: 688874
+*  JS Response Bytes: 1312894
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 58737
+*  Other Response Bytes: 59035
 
 ### Performance issues
 

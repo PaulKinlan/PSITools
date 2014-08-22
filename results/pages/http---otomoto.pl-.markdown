@@ -13,22 +13,22 @@ title: http://otomoto.pl/
 
 ### Request information
 
-*  Number of Resources: 49
+*  Number of Resources: 50
 *  Number of Hosts: 21
 *  Number of JS Resources: 16
 *  Number of CSS Resources: 2
-*  Nubmer of Static Resources: 28
-*  Total Request Bytes: 6899
+*  Nubmer of Static Resources: 29
+*  Total Request Bytes: 6924
 
 ### Response data
 
-*  HTML Response Bytes: 34604
+*  HTML Response Bytes: 34786
 *  Text Response Bytes: 7424
 *  CSS Response Bytes: 242069
-*  Image Response Bytes: 720523
-*  JS Response Bytes: 494944
+*  Image Response Bytes: 750343
+*  JS Response Bytes: 494803
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 74367
+*  Other Response Bytes: 74368
 
 ### Performance issues
 

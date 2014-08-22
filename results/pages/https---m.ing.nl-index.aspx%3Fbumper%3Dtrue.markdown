@@ -18,17 +18,17 @@ title: https://m.ing.nl/index.aspx?bumper=true
 *  Number of JS Resources: 13
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 18
-*  Total Request Bytes: 3844
+*  Total Request Bytes: 3845
 
 ### Response data
 
 *  HTML Response Bytes: 11130
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 124900
-*  Image Response Bytes: 188848
-*  JS Response Bytes: 233070
+*  CSS Response Bytes: 124916
+*  Image Response Bytes: 188856
+*  JS Response Bytes: 233103
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2113
+*  Other Response Bytes: 2106
 
 ### Performance issues
 
@@ -38,7 +38,6 @@ title: https://m.ing.nl/index.aspx?bumper=true
 *  Avoid landing page redirects
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Enable compression
-*  Improve server response time
 
 ### Mobile UX issues
 

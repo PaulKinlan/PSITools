@@ -18,14 +18,14 @@ title: https://m.freelancer.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 9
-*  Total Request Bytes: 8868
+*  Total Request Bytes: 8860
 
 ### Response data
 
 *  HTML Response Bytes: 28939
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 83550
-*  Image Response Bytes: 174860
+*  Image Response Bytes: 174862
 *  JS Response Bytes: 566077
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11140

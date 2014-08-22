@@ -22,11 +22,11 @@ title: http://www.fotka.pl/
 
 ### Response data
 
-*  HTML Response Bytes: 42242
+*  HTML Response Bytes: 42243
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 10622
-*  Image Response Bytes: 46927
-*  JS Response Bytes: 145985
+*  Image Response Bytes: 46928
+*  JS Response Bytes: 145982
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1304
 

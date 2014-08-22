@@ -13,20 +13,20 @@ title: http://www.fiverr.com/
 
 ### Request information
 
-*  Number of Resources: 114
+*  Number of Resources: 113
 *  Number of Hosts: 34
 *  Number of JS Resources: 23
 *  Number of CSS Resources: 2
-*  Nubmer of Static Resources: 67
-*  Total Request Bytes: 17337
+*  Nubmer of Static Resources: 66
+*  Total Request Bytes: 17260
 
 ### Response data
 
 *  HTML Response Bytes: 76338
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 216560
-*  Image Response Bytes: 560094
-*  JS Response Bytes: 1511805
+*  Image Response Bytes: 587753
+*  JS Response Bytes: 1511780
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8746
 

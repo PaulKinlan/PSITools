@@ -18,15 +18,15 @@ title: http://mapy.cz/
 *  Number of JS Resources: 12
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 24
-*  Total Request Bytes: 3808
+*  Total Request Bytes: 3819
 
 ### Response data
 
 *  HTML Response Bytes: 17786
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 122413
+*  CSS Response Bytes: 122414
 *  Image Response Bytes: 147394
-*  JS Response Bytes: 1124736
+*  JS Response Bytes: 1124741
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 833
 

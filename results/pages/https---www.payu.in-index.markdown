@@ -18,17 +18,17 @@ title: https://www.payu.in/index
 *  Number of JS Resources: 12
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 16
-*  Total Request Bytes: 3341
+*  Total Request Bytes: 3340
 
 ### Response data
 
-*  HTML Response Bytes: 194938
+*  HTML Response Bytes: 195073
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 287072
-*  Image Response Bytes: 65694
-*  JS Response Bytes: 1482431
+*  CSS Response Bytes: 287066
+*  Image Response Bytes: 65678
+*  JS Response Bytes: 1482419
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1783
+*  Other Response Bytes: 1782
 
 ### Performance issues
 

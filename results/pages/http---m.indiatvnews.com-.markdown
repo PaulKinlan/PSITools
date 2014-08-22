@@ -13,22 +13,22 @@ title: http://m.indiatvnews.com/
 
 ### Request information
 
-*  Number of Resources: 91
-*  Number of Hosts: 31
-*  Number of JS Resources: 20
+*  Number of Resources: 90
+*  Number of Hosts: 30
+*  Number of JS Resources: 19
 *  Number of CSS Resources: 1
-*  Nubmer of Static Resources: 47
-*  Total Request Bytes: 16073
+*  Nubmer of Static Resources: 46
+*  Total Request Bytes: 16069
 
 ### Response data
 
-*  HTML Response Bytes: 174481
+*  HTML Response Bytes: 173021
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 32275
-*  Image Response Bytes: 193170
-*  JS Response Bytes: 709644
+*  Image Response Bytes: 191018
+*  JS Response Bytes: 696135
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 13354
+*  Other Response Bytes: 13373
 
 ### Performance issues
 

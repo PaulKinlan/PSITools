@@ -18,17 +18,17 @@ title: http://codecanyon.net/
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 82
-*  Total Request Bytes: 10969
+*  Total Request Bytes: 10975
 
 ### Response data
 
 *  HTML Response Bytes: 98469
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 268329
-*  Image Response Bytes: 829581
-*  JS Response Bytes: 517090
+*  CSS Response Bytes: 268330
+*  Image Response Bytes: 829610
+*  JS Response Bytes: 517092
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2055
+*  Other Response Bytes: 2033
 
 ### Performance issues
 

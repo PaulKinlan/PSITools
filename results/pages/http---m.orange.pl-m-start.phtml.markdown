@@ -22,11 +22,11 @@ title: http://m.orange.pl/m-start.phtml
 
 ### Response data
 
-*  HTML Response Bytes: 10412
+*  HTML Response Bytes: 10413
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 199402
-*  Image Response Bytes: 186759
-*  JS Response Bytes: 1343355
+*  Image Response Bytes: 186760
+*  JS Response Bytes: 1343351
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4599
 

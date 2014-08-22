@@ -18,17 +18,17 @@ title: http://www.2parale.ro/
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 27
-*  Total Request Bytes: 4776
+*  Total Request Bytes: 4832
 
 ### Response data
 
-*  HTML Response Bytes: 29362
+*  HTML Response Bytes: 29396
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 464413
-*  Image Response Bytes: 88638
-*  JS Response Bytes: 286207
+*  Image Response Bytes: 112325
+*  JS Response Bytes: 286209
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 7260
+*  Other Response Bytes: 7314
 
 ### Performance issues
 

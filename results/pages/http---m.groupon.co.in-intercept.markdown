@@ -18,7 +18,7 @@ title: http://m.groupon.co.in/intercept
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 18
-*  Total Request Bytes: 4298
+*  Total Request Bytes: 4295
 
 ### Response data
 

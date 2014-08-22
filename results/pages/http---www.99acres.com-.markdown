@@ -18,15 +18,15 @@ title: http://www.99acres.com/
 *  Number of JS Resources: 13
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 17
-*  Total Request Bytes: 3146
+*  Total Request Bytes: 3150
 
 ### Response data
 
-*  HTML Response Bytes: 7105
+*  HTML Response Bytes: 7108
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 110943
-*  Image Response Bytes: 48524
-*  JS Response Bytes: 501948
+*  Image Response Bytes: 48523
+*  JS Response Bytes: 501997
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 810
 

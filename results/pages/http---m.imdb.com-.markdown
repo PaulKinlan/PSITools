@@ -13,20 +13,20 @@ title: http://m.imdb.com/
 
 ### Request information
 
-*  Number of Resources: 146
+*  Number of Resources: 144
 *  Number of Hosts: 5
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 2
-*  Nubmer of Static Resources: 142
-*  Total Request Bytes: 18645
+*  Nubmer of Static Resources: 140
+*  Total Request Bytes: 18371
 
 ### Response data
 
-*  HTML Response Bytes: 24805
+*  HTML Response Bytes: 24694
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 20502
-*  Image Response Bytes: 803922
-*  JS Response Bytes: 397007
+*  Image Response Bytes: 801227
+*  JS Response Bytes: 397008
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 811
 

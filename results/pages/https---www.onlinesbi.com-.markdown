@@ -24,9 +24,9 @@ title: https://www.onlinesbi.com/
 
 *  HTML Response Bytes: 23508
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 12502
-*  Image Response Bytes: 44769
-*  JS Response Bytes: 108720
+*  CSS Response Bytes: 12501
+*  Image Response Bytes: 44749
+*  JS Response Bytes: 108719
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 412
 

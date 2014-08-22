@@ -13,22 +13,22 @@ title: http://www.weebly.com/
 
 ### Request information
 
-*  Number of Resources: 77
-*  Number of Hosts: 36
-*  Number of JS Resources: 12
+*  Number of Resources: 78
+*  Number of Hosts: 37
+*  Number of JS Resources: 14
 *  Number of CSS Resources: 3
-*  Nubmer of Static Resources: 16
-*  Total Request Bytes: 13901
+*  Nubmer of Static Resources: 17
+*  Total Request Bytes: 14018
 
 ### Response data
 
 *  HTML Response Bytes: 28466
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 207357
-*  Image Response Bytes: 639333
-*  JS Response Bytes: 423971
+*  Image Response Bytes: 639061
+*  JS Response Bytes: 437780
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 58708
+*  Other Response Bytes: 58234
 
 ### Performance issues
 

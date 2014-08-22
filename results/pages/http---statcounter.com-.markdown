@@ -26,7 +26,7 @@ title: http://statcounter.com/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 119805
 *  Image Response Bytes: 486837
-*  JS Response Bytes: 186817
+*  JS Response Bytes: 186783
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
 

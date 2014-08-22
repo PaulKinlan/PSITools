@@ -13,22 +13,22 @@ title: http://www.wikia.com/Wikia
 
 ### Request information
 
-*  Number of Resources: 68
-*  Number of Hosts: 36
-*  Number of JS Resources: 25
+*  Number of Resources: 50
+*  Number of Hosts: 28
+*  Number of JS Resources: 20
 *  Number of CSS Resources: 3
-*  Nubmer of Static Resources: 32
-*  Total Request Bytes: 19815
+*  Nubmer of Static Resources: 29
+*  Total Request Bytes: 12071
 
 ### Response data
 
-*  HTML Response Bytes: 33252
+*  HTML Response Bytes: 29380
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 57450
-*  Image Response Bytes: 411630
-*  JS Response Bytes: 880316
+*  Image Response Bytes: 406713
+*  JS Response Bytes: 751160
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 191527
+*  Other Response Bytes: 187192
 
 ### Performance issues
 
@@ -38,7 +38,6 @@ title: http://www.wikia.com/Wikia
 *  Avoid landing page redirects
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Prefer asynchronous resources
-*  Enable compression
 
 ### Mobile UX issues
 

@@ -18,17 +18,17 @@ title: http://mobil.tdc.dk/
 *  Number of JS Resources: 20
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 56
-*  Total Request Bytes: 9253
+*  Total Request Bytes: 9251
 
 ### Response data
 
 *  HTML Response Bytes: 31092
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 85451
-*  Image Response Bytes: 1723751
-*  JS Response Bytes: 648459
+*  Image Response Bytes: 1723750
+*  JS Response Bytes: 648458
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1759
+*  Other Response Bytes: 1757
 
 ### Performance issues
 

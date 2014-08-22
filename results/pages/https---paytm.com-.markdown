@@ -18,17 +18,17 @@ title: https://paytm.com/
 *  Number of JS Resources: 8
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 33
-*  Total Request Bytes: 4803
+*  Total Request Bytes: 4808
 
 ### Response data
 
 *  HTML Response Bytes: 285056
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 229265
-*  Image Response Bytes: 222624
-*  JS Response Bytes: 915300
+*  Image Response Bytes: 222622
+*  JS Response Bytes: 915294
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 115343
+*  Other Response Bytes: 115345
 
 ### Performance issues
 

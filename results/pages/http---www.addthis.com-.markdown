@@ -18,15 +18,15 @@ title: http://www.addthis.com/
 *  Number of JS Resources: 17
 *  Number of CSS Resources: 9
 *  Nubmer of Static Resources: 54
-*  Total Request Bytes: 8212
+*  Total Request Bytes: 8219
 
 ### Response data
 
-*  HTML Response Bytes: 93248
+*  HTML Response Bytes: 93249
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 412823
-*  Image Response Bytes: 263586
-*  JS Response Bytes: 1229689
+*  CSS Response Bytes: 412830
+*  Image Response Bytes: 263632
+*  JS Response Bytes: 1147574
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56023
 

@@ -18,17 +18,17 @@ title: http://hinkhoj.com/
 *  Number of JS Resources: 23
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 43
-*  Total Request Bytes: 18897
+*  Total Request Bytes: 18915
 
 ### Response data
 
-*  HTML Response Bytes: 197715
+*  HTML Response Bytes: 197718
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 208727
-*  Image Response Bytes: 59894
-*  JS Response Bytes: 1496118
+*  Image Response Bytes: 59961
+*  JS Response Bytes: 1496127
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 113354
+*  Other Response Bytes: 113362
 
 ### Performance issues
 

@@ -18,17 +18,17 @@ title: http://www.myntra.com/
 *  Number of JS Resources: 17
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 18
-*  Total Request Bytes: 22846
+*  Total Request Bytes: 23023
 
 ### Response data
 
-*  HTML Response Bytes: 41740
+*  HTML Response Bytes: 44682
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 65030
-*  Image Response Bytes: 118466
-*  JS Response Bytes: 517450
+*  Image Response Bytes: 118463
+*  JS Response Bytes: 517455
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 22829
+*  Other Response Bytes: 23019
 
 ### Performance issues
 

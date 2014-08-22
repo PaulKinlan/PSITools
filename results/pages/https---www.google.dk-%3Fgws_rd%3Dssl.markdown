@@ -18,15 +18,15 @@ title: https://www.google.dk/?gws_rd=ssl
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 3204
+*  Total Request Bytes: 3156
 
 ### Response data
 
-*  HTML Response Bytes: 67209
+*  HTML Response Bytes: 67113
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 79101
-*  JS Response Bytes: 379816
+*  Image Response Bytes: 79100
+*  JS Response Bytes: 379825
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1734
 

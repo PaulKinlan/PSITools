@@ -18,14 +18,14 @@ title: http://www.saavn.com/
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 1387
+*  Total Request Bytes: 1386
 
 ### Response data
 
 *  HTML Response Bytes: 3043
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 13650
-*  Image Response Bytes: 5376
+*  Image Response Bytes: 5375
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30162

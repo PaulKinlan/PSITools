@@ -13,22 +13,22 @@ title: http://m.demotywatory.pl/
 
 ### Request information
 
-*  Number of Resources: 65
+*  Number of Resources: 67
 *  Number of Hosts: 27
-*  Number of JS Resources: 19
+*  Number of JS Resources: 20
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 36
-*  Total Request Bytes: 10593
+*  Total Request Bytes: 10961
 
 ### Response data
 
-*  HTML Response Bytes: 168662
+*  HTML Response Bytes: 168985
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 65481
-*  Image Response Bytes: 3049593
-*  JS Response Bytes: 1013853
+*  CSS Response Bytes: 65478
+*  Image Response Bytes: 3016398
+*  JS Response Bytes: 1013957
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 3184
+*  Other Response Bytes: 4029
 
 ### Performance issues
 

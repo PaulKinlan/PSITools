@@ -18,17 +18,17 @@ title: https://m.monsterindia.com/my/login.html?login_flage=1
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 20
-*  Total Request Bytes: 7435
+*  Total Request Bytes: 7430
 
 ### Response data
 
 *  HTML Response Bytes: 27895
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 141846
-*  Image Response Bytes: 44042
+*  Image Response Bytes: 44043
 *  JS Response Bytes: 403641
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 5451
+*  Other Response Bytes: 5448
 
 ### Performance issues
 

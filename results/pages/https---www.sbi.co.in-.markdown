@@ -24,8 +24,8 @@ title: https://www.sbi.co.in/
 
 *  HTML Response Bytes: 36638
 *  Text Response Bytes: 330901
-*  CSS Response Bytes: 33773
-*  Image Response Bytes: 1204815
+*  CSS Response Bytes: 33774
+*  Image Response Bytes: 1204819
 *  JS Response Bytes: 325183
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 429

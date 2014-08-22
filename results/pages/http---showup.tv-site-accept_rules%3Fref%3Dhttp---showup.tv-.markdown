@@ -24,11 +24,11 @@ title: http://showup.tv/site/accept_rules?ref=http://showup.tv/
 
 *  HTML Response Bytes: 3355
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 81052
-*  Image Response Bytes: 138381
+*  CSS Response Bytes: 81062
+*  Image Response Bytes: 138386
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 416
+*  Other Response Bytes: 421
 
 ### Performance issues
 

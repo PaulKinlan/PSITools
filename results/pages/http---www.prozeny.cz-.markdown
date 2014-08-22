@@ -18,15 +18,15 @@ title: http://www.prozeny.cz/
 *  Number of JS Resources: 24
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 46
-*  Total Request Bytes: 9919
+*  Total Request Bytes: 9916
 
 ### Response data
 
-*  HTML Response Bytes: 49972
+*  HTML Response Bytes: 49974
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 25461
-*  Image Response Bytes: 686401
-*  JS Response Bytes: 480496
+*  Image Response Bytes: 686400
+*  JS Response Bytes: 480492
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1152
 

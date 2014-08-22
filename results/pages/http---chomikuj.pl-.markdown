@@ -26,7 +26,7 @@ title: http://chomikuj.pl/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 7246
 *  Image Response Bytes: 326961
-*  JS Response Bytes: 93365
+*  JS Response Bytes: 93364
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
 

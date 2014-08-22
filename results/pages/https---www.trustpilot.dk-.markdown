@@ -18,17 +18,17 @@ title: https://www.trustpilot.dk/
 *  Number of JS Resources: 19
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 32
-*  Total Request Bytes: 6295
+*  Total Request Bytes: 6298
 
 ### Response data
 
-*  HTML Response Bytes: 54354
+*  HTML Response Bytes: 54353
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 153322
-*  Image Response Bytes: 151144
-*  JS Response Bytes: 965220
+*  Image Response Bytes: 137646
+*  JS Response Bytes: 968305
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 924
+*  Other Response Bytes: 926
 
 ### Performance issues
 

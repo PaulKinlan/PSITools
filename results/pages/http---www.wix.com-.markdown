@@ -18,15 +18,15 @@ title: http://www.wix.com/
 *  Number of JS Resources: 13
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 50
-*  Total Request Bytes: 8326
+*  Total Request Bytes: 8316
 
 ### Response data
 
-*  HTML Response Bytes: 34110
+*  HTML Response Bytes: 34202
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 175111
-*  Image Response Bytes: 1072701
-*  JS Response Bytes: 1381685
+*  Image Response Bytes: 1072700
+*  JS Response Bytes: 1381686
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 856
 

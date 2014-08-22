@@ -13,22 +13,22 @@ title: http://www.nazwa.pl/
 
 ### Request information
 
-*  Number of Resources: 176
+*  Number of Resources: 174
 *  Number of Hosts: 40
 *  Number of JS Resources: 38
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 100
-*  Total Request Bytes: 33445
+*  Total Request Bytes: 31568
 
 ### Response data
 
-*  HTML Response Bytes: 157975
+*  HTML Response Bytes: 159326
 *  Text Response Bytes: 65048
-*  CSS Response Bytes: 214767
-*  Image Response Bytes: 286176
-*  JS Response Bytes: 1911009
+*  CSS Response Bytes: 214770
+*  Image Response Bytes: 285271
+*  JS Response Bytes: 1911677
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 16627
+*  Other Response Bytes: 15116
 
 ### Performance issues
 
@@ -37,6 +37,7 @@ title: http://www.nazwa.pl/
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Enable compression
+*  Improve server response time
 
 ### Mobile UX issues
 

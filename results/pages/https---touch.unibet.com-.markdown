@@ -26,7 +26,7 @@ title: https://touch.unibet.com/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 182658
 *  Image Response Bytes: 345189
-*  JS Response Bytes: 391209
+*  JS Response Bytes: 391197
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 757
 

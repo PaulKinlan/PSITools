@@ -13,22 +13,22 @@ title: https://www.odesk.com/
 
 ### Request information
 
-*  Number of Resources: 57
+*  Number of Resources: 58
 *  Number of Hosts: 22
-*  Number of JS Resources: 15
+*  Number of JS Resources: 16
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 31
-*  Total Request Bytes: 11279
+*  Total Request Bytes: 11885
 
 ### Response data
 
 *  HTML Response Bytes: 30424
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 198403
-*  Image Response Bytes: 465291
-*  JS Response Bytes: 530784
+*  Image Response Bytes: 465292
+*  JS Response Bytes: 531168
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 8007
+*  Other Response Bytes: 8006
 
 ### Performance issues
 

@@ -13,22 +13,22 @@ title: http://m.ebay.in/
 
 ### Request information
 
-*  Number of Resources: 67
-*  Number of Hosts: 30
+*  Number of Resources: 68
+*  Number of Hosts: 31
 *  Number of JS Resources: 14
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 20
-*  Total Request Bytes: 12830
+*  Total Request Bytes: 12865
 
 ### Response data
 
-*  HTML Response Bytes: 40546
+*  HTML Response Bytes: 40537
 *  Text Response Bytes: 388
 *  CSS Response Bytes: 89309
-*  Image Response Bytes: 143346
-*  JS Response Bytes: 250855
+*  Image Response Bytes: 143848
+*  JS Response Bytes: 250856
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 10875
+*  Other Response Bytes: 10625
 
 ### Performance issues
 

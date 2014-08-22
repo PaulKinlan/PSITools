@@ -13,22 +13,22 @@ title: http://www.hostgator.com/
 
 ### Request information
 
-*  Number of Resources: 111
-*  Number of Hosts: 37
+*  Number of Resources: 105
+*  Number of Hosts: 33
 *  Number of JS Resources: 21
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 45
-*  Total Request Bytes: 18733
+*  Total Request Bytes: 16665
 
 ### Response data
 
-*  HTML Response Bytes: 29464
+*  HTML Response Bytes: 27848
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 73587
-*  Image Response Bytes: 239418
-*  JS Response Bytes: 812748
+*  CSS Response Bytes: 73681
+*  Image Response Bytes: 238623
+*  JS Response Bytes: 812056
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 21323
+*  Other Response Bytes: 19381
 
 ### Performance issues
 
@@ -36,7 +36,6 @@ title: http://www.hostgator.com/
 ### Performance issues
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
-*  Enable compression
 
 ### Mobile UX issues
 

@@ -18,13 +18,13 @@ title: http://m.click.in/
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 12
-*  Total Request Bytes: 2779
+*  Total Request Bytes: 2777
 
 ### Response data
 
 *  HTML Response Bytes: 3992
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 1501
+*  CSS Response Bytes: 1502
 *  Image Response Bytes: 127431
 *  JS Response Bytes: 79534
 *  Flash Response Bytes: 0

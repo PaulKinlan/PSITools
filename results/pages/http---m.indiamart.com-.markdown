@@ -18,15 +18,15 @@ title: http://m.indiamart.com/
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 19
-*  Total Request Bytes: 2795
+*  Total Request Bytes: 2786
 
 ### Response data
 
-*  HTML Response Bytes: 76142
+*  HTML Response Bytes: 76671
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 85695
-*  JS Response Bytes: 533450
+*  JS Response Bytes: 533457
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1092
 

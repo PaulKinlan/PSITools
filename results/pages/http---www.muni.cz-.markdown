@@ -18,14 +18,14 @@ title: http://www.muni.cz/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 9
-*  Total Request Bytes: 3913
+*  Total Request Bytes: 3912
 
 ### Response data
 
-*  HTML Response Bytes: 22582
+*  HTML Response Bytes: 22583
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 140390
-*  Image Response Bytes: 120019
+*  Image Response Bytes: 120020
 *  JS Response Bytes: 163663
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 415

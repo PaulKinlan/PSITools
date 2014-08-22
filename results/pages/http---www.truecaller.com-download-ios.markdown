@@ -18,17 +18,17 @@ title: http://www.truecaller.com/download/ios
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 8
-*  Total Request Bytes: 1798
+*  Total Request Bytes: 1796
 
 ### Response data
 
 *  HTML Response Bytes: 12166
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 141491
-*  Image Response Bytes: 60546
-*  JS Response Bytes: 162068
+*  Image Response Bytes: 60545
+*  JS Response Bytes: 162069
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1587
+*  Other Response Bytes: 1585
 
 ### Performance issues
 

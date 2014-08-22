@@ -13,22 +13,22 @@ title: http://moz.com/
 
 ### Request information
 
-*  Number of Resources: 83
+*  Number of Resources: 82
 *  Number of Hosts: 28
 *  Number of JS Resources: 17
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 29
-*  Total Request Bytes: 15548
+*  Total Request Bytes: 15820
 
 ### Response data
 
-*  HTML Response Bytes: 30384
-*  Text Response Bytes: 78
-*  CSS Response Bytes: 163138
-*  Image Response Bytes: 369358
+*  HTML Response Bytes: 30368
+*  Text Response Bytes: 412
+*  CSS Response Bytes: 163134
+*  Image Response Bytes: 369672
 *  JS Response Bytes: 833590
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 15654
+*  Other Response Bytes: 15248
 
 ### Performance issues
 

@@ -18,14 +18,14 @@ title: https://www.adcash.com/en/index.php
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 13
 *  Nubmer of Static Resources: 34
-*  Total Request Bytes: 2986
+*  Total Request Bytes: 2988
 
 ### Response data
 
 *  HTML Response Bytes: 27686
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 58751
-*  Image Response Bytes: 862124
+*  Image Response Bytes: 862125
 *  JS Response Bytes: 361605
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 717

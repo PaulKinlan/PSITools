@@ -28,7 +28,7 @@ title: http://m.price.ro/
 *  Image Response Bytes: 2697
 *  JS Response Bytes: 837
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 11535
+*  Other Response Bytes: 11704
 
 ### Performance issues
 

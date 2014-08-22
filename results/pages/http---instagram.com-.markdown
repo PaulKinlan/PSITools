@@ -25,7 +25,7 @@ title: http://instagram.com/
 *  HTML Response Bytes: 10875
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 66539
-*  Image Response Bytes: 452901
+*  Image Response Bytes: 452902
 *  JS Response Bytes: 181088
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
