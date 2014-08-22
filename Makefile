@@ -1,11 +1,24 @@
 clean: cleanresults
-	rm -f output/*
+	rm -rf output/*
 	rm -rf ./_site/
 	rm *.tmp
 
 cleanresults:
-	rm -f results/*.markdown
-	rm -f results/sites/*.markdown
+	rm -rf results/*.markdown
+	rm -rf results/sites/*.markdown
+
+#  Apps
+
+output/apps/%: source/apps/%
+	./run.py source/apps/$* > $@
+
+apps-%.tmp: output/apps/apps-%
+	./generate-table.py ./output/apps/apps-$* > $@
+	./generate-page-result.py ./output/apps/apps-$*
+
+results/apps/apps-%.markdown: apps-%.tmp generate-table.py
+	cat _frontmatter/apps apps-$*.tmp > $@
+	rm -f %*
 
 #  Singapore top 100 
 output/singapore-top-100:
@@ -356,6 +369,8 @@ results/wordpress.markdown: wordpress.tmp generate-table.py
 	rm -f wordpress.tmp
 
 # Main process
+
+apps: results/apps/apps-aa.markdown
 
 mergepsi: results/singapore-top-100.markdown results/philippines-top-100.markdown results/malaysian-top-100.markdown results/indonesian-top-100.markdown results/nigerian-top-100.markdown results/kenyan-top-100.markdown results/south-african-top-100.markdown results/indian-top-100.markdown results/dutch-top-100.markdown results/danish-top-100.markdown results/romainian-top-100.markdown results/polish-top-100.markdown results/czech-republic-top-100.markdown results/italian-top-100.markdown results/spanish-top-100.markdown results/computers.markdown results/sports.markdown results/south-korean-top-100.markdown results/shopping.markdown results/thai-top-100.markdown results/german-top-100.markdown results/uk-top-100.markdown results/japanese-top-100.markdown results/french-top-100.markdown results/wordpress.markdown results/news.markdown results/themeforest-livepopular.markdown results/alexa-top-10.markdown results/webdeveloperdocs.markdown
 
