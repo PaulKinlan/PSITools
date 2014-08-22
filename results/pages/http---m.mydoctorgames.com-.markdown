@@ -13,19 +13,19 @@ title: http://m.mydoctorgames.com/
 
 ### Request information
 
-*  Number of Resources: 66
+*  Number of Resources: 65
 *  Number of Hosts: 8
 *  Number of JS Resources: 19
 *  Number of CSS Resources: 5
-*  Nubmer of Static Resources: 40
-*  Total Request Bytes: 8667
+*  Nubmer of Static Resources: 39
+*  Total Request Bytes: 8549
 
 ### Response data
 
-*  HTML Response Bytes: 130109
+*  HTML Response Bytes: 129798
 *  Text Response Bytes: 36813
 *  CSS Response Bytes: 97581
-*  Image Response Bytes: 1480558
+*  Image Response Bytes: 1479661
 *  JS Response Bytes: 693665
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 321164

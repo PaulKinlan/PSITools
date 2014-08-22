@@ -18,14 +18,14 @@ title: http://web.stmath.com/entrance/noWebTabletSupport.html
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 5
-*  Total Request Bytes: 599
+*  Total Request Bytes: 591
 
 ### Response data
 
 *  HTML Response Bytes: 2152
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 138467
+*  Image Response Bytes: 138466
 *  JS Response Bytes: 29228
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 75

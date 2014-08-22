@@ -13,22 +13,22 @@ title: http://www.adobe.com/m/flashplayer/apple.html
 
 ### Request information
 
-*  Number of Resources: 27
+*  Number of Resources: 26
 *  Number of Hosts: 10
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 6916
+*  Total Request Bytes: 6233
 
 ### Response data
 
 *  HTML Response Bytes: 4384
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 738
-*  Image Response Bytes: 51684
+*  Image Response Bytes: 51681
 *  JS Response Bytes: 165875
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 7535
+*  Other Response Bytes: 6387
 
 ### Performance issues
 

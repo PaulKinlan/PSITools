@@ -18,17 +18,17 @@ title: http://www.buydomains.com/lander/gameideal.com?domain=gameideal.com&utm_s
 *  Number of JS Resources: 26
 *  Number of CSS Resources: 13
 *  Nubmer of Static Resources: 48
-*  Total Request Bytes: 12698
+*  Total Request Bytes: 12696
 
 ### Response data
 
-*  HTML Response Bytes: 104923
-*  Text Response Bytes: 32150
+*  HTML Response Bytes: 104922
+*  Text Response Bytes: 32174
 *  CSS Response Bytes: 260793
-*  Image Response Bytes: 264911
-*  JS Response Bytes: 924073
+*  Image Response Bytes: 264912
+*  JS Response Bytes: 924072
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 82672
+*  Other Response Bytes: 82669
 
 ### Performance issues
 
@@ -37,6 +37,7 @@ title: http://www.buydomains.com/lander/gameideal.com?domain=gameideal.com&utm_s
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Enable compression
+*  Improve server response time
 
 ### Mobile UX issues
 

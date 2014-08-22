@@ -18,14 +18,14 @@ title: http://candycrushsagainfo.com/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 1313
+*  Total Request Bytes: 1312
 
 ### Response data
 
-*  HTML Response Bytes: 10958
+*  HTML Response Bytes: 10936
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 1330
+*  Image Response Bytes: 1305
 *  JS Response Bytes: 167682
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

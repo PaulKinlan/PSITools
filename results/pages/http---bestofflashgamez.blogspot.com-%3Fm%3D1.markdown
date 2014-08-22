@@ -26,7 +26,7 @@ title: http://bestofflashgamez.blogspot.com/?m=1
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 21447
 *  Image Response Bytes: 19270
-*  JS Response Bytes: 248930
+*  JS Response Bytes: 248929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 572
 

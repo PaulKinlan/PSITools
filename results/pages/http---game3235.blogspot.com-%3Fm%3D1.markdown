@@ -25,7 +25,7 @@ title: http://game3235.blogspot.com/?m=1
 *  HTML Response Bytes: 56601
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 21447
-*  Image Response Bytes: 5484
+*  Image Response Bytes: 5483
 *  JS Response Bytes: 314308
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 559

@@ -18,7 +18,7 @@ title: http://watchmoviesapp.blogspot.com/?m=1
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 997
+*  Total Request Bytes: 996
 
 ### Response data
 

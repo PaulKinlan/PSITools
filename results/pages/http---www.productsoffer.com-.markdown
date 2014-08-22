@@ -17,7 +17,7 @@ title: http://www.productsoffer.com/
 *  Number of Hosts: 5
 *  Number of JS Resources: 0
 *  Number of CSS Resources: 0
-*  Nubmer of Static Resources: 10
+*  Nubmer of Static Resources: 11
 *  Total Request Bytes: 808
 
 ### Response data
