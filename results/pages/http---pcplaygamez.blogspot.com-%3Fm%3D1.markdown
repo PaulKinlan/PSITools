@@ -18,15 +18,15 @@ title: http://pcplaygamez.blogspot.com/?m=1
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 13
-*  Total Request Bytes: 3627
+*  Total Request Bytes: 3647
 
 ### Response data
 
 *  HTML Response Bytes: 60775
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 21447
-*  Image Response Bytes: 19270
-*  JS Response Bytes: 596438
+*  CSS Response Bytes: 21448
+*  Image Response Bytes: 19271
+*  JS Response Bytes: 596079
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2964
 
@@ -36,8 +36,6 @@ title: http://pcplaygamez.blogspot.com/?m=1
 ### Performance issues
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
-*  Prefer asynchronous resources
-*  Improve server response time
 
 ### Mobile UX issues
 

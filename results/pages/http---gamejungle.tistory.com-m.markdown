@@ -18,15 +18,15 @@ title: http://gamejungle.tistory.com/m
 *  Number of JS Resources: 18
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 21
-*  Total Request Bytes: 2459
+*  Total Request Bytes: 2449
 
 ### Response data
 
 *  HTML Response Bytes: 10821
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 74028
-*  Image Response Bytes: 5211
-*  JS Response Bytes: 418105
+*  Image Response Bytes: 5215
+*  JS Response Bytes: 418320
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 479
 
@@ -37,7 +37,6 @@ title: http://gamejungle.tistory.com/m
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Enable compression
-*  Improve server response time
 
 ### Mobile UX issues
 

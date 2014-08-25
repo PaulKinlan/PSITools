@@ -22,13 +22,13 @@ title: http://mus1.badoo.com/en/?c=badoo.webredirect&promo=true
 
 ### Response data
 
-*  HTML Response Bytes: 5019
+*  HTML Response Bytes: 5018
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 6881
-*  Image Response Bytes: 122129
-*  JS Response Bytes: 33474
+*  CSS Response Bytes: 6880
+*  Image Response Bytes: 122126
+*  JS Response Bytes: 33473
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1354
+*  Other Response Bytes: 1353
 
 ### Performance issues
 
@@ -37,8 +37,6 @@ title: http://mus1.badoo.com/en/?c=badoo.webredirect&promo=true
 
 *  Avoid landing page redirects
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
-*  Inline render-blocking CSS
-*  Improve server response time
 
 ### Mobile UX issues
 

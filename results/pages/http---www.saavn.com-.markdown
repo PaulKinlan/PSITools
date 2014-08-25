@@ -13,22 +13,22 @@ title: http://www.saavn.com/
 
 ### Request information
 
-*  Number of Resources: 10
-*  Number of Hosts: 6
+*  Number of Resources: 9
+*  Number of Hosts: 5
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 1386
+*  Total Request Bytes: 1260
 
 ### Response data
 
-*  HTML Response Bytes: 3043
+*  HTML Response Bytes: 2948
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 13650
-*  Image Response Bytes: 5375
+*  Image Response Bytes: 5376
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 30162
+*  Other Response Bytes: 29669
 
 ### Performance issues
 
@@ -36,8 +36,6 @@ title: http://www.saavn.com/
 ### Performance issues
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
-*  Inline render-blocking CSS
-*  Improve server response time
 
 ### Mobile UX issues
 

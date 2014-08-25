@@ -18,17 +18,17 @@ title: https://accounts.google.com/ServiceLogin?service=CPanel&passive=1209600&c
 *  Number of JS Resources: 0
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 1195
+*  Total Request Bytes: 1193
 
 ### Response data
 
-*  HTML Response Bytes: 57722
+*  HTML Response Bytes: 57764
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 23353
+*  Image Response Bytes: 23356
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 51487
+*  Other Response Bytes: 51489
 
 ### Performance issues
 
@@ -36,7 +36,6 @@ title: https://accounts.google.com/ServiceLogin?service=CPanel&passive=1209600&c
 ### Performance issues
 
 *  Avoid landing page redirects
-*  Improve server response time
 
 ### Mobile UX issues
 

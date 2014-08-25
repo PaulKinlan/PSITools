@@ -18,7 +18,7 @@ title: http://m.2-player-games.com/
 *  Number of JS Resources: 14
 *  Number of CSS Resources: 9
 *  Nubmer of Static Resources: 26
-*  Total Request Bytes: 4847
+*  Total Request Bytes: 4837
 
 ### Response data
 
@@ -26,7 +26,7 @@ title: http://m.2-player-games.com/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 119812
 *  Image Response Bytes: 1634902
-*  JS Response Bytes: 180284
+*  JS Response Bytes: 180285
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 321077
 
