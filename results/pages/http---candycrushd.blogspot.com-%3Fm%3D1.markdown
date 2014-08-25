@@ -24,9 +24,9 @@ title: http://candycrushd.blogspot.com/?m=1
 
 *  HTML Response Bytes: 59351
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 21447
-*  Image Response Bytes: 13732
-*  JS Response Bytes: 595803
+*  CSS Response Bytes: 21448
+*  Image Response Bytes: 13733
+*  JS Response Bytes: 596079
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2964
 

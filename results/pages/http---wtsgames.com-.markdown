@@ -22,10 +22,10 @@ title: http://wtsgames.com/
 
 ### Response data
 
-*  HTML Response Bytes: 10883
+*  HTML Response Bytes: 10870
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 1305
+*  Image Response Bytes: 1330
 *  JS Response Bytes: 167612
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

@@ -13,12 +13,12 @@ title: https://app.smartsheet.com/b/home?lx=R9xhtwXFuRKcUJBtZS717A&s=32&m=107
 
 ### Request information
 
-*  Number of Resources: 5
-*  Number of Hosts: 3
+*  Number of Resources: 4
+*  Number of Hosts: 2
 *  Number of JS Resources: 0
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 749
+*  Total Request Bytes: 534
 
 ### Response data
 
@@ -28,7 +28,7 @@ title: https://app.smartsheet.com/b/home?lx=R9xhtwXFuRKcUJBtZS717A&s=32&m=107
 *  Image Response Bytes: 16489
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 607
+*  Other Response Bytes: 0
 
 ### Performance issues
 
@@ -36,9 +36,7 @@ title: https://app.smartsheet.com/b/home?lx=R9xhtwXFuRKcUJBtZS717A&s=32&m=107
 ### Performance issues
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
-*  Inline render-blocking CSS
 *  Enable compression
-*  Improve server response time
 
 ### Mobile UX issues
 

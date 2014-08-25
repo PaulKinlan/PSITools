@@ -22,11 +22,11 @@ title: http://cya.domanskination.com/
 
 ### Response data
 
-*  HTML Response Bytes: 70125
+*  HTML Response Bytes: 70130
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 80466
-*  Image Response Bytes: 20023
-*  JS Response Bytes: 272499
+*  Image Response Bytes: 20047
+*  JS Response Bytes: 272511
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56077
 

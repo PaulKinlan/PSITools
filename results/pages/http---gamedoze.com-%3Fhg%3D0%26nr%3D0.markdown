@@ -18,7 +18,7 @@ title: http://gamedoze.com/?hg=0&nr=0
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 5
-*  Total Request Bytes: 895
+*  Total Request Bytes: 891
 
 ### Response data
 
@@ -28,7 +28,7 @@ title: http://gamedoze.com/?hg=0&nr=0
 *  Image Response Bytes: 3204
 *  JS Response Bytes: 195702
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 152
+*  Other Response Bytes: 150
 
 ### Performance issues
 

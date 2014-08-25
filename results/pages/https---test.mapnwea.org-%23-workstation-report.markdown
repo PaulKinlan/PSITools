@@ -18,15 +18,15 @@ title: https://test.mapnwea.org/#/workstation-report
 *  Number of JS Resources: 25
 *  Number of CSS Resources: 16
 *  Nubmer of Static Resources: 49
-*  Total Request Bytes: 4436
+*  Total Request Bytes: 4523
 
 ### Response data
 
-*  HTML Response Bytes: 11242
+*  HTML Response Bytes: 11260
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 225647
-*  Image Response Bytes: 133496
-*  JS Response Bytes: 1919205
+*  Image Response Bytes: 133514
+*  JS Response Bytes: 1919206
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 101
 

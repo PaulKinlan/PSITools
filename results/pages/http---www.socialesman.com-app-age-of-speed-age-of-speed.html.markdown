@@ -18,17 +18,17 @@ title: http://www.socialesman.com/app/age-of-speed/age-of-speed.html
 *  Number of JS Resources: 24
 *  Number of CSS Resources: 19
 *  Nubmer of Static Resources: 44
-*  Total Request Bytes: 5431
+*  Total Request Bytes: 5430
 
 ### Response data
 
 *  HTML Response Bytes: 0
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 570312
-*  Image Response Bytes: 14500
-*  JS Response Bytes: 824330
+*  CSS Response Bytes: 570309
+*  Image Response Bytes: 14501
+*  JS Response Bytes: 824764
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 97408
+*  Other Response Bytes: 97410
 
 ### Performance issues
 

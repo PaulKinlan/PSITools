@@ -18,17 +18,17 @@ title: http://www.videodownloadercheap.info/internet-download-manager-idm.html
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 20
-*  Total Request Bytes: 5593
+*  Total Request Bytes: 5591
 
 ### Response data
 
-*  HTML Response Bytes: 146778
+*  HTML Response Bytes: 146743
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 30657
-*  Image Response Bytes: 4830
+*  Image Response Bytes: 4825
 *  JS Response Bytes: 499418
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 73064
+*  Other Response Bytes: 73063
 
 ### Performance issues
 

@@ -25,7 +25,7 @@ title: https://hosted169.renlearn.com/332622/
 *  HTML Response Bytes: 18988
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 223326
-*  Image Response Bytes: 133044
+*  Image Response Bytes: 133049
 *  JS Response Bytes: 381277
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

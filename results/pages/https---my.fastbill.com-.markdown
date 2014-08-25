@@ -26,7 +26,7 @@ title: https://my.fastbill.com/
 *  Text Response Bytes: 107050
 *  CSS Response Bytes: 161612
 *  Image Response Bytes: 78515
-*  JS Response Bytes: 865809
+*  JS Response Bytes: 865811
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
 

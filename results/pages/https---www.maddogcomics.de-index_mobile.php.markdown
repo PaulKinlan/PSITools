@@ -18,17 +18,17 @@ title: https://www.maddogcomics.de/index_mobile.php
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 8
-*  Total Request Bytes: 727
+*  Total Request Bytes: 739
 
 ### Response data
 
 *  HTML Response Bytes: 3485
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 32487
-*  Image Response Bytes: 37458
-*  JS Response Bytes: 141035
+*  CSS Response Bytes: 32486
+*  Image Response Bytes: 37460
+*  JS Response Bytes: 141036
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 9179
+*  Other Response Bytes: 9345
 
 ### Performance issues
 

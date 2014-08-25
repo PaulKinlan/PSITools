@@ -22,10 +22,10 @@ title: http://ww35.televisiononline.info/
 
 ### Response data
 
-*  HTML Response Bytes: 20195
+*  HTML Response Bytes: 20323
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 2099
+*  Image Response Bytes: 2098
 *  JS Response Bytes: 173157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 217

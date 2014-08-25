@@ -18,15 +18,15 @@ title: http://temgames.com/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 1236
+*  Total Request Bytes: 1246
 
 ### Response data
 
-*  HTML Response Bytes: 10986
+*  HTML Response Bytes: 11130
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 1329
-*  JS Response Bytes: 167716
+*  Image Response Bytes: 1304
+*  JS Response Bytes: 167694
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
 

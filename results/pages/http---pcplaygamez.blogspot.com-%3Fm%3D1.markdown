@@ -18,7 +18,7 @@ title: http://pcplaygamez.blogspot.com/?m=1
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 13
-*  Total Request Bytes: 3647
+*  Total Request Bytes: 3625
 
 ### Response data
 
@@ -26,7 +26,7 @@ title: http://pcplaygamez.blogspot.com/?m=1
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 21448
 *  Image Response Bytes: 19271
-*  JS Response Bytes: 596079
+*  JS Response Bytes: 596723
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2964
 

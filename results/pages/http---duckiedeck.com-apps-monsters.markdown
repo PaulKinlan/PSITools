@@ -25,10 +25,10 @@ title: http://duckiedeck.com/apps/monsters
 *  HTML Response Bytes: 13075
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 65062
-*  Image Response Bytes: 749126
+*  Image Response Bytes: 749125
 *  JS Response Bytes: 161388
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 68105
+*  Other Response Bytes: 68098
 
 ### Performance issues
 

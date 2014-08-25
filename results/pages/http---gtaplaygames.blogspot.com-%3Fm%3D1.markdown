@@ -24,9 +24,9 @@ title: http://gtaplaygames.blogspot.com/?m=1
 
 *  HTML Response Bytes: 51739
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 21447
-*  Image Response Bytes: 1708
-*  JS Response Bytes: 248929
+*  CSS Response Bytes: 21448
+*  Image Response Bytes: 1709
+*  JS Response Bytes: 249555
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 564
 

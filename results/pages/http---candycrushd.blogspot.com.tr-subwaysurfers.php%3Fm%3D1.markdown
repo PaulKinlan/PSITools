@@ -18,15 +18,15 @@ title: http://candycrushd.blogspot.com.tr/subwaysurfers.php?m=1
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 6
-*  Total Request Bytes: 1187
+*  Total Request Bytes: 1185
 
 ### Response data
 
-*  HTML Response Bytes: 575
+*  HTML Response Bytes: 573
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 21447
+*  CSS Response Bytes: 21448
 *  Image Response Bytes: 804
-*  JS Response Bytes: 248908
+*  JS Response Bytes: 248931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44861
 
@@ -36,7 +36,6 @@ title: http://candycrushd.blogspot.com.tr/subwaysurfers.php?m=1
 ### Performance issues
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
-*  Prefer asynchronous resources
 
 ### Mobile UX issues
 

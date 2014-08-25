@@ -13,22 +13,22 @@ title: http://bestaudiblebooks.com/
 
 ### Request information
 
-*  Number of Resources: 29
+*  Number of Resources: 30
 *  Number of Hosts: 11
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 20
-*  Total Request Bytes: 3821
+*  Total Request Bytes: 4002
 
 ### Response data
 
-*  HTML Response Bytes: 60574
+*  HTML Response Bytes: 60408
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 187831
-*  Image Response Bytes: 2439570
-*  JS Response Bytes: 1371127
+*  CSS Response Bytes: 187832
+*  Image Response Bytes: 2439569
+*  JS Response Bytes: 1371132
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1278
+*  Other Response Bytes: 2158
 
 ### Performance issues
 
