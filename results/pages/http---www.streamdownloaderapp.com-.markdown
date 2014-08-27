@@ -18,15 +18,15 @@ title: http://www.streamdownloaderapp.com/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 8
-*  Total Request Bytes: 2471
+*  Total Request Bytes: 2470
 
 ### Response data
 
-*  HTML Response Bytes: 14700
+*  HTML Response Bytes: 14657
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 5997
+*  CSS Response Bytes: 5996
 *  Image Response Bytes: 46306
-*  JS Response Bytes: 209104
+*  JS Response Bytes: 209185
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
 

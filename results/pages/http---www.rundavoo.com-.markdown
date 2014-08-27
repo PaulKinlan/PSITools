@@ -18,17 +18,17 @@ title: http://www.rundavoo.com/
 *  Number of JS Resources: 18
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 40
-*  Total Request Bytes: 6964
+*  Total Request Bytes: 6961
 
 ### Response data
 
 *  HTML Response Bytes: 62862
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 228146
+*  CSS Response Bytes: 228145
 *  Image Response Bytes: 943867
-*  JS Response Bytes: 1151020
+*  JS Response Bytes: 1151102
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1460
+*  Other Response Bytes: 1461
 
 ### Performance issues
 

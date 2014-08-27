@@ -18,14 +18,14 @@ title: http://ww35.televisiononline.info/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 1650
+*  Total Request Bytes: 1694
 
 ### Response data
 
-*  HTML Response Bytes: 20323
+*  HTML Response Bytes: 20419
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 2098
+*  Image Response Bytes: 2097
 *  JS Response Bytes: 173157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 217

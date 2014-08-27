@@ -24,7 +24,7 @@ title: https://accounts.zoho.com/login?servicename=ZohoCreator&serviceurl=https%
 
 *  HTML Response Bytes: 35198
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 17064
+*  CSS Response Bytes: 17062
 *  Image Response Bytes: 50866
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0

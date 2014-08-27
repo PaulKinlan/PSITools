@@ -26,7 +26,7 @@ title: http://m.slotsbase.com/iphone-casinos.html
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 3496
 *  Image Response Bytes: 11967
-*  JS Response Bytes: 50482
+*  JS Response Bytes: 50481
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 672
 

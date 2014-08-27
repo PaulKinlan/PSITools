@@ -22,13 +22,13 @@ title: http://godparticlebible.com/
 
 ### Response data
 
-*  HTML Response Bytes: 71713
+*  HTML Response Bytes: 72105
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 191532
-*  Image Response Bytes: 185750
-*  JS Response Bytes: 1959259
+*  Image Response Bytes: 185749
+*  JS Response Bytes: 1959636
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 97123
+*  Other Response Bytes: 97124
 
 ### Performance issues
 

@@ -18,7 +18,7 @@ title: http://www.castropedia.com/cgi-sys/suspendedpage.cgi
 *  Number of JS Resources: 0
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 0
-*  Total Request Bytes: 301
+*  Total Request Bytes: 296
 
 ### Response data
 

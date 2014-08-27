@@ -13,22 +13,22 @@ title: https://sites.google.com/a/westby-norse.org/official-district-website/stu
 
 ### Request information
 
-*  Number of Resources: 26
-*  Number of Hosts: 8
+*  Number of Resources: 27
+*  Number of Hosts: 9
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 20
-*  Total Request Bytes: 4775
+*  Total Request Bytes: 4809
 
 ### Response data
 
 *  HTML Response Bytes: 60887
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 201057
-*  Image Response Bytes: 227093
-*  JS Response Bytes: 453420
+*  Image Response Bytes: 227092
+*  JS Response Bytes: 453792
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 25105
+*  Other Response Bytes: 25855
 
 ### Performance issues
 

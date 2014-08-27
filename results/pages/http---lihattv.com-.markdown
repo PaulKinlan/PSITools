@@ -25,7 +25,7 @@ title: http://lihattv.com/
 *  HTML Response Bytes: 1276
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 2346
+*  Image Response Bytes: 2344
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
@@ -35,7 +35,6 @@ title: http://lihattv.com/
 
 ### Performance issues
 
-*  Improve server response time
 
 ### Mobile UX issues
 

@@ -18,17 +18,17 @@ title: http://chromewebgamesv1.blogspot.com/2013/06/subway-surfers.html?m=1
 *  Number of JS Resources: 19
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 26
-*  Total Request Bytes: 6134
+*  Total Request Bytes: 6132
 
 ### Response data
 
-*  HTML Response Bytes: 92787
+*  HTML Response Bytes: 92816
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 38386
-*  Image Response Bytes: 39370
-*  JS Response Bytes: 1067611
+*  CSS Response Bytes: 38388
+*  Image Response Bytes: 39375
+*  JS Response Bytes: 1067920
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 97991
+*  Other Response Bytes: 97992
 
 ### Performance issues
 

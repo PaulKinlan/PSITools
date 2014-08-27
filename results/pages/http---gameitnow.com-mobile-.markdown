@@ -18,17 +18,17 @@ title: http://gameitnow.com/mobile/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 22720
+*  Total Request Bytes: 22726
 
 ### Response data
 
-*  HTML Response Bytes: 2654687
+*  HTML Response Bytes: 2654735
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 1829
 *  Image Response Bytes: 96243
-*  JS Response Bytes: 180864
+*  JS Response Bytes: 180854
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 88343
+*  Other Response Bytes: 88353
 
 ### Performance issues
 

@@ -18,7 +18,7 @@ title: http://cdn.mobicow.com/feed/detect
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 1
-*  Total Request Bytes: 444
+*  Total Request Bytes: 442
 
 ### Response data
 
@@ -26,7 +26,7 @@ title: http://cdn.mobicow.com/feed/detect
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 0
-*  JS Response Bytes: 11330
+*  JS Response Bytes: 11322
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 130
 

@@ -25,8 +25,8 @@ title: http://3000gaming.com/game/angry-birds-hd-official-game/
 *  HTML Response Bytes: 0
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 28073
-*  Image Response Bytes: 44064
-*  JS Response Bytes: 164393
+*  Image Response Bytes: 44065
+*  JS Response Bytes: 164474
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8745
 

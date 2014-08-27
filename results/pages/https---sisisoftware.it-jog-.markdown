@@ -18,15 +18,15 @@ title: https://sisisoftware.it/jog/
 *  Number of JS Resources: 12
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 12
-*  Total Request Bytes: 2376
+*  Total Request Bytes: 2377
 
 ### Response data
 
-*  HTML Response Bytes: 5557
+*  HTML Response Bytes: 5556
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 189887
-*  Image Response Bytes: 48993
-*  JS Response Bytes: 826920
+*  Image Response Bytes: 48994
+*  JS Response Bytes: 827000
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
 

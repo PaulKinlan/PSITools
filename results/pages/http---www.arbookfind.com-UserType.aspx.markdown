@@ -13,22 +13,22 @@ title: http://www.arbookfind.com/UserType.aspx
 
 ### Request information
 
-*  Number of Resources: 15
+*  Number of Resources: 14
 *  Number of Hosts: 2
 *  Number of JS Resources: 0
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 11
-*  Total Request Bytes: 1125
+*  Total Request Bytes: 1077
 
 ### Response data
 
-*  HTML Response Bytes: 7889
+*  HTML Response Bytes: 7950
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 6897
 *  Image Response Bytes: 84590
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2209
+*  Other Response Bytes: 1774
 
 ### Performance issues
 

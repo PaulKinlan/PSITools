@@ -18,15 +18,15 @@ title: http://gowheatley.com/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 1251
+*  Total Request Bytes: 1262
 
 ### Response data
 
-*  HTML Response Bytes: 10808
+*  HTML Response Bytes: 10899
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 1304
-*  JS Response Bytes: 167695
+*  Image Response Bytes: 1330
+*  JS Response Bytes: 167697
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
 

@@ -18,17 +18,17 @@ title: http://www.crazydomains.com/help/whois/
 *  Number of JS Resources: 20
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 33
-*  Total Request Bytes: 6624
+*  Total Request Bytes: 6626
 
 ### Response data
 
 *  HTML Response Bytes: 45480
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 587959
-*  Image Response Bytes: 489042
-*  JS Response Bytes: 312667
+*  CSS Response Bytes: 587961
+*  Image Response Bytes: 489065
+*  JS Response Bytes: 312664
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 45829
+*  Other Response Bytes: 45938
 
 ### Performance issues
 

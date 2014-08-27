@@ -18,7 +18,7 @@ title: http://www.barbie-games.com/
 *  Number of JS Resources: 8
 *  Number of CSS Resources: 9
 *  Nubmer of Static Resources: 29
-*  Total Request Bytes: 3944
+*  Total Request Bytes: 3943
 
 ### Response data
 

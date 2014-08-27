@@ -22,11 +22,11 @@ title: http://www.onlinebestgamesin.blogspot.in/2014/02/candy-crush-suga.html?m=
 
 ### Response data
 
-*  HTML Response Bytes: 81928
+*  HTML Response Bytes: 80498
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 21448
 *  Image Response Bytes: 64668
-*  JS Response Bytes: 611450
+*  JS Response Bytes: 610804
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95602
 

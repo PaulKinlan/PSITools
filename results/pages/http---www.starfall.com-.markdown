@@ -22,10 +22,10 @@ title: http://www.starfall.com/
 
 ### Response data
 
-*  HTML Response Bytes: 16028
+*  HTML Response Bytes: 16033
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 2502
-*  Image Response Bytes: 196840
+*  Image Response Bytes: 196827
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

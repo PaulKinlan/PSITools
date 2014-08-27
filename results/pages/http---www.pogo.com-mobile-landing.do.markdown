@@ -18,17 +18,17 @@ title: http://www.pogo.com/mobile/landing.do
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 5
-*  Total Request Bytes: 2666
+*  Total Request Bytes: 2761
 
 ### Response data
 
-*  HTML Response Bytes: 3554
+*  HTML Response Bytes: 3636
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 229663
-*  JS Response Bytes: 43267
+*  JS Response Bytes: 43269
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1418
+*  Other Response Bytes: 1419
 
 ### Performance issues
 

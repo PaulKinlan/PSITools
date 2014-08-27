@@ -22,11 +22,11 @@ title: http://playbejeweledgame.blogspot.com/?m=1
 
 ### Response data
 
-*  HTML Response Bytes: 72894
+*  HTML Response Bytes: 72893
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 66778
 *  Image Response Bytes: 2097
-*  JS Response Bytes: 788562
+*  JS Response Bytes: 788542
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 292894
 

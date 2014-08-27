@@ -18,7 +18,7 @@ title: http://pipigames.com/?hg=0&nr=0
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 8
-*  Total Request Bytes: 1032
+*  Total Request Bytes: 1011
 
 ### Response data
 
@@ -28,7 +28,7 @@ title: http://pipigames.com/?hg=0&nr=0
 *  Image Response Bytes: 49375
 *  JS Response Bytes: 111266
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 436
+*  Other Response Bytes: 422
 
 ### Performance issues
 

@@ -22,11 +22,11 @@ title: http://moregameplay.blogspot.com/?m=1
 
 ### Response data
 
-*  HTML Response Bytes: 46507
+*  HTML Response Bytes: 46506
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 21448
-*  Image Response Bytes: 8596
-*  JS Response Bytes: 248909
+*  Image Response Bytes: 8595
+*  JS Response Bytes: 249577
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 563
 

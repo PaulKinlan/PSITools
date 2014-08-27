@@ -18,17 +18,17 @@ title: http://m.kongregate.com/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 23
-*  Total Request Bytes: 4877
+*  Total Request Bytes: 4893
 
 ### Response data
 
 *  HTML Response Bytes: 28711
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 32196
-*  Image Response Bytes: 254228
-*  JS Response Bytes: 324787
+*  CSS Response Bytes: 32195
+*  Image Response Bytes: 254229
+*  JS Response Bytes: 324774
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2627
+*  Other Response Bytes: 2635
 
 ### Performance issues
 

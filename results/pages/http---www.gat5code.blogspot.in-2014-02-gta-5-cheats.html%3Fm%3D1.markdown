@@ -22,11 +22,11 @@ title: http://www.gat5code.blogspot.in/2014/02/gta-5-cheats.html?m=1
 
 ### Response data
 
-*  HTML Response Bytes: 133843
+*  HTML Response Bytes: 133841
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 38388
 *  Image Response Bytes: 421743
-*  JS Response Bytes: 1121262
+*  JS Response Bytes: 1121212
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95580
 

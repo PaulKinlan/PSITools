@@ -13,22 +13,22 @@ title: https://secure.vendhq.com/chrome/signup
 
 ### Request information
 
-*  Number of Resources: 15
+*  Number of Resources: 14
 *  Number of Hosts: 3
 *  Number of JS Resources: 8
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 12
-*  Total Request Bytes: 1483
+*  Total Request Bytes: 1431
 
 ### Response data
 
-*  HTML Response Bytes: 15500
+*  HTML Response Bytes: 15497
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 320922
-*  Image Response Bytes: 5117
-*  JS Response Bytes: 1315754
+*  CSS Response Bytes: 320919
+*  Image Response Bytes: 5115
+*  JS Response Bytes: 1315739
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 430
+*  Other Response Bytes: 0
 
 ### Performance issues
 

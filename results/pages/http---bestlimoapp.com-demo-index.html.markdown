@@ -26,7 +26,7 @@ title: http://bestlimoapp.com/demo/index.html
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 59951
 *  Image Response Bytes: 1153304
-*  JS Response Bytes: 268726
+*  JS Response Bytes: 268806
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59
 

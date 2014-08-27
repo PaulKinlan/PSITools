@@ -18,14 +18,14 @@ title: http://tvpc.bestmoviestodownload.com/
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 8
-*  Total Request Bytes: 3978
+*  Total Request Bytes: 3979
 
 ### Response data
 
-*  HTML Response Bytes: 28837
+*  HTML Response Bytes: 28847
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 12105
-*  Image Response Bytes: 42088
+*  Image Response Bytes: 42087
 *  JS Response Bytes: 259015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 437

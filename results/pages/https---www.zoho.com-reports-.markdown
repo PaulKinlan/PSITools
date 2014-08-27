@@ -18,17 +18,17 @@ title: https://www.zoho.com/reports/
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 28
-*  Total Request Bytes: 10520
+*  Total Request Bytes: 10502
 
 ### Response data
 
-*  HTML Response Bytes: 48741
+*  HTML Response Bytes: 48908
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 198844
-*  Image Response Bytes: 1437603
-*  JS Response Bytes: 1270662
+*  Image Response Bytes: 1437589
+*  JS Response Bytes: 1270661
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 59356
+*  Other Response Bytes: 59355
 
 ### Performance issues
 

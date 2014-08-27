@@ -18,15 +18,15 @@ title: http://buxle.com/
 *  Number of JS Resources: 15
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 157
-*  Total Request Bytes: 12385
+*  Total Request Bytes: 12377
 
 ### Response data
 
-*  HTML Response Bytes: 148502
+*  HTML Response Bytes: 149955
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 7622
 *  Image Response Bytes: 1668616
-*  JS Response Bytes: 1030276
+*  JS Response Bytes: 1030966
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95762
 

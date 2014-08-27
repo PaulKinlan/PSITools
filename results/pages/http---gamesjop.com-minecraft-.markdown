@@ -22,10 +22,10 @@ title: http://gamesjop.com/minecraft/
 
 ### Response data
 
-*  HTML Response Bytes: 10881
+*  HTML Response Bytes: 10789
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 1329
+*  Image Response Bytes: 1304
 *  JS Response Bytes: 167708
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

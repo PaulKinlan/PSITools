@@ -18,15 +18,15 @@ title: http://www.brainpop.com/about/mobile/
 *  Number of JS Resources: 12
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 24
-*  Total Request Bytes: 2703
+*  Total Request Bytes: 2706
 
 ### Response data
 
-*  HTML Response Bytes: 11686
+*  HTML Response Bytes: 11779
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 8907
 *  Image Response Bytes: 265862
-*  JS Response Bytes: 307025
+*  JS Response Bytes: 307024
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 539
 

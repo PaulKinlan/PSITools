@@ -13,22 +13,22 @@ title: http://www.xdownloadforpc.com/
 
 ### Request information
 
-*  Number of Resources: 31
-*  Number of Hosts: 10
+*  Number of Resources: 29
+*  Number of Hosts: 8
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 5
-*  Nubmer of Static Resources: 16
-*  Total Request Bytes: 5727
+*  Nubmer of Static Resources: 15
+*  Total Request Bytes: 5359
 
 ### Response data
 
-*  HTML Response Bytes: 209684
+*  HTML Response Bytes: 219818
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 58996
-*  Image Response Bytes: 1866
+*  Image Response Bytes: 1126
 *  JS Response Bytes: 393497
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 66161
+*  Other Response Bytes: 65085
 
 ### Performance issues
 

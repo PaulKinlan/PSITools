@@ -18,15 +18,15 @@ title: http://candycrushd.blogspot.com/?m=1
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 12
-*  Total Request Bytes: 3508
+*  Total Request Bytes: 3506
 
 ### Response data
 
-*  HTML Response Bytes: 59351
+*  HTML Response Bytes: 59379
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 21448
 *  Image Response Bytes: 13733
-*  JS Response Bytes: 596079
+*  JS Response Bytes: 596724
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2964
 

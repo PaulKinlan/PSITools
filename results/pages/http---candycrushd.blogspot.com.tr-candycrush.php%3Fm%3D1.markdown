@@ -22,7 +22,7 @@ title: http://candycrushd.blogspot.com.tr/candycrush.php?m=1
 
 ### Response data
 
-*  HTML Response Bytes: 575
+*  HTML Response Bytes: 574
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 21448
 *  Image Response Bytes: 804

@@ -22,10 +22,10 @@ title: http://pazargame.com/
 
 ### Response data
 
-*  HTML Response Bytes: 10894
+*  HTML Response Bytes: 10698
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 1304
+*  Image Response Bytes: 1330
 *  JS Response Bytes: 167619
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

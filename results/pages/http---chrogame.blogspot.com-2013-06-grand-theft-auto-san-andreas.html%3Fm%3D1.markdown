@@ -18,17 +18,17 @@ title: http://chrogame.blogspot.com/2013/06/grand-theft-auto-san-andreas.html?m=
 *  Number of JS Resources: 19
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 26
-*  Total Request Bytes: 6141
+*  Total Request Bytes: 6139
 
 ### Response data
 
-*  HTML Response Bytes: 93113
+*  HTML Response Bytes: 93114
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 38386
-*  Image Response Bytes: 93310
-*  JS Response Bytes: 1067624
+*  CSS Response Bytes: 38388
+*  Image Response Bytes: 93316
+*  JS Response Bytes: 1067928
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 98001
+*  Other Response Bytes: 98002
 
 ### Performance issues
 
@@ -36,8 +36,6 @@ title: http://chrogame.blogspot.com/2013/06/grand-theft-auto-san-andreas.html?m=
 ### Performance issues
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
-*  Prefer asynchronous resources
-*  Improve server response time
 
 ### Mobile UX issues
 
