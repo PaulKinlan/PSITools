@@ -18,14 +18,14 @@ title: http://wtsgames.com/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 1236
+*  Total Request Bytes: 1246
 
 ### Response data
 
 *  HTML Response Bytes: 10675
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 1304
+*  Image Response Bytes: 1305
 *  JS Response Bytes: 167612
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0

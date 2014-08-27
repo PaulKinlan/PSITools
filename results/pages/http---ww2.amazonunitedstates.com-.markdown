@@ -18,15 +18,15 @@ title: http://ww2.amazonunitedstates.com/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 7
-*  Total Request Bytes: 4815
+*  Total Request Bytes: 4850
 
 ### Response data
 
-*  HTML Response Bytes: 72076
+*  HTML Response Bytes: 63667
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 9783
-*  Image Response Bytes: 2986
-*  JS Response Bytes: 229919
+*  CSS Response Bytes: 9784
+*  Image Response Bytes: 2987
+*  JS Response Bytes: 229920
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21031
 

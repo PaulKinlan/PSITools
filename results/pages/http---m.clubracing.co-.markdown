@@ -18,7 +18,7 @@ title: http://m.clubracing.co/
 *  Number of JS Resources: 15
 *  Number of CSS Resources: 9
 *  Nubmer of Static Resources: 28
-*  Total Request Bytes: 4611
+*  Total Request Bytes: 4603
 
 ### Response data
 

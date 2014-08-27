@@ -13,12 +13,12 @@ title: https://accounts.google.com/o/openid2/auth
 
 ### Request information
 
-*  Number of Resources: 4
-*  Number of Hosts: 3
+*  Number of Resources: 5
+*  Number of Hosts: 4
 *  Number of JS Resources: 0
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 1
-*  Total Request Bytes: 284
+*  Total Request Bytes: 287
 
 ### Response data
 
@@ -28,7 +28,7 @@ title: https://accounts.google.com/o/openid2/auth
 *  Image Response Bytes: 8746
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2560
+*  Other Response Bytes: 3114
 
 ### Performance issues
 

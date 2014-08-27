@@ -18,17 +18,17 @@ title: http://www.fullmovies.com/?hop=cozden72
 *  Number of JS Resources: 7
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 46
-*  Total Request Bytes: 7260
+*  Total Request Bytes: 7187
 
 ### Response data
 
-*  HTML Response Bytes: 58126
+*  HTML Response Bytes: 58105
 *  Text Response Bytes: 126062
 *  CSS Response Bytes: 223990
 *  Image Response Bytes: 4949557
-*  JS Response Bytes: 419484
+*  JS Response Bytes: 419485
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1560
+*  Other Response Bytes: 1508
 
 ### Performance issues
 

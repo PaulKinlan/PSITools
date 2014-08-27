@@ -62,7 +62,7 @@ for site in sorted_sites:
   image_url = site["image_url"]
 
   speed_rules = [u"AvoidLandingPageRedirects", u"MinimizeRenderBlockingResources", u"InlineRenderBlockingCss", u"PreferAsyncResources", u"PrioritizeVisibleContent", u"EnableGzipCompression", u"ServerResponseTime"]
-  ux_rules = [u"AvoidPlugins", u"Configure Viewport", u"SizeContentToViewport", u"SizeTapTargetsAppropriately", u"UseLegibleFontSizes"]
+  ux_rules = [u"AvoidPlugins", u"ConfigureViewport", u"SizeContentToViewport", u"SizeTapTargetsAppropriately", u"UseLegibleFontSizes"]
 
 
   print "\n"

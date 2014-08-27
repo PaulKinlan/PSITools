@@ -22,11 +22,11 @@ title: http://subwaysurfers9.blogspot.se/?m=1
 
 ### Response data
 
-*  HTML Response Bytes: 59098
+*  HTML Response Bytes: 59099
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 21448
 *  Image Response Bytes: 6342
-*  JS Response Bytes: 596079
+*  JS Response Bytes: 596080
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2967
 

@@ -18,15 +18,15 @@ title: http://m.best1000games.com/
 *  Number of JS Resources: 22
 *  Number of CSS Resources: 12
 *  Nubmer of Static Resources: 25
-*  Total Request Bytes: 7452
+*  Total Request Bytes: 7446
 
 ### Response data
 
-*  HTML Response Bytes: 93262
+*  HTML Response Bytes: 93319
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 190628
 *  Image Response Bytes: 2014921
-*  JS Response Bytes: 580527
+*  JS Response Bytes: 580531
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 334876
 

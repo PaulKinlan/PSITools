@@ -18,17 +18,17 @@ title: http://www.newyorkspeed.com/mobilehome.aspx
 *  Number of JS Resources: 17
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 9
-*  Total Request Bytes: 8329
+*  Total Request Bytes: 8323
 
 ### Response data
 
-*  HTML Response Bytes: 107890
+*  HTML Response Bytes: 108231
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 49454
-*  Image Response Bytes: 1836055
-*  JS Response Bytes: 842170
+*  Image Response Bytes: 1833820
+*  JS Response Bytes: 849587
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 3722
+*  Other Response Bytes: 3603
 
 ### Performance issues
 

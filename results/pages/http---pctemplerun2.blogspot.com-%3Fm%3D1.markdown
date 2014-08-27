@@ -26,7 +26,7 @@ title: http://pctemplerun2.blogspot.com/?m=1
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 46653
 *  Image Response Bytes: 2951
-*  JS Response Bytes: 41102
+*  JS Response Bytes: 41101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19232
 

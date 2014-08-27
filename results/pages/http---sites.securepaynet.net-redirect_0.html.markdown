@@ -18,7 +18,7 @@ title: http://sites.securepaynet.net/redirect_0.html
 *  Number of JS Resources: 0
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 1
-*  Total Request Bytes: 184
+*  Total Request Bytes: 189
 
 ### Response data
 

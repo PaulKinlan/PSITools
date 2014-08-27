@@ -18,17 +18,17 @@ title: http://getcu3er.com/
 *  Number of JS Resources: 14
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 58
-*  Total Request Bytes: 11023
+*  Total Request Bytes: 11004
 
 ### Response data
 
-*  HTML Response Bytes: 102960
+*  HTML Response Bytes: 103253
 *  Text Response Bytes: 4354
 *  CSS Response Bytes: 75868
-*  Image Response Bytes: 1073560
-*  JS Response Bytes: 944024
+*  Image Response Bytes: 1073605
+*  JS Response Bytes: 951497
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 8698
+*  Other Response Bytes: 8589
 
 ### Performance issues
 

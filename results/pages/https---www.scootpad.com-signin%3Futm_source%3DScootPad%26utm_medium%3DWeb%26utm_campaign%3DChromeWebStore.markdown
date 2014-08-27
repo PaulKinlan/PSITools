@@ -22,7 +22,7 @@ title: https://www.scootpad.com/signin?utm_source=ScootPad&utm_medium=Web&utm_ca
 
 ### Response data
 
-*  HTML Response Bytes: 37354
+*  HTML Response Bytes: 37443
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 80763
 *  Image Response Bytes: 32923

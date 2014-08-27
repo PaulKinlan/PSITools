@@ -18,17 +18,17 @@ title: http://classicgamesx.blogspot.com.tr/2014/03/flappy-bird.html?m=1
 *  Number of JS Resources: 21
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 39
-*  Total Request Bytes: 5514
+*  Total Request Bytes: 5518
 
 ### Response data
 
-*  HTML Response Bytes: 100421
+*  HTML Response Bytes: 100496
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 44055
-*  Image Response Bytes: 151371
-*  JS Response Bytes: 1068760
+*  Image Response Bytes: 150503
+*  JS Response Bytes: 1076415
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 96483
+*  Other Response Bytes: 96487
 
 ### Performance issues
 
