@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://users.mandoocms.com/?request=pp9hnpxdYqCjZIplk66daKiXZFCdkpjep9Pnp2Odyp-i3eVe15TR2Nyj0dGjXtPhnZlTkJSyh46RUGCQn1A
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Social media marketing tool to develop online marketing campaigns](https://users.mandoocms.com/?request=pp9hnpxdYqCjZIplk66daKiXZFCdkpjep9Pnp2Odyp-i3eVe15TR2Nyj0dGjXtPhnZlTkJSyh46RUGCQn1A)
 
@@ -29,9 +33,6 @@ title: https://users.mandoocms.com/?request=pp9hnpxdYqCjZIplk66daKiXZFCdkpjep9Pn
 *  JS Response Bytes: 182806
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3800
-
-### Performance issues
-
 
 ### Performance issues
 

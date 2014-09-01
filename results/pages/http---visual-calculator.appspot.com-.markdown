@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://visual-calculator.appspot.com/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://visual-calculator.appspot.com/)
 
@@ -29,9 +31,6 @@ title: http://visual-calculator.appspot.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

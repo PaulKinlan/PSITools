@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gdgt.io/tools/docconverter
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Document Converter - gdgt.io](http://www.gdgt.io/tools/docconverter)
 
@@ -29,9 +33,6 @@ title: http://www.gdgt.io/tools/docconverter
 *  JS Response Bytes: 1620852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121068
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/magnets/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Magnets](http://www.fupa.com/apps/magnets/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/magnets/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

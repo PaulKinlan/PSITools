@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://game.dummiesstudio.com/cgi-sys/suspendedpage.cgi
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Contact Support](http://game.dummiesstudio.com/cgi-sys/suspendedpage.cgi)
 
@@ -29,9 +31,6 @@ title: http://game.dummiesstudio.com/cgi-sys/suspendedpage.cgi
 *  JS Response Bytes: 9100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 530
-
-### Performance issues
-
 
 ### Performance issues
 

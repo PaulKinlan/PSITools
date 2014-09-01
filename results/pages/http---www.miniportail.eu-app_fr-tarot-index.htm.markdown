@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.miniportail.eu/app_fr/tarot/index.htm
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [TAROT (FR)](http://www.miniportail.eu/app_fr/tarot/index.htm)
 
@@ -29,9 +31,6 @@ title: http://www.miniportail.eu/app_fr/tarot/index.htm
 *  JS Response Bytes: 519899
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1018
-
-### Performance issues
-
 
 ### Performance issues
 

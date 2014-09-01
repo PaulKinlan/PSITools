@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.socialesman.com/app/snow-riders/snow-riders.html
+MinimizeRenderBlockingResources: true
 ---
 ## [Clone doesnt have this page](http://www.socialesman.com/app/snow-riders/snow-riders.html)
 
@@ -29,9 +30,6 @@ title: http://www.socialesman.com/app/snow-riders/snow-riders.html
 *  JS Response Bytes: 824763
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97410
-
-### Performance issues
-
 
 ### Performance issues
 

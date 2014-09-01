@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://friv3d.com/?=404;http://www.friv3d.com:80/shopping-street.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [friv3d.com](http://friv3d.com/?=404;http://www.friv3d.com:80/shopping-street.html&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://friv3d.com/?=404;http://www.friv3d.com:80/shopping-street.html&req
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.carloshurtado.net/mirrorsEdge/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Page not found | Carlos Hurtado](http://www.carloshurtado.net/mirrorsEdge/)
 
@@ -29,9 +32,6 @@ title: http://www.carloshurtado.net/mirrorsEdge/
 *  JS Response Bytes: 371627
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 60172
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.netsolitaire.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Net Solitaire | Free Online Solitaire](http://www.netsolitaire.com/)
 
@@ -29,9 +32,6 @@ title: http://www.netsolitaire.com/
 *  JS Response Bytes: 1929212
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96073
-
-### Performance issues
-
 
 ### Performance issues
 

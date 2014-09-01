@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://dimonvideo.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Программы Android » DimonVideo - мобильный портал](http://dimonvideo.ru/)
 
@@ -29,9 +34,6 @@ title: http://dimonvideo.ru/
 *  JS Response Bytes: 618523
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1462
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.classmarker.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Testing Free Quiz Maker Create the Best web-based quizzes ClassMarker](http://www.classmarker.com/)
 
@@ -29,9 +34,6 @@ title: http://www.classmarker.com/
 *  JS Response Bytes: 1109552
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2858
-
-### Performance issues
-
 
 ### Performance issues
 

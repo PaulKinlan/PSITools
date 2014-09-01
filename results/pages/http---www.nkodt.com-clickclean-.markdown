@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.nkodt.com/clickclean/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.nkodt.com/clickclean/)
 
@@ -29,9 +31,6 @@ title: http://www.nkodt.com/clickclean/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

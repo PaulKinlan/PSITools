@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.touchapp.co.uk/iphone/html5/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [HTML 5 Reference](http://www.touchapp.co.uk/iphone/html5/)
 
@@ -29,9 +36,6 @@ title: http://www.touchapp.co.uk/iphone/html5/
 *  JS Response Bytes: 563679
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

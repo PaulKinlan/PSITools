@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.hikr.hangkantenpolitur.de/
+UseLegibleFontSizes: true
 ---
 ## [503 Service Temporarily Unavailable](http://www.hikr.hangkantenpolitur.de/)
 
@@ -29,9 +30,6 @@ title: http://www.hikr.hangkantenpolitur.de/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 528
-
-### Performance issues
-
 
 ### Performance issues
 

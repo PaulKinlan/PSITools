@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://quotlr.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Quotlr - famous quotes and words to remember](http://quotlr.com/)
 
@@ -29,9 +32,6 @@ title: http://quotlr.com/
 *  JS Response Bytes: 196290
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 512
-
-### Performance issues
-
 
 ### Performance issues
 

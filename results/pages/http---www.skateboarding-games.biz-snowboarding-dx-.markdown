@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/snowboarding-dx/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Snowboarding DX game](http://www.skateboarding-games.biz/snowboarding-dx/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/snowboarding-dx/
 *  JS Response Bytes: 2123813
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 123732
-
-### Performance issues
-
 
 ### Performance issues
 

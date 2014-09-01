@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.jogosapps.com.br/portal/multiplayer/tank-ball
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [404 - Page not found](http://www.jogosapps.com.br/portal/multiplayer/tank-ball)
 
@@ -29,9 +31,6 @@ title: http://www.jogosapps.com.br/portal/multiplayer/tank-ball
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1185
-
-### Performance issues
-
 
 ### Performance issues
 

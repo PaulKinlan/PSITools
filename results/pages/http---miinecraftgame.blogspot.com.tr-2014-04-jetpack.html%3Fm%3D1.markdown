@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://miinecraftgame.blogspot.com.tr/2014/04/jetpack.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [minecraft new full game: jetpack](http://miinecraftgame.blogspot.com.tr/2014/04/jetpack.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://miinecraftgame.blogspot.com.tr/2014/04/jetpack.html?m=1
 *  JS Response Bytes: 720873
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95580
-
-### Performance issues
-
 
 ### Performance issues
 

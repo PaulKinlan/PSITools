@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.adobe.com/m/flashplayer/apple.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Adobe Flash Player](http://www.adobe.com/m/flashplayer/apple.html)
 
@@ -13,12 +16,12 @@ title: http://www.adobe.com/m/flashplayer/apple.html
 
 ### Request information
 
-*  Number of Resources: 57
+*  Number of Resources: 56
 *  Number of Hosts: 14
 *  Number of JS Resources: 32
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 38
-*  Total Request Bytes: 10229
+*  Total Request Bytes: 9552
 
 ### Response data
 
@@ -28,10 +31,7 @@ title: http://www.adobe.com/m/flashplayer/apple.html
 *  Image Response Bytes: 81324
 *  JS Response Bytes: 714051
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 7458
-
-### Performance issues
-
+*  Other Response Bytes: 6304
 
 ### Performance issues
 

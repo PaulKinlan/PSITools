@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://poorgame.com/hay-day/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PoorGame.Com Play Game Flash Games – Hay Day](http://poorgame.com/hay-day/)
 
@@ -29,9 +33,6 @@ title: http://poorgame.com/hay-day/
 *  JS Response Bytes: 722570
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14561
-
-### Performance issues
-
 
 ### Performance issues
 

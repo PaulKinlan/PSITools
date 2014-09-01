@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://recipes.flowsoft7.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Recipes & Food Search](http://recipes.flowsoft7.com/)
 
@@ -29,9 +34,6 @@ title: http://recipes.flowsoft7.com/
 *  JS Response Bytes: 490871
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

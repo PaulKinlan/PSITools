@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/avalanch-penguin-adventure/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Avalanch Penguin Adventure game](http://www.skateboarding-games.biz/avalanch-penguin-adventure/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/avalanch-penguin-adventure/
 *  JS Response Bytes: 2123656
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122407
-
-### Performance issues
-
 
 ### Performance issues
 

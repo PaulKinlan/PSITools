@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://reviewstation.info/wordpress-hosting-comparitor/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [» WordPress Hosting ComparitorReview Station](http://reviewstation.info/wordpress-hosting-comparitor/)
 
@@ -29,9 +31,6 @@ title: http://reviewstation.info/wordpress-hosting-comparitor/
 *  JS Response Bytes: 1265544
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 294751
-
-### Performance issues
-
 
 ### Performance issues
 

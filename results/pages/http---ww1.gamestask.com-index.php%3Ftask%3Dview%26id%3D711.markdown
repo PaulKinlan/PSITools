@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww1.gamestask.com/index.php?task=view&id=711
+MinimizeRenderBlockingResources: true
 ---
 ## [gamestask.com - gamestask Resources and Information. This website is for sale!](http://ww1.gamestask.com/index.php?task=view&id=711)
 
@@ -29,9 +30,6 @@ title: http://ww1.gamestask.com/index.php?task=view&id=711
 *  JS Response Bytes: 113729
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 234
-
-### Performance issues
-
 
 ### Performance issues
 

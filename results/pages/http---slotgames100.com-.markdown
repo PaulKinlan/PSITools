@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://slotgames100.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Slotgames100.com](http://slotgames100.com/)
 
@@ -29,9 +31,6 @@ title: http://slotgames100.com/
 *  JS Response Bytes: 167726
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamemental.com/default-category/duty-hill-2
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Duty Hill 2 - Gamemental](http://www.gamemental.com/default-category/duty-hill-2)
 
@@ -29,9 +34,6 @@ title: http://www.gamemental.com/default-category/duty-hill-2
 *  JS Response Bytes: 673191
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

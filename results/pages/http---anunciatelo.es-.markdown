@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://anunciatelo.es/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Anuncios clasificados España - Anuncios gratis España - Anunciatelo.es](http://anunciatelo.es/)
 
@@ -29,9 +32,6 @@ title: http://anunciatelo.es/
 *  JS Response Bytes: 1589237
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99507
-
-### Performance issues
-
 
 ### Performance issues
 

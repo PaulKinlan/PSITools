@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mmd.sourceforge.net/app/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [new document](http://mmd.sourceforge.net/app/)
 
@@ -29,9 +32,6 @@ title: http://mmd.sourceforge.net/app/
 *  JS Response Bytes: 766194
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30012
-
-### Performance issues
-
 
 ### Performance issues
 

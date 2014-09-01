@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.myaccess.com/myaccess/do/log
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MY Access! School Edition Login - Vantage Learning](http://www.myaccess.com/myaccess/do/log)
 
@@ -29,9 +32,6 @@ title: http://www.myaccess.com/myaccess/do/log
 *  JS Response Bytes: 22553
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

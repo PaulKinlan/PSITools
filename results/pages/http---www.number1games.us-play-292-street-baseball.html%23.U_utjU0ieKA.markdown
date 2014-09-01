@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.number1games.us/play/292/street-baseball.html#.U_utjU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Street Baseball - Number One Games](http://www.number1games.us/play/292/street-baseball.html#.U_utjU0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.number1games.us/play/292/street-baseball.html#.U_utjU0ieKA
 *  JS Response Bytes: 1650646
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15762
-
-### Performance issues
-
 
 ### Performance issues
 

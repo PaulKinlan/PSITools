@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://app.invoice4u.co.uk/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Invoice4u](https://app.invoice4u.co.uk/login)
 
@@ -29,9 +31,6 @@ title: https://app.invoice4u.co.uk/login
 *  JS Response Bytes: 319405
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

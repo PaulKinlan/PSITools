@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.svnet.fr/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SVNET | Hébergement Libre de sites Web](http://www.svnet.fr/)
 
@@ -29,9 +32,6 @@ title: http://www.svnet.fr/
 *  JS Response Bytes: 139033
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103516
-
-### Performance issues
-
 
 ### Performance issues
 

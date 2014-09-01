@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.barkinggames.co.uk/barkingGamesSolitaire/
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Barking Games Solitaire - Barking Games](http://www.barkinggames.co.uk/barkingGamesSolitaire/)
 
@@ -29,9 +32,6 @@ title: http://www.barkinggames.co.uk/barkingGamesSolitaire/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 548
-
-### Performance issues
-
 
 ### Performance issues
 

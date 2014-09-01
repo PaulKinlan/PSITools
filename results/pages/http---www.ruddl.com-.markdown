@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ruddl.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ruddl | reddit redefined!](http://www.ruddl.com/)
 
@@ -29,9 +34,6 @@ title: http://www.ruddl.com/
 *  JS Response Bytes: 896727
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1519
-
-### Performance issues
-
 
 ### Performance issues
 

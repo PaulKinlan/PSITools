@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww1.chromegameplay.com/temple-run-2/
+MinimizeRenderBlockingResources: true
 ---
 ## [chromegameplay.com - chromegameplay Resources and Information. This website is for sale!](http://ww1.chromegameplay.com/temple-run-2/)
 
@@ -29,9 +30,6 @@ title: http://ww1.chromegameplay.com/temple-run-2/
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 226
-
-### Performance issues
-
 
 ### Performance issues
 

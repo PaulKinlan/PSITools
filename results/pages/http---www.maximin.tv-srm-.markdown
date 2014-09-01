@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.maximin.tv/srm/
+MinimizeRenderBlockingResources: true
 ---
 ## [Super Resize Me - by Maximin](http://www.maximin.tv/srm/)
 
@@ -29,9 +30,6 @@ title: http://www.maximin.tv/srm/
 *  JS Response Bytes: 53023
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

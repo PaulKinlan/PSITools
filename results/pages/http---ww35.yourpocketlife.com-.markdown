@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://ww35.yourpocketlife.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [yourpocketlife.com](http://ww35.yourpocketlife.com/)
 
@@ -29,9 +34,6 @@ title: http://ww35.yourpocketlife.com/
 *  JS Response Bytes: 173157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 214
-
-### Performance issues
-
 
 ### Performance issues
 

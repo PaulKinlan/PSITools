@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mondofoot.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mondo Foot](http://www.mondofoot.com/)
 
@@ -29,9 +33,6 @@ title: http://www.mondofoot.com/
 *  JS Response Bytes: 1662799
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96064
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.war-games.ws/grandmas-revenge/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Grandma’s revenge](http://www.war-games.ws/grandmas-revenge/)
 
@@ -29,9 +36,6 @@ title: http://www.war-games.ws/grandmas-revenge/
 *  JS Response Bytes: 2292179
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 131719
-
-### Performance issues
-
 
 ### Performance issues
 

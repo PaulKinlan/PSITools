@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://deadlyparties.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DeadlyParties.com | Murder Mystery Dinner Party Games](http://deadlyparties.com/)
 
@@ -29,9 +32,6 @@ title: http://deadlyparties.com/
 *  JS Response Bytes: 185442
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40683
-
-### Performance issues
-
 
 ### Performance issues
 

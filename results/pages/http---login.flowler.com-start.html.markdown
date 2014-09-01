@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://login.flowler.com/start.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [flowler](http://login.flowler.com/start.html)
 
@@ -29,9 +32,6 @@ title: http://login.flowler.com/start.html
 *  JS Response Bytes: 401433
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

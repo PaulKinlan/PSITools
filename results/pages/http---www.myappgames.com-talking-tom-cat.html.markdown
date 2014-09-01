@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.myappgames.com/talking-tom-cat.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Talking Tom Cat : My APP Games](http://www.myappgames.com/talking-tom-cat.html)
 
@@ -29,9 +34,6 @@ title: http://www.myappgames.com/talking-tom-cat.html
 *  JS Response Bytes: 2018498
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119739
-
-### Performance issues
-
 
 ### Performance issues
 

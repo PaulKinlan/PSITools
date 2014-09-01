@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://2013playgame.blogspot.com/2013/11/3d-bad-boys.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [Free play games, card games, casino games: 3D Bad Boys](http://2013playgame.blogspot.com/2013/11/3d-bad-boys.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://2013playgame.blogspot.com/2013/11/3d-bad-boys.html?m=1
 *  JS Response Bytes: 1148184
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99194
-
-### Performance issues
-
 
 ### Performance issues
 

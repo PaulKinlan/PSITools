@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/shoot-em-in/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shoot’ Em In Game](http://www.footballgam.es/shoot-em-in/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/shoot-em-in/
 *  JS Response Bytes: 2296876
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155593
-
-### Performance issues
-
 
 ### Performance issues
 

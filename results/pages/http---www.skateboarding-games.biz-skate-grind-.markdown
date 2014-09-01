@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/skate-grind/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Skate Grind game](http://www.skateboarding-games.biz/skate-grind/)
 
@@ -29,9 +36,6 @@ title: http://www.skateboarding-games.biz/skate-grind/
 *  JS Response Bytes: 2123094
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120979
-
-### Performance issues
-
 
 ### Performance issues
 

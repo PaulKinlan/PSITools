@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://html5-mario.memolas.es/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [NaViGaMeR - HTML5 GAMES](http://html5-mario.memolas.es/)
 
@@ -29,9 +32,6 @@ title: http://html5-mario.memolas.es/
 *  JS Response Bytes: 571735
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49341
-
-### Performance issues
-
 
 ### Performance issues
 

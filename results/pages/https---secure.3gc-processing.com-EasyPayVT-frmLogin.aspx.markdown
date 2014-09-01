@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://secure.3gc-processing.com/EasyPayVT/frmLogin.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login](https://secure.3gc-processing.com/EasyPayVT/frmLogin.aspx)
 
@@ -29,9 +33,6 @@ title: https://secure.3gc-processing.com/EasyPayVT/frmLogin.aspx
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

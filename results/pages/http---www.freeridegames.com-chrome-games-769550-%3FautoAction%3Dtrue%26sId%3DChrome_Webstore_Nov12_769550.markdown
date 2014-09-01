@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/769550/?autoAction=true&sId=Chrome_Webstore_Nov12_769550
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Shannon Tweeds Attack of the Groupies for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/769550/?autoAction=true&sId=Chrome_Webstore_Nov12_769550)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/769550/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1492651
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44174
-
-### Performance issues
-
 
 ### Performance issues
 

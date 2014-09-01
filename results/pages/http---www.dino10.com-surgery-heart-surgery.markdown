@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.dino10.com/surgery/heart-surgery
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Heart Surgery - Addictive Games On Dino10](http://www.dino10.com/surgery/heart-surgery)
 
@@ -29,9 +35,6 @@ title: http://www.dino10.com/surgery/heart-surgery
 *  JS Response Bytes: 1879101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98298
-
-### Performance issues
-
 
 ### Performance issues
 

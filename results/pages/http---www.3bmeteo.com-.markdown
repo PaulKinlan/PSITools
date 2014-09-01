@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.3bmeteo.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Meteo e Previsioni del tempo in Italia | 3B Meteo](http://www.3bmeteo.com/)
 
@@ -29,9 +33,6 @@ title: http://www.3bmeteo.com/
 *  JS Response Bytes: 526021
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4543
-
-### Performance issues
-
 
 ### Performance issues
 

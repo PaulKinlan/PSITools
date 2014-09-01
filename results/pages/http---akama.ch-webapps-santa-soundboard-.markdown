@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://akama.ch/webapps/santa-soundboard/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [santa claus sounds html 5 audio](http://akama.ch/webapps/santa-soundboard/)
 
@@ -29,9 +32,6 @@ title: http://akama.ch/webapps/santa-soundboard/
 *  JS Response Bytes: 551374
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14442
-
-### Performance issues
-
 
 ### Performance issues
 

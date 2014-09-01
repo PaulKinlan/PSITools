@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww1.lfchub.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [lfchub.com - lfchub Resources and Information. This website is for sale!](http://ww1.lfchub.com/)
 
@@ -29,9 +30,6 @@ title: http://ww1.lfchub.com/
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 168
-
-### Performance issues
-
 
 ### Performance issues
 

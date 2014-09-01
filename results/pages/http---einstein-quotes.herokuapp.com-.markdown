@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://einstein-quotes.herokuapp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Einstein Quotes on Chrome](http://einstein-quotes.herokuapp.com/)
 
@@ -29,9 +33,6 @@ title: http://einstein-quotes.herokuapp.com/
 *  JS Response Bytes: 1419859
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109876
-
-### Performance issues
-
 
 ### Performance issues
 

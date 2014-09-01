@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/649050/?autoAction=true&sId=Chrome_Webstore_Nov12_649050
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Women's Murder Club - Twice in a Blue Moon! for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/649050/?autoAction=true&sId=Chrome_Webstore_Nov12_649050)
 
@@ -29,9 +36,6 @@ title: http://www.freeridegames.com/chrome/games/649050/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1575842
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35904
-
-### Performance issues
-
 
 ### Performance issues
 

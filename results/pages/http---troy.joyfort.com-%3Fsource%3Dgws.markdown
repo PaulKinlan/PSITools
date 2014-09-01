@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://troy.joyfort.com/?source=gws
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [War of Troy](http://troy.joyfort.com/?source=gws)
 
@@ -29,9 +32,6 @@ title: http://troy.joyfort.com/?source=gws
 *  JS Response Bytes: 312750
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

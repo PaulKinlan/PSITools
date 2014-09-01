@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.lamachineduvoisin.fr/fr/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [La Machine du Voisin | Partage de machines à laver | Accueil](http://www.lamachineduvoisin.fr/fr/)
 
@@ -29,9 +32,6 @@ title: http://www.lamachineduvoisin.fr/fr/
 *  JS Response Bytes: 1733142
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109756
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://remote.fairfaxmedia.co.nz/vpn/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Citrix Access Gateway](https://remote.fairfaxmedia.co.nz/vpn/index.html)
 
@@ -29,9 +35,6 @@ title: https://remote.fairfaxmedia.co.nz/vpn/index.html
 *  JS Response Bytes: 33252
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 683
-
-### Performance issues
-
 
 ### Performance issues
 

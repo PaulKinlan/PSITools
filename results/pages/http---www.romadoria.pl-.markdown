@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.romadoria.pl/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Romadoria](http://www.romadoria.pl/)
 
@@ -29,9 +34,6 @@ title: http://www.romadoria.pl/
 *  JS Response Bytes: 270959
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1399
-
-### Performance issues
-
 
 ### Performance issues
 

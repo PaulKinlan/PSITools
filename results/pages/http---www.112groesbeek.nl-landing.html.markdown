@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.112groesbeek.nl/landing.html
+UseLegibleFontSizes: true
 ---
 ## [P2000 monitor voor Google Chrome](http://www.112groesbeek.nl/landing.html)
 
@@ -29,9 +30,6 @@ title: http://www.112groesbeek.nl/landing.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

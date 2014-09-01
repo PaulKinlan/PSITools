@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/601550/?autoAction=true&sId=Chrome_Webstore_Nov12_601550
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download The Great Chocolate Chase: A Chocolatier Twist for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/601550/?autoAction=true&sId=Chrome_Webstore_Nov12_601550)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/601550/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1609248
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16260
-
-### Performance issues
-
 
 ### Performance issues
 

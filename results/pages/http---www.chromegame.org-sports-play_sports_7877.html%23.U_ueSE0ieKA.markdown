@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chromegame.org/sports/play_sports_7877.html#.U_ueSE0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fun Soccer_Chromegame - Play the best free online games.](http://www.chromegame.org/sports/play_sports_7877.html#.U_ueSE0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.chromegame.org/sports/play_sports_7877.html#.U_ueSE0ieKA
 *  JS Response Bytes: 734895
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11204
-
-### Performance issues
-
 
 ### Performance issues
 

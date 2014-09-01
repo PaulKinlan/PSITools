@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://m.apartmentguide.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Apartments for Rent - Your Trusted Apartment Finder Tool at ApartmentGuide.com](http://m.apartmentguide.com/)
 
@@ -29,9 +30,6 @@ title: http://m.apartmentguide.com/
 *  JS Response Bytes: 789973
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8472
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://firefall-game.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Firefall Online](http://firefall-game.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://firefall-game.appspot.com/
 *  JS Response Bytes: 938102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34847
-
-### Performance issues
-
 
 ### Performance issues
 

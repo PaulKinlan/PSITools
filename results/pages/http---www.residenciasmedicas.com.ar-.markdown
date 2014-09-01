@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.residenciasmedicas.com.ar/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Residencias Médicas y Concurrencias en Argentina - Residencias Médicas](http://www.residenciasmedicas.com.ar/)
 
@@ -29,9 +34,6 @@ title: http://www.residenciasmedicas.com.ar/
 *  JS Response Bytes: 1892695
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15754
-
-### Performance issues
-
 
 ### Performance issues
 

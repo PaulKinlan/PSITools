@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.yahtzee-game.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Yahtzee](http://www.yahtzee-game.com/)
 
@@ -29,9 +33,6 @@ title: http://www.yahtzee-game.com/
 *  JS Response Bytes: 717358
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52042
-
-### Performance issues
-
 
 ### Performance issues
 

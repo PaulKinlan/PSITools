@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://semtiko.com/games/twisted-flowers/play.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SEMTiKO - Twisted Flowers](http://semtiko.com/games/twisted-flowers/play.html)
 
@@ -29,9 +33,6 @@ title: http://semtiko.com/games/twisted-flowers/play.html
 *  JS Response Bytes: 2022335
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18491
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gravure-designer.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Онлайн-сервис по созданию авторской фотогравировки](http://gravure-designer.com/)
 
@@ -29,9 +34,6 @@ title: http://gravure-designer.com/
 *  JS Response Bytes: 473605
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

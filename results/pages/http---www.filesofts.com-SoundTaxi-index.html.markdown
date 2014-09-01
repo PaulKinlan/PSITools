@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.filesofts.com/SoundTaxi/index.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [All-In-One Any Music Files to MP3, AAC (M4A), WMA or WAV Converter](http://www.filesofts.com/SoundTaxi/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.filesofts.com/SoundTaxi/index.html
 *  JS Response Bytes: 1036225
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95268
-
-### Performance issues
-
 
 ### Performance issues
 

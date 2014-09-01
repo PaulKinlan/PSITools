@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://imaginer.freeiz.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://imaginer.freeiz.com/)
 
@@ -29,9 +33,6 @@ title: http://imaginer.freeiz.com/
 *  JS Response Bytes: 119600
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

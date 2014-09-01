@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://tarpipe.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SaaS integration, cloud apps workflows and task automation - tarpipe](http://tarpipe.com/)
 
@@ -29,9 +32,6 @@ title: http://tarpipe.com/
 *  JS Response Bytes: 52378
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

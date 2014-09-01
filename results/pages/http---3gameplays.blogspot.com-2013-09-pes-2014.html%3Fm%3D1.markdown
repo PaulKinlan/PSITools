@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://3gameplays.blogspot.com/2013/09/pes-2014.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free Games Play: Pes 2014](http://3gameplays.blogspot.com/2013/09/pes-2014.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://3gameplays.blogspot.com/2013/09/pes-2014.html?m=1
 *  JS Response Bytes: 2781580
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148916
-
-### Performance issues
-
 
 ### Performance issues
 

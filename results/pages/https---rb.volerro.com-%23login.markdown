@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://rb.volerro.com/#login
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Volerro](https://rb.volerro.com/#login)
 
@@ -18,20 +22,17 @@ title: https://rb.volerro.com/#login
 *  Number of JS Resources: 16
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 21
-*  Total Request Bytes: 7070
+*  Total Request Bytes: 7061
 
 ### Response data
 
-*  HTML Response Bytes: 35402
+*  HTML Response Bytes: 35401
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 445681
-*  Image Response Bytes: 262770
-*  JS Response Bytes: 2264533
+*  Image Response Bytes: 262778
+*  JS Response Bytes: 2264879
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 61476
-
-### Performance issues
-
+*  Other Response Bytes: 61458
 
 ### Performance issues
 

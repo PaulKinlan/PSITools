@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/defend-your-castle/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Defend Your Castle](http://www.war-games.ws/defend-your-castle/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/defend-your-castle/
 *  JS Response Bytes: 2292972
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122128
-
-### Performance issues
-
 
 ### Performance issues
 

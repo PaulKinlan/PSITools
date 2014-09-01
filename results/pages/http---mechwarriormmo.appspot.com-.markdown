@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://mechwarriormmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Mech Warrior Online](http://mechwarriormmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://mechwarriormmo.appspot.com/
 *  JS Response Bytes: 1024648
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39723
-
-### Performance issues
-
 
 ### Performance issues
 

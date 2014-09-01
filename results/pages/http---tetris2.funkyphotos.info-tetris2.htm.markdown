@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://tetris2.funkyphotos.info/tetris2.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tetris 2](http://tetris2.funkyphotos.info/tetris2.htm)
 
@@ -29,9 +35,6 @@ title: http://tetris2.funkyphotos.info/tetris2.htm
 *  JS Response Bytes: 823250
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102795
-
-### Performance issues
-
 
 ### Performance issues
 

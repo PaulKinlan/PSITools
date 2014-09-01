@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://music.dn1234.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [在线听歌_在线试听的音乐网导航](http://music.dn1234.com/)
 
@@ -29,9 +34,6 @@ title: http://music.dn1234.com/
 *  JS Response Bytes: 727311
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1036
-
-### Performance issues
-
 
 ### Performance issues
 

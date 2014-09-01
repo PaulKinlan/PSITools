@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://placemypast.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Place My Past](http://placemypast.com/)
 
@@ -29,9 +31,6 @@ title: http://placemypast.com/
 *  JS Response Bytes: 494663
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42660
-
-### Performance issues
-
 
 ### Performance issues
 

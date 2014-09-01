@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.dxy.cn/
+MinimizeRenderBlockingResources: true
 ---
 ## [丁香园—医学药学生命科学专业网站](http://www.dxy.cn/)
 
@@ -29,9 +30,6 @@ title: http://www.dxy.cn/
 *  JS Response Bytes: 176260
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25877
-
-### Performance issues
-
 
 ### Performance issues
 

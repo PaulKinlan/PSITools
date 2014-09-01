@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mariosupergames.com/play/candy-crush-game_games_online_free.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [- PLAY ONLINE FREE FLASH SUPER MARIO GAMES - Mario](http://www.mariosupergames.com/play/candy-crush-game_games_online_free.html)
 
@@ -29,9 +34,6 @@ title: http://www.mariosupergames.com/play/candy-crush-game_games_online_free.ht
 *  JS Response Bytes: 2029683
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113160
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://taskly.co/
+MinimizeRenderBlockingResources: true
 ---
 ## [Taskly](https://taskly.co/)
 
@@ -29,9 +30,6 @@ title: https://taskly.co/
 *  JS Response Bytes: 234188
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 236424
-
-### Performance issues
-
 
 ### Performance issues
 

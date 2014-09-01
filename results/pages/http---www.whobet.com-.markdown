@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.whobet.com/
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [WhoBet - Everything's In Play](http://www.whobet.com/)
 
@@ -29,9 +31,6 @@ title: http://www.whobet.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

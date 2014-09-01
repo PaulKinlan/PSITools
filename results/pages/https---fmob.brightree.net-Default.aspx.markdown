@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://fmob.brightree.net/Default.aspx
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](https://fmob.brightree.net/Default.aspx)
 
@@ -29,9 +34,6 @@ title: https://fmob.brightree.net/Default.aspx
 *  JS Response Bytes: 5177
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 924
-
-### Performance issues
-
 
 ### Performance issues
 

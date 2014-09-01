@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.booyagadget.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Booya Gadget](http://www.booyagadget.com/)
 
@@ -29,9 +31,6 @@ title: http://www.booyagadget.com/
 *  JS Response Bytes: 1752947
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 563
-
-### Performance issues
-
 
 ### Performance issues
 

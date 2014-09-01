@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ivigames.com/temple-run-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [iviGames.Com | Flash Game – Temple Run 2](http://www.ivigames.com/temple-run-2.html)
 
@@ -29,9 +35,6 @@ title: http://www.ivigames.com/temple-run-2.html
 *  JS Response Bytes: 410937
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1055
-
-### Performance issues
-
 
 ### Performance issues
 

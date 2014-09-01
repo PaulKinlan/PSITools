@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://english-japanese-dictionary.herokuapp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [English Japanese Dictionary](http://english-japanese-dictionary.herokuapp.com/)
 
@@ -29,9 +33,6 @@ title: http://english-japanese-dictionary.herokuapp.com/
 *  JS Response Bytes: 1611949
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110210
-
-### Performance issues
-
 
 ### Performance issues
 

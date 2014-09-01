@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://discoverbit.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free on demand Music - Discoverbit.com](http://discoverbit.com/)
 
@@ -29,9 +35,6 @@ title: http://discoverbit.com/
 *  JS Response Bytes: 2630550
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110073
-
-### Performance issues
-
 
 ### Performance issues
 

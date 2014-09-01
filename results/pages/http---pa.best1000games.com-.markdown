@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://pa.best1000games.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Parking Games](http://pa.best1000games.com/)
 
@@ -18,7 +21,7 @@ title: http://pa.best1000games.com/
 *  Number of JS Resources: 15
 *  Number of CSS Resources: 9
 *  Nubmer of Static Resources: 24
-*  Total Request Bytes: 4497
+*  Total Request Bytes: 4507
 
 ### Response data
 
@@ -29,9 +32,6 @@ title: http://pa.best1000games.com/
 *  JS Response Bytes: 190612
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 320810
-
-### Performance issues
-
 
 ### Performance issues
 

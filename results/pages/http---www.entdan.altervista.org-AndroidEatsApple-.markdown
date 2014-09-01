@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.entdan.altervista.org/AndroidEatsApple/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Index page missing](http://www.entdan.altervista.org/AndroidEatsApple/)
 
@@ -29,9 +31,6 @@ title: http://www.entdan.altervista.org/AndroidEatsApple/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2097
-
-### Performance issues
-
 
 ### Performance issues
 

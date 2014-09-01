@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chrome.appstores.eu/roulette/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Roulette](http://chrome.appstores.eu/roulette/)
 
@@ -29,9 +33,6 @@ title: http://chrome.appstores.eu/roulette/
 *  JS Response Bytes: 516611
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

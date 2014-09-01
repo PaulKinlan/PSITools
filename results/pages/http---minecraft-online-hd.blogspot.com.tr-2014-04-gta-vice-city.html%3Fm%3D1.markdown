@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://minecraft-online-hd.blogspot.com.tr/2014/04/gta-vice-city.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [minecraft online game store: gta vice city](http://minecraft-online-hd.blogspot.com.tr/2014/04/gta-vice-city.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://minecraft-online-hd.blogspot.com.tr/2014/04/gta-vice-city.html?m=1
 *  JS Response Bytes: 1148207
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99256
-
-### Performance issues
-
 
 ### Performance issues
 

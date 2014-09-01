@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://s-w.tv/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Spot-Window TV Digital Signage TV for Google Chrome™](http://s-w.tv/)
 
@@ -29,9 +32,6 @@ title: http://s-w.tv/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

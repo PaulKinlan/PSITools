@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playonl9.blogspot.com/2013/10/talking-tom-cat-2-game-for-pc-online.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Online: Talking Tom Cat 2 Game for PC Online](http://playonl9.blogspot.com/2013/10/talking-tom-cat-2-game-for-pc-online.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playonl9.blogspot.com/2013/10/talking-tom-cat-2-game-for-pc-online
 *  JS Response Bytes: 2326805
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287786
-
-### Performance issues
-
 
 ### Performance issues
 

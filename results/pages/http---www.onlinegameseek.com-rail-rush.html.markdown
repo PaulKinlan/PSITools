@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.onlinegameseek.com/rail-rush.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rail Rush | Online Game Seek](http://www.onlinegameseek.com/rail-rush.html)
 
@@ -29,9 +33,6 @@ title: http://www.onlinegameseek.com/rail-rush.html
 *  JS Response Bytes: 3199876
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156460
-
-### Performance issues
-
 
 ### Performance issues
 

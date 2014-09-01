@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.hitingame.com/online-games/rollercoaster-rush/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rollercoaster Rush « Online Flash Games – Popular Flash Games](http://www.hitingame.com/online-games/rollercoaster-rush/)
 
@@ -29,9 +35,6 @@ title: http://www.hitingame.com/online-games/rollercoaster-rush/
 *  JS Response Bytes: 1152294
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 68584
-
-### Performance issues
-
 
 ### Performance issues
 

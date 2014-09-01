@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gita-blog.blogspot.com/search/label/Krishna_Bhajan?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bhagwat Gita Blog - Life Philosophy: Krishna_Bhajan](http://gita-blog.blogspot.com/search/label/Krishna_Bhajan?m=1)
 
@@ -29,9 +31,6 @@ title: http://gita-blog.blogspot.com/search/label/Krishna_Bhajan?m=1
 *  JS Response Bytes: 788562
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287153
-
-### Performance issues
-
 
 ### Performance issues
 

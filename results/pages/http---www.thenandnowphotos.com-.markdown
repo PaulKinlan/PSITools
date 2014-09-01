@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.thenandnowphotos.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Then and Now Photos - Before and after, past and present, recreated photos.](http://www.thenandnowphotos.com/)
 
@@ -29,9 +34,6 @@ title: http://www.thenandnowphotos.com/
 *  JS Response Bytes: 1021309
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14308
-
-### Performance issues
-
 
 ### Performance issues
 

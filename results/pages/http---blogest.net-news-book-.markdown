@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://blogest.net/news/book/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [本の新聞・本のニュース](http://blogest.net/news/book/)
 
@@ -29,9 +32,6 @@ title: http://blogest.net/news/book/
 *  JS Response Bytes: 628479
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

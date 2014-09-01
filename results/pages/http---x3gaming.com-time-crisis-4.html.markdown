@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://x3gaming.com/time-crisis-4.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [– Time Crisis 4](http://x3gaming.com/time-crisis-4.html)
 
@@ -29,9 +35,6 @@ title: http://x3gaming.com/time-crisis-4.html
 *  JS Response Bytes: 401464
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47037
-
-### Performance issues
-
 
 ### Performance issues
 

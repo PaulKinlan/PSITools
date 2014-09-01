@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://central.hccanet.org/Security/SignIn?ReturnUrl=%2F
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sign In](https://central.hccanet.org/Security/SignIn?ReturnUrl=%2F)
 
@@ -29,9 +33,6 @@ title: https://central.hccanet.org/Security/SignIn?ReturnUrl=%2F
 *  JS Response Bytes: 412485
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 507
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamesforthebrain.com/game/counterfeit/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Counterfeit - Games for the Brain](http://www.gamesforthebrain.com/game/counterfeit/)
 
@@ -29,9 +33,6 @@ title: http://www.gamesforthebrain.com/game/counterfeit/
 *  JS Response Bytes: 374831
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

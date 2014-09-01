@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://h-500-kuc.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Kuc.500-h for 500ox](http://h-500-kuc.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://h-500-kuc.appspot.com/
 *  JS Response Bytes: 426219
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

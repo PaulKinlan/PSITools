@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://xgapfinder.xstore.pro/login
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [xGapFinder](http://xgapfinder.xstore.pro/login)
 
@@ -29,9 +31,6 @@ title: http://xgapfinder.xstore.pro/login
 *  JS Response Bytes: 153227
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 366
-
-### Performance issues
-
 
 ### Performance issues
 

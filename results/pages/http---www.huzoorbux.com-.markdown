@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.huzoorbux.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Samsung Galaxy S6 Release Date, Specs, Features, Price & Images](http://www.huzoorbux.com/)
 
@@ -29,9 +34,6 @@ title: http://www.huzoorbux.com/
 *  JS Response Bytes: 1736473
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 593329
-
-### Performance issues
-
 
 ### Performance issues
 

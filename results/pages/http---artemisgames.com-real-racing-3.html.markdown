@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://artemisgames.com/real-racing-3.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404 - PAGE NOT FOUND](http://artemisgames.com/real-racing-3.html)
 
@@ -29,9 +35,6 @@ title: http://artemisgames.com/real-racing-3.html
 *  JS Response Bytes: 271851
 *  Flash Response Bytes: 43671
 *  Other Response Bytes: 13047
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://am-application.osram.info/publish/index_en.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [OSRAM Automotive Lighting - Search and find quickly](http://am-application.osram.info/publish/index_en.html)
 
@@ -29,9 +35,6 @@ title: http://am-application.osram.info/publish/index_en.html
 *  JS Response Bytes: 137157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 579
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.directorysummit.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Directory Summit has been taken down for now](http://www.directorysummit.com/)
 
@@ -29,9 +32,6 @@ title: http://www.directorysummit.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://yelekci.com/?reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [yelekci.com](http://yelekci.com/?reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://yelekci.com/?reqp=1&reqr=
 *  JS Response Bytes: 304173
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53
-
-### Performance issues
-
 
 ### Performance issues
 

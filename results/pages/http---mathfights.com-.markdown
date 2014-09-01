@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mathfights.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MathFights - Become a Math Champion](http://mathfights.com/)
 
@@ -29,9 +32,6 @@ title: http://mathfights.com/
 *  JS Response Bytes: 2391124
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163399
-
-### Performance issues
-
 
 ### Performance issues
 

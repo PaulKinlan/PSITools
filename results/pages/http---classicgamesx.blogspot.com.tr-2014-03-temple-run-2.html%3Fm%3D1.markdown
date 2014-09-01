@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://classicgamesx.blogspot.com.tr/2014/03/temple-run-2.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [Classic Games: Temple Run 2](http://classicgamesx.blogspot.com.tr/2014/03/temple-run-2.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://classicgamesx.blogspot.com.tr/2014/03/temple-run-2.html?m=1
 *  JS Response Bytes: 610674
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95588
-
-### Performance issues
-
 
 ### Performance issues
 

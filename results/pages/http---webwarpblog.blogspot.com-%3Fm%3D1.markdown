@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://webwarpblog.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Web Warp Blog](http://webwarpblog.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://webwarpblog.blogspot.com/?m=1
 *  JS Response Bytes: 835916
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14943
-
-### Performance issues
-
 
 ### Performance issues
 

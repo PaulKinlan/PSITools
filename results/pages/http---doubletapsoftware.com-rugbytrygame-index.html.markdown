@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://doubletapsoftware.com/rugbytrygame/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [RUGBY TRY - Play Rugby Try in your browser](http://doubletapsoftware.com/rugbytrygame/index.html)
 
@@ -29,9 +34,6 @@ title: http://doubletapsoftware.com/rugbytrygame/index.html
 *  JS Response Bytes: 813743
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16515
-
-### Performance issues
-
 
 ### Performance issues
 

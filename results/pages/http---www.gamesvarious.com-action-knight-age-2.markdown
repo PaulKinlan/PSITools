@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/action/knight-age-2
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Knight Age 2 - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/action/knight-age-2)
 
@@ -29,9 +33,6 @@ title: http://www.gamesvarious.com/action/knight-age-2
 *  JS Response Bytes: 3397756
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 150660
-
-### Performance issues
-
 
 ### Performance issues
 

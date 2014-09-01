@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://amazingsgames.blogspot.com.tr/2014/05/mario-and-luigi-kingdom.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [Amazing Game: Mario and Luigi Kingdom](http://amazingsgames.blogspot.com.tr/2014/05/mario-and-luigi-kingdom.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://amazingsgames.blogspot.com.tr/2014/05/mario-and-luigi-kingdom.html
 *  JS Response Bytes: 1269496
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111052
-
-### Performance issues
-
 
 ### Performance issues
 

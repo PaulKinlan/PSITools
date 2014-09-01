@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://vinmaidan.org/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [#vinmaidan](http://vinmaidan.org/)
 
@@ -29,9 +31,6 @@ title: http://vinmaidan.org/
 *  JS Response Bytes: 438510
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1076
-
-### Performance issues
-
 
 ### Performance issues
 

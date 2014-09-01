@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kikogames.com/angry-birds-star-wars.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Star Wars | Kiko Games](http://www.kikogames.com/angry-birds-star-wars.html)
 
@@ -29,9 +34,6 @@ title: http://www.kikogames.com/angry-birds-star-wars.html
 *  JS Response Bytes: 1529145
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103908
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.bay-toptr.com.nu/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Index of /](http://www.bay-toptr.com.nu/)
 
@@ -29,9 +31,6 @@ title: http://www.bay-toptr.com.nu/
 *  JS Response Bytes: 73479
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

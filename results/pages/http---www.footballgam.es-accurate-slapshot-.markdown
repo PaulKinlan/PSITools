@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/accurate-slapshot/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Accurate Slapshot Game](http://www.footballgam.es/accurate-slapshot/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/accurate-slapshot/
 *  JS Response Bytes: 2250312
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 160373
-
-### Performance issues
-
 
 ### Performance issues
 

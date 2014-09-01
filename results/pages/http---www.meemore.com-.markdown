@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.meemore.com/
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [meemore](http://www.meemore.com/)
 
@@ -29,9 +32,6 @@ title: http://www.meemore.com/
 *  JS Response Bytes: 204084
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

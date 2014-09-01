@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gameschrome.blogspot.com.tr/2014/03/gta-vice-city.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [chrome Game store: gta vice city](http://gameschrome.blogspot.com.tr/2014/03/gta-vice-city.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://gameschrome.blogspot.com.tr/2014/03/gta-vice-city.html?m=1
 *  JS Response Bytes: 1549283
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100828
-
-### Performance issues
-
 
 ### Performance issues
 

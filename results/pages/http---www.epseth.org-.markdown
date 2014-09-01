@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.epseth.org/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ethiopian Pediatrics society](http://www.epseth.org/)
 
@@ -29,9 +36,6 @@ title: http://www.epseth.org/
 *  JS Response Bytes: 3481909
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111531
-
-### Performance issues
-
 
 ### Performance issues
 

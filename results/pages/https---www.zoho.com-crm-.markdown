@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.zoho.com/crm/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CRM Software, Customer Relationship Management - Zoho CRM](https://www.zoho.com/crm/)
 
@@ -29,9 +33,6 @@ title: https://www.zoho.com/crm/
 *  JS Response Bytes: 440970
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50479
-
-### Performance issues
-
 
 ### Performance issues
 

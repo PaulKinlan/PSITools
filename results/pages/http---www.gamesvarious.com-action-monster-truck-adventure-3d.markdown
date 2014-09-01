@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/action/monster-truck-adventure-3d
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Monster Truck Adventure 3D - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/action/monster-truck-adventure-3d)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/action/monster-truck-adventure-3d
 *  JS Response Bytes: 2180162
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125747
-
-### Performance issues
-
 
 ### Performance issues
 

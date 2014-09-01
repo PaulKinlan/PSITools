@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://hubgamingonl9.blogspot.com/2014/05/csr-classic-tips.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gaming Hub: CSR Classic Tips](http://hubgamingonl9.blogspot.com/2014/05/csr-classic-tips.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://hubgamingonl9.blogspot.com/2014/05/csr-classic-tips.html?m=1
 *  JS Response Bytes: 1372876
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287163
-
-### Performance issues
-
 
 ### Performance issues
 

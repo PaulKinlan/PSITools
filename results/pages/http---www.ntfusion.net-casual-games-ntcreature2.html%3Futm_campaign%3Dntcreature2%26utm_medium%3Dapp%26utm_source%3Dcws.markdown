@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ntfusion.net/casual-games/ntcreature2.html?utm_campaign=ntcreature2&utm_medium=app&utm_source=cws
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [NTCreature2 - NTFusion](http://www.ntfusion.net/casual-games/ntcreature2.html?utm_campaign=ntcreature2&utm_medium=app&utm_source=cws)
 
@@ -29,9 +35,6 @@ title: http://www.ntfusion.net/casual-games/ntcreature2.html?utm_campaign=ntcrea
 *  JS Response Bytes: 2007692
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114375
-
-### Performance issues
-
 
 ### Performance issues
 

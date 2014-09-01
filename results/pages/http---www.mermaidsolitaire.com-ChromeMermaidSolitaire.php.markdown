@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mermaidsolitaire.com/ChromeMermaidSolitaire.php
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chrome Solitaire](http://www.mermaidsolitaire.com/ChromeMermaidSolitaire.php)
 
@@ -29,9 +34,6 @@ title: http://www.mermaidsolitaire.com/ChromeMermaidSolitaire.php
 *  JS Response Bytes: 1513098
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97404
-
-### Performance issues
-
 
 ### Performance issues
 

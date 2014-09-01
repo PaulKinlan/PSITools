@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://onthebeautifulgame.blogspot.com/2014/01/sugartales.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ON the Beautiful Game: SugarTales](http://onthebeautifulgame.blogspot.com/2014/01/sugartales.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://onthebeautifulgame.blogspot.com/2014/01/sugartales.html?m=1
 *  JS Response Bytes: 1113590
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111921
-
-### Performance issues
-
 
 ### Performance issues
 

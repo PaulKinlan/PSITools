@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ww2.chrome-proapps.com/?folio=7POYGN0G2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [chrome-proapps.com](http://ww2.chrome-proapps.com/?folio=7POYGN0G2)
 
@@ -29,9 +32,6 @@ title: http://ww2.chrome-proapps.com/?folio=7POYGN0G2
 *  JS Response Bytes: 173157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 67
-
-### Performance issues
-
 
 ### Performance issues
 

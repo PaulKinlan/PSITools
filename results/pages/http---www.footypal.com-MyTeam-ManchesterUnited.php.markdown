@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.footypal.com/MyTeam/ManchesterUnited.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Man Utd Gossip |](http://www.footypal.com/MyTeam/ManchesterUnited.php)
 
@@ -29,9 +33,6 @@ title: http://www.footypal.com/MyTeam/ManchesterUnited.php
 *  JS Response Bytes: 1989008
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49091
-
-### Performance issues
-
 
 ### Performance issues
 

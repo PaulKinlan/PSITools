@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://support.graze.com/support/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Helpdesk : service desk](https://support.graze.com/support/login)
 
@@ -29,9 +31,6 @@ title: https://support.graze.com/support/login
 *  JS Response Bytes: 514664
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54426
-
-### Performance issues
-
 
 ### Performance issues
 

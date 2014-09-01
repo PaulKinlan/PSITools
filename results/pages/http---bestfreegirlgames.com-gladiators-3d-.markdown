@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://bestfreegirlgames.com/gladiators-3d/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gladiators 3D | BestFreeGirlGames Free Girl Games, Online Girl Games](http://bestfreegirlgames.com/gladiators-3d/)
 
@@ -29,9 +34,6 @@ title: http://bestfreegirlgames.com/gladiators-3d/
 *  JS Response Bytes: 2161876
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53552
-
-### Performance issues
-
 
 ### Performance issues
 

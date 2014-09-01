@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.favorigame.com/3d-game/chess-3d
+MinimizeRenderBlockingResources: true
 ---
 ## [Favorigame.com](http://www.favorigame.com/3d-game/chess-3d)
 
@@ -29,9 +30,6 @@ title: http://www.favorigame.com/3d-game/chess-3d
 *  JS Response Bytes: 9100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

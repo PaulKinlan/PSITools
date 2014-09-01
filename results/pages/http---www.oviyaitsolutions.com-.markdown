@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.oviyaitsolutions.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Oviya IT Solutions (Pvt) Ltd - Web Solutions Made Easy - Leading Web Development, Mobile Development, Software Development Outsourcing Company in Batticaloa Sri lanka](http://www.oviyaitsolutions.com/)
 
@@ -29,9 +31,6 @@ title: http://www.oviyaitsolutions.com/
 *  JS Response Bytes: 591972
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4973
-
-### Performance issues
-
 
 ### Performance issues
 

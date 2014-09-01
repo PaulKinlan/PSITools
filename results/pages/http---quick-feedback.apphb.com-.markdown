@@ -33,8 +33,5 @@ title: http://quick-feedback.apphb.com/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

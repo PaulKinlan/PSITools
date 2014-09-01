@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://sadhana.com.ar/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sádhana](http://sadhana.com.ar/)
 
@@ -29,9 +33,6 @@ title: http://sadhana.com.ar/
 *  JS Response Bytes: 616643
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

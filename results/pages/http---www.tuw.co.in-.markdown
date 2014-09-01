@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tuw.co.in/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Useless Website - TUW.co.in](http://www.tuw.co.in/)
 
@@ -29,9 +32,6 @@ title: http://www.tuw.co.in/
 *  JS Response Bytes: 368338
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16553
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.zenpen.io/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ZenPen ~ Minimal Distraction, Maximim Zen](http://www.zenpen.io/)
 
@@ -29,9 +33,6 @@ title: http://www.zenpen.io/
 *  JS Response Bytes: 80339
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 206830
-
-### Performance issues
-
 
 ### Performance issues
 

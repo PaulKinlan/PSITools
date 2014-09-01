@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.games-h.com/arcade-games/angry-birds-halloween.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Playing Angry Birds Halloween - Play Free Online Games at Games-H.COM](http://www.games-h.com/arcade-games/angry-birds-halloween.html)
 
@@ -29,9 +35,6 @@ title: http://www.games-h.com/arcade-games/angry-birds-halloween.html
 *  JS Response Bytes: 2796806
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 139303
-
-### Performance issues
-
 
 ### Performance issues
 

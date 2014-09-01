@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamessaloon.com/counter-strike-online.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Counter Strike Online : Games Saloon](http://www.gamessaloon.com/counter-strike-online.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamessaloon.com/counter-strike-online.html
 *  JS Response Bytes: 1529148
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114983
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://fallingblox.davnetwork.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [fallblox](http://fallingblox.davnetwork.com/)
 
@@ -29,9 +33,6 @@ title: http://fallingblox.davnetwork.com/
 *  JS Response Bytes: 691698
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

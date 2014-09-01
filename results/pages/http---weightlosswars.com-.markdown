@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://weightlosswars.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Weight Loss Challenge, Competition & Online Weight Loss Programs](http://weightlosswars.com/)
 
@@ -29,9 +33,6 @@ title: http://weightlosswars.com/
 *  JS Response Bytes: 767400
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17029
-
-### Performance issues
-
 
 ### Performance issues
 

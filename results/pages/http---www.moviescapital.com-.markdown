@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.moviescapital.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Movies - Download Full Movies](http://www.moviescapital.com/)
 
@@ -18,7 +24,7 @@ title: http://www.moviescapital.com/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 60
-*  Total Request Bytes: 4402
+*  Total Request Bytes: 4398
 
 ### Response data
 
@@ -29,9 +35,6 @@ title: http://www.moviescapital.com/
 *  JS Response Bytes: 110555
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50
-
-### Performance issues
-
 
 ### Performance issues
 

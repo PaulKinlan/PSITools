@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/city-surfing/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [City Surfing game](http://www.skateboarding-games.biz/city-surfing/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/city-surfing/
 *  JS Response Bytes: 2124048
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116567
-
-### Performance issues
-
 
 ### Performance issues
 

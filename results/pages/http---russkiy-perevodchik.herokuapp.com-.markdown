@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://russkiy-perevodchik.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Русский переводчик](http://russkiy-perevodchik.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://russkiy-perevodchik.herokuapp.com/
 *  JS Response Bytes: 1841597
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 172868
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://cutthe-rope-online.blogspot.com.tr/2014/04/cut-rope.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [cut the rope online : cut the rope](http://cutthe-rope-online.blogspot.com.tr/2014/04/cut-rope.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://cutthe-rope-online.blogspot.com.tr/2014/04/cut-rope.html?m=1
 *  JS Response Bytes: 1465312
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103723
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://txgarage.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [txGarage News, Reviews, Passion for the Texas automotive consumer - Texas Car News - Texas Car Reviews - Texas Car Enthusiasts](http://txgarage.com/)
 
@@ -29,9 +32,6 @@ title: http://txgarage.com/
 *  JS Response Bytes: 1083149
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109056
-
-### Performance issues
-
 
 ### Performance issues
 

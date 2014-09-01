@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.ereality.ru/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Бесплатная браузерная онлайн игра Грани Реальности](http://www.ereality.ru/)
 
@@ -29,9 +36,6 @@ title: http://www.ereality.ru/
 *  JS Response Bytes: 605521
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2974
-
-### Performance issues
-
 
 ### Performance issues
 

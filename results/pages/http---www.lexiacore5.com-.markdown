@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.lexiacore5.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Lexia Reading CORE5](http://www.lexiacore5.com/)
 
@@ -29,9 +31,6 @@ title: http://www.lexiacore5.com/
 *  JS Response Bytes: 51655
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

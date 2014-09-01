@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://freehd-games.blogspot.com/2013/08/angry-birds.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [Free online web games: Angry Birds](http://freehd-games.blogspot.com/2013/08/angry-birds.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://freehd-games.blogspot.com/2013/08/angry-birds.html?m=1
 *  JS Response Bytes: 720950
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95867
-
-### Performance issues
-
 
 ### Performance issues
 

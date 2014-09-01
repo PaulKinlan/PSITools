@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://lostforgames.us/games/spongebob-squarepants-bicycle-racing/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SpongeBob SquarePants Bicycle Racing | Lost For Games](http://lostforgames.us/games/spongebob-squarepants-bicycle-racing/)
 
@@ -29,9 +34,6 @@ title: http://lostforgames.us/games/spongebob-squarepants-bicycle-racing/
 *  JS Response Bytes: 519582
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42313
-
-### Performance issues
-
 
 ### Performance issues
 

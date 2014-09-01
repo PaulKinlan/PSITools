@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://xn--omarisquio-19a.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [8, 9 y 10 de Agosto de 2014 en Vigo - O'Marisquiño XIV](http://xn--omarisquio-19a.com/)
 
@@ -29,9 +33,6 @@ title: http://xn--omarisquio-19a.com/
 *  JS Response Bytes: 2396617
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 366945
-
-### Performance issues
-
 
 ### Performance issues
 

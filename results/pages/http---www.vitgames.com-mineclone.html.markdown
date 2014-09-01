@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.vitgames.com/mineclone.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MineClone : Vit Games](http://www.vitgames.com/mineclone.html)
 
@@ -29,9 +37,6 @@ title: http://www.vitgames.com/mineclone.html
 *  JS Response Bytes: 2045922
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109233
-
-### Performance issues
-
 
 ### Performance issues
 

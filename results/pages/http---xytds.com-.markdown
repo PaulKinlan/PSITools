@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://xytds.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Computer Programmer | 347.560.3248](http://xytds.com/)
 
@@ -29,9 +34,6 @@ title: http://xytds.com/
 *  JS Response Bytes: 292330
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 953
-
-### Performance issues
-
 
 ### Performance issues
 

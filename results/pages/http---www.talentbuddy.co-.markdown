@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.talentbuddy.co/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Learn by Doing - Talentbuddy](http://www.talentbuddy.co/)
 
@@ -29,9 +31,6 @@ title: http://www.talentbuddy.co/
 *  JS Response Bytes: 328455
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10685
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.justmanpage.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Just Manpage - Comprehensive and Interactive Reference for Unix Manual Pages in an App](http://www.justmanpage.com/)
 
@@ -29,9 +33,6 @@ title: http://www.justmanpage.com/
 *  JS Response Bytes: 464454
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29212
-
-### Performance issues
-
 
 ### Performance issues
 

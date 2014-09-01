@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.itypinggames.com/ChromeTyping.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free online typing game](http://www.itypinggames.com/ChromeTyping.html)
 
@@ -29,9 +36,6 @@ title: http://www.itypinggames.com/ChromeTyping.html
 *  JS Response Bytes: 1407979
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98300
-
-### Performance issues
-
 
 ### Performance issues
 

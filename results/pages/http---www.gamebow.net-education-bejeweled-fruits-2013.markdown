@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamebow.net/education/bejeweled-fruits-2013
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bejeweled Fruits 2013 - GameBow.net | Free Online Flash Games](http://www.gamebow.net/education/bejeweled-fruits-2013)
 
@@ -29,9 +35,6 @@ title: http://www.gamebow.net/education/bejeweled-fruits-2013
 *  JS Response Bytes: 2756919
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122710
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_1594_Kung-Fu-Panda-Tales-of-Po.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kung Fu Panda Tales of Po Flash Games](http://www.newpopulargames.com/game_1594_Kung-Fu-Panda-Tales-of-Po.html)
 
@@ -29,9 +33,6 @@ title: http://www.newpopulargames.com/game_1594_Kung-Fu-Panda-Tales-of-Po.html
 *  JS Response Bytes: 1679971
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112881
-
-### Performance issues
-
 
 ### Performance issues
 

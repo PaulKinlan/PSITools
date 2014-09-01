@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.hroffice.nl/en/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Recruitment software, recruitment system & HRM software by HROffice](http://www.hroffice.nl/en/)
 
@@ -29,9 +33,6 @@ title: http://www.hroffice.nl/en/
 *  JS Response Bytes: 807665
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1614
-
-### Performance issues
-
 
 ### Performance issues
 

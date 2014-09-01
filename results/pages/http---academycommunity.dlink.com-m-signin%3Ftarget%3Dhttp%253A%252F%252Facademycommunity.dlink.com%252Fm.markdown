@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://academycommunity.dlink.com/m/signin?target=http%3A%2F%2Facademycommunity.dlink.com%2Fm
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Sign In – D-Link Academy Community – D-Link Academy Community](http://academycommunity.dlink.com/m/signin?target=http%3A%2F%2Facademycommunity.dlink.com%2Fm)
 
@@ -29,9 +32,6 @@ title: http://academycommunity.dlink.com/m/signin?target=http%3A%2F%2Facademycom
 *  JS Response Bytes: 595373
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2814
-
-### Performance issues
-
 
 ### Performance issues
 

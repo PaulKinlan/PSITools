@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://paper.dxy.cn/
+MinimizeRenderBlockingResources: true
 ---
 ## [论文与基金_丁香园](http://paper.dxy.cn/)
 
@@ -29,9 +30,6 @@ title: http://paper.dxy.cn/
 *  JS Response Bytes: 224431
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

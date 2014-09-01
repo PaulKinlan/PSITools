@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.charles.art.br/games/monkey-memory/
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [Monkey_Memory](http://www.charles.art.br/games/monkey-memory/)
 
@@ -29,9 +31,6 @@ title: http://www.charles.art.br/games/monkey-memory/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://inzolo.com/accounts/login/?next=/budget/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Log In](https://inzolo.com/accounts/login/?next=/budget/)
 
@@ -29,9 +34,6 @@ title: https://inzolo.com/accounts/login/?next=/budget/
 *  JS Response Bytes: 161786
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 212
-
-### Performance issues
-
 
 ### Performance issues
 

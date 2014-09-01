@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ww38.thegames-juegos.com/monsters_house.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [thegames-juegos.com](http://ww38.thegames-juegos.com/monsters_house.html)
 
@@ -29,9 +32,6 @@ title: http://ww38.thegames-juegos.com/monsters_house.html
 *  JS Response Bytes: 209105
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 234
-
-### Performance issues
-
 
 ### Performance issues
 

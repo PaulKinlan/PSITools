@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://minigames.mail.ru/erudit
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [Мини-игры@Mail.Ru](http://minigames.mail.ru/erudit)
 
@@ -29,9 +31,6 @@ title: http://minigames.mail.ru/erudit
 *  JS Response Bytes: 103992
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

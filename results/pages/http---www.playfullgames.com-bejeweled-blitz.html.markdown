@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.playfullgames.com/bejeweled-blitz.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bejeweled Blitz : Play Full Games](http://www.playfullgames.com/bejeweled-blitz.html)
 
@@ -29,9 +37,6 @@ title: http://www.playfullgames.com/bejeweled-blitz.html
 *  JS Response Bytes: 1529853
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98573
-
-### Performance issues
-
 
 ### Performance issues
 

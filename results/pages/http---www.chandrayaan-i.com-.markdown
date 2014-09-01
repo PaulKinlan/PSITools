@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.chandrayaan-i.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chandrayaan India's Moon Mission](http://www.chandrayaan-i.com/)
 
@@ -29,9 +34,6 @@ title: http://www.chandrayaan-i.com/
 *  JS Response Bytes: 1556760
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110636
-
-### Performance issues
-
 
 ### Performance issues
 

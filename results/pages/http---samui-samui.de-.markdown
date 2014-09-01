@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://samui-samui.de/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Samui? Samui! - Über das Leben als Auswanderer auf Koh Samui, Thailand](http://samui-samui.de/)
 
@@ -29,9 +33,6 @@ title: http://samui-samui.de/
 *  JS Response Bytes: 3203442
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56404
-
-### Performance issues
-
 
 ### Performance issues
 

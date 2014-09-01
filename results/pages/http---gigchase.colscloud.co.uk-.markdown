@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gigchase.colscloud.co.uk/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://gigchase.colscloud.co.uk/)
 
@@ -29,9 +32,6 @@ title: http://gigchase.colscloud.co.uk/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 526
-
-### Performance issues
-
 
 ### Performance issues
 

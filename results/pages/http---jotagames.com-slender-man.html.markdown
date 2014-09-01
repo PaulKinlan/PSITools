@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://jotagames.com/slender-man.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [JOTAGameS.Com | Flash Games – Slender Man!](http://jotagames.com/slender-man.html)
 
@@ -29,9 +35,6 @@ title: http://jotagames.com/slender-man.html
 *  JS Response Bytes: 412514
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 803
-
-### Performance issues
-
 
 ### Performance issues
 

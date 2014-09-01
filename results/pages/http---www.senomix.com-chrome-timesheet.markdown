@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.senomix.com/chrome-timesheet
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Senomix Timesheets for Mac and Windows](http://www.senomix.com/chrome-timesheet)
 
@@ -29,9 +33,6 @@ title: http://www.senomix.com/chrome-timesheet
 *  JS Response Bytes: 1418881
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

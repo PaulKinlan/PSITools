@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://hdgamefree.blogspot.com/2013/08/minecraft.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://hdgamefree.blogspot.com/2013/08/minecraft.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://hdgamefree.blogspot.com/2013/08/minecraft.html?m=1
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18792
-
-### Performance issues
-
 
 ### Performance issues
 

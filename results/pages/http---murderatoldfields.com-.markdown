@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://murderatoldfields.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Murder at Old Fields](http://murderatoldfields.com/)
 
@@ -29,9 +33,6 @@ title: http://murderatoldfields.com/
 *  JS Response Bytes: 395608
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

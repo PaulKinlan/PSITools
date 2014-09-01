@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.fleetbasic.com/fleetajax/index.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fleet Basic](http://www.fleetbasic.com/fleetajax/index.php)
 
@@ -29,9 +33,6 @@ title: http://www.fleetbasic.com/fleetajax/index.php
 *  JS Response Bytes: 545029
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

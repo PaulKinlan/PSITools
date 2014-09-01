@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://developers.jollypad.com/fb/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Fun Free Online Facebook Games - JollyPad](http://developers.jollypad.com/fb/)
 
@@ -29,9 +35,6 @@ title: http://developers.jollypad.com/fb/
 *  JS Response Bytes: 265279
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14756
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.onlinegamese.com/games/bejeweled-3/online-games
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bejeweled 3 | Online Games | Free Online Games Play Now](http://www.onlinegamese.com/games/bejeweled-3/online-games)
 
@@ -29,9 +34,6 @@ title: http://www.onlinegamese.com/games/bejeweled-3/online-games
 *  JS Response Bytes: 1881907
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156328
-
-### Performance issues
-
 
 ### Performance issues
 

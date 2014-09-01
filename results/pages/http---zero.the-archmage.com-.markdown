@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://zero.the-archmage.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Lord Archmage www.thelord.cl](http://zero.the-archmage.com/)
 
@@ -29,9 +36,6 @@ title: http://zero.the-archmage.com/
 *  JS Response Bytes: 1094308
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95541
-
-### Performance issues
-
 
 ### Performance issues
 

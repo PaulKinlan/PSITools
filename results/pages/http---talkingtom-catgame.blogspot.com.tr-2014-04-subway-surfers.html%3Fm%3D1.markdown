@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://talkingtom-catgame.blogspot.com.tr/2014/04/subway-surfers.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [talking tom cat 2 hd game: Subway Surfers](http://talkingtom-catgame.blogspot.com.tr/2014/04/subway-surfers.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://talkingtom-catgame.blogspot.com.tr/2014/04/subway-surfers.html?m=1
 *  JS Response Bytes: 720848
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95599
-
-### Performance issues
-
 
 ### Performance issues
 

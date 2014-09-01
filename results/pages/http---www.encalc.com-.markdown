@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.encalc.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Free Online Scientific Calculator :: Encalc](http://www.encalc.com/)
 
@@ -29,9 +34,6 @@ title: http://www.encalc.com/
 *  JS Response Bytes: 1298923
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50329
-
-### Performance issues
-
 
 ### Performance issues
 

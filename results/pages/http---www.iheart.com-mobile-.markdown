@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.iheart.com/mobile/
+MinimizeRenderBlockingResources: true
 ---
 ## [iHeartRadio](http://www.iheart.com/mobile/)
 
@@ -29,9 +30,6 @@ title: http://www.iheart.com/mobile/
 *  JS Response Bytes: 96834
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1309
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://greyonline.net/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bullshit-Free Gaming Community | [GReY]](http://greyonline.net/)
 
@@ -29,9 +32,6 @@ title: http://greyonline.net/
 *  JS Response Bytes: 129895
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54496
-
-### Performance issues
-
 
 ### Performance issues
 

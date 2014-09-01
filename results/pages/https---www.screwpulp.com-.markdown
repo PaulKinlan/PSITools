@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.screwpulp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Screwpulp .:. Your personal bookshop.](https://www.screwpulp.com/)
 
@@ -29,9 +31,6 @@ title: https://www.screwpulp.com/
 *  JS Response Bytes: 388992
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

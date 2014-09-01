@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://worldoffunn.blogspot.com/2013/11/burnin-rubber-5.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [World Of Fun: Burnin Rubber 5](http://worldoffunn.blogspot.com/2013/11/burnin-rubber-5.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://worldoffunn.blogspot.com/2013/11/burnin-rubber-5.html?m=1
 *  JS Response Bytes: 1890344
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114851
-
-### Performance issues
-
 
 ### Performance issues
 

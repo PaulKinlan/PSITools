@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://dev.mycircle.tv/cloud/gdrive.php
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://dev.mycircle.tv/cloud/gdrive.php)
 
@@ -29,9 +30,6 @@ title: http://dev.mycircle.tv/cloud/gdrive.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 536
-
-### Performance issues
-
 
 ### Performance issues
 

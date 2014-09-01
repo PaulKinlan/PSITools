@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://olimpiadi.ssep.it/p/news.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [News Olimpiadi: News](http://olimpiadi.ssep.it/p/news.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://olimpiadi.ssep.it/p/news.html?m=1
 *  JS Response Bytes: 2019113
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125418
-
-### Performance issues
-
 
 ### Performance issues
 

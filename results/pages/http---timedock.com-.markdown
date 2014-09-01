@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://timedock.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [TIMEDOCK swipe-in to site with your MobileTimeClock](http://timedock.com/)
 
@@ -29,9 +30,6 @@ title: http://timedock.com/
 *  JS Response Bytes: 187823
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 60278
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://virtualworldsforteens.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Virtual Worlds for Teens - Games for Teenagers](http://virtualworldsforteens.com/)
 
@@ -29,9 +36,6 @@ title: http://virtualworldsforteens.com/
 *  JS Response Bytes: 3235984
 *  Flash Response Bytes: 115185
 *  Other Response Bytes: 304215
-
-### Performance issues
-
 
 ### Performance issues
 

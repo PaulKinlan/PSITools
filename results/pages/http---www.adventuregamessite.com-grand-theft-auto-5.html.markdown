@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.adventuregamessite.com/grand-theft-auto-5.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Grand Theft Auto 5 | Adventure Games Site](http://www.adventuregamessite.com/grand-theft-auto-5.html)
 
@@ -29,9 +34,6 @@ title: http://www.adventuregamessite.com/grand-theft-auto-5.html
 *  JS Response Bytes: 1529518
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103986
-
-### Performance issues
-
 
 ### Performance issues
 

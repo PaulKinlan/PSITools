@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://weatherfor.net/?label=ch1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Weather for your location](http://weatherfor.net/?label=ch1)
 
@@ -29,9 +32,6 @@ title: http://weatherfor.net/?label=ch1
 *  JS Response Bytes: 760241
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14677
-
-### Performance issues
-
 
 ### Performance issues
 

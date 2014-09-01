@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ancient.eu/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ancient History Encyclopedia](http://www.ancient.eu/)
 
@@ -29,9 +33,6 @@ title: http://www.ancient.eu/
 *  JS Response Bytes: 2247102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 312031
-
-### Performance issues
-
 
 ### Performance issues
 

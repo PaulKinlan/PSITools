@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.trigonometrics.sampladoc.com/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Trigonometrics](http://www.trigonometrics.sampladoc.com/index.html)
 
@@ -29,9 +34,6 @@ title: http://www.trigonometrics.sampladoc.com/index.html
 *  JS Response Bytes: 639302
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3424
-
-### Performance issues
-
 
 ### Performance issues
 

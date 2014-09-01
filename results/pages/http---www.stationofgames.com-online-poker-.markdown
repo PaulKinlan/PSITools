@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.stationofgames.com/online-poker/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Poker](http://www.stationofgames.com/online-poker/)
 
@@ -29,9 +35,6 @@ title: http://www.stationofgames.com/online-poker/
 *  JS Response Bytes: 1482183
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109544
-
-### Performance issues
-
 
 ### Performance issues
 

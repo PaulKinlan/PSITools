@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://iponline.co/?source=chromeapp
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [66.249.93.74 - IPonline.co](http://iponline.co/?source=chromeapp)
 
@@ -29,9 +32,6 @@ title: http://iponline.co/?source=chromeapp
 *  JS Response Bytes: 1052640
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 74463
-
-### Performance issues
-
 
 ### Performance issues
 

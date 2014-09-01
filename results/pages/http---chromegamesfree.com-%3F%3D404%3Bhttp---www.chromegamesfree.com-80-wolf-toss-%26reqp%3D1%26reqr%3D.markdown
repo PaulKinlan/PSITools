@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chromegamesfree.com/?=404;http://www.chromegamesfree.com:80/wolf-toss/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [chromegamesfree.com](http://chromegamesfree.com/?=404;http://www.chromegamesfree.com:80/wolf-toss/&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://chromegamesfree.com/?=404;http://www.chromegamesfree.com:80/wolf-t
 *  JS Response Bytes: 219737
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111
-
-### Performance issues
-
 
 ### Performance issues
 

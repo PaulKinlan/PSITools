@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://my.drbrownsapps.com/chrome/shapes/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Dr. Brown's Apps](http://my.drbrownsapps.com/chrome/shapes/)
 
@@ -29,9 +32,6 @@ title: http://my.drbrownsapps.com/chrome/shapes/
 *  JS Response Bytes: 3786089
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

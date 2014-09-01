@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chromewebgame.com/?=404;http://www.chromewebgame.com:80/nfs-world/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [chromewebgame.com](http://chromewebgame.com/?=404;http://www.chromewebgame.com:80/nfs-world/&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://chromewebgame.com/?=404;http://www.chromewebgame.com:80/nfs-world/
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 107
-
-### Performance issues
-
 
 ### Performance issues
 

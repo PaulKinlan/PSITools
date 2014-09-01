@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://themirage.fr/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
 ---
 ## [Cloudpad HTML5 controller](http://themirage.fr/)
 
@@ -29,9 +32,6 @@ title: http://themirage.fr/
 *  JS Response Bytes: 157167
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

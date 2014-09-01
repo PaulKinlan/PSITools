@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bizscrambler.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Exercise Your Body |](http://bizscrambler.com/)
 
@@ -29,9 +32,6 @@ title: http://bizscrambler.com/
 *  JS Response Bytes: 164441
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13821
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamestask.net/adventure-action/super-angelo
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Angelo - GamesTask.net | Free Online Games](http://www.gamestask.net/adventure-action/super-angelo)
 
@@ -29,9 +35,6 @@ title: http://www.gamestask.net/adventure-action/super-angelo
 *  JS Response Bytes: 1830627
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112725
-
-### Performance issues
-
 
 ### Performance issues
 

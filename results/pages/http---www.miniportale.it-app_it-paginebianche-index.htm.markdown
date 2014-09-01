@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.miniportale.it/app_it/paginebianche/index.htm
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PAGINE BIANCHE](http://www.miniportale.it/app_it/paginebianche/index.htm)
 
@@ -29,9 +32,6 @@ title: http://www.miniportale.it/app_it/paginebianche/index.htm
 *  JS Response Bytes: 669997
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26308
-
-### Performance issues
-
 
 ### Performance issues
 

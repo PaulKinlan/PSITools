@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://bestof-chromegames.blogspot.com/2013/12/angry-gran-run-christmas-village.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Online games, card games, casino games, flash games, best games: Angry Gran Run: Christmas Village](http://bestof-chromegames.blogspot.com/2013/12/angry-gran-run-christmas-village.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://bestof-chromegames.blogspot.com/2013/12/angry-gran-run-christmas-v
 *  JS Response Bytes: 720946
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95627
-
-### Performance issues
-
 
 ### Performance issues
 

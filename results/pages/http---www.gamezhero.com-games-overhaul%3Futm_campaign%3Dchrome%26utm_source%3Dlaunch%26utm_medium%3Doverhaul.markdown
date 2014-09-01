@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamezhero.com/games/overhaul?utm_campaign=chrome&utm_source=launch&utm_medium=overhaul
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Overhaul | Games | Free Online Games @ Gamezhero.com](http://www.gamezhero.com/games/overhaul?utm_campaign=chrome&utm_source=launch&utm_medium=overhaul)
 
@@ -29,9 +35,6 @@ title: http://www.gamezhero.com/games/overhaul?utm_campaign=chrome&utm_source=la
 *  JS Response Bytes: 2074435
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109154
-
-### Performance issues
-
 
 ### Performance issues
 

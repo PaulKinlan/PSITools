@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.shareaholic.com/login
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
 ---
 ## [Log in](https://www.shareaholic.com/login)
 
@@ -29,9 +32,6 @@ title: https://www.shareaholic.com/login
 *  JS Response Bytes: 1013731
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 191535
-
-### Performance issues
-
 
 ### Performance issues
 

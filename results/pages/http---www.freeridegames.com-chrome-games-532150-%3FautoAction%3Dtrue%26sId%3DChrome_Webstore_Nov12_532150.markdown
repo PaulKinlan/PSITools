@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/532150/?autoAction=true&sId=Chrome_Webstore_Nov12_532150
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Heroes of Hellas for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/532150/?autoAction=true&sId=Chrome_Webstore_Nov12_532150)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/532150/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1503661
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27545
-
-### Performance issues
-
 
 ### Performance issues
 

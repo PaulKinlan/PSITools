@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://sisooncloud.blogspot.in/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [CloudTree](http://sisooncloud.blogspot.in/?m=1)
 
@@ -29,9 +30,6 @@ title: http://sisooncloud.blogspot.in/?m=1
 *  JS Response Bytes: 314320
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 561
-
-### Performance issues
-
 
 ### Performance issues
 

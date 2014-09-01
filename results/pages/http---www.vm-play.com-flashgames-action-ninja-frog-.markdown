@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.vm-play.com/flashgames/action/ninja-frog/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [vm-play.com](http://www.vm-play.com/flashgames/action/ninja-frog/)
 
@@ -29,9 +33,6 @@ title: http://www.vm-play.com/flashgames/action/ninja-frog/
 *  JS Response Bytes: 187231
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

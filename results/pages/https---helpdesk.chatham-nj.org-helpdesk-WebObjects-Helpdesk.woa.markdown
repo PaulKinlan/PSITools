@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://helpdesk.chatham-nj.org/helpdesk/WebObjects/Helpdesk.woa
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [](https://helpdesk.chatham-nj.org/helpdesk/WebObjects/Helpdesk.woa)
 
@@ -29,9 +31,6 @@ title: https://helpdesk.chatham-nj.org/helpdesk/WebObjects/Helpdesk.woa
 *  JS Response Bytes: 218025
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 311
-
-### Performance issues
-
 
 ### Performance issues
 

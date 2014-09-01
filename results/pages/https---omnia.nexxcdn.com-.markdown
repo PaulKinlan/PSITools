@@ -33,8 +33,5 @@ title: https://omnia.nexxcdn.com/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

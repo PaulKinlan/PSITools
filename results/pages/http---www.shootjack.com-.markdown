@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.shootjack.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Shootjack Casino - One Life Play It Right! | Home](http://www.shootjack.com/)
 
@@ -29,9 +33,6 @@ title: http://www.shootjack.com/
 *  JS Response Bytes: 364049
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

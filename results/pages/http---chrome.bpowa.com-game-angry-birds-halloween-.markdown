@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chrome.bpowa.com/game/angry-birds-halloween/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Bpowa.com](http://chrome.bpowa.com/game/angry-birds-halloween/)
 
@@ -29,9 +31,6 @@ title: http://chrome.bpowa.com/game/angry-birds-halloween/
 *  JS Response Bytes: 97672
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 687
-
-### Performance issues
-
 
 ### Performance issues
 

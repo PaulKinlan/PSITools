@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.somebody4u.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Somebody4U.Com | Free Online Dating](http://www.somebody4u.com/)
 
@@ -29,9 +33,6 @@ title: http://www.somebody4u.com/
 *  JS Response Bytes: 1993504
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96924
-
-### Performance issues
-
 
 ### Performance issues
 

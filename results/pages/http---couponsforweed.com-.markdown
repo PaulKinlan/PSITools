@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://couponsforweed.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Coupons For Weed](http://couponsforweed.com/)
 
@@ -29,9 +32,6 @@ title: http://couponsforweed.com/
 *  JS Response Bytes: 387464
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1154
-
-### Performance issues
-
 
 ### Performance issues
 

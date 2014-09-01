@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.targetclickmarketing.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [TargetClick Marketing | Strategic Online Marketing Solutions](http://www.targetclickmarketing.com/)
 
@@ -29,9 +33,6 @@ title: http://www.targetclickmarketing.com/
 *  JS Response Bytes: 1301692
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53958
-
-### Performance issues
-
 
 ### Performance issues
 

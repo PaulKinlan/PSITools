@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://chromegames.co.uk/doctoracorn.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Doctor Acorn](http://chromegames.co.uk/doctoracorn.html)
 
@@ -29,9 +35,6 @@ title: http://chromegames.co.uk/doctoracorn.html
 *  JS Response Bytes: 1165977
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95465
-
-### Performance issues
-
 
 ### Performance issues
 

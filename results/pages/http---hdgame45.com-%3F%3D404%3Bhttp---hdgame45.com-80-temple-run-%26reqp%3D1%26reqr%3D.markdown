@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://hdgame45.com/?=404;http://hdgame45.com:80/temple-run/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [hdgame45.com](http://hdgame45.com/?=404;http://hdgame45.com:80/temple-run/&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://hdgame45.com/?=404;http://hdgame45.com:80/temple-run/&reqp=1&reqr=
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94
-
-### Performance issues
-
 
 ### Performance issues
 

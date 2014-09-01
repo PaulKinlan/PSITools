@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.hike-messenger.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Hike](http://www.hike-messenger.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://www.hike-messenger.blogspot.com/?m=1
 *  JS Response Bytes: 248931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 575
-
-### Performance issues
-
 
 ### Performance issues
 

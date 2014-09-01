@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gamesprotec.info/bad-piggies/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tic Games Flash Games – Sayfa bulunamadı](http://gamesprotec.info/bad-piggies/)
 
@@ -29,9 +34,6 @@ title: http://gamesprotec.info/bad-piggies/
 *  JS Response Bytes: 503389
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25158
-
-### Performance issues
-
 
 ### Performance issues
 

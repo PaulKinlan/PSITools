@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://puzzlegame.khjlab.com/
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [KHJ어학연구소 히라가나 퍼즐](http://puzzlegame.khjlab.com/)
 
@@ -29,9 +32,6 @@ title: http://puzzlegame.khjlab.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 663
-
-### Performance issues
-
 
 ### Performance issues
 

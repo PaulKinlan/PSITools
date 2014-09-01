@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://fifa-2013-chrome.blogspot.com.tr/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Fifa 2013 Game Online](http://fifa-2013-chrome.blogspot.com.tr/?m=1)
 
@@ -29,9 +30,6 @@ title: http://fifa-2013-chrome.blogspot.com.tr/?m=1
 *  JS Response Bytes: 248931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2183
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://yoopies.fr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Baby-Sitter, Nounou, baby-sitting, Recherche garde enfants | Yoopies](https://yoopies.fr/)
 
@@ -29,9 +32,6 @@ title: https://yoopies.fr/
 *  JS Response Bytes: 1656238
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 77326
-
-### Performance issues
-
 
 ### Performance issues
 

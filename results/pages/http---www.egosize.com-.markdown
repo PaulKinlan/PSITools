@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.egosize.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Egosize reviews any site and returns insights and improvements](http://www.egosize.com/)
 
@@ -29,9 +32,6 @@ title: http://www.egosize.com/
 *  JS Response Bytes: 328755
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

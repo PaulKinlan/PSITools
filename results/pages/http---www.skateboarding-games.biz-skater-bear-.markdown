@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/skater-bear/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Skater Bear game](http://www.skateboarding-games.biz/skater-bear/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/skater-bear/
 *  JS Response Bytes: 2124089
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125949
-
-### Performance issues
-
 
 ### Performance issues
 

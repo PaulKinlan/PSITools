@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://personalorganizer.whollyweb.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Personal Organizer](http://personalorganizer.whollyweb.com/)
 
@@ -29,9 +35,6 @@ title: http://personalorganizer.whollyweb.com/
 *  JS Response Bytes: 574480
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10048
-
-### Performance issues
-
 
 ### Performance issues
 

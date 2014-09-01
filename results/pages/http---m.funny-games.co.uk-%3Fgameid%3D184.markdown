@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.funny-games.co.uk/?gameid=184
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funny-games.co.uk/?gameid=184)
 
@@ -18,20 +22,17 @@ title: http://m.funny-games.co.uk/?gameid=184
 *  Number of JS Resources: 19
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 59
-*  Total Request Bytes: 7477
+*  Total Request Bytes: 7466
 
 ### Response data
 
-*  HTML Response Bytes: 56077
+*  HTML Response Bytes: 56809
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 47368
-*  Image Response Bytes: 544095
-*  JS Response Bytes: 1266602
+*  Image Response Bytes: 544123
+*  JS Response Bytes: 1266603
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 28006
-
-### Performance issues
-
+*  Other Response Bytes: 28040
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://onlinebestgames.in/tag/angry-birds
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games tagged as: Angry Birds - Free online game :: Online Best Games](http://onlinebestgames.in/tag/angry-birds)
 
@@ -29,9 +34,6 @@ title: http://onlinebestgames.in/tag/angry-birds
 *  JS Response Bytes: 1546822
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4639
-
-### Performance issues
-
 
 ### Performance issues
 

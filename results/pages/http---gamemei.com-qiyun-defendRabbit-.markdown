@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gamemei.com/qiyun/defendRabbit/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [game](http://gamemei.com/qiyun/defendRabbit/)
 
@@ -29,9 +32,6 @@ title: http://gamemei.com/qiyun/defendRabbit/
 *  JS Response Bytes: 1542221
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 69184
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mm.vistausd.org/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mission Meadows Elementary: Home Page](http://mm.vistausd.org/)
 
@@ -29,9 +33,6 @@ title: http://mm.vistausd.org/
 *  JS Response Bytes: 2206152
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103555
-
-### Performance issues
-
 
 ### Performance issues
 

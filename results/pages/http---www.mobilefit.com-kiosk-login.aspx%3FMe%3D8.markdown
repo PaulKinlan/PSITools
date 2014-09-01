@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mobilefit.com/kiosk/login.aspx?Me=8
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MOBILEFIT!-Staging](http://www.mobilefit.com/kiosk/login.aspx?Me=8)
 
@@ -29,9 +33,6 @@ title: http://www.mobilefit.com/kiosk/login.aspx?Me=8
 *  JS Response Bytes: 1668609
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1384
-
-### Performance issues
-
 
 ### Performance issues
 

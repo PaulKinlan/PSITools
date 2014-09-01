@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.4to4game.com/arcade---action/siegius-arena#.U_eAF00ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Siegius Arena - 4to4game.com - just Challange! And Play Free! Play Online!](http://www.4to4game.com/arcade---action/siegius-arena#.U_eAF00ieKA)
 
@@ -29,9 +36,6 @@ title: http://www.4to4game.com/arcade---action/siegius-arena#.U_eAF00ieKA
 *  JS Response Bytes: 2010637
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48057
-
-### Performance issues
-
 
 ### Performance issues
 

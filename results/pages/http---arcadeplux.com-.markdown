@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://arcadeplux.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [arcadeplux.com - arcadeplux Resources and Information. This website is for sale!](http://arcadeplux.com/)
 
@@ -29,9 +31,6 @@ title: http://arcadeplux.com/
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

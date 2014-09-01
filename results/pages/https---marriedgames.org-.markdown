@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://marriedgames.org/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Sex Games for Couples | MarriedGames.org](https://marriedgames.org/)
 
@@ -29,9 +33,6 @@ title: https://marriedgames.org/
 *  JS Response Bytes: 488833
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29695
-
-### Performance issues
-
 
 ### Performance issues
 

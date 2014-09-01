@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/physics/mahjong-burger-2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mahjong Burger - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/physics/mahjong-burger-2)
 
@@ -29,9 +35,6 @@ title: http://www.gamesvarious.com/physics/mahjong-burger-2
 *  JS Response Bytes: 2276092
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105534
-
-### Performance issues
-
 
 ### Performance issues
 

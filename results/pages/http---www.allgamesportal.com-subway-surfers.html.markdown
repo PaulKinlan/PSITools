@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.allgamesportal.com/subway-surfers.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Subway Surfers | All Games Portal](http://www.allgamesportal.com/subway-surfers.html)
 
@@ -29,9 +34,6 @@ title: http://www.allgamesportal.com/subway-surfers.html
 *  JS Response Bytes: 1529523
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98578
-
-### Performance issues
-
 
 ### Performance issues
 

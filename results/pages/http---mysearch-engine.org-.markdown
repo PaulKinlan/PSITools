@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://mysearch-engine.org/
+AvoidLandingPageRedirects: true
+ServerResponseTime: true
 ---
 ## [](http://mysearch-engine.org/)
 
@@ -29,9 +31,6 @@ title: http://mysearch-engine.org/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 139
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://web.attclog.com/login?locale=__MSG_@@ui_locale__&ref=chrome-app
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [attclog.com | Log-in](https://web.attclog.com/login?locale=__MSG_@@ui_locale__&ref=chrome-app)
 
@@ -29,9 +33,6 @@ title: https://web.attclog.com/login?locale=__MSG_@@ui_locale__&ref=chrome-app
 *  JS Response Bytes: 448750
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2374
-
-### Performance issues
-
 
 ### Performance issues
 

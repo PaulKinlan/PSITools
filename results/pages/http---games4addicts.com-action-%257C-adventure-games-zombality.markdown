@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://games4addicts.com/action-%7C-adventure-games/zombality
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Games4Addicts.com | Free Popular Online Games | Play Online Page not found » Games4Addicts.com | Free Popular Online Games | Play Online](http://games4addicts.com/action-%7C-adventure-games/zombality)
 
@@ -29,9 +32,6 @@ title: http://games4addicts.com/action-%7C-adventure-games/zombality
 *  JS Response Bytes: 758346
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 68351
-
-### Performance issues
-
 
 ### Performance issues
 

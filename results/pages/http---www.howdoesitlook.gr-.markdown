@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.howdoesitlook.gr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [iSoftware :: HowDoesItLook - Responsiveness web design test tool](http://www.howdoesitlook.gr/)
 
@@ -29,9 +33,6 @@ title: http://www.howdoesitlook.gr/
 *  JS Response Bytes: 36236
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26468
-
-### Performance issues
-
 
 ### Performance issues
 

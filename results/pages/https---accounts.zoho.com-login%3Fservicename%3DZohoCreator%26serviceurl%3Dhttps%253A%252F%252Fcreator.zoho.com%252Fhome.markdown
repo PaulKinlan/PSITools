@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://accounts.zoho.com/login?servicename=ZohoCreator&serviceurl=https%3A%2F%2Fcreator.zoho.com%2Fhome
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Zoho Accounts](https://accounts.zoho.com/login?servicename=ZohoCreator&serviceurl=https%3A%2F%2Fcreator.zoho.com%2Fhome)
 
@@ -29,9 +32,6 @@ title: https://accounts.zoho.com/login?servicename=ZohoCreator&serviceurl=https%
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1542
-
-### Performance issues
-
 
 ### Performance issues
 

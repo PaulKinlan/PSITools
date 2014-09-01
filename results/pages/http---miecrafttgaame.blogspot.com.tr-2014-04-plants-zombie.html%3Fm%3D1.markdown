@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://miecrafttgaame.blogspot.com.tr/2014/04/plants-zombie.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [minecraft full hd online game: plants zombie](http://miecrafttgaame.blogspot.com.tr/2014/04/plants-zombie.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://miecrafttgaame.blogspot.com.tr/2014/04/plants-zombie.html?m=1
 *  JS Response Bytes: 720886
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95591
-
-### Performance issues
-
 
 ### Performance issues
 

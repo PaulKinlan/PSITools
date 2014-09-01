@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamoid.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Physics Games with Thought-Provoking Puzzles](http://www.gamoid.net/)
 
@@ -29,9 +34,6 @@ title: http://www.gamoid.net/
 *  JS Response Bytes: 2379125
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 150523
-
-### Performance issues
-
 
 ### Performance issues
 

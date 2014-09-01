@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://monopoly2.imperdiblesoft.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Monopoly Online 2.0](http://monopoly2.imperdiblesoft.com/)
 
@@ -29,9 +34,6 @@ title: http://monopoly2.imperdiblesoft.com/
 *  JS Response Bytes: 2398296
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25626
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://sendwallpapers.999wallpapers.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [999Wallpapers.com](http://sendwallpapers.999wallpapers.com/)
 
@@ -29,9 +31,6 @@ title: http://sendwallpapers.999wallpapers.com/
 *  JS Response Bytes: 97672
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

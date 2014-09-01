@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://chatiku.com/
+PrioritizeVisibleContent: true
 ---
 ## [chatiku beta](https://chatiku.com/)
 
@@ -29,9 +30,6 @@ title: https://chatiku.com/
 *  JS Response Bytes: 26052
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

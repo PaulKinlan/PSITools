@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromeflashgames.blogspot.com/2013/08/grand-theft-auto-san-andreas.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [chromeflashgames: Grand Theft Auto San Andreas](http://chromeflashgames.blogspot.com/2013/08/grand-theft-auto-san-andreas.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chromeflashgames.blogspot.com/2013/08/grand-theft-auto-san-andreas
 *  JS Response Bytes: 1067878
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96752
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gamesupreme.net/new-popular-games/113/moo-cab
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [gamesupreme.net](http://www.gamesupreme.net/new-popular-games/113/moo-cab)
 
@@ -29,9 +32,6 @@ title: http://www.gamesupreme.net/new-popular-games/113/moo-cab
 *  JS Response Bytes: 209531
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

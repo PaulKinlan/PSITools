@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://piicpets.waluu.com/?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Liste des contributions](http://piicpets.waluu.com/?m=1)
 
@@ -29,9 +35,6 @@ title: http://piicpets.waluu.com/?m=1
 *  JS Response Bytes: 951153
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6541
-
-### Performance issues
-
 
 ### Performance issues
 

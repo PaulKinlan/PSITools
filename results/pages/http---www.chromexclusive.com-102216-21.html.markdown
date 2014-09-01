@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.chromexclusive.com/102216/21.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [chromExclusive Play » Minecraft](http://www.chromexclusive.com/102216/21.html)
 
@@ -29,9 +37,6 @@ title: http://www.chromexclusive.com/102216/21.html
 *  JS Response Bytes: 750145
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15531
-
-### Performance issues
-
 
 ### Performance issues
 

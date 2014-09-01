@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.neurocampus.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Neurocampus op iPhone en iPad](http://m.neurocampus.com/)
 
@@ -29,9 +31,6 @@ title: http://m.neurocampus.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46
-
-### Performance issues
-
 
 ### Performance issues
 

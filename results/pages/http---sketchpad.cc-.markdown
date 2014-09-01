@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://sketchpad.cc/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Studio Sketchpad - Processing on Etherpad](http://sketchpad.cc/)
 
@@ -29,9 +32,6 @@ title: http://sketchpad.cc/
 *  JS Response Bytes: 502374
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

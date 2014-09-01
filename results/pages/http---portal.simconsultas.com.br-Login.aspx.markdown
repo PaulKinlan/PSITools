@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://portal.simconsultas.com.br/Login.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login - Acompanhamento Clientes](http://portal.simconsultas.com.br/Login.aspx)
 
@@ -29,9 +34,6 @@ title: http://portal.simconsultas.com.br/Login.aspx
 *  JS Response Bytes: 122043
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 427
-
-### Performance issues
-
 
 ### Performance issues
 

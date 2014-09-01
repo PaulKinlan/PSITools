@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://contentaistudios.com/abcdog3/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [eslAI.com present: abcDog lesson 3](http://contentaistudios.com/abcdog3/)
 
@@ -29,9 +31,6 @@ title: http://contentaistudios.com/abcdog3/
 *  JS Response Bytes: 343069
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1682
-
-### Performance issues
-
 
 ### Performance issues
 

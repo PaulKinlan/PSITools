@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gokartgonitro.com/games/katiecommando/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [XformGames.com | Katie Commando](http://www.gokartgonitro.com/games/katiecommando/)
 
@@ -29,9 +34,6 @@ title: http://www.gokartgonitro.com/games/katiecommando/
 *  JS Response Bytes: 381498
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116741
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.teachoogle.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Site Title :: Home](http://www.teachoogle.com/)
 
@@ -29,9 +32,6 @@ title: http://www.teachoogle.com/
 *  JS Response Bytes: 96874
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 71127
-
-### Performance issues
-
 
 ### Performance issues
 

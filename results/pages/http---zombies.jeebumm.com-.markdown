@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://zombies.jeebumm.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombies Don't Run](http://zombies.jeebumm.com/)
 
@@ -29,9 +34,6 @@ title: http://zombies.jeebumm.com/
 *  JS Response Bytes: 1000595
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1487
-
-### Performance issues
-
 
 ### Performance issues
 

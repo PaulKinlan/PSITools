@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://connection.naviance.com/family-connection/auth/login/?hsid=striveexcel
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](https://connection.naviance.com/family-connection/auth/login/?hsid=striveexcel)
 
@@ -29,9 +33,6 @@ title: https://connection.naviance.com/family-connection/auth/login/?hsid=strive
 *  JS Response Bytes: 88056
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 523
-
-### Performance issues
-
 
 ### Performance issues
 

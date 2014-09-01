@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.touchtutorials.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Photoshop Tutorials](http://www.touchtutorials.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://www.touchtutorials.com/?m=1
 *  JS Response Bytes: 828185
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14946
-
-### Performance issues
-
 
 ### Performance issues
 

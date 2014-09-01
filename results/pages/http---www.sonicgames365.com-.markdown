@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sonicgames365.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sonic Games - Free Online Sonic The Hedgehog Games](http://www.sonicgames365.com/)
 
@@ -29,9 +34,6 @@ title: http://www.sonicgames365.com/
 *  JS Response Bytes: 781667
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

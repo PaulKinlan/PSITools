@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.spacepioneers2.co.uk/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Space Pioneers 2](http://www.spacepioneers2.co.uk/)
 
@@ -29,9 +34,6 @@ title: http://www.spacepioneers2.co.uk/
 *  JS Response Bytes: 278983
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1406
-
-### Performance issues
-
 
 ### Performance issues
 

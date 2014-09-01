@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://powerschool.lovejoyisd.net/admin/pw.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [PowerSchool](http://powerschool.lovejoyisd.net/admin/pw.html)
 
@@ -29,9 +32,6 @@ title: http://powerschool.lovejoyisd.net/admin/pw.html
 *  JS Response Bytes: 541245
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

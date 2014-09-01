@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.flappybird-s.com/?s=minecraft
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Hacked by Tunisian Agent Secret](http://www.flappybird-s.com/?s=minecraft)
 
@@ -29,9 +31,6 @@ title: http://www.flappybird-s.com/?s=minecraft
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

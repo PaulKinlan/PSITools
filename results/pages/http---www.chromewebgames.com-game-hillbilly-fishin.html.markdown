@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chromewebgames.com/game/hillbilly-fishin.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hillbilly Fishin Games online](http://www.chromewebgames.com/game/hillbilly-fishin.html)
 
@@ -29,9 +35,6 @@ title: http://www.chromewebgames.com/game/hillbilly-fishin.html
 *  JS Response Bytes: 721579
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102217
-
-### Performance issues
-
 
 ### Performance issues
 

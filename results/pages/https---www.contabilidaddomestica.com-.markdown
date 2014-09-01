@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://www.contabilidaddomestica.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Contabilidad Doméstica: Login](https://www.contabilidaddomestica.com/)
 
@@ -29,9 +35,6 @@ title: https://www.contabilidaddomestica.com/
 *  JS Response Bytes: 116958
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 201
-
-### Performance issues
-
 
 ### Performance issues
 

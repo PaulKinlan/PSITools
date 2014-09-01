@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.graduategames.com/dogsolitaire/arcade.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Best in Show Dog Solitaire - Free PC Mac and Linux Game Demos available - inspired by Fairway Solitaire](http://www.graduategames.com/dogsolitaire/arcade.php)
 
@@ -29,9 +34,6 @@ title: http://www.graduategames.com/dogsolitaire/arcade.php
 *  JS Response Bytes: 441545
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14326
-
-### Performance issues
-
 
 ### Performance issues
 

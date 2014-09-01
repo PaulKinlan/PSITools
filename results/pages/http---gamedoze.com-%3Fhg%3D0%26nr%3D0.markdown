@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gamedoze.com/?hg=0&nr=0
+AvoidLandingPageRedirects: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://gamedoze.com/?hg=0&nr=0)
 
@@ -29,9 +32,6 @@ title: http://gamedoze.com/?hg=0&nr=0
 *  JS Response Bytes: 195702
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 150
-
-### Performance issues
-
 
 ### Performance issues
 

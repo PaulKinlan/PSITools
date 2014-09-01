@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://kissflow.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Workflow Process Management Software & BPM Tool](http://kissflow.com/)
 
@@ -18,7 +21,7 @@ title: http://kissflow.com/
 *  Number of JS Resources: 25
 *  Number of CSS Resources: 13
 *  Nubmer of Static Resources: 51
-*  Total Request Bytes: 8072
+*  Total Request Bytes: 8062
 
 ### Response data
 
@@ -26,12 +29,9 @@ title: http://kissflow.com/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 321423
 *  Image Response Bytes: 717582
-*  JS Response Bytes: 357672
+*  JS Response Bytes: 357753
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 178680
-
-### Performance issues
-
+*  Other Response Bytes: 178670
 
 ### Performance issues
 

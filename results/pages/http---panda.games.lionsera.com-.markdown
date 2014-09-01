@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://panda.games.lionsera.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [panda swing math | Lionsera](http://panda.games.lionsera.com/)
 
@@ -29,9 +35,6 @@ title: http://panda.games.lionsera.com/
 *  JS Response Bytes: 219634
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

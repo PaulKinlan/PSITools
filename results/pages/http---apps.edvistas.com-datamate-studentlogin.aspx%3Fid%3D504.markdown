@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://apps.edvistas.com/datamate/studentlogin.aspx?id=504
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [EVI Data Mate Live](http://apps.edvistas.com/datamate/studentlogin.aspx?id=504)
 
@@ -29,9 +34,6 @@ title: http://apps.edvistas.com/datamate/studentlogin.aspx?id=504
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

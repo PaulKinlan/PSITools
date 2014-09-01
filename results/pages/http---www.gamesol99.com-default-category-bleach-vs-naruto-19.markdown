@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesol99.com/default-category/bleach-vs-naruto-19
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bleach vs Naruto 1.9 - Gamesol99](http://www.gamesol99.com/default-category/bleach-vs-naruto-19)
 
@@ -29,9 +34,6 @@ title: http://www.gamesol99.com/default-category/bleach-vs-naruto-19
 *  JS Response Bytes: 665993
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14547
-
-### Performance issues
-
 
 ### Performance issues
 

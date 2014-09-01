@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.3d-game.co/plants-vs-zombies/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Plants vs Zombies game](http://www.3d-game.co/plants-vs-zombies/)
 
@@ -29,9 +34,6 @@ title: http://www.3d-game.co/plants-vs-zombies/
 *  JS Response Bytes: 2676580
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 145734
-
-### Performance issues
-
 
 ### Performance issues
 

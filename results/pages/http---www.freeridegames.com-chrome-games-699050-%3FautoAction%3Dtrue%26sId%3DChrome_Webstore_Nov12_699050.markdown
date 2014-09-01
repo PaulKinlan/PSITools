@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/699050/?autoAction=true&sId=Chrome_Webstore_Nov12_699050
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Ski Resort Mogul for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/699050/?autoAction=true&sId=Chrome_Webstore_Nov12_699050)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/699050/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1379008
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33359
-
-### Performance issues
-
 
 ### Performance issues
 

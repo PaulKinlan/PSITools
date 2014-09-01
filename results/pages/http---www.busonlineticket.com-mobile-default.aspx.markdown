@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.busonlineticket.com/mobile/default.aspx
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [BusOnlineTicket.com | For Mobile](http://www.busonlineticket.com/mobile/default.aspx)
 
@@ -29,9 +31,6 @@ title: http://www.busonlineticket.com/mobile/default.aspx
 *  JS Response Bytes: 620740
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 71
-
-### Performance issues
-
 
 ### Performance issues
 

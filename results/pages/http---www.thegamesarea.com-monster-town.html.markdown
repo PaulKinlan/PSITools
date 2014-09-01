@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.thegamesarea.com/monster-town.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Monster Town : The Games Area](http://www.thegamesarea.com/monster-town.html)
 
@@ -29,9 +34,6 @@ title: http://www.thegamesarea.com/monster-town.html
 *  JS Response Bytes: 2089430
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 146444
-
-### Performance issues
-
 
 ### Performance issues
 

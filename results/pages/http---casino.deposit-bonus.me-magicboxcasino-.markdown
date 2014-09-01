@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://casino.deposit-bonus.me/magicboxcasino/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MagicBoxCasino | Casino Deposit Bonus](http://casino.deposit-bonus.me/magicboxcasino/)
 
@@ -29,9 +32,6 @@ title: http://casino.deposit-bonus.me/magicboxcasino/
 *  JS Response Bytes: 210406
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1219
-
-### Performance issues
-
 
 ### Performance issues
 

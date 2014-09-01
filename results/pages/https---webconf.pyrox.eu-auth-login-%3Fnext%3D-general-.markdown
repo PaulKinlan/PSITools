@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://webconf.pyrox.eu/auth/login/?next=/general/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Anmelden | PYROX™ Webconf](https://webconf.pyrox.eu/auth/login/?next=/general/)
 
@@ -29,9 +33,6 @@ title: https://webconf.pyrox.eu/auth/login/?next=/general/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 702
-
-### Performance issues
-
 
 ### Performance issues
 

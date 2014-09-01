@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://my.ministrespace.com/Login/Index.rails
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ministrEspace](https://my.ministrespace.com/Login/Index.rails)
 
@@ -29,9 +32,6 @@ title: https://my.ministrespace.com/Login/Index.rails
 *  JS Response Bytes: 344210
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

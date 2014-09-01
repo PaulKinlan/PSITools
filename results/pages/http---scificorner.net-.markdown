@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://scificorner.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [scificorner.net](http://scificorner.net/)
 
@@ -29,9 +34,6 @@ title: http://scificorner.net/
 *  JS Response Bytes: 173157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

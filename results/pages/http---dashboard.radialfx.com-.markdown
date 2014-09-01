@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://dashboard.radialfx.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [radialfx.com](http://dashboard.radialfx.com/)
 
@@ -29,9 +32,6 @@ title: http://dashboard.radialfx.com/
 *  JS Response Bytes: 209185
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

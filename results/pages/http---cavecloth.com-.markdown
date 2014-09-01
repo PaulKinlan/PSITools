@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://cavecloth.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Primal Lifestyle handmade eco-conscious paleo tees & performance apparel | Cavecloth®](http://cavecloth.com/)
 
@@ -29,9 +33,6 @@ title: http://cavecloth.com/
 *  JS Response Bytes: 1172543
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155911
-
-### Performance issues
-
 
 ### Performance issues
 

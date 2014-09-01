@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.gamespol.com/wheres-my-water-2.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gamespol.com](http://www.gamespol.com/wheres-my-water-2.html)
 
@@ -29,9 +31,6 @@ title: http://www.gamespol.com/wheres-my-water-2.html
 *  JS Response Bytes: 167740
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

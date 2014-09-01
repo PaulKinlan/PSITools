@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://nickalie.com/games/memory/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Advanced Memory Game](http://nickalie.com/games/memory/)
 
@@ -29,9 +33,6 @@ title: http://nickalie.com/games/memory/
 *  JS Response Bytes: 2194389
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121433
-
-### Performance issues
-
 
 ### Performance issues
 

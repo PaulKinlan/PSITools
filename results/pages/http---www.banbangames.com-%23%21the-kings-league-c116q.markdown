@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.banbangames.com/#!the-kings-league/c116q
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [bestgames | The kings League](http://www.banbangames.com/#!the-kings-league/c116q)
 
@@ -29,9 +31,6 @@ title: http://www.banbangames.com/#!the-kings-league/c116q
 *  JS Response Bytes: 4627761
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

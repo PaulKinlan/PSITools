@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.alltrendgames.com/category/3
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Addition - All Trend Games](http://www.alltrendgames.com/category/3)
 
@@ -29,9 +32,6 @@ title: http://www.alltrendgames.com/category/3
 *  JS Response Bytes: 649198
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1178
-
-### Performance issues
-
 
 ### Performance issues
 

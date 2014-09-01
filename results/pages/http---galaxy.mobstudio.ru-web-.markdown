@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://galaxy.mobstudio.ru/web/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Galaxy 8.0.1](http://galaxy.mobstudio.ru/web/)
 
@@ -29,9 +34,6 @@ title: http://galaxy.mobstudio.ru/web/
 *  JS Response Bytes: 594324
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

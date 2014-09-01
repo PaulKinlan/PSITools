@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://slingshot-dev-hr.angrybirds.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Angry Birds Chrome](http://slingshot-dev-hr.angrybirds.com/)
 
@@ -29,9 +30,6 @@ title: http://slingshot-dev-hr.angrybirds.com/
 *  JS Response Bytes: 1303635
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22764
-
-### Performance issues
-
 
 ### Performance issues
 

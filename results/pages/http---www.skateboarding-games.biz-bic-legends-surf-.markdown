@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/bic-legends-surf/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bic Legends Surf game](http://www.skateboarding-games.biz/bic-legends-surf/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/bic-legends-surf/
 *  JS Response Bytes: 2123782
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122416
-
-### Performance issues
-
 
 ### Performance issues
 

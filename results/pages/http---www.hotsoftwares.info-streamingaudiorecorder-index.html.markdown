@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.hotsoftwares.info/streamingaudiorecorder/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Streaming Audio Recorder - Record Online Streaming Audio](http://www.hotsoftwares.info/streamingaudiorecorder/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.hotsoftwares.info/streamingaudiorecorder/index.html
 *  JS Response Bytes: 911321
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109057
-
-### Performance issues
-
 
 ### Performance issues
 

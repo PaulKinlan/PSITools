@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playgame88.blogspot.com/2013/10/subway-surfers.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online play game: Subway Surfers](http://playgame88.blogspot.com/2013/10/subway-surfers.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playgame88.blogspot.com/2013/10/subway-surfers.html?m=1
 *  JS Response Bytes: 1532295
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 144030
-
-### Performance issues
-
 
 ### Performance issues
 

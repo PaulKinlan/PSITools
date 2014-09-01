@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://learn101.org/spanish.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn Spanish | learn101.org](http://learn101.org/spanish.php)
 
@@ -29,9 +33,6 @@ title: http://learn101.org/spanish.php
 *  JS Response Bytes: 446228
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 486
-
-### Performance issues
-
 
 ### Performance issues
 

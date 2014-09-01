@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamescollection2013.com/the-last-dino.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Last Dino | Games Colleciton 2013](http://www.gamescollection2013.com/the-last-dino.html)
 
@@ -29,9 +35,6 @@ title: http://www.gamescollection2013.com/the-last-dino.html
 *  JS Response Bytes: 1046467
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15227
-
-### Performance issues
-
 
 ### Performance issues
 

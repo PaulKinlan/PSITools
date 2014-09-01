@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://rate.studioapi.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Exchange Rate](http://rate.studioapi.com/)
 
@@ -29,9 +33,6 @@ title: http://rate.studioapi.com/
 *  JS Response Bytes: 1085578
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.zrigames.com/minecraft-tower-defense.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Minecraft: Tower Defense « Best HD Games Play Now](http://www.zrigames.com/minecraft-tower-defense.html)
 
@@ -29,9 +35,6 @@ title: http://www.zrigames.com/minecraft-tower-defense.html
 *  JS Response Bytes: 397890
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

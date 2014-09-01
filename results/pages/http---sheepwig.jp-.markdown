@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://sheepwig.jp/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sheepwig | Just another WordPress site](http://sheepwig.jp/)
 
@@ -29,9 +33,6 @@ title: http://sheepwig.jp/
 *  JS Response Bytes: 142954
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103517
-
-### Performance issues
-
 
 ### Performance issues
 

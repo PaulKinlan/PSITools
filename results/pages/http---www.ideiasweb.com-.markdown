@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ideiasweb.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Desenvolvimento e Criação de sites Campo Grande MS « Ideiasweb](http://www.ideiasweb.com/)
 
@@ -29,9 +32,6 @@ title: http://www.ideiasweb.com/
 *  JS Response Bytes: 1262904
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 187870
-
-### Performance issues
-
 
 ### Performance issues
 

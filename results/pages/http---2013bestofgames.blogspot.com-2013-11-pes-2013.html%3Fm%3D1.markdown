@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://2013bestofgames.blogspot.com/2013/11/pes-2013.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Best of free games , card games, casino games: pes 2013](http://2013bestofgames.blogspot.com/2013/11/pes-2013.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://2013bestofgames.blogspot.com/2013/11/pes-2013.html?m=1
 *  JS Response Bytes: 1371308
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287150
-
-### Performance issues
-
 
 ### Performance issues
 

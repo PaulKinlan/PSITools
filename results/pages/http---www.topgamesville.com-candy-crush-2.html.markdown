@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.topgamesville.com/candy-crush-2.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Candy Crush : Top Games Ville](http://www.topgamesville.com/candy-crush-2.html)
 
@@ -29,9 +37,6 @@ title: http://www.topgamesville.com/candy-crush-2.html
 *  JS Response Bytes: 2074614
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113158
-
-### Performance issues
-
 
 ### Performance issues
 

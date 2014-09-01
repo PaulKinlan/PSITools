@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pulado.com/apps/hnwwh/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Don`t Touch My Junk](http://www.pulado.com/apps/hnwwh/)
 
@@ -29,9 +33,6 @@ title: http://www.pulado.com/apps/hnwwh/
 *  JS Response Bytes: 21841
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

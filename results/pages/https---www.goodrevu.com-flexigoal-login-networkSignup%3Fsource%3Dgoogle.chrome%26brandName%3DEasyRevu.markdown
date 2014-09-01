@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.goodrevu.com/flexigoal/login/networkSignup?source=google.chrome&brandName=EasyRevu
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [EasyRevu Signup Form](https://www.goodrevu.com/flexigoal/login/networkSignup?source=google.chrome&brandName=EasyRevu)
 
@@ -29,9 +33,6 @@ title: https://www.goodrevu.com/flexigoal/login/networkSignup?source=google.chro
 *  JS Response Bytes: 166833
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

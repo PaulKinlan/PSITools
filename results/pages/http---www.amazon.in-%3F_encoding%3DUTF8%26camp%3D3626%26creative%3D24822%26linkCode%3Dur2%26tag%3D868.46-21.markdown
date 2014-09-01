@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.amazon.in/?_encoding=UTF8&camp=3626&creative=24822&linkCode=ur2&tag=868.46-21
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Amazon.in: Online Shopping for books, Mobiles, Computers, Cameras, Games, Watches, Fashion Jewellery, Kindle E-Readers & Accessories and more](http://www.amazon.in/?_encoding=UTF8&camp=3626&creative=24822&linkCode=ur2&tag=868.46-21)
 
@@ -29,9 +31,6 @@ title: http://www.amazon.in/?_encoding=UTF8&camp=3626&creative=24822&linkCode=ur
 *  JS Response Bytes: 254348
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9953
-
-### Performance issues
-
 
 ### Performance issues
 

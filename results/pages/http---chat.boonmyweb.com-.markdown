@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chat.boonmyweb.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Buddy Spot](http://chat.boonmyweb.com/)
 
@@ -22,16 +25,13 @@ title: http://chat.boonmyweb.com/
 
 ### Response data
 
-*  HTML Response Bytes: 3042
+*  HTML Response Bytes: 3041
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 50216
-*  Image Response Bytes: 34139
+*  CSS Response Bytes: 50215
+*  Image Response Bytes: 34135
 *  JS Response Bytes: 188341
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

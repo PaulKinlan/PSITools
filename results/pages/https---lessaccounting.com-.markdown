@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://lessaccounting.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Simple Accounting Software for Small Businesses](https://lessaccounting.com/)
 
@@ -29,9 +34,6 @@ title: https://lessaccounting.com/
 *  JS Response Bytes: 1000551
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9864
-
-### Performance issues
-
 
 ### Performance issues
 

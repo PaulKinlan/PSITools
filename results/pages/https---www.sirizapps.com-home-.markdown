@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.sirizapps.com/home/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Siriz Apps - Simplified Collaborative Solutions for Personal & Small Businesses](https://www.sirizapps.com/home/)
 
@@ -29,9 +31,6 @@ title: https://www.sirizapps.com/home/
 *  JS Response Bytes: 805577
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 87267
-
-### Performance issues
-
 
 ### Performance issues
 

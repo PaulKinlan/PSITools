@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://quimian.com/drivecode/launch.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Drive Code](http://quimian.com/drivecode/launch.html)
 
@@ -29,9 +34,6 @@ title: http://quimian.com/drivecode/launch.html
 *  JS Response Bytes: 576766
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4268
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.appsgood.com/speedtest/
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Speed Test](http://www.appsgood.com/speedtest/)
 
@@ -29,9 +33,6 @@ title: http://www.appsgood.com/speedtest/
 *  JS Response Bytes: 1691249
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16339
-
-### Performance issues
-
 
 ### Performance issues
 

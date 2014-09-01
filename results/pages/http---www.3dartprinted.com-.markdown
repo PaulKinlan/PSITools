@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.3dartprinted.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Art Printed](http://www.3dartprinted.com/)
 
@@ -29,9 +32,6 @@ title: http://www.3dartprinted.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42635
-
-### Performance issues
-
 
 ### Performance issues
 

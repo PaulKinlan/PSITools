@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://123-allflashgames.blogspot.com/2013/02/monkey-quest-online.html?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [All Flash Games: Monkey Quest Online](http://123-allflashgames.blogspot.com/2013/02/monkey-quest-online.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://123-allflashgames.blogspot.com/2013/02/monkey-quest-online.html?m=
 *  JS Response Bytes: 3031507
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 304975
-
-### Performance issues
-
 
 ### Performance issues
 

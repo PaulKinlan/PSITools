@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chromegamesnew.com/?=404;http://www.chromegamesnew.com:80/temple-run-2/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [chromegamesnew.com](http://chromegamesnew.com/?=404;http://www.chromegamesnew.com:80/temple-run-2/&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://chromegamesnew.com/?=404;http://www.chromegamesnew.com:80/temple-r
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112
-
-### Performance issues
-
 
 ### Performance issues
 

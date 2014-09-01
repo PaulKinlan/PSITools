@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.largedocument.com/LargeDocumentUploader_Web_2_0_0.swf
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [We have stepped out for a minute...](http://www.largedocument.com/LargeDocumentUploader_Web_2_0_0.swf)
 
@@ -29,9 +33,6 @@ title: http://www.largedocument.com/LargeDocumentUploader_Web_2_0_0.swf
 *  JS Response Bytes: 429649
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17586
-
-### Performance issues
-
 
 ### Performance issues
 

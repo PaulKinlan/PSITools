@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://uktv.appzend.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [UK, United Kingdom TV Live](http://uktv.appzend.net/)
 
@@ -29,9 +34,6 @@ title: http://uktv.appzend.net/
 *  JS Response Bytes: 548229
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

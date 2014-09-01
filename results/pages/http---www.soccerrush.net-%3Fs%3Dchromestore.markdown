@@ -33,8 +33,5 @@ title: http://www.soccerrush.net/?s=chromestore
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

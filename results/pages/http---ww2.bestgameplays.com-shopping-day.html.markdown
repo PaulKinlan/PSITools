@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ww2.bestgameplays.com/shopping-day.html
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [bestgameplays.com](http://ww2.bestgameplays.com/shopping-day.html)
 
@@ -29,9 +31,6 @@ title: http://ww2.bestgameplays.com/shopping-day.html
 *  JS Response Bytes: 229840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21043
-
-### Performance issues
-
 
 ### Performance issues
 

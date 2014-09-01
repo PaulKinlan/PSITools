@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://heart.dxy.cn/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [心血管_丁香园](http://heart.dxy.cn/)
 
@@ -29,9 +31,6 @@ title: http://heart.dxy.cn/
 *  JS Response Bytes: 238829
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

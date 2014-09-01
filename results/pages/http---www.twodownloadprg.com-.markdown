@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.twodownloadprg.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Download Prg](http://www.twodownloadprg.com/)
 
@@ -13,25 +16,22 @@ title: http://www.twodownloadprg.com/
 
 ### Request information
 
-*  Number of Resources: 42
+*  Number of Resources: 41
 *  Number of Hosts: 11
 *  Number of JS Resources: 14
-*  Number of CSS Resources: 5
+*  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 28
-*  Total Request Bytes: 6876
+*  Total Request Bytes: 6698
 
 ### Response data
 
-*  HTML Response Bytes: 195032
+*  HTML Response Bytes: 195638
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 71730
-*  Image Response Bytes: 112955
+*  CSS Response Bytes: 71166
+*  Image Response Bytes: 113781
 *  JS Response Bytes: 671599
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 15852
-
-### Performance issues
-
+*  Other Response Bytes: 14798
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.cankirirehber.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Çankırı Rehber - Çankırı Firma Rehberi | İnternete Açılan Kapınız](http://www.cankirirehber.com/)
 
@@ -29,9 +34,6 @@ title: http://www.cankirirehber.com/
 *  JS Response Bytes: 750302
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59664
-
-### Performance issues
-
 
 ### Performance issues
 

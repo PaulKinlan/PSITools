@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.games2live.net/arcade-games/strike-force-heroes
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Strike Force Heroes - Free Online Games | Games2Live](http://www.games2live.net/arcade-games/strike-force-heroes)
 
@@ -29,9 +35,6 @@ title: http://www.games2live.net/arcade-games/strike-force-heroes
 *  JS Response Bytes: 2504962
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 128604
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.mascotinsider.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [MascotInsider](http://www.mascotinsider.com/)
 
@@ -29,9 +30,6 @@ title: http://www.mascotinsider.com/
 *  JS Response Bytes: 361112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 177
-
-### Performance issues
-
 
 ### Performance issues
 

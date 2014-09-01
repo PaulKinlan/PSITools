@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://kentfield.symbaloo.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Symbaloo - Your Bookmarks and favorites in the cloud](http://kentfield.symbaloo.com/)
 
@@ -29,9 +33,6 @@ title: http://kentfield.symbaloo.com/
 *  JS Response Bytes: 875846
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 792
-
-### Performance issues
-
 
 ### Performance issues
 

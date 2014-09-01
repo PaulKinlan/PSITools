@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.socialesman.com/app/blackjack-elf/blackjack-elf.html
+MinimizeRenderBlockingResources: true
 ---
 ## [Clone doesnt have this page](http://www.socialesman.com/app/blackjack-elf/blackjack-elf.html)
 
@@ -29,9 +30,6 @@ title: http://www.socialesman.com/app/blackjack-elf/blackjack-elf.html
 *  JS Response Bytes: 824684
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97408
-
-### Performance issues
-
 
 ### Performance issues
 

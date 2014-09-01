@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gdt.guidelinedevelopment.org/central_prod/_design/client/index.html
+MinimizeRenderBlockingResources: true
 ---
 ## [Guideline Development Tool (Thu Aug 21 2014 12:15:30 GMT+0000 (UTC))](http://gdt.guidelinedevelopment.org/central_prod/_design/client/index.html)
 
@@ -29,9 +30,6 @@ title: http://gdt.guidelinedevelopment.org/central_prod/_design/client/index.htm
 *  JS Response Bytes: 6461008
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2246
-
-### Performance issues
-
 
 ### Performance issues
 

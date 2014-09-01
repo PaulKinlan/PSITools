@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://minecraftgame-full.blogspot.com.tr/2014/04/gta-v.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [minecraft download full game: gta V](http://minecraftgame-full.blogspot.com.tr/2014/04/gta-v.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://minecraftgame-full.blogspot.com.tr/2014/04/gta-v.html?m=1
 *  JS Response Bytes: 1146780
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98323
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.comparethecourse.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Worldwide Course Directory to Search, Compare & Enrol-Compare the Course](http://www.comparethecourse.com/)
 
@@ -29,9 +33,6 @@ title: http://www.comparethecourse.com/
 *  JS Response Bytes: 1798214
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19048
-
-### Performance issues
-
 
 ### Performance issues
 

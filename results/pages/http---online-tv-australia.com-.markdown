@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://online-tv-australia.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Australia TV Review](http://online-tv-australia.com/)
 
@@ -29,9 +34,6 @@ title: http://online-tv-australia.com/
 *  JS Response Bytes: 1920656
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47399
-
-### Performance issues
-
 
 ### Performance issues
 

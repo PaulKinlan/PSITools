@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/699750/?autoAction=true&sId=Chrome_Webstore_Nov12_699750
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Rachel's Retreat for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/699750/?autoAction=true&sId=Chrome_Webstore_Nov12_699750)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/699750/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1512223
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28357
-
-### Performance issues
-
 
 ### Performance issues
 

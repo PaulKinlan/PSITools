@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/girl/flower-boutique.html
+PrioritizeVisibleContent: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.gamesk12.com/online/girl/flower-boutique.html)
 
@@ -29,9 +31,6 @@ title: http://www.gamesk12.com/online/girl/flower-boutique.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 455
-
-### Performance issues
-
 
 ### Performance issues
 

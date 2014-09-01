@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.biz/jets-of-war/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jets of War](http://www.gamesgator.biz/jets-of-war/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.biz/jets-of-war/
 *  JS Response Bytes: 1040887
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 83210
-
-### Performance issues
-
 
 ### Performance issues
 

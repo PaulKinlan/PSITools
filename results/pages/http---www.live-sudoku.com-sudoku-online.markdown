@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.live-sudoku.com/sudoku-online
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Average Sudoku Puzzle](http://www.live-sudoku.com/sudoku-online)
 
@@ -29,9 +33,6 @@ title: http://www.live-sudoku.com/sudoku-online
 *  JS Response Bytes: 1256444
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10651
-
-### Performance issues
-
 
 ### Performance issues
 

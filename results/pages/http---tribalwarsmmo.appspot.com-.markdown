@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://tribalwarsmmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tribal Wars](http://tribalwarsmmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://tribalwarsmmo.appspot.com/
 *  JS Response Bytes: 843466
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41943
-
-### Performance issues
-
 
 ### Performance issues
 

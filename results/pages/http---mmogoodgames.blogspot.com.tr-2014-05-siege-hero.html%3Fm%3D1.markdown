@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mmogoodgames.blogspot.com.tr/2014/05/siege-hero.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
 ---
 ## [MMO Good Games: Siege Hero](http://mmogoodgames.blogspot.com.tr/2014/05/siege-hero.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://mmogoodgames.blogspot.com.tr/2014/05/siege-hero.html?m=1
 *  JS Response Bytes: 1238148
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95876
-
-### Performance issues
-
 
 ### Performance issues
 

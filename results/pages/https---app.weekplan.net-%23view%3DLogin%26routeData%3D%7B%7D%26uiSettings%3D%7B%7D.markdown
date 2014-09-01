@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://app.weekplan.net/#view=Login&routeData={}&uiSettings={}
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [WEEK PLAN](https://app.weekplan.net/#view=Login&routeData={}&uiSettings={})
 
@@ -29,9 +31,6 @@ title: https://app.weekplan.net/#view=Login&routeData={}&uiSettings={}
 *  JS Response Bytes: 720945
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

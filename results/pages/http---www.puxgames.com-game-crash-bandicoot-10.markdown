@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.puxgames.com/game/crash-bandicoot-10
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crash Bandicoot Game - Pux Games](http://www.puxgames.com/game/crash-bandicoot-10)
 
@@ -29,9 +34,6 @@ title: http://www.puxgames.com/game/crash-bandicoot-10
 *  JS Response Bytes: 1132937
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1488
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mildapp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Twitter Website Widget, Twitter to Website or Blog - Mild](http://mildapp.com/)
 
@@ -29,9 +33,6 @@ title: http://mildapp.com/
 *  JS Response Bytes: 163830
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 80216
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://team.brandfusion.ro/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BrandFusion](http://team.brandfusion.ro/)
 
@@ -29,9 +32,6 @@ title: http://team.brandfusion.ro/
 *  JS Response Bytes: 1551934
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

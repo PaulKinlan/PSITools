@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.soundtrap.com/?utm_medium=referral&utm_campaign=chrome_store&utm_source=chrome_store
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Soundtrap - Make Music Online](https://www.soundtrap.com/?utm_medium=referral&utm_campaign=chrome_store&utm_source=chrome_store)
 
@@ -29,9 +33,6 @@ title: https://www.soundtrap.com/?utm_medium=referral&utm_campaign=chrome_store&
 *  JS Response Bytes: 943319
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59080
-
-### Performance issues
-
 
 ### Performance issues
 

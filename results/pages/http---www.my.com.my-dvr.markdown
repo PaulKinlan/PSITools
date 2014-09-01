@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.my.com.my/dvr
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MY FM - MY FM MY MUSIC](http://www.my.com.my/dvr)
 
@@ -29,9 +32,6 @@ title: http://www.my.com.my/dvr
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18658
-
-### Performance issues
-
 
 ### Performance issues
 

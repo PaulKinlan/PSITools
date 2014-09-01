@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://chrome.funhost.net/play/?app=fruityflipflop
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Fruity Flip Flop - Game on Fun Host Games!](http://chrome.funhost.net/play/?app=fruityflipflop)
 
@@ -29,9 +36,6 @@ title: http://chrome.funhost.net/play/?app=fruityflipflop
 *  JS Response Bytes: 2346651
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42205
-
-### Performance issues
-
 
 ### Performance issues
 

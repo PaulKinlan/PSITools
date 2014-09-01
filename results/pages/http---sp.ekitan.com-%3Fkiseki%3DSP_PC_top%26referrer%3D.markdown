@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://sp.ekitan.com/?kiseki=SP_PC_top&referrer=
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [駅探★乗換案内│時刻表･乗り換え案内･定期券･路線図･運行情報･高速バス](http://sp.ekitan.com/?kiseki=SP_PC_top&referrer=)
 
@@ -29,9 +33,6 @@ title: http://sp.ekitan.com/?kiseki=SP_PC_top&referrer=
 *  JS Response Bytes: 569088
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3147
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.plick.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Plick Email Marketing Software - Email Newsletters, Email Marketing and Online Surveys](http://www.plick.com/)
 
@@ -29,9 +34,6 @@ title: http://www.plick.com/
 *  JS Response Bytes: 8664
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

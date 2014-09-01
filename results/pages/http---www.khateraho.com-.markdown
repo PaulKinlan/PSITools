@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.khateraho.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Food Destination - Top Rated Restaurants, Khana, Bakeries, Cakes, Petha, Sweets in Agra at Khateraho.com](http://www.khateraho.com/)
 
@@ -29,9 +32,6 @@ title: http://www.khateraho.com/
 *  JS Response Bytes: 299083
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 554
-
-### Performance issues
-
 
 ### Performance issues
 

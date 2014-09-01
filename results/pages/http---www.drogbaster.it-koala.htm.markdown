@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.drogbaster.it/koala.htm
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Virtual Pets: Koala animale virtuale interattivo](http://www.drogbaster.it/koala.htm)
 
@@ -29,9 +33,6 @@ title: http://www.drogbaster.it/koala.htm
 *  JS Response Bytes: 1972121
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 129842
-
-### Performance issues
-
 
 ### Performance issues
 

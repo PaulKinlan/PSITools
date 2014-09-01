@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://circulate.it/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Employee social media engagement and brand advocacy | Circulate.it](https://circulate.it/)
 
@@ -29,9 +33,6 @@ title: https://circulate.it/
 *  JS Response Bytes: 253996
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 815
-
-### Performance issues
-
 
 ### Performance issues
 

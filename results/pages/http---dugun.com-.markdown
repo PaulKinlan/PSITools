@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://dugun.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Düğün.com - Düğün Mekanları, Gelinlik, Fotoğrafçılar ve İhtiyacınız Olan Her Şey](http://dugun.com/)
 
@@ -29,9 +32,6 @@ title: http://dugun.com/
 *  JS Response Bytes: 293978
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

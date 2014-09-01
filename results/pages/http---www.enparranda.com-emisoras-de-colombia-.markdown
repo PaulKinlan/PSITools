@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.enparranda.com/emisoras-de-colombia/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Enparranda.com - Emisoras Radios Online de Colombia](http://www.enparranda.com/emisoras-de-colombia/)
 
@@ -29,9 +34,6 @@ title: http://www.enparranda.com/emisoras-de-colombia/
 *  JS Response Bytes: 1383434
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110357
-
-### Performance issues
-
 
 ### Performance issues
 

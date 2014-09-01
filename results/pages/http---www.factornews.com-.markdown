@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.factornews.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Factornews - A fond dans la déconne mais pas trop. Actualité PC Consoles Mobile et portable](http://www.factornews.com/)
 
@@ -29,9 +33,6 @@ title: http://www.factornews.com/
 *  JS Response Bytes: 2076710
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7149
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://davesmapper.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Dave's Mapper | RPG Map Generator](http://davesmapper.com/)
 
@@ -29,9 +36,6 @@ title: http://davesmapper.com/
 *  JS Response Bytes: 1596442
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 161152
-
-### Performance issues
-
 
 ### Performance issues
 

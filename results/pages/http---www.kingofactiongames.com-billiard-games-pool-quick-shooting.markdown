@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.kingofactiongames.com/billiard-games/pool-quick-shooting
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pool Quick Shooting - Games - Play Free Online King of Action Games](http://www.kingofactiongames.com/billiard-games/pool-quick-shooting)
 
@@ -29,9 +35,6 @@ title: http://www.kingofactiongames.com/billiard-games/pool-quick-shooting
 *  JS Response Bytes: 526776
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16219
-
-### Performance issues
-
 
 ### Performance issues
 

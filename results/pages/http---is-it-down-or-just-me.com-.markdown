@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://is-it-down-or-just-me.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Is Up?](http://is-it-down-or-just-me.com/)
 
@@ -29,9 +33,6 @@ title: http://is-it-down-or-just-me.com/
 *  JS Response Bytes: 1889127
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112438
-
-### Performance issues
-
 
 ### Performance issues
 

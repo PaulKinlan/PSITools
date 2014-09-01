@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.packmywear.com/chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PackMyWear - Your new fashion Destination - Chrome](http://www.packmywear.com/chrome)
 
@@ -29,9 +33,6 @@ title: http://www.packmywear.com/chrome
 *  JS Response Bytes: 1014228
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 255538
-
-### Performance issues
-
 
 ### Performance issues
 

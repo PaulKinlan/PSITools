@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ww2.chromegameplay.com/gta-san-andreas/
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [chromegameplay.com](http://ww2.chromegameplay.com/gta-san-andreas/)
 
@@ -29,9 +31,6 @@ title: http://ww2.chromegameplay.com/gta-san-andreas/
 *  JS Response Bytes: 229840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21042
-
-### Performance issues
-
 
 ### Performance issues
 

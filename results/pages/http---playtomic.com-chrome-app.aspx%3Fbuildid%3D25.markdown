@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://playtomic.com/chrome/app.aspx?buildid=25
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Page not found · GitHub Pages](http://playtomic.com/chrome/app.aspx?buildid=25)
 
@@ -29,9 +31,6 @@ title: http://playtomic.com/chrome/app.aspx?buildid=25
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9008
-
-### Performance issues
-
 
 ### Performance issues
 

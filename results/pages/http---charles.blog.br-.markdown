@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://charles.blog.br/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog do Charles](http://charles.blog.br/)
 
@@ -29,9 +33,6 @@ title: http://charles.blog.br/
 *  JS Response Bytes: 1175056
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105351
-
-### Performance issues
-
 
 ### Performance issues
 

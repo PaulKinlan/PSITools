@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.urturn.com/discover
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Urturn](http://www.urturn.com/discover)
 
@@ -29,9 +31,6 @@ title: http://www.urturn.com/discover
 *  JS Response Bytes: 1561780
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 511
-
-### Performance issues
-
 
 ### Performance issues
 

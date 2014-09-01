@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://it.emcelettronica.com/eos_app/index1024.php
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ELETTRONICA OPEN SOURCE](http://it.emcelettronica.com/eos_app/index1024.php)
 
@@ -29,9 +33,6 @@ title: http://it.emcelettronica.com/eos_app/index1024.php
 *  JS Response Bytes: 429731
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57905
-
-### Performance issues
-
 
 ### Performance issues
 

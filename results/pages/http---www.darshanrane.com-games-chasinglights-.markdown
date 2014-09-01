@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.darshanrane.com/games/chasinglights/
+PrioritizeVisibleContent: true
 ---
 ## [Chasing Lights](http://www.darshanrane.com/games/chasinglights/)
 
@@ -29,9 +30,6 @@ title: http://www.darshanrane.com/games/chasinglights/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

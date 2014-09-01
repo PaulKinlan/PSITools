@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.americanspice.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Buy Spices, Food Seasonings, Herbs Online](http://www.americanspice.com/)
 
@@ -29,9 +31,6 @@ title: http://www.americanspice.com/
 *  JS Response Bytes: 561686
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56853
-
-### Performance issues
-
 
 ### Performance issues
 

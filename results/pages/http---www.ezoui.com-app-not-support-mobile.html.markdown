@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.ezoui.com/app/not-support-mobile.html
+AvoidLandingPageRedirects: true
 ---
 ## [Not Support Mobile Browser](http://www.ezoui.com/app/not-support-mobile.html)
 
@@ -29,9 +30,6 @@ title: http://www.ezoui.com/app/not-support-mobile.html
 *  JS Response Bytes: 25852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 134
-
-### Performance issues
-
 
 ### Performance issues
 

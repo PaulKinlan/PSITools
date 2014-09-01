@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://console.pulseinsights.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [Sign In](https://console.pulseinsights.com/)
 
@@ -29,9 +31,6 @@ title: https://console.pulseinsights.com/
 *  JS Response Bytes: 414271
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 145
-
-### Performance issues
-
 
 ### Performance issues
 

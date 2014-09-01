@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://dmbgames.com/candy-crush-saga.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DMBGames.Com – Candy Crush Saga](http://dmbgames.com/candy-crush-saga.html)
 
@@ -29,9 +35,6 @@ title: http://dmbgames.com/candy-crush-saga.html
 *  JS Response Bytes: 468925
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3966
-
-### Performance issues
-
 
 ### Performance issues
 

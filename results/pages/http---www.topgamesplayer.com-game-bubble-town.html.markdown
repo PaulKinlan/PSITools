@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.topgamesplayer.com/game/bubble-town.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bubble Town Games online](http://www.topgamesplayer.com/game/bubble-town.html)
 
@@ -29,9 +35,6 @@ title: http://www.topgamesplayer.com/game/bubble-town.html
 *  JS Response Bytes: 1267477
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117643
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://forevergamer.net/3d/motocross-nitro.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Motocross Nitro - Free Online Games Forever | ForeverGamer.net - http://forevergamer.net](http://forevergamer.net/3d/motocross-nitro.html)
 
@@ -29,9 +36,6 @@ title: http://forevergamer.net/3d/motocross-nitro.html
 *  JS Response Bytes: 3249043
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 193100
-
-### Performance issues
-
 
 ### Performance issues
 

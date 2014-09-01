@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://onl9gaming.blogspot.com/2013/12/penguin-diner-2.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Gaming: Penguin Diner 2](http://onl9gaming.blogspot.com/2013/12/penguin-diner-2.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://onl9gaming.blogspot.com/2013/12/penguin-diner-2.html?m=1
 *  JS Response Bytes: 1162489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95583
-
-### Performance issues
-
 
 ### Performance issues
 

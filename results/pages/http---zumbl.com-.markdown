@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://zumbl.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chat Random | Chat/Talk To Strangers | Free Chat Room Online | Chat Site](http://zumbl.com/)
 
@@ -29,9 +33,6 @@ title: http://zumbl.com/
 *  JS Response Bytes: 740035
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4825
-
-### Performance issues
-
 
 ### Performance issues
 

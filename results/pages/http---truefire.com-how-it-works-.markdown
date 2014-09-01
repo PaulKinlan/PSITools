@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://truefire.com/how-it-works/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [How It Works - TrueFire](http://truefire.com/how-it-works/)
 
@@ -29,9 +34,6 @@ title: http://truefire.com/how-it-works/
 *  JS Response Bytes: 1966407
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 190388
-
-### Performance issues
-
 
 ### Performance issues
 

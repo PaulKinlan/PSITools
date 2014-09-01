@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.freeonlinescratchpad.com/
+SizeContentToViewport: true
 ---
 ## [](http://www.freeonlinescratchpad.com/)
 
@@ -29,9 +30,6 @@ title: http://www.freeonlinescratchpad.com/
 *  JS Response Bytes: 25557
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

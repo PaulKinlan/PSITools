@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://fullofgames.net/game/travian/31/cpvid=catra&ts=ca
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [FullOfGames.net](http://fullofgames.net/game/travian/31/cpvid=catra&ts=ca)
 
@@ -29,9 +32,6 @@ title: http://fullofgames.net/game/travian/31/cpvid=catra&ts=ca
 *  JS Response Bytes: 307541
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57872
-
-### Performance issues
-
 
 ### Performance issues
 

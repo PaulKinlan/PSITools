@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://dooing.com/signin
+MinimizeRenderBlockingResources: true
 ---
 ## [Dooing - Field Team Management Platform](https://dooing.com/signin)
 
@@ -29,9 +30,6 @@ title: https://dooing.com/signin
 *  JS Response Bytes: 252569
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 78004
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.enparranda.com/canada-stations/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Enparranda.com - Radio Stations online from Canada](http://www.enparranda.com/canada-stations/)
 
@@ -29,9 +34,6 @@ title: http://www.enparranda.com/canada-stations/
 *  JS Response Bytes: 1387719
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109861
-
-### Performance issues
-
 
 ### Performance issues
 

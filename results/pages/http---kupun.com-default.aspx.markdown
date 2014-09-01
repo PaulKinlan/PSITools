@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://kupun.com/default.aspx
+UseLegibleFontSizes: true
 ---
 ## [Heroku | No such app](http://kupun.com/default.aspx)
 
@@ -29,9 +30,6 @@ title: http://kupun.com/default.aspx
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3166
-
-### Performance issues
-
 
 ### Performance issues
 

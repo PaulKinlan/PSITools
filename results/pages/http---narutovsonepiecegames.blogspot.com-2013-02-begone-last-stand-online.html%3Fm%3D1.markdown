@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://narutovsonepiecegames.blogspot.com/2013/02/begone-last-stand-online.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [naruto games: Begone Last Stand Online](http://narutovsonepiecegames.blogspot.com/2013/02/begone-last-stand-online.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://narutovsonepiecegames.blogspot.com/2013/02/begone-last-stand-onlin
 *  JS Response Bytes: 2487177
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 301575
-
-### Performance issues
-
 
 ### Performance issues
 

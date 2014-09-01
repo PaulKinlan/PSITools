@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://wlsdje.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Games](http://wlsdje.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://wlsdje.blogspot.com/?m=1
 *  JS Response Bytes: 314298
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 554
-
-### Performance issues
-
 
 ### Performance issues
 

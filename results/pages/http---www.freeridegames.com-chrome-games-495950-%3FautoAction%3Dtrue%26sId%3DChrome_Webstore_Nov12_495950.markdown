@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/495950/?autoAction=true&sId=Chrome_Webstore_Nov12_495950
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Heracles battle with the gods for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/495950/?autoAction=true&sId=Chrome_Webstore_Nov12_495950)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/495950/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1541163
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46548
-
-### Performance issues
-
 
 ### Performance issues
 

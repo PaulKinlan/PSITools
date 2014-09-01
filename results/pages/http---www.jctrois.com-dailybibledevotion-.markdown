@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.jctrois.com/dailybibledevotion/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Devo | Daily Bible Devotion](http://www.jctrois.com/dailybibledevotion/)
 
@@ -29,9 +31,6 @@ title: http://www.jctrois.com/dailybibledevotion/
 *  JS Response Bytes: 192523
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 388
-
-### Performance issues
-
 
 ### Performance issues
 

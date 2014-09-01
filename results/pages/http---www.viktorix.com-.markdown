@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.viktorix.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Ultimate Guide to Professional Event Planning - Viktorix](http://www.viktorix.com/)
 
@@ -29,9 +33,6 @@ title: http://www.viktorix.com/
 *  JS Response Bytes: 1325092
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 70457
-
-### Performance issues
-
 
 ### Performance issues
 

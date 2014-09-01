@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gergames.club/?s=Pinbal+FX2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pinbal FX2 – Search Results – Online Best Games](http://www.gergames.club/?s=Pinbal+FX2)
 
@@ -29,9 +34,6 @@ title: http://www.gergames.club/?s=Pinbal+FX2
 *  JS Response Bytes: 561085
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

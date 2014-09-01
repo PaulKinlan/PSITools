@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.qrcode-monkey.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Create QR-Codes with Logo or Image fast, free & easy | QRCode-Monkey-Generator](http://www.qrcode-monkey.com/)
 
@@ -29,9 +35,6 @@ title: http://www.qrcode-monkey.com/
 *  JS Response Bytes: 1165189
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21629
-
-### Performance issues
-
 
 ### Performance issues
 

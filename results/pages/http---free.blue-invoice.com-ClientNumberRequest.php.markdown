@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://free.blue-invoice.com/ClientNumberRequest.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blue Invoice](http://free.blue-invoice.com/ClientNumberRequest.php)
 
@@ -29,9 +35,6 @@ title: http://free.blue-invoice.com/ClientNumberRequest.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1534
-
-### Performance issues
-
 
 ### Performance issues
 

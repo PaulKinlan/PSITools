@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sts-test.sso.franke.com/adfs/ls/?SAMLRequest=fVLLTsMwELwj8Q%2BW70maCASymlSlCFGJR9QGDtxcZ5OaxnbwOi38PW7SCjhQ%2BTYe7zy848mnasgWLEqjUxqHI0pAC1NKXaf0pbgLrukkOz8bI1dNy6adW%2BsFfHSAjviXGll%2FkdLOamY4SmSaK0DmBFtOHx9YEo5Ya40zwjSUzG9T%2Bq4rLut6w6WptOKlgnKzaaVS70KsS1i1pT9q3VLyerSV7G3NETuYa3RcOw%2BN4otgdB0kl0WSsCRml1dvlOQHpRuphwSnbK0GErL7osiD%2FHlZ9AO2sgT75NkprY2pGwiFUXv5nCPKrYcr3iBQMkUE67zBmdHYKbBLsFsp4GXxkNK1cy2yKNrtduHPmIhHleV6A4HzDQ6IQJr19bI%2Bof3V62n%2F%2FKhPs1MK4%2BjX8Ozwkft889vcNFJ8kWnTmN3MAnc%2BnLOdz3ZnrOLuf%2F04jHtElkHVU1mnsQUhKwklJVE2qP7dGL9H3w%3D%3D&RelayState=https%3A%2F%2Fwww.google.com%2Fa%2Ffranke-test.com%2FServiceLogin%3Fservice%3Dmail%26passive%3Dtrue%26continue%3Dhttps%253A%252F%252Fmail.google.com%252Fa%252Ffranke-test.com%252F%26ss%3D1%26ltmpl%3Decobh%26nui%3D5%26btmpl%3Dmobile%26emr%3D1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Franke Single Sign On](https://sts-test.sso.franke.com/adfs/ls/?SAMLRequest=fVLLTsMwELwj8Q%2BW70maCASymlSlCFGJR9QGDtxcZ5OaxnbwOi38PW7SCjhQ%2BTYe7zy848mnasgWLEqjUxqHI0pAC1NKXaf0pbgLrukkOz8bI1dNy6adW%2BsFfHSAjviXGll%2FkdLOamY4SmSaK0DmBFtOHx9YEo5Ya40zwjSUzG9T%2Bq4rLut6w6WptOKlgnKzaaVS70KsS1i1pT9q3VLyerSV7G3NETuYa3RcOw%2BN4otgdB0kl0WSsCRml1dvlOQHpRuphwSnbK0GErL7osiD%2FHlZ9AO2sgT75NkprY2pGwiFUXv5nCPKrYcr3iBQMkUE67zBmdHYKbBLsFsp4GXxkNK1cy2yKNrtduHPmIhHleV6A4HzDQ6IQJr19bI%2Bof3V62n%2F%2FKhPs1MK4%2BjX8Ozwkft889vcNFJ8kWnTmN3MAnc%2BnLOdz3ZnrOLuf%2F04jHtElkHVU1mnsQUhKwklJVE2qP7dGL9H3w%3D%3D&RelayState=https%3A%2F%2Fwww.google.com%2Fa%2Ffranke-test.com%2FServiceLogin%3Fservice%3Dmail%26passive%3Dtrue%26continue%3Dhttps%253A%252F%252Fmail.google.com%252Fa%252Ffranke-test.com%252F%26ss%3D1%26ltmpl%3Decobh%26nui%3D5%26btmpl%3Dmobile%26emr%3D1)
 
@@ -29,9 +32,6 @@ title: https://sts-test.sso.franke.com/adfs/ls/?SAMLRequest=fVLLTsMwELwj8Q%2BW70
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2890
-
-### Performance issues
-
 
 ### Performance issues
 

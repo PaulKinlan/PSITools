@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://oyunlar9.com/zombi-atv-oyna.html?utm_source=ChromeWebStore&utm_medium=ZombiAtv&utm_content=webapp&utm_campaign=kisayol
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombi Atv Oyna - Oyunlar 9](http://oyunlar9.com/zombi-atv-oyna.html?utm_source=ChromeWebStore&utm_medium=ZombiAtv&utm_content=webapp&utm_campaign=kisayol)
 
@@ -29,9 +34,6 @@ title: http://oyunlar9.com/zombi-atv-oyna.html?utm_source=ChromeWebStore&utm_med
 *  JS Response Bytes: 2338129
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 305232
-
-### Performance issues
-
 
 ### Performance issues
 

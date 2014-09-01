@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.flashgameforgirl.com/customize/pony-cleaning-2
+UseLegibleFontSizes: true
 ---
 ## [404 - Page not found](http://www.flashgameforgirl.com/customize/pony-cleaning-2)
 
@@ -29,9 +30,6 @@ title: http://www.flashgameforgirl.com/customize/pony-cleaning-2
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1254
-
-### Performance issues
-
 
 ### Performance issues
 

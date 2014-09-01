@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.postanimate.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [PostAnimate · Express your super awesome feelings](http://www.postanimate.com/)
 
@@ -29,9 +32,6 @@ title: http://www.postanimate.com/
 *  JS Response Bytes: 1335567
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2797
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.miinecraftgame.com/?s=gta+san+andreas
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [free game play – Search Results – gta san andreas](http://www.miinecraftgame.com/?s=gta+san+andreas)
 
@@ -29,9 +33,6 @@ title: http://www.miinecraftgame.com/?s=gta+san+andreas
 *  JS Response Bytes: 664419
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

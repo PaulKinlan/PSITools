@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamegif.com/minecraft-pocket-edition-lite.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GameGIF.Com – Minecraft – Pocket Edition Lite](http://gamegif.com/minecraft-pocket-edition-lite.html)
 
@@ -29,9 +35,6 @@ title: http://gamegif.com/minecraft-pocket-edition-lite.html
 *  JS Response Bytes: 612427
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53468
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.latestgamesfree.com/sports/turbo-racing-3-shanghai
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Turbo racing 3 Shanghai - Latest Games Free](http://www.latestgamesfree.com/sports/turbo-racing-3-shanghai)
 
@@ -29,9 +34,6 @@ title: http://www.latestgamesfree.com/sports/turbo-racing-3-shanghai
 *  JS Response Bytes: 3223459
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 142992
-
-### Performance issues
-
 
 ### Performance issues
 

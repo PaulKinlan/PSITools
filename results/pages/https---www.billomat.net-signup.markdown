@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.billomat.net/signup
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Billomat](https://www.billomat.net/signup)
 
@@ -29,9 +34,6 @@ title: https://www.billomat.net/signup
 *  JS Response Bytes: 201466
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1052
-
-### Performance issues
-
 
 ### Performance issues
 

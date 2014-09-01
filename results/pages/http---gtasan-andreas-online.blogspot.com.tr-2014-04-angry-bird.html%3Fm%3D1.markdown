@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gtasan-andreas-online.blogspot.com.tr/2014/04/angry-bird.html?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [gta san andreas online: angry bird](http://gtasan-andreas-online.blogspot.com.tr/2014/04/angry-bird.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://gtasan-andreas-online.blogspot.com.tr/2014/04/angry-bird.html?m=1
 *  JS Response Bytes: 721240
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96780
-
-### Performance issues
-
 
 ### Performance issues
 

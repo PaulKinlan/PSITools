@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://moregameplay.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [more game play](http://moregameplay.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://moregameplay.blogspot.com/?m=1
 *  JS Response Bytes: 249577
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 563
-
-### Performance issues
-
 
 ### Performance issues
 

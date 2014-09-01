@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://demo.drawitlive.com/whiteboard/agdhenBkZW1vchMLEgpXaGl0ZUJvYXJkGOm-qnAM
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Draw It Live!](http://demo.drawitlive.com/whiteboard/agdhenBkZW1vchMLEgpXaGl0ZUJvYXJkGOm-qnAM)
 
@@ -29,9 +33,6 @@ title: http://demo.drawitlive.com/whiteboard/agdhenBkZW1vchMLEgpXaGl0ZUJvYXJkGOm
 *  JS Response Bytes: 309991
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3390
-
-### Performance issues
-
 
 ### Performance issues
 

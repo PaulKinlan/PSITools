@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/CaribbeanFashionSwimsuitDressup/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Caribbean Fashion Swimsuit Dress Up](http://www.fupa.com/apps/CaribbeanFashionSwimsuitDressup/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/CaribbeanFashionSwimsuitDressup/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

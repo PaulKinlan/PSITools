@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fsites.google.com%2Fa%2Ftravelodge.co.uk%2Fknowledge-base2%2F&btmpl=mobile&service=jotspot&sacu=1&hd=travelodge.co.uk
+AvoidLandingPageRedirects: true
 ---
 ## [Google Sites](https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fsites.google.com%2Fa%2Ftravelodge.co.uk%2Fknowledge-base2%2F&btmpl=mobile&service=jotspot&sacu=1&hd=travelodge.co.uk)
 
@@ -29,9 +30,6 @@ title: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fsites.goo
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53505
-
-### Performance issues
-
 
 ### Performance issues
 

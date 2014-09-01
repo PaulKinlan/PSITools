@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamebow.net/multiplayer/8-ball-pool-multiplayer
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [8 Ball Pool Multiplayer - GameBow.net | Free Online Flash Games](http://www.gamebow.net/multiplayer/8-ball-pool-multiplayer)
 
@@ -29,9 +34,6 @@ title: http://www.gamebow.net/multiplayer/8-ball-pool-multiplayer
 *  JS Response Bytes: 3881732
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 161414
-
-### Performance issues
-
 
 ### Performance issues
 

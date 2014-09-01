@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/642650/?autoAction=true&sId=Chrome_Webstore_Nov12_642650
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Jewel Quest 2 for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/642650/?autoAction=true&sId=Chrome_Webstore_Nov12_642650)
 
@@ -29,9 +34,6 @@ title: http://www.freeridegames.com/chrome/games/642650/?autoAction=true&sId=Chr
 *  JS Response Bytes: 2010483
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 36674
-
-### Performance issues
-
 
 ### Performance issues
 

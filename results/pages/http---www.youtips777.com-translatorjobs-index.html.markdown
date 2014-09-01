@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.youtips777.com/translatorjobs/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Find Real Translator Jobs 2014](http://www.youtips777.com/translatorjobs/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.youtips777.com/translatorjobs/index.html
 *  JS Response Bytes: 911322
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110124
-
-### Performance issues
-
 
 ### Performance issues
 

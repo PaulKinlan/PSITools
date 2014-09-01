@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.casain24ore.it/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cerca in vendita o affitto la tua casa tra migliaia di annunci immobiliari nella tua zona - Casain24ore.it](http://www.casain24ore.it/)
 
@@ -29,9 +33,6 @@ title: http://www.casain24ore.it/
 *  JS Response Bytes: 1040556
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1877
-
-### Performance issues
-
 
 ### Performance issues
 

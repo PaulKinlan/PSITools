@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.justhappygames.com/category/2
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Street - Just Happy Games](http://www.justhappygames.com/category/2)
 
@@ -29,9 +32,6 @@ title: http://www.justhappygames.com/category/2
 *  JS Response Bytes: 614898
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

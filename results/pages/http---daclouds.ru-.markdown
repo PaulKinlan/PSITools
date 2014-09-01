@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://daclouds.ru/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DaClouds](http://daclouds.ru/)
 
@@ -29,9 +31,6 @@ title: http://daclouds.ru/
 *  JS Response Bytes: 1804164
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 89201
-
-### Performance issues
-
 
 ### Performance issues
 

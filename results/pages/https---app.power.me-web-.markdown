@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://app.power.me/web/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Power.ME Web Login - Web App](https://app.power.me/web/)
 
@@ -29,9 +32,6 @@ title: https://app.power.me/web/
 *  JS Response Bytes: 139302
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 425
-
-### Performance issues
-
 
 ### Performance issues
 

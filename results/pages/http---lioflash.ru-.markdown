@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://lioflash.ru/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Бесплатные Онлайн Флеш Игры - LioFlash](http://lioflash.ru/)
 
@@ -29,9 +33,6 @@ title: http://lioflash.ru/
 *  JS Response Bytes: 805107
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

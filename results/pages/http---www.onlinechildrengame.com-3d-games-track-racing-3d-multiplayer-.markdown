@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.onlinechildrengame.com/3d-games/track-racing-3d-multiplayer/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Track Racing 3D Multiplayer](http://www.onlinechildrengame.com/3d-games/track-racing-3d-multiplayer/)
 
@@ -29,9 +34,6 @@ title: http://www.onlinechildrengame.com/3d-games/track-racing-3d-multiplayer/
 *  JS Response Bytes: 862514
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5046
-
-### Performance issues
-
 
 ### Performance issues
 

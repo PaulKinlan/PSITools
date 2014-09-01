@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://staff.cambria.ac.uk/en/wp-login.php
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Coleg Cambria Staff Intranet › Log In](http://staff.cambria.ac.uk/en/wp-login.php)
 
@@ -29,9 +31,6 @@ title: http://staff.cambria.ac.uk/en/wp-login.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14406
-
-### Performance issues
-
 
 ### Performance issues
 

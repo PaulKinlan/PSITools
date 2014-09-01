@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.visatvs.in/classify-fm.php
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Visatvs.in](http://www.visatvs.in/classify-fm.php)
 
@@ -29,9 +31,6 @@ title: http://www.visatvs.in/classify-fm.php
 *  JS Response Bytes: 167642
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

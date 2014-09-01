@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.atericom.com/sketchman.html
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [atericom.com](http://www.atericom.com/sketchman.html)
 
@@ -29,9 +31,6 @@ title: http://www.atericom.com/sketchman.html
 *  JS Response Bytes: 229840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20814
-
-### Performance issues
-
 
 ### Performance issues
 

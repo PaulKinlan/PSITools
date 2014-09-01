@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://nacl-quake.appspot.com/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://nacl-quake.appspot.com/)
 
@@ -29,9 +30,6 @@ title: http://nacl-quake.appspot.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 434
-
-### Performance issues
-
 
 ### Performance issues
 

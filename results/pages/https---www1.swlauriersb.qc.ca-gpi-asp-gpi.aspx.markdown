@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www1.swlauriersb.qc.ca/gpi/asp/gpi.aspx
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GPI Internet - Teacher](https://www1.swlauriersb.qc.ca/gpi/asp/gpi.aspx)
 
@@ -29,9 +34,6 @@ title: https://www1.swlauriersb.qc.ca/gpi/asp/gpi.aspx
 *  JS Response Bytes: 4608
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 456
-
-### Performance issues
-
 
 ### Performance issues
 

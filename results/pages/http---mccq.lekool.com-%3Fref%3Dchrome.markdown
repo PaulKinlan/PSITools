@@ -33,8 +33,5 @@ title: http://mccq.lekool.com/?ref=chrome
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

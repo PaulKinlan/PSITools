@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://desk.webzunder.com/misc/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [webZunder - Login](https://desk.webzunder.com/misc/login)
 
@@ -29,9 +33,6 @@ title: https://desk.webzunder.com/misc/login
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 960
-
-### Performance issues
-
 
 ### Performance issues
 

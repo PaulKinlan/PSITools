@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://wirelessarmy.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Home | wireless army](https://wirelessarmy.com/)
 
@@ -29,9 +30,6 @@ title: https://wirelessarmy.com/
 *  JS Response Bytes: 2743070
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 288995
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -33,8 +33,5 @@ title: http://www.fantage.com/i_user.html
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

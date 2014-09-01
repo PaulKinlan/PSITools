@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.ubicv.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Find jobs and Recruit online - Manage applications and job opportunities on UbiCV](https://www.ubicv.com/)
 
@@ -29,9 +33,6 @@ title: https://www.ubicv.com/
 *  JS Response Bytes: 1680849
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96012
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/surf-or-sink/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Surf or Sink game](http://www.skateboarding-games.biz/surf-or-sink/)
 
@@ -29,9 +36,6 @@ title: http://www.skateboarding-games.biz/surf-or-sink/
 *  JS Response Bytes: 2124264
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 140655
-
-### Performance issues
-
 
 ### Performance issues
 

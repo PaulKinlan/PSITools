@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tiponlinegames.com/escape-2.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Escape 2 | TIP ONLINE GAMES](http://www.tiponlinegames.com/escape-2.html)
 
@@ -29,9 +34,6 @@ title: http://www.tiponlinegames.com/escape-2.html
 *  JS Response Bytes: 901902
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15862
-
-### Performance issues
-
 
 ### Performance issues
 

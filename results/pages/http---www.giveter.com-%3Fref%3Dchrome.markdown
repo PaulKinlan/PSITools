@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.giveter.com/?ref=chrome
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Buy gifts, Online gifts ideas, gifts India, Buy online gifts from 1000s of gift ideas in India | giveter.com India](http://www.giveter.com/?ref=chrome)
 
@@ -29,9 +31,6 @@ title: http://www.giveter.com/?ref=chrome
 *  JS Response Bytes: 187797
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

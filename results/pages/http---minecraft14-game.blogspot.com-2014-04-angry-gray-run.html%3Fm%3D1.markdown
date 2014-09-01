@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://minecraft14-game.blogspot.com/2014/04/angry-gray-run.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [minecraft free game: Angry gray run](http://minecraft14-game.blogspot.com/2014/04/angry-gray-run.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://minecraft14-game.blogspot.com/2014/04/angry-gray-run.html?m=1
 *  JS Response Bytes: 1440475
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98486
-
-### Performance issues
-
 
 ### Performance issues
 

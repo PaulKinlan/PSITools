@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://todaytopic.herokuapp.com/stations/2/categories/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [AM1430](http://todaytopic.herokuapp.com/stations/2/categories/)
 
@@ -29,9 +32,6 @@ title: http://todaytopic.herokuapp.com/stations/2/categories/
 *  JS Response Bytes: 487100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://openspeedtest.com/?chrome
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Internet Speed Test for Any Device, Any Broadband - OpenSpeedTest.com](http://openspeedtest.com/?chrome)
 
@@ -29,9 +33,6 @@ title: http://openspeedtest.com/?chrome
 *  JS Response Bytes: 2095398
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 184310
-
-### Performance issues
-
 
 ### Performance issues
 

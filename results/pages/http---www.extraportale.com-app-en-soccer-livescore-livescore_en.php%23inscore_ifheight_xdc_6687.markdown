@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.extraportale.com/app/en/soccer/livescore/livescore_en.php#inscore_ifheight_xdc_6687
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Livescore](http://www.extraportale.com/app/en/soccer/livescore/livescore_en.php#inscore_ifheight_xdc_6687)
 
@@ -29,9 +32,6 @@ title: http://www.extraportale.com/app/en/soccer/livescore/livescore_en.php#insc
 *  JS Response Bytes: 1139983
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://amuzz.in/home
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Amuzzin-Home](http://amuzz.in/home)
 
@@ -29,9 +35,6 @@ title: http://amuzz.in/home
 *  JS Response Bytes: 1654694
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30207
-
-### Performance issues
-
 
 ### Performance issues
 

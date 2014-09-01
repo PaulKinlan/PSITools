@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/delivery-man/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Delivery Man](http://www.war-games.ws/delivery-man/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/delivery-man/
 *  JS Response Bytes: 2292868
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121052
-
-### Performance issues
-
 
 ### Performance issues
 

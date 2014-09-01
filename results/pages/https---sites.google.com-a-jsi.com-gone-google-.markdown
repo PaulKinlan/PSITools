@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://sites.google.com/a/jsi.com/gone-google/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Google Apps Learning & Resource Site](https://sites.google.com/a/jsi.com/gone-google/)
 
@@ -29,9 +34,6 @@ title: https://sites.google.com/a/jsi.com/gone-google/
 *  JS Response Bytes: 474196
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 594
-
-### Performance issues
-
 
 ### Performance issues
 

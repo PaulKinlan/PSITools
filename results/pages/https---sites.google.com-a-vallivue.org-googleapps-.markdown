@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sites.google.com/a/vallivue.org/googleapps/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Student Google Apps](https://sites.google.com/a/vallivue.org/googleapps/)
 
@@ -29,9 +32,6 @@ title: https://sites.google.com/a/vallivue.org/googleapps/
 *  JS Response Bytes: 412397
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 297
-
-### Performance issues
-
 
 ### Performance issues
 

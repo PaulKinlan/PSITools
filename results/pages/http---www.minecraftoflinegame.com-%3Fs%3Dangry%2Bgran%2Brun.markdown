@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.minecraftoflinegame.com/?s=angry+gran+run
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [angry gran run « Search Results « free game play](http://www.minecraftoflinegame.com/?s=angry+gran+run)
 
@@ -29,9 +32,6 @@ title: http://www.minecraftoflinegame.com/?s=angry+gran+run
 *  JS Response Bytes: 842547
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16847
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://underlove.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Underlove](http://underlove.ru/)
 
@@ -29,9 +33,6 @@ title: http://underlove.ru/
 *  JS Response Bytes: 1085427
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95000
-
-### Performance issues
-
 
 ### Performance issues
 

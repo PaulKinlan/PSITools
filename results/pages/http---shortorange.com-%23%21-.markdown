@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://shortorange.com/#!/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
 ---
 ## [ShortOrange - The Cloud Podcast Player](http://shortorange.com/#!/)
 
@@ -29,9 +32,6 @@ title: http://shortorange.com/#!/
 *  JS Response Bytes: 838863
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 70564
-
-### Performance issues
-
 
 ### Performance issues
 

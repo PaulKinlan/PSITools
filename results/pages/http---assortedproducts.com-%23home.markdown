@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://assortedproducts.com/#home
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Assorted Products - Online Shopping Mall](http://assortedproducts.com/#home)
 
@@ -29,9 +31,6 @@ title: http://assortedproducts.com/#home
 *  JS Response Bytes: 69472
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 270
-
-### Performance issues
-
 
 ### Performance issues
 

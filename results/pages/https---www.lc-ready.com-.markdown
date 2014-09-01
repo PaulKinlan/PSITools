@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.lc-ready.com/
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [LC Ready](https://www.lc-ready.com/)
 
@@ -29,9 +31,6 @@ title: https://www.lc-ready.com/
 *  JS Response Bytes: 494709
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 71427
-
-### Performance issues
-
 
 ### Performance issues
 

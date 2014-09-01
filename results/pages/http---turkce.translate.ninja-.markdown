@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://turkce.translate.ninja/
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [İngilizce Türkçe Çeviri](http://turkce.translate.ninja/)
 
@@ -29,9 +31,6 @@ title: http://turkce.translate.ninja/
 *  JS Response Bytes: 1803642
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 162036
-
-### Performance issues
-
 
 ### Performance issues
 

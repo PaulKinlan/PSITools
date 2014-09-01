@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://iphoneapplicationlist.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Best Daily Free Apps: iPhone Application List](http://iphoneapplicationlist.com/)
 
@@ -29,9 +31,6 @@ title: http://iphoneapplicationlist.com/
 *  JS Response Bytes: 156121
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43905
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.app.matchroompool.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MATCHROOM POOL](http://www.app.matchroompool.com/)
 
@@ -29,9 +34,6 @@ title: http://www.app.matchroompool.com/
 *  JS Response Bytes: 873630
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 135802
-
-### Performance issues
-
 
 ### Performance issues
 

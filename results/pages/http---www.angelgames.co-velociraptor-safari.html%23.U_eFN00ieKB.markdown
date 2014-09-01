@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.angelgames.co/velociraptor-safari.html#.U_eFN00ieKB
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Velociraptor Safari, a free online Unity 3D game at Angel Games - Angel Games](http://www.angelgames.co/velociraptor-safari.html#.U_eFN00ieKB)
 
@@ -29,9 +36,6 @@ title: http://www.angelgames.co/velociraptor-safari.html#.U_eFN00ieKB
 *  JS Response Bytes: 1175497
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95157
-
-### Performance issues
-
 
 ### Performance issues
 

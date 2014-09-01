@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://games-draw.com/papas-pizzeria.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games-Draw.Com – Papa’s Pizzeria](http://games-draw.com/papas-pizzeria.html)
 
@@ -29,9 +36,6 @@ title: http://games-draw.com/papas-pizzeria.html
 *  JS Response Bytes: 474563
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30811
-
-### Performance issues
-
 
 ### Performance issues
 

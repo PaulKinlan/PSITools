@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.browserleaks.com/modernizr
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Modernizr Helper — All Browser Features Detections in One Page — BrowserLeaks.com](http://www.browserleaks.com/modernizr)
 
@@ -29,9 +33,6 @@ title: http://www.browserleaks.com/modernizr
 *  JS Response Bytes: 566952
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15325
-
-### Performance issues
-
 
 ### Performance issues
 

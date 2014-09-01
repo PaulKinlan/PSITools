@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://txeis14.esc11.net:8443/CAS/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TxEIS Login](https://txeis14.esc11.net:8443/CAS/login)
 
@@ -29,9 +33,6 @@ title: https://txeis14.esc11.net:8443/CAS/login
 *  JS Response Bytes: 482649
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

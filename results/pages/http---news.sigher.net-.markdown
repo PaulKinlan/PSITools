@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://news.sigher.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sigher.net](http://news.sigher.net/)
 
@@ -29,9 +32,6 @@ title: http://news.sigher.net/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

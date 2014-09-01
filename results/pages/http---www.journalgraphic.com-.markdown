@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.journalgraphic.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Le Journal Graphic - Feed the graphic inside](http://www.journalgraphic.com/)
 
@@ -29,9 +31,6 @@ title: http://www.journalgraphic.com/
 *  JS Response Bytes: 178593
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

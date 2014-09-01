@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.gamespu.com/fruit-ninja.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fruit Ninja | GamesPu - Free Online Games](http://www.gamespu.com/fruit-ninja.html)
 
@@ -29,9 +37,6 @@ title: http://www.gamespu.com/fruit-ninja.html
 *  JS Response Bytes: 1529587
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104491
-
-### Performance issues
-
 
 ### Performance issues
 

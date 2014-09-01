@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.3d-game.co/gp-team-challenge-2/game/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D GP Team Challenge game](http://www.3d-game.co/gp-team-challenge-2/game/)
 
@@ -29,9 +35,6 @@ title: http://www.3d-game.co/gp-team-challenge-2/game/
 *  JS Response Bytes: 1949379
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48020
-
-### Performance issues
-
 
 ### Performance issues
 

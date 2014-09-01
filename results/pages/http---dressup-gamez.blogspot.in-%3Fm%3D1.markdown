@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://dressup-gamez.blogspot.in/?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DressUp Games](http://dressup-gamez.blogspot.in/?m=1)
 
@@ -29,9 +33,6 @@ title: http://dressup-gamez.blogspot.in/?m=1
 *  JS Response Bytes: 1529870
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115195
-
-### Performance issues
-
 
 ### Performance issues
 

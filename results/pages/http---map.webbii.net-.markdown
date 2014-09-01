@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://map.webbii.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Find address - Home](http://map.webbii.net/)
 
@@ -29,9 +31,6 @@ title: http://map.webbii.net/
 *  JS Response Bytes: 888239
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15447
-
-### Performance issues
-
 
 ### Performance issues
 

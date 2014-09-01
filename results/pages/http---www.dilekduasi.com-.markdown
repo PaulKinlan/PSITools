@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.dilekduasi.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dilek Duası](http://www.dilekduasi.com/)
 
@@ -29,9 +33,6 @@ title: http://www.dilekduasi.com/
 *  JS Response Bytes: 300634
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 760
-
-### Performance issues
-
 
 ### Performance issues
 

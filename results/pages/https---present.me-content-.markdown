@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://present.me/content/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Present.me | Video presentation software | Make a slideshow with your powerpoint & web cam](https://present.me/content/)
 
@@ -29,9 +31,6 @@ title: https://present.me/content/
 *  JS Response Bytes: 913801
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30866
-
-### Performance issues
-
 
 ### Performance issues
 

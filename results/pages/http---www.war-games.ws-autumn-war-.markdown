@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.war-games.ws/autumn-war/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Autumn War](http://www.war-games.ws/autumn-war/)
 
@@ -29,9 +36,6 @@ title: http://www.war-games.ws/autumn-war/
 *  JS Response Bytes: 2291602
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116224
-
-### Performance issues
-
 
 ### Performance issues
 

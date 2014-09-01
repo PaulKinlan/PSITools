@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playonl9.blogspot.com/2013/09/battlefield-4-online-flash-game.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Online: Battlefield 4 Online Flash Game](http://playonl9.blogspot.com/2013/09/battlefield-4-online-flash-game.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playonl9.blogspot.com/2013/09/battlefield-4-online-flash-game.html
 *  JS Response Bytes: 2327814
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287479
-
-### Performance issues
-
 
 ### Performance issues
 

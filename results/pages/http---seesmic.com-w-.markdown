@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://seesmic.com/w/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [HootSuite Welcomes Seesmic Users](http://seesmic.com/w/)
 
@@ -29,9 +32,6 @@ title: http://seesmic.com/w/
 *  JS Response Bytes: 100659
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

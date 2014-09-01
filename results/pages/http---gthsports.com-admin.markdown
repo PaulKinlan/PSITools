@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gthsports.com/admin
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [admin](http://gthsports.com/admin)
 
@@ -29,9 +34,6 @@ title: http://gthsports.com/admin
 *  JS Response Bytes: 427745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

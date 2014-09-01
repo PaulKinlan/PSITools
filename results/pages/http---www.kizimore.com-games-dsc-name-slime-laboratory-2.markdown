@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kizimore.com/games/dsc/name/slime-laboratory-2
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Kizi - Online Games - Life is fun!](http://www.kizimore.com/games/dsc/name/slime-laboratory-2)
 
@@ -29,9 +34,6 @@ title: http://www.kizimore.com/games/dsc/name/slime-laboratory-2
 *  JS Response Bytes: 1145224
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14380
-
-### Performance issues
-
 
 ### Performance issues
 

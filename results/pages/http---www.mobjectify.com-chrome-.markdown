@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mobjectify.com/chrome/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [mobjectify - Mockups and more for the mobile web](http://www.mobjectify.com/chrome/)
 
@@ -29,9 +34,6 @@ title: http://www.mobjectify.com/chrome/
 *  JS Response Bytes: 317571
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40649
-
-### Performance issues
-
 
 ### Performance issues
 

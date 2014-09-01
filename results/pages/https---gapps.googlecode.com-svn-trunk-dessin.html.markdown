@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://gapps.googlecode.com/svn/trunk/dessin.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](https://gapps.googlecode.com/svn/trunk/dessin.html)
 
@@ -29,9 +34,6 @@ title: https://gapps.googlecode.com/svn/trunk/dessin.html
 *  JS Response Bytes: 195307
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

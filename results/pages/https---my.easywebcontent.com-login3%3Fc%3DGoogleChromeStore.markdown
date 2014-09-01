@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://my.easywebcontent.com/login3?c=GoogleChromeStore
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Easy WebContent Login - Build or Edit your website with Site Builder & HTML Editor](https://my.easywebcontent.com/login3?c=GoogleChromeStore)
 
@@ -29,9 +33,6 @@ title: https://my.easywebcontent.com/login3?c=GoogleChromeStore
 *  JS Response Bytes: 136684
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

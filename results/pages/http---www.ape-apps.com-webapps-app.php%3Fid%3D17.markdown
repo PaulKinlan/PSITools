@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ape-apps.com/webapps/app.php?id=17
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mood Scanner](http://www.ape-apps.com/webapps/app.php?id=17)
 
@@ -29,9 +32,6 @@ title: http://www.ape-apps.com/webapps/app.php?id=17
 *  JS Response Bytes: 1572883
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110738
-
-### Performance issues
-
 
 ### Performance issues
 

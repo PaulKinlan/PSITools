@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.summarizethis.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [SummarizeThis™](http://www.summarizethis.com/)
 
@@ -29,9 +31,6 @@ title: http://www.summarizethis.com/
 *  JS Response Bytes: 110516
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43934
-
-### Performance issues
-
 
 ### Performance issues
 

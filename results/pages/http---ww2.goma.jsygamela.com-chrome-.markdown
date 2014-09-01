@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.goma.jsygamela.com/chrome/
+SizeTapTargetsAppropriately: true
 ---
 ## [jsygamela.com](http://ww2.goma.jsygamela.com/chrome/)
 
@@ -29,9 +30,6 @@ title: http://ww2.goma.jsygamela.com/chrome/
 *  JS Response Bytes: 229918
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21034
-
-### Performance issues
-
 
 ### Performance issues
 

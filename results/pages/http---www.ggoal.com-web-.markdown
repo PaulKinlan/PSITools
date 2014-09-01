@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ggoal.com/web/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GGOAL - Play it Now!](http://www.ggoal.com/web/)
 
@@ -29,9 +33,6 @@ title: http://www.ggoal.com/web/
 *  JS Response Bytes: 1054826
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20526
-
-### Performance issues
-
 
 ### Performance issues
 

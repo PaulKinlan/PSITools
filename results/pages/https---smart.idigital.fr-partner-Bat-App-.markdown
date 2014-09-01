@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://smart.idigital.fr/partner/Bat/App/
+MinimizeRenderBlockingResources: true
 ---
 ## [](https://smart.idigital.fr/partner/Bat/App/)
 
@@ -29,9 +30,6 @@ title: https://smart.idigital.fr/partner/Bat/App/
 *  JS Response Bytes: 735877
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

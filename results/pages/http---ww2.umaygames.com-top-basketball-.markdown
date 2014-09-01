@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.umaygames.com/top-basketball/
+SizeTapTargetsAppropriately: true
 ---
 ## [umaygames.com](http://ww2.umaygames.com/top-basketball/)
 
@@ -29,9 +30,6 @@ title: http://ww2.umaygames.com/top-basketball/
 *  JS Response Bytes: 229919
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21037
-
-### Performance issues
-
 
 ### Performance issues
 

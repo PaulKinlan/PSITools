@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://cameratag.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Camera Tag : Browser-Based Webcam Video Recording Service And Developer API](http://cameratag.com/)
 
@@ -29,9 +32,6 @@ title: http://cameratag.com/
 *  JS Response Bytes: 345284
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105299
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://streetsofgotham.mopixie.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Streets of Gotham : Full Throttle | Hacked Play Best Free Online Games, Flash Games Directory, Funtoosh Games](http://streetsofgotham.mopixie.com/)
 
@@ -29,9 +36,6 @@ title: http://streetsofgotham.mopixie.com/
 *  JS Response Bytes: 1305390
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4517
-
-### Performance issues
-
 
 ### Performance issues
 

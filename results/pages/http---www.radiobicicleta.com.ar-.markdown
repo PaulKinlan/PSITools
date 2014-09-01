@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.radiobicicleta.com.ar/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Radio Bicicleta](http://www.radiobicicleta.com.ar/)
 
@@ -29,9 +34,6 @@ title: http://www.radiobicicleta.com.ar/
 *  JS Response Bytes: 340887
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20173
-
-### Performance issues
-
 
 ### Performance issues
 

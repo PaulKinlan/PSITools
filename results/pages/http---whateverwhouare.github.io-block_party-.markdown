@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://whateverwhouare.github.io/block_party/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
 ---
 ## [Block party!](http://whateverwhouare.github.io/block_party/)
 
@@ -29,9 +32,6 @@ title: http://whateverwhouare.github.io/block_party/
 *  JS Response Bytes: 585217
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6445
-
-### Performance issues
-
 
 ### Performance issues
 

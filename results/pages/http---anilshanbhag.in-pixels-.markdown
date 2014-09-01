@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://anilshanbhag.in/pixels/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pixel](http://anilshanbhag.in/pixels/)
 
@@ -29,9 +33,6 @@ title: http://anilshanbhag.in/pixels/
 *  JS Response Bytes: 325524
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7323
-
-### Performance issues
-
 
 ### Performance issues
 

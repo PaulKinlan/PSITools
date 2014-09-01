@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamesforthebrain.com/game/oooze/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Oooze - Games for the Brain](http://www.gamesforthebrain.com/game/oooze/)
 
@@ -29,9 +33,6 @@ title: http://www.gamesforthebrain.com/game/oooze/
 *  JS Response Bytes: 404324
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

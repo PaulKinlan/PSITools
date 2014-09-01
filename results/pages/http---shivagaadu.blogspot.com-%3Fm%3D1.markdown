@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://shivagaadu.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [.NET](http://shivagaadu.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://shivagaadu.blogspot.com/?m=1
 *  JS Response Bytes: 595977
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2961
-
-### Performance issues
-
 
 ### Performance issues
 

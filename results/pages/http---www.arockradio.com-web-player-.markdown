@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.arockradio.com/web-player/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AROCK - Web Player](http://www.arockradio.com/web-player/)
 
@@ -29,9 +32,6 @@ title: http://www.arockradio.com/web-player/
 *  JS Response Bytes: 640564
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1157
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.appsgood.com/PDFUnlocker/
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [remove pdf security](http://www.appsgood.com/PDFUnlocker/)
 
@@ -29,9 +33,6 @@ title: http://www.appsgood.com/PDFUnlocker/
 *  JS Response Bytes: 394024
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

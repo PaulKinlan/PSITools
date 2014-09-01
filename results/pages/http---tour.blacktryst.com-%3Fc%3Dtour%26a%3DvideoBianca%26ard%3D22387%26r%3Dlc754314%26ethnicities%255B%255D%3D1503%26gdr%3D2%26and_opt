@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://tour.blacktryst.com/?c=tour&a=videoBianca&ard=22387&r=lc754314&ethnicities%5B%5D=1503&gdr=2&and_options%5B%5D=763&toid=209395&toi=403197&tor=58177&lpid=418
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Black Tryst](http://tour.blacktryst.com/?c=tour&a=videoBianca&ard=22387&r=lc754314&ethnicities%5B%5D=1503&gdr=2&and_options%5B%5D=763&toid=209395&toi=403197&tor=58177&lpid=418)
 
@@ -29,9 +32,6 @@ title: http://tour.blacktryst.com/?c=tour&a=videoBianca&ard=22387&r=lc754314&eth
 *  JS Response Bytes: 375796
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 93639
-
-### Performance issues
-
 
 ### Performance issues
 

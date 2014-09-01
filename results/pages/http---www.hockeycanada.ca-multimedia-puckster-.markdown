@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.hockeycanada.ca/multimedia/puckster/
+MinimizeRenderBlockingResources: true
 ---
 ## [*** Puckster's Star Challenge ***](http://www.hockeycanada.ca/multimedia/puckster/)
 
@@ -29,9 +30,6 @@ title: http://www.hockeycanada.ca/multimedia/puckster/
 *  JS Response Bytes: 306155
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 608
-
-### Performance issues
-
 
 ### Performance issues
 

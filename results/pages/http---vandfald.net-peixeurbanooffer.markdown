@@ -33,8 +33,5 @@ title: http://vandfald.net/peixeurbanooffer
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

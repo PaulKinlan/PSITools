@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.cargames9.co.uk/car-games/play-crazy-traffic
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crazy Traffic - Play Free Crazy Traffic Game Now](http://www.cargames9.co.uk/car-games/play-crazy-traffic)
 
@@ -29,9 +35,6 @@ title: http://www.cargames9.co.uk/car-games/play-crazy-traffic
 *  JS Response Bytes: 889707
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43483
-
-### Performance issues
-
 
 ### Performance issues
 

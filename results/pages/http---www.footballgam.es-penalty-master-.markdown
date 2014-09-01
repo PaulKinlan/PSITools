@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/penalty-master/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Penalty Master Game](http://www.footballgam.es/penalty-master/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/penalty-master/
 *  JS Response Bytes: 2303685
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 150821
-
-### Performance issues
-
 
 ### Performance issues
 

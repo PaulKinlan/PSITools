@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://lostforgames.com/games/bedrock-bowling/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bedrock Bowling | Lost For Games](http://lostforgames.com/games/bedrock-bowling/)
 
@@ -29,9 +34,6 @@ title: http://lostforgames.com/games/bedrock-bowling/
 *  JS Response Bytes: 526725
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42312
-
-### Performance issues
-
 
 ### Performance issues
 

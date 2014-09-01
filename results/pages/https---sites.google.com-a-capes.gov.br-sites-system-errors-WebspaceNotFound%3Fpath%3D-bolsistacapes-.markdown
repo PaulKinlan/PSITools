@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sites.google.com/a/capes.gov.br/sites/system/errors/WebspaceNotFound?path=/bolsistacapes/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Site not found](https://sites.google.com/a/capes.gov.br/sites/system/errors/WebspaceNotFound?path=/bolsistacapes/)
 
@@ -29,9 +32,6 @@ title: https://sites.google.com/a/capes.gov.br/sites/system/errors/WebspaceNotFo
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3510
-
-### Performance issues
-
 
 ### Performance issues
 

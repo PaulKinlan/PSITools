@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.bestofactiongames.com/bike-games/industrial-site-stunts
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Industrial Site Stunts - Games - Play Free Online Best of Action Games](http://www.bestofactiongames.com/bike-games/industrial-site-stunts)
 
@@ -29,9 +35,6 @@ title: http://www.bestofactiongames.com/bike-games/industrial-site-stunts
 *  JS Response Bytes: 1710660
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20427
-
-### Performance issues
-
 
 ### Performance issues
 

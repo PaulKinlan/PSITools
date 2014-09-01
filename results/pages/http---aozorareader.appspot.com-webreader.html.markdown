@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://aozorareader.appspot.com/webreader.html
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://aozorareader.appspot.com/webreader.html)
 
@@ -29,9 +30,6 @@ title: http://aozorareader.appspot.com/webreader.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 448
-
-### Performance issues
-
 
 ### Performance issues
 

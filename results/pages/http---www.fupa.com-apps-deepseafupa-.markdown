@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/deepseafupa/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Deep Sea Fupa](http://www.fupa.com/apps/deepseafupa/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/deepseafupa/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

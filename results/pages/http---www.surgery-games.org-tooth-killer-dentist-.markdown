@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/tooth-killer-dentist/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tooth Killer Dentist game](http://www.surgery-games.org/tooth-killer-dentist/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/tooth-killer-dentist/
 *  JS Response Bytes: 2636821
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122077
-
-### Performance issues
-
 
 ### Performance issues
 

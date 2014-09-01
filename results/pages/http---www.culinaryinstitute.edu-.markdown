@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.culinaryinstitute.edu/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Culinary Institute LeNotre - Culinary Institute LeNotre](http://www.culinaryinstitute.edu/)
 
@@ -29,9 +32,6 @@ title: http://www.culinaryinstitute.edu/
 *  JS Response Bytes: 1062254
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9988
-
-### Performance issues
-
 
 ### Performance issues
 

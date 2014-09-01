@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.maoffer.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Negotiate prices on cars | Make an Offer](http://www.maoffer.com/)
 
@@ -29,9 +32,6 @@ title: http://www.maoffer.com/
 *  JS Response Bytes: 299920
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

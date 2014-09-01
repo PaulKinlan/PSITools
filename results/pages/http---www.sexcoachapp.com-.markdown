@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.sexcoachapp.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Sex Coach App - Gain control over porn or sex addiction](http://www.sexcoachapp.com/)
 
@@ -29,9 +30,6 @@ title: http://www.sexcoachapp.com/
 *  JS Response Bytes: 175473
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

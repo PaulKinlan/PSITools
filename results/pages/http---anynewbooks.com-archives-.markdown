@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://anynewbooks.com/archives/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Archives](http://anynewbooks.com/archives/)
 
@@ -29,9 +35,6 @@ title: http://anynewbooks.com/archives/
 *  JS Response Bytes: 529571
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29009
-
-### Performance issues
-
 
 ### Performance issues
 

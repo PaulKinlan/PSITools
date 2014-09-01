@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.top10games.us/play/279/3d-viper-rush.html#.U_2ONU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Viper Rush - Top Ten Games](http://www.top10games.us/play/279/3d-viper-rush.html#.U_2ONU0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.top10games.us/play/279/3d-viper-rush.html#.U_2ONU0ieKA
 *  JS Response Bytes: 1541212
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31028
-
-### Performance issues
-
 
 ### Performance issues
 

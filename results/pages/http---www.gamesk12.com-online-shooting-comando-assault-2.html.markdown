@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/shooting/comando-assault-2.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Commando Assault 2 on Gamesk12.com Free Online](http://www.gamesk12.com/online/shooting/comando-assault-2.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamesk12.com/online/shooting/comando-assault-2.html
 *  JS Response Bytes: 2599298
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 153579
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bestbuy.energyresults.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Energy Results : Energy Saving Tips, Save Energy, Energy Audit, Energy Saving](http://bestbuy.energyresults.com/)
 
@@ -29,9 +32,6 @@ title: http://bestbuy.energyresults.com/
 *  JS Response Bytes: 406693
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 715
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.5kgeek.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Motivation. Sports Nutrition. Shared Experts Advice on Marathon Running](http://www.5kgeek.com/)
 
@@ -29,9 +32,6 @@ title: http://www.5kgeek.com/
 *  JS Response Bytes: 874911
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54512
-
-### Performance issues
-
 
 ### Performance issues
 

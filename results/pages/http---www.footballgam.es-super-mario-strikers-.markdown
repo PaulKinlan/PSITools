@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/super-mario-strikers/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Mario Strikers Game](http://www.footballgam.es/super-mario-strikers/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/super-mario-strikers/
 *  JS Response Bytes: 2523769
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 137323
-
-### Performance issues
-
 
 ### Performance issues
 

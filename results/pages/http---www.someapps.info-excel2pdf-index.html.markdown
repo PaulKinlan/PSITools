@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.someapps.info/excel2pdf/index.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Excel to PDF – Convert Excel Spreadsheets and Workbooks to PDF Files](http://www.someapps.info/excel2pdf/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.someapps.info/excel2pdf/index.html
 *  JS Response Bytes: 400586
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14997
-
-### Performance issues
-
 
 ### Performance issues
 

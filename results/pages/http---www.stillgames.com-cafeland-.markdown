@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.stillgames.com/cafeland/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Still Games – Cafeland](http://www.stillgames.com/cafeland/)
 
@@ -29,9 +34,6 @@ title: http://www.stillgames.com/cafeland/
 *  JS Response Bytes: 1035287
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16258
-
-### Performance issues
-
 
 ### Performance issues
 

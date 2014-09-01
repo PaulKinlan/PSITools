@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.interdidactica.es/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Juegos de niñas y niños](http://www.interdidactica.es/)
 
@@ -29,9 +34,6 @@ title: http://www.interdidactica.es/
 *  JS Response Bytes: 1098660
 *  Flash Response Bytes: 5138
 *  Other Response Bytes: 126943
-
-### Performance issues
-
 
 ### Performance issues
 

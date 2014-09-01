@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.adminkit.net/whois.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Whois Lookup | adminkit.net](http://www.adminkit.net/whois.aspx)
 
@@ -29,9 +34,6 @@ title: http://www.adminkit.net/whois.aspx
 *  JS Response Bytes: 1569411
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117840
-
-### Performance issues
-
 
 ### Performance issues
 

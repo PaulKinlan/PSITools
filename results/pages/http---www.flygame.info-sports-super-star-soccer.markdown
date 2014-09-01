@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.flygame.info/sports/super-star-soccer
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Star Soccer - FLY GaMe - New Online Flash Games](http://www.flygame.info/sports/super-star-soccer)
 
@@ -29,9 +34,6 @@ title: http://www.flygame.info/sports/super-star-soccer
 *  JS Response Bytes: 2372373
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 133142
-
-### Performance issues
-
 
 ### Performance issues
 

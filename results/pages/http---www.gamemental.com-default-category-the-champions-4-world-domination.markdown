@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamemental.com/default-category/the-champions-4-world-domination
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Champions 4 - World Domination - Gamemental](http://www.gamemental.com/default-category/the-champions-4-world-domination)
 
@@ -29,9 +34,6 @@ title: http://www.gamemental.com/default-category/the-champions-4-world-dominati
 *  JS Response Bytes: 673190
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

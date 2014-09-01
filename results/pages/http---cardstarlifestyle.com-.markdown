@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://cardstarlifestyle.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Magic Performances. MagicVideoBlog.com](http://cardstarlifestyle.com/)
 
@@ -29,9 +34,6 @@ title: http://cardstarlifestyle.com/
 *  JS Response Bytes: 2970
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1435
-
-### Performance issues
-
 
 ### Performance issues
 

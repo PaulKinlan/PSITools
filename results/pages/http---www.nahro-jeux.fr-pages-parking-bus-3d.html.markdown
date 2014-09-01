@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.nahro-jeux.fr/pages/parking-bus-3d.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Parking Bus 3D - Jeu Flash - Nahro Jeux](http://www.nahro-jeux.fr/pages/parking-bus-3d.html)
 
@@ -29,9 +35,6 @@ title: http://www.nahro-jeux.fr/pages/parking-bus-3d.html
 *  JS Response Bytes: 2682455
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99165
-
-### Performance issues
-
 
 ### Performance issues
 

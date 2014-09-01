@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.maven.co/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Experts on Expertise | Maven](http://www.maven.co/)
 
@@ -29,9 +34,6 @@ title: http://www.maven.co/
 *  JS Response Bytes: 1856972
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 469324
-
-### Performance issues
-
 
 ### Performance issues
 

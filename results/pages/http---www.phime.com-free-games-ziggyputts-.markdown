@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.phime.com/free-games/ziggyputts/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [phime Free Games - Ziggy Putts](http://www.phime.com/free-games/ziggyputts/)
 
@@ -29,9 +33,6 @@ title: http://www.phime.com/free-games/ziggyputts/
 *  JS Response Bytes: 786606
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121920
-
-### Performance issues
-
 
 ### Performance issues
 

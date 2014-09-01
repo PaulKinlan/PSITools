@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesbrigade.com/play/xform.rally-point-4
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GamesBrigade.com | The best action games!](http://www.gamesbrigade.com/play/xform.rally-point-4)
 
@@ -29,9 +34,6 @@ title: http://www.gamesbrigade.com/play/xform.rally-point-4
 *  JS Response Bytes: 3761006
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 289013
-
-### Performance issues
-
 
 ### Performance issues
 

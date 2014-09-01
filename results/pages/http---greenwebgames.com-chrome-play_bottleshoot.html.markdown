@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://greenwebgames.com/chrome/play_bottleshoot.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bottle Shooting - This online game is so addictive -](http://greenwebgames.com/chrome/play_bottleshoot.html)
 
@@ -29,9 +35,6 @@ title: http://greenwebgames.com/chrome/play_bottleshoot.html
 *  JS Response Bytes: 732899
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11049
-
-### Performance issues
-
 
 ### Performance issues
 

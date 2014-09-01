@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sisisoftware.it/jog/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
 ---
 ## [Login](https://sisisoftware.it/jog/)
 
@@ -29,9 +32,6 @@ title: https://sisisoftware.it/jog/
 *  JS Response Bytes: 827000
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

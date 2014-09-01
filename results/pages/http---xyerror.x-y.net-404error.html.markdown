@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://xyerror.x-y.net/404error.html
+EnableGzipCompression: true
 ---
 ## [HTTP 404 Not Found Error](http://xyerror.x-y.net/404error.html)
 
@@ -29,9 +30,6 @@ title: http://xyerror.x-y.net/404error.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1391
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.inet.ps/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Home Page | InetWebSystem](http://www.inet.ps/)
 
@@ -29,9 +32,6 @@ title: http://www.inet.ps/
 *  JS Response Bytes: 624092
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28318
-
-### Performance issues
-
 
 ### Performance issues
 

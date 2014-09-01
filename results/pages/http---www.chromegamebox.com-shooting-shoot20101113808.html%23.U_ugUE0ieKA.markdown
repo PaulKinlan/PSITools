@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chromegamebox.com/shooting/shoot20101113808.html#.U_ugUE0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ace pilots_chromegamebox](http://www.chromegamebox.com/shooting/shoot20101113808.html#.U_ugUE0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.chromegamebox.com/shooting/shoot20101113808.html#.U_ugUE0ieKA
 *  JS Response Bytes: 462408
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5310
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.idmdownloadmaster.com/download-master.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Download Master | İdm Download Master](http://www.idmdownloadmaster.com/download-master.html)
 
@@ -29,9 +32,6 @@ title: http://www.idmdownloadmaster.com/download-master.html
 *  JS Response Bytes: 656118
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 68455
-
-### Performance issues
-
 
 ### Performance issues
 

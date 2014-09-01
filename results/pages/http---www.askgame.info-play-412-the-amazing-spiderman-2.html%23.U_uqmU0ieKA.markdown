@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.askgame.info/play/412/the-amazing-spiderman-2.html#.U_uqmU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Amazing Spiderman 2 - Ask Game - Best Free Online Flash Games](http://www.askgame.info/play/412/the-amazing-spiderman-2.html#.U_uqmU0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.askgame.info/play/412/the-amazing-spiderman-2.html#.U_uqmU0ieK
 *  JS Response Bytes: 1700763
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47870
-
-### Performance issues
-
 
 ### Performance issues
 

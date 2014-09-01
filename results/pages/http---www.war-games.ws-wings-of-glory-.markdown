@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/wings-of-glory/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Wings of Glory](http://www.war-games.ws/wings-of-glory/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/wings-of-glory/
 *  JS Response Bytes: 2292951
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120589
-
-### Performance issues
-
 
 ### Performance issues
 

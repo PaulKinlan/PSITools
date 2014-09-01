@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/actiongames/kamikaze-pigs/#.U_uf8U0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kamikaze Pigs « Online Flash Game Kamikaze Pigs](http://gamematic.net/online-flash-games/actiongames/kamikaze-pigs/#.U_uf8U0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/actiongames/kamikaze-pigs/#.U_uf8
 *  JS Response Bytes: 1260781
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52299
-
-### Performance issues
-
 
 ### Performance issues
 

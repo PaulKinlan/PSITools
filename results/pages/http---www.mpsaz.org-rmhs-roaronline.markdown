@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mpsaz.org/rmhs/roaronline
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [RMHS » Roar Online](http://www.mpsaz.org/rmhs/roaronline)
 
@@ -29,9 +33,6 @@ title: http://www.mpsaz.org/rmhs/roaronline
 *  JS Response Bytes: 676857
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29675
-
-### Performance issues
-
 
 ### Performance issues
 

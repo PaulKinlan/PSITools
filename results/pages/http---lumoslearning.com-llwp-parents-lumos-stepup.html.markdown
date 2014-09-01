@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://lumoslearning.com/llwp/parents/lumos-stepup.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Lumos StepUp™ | Lumos Learning](http://lumoslearning.com/llwp/parents/lumos-stepup.html)
 
@@ -29,9 +32,6 @@ title: http://lumoslearning.com/llwp/parents/lumos-stepup.html
 *  JS Response Bytes: 3301147
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148748
-
-### Performance issues
-
 
 ### Performance issues
 

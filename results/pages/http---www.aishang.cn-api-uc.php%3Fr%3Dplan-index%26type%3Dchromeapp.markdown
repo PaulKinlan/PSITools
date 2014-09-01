@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.aishang.cn/api/uc.php?r=plan/index&type=chromeapp
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404-page not found-易名中国](http://www.aishang.cn/api/uc.php?r=plan/index&type=chromeapp)
 
@@ -29,9 +31,6 @@ title: http://www.aishang.cn/api/uc.php?r=plan/index&type=chromeapp
 *  JS Response Bytes: 38939
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14400
-
-### Performance issues
-
 
 ### Performance issues
 

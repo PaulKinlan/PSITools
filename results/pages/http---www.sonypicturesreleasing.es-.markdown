@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.sonypicturesreleasing.es/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sony Pictures Releasing](http://www.sonypicturesreleasing.es/)
 
@@ -29,9 +35,6 @@ title: http://www.sonypicturesreleasing.es/
 *  JS Response Bytes: 1253814
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1857
-
-### Performance issues
-
 
 ### Performance issues
 

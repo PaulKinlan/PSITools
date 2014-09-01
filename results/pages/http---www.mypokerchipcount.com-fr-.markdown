@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mypokerchipcount.com/fr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Chip Count en direct ! MyPokerChipCount](http://www.mypokerchipcount.com/fr/)
 
@@ -29,9 +32,6 @@ title: http://www.mypokerchipcount.com/fr/
 *  JS Response Bytes: 328201
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2439
-
-### Performance issues
-
 
 ### Performance issues
 

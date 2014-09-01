@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://myipaddress.herokuapp.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [IP Address](http://myipaddress.herokuapp.com/)
 
@@ -29,9 +34,6 @@ title: http://myipaddress.herokuapp.com/
 *  JS Response Bytes: 1645658
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 139717
-
-### Performance issues
-
 
 ### Performance issues
 

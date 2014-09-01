@@ -33,8 +33,5 @@ title: http://fullchromegames.com/supermario.php
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.workstraight.com/dimension_pointofsale/spacetime/Core.work?go=pointofsale
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [WorkStraight | Logged Out](https://www.workstraight.com/dimension_pointofsale/spacetime/Core.work?go=pointofsale)
 
@@ -29,9 +31,6 @@ title: https://www.workstraight.com/dimension_pointofsale/spacetime/Core.work?go
 *  JS Response Bytes: 235979
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 70490
-
-### Performance issues
-
 
 ### Performance issues
 

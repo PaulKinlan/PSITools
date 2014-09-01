@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2pg.com/game/pacxon/play/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pacxon | 2 Player Games](http://www.2pg.com/game/pacxon/play/)
 
@@ -29,9 +34,6 @@ title: http://www.2pg.com/game/pacxon/play/
 *  JS Response Bytes: 1384427
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22841
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://workflowy.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [WorkFlowy - Organize your brain.](https://workflowy.com/)
 
@@ -29,9 +31,6 @@ title: https://workflowy.com/
 *  JS Response Bytes: 128633
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

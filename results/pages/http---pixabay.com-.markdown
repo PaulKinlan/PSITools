@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://pixabay.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pixabay - Free Images](http://pixabay.com/)
 
@@ -29,9 +32,6 @@ title: http://pixabay.com/
 *  JS Response Bytes: 193745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

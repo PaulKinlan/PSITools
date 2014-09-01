@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.ibibo.com/foreststory?platform=chrome
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404 Page Not Found](http://www.ibibo.com/foreststory?platform=chrome)
 
@@ -29,9 +31,6 @@ title: http://www.ibibo.com/foreststory?platform=chrome
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3429
-
-### Performance issues
-
 
 ### Performance issues
 

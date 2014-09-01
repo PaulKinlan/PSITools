@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromegames2.blogspot.com/2013/06/subway-surfers.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [chrome games 2: Subway Surfers](http://chromegames2.blogspot.com/2013/06/subway-surfers.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chromegames2.blogspot.com/2013/06/subway-surfers.html?m=1
 *  JS Response Bytes: 1067966
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97986
-
-### Performance issues
-
 
 ### Performance issues
 

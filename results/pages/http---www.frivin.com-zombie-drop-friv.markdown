@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.frivin.com/zombie-drop/friv
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombie Drop | Friv And Friv Games More Online Friv Game](http://www.frivin.com/zombie-drop/friv)
 
@@ -29,9 +33,6 @@ title: http://www.frivin.com/zombie-drop/friv
 *  JS Response Bytes: 2820397
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113828
-
-### Performance issues
-
 
 ### Performance issues
 

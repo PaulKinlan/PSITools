@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://xinyuandan.sinaapp.com/account/sina_webapp_login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [我的心愿列表 —— 记录、分享和讨论想法。](http://xinyuandan.sinaapp.com/account/sina_webapp_login)
 
@@ -29,9 +34,6 @@ title: http://xinyuandan.sinaapp.com/account/sina_webapp_login
 *  JS Response Bytes: 181717
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6840
-
-### Performance issues
-
 
 ### Performance issues
 

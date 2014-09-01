@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.4thofjulymahjong.com/?chromestore=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [4th of July Mahjong](http://www.4thofjulymahjong.com/?chromestore=1)
 
@@ -29,9 +34,6 @@ title: http://www.4thofjulymahjong.com/?chromestore=1
 *  JS Response Bytes: 208251
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

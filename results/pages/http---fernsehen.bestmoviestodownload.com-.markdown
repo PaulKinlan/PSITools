@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://fernsehen.bestmoviestodownload.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [Bestmoviestodownload.com](http://fernsehen.bestmoviestodownload.com/)
 
@@ -29,9 +30,6 @@ title: http://fernsehen.bestmoviestodownload.com/
 *  JS Response Bytes: 259015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 442
-
-### Performance issues
-
 
 ### Performance issues
 

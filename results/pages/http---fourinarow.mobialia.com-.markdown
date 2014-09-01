@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://fourinarow.mobialia.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mobialia Four in a Row 3D](http://fourinarow.mobialia.com/)
 
@@ -29,9 +33,6 @@ title: http://fourinarow.mobialia.com/
 *  JS Response Bytes: 944308
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110124
-
-### Performance issues
-
 
 ### Performance issues
 

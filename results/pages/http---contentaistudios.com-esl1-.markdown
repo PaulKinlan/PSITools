@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://contentaistudios.com/esl1/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
 ---
 ## [Content AI Studios Presents: English as a Second Language](http://contentaistudios.com/esl1/)
 
@@ -29,9 +32,6 @@ title: http://contentaistudios.com/esl1/
 *  JS Response Bytes: 356613
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1673
-
-### Performance issues
-
 
 ### Performance issues
 

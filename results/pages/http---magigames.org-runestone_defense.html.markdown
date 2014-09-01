@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://magigames.org/runestone_defense.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MagiGames - Runestone Defense](http://magigames.org/runestone_defense.html)
 
@@ -29,9 +36,6 @@ title: http://magigames.org/runestone_defense.html
 *  JS Response Bytes: 1729973
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17915
-
-### Performance issues
-
 
 ### Performance issues
 

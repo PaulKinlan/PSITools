@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/oyun
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Addicting Games](http://www.2addictinggames.com/games/oyun)
 
@@ -29,9 +33,6 @@ title: http://www.2addictinggames.com/games/oyun
 *  JS Response Bytes: 1136776
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48525
-
-### Performance issues
-
 
 ### Performance issues
 

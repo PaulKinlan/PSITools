@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.fifa-2014-downloadpc.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [the chato](http://www.fifa-2014-downloadpc.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://www.fifa-2014-downloadpc.blogspot.com/?m=1
 *  JS Response Bytes: 791041
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287136
-
-### Performance issues
-
 
 ### Performance issues
 

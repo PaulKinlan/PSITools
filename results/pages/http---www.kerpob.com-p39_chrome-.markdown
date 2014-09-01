@@ -33,8 +33,5 @@ title: http://www.kerpob.com/p39_chrome/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

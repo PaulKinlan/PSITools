@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://chrome-estrela.pontomobi.com.br/content/autorama/?pid=4
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Autorama](http://chrome-estrela.pontomobi.com.br/content/autorama/?pid=4)
 
@@ -29,9 +34,6 @@ title: http://chrome-estrela.pontomobi.com.br/content/autorama/?pid=4
 *  JS Response Bytes: 568756
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 828
-
-### Performance issues
-
 
 ### Performance issues
 

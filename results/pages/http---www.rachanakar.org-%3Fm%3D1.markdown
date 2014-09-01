@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.rachanakar.org/?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [रचनाकार](http://www.rachanakar.org/?m=1)
 
@@ -29,9 +33,6 @@ title: http://www.rachanakar.org/?m=1
 *  JS Response Bytes: 801754
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287634
-
-### Performance issues
-
 
 ### Performance issues
 

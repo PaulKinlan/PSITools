@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://developers.google.com/events/io/2012/mobile
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Google I/O 2012](https://developers.google.com/events/io/2012/mobile)
 
@@ -29,9 +31,6 @@ title: https://developers.google.com/events/io/2012/mobile
 *  JS Response Bytes: 94322
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17900
-
-### Performance issues
-
 
 ### Performance issues
 

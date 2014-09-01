@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gita-blog.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bhagwat Gita Blog - Life Philosophy](http://gita-blog.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://gita-blog.blogspot.com/?m=1
 *  JS Response Bytes: 788540
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287104
-
-### Performance issues
-
 
 ### Performance issues
 

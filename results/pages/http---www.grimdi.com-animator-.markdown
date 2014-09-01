@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.grimdi.com/animator/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Grimdi Animator](http://www.grimdi.com/animator/)
 
@@ -29,9 +34,6 @@ title: http://www.grimdi.com/animator/
 *  JS Response Bytes: 178646
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 37179
-
-### Performance issues
-
 
 ### Performance issues
 

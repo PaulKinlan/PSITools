@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://picsho.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Create photo galleries from social hashtags - Picsho](http://picsho.com/)
 
@@ -29,9 +32,6 @@ title: http://picsho.com/
 *  JS Response Bytes: 151230
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29214
-
-### Performance issues
-
 
 ### Performance issues
 

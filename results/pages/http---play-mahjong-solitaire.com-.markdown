@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://play-mahjong-solitaire.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mahjong Solitaire](http://play-mahjong-solitaire.com/)
 
@@ -29,9 +31,6 @@ title: http://play-mahjong-solitaire.com/
 *  JS Response Bytes: 582765
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

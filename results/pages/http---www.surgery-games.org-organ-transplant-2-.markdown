@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/organ-transplant-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Organ Transplant game](http://www.surgery-games.org/organ-transplant-2/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/organ-transplant-2/
 *  JS Response Bytes: 2543089
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 123939
-
-### Performance issues
-
 
 ### Performance issues
 

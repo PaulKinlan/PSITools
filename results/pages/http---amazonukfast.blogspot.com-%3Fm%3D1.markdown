@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://amazonukfast.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Amazon UK](http://amazonukfast.blogspot.com/?m=1)
 
@@ -29,9 +33,6 @@ title: http://amazonukfast.blogspot.com/?m=1
 *  JS Response Bytes: 1605316
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98256
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.spotiseek.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Spotiseek - Helps you find new Spotify music](http://www.spotiseek.com/)
 
@@ -29,9 +32,6 @@ title: http://www.spotiseek.com/
 *  JS Response Bytes: 469530
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1426
-
-### Performance issues
-
 
 ### Performance issues
 

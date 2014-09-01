@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.waltonsinc.com/?utm_source=chrome_ntp_icon&utm_medium=chrome_app&utm_campaign=chrome
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Walton's: Meat processing supplies and equipment, sausage seasoning, jerky seasonings, deer processing supplies, seasoning & spices, meat grinders, smokehouses, meat smokers, deer processing, more.](http://www.waltonsinc.com/?utm_source=chrome_ntp_icon&utm_medium=chrome_app&utm_campaign=chrome)
 
@@ -29,9 +32,6 @@ title: http://www.waltonsinc.com/?utm_source=chrome_ntp_icon&utm_medium=chrome_a
 *  JS Response Bytes: 1772689
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110588
-
-### Performance issues
-
 
 ### Performance issues
 

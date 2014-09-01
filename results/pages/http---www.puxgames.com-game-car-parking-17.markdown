@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.puxgames.com/game/car-parking-17
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Car Parking Game - Pux Games](http://www.puxgames.com/game/car-parking-17)
 
@@ -29,9 +33,6 @@ title: http://www.puxgames.com/game/car-parking-17
 *  JS Response Bytes: 619137
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15269
-
-### Performance issues
-
 
 ### Performance issues
 

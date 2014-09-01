@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.blackfridayspecialseveryday.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BLACK FRIDAY](http://www.blackfridayspecialseveryday.com/)
 
@@ -29,9 +34,6 @@ title: http://www.blackfridayspecialseveryday.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

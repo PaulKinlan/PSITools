@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.directoil.ca/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DirectOil.ca](http://www.directoil.ca/)
 
@@ -29,9 +34,6 @@ title: http://www.directoil.ca/
 *  JS Response Bytes: 1256809
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119306
-
-### Performance issues
-
 
 ### Performance issues
 

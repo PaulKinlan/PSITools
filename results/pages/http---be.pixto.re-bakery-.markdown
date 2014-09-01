@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://be.pixto.re/bakery/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [PIXTO.RE](http://be.pixto.re/bakery/)
 
@@ -29,9 +32,6 @@ title: http://be.pixto.re/bakery/
 *  JS Response Bytes: 1551591
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

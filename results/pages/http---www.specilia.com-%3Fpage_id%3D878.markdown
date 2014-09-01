@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.specilia.com/?page_id=878
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [specilia.com: The Leading Spec Ilia Site on the Net](http://www.specilia.com/?page_id=878)
 
@@ -29,9 +31,6 @@ title: http://www.specilia.com/?page_id=878
 *  JS Response Bytes: 88146
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

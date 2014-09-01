@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://sectoranalyzer2.xstore.pro/Settings/Account
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Account](http://sectoranalyzer2.xstore.pro/Settings/Account)
 
@@ -29,9 +31,6 @@ title: http://sectoranalyzer2.xstore.pro/Settings/Account
 *  JS Response Bytes: 416288
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 391
-
-### Performance issues
-
 
 ### Performance issues
 

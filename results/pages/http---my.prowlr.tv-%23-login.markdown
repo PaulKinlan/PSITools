@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://my.prowlr.tv/#/login
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Prowlr](http://my.prowlr.tv/#/login)
 
@@ -29,9 +32,6 @@ title: http://my.prowlr.tv/#/login
 *  JS Response Bytes: 339063
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3575
-
-### Performance issues
-
 
 ### Performance issues
 

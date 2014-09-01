@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://aygame.info/angry-birds-go/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AyGame.INFO Full HD Flash Game – Angry Birds Go](http://aygame.info/angry-birds-go/)
 
@@ -29,9 +33,6 @@ title: http://aygame.info/angry-birds-go/
 *  JS Response Bytes: 696296
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 476
-
-### Performance issues
-
 
 ### Performance issues
 

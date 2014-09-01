@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.jacomparou.com.br/mobile
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [JáComparou?](http://www.jacomparou.com.br/mobile)
 
@@ -29,9 +31,6 @@ title: http://www.jacomparou.com.br/mobile
 *  JS Response Bytes: 1373205
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7116
-
-### Performance issues
-
 
 ### Performance issues
 

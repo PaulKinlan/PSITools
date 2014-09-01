@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://myapi.io/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [myAPi LinkShorter](http://myapi.io/)
 
@@ -29,9 +33,6 @@ title: http://myapi.io/
 *  JS Response Bytes: 254602
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 554
-
-### Performance issues
-
 
 ### Performance issues
 

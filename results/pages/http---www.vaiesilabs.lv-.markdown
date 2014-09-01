@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.vaiesilabs.lv/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Vaiesilabs.lv - Vai tu esi labs cilvēks?](http://www.vaiesilabs.lv/)
 
@@ -29,9 +32,6 @@ title: http://www.vaiesilabs.lv/
 *  JS Response Bytes: 133362
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

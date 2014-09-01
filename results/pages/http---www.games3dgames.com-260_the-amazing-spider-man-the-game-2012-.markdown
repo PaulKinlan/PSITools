@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.games3dgames.com/260_the-amazing-spider-man-the-game-2012/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play The Amazing Spider-Man Game 2012 in 3D | Online Games 3D Games](http://www.games3dgames.com/260_the-amazing-spider-man-the-game-2012/)
 
@@ -29,9 +34,6 @@ title: http://www.games3dgames.com/260_the-amazing-spider-man-the-game-2012/
 *  JS Response Bytes: 262610
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56147
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.biofficinatoscana.com/index.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Cosmetici e prodotti naturali certificati biologici a Km0](http://www.biofficinatoscana.com/index.php)
 
@@ -29,9 +32,6 @@ title: http://www.biofficinatoscana.com/index.php
 *  JS Response Bytes: 313489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1432
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.3dback.com/tortuga-tales-pinball/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tortuga Tales Pinball](http://www.3dback.com/tortuga-tales-pinball/)
 
@@ -29,9 +35,6 @@ title: http://www.3dback.com/tortuga-tales-pinball/
 *  JS Response Bytes: 3417700
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 345314
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.downloader-ing.com/retrica-ios-and-android/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Retrica ios and android | Download](http://www.downloader-ing.com/retrica-ios-and-android/)
 
@@ -29,9 +33,6 @@ title: http://www.downloader-ing.com/retrica-ios-and-android/
 *  JS Response Bytes: 689436
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14548
-
-### Performance issues
-
 
 ### Performance issues
 

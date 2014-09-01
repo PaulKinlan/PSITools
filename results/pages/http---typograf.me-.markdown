@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://typograf.me/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Typograf - Draw with text](http://typograf.me/)
 
@@ -29,9 +35,6 @@ title: http://typograf.me/
 *  JS Response Bytes: 663873
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

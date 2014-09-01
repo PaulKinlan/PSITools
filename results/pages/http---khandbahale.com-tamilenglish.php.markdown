@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://khandbahale.com/tamilenglish.php
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tamil Dictionary | Tamil to English Dictionary -KHANDBAHALE.COM](http://khandbahale.com/tamilenglish.php)
 
@@ -29,9 +33,6 @@ title: http://khandbahale.com/tamilenglish.php
 *  JS Response Bytes: 1930516
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3203
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.onedailygame.com/sim-games
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sim Games - OneDailyGame](http://www.onedailygame.com/sim-games)
 
@@ -29,9 +33,6 @@ title: http://www.onedailygame.com/sim-games
 *  JS Response Bytes: 58677
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1545
-
-### Performance issues
-
 
 ### Performance issues
 

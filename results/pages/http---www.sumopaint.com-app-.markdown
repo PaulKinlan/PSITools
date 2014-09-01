@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.sumopaint.com/app/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sumo](http://www.sumopaint.com/app/)
 
@@ -29,9 +32,6 @@ title: http://www.sumopaint.com/app/
 *  JS Response Bytes: 34534
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 145647
-
-### Performance issues
-
 
 ### Performance issues
 

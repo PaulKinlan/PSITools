@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.daligames.com/counter-strike-online.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Counter Strike Online | Dali Games](http://www.daligames.com/counter-strike-online.html)
 
@@ -29,9 +37,6 @@ title: http://www.daligames.com/counter-strike-online.html
 *  JS Response Bytes: 1529604
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115956
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://wherecanibuygreencoffeebean.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Where can I buy Green Coffee Beans Extract Review and Free Sample.](http://wherecanibuygreencoffeebean.com/)
 
@@ -29,9 +35,6 @@ title: http://wherecanibuygreencoffeebean.com/
 *  JS Response Bytes: 332354
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25745
-
-### Performance issues
-
 
 ### Performance issues
 

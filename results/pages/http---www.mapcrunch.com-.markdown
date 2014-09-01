@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mapcrunch.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MapCrunch - Random Google Street View](http://www.mapcrunch.com/)
 
@@ -29,9 +33,6 @@ title: http://www.mapcrunch.com/
 *  JS Response Bytes: 1863862
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 149506
-
-### Performance issues
-
 
 ### Performance issues
 

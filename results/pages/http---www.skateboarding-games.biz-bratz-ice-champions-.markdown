@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/bratz-ice-champions/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bratz Ice Champions game](http://www.skateboarding-games.biz/bratz-ice-champions/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/bratz-ice-champions/
 *  JS Response Bytes: 2123761
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121928
-
-### Performance issues
-
 
 ### Performance issues
 

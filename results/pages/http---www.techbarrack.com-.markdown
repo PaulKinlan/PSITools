@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.techbarrack.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tech Barrack Solutions](http://www.techbarrack.com/)
 
@@ -29,9 +32,6 @@ title: http://www.techbarrack.com/
 *  JS Response Bytes: 1241424
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 74995
-
-### Performance issues
-
 
 ### Performance issues
 

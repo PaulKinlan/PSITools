@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://idp.hrblock.com/idp/Authn/DUserLogin.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sign In](https://idp.hrblock.com/idp/Authn/DUserLogin.html)
 
@@ -29,9 +32,6 @@ title: https://idp.hrblock.com/idp/Authn/DUserLogin.html
 *  JS Response Bytes: 157285
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30714
-
-### Performance issues
-
 
 ### Performance issues
 

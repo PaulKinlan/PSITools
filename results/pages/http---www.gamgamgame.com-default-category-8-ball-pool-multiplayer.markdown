@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamgamgame.com/default-category/8-ball-pool-multiplayer
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [8 Ball Pool Multiplayer - AV Arcade](http://www.gamgamgame.com/default-category/8-ball-pool-multiplayer)
 
@@ -29,9 +33,6 @@ title: http://www.gamgamgame.com/default-category/8-ball-pool-multiplayer
 *  JS Response Bytes: 3354268
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 158567
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.delugerpg.com/login
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login - DelugeRPG](http://www.delugerpg.com/login)
 
@@ -29,9 +33,6 @@ title: http://www.delugerpg.com/login
 *  JS Response Bytes: 428704
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1428
-
-### Performance issues
-
 
 ### Performance issues
 

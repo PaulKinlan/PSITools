@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://chromehdgame.blogspot.com/2013/08/call-of-duty-4.html?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [chrome store online game](http://chromehdgame.blogspot.com/2013/08/call-of-duty-4.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://chromehdgame.blogspot.com/2013/08/call-of-duty-4.html?m=1
 *  JS Response Bytes: 248910
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43073
-
-### Performance issues
-
 
 ### Performance issues
 

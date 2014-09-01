@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.oyunlar9.com/3d-sniper-takimi-2-oyna.html?utm_source=ChromeWebStore&utm_medium=3DSniperTakimi2utm_content=webapp&utm_campaign=kisayol
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Sniper Takımı 2 Oyna - Oyunlar 9](http://www.oyunlar9.com/3d-sniper-takimi-2-oyna.html?utm_source=ChromeWebStore&utm_medium=3DSniperTakimi2utm_content=webapp&utm_campaign=kisayol)
 
@@ -29,9 +35,6 @@ title: http://www.oyunlar9.com/3d-sniper-takimi-2-oyna.html?utm_source=ChromeWeb
 *  JS Response Bytes: 2335407
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 310769
-
-### Performance issues
-
 
 ### Performance issues
 

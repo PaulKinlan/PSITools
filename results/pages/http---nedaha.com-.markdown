@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://nedaha.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [سامانه نداها - درج رایگان آگهی های اینترنتی](http://nedaha.com/)
 
@@ -29,9 +32,6 @@ title: http://nedaha.com/
 *  JS Response Bytes: 687922
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 82023
-
-### Performance issues
-
 
 ### Performance issues
 

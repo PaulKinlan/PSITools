@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://tellyshack.com/fg.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Family Guy | Live](http://tellyshack.com/fg.html)
 
@@ -29,9 +32,6 @@ title: http://tellyshack.com/fg.html
 *  JS Response Bytes: 183363
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26564
-
-### Performance issues
-
 
 ### Performance issues
 

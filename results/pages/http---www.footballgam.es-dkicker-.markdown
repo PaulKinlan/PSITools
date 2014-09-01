@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/dkicker/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dkicker Game](http://www.footballgam.es/dkicker/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/dkicker/
 *  JS Response Bytes: 2309768
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 153996
-
-### Performance issues
-
 
 ### Performance issues
 

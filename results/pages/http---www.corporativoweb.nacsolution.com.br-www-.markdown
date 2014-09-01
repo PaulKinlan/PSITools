@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.corporativoweb.nacsolution.com.br/www/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Corporativo.Web - Autenticação](http://www.corporativoweb.nacsolution.com.br/www/)
 
@@ -29,9 +34,6 @@ title: http://www.corporativoweb.nacsolution.com.br/www/
 *  JS Response Bytes: 152394
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.cabana.dk/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Cabana A/S](http://www.cabana.dk/)
 
@@ -29,9 +31,6 @@ title: http://www.cabana.dk/
 *  JS Response Bytes: 305149
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 171462
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_743_SpongeBob-Anchovy-Assault.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SpongeBob Anchovy Assault Flash Games](http://www.newpopulargames.com/game_743_SpongeBob-Anchovy-Assault.html)
 
@@ -29,9 +35,6 @@ title: http://www.newpopulargames.com/game_743_SpongeBob-Anchovy-Assault.html
 *  JS Response Bytes: 1522506
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113652
-
-### Performance issues
-
 
 ### Performance issues
 

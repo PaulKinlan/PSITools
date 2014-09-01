@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://hypnotherapyandnlpguide.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://hypnotherapyandnlpguide.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://hypnotherapyandnlpguide.blogspot.com/?m=1
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18813
-
-### Performance issues
-
 
 ### Performance issues
 

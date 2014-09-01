@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.alawar.com/?utm_source=mobile-redirect&utm_medium=alawar_com&utm_campaign=redirect
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Homepage - Alawar](http://m.alawar.com/?utm_source=mobile-redirect&utm_medium=alawar_com&utm_campaign=redirect)
 
@@ -29,9 +33,6 @@ title: http://m.alawar.com/?utm_source=mobile-redirect&utm_medium=alawar_com&utm
 *  JS Response Bytes: 582460
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16588
-
-### Performance issues
-
 
 ### Performance issues
 

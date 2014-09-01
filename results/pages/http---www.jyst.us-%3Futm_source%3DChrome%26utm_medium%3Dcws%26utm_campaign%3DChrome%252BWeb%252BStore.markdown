@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.jyst.us/?utm_source=Chrome&utm_medium=cws&utm_campaign=Chrome%2BWeb%2BStore
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jyst - Social Media Aggregator](http://www.jyst.us/?utm_source=Chrome&utm_medium=cws&utm_campaign=Chrome%2BWeb%2BStore)
 
@@ -29,9 +33,6 @@ title: http://www.jyst.us/?utm_source=Chrome&utm_medium=cws&utm_campaign=Chrome%
 *  JS Response Bytes: 270864
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2780
-
-### Performance issues
-
 
 ### Performance issues
 

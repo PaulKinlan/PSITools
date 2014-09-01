@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamgamgame.com/default-category/heat-rush-usa
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Heat Rush USA - AV Arcade](http://www.gamgamgame.com/default-category/heat-rush-usa)
 
@@ -29,9 +35,6 @@ title: http://www.gamgamgame.com/default-category/heat-rush-usa
 *  JS Response Bytes: 2221195
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114941
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ultimateskincareguide.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Moles, Warts & Skin Tags Removal Guide](http://ultimateskincareguide.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://ultimateskincareguide.blogspot.com/?m=1
 *  JS Response Bytes: 248930
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 579
-
-### Performance issues
-
 
 ### Performance issues
 

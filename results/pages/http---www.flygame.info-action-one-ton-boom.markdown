@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.flygame.info/action/one-ton-boom
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [One Ton Boom - FLY GaMe - New Online Flash Games](http://www.flygame.info/action/one-ton-boom)
 
@@ -29,9 +35,6 @@ title: http://www.flygame.info/action/one-ton-boom
 *  JS Response Bytes: 2323080
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 130461
-
-### Performance issues
-
 
 ### Performance issues
 

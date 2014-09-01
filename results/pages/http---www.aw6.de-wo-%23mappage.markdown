@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.aw6.de/wo/#mappage
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [Eigene Position: Ortsbestimmung](http://www.aw6.de/wo/#mappage)
 
@@ -29,9 +32,6 @@ title: http://www.aw6.de/wo/#mappage
 *  JS Response Bytes: 35786
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

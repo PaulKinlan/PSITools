@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.famousworldgames.com/play/268/marine-assault.html#.U_uy300ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Marine Assault - Famous World Games - Free Online Best Games](http://www.famousworldgames.com/play/268/marine-assault.html#.U_uy300ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.famousworldgames.com/play/268/marine-assault.html#.U_uy300ieKA
 *  JS Response Bytes: 1448781
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14852
-
-### Performance issues
-
 
 ### Performance issues
 

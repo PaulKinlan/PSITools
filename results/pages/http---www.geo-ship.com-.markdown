@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.geo-ship.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [eBay Global Search](http://www.geo-ship.com/)
 
@@ -29,9 +33,6 @@ title: http://www.geo-ship.com/
 *  JS Response Bytes: 2036474
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1269
-
-### Performance issues
-
 
 ### Performance issues
 

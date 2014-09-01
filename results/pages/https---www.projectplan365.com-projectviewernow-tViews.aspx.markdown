@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://www.projectplan365.com/projectviewernow/tViews.aspx
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Project Viewer 365](https://www.projectplan365.com/projectviewernow/tViews.aspx)
 
@@ -29,9 +35,6 @@ title: https://www.projectplan365.com/projectviewernow/tViews.aspx
 *  JS Response Bytes: 1882742
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 629
-
-### Performance issues
-
 
 ### Performance issues
 

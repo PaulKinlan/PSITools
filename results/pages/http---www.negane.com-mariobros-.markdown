@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.negane.com/mariobros/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.negane.com/mariobros/)
 
@@ -29,9 +32,6 @@ title: http://www.negane.com/mariobros/
 *  JS Response Bytes: 586904
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48274
-
-### Performance issues
-
 
 ### Performance issues
 

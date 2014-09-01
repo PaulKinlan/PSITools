@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.jam-live.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Home](https://www.jam-live.com/)
 
@@ -29,9 +32,6 @@ title: https://www.jam-live.com/
 *  JS Response Bytes: 1775765
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 605
-
-### Performance issues
-
 
 ### Performance issues
 

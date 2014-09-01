@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/power-rangers-samurai/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Power Rangers Samurai Game — Sultans of Game](http://www.sultansofgame.com/games/power-rangers-samurai/)
 
@@ -29,9 +36,6 @@ title: http://www.sultansofgame.com/games/power-rangers-samurai/
 *  JS Response Bytes: 1788849
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125769
-
-### Performance issues
-
 
 ### Performance issues
 

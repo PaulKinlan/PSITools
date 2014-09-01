@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://video-player-sample.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Google Video App](http://video-player-sample.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://video-player-sample.appspot.com/
 *  JS Response Bytes: 712284
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50684
-
-### Performance issues
-
 
 ### Performance issues
 

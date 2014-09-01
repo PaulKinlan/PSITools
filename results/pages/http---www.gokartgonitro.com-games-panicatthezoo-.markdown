@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gokartgonitro.com/games/panicatthezoo/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [XformGames.com | Panic at the Zoo](http://www.gokartgonitro.com/games/panicatthezoo/)
 
@@ -29,9 +34,6 @@ title: http://www.gokartgonitro.com/games/panicatthezoo/
 *  JS Response Bytes: 381498
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3988
-
-### Performance issues
-
 
 ### Performance issues
 

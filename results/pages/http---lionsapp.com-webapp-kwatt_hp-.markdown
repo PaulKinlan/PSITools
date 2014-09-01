@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://lionsapp.com/webapp/kwatt_hp/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LionsApp | Web App [KWatt HP]](http://lionsapp.com/webapp/kwatt_hp/)
 
@@ -29,9 +33,6 @@ title: http://lionsapp.com/webapp/kwatt_hp/
 *  JS Response Bytes: 1571152
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111625
-
-### Performance issues
-
 
 ### Performance issues
 

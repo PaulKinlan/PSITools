@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.iteryours.com/myinventoryplus/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [My Inventory Plus](http://www.iteryours.com/myinventoryplus/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.iteryours.com/myinventoryplus/index.html
 *  JS Response Bytes: 934189
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109055
-
-### Performance issues
-
 
 ### Performance issues
 

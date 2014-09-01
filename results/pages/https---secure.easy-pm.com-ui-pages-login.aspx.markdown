@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://secure.easy-pm.com/ui/pages/login.aspx
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [EASY-PM Login](https://secure.easy-pm.com/ui/pages/login.aspx)
 
@@ -29,9 +32,6 @@ title: https://secure.easy-pm.com/ui/pages/login.aspx
 *  JS Response Bytes: 26018
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

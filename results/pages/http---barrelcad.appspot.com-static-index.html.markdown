@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://barrelcad.appspot.com/static/index.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Barrel Pattern](http://barrelcad.appspot.com/static/index.html)
 
@@ -29,9 +31,6 @@ title: http://barrelcad.appspot.com/static/index.html
 *  JS Response Bytes: 648196
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7564
-
-### Performance issues
-
 
 ### Performance issues
 

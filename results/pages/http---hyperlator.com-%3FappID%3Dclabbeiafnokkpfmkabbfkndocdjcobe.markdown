@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://hyperlator.com/?appID=clabbeiafnokkpfmkabbfkndocdjcobe
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Hyperlator - The Future of Social Promotions!](http://hyperlator.com/?appID=clabbeiafnokkpfmkabbfkndocdjcobe)
 
@@ -29,9 +32,6 @@ title: http://hyperlator.com/?appID=clabbeiafnokkpfmkabbfkndocdjcobe
 *  JS Response Bytes: 801606
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 427837
-
-### Performance issues
-
 
 ### Performance issues
 

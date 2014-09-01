@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://citizensofantiford.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Home | Citizens of Antiford](https://citizensofantiford.com/)
 
@@ -29,9 +31,6 @@ title: https://citizensofantiford.com/
 *  JS Response Bytes: 263209
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59704
-
-### Performance issues
-
 
 ### Performance issues
 

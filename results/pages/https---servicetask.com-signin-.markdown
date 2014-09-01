@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://servicetask.com/signin/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sign In » Service Task](https://servicetask.com/signin/)
 
@@ -29,9 +34,6 @@ title: https://servicetask.com/signin/
 *  JS Response Bytes: 504519
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2214
-
-### Performance issues
-
 
 ### Performance issues
 

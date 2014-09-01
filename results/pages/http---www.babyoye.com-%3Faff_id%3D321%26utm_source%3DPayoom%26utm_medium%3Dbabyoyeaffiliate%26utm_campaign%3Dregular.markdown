@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.babyoye.com/?aff_id=321&utm_source=Payoom&utm_medium=babyoyeaffiliate&utm_campaign=regular
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Buy Baby Products Online: India's Largest Baby Care Shopping Website| Babyoye](http://www.babyoye.com/?aff_id=321&utm_source=Payoom&utm_medium=babyoyeaffiliate&utm_campaign=regular)
 
@@ -29,9 +34,6 @@ title: http://www.babyoye.com/?aff_id=321&utm_source=Payoom&utm_medium=babyoyeaf
 *  JS Response Bytes: 1577655
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 107121
-
-### Performance issues
-
 
 ### Performance issues
 

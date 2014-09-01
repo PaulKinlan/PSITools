@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.moneydoc.fr/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MoneyDoc - Facilement gérer son budget familial grâce à MoneyDoc](https://www.moneydoc.fr/)
 
@@ -29,9 +32,6 @@ title: https://www.moneydoc.fr/
 *  JS Response Bytes: 254756
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51446
-
-### Performance issues
-
 
 ### Performance issues
 

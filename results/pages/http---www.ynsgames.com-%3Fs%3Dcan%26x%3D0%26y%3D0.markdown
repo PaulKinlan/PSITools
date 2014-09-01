@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ynsgames.com/?s=can&x=0&y=0
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [can « Search Results « Online free hd games play game](http://www.ynsgames.com/?s=can&x=0&y=0)
 
@@ -29,9 +33,6 @@ title: http://www.ynsgames.com/?s=can&x=0&y=0
 *  JS Response Bytes: 524100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

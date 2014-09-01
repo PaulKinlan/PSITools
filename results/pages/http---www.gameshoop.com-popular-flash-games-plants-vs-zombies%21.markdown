@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gameshoop.com/popular-flash-games/plants-vs-zombies!
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [](http://www.gameshoop.com/popular-flash-games/plants-vs-zombies!)
 
@@ -29,9 +32,6 @@ title: http://www.gameshoop.com/popular-flash-games/plants-vs-zombies!
 *  JS Response Bytes: 165952
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

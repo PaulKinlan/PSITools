@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/driving/parking-packers
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Parking Packers - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/driving/parking-packers)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/driving/parking-packers
 *  JS Response Bytes: 2212129
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 149573
-
-### Performance issues
-
 
 ### Performance issues
 

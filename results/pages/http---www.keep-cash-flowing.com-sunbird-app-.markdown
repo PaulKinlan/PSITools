@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.keep-cash-flowing.com/sunbird-app/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sunbird | Keep Cash Flowing](http://www.keep-cash-flowing.com/sunbird-app/)
 
@@ -29,9 +32,6 @@ title: http://www.keep-cash-flowing.com/sunbird-app/
 *  JS Response Bytes: 1717060
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12010
-
-### Performance issues
-
 
 ### Performance issues
 

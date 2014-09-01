@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://112233games.blogspot.com/2014/04/flappy-bird-classic-games.html?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Online games, card games, casino games, free games](http://112233games.blogspot.com/2014/04/flappy-bird-classic-games.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://112233games.blogspot.com/2014/04/flappy-bird-classic-games.html?m=
 *  JS Response Bytes: 314276
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44576
-
-### Performance issues
-
 
 ### Performance issues
 

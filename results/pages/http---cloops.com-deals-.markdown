@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://cloops.com/deals/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Savings in Mountain View, Ca | Cloops](http://cloops.com/deals/)
 
@@ -29,9 +33,6 @@ title: http://cloops.com/deals/
 *  JS Response Bytes: 1327543
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 590
-
-### Performance issues
-
 
 ### Performance issues
 

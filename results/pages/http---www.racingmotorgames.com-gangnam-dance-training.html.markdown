@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.racingmotorgames.com/gangnam-dance-training.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gangnam Dance Training | RACİNGMOTORGAMES](http://www.racingmotorgames.com/gangnam-dance-training.html)
 
@@ -29,9 +35,6 @@ title: http://www.racingmotorgames.com/gangnam-dance-training.html
 *  JS Response Bytes: 1406731
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110968
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.rainlogger.net/app/#/auth/signin
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Rainlogger](http://www.rainlogger.net/app/#/auth/signin)
 
@@ -29,9 +33,6 @@ title: http://www.rainlogger.net/app/#/auth/signin
 *  JS Response Bytes: 1485806
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1687
-
-### Performance issues
-
 
 ### Performance issues
 

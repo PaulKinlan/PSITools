@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://www.icloud.com/iphone_welcome/
+MinimizeRenderBlockingResources: true
 ---
 ## [iPhone Welcome](https://www.icloud.com/iphone_welcome/)
 
@@ -29,9 +30,6 @@ title: https://www.icloud.com/iphone_welcome/
 *  JS Response Bytes: 5162
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59
-
-### Performance issues
-
 
 ### Performance issues
 

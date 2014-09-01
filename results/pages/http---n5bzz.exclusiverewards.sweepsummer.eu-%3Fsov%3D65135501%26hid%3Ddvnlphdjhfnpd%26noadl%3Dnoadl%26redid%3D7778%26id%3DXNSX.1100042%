@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://n5bzz.exclusiverewards.sweepsummer.eu/?sov=65135501&hid=dvnlphdjhfnpd&noadl=noadl&redid=7778&id=XNSX.1100042%3A%3A303185%3A%3A3913148821-r7778
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [Congratulations!](http://n5bzz.exclusiverewards.sweepsummer.eu/?sov=65135501&hid=dvnlphdjhfnpd&noadl=noadl&redid=7778&id=XNSX.1100042%3A%3A303185%3A%3A3913148821-r7778)
 
@@ -29,9 +34,6 @@ title: http://n5bzz.exclusiverewards.sweepsummer.eu/?sov=65135501&hid=dvnlphdjhf
 *  JS Response Bytes: 141711
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47302
-
-### Performance issues
-
 
 ### Performance issues
 

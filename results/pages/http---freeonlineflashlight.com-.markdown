@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://freeonlineflashlight.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Free online flashlight light for your computer or phone.](http://freeonlineflashlight.com/)
 
@@ -29,9 +32,6 @@ title: http://freeonlineflashlight.com/
 *  JS Response Bytes: 853572
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44162
-
-### Performance issues
-
 
 ### Performance issues
 

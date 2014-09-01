@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://pctech-services.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Website is under construction](https://pctech-services.com/)
 
@@ -29,9 +32,6 @@ title: https://pctech-services.com/
 *  JS Response Bytes: 232288
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 159058
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://en.bkkevents.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [BKK Events | Listings for Upcoming Events in Bangkok](http://en.bkkevents.com/)
 
@@ -29,9 +33,6 @@ title: http://en.bkkevents.com/
 *  JS Response Bytes: 529231
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30298
-
-### Performance issues
-
 
 ### Performance issues
 

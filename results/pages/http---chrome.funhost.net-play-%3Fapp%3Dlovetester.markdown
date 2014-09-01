@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://chrome.funhost.net/play/?app=lovetester
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Love Tester - Fun App on Fun Host of Apps & Games!](http://chrome.funhost.net/play/?app=lovetester)
 
@@ -29,9 +35,6 @@ title: http://chrome.funhost.net/play/?app=lovetester
 *  JS Response Bytes: 3321602
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41548
-
-### Performance issues
-
 
 ### Performance issues
 

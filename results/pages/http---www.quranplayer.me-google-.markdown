@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.quranplayer.me/google/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://www.quranplayer.me/google/)
 
@@ -29,9 +33,6 @@ title: http://www.quranplayer.me/google/
 *  JS Response Bytes: 2342675
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112848
-
-### Performance issues
-
 
 ### Performance issues
 

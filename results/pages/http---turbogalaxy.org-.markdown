@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://turbogalaxy.org/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Turbogalaxy.org - The Turbo Search](http://turbogalaxy.org/)
 
@@ -29,9 +32,6 @@ title: http://turbogalaxy.org/
 *  JS Response Bytes: 1361475
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95991
-
-### Performance issues
-
 
 ### Performance issues
 

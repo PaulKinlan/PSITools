@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://games.arcticpaint.com/highways/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Highways](http://games.arcticpaint.com/highways/)
 
@@ -29,9 +34,6 @@ title: http://games.arcticpaint.com/highways/
 *  JS Response Bytes: 152898
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

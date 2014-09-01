@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/725850/?autoAction=true&sId=Chrome_Webstore_Nov12_725850
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Fix-it-Up 80s Meet Kate's Pare for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/725850/?autoAction=true&sId=Chrome_Webstore_Nov12_725850)
 
@@ -29,9 +36,6 @@ title: http://www.freeridegames.com/chrome/games/725850/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1660110
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34528
-
-### Performance issues
-
 
 ### Performance issues
 

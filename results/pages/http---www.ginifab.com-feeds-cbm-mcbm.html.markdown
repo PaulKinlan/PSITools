@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.ginifab.com/feeds/cbm/mcbm.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [CBM Calculator : calculate CBM, volume and quantity per shipping container, volume weight online](http://www.ginifab.com/feeds/cbm/mcbm.html)
 
@@ -29,9 +31,6 @@ title: http://www.ginifab.com/feeds/cbm/mcbm.html
 *  JS Response Bytes: 564207
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 359
-
-### Performance issues
-
 
 ### Performance issues
 

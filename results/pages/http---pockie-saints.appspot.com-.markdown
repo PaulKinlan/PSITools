@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://pockie-saints.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Pockie Saints Online](http://pockie-saints.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://pockie-saints.appspot.com/
 *  JS Response Bytes: 895878
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32785
-
-### Performance issues
-
 
 ### Performance issues
 

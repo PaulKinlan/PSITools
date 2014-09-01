@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://users.rowan.edu/~samari06/WebPlayer.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Unity Web Player | WebPlayer](http://users.rowan.edu/~samari06/WebPlayer.html)
 
@@ -29,9 +33,6 @@ title: http://users.rowan.edu/~samari06/WebPlayer.html
 *  JS Response Bytes: 49222
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

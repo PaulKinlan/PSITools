@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.gamespol.com/minecraft.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gamespol.com](http://www.gamespol.com/minecraft.html)
 
@@ -29,9 +31,6 @@ title: http://www.gamespol.com/minecraft.html
 *  JS Response Bytes: 167745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

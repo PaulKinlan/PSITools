@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ww2.heartofgame.com/action/1236/candy-mountain-massacre-2
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [heartofgame.com](http://ww2.heartofgame.com/action/1236/candy-mountain-massacre-2)
 
@@ -29,9 +31,6 @@ title: http://ww2.heartofgame.com/action/1236/candy-mountain-massacre-2
 *  JS Response Bytes: 229840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21061
-
-### Performance issues
-
 
 ### Performance issues
 

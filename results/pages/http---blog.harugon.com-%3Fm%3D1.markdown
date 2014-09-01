@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://blog.harugon.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [48Gon](http://blog.harugon.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://blog.harugon.com/?m=1
 *  JS Response Bytes: 1165348
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 556
-
-### Performance issues
-
 
 ### Performance issues
 

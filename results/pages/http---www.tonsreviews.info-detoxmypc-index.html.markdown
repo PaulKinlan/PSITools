@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tonsreviews.info/detoxmypc/index.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Detox My PC](http://www.tonsreviews.info/detoxmypc/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.tonsreviews.info/detoxmypc/index.html
 *  JS Response Bytes: 525257
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1208
-
-### Performance issues
-
 
 ### Performance issues
 

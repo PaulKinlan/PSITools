@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freegames123.com/temple-run-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Temple Run 2 | Free Games 123](http://www.freegames123.com/temple-run-2.html)
 
@@ -29,9 +34,6 @@ title: http://www.freegames123.com/temple-run-2.html
 *  JS Response Bytes: 1593180
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105454
-
-### Performance issues
-
 
 ### Performance issues
 

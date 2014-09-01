@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://beetween.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Beetween Software - Online Recruitment Software and ATS](http://beetween.com/)
 
@@ -29,9 +33,6 @@ title: http://beetween.com/
 *  JS Response Bytes: 1556746
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42073
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/Greater-Than-Sudoku/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Greater Than Sudoku](http://www.fupa.com/apps/Greater-Than-Sudoku/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/Greater-Than-Sudoku/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

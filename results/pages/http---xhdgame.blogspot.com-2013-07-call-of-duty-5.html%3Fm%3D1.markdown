@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://xhdgame.blogspot.com/2013/07/call-of-duty-5.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [XHDGAME: Call Of Duty 5](http://xhdgame.blogspot.com/2013/07/call-of-duty-5.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://xhdgame.blogspot.com/2013/07/call-of-duty-5.html?m=1
 *  JS Response Bytes: 1120474
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95577
-
-### Performance issues
-
 
 ### Performance issues
 

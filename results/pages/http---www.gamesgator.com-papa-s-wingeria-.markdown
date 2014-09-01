@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.com/papa-s-wingeria/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Papa’s Wingeria](http://www.gamesgator.com/papa-s-wingeria/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.com/papa-s-wingeria/
 *  JS Response Bytes: 1091387
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49555
-
-### Performance issues
-
 
 ### Performance issues
 

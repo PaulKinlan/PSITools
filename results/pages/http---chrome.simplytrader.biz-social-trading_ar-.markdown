@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://chrome.simplytrader.biz/social-trading_ar/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [simply trader . biz - عالم التداول الاجتماعي](http://chrome.simplytrader.biz/social-trading_ar/)
 
@@ -29,9 +34,6 @@ title: http://chrome.simplytrader.biz/social-trading_ar/
 *  JS Response Bytes: 1351795
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6054
-
-### Performance issues
-
 
 ### Performance issues
 

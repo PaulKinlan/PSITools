@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://cheapstamatic.se/chrome
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cheapstamatic » give photos an old, retro / vintage look. Free and online](http://cheapstamatic.se/chrome)
 
@@ -29,9 +35,6 @@ title: http://cheapstamatic.se/chrome
 *  JS Response Bytes: 2364908
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 213440
-
-### Performance issues
-
 
 ### Performance issues
 

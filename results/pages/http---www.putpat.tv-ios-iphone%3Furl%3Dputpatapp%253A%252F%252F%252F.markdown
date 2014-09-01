@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.putpat.tv/ios/iphone?url=putpatapp%3A%2F%2F%2F
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Putpat](http://www.putpat.tv/ios/iphone?url=putpatapp%3A%2F%2F%2F)
 
@@ -29,9 +31,6 @@ title: http://www.putpat.tv/ios/iphone?url=putpatapp%3A%2F%2F%2F
 *  JS Response Bytes: 23161
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1164
-
-### Performance issues
-
 
 ### Performance issues
 

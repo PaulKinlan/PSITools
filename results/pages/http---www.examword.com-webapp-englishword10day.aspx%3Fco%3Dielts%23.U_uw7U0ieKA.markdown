@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.examword.com/webapp/englishword10day.aspx?co=ielts#.U_uw7U0ieKA
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IELTS Words in 10 Days ---- Letter](http://www.examword.com/webapp/englishword10day.aspx?co=ielts#.U_uw7U0ieKA)
 
@@ -29,9 +33,6 @@ title: http://www.examword.com/webapp/englishword10day.aspx?co=ielts#.U_uw7U0ieK
 *  JS Response Bytes: 680485
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25000
-
-### Performance issues
-
 
 ### Performance issues
 

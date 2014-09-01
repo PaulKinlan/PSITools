@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.touchey.net/app/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Touchey](http://www.touchey.net/app/index.html)
 
@@ -29,9 +31,6 @@ title: http://www.touchey.net/app/index.html
 *  JS Response Bytes: 881010
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1384
-
-### Performance issues
-
 
 ### Performance issues
 

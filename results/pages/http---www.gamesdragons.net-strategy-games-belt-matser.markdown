@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesdragons.net/strategy-games/belt-matser
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | www.gamesdragons.net | Play Most Popular Games Free](http://www.gamesdragons.net/strategy-games/belt-matser)
 
@@ -29,9 +35,6 @@ title: http://www.gamesdragons.net/strategy-games/belt-matser
 *  JS Response Bytes: 729376
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2262
-
-### Performance issues
-
 
 ### Performance issues
 

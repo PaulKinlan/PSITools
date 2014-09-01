@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tiponlinegames.com/freeze-the-infernos.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Freeze The Infernos | TIP ONLINE GAMES](http://www.tiponlinegames.com/freeze-the-infernos.html)
 
@@ -29,9 +34,6 @@ title: http://www.tiponlinegames.com/freeze-the-infernos.html
 *  JS Response Bytes: 894479
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15991
-
-### Performance issues
-
 
 ### Performance issues
 

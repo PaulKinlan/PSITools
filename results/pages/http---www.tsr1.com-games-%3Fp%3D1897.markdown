@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tsr1.com/games/?p=1897
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games to Addict » Blog Archive » Hill Blazer Reloaded](http://www.tsr1.com/games/?p=1897)
 
@@ -29,9 +34,6 @@ title: http://www.tsr1.com/games/?p=1897
 *  JS Response Bytes: 445514
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

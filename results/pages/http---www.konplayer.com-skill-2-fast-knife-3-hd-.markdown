@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.konplayer.com/skill-2/fast-knife-3-hd/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fast Knife 3 HD » KonPlayer](http://www.konplayer.com/skill-2/fast-knife-3-hd/)
 
@@ -29,9 +33,6 @@ title: http://www.konplayer.com/skill-2/fast-knife-3-hd/
 *  JS Response Bytes: 1076526
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16014
-
-### Performance issues
-
 
 ### Performance issues
 

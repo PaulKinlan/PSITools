@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chromegamesplay.com/temple-run.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Temple Run | Chrome Games Play WebStore](http://www.chromegamesplay.com/temple-run.html)
 
@@ -29,9 +35,6 @@ title: http://www.chromegamesplay.com/temple-run.html
 *  JS Response Bytes: 385807
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34217
-
-### Performance issues
-
 
 ### Performance issues
 

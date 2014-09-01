@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.revue2presse.fr/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [revue2presse.fr - La revue de presse 100% gratuite sur le Web](http://www.revue2presse.fr/)
 
@@ -29,9 +35,6 @@ title: http://www.revue2presse.fr/
 *  JS Response Bytes: 619546
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

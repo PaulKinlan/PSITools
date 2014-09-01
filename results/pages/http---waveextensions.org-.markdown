@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://waveextensions.org/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Wave Extension Gallery](http://waveextensions.org/)
 
@@ -29,9 +32,6 @@ title: http://waveextensions.org/
 *  JS Response Bytes: 492
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40164
-
-### Performance issues
-
 
 ### Performance issues
 

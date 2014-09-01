@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.nahro-jeux.fr/pages/flappy-bird.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flappy Bird - Jeu Flash - Nahro Jeux](http://www.nahro-jeux.fr/pages/flappy-bird.html)
 
@@ -29,9 +34,6 @@ title: http://www.nahro-jeux.fr/pages/flappy-bird.html
 *  JS Response Bytes: 2599238
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106360
-
-### Performance issues
-
 
 ### Performance issues
 

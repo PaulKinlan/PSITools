@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.carmotogames.com/node/1361/play?prj=74
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play ATV Cross: Canada at Moto Car Bike](http://www.carmotogames.com/node/1361/play?prj=74)
 
@@ -29,9 +35,6 @@ title: http://www.carmotogames.com/node/1361/play?prj=74
 *  JS Response Bytes: 1391933
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163918
-
-### Performance issues
-
 
 ### Performance issues
 

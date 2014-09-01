@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.dirubbofamilyfarm.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Home | Dirubbo Family Farm](http://www.dirubbofamilyfarm.com/)
 
@@ -29,9 +31,6 @@ title: http://www.dirubbofamilyfarm.com/
 *  JS Response Bytes: 720014
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2150
-
-### Performance issues
-
 
 ### Performance issues
 

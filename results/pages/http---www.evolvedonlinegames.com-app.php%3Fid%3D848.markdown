@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.evolvedonlinegames.com/app.php?id=848
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jellyman](http://www.evolvedonlinegames.com/app.php?id=848)
 
@@ -29,9 +34,6 @@ title: http://www.evolvedonlinegames.com/app.php?id=848
 *  JS Response Bytes: 1060858
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99126
-
-### Performance issues
-
 
 ### Performance issues
 

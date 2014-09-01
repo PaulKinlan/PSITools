@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playonl9.blogspot.com/2013/08/call-of-duty-ghosts-game-free-online.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Online: Call of Duty : Ghosts Game Free Online Play](http://playonl9.blogspot.com/2013/08/call-of-duty-ghosts-game-free-online.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playonl9.blogspot.com/2013/08/call-of-duty-ghosts-game-free-online
 *  JS Response Bytes: 2327810
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 288130
-
-### Performance issues
-
 
 ### Performance issues
 

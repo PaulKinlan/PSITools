@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www-jetpackjoyride.blogspot.com/2014/04/angry-gray-run.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online best games: Angry gray run](http://www-jetpackjoyride.blogspot.com/2014/04/angry-gray-run.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://www-jetpackjoyride.blogspot.com/2014/04/angry-gray-run.html?m=1
 *  JS Response Bytes: 1573856
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 138807
-
-### Performance issues
-
 
 ### Performance issues
 

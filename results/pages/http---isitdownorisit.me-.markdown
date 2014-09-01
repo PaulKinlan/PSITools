@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://isitdownorisit.me/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Check if a website is down.](http://isitdownorisit.me/)
 
@@ -29,9 +33,6 @@ title: http://isitdownorisit.me/
 *  JS Response Bytes: 115819
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34273
-
-### Performance issues
-
 
 ### Performance issues
 

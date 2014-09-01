@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://xzfracal.mathlusiverse.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Xzfracal: An Exact Fraction Calculator](http://xzfracal.mathlusiverse.com/)
 
@@ -29,9 +33,6 @@ title: http://xzfracal.mathlusiverse.com/
 *  JS Response Bytes: 1112802
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 874
-
-### Performance issues
-
 
 ### Performance issues
 

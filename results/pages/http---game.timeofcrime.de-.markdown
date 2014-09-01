@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://game.timeofcrime.de/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CHOCHDREI | Einfach Besser Sehen](http://game.timeofcrime.de/)
 
@@ -29,9 +35,6 @@ title: http://game.timeofcrime.de/
 *  JS Response Bytes: 97000
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6416
-
-### Performance issues
-
 
 ### Performance issues
 

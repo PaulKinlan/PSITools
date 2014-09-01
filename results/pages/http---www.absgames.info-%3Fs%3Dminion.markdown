@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.absgames.info/?s=minion
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online free best games – Search Results – minion](http://www.absgames.info/?s=minion)
 
@@ -29,9 +33,6 @@ title: http://www.absgames.info/?s=minion
 *  JS Response Bytes: 566559
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

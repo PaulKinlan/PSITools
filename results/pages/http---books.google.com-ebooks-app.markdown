@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://books.google.com/ebooks/app
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://books.google.com/ebooks/app)
 
@@ -18,7 +21,7 @@ title: http://books.google.com/ebooks/app
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 5
-*  Total Request Bytes: 3102
+*  Total Request Bytes: 3103
 
 ### Response data
 
@@ -26,12 +29,9 @@ title: http://books.google.com/ebooks/app
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 80382
 *  Image Response Bytes: 763
-*  JS Response Bytes: 679059
+*  JS Response Bytes: 679101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5867
-
-### Performance issues
-
 
 ### Performance issues
 

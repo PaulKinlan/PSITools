@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mobilemy.mypcbackup.com/splash
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [MyPC Backup Mobile - Free Mobile Photo Backup](http://mobilemy.mypcbackup.com/splash)
 
@@ -29,9 +32,6 @@ title: http://mobilemy.mypcbackup.com/splash
 *  JS Response Bytes: 107165
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3058
-
-### Performance issues
-
 
 ### Performance issues
 

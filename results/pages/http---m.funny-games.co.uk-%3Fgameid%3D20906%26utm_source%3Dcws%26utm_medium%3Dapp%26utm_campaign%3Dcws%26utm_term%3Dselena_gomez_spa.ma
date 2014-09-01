@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.funny-games.co.uk/?gameid=20906&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=selena_gomez_spa
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funny-games.co.uk/?gameid=20906&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=selena_gomez_spa)
 
@@ -29,9 +33,6 @@ title: http://m.funny-games.co.uk/?gameid=20906&utm_source=cws&utm_medium=app&ut
 *  JS Response Bytes: 1266602
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28428
-
-### Performance issues
-
 
 ### Performance issues
 

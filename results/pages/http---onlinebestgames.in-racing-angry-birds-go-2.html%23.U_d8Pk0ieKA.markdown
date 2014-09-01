@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://onlinebestgames.in/racing/angry-birds-go-2.html#.U_d8Pk0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Go - Free online game :: Online Best Games](http://onlinebestgames.in/racing/angry-birds-go-2.html#.U_d8Pk0ieKA)
 
@@ -29,9 +34,6 @@ title: http://onlinebestgames.in/racing/angry-birds-go-2.html#.U_d8Pk0ieKA
 *  JS Response Bytes: 2053342
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16044
-
-### Performance issues
-
 
 ### Performance issues
 

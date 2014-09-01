@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://playgame3d.blogspot.com/2013/08/gta-5-gta-five-flash-game.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Free GamePlay: GTA 5 (GTA Five) Flash Game](http://playgame3d.blogspot.com/2013/08/gta-5-gta-five-flash-game.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://playgame3d.blogspot.com/2013/08/gta-5-gta-five-flash-game.html?m=1
 *  JS Response Bytes: 1633775
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96191
-
-### Performance issues
-
 
 ### Performance issues
 

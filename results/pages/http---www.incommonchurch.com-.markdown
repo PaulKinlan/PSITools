@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.incommonchurch.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [incommon](http://www.incommonchurch.com/)
 
@@ -29,9 +31,6 @@ title: http://www.incommonchurch.com/
 *  JS Response Bytes: 1048416
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

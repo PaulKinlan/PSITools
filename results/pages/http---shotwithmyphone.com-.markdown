@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://shotwithmyphone.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Captured With My Phone | An iphoneography blog written, shot and composed from my iphone](http://shotwithmyphone.com/)
 
@@ -29,9 +32,6 @@ title: http://shotwithmyphone.com/
 *  JS Response Bytes: 1222892
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 65905
-
-### Performance issues
-
 
 ### Performance issues
 

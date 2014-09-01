@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamezingo.net/kid-games/monkey-go-happy-marathon-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Monkey GO Happy Marathon 2 - Free Online Games | Gamezingo - http://gamezingo.net](http://gamezingo.net/kid-games/monkey-go-happy-marathon-2.html)
 
@@ -29,9 +35,6 @@ title: http://gamezingo.net/kid-games/monkey-go-happy-marathon-2.html
 *  JS Response Bytes: 1265115
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1333
-
-### Performance issues
-
 
 ### Performance issues
 

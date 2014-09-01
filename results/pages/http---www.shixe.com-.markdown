@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.shixe.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play free games online @ shixe.com](http://www.shixe.com/)
 
@@ -29,9 +34,6 @@ title: http://www.shixe.com/
 *  JS Response Bytes: 1108108
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 416558
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.xookmexico.net/arcarius/xook/login.xhtml
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [XOOK Mexico](http://www.xookmexico.net/arcarius/xook/login.xhtml)
 
@@ -29,9 +33,6 @@ title: http://www.xookmexico.net/arcarius/xook/login.xhtml
 *  JS Response Bytes: 630116
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 632
-
-### Performance issues
-
 
 ### Performance issues
 

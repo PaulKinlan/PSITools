@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.azyxdq.com/
+UseLegibleFontSizes: true
 ---
 ## [Android学习网](http://www.azyxdq.com/)
 
@@ -29,9 +30,6 @@ title: http://www.azyxdq.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://crogogames.com/deadfly/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [dead fly](http://crogogames.com/deadfly/)
 
@@ -29,9 +31,6 @@ title: http://crogogames.com/deadfly/
 *  JS Response Bytes: 244746
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 517
-
-### Performance issues
-
 
 ### Performance issues
 

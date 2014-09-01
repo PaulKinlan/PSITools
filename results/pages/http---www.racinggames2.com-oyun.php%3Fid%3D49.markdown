@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.racinggames2.com/oyun.php?id=49
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Renault Trucks Racing](http://www.racinggames2.com/oyun.php?id=49)
 
@@ -29,9 +36,6 @@ title: http://www.racinggames2.com/oyun.php?id=49
 *  JS Response Bytes: 2084099
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 206783
-
-### Performance issues
-
 
 ### Performance issues
 

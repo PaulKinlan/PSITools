@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.tunnelgame.net/flash-games/robot-vs-zombies/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Robot vs. Zombies « Flash Games, Online Games](http://www.tunnelgame.net/flash-games/robot-vs-zombies/)
 
@@ -29,9 +35,6 @@ title: http://www.tunnelgame.net/flash-games/robot-vs-zombies/
 *  JS Response Bytes: 1190117
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16811
-
-### Performance issues
-
 
 ### Performance issues
 

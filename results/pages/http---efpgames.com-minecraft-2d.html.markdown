@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://efpgames.com/minecraft-2d.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [EFPgames.Com | Flash Games – MineCraft 2D](http://efpgames.com/minecraft-2d.html)
 
@@ -29,9 +35,6 @@ title: http://efpgames.com/minecraft-2d.html
 *  JS Response Bytes: 412704
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 800
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://globalgame.info/plants-vs-zombies-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tic Games Flash Games – Plants vs Zombies 2](http://globalgame.info/plants-vs-zombies-2/)
 
@@ -29,9 +34,6 @@ title: http://globalgame.info/plants-vs-zombies-2/
 *  JS Response Bytes: 1030339
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15196
-
-### Performance issues
-
 
 ### Performance issues
 

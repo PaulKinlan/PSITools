@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://apsgam.com/the-simpsons/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [APS GAME – The Simpsons](http://apsgam.com/the-simpsons/)
 
@@ -29,9 +33,6 @@ title: http://apsgam.com/the-simpsons/
 *  JS Response Bytes: 1036564
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15173
-
-### Performance issues
-
 
 ### Performance issues
 

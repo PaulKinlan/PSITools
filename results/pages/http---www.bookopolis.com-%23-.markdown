@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.bookopolis.com/#/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bookopolis](http://www.bookopolis.com/#/)
 
@@ -29,9 +32,6 @@ title: http://www.bookopolis.com/#/
 *  JS Response Bytes: 1659039
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19725
-
-### Performance issues
-
 
 ### Performance issues
 

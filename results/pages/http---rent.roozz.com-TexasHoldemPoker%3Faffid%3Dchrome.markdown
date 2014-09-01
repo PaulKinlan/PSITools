@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://rent.roozz.com/TexasHoldemPoker?affid=chrome
+UseLegibleFontSizes: true
 ---
 ## [](http://rent.roozz.com/TexasHoldemPoker?affid=chrome)
 
@@ -29,9 +30,6 @@ title: http://rent.roozz.com/TexasHoldemPoker?affid=chrome
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 542
-
-### Performance issues
-
 
 ### Performance issues
 

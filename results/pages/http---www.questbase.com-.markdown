@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.questbase.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [QuestBase | Create Online Quizzes, Make Assessments, Build Exams](http://www.questbase.com/)
 
@@ -29,9 +32,6 @@ title: http://www.questbase.com/
 *  JS Response Bytes: 204448
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

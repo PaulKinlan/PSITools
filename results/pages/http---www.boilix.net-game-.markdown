@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.boilix.net/game/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BoiliX](http://www.boilix.net/game/)
 
@@ -29,9 +33,6 @@ title: http://www.boilix.net/game/
 *  JS Response Bytes: 264924
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

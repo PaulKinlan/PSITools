@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.articlemarketingco.com/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Article Marketing Co. | Quality Content Marketing at an Affordable Price](http://www.articlemarketingco.com/)
 
@@ -29,9 +33,6 @@ title: http://www.articlemarketingco.com/
 *  JS Response Bytes: 647023
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

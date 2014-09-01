@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://socialmediacircleshare.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Social Media Circle Share](http://socialmediacircleshare.com/)
 
@@ -29,9 +34,6 @@ title: http://socialmediacircleshare.com/
 *  JS Response Bytes: 2640058
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3824
-
-### Performance issues
-
 
 ### Performance issues
 

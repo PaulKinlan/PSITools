@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.drogbaster.it/fasi_lunari/Current_Moon_Phase.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Current Moon Phase - Le Fasi della Luna](http://www.drogbaster.it/fasi_lunari/Current_Moon_Phase.htm)
 
@@ -29,9 +35,6 @@ title: http://www.drogbaster.it/fasi_lunari/Current_Moon_Phase.htm
 *  JS Response Bytes: 1244357
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111814
-
-### Performance issues
-
 
 ### Performance issues
 

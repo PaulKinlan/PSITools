@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://hdgame2013.blogspot.com/2013/08/angry-gray-run.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Hd games free: Angry gray run](http://hdgame2013.blogspot.com/2013/08/angry-gray-run.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://hdgame2013.blogspot.com/2013/08/angry-gray-run.html?m=1
 *  JS Response Bytes: 1469697
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117840
-
-### Performance issues
-
 
 ### Performance issues
 

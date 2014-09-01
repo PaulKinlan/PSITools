@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.alali000.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://www.alali000.com/)
 
@@ -29,9 +31,6 @@ title: http://www.alali000.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 36900
-
-### Performance issues
-
 
 ### Performance issues
 

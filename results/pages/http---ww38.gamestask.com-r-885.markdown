@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://ww38.gamestask.com/r-885
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [gamestask.com](http://ww38.gamestask.com/r-885)
 
@@ -29,9 +34,6 @@ title: http://ww38.gamestask.com/r-885
 *  JS Response Bytes: 244567
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 214
-
-### Performance issues
-
 
 ### Performance issues
 

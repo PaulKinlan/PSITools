@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://minecraftt-playgame.blogspot.com.tr/2014/04/jetpack.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://minecraftt-playgame.blogspot.com.tr/2014/04/jetpack.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://minecraftt-playgame.blogspot.com.tr/2014/04/jetpack.html?m=1
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19291
-
-### Performance issues
-
 
 ### Performance issues
 

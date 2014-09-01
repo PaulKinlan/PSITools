@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://mariegames.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mariegames.com](http://mariegames.com/)
 
@@ -29,9 +31,6 @@ title: http://mariegames.com/
 *  JS Response Bytes: 167626
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

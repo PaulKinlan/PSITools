@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mechrage.fr/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mechrage - Jeu de combat gratuit de mechs](http://www.mechrage.fr/)
 
@@ -29,9 +33,6 @@ title: http://www.mechrage.fr/
 *  JS Response Bytes: 279177
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2247
-
-### Performance issues
-
 
 ### Performance issues
 

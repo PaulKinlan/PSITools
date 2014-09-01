@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tuscaloosacityschools.com/pages/Tuscaloosa_City_SchoolDistrict
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [ ](http://www.tuscaloosacityschools.com/pages/Tuscaloosa_City_SchoolDistrict)
 
@@ -29,9 +32,6 @@ title: http://www.tuscaloosacityschools.com/pages/Tuscaloosa_City_SchoolDistrict
 *  JS Response Bytes: 237981
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 907
-
-### Performance issues
-
 
 ### Performance issues
 

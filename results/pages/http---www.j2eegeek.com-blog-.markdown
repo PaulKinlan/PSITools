@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.j2eegeek.com/blog/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Vinny Carpenter’s blog — { “passion”: “software development” }](http://www.j2eegeek.com/blog/)
 
@@ -29,9 +32,6 @@ title: http://www.j2eegeek.com/blog/
 *  JS Response Bytes: 249333
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39142
-
-### Performance issues
-
 
 ### Performance issues
 

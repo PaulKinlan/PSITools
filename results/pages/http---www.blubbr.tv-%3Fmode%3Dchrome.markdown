@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.blubbr.tv/?mode=chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [blubbr - Play & create video trivia games](http://www.blubbr.tv/?mode=chrome)
 
@@ -29,9 +34,6 @@ title: http://www.blubbr.tv/?mode=chrome
 *  JS Response Bytes: 2249961
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104732
-
-### Performance issues
-
 
 ### Performance issues
 

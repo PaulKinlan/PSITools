@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://whatsupgames.com/kungfu-panda-skeleton-king.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kungfu Panda Skeleton King | Whats Up Games](http://whatsupgames.com/kungfu-panda-skeleton-king.html)
 
@@ -29,9 +36,6 @@ title: http://whatsupgames.com/kungfu-panda-skeleton-king.html
 *  JS Response Bytes: 1669856
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96553
-
-### Performance issues
-
 
 ### Performance issues
 

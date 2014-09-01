@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://nao3dm.appspot.com/webstore/run.html
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nao3dViewer](http://nao3dm.appspot.com/webstore/run.html)
 
@@ -29,9 +32,6 @@ title: http://nao3dm.appspot.com/webstore/run.html
 *  JS Response Bytes: 388629
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

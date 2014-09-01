@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.sherut.net/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [שירות.נט | יחד נקבל שירות טוב יותר](https://www.sherut.net/)
 
@@ -29,9 +31,6 @@ title: https://www.sherut.net/
 *  JS Response Bytes: 2198377
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 129773
-
-### Performance issues
-
 
 ### Performance issues
 

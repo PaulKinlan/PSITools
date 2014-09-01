@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.bestfreegames.co/sports/world-soccer-championship/
+UseLegibleFontSizes: true
 ---
 ## [](http://www.bestfreegames.co/sports/world-soccer-championship/)
 
@@ -29,9 +30,6 @@ title: http://www.bestfreegames.co/sports/world-soccer-championship/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

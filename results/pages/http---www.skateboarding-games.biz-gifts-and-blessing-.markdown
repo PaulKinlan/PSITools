@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/gifts-and-blessing/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gifts and Blessing game](http://www.skateboarding-games.biz/gifts-and-blessing/)
 
@@ -29,9 +36,6 @@ title: http://www.skateboarding-games.biz/gifts-and-blessing/
 *  JS Response Bytes: 2123063
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120982
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.takeflava.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Flava™](https://www.takeflava.com/)
 
@@ -29,9 +32,6 @@ title: https://www.takeflava.com/
 *  JS Response Bytes: 575312
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 609
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://directanimemanga.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [el anime yuri](http://directanimemanga.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://directanimemanga.blogspot.com/?m=1
 *  JS Response Bytes: 791323
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287118
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://dntgames.com/grand-theft-auto-v.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DNTgames.Com | Flash Game Center | Flash Games. – Grand Theft Auto V](http://dntgames.com/grand-theft-auto-v.html)
 
@@ -29,9 +35,6 @@ title: http://dntgames.com/grand-theft-auto-v.html
 *  JS Response Bytes: 413723
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 807
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fungamesnetwork.com/counter-strike/index.htlm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Counter Strike | Fungamesnetwork](http://www.fungamesnetwork.com/counter-strike/index.htlm)
 
@@ -29,9 +34,6 @@ title: http://www.fungamesnetwork.com/counter-strike/index.htlm
 *  JS Response Bytes: 955476
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14929
-
-### Performance issues
-
 
 ### Performance issues
 

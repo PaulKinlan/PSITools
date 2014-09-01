@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.elminiportal.com/app_es/Traductor/index.htm
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TRADUZIONI](http://www.elminiportal.com/app_es/Traductor/index.htm)
 
@@ -29,9 +32,6 @@ title: http://www.elminiportal.com/app_es/Traductor/index.htm
 *  JS Response Bytes: 546539
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14656
-
-### Performance issues
-
 
 ### Performance issues
 

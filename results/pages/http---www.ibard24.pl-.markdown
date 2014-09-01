@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ibard24.pl/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Backup online i Synchronizacja plików w chmurze dla Firm](http://www.ibard24.pl/)
 
@@ -29,9 +32,6 @@ title: http://www.ibard24.pl/
 *  JS Response Bytes: 368760
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

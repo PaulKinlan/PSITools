@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.beautyglimpse.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Beauty, Health & Lifestyle Portal - Tips, Advice & Home Remedies](http://www.beautyglimpse.com/)
 
@@ -29,9 +32,6 @@ title: http://www.beautyglimpse.com/
 *  JS Response Bytes: 570209
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61326
-
-### Performance issues
-
 
 ### Performance issues
 

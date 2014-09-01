@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.warriorbreak.com/grab-tube/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [convert video online](http://www.warriorbreak.com/grab-tube/)
 
@@ -29,9 +32,6 @@ title: http://www.warriorbreak.com/grab-tube/
 *  JS Response Bytes: 608356
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16491
-
-### Performance issues
-
 
 ### Performance issues
 

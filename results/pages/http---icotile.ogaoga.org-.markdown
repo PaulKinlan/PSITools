@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://icotile.ogaoga.org/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [icotile2 | Twitter Friends and Lists Manager](http://icotile.ogaoga.org/)
 
@@ -29,9 +34,6 @@ title: http://icotile.ogaoga.org/
 *  JS Response Bytes: 1728287
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96428
-
-### Performance issues
-
 
 ### Performance issues
 

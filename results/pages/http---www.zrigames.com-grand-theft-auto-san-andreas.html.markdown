@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.zrigames.com/grand-theft-auto-san-andreas.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Grand Theft Auto San andreas « Best HD Games Play Now](http://www.zrigames.com/grand-theft-auto-san-andreas.html)
 
@@ -29,9 +33,6 @@ title: http://www.zrigames.com/grand-theft-auto-san-andreas.html
 *  JS Response Bytes: 524102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

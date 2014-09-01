@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamesforthebrain.com/game/cantstop/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Game You Can't Stop - Games for the Brain](http://www.gamesforthebrain.com/game/cantstop/)
 
@@ -29,9 +33,6 @@ title: http://www.gamesforthebrain.com/game/cantstop/
 *  JS Response Bytes: 541970
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30117
-
-### Performance issues
-
 
 ### Performance issues
 

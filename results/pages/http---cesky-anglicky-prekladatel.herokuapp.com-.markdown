@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://cesky-anglicky-prekladatel.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Česky Anglicky Překladatel](http://cesky-anglicky-prekladatel.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://cesky-anglicky-prekladatel.herokuapp.com/
 *  JS Response Bytes: 1472143
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111487
-
-### Performance issues
-
 
 ### Performance issues
 

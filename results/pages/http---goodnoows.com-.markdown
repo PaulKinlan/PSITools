@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://goodnoows.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Good News](http://goodnoows.com/)
 
@@ -29,9 +34,6 @@ title: http://goodnoows.com/
 *  JS Response Bytes: 1366867
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15112
-
-### Performance issues
-
 
 ### Performance issues
 

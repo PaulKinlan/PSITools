@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/680650/?autoAction=true&sId=Chrome_Webstore_Nov12_680650&actid=Chrome_Webstore_680650
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Epic Adventures - La Jangada for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/680650/?autoAction=true&sId=Chrome_Webstore_Nov12_680650&actid=Chrome_Webstore_680650)
 
@@ -29,9 +34,6 @@ title: http://www.freeridegames.com/chrome/games/680650/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1611871
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16962
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.fullgungame.com/default-category/star-wars-trench-run-
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Star Wars - Trench Run - Full Gun Game](http://www.fullgungame.com/default-category/star-wars-trench-run-)
 
@@ -29,9 +35,6 @@ title: http://www.fullgungame.com/default-category/star-wars-trench-run-
 *  JS Response Bytes: 2496346
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120284
-
-### Performance issues
-
 
 ### Performance issues
 

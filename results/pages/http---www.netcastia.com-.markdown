@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.netcastia.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Netcastia.com](http://www.netcastia.com/)
 
@@ -29,9 +31,6 @@ title: http://www.netcastia.com/
 *  JS Response Bytes: 55522
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18074
-
-### Performance issues
-
 
 ### Performance issues
 

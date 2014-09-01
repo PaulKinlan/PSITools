@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://l.chenote.com/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [车笔记 - 车队维护管理平台](http://l.chenote.com/login)
 
@@ -29,9 +33,6 @@ title: http://l.chenote.com/login
 *  JS Response Bytes: 1114440
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 698
-
-### Performance issues
-
 
 ### Performance issues
 

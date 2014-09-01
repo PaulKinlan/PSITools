@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.12print.it/?utm_campaign=chrome-web-store
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stampa Foto Digitali | Stampa Foto Online | 12print.it](http://www.12print.it/?utm_campaign=chrome-web-store)
 
@@ -29,9 +34,6 @@ title: http://www.12print.it/?utm_campaign=chrome-web-store
 *  JS Response Bytes: 766378
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2611
-
-### Performance issues
-
 
 ### Performance issues
 

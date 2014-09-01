@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gaminglot.com/formula-racer/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Page not found | GamingLot – All the games you need](http://gaminglot.com/formula-racer/)
 
@@ -29,9 +34,6 @@ title: http://gaminglot.com/formula-racer/
 *  JS Response Bytes: 80618
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9142
-
-### Performance issues
-
 
 ### Performance issues
 

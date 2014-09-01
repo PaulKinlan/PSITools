@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://ssl-account.com/kunden.rechnungxxl.de/login?path=index
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [RechnungXXL.de Easy Office](https://ssl-account.com/kunden.rechnungxxl.de/login?path=index)
 
@@ -29,9 +33,6 @@ title: https://ssl-account.com/kunden.rechnungxxl.de/login?path=index
 *  JS Response Bytes: 1107347
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44459
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://kanji-z.appspot.com/kanjitest
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [KanjiTestZ](http://kanji-z.appspot.com/kanjitest)
 
@@ -29,9 +31,6 @@ title: http://kanji-z.appspot.com/kanjitest
 *  JS Response Bytes: 7539
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

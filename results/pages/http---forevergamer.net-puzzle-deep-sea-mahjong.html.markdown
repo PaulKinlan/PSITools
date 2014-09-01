@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://forevergamer.net/puzzle/deep-sea-mahjong.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Deep Sea Mahjong - Free Online Games Forever | ForeverGamer.net - http://forevergamer.net](http://forevergamer.net/puzzle/deep-sea-mahjong.html)
 
@@ -29,9 +35,6 @@ title: http://forevergamer.net/puzzle/deep-sea-mahjong.html
 *  JS Response Bytes: 2234424
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 142724
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.microsoft.com/Licensing/servicecenter/default.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Volume Licensing Service Center](https://www.microsoft.com/Licensing/servicecenter/default.aspx)
 
@@ -29,9 +34,6 @@ title: https://www.microsoft.com/Licensing/servicecenter/default.aspx
 *  JS Response Bytes: 950364
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1703
-
-### Performance issues
-
 
 ### Performance issues
 

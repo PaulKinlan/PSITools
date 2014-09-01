@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/crush-the-castle-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crush The Castle 2](http://www.war-games.ws/crush-the-castle-2/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/crush-the-castle-2/
 *  JS Response Bytes: 2293563
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122120
-
-### Performance issues
-
 
 ### Performance issues
 

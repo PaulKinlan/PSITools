@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.myappgames.com/flappy-bird.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flappy Bird : My APP Games](http://www.myappgames.com/flappy-bird.html)
 
@@ -29,9 +34,6 @@ title: http://www.myappgames.com/flappy-bird.html
 *  JS Response Bytes: 2077427
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113148
-
-### Performance issues
-
 
 ### Performance issues
 

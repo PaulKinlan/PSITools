@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.app.heartsfc.co.uk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HEART OF MIDLOTHIAN FC](http://www.app.heartsfc.co.uk/)
 
@@ -29,9 +34,6 @@ title: http://www.app.heartsfc.co.uk/
 *  JS Response Bytes: 884892
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 138139
-
-### Performance issues
-
 
 ### Performance issues
 

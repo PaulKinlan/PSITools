@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://addstickers.ru/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [addStickers.ru](http://addstickers.ru/)
 
@@ -29,9 +34,6 @@ title: http://addstickers.ru/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 425
-
-### Performance issues
-
 
 ### Performance issues
 

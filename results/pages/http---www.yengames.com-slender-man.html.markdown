@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.yengames.com/slender-man.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [YenGames.Com | Flash Game Site – Slender Man!](http://www.yengames.com/slender-man.html)
 
@@ -29,9 +35,6 @@ title: http://www.yengames.com/slender-man.html
 *  JS Response Bytes: 413989
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1057
-
-### Performance issues
-
 
 ### Performance issues
 

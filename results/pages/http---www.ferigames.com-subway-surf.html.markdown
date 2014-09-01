@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ferigames.com/subway-surf.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ferigames.Com | Flash Games – Subway Surf](http://www.ferigames.com/subway-surf.html)
 
@@ -29,9 +35,6 @@ title: http://www.ferigames.com/subway-surf.html
 *  JS Response Bytes: 419944
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 945
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.portenospanish.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn Lunfardo, the slang of Buenos Aires, Argentina - Porteño Spanish](http://www.portenospanish.com/)
 
@@ -29,9 +33,6 @@ title: http://www.portenospanish.com/
 *  JS Response Bytes: 883337
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4254
-
-### Performance issues
-
 
 ### Performance issues
 

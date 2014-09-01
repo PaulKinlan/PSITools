@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://tma.main.jp/soubakan/index.php
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sense of stock](http://tma.main.jp/soubakan/index.php)
 
@@ -29,9 +32,6 @@ title: http://tma.main.jp/soubakan/index.php
 *  JS Response Bytes: 492880
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

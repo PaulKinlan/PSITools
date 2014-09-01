@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.cominggame.com/chrome-category/green-forest-fairy
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Green Forest Fairy - Coming Game](http://www.cominggame.com/chrome-category/green-forest-fairy)
 
@@ -29,9 +34,6 @@ title: http://www.cominggame.com/chrome-category/green-forest-fairy
 *  JS Response Bytes: 600998
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29843
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://login.corp.google.com/request?s=scratchy.googleplex.com:443/uberproxy/&d=https://scratchy.googleplex.com/%3Fupxsrf%3DAFtq1EAJxFEzO_UW5nLh:1409002816736&maxAge=1200&authLevel=2000000&keyIds=LiJ
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [scratchy.googleplex.com - MOMA Single Sign On](https://login.corp.google.com/request?s=scratchy.googleplex.com:443/uberproxy/&d=https://scratchy.googleplex.com/%3Fupxsrf%3DAFtq1EAJxFEzO_UW5nLh:1409002816736&maxAge=1200&authLevel=2000000&keyIds=LiJ)
 
@@ -29,9 +33,6 @@ title: https://login.corp.google.com/request?s=scratchy.googleplex.com:443/uberp
 *  JS Response Bytes: 68391
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1368
-
-### Performance issues
-
 
 ### Performance issues
 

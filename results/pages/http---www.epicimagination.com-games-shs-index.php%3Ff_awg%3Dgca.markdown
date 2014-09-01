@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.epicimagination.com/games/shs/index.php?f_awg=gca
+SizeContentToViewport: true
 ---
 ## [Simple Hockey League Simulator](http://www.epicimagination.com/games/shs/index.php?f_awg=gca)
 
@@ -29,9 +30,6 @@ title: http://www.epicimagination.com/games/shs/index.php?f_awg=gca
 *  JS Response Bytes: 387924
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

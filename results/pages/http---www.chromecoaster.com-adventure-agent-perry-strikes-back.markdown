@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.chromecoaster.com/adventure/agent-perry-strikes-back
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Agent Perry Strikes Back - Kill Your Boring Times](http://www.chromecoaster.com/adventure/agent-perry-strikes-back)
 
@@ -29,9 +34,6 @@ title: http://www.chromecoaster.com/adventure/agent-perry-strikes-back
 *  JS Response Bytes: 630214
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1732
-
-### Performance issues
-
 
 ### Performance issues
 

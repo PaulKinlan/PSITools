@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.nihon-imc.co.jp/seiri/WebBank/BankNoSerch.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Bank_No Serch](http://www.nihon-imc.co.jp/seiri/WebBank/BankNoSerch.htm)
 
@@ -29,9 +32,6 @@ title: http://www.nihon-imc.co.jp/seiri/WebBank/BankNoSerch.htm
 *  JS Response Bytes: 24942
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.thegamesarea.com/cs-portable.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CS Portable : The Games Area](http://www.thegamesarea.com/cs-portable.html)
 
@@ -29,9 +34,6 @@ title: http://www.thegamesarea.com/cs-portable.html
 *  JS Response Bytes: 2089256
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124411
-
-### Performance issues
-
 
 ### Performance issues
 

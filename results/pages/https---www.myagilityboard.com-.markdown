@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.myagilityboard.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [My Agility Board - Free Online Agile Board](https://www.myagilityboard.com/)
 
@@ -29,9 +32,6 @@ title: https://www.myagilityboard.com/
 *  JS Response Bytes: 1445483
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 147531
-
-### Performance issues
-
 
 ### Performance issues
 

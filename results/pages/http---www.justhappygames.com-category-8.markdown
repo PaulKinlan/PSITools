@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.justhappygames.com/category/8
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Truck - Just Happy Games](http://www.justhappygames.com/category/8)
 
@@ -29,9 +35,6 @@ title: http://www.justhappygames.com/category/8
 *  JS Response Bytes: 806831
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 499
-
-### Performance issues
-
 
 ### Performance issues
 

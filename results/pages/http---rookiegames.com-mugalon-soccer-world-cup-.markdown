@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://rookiegames.com/mugalon-soccer-world-cup/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mugalon Soccer World Cup](http://rookiegames.com/mugalon-soccer-world-cup/)
 
@@ -29,9 +36,6 @@ title: http://rookiegames.com/mugalon-soccer-world-cup/
 *  JS Response Bytes: 1276121
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99185
-
-### Performance issues
-
 
 ### Performance issues
 

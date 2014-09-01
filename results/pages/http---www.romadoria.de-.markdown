@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.romadoria.de/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Romadoria: Das innovative kostenlose Strategiespiel im alten Rom](http://www.romadoria.de/)
 
@@ -29,9 +33,6 @@ title: http://www.romadoria.de/
 *  JS Response Bytes: 280961
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2886
-
-### Performance issues
-
 
 ### Performance issues
 

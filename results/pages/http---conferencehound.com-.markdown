@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://conferencehound.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Conferences, Conventions, Expos, Trade Shows & Professional Events | Conference Hound](http://conferencehound.com/)
 
@@ -29,9 +32,6 @@ title: http://conferencehound.com/
 *  JS Response Bytes: 662664
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 608
-
-### Performance issues
-
 
 ### Performance issues
 

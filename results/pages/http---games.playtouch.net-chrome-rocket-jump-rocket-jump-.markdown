@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://games.playtouch.net/chrome/rocket-jump/rocket-jump/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Rocket Jump](http://games.playtouch.net/chrome/rocket-jump/rocket-jump/)
 
@@ -29,9 +31,6 @@ title: http://games.playtouch.net/chrome/rocket-jump/rocket-jump/
 *  JS Response Bytes: 1260513
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1047
-
-### Performance issues
-
 
 ### Performance issues
 

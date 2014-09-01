@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.library.court.ge/login.php?geo&authorisation
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ELL](http://www.library.court.ge/login.php?geo&authorisation)
 
@@ -29,9 +35,6 @@ title: http://www.library.court.ge/login.php?geo&authorisation
 *  JS Response Bytes: 235726
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 547
-
-### Performance issues
-
 
 ### Performance issues
 

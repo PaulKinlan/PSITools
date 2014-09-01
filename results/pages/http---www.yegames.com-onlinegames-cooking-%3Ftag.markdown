@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.yegames.com/onlinegames/cooking/?tag
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cooking Games - Play Cooking Games Online](http://www.yegames.com/onlinegames/cooking/?tag)
 
@@ -29,9 +32,6 @@ title: http://www.yegames.com/onlinegames/cooking/?tag
 *  JS Response Bytes: 400585
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16068
-
-### Performance issues
-
 
 ### Performance issues
 

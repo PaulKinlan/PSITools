@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://bologames.com/temple-run-oz.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BoloGames.Com | Flash Games – Temple Run OZ](http://bologames.com/temple-run-oz.html)
 
@@ -29,9 +35,6 @@ title: http://bologames.com/temple-run-oz.html
 *  JS Response Bytes: 416559
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 805
-
-### Performance issues
-
 
 ### Performance issues
 

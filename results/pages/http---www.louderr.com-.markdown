@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.louderr.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [louderr.com: The Best Search Links on the Net](http://www.louderr.com/)
 
@@ -29,9 +30,6 @@ title: http://www.louderr.com/
 *  JS Response Bytes: 259014
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 435
-
-### Performance issues
-
 
 ### Performance issues
 

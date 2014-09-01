@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.eventi-netweek.it/#helpdesk-eventi
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Eventi](http://m.eventi-netweek.it/#helpdesk-eventi)
 
@@ -29,9 +31,6 @@ title: http://m.eventi-netweek.it/#helpdesk-eventi
 *  JS Response Bytes: 468819
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 439
-
-### Performance issues
-
 
 ### Performance issues
 

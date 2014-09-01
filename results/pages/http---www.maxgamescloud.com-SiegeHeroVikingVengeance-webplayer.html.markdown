@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.maxgamescloud.com/SiegeHeroVikingVengeance/webplayer.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Siege Hero Viking Vengeance | MaxGamesCloud.com-Flash-Android-Chrome Games](http://www.maxgamescloud.com/SiegeHeroVikingVengeance/webplayer.html)
 
@@ -29,9 +34,6 @@ title: http://www.maxgamescloud.com/SiegeHeroVikingVengeance/webplayer.html
 *  JS Response Bytes: 383374
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40378
-
-### Performance issues
-
 
 ### Performance issues
 

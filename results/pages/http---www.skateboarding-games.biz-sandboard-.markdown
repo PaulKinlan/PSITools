@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/sandboard/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sandboard game](http://www.skateboarding-games.biz/sandboard/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/sandboard/
 *  JS Response Bytes: 2123702
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121950
-
-### Performance issues
-
 
 ### Performance issues
 

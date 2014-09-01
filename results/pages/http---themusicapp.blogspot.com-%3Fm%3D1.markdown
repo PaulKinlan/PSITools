@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://themusicapp.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [musicccc!!!!!](http://themusicapp.blogspot.com/?m=1)
 
@@ -18,20 +20,17 @@ title: http://themusicapp.blogspot.com/?m=1
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 15
-*  Total Request Bytes: 3255
+*  Total Request Bytes: 3256
 
 ### Response data
 
-*  HTML Response Bytes: 64666
+*  HTML Response Bytes: 64343
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 66778
-*  Image Response Bytes: 1627
-*  JS Response Bytes: 790308
+*  CSS Response Bytes: 66777
+*  Image Response Bytes: 1625
+*  JS Response Bytes: 790339
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287110
-
-### Performance issues
-
 
 ### Performance issues
 

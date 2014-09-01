@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://forevergamer.net/sports/8-ball-pool-multiplayer.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [8 Ball Pool Multiplayer - Free Online Games Forever | ForeverGamer.net - http://forevergamer.net](http://forevergamer.net/sports/8-ball-pool-multiplayer.html)
 
@@ -29,9 +34,6 @@ title: http://forevergamer.net/sports/8-ball-pool-multiplayer.html
 *  JS Response Bytes: 3336442
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 150549
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.taketwoapps.com/apps/book/inspire/book.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Motivating and Inspirational Quotes](http://www.taketwoapps.com/apps/book/inspire/book.html)
 
@@ -29,9 +32,6 @@ title: http://www.taketwoapps.com/apps/book/inspire/book.html
 *  JS Response Bytes: 428389
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

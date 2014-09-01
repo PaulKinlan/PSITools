@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.evolvedonlinegames.com/app.php?id=2333
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fujitsu Defender](http://www.evolvedonlinegames.com/app.php?id=2333)
 
@@ -29,9 +34,6 @@ title: http://www.evolvedonlinegames.com/app.php?id=2333
 *  JS Response Bytes: 1058884
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99125
-
-### Performance issues
-
 
 ### Performance issues
 

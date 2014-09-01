@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://sites.google.com/a/avidys.com/avidys/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Company WebSite](https://sites.google.com/a/avidys.com/avidys/)
 
@@ -29,9 +33,6 @@ title: https://sites.google.com/a/avidys.com/avidys/
 *  JS Response Bytes: 413236
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3108
-
-### Performance issues
-
 
 ### Performance issues
 

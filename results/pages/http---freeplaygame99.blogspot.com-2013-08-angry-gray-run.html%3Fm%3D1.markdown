@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://freeplaygame99.blogspot.com/2013/08/angry-gray-run.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free play games, card games, casino games online games: Angry gray run](http://freeplaygame99.blogspot.com/2013/08/angry-gray-run.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://freeplaygame99.blogspot.com/2013/08/angry-gray-run.html?m=1
 *  JS Response Bytes: 1783252
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 330199
-
-### Performance issues
-
 
 ### Performance issues
 

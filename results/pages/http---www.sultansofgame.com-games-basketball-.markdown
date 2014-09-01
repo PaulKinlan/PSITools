@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/basketball/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Basketball Game — Sultans of Game](http://www.sultansofgame.com/games/basketball/)
 
@@ -29,9 +35,6 @@ title: http://www.sultansofgame.com/games/basketball/
 *  JS Response Bytes: 1662041
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 107678
-
-### Performance issues
-
 
 ### Performance issues
 

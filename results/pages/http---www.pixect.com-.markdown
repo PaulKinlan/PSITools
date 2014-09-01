@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pixect.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pixect - Take photos online with webcam effects](http://www.pixect.com/)
 
@@ -29,9 +33,6 @@ title: http://www.pixect.com/
 *  JS Response Bytes: 996720
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15473
-
-### Performance issues
-
 
 ### Performance issues
 

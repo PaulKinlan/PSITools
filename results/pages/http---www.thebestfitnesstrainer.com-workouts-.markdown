@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.thebestfitnesstrainer.com/workouts/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Workout Routines | thebestfitnesstrainer.com](http://www.thebestfitnesstrainer.com/workouts/)
 
@@ -29,9 +31,6 @@ title: http://www.thebestfitnesstrainer.com/workouts/
 *  JS Response Bytes: 1850905
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 147490
-
-### Performance issues
-
 
 ### Performance issues
 

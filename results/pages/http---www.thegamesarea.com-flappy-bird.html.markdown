@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.thegamesarea.com/flappy-bird.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flappy Bird : The Games Area](http://www.thegamesarea.com/flappy-bird.html)
 
@@ -29,9 +34,6 @@ title: http://www.thegamesarea.com/flappy-bird.html
 *  JS Response Bytes: 2075492
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120057
-
-### Performance issues
-
 
 ### Performance issues
 

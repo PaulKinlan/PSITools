@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.itcuties.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Video tutorials for programmers](http://www.itcuties.com/)
 
@@ -29,9 +34,6 @@ title: http://www.itcuties.com/
 *  JS Response Bytes: 2431244
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17637
-
-### Performance issues
-
 
 ### Performance issues
 

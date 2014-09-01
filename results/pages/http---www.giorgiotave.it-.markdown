@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.giorgiotave.it/
+SizeTapTargetsAppropriately: true
 ---
 ## [Giorgiotave: tutto Gratis per SEO, Social Network e Web Marketing](http://www.giorgiotave.it/)
 
@@ -29,9 +30,6 @@ title: http://www.giorgiotave.it/
 *  JS Response Bytes: 405315
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48500
-
-### Performance issues
-
 
 ### Performance issues
 

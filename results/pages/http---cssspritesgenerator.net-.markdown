@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://cssspritesgenerator.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [CSS Sprites Generator](http://cssspritesgenerator.net/)
 
@@ -29,9 +33,6 @@ title: http://cssspritesgenerator.net/
 *  JS Response Bytes: 1430272
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 174012
-
-### Performance issues
-
 
 ### Performance issues
 

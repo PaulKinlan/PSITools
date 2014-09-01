@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://oxiweb.sk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tvorba web stránok, tvorba eshopov jednoducho a rýchlo - OxiWeb](http://oxiweb.sk/)
 
@@ -29,9 +33,6 @@ title: http://oxiweb.sk/
 *  JS Response Bytes: 952941
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 597
-
-### Performance issues
-
 
 ### Performance issues
 

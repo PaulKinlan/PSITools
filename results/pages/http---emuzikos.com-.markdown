@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://emuzikos.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [The first easy way to find local musicians. Free musicians classifieds - Emuzikos](http://emuzikos.com/)
 
@@ -29,9 +30,6 @@ title: http://emuzikos.com/
 *  JS Response Bytes: 594151
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104388
-
-### Performance issues
-
 
 ### Performance issues
 

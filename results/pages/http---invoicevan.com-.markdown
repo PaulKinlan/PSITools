@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://invoicevan.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Create PDF Invoices for FREE with the Online Invoice Creator | Invoicevan](http://invoicevan.com/)
 
@@ -29,9 +33,6 @@ title: http://invoicevan.com/
 *  JS Response Bytes: 366858
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2003
-
-### Performance issues
-
 
 ### Performance issues
 

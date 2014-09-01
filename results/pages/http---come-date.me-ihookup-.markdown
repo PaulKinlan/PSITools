@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://come-date.me/ihookup/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [ihookup | Come-Date.me](http://come-date.me/ihookup/)
 
@@ -29,9 +32,6 @@ title: http://come-date.me/ihookup/
 *  JS Response Bytes: 478264
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3023
-
-### Performance issues
-
 
 ### Performance issues
 

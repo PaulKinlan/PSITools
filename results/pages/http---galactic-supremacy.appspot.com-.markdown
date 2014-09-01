@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://galactic-supremacy.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Galactic Supremacy Online](http://galactic-supremacy.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://galactic-supremacy.appspot.com/
 *  JS Response Bytes: 633282
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33814
-
-### Performance issues
-
 
 ### Performance issues
 

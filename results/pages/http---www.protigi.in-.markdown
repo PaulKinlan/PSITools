@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.protigi.in/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Home :: Protigi](http://www.protigi.in/)
 
@@ -29,9 +32,6 @@ title: http://www.protigi.in/
 *  JS Response Bytes: 954276
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 233921
-
-### Performance issues
-
 
 ### Performance issues
 

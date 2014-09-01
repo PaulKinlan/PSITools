@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://freehdgame2013.blogspot.com/2013/08/boot-camp-game.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [martin](http://freehdgame2013.blogspot.com/2013/08/boot-camp-game.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://freehdgame2013.blogspot.com/2013/08/boot-camp-game.html?m=1
 *  JS Response Bytes: 790848
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 330998
-
-### Performance issues
-
 
 ### Performance issues
 

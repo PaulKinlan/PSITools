@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://steelsoftlab.com/sociality/videochat.htm#.U_ulxU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Easy Video Chat](http://steelsoftlab.com/sociality/videochat.htm#.U_ulxU0ieKA)
 
@@ -29,9 +33,6 @@ title: http://steelsoftlab.com/sociality/videochat.htm#.U_ulxU0ieKA
 *  JS Response Bytes: 607791
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24057
-
-### Performance issues
-
 
 ### Performance issues
 

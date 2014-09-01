@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://drdrumbeatmaker.chr0mestore.com/
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dr Drum Beat Maker](http://drdrumbeatmaker.chr0mestore.com/)
 
@@ -29,9 +33,6 @@ title: http://drdrumbeatmaker.chr0mestore.com/
 *  JS Response Bytes: 41101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42359
-
-### Performance issues
-
 
 ### Performance issues
 

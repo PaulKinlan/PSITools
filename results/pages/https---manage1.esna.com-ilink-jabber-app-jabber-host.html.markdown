@@ -33,8 +33,5 @@ title: https://manage1.esna.com/ilink/jabber/app/jabber/host.html
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

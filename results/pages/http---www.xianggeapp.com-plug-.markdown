@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.xianggeapp.com/plug/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [你访问的页面找不回来了](http://www.xianggeapp.com/plug/)
 
@@ -29,9 +33,6 @@ title: http://www.xianggeapp.com/plug/
 *  JS Response Bytes: 38939
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5041
-
-### Performance issues
-
 
 ### Performance issues
 

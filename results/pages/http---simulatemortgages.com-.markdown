@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://simulatemortgages.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Simulate your Mortgages and other Loans](http://simulatemortgages.com/)
 
@@ -29,9 +36,6 @@ title: http://simulatemortgages.com/
 *  JS Response Bytes: 428892
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

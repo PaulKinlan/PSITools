@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.verynicegames.com/default-category/steam-defense
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Steam Defense - Very Nice Games](http://www.verynicegames.com/default-category/steam-defense)
 
@@ -29,9 +36,6 @@ title: http://www.verynicegames.com/default-category/steam-defense
 *  JS Response Bytes: 1730583
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121038
-
-### Performance issues
-
 
 ### Performance issues
 

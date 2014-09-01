@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.datanovisen.se/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Datanovisen | Kom ikapp i din egen takt!](http://www.datanovisen.se/)
 
@@ -29,9 +31,6 @@ title: http://www.datanovisen.se/
 *  JS Response Bytes: 196196
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 70294
-
-### Performance issues
-
 
 ### Performance issues
 

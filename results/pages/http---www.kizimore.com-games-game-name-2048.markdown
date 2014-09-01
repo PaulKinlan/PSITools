@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.kizimore.com/games/game/name/2048
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [2048 Kizi - Online Games - Life is fun!](http://www.kizimore.com/games/game/name/2048)
 
@@ -29,9 +35,6 @@ title: http://www.kizimore.com/games/game/name/2048
 *  JS Response Bytes: 1857559
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112472
-
-### Performance issues
-
 
 ### Performance issues
 

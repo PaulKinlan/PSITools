@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://barkstats.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bark - Online communication, reinvented.](http://barkstats.com/)
 
@@ -29,9 +35,6 @@ title: http://barkstats.com/
 *  JS Response Bytes: 753062
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 403400
-
-### Performance issues
-
 
 ### Performance issues
 

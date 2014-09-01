@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://freeplaygame99.blogspot.com/2013/08/jetpack-jerome.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free play games, card games, casino games online games: Jetpack Jerome](http://freeplaygame99.blogspot.com/2013/08/jetpack-jerome.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://freeplaygame99.blogspot.com/2013/08/jetpack-jerome.html?m=1
 *  JS Response Bytes: 971750
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287163
-
-### Performance issues
-
 
 ### Performance issues
 

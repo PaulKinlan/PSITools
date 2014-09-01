@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.levisgame.com/default-category/super-belly-boarder
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Belly Boarder - LeViSGaMe](http://www.levisgame.com/default-category/super-belly-boarder)
 
@@ -29,9 +35,6 @@ title: http://www.levisgame.com/default-category/super-belly-boarder
 *  JS Response Bytes: 2127053
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114572
-
-### Performance issues
-
 
 ### Performance issues
 

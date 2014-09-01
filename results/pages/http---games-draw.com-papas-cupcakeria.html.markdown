@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://games-draw.com/papas-cupcakeria.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games-Draw.Com – Papa’s Cupcakeria](http://games-draw.com/papas-cupcakeria.html)
 
@@ -29,9 +35,6 @@ title: http://games-draw.com/papas-cupcakeria.html
 *  JS Response Bytes: 570144
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57850
-
-### Performance issues
-
 
 ### Performance issues
 

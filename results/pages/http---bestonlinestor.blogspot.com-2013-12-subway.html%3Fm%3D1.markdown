@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://bestonlinestor.blogspot.com/2013/12/subway.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [online game store : subway](http://bestonlinestor.blogspot.com/2013/12/subway.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://bestonlinestor.blogspot.com/2013/12/subway.html?m=1
 *  JS Response Bytes: 1783132
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 333929
-
-### Performance issues
-
 
 ### Performance issues
 

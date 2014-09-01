@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.symbaloo.com/shared/AAAAAWfT6TgAA41-4IsyuQ==
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ashland ES - Symbaloo](http://www.symbaloo.com/shared/AAAAAWfT6TgAA41-4IsyuQ==)
 
@@ -29,9 +33,6 @@ title: http://www.symbaloo.com/shared/AAAAAWfT6TgAA41-4IsyuQ==
 *  JS Response Bytes: 1000241
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 788
-
-### Performance issues
-
 
 ### Performance issues
 

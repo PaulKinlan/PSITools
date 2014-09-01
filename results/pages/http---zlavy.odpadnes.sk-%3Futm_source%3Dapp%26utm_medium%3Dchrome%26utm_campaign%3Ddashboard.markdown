@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://zlavy.odpadnes.sk/?utm_source=app&utm_medium=chrome&utm_campaign=dashboard
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zľavy a akcie | zlavy.odpadnes.sk](http://zlavy.odpadnes.sk/?utm_source=app&utm_medium=chrome&utm_campaign=dashboard)
 
@@ -29,9 +32,6 @@ title: http://zlavy.odpadnes.sk/?utm_source=app&utm_medium=chrome&utm_campaign=d
 *  JS Response Bytes: 1083039
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4353
-
-### Performance issues
-
 
 ### Performance issues
 

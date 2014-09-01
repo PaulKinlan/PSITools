@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://yoko.funkyphotos.info/yoko.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Yoko Platform Game](http://yoko.funkyphotos.info/yoko.htm)
 
@@ -29,9 +35,6 @@ title: http://yoko.funkyphotos.info/yoko.htm
 *  JS Response Bytes: 745343
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96261
-
-### Performance issues
-
 
 ### Performance issues
 

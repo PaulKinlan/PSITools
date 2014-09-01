@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.onlinegamese.com/Free/3d-games
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Games | Online Games | Free Online Games Play Now](http://www.onlinegamese.com/Free/3d-games)
 
@@ -29,9 +32,6 @@ title: http://www.onlinegamese.com/Free/3d-games
 *  JS Response Bytes: 690412
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59275
-
-### Performance issues
-
 
 ### Performance issues
 

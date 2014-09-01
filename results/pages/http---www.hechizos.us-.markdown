@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.hechizos.us/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Hechizos](http://www.hechizos.us/)
 
@@ -29,9 +31,6 @@ title: http://www.hechizos.us/
 *  JS Response Bytes: 146478
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15632
-
-### Performance issues
-
 
 ### Performance issues
 

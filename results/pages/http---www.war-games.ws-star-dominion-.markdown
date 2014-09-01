@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/star-dominion/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Star Dominion](http://www.war-games.ws/star-dominion/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/star-dominion/
 *  JS Response Bytes: 2292866
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120596
-
-### Performance issues
-
 
 ### Performance issues
 

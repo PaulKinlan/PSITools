@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.tripmark.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TripMark - Travel Itinerary - Trip Planner](http://www.tripmark.com/)
 
@@ -29,9 +33,6 @@ title: http://www.tripmark.com/
 *  JS Response Bytes: 889093
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27465
-
-### Performance issues
-
 
 ### Performance issues
 

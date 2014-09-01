@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://newbestfreeonlinegame.blogspot.com/2013/11/russian-road-rage-3d.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [New Best Free Online Game: Russian Road Rage 3D](http://newbestfreeonlinegame.blogspot.com/2013/11/russian-road-rage-3d.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://newbestfreeonlinegame.blogspot.com/2013/11/russian-road-rage-3d.ht
 *  JS Response Bytes: 1692084
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112420
-
-### Performance issues
-
 
 ### Performance issues
 

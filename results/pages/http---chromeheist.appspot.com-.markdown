@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chromeheist.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Greatest Heist](http://chromeheist.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://chromeheist.appspot.com/
 *  JS Response Bytes: 380262
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

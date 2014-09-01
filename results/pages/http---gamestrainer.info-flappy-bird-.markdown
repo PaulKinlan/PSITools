@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gamestrainer.info/flappy-bird/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tic Games Flash Games – Flappy Bird](http://gamestrainer.info/flappy-bird/)
 
@@ -29,9 +34,6 @@ title: http://gamestrainer.info/flappy-bird/
 *  JS Response Bytes: 873035
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15965
-
-### Performance issues
-
 
 ### Performance issues
 

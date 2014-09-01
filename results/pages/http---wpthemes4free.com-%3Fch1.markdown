@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://wpthemes4free.com/?ch1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Wordpress Premium Themes for Free |](http://wpthemes4free.com/?ch1)
 
@@ -29,9 +33,6 @@ title: http://wpthemes4free.com/?ch1
 *  JS Response Bytes: 2074436
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118503
-
-### Performance issues
-
 
 ### Performance issues
 

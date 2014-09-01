@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chemstory.wordpress.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [CheMystery | Chemistry unravelled a guide for GCE A and O level student](http://chemstory.wordpress.com/)
 
@@ -29,9 +32,6 @@ title: http://chemstory.wordpress.com/
 *  JS Response Bytes: 612033
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1090
-
-### Performance issues
-
 
 ### Performance issues
 

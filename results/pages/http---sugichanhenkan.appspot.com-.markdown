@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://sugichanhenkan.appspot.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [スギちゃん変換](http://sugichanhenkan.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://sugichanhenkan.appspot.com/
 *  JS Response Bytes: 1465347
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110481
-
-### Performance issues
-
 
 ### Performance issues
 

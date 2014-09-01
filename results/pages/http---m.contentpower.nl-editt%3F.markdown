@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.contentpower.nl/editt?
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Workanizr](http://m.contentpower.nl/editt?)
 
@@ -29,9 +32,6 @@ title: http://m.contentpower.nl/editt?
 *  JS Response Bytes: 806928
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 927
-
-### Performance issues
-
 
 ### Performance issues
 

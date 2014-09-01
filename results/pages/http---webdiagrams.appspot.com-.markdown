@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://webdiagrams.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Web UML Diagrams](http://webdiagrams.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://webdiagrams.appspot.com/
 *  JS Response Bytes: 6413
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

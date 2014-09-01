@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.colorspire.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Create Color Schemes, Test Color Combinations - Colorspire](http://www.colorspire.com/)
 
@@ -29,9 +33,6 @@ title: http://www.colorspire.com/
 *  JS Response Bytes: 1416828
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109616
-
-### Performance issues
-
 
 ### Performance issues
 

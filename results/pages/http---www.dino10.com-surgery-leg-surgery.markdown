@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.dino10.com/surgery/leg-surgery
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Leg Surgery - Addictive Games On Dino10](http://www.dino10.com/surgery/leg-surgery)
 
@@ -29,9 +34,6 @@ title: http://www.dino10.com/surgery/leg-surgery
 *  JS Response Bytes: 1782869
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98593
-
-### Performance issues
-
 
 ### Performance issues
 

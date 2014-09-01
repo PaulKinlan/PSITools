@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://heartbleed.biz/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://heartbleed.biz/)
 
@@ -29,9 +31,6 @@ title: http://heartbleed.biz/
 *  JS Response Bytes: 806731
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15589
-
-### Performance issues
-
 
 ### Performance issues
 

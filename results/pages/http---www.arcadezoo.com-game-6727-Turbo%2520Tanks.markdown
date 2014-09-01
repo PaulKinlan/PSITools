@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.arcadezoo.com/game/6727/Turbo%20Tanks
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Turbo Tanks - ArcadeZoo](http://www.arcadezoo.com/game/6727/Turbo%20Tanks)
 
@@ -29,9 +37,6 @@ title: http://www.arcadezoo.com/game/6727/Turbo%20Tanks
 *  JS Response Bytes: 1634866
 *  Flash Response Bytes: 12225686
 *  Other Response Bytes: 20145
-
-### Performance issues
-
 
 ### Performance issues
 

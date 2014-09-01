@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://nesninja.com/game/chip-n-dale-rescue-rangers-2#.U_ujvU0ieKA
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Chip 'n Dale Rescue Rangers 2 » NES Ninja](http://nesninja.com/game/chip-n-dale-rescue-rangers-2#.U_ujvU0ieKA)
 
@@ -29,9 +32,6 @@ title: http://nesninja.com/game/chip-n-dale-rescue-rangers-2#.U_ujvU0ieKA
 *  JS Response Bytes: 2420326
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 194986
-
-### Performance issues
-
 
 ### Performance issues
 

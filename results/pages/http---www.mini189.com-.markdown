@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.mini189.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mini189.com](http://www.mini189.com/)
 
@@ -29,9 +31,6 @@ title: http://www.mini189.com/
 *  JS Response Bytes: 167614
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

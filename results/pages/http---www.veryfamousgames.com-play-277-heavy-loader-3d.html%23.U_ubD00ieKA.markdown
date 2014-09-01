@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.veryfamousgames.com/play/277/heavy-loader-3d.html#.U_ubD00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Heavy Loader 3D - veryfamousgames](http://www.veryfamousgames.com/play/277/heavy-loader-3d.html#.U_ubD00ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.veryfamousgames.com/play/277/heavy-loader-3d.html#.U_ubD00ieKA
 *  JS Response Bytes: 1056824
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22669
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.newamericangames.com/default-category/traffic-slam-3-2
+UseLegibleFontSizes: true
 ---
 ## [404 - Page not found](http://www.newamericangames.com/default-category/traffic-slam-3-2)
 
@@ -29,9 +30,6 @@ title: http://www.newamericangames.com/default-category/traffic-slam-3-2
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1262
-
-### Performance issues
-
 
 ### Performance issues
 

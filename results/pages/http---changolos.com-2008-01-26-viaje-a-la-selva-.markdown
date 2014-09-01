@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://changolos.com/2008/01/26/viaje-a-la-selva/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Viaje a la selva | Chángolos](http://changolos.com/2008/01/26/viaje-a-la-selva/)
 
@@ -29,9 +33,6 @@ title: http://changolos.com/2008/01/26/viaje-a-la-selva/
 *  JS Response Bytes: 1201985
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2744
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.alja.biz/
+AvoidLandingPageRedirects: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Alja.biz: The Leading Alja Site on the Net](http://www.alja.biz/)
 
@@ -29,9 +31,6 @@ title: http://www.alja.biz/
 *  JS Response Bytes: 259014
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1210
-
-### Performance issues
-
 
 ### Performance issues
 

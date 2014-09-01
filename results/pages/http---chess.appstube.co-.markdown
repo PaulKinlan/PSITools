@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://chess.appstube.co/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Chess](http://chess.appstube.co/)
 
@@ -29,9 +36,6 @@ title: http://chess.appstube.co/
 *  JS Response Bytes: 579990
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14872
-
-### Performance issues
-
 
 ### Performance issues
 

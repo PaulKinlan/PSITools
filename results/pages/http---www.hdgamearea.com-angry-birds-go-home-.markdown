@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.hdgamearea.com/angry-birds-go-home/
+EnableGzipCompression: true
 ---
 ## [](http://www.hdgamearea.com/angry-birds-go-home/)
 
@@ -29,9 +30,6 @@ title: http://www.hdgamearea.com/angry-birds-go-home/
 *  JS Response Bytes: 164368
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.duuo.de/shop/amazon.at/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://www.duuo.de/shop/amazon.at/)
 
@@ -29,9 +30,6 @@ title: http://www.duuo.de/shop/amazon.at/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1259
-
-### Performance issues
-
 
 ### Performance issues
 

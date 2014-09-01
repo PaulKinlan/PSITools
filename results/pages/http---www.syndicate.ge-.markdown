@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.syndicate.ge/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Syndicate Online - Jazz Non Stop](http://www.syndicate.ge/)
 
@@ -29,9 +34,6 @@ title: http://www.syndicate.ge/
 *  JS Response Bytes: 664835
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1279
-
-### Performance issues
-
 
 ### Performance issues
 

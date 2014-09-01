@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://noostalgic.waluu.com/?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Liste des contributions](http://noostalgic.waluu.com/?m=1)
 
@@ -29,9 +33,6 @@ title: http://noostalgic.waluu.com/?m=1
 *  JS Response Bytes: 902919
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4921
-
-### Performance issues
-
 
 ### Performance issues
 

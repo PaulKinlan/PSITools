@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://shakygames.com/stunt-guy-tricky-rider/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [shakygames.com-the best free online flash gamesStunt Guy Tricky Rider | shakygames.com](http://shakygames.com/stunt-guy-tricky-rider/)
 
@@ -29,9 +34,6 @@ title: http://shakygames.com/stunt-guy-tricky-rider/
 *  JS Response Bytes: 1395473
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17334
-
-### Performance issues
-
 
 ### Performance issues
 

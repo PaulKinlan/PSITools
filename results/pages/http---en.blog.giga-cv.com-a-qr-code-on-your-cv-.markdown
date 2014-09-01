@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://en.blog.giga-cv.com/a-qr-code-on-your-cv/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [A QR code on your CV | Resume/CV + Cover Letter = Headache ?](http://en.blog.giga-cv.com/a-qr-code-on-your-cv/)
 
@@ -29,9 +33,6 @@ title: http://en.blog.giga-cv.com/a-qr-code-on-your-cv/
 *  JS Response Bytes: 1039569
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

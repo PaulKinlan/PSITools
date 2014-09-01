@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamechrome.biz/uncategorized/sonic/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sonic | Game Chrome](http://www.gamechrome.biz/uncategorized/sonic/)
 
@@ -29,9 +34,6 @@ title: http://www.gamechrome.biz/uncategorized/sonic/
 *  JS Response Bytes: 833576
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5706
-
-### Performance issues
-
 
 ### Performance issues
 

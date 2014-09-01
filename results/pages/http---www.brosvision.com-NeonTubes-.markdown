@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.brosvision.com/NeonTubes/
+UseLegibleFontSizes: true
 ---
 ## [403 Forbidden](http://www.brosvision.com/NeonTubes/)
 
@@ -29,9 +30,6 @@ title: http://www.brosvision.com/NeonTubes/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 427
-
-### Performance issues
-
 
 ### Performance issues
 

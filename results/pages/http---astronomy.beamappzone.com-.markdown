@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://astronomy.beamappzone.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Astronomy Simulations](http://astronomy.beamappzone.com/)
 
@@ -29,9 +35,6 @@ title: http://astronomy.beamappzone.com/
 *  JS Response Bytes: 389937
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

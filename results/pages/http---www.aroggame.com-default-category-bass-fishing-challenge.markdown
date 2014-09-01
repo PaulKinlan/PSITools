@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.aroggame.com/default-category/bass-fishing-challenge
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bass Fishing Challenge - Aroggame.com](http://www.aroggame.com/default-category/bass-fishing-challenge)
 
@@ -29,9 +35,6 @@ title: http://www.aroggame.com/default-category/bass-fishing-challenge
 *  JS Response Bytes: 2195343
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120500
-
-### Performance issues
-
 
 ### Performance issues
 

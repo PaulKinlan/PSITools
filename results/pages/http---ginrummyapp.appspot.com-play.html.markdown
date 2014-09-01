@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://ginrummyapp.appspot.com/play.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GinRummy - Play Free HTML5 CardGame](http://ginrummyapp.appspot.com/play.html)
 
@@ -29,9 +34,6 @@ title: http://ginrummyapp.appspot.com/play.html
 *  JS Response Bytes: 859577
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18404
-
-### Performance issues
-
 
 ### Performance issues
 

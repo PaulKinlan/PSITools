@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.games-h.com/other-games/sim-taxi.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Playing Sim Taxi - Play Free Online Games at Games-H.COM](http://www.games-h.com/other-games/sim-taxi.html)
 
@@ -29,9 +35,6 @@ title: http://www.games-h.com/other-games/sim-taxi.html
 *  JS Response Bytes: 2459288
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 161577
-
-### Performance issues
-
 
 ### Performance issues
 

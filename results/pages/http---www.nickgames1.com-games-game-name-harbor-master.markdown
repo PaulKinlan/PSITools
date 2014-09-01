@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.nickgames1.com/games/game/name/harbor-master
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [harbor-master Nickelodeon Games](http://www.nickgames1.com/games/game/name/harbor-master)
 
@@ -29,9 +34,6 @@ title: http://www.nickgames1.com/games/game/name/harbor-master
 *  JS Response Bytes: 1861773
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111418
-
-### Performance issues
-
 
 ### Performance issues
 

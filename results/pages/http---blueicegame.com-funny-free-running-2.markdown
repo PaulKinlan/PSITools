@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://blueicegame.com/funny/free-running-2
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Running 2 - BlueIceGame](http://blueicegame.com/funny/free-running-2)
 
@@ -29,9 +34,6 @@ title: http://blueicegame.com/funny/free-running-2
 *  JS Response Bytes: 2170985
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 293181
-
-### Performance issues
-
 
 ### Performance issues
 

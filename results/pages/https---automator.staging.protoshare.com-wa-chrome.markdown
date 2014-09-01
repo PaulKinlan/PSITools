@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://automator.staging.protoshare.com/wa/chrome
+UseLegibleFontSizes: true
 ---
 ## [](https://automator.staging.protoshare.com/wa/chrome)
 
@@ -29,9 +30,6 @@ title: https://automator.staging.protoshare.com/wa/chrome
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 334
-
-### Performance issues
-
 
 ### Performance issues
 

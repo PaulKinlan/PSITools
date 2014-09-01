@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www-k6.thinkcentral.com/ePC/start.do
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ThinkCentral](http://www-k6.thinkcentral.com/ePC/start.do)
 
@@ -29,9 +33,6 @@ title: http://www-k6.thinkcentral.com/ePC/start.do
 *  JS Response Bytes: 300682
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9086
-
-### Performance issues
-
 
 ### Performance issues
 

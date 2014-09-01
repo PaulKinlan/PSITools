@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.champaignschools.org/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [News & Announcements | Champaign Unit 4 Schools](http://www.champaignschools.org/)
 
@@ -29,9 +34,6 @@ title: http://www.champaignschools.org/
 *  JS Response Bytes: 634995
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

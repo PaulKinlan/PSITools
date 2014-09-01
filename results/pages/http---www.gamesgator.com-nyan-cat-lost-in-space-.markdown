@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.com/nyan-cat-lost-in-space/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nyan Cat Lost in Space](http://www.gamesgator.com/nyan-cat-lost-in-space/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.com/nyan-cat-lost-in-space/
 *  JS Response Bytes: 1086423
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47887
-
-### Performance issues
-
 
 ### Performance issues
 

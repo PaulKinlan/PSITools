@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://solitaire-online-games.com/game/memory
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Solitaire online games - Couples memory](http://solitaire-online-games.com/game/memory)
 
@@ -29,9 +36,6 @@ title: http://solitaire-online-games.com/game/memory
 *  JS Response Bytes: 1577720
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 136087
-
-### Performance issues
-
 
 ### Performance issues
 

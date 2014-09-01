@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.lockerpulse.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sports News Reinvented: More Sports. Less Time. - LockerPulse](http://www.lockerpulse.com/)
 
@@ -29,9 +31,6 @@ title: http://www.lockerpulse.com/
 *  JS Response Bytes: 251561
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16179
-
-### Performance issues
-
 
 ### Performance issues
 

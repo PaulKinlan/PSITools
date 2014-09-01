@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.balonparado.es/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [BalonParado.es](http://www.balonparado.es/)
 
@@ -29,9 +34,6 @@ title: http://www.balonparado.es/
 *  JS Response Bytes: 1863523
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33777
-
-### Performance issues
-
 
 ### Performance issues
 

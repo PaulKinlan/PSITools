@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ip.customlionpc.co.uk/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [66.249.93.73 - Your IP Address - Provided by Custom Lion PC](http://www.ip.customlionpc.co.uk/)
 
@@ -29,9 +34,6 @@ title: http://www.ip.customlionpc.co.uk/
 *  JS Response Bytes: 607227
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 75184
-
-### Performance issues
-
 
 ### Performance issues
 

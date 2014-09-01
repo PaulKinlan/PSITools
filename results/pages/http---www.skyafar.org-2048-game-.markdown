@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.skyafar.org/2048-game/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [2048 game](http://www.skyafar.org/2048-game/)
 
@@ -29,9 +31,6 @@ title: http://www.skyafar.org/2048-game/
 *  JS Response Bytes: 546403
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

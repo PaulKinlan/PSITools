@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.alltvparts.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [all Tv Parts - THE CHEAPEST TV/LCD/PLASMA PARTS ON THE NET!, WE WILL BEAT ANY PRICE BY 5%... - AllTvParts.com - THE CHEAPEST TV/LCD/PLASMA PARTS ON THE NET!, WE WILL BEAT ANY PRICE BY 5%...](http://www.alltvparts.com/)
 
@@ -29,9 +34,6 @@ title: http://www.alltvparts.com/
 *  JS Response Bytes: 1291791
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31120
-
-### Performance issues
-
 
 ### Performance issues
 

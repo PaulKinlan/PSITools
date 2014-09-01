@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.wikinvest.com/account/portfolio/register
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Signup - Wikinvest](https://www.wikinvest.com/account/portfolio/register)
 
@@ -29,9 +33,6 @@ title: https://www.wikinvest.com/account/portfolio/register
 *  JS Response Bytes: 463451
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16255
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.backgroundcheck.chrome-toolbar.org/sexoffenders.htm
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sex Offenders](http://www.backgroundcheck.chrome-toolbar.org/sexoffenders.htm)
 
@@ -29,9 +32,6 @@ title: http://www.backgroundcheck.chrome-toolbar.org/sexoffenders.htm
 *  JS Response Bytes: 68749
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2762
-
-### Performance issues
-
 
 ### Performance issues
 

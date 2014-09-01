@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://exercise.calorie.cc/show.php?code=01009
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Exercise Calorie Calculator bicycling, mountain, general](http://exercise.calorie.cc/show.php?code=01009)
 
@@ -29,9 +32,6 @@ title: http://exercise.calorie.cc/show.php?code=01009
 *  JS Response Bytes: 845990
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15219
-
-### Performance issues
-
 
 ### Performance issues
 

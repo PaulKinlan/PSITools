@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://instantlearning.me/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Instantlearning.me](http://instantlearning.me/)
 
@@ -29,9 +32,6 @@ title: http://instantlearning.me/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

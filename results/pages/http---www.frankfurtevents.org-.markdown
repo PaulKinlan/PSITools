@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.frankfurtevents.org/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Veranstaltungen & EVENTS in FRANKFURT und Umgebung - Veranstaltungskalender Heute - FRANKFURT EVENTS](http://www.frankfurtevents.org/)
 
@@ -29,9 +33,6 @@ title: http://www.frankfurtevents.org/
 *  JS Response Bytes: 665286
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 80384
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/662850/?autoAction=true&sId=Chrome_Webstore_Nov12_662850
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Jane Angel: Templar Mystery for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/662850/?autoAction=true&sId=Chrome_Webstore_Nov12_662850)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/662850/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1572447
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34416
-
-### Performance issues
-
 
 ### Performance issues
 

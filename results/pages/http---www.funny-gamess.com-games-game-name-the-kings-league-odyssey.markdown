@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.funny-gamess.com/games/game/name/the-kings-league-odyssey
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [the-kings-league-odyssey Funny Games](http://www.funny-gamess.com/games/game/name/the-kings-league-odyssey)
 
@@ -29,9 +34,6 @@ title: http://www.funny-gamess.com/games/game/name/the-kings-league-odyssey
 *  JS Response Bytes: 2149400
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110719
-
-### Performance issues
-
 
 ### Performance issues
 

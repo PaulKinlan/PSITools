@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://opaygames.com/games/2039_lose-the-heat-3-highway-hero/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Lose the Heat 3: Highway Hero | Games at Opaygames](http://opaygames.com/games/2039_lose-the-heat-3-highway-hero/)
 
@@ -29,9 +34,6 @@ title: http://opaygames.com/games/2039_lose-the-heat-3-highway-hero/
 *  JS Response Bytes: 321338
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1660
-
-### Performance issues
-
 
 ### Performance issues
 

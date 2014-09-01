@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.wrinkledart.com/StreetCups/Menu.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Street Cups](http://www.wrinkledart.com/StreetCups/Menu.html)
 
@@ -29,9 +33,6 @@ title: http://www.wrinkledart.com/StreetCups/Menu.html
 *  JS Response Bytes: 22701
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 639
-
-### Performance issues
-
 
 ### Performance issues
 

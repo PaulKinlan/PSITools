@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://hearts.trickstercards.com/game/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Trickster Hearts](https://hearts.trickstercards.com/game/)
 
@@ -29,9 +32,6 @@ title: https://hearts.trickstercards.com/game/
 *  JS Response Bytes: 219100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

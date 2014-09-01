@@ -33,8 +33,5 @@ title: https://greenvillecounty.edmodo.com/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

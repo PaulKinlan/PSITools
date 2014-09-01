@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://www.google.co.uk/webhp?source=search_app&gws_rd=cr,ssl&ei=Qrf7U963Ksua1AWGzIGICw
+AvoidLandingPageRedirects: true
 ---
 ## [Google](https://www.google.co.uk/webhp?source=search_app&gws_rd=cr,ssl&ei=Qrf7U963Ksua1AWGzIGICw)
 
@@ -29,9 +30,6 @@ title: https://www.google.co.uk/webhp?source=search_app&gws_rd=cr,ssl&ei=Qrf7U96
 *  JS Response Bytes: 379989
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2432
-
-### Performance issues
-
 
 ### Performance issues
 

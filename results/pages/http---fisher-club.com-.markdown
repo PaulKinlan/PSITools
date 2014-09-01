@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://fisher-club.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [fisher-club.com - Клуб успешных рыбаков](http://fisher-club.com/)
 
@@ -29,9 +34,6 @@ title: http://fisher-club.com/
 *  JS Response Bytes: 495655
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6992
-
-### Performance issues
-
 
 ### Performance issues
 

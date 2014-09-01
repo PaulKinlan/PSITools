@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.imaginside.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Imag'Inside - Agence Web à Reims - Création de site internet en Champagne-Ardennes et Paris](http://www.imaginside.com/)
 
@@ -29,9 +33,6 @@ title: http://www.imaginside.com/
 *  JS Response Bytes: 665089
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54784
-
-### Performance issues
-
 
 ### Performance issues
 

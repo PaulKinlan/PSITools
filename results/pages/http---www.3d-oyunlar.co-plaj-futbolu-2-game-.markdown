@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.3d-oyunlar.co/plaj-futbolu-2/game/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Plaj Futbolu 2 oyunu](http://www.3d-oyunlar.co/plaj-futbolu-2/game/)
 
@@ -29,9 +37,6 @@ title: http://www.3d-oyunlar.co/plaj-futbolu-2/game/
 *  JS Response Bytes: 2650657
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56884
-
-### Performance issues
-
 
 ### Performance issues
 

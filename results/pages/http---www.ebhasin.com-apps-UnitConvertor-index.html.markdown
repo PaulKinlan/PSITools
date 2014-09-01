@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ebhasin.com/apps/UnitConvertor/index.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Unit Converter](http://www.ebhasin.com/apps/UnitConvertor/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.ebhasin.com/apps/UnitConvertor/index.html
 *  JS Response Bytes: 602998
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16219
-
-### Performance issues
-
 
 ### Performance issues
 

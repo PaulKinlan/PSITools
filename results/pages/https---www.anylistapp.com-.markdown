@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://www.anylistapp.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [AnyList - The best way to create and share a grocery shopping list.](https://www.anylistapp.com/)
 
@@ -29,9 +30,6 @@ title: https://www.anylistapp.com/
 *  JS Response Bytes: 199797
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 355
-
-### Performance issues
-
 
 ### Performance issues
 

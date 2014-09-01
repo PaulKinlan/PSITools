@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://umzug.audriga.com/SMESwitchWebApp/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [audriga email migration](https://umzug.audriga.com/SMESwitchWebApp/)
 
@@ -29,9 +35,6 @@ title: https://umzug.audriga.com/SMESwitchWebApp/
 *  JS Response Bytes: 320438
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63
-
-### Performance issues
-
 
 ### Performance issues
 

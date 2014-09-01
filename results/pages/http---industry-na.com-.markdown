@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://industry-na.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Welcome to Industry-NA - Industry-NA](http://industry-na.com/)
 
@@ -29,9 +33,6 @@ title: http://industry-na.com/
 *  JS Response Bytes: 147517
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 654
-
-### Performance issues
-
 
 ### Performance issues
 

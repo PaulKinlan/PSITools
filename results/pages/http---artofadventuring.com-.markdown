@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://artofadventuring.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Art of Adventuring: Independent Experience and Adventure](http://artofadventuring.com/)
 
@@ -29,9 +31,6 @@ title: http://artofadventuring.com/
 *  JS Response Bytes: 299058
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1064
-
-### Performance issues
-
 
 ### Performance issues
 

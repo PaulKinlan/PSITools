@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_990_Happy-Wheels.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Happy Wheels Flash Games](http://www.newpopulargames.com/game_990_Happy-Wheels.html)
 
@@ -29,9 +35,6 @@ title: http://www.newpopulargames.com/game_990_Happy-Wheels.html
 *  JS Response Bytes: 1680562
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112880
-
-### Performance issues
-
 
 ### Performance issues
 

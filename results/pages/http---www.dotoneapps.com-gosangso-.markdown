@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.dotoneapps.com/gosangso/
+UseLegibleFontSizes: true
 ---
 ## [Error](http://www.dotoneapps.com/gosangso/)
 
@@ -29,9 +30,6 @@ title: http://www.dotoneapps.com/gosangso/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2053
-
-### Performance issues
-
 
 ### Performance issues
 

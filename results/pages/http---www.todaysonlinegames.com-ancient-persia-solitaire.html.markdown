@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.todaysonlinegames.com/ancient-persia-solitaire.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ancient Persia Solitaire | Todays Online Games](http://www.todaysonlinegames.com/ancient-persia-solitaire.html)
 
@@ -29,9 +34,6 @@ title: http://www.todaysonlinegames.com/ancient-persia-solitaire.html
 *  JS Response Bytes: 909644
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16341
-
-### Performance issues
-
 
 ### Performance issues
 

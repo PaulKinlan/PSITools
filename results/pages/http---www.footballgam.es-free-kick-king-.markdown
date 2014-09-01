@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/free-kick-king/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Kick King Game](http://www.footballgam.es/free-kick-king/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/free-kick-king/
 *  JS Response Bytes: 2296873
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 157892
-
-### Performance issues
-
 
 ### Performance issues
 

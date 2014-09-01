@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ww38.angrygamezone.com/fifa-2014/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [angrygamezone.com](http://ww38.angrygamezone.com/fifa-2014/)
 
@@ -29,9 +32,6 @@ title: http://ww38.angrygamezone.com/fifa-2014/
 *  JS Response Bytes: 209104
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 223
-
-### Performance issues
-
 
 ### Performance issues
 

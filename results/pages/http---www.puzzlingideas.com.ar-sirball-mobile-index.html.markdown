@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.puzzlingideas.com.ar/sirball/mobile/index.html
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Sir Ball and the Impending Ceiling of Doom](http://www.puzzlingideas.com.ar/sirball/mobile/index.html)
 
@@ -29,9 +31,6 @@ title: http://www.puzzlingideas.com.ar/sirball/mobile/index.html
 *  JS Response Bytes: 573223
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1507
-
-### Performance issues
-
 
 ### Performance issues
 

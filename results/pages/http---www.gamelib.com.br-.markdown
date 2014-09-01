@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamelib.com.br/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [gameLib - O portal de jogos mais completo do Brasil.](http://www.gamelib.com.br/)
 
@@ -29,9 +34,6 @@ title: http://www.gamelib.com.br/
 *  JS Response Bytes: 1234189
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52567
-
-### Performance issues
-
 
 ### Performance issues
 

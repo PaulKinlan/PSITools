@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.earthnewspapers.com/Turkey-Newspapers/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [List of Newspapers in Republic of Turkey](http://www.earthnewspapers.com/Turkey-Newspapers/)
 
@@ -29,9 +35,6 @@ title: http://www.earthnewspapers.com/Turkey-Newspapers/
 *  JS Response Bytes: 989531
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15490
-
-### Performance issues
-
 
 ### Performance issues
 

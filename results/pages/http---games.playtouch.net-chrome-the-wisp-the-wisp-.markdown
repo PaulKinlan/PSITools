@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://games.playtouch.net/chrome/the-wisp/the-wisp/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Wisp](http://games.playtouch.net/chrome/the-wisp/the-wisp/)
 
@@ -29,9 +32,6 @@ title: http://games.playtouch.net/chrome/the-wisp/the-wisp/
 *  JS Response Bytes: 1566944
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1044
-
-### Performance issues
-
 
 ### Performance issues
 

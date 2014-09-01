@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.funny-games.co.uk/?gameid=5427&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=billiards
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funny-games.co.uk/?gameid=5427&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=billiards)
 
@@ -29,9 +33,6 @@ title: http://m.funny-games.co.uk/?gameid=5427&utm_source=cws&utm_medium=app&utm
 *  JS Response Bytes: 1266598
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28388
-
-### Performance issues
-
 
 ### Performance issues
 

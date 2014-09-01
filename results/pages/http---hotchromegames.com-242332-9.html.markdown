@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://hotchromegames.com/242332/9.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HotChromeGames Play » Angry Birds HD](http://hotchromegames.com/242332/9.html)
 
@@ -29,9 +33,6 @@ title: http://hotchromegames.com/242332/9.html
 *  JS Response Bytes: 1858773
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 38222
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gamejungle.tistory.com/m
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [관리 홈 :: 티스토리](http://gamejungle.tistory.com/m)
 
@@ -18,20 +20,17 @@ title: http://gamejungle.tistory.com/m
 *  Number of JS Resources: 18
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 21
-*  Total Request Bytes: 2449
+*  Total Request Bytes: 2453
 
 ### Response data
 
 *  HTML Response Bytes: 10821
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 74028
-*  Image Response Bytes: 5215
-*  JS Response Bytes: 418320
+*  CSS Response Bytes: 74030
+*  Image Response Bytes: 5210
+*  JS Response Bytes: 418309
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 479
-
-### Performance issues
-
 
 ### Performance issues
 

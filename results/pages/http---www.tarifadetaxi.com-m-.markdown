@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.tarifadetaxi.com/m/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Calculador de Tarifa de Táxi](http://www.tarifadetaxi.com/m/)
 
@@ -29,9 +33,6 @@ title: http://www.tarifadetaxi.com/m/
 *  JS Response Bytes: 1029748
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53261
-
-### Performance issues
-
 
 ### Performance issues
 

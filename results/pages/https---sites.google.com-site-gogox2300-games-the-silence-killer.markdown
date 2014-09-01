@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://sites.google.com/site/gogox2300/games/the-silence-killer
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The-silence-killer - Gogox2300](https://sites.google.com/site/gogox2300/games/the-silence-killer)
 
@@ -29,9 +33,6 @@ title: https://sites.google.com/site/gogox2300/games/the-silence-killer
 *  JS Response Bytes: 1108458
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17424
-
-### Performance issues
-
 
 ### Performance issues
 

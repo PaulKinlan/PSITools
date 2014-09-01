@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://apptablaperiodica.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tabla Periódica Interactiva](http://apptablaperiodica.com/)
 
@@ -29,9 +36,6 @@ title: http://apptablaperiodica.com/
 *  JS Response Bytes: 911404
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1660
-
-### Performance issues
-
 
 ### Performance issues
 

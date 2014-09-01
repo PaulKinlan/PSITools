@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://apps.eky.hk/css-triangle-generator/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
 
@@ -29,9 +35,6 @@ title: http://apps.eky.hk/css-triangle-generator/
 *  JS Response Bytes: 1158480
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96246
-
-### Performance issues
-
 
 ### Performance issues
 

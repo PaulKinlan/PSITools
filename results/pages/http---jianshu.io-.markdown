@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://jianshu.io/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [简书](http://jianshu.io/)
 
@@ -29,9 +31,6 @@ title: http://jianshu.io/
 *  JS Response Bytes: 564855
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 311
-
-### Performance issues
-
 
 ### Performance issues
 

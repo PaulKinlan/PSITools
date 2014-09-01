@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.moko.cc/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MOKO!美空 | MOKO.CC 美空-文化艺术产业平台](http://www.moko.cc/)
 
@@ -29,9 +33,6 @@ title: http://www.moko.cc/
 *  JS Response Bytes: 757858
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

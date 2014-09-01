@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://web.samsungchaton.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ChatON | Samsung Content & Services](https://web.samsungchaton.com/)
 
@@ -29,9 +33,6 @@ title: https://web.samsungchaton.com/
 *  JS Response Bytes: 804906
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1650
-
-### Performance issues
-
 
 ### Performance issues
 

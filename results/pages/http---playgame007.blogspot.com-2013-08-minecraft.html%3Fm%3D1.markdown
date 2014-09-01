@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://playgame007.blogspot.com/2013/08/minecraft.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Free online games, casino games, card games, flash games: Minecraft](http://playgame007.blogspot.com/2013/08/minecraft.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://playgame007.blogspot.com/2013/08/minecraft.html?m=1
 *  JS Response Bytes: 992033
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99210
-
-### Performance issues
-
 
 ### Performance issues
 

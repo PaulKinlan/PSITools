@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://hdplaygame.com/?=404;http://hdplaygame.com:80/spiderman-3-rescue-mary-jane/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [hdplaygame.com](http://hdplaygame.com/?=404;http://hdplaygame.com:80/spiderman-3-rescue-mary-jane/&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://hdplaygame.com/?=404;http://hdplaygame.com:80/spiderman-3-rescue-m
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116
-
-### Performance issues
-
 
 ### Performance issues
 

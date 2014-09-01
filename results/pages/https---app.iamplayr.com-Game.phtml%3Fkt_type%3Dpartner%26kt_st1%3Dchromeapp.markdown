@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://app.iamplayr.com/Game.phtml?kt_type=partner&kt_st1=chromeapp
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [I AM PLAYR • We R Interactive](https://app.iamplayr.com/Game.phtml?kt_type=partner&kt_st1=chromeapp)
 
@@ -29,9 +34,6 @@ title: https://app.iamplayr.com/Game.phtml?kt_type=partner&kt_st1=chromeapp
 *  JS Response Bytes: 2042197
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1577
-
-### Performance issues
-
 
 ### Performance issues
 

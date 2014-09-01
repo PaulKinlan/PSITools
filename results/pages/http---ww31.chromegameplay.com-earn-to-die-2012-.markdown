@@ -33,8 +33,5 @@ title: http://ww31.chromegameplay.com/earn-to-die-2012/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

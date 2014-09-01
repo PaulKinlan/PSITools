@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://matchingbagsandshoes.com/?cws=true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bags & Shoes - Find the best bags and shoes to match](http://matchingbagsandshoes.com/?cws=true)
 
@@ -29,9 +31,6 @@ title: http://matchingbagsandshoes.com/?cws=true
 *  JS Response Bytes: 1000237
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 594
-
-### Performance issues
-
 
 ### Performance issues
 

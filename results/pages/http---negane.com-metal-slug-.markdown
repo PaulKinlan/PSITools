@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://negane.com/metal-slug/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://negane.com/metal-slug/)
 
@@ -29,9 +32,6 @@ title: http://negane.com/metal-slug/
 *  JS Response Bytes: 429731
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50112
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ginhub.com/search/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GinHub แนะนำร้านอาหารอร่อย สูตรอาหารทุกสไตล์ search ง่าย หลากหลาย อ่านเพลิน](http://ginhub.com/search/)
 
@@ -29,9 +33,6 @@ title: http://ginhub.com/search/
 *  JS Response Bytes: 924062
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96786
-
-### Performance issues
-
 
 ### Performance issues
 

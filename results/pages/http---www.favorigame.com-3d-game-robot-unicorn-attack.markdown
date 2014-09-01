@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.favorigame.com/3d-game/robot-unicorn-attack
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Favorigame.com](http://www.favorigame.com/3d-game/robot-unicorn-attack)
 
@@ -29,9 +31,6 @@ title: http://www.favorigame.com/3d-game/robot-unicorn-attack
 *  JS Response Bytes: 9100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/physics-cup-3/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Physics Cup 3 Game](http://www.footballgam.es/physics-cup-3/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/physics-cup-3/
 *  JS Response Bytes: 2296852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148863
-
-### Performance issues
-
 
 ### Performance issues
 

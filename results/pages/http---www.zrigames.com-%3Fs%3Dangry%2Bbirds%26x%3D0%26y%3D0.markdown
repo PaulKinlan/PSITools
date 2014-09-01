@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.zrigames.com/?s=angry+birds&x=0&y=0
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [angry birds « Search Results « Best HD Games Play Now](http://www.zrigames.com/?s=angry+birds&x=0&y=0)
 
@@ -29,9 +33,6 @@ title: http://www.zrigames.com/?s=angry+birds&x=0&y=0
 *  JS Response Bytes: 398595
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

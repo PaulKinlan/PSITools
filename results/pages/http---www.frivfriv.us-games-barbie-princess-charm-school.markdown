@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.frivfriv.us/games/barbie-princess-charm-school
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Friv Games](http://www.frivfriv.us/games/barbie-princess-charm-school)
 
@@ -29,9 +32,6 @@ title: http://www.frivfriv.us/games/barbie-princess-charm-school
 *  JS Response Bytes: 1880174
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14445
-
-### Performance issues
-
 
 ### Performance issues
 

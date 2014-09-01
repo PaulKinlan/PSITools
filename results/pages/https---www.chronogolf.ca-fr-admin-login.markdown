@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.chronogolf.ca/fr/admin/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Admin Chronogolf](https://www.chronogolf.ca/fr/admin/login)
 
@@ -29,9 +33,6 @@ title: https://www.chronogolf.ca/fr/admin/login
 *  JS Response Bytes: 1444119
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1236
-
-### Performance issues
-
 
 ### Performance issues
 

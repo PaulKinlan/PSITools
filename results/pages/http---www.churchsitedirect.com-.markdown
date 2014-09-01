@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.churchsitedirect.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Affordable Christian Website Designer - Build It Yourself or Let Us Build It For You](http://www.churchsitedirect.com/)
 
@@ -29,9 +33,6 @@ title: http://www.churchsitedirect.com/
 *  JS Response Bytes: 171338
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1752
-
-### Performance issues
-
 
 ### Performance issues
 

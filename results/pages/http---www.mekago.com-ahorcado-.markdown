@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mekago.com/ahorcado/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.mekago.com/ahorcado/)
 
@@ -29,9 +32,6 @@ title: http://www.mekago.com/ahorcado/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

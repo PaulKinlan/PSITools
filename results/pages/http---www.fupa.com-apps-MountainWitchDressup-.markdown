@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/MountainWitchDressup/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Mountain Witch Dressup](http://www.fupa.com/apps/MountainWitchDressup/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/MountainWitchDressup/
 *  JS Response Bytes: 10488
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

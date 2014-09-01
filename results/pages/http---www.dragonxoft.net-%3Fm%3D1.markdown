@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.dragonxoft.net/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [DragonXoft](http://www.dragonxoft.net/?m=1)
 
@@ -29,9 +32,6 @@ title: http://www.dragonxoft.net/?m=1
 *  JS Response Bytes: 803158
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1152
-
-### Performance issues
-
 
 ### Performance issues
 

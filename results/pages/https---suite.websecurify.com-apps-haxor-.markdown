@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://suite.websecurify.com/apps/haxor/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
 ---
 ## [Haxor](https://suite.websecurify.com/apps/haxor/)
 
@@ -29,9 +33,6 @@ title: https://suite.websecurify.com/apps/haxor/
 *  JS Response Bytes: 431912
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1050
-
-### Performance issues
-
 
 ### Performance issues
 

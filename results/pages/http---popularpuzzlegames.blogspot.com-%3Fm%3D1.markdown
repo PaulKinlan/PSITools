@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://popularpuzzlegames.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Popular Puzzle Games](http://popularpuzzlegames.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://popularpuzzlegames.blogspot.com/?m=1
 *  JS Response Bytes: 248929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 575
-
-### Performance issues
-
 
 ### Performance issues
 

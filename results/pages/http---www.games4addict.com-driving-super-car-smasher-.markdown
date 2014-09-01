@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.games4addict.com/driving/super-car-smasher/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super car smasher | Games 4 Addict](http://www.games4addict.com/driving/super-car-smasher/)
 
@@ -29,9 +35,6 @@ title: http://www.games4addict.com/driving/super-car-smasher/
 *  JS Response Bytes: 1197234
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 164572
-
-### Performance issues
-
 
 ### Performance issues
 

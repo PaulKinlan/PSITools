@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://ateb.cambria.ac.uk/
+UseLegibleFontSizes: true
 ---
 ## [](https://ateb.cambria.ac.uk/)
 
@@ -29,9 +30,6 @@ title: https://ateb.cambria.ac.uk/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 627
-
-### Performance issues
-
 
 ### Performance issues
 

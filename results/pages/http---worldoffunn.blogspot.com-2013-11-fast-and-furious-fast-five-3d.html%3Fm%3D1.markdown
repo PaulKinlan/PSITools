@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://worldoffunn.blogspot.com/2013/11/fast-and-furious-fast-five-3d.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [World Of Fun: Fast And Furious Fast Five 3D](http://worldoffunn.blogspot.com/2013/11/fast-and-furious-fast-five-3d.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://worldoffunn.blogspot.com/2013/11/fast-and-furious-fast-five-3d.htm
 *  JS Response Bytes: 1375494
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109988
-
-### Performance issues
-
 
 ### Performance issues
 

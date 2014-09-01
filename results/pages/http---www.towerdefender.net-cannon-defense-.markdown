@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.towerdefender.net/cannon-defense/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cannon Defense](http://www.towerdefender.net/cannon-defense/)
 
@@ -29,9 +36,6 @@ title: http://www.towerdefender.net/cannon-defense/
 *  JS Response Bytes: 2564400
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148808
-
-### Performance issues
-
 
 ### Performance issues
 

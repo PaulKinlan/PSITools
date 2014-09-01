@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://remote.vuze.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Vuze Remote](http://remote.vuze.com/)
 
@@ -29,9 +35,6 @@ title: http://remote.vuze.com/
 *  JS Response Bytes: 248432
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 604
-
-### Performance issues
-
 
 ### Performance issues
 

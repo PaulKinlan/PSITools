@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.jobisez.com/services/tools/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [EDI Online Tools](http://www.jobisez.com/services/tools/)
 
@@ -29,9 +34,6 @@ title: http://www.jobisez.com/services/tools/
 *  JS Response Bytes: 942198
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110598
-
-### Performance issues
-
 
 ### Performance issues
 

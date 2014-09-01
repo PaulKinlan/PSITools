@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.cranberrygame.com/export/html5website/readinglaser/www/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Reading Laser](http://www.cranberrygame.com/export/html5website/readinglaser/www/)
 
@@ -29,9 +32,6 @@ title: http://www.cranberrygame.com/export/html5website/readinglaser/www/
 *  JS Response Bytes: 335646
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109945
-
-### Performance issues
-
 
 ### Performance issues
 

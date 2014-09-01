@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://liquidbible.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [LiquidBible.com | A Bible Study Tool for the rest of us!](http://liquidbible.com/)
 
@@ -29,9 +34,6 @@ title: http://liquidbible.com/
 *  JS Response Bytes: 545725
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42826
-
-### Performance issues
-
 
 ### Performance issues
 

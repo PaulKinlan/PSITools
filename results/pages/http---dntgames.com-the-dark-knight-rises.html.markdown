@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://dntgames.com/the-dark-knight-rises.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DNTgames.Com | Flash Game Center | Flash Games. – The Dark Knight Rises](http://dntgames.com/the-dark-knight-rises.html)
 
@@ -29,9 +36,6 @@ title: http://dntgames.com/the-dark-knight-rises.html
 *  JS Response Bytes: 417496
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 811
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mygamesapps.com/sub_sports_hot/sub201378800802.html#.U_uar00ieKA
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [7th Inning Smash_mygamesapps](http://www.mygamesapps.com/sub_sports_hot/sub201378800802.html#.U_uar00ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.mygamesapps.com/sub_sports_hot/sub201378800802.html#.U_uar00ie
 *  JS Response Bytes: 891157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8833
-
-### Performance issues
-
 
 ### Performance issues
 

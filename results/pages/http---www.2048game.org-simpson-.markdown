@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.2048game.org/simpson/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Simpsons 2048 Game Online](http://www.2048game.org/simpson/)
 
@@ -29,9 +35,6 @@ title: http://www.2048game.org/simpson/
 *  JS Response Bytes: 462291
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16341
-
-### Performance issues
-
 
 ### Performance issues
 

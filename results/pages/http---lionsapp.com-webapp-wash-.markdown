@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://lionsapp.com/webapp/wash/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LionsApp | Web App [Wash]](http://lionsapp.com/webapp/wash/)
 
@@ -29,9 +33,6 @@ title: http://lionsapp.com/webapp/wash/
 *  JS Response Bytes: 1598466
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111919
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.sinonimi-contrari.it/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sinonimi - Contrari](http://www.sinonimi-contrari.it/)
 
@@ -29,9 +33,6 @@ title: http://www.sinonimi-contrari.it/
 *  JS Response Bytes: 1568964
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 72733
-
-### Performance issues
-
 
 ### Performance issues
 

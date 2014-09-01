@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://letsmakeagame.com/chromesplash
+UseLegibleFontSizes: true
 ---
 ## [404 Page Not Found](http://letsmakeagame.com/chromesplash)
 
@@ -29,9 +30,6 @@ title: http://letsmakeagame.com/chromesplash
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1341
-
-### Performance issues
-
 
 ### Performance issues
 

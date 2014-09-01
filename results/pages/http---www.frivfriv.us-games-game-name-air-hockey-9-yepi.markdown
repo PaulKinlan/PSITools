@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.frivfriv.us/games/game/name/air-hockey-9/yepi
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [air-hockey-9 Friv Games](http://www.frivfriv.us/games/game/name/air-hockey-9/yepi)
 
@@ -29,9 +33,6 @@ title: http://www.frivfriv.us/games/game/name/air-hockey-9/yepi
 *  JS Response Bytes: 1717945
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111601
-
-### Performance issues
-
 
 ### Performance issues
 

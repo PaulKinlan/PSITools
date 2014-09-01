@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://einkaufsfuehrer.pcwelt.de/toplisten/
+UseLegibleFontSizes: true
 ---
 ## [](http://einkaufsfuehrer.pcwelt.de/toplisten/)
 
@@ -29,9 +30,6 @@ title: http://einkaufsfuehrer.pcwelt.de/toplisten/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 211
-
-### Performance issues
-
 
 ### Performance issues
 

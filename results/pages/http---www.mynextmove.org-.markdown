@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mynextmove.org/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [My Next Move](http://www.mynextmove.org/)
 
@@ -29,9 +32,6 @@ title: http://www.mynextmove.org/
 *  JS Response Bytes: 149703
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

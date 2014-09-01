@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://answers.yahoo.com/#tab=RECENT
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Yahoo Answers](https://answers.yahoo.com/#tab=RECENT)
 
@@ -29,9 +32,6 @@ title: https://answers.yahoo.com/#tab=RECENT
 *  JS Response Bytes: 503329
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1727
-
-### Performance issues
-
 
 ### Performance issues
 

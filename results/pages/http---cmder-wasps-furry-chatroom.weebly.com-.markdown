@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://cmder-wasps-furry-chatroom.weebly.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Cmder_Wasp's Furry Chatroom - Welcome To The Chatroom!](http://cmder-wasps-furry-chatroom.weebly.com/)
 
@@ -29,9 +33,6 @@ title: http://cmder-wasps-furry-chatroom.weebly.com/
 *  JS Response Bytes: 2134715
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 215602
-
-### Performance issues
-
 
 ### Performance issues
 

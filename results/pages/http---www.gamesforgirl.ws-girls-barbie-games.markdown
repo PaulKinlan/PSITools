@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamesforgirl.ws/girls/barbie-games
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Barbie | Games For Girl, Girl Games, Girls Go Games, Game](http://www.gamesforgirl.ws/girls/barbie-games)
 
@@ -29,9 +33,6 @@ title: http://www.gamesforgirl.ws/girls/barbie-games
 *  JS Response Bytes: 118804
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 281
-
-### Performance issues
-
 
 ### Performance issues
 

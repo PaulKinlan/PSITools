@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.origamiplayer.com/origami_ch_jp.php
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [おりがみプレーヤー - 3d Graphics](http://www.origamiplayer.com/origami_ch_jp.php)
 
@@ -29,9 +34,6 @@ title: http://www.origamiplayer.com/origami_ch_jp.php
 *  JS Response Bytes: 864120
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95621
-
-### Performance issues
-
 
 ### Performance issues
 

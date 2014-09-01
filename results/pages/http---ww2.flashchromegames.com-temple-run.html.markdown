@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.flashchromegames.com/temple-run.html
+SizeTapTargetsAppropriately: true
 ---
 ## [flashchromegames.com](http://ww2.flashchromegames.com/temple-run.html)
 
@@ -29,9 +30,6 @@ title: http://ww2.flashchromegames.com/temple-run.html
 *  JS Response Bytes: 229840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21044
-
-### Performance issues
-
 
 ### Performance issues
 

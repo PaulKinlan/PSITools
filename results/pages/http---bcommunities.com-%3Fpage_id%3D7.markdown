@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://bcommunities.com/?page_id=7
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [sign up form | Secure B2B Collaborative Work](http://bcommunities.com/?page_id=7)
 
@@ -29,9 +33,6 @@ title: http://bcommunities.com/?page_id=7
 *  JS Response Bytes: 981882
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3298
-
-### Performance issues
-
 
 ### Performance issues
 

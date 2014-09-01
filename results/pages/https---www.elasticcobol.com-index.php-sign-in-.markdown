@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.elasticcobol.com/index.php/sign-in/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Portal - Elastic COBOL from Heirloom Computing](https://www.elasticcobol.com/index.php/sign-in/)
 
@@ -29,9 +32,6 @@ title: https://www.elasticcobol.com/index.php/sign-in/
 *  JS Response Bytes: 3070572
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 134961
-
-### Performance issues
-
 
 ### Performance issues
 

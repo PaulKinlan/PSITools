@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.sitecondor.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SiteCondor | The site analysis tool for digital marketing experts](https://www.sitecondor.com/)
 
@@ -29,9 +32,6 @@ title: https://www.sitecondor.com/
 *  JS Response Bytes: 303738
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 85465
-
-### Performance issues
-
 
 ### Performance issues
 

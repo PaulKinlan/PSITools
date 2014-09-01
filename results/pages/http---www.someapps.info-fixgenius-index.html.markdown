@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.someapps.info/fixgenius/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Windows Boot Genius – Windows Bootable Disk (CD/DVD/USB)](http://www.someapps.info/fixgenius/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.someapps.info/fixgenius/index.html
 *  JS Response Bytes: 1011126
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112293
-
-### Performance issues
-
 
 ### Performance issues
 

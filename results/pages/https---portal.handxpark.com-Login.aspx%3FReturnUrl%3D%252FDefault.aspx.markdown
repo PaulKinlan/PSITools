@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://portal.handxpark.com/Login.aspx?ReturnUrl=%2FDefault.aspx
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [You are not authorized to view this page](https://portal.handxpark.com/Login.aspx?ReturnUrl=%2FDefault.aspx)
 
@@ -29,9 +31,6 @@ title: https://portal.handxpark.com/Login.aspx?ReturnUrl=%2FDefault.aspx
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1780
-
-### Performance issues
-
 
 ### Performance issues
 

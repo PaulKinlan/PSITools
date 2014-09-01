@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.shoppersbase.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shoppersbase - Your Consumer Information Portal](http://www.shoppersbase.com/)
 
@@ -29,9 +32,6 @@ title: http://www.shoppersbase.com/
 *  JS Response Bytes: 556760
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

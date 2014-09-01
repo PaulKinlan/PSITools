@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/sonic-snowboarding/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sonic Snowboarding game](http://www.skateboarding-games.biz/sonic-snowboarding/)
 
@@ -29,9 +36,6 @@ title: http://www.skateboarding-games.biz/sonic-snowboarding/
 *  JS Response Bytes: 2123572
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 139230
-
-### Performance issues
-
 
 ### Performance issues
 

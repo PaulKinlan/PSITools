@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://dmoviesch.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Download Movies](http://dmoviesch.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://dmoviesch.blogspot.com/?m=1
 *  JS Response Bytes: 1603222
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98251
-
-### Performance issues
-
 
 ### Performance issues
 

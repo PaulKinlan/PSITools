@@ -1,6 +1,13 @@
 ---
 layout: result
 title: https://castingwords.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Audio Transcription Services: MP3s, Video and more... CastingWords](https://castingwords.com/)
 
@@ -29,9 +36,6 @@ title: https://castingwords.com/
 *  JS Response Bytes: 914716
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2126
-
-### Performance issues
-
 
 ### Performance issues
 

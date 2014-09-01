@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://app.apps-builder.com//494001#bmb=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [DramaResource](http://app.apps-builder.com//494001#bmb=1)
 
@@ -29,9 +32,6 @@ title: http://app.apps-builder.com//494001#bmb=1
 *  JS Response Bytes: 1118012
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8103
-
-### Performance issues
-
 
 ### Performance issues
 

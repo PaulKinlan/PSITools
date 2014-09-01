@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.pesquisabenspenhorados.com/leiloes-vendas-financas/default.aspx
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Leilões Finanças (Difero)](http://www.pesquisabenspenhorados.com/leiloes-vendas-financas/default.aspx)
 
@@ -29,9 +32,6 @@ title: http://www.pesquisabenspenhorados.com/leiloes-vendas-financas/default.asp
 *  JS Response Bytes: 1534058
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31129
-
-### Performance issues
-
 
 ### Performance issues
 

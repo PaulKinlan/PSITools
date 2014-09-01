@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://thesims-online-game.blogspot.com.tr/2014/04/fruit-ninja.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [the sims online game: Fruit Ninja](http://thesims-online-game.blogspot.com.tr/2014/04/fruit-ninja.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://thesims-online-game.blogspot.com.tr/2014/04/fruit-ninja.html?m=1
 *  JS Response Bytes: 971630
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287169
-
-### Performance issues
-
 
 ### Performance issues
 

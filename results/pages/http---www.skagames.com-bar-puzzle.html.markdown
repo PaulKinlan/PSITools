@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.skagames.com/bar-puzzle.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404 - Error: 404](http://www.skagames.com/bar-puzzle.html)
 
@@ -29,9 +32,6 @@ title: http://www.skagames.com/bar-puzzle.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1954
-
-### Performance issues
-
 
 ### Performance issues
 

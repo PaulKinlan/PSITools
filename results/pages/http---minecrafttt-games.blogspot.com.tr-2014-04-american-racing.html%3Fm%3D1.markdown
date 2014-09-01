@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://minecrafttt-games.blogspot.com.tr/2014/04/american-racing.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [minecraft game: American Racing](http://minecrafttt-games.blogspot.com.tr/2014/04/american-racing.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://minecrafttt-games.blogspot.com.tr/2014/04/american-racing.html?m=1
 *  JS Response Bytes: 971684
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287173
-
-### Performance issues
-
 
 ### Performance issues
 

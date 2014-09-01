@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.kabam.com/mobile?redirect_url=https%3A%2F%2Fwww.kabam.com%2Fgames%2Fkingdoms-of-camelot%2Fchrome-play%3Fentrypt%3Dkoc-gcs-z-z-z-z
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Kabam | Play free online strategy games](https://www.kabam.com/mobile?redirect_url=https%3A%2F%2Fwww.kabam.com%2Fgames%2Fkingdoms-of-camelot%2Fchrome-play%3Fentrypt%3Dkoc-gcs-z-z-z-z)
 
@@ -29,9 +31,6 @@ title: https://www.kabam.com/mobile?redirect_url=https%3A%2F%2Fwww.kabam.com%2Fg
 *  JS Response Bytes: 289430
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7698
-
-### Performance issues
-
 
 ### Performance issues
 

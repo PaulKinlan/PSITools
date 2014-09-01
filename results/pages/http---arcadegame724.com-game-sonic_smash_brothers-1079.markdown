@@ -33,8 +33,5 @@ title: http://arcadegame724.com/game/sonic_smash_brothers-1079
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

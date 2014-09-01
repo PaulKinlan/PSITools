@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.offertaviaggi.net/sun/solarflux.htm
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Solar Flux Index - Indice di Flusso Solare](http://www.offertaviaggi.net/sun/solarflux.htm)
 
@@ -29,9 +32,6 @@ title: http://www.offertaviaggi.net/sun/solarflux.htm
 *  JS Response Bytes: 596908
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22845
-
-### Performance issues
-
 
 ### Performance issues
 

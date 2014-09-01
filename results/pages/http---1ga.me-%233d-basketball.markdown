@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://1ga.me/#3d-basketball
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [1GA.ME Just Perfect Games 1game](http://1ga.me/#3d-basketball)
 
@@ -29,9 +32,6 @@ title: http://1ga.me/#3d-basketball
 *  JS Response Bytes: 798179
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16799
-
-### Performance issues
-
 
 ### Performance issues
 

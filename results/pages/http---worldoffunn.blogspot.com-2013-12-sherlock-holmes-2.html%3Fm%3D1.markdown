@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://worldoffunn.blogspot.com/2013/12/sherlock-holmes-2.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [World Of Fun: Sherlock Holmes 2](http://worldoffunn.blogspot.com/2013/12/sherlock-holmes-2.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://worldoffunn.blogspot.com/2013/12/sherlock-holmes-2.html?m=1
 *  JS Response Bytes: 1747895
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114972
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://test-bastion-2.appspot.com/serve/run/index.html
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://test-bastion-2.appspot.com/serve/run/index.html)
 
@@ -29,9 +30,6 @@ title: http://test-bastion-2.appspot.com/serve/run/index.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 454
-
-### Performance issues
-
 
 ### Performance issues
 

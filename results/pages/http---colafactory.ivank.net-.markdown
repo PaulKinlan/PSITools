@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://colafactory.ivank.net/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cola Factory](http://colafactory.ivank.net/)
 
@@ -29,9 +32,6 @@ title: http://colafactory.ivank.net/
 *  JS Response Bytes: 1239975
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 161015
-
-### Performance issues
-
 
 ### Performance issues
 

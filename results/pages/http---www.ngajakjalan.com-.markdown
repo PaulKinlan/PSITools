@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ngajakjalan.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ngajak Jalan](http://www.ngajakjalan.com/)
 
@@ -29,9 +32,6 @@ title: http://www.ngajakjalan.com/
 *  JS Response Bytes: 366481
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25131
-
-### Performance issues
-
 
 ### Performance issues
 

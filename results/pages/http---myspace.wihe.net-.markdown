@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://myspace.wihe.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Social media. StartUps. Negocios - Webespacio](http://myspace.wihe.net/)
 
@@ -29,9 +36,6 @@ title: http://myspace.wihe.net/
 *  JS Response Bytes: 2393995
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 312893
-
-### Performance issues
-
 
 ### Performance issues
 

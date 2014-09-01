@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://windows7bg.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Windows 7 Bulgaria](http://windows7bg.com/)
 
@@ -29,9 +30,6 @@ title: http://windows7bg.com/
 *  JS Response Bytes: 346205
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

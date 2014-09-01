@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/christmas/xmas-shooting.html#.U_d5-U0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Xmas Shooting on Gamesk12.com Play for free](http://www.gamesk12.com/online/christmas/xmas-shooting.html#.U_d5-U0ieKA)
 
@@ -29,9 +36,6 @@ title: http://www.gamesk12.com/online/christmas/xmas-shooting.html#.U_d5-U0ieKA
 *  JS Response Bytes: 1869506
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121055
-
-### Performance issues
-
 
 ### Performance issues
 

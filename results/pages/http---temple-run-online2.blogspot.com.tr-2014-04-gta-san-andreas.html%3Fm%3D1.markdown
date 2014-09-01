@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://temple-run-online2.blogspot.com.tr/2014/04/gta-san-andreas.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [temple run hd: gta san andreas](http://temple-run-online2.blogspot.com.tr/2014/04/gta-san-andreas.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://temple-run-online2.blogspot.com.tr/2014/04/gta-san-andreas.html?m=
 *  JS Response Bytes: 1149154
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99259
-
-### Performance issues
-
 
 ### Performance issues
 

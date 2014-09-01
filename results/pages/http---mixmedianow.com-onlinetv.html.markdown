@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://mixmedianow.com/onlinetv.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online TV || Watch online TV](http://mixmedianow.com/onlinetv.html)
 
@@ -29,9 +36,6 @@ title: http://mixmedianow.com/onlinetv.html
 *  JS Response Bytes: 361286
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3586
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://easy.co.il/
+SizeTapTargetsAppropriately: true
 ---
 ## [easy.co.il - הכל סביבך - איזי](http://easy.co.il/)
 
@@ -29,9 +30,6 @@ title: http://easy.co.il/
 *  JS Response Bytes: 801369
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

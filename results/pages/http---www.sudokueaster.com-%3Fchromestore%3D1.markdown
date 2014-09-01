@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sudokueaster.com/?chromestore=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Easter Sudoku](http://www.sudokueaster.com/?chromestore=1)
 
@@ -29,9 +34,6 @@ title: http://www.sudokueaster.com/?chromestore=1
 *  JS Response Bytes: 206831
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27540
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://my.fastbill.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FastBill](https://my.fastbill.com/)
 
@@ -29,9 +33,6 @@ title: https://my.fastbill.com/
 *  JS Response Bytes: 865811
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.miniportale.it/app_it/milan/index.htm
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.miniportale.it/app_it/milan/index.htm)
 
@@ -29,9 +34,6 @@ title: http://www.miniportale.it/app_it/milan/index.htm
 *  JS Response Bytes: 1664144
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29044
-
-### Performance issues
-
 
 ### Performance issues
 

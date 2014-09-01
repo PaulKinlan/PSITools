@@ -33,8 +33,5 @@ title: http://caoyue.sinaapp.com/base64.html
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

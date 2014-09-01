@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://reefbuilders.com/?utm_medium=chrome&utm_source=app
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Reef Builders](http://reefbuilders.com/?utm_medium=chrome&utm_source=app)
 
@@ -29,9 +31,6 @@ title: http://reefbuilders.com/?utm_medium=chrome&utm_source=app
 *  JS Response Bytes: 309570
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54615
-
-### Performance issues
-
 
 ### Performance issues
 

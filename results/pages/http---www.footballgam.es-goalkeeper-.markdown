@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/goalkeeper/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Goalkeeper Game](http://www.footballgam.es/goalkeeper/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/goalkeeper/
 *  JS Response Bytes: 2296891
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 157900
-
-### Performance issues
-
 
 ### Performance issues
 

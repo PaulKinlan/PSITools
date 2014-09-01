@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://v.adsame.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dolphin Vertical登陆](http://v.adsame.com/)
 
@@ -29,9 +34,6 @@ title: http://v.adsame.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/action/gangsta-bean-2-2
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gangsta Bean 2 - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/action/gangsta-bean-2-2)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/action/gangsta-bean-2-2
 *  JS Response Bytes: 2180927
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106385
-
-### Performance issues
-
 
 ### Performance issues
 

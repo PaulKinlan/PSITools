@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.samstore.info/batchlimageconverter/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Magic Image Converter - Photo Converter App](http://www.samstore.info/batchlimageconverter/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.samstore.info/batchlimageconverter/index.html
 *  JS Response Bytes: 398008
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

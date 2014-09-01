@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.flashgirlsgame.com/index.php?task=view&id=158
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sugared Jelly Candies - Flash Girls Game](http://www.flashgirlsgame.com/index.php?task=view&id=158)
 
@@ -29,9 +33,6 @@ title: http://www.flashgirlsgame.com/index.php?task=view&id=158
 *  JS Response Bytes: 1087175
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28484
-
-### Performance issues
-
 
 ### Performance issues
 

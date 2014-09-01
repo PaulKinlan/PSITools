@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://stormz.me/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Stormz - Stormz - Workshop Facilitation Solution](https://stormz.me/)
 
@@ -29,9 +31,6 @@ title: https://stormz.me/
 *  JS Response Bytes: 619771
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 76256
-
-### Performance issues
-
 
 ### Performance issues
 

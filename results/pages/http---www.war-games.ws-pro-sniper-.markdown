@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/pro-sniper/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pro Sniper](http://www.war-games.ws/pro-sniper/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/pro-sniper/
 *  JS Response Bytes: 2292975
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121062
-
-### Performance issues
-
 
 ### Performance issues
 

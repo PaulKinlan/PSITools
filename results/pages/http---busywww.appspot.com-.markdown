@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://busywww.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Busy WWW - Camera Remote](http://busywww.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://busywww.appspot.com/
 *  JS Response Bytes: 1567809
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 301245
-
-### Performance issues
-
 
 ### Performance issues
 

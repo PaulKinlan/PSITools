@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.desl.co.at/php/mainlogin.php
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [desl.co.at](http://www.desl.co.at/php/mainlogin.php)
 
@@ -29,9 +34,6 @@ title: http://www.desl.co.at/php/mainlogin.php
 *  JS Response Bytes: 717689
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 169761
-
-### Performance issues
-
 
 ### Performance issues
 

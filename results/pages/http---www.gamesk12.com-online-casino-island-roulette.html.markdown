@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/casino/island-roulette.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Island Roulette Play Island Roulette on Gamesk12.com Free Online Games](http://www.gamesk12.com/online/casino/island-roulette.html)
 
@@ -29,9 +36,6 @@ title: http://www.gamesk12.com/online/casino/island-roulette.html
 *  JS Response Bytes: 1844610
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100692
-
-### Performance issues
-
 
 ### Performance issues
 

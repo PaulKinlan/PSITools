@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.czngames.com/subway-surfers-flash.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Subway Surfers Flash Games](http://www.czngames.com/subway-surfers-flash.html)
 
@@ -29,9 +35,6 @@ title: http://www.czngames.com/subway-surfers-flash.html
 *  JS Response Bytes: 526372
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 592
-
-### Performance issues
-
 
 ### Performance issues
 

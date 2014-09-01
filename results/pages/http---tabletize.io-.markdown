@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://tabletize.io/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Tabletize](http://tabletize.io/)
 
@@ -29,9 +32,6 @@ title: http://tabletize.io/
 *  JS Response Bytes: 2579028
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

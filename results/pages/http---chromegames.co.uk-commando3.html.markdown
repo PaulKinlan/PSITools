@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromegames.co.uk/commando3.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Commando 3](http://chromegames.co.uk/commando3.html)
 
@@ -29,9 +32,6 @@ title: http://chromegames.co.uk/commando3.html
 *  JS Response Bytes: 2193171
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 133453
-
-### Performance issues
-
 
 ### Performance issues
 

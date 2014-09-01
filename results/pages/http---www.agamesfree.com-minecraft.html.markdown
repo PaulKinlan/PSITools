@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.agamesfree.com/minecraft.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MineCraft | A Games Free](http://www.agamesfree.com/minecraft.html)
 
@@ -29,9 +34,6 @@ title: http://www.agamesfree.com/minecraft.html
 *  JS Response Bytes: 1529259
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109835
-
-### Performance issues
-
 
 ### Performance issues
 

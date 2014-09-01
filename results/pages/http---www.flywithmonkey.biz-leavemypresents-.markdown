@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.flywithmonkey.biz/leavemypresents/
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [](http://www.flywithmonkey.biz/leavemypresents/)
 
@@ -29,9 +31,6 @@ title: http://www.flywithmonkey.biz/leavemypresents/
 *  JS Response Bytes: 383222
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22860
-
-### Performance issues
-
 
 ### Performance issues
 

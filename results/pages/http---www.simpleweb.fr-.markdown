@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.simpleweb.fr/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SimpleWeb.fr - Simplifions l'internet](http://www.simpleweb.fr/)
 
@@ -29,9 +33,6 @@ title: http://www.simpleweb.fr/
 *  JS Response Bytes: 357999
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

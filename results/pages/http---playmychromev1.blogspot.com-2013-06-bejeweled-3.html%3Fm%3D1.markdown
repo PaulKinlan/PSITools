@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://playmychromev1.blogspot.com/2013/06/bejeweled-3.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Play My Chrome v1: Bejeweled 3](http://playmychromev1.blogspot.com/2013/06/bejeweled-3.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://playmychromev1.blogspot.com/2013/06/bejeweled-3.html?m=1
 *  JS Response Bytes: 1067832
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97984
-
-### Performance issues
-
 
 ### Performance issues
 

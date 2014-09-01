@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://cloudwork.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Cloud Business App Integrations - CloudWork](https://cloudwork.com/)
 
@@ -29,9 +32,6 @@ title: https://cloudwork.com/
 *  JS Response Bytes: 737969
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

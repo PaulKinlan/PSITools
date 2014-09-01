@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.solveforce.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SolveForce Telecom Providers, Ethernet Fiber Bandwidth, Dark Fibre, T1 Lines, T3 Internet & ISPs](http://www.solveforce.com/)
 
@@ -29,9 +33,6 @@ title: http://www.solveforce.com/
 *  JS Response Bytes: 1190028
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14369
-
-### Performance issues
-
 
 ### Performance issues
 

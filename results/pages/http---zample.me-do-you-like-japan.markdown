@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://zample.me/do-you-like-japan
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Do you like Japan? | asked on ZAMPLE+me](http://zample.me/do-you-like-japan)
 
@@ -29,9 +34,6 @@ title: http://zample.me/do-you-like-japan
 *  JS Response Bytes: 1478340
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96645
-
-### Performance issues
-
 
 ### Performance issues
 

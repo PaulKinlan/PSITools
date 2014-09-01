@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamehitzone.com/download-free-games/zombie-apocalypse-shooter/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombie Apocalypse Shooter Free Game Downloads](http://www.gamehitzone.com/download-free-games/zombie-apocalypse-shooter/)
 
@@ -29,9 +34,6 @@ title: http://www.gamehitzone.com/download-free-games/zombie-apocalypse-shooter/
 *  JS Response Bytes: 1776027
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105246
-
-### Performance issues
-
 
 ### Performance issues
 

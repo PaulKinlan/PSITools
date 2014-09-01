@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.batanga.com/?ext=chromeapp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Música Gratis y Entretenimiento - Batanga](http://www.batanga.com/?ext=chromeapp)
 
@@ -29,9 +33,6 @@ title: http://www.batanga.com/?ext=chromeapp
 *  JS Response Bytes: 671053
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 66972
-
-### Performance issues
-
 
 ### Performance issues
 

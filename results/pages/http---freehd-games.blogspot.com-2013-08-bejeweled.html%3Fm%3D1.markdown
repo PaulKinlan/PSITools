@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://freehd-games.blogspot.com/2013/08/bejeweled.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Free online web games: Bejeweled](http://freehd-games.blogspot.com/2013/08/bejeweled.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://freehd-games.blogspot.com/2013/08/bejeweled.html?m=1
 *  JS Response Bytes: 720928
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95575
-
-### Performance issues
-
 
 ### Performance issues
 

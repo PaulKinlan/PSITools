@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesbrigade.com/play/xform.super-hammer
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GamesBrigade.com | The best action games!](http://www.gamesbrigade.com/play/xform.super-hammer)
 
@@ -29,9 +35,6 @@ title: http://www.gamesbrigade.com/play/xform.super-hammer
 *  JS Response Bytes: 2403183
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 304426
-
-### Performance issues
-
 
 ### Performance issues
 

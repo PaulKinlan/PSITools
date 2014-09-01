@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://saga.yipeegame.com/chrome/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Server List - Saga of Hero](http://saga.yipeegame.com/chrome/index.html)
 
@@ -29,9 +34,6 @@ title: http://saga.yipeegame.com/chrome/index.html
 *  JS Response Bytes: 192619
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

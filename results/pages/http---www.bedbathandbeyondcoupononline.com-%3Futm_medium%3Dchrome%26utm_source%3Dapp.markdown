@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.bedbathandbeyondcoupononline.com/?utm_medium=chrome&utm_source=app
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bed Bath And Beyond Coupons - 20% off Printable Coupon 2014 –](http://www.bedbathandbeyondcoupononline.com/?utm_medium=chrome&utm_source=app)
 
@@ -29,9 +32,6 @@ title: http://www.bedbathandbeyondcoupononline.com/?utm_medium=chrome&utm_source
 *  JS Response Bytes: 1141498
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 93443
-
-### Performance issues
-
 
 ### Performance issues
 

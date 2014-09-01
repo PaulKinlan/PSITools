@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://music-player.co/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Music Player](http://music-player.co/)
 
@@ -29,9 +33,6 @@ title: http://music-player.co/
 *  JS Response Bytes: 1950273
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112684
-
-### Performance issues
-
 
 ### Performance issues
 

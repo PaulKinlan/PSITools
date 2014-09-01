@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://flashonlinefreegames.blogspot.com/2013/08/bad-boys-2.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Online free games, card games, casino games, flash games: Bad Boys 2](http://flashonlinefreegames.blogspot.com/2013/08/bad-boys-2.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://flashonlinefreegames.blogspot.com/2013/08/bad-boys-2.html?m=1
 *  JS Response Bytes: 1149905
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102870
-
-### Performance issues
-
 
 ### Performance issues
 

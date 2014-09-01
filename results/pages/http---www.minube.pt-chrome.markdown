@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.minube.pt/chrome
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [O seu site de viagens e turismo](http://www.minube.pt/chrome)
 
@@ -29,9 +33,6 @@ title: http://www.minube.pt/chrome
 *  JS Response Bytes: 1119889
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96368
-
-### Performance issues
-
 
 ### Performance issues
 

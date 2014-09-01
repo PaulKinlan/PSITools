@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.uaialternativa.com/games/super_pixel_world/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Unity Web Player | Super Pixel World](http://www.uaialternativa.com/games/super_pixel_world/)
 
@@ -29,9 +32,6 @@ title: http://www.uaialternativa.com/games/super_pixel_world/
 *  JS Response Bytes: 189421
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

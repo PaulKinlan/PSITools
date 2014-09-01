@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://whatismyipo.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [What Is My IP Address? What Is An IPO?](http://whatismyipo.com/)
 
@@ -29,9 +32,6 @@ title: http://whatismyipo.com/
 *  JS Response Bytes: 799377
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17008
-
-### Performance issues
-
 
 ### Performance issues
 

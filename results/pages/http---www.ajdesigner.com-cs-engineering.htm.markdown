@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ajdesigner.com/cs/engineering.htm
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Math Science Engineering Calculators](http://www.ajdesigner.com/cs/engineering.htm)
 
@@ -29,9 +33,6 @@ title: http://www.ajdesigner.com/cs/engineering.htm
 *  JS Response Bytes: 432647
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

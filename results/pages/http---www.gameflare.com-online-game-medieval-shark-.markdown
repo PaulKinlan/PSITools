@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gameflare.com/online-game/medieval-shark/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Medieval Shark - online game | GameFlare.com](http://www.gameflare.com/online-game/medieval-shark/)
 
@@ -29,9 +35,6 @@ title: http://www.gameflare.com/online-game/medieval-shark/
 *  JS Response Bytes: 2027523
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 303633
-
-### Performance issues
-
 
 ### Performance issues
 

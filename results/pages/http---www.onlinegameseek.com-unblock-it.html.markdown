@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.onlinegameseek.com/unblock-it.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Unblock It | Online Game Seek](http://www.onlinegameseek.com/unblock-it.html)
 
@@ -29,9 +34,6 @@ title: http://www.onlinegameseek.com/unblock-it.html
 *  JS Response Bytes: 2075018
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119393
-
-### Performance issues
-
 
 ### Performance issues
 

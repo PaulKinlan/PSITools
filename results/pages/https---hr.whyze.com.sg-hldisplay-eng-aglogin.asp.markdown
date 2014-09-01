@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://hr.whyze.com.sg/hldisplay/eng/aglogin.asp
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Whyze HR](https://hr.whyze.com.sg/hldisplay/eng/aglogin.asp)
 
@@ -29,9 +33,6 @@ title: https://hr.whyze.com.sg/hldisplay/eng/aglogin.asp
 *  JS Response Bytes: 11792
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

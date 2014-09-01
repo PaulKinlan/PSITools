@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.haydayagame.com/?s=monopoly
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [hay day game – Search Results – monopoly](http://www.haydayagame.com/?s=monopoly)
 
@@ -29,9 +33,6 @@ title: http://www.haydayagame.com/?s=monopoly
 *  JS Response Bytes: 559029
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

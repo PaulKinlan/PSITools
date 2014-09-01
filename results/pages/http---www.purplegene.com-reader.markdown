@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.purplegene.com/reader
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [(39)PurpleGene Feed Reader](http://www.purplegene.com/reader)
 
@@ -29,9 +33,6 @@ title: http://www.purplegene.com/reader
 *  JS Response Bytes: 780950
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18090
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.virtex.no/release/webexpo/src/webExpo.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WebExpo](http://www.virtex.no/release/webexpo/src/webExpo.php)
 
@@ -29,9 +33,6 @@ title: http://www.virtex.no/release/webexpo/src/webExpo.php
 *  JS Response Bytes: 343399
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.247emaildelivery.co.uk/login.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [247EmailData.com](http://www.247emaildelivery.co.uk/login.php)
 
@@ -29,9 +33,6 @@ title: http://www.247emaildelivery.co.uk/login.php
 *  JS Response Bytes: 56734
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 459
-
-### Performance issues
-
 
 ### Performance issues
 

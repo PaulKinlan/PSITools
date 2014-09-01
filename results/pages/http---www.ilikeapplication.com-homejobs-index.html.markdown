@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ilikeapplication.com/homejobs/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Find Real Job at Home](http://www.ilikeapplication.com/homejobs/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.ilikeapplication.com/homejobs/index.html
 *  JS Response Bytes: 911321
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109057
-
-### Performance issues
-
 
 ### Performance issues
 

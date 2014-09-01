@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.2pg.com/game/bomb-it-5/play/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bomb It 5 | 2 Player Games](http://www.2pg.com/game/bomb-it-5/play/)
 
@@ -29,9 +35,6 @@ title: http://www.2pg.com/game/bomb-it-5/play/
 *  JS Response Bytes: 1340985
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25177
-
-### Performance issues
-
 
 ### Performance issues
 

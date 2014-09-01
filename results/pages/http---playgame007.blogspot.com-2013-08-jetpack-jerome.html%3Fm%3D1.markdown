@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://playgame007.blogspot.com/2013/08/jetpack-jerome.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Free online games, casino games, card games, flash games: Jetpack Jerome](http://playgame007.blogspot.com/2013/08/jetpack-jerome.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://playgame007.blogspot.com/2013/08/jetpack-jerome.html?m=1
 *  JS Response Bytes: 720747
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99219
-
-### Performance issues
-
 
 ### Performance issues
 

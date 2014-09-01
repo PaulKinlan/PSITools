@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.toledoblade.com/eblade
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Toledo Blade](http://m.toledoblade.com/eblade)
 
@@ -29,9 +31,6 @@ title: http://m.toledoblade.com/eblade
 *  JS Response Bytes: 843442
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1060
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://dirty-worms.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dirty Worms (www.dirtyworms.net)](https://dirty-worms.appspot.com/)
 
@@ -29,9 +33,6 @@ title: https://dirty-worms.appspot.com/
 *  JS Response Bytes: 1835946
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287632
-
-### Performance issues
-
 
 ### Performance issues
 

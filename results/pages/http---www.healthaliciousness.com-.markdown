@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.healthaliciousness.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HealthAliciousNess . com](http://www.healthaliciousness.com/)
 
@@ -29,9 +34,6 @@ title: http://www.healthaliciousness.com/
 *  JS Response Bytes: 786778
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16230
-
-### Performance issues
-
 
 ### Performance issues
 

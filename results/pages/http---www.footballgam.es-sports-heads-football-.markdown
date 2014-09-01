@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/sports-heads-football/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sports Heads Football Game](http://www.footballgam.es/sports-heads-football/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/sports-heads-football/
 *  JS Response Bytes: 2139167
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 162529
-
-### Performance issues
-
 
 ### Performance issues
 

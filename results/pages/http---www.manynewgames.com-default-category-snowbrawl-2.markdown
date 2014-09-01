@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.manynewgames.com/default-category/snowbrawl-2
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Snowbrawl 2 - Many New Games](http://www.manynewgames.com/default-category/snowbrawl-2)
 
@@ -29,9 +35,6 @@ title: http://www.manynewgames.com/default-category/snowbrawl-2
 *  JS Response Bytes: 2006758
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98032
-
-### Performance issues
-
 
 ### Performance issues
 

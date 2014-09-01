@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://freeplayonlinegame.ru/tochki-i-vosklicatel-nyjj-znak_online-game_35114376.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Игра Точки и восклицательный знак онлайн](http://freeplayonlinegame.ru/tochki-i-vosklicatel-nyjj-znak_online-game_35114376.html)
 
@@ -29,9 +35,6 @@ title: http://freeplayonlinegame.ru/tochki-i-vosklicatel-nyjj-znak_online-game_3
 *  JS Response Bytes: 506913
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 91843
-
-### Performance issues
-
 
 ### Performance issues
 

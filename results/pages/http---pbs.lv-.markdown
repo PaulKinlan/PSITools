@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://pbs.lv/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [pbs.lv](http://pbs.lv/)
 
@@ -29,9 +32,6 @@ title: http://pbs.lv/
 *  JS Response Bytes: 273817
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

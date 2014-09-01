@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://klrr.com/download-angry-birds/
+MinimizeRenderBlockingResources: true
 ---
 ## [klrr.com](http://klrr.com/download-angry-birds/)
 
@@ -26,12 +27,9 @@ title: http://klrr.com/download-angry-birds/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 299
-*  JS Response Bytes: 55633
+*  JS Response Bytes: 55632
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

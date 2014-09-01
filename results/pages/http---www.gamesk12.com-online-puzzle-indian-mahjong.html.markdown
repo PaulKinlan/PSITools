@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/puzzle/indian-mahjong.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Indian Mahjong Play Indian Mahjong on Gamesk12.com Free Online Games](http://www.gamesk12.com/online/puzzle/indian-mahjong.html)
 
@@ -29,9 +35,6 @@ title: http://www.gamesk12.com/online/puzzle/indian-mahjong.html
 *  JS Response Bytes: 1843930
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106651
-
-### Performance issues
-
 
 ### Performance issues
 

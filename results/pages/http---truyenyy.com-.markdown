@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://truyenyy.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Đọc Truyện Online - TruyệnYY Mobile](http://truyenyy.com/)
 
@@ -29,9 +33,6 @@ title: http://truyenyy.com/
 *  JS Response Bytes: 1272749
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98766
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamechrome.biz/uncategorized/minecraft-2d/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Minecraft 2D | Game Chrome](http://www.gamechrome.biz/uncategorized/minecraft-2d/)
 
@@ -29,9 +34,6 @@ title: http://www.gamechrome.biz/uncategorized/minecraft-2d/
 *  JS Response Bytes: 832180
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5713
-
-### Performance issues
-
 
 ### Performance issues
 

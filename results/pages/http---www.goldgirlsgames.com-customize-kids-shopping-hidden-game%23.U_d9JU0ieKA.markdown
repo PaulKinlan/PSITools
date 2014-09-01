@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.goldgirlsgames.com/customize/kids-shopping-hidden-game#.U_d9JU0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kids Shopping Hidden Game - Flash Game For Girl](http://www.goldgirlsgames.com/customize/kids-shopping-hidden-game#.U_d9JU0ieKA)
 
@@ -29,9 +36,6 @@ title: http://www.goldgirlsgames.com/customize/kids-shopping-hidden-game#.U_d9JU
 *  JS Response Bytes: 1690594
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43878
-
-### Performance issues
-
 
 ### Performance issues
 

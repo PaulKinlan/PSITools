@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://podbay.fm/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Podbay.fm - Stream any podcast in the universe quickly and easily.](http://podbay.fm/)
 
@@ -29,9 +32,6 @@ title: http://podbay.fm/
 *  JS Response Bytes: 139250
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 159047
-
-### Performance issues
-
 
 ### Performance issues
 

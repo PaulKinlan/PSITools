@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://online-arcade.bigfishgames.com/5/card/index.htm
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Free Online Card & Board Games | Big Fish Games Online Arcade](http://online-arcade.bigfishgames.com/5/card/index.htm)
 
@@ -29,9 +32,6 @@ title: http://online-arcade.bigfishgames.com/5/card/index.htm
 *  JS Response Bytes: 162799
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.hdfclife.com/?utm_source=ChromeExt&utm_medium=ChromeStore&utm_campaign=ChromeExtension
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [HDFC Life Insurance Plans and Policy, ULIP Investment and Pension Plans, Health and Child Insurance Policies](http://www.hdfclife.com/?utm_source=ChromeExt&utm_medium=ChromeStore&utm_campaign=ChromeExtension)
 
@@ -29,9 +31,6 @@ title: http://www.hdfclife.com/?utm_source=ChromeExt&utm_medium=ChromeStore&utm_
 *  JS Response Bytes: 369580
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

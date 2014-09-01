@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamechrome.biz/uncategorized/flappy-bird/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flappy Bird | Game Chrome](http://www.gamechrome.biz/uncategorized/flappy-bird/)
 
@@ -29,9 +34,6 @@ title: http://www.gamechrome.biz/uncategorized/flappy-bird/
 *  JS Response Bytes: 926260
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5710
-
-### Performance issues
-
 
 ### Performance issues
 

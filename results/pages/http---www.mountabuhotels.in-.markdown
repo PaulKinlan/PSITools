@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mountabuhotels.in/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mount Abu Hotels - Authentic Quality Information and Booking Facility. Get Reviews and Expert Suggestions.](http://www.mountabuhotels.in/)
 
@@ -29,9 +33,6 @@ title: http://www.mountabuhotels.in/
 *  JS Response Bytes: 682369
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29954
-
-### Performance issues
-
 
 ### Performance issues
 

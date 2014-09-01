@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://maulescholar.cl/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Maule Scholar | Trabajando por una Educación de Calidad](http://maulescholar.cl/)
 
@@ -29,9 +33,6 @@ title: http://maulescholar.cl/
 *  JS Response Bytes: 1133335
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2528
-
-### Performance issues
-
 
 ### Performance issues
 

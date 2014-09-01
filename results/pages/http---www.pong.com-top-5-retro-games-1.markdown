@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.pong.com/top-5-retro-games/1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pong | Play Online Network Games](http://www.pong.com/top-5-retro-games/1)
 
@@ -29,9 +34,6 @@ title: http://www.pong.com/top-5-retro-games/1
 *  JS Response Bytes: 1522332
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 127323
-
-### Performance issues
-
 
 ### Performance issues
 

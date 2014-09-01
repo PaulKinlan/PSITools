@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.spielz.com/games/worldoftanks
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [spiele](http://www.spielz.com/games/worldoftanks)
 
@@ -29,9 +36,6 @@ title: http://www.spielz.com/games/worldoftanks
 *  JS Response Bytes: 2004528
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17672
-
-### Performance issues
-
 
 ### Performance issues
 

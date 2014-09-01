@@ -33,8 +33,5 @@ title: http://chrome.2freehosting.com/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

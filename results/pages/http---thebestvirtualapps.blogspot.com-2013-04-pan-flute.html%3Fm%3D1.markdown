@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://thebestvirtualapps.blogspot.com/2013/04/pan-flute.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [Best Music Instruments: Pan Flute](http://thebestvirtualapps.blogspot.com/2013/04/pan-flute.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://thebestvirtualapps.blogspot.com/2013/04/pan-flute.html?m=1
 *  JS Response Bytes: 1123376
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95882
-
-### Performance issues
-
 
 ### Performance issues
 

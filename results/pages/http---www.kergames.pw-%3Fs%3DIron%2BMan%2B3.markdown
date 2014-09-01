@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kergames.pw/?s=Iron+Man+3
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Iron Man 3 – Search Results – Online Best Games](http://www.kergames.pw/?s=Iron+Man+3)
 
@@ -29,9 +34,6 @@ title: http://www.kergames.pw/?s=Iron+Man+3
 *  JS Response Bytes: 561082
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

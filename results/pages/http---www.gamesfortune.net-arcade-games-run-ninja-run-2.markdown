@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesfortune.net/arcade-games/run-ninja-run-2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Run Ninja Run 2 - Free Online Games | GamesFortune.net](http://www.gamesfortune.net/arcade-games/run-ninja-run-2)
 
@@ -29,9 +35,6 @@ title: http://www.gamesfortune.net/arcade-games/run-ninja-run-2
 *  JS Response Bytes: 2340720
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115798
-
-### Performance issues
-
 
 ### Performance issues
 

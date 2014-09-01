@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gamezofworld.blogspot.com/2013/02/gta-4.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [Best Free Games: Gta Similar](http://gamezofworld.blogspot.com/2013/02/gta-4.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://gamezofworld.blogspot.com/2013/02/gta-4.html?m=1
 *  JS Response Bytes: 1798260
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287754
-
-### Performance issues
-
 
 ### Performance issues
 

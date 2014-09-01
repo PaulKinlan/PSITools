@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://poppingarchive.com/videos/battles
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Dope popping battles | dopest poppin boogaloo dance videos here online @ popping archive](http://poppingarchive.com/videos/battles)
 
@@ -29,9 +31,6 @@ title: http://poppingarchive.com/videos/battles
 *  JS Response Bytes: 407416
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 37671
-
-### Performance issues
-
 
 ### Performance issues
 

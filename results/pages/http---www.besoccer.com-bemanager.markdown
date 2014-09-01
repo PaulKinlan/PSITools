@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.besoccer.com/bemanager
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.besoccer.com/bemanager)
 
@@ -29,9 +31,6 @@ title: http://www.besoccer.com/bemanager
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.flygame.info/sports/drunk-parking
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Drunk Parking - FLY GaMe - New Online Flash Games](http://www.flygame.info/sports/drunk-parking)
 
@@ -29,9 +34,6 @@ title: http://www.flygame.info/sports/drunk-parking
 *  JS Response Bytes: 2214847
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 131425
-
-### Performance issues
-
 
 ### Performance issues
 

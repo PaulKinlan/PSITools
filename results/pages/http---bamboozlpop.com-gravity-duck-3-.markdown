@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://bamboozlpop.com/gravity-duck-3/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gravity Duck 3](http://bamboozlpop.com/gravity-duck-3/)
 
@@ -29,9 +34,6 @@ title: http://bamboozlpop.com/gravity-duck-3/
 *  JS Response Bytes: 1987364
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96383
-
-### Performance issues
-
 
 ### Performance issues
 

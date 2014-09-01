@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.zabdesk.tk/#/login
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Zab Desk](http://www.zabdesk.tk/#/login)
 
@@ -29,9 +31,6 @@ title: http://www.zabdesk.tk/#/login
 *  JS Response Bytes: 561022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

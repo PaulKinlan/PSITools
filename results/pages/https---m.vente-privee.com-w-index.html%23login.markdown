@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://m.vente-privee.com/w/index.html#login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [vente-privee.com](https://m.vente-privee.com/w/index.html#login)
 
@@ -18,20 +22,17 @@ title: https://m.vente-privee.com/w/index.html#login
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 12
-*  Total Request Bytes: 2157
+*  Total Request Bytes: 3101
 
 ### Response data
 
-*  HTML Response Bytes: 6707
+*  HTML Response Bytes: 6706
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 152138
 *  Image Response Bytes: 125889
-*  JS Response Bytes: 944789
+*  JS Response Bytes: 944794
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1655
-
-### Performance issues
-
+*  Other Response Bytes: 2665
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://onboarder.co/users/auth/google
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Page not found · GitHub Pages](http://onboarder.co/users/auth/google)
 
@@ -29,9 +31,6 @@ title: http://onboarder.co/users/auth/google
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9519
-
-### Performance issues
-
 
 ### Performance issues
 

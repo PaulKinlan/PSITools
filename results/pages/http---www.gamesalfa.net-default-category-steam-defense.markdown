@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesalfa.net/default-category/steam-defense
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Steam Defense - Gamesalfa](http://www.gamesalfa.net/default-category/steam-defense)
 
@@ -29,9 +34,6 @@ title: http://www.gamesalfa.net/default-category/steam-defense
 *  JS Response Bytes: 3520984
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102157
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromecandycrush.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [Candy crush saga online play](http://chromecandycrush.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromecandycrush.blogspot.com/?m=1
 *  JS Response Bytes: 314944
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 570
-
-### Performance issues
-
 
 ### Performance issues
 

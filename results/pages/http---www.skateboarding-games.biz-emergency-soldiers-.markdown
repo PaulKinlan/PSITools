@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/emergency-soldiers/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Emergency Soldiers game](http://www.skateboarding-games.biz/emergency-soldiers/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/emergency-soldiers/
 *  JS Response Bytes: 2123625
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114444
-
-### Performance issues
-
 
 ### Performance issues
 

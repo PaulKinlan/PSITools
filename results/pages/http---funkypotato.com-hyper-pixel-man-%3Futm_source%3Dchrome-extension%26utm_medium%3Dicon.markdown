@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://funkypotato.com/hyper-pixel-man/?utm_source=chrome-extension&utm_medium=icon
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HYPER PIXEL MAN](http://funkypotato.com/hyper-pixel-man/?utm_source=chrome-extension&utm_medium=icon)
 
@@ -29,9 +35,6 @@ title: http://funkypotato.com/hyper-pixel-man/?utm_source=chrome-extension&utm_m
 *  JS Response Bytes: 1225271
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1798
-
-### Performance issues
-
 
 ### Performance issues
 

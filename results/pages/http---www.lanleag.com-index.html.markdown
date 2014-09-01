@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.lanleag.com/index.html
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [](http://www.lanleag.com/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.lanleag.com/index.html
 *  JS Response Bytes: 183146
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 647
-
-### Performance issues
-
 
 ### Performance issues
 

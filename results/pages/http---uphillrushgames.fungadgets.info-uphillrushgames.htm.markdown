@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://uphillrushgames.fungadgets.info/uphillrushgames.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [UpHill Rush Games Collection](http://uphillrushgames.fungadgets.info/uphillrushgames.htm)
 
@@ -29,9 +34,6 @@ title: http://uphillrushgames.fungadgets.info/uphillrushgames.htm
 *  JS Response Bytes: 1113188
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98278
-
-### Performance issues
-
 
 ### Performance issues
 

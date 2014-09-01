@@ -33,8 +33,5 @@ title: https://ssl.erat.org:9443/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

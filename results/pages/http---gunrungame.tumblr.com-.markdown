@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gunrungame.tumblr.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://gunrungame.tumblr.com/)
 
@@ -29,9 +33,6 @@ title: http://gunrungame.tumblr.com/
 *  JS Response Bytes: 316319
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 988
-
-### Performance issues
-
 
 ### Performance issues
 

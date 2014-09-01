@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://efpgames.com/the-dark-knight-rises.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [EFPgames.Com | Flash Games – The Dark Knight Rises](http://efpgames.com/the-dark-knight-rises.html)
 
@@ -29,9 +35,6 @@ title: http://efpgames.com/the-dark-knight-rises.html
 *  JS Response Bytes: 412220
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 809
-
-### Performance issues
-
 
 ### Performance issues
 

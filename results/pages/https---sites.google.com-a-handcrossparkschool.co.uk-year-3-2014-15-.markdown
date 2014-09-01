@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://sites.google.com/a/handcrossparkschool.co.uk/year-3-2014-15/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Year 3 2014-15](https://sites.google.com/a/handcrossparkschool.co.uk/year-3-2014-15/)
 
@@ -29,9 +33,6 @@ title: https://sites.google.com/a/handcrossparkschool.co.uk/year-3-2014-15/
 *  JS Response Bytes: 412397
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49927
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.videotodaynews.com/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [That News Show - Breaking News you didn't know existed](http://www.videotodaynews.com/)
 
@@ -29,9 +31,6 @@ title: http://www.videotodaynews.com/
 *  JS Response Bytes: 1677532
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14730
-
-### Performance issues
-
 
 ### Performance issues
 

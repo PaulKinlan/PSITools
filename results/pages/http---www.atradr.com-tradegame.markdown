@@ -33,8 +33,5 @@ title: http://www.atradr.com/tradegame
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

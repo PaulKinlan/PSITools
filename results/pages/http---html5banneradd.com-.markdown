@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://html5banneradd.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [html5banneradd.com: The Leading Html5 Banner Ad Site on the Net](http://html5banneradd.com/)
 
@@ -29,9 +30,6 @@ title: http://html5banneradd.com/
 *  JS Response Bytes: 259015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 442
-
-### Performance issues
-
 
 ### Performance issues
 

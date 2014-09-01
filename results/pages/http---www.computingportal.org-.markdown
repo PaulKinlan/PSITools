@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.computingportal.org/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ensemble | Computing Portal | Connecting Computing Educators](http://www.computingportal.org/)
 
@@ -29,9 +33,6 @@ title: http://www.computingportal.org/
 *  JS Response Bytes: 231672
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

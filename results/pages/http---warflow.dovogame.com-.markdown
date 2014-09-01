@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://warflow.dovogame.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WarFlow(WF)-Best War Strategy Game of 2011!](http://warflow.dovogame.com/)
 
@@ -29,9 +33,6 @@ title: http://warflow.dovogame.com/
 *  JS Response Bytes: 131400
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2587
-
-### Performance issues
-
 
 ### Performance issues
 

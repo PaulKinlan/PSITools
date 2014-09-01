@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamesforthebrain.com/game/trivia/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TriviaNut - Games for the Brain](http://www.gamesforthebrain.com/game/trivia/)
 
@@ -29,9 +33,6 @@ title: http://www.gamesforthebrain.com/game/trivia/
 *  JS Response Bytes: 405974
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.xyz-softs.com/familyfriendlyfatburningmeals/index.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Family Friendly Fat Burning Meals](http://www.xyz-softs.com/familyfriendlyfatburningmeals/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.xyz-softs.com/familyfriendlyfatburningmeals/index.html
 *  JS Response Bytes: 526093
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

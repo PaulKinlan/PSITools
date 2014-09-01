@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.cargobridge3d.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Cargo Bridge](http://www.cargobridge3d.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://www.cargobridge3d.blogspot.com/?m=1
 *  JS Response Bytes: 242546
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 574
-
-### Performance issues
-
 
 ### Performance issues
 

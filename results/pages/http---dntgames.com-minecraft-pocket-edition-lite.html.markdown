@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://dntgames.com/minecraft-pocket-edition-lite.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DNTgames.Com | Flash Game Center | Flash Games. – Minecraft – Pocket Edition Lite](http://dntgames.com/minecraft-pocket-edition-lite.html)
 
@@ -29,9 +36,6 @@ title: http://dntgames.com/minecraft-pocket-edition-lite.html
 *  JS Response Bytes: 413445
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1181
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.troyagame.com/index.php?task=view&id=204
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Soccer Slingers - TroYaGaMe - just Challange! And Play Free! Play Online!](http://www.troyagame.com/index.php?task=view&id=204)
 
@@ -29,9 +34,6 @@ title: http://www.troyagame.com/index.php?task=view&id=204
 *  JS Response Bytes: 2306994
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119156
-
-### Performance issues
-
 
 ### Performance issues
 

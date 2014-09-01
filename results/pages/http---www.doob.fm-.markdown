@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.doob.fm/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Concerts and Festival in United States](http://www.doob.fm/)
 
@@ -29,9 +32,6 @@ title: http://www.doob.fm/
 *  JS Response Bytes: 548632
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

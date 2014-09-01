@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.jotform.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [JotForm · Form Builder](http://www.jotform.com/)
 
@@ -18,20 +21,17 @@ title: http://www.jotform.com/
 *  Number of JS Resources: 13
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 50
-*  Total Request Bytes: 8946
+*  Total Request Bytes: 8953
 
 ### Response data
 
-*  HTML Response Bytes: 55424
+*  HTML Response Bytes: 55113
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 204330
-*  Image Response Bytes: 288012
-*  JS Response Bytes: 1462740
+*  CSS Response Bytes: 204425
+*  Image Response Bytes: 287808
+*  JS Response Bytes: 1463911
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 84238
-
-### Performance issues
-
+*  Other Response Bytes: 84239
 
 ### Performance issues
 

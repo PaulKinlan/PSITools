@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.tea-clock.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tea-clock](http://www.tea-clock.com/)
 
@@ -29,9 +33,6 @@ title: http://www.tea-clock.com/
 *  JS Response Bytes: 815373
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118543
-
-### Performance issues
-
 
 ### Performance issues
 

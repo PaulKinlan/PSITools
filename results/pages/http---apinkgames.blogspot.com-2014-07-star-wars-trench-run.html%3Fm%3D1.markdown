@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://apinkgames.blogspot.com/2014/07/star-wars-trench-run.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://apinkgames.blogspot.com/2014/07/star-wars-trench-run.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://apinkgames.blogspot.com/2014/07/star-wars-trench-run.html?m=1
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19305
-
-### Performance issues
-
 
 ### Performance issues
 

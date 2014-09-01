@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamebow.net/puzzle/bad-piggies
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bad Piggies - GameBow.net | Free Online Flash Games](http://www.gamebow.net/puzzle/bad-piggies)
 
@@ -29,9 +35,6 @@ title: http://www.gamebow.net/puzzle/bad-piggies
 *  JS Response Bytes: 2599729
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120243
-
-### Performance issues
-
 
 ### Performance issues
 

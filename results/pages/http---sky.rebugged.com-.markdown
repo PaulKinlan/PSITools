@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://sky.rebugged.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Springle Chat](http://sky.rebugged.com/)
 
@@ -29,9 +34,6 @@ title: http://sky.rebugged.com/
 *  JS Response Bytes: 106014
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 575426
-
-### Performance issues
-
 
 ### Performance issues
 

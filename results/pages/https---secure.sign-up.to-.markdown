@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://secure.sign-up.to/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sign-Up.to Login - Social, Mobile & Email Marketing](https://secure.sign-up.to/)
 
@@ -29,9 +32,6 @@ title: https://secure.sign-up.to/
 *  JS Response Bytes: 54611
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1107
-
-### Performance issues
-
 
 ### Performance issues
 

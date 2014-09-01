@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://test.mcoe.org/Pages/home.aspx
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MCOE - Home](http://test.mcoe.org/Pages/home.aspx)
 
@@ -29,9 +33,6 @@ title: http://test.mcoe.org/Pages/home.aspx
 *  JS Response Bytes: 1291558
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 722
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamevial.com/screenshots.php?game=uberthon
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Uberthon Game Play Screenshots](http://www.gamevial.com/screenshots.php?game=uberthon)
 
@@ -29,9 +33,6 @@ title: http://www.gamevial.com/screenshots.php?game=uberthon
 *  JS Response Bytes: 1691885
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 962
-
-### Performance issues
-
 
 ### Performance issues
 

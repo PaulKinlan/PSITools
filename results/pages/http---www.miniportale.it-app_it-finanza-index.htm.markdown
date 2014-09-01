@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.miniportale.it/app_it/finanza/index.htm
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ECONOMIA & FINANZA](http://www.miniportale.it/app_it/finanza/index.htm)
 
@@ -29,9 +32,6 @@ title: http://www.miniportale.it/app_it/finanza/index.htm
 *  JS Response Bytes: 606117
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14851
-
-### Performance issues
-
 
 ### Performance issues
 

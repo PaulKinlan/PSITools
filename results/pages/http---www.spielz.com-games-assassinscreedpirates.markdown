@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.spielz.com/games/assassinscreedpirates
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [spiele](http://www.spielz.com/games/assassinscreedpirates)
 
@@ -29,9 +37,6 @@ title: http://www.spielz.com/games/assassinscreedpirates
 *  JS Response Bytes: 4424514
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14357
-
-### Performance issues
-
 
 ### Performance issues
 

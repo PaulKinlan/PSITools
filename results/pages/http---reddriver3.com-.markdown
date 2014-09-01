@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://reddriver3.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Red Driver 3](http://reddriver3.com/)
 
@@ -29,9 +34,6 @@ title: http://reddriver3.com/
 *  JS Response Bytes: 1820808
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105539
-
-### Performance issues
-
 
 ### Performance issues
 

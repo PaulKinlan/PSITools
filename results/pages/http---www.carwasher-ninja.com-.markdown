@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.carwasher-ninja.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Car Washer: Summer of the Ninja](http://www.carwasher-ninja.com/)
 
@@ -29,9 +33,6 @@ title: http://www.carwasher-ninja.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

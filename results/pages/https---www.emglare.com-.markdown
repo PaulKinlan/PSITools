@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.emglare.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Emglare Technologies](https://www.emglare.com/)
 
@@ -29,9 +33,6 @@ title: https://www.emglare.com/
 *  JS Response Bytes: 822724
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1372
-
-### Performance issues
-
 
 ### Performance issues
 

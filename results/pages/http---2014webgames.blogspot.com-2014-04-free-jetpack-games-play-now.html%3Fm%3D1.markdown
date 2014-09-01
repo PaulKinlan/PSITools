@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://2014webgames.blogspot.com/2014/04/free-jetpack-games-play-now.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Online games: Free Jetpack Games Play Now](http://2014webgames.blogspot.com/2014/04/free-jetpack-games-play-now.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://2014webgames.blogspot.com/2014/04/free-jetpack-games-play-now.html
 *  JS Response Bytes: 762211
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95603
-
-### Performance issues
-
 
 ### Performance issues
 

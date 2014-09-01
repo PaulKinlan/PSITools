@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chrome.bpowa.com/click
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Bpowa.com](http://chrome.bpowa.com/click)
 
@@ -18,7 +20,7 @@ title: http://chrome.bpowa.com/click
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 5
-*  Total Request Bytes: 1794
+*  Total Request Bytes: 1770
 
 ### Response data
 
@@ -29,9 +31,6 @@ title: http://chrome.bpowa.com/click
 *  JS Response Bytes: 97672
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 552
-
-### Performance issues
-
 
 ### Performance issues
 

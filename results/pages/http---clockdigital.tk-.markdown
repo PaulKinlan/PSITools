@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://clockdigital.tk/
+AvoidLandingPageRedirects: true
+AvoidPlugins: true
 ---
 ## [ClockDigital](http://clockdigital.tk/)
 
@@ -29,9 +31,6 @@ title: http://clockdigital.tk/
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3852
-
-### Performance issues
-
 
 ### Performance issues
 

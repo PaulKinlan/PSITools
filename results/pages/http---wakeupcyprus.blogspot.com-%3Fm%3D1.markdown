@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://wakeupcyprus.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [a](http://wakeupcyprus.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://wakeupcyprus.blogspot.com/?m=1
 *  JS Response Bytes: 248929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 564
-
-### Performance issues
-
 
 ### Performance issues
 

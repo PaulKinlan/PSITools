@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mathtrain.tv/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Mathtrain.TV Student Tutorials](http://mathtrain.tv/)
 
@@ -29,9 +33,6 @@ title: http://mathtrain.tv/
 *  JS Response Bytes: 260338
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

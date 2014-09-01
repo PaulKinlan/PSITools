@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.btvsolo.probestchrome.com/bestbeat.htm
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BEST BEAT MACHINE](http://www.btvsolo.probestchrome.com/bestbeat.htm)
 
@@ -29,9 +32,6 @@ title: http://www.btvsolo.probestchrome.com/bestbeat.htm
 *  JS Response Bytes: 2648768
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12781
-
-### Performance issues
-
 
 ### Performance issues
 

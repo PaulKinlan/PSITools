@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ancestriagame.com/mini/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ancestria: Mini](http://ancestriagame.com/mini/)
 
@@ -29,9 +33,6 @@ title: http://ancestriagame.com/mini/
 *  JS Response Bytes: 51695
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 274531
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://prometheus-unbound.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Prometheus Unbound: A Libertarian Review of Speculative Fiction](http://prometheus-unbound.org/)
 
@@ -29,9 +34,6 @@ title: http://prometheus-unbound.org/
 *  JS Response Bytes: 2819536
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 289943
-
-### Performance issues
-
 
 ### Performance issues
 

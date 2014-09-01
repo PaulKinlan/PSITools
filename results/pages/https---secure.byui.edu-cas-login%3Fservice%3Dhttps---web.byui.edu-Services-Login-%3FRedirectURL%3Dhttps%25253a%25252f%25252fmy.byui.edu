@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://secure.byui.edu/cas/login?service=https://web.byui.edu/Services/Login/?RedirectURL=https%253a%252f%252fmy.byui.edu%252fics
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Brigham Young University - Idaho](https://secure.byui.edu/cas/login?service=https://web.byui.edu/Services/Login/?RedirectURL=https%253a%252f%252fmy.byui.edu%252fics)
 
@@ -29,9 +32,6 @@ title: https://secure.byui.edu/cas/login?service=https://web.byui.edu/Services/L
 *  JS Response Bytes: 43901
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1047
-
-### Performance issues
-
 
 ### Performance issues
 

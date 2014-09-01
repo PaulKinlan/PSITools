@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.dsngames.com/?s=angry+birds&btn_search=
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Free Hd Games - Search results forangry birds](http://www.dsngames.com/?s=angry+birds&btn_search=)
 
@@ -29,9 +36,6 @@ title: http://www.dsngames.com/?s=angry+birds&btn_search=
 *  JS Response Bytes: 633548
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.troyagame.com/index.php?task=view&id=210
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Burning Blades Hockey - TroYaGaMe - just Challange! And Play Free! Play Online!](http://www.troyagame.com/index.php?task=view&id=210)
 
@@ -29,9 +35,6 @@ title: http://www.troyagame.com/index.php?task=view&id=210
 *  JS Response Bytes: 2794595
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 126178
-
-### Performance issues
-
 
 ### Performance issues
 

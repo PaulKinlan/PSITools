@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.iemlabs.com/web/web.html
+UseLegibleFontSizes: true
 ---
 ## [Error 404 - Not Found](http://www.iemlabs.com/web/web.html)
 
@@ -29,9 +30,6 @@ title: http://www.iemlabs.com/web/web.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 415
-
-### Performance issues
-
 
 ### Performance issues
 

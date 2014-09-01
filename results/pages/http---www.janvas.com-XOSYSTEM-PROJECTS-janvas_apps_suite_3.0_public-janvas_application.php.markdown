@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.janvas.com/XOSYSTEM/PROJECTS/janvas_apps_suite_3.0_public/janvas_application.php
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Janvas 3.0.0](http://www.janvas.com/XOSYSTEM/PROJECTS/janvas_apps_suite_3.0_public/janvas_application.php)
 
@@ -29,9 +34,6 @@ title: http://www.janvas.com/XOSYSTEM/PROJECTS/janvas_apps_suite_3.0_public/janv
 *  JS Response Bytes: 1442687
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

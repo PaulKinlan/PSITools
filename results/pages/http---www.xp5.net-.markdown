@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.xp5.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Online Games (XP5.NET)](http://www.xp5.net/)
 
@@ -29,9 +34,6 @@ title: http://www.xp5.net/
 *  JS Response Bytes: 1663632
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 135281
-
-### Performance issues
-
 
 ### Performance issues
 

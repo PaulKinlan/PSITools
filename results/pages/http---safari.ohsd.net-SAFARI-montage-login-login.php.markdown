@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://safari.ohsd.net/SAFARI/montage/login/login.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SAFARI Montage: Login](http://safari.ohsd.net/SAFARI/montage/login/login.php)
 
@@ -29,9 +33,6 @@ title: http://safari.ohsd.net/SAFARI/montage/login/login.php
 *  JS Response Bytes: 351061
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

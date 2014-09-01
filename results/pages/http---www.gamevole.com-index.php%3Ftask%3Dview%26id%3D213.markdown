@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamevole.com/index.php?task=view&id=213
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crash Smash Derby - GaMeVole - just Challange! And Play Free! Play Online!](http://www.gamevole.com/index.php?task=view&id=213)
 
@@ -29,9 +34,6 @@ title: http://www.gamevole.com/index.php?task=view&id=213
 *  JS Response Bytes: 1935712
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1547
-
-### Performance issues
-
 
 ### Performance issues
 

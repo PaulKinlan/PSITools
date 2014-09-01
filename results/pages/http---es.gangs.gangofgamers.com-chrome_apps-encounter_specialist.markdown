@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://es.gangs.gangofgamers.com/chrome_apps/encounter_specialist
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The page cannot be found](http://es.gangs.gangofgamers.com/chrome_apps/encounter_specialist)
 
@@ -29,9 +31,6 @@ title: http://es.gangs.gangofgamers.com/chrome_apps/encounter_specialist
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1774
-
-### Performance issues
-
 
 ### Performance issues
 

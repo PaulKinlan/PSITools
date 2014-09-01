@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.sanebox.com/signup/google
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SaneBox - Email Management for Any Inbox](https://www.sanebox.com/signup/google)
 
@@ -29,9 +32,6 @@ title: https://www.sanebox.com/signup/google
 *  JS Response Bytes: 1151940
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1961
-
-### Performance issues
-
 
 ### Performance issues
 

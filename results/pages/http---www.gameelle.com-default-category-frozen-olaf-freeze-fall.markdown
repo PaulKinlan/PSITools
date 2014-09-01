@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameelle.com/default-category/frozen-olaf-freeze-fall
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Frozen Olaf Freeze Fall - Gameelle](http://www.gameelle.com/default-category/frozen-olaf-freeze-fall)
 
@@ -29,9 +34,6 @@ title: http://www.gameelle.com/default-category/frozen-olaf-freeze-fall
 *  JS Response Bytes: 1112455
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17584
-
-### Performance issues
-
 
 ### Performance issues
 

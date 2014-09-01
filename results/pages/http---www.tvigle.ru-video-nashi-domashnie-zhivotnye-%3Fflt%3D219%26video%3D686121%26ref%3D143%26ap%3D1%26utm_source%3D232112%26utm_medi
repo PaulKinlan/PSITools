@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.tvigle.ru/video/nashi-domashnie-zhivotnye/?flt=219&video=686121&ref=143&ap=1&utm_source=232112&utm_medium=190229&utm_campaign=232112&1545111828
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Потешные котики - лучшее молодежное юмор - видео Потешные котики в интернет-кинотеатре Tvigle.ru](http://www.tvigle.ru/video/nashi-domashnie-zhivotnye/?flt=219&video=686121&ref=143&ap=1&utm_source=232112&utm_medium=190229&utm_campaign=232112&1545111828)
 
@@ -13,25 +19,22 @@ title: http://www.tvigle.ru/video/nashi-domashnie-zhivotnye/?flt=219&video=68612
 
 ### Request information
 
-*  Number of Resources: 152
-*  Number of Hosts: 20
+*  Number of Resources: 151
+*  Number of Hosts: 19
 *  Number of JS Resources: 20
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 112
-*  Total Request Bytes: 26976
+*  Total Request Bytes: 26295
 
 ### Response data
 
-*  HTML Response Bytes: 134355
+*  HTML Response Bytes: 134448
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 226065
-*  Image Response Bytes: 10084934
-*  JS Response Bytes: 1010919
+*  Image Response Bytes: 10084931
+*  JS Response Bytes: 1010792
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 12852
-
-### Performance issues
-
+*  Other Response Bytes: 11947
 
 ### Performance issues
 

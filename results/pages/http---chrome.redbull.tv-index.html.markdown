@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://chrome.redbull.tv/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Redbull TV Chrome App](http://chrome.redbull.tv/index.html)
 
@@ -29,9 +34,6 @@ title: http://chrome.redbull.tv/index.html
 *  JS Response Bytes: 187660
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1126
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://caseros-guia.com.ar/registro_full/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [:: Registrate en Caseros guia ::](http://caseros-guia.com.ar/registro_full/)
 
@@ -29,9 +33,6 @@ title: http://caseros-guia.com.ar/registro_full/
 *  JS Response Bytes: 110033
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116941
-
-### Performance issues
-
 
 ### Performance issues
 

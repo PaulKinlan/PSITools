@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.17track.net/m/index_en.shtml
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [17track[Together Tracking], International Registered/Parcel/EMS/Express Tracking System](http://www.17track.net/m/index_en.shtml)
 
@@ -29,9 +32,6 @@ title: http://www.17track.net/m/index_en.shtml
 *  JS Response Bytes: 612017
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4244
-
-### Performance issues
-
 
 ### Performance issues
 

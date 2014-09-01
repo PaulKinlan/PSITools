@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://vineo.me/
+UseLegibleFontSizes: true
 ---
 ## [](http://vineo.me/)
 
@@ -29,9 +30,6 @@ title: http://vineo.me/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 610
-
-### Performance issues
-
 
 ### Performance issues
 

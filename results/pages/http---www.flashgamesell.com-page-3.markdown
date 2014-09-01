@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.flashgamesell.com/page/3
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flash Game Sell, Games, Free, Online Games - Part 3](http://www.flashgamesell.com/page/3)
 
@@ -29,9 +34,6 @@ title: http://www.flashgamesell.com/page/3
 *  JS Response Bytes: 688907
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

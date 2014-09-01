@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://automate-twitter.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Auto Tweet By Scheduled Tweets - Automate Twitter The Free Way](http://automate-twitter.com/)
 
@@ -29,9 +32,6 @@ title: http://automate-twitter.com/
 *  JS Response Bytes: 245035
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43945
-
-### Performance issues
-
 
 ### Performance issues
 

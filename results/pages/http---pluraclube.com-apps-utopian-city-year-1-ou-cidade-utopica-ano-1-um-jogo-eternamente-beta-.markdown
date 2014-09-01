@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://pluraclube.com/apps/utopian-city-year-1-ou-cidade-utopica-ano-1-um-jogo-eternamente-beta/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Utopian City Year 1 ou Cidade Utópica ano 1, um jogo eternamente beta | Pluraclube Apps - Jogos e aplicativos gratuítos Android e Web](http://pluraclube.com/apps/utopian-city-year-1-ou-cidade-utopica-ano-1-um-jogo-eternamente-beta/)
 
@@ -29,9 +34,6 @@ title: http://pluraclube.com/apps/utopian-city-year-1-ou-cidade-utopica-ano-1-um
 *  JS Response Bytes: 1224432
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15447
-
-### Performance issues
-
 
 ### Performance issues
 

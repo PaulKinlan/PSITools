@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://lostforgames.info/games/tank-attack-3d/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tank Attack 3D | Lost For Games](http://lostforgames.info/games/tank-attack-3d/)
 
@@ -29,9 +34,6 @@ title: http://lostforgames.info/games/tank-attack-3d/
 *  JS Response Bytes: 519707
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42312
-
-### Performance issues
-
 
 ### Performance issues
 

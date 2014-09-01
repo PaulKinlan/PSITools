@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.freefinegames.com/default-category/broforce#.U_eKXk0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Broforce - Free Fine GaMeS - Free Online Flash Games](http://www.freefinegames.com/default-category/broforce#.U_eKXk0ieKA)
 
@@ -29,9 +36,6 @@ title: http://www.freefinegames.com/default-category/broforce#.U_eKXk0ieKA
 *  JS Response Bytes: 1057200
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33878
-
-### Performance issues
-
 
 ### Performance issues
 

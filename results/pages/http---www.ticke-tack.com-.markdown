@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ticke-tack.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [TICKE-TACK](http://www.ticke-tack.com/)
 
@@ -29,9 +32,6 @@ title: http://www.ticke-tack.com/
 *  JS Response Bytes: 974717
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 623
-
-### Performance issues
-
 
 ### Performance issues
 

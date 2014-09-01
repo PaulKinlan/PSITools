@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bootic.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bootic, wiki of products](http://www.bootic.com/)
 
@@ -29,9 +33,6 @@ title: http://www.bootic.com/
 *  JS Response Bytes: 278710
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 62676
-
-### Performance issues
-
 
 ### Performance issues
 

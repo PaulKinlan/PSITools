@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://ec2-46-137-170-121.eu-west-1.compute.amazonaws.com/helloworld/helloworld
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Object not found!](https://ec2-46-137-170-121.eu-west-1.compute.amazonaws.com/helloworld/helloworld)
 
@@ -29,9 +31,6 @@ title: https://ec2-46-137-170-121.eu-west-1.compute.amazonaws.com/helloworld/hel
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1248
-
-### Performance issues
-
 
 ### Performance issues
 

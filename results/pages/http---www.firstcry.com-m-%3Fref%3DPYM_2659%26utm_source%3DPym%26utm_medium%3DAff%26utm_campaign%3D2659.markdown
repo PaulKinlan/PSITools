@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.firstcry.com/m/?ref=PYM_2659&utm_source=Pym&utm_medium=Aff&utm_campaign=2659
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Baby Products Online India, Kids Online Shopping, Baby Care Products at Firstcry.com](http://www.firstcry.com/m/?ref=PYM_2659&utm_source=Pym&utm_medium=Aff&utm_campaign=2659)
 
@@ -29,9 +34,6 @@ title: http://www.firstcry.com/m/?ref=PYM_2659&utm_source=Pym&utm_medium=Aff&utm
 *  JS Response Bytes: 382935
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3753
-
-### Performance issues
-
 
 ### Performance issues
 

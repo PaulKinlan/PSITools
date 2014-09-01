@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://tategames.com/dreamfields/#.U_eC9U0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dreamfields | Tate Games](http://tategames.com/dreamfields/#.U_eC9U0ieKA)
 
@@ -29,9 +35,6 @@ title: http://tategames.com/dreamfields/#.U_eC9U0ieKA
 *  JS Response Bytes: 1883371
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 200450
-
-### Performance issues
-
 
 ### Performance issues
 

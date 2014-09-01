@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/spongebob-soccer-shootout/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Spongebob Soccer Shootout Game](http://www.footballgam.es/spongebob-soccer-shootout/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/spongebob-soccer-shootout/
 *  JS Response Bytes: 2296864
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 143286
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://burracoon.it/game/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+UseLegibleFontSizes: true
 ---
 ## [BurracoON - Gioca Burraco Online Gratis](http://burracoon.it/game/)
 
@@ -29,9 +33,6 @@ title: http://burracoon.it/game/
 *  JS Response Bytes: 1631722
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 202918
-
-### Performance issues
-
 
 ### Performance issues
 

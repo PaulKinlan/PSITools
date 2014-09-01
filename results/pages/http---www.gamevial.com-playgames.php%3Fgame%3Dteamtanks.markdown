@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gamevial.com/playgames.php?game=teamtanks
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TeamTanks :: Online Multiplayer Tank Game :: Awesome fun Tank Games 3D battle action :: Team Tanks free play MMO game](http://www.gamevial.com/playgames.php?game=teamtanks)
 
@@ -29,9 +36,6 @@ title: http://www.gamevial.com/playgames.php?game=teamtanks
 *  JS Response Bytes: 646698
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58422
-
-### Performance issues
-
 
 ### Performance issues
 

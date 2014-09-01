@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ab-analytics.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [AB Analytics - Web Analytics & Optimisation | Home](http://www.ab-analytics.com/)
 
@@ -29,9 +32,6 @@ title: http://www.ab-analytics.com/
 *  JS Response Bytes: 168739
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7133
-
-### Performance issues
-
 
 ### Performance issues
 

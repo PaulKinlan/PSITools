@@ -33,8 +33,5 @@ title: https://plus.google.com/games/675111897657?source=cws
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

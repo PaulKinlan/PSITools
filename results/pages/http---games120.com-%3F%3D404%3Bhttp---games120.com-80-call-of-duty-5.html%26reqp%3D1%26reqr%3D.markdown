@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://games120.com/?=404;http://games120.com:80/call-of-duty-5.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [games120.com](http://games120.com/?=404;http://games120.com:80/call-of-duty-5.html&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://games120.com/?=404;http://games120.com:80/call-of-duty-5.html&reqp
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102
-
-### Performance issues
-
 
 ### Performance issues
 

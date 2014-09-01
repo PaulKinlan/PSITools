@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.imagetell.com/c/funny
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [IMAGETELL.COM -Welcome](http://www.imagetell.com/c/funny)
 
@@ -29,9 +31,6 @@ title: http://www.imagetell.com/c/funny
 *  JS Response Bytes: 298706
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

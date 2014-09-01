@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://007playgame.blogspot.com/2013/08/gta-game-flash.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Online games, card games, casino games, free games: GTA Game Flash](http://007playgame.blogspot.com/2013/08/gta-game-flash.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://007playgame.blogspot.com/2013/08/gta-game-flash.html?m=1
 *  JS Response Bytes: 1150736
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102844
-
-### Performance issues
-
 
 ### Performance issues
 

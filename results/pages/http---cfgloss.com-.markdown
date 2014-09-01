@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://cfgloss.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [イベントでは景品をかけたビンゴなどが繰り広げられている](http://cfgloss.com/)
 
@@ -29,9 +34,6 @@ title: http://cfgloss.com/
 *  JS Response Bytes: 116302
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

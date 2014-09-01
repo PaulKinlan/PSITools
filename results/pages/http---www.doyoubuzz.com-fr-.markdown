@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.doyoubuzz.com/fr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DoYouBuzz : Votre meilleur CV](http://www.doyoubuzz.com/fr/)
 
@@ -29,9 +32,6 @@ title: http://www.doyoubuzz.com/fr/
 *  JS Response Bytes: 349217
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

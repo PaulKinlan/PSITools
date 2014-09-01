@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.startavla.com/171115/131.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games Play » Kingdom Rush Frontiers HD](http://www.startavla.com/171115/131.html)
 
@@ -29,9 +34,6 @@ title: http://www.startavla.com/171115/131.html
 *  JS Response Bytes: 560931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17154
-
-### Performance issues
-
 
 ### Performance issues
 

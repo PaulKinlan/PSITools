@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://adventureandactiongamesherefree.blogspot.com/2013/11/talking-ginger-3d.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Adventure And Action Games Here Free: Talking Ginger 3D](http://adventureandactiongamesherefree.blogspot.com/2013/11/talking-ginger-3d.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://adventureandactiongamesherefree.blogspot.com/2013/11/talking-ginge
 *  JS Response Bytes: 1292535
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110003
-
-### Performance issues
-
 
 ### Performance issues
 

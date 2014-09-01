@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.langageoral.com/?Source=GoogleWebApp&utm_source=Chrome&utm_medium=Hyperlink&utm_campaign=GoogleWebApp
+MinimizeRenderBlockingResources: true
 ---
 ## [LangageOral](http://www.langageoral.com/?Source=GoogleWebApp&utm_source=Chrome&utm_medium=Hyperlink&utm_campaign=GoogleWebApp)
 
@@ -29,9 +30,6 @@ title: http://www.langageoral.com/?Source=GoogleWebApp&utm_source=Chrome&utm_med
 *  JS Response Bytes: 1063108
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

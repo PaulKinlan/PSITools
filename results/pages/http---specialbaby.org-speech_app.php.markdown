@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://specialbaby.org/speech_app.php
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Speech Therapy App](http://specialbaby.org/speech_app.php)
 
@@ -29,9 +32,6 @@ title: http://specialbaby.org/speech_app.php
 *  JS Response Bytes: 904447
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14661
-
-### Performance issues
-
 
 ### Performance issues
 

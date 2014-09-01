@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://expo.10clouds.com/login/#/project/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Exposaur](http://expo.10clouds.com/login/#/project/)
 
@@ -29,9 +34,6 @@ title: http://expo.10clouds.com/login/#/project/
 *  JS Response Bytes: 1348722
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1105
-
-### Performance issues
-
 
 ### Performance issues
 

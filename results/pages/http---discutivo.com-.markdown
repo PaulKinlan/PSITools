@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://discutivo.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [discutivo.com](http://discutivo.com/)
 
@@ -29,9 +31,6 @@ title: http://discutivo.com/
 *  JS Response Bytes: 246794
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54571
-
-### Performance issues
-
 
 ### Performance issues
 

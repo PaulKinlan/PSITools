@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sites.google.com/site/link0001portal/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [link0001portal](https://sites.google.com/site/link0001portal/)
 
@@ -29,9 +32,6 @@ title: https://sites.google.com/site/link0001portal/
 *  JS Response Bytes: 658610
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 870
-
-### Performance issues
-
 
 ### Performance issues
 

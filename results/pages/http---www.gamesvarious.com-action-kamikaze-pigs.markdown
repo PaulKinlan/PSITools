@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/action/kamikaze-pigs
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kamikaze Pigs - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/action/kamikaze-pigs)
 
@@ -29,9 +35,6 @@ title: http://www.gamesvarious.com/action/kamikaze-pigs
 *  JS Response Bytes: 2179663
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99474
-
-### Performance issues
-
 
 ### Performance issues
 

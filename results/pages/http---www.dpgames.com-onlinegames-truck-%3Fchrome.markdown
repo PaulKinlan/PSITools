@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.dpgames.com/onlinegames/truck/?chrome
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Truck Games - Play Truck Games Online](http://www.dpgames.com/onlinegames/truck/?chrome)
 
@@ -29,9 +32,6 @@ title: http://www.dpgames.com/onlinegames/truck/?chrome
 *  JS Response Bytes: 398006
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

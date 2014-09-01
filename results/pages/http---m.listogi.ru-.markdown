@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.listogi.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Интернет магазин игрушек для детей | Листоги.рф](http://m.listogi.ru/)
 
@@ -29,9 +32,6 @@ title: http://m.listogi.ru/
 *  JS Response Bytes: 638191
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1807
-
-### Performance issues
-
 
 ### Performance issues
 

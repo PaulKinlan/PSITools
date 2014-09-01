@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.nickgames1.com/games/crashnburn
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nickelodeon Games](http://www.nickgames1.com/games/crashnburn)
 
@@ -29,9 +33,6 @@ title: http://www.nickgames1.com/games/crashnburn
 *  JS Response Bytes: 804623
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16962
-
-### Performance issues
-
 
 ### Performance issues
 

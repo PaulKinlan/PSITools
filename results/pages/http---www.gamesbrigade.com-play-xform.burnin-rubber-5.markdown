@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gamesbrigade.com/play/xform.burnin-rubber-5
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GamesBrigade.com | The best action games!](http://www.gamesbrigade.com/play/xform.burnin-rubber-5)
 
@@ -29,9 +36,6 @@ title: http://www.gamesbrigade.com/play/xform.burnin-rubber-5
 *  JS Response Bytes: 2611929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 304724
-
-### Performance issues
-
 
 ### Performance issues
 

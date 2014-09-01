@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.examword.com/webapp/englishvocabularytest.aspx?co=toefl#.U_uwiE0ieKA
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TOEFL Vocabulary Test](http://www.examword.com/webapp/englishvocabularytest.aspx?co=toefl#.U_uwiE0ieKA)
 
@@ -29,9 +33,6 @@ title: http://www.examword.com/webapp/englishvocabularytest.aspx?co=toefl#.U_uwi
 *  JS Response Bytes: 1382889
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16219
-
-### Performance issues
-
 
 ### Performance issues
 

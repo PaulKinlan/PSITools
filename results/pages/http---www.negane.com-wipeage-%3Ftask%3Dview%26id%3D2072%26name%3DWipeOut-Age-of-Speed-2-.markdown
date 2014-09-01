@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.negane.com/wipeage/?task=view&id=2072&name=WipeOut-Age-of-Speed-2-
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rallypoint](http://www.negane.com/wipeage/?task=view&id=2072&name=WipeOut-Age-of-Speed-2-)
 
@@ -29,9 +33,6 @@ title: http://www.negane.com/wipeage/?task=view&id=2072&name=WipeOut-Age-of-Spee
 *  JS Response Bytes: 1574869
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 85725
-
-### Performance issues
-
 
 ### Performance issues
 

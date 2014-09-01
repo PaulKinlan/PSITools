@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://minecraft-online-w.blogspot.com.tr/2014/04/cut-rope.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [minecraft game HD: cut the rope](http://minecraft-online-w.blogspot.com.tr/2014/04/cut-rope.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://minecraft-online-w.blogspot.com.tr/2014/04/cut-rope.html?m=1
 *  JS Response Bytes: 1441384
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99867
-
-### Performance issues
-
 
 ### Performance issues
 

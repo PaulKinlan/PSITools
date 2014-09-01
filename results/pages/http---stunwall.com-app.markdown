@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://stunwall.com/app
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stunwall - Photo effects, retro, vintage, beautiful](http://stunwall.com/app)
 
@@ -29,9 +32,6 @@ title: http://stunwall.com/app
 *  JS Response Bytes: 610730
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 933
-
-### Performance issues
-
 
 ### Performance issues
 

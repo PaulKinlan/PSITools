@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.secteurjeux.com/iphone/Solitaire/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Solitaire](http://m.secteurjeux.com/iphone/Solitaire/)
 
@@ -29,9 +31,6 @@ title: http://m.secteurjeux.com/iphone/Solitaire/
 *  JS Response Bytes: 408362
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1633
-
-### Performance issues
-
 
 ### Performance issues
 

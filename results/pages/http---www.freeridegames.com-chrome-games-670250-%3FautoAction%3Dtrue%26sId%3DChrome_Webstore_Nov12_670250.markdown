@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/670250/?autoAction=true&sId=Chrome_Webstore_Nov12_670250
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download 1 Penguin 100 Cases for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/670250/?autoAction=true&sId=Chrome_Webstore_Nov12_670250)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/670250/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1865536
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28075
-
-### Performance issues
-
 
 ### Performance issues
 

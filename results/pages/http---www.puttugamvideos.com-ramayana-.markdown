@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.puttugamvideos.com/ramayana/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shata Shloki Ramayana](http://www.puttugamvideos.com/ramayana/)
 
@@ -29,9 +32,6 @@ title: http://www.puttugamvideos.com/ramayana/
 *  JS Response Bytes: 210658
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 606
-
-### Performance issues
-
 
 ### Performance issues
 

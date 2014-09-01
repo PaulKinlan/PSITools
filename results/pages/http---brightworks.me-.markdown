@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://brightworks.me/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cosmetic Surgery Charity | Information On Plastic Surgery For Charitable Causes](http://brightworks.me/)
 
@@ -29,9 +35,6 @@ title: http://brightworks.me/
 *  JS Response Bytes: 1065900
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 792
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.sudgames.com/angry-birds-space-hd.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SuDGameS.Com | Flash Game | Flash Games | Top Games – Angry Birds Space HD](http://www.sudgames.com/angry-birds-space-hd.html)
 
@@ -29,9 +36,6 @@ title: http://www.sudgames.com/angry-birds-space-hd.html
 *  JS Response Bytes: 412704
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1074
-
-### Performance issues
-
 
 ### Performance issues
 

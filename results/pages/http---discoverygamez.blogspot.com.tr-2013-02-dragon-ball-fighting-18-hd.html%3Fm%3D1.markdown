@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://discoverygamez.blogspot.com.tr/2013/02/dragon-ball-fighting-18-hd.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [Discovery Games: Dragon Ball Fighting 2.2](http://discoverygamez.blogspot.com.tr/2013/02/dragon-ball-fighting-18-hd.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://discoverygamez.blogspot.com.tr/2013/02/dragon-ball-fighting-18-hd.
 *  JS Response Bytes: 1850414
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287192
-
-### Performance issues
-
 
 ### Performance issues
 

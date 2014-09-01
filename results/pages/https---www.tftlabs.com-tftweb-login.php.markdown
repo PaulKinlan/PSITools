@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.tftlabs.com/tftweb/login.php
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [User identification](https://www.tftlabs.com/tftweb/login.php)
 
@@ -29,9 +33,6 @@ title: https://www.tftlabs.com/tftweb/login.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 437
-
-### Performance issues
-
 
 ### Performance issues
 

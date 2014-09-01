@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://tic-tac-toe.co/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tic Tac Toe Game](http://tic-tac-toe.co/)
 
@@ -29,9 +34,6 @@ title: http://tic-tac-toe.co/
 *  JS Response Bytes: 605819
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15447
-
-### Performance issues
-
 
 ### Performance issues
 

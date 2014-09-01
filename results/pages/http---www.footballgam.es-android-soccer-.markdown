@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/android-soccer/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Android Soccer Game](http://www.footballgam.es/android-soccer/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/android-soccer/
 *  JS Response Bytes: 2139617
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155857
-
-### Performance issues
-
 
 ### Performance issues
 

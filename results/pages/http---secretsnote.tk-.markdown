@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://secretsnote.tk/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Secrets Note](http://secretsnote.tk/)
 
@@ -29,9 +32,6 @@ title: http://secretsnote.tk/
 *  JS Response Bytes: 1074701
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21743
-
-### Performance issues
-
 
 ### Performance issues
 

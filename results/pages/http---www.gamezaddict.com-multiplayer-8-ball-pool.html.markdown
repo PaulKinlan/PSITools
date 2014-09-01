@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamezaddict.com/multiplayer-8-ball-pool.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Multiplayer 8 Ball Pool | Gamez Addict](http://www.gamezaddict.com/multiplayer-8-ball-pool.html)
 
@@ -29,9 +33,6 @@ title: http://www.gamezaddict.com/multiplayer-8-ball-pool.html
 *  JS Response Bytes: 1098924
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21996
-
-### Performance issues
-
 
 ### Performance issues
 

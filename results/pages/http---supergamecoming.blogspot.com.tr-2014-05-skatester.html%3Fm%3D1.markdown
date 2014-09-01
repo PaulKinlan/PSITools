@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://supergamecoming.blogspot.com.tr/2014/05/skatester.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Super Game Coming: Skatester](http://supergamecoming.blogspot.com.tr/2014/05/skatester.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://supergamecoming.blogspot.com.tr/2014/05/skatester.html?m=1
 *  JS Response Bytes: 1406265
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112235
-
-### Performance issues
-
 
 ### Performance issues
 

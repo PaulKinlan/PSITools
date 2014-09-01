@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://cvphys.appspot.com/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](https://cvphys.appspot.com/)
 
@@ -29,9 +31,6 @@ title: https://cvphys.appspot.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

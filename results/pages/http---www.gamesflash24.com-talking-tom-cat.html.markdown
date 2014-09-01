@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesflash24.com/talking-tom-cat.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Talking Tom Cat : Games Flash 24](http://www.gamesflash24.com/talking-tom-cat.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamesflash24.com/talking-tom-cat.html
 *  JS Response Bytes: 2077603
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113157
-
-### Performance issues
-
 
 ### Performance issues
 

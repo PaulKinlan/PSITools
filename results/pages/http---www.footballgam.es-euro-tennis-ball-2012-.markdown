@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/euro-tennis-ball-2012/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Euro Tennis Ball 2012 Game](http://www.footballgam.es/euro-tennis-ball-2012/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/euro-tennis-ball-2012/
 *  JS Response Bytes: 2152498
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156587
-
-### Performance issues
-
 
 ### Performance issues
 

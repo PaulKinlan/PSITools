@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://multiterminal.xstore.pro/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MultiTerminal](https://multiterminal.xstore.pro/login)
 
@@ -29,9 +33,6 @@ title: https://multiterminal.xstore.pro/login
 *  JS Response Bytes: 154213
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 752
-
-### Performance issues
-
 
 ### Performance issues
 

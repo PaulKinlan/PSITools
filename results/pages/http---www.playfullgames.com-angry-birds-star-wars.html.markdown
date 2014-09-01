@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.playfullgames.com/angry-birds-star-wars.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Star Wars : Play Full Games](http://www.playfullgames.com/angry-birds-star-wars.html)
 
@@ -29,9 +37,6 @@ title: http://www.playfullgames.com/angry-birds-star-wars.html
 *  JS Response Bytes: 1529933
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98588
-
-### Performance issues
-
 
 ### Performance issues
 

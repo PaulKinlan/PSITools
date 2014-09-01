@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://web-marketing.zako.org/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [WEBマーケティング ブログ-WEB担当者に有益な世界の情報を-](http://web-marketing.zako.org/)
 
@@ -29,9 +31,6 @@ title: http://web-marketing.zako.org/
 *  JS Response Bytes: 207724
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

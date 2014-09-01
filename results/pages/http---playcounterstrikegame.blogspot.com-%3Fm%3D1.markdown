@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://playcounterstrikegame.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Counter strike play](http://playcounterstrikegame.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://playcounterstrikegame.blogspot.com/?m=1
 *  JS Response Bytes: 788563
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 292901
-
-### Performance issues
-
 
 ### Performance issues
 

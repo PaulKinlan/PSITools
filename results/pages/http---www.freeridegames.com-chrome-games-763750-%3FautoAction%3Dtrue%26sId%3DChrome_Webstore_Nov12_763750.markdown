@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/763750/?autoAction=true&sId=Chrome_Webstore_Nov12_763750
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Bunny Bounce Deluxe for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/763750/?autoAction=true&sId=Chrome_Webstore_Nov12_763750)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/763750/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1798676
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30424
-
-### Performance issues
-
 
 ### Performance issues
 

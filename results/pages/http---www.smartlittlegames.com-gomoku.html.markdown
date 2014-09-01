@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.smartlittlegames.com/gomoku.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Smart Little Games - Online Strategy Games](http://www.smartlittlegames.com/gomoku.html)
 
@@ -29,9 +34,6 @@ title: http://www.smartlittlegames.com/gomoku.html
 *  JS Response Bytes: 505450
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1308
-
-### Performance issues
-
 
 ### Performance issues
 

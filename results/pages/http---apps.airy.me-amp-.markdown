@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://apps.airy.me/amp/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://apps.airy.me/amp/)
 
@@ -29,9 +30,6 @@ title: http://apps.airy.me/amp/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 520
-
-### Performance issues
-
 
 ### Performance issues
 

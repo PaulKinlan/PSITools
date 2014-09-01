@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.tmall.com/?sprefer=sypc01&ali_trackid=2:mm_24964138_2359125_21092389:1409004199_2k4_591686942&e=zGU34CA7K%2BPkqB05%2Bm7rfGGjlY60ogwyJji7UCeBEsvAWoHkQu1OwbLaCtZdfvdRv0N6tVOSUHYhiQhZEjQ92TFKdnwbbkMG8zs66lrP7OGU9n8Z94pFqKNy%2FBmGsaSfY%2BhD0ULCkoLQNvEUVeUP8blVJadcdpDWbx5jZTZaWWCC5TPjVi0AvA%3D%3D&type=2
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [天猫触屏版](http://m.tmall.com/?sprefer=sypc01&ali_trackid=2:mm_24964138_2359125_21092389:1409004199_2k4_591686942&e=zGU34CA7K%2BPkqB05%2Bm7rfGGjlY60ogwyJji7UCeBEsvAWoHkQu1OwbLaCtZdfvdRv0N6tVOSUHYhiQhZEjQ92TFKdnwbbkMG8zs66lrP7OGU9n8Z94pFqKNy%2FBmGsaSfY%2BhD0ULCkoLQNvEUVeUP8blVJadcdpDWbx5jZTZaWWCC5TPjVi0AvA%3D%3D&type=2)
 
@@ -29,9 +31,6 @@ title: http://m.tmall.com/?sprefer=sypc01&ali_trackid=2:mm_24964138_2359125_2109
 *  JS Response Bytes: 95817
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3426
-
-### Performance issues
-
 
 ### Performance issues
 

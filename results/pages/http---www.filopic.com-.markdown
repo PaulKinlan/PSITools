@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.filopic.com/
+UseLegibleFontSizes: true
 ---
 ## [](http://www.filopic.com/)
 
@@ -29,9 +30,6 @@ title: http://www.filopic.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 429
-
-### Performance issues
-
 
 ### Performance issues
 

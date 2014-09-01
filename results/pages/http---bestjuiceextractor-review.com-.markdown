@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://bestjuiceextractor-review.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [BestJuiceExtractor-Review.com: The Leading Best Juice Extractor Review Site on the Net](http://bestjuiceextractor-review.com/)
 
@@ -29,9 +30,6 @@ title: http://bestjuiceextractor-review.com/
 *  JS Response Bytes: 259015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 453
-
-### Performance issues
-
 
 ### Performance issues
 

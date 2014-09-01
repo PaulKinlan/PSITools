@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://vpn1.rayonier.com/+CSCOE+/logon.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SSL VPN Service](https://vpn1.rayonier.com/+CSCOE+/logon.html)
 
@@ -29,9 +33,6 @@ title: https://vpn1.rayonier.com/+CSCOE+/logon.html
 *  JS Response Bytes: 26853
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 379
-
-### Performance issues
-
 
 ### Performance issues
 

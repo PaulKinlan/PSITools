@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://frontandsocial.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Front & Social Chicago | Public Relations and Internet Marketing](http://frontandsocial.com/)
 
@@ -29,9 +33,6 @@ title: http://frontandsocial.com/
 *  JS Response Bytes: 135463
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 66572
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://playstartgame.com/the-last-stand.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PlayStartGame – The Last Stand](http://playstartgame.com/the-last-stand.html)
 
@@ -29,9 +36,6 @@ title: http://playstartgame.com/the-last-stand.html
 *  JS Response Bytes: 365692
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54882
-
-### Performance issues
-
 
 ### Performance issues
 

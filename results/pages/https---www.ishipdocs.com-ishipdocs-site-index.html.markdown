@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.ishipdocs.com/ishipdocs/site/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ishipdocs - Store | Share | Send | Print Anywhere](https://www.ishipdocs.com/ishipdocs/site/index.html)
 
@@ -29,9 +32,6 @@ title: https://www.ishipdocs.com/ishipdocs/site/index.html
 *  JS Response Bytes: 1262009
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4586
-
-### Performance issues
-
 
 ### Performance issues
 

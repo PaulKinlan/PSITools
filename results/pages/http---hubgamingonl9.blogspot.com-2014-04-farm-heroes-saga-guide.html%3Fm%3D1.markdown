@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://hubgamingonl9.blogspot.com/2014/04/farm-heroes-saga-guide.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gaming Hub: Farm Heroes Saga Guide](http://hubgamingonl9.blogspot.com/2014/04/farm-heroes-saga-guide.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://hubgamingonl9.blogspot.com/2014/04/farm-heroes-saga-guide.html?m=1
 *  JS Response Bytes: 1373124
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287173
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://tv9heeguunte.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog on TV9 Heegu Unte !](http://tv9heeguunte.blogspot.com/?m=1)
 
@@ -29,9 +33,6 @@ title: http://tv9heeguunte.blogspot.com/?m=1
 *  JS Response Bytes: 3237346
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125018
-
-### Performance issues
-
 
 ### Performance issues
 

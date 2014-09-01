@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://makkarlabs.in/badgeit/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [BadgeIt - Badge Generator for Events, Conferences|Home](http://makkarlabs.in/badgeit/)
 
@@ -29,9 +32,6 @@ title: http://makkarlabs.in/badgeit/
 *  JS Response Bytes: 1359484
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96374
-
-### Performance issues
-
 
 ### Performance issues
 

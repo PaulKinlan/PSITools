@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://vanigames.com/cut-the-rope.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cut the Rope | Vani Games](http://vanigames.com/cut-the-rope.html)
 
@@ -29,9 +33,6 @@ title: http://vanigames.com/cut-the-rope.html
 *  JS Response Bytes: 1918089
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112866
-
-### Performance issues
-
 
 ### Performance issues
 

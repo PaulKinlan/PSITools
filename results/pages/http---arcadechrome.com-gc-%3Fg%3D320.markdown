@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://arcadechrome.com/gc/?g=320
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [The Space Game](http://arcadechrome.com/gc/?g=320)
 
@@ -29,9 +32,6 @@ title: http://arcadechrome.com/gc/?g=320
 *  JS Response Bytes: 388251
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1471
-
-### Performance issues
-
 
 ### Performance issues
 

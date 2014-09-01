@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.paycomonline.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Paycom | Payroll & HR Services in the Cloud](http://www.paycomonline.com/)
 
@@ -29,9 +32,6 @@ title: http://www.paycomonline.com/
 *  JS Response Bytes: 148792
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8545
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamezingo.net/puzzle-games/a-short-history-of-the-world.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [A Short History of the World - Free Online Games | Gamezingo - http://gamezingo.net](http://gamezingo.net/puzzle-games/a-short-history-of-the-world.html)
 
@@ -29,9 +35,6 @@ title: http://gamezingo.net/puzzle-games/a-short-history-of-the-world.html
 *  JS Response Bytes: 1301821
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59120
-
-### Performance issues
-
 
 ### Performance issues
 

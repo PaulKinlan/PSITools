@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://myhealthfoodmlm.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [My Health Food Business](http://myhealthfoodmlm.com/)
 
@@ -18,20 +21,17 @@ title: http://myhealthfoodmlm.com/
 *  Number of JS Resources: 14
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 36
-*  Total Request Bytes: 5833
+*  Total Request Bytes: 5831
 
 ### Response data
 
-*  HTML Response Bytes: 46771
+*  HTML Response Bytes: 46694
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 191532
-*  Image Response Bytes: 444446
-*  JS Response Bytes: 1573769
+*  CSS Response Bytes: 194339
+*  Image Response Bytes: 444448
+*  JS Response Bytes: 1576724
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2329
-
-### Performance issues
-
+*  Other Response Bytes: 2328
 
 ### Performance issues
 

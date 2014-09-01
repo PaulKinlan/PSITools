@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://experiments.comli.com/?pid=web/scratch/flappybird
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Experiments](http://experiments.comli.com/?pid=web/scratch/flappybird)
 
@@ -29,9 +31,6 @@ title: http://experiments.comli.com/?pid=web/scratch/flappybird
 *  JS Response Bytes: 315309
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5007
-
-### Performance issues
-
 
 ### Performance issues
 

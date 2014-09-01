@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.midlothiancubscouts.org/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cub Scout Pack 876 - Midlothian Virginia](http://www.midlothiancubscouts.org/)
 
@@ -29,9 +33,6 @@ title: http://www.midlothiancubscouts.org/
 *  JS Response Bytes: 1048358
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156873
-
-### Performance issues
-
 
 ### Performance issues
 

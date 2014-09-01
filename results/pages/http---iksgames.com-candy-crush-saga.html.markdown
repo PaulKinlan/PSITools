@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://iksgames.com/candy-crush-saga.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IKSgameS.Com | Flash Games. – Candy Crush Saga](http://iksgames.com/candy-crush-saga.html)
 
@@ -29,9 +35,6 @@ title: http://iksgames.com/candy-crush-saga.html
 *  JS Response Bytes: 412220
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 805
-
-### Performance issues
-
 
 ### Performance issues
 

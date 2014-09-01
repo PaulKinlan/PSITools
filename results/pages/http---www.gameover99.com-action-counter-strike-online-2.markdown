@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gameover99.com/action/counter-strike-online-2
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Counter-Strike-Online 2 - Gameover99](http://www.gameover99.com/action/counter-strike-online-2)
 
@@ -29,9 +35,6 @@ title: http://www.gameover99.com/action/counter-strike-online-2
 *  JS Response Bytes: 1931491
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120067
-
-### Performance issues
-
 
 ### Performance issues
 

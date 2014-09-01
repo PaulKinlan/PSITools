@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://supergamecoming.blogspot.com.tr/2014/05/dream-car-racing.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [Super Game Coming: DREAM CAR RACING](http://supergamecoming.blogspot.com.tr/2014/05/dream-car-racing.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://supergamecoming.blogspot.com.tr/2014/05/dream-car-racing.html?m=1
 *  JS Response Bytes: 1112755
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110745
-
-### Performance issues
-
 
 ### Performance issues
 

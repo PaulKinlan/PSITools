@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.funhtml5games.com/pandacatch/
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.funhtml5games.com/pandacatch/)
 
@@ -29,9 +32,6 @@ title: http://www.funhtml5games.com/pandacatch/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

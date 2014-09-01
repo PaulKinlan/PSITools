@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://fiddlesalad.com/markdown/
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [Online Markdown Editor | Fiddle Salad](http://fiddlesalad.com/markdown/)
 
@@ -29,9 +31,6 @@ title: http://fiddlesalad.com/markdown/
 *  JS Response Bytes: 2494120
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49005
-
-### Performance issues
-
 
 ### Performance issues
 

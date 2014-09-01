@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://1299games.blogspot.com/2013/09/slender-2.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://1299games.blogspot.com/2013/09/slender-2.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://1299games.blogspot.com/2013/09/slender-2.html?m=1
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18788
-
-### Performance issues
-
 
 ### Performance issues
 

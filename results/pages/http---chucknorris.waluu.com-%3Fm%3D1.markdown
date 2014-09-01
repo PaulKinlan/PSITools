@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chucknorris.waluu.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Liste des contributions](http://chucknorris.waluu.com/?m=1)
 
@@ -29,9 +33,6 @@ title: http://chucknorris.waluu.com/?m=1
 *  JS Response Bytes: 902552
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4135
-
-### Performance issues
-
 
 ### Performance issues
 

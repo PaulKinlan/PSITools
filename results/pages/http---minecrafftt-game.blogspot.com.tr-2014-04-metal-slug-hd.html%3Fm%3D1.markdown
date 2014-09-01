@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://minecrafftt-game.blogspot.com.tr/2014/04/metal-slug-hd.html?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [minecraft free game](http://minecrafftt-game.blogspot.com.tr/2014/04/metal-slug-hd.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://minecrafftt-game.blogspot.com.tr/2014/04/metal-slug-hd.html?m=1
 *  JS Response Bytes: 248931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43087
-
-### Performance issues
-
 
 ### Performance issues
 

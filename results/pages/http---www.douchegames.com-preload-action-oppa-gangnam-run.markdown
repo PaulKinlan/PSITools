@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.douchegames.com/preload/action/oppa-gangnam-run
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Oppa Gangnam Run - Play Game Douchbag!!!](http://www.douchegames.com/preload/action/oppa-gangnam-run)
 
@@ -29,9 +34,6 @@ title: http://www.douchegames.com/preload/action/oppa-gangnam-run
 *  JS Response Bytes: 182514
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1273
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.portaldascuriosidades.com/forum/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Portal das Curiosidades - Curiosidades e coisas engraçadas](http://www.portaldascuriosidades.com/forum/)
 
@@ -29,9 +35,6 @@ title: http://www.portaldascuriosidades.com/forum/
 *  JS Response Bytes: 507922
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15015
-
-### Performance issues
-
 
 ### Performance issues
 

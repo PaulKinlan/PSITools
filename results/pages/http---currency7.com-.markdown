@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://currency7.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Currency Converter | Foreign Exchange Conversion - Money Calculator](http://currency7.com/)
 
@@ -29,9 +33,6 @@ title: http://currency7.com/
 *  JS Response Bytes: 1431906
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18115
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.eludi.net/memoludi/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [memoludi](http://www.eludi.net/memoludi/)
 
@@ -29,9 +32,6 @@ title: http://www.eludi.net/memoludi/
 *  JS Response Bytes: 575174
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://mbs.cloudberrylab.com/Admin/Login.aspx?ref=%2FAdmin%2FDefault.aspx
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CloudBerry Managed Backup Service](https://mbs.cloudberrylab.com/Admin/Login.aspx?ref=%2FAdmin%2FDefault.aspx)
 
@@ -29,9 +35,6 @@ title: https://mbs.cloudberrylab.com/Admin/Login.aspx?ref=%2FAdmin%2FDefault.asp
 *  JS Response Bytes: 1107945
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 931
-
-### Performance issues
-
 
 ### Performance issues
 

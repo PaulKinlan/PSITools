@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://unityplay.me/chrome/ublock_parking/webplayer.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Unblock Parking | UnityPlay.com-Flash-Android-Chrome Games](http://unityplay.me/chrome/ublock_parking/webplayer.html)
 
@@ -29,9 +35,6 @@ title: http://unityplay.me/chrome/ublock_parking/webplayer.html
 *  JS Response Bytes: 961166
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2897
-
-### Performance issues
-
 
 ### Performance issues
 

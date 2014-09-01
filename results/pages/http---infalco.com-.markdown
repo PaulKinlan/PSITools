@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://infalco.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [infalco | music](http://infalco.com/)
 
@@ -29,9 +35,6 @@ title: http://infalco.com/
 *  JS Response Bytes: 1474072
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95771
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.puxgames.com/game/8-ball-pool-multiplayer-19
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [8 Ball Pool Multiplayer Game - Pux Games](http://www.puxgames.com/game/8-ball-pool-multiplayer-19)
 
@@ -29,9 +33,6 @@ title: http://www.puxgames.com/game/8-ball-pool-multiplayer-19
 *  JS Response Bytes: 1736046
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54355
-
-### Performance issues
-
 
 ### Performance issues
 

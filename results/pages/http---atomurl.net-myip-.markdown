@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://atomurl.net/myip/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [What is my IP address,User Agent? Lookup IP and more...](http://atomurl.net/myip/)
 
@@ -29,9 +34,6 @@ title: http://atomurl.net/myip/
 *  JS Response Bytes: 1692746
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 151986
-
-### Performance issues
-
 
 ### Performance issues
 

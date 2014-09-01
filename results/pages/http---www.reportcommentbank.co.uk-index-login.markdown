@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.reportcommentbank.co.uk/index/login
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [School Report Comments Bank](http://www.reportcommentbank.co.uk/index/login)
 
@@ -29,9 +35,6 @@ title: http://www.reportcommentbank.co.uk/index/login
 *  JS Response Bytes: 1974426
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97917
-
-### Performance issues
-
 
 ### Performance issues
 

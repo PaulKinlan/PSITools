@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://maxiretos.com/index.php/jugar-online
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404 - Categoría no encontrada](http://maxiretos.com/index.php/jugar-online)
 
@@ -29,9 +33,6 @@ title: http://maxiretos.com/index.php/jugar-online
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2032
-
-### Performance issues
-
 
 ### Performance issues
 

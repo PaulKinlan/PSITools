@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.hispafutbol.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Juegos de Fútbol - Juegos de fútbol gratis](http://www.hispafutbol.com/)
 
@@ -29,9 +32,6 @@ title: http://www.hispafutbol.com/
 *  JS Response Bytes: 587486
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1270
-
-### Performance issues
-
 
 ### Performance issues
 

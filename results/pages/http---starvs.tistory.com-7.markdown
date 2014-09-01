@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://starvs.tistory.com/7
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ChromeTools - Scientific Calculator2-APP](http://starvs.tistory.com/7)
 
@@ -29,9 +33,6 @@ title: http://starvs.tistory.com/7
 *  JS Response Bytes: 795234
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 76869
-
-### Performance issues
-
 
 ### Performance issues
 

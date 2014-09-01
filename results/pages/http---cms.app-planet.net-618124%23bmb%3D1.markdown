@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://cms.app-planet.net/618124#bmb=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [CamdenStyle](http://cms.app-planet.net/618124#bmb=1)
 
@@ -29,9 +33,6 @@ title: http://cms.app-planet.net/618124#bmb=1
 *  JS Response Bytes: 1094120
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1877
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/angry-birds-new-episodes/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Angry Birds New Episodes Game — Sultans of Game](http://www.sultansofgame.com/games/angry-birds-new-episodes/)
 
@@ -29,9 +33,6 @@ title: http://www.sultansofgame.com/games/angry-birds-new-episodes/
 *  JS Response Bytes: 1876022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 128803
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.aroggame.com/default-category/soldiers-rts-
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Soldiers RTS - Aroggame.com](http://www.aroggame.com/default-category/soldiers-rts-)
 
@@ -29,9 +34,6 @@ title: http://www.aroggame.com/default-category/soldiers-rts-
 *  JS Response Bytes: 2316055
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99479
-
-### Performance issues
-
 
 ### Performance issues
 

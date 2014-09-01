@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://looneytunesmahjong.funkychromegames.com/looneytunesmahjong.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Looney Tunes Mahjong](http://looneytunesmahjong.funkychromegames.com/looneytunesmahjong.htm)
 
@@ -29,9 +35,6 @@ title: http://looneytunesmahjong.funkychromegames.com/looneytunesmahjong.htm
 *  JS Response Bytes: 909550
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109030
-
-### Performance issues
-
 
 ### Performance issues
 

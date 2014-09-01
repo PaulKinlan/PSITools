@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/game/name/violetta-sing
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [violetta-sing Addicting Games](http://www.2addictinggames.com/games/game/name/violetta-sing)
 
@@ -29,9 +34,6 @@ title: http://www.2addictinggames.com/games/game/name/violetta-sing
 *  JS Response Bytes: 1861965
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111903
-
-### Performance issues
-
 
 ### Performance issues
 

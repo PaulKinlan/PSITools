@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mzbox.com/onlinegames/car/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Car Games - Play Car Games Online](http://www.mzbox.com/onlinegames/car/)
 
@@ -29,9 +33,6 @@ title: http://www.mzbox.com/onlinegames/car/
 *  JS Response Bytes: 581115
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16515
-
-### Performance issues
-
 
 ### Performance issues
 

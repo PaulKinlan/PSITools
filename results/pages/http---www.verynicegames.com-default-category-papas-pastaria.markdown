@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.verynicegames.com/default-category/papas-pastaria
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Papa's Pastaria - Very Nice Games](http://www.verynicegames.com/default-category/papas-pastaria)
 
@@ -29,9 +34,6 @@ title: http://www.verynicegames.com/default-category/papas-pastaria
 *  JS Response Bytes: 1879566
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117494
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://en.dots-game.org/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dots and Boxes (online game for two players)](http://en.dots-game.org/)
 
@@ -29,9 +33,6 @@ title: http://en.dots-game.org/
 *  JS Response Bytes: 1187679
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110283
-
-### Performance issues
-
 
 ### Performance issues
 

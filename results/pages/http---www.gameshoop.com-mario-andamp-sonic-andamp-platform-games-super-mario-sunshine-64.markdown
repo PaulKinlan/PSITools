@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gameshoop.com/mario-andamp-sonic-andamp-platform-games/super-mario-sunshine-64
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [](http://www.gameshoop.com/mario-andamp-sonic-andamp-platform-games/super-mario-sunshine-64)
 
@@ -29,9 +32,6 @@ title: http://www.gameshoop.com/mario-andamp-sonic-andamp-platform-games/super-m
 *  JS Response Bytes: 165984
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

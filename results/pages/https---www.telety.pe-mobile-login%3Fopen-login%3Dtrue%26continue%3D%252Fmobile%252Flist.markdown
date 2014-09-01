@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.telety.pe/mobile/login?open-login=true&continue=%2Fmobile%2Flist
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
 ---
 ## [Login - telety.pe – Your task messenger](https://www.telety.pe/mobile/login?open-login=true&continue=%2Fmobile%2Flist)
 
@@ -29,9 +33,6 @@ title: https://www.telety.pe/mobile/login?open-login=true&continue=%2Fmobile%2Fl
 *  JS Response Bytes: 489748
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 953
-
-### Performance issues
-
 
 ### Performance issues
 

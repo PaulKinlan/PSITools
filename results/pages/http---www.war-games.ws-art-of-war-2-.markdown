@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.war-games.ws/art-of-war-2/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Art of War 2](http://www.war-games.ws/art-of-war-2/)
 
@@ -29,9 +36,6 @@ title: http://www.war-games.ws/art-of-war-2/
 *  JS Response Bytes: 2453325
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114296
-
-### Performance issues
-
 
 ### Performance issues
 

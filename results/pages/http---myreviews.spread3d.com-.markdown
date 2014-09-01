@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://myreviews.spread3d.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [My Reviews](http://myreviews.spread3d.com/)
 
@@ -29,9 +32,6 @@ title: http://myreviews.spread3d.com/
 *  JS Response Bytes: 702556
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5153
-
-### Performance issues
-
 
 ### Performance issues
 

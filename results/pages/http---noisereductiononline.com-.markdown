@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://noisereductiononline.com/
+UseLegibleFontSizes: true
 ---
 ## [](http://noisereductiononline.com/)
 
@@ -29,9 +30,6 @@ title: http://noisereductiononline.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 358
-
-### Performance issues
-
 
 ### Performance issues
 

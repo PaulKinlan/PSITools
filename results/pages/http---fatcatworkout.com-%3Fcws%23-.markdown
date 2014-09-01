@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://fatcatworkout.com/?cws#/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [7 Minute Workout](http://fatcatworkout.com/?cws#/)
 
@@ -29,9 +32,6 @@ title: http://fatcatworkout.com/?cws#/
 *  JS Response Bytes: 1412303
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102194
-
-### Performance issues
-
 
 ### Performance issues
 

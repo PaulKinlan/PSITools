@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.dumadu.com/games/football-kick-flick
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Football Kick Flick-Football Games|Play Free Football Games Online-Dumadu](http://www.dumadu.com/games/football-kick-flick)
 
@@ -29,9 +32,6 @@ title: http://www.dumadu.com/games/football-kick-flick
 *  JS Response Bytes: 1136832
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30903
-
-### Performance issues
-
 
 ### Performance issues
 

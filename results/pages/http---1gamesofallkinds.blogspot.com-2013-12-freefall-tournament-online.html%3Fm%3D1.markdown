@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://1gamesofallkinds.blogspot.com/2013/12/freefall-tournament-online.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Games Of All Kinds: Freefall Tournament Online](http://1gamesofallkinds.blogspot.com/2013/12/freefall-tournament-online.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://1gamesofallkinds.blogspot.com/2013/12/freefall-tournament-online.h
 *  JS Response Bytes: 1717643
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110763
-
-### Performance issues
-
 
 ### Performance issues
 

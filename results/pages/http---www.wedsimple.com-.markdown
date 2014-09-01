@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.wedsimple.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Wedding Planning & Wedding Websites - Over 80 Web Site Designs - Complete Online Planning Tools](http://www.wedsimple.com/)
 
@@ -29,9 +34,6 @@ title: http://www.wedsimple.com/
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

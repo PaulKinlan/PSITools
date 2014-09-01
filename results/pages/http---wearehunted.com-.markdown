@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://wearehunted.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [We Are Hunted Joins Twitter](http://wearehunted.com/)
 
@@ -29,9 +33,6 @@ title: http://wearehunted.com/
 *  JS Response Bytes: 337797
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

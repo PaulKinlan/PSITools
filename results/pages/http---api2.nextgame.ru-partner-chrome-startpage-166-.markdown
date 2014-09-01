@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://api2.nextgame.ru/partner/chrome/startpage/166/
+UseLegibleFontSizes: true
 ---
 ## [404 — Не найдено](http://api2.nextgame.ru/partner/chrome/startpage/166/)
 
@@ -29,9 +30,6 @@ title: http://api2.nextgame.ru/partner/chrome/startpage/166/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 632
-
-### Performance issues
-
 
 ### Performance issues
 

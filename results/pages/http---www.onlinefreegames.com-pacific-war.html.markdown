@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.onlinefreegames.com/pacific-war.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pacific War Online Game - Play Free](http://www.onlinefreegames.com/pacific-war.html)
 
@@ -29,9 +36,6 @@ title: http://www.onlinefreegames.com/pacific-war.html
 *  JS Response Bytes: 744812
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://game1453.blogspot.com/2014/03/subway-surfers.html?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Online free games: Subway Surfers](http://game1453.blogspot.com/2014/03/subway-surfers.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://game1453.blogspot.com/2014/03/subway-surfers.html?m=1
 *  JS Response Bytes: 762235
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95579
-
-### Performance issues
-
 
 ### Performance issues
 

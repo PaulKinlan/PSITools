@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://sutton.schoolfusion.us/modules/cms/pages.phtml?pageid=311023
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sutton School District - Chromebook Links](http://sutton.schoolfusion.us/modules/cms/pages.phtml?pageid=311023)
 
@@ -29,9 +32,6 @@ title: http://sutton.schoolfusion.us/modules/cms/pages.phtml?pageid=311023
 *  JS Response Bytes: 123724
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1568
-
-### Performance issues
-
 
 ### Performance issues
 

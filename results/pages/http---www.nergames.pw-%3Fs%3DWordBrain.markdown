@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.nergames.pw/?s=WordBrain
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WordBrain – Search Results – Online Best Games](http://www.nergames.pw/?s=WordBrain)
 
@@ -29,9 +34,6 @@ title: http://www.nergames.pw/?s=WordBrain
 *  JS Response Bytes: 718335
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

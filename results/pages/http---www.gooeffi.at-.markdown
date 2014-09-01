@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.gooeffi.at/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [goÖffi - Wien](http://www.gooeffi.at/)
 
@@ -29,9 +31,6 @@ title: http://www.gooeffi.at/
 *  JS Response Bytes: 775675
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14663
-
-### Performance issues
-
 
 ### Performance issues
 

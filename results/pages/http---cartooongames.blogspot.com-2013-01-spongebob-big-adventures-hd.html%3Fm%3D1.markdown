@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://cartooongames.blogspot.com/2013/01/spongebob-big-adventures-hd.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://cartooongames.blogspot.com/2013/01/spongebob-big-adventures-hd.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://cartooongames.blogspot.com/2013/01/spongebob-big-adventures-hd.htm
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19303
-
-### Performance issues
-
 
 ### Performance issues
 

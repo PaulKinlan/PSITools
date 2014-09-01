@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.audiosauna.com/studio/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AudioSauna - Online Music Software](http://www.audiosauna.com/studio/)
 
@@ -29,9 +32,6 @@ title: http://www.audiosauna.com/studio/
 *  JS Response Bytes: 566497
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

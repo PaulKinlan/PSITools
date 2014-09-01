@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gameforgirls.ca/sara-s-cooking-games
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [gameforgirls.ca](http://www.gameforgirls.ca/sara-s-cooking-games)
 
@@ -29,9 +32,6 @@ title: http://www.gameforgirls.ca/sara-s-cooking-games
 *  JS Response Bytes: 209185
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

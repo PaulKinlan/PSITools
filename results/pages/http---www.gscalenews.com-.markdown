@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.gscalenews.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [G Scale News | Discover the fascinating world of Garden Railways online.](http://www.gscalenews.com/)
 
@@ -29,9 +31,6 @@ title: http://www.gscalenews.com/
 *  JS Response Bytes: 1217328
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52920
-
-### Performance issues
-
 
 ### Performance issues
 

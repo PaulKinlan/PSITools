@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://blueicegames.blogspot.com/2013/08/naruto-ninja-world-storm.html?m=1
+UseLegibleFontSizes: true
 ---
 ## [Service Unavailable](http://blueicegames.blogspot.com/2013/08/naruto-ninja-world-storm.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://blueicegames.blogspot.com/2013/08/naruto-ninja-world-storm.html?m=
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1127
-
-### Performance issues
-
 
 ### Performance issues
 

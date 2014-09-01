@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fullcargame.com/default-category/burnin-rubber-5
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Burnin Rubber 5 - Full Car Games - All Free Car Games](http://www.fullcargame.com/default-category/burnin-rubber-5)
 
@@ -29,9 +34,6 @@ title: http://www.fullcargame.com/default-category/burnin-rubber-5
 *  JS Response Bytes: 3331991
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111373
-
-### Performance issues
-
 
 ### Performance issues
 

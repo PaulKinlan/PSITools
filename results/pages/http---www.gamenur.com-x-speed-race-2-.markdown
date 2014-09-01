@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamenur.com/x-speed-race-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [X speed race 2 | Gamenur](http://www.gamenur.com/x-speed-race-2/)
 
@@ -29,9 +33,6 @@ title: http://www.gamenur.com/x-speed-race-2/
 *  JS Response Bytes: 1463788
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 145769
-
-### Performance issues
-
 
 ### Performance issues
 

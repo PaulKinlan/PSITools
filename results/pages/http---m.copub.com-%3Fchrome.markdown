@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.copub.com/?chrome
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [coPub.com](http://m.copub.com/?chrome)
 
@@ -29,9 +31,6 @@ title: http://m.copub.com/?chrome
 *  JS Response Bytes: 551101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 222767
-
-### Performance issues
-
 
 ### Performance issues
 

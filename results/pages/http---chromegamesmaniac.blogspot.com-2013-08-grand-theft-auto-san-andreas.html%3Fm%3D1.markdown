@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromegamesmaniac.blogspot.com/2013/08/grand-theft-auto-san-andreas.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [chromegamesmaniac: Grand Theft Auto San Andreas](http://chromegamesmaniac.blogspot.com/2013/08/grand-theft-auto-san-andreas.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chromegamesmaniac.blogspot.com/2013/08/grand-theft-auto-san-andrea
 *  JS Response Bytes: 1067926
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98020
-
-### Performance issues
-
 
 ### Performance issues
 

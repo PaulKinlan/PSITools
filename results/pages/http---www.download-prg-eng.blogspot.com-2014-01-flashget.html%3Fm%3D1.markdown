@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.download-prg-eng.blogspot.com/2014/01/flashget.html?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Download: flashGet](http://www.download-prg-eng.blogspot.com/2014/01/flashget.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://www.download-prg-eng.blogspot.com/2014/01/flashget.html?m=1
 *  JS Response Bytes: 722270
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95587
-
-### Performance issues
-
 
 ### Performance issues
 

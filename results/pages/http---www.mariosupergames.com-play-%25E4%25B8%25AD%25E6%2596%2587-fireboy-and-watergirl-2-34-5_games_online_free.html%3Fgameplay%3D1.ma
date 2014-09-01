@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.mariosupergames.com/play/%E4%B8%AD%E6%96%87-fireboy-and-watergirl-2-34-5_games_online_free.html?gameplay=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [- PLAY ONLINE FREE FLASH SUPER MARIO GAMES - Mario](http://www.mariosupergames.com/play/%E4%B8%AD%E6%96%87-fireboy-and-watergirl-2-34-5_games_online_free.html?gameplay=1)
 
@@ -29,9 +35,6 @@ title: http://www.mariosupergames.com/play/%E4%B8%AD%E6%96%87-fireboy-and-waterg
 *  JS Response Bytes: 2139264
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112310
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.war-games.ws/zombie-empire/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombie Empire](http://www.war-games.ws/zombie-empire/)
 
@@ -29,9 +36,6 @@ title: http://www.war-games.ws/zombie-empire/
 *  JS Response Bytes: 2260363
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102428
-
-### Performance issues
-
 
 ### Performance issues
 

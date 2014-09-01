@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://development.movenote.com/
+UseLegibleFontSizes: true
 ---
 ## [502 Bad Gateway](http://development.movenote.com/)
 
@@ -29,9 +30,6 @@ title: http://development.movenote.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 307
-
-### Performance issues
-
 
 ### Performance issues
 

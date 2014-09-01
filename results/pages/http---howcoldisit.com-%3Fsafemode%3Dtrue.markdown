@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://howcoldisit.com/?safemode=true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [23°C in Mountain View, United States](http://howcoldisit.com/?safemode=true)
 
@@ -29,9 +33,6 @@ title: http://howcoldisit.com/?safemode=true
 *  JS Response Bytes: 557979
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 352481
-
-### Performance issues
-
 
 ### Performance issues
 

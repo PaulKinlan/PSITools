@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.simpleimageresizer.com/ip-detector
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [66.249.93.21 <- Your IP](http://www.simpleimageresizer.com/ip-detector)
 
@@ -29,9 +33,6 @@ title: http://www.simpleimageresizer.com/ip-detector
 *  JS Response Bytes: 494102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54479
-
-### Performance issues
-
 
 ### Performance issues
 

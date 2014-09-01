@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.miinecraftgame.com/?s=gta+vice+city
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [free game play – Search Results – gta vice city](http://www.miinecraftgame.com/?s=gta+vice+city)
 
@@ -29,9 +33,6 @@ title: http://www.miinecraftgame.com/?s=gta+vice+city
 *  JS Response Bytes: 496730
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

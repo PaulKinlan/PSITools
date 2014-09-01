@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.practicepack.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [PracticePack](http://www.practicepack.com/)
 
@@ -29,9 +30,6 @@ title: http://www.practicepack.com/
 *  JS Response Bytes: 138723
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

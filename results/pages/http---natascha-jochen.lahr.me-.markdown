@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://natascha-jochen.lahr.me/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Natascha & Jochen](http://natascha-jochen.lahr.me/)
 
@@ -29,9 +32,6 @@ title: http://natascha-jochen.lahr.me/
 *  JS Response Bytes: 1276384
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287129
-
-### Performance issues
-
 
 ### Performance issues
 

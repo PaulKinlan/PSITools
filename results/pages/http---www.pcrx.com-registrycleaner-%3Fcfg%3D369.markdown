@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pcrx.com/registrycleaner/?cfg=369
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PC Speed Booster and Registry Cleaner | PCRx Security Suite](http://www.pcrx.com/registrycleaner/?cfg=369)
 
@@ -29,9 +33,6 @@ title: http://www.pcrx.com/registrycleaner/?cfg=369
 *  JS Response Bytes: 426803
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 375
-
-### Performance issues
-
 
 ### Performance issues
 

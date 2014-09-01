@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamesinchrome.com/candy-crush-saga.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Candy Crush Saga game](http://gamesinchrome.com/candy-crush-saga.html)
 
@@ -29,9 +35,6 @@ title: http://gamesinchrome.com/candy-crush-saga.html
 *  JS Response Bytes: 610583
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15556
-
-### Performance issues
-
 
 ### Performance issues
 

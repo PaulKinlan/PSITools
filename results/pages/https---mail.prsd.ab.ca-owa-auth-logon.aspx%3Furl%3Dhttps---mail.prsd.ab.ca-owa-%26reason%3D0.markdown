@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://mail.prsd.ab.ca/owa/auth/logon.aspx?url=https://mail.prsd.ab.ca/owa/&reason=0
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Outlook Web App](https://mail.prsd.ab.ca/owa/auth/logon.aspx?url=https://mail.prsd.ab.ca/owa/&reason=0)
 
@@ -29,9 +34,6 @@ title: https://mail.prsd.ab.ca/owa/auth/logon.aspx?url=https://mail.prsd.ab.ca/o
 *  JS Response Bytes: 4346
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 803
-
-### Performance issues
-
 
 ### Performance issues
 

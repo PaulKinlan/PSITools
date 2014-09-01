@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamenur.com/thechampions4worlddomination/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The champions 4 world domination | Gamenur](http://www.gamenur.com/thechampions4worlddomination/)
 
@@ -29,9 +34,6 @@ title: http://www.gamenur.com/thechampions4worlddomination/
 *  JS Response Bytes: 1257733
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 145472
-
-### Performance issues
-
 
 ### Performance issues
 

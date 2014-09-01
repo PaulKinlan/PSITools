@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.onlinegamese.com/games/truck-loader-2/online-games
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Truck Loader 2 | Online Games | Free Online Games Play Now](http://www.onlinegamese.com/games/truck-loader-2/online-games)
 
@@ -29,9 +33,6 @@ title: http://www.onlinegamese.com/games/truck-loader-2/online-games
 *  JS Response Bytes: 1867988
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 153734
-
-### Performance issues
-
 
 ### Performance issues
 

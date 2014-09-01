@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.thinkteaser.com/cgi-sys/suspendedpage.cgi
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Account Suspended](http://www.thinkteaser.com/cgi-sys/suspendedpage.cgi)
 
@@ -29,9 +31,6 @@ title: http://www.thinkteaser.com/cgi-sys/suspendedpage.cgi
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 424
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://moodle.centerville.k12.oh.us/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Centerville City Schools Moodle](https://moodle.centerville.k12.oh.us/)
 
@@ -29,9 +33,6 @@ title: https://moodle.centerville.k12.oh.us/
 *  JS Response Bytes: 699831
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 409
-
-### Performance issues
-
 
 ### Performance issues
 

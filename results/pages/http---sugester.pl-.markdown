@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://sugester.pl/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sugester - zbieraj sugestie użytkowników i udoskonalaj swoje produkty](http://sugester.pl/)
 
@@ -29,9 +33,6 @@ title: http://sugester.pl/
 *  JS Response Bytes: 257215
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 164611
-
-### Performance issues
-
 
 ### Performance issues
 

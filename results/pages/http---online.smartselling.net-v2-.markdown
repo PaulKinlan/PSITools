@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://online.smartselling.net/v2/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [EDUonGo.com Mobile](http://online.smartselling.net/v2/)
 
@@ -29,9 +32,6 @@ title: http://online.smartselling.net/v2/
 *  JS Response Bytes: 687303
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1272
-
-### Performance issues
-
 
 ### Performance issues
 

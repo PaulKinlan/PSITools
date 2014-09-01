@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://playgamesubwaysurfers.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Subway Surfers online](http://playgamesubwaysurfers.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://playgamesubwaysurfers.blogspot.com/?m=1
 *  JS Response Bytes: 789198
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287128
-
-### Performance issues
-
 
 ### Performance issues
 

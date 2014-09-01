@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://crypt.weldra.com/#/main
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Weldra Crypt](http://crypt.weldra.com/#/main)
 
@@ -29,9 +31,6 @@ title: http://crypt.weldra.com/#/main
 *  JS Response Bytes: 207490
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

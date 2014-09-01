@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.playfullgames.com/angry-birds-go.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Go : Play Full Games](http://www.playfullgames.com/angry-birds-go.html)
 
@@ -29,9 +33,6 @@ title: http://www.playfullgames.com/angry-birds-go.html
 *  JS Response Bytes: 1693248
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105477
-
-### Performance issues
-
 
 ### Performance issues
 

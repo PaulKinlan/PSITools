@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://smallpdf.com/jpg-to-pdf
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [JPG to PDF - Convert your Images to PDFs online for free!](http://smallpdf.com/jpg-to-pdf)
 
@@ -29,9 +33,6 @@ title: http://smallpdf.com/jpg-to-pdf
 *  JS Response Bytes: 1656946
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 158650
-
-### Performance issues
-
 
 ### Performance issues
 

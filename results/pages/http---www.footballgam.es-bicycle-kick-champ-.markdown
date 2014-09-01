@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/bicycle-kick-champ/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bicycle Kick Champ Game](http://www.footballgam.es/bicycle-kick-champ/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/bicycle-kick-champ/
 *  JS Response Bytes: 2296907
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155754
-
-### Performance issues
-
 
 ### Performance issues
 

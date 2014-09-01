@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://zomgtickets.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Zomgtickets.com](http://zomgtickets.com/)
 
@@ -29,9 +32,6 @@ title: http://zomgtickets.com/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

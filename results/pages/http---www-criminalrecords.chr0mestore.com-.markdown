@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www-criminalrecords.chr0mestore.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Criminal Records](http://www-criminalrecords.chr0mestore.com/)
 
@@ -29,9 +32,6 @@ title: http://www-criminalrecords.chr0mestore.com/
 *  JS Response Bytes: 68829
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2793
-
-### Performance issues
-
 
 ### Performance issues
 

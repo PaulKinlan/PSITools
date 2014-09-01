@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.jackrecipes.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Jack’s Recipes](http://www.jackrecipes.com/)
 
@@ -29,9 +34,6 @@ title: http://www.jackrecipes.com/
 *  JS Response Bytes: 752887
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18955
-
-### Performance issues
-
 
 ### Performance issues
 

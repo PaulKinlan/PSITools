@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamescruze.com/real-boxing/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games Cruze – Real Boxing](http://www.gamescruze.com/real-boxing/)
 
@@ -29,9 +33,6 @@ title: http://www.gamescruze.com/real-boxing/
 *  JS Response Bytes: 875986
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17036
-
-### Performance issues
-
 
 ### Performance issues
 

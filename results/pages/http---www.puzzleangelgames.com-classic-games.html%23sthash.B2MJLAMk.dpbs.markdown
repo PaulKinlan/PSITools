@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.puzzleangelgames.com/classic-games.html#sthash.B2MJLAMk.dpbs
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Classic Games free at Angel Games - Angel Games](http://www.puzzleangelgames.com/classic-games.html#sthash.B2MJLAMk.dpbs)
 
@@ -29,9 +34,6 @@ title: http://www.puzzleangelgames.com/classic-games.html#sthash.B2MJLAMk.dpbs
 *  JS Response Bytes: 1328968
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 230220
-
-### Performance issues
-
 
 ### Performance issues
 

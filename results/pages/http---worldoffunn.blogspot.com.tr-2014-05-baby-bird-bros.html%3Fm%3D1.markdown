@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://worldoffunn.blogspot.com.tr/2014/05/baby-bird-bros.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [World Of Fun: Baby Bird Bros](http://worldoffunn.blogspot.com.tr/2014/05/baby-bird-bros.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://worldoffunn.blogspot.com.tr/2014/05/baby-bird-bros.html?m=1
 *  JS Response Bytes: 1505134
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114203
-
-### Performance issues
-
 
 ### Performance issues
 

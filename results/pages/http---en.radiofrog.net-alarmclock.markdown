@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://en.radiofrog.net/alarmclock
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Alarm Clock RadioFrog](http://en.radiofrog.net/alarmclock)
 
@@ -29,9 +35,6 @@ title: http://en.radiofrog.net/alarmclock
 *  JS Response Bytes: 1226862
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 797
-
-### Performance issues
-
 
 ### Performance issues
 

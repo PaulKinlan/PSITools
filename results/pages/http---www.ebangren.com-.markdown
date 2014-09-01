@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.ebangren.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Ebangren](http://www.ebangren.com/)
 
@@ -29,9 +30,6 @@ title: http://www.ebangren.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

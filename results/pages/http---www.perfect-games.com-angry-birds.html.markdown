@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.perfect-games.com/angry-birds.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds | Perfect Games](http://www.perfect-games.com/angry-birds.html)
 
@@ -29,9 +33,6 @@ title: http://www.perfect-games.com/angry-birds.html
 *  JS Response Bytes: 1693232
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98569
-
-### Performance issues
-
 
 ### Performance issues
 

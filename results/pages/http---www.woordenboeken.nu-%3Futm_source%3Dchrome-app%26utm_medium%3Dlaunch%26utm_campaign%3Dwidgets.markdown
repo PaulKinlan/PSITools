@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.woordenboeken.nu/?utm_source=chrome-app&utm_medium=launch&utm_campaign=widgets
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Woordenboeken.nu | Online woordenboek](http://www.woordenboeken.nu/?utm_source=chrome-app&utm_medium=launch&utm_campaign=widgets)
 
@@ -29,9 +35,6 @@ title: http://www.woordenboeken.nu/?utm_source=chrome-app&utm_medium=launch&utm_
 *  JS Response Bytes: 846053
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3247
-
-### Performance issues
-
 
 ### Performance issues
 

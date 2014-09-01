@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.descopera.ro/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Descopera.ro – E Lumea Ta!](http://m.descopera.ro/)
 
@@ -29,9 +33,6 @@ title: http://m.descopera.ro/
 *  JS Response Bytes: 1057540
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2630
-
-### Performance issues
-
 
 ### Performance issues
 

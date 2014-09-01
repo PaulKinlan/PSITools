@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.wweather.info/home/arabic/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [الحالة الجوية و التنبؤات بحالة الطقس](http://www.wweather.info/home/arabic/)
 
@@ -29,9 +34,6 @@ title: http://www.wweather.info/home/arabic/
 *  JS Response Bytes: 3072289
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100828
-
-### Performance issues
-
 
 ### Performance issues
 

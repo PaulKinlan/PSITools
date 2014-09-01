@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ningboexpat.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [NingboExpat: The Website for Ningbo and The Hangzhou Bay Area](http://ningboexpat.com/)
 
@@ -29,9 +33,6 @@ title: http://ningboexpat.com/
 *  JS Response Bytes: 2096324
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22083
-
-### Performance issues
-
 
 ### Performance issues
 

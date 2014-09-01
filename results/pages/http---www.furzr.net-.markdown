@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.furzr.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [furzr](http://www.furzr.net/)
 
@@ -29,9 +32,6 @@ title: http://www.furzr.net/
 *  JS Response Bytes: 533772
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1219
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.flashgamesell.com/ironman-legoadventures/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IronMan-LegoAdventures | Flash Game Sell, Game Unity Games](http://www.flashgamesell.com/ironman-legoadventures/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.flashgamesell.com/ironman-legoadventures/index.html
 *  JS Response Bytes: 902286
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16530
-
-### Performance issues
-
 
 ### Performance issues
 

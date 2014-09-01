@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.perfect-games.com/temple-run.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Temple Run | Perfect Games](http://www.perfect-games.com/temple-run.html)
 
@@ -29,9 +34,6 @@ title: http://www.perfect-games.com/temple-run.html
 *  JS Response Bytes: 1529666
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105473
-
-### Performance issues
-
 
 ### Performance issues
 

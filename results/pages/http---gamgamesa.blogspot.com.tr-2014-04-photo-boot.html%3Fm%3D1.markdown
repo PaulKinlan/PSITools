@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gamgamesa.blogspot.com.tr/2014/04/photo-boot.html?m=1
+UseLegibleFontSizes: true
 ---
 ## [Service Unavailable](http://gamgamesa.blogspot.com.tr/2014/04/photo-boot.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://gamgamesa.blogspot.com.tr/2014/04/photo-boot.html?m=1
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1096
-
-### Performance issues
-
 
 ### Performance issues
 

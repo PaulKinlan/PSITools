@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://app.pixweb.it/582328#bmb=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [La Gazzetta in App](http://app.pixweb.it/582328#bmb=1)
 
@@ -29,9 +32,6 @@ title: http://app.pixweb.it/582328#bmb=1
 *  JS Response Bytes: 1123015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7248
-
-### Performance issues
-
 
 ### Performance issues
 

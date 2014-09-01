@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.troyagame.com/index.php?task=view&id=208
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Twisted Kingdom - TroYaGaMe - just Challange! And Play Free! Play Online!](http://www.troyagame.com/index.php?task=view&id=208)
 
@@ -29,9 +34,6 @@ title: http://www.troyagame.com/index.php?task=view&id=208
 *  JS Response Bytes: 2127986
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118833
-
-### Performance issues
-
 
 ### Performance issues
 

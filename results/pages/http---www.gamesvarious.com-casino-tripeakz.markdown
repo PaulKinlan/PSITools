@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/casino/tripeakz
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TriPeakz - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/casino/tripeakz)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/casino/tripeakz
 *  JS Response Bytes: 2180873
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104813
-
-### Performance issues
-
 
 ### Performance issues
 

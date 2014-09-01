@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.coastal.edu/csshaw/googlereader/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://ww2.coastal.edu/csshaw/googlereader/)
 
@@ -29,9 +30,6 @@ title: http://ww2.coastal.edu/csshaw/googlereader/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 460
-
-### Performance issues
-
 
 ### Performance issues
 

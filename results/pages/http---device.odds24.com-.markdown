@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://device.odds24.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Odds comparison, statistics and live score](http://device.odds24.com/)
 
@@ -29,9 +30,6 @@ title: http://device.odds24.com/
 *  JS Response Bytes: 1006667
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 476
-
-### Performance issues
-
 
 ### Performance issues
 

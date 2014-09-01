@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.udonavi.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [誘導なび](http://www.udonavi.net/)
 
@@ -29,9 +34,6 @@ title: http://www.udonavi.net/
 *  JS Response Bytes: 558213
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94971
-
-### Performance issues
-
 
 ### Performance issues
 

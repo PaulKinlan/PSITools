@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gameplanetearth.com/?404;http://www.gameplanetearth.com:80/gte/?page_id=453&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [gameplanetearth.com](http://gameplanetearth.com/?404;http://www.gameplanetearth.com:80/gte/?page_id=453&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://gameplanetearth.com/?404;http://www.gameplanetearth.com:80/gte/?pa
 *  JS Response Bytes: 304181
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116
-
-### Performance issues
-
 
 ### Performance issues
 

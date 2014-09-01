@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gameaboutsquares.com/
+EnableGzipCompression: true
 ---
 ## [Game about Squares](http://gameaboutsquares.com/)
 
@@ -29,9 +30,6 @@ title: http://gameaboutsquares.com/
 *  JS Response Bytes: 483433
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23289
-
-### Performance issues
-
 
 ### Performance issues
 

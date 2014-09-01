@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/london-2012-olympic/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [London 2012 Olympic Game](http://www.footballgam.es/london-2012-olympic/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/london-2012-olympic/
 *  JS Response Bytes: 2409184
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 179964
-
-### Performance issues
-
 
 ### Performance issues
 

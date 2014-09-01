@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.atericom.com/plants-vs-zombies-online.html
+SizeTapTargetsAppropriately: true
 ---
 ## [atericom.com](http://www.atericom.com/plants-vs-zombies-online.html)
 
@@ -29,9 +30,6 @@ title: http://www.atericom.com/plants-vs-zombies-online.html
 *  JS Response Bytes: 229919
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20814
-
-### Performance issues
-
 
 ### Performance issues
 

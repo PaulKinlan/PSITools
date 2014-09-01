@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.farminggames.org/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Farming Games - Play free online farming games at FarmingGames.org](http://www.farminggames.org/)
 
@@ -29,9 +35,6 @@ title: http://www.farminggames.org/
 *  JS Response Bytes: 1675946
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122305
-
-### Performance issues
-
 
 ### Performance issues
 

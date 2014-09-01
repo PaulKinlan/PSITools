@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.solitairetime.com/?chromestore=1
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Solitaire](http://www.solitairetime.com/?chromestore=1)
 
@@ -29,9 +32,6 @@ title: http://www.solitairetime.com/?chromestore=1
 *  JS Response Bytes: 1681365
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 338646
-
-### Performance issues
-
 
 ### Performance issues
 

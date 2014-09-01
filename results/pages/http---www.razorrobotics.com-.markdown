@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.razorrobotics.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Razor Robotics - Robot Guides for Beginners, Educational Resources, Careers Advice and much more!](http://www.razorrobotics.com/)
 
@@ -29,9 +34,6 @@ title: http://www.razorrobotics.com/
 *  JS Response Bytes: 346402
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 550
-
-### Performance issues
-
 
 ### Performance issues
 

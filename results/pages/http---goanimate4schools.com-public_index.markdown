@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://goanimate4schools.com/public_index
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GoAnimate for Schools](http://goanimate4schools.com/public_index)
 
@@ -29,9 +34,6 @@ title: http://goanimate4schools.com/public_index
 *  JS Response Bytes: 771400
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15942
-
-### Performance issues
-
 
 ### Performance issues
 

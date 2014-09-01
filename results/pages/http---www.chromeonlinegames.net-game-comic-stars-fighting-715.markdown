@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chromeonlinegames.net/game/comic-stars-fighting-715
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Comic Stars Fighting Game - Chrome Online Games](http://www.chromeonlinegames.net/game/comic-stars-fighting-715)
 
@@ -29,9 +35,6 @@ title: http://www.chromeonlinegames.net/game/comic-stars-fighting-715
 *  JS Response Bytes: 680479
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20727
-
-### Performance issues
-
 
 ### Performance issues
 

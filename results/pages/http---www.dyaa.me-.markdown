@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.dyaa.me/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dyaa Eldin Moustafa | Human](http://www.dyaa.me/)
 
@@ -29,9 +33,6 @@ title: http://www.dyaa.me/
 *  JS Response Bytes: 1831750
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 130662
-
-### Performance issues
-
 
 ### Performance issues
 

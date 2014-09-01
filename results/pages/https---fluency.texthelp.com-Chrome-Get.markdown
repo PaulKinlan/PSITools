@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://fluency.texthelp.com/Chrome/Get
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
 ---
 ## [Fluency Tutor™ for Google](https://fluency.texthelp.com/Chrome/Get)
 
@@ -29,9 +32,6 @@ title: https://fluency.texthelp.com/Chrome/Get
 *  JS Response Bytes: 336858
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59358
-
-### Performance issues
-
 
 ### Performance issues
 

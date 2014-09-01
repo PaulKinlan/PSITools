@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://joyfulgames.net/action/gun-blood.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gun Blood - Best Free Online Games | JoyfulGames.net - http://joyfulgames.net](http://joyfulgames.net/action/gun-blood.html)
 
@@ -29,9 +34,6 @@ title: http://joyfulgames.net/action/gun-blood.html
 *  JS Response Bytes: 2075487
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99259
-
-### Performance issues
-
 
 ### Performance issues
 

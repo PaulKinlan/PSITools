@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://fifa14byeasportsonlinehd.blogspot.com/2013/11/fifa-14-by-ea-sports-hd.html?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Fifa 14 by ea sports online](http://fifa14byeasportsonlinehd.blogspot.com/2013/11/fifa-14-by-ea-sports-hd.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://fifa14byeasportsonlinehd.blogspot.com/2013/11/fifa-14-by-ea-sports
 *  JS Response Bytes: 722229
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95614
-
-### Performance issues
-
 
 ### Performance issues
 

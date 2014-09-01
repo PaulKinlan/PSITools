@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.hotsoftwares.info/dwgtopdf/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DWG to PDF Converter Professional](http://www.hotsoftwares.info/dwgtopdf/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.hotsoftwares.info/dwgtopdf/index.html
 *  JS Response Bytes: 935598
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109057
-
-### Performance issues
-
 
 ### Performance issues
 

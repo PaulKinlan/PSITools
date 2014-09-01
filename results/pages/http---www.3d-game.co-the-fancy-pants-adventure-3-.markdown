@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.3d-game.co/the-fancy-pants-adventure-3/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D The Fancy Pants Adventure 3 game](http://www.3d-game.co/the-fancy-pants-adventure-3/)
 
@@ -29,9 +36,6 @@ title: http://www.3d-game.co/the-fancy-pants-adventure-3/
 *  JS Response Bytes: 2312133
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 153047
-
-### Performance issues
-
 
 ### Performance issues
 

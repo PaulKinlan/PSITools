@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.top10games.us/play/301/sushi-cat-the-honeymoon.html#.U_eILE0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sushi cat the honeymoon - Top Ten Games](http://www.top10games.us/play/301/sushi-cat-the-honeymoon.html#.U_eILE0ieKA)
 
@@ -29,9 +36,6 @@ title: http://www.top10games.us/play/301/sushi-cat-the-honeymoon.html#.U_eILE0ie
 *  JS Response Bytes: 1576940
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28918
-
-### Performance issues
-
 
 ### Performance issues
 

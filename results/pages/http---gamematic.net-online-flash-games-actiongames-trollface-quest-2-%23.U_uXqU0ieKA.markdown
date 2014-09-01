@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/actiongames/trollface-quest-2/#.U_uXqU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Trollface Quest 2 « Online Flash Game Trollface Quest 2](http://gamematic.net/online-flash-games/actiongames/trollface-quest-2/#.U_uXqU0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/actiongames/trollface-quest-2/#.U
 *  JS Response Bytes: 1268791
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46415
-
-### Performance issues
-
 
 ### Performance issues
 

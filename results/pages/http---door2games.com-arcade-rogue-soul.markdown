@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://door2games.com/arcade/rogue-soul
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rogue Soul - Free Online Games | Door 2 Games](http://door2games.com/arcade/rogue-soul)
 
@@ -29,9 +36,6 @@ title: http://door2games.com/arcade/rogue-soul
 *  JS Response Bytes: 749917
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 162534
-
-### Performance issues
-
 
 ### Performance issues
 

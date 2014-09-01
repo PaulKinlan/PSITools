@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://speechpad.pw/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Speech input and recognition online](https://speechpad.pw/)
 
@@ -29,9 +34,6 @@ title: https://speechpad.pw/
 *  JS Response Bytes: 689099
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95883
-
-### Performance issues
-
 
 ### Performance issues
 

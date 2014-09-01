@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.spihost.com/HomeAccess2.4/?SiteCode=nstlive
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HomeAccess](https://www.spihost.com/HomeAccess2.4/?SiteCode=nstlive)
 
@@ -29,9 +33,6 @@ title: https://www.spihost.com/HomeAccess2.4/?SiteCode=nstlive
 *  JS Response Bytes: 117171
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.filesofts.com/yellowpagesspider/index.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Yellow Pages Spider](http://www.filesofts.com/yellowpagesspider/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.filesofts.com/yellowpagesspider/index.html
 *  JS Response Bytes: 911278
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110124
-
-### Performance issues
-
 
 ### Performance issues
 

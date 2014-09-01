@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://supremacy1914-mmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Supremacy 1914 Online](http://supremacy1914-mmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://supremacy1914-mmo.appspot.com/
 *  JS Response Bytes: 1479001
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52552
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.jolylife.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [AndyGamer](http://www.jolylife.com/)
 
@@ -29,9 +33,6 @@ title: http://www.jolylife.com/
 *  JS Response Bytes: 1280602
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27352
-
-### Performance issues
-
 
 ### Performance issues
 

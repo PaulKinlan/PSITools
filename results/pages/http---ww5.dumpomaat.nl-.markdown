@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww5.dumpomaat.nl/
+MinimizeRenderBlockingResources: true
 ---
 ## [dumpomaat.nl - dumpomaat Resources and Information. This website is for sale!](http://ww5.dumpomaat.nl/)
 
@@ -29,9 +30,6 @@ title: http://ww5.dumpomaat.nl/
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 178
-
-### Performance issues
-
 
 ### Performance issues
 

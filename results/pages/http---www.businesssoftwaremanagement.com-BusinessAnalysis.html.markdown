@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.businesssoftwaremanagement.com/BusinessAnalysis.html
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Business Analysis Software](http://www.businesssoftwaremanagement.com/BusinessAnalysis.html)
 
@@ -29,9 +33,6 @@ title: http://www.businesssoftwaremanagement.com/BusinessAnalysis.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

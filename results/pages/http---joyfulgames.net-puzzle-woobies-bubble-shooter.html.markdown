@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://joyfulgames.net/puzzle/woobies-bubble-shooter.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Woobies Bubble Shooter - Best Free Online Games | JoyfulGames.net - http://joyfulgames.net](http://joyfulgames.net/puzzle/woobies-bubble-shooter.html)
 
@@ -29,9 +34,6 @@ title: http://joyfulgames.net/puzzle/woobies-bubble-shooter.html
 *  JS Response Bytes: 2075193
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99269
-
-### Performance issues
-
 
 ### Performance issues
 

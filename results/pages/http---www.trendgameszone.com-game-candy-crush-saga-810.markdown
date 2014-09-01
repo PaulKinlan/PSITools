@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.trendgameszone.com/game/candy-crush-saga-810
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Candy Crush Saga Game - Trend Games Zone](http://www.trendgameszone.com/game/candy-crush-saga-810)
 
@@ -29,9 +33,6 @@ title: http://www.trendgameszone.com/game/candy-crush-saga-810
 *  JS Response Bytes: 649214
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1531
-
-### Performance issues
-
 
 ### Performance issues
 

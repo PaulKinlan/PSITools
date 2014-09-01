@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.zeropc.com/signin/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ZeroPC - Login](https://www.zeropc.com/signin/)
 
@@ -29,9 +33,6 @@ title: https://www.zeropc.com/signin/
 *  JS Response Bytes: 201835
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 768
-
-### Performance issues
-
 
 ### Performance issues
 

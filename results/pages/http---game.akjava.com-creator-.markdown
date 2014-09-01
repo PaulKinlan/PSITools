@@ -33,8 +33,5 @@ title: http://game.akjava.com/creator/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

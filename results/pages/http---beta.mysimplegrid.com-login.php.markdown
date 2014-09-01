@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://beta.mysimplegrid.com/login.php
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [mysimplegrid - Login](http://beta.mysimplegrid.com/login.php)
 
@@ -29,9 +34,6 @@ title: http://beta.mysimplegrid.com/login.php
 *  JS Response Bytes: 249217
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

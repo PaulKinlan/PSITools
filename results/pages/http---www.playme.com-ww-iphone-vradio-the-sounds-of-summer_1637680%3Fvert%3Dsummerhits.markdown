@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.playme.com/ww/iphone/vradio/the-sounds-of-summer_1637680?vert=summerhits
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Playme Radio](http://www.playme.com/ww/iphone/vradio/the-sounds-of-summer_1637680?vert=summerhits)
 
@@ -29,9 +32,6 @@ title: http://www.playme.com/ww/iphone/vradio/the-sounds-of-summer_1637680?vert=
 *  JS Response Bytes: 1673839
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3352
-
-### Performance issues
-
 
 ### Performance issues
 

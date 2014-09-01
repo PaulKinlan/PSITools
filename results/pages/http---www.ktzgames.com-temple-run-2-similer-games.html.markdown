@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ktzgames.com/temple-run-2-similer-games.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Temple Run 2 Similer Games « Best HD Games Play Now](http://www.ktzgames.com/temple-run-2-similer-games.html)
 
@@ -29,9 +35,6 @@ title: http://www.ktzgames.com/temple-run-2-similer-games.html
 *  JS Response Bytes: 523261
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://buzzimage.waluu.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Liste des contributions](http://buzzimage.waluu.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://buzzimage.waluu.com/?m=1
 *  JS Response Bytes: 902915
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4132
-
-### Performance issues
-
 
 ### Performance issues
 

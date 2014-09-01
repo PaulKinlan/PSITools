@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.dogobooks.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kids Book Reviews - Book Reviews and Ratings by Kids at DOGO Books](http://www.dogobooks.com/)
 
@@ -29,9 +34,6 @@ title: http://www.dogobooks.com/
 *  JS Response Bytes: 1852495
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35635
-
-### Performance issues
-
 
 ### Performance issues
 

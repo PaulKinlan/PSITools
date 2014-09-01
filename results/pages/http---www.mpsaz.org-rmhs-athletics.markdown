@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mpsaz.org/rmhs/athletics
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [RMHS » Athletics](http://www.mpsaz.org/rmhs/athletics)
 
@@ -29,9 +33,6 @@ title: http://www.mpsaz.org/rmhs/athletics
 *  JS Response Bytes: 676855
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29444
-
-### Performance issues
-
 
 ### Performance issues
 

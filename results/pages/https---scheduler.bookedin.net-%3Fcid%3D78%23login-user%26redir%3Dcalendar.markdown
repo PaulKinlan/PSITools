@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://scheduler.bookedin.net/?cid=78#login-user&redir=calendar
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BookedIN Appointment Manager](https://scheduler.bookedin.net/?cid=78#login-user&redir=calendar)
 
@@ -29,9 +34,6 @@ title: https://scheduler.bookedin.net/?cid=78#login-user&redir=calendar
 *  JS Response Bytes: 410445
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

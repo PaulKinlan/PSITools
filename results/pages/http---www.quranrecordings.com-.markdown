@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.quranrecordings.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Qur'an Recordings From Makkah Madinah (Haramain) Reciters](http://www.quranrecordings.com/)
 
@@ -29,9 +35,6 @@ title: http://www.quranrecordings.com/
 *  JS Response Bytes: 1387065
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95786
-
-### Performance issues
-
 
 ### Performance issues
 

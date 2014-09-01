@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.funny-games.co.uk/?gameid=15084&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=tu-46
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funny-games.co.uk/?gameid=15084&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=tu-46)
 
@@ -18,20 +22,17 @@ title: http://m.funny-games.co.uk/?gameid=15084&utm_source=cws&utm_medium=app&ut
 *  Number of JS Resources: 19
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 59
-*  Total Request Bytes: 8040
+*  Total Request Bytes: 8035
 
 ### Response data
 
-*  HTML Response Bytes: 56079
+*  HTML Response Bytes: 57213
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 47368
-*  Image Response Bytes: 544116
-*  JS Response Bytes: 1266601
+*  Image Response Bytes: 544125
+*  JS Response Bytes: 1266603
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 28373
-
-### Performance issues
-
+*  Other Response Bytes: 28372
 
 ### Performance issues
 

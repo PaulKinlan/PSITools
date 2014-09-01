@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://koitopi.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [恋愛コラムまとめ » 恋愛・モテに関する情報を読みやすくまとめました](http://koitopi.com/)
 
@@ -29,9 +33,6 @@ title: http://koitopi.com/
 *  JS Response Bytes: 381051
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39968
-
-### Performance issues
-
 
 ### Performance issues
 

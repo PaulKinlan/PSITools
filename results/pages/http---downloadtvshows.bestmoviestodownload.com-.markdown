@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://downloadtvshows.bestmoviestodownload.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [Bestmoviestodownload.com](http://downloadtvshows.bestmoviestodownload.com/)
 
@@ -29,9 +30,6 @@ title: http://downloadtvshows.bestmoviestodownload.com/
 *  JS Response Bytes: 259015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 446
-
-### Performance issues
-
 
 ### Performance issues
 

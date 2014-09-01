@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://phraseapp.com/en/account/login
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Login with an existing PhraseApp username](https://phraseapp.com/en/account/login)
 
@@ -29,9 +33,6 @@ title: https://phraseapp.com/en/account/login
 *  JS Response Bytes: 224976
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1604
-
-### Performance issues
-
 
 ### Performance issues
 

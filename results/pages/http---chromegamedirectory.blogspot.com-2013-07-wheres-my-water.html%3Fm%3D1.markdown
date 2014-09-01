@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromegamedirectory.blogspot.com/2013/07/wheres-my-water.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [hill climb racing](http://chromegamedirectory.blogspot.com/2013/07/wheres-my-water.html?m=1)
 
@@ -22,16 +24,13 @@ title: http://chromegamedirectory.blogspot.com/2013/07/wheres-my-water.html?m=1
 
 ### Response data
 
-*  HTML Response Bytes: 20597
+*  HTML Response Bytes: 20639
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 66778
-*  Image Response Bytes: 1627
-*  JS Response Bytes: 791274
+*  CSS Response Bytes: 66777
+*  Image Response Bytes: 1623
+*  JS Response Bytes: 791755
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 331023
-
-### Performance issues
-
+*  Other Response Bytes: 331021
 
 ### Performance issues
 

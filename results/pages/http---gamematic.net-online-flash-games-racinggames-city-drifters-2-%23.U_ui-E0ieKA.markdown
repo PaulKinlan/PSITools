@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/racinggames/city-drifters-2/#.U_ui-E0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [City Drifters 2 « Online Flash Game City Drifters 2](http://gamematic.net/online-flash-games/racinggames/city-drifters-2/#.U_ui-E0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/racinggames/city-drifters-2/#.U_u
 *  JS Response Bytes: 1742117
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30994
-
-### Performance issues
-
 
 ### Performance issues
 

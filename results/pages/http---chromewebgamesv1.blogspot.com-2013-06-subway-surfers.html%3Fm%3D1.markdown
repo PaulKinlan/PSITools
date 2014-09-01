@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromewebgamesv1.blogspot.com/2013/06/subway-surfers.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [Chrome Web Games v1: Subway Surfers](http://chromewebgamesv1.blogspot.com/2013/06/subway-surfers.html?m=1)
 
@@ -18,20 +20,17 @@ title: http://chromewebgamesv1.blogspot.com/2013/06/subway-surfers.html?m=1
 *  Number of JS Resources: 19
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 26
-*  Total Request Bytes: 6132
+*  Total Request Bytes: 6137
 
 ### Response data
 
-*  HTML Response Bytes: 92816
+*  HTML Response Bytes: 92767
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 38388
-*  Image Response Bytes: 39375
-*  JS Response Bytes: 1067920
+*  Image Response Bytes: 39374
+*  JS Response Bytes: 1068334
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 97992
-
-### Performance issues
-
+*  Other Response Bytes: 97991
 
 ### Performance issues
 

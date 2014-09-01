@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://dearcinema.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DearCinema.com: Indian Independent Films](http://dearcinema.com/)
 
@@ -29,9 +34,6 @@ title: http://dearcinema.com/
 *  JS Response Bytes: 977401
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

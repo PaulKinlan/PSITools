@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://mobspyapplication.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Mobile Spy](http://mobspyapplication.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://mobspyapplication.blogspot.com/?m=1
 *  JS Response Bytes: 1612443
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98321
-
-### Performance issues
-
 
 ### Performance issues
 

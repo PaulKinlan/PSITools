@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.yengames.com/candy-crush-saga.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [YenGames.Com | Flash Game Site – Candy Crush Saga](http://www.yengames.com/candy-crush-saga.html)
 
@@ -29,9 +35,6 @@ title: http://www.yengames.com/candy-crush-saga.html
 *  JS Response Bytes: 413989
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1066
-
-### Performance issues
-
 
 ### Performance issues
 

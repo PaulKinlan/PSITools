@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tdash.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Kitchen Blog](http://www.tdash.org/)
 
@@ -29,9 +32,6 @@ title: http://www.tdash.org/
 *  JS Response Bytes: 1170187
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31789
-
-### Performance issues
-
 
 ### Performance issues
 

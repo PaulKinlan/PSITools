@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://compusult.com.au/site3/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Compusult Online | Design – Implement – Monitor – Support](http://compusult.com.au/site3/)
 
@@ -29,9 +33,6 @@ title: http://compusult.com.au/site3/
 *  JS Response Bytes: 397763
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53941
-
-### Performance issues
-
 
 ### Performance issues
 

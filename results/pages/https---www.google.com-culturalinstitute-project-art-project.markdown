@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://www.google.com/culturalinstitute/project/art-project
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Google Cultural Institute](https://www.google.com/culturalinstitute/project/art-project)
 
@@ -29,9 +35,6 @@ title: https://www.google.com/culturalinstitute/project/art-project
 *  JS Response Bytes: 1347243
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35138
-
-### Performance issues
-
 
 ### Performance issues
 

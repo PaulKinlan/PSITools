@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://onl9gamehub.blogspot.com/2013/12/doodle-jump-v2.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [Online Gaming: Doodle Jump V2](http://onl9gamehub.blogspot.com/2013/12/doodle-jump-v2.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://onl9gamehub.blogspot.com/2013/12/doodle-jump-v2.html?m=1
 *  JS Response Bytes: 715490
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95583
-
-### Performance issues
-
 
 ### Performance issues
 

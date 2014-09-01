@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://t-shirt.sizeconversion.net/t-shirt
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [T-Shirt Size Conversion](http://t-shirt.sizeconversion.net/t-shirt)
 
@@ -29,9 +32,6 @@ title: http://t-shirt.sizeconversion.net/t-shirt
 *  JS Response Bytes: 263123
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bachplayer.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bach Player : Listen and Play Johann Sebastian Bach Works](http://www.bachplayer.net/)
 
@@ -29,9 +33,6 @@ title: http://www.bachplayer.net/
 *  JS Response Bytes: 1106147
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8097
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://educate.stemfuse.com/?utm_medium=chrome&utm_source=app
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Home | STEM Fuse Educate](http://educate.stemfuse.com/?utm_medium=chrome&utm_source=app)
 
@@ -29,9 +33,6 @@ title: http://educate.stemfuse.com/?utm_medium=chrome&utm_source=app
 *  JS Response Bytes: 182755
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

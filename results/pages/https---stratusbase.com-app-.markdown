@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://stratusbase.com/app/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [StratusBase - Cloud Database Builder](https://stratusbase.com/app/)
 
@@ -29,9 +33,6 @@ title: https://stratusbase.com/app/
 *  JS Response Bytes: 1308894
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48872
-
-### Performance issues
-
 
 ### Performance issues
 

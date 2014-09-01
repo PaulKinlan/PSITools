@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://thesimsgame-14.blogspot.com.tr/2014/04/plants-zombie.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [the sims game: plants zombie](http://thesimsgame-14.blogspot.com.tr/2014/04/plants-zombie.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://thesimsgame-14.blogspot.com.tr/2014/04/plants-zombie.html?m=1
 *  JS Response Bytes: 720994
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95590
-
-### Performance issues
-
 
 ### Performance issues
 

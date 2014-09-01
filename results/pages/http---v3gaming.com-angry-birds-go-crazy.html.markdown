@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://v3gaming.com/angry-birds-go-crazy.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [V3Gaming.Com – Angry Birds Go Crazy](http://v3gaming.com/angry-birds-go-crazy.html)
 
@@ -29,9 +37,6 @@ title: http://v3gaming.com/angry-birds-go-crazy.html
 *  JS Response Bytes: 769129
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1908
-
-### Performance issues
-
 
 ### Performance issues
 

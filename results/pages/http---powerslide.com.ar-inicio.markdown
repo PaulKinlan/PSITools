@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://powerslide.com.ar/inicio
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://powerslide.com.ar/inicio)
 
@@ -29,9 +30,6 @@ title: http://powerslide.com.ar/inicio
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 586
-
-### Performance issues
-
 
 ### Performance issues
 

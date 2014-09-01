@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gamesgator.biz/search-papoy/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Search Papoy](http://www.gamesgator.biz/search-papoy/)
 
@@ -29,9 +36,6 @@ title: http://www.gamesgator.biz/search-papoy/
 *  JS Response Bytes: 1089512
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45786
-
-### Performance issues
-
 
 ### Performance issues
 

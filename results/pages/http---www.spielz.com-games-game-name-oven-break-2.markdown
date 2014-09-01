@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.spielz.com/games/game/name/oven-break-2
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [oven-break-2 spiele](http://www.spielz.com/games/game/name/oven-break-2)
 
@@ -29,9 +36,6 @@ title: http://www.spielz.com/games/game/name/oven-break-2
 *  JS Response Bytes: 1828588
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96730
-
-### Performance issues
-
 
 ### Performance issues
 

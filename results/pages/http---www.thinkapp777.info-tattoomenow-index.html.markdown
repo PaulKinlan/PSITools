@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.thinkapp777.info/tattoomenow/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [8350+ Tattoo Designs & Tattoo Ideas - World's #1 Body Art Gallery](http://www.thinkapp777.info/tattoomenow/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.thinkapp777.info/tattoomenow/index.html
 *  JS Response Bytes: 1036829
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95268
-
-### Performance issues
-
 
 ### Performance issues
 

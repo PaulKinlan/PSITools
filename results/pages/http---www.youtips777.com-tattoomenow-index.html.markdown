@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.youtips777.com/tattoomenow/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [8350+ Tattoo Designs & Tattoo Ideas - World's #1 Body Art Gallery](http://www.youtips777.com/tattoomenow/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.youtips777.com/tattoomenow/index.html
 *  JS Response Bytes: 1035288
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95563
-
-### Performance issues
-
 
 ### Performance issues
 

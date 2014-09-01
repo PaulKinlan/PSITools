@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.4cargames.com/cargames/3d-racing-games
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Racing Games](http://www.4cargames.com/cargames/3d-racing-games)
 
@@ -29,9 +32,6 @@ title: http://www.4cargames.com/cargames/3d-racing-games
 *  JS Response Bytes: 1634539
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120421
-
-### Performance issues
-
 
 ### Performance issues
 

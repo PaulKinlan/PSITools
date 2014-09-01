@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.lawsenate.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Indian Law Firm, International Arbitration - Supreme Court Legal Services](http://www.lawsenate.com/)
 
@@ -29,9 +33,6 @@ title: http://www.lawsenate.com/
 *  JS Response Bytes: 122624
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 589
-
-### Performance issues
-
 
 ### Performance issues
 

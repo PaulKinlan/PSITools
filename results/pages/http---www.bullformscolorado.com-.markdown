@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bullformscolorado.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BULL Forms Colorado | Colorado Real Estate Form Generator](http://www.bullformscolorado.com/)
 
@@ -29,9 +33,6 @@ title: http://www.bullformscolorado.com/
 *  JS Response Bytes: 188993
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3469
-
-### Performance issues
-
 
 ### Performance issues
 

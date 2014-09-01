@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.surgery-games.org/zombies-at-hospital/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombies at Hospital game](http://www.surgery-games.org/zombies-at-hospital/)
 
@@ -29,9 +36,6 @@ title: http://www.surgery-games.org/zombies-at-hospital/
 *  JS Response Bytes: 2427586
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 129511
-
-### Performance issues
-
 
 ### Performance issues
 

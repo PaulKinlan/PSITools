@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://dynamo6.geckoboard.com/dashboards/48C27A58D71E979A
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [D6 Board](https://dynamo6.geckoboard.com/dashboards/48C27A58D71E979A)
 
@@ -29,9 +35,6 @@ title: https://dynamo6.geckoboard.com/dashboards/48C27A58D71E979A
 *  JS Response Bytes: 2830012
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1507
-
-### Performance issues
-
 
 ### Performance issues
 

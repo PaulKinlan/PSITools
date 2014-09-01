@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://theamenta.com/voidMicro/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Amenta - V01D](http://theamenta.com/voidMicro/)
 
@@ -29,9 +33,6 @@ title: http://theamenta.com/voidMicro/
 *  JS Response Bytes: 143461
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

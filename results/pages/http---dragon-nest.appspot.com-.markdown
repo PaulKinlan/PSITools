@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://dragon-nest.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Dragon Nest Online](http://dragon-nest.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://dragon-nest.appspot.com/
 *  JS Response Bytes: 2322551
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 192234
-
-### Performance issues
-
 
 ### Performance issues
 

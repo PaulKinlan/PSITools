@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://dailymee.waluu.com/?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Liste des contributions](http://dailymee.waluu.com/?m=1)
 
@@ -29,9 +35,6 @@ title: http://dailymee.waluu.com/?m=1
 *  JS Response Bytes: 904336
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6897
-
-### Performance issues
-
 
 ### Performance issues
 

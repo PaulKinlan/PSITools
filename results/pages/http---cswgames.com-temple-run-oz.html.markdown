@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://cswgames.com/temple-run-oz.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CSWGames.Com – Temple Run OZ](http://cswgames.com/temple-run-oz.html)
 
@@ -29,9 +35,6 @@ title: http://cswgames.com/temple-run-oz.html
 *  JS Response Bytes: 405520
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63368
-
-### Performance issues
-
 
 ### Performance issues
 

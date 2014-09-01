@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.servweb.eu/manager/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Accueil - ServWeb - Technologies Internet](http://www.servweb.eu/manager/)
 
@@ -29,9 +33,6 @@ title: http://www.servweb.eu/manager/
 *  JS Response Bytes: 276345
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 916
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://dcuniverse-online.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play DC Universe Online](http://dcuniverse-online.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://dcuniverse-online.appspot.com/
 *  JS Response Bytes: 631773
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49827
-
-### Performance issues
-
 
 ### Performance issues
 

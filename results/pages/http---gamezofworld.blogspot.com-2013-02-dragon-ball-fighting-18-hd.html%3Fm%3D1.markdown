@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gamezofworld.blogspot.com/2013/02/dragon-ball-fighting-18-hd.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [Best Free Games: Dragon Ball Fighting 1.8 HD](http://gamezofworld.blogspot.com/2013/02/dragon-ball-fighting-18-hd.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://gamezofworld.blogspot.com/2013/02/dragon-ball-fighting-18-hd.html?
 *  JS Response Bytes: 1798265
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287793
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gamesgator.com/lose-the-heat-2/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lose The Heat 2](http://www.gamesgator.com/lose-the-heat-2/)
 
@@ -29,9 +36,6 @@ title: http://www.gamesgator.com/lose-the-heat-2/
 *  JS Response Bytes: 1000329
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44596
-
-### Performance issues
-
 
 ### Performance issues
 

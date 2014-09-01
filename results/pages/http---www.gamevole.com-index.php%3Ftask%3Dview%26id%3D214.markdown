@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gamevole.com/index.php?task=view&id=214
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dream Chaser - GaMeVole - just Challange! And Play Free! Play Online!](http://www.gamevole.com/index.php?task=view&id=214)
 
@@ -29,9 +36,6 @@ title: http://www.gamevole.com/index.php?task=view&id=214
 *  JS Response Bytes: 933011
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1843
-
-### Performance issues
-
 
 ### Performance issues
 

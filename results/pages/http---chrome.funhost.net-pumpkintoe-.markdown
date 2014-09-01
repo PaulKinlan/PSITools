@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://chrome.funhost.net/pumpkintoe/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Pump-Kin-Toe - Game on Fun Host Games!](http://chrome.funhost.net/pumpkintoe/)
 
@@ -29,9 +34,6 @@ title: http://chrome.funhost.net/pumpkintoe/
 *  JS Response Bytes: 1841918
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18177
-
-### Performance issues
-
 
 ### Performance issues
 

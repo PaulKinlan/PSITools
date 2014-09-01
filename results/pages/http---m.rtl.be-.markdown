@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.rtl.be/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [RTL.be](http://m.rtl.be/)
 
@@ -29,9 +31,6 @@ title: http://m.rtl.be/
 *  JS Response Bytes: 429218
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16742
-
-### Performance issues
-
 
 ### Performance issues
 

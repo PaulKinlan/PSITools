@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.halloweensudoku.com/ChromeHalloweenSudoku.php
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chrome Halloween Sudoku](http://www.halloweensudoku.com/ChromeHalloweenSudoku.php)
 
@@ -29,9 +34,6 @@ title: http://www.halloweensudoku.com/ChromeHalloweenSudoku.php
 *  JS Response Bytes: 913912
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1292
-
-### Performance issues
-
 
 ### Performance issues
 

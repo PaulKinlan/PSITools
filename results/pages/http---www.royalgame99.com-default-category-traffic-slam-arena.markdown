@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.royalgame99.com/default-category/traffic-slam-arena
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TRAFFIC SLAM ARENA - Royalgame99](http://www.royalgame99.com/default-category/traffic-slam-arena)
 
@@ -29,9 +34,6 @@ title: http://www.royalgame99.com/default-category/traffic-slam-arena
 *  JS Response Bytes: 722412
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

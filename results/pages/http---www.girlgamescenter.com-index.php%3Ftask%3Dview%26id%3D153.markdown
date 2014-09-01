@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.girlgamescenter.com/index.php?task=view&id=153
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dreamland fairy - Girl Games Center](http://www.girlgamescenter.com/index.php?task=view&id=153)
 
@@ -29,9 +35,6 @@ title: http://www.girlgamescenter.com/index.php?task=view&id=153
 *  JS Response Bytes: 811203
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28781
-
-### Performance issues
-
 
 ### Performance issues
 

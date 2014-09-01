@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://qubrick.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Printer Data Sharing and Editing - Qubrick](http://qubrick.com/)
 
@@ -29,9 +35,6 @@ title: http://qubrick.com/
 *  JS Response Bytes: 1065000
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

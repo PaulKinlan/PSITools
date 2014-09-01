@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gelgam.com/zombcity/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gel Games – GTA 4 Zombie City](http://www.gelgam.com/zombcity/)
 
@@ -29,9 +34,6 @@ title: http://www.gelgam.com/zombcity/
 *  JS Response Bytes: 1035289
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16673
-
-### Performance issues
-
 
 ### Performance issues
 

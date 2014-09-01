@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.iamhornynow.com/#sthash.7gJwcfGj.dpbs
+MinimizeRenderBlockingResources: true
 ---
 ## [I am horny now](http://www.iamhornynow.com/#sthash.7gJwcfGj.dpbs)
 
@@ -29,9 +30,6 @@ title: http://www.iamhornynow.com/#sthash.7gJwcfGj.dpbs
 *  JS Response Bytes: 650859
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9801
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://1ga.me/#dead-zed
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [1GA.ME Just Perfect Games 1game](http://1ga.me/#dead-zed)
 
@@ -29,9 +33,6 @@ title: http://1ga.me/#dead-zed
 *  JS Response Bytes: 793144
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16913
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.cursorwiz.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [cursorwiz.com](http://www.cursorwiz.com/)
 
@@ -29,9 +31,6 @@ title: http://www.cursorwiz.com/
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

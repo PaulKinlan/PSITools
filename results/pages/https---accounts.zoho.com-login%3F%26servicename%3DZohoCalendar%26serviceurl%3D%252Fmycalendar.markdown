@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://accounts.zoho.com/login?&servicename=ZohoCalendar&serviceurl=%2Fmycalendar
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Zoho Accounts](https://accounts.zoho.com/login?&servicename=ZohoCalendar&serviceurl=%2Fmycalendar)
 
@@ -29,9 +32,6 @@ title: https://accounts.zoho.com/login?&servicename=ZohoCalendar&serviceurl=%2Fm
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1187
-
-### Performance issues
-
 
 ### Performance issues
 

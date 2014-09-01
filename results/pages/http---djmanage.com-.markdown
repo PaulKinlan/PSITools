@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://djmanage.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [So Fresh Entertainment](http://djmanage.com/)
 
@@ -29,9 +35,6 @@ title: http://djmanage.com/
 *  JS Response Bytes: 41021
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

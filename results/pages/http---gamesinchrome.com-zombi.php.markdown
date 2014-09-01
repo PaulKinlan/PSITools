@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gamesinchrome.com/zombi.php
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://gamesinchrome.com/zombi.php)
 
@@ -29,9 +30,6 @@ title: http://gamesinchrome.com/zombi.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 972
-
-### Performance issues
-
 
 ### Performance issues
 

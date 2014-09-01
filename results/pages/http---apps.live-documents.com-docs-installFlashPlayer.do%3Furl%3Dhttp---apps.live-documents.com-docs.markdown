@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://apps.live-documents.com/docs/installFlashPlayer.do?url=http://apps.live-documents.com/docs
+AvoidLandingPageRedirects: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Install Flash Player](http://apps.live-documents.com/docs/installFlashPlayer.do?url=http://apps.live-documents.com/docs)
 
@@ -29,9 +32,6 @@ title: http://apps.live-documents.com/docs/installFlashPlayer.do?url=http://apps
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 412
-
-### Performance issues
-
 
 ### Performance issues
 

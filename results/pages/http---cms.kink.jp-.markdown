@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://cms.kink.jp/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [お手軽ホームページに有効期限を](http://cms.kink.jp/)
 
@@ -29,9 +33,6 @@ title: http://cms.kink.jp/
 *  JS Response Bytes: 389528
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

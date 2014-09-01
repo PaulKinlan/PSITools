@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://cwsgame.blogspot.com.tr/2013/02/call-of-duty-4.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
 ---
 ## [Chrome Web Store Games: Call of Duty 4](http://cwsgame.blogspot.com.tr/2013/02/call-of-duty-4.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://cwsgame.blogspot.com.tr/2013/02/call-of-duty-4.html?m=1
 *  JS Response Bytes: 2448078
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 301535
-
-### Performance issues
-
 
 ### Performance issues
 

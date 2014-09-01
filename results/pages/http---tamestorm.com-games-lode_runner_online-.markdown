@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://tamestorm.com/games/lode_runner_online/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lode Runner Download - Snatch And Run : Lode Runner](http://tamestorm.com/games/lode_runner_online/)
 
@@ -29,9 +33,6 @@ title: http://tamestorm.com/games/lode_runner_online/
 *  JS Response Bytes: 1051262
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110124
-
-### Performance issues
-
 
 ### Performance issues
 

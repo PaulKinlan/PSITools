@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.dino10.com/action/300-rise-of-an-empire-seize-your-glory
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [300: Rise of an Empire - Seize Your Glory - Addictive Games On Dino10](http://www.dino10.com/action/300-rise-of-an-empire-seize-your-glory)
 
@@ -29,9 +35,6 @@ title: http://www.dino10.com/action/300-rise-of-an-empire-seize-your-glory
 *  JS Response Bytes: 1878905
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103917
-
-### Performance issues
-
 
 ### Performance issues
 

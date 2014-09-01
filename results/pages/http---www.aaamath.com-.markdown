@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.aaamath.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AAA Math](http://www.aaamath.com/)
 
@@ -29,9 +33,6 @@ title: http://www.aaamath.com/
 *  JS Response Bytes: 71771
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

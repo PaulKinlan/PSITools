@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.manynewgames.com/default-category/car-eats-car-2-mad-dreams
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Car Eats Car 2: Mad Dreams - Many New Games](http://www.manynewgames.com/default-category/car-eats-car-2-mad-dreams)
 
@@ -29,9 +35,6 @@ title: http://www.manynewgames.com/default-category/car-eats-car-2-mad-dreams
 *  JS Response Bytes: 1996912
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113192
-
-### Performance issues
-
 
 ### Performance issues
 

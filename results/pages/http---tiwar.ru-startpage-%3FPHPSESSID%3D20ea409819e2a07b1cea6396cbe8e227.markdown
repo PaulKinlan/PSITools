@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://tiwar.ru/startpage/?PHPSESSID=20ea409819e2a07b1cea6396cbe8e227
+MinimizeRenderBlockingResources: true
 ---
 ## [Зарождение](http://tiwar.ru/startpage/?PHPSESSID=20ea409819e2a07b1cea6396cbe8e227)
 
@@ -29,9 +30,6 @@ title: http://tiwar.ru/startpage/?PHPSESSID=20ea409819e2a07b1cea6396cbe8e227
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1960
-
-### Performance issues
-
 
 ### Performance issues
 

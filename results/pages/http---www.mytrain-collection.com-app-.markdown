@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mytrain-collection.com/app/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
 ---
 ## [myTrain-collection](http://www.mytrain-collection.com/app/)
 
@@ -29,9 +32,6 @@ title: http://www.mytrain-collection.com/app/
 *  JS Response Bytes: 127592
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 587
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.doeat.it/it/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DoEat](http://www.doeat.it/it/)
 
@@ -29,9 +33,6 @@ title: http://www.doeat.it/it/
 *  JS Response Bytes: 148843
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 554
-
-### Performance issues
-
 
 ### Performance issues
 

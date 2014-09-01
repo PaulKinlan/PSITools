@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://m.sportsbet.com.au/tipping/#login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
 ---
 ## [Tipping](https://m.sportsbet.com.au/tipping/#login)
 
@@ -29,9 +33,6 @@ title: https://m.sportsbet.com.au/tipping/#login
 *  JS Response Bytes: 604220
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2244
-
-### Performance issues
-
 
 ### Performance issues
 

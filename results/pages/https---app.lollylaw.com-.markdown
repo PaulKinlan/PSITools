@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://app.lollylaw.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [LollyLaw](https://app.lollylaw.com/)
 
@@ -29,9 +34,6 @@ title: https://app.lollylaw.com/
 *  JS Response Bytes: 1656068
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 73316
-
-### Performance issues
-
 
 ### Performance issues
 

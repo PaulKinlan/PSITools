@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://sistema.funeducol.edu.co/login.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login | Sistema de Matrícula y Registro](http://sistema.funeducol.edu.co/login.php)
 
@@ -29,9 +33,6 @@ title: http://sistema.funeducol.edu.co/login.php
 *  JS Response Bytes: 120218
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96601
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://game2zone.tistory.com/m
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [관리 홈 :: 티스토리](http://game2zone.tistory.com/m)
 
@@ -24,14 +26,11 @@ title: http://game2zone.tistory.com/m
 
 *  HTML Response Bytes: 10820
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 74032
-*  Image Response Bytes: 5256
-*  JS Response Bytes: 418096
+*  CSS Response Bytes: 74028
+*  Image Response Bytes: 5210
+*  JS Response Bytes: 418338
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 478
-
-### Performance issues
-
 
 ### Performance issues
 

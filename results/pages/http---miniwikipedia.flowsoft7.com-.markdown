@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://miniwikipedia.flowsoft7.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mini Wikipedia](http://miniwikipedia.flowsoft7.com/)
 
@@ -29,9 +33,6 @@ title: http://miniwikipedia.flowsoft7.com/
 *  JS Response Bytes: 913303
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1990
-
-### Performance issues
-
 
 ### Performance issues
 

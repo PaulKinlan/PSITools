@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chrometopgame.blogspot.com/2013/08/need-for-speed-most-wanted.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [chrometopgame: Need for Speed Most Wanted](http://chrometopgame.blogspot.com/2013/08/need-for-speed-most-wanted.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chrometopgame.blogspot.com/2013/08/need-for-speed-most-wanted.html
 *  JS Response Bytes: 1067969
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98008
-
-### Performance issues
-
 
 ### Performance issues
 

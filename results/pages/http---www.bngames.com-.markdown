@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bngames.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shooter Games - Shooting Games Online - Shoot em up](http://www.bngames.com/)
 
@@ -29,9 +33,6 @@ title: http://www.bngames.com/
 *  JS Response Bytes: 580818
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17276
-
-### Performance issues
-
 
 ### Performance issues
 

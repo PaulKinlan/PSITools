@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.ayirmabuyusu.com.tr/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ayırma Büyüsü](http://www.ayirmabuyusu.com.tr/)
 
@@ -29,9 +31,6 @@ title: http://www.ayirmabuyusu.com.tr/
 *  JS Response Bytes: 460265
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 822
-
-### Performance issues
-
 
 ### Performance issues
 

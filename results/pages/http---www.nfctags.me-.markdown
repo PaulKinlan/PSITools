@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.nfctags.me/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [20x NFC tags & stickers - Quality-Starterkit XL](http://www.nfctags.me/)
 
@@ -29,9 +32,6 @@ title: http://www.nfctags.me/
 *  JS Response Bytes: 944757
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94135
-
-### Performance issues
-
 
 ### Performance issues
 

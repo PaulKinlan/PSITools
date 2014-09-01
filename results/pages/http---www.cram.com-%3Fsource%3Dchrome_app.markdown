@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.cram.com/?source=chrome_app
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cram.com: Create and Share Online Flashcards](http://www.cram.com/?source=chrome_app)
 
@@ -29,9 +33,6 @@ title: http://www.cram.com/?source=chrome_app
 *  JS Response Bytes: 1006864
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 60692
-
-### Performance issues
-
 
 ### Performance issues
 

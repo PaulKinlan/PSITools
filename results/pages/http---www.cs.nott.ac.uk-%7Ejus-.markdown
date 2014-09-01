@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.cs.nott.ac.uk/~jus/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Access forbidden!](http://www.cs.nott.ac.uk/~jus/)
 
@@ -29,9 +31,6 @@ title: http://www.cs.nott.ac.uk/~jus/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1985
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.acouponplace.com/chromeapp/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Coupon Place](https://www.acouponplace.com/chromeapp/)
 
@@ -29,9 +32,6 @@ title: https://www.acouponplace.com/chromeapp/
 *  JS Response Bytes: 541255
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1384
-
-### Performance issues
-
 
 ### Performance issues
 

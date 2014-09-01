@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://chrome.simplytrader.biz/learn_de/#.U_eJh00ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Trading Schule (Devisenhandel)](http://chrome.simplytrader.biz/learn_de/#.U_eJh00ieKA)
 
@@ -29,9 +35,6 @@ title: http://chrome.simplytrader.biz/learn_de/#.U_eJh00ieKA
 *  JS Response Bytes: 1645694
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 127773
-
-### Performance issues
-
 
 ### Performance issues
 

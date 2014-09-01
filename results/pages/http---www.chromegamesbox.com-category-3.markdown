@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.chromegamesbox.com/category/3
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tower - Chrome Games Box](http://www.chromegamesbox.com/category/3)
 
@@ -29,9 +32,6 @@ title: http://www.chromegamesbox.com/category/3
 *  JS Response Bytes: 621088
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

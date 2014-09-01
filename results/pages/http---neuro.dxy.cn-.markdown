@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://neuro.dxy.cn/
+MinimizeRenderBlockingResources: true
 ---
 ## [神经_丁香园](http://neuro.dxy.cn/)
 
@@ -29,9 +30,6 @@ title: http://neuro.dxy.cn/
 *  JS Response Bytes: 238270
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29619
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mezclaconfusa.blogspot.com/view/timeslide/?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [No se encuentra la página.](http://mezclaconfusa.blogspot.com/view/timeslide/?m=1)
 
@@ -29,9 +33,6 @@ title: http://mezclaconfusa.blogspot.com/view/timeslide/?m=1
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26314
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.allsmileys.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Smileys, Free Animated Emoticons - AllSmileys.com](http://www.allsmileys.com/)
 
@@ -29,9 +34,6 @@ title: http://www.allsmileys.com/
 *  JS Response Bytes: 2909330
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118273
-
-### Performance issues
-
 
 ### Performance issues
 

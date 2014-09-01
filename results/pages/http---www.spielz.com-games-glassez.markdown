@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.spielz.com/games/glassez
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [spiele](http://www.spielz.com/games/glassez)
 
@@ -29,9 +35,6 @@ title: http://www.spielz.com/games/glassez
 *  JS Response Bytes: 2186472
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12141
-
-### Performance issues
-
 
 ### Performance issues
 

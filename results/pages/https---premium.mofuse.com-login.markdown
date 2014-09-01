@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://premium.mofuse.com/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MoFuse Account Login](https://premium.mofuse.com/login)
 
@@ -29,9 +33,6 @@ title: https://premium.mofuse.com/login
 *  JS Response Bytes: 283550
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1674
-
-### Performance issues
-
 
 ### Performance issues
 

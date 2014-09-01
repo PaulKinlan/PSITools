@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://my.rentingforce.com/de_DE/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Konto :: Login](https://my.rentingforce.com/de_DE/)
 
@@ -29,9 +32,6 @@ title: https://my.rentingforce.com/de_DE/
 *  JS Response Bytes: 435105
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 71556
-
-### Performance issues
-
 
 ### Performance issues
 

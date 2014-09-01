@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://flashgameworld.net/?s=Island+Temple+Run
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Island Temple Run – Search Results – Flash Game World Network | Online Best Games](http://flashgameworld.net/?s=Island+Temple+Run)
 
@@ -29,9 +36,6 @@ title: http://flashgameworld.net/?s=Island+Temple+Run
 *  JS Response Bytes: 551001
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15863
-
-### Performance issues
-
 
 ### Performance issues
 

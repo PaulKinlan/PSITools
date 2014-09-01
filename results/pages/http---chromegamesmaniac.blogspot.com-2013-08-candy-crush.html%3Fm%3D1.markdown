@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromegamesmaniac.blogspot.com/2013/08/candy-crush.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [chromegamesmaniac: Candy Crush](http://chromegamesmaniac.blogspot.com/2013/08/candy-crush.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chromegamesmaniac.blogspot.com/2013/08/candy-crush.html?m=1
 *  JS Response Bytes: 1068017
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97987
-
-### Performance issues
-
 
 ### Performance issues
 

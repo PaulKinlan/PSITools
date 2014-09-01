@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://signalpro.net/github/repo_rec.htm#/repo/bootstrap
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [github repository recommendation, coders like this repo also like ...](http://signalpro.net/github/repo_rec.htm#/repo/bootstrap)
 
@@ -29,9 +34,6 @@ title: http://signalpro.net/github/repo_rec.htm#/repo/bootstrap
 *  JS Response Bytes: 503559
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

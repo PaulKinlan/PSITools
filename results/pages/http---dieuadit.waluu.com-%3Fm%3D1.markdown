@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://dieuadit.waluu.com/?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Liste des contributions](http://dieuadit.waluu.com/?m=1)
 
@@ -29,9 +34,6 @@ title: http://dieuadit.waluu.com/?m=1
 *  JS Response Bytes: 902916
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4364
-
-### Performance issues
-
 
 ### Performance issues
 

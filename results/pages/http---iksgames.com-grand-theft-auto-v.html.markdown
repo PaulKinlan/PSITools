@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://iksgames.com/grand-theft-auto-v.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IKSgameS.Com | Flash Games. – Grand Theft Auto V](http://iksgames.com/grand-theft-auto-v.html)
 
@@ -29,9 +36,6 @@ title: http://iksgames.com/grand-theft-auto-v.html
 *  JS Response Bytes: 412704
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 808
-
-### Performance issues
-
 
 ### Performance issues
 

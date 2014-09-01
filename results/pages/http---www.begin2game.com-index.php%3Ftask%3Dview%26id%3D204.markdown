@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.begin2game.com/index.php?task=view&id=204
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [On The Run The Getaway - BeGiN2GaMe - just Challange! And Play Free! Play Online!](http://www.begin2game.com/index.php?task=view&id=204)
 
@@ -29,9 +33,6 @@ title: http://www.begin2game.com/index.php?task=view&id=204
 *  JS Response Bytes: 3397819
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 157607
-
-### Performance issues
-
 
 ### Performance issues
 

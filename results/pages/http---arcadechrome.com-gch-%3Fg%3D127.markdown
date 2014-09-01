@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://arcadechrome.com/gch/?g=127
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Michael Jackson Tribute](http://arcadechrome.com/gch/?g=127)
 
@@ -29,9 +33,6 @@ title: http://arcadechrome.com/gch/?g=127
 *  JS Response Bytes: 1512496
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39461
-
-### Performance issues
-
 
 ### Performance issues
 

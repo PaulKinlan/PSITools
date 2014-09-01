@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mobileapps.ch/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MobileApps.ch - Mobile App Builder](http://www.mobileapps.ch/)
 
@@ -29,9 +32,6 @@ title: http://www.mobileapps.ch/
 *  JS Response Bytes: 1862229
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96256
-
-### Performance issues
-
 
 ### Performance issues
 

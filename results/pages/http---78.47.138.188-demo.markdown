@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://78.47.138.188/demo
+UseLegibleFontSizes: true
 ---
 ## [Apache Tomcat/6.0.35 - Error report](http://78.47.138.188/demo)
 
@@ -29,9 +30,6 @@ title: http://78.47.138.188/demo
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1097
-
-### Performance issues
-
 
 ### Performance issues
 

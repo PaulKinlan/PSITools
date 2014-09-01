@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://speech-to-text.org/voicenote-II/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [VoiceNote II ♥ Speech to text](https://speech-to-text.org/voicenote-II/)
 
@@ -29,9 +35,6 @@ title: https://speech-to-text.org/voicenote-II/
 *  JS Response Bytes: 70071
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.chip.de/?mrr=
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [CHIP - Deutschlands Webseite Nr. 1 für Computer, Handy und Home Entertainment](http://m.chip.de/?mrr=)
 
@@ -29,9 +32,6 @@ title: http://m.chip.de/?mrr=
 *  JS Response Bytes: 1542356
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17373
-
-### Performance issues
-
 
 ### Performance issues
 

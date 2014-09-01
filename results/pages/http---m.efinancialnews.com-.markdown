@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://m.efinancialnews.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FNO Mobile](http://m.efinancialnews.com/)
 
@@ -29,9 +35,6 @@ title: http://m.efinancialnews.com/
 *  JS Response Bytes: 189144
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3694
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gangstarrioa.com/?s=pou&x=0&y=0
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [pou « Search Results « play game](http://www.gangstarrioa.com/?s=pou&x=0&y=0)
 
@@ -29,9 +32,6 @@ title: http://www.gangstarrioa.com/?s=pou&x=0&y=0
 *  JS Response Bytes: 955454
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

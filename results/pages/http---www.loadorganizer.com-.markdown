@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.loadorganizer.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Load Organizer, Web-based Freight Dispatch System](http://www.loadorganizer.com/)
 
@@ -29,9 +31,6 @@ title: http://www.loadorganizer.com/
 *  JS Response Bytes: 2133723
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2129
-
-### Performance issues
-
 
 ### Performance issues
 

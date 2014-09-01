@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameboysite.com/chrome/880.html#.U_u04U0ieKA
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tennis Game - free flash game,flash game,small game,online flash game](http://www.gameboysite.com/chrome/880.html#.U_u04U0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.gameboysite.com/chrome/880.html#.U_u04U0ieKA
 *  JS Response Bytes: 918916
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7939
-
-### Performance issues
-
 
 ### Performance issues
 

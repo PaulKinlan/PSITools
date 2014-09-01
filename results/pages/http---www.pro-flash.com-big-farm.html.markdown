@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.pro-flash.com/big-farm.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pro-Flash.Com – Big Farm](http://www.pro-flash.com/big-farm.html)
 
@@ -29,9 +35,6 @@ title: http://www.pro-flash.com/big-farm.html
 *  JS Response Bytes: 404472
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 62090
-
-### Performance issues
-
 
 ### Performance issues
 

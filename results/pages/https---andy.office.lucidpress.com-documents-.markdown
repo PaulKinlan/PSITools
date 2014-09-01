@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://andy.office.lucidpress.com/documents/
+UseLegibleFontSizes: true
 ---
 ## [403 Forbidden](https://andy.office.lucidpress.com/documents/)
 
@@ -29,9 +30,6 @@ title: https://andy.office.lucidpress.com/documents/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 498
-
-### Performance issues
-
 
 ### Performance issues
 

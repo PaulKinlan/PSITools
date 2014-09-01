@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://onlineflashgames1.blogspot.com/2013/10/talking-tom-cat-2-free-hd.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Flash Games](http://onlineflashgames1.blogspot.com/2013/10/talking-tom-cat-2-free-hd.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://onlineflashgames1.blogspot.com/2013/10/talking-tom-cat-2-free-hd.h
 *  JS Response Bytes: 788524
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 339239
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.cominggame.com/chrome-category/match-together
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Match Together - Coming Game](http://www.cominggame.com/chrome-category/match-together)
 
@@ -29,9 +34,6 @@ title: http://www.cominggame.com/chrome-category/match-together
 *  JS Response Bytes: 758956
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30091
-
-### Performance issues
-
 
 ### Performance issues
 

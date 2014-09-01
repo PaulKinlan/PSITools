@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.zyqued.com/playDishum.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Zyqued Games : The art of gaming](http://www.zyqued.com/playDishum.aspx)
 
@@ -29,9 +34,6 @@ title: http://www.zyqued.com/playDishum.aspx
 *  JS Response Bytes: 1152452
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2281
-
-### Performance issues
-
 
 ### Performance issues
 

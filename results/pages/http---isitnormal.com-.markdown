@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://isitnormal.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Is It Normal? | http://isitnormal.com](http://isitnormal.com/)
 
@@ -29,9 +33,6 @@ title: http://isitnormal.com/
 *  JS Response Bytes: 388816
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

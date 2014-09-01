@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.taketwoapps.com/apps/20/motivate/app.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Reach Your Goals!](http://www.taketwoapps.com/apps/20/motivate/app.html)
 
@@ -29,9 +32,6 @@ title: http://www.taketwoapps.com/apps/20/motivate/app.html
 *  JS Response Bytes: 429092
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

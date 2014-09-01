@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://echange.circus.mu/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Circus Advertising](http://echange.circus.mu/)
 
@@ -29,9 +33,6 @@ title: http://echange.circus.mu/
 *  JS Response Bytes: 127519
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14387
-
-### Performance issues
-
 
 ### Performance issues
 

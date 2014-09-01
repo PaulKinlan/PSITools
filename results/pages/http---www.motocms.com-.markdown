@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.motocms.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Make a Website - MotoCMS Website Builder](http://www.motocms.com/)
 
@@ -29,9 +35,6 @@ title: http://www.motocms.com/
 *  JS Response Bytes: 3164936
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11664
-
-### Performance issues
-
 
 ### Performance issues
 

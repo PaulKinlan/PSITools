@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://erply.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [iPad POS Point of Sale System and Retail Inventory Management Software Erply](http://erply.com/)
 
@@ -29,9 +32,6 @@ title: http://erply.com/
 *  JS Response Bytes: 497030
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30697
-
-### Performance issues
-
 
 ### Performance issues
 

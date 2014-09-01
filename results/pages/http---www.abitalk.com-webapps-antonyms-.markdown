@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.abitalk.com/webapps/antonyms/
+SizeContentToViewport: true
 ---
 ## [Antonyms & Synonyms](http://www.abitalk.com/webapps/antonyms/)
 
@@ -29,9 +30,6 @@ title: http://www.abitalk.com/webapps/antonyms/
 *  JS Response Bytes: 3856174
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

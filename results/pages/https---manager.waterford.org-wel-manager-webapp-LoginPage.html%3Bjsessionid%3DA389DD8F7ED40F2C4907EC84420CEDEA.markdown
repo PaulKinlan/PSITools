@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://manager.waterford.org/wel-manager-webapp/LoginPage.html;jsessionid=A389DD8F7ED40F2C4907EC84420CEDEA
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Waterford Early Learning Manager](https://manager.waterford.org/wel-manager-webapp/LoginPage.html;jsessionid=A389DD8F7ED40F2C4907EC84420CEDEA)
 
@@ -29,9 +35,6 @@ title: https://manager.waterford.org/wel-manager-webapp/LoginPage.html;jsessioni
 *  JS Response Bytes: 6153
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 963
-
-### Performance issues
-
 
 ### Performance issues
 

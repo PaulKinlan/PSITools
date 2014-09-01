@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.summitcrm.de//user
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Anmelden | SummitCRM](https://www.summitcrm.de//user)
 
@@ -29,9 +33,6 @@ title: https://www.summitcrm.de//user
 *  JS Response Bytes: 267998
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 196148
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.games4addict.com/driving/city-road/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [City Road | Games 4 Addict](http://www.games4addict.com/driving/city-road/)
 
@@ -29,9 +36,6 @@ title: http://www.games4addict.com/driving/city-road/
 *  JS Response Bytes: 1200368
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 171096
-
-### Performance issues
-
 
 ### Performance issues
 

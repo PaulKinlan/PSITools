@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamef2.com/default-category/papa-louie-2-when-burgers-attack
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Papa Louie 2 When Burgers Attack - GaMeF2](http://www.gamef2.com/default-category/papa-louie-2-when-burgers-attack)
 
@@ -29,9 +34,6 @@ title: http://www.gamef2.com/default-category/papa-louie-2-when-burgers-attack
 *  JS Response Bytes: 2096338
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104780
-
-### Performance issues
-
 
 ### Performance issues
 

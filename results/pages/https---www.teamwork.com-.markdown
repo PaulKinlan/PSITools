@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.teamwork.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Teamwork.com - Online Project Management & Task Management Software](https://www.teamwork.com/)
 
@@ -29,9 +32,6 @@ title: https://www.teamwork.com/
 *  JS Response Bytes: 560047
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16086
-
-### Performance issues
-
 
 ### Performance issues
 

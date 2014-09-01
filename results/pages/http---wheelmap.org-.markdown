@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://wheelmap.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Wheelmap.org - Rollstuhlgerechte Orte suchen und finden](http://wheelmap.org/)
 
@@ -29,9 +33,6 @@ title: http://wheelmap.org/
 *  JS Response Bytes: 1076467
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1843
-
-### Performance issues
-
 
 ### Performance issues
 

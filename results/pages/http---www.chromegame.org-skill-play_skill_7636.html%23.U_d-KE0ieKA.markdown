@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chromegame.org/skill/play_skill_7636.html#.U_d-KE0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Labyrinth_Chromegame - Play the best free online games.](http://www.chromegame.org/skill/play_skill_7636.html#.U_d-KE0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.chromegame.org/skill/play_skill_7636.html#.U_d-KE0ieKA
 *  JS Response Bytes: 734318
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2595
-
-### Performance issues
-
 
 ### Performance issues
 

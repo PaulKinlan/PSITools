@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.justas.biz/cloudmixer/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mix My Trip 1.0](http://www.justas.biz/cloudmixer/)
 
@@ -29,9 +33,6 @@ title: http://www.justas.biz/cloudmixer/
 *  JS Response Bytes: 1164256
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16417
-
-### Performance issues
-
 
 ### Performance issues
 

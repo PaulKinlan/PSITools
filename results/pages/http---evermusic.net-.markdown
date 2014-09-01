@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://evermusic.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ever Music - Music Database 2: Revolution](http://evermusic.net/)
 
@@ -29,9 +33,6 @@ title: http://evermusic.net/
 *  JS Response Bytes: 847151
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 75628
-
-### Performance issues
-
 
 ### Performance issues
 

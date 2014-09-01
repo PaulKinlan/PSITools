@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://unity-games-online.net/play-piano-tiles
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Piano Tiles Online | Unity-Games-Online.Net](http://unity-games-online.net/play-piano-tiles)
 
@@ -29,9 +32,6 @@ title: http://unity-games-online.net/play-piano-tiles
 *  JS Response Bytes: 2236279
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 199001
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -33,8 +33,5 @@ title: http://www.zorgempire.org/openid_l.php
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

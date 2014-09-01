@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://footballidentity.com/BasicWebsite/LogOnAndPresentation/U1.aspx
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Footballidentity - Home Page](http://footballidentity.com/BasicWebsite/LogOnAndPresentation/U1.aspx)
 
@@ -29,9 +35,6 @@ title: http://footballidentity.com/BasicWebsite/LogOnAndPresentation/U1.aspx
 *  JS Response Bytes: 1235120
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4129
-
-### Performance issues
-
 
 ### Performance issues
 

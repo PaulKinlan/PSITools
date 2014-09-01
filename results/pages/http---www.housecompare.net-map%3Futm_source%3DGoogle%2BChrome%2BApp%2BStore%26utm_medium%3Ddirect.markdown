@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.housecompare.net/map?utm_source=Google+Chrome+App+Store&utm_medium=direct
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Search homes for sale on House Compare](http://www.housecompare.net/map?utm_source=Google+Chrome+App+Store&utm_medium=direct)
 
@@ -29,9 +35,6 @@ title: http://www.housecompare.net/map?utm_source=Google+Chrome+App+Store&utm_me
 *  JS Response Bytes: 1879416
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 150863
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.biteslide.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Research, create, and present school projects online - Biteslide](http://www.biteslide.com/)
 
@@ -29,9 +34,6 @@ title: http://www.biteslide.com/
 *  JS Response Bytes: 585029
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29100
-
-### Performance issues
-
 
 ### Performance issues
 

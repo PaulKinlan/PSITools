@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://games.playtouch.net/chrome/inca-challenge/inca-challenge/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Inca Challenge](http://games.playtouch.net/chrome/inca-challenge/inca-challenge/)
 
@@ -29,9 +32,6 @@ title: http://games.playtouch.net/chrome/inca-challenge/inca-challenge/
 *  JS Response Bytes: 1459890
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1050
-
-### Performance issues
-
 
 ### Performance issues
 

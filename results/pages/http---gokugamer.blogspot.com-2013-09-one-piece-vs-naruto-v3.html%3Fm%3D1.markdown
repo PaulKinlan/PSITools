@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gokugamer.blogspot.com/2013/09/one-piece-vs-naruto-v3.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [Goku Gamer: One Piece VS Naruto V3](http://gokugamer.blogspot.com/2013/09/one-piece-vs-naruto-v3.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://gokugamer.blogspot.com/2013/09/one-piece-vs-naruto-v3.html?m=1
 *  JS Response Bytes: 2394850
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 301547
-
-### Performance issues
-
 
 ### Performance issues
 

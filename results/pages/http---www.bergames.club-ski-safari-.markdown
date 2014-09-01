@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.bergames.club/ski-safari/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ski Safari – Online Best Games](http://www.bergames.club/ski-safari/)
 
@@ -29,9 +36,6 @@ title: http://www.bergames.club/ski-safari/
 *  JS Response Bytes: 1089460
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18009
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ekrandatv.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [Canli Tv izle](http://www.ekrandatv.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://www.ekrandatv.com/?m=1
 *  JS Response Bytes: 746684
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 559
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://pisarovic.cz/deavie2
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://pisarovic.cz/deavie2)
 
@@ -29,9 +33,6 @@ title: http://pisarovic.cz/deavie2
 *  JS Response Bytes: 20770
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

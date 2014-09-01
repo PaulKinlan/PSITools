@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://theenginuity.com/search/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Enginuity Social Search](https://theenginuity.com/search/)
 
@@ -29,9 +32,6 @@ title: https://theenginuity.com/search/
 *  JS Response Bytes: 495069
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 183583
-
-### Performance issues
-
 
 ### Performance issues
 

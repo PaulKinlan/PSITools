@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://fieldrunnershtml5.appspot.com/#sd
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Fieldrunners](http://fieldrunnershtml5.appspot.com/#sd)
 
@@ -29,9 +33,6 @@ title: http://fieldrunnershtml5.appspot.com/#sd
 *  JS Response Bytes: 1737841
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95812
-
-### Performance issues
-
 
 ### Performance issues
 

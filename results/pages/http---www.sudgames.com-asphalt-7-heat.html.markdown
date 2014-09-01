@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.sudgames.com/asphalt-7-heat.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SuDGameS.Com | Flash Game | Flash Games | Top Games – Asphalt 7 Heat](http://www.sudgames.com/asphalt-7-heat.html)
 
@@ -29,9 +35,6 @@ title: http://www.sudgames.com/asphalt-7-heat.html
 *  JS Response Bytes: 411232
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1059
-
-### Performance issues
-
 
 ### Performance issues
 

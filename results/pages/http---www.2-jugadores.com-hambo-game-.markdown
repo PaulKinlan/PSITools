@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.2-jugadores.com/hambo/game/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hambo juego](http://www.2-jugadores.com/hambo/game/)
 
@@ -29,9 +35,6 @@ title: http://www.2-jugadores.com/hambo/game/
 *  JS Response Bytes: 1888333
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49649
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ajdesigner.com/fl_dog_age/dog_age.php
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Dog Age Calculator - Breed Conversion Chart To Human Years](http://www.ajdesigner.com/fl_dog_age/dog_age.php)
 
@@ -29,9 +32,6 @@ title: http://www.ajdesigner.com/fl_dog_age/dog_age.php
 *  JS Response Bytes: 2889571
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15081
-
-### Performance issues
-
 
 ### Performance issues
 

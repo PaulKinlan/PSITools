@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.tourvolume.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Tour Volume](http://www.tourvolume.com/)
 
@@ -29,9 +31,6 @@ title: http://www.tourvolume.com/
 *  JS Response Bytes: 402789
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 986
-
-### Performance issues
-
 
 ### Performance issues
 

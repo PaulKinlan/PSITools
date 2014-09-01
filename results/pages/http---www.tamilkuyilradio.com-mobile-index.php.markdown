@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.tamilkuyilradio.com/mobile/index.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Live Now - Tamil Kuyil Radio-Tamil Music Radio-Online Tamil Radio - Live free tamil radio](http://www.tamilkuyilradio.com/mobile/index.php)
 
@@ -29,9 +33,6 @@ title: http://www.tamilkuyilradio.com/mobile/index.php
 *  JS Response Bytes: 517185
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1425
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.listube.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [listube - free online on-demand music player](http://www.listube.com/)
 
@@ -29,9 +33,6 @@ title: http://www.listube.com/
 *  JS Response Bytes: 3336218
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15162
-
-### Performance issues
-
 
 ### Performance issues
 

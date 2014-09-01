@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://accesoa3.blogspot.com/?m=1
+UseLegibleFontSizes: true
 ---
 ## [Service Unavailable](http://accesoa3.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://accesoa3.blogspot.com/?m=1
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1052
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://app.artia.com/users/login
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [artia](https://app.artia.com/users/login)
 
@@ -29,9 +32,6 @@ title: https://app.artia.com/users/login
 *  JS Response Bytes: 1108968
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 768
-
-### Performance issues
-
 
 ### Performance issues
 

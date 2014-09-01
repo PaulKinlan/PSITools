@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.waluu.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Liste des contributions](http://www.waluu.com/)
 
@@ -29,9 +34,6 @@ title: http://www.waluu.com/
 *  JS Response Bytes: 907972
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7949
-
-### Performance issues
-
 
 ### Performance issues
 

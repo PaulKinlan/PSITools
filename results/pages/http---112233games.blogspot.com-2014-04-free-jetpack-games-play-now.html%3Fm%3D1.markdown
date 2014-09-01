@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://112233games.blogspot.com/2014/04/free-jetpack-games-play-now.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Online games, card games, casino games, free games: Free Jetpack Games Play Now](http://112233games.blogspot.com/2014/04/free-jetpack-games-play-now.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://112233games.blogspot.com/2014/04/free-jetpack-games-play-now.html?
 *  JS Response Bytes: 762155
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97084
-
-### Performance issues
-
 
 ### Performance issues
 

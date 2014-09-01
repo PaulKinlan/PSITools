@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://online-tv-ireland.com/
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ireland TV Review](http://online-tv-ireland.com/)
 
@@ -29,9 +32,6 @@ title: http://online-tv-ireland.com/
 *  JS Response Bytes: 1910323
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46431
-
-### Performance issues
-
 
 ### Performance issues
 

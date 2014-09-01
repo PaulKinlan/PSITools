@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://entanglement.gopherwoodstudios.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Entanglement - by Gopherwood Studios](http://entanglement.gopherwoodstudios.com/)
 
@@ -29,9 +32,6 @@ title: http://entanglement.gopherwoodstudios.com/
 *  JS Response Bytes: 2047050
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 89975
-
-### Performance issues
-
 
 ### Performance issues
 

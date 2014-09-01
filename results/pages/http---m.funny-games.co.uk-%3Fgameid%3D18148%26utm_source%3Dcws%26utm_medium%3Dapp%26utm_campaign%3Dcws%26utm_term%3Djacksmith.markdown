@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.funny-games.co.uk/?gameid=18148&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=jacksmith
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funny-games.co.uk/?gameid=18148&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=jacksmith)
 
@@ -29,9 +33,6 @@ title: http://m.funny-games.co.uk/?gameid=18148&utm_source=cws&utm_medium=app&ut
 *  JS Response Bytes: 1266592
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28392
-
-### Performance issues
-
 
 ### Performance issues
 

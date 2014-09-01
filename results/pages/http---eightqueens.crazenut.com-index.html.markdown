@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://eightqueens.crazenut.com/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Crazenut.com](http://eightqueens.crazenut.com/index.html)
 
@@ -29,9 +32,6 @@ title: http://eightqueens.crazenut.com/index.html
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

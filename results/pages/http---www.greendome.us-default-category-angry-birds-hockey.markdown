@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.greendome.us/default-category/angry-birds-hockey
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Hockey - Green Dome](http://www.greendome.us/default-category/angry-birds-hockey)
 
@@ -29,9 +34,6 @@ title: http://www.greendome.us/default-category/angry-birds-hockey
 *  JS Response Bytes: 1880046
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117484
-
-### Performance issues
-
 
 ### Performance issues
 

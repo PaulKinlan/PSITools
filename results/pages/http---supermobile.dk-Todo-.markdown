@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://supermobile.dk/Todo/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Todo WebApp](http://supermobile.dk/Todo/)
 
@@ -29,9 +33,6 @@ title: http://supermobile.dk/Todo/
 *  JS Response Bytes: 180755
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

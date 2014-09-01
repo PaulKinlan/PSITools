@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.chromegames.co.uk/skywire.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sky Wire Game](http://www.chromegames.co.uk/skywire.html)
 
@@ -29,9 +34,6 @@ title: http://www.chromegames.co.uk/skywire.html
 *  JS Response Bytes: 1167600
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95466
-
-### Performance issues
-
 
 ### Performance issues
 

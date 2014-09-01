@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.4to4game.com/3d-games/blue-print-billiards#.U_uZiE0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blue Print Billiards - 4to4game.com - just Challange! And Play Free! Play Online!](http://www.4to4game.com/3d-games/blue-print-billiards#.U_uZiE0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.4to4game.com/3d-games/blue-print-billiards#.U_uZiE0ieKA
 *  JS Response Bytes: 2116863
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30795
-
-### Performance issues
-
 
 ### Performance issues
 

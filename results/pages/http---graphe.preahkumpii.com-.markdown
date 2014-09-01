@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://graphe.preahkumpii.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [graphe | John 3](http://graphe.preahkumpii.com/)
 
@@ -29,9 +32,6 @@ title: http://graphe.preahkumpii.com/
 *  JS Response Bytes: 130902
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63601
-
-### Performance issues
-
 
 ### Performance issues
 

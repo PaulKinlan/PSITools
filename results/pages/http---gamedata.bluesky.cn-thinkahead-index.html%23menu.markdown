@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gamedata.bluesky.cn/thinkahead/index.html#menu
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Think Ahead](http://gamedata.bluesky.cn/thinkahead/index.html#menu)
 
@@ -29,9 +31,6 @@ title: http://gamedata.bluesky.cn/thinkahead/index.html#menu
 *  JS Response Bytes: 291665
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

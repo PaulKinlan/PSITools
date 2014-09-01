@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.livrariaw.com.br/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Livraria W](http://www.livrariaw.com.br/)
 
@@ -29,9 +33,6 @@ title: http://www.livrariaw.com.br/
 *  JS Response Bytes: 625799
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

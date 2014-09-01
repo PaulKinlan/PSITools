@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_2161_Ben-10-Ultimatrix.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ben 10 Ultimatrix Flash Games](http://www.newpopulargames.com/game_2161_Ben-10-Ultimatrix.html)
 
@@ -29,9 +35,6 @@ title: http://www.newpopulargames.com/game_2161_Ben-10-Ultimatrix.html
 *  JS Response Bytes: 1679988
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112876
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.nirvanagame99.com/default-category/traffic-frenzy-rome
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Traffic Frenzy: Rome - Nirvanegame99.com](http://www.nirvanagame99.com/default-category/traffic-frenzy-rome)
 
@@ -29,9 +33,6 @@ title: http://www.nirvanagame99.com/default-category/traffic-frenzy-rome
 *  JS Response Bytes: 1245890
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15233
-
-### Performance issues
-
 
 ### Performance issues
 

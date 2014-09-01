@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://worldnews.ehubsoft.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [World News](http://worldnews.ehubsoft.net/)
 
@@ -29,9 +33,6 @@ title: http://worldnews.ehubsoft.net/
 *  JS Response Bytes: 499124
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16515
-
-### Performance issues
-
 
 ### Performance issues
 

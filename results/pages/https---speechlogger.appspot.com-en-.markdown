@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://speechlogger.appspot.com/en/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Speechlogger](https://speechlogger.appspot.com/en/)
 
@@ -29,9 +32,6 @@ title: https://speechlogger.appspot.com/en/
 *  JS Response Bytes: 591280
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57
-
-### Performance issues
-
 
 ### Performance issues
 

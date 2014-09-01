@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.securepaynet.net/?mrk=sales.none&mrf=%2Fdomains%2Fsearchidn.aspx%3Fci%3D10993%26prog_id%3D466754&prog_id=466754&pl_id=466754
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Search, Register and Transfer Web Domain Names and More](http://m.securepaynet.net/?mrk=sales.none&mrf=%2Fdomains%2Fsearchidn.aspx%3Fci%3D10993%26prog_id%3D466754&prog_id=466754&pl_id=466754)
 
@@ -29,9 +31,6 @@ title: http://m.securepaynet.net/?mrk=sales.none&mrf=%2Fdomains%2Fsearchidn.aspx
 *  JS Response Bytes: 180794
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3124
-
-### Performance issues
-
 
 ### Performance issues
 

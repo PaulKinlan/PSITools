@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://furious1.dar-app.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [CHROME FURIOUS 1](http://furious1.dar-app.com/)
 
@@ -29,9 +32,6 @@ title: http://furious1.dar-app.com/
 *  JS Response Bytes: 101034
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

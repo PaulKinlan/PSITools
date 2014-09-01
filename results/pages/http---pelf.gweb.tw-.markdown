@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://pelf.gweb.tw/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://pelf.gweb.tw/)
 
@@ -29,9 +31,6 @@ title: http://pelf.gweb.tw/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

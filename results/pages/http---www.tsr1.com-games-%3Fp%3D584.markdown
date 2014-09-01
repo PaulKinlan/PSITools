@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.tsr1.com/games/?p=584
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games to Addict » Blog Archive » Knife Warrior BLADE](http://www.tsr1.com/games/?p=584)
 
@@ -29,9 +37,6 @@ title: http://www.tsr1.com/games/?p=584
 *  JS Response Bytes: 507953
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

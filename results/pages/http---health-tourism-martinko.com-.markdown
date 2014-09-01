@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://health-tourism-martinko.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Implant Centre Martinko | ICM | Dentist in Croatia](http://health-tourism-martinko.com/)
 
@@ -29,9 +31,6 @@ title: http://health-tourism-martinko.com/
 *  JS Response Bytes: 2312855
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 299740
-
-### Performance issues
-
 
 ### Performance issues
 

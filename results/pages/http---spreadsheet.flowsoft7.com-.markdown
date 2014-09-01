@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://spreadsheet.flowsoft7.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Spreadsheet Calculator](http://spreadsheet.flowsoft7.com/)
 
@@ -29,9 +35,6 @@ title: http://spreadsheet.flowsoft7.com/
 *  JS Response Bytes: 858335
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

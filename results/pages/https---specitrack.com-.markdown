@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://specitrack.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Specitrack | Home](https://specitrack.com/)
 
@@ -29,9 +32,6 @@ title: https://specitrack.com/
 *  JS Response Bytes: 139640
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58919
-
-### Performance issues
-
 
 ### Performance issues
 

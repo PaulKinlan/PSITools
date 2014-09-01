@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.biocourseware.com/iphone/dnaseqeditor/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [DNA Sequence Editor](http://www.biocourseware.com/iphone/dnaseqeditor/)
 
@@ -29,9 +32,6 @@ title: http://www.biocourseware.com/iphone/dnaseqeditor/
 *  JS Response Bytes: 1766483
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110482
-
-### Performance issues
-
 
 ### Performance issues
 

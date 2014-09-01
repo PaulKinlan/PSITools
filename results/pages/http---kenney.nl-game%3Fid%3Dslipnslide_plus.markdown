@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://kenney.nl/game?id=slipnslide_plus
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://kenney.nl/game?id=slipnslide_plus)
 
@@ -29,9 +30,6 @@ title: http://kenney.nl/game?id=slipnslide_plus
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1725
-
-### Performance issues
-
 
 ### Performance issues
 

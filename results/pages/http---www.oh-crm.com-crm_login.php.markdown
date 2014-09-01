@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.oh-crm.com/crm_login.php
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [CRM](http://www.oh-crm.com/crm_login.php)
 
@@ -29,9 +31,6 @@ title: http://www.oh-crm.com/crm_login.php
 *  JS Response Bytes: 116934
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 606
-
-### Performance issues
-
 
 ### Performance issues
 

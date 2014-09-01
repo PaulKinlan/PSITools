@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.pomegame.com/games/mech-mice-academy/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MECH MICE ACADEMY Game](http://www.pomegame.com/games/mech-mice-academy/)
 
@@ -29,9 +34,6 @@ title: http://www.pomegame.com/games/mech-mice-academy/
 *  JS Response Bytes: 1610538
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19569
-
-### Performance issues
-
 
 ### Performance issues
 

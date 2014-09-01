@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.formigone.com/apps/slider/game-of-15-min.html
+MinimizeRenderBlockingResources: true
 ---
 ## [Game of 15 « Rodrigo Silveira](http://www.formigone.com/apps/slider/game-of-15-min.html)
 
@@ -29,9 +30,6 @@ title: http://www.formigone.com/apps/slider/game-of-15-min.html
 *  JS Response Bytes: 98809
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

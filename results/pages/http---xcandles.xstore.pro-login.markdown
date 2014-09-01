@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://xcandles.xstore.pro/login
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [xCandles](http://xcandles.xstore.pro/login)
 
@@ -29,9 +32,6 @@ title: http://xcandles.xstore.pro/login
 *  JS Response Bytes: 153603
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 370
-
-### Performance issues
-
 
 ### Performance issues
 

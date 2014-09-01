@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://rl.rainbow-link.com/chrome_domainboard/domainboard.htm
+UseLegibleFontSizes: true
 ---
 ## [](https://rl.rainbow-link.com/chrome_domainboard/domainboard.htm)
 
@@ -29,9 +30,6 @@ title: https://rl.rainbow-link.com/chrome_domainboard/domainboard.htm
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

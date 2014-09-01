@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.subaru-impreza.de/SonderserienENG.htm
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Subaru Impreza Bible by Frank Göpfert - All special editions - P1 22B WR1 Prodrive S201 S202 S203 S204 R205 S206 S207 Electra One Cosworth CS400](http://www.subaru-impreza.de/SonderserienENG.htm)
 
@@ -29,9 +32,6 @@ title: http://www.subaru-impreza.de/SonderserienENG.htm
 *  JS Response Bytes: 539660
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 752
-
-### Performance issues
-
 
 ### Performance issues
 

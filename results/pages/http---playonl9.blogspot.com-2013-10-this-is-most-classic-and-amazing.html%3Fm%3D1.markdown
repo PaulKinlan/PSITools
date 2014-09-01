@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playonl9.blogspot.com/2013/10/this-is-most-classic-and-amazing.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Online: Shoot Bubble Deluxe Online](http://playonl9.blogspot.com/2013/10/this-is-most-classic-and-amazing.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playonl9.blogspot.com/2013/10/this-is-most-classic-and-amazing.htm
 *  JS Response Bytes: 2325483
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287480
-
-### Performance issues
-
 
 ### Performance issues
 

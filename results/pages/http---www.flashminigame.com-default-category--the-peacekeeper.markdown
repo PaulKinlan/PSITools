@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.flashminigame.com/default-category/-the-peacekeeper
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Peacekeeper - Flash Mini GaMeS - Free Online Flash Games](http://www.flashminigame.com/default-category/-the-peacekeeper)
 
@@ -29,9 +35,6 @@ title: http://www.flashminigame.com/default-category/-the-peacekeeper
 *  JS Response Bytes: 911936
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 68319
-
-### Performance issues
-
 
 ### Performance issues
 

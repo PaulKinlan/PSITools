@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.interfax.by/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Новости информационного агентства "Интерфакс-Запад" | Информационно-справочный портал Беларуси - interfax.by](http://www.interfax.by/)
 
@@ -29,9 +34,6 @@ title: http://www.interfax.by/
 *  JS Response Bytes: 909427
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

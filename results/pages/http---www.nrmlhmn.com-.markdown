@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.nrmlhmn.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Normal Human | Normal Human](http://www.nrmlhmn.com/)
 
@@ -29,9 +31,6 @@ title: http://www.nrmlhmn.com/
 *  JS Response Bytes: 660675
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.hotmixradio.fr/player/playerhtm/play-funky.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hotmixradio Funky - La Radio Années Disco-Funk du bouquet de webradios Hotmixradio.fr](http://www.hotmixradio.fr/player/playerhtm/play-funky.html)
 
@@ -29,9 +34,6 @@ title: http://www.hotmixradio.fr/player/playerhtm/play-funky.html
 *  JS Response Bytes: 1667134
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18213
-
-### Performance issues
-
 
 ### Performance issues
 

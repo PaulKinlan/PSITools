@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://steelsoftlab.com/games/flappytext/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flappy Text](http://steelsoftlab.com/games/flappytext/index.html)
 
@@ -29,9 +33,6 @@ title: http://steelsoftlab.com/games/flappytext/index.html
 *  JS Response Bytes: 422423
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15665
-
-### Performance issues
-
 
 ### Performance issues
 

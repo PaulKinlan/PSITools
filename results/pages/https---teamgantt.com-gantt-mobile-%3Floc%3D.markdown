@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://teamgantt.com/gantt/mobile/?loc=
+MinimizeRenderBlockingResources: true
 ---
 ## [TG Mobile](https://teamgantt.com/gantt/mobile/?loc=)
 
@@ -29,9 +30,6 @@ title: https://teamgantt.com/gantt/mobile/?loc=
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 542
-
-### Performance issues
-
 
 ### Performance issues
 

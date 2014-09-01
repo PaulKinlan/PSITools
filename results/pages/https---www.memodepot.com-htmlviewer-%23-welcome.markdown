@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.memodepot.com/htmlviewer/#/welcome
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
 ---
 ## [](https://www.memodepot.com/htmlviewer/#/welcome)
 
@@ -29,9 +32,6 @@ title: https://www.memodepot.com/htmlviewer/#/welcome
 *  JS Response Bytes: 564381
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4424
-
-### Performance issues
-
 
 ### Performance issues
 

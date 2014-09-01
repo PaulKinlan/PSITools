@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.alliancehealth.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Alliance | Alliance Health](https://www.alliancehealth.com/)
 
@@ -29,9 +33,6 @@ title: https://www.alliancehealth.com/
 *  JS Response Bytes: 328461
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 294119
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.tunnelgame.net/flash-games/category/tower-defence/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tower Defence « Flash Games, Online Games](http://www.tunnelgame.net/flash-games/category/tower-defence/)
 
@@ -29,9 +36,6 @@ title: http://www.tunnelgame.net/flash-games/category/tower-defence/
 *  JS Response Bytes: 1108201
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 839
-
-### Performance issues
-
 
 ### Performance issues
 

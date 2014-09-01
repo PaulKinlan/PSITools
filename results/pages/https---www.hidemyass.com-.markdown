@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.hidemyass.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [VPN – Secure Private Virtual Network Service – Hide My Ass!](https://www.hidemyass.com/)
 
@@ -29,9 +34,6 @@ title: https://www.hidemyass.com/
 *  JS Response Bytes: 2538535
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1614
-
-### Performance issues
-
 
 ### Performance issues
 

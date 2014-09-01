@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://memetizando.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Memetizando | Acabando com a sua produtividade](http://memetizando.com/)
 
@@ -29,9 +33,6 @@ title: http://memetizando.com/
 *  JS Response Bytes: 761010
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58341
-
-### Performance issues
-
 
 ### Performance issues
 

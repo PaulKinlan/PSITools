@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.ilovebasketball.co/basketball-slam/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Basketball Slam](http://www.ilovebasketball.co/basketball-slam/)
 
@@ -29,9 +36,6 @@ title: http://www.ilovebasketball.co/basketball-slam/
 *  JS Response Bytes: 3824746
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 190166
-
-### Performance issues
-
 
 ### Performance issues
 

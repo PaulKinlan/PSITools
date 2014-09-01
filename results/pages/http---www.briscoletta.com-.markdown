@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.briscoletta.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gioca a Briscola](http://www.briscoletta.com/)
 
@@ -29,9 +32,6 @@ title: http://www.briscoletta.com/
 *  JS Response Bytes: 556491
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1295
-
-### Performance issues
-
 
 ### Performance issues
 

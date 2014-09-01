@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://2013chromegames.blogspot.com/2013/08/cactus-mccoy-3.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://2013chromegames.blogspot.com/2013/08/cactus-mccoy-3.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://2013chromegames.blogspot.com/2013/08/cactus-mccoy-3.html?m=1
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18821
-
-### Performance issues
-
 
 ### Performance issues
 

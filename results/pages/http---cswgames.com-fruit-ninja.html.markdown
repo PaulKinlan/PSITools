@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://cswgames.com/fruit-ninja.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CSWGames.Com – Fruit Ninja](http://cswgames.com/fruit-ninja.html)
 
@@ -29,9 +36,6 @@ title: http://cswgames.com/fruit-ninja.html
 *  JS Response Bytes: 616326
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58379
-
-### Performance issues
-
 
 ### Performance issues
 

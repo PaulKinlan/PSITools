@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.twittstorm.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [TwittStorm - tweets per minute](http://www.twittstorm.com/)
 
@@ -29,9 +31,6 @@ title: http://www.twittstorm.com/
 *  JS Response Bytes: 241775
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14647
-
-### Performance issues
-
 
 ### Performance issues
 

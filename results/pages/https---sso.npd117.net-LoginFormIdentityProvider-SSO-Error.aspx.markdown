@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://sso.npd117.net/LoginFormIdentityProvider/SSO/Error.aspx
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Single Sign On](https://sso.npd117.net/LoginFormIdentityProvider/SSO/Error.aspx)
 
@@ -29,9 +33,6 @@ title: https://sso.npd117.net/LoginFormIdentityProvider/SSO/Error.aspx
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8285
-
-### Performance issues
-
 
 ### Performance issues
 

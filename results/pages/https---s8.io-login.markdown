@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://s8.io/login
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [station8 - Sharing simplified](https://s8.io/login)
 
@@ -29,9 +33,6 @@ title: https://s8.io/login
 *  JS Response Bytes: 802860
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

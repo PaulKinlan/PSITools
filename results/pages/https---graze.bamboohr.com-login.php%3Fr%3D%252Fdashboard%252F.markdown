@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://graze.bamboohr.com/login.php?r=%2Fdashboard%2F
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login – Graze](https://graze.bamboohr.com/login.php?r=%2Fdashboard%2F)
 
@@ -29,9 +33,6 @@ title: https://graze.bamboohr.com/login.php?r=%2Fdashboard%2F
 *  JS Response Bytes: 159861
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43359
-
-### Performance issues
-
 
 ### Performance issues
 

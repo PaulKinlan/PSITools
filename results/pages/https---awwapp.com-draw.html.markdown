@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://awwapp.com/draw.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [A Web Whiteboard](https://awwapp.com/draw.html)
 
@@ -29,9 +32,6 @@ title: https://awwapp.com/draw.html
 *  JS Response Bytes: 226693
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1056
-
-### Performance issues
-
 
 ### Performance issues
 

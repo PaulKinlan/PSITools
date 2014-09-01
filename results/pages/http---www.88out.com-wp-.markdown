@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.88out.com/wp/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [88!out - 时尚生活新潮流 | 信用卡优惠信息 航空公司活动 折扣信息](http://www.88out.com/wp/)
 
@@ -29,9 +35,6 @@ title: http://www.88out.com/wp/
 *  JS Response Bytes: 1241282
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41747
-
-### Performance issues
-
 
 ### Performance issues
 

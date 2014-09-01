@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ancientec.com/quotes/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Quotes](http://ancientec.com/quotes/)
 
@@ -29,9 +33,6 @@ title: http://ancientec.com/quotes/
 *  JS Response Bytes: 1491446
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105782
-
-### Performance issues
-
 
 ### Performance issues
 

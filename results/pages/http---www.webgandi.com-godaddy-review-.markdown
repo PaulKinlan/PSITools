@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.webgandi.com/godaddy-review/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [GoDaddy review | WebGandi](http://www.webgandi.com/godaddy-review/)
 
@@ -29,9 +31,6 @@ title: http://www.webgandi.com/godaddy-review/
 *  JS Response Bytes: 220342
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

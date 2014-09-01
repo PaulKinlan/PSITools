@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.kreativfont.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [All Fonts - Kreativ Font](http://www.kreativfont.com/)
 
@@ -29,9 +33,6 @@ title: http://www.kreativfont.com/
 *  JS Response Bytes: 520073
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23319
-
-### Performance issues
-
 
 ### Performance issues
 

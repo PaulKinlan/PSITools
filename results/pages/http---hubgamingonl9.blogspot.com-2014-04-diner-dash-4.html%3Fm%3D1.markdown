@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://hubgamingonl9.blogspot.com/2014/04/diner-dash-4.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gaming Hub: Diner Dash 4](http://hubgamingonl9.blogspot.com/2014/04/diner-dash-4.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://hubgamingonl9.blogspot.com/2014/04/diner-dash-4.html?m=1
 *  JS Response Bytes: 973434
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287795
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.bugsted.com/chrome_bugsted.php
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Bugsted - Back to the Moon](http://www.bugsted.com/chrome_bugsted.php)
 
@@ -29,9 +32,6 @@ title: http://www.bugsted.com/chrome_bugsted.php
 *  JS Response Bytes: 1618853
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 473
-
-### Performance issues
-
 
 ### Performance issues
 

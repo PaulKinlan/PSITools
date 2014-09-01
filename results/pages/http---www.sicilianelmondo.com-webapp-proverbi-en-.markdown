@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.sicilianelmondo.com/webapp/proverbi-en/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sicilian Proverbs](http://www.sicilianelmondo.com/webapp/proverbi-en/)
 
@@ -29,9 +32,6 @@ title: http://www.sicilianelmondo.com/webapp/proverbi-en/
 *  JS Response Bytes: 448914
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39969
-
-### Performance issues
-
 
 ### Performance issues
 

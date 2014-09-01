@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.thachin.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Myanmar songs](http://www.thachin.com/)
 
@@ -29,9 +31,6 @@ title: http://www.thachin.com/
 *  JS Response Bytes: 792
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

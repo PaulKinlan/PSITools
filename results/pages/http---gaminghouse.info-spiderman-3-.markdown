@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gaminghouse.info/spiderman-3/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://gaminghouse.info/spiderman-3/)
 
@@ -29,9 +30,6 @@ title: http://gaminghouse.info/spiderman-3/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 552
-
-### Performance issues
-
 
 ### Performance issues
 

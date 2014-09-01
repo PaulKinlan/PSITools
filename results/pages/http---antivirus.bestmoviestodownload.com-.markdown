@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://antivirus.bestmoviestodownload.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [Bestmoviestodownload.com](http://antivirus.bestmoviestodownload.com/)
 
@@ -29,9 +30,6 @@ title: http://antivirus.bestmoviestodownload.com/
 *  JS Response Bytes: 259015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 442
-
-### Performance issues
-
 
 ### Performance issues
 

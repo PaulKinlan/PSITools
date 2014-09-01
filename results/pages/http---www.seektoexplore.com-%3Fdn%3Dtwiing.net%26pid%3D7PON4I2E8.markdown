@@ -33,8 +33,5 @@ title: http://www.seektoexplore.com/?dn=twiing.net&pid=7PON4I2E8
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

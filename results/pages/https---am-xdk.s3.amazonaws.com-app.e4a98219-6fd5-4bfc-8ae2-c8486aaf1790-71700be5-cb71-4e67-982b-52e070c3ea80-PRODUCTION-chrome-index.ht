@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://am-xdk.s3.amazonaws.com/app.e4a98219-6fd5-4bfc-8ae2-c8486aaf1790/71700be5-cb71-4e67-982b-52e070c3ea80/PRODUCTION/chrome/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [BoomTown!](https://am-xdk.s3.amazonaws.com/app.e4a98219-6fd5-4bfc-8ae2-c8486aaf1790/71700be5-cb71-4e67-982b-52e070c3ea80/PRODUCTION/chrome/index.html)
 
@@ -29,9 +31,6 @@ title: https://am-xdk.s3.amazonaws.com/app.e4a98219-6fd5-4bfc-8ae2-c8486aaf1790/
 *  JS Response Bytes: 1757890
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 473
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://vovgames.com/driving/3d-parking
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Parking - Vov Games - Play Free Online Games](http://vovgames.com/driving/3d-parking)
 
@@ -29,9 +35,6 @@ title: http://vovgames.com/driving/3d-parking
 *  JS Response Bytes: 1957995
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117158
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/703750/?autoAction=true&sId=Chrome_Webstore_Nov12_703750
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Trinklit Supereme for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/703750/?autoAction=true&sId=Chrome_Webstore_Nov12_703750)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/703750/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1660533
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19726
-
-### Performance issues
-
 
 ### Performance issues
 

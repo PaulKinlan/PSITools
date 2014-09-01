@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://raymark.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Raymark | Retail Software, Enterprise Solutions, Point-of-Sale, Mobile Retail Solutions, Cloud ERP](http://raymark.com/)
 
@@ -29,9 +32,6 @@ title: http://raymark.com/
 *  JS Response Bytes: 1353238
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59881
-
-### Performance issues
-
 
 ### Performance issues
 

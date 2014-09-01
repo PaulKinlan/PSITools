@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.flashgames24.in/angry-bird-star-war/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Star wars](http://www.flashgames24.in/angry-bird-star-war/)
 
@@ -29,9 +34,6 @@ title: http://www.flashgames24.in/angry-bird-star-war/
 *  JS Response Bytes: 1852132
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 162686
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/actiongames/spiderman-vs-dark-spider/#.U_ufaE0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Spiderman vs Dark Spider « Online Flash Game Spiderman vs Dark Spider](http://gamematic.net/online-flash-games/actiongames/spiderman-vs-dark-spider/#.U_ufaE0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/actiongames/spiderman-vs-dark-spi
 *  JS Response Bytes: 1269749
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44504
-
-### Performance issues
-
 
 ### Performance issues
 

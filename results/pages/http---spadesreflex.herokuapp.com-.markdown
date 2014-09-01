@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://spadesreflex.herokuapp.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SpadesReflex](http://spadesreflex.herokuapp.com/)
 
@@ -29,9 +34,6 @@ title: http://spadesreflex.herokuapp.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 344
-
-### Performance issues
-
 
 ### Performance issues
 

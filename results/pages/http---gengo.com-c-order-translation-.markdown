@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gengo.com/c/order-translation/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Professional Translation at Gengo. Get a Free Quote. | Gengo](http://gengo.com/c/order-translation/)
 
@@ -29,9 +34,6 @@ title: http://gengo.com/c/order-translation/
 *  JS Response Bytes: 629759
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46569
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.masjidmap.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ระบบแผนที่และข้อมูลมัสยิดออนไลน์](http://www.masjidmap.com/)
 
@@ -29,9 +33,6 @@ title: http://www.masjidmap.com/
 *  JS Response Bytes: 2330956
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 153657
-
-### Performance issues
-
 
 ### Performance issues
 

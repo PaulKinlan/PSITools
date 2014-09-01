@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bestgamepresident.blogspot.com/2013/11/pro-2013.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Best of PC Game : Pro 2013](http://bestgamepresident.blogspot.com/2013/11/pro-2013.html?m=1)
 
@@ -18,20 +21,17 @@ title: http://bestgamepresident.blogspot.com/2013/11/pro-2013.html?m=1
 *  Number of JS Resources: 17
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 28
-*  Total Request Bytes: 5189
+*  Total Request Bytes: 5190
 
 ### Response data
 
-*  HTML Response Bytes: 13245981
+*  HTML Response Bytes: 13245973
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 83717
-*  Image Response Bytes: 157181
-*  JS Response Bytes: 1371891
+*  CSS Response Bytes: 83713
+*  Image Response Bytes: 157171
+*  JS Response Bytes: 1371905
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 287155
-
-### Performance issues
-
+*  Other Response Bytes: 287153
 
 ### Performance issues
 

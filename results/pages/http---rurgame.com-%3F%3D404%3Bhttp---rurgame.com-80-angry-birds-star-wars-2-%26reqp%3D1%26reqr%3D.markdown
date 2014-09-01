@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://rurgame.com/?=404;http://rurgame.com:80/angry-birds-star-wars-2/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [rurgame.com](http://rurgame.com/?=404;http://rurgame.com:80/angry-birds-star-wars-2/&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://rurgame.com/?=404;http://rurgame.com:80/angry-birds-star-wars-2/&r
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105
-
-### Performance issues
-
 
 ### Performance issues
 

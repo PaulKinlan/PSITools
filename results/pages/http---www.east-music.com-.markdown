@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.east-music.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Testberichte | ... Einkaufen und Magazin](http://www.east-music.com/)
 
@@ -29,9 +32,6 @@ title: http://www.east-music.com/
 *  JS Response Bytes: 872648
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16344
-
-### Performance issues
-
 
 ### Performance issues
 

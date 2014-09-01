@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.chromegamesbox.com/category/4&sayfa=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Motorcycle - Chrome Games Box](http://www.chromegamesbox.com/category/4&sayfa=1)
 
@@ -29,9 +32,6 @@ title: http://www.chromegamesbox.com/category/4&sayfa=1
 *  JS Response Bytes: 1487243
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

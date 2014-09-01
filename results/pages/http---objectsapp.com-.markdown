@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://objectsapp.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Objects](http://objectsapp.com/)
 
@@ -29,9 +34,6 @@ title: http://objectsapp.com/
 *  JS Response Bytes: 606140
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

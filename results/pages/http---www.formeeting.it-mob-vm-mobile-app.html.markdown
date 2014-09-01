@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.formeeting.it/mob/vm-mobile-app.html
+EnableGzipCompression: true
 ---
 ## [Virtual Meeting - Android And iOS App](http://www.formeeting.it/mob/vm-mobile-app.html)
 
@@ -29,9 +30,6 @@ title: http://www.formeeting.it/mob/vm-mobile-app.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 68
-
-### Performance issues
-
 
 ### Performance issues
 

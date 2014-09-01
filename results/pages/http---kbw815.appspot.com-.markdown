@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://kbw815.appspot.com/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Filesystem Access Example](http://kbw815.appspot.com/)
 
@@ -29,9 +31,6 @@ title: http://kbw815.appspot.com/
 *  JS Response Bytes: 7558
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

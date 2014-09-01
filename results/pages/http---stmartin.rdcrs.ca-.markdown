@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://stmartin.rdcrs.ca/
+UseLegibleFontSizes: true
 ---
 ## [Error](http://stmartin.rdcrs.ca/)
 
@@ -29,9 +30,6 @@ title: http://stmartin.rdcrs.ca/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1741
-
-### Performance issues
-
 
 ### Performance issues
 

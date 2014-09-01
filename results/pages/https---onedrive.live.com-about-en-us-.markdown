@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://onedrive.live.com/about/en-us/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Microsoft OneDrive](https://onedrive.live.com/about/en-us/)
 
@@ -29,9 +31,6 @@ title: https://onedrive.live.com/about/en-us/
 *  JS Response Bytes: 656885
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94971
-
-### Performance issues
-
 
 ### Performance issues
 

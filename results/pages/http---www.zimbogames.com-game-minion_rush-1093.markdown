@@ -33,8 +33,5 @@ title: http://www.zimbogames.com/game/minion_rush-1093
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

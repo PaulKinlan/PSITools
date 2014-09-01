@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.thewordsearchpuzzles.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Word Search Puzzles - Free Printable Word Search Puzzle Games](http://www.thewordsearchpuzzles.com/)
 
@@ -29,9 +32,6 @@ title: http://www.thewordsearchpuzzles.com/
 *  JS Response Bytes: 1097792
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116920
-
-### Performance issues
-
 
 ### Performance issues
 

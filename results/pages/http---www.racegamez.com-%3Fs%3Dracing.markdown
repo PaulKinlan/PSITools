@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.racegamez.com/?s=racing
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [racing « Search Results « free play game](http://www.racegamez.com/?s=racing)
 
@@ -29,9 +32,6 @@ title: http://www.racegamez.com/?s=racing
 *  JS Response Bytes: 842548
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

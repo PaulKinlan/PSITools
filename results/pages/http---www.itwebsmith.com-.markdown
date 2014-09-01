@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.itwebsmith.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [IT WebSmith | Innovation & Technology Synced](http://www.itwebsmith.com/)
 
@@ -29,9 +33,6 @@ title: http://www.itwebsmith.com/
 *  JS Response Bytes: 475025
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104142
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://age-of-wushu.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Age of Wushu Online](http://age-of-wushu.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://age-of-wushu.appspot.com/
 *  JS Response Bytes: 1889160
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39002
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.iadea.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Everything you need for digital signage media playback | Digital Signage Players and Signboards](http://www.iadea.com/)
 
@@ -29,9 +33,6 @@ title: http://www.iadea.com/
 *  JS Response Bytes: 683431
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42799
-
-### Performance issues
-
 
 ### Performance issues
 

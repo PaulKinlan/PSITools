@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://fieldguide.acehotel.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [ACE FIELD GUIDE](http://fieldguide.acehotel.com/)
 
@@ -29,9 +31,6 @@ title: http://fieldguide.acehotel.com/
 *  JS Response Bytes: 578072
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53052
-
-### Performance issues
-
 
 ### Performance issues
 

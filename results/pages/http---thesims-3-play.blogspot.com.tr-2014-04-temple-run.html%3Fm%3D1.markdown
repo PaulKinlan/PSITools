@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://thesims-3-play.blogspot.com.tr/2014/04/temple-run.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [the sims 3 pc play: Temple Run](http://thesims-3-play.blogspot.com.tr/2014/04/temple-run.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://thesims-3-play.blogspot.com.tr/2014/04/temple-run.html?m=1
 *  JS Response Bytes: 721594
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95586
-
-### Performance issues
-
 
 ### Performance issues
 

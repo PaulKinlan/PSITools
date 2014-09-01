@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://froggiejump.cenda.cz/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cenda Games | Froggie Jump Free](http://froggiejump.cenda.cz/)
 
@@ -29,9 +34,6 @@ title: http://froggiejump.cenda.cz/
 *  JS Response Bytes: 152806
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

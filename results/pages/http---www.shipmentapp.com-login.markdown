@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.shipmentapp.com/login
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shipment](http://www.shipmentapp.com/login)
 
@@ -29,9 +34,6 @@ title: http://www.shipmentapp.com/login
 *  JS Response Bytes: 887171
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

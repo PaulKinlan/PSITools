@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://edenflirt.domainseasy.org/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Eden Flirt](http://edenflirt.domainseasy.org/)
 
@@ -29,9 +34,6 @@ title: http://edenflirt.domainseasy.org/
 *  JS Response Bytes: 417557
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4283
-
-### Performance issues
-
 
 ### Performance issues
 

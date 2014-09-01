@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.paginainizio.com/oroscopo.php?t=indice
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [OROSCOPO per Mobile](http://m.paginainizio.com/oroscopo.php?t=indice)
 
@@ -29,9 +33,6 @@ title: http://m.paginainizio.com/oroscopo.php?t=indice
 *  JS Response Bytes: 571495
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31121
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.jogosapps.com.br/portal/jogos-em-ingles/bebes-fashion-babyz-fashion
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [404 - Page not found](http://www.jogosapps.com.br/portal/jogos-em-ingles/bebes-fashion-babyz-fashion)
 
@@ -29,9 +31,6 @@ title: http://www.jogosapps.com.br/portal/jogos-em-ingles/bebes-fashion-babyz-fa
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1207
-
-### Performance issues
-
 
 ### Performance issues
 

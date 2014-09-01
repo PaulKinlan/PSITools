@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.drogbaster.it/dog.htm
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Animali virtuali Maialino. Virtual Pets](http://www.drogbaster.it/dog.htm)
 
@@ -29,9 +33,6 @@ title: http://www.drogbaster.it/dog.htm
 *  JS Response Bytes: 1813785
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 131195
-
-### Performance issues
-
 
 ### Performance issues
 

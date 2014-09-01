@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.heapnote.com/goldPrice.html#.U_ujY00ieKA
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gold price - real time quotes and charts!](http://www.heapnote.com/goldPrice.html#.U_ujY00ieKA)
 
@@ -29,9 +33,6 @@ title: http://www.heapnote.com/goldPrice.html#.U_ujY00ieKA
 *  JS Response Bytes: 658155
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14481
-
-### Performance issues
-
 
 ### Performance issues
 

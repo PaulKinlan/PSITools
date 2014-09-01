@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chrome.kingstonking.com/bejeweled3/bejeweled-3.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Website is offline | 522: Connection timed out](http://chrome.kingstonking.com/bejeweled3/bejeweled-3.html)
 
@@ -29,9 +31,6 @@ title: http://chrome.kingstonking.com/bejeweled3/bejeweled-3.html
 *  JS Response Bytes: 32931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6743
-
-### Performance issues
-
 
 ### Performance issues
 

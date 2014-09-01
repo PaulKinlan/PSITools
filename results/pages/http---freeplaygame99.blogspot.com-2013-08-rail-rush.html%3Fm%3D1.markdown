@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://freeplaygame99.blogspot.com/2013/08/rail-rush.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free play games, card games, casino games online games: Rail Rush](http://freeplaygame99.blogspot.com/2013/08/rail-rush.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://freeplaygame99.blogspot.com/2013/08/rail-rush.html?m=1
 *  JS Response Bytes: 1707546
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 294127
-
-### Performance issues
-
 
 ### Performance issues
 

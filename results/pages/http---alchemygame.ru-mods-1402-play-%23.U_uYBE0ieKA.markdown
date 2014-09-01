@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://alchemygame.ru/mods/1402/play/#.U_uYBE0ieKA
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Алхимия 0.5 beta - Чародей [первый мод с картинками]](http://alchemygame.ru/mods/1402/play/#.U_uYBE0ieKA)
 
@@ -29,9 +33,6 @@ title: http://alchemygame.ru/mods/1402/play/#.U_uYBE0ieKA
 *  JS Response Bytes: 1236037
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105390
-
-### Performance issues
-
 
 ### Performance issues
 

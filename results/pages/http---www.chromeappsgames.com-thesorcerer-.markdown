@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.chromeappsgames.com/thesorcerer/
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://www.chromeappsgames.com/thesorcerer/)
 
@@ -29,9 +33,6 @@ title: http://www.chromeappsgames.com/thesorcerer/
 *  JS Response Bytes: 864097
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 36216
-
-### Performance issues
-
 
 ### Performance issues
 

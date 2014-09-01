@@ -33,8 +33,5 @@ title: http://www.dressupwhois.com/baby/a-present-for-mommy
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

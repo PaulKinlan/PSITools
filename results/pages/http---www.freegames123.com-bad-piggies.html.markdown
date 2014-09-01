@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freegames123.com/bad-piggies.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bad Piggies | Free Games 123](http://www.freegames123.com/bad-piggies.html)
 
@@ -29,9 +34,6 @@ title: http://www.freegames123.com/bad-piggies.html
 *  JS Response Bytes: 1543360
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98329
-
-### Performance issues
-
 
 ### Performance issues
 

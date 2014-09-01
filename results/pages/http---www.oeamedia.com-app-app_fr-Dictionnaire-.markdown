@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.oeamedia.com/app/app_fr/Dictionnaire/
+SizeTapTargetsAppropriately: true
 ---
 ## [oeamedia.com](http://www.oeamedia.com/app/app_fr/Dictionnaire/)
 
@@ -29,9 +30,6 @@ title: http://www.oeamedia.com/app/app_fr/Dictionnaire/
 *  JS Response Bytes: 229920
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20813
-
-### Performance issues
-
 
 ### Performance issues
 

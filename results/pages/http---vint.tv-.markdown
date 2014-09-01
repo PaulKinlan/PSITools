@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://vint.tv/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Vint.TV](http://vint.tv/)
 
@@ -29,9 +32,6 @@ title: http://vint.tv/
 *  JS Response Bytes: 165134
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 79390
-
-### Performance issues
-
 
 ### Performance issues
 

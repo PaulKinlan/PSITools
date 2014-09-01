@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://playoyna.blogspot.com/2013/08/bad-boys-2.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free play games: Bad Boys 2](http://playoyna.blogspot.com/2013/08/bad-boys-2.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://playoyna.blogspot.com/2013/08/bad-boys-2.html?m=1
 *  JS Response Bytes: 1799617
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 290750
-
-### Performance issues
-
 
 ### Performance issues
 

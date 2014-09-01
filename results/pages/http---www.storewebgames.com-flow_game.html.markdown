@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.storewebgames.com/flow_game.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flow game , flOw is a game about piloting an aquatic organism through a surreal biosphere. storewebgames.com](http://www.storewebgames.com/flow_game.html)
 
@@ -29,9 +34,6 @@ title: http://www.storewebgames.com/flow_game.html
 *  JS Response Bytes: 1248438
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97035
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://temhemira.blogspot.com/2013/01/canl-sonuclar.html?m=1#inscore_ifheight_xdc_5825
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The World Would Be Better: Canlı Sonuçlar](http://temhemira.blogspot.com/2013/01/canl-sonuclar.html?m=1#inscore_ifheight_xdc_5825)
 
@@ -29,9 +33,6 @@ title: http://temhemira.blogspot.com/2013/01/canl-sonuclar.html?m=1#inscore_ifhe
 *  JS Response Bytes: 1480608
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95575
-
-### Performance issues
-
 
 ### Performance issues
 

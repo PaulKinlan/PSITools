@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.picplum.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [The Easiest Way to Send Photo Prints to Friends and Family — Picplum](https://www.picplum.com/)
 
@@ -29,9 +31,6 @@ title: https://www.picplum.com/
 *  JS Response Bytes: 917520
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

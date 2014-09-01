@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://digital-clock.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [10:13:20](http://digital-clock.net/)
 
@@ -29,9 +34,6 @@ title: http://digital-clock.net/
 *  JS Response Bytes: 1654127
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111332
-
-### Performance issues
-
 
 ### Performance issues
 

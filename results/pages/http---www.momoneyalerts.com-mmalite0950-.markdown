@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.momoneyalerts.com/mmalite0950/
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [App](http://www.momoneyalerts.com/mmalite0950/)
 
@@ -29,9 +31,6 @@ title: http://www.momoneyalerts.com/mmalite0950/
 *  JS Response Bytes: 632048
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

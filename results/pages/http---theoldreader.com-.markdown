@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://theoldreader.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Old Reader](http://theoldreader.com/)
 
@@ -29,9 +31,6 @@ title: http://theoldreader.com/
 *  JS Response Bytes: 1591384
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14189
-
-### Performance issues
-
 
 ### Performance issues
 

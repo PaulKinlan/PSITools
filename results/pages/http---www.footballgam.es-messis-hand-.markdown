@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/messis-hand/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Messi’s Hand Game](http://www.footballgam.es/messis-hand/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/messis-hand/
 *  JS Response Bytes: 2296863
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156825
-
-### Performance issues
-
 
 ### Performance issues
 

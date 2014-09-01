@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.funnid.com/vdo/
+MinimizeRenderBlockingResources: true
 ---
 ## [短片庫 - 分享網絡上的精彩短片](http://www.funnid.com/vdo/)
 
@@ -29,9 +30,6 @@ title: http://www.funnid.com/vdo/
 *  JS Response Bytes: 137917
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

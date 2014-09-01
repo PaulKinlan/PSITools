@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://login.xero.com/?applicationToken=bbd4fb5bf724464db811fd02f7729c0e&redirectCount=0
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login | Xero Accounting Software](https://login.xero.com/?applicationToken=bbd4fb5bf724464db811fd02f7729c0e&redirectCount=0)
 
@@ -29,9 +33,6 @@ title: https://login.xero.com/?applicationToken=bbd4fb5bf724464db811fd02f7729c0e
 *  JS Response Bytes: 2492874
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 71293
-
-### Performance issues
-
 
 ### Performance issues
 

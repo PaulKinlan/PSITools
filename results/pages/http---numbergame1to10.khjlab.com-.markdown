@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://numbergame1to10.khjlab.com/
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [KHJ어학연구소 히라가나 따라쓰기](http://numbergame1to10.khjlab.com/)
 
@@ -29,9 +32,6 @@ title: http://numbergame1to10.khjlab.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 663
-
-### Performance issues
-
 
 ### Performance issues
 

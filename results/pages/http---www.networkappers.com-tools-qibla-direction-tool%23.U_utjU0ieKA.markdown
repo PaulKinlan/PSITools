@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.networkappers.com/tools/qibla-direction-tool#.U_utjU0ieKA
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Qibla Direction Tool :: Tools :: NetworkAppers](http://www.networkappers.com/tools/qibla-direction-tool#.U_utjU0ieKA)
 
@@ -29,9 +33,6 @@ title: http://www.networkappers.com/tools/qibla-direction-tool#.U_utjU0ieKA
 *  JS Response Bytes: 1764906
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 64090
-
-### Performance issues
-
 
 ### Performance issues
 

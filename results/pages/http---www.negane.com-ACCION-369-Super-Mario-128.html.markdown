@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.negane.com/ACCION/369/Super-Mario-128.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Mario 128 - NeGaNe.com](http://www.negane.com/ACCION/369/Super-Mario-128.html)
 
@@ -29,9 +36,6 @@ title: http://www.negane.com/ACCION/369/Super-Mario-128.html
 *  JS Response Bytes: 1652011
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 257131
-
-### Performance issues
-
 
 ### Performance issues
 

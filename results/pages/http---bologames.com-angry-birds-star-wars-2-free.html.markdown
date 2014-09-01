@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://bologames.com/angry-birds-star-wars-2-free.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BoloGames.Com | Flash Games – Page not found](http://bologames.com/angry-birds-star-wars-2-free.html)
 
@@ -29,9 +34,6 @@ title: http://bologames.com/angry-birds-star-wars-2-free.html
 *  JS Response Bytes: 40903
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9537
-
-### Performance issues
-
 
 ### Performance issues
 

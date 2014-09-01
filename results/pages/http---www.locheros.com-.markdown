@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.locheros.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Locheros - Política y Cultura de Lambayeque](http://www.locheros.com/)
 
@@ -29,9 +32,6 @@ title: http://www.locheros.com/
 *  JS Response Bytes: 244636
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106478
-
-### Performance issues
-
 
 ### Performance issues
 

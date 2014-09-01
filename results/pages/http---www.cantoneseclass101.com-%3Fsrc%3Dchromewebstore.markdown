@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.cantoneseclass101.com/?src=chromewebstore
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn Cantonese online. With our podcast, learning Cantonese is easy. | CantoneseClass101.com](http://www.cantoneseclass101.com/?src=chromewebstore)
 
@@ -29,9 +33,6 @@ title: http://www.cantoneseclass101.com/?src=chromewebstore
 *  JS Response Bytes: 599087
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8782
-
-### Performance issues
-
 
 ### Performance issues
 

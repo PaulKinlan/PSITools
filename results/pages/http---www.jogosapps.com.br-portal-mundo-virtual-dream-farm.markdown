@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.jogosapps.com.br/portal/mundo-virtual/dream-farm
+UseLegibleFontSizes: true
 ---
 ## [404 - Page not found](http://www.jogosapps.com.br/portal/mundo-virtual/dream-farm)
 
@@ -29,9 +30,6 @@ title: http://www.jogosapps.com.br/portal/mundo-virtual/dream-farm
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1188
-
-### Performance issues
-
 
 ### Performance issues
 

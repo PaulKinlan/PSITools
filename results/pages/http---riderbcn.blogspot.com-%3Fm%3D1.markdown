@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://riderbcn.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Rider BCN (Javi) Barcelona](http://riderbcn.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://riderbcn.blogspot.com/?m=1
 *  JS Response Bytes: 1304914
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287401
-
-### Performance issues
-
 
 ### Performance issues
 

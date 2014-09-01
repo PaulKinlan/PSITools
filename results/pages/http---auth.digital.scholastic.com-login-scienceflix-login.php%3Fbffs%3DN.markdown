@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://auth.digital.scholastic.com/login/scienceflix/login.php?bffs=N
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [Login | ScienceFlix | Scholastic](http://auth.digital.scholastic.com/login/scienceflix/login.php?bffs=N)
 
@@ -29,9 +33,6 @@ title: http://auth.digital.scholastic.com/login/scienceflix/login.php?bffs=N
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1017
-
-### Performance issues
-
 
 ### Performance issues
 

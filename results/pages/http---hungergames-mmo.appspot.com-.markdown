@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://hungergames-mmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play The Hunger Games Online](http://hungergames-mmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://hungergames-mmo.appspot.com/
 *  JS Response Bytes: 886547
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55421
-
-### Performance issues
-
 
 ### Performance issues
 

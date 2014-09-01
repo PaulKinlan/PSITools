@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://titon-39.appspot.com/index.html
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://titon-39.appspot.com/index.html)
 
@@ -29,9 +30,6 @@ title: http://titon-39.appspot.com/index.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 672
-
-### Performance issues
-
 
 ### Performance issues
 

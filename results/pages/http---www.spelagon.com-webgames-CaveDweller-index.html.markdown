@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.spelagon.com/webgames/CaveDweller/index.html
+EnableGzipCompression: true
 ---
 ## [Cave Dweller - Spelagon AB](http://www.spelagon.com/webgames/CaveDweller/index.html)
 
@@ -29,9 +30,6 @@ title: http://www.spelagon.com/webgames/CaveDweller/index.html
 *  JS Response Bytes: 1246187
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

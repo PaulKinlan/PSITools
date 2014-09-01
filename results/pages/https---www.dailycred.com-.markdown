@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.dailycred.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DailyCred](https://www.dailycred.com/)
 
@@ -29,9 +33,6 @@ title: https://www.dailycred.com/
 *  JS Response Bytes: 456031
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 82596
-
-### Performance issues
-
 
 ### Performance issues
 

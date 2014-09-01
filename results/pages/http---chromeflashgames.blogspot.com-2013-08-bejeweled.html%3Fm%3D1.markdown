@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromeflashgames.blogspot.com/2013/08/bejeweled.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [chromeflashgames: Bejeweled](http://chromeflashgames.blogspot.com/2013/08/bejeweled.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromeflashgames.blogspot.com/2013/08/bejeweled.html?m=1
 *  JS Response Bytes: 1067922
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97983
-
-### Performance issues
-
 
 ### Performance issues
 

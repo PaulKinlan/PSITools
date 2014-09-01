@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamezingo.net/adventure-games/3d-parking.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Parking - Free Online Games | Gamezingo - http://gamezingo.net](http://gamezingo.net/adventure-games/3d-parking.html)
 
@@ -29,9 +35,6 @@ title: http://gamezingo.net/adventure-games/3d-parking.html
 *  JS Response Bytes: 1275545
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1879
-
-### Performance issues
-
 
 ### Performance issues
 

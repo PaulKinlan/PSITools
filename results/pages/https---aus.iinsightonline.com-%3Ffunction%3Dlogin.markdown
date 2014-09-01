@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://aus.iinsightonline.com/?function=login
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome to Iinsight Online](https://aus.iinsightonline.com/?function=login)
 
@@ -29,9 +33,6 @@ title: https://aus.iinsightonline.com/?function=login
 *  JS Response Bytes: 1653993
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 67
-
-### Performance issues
-
 
 ### Performance issues
 

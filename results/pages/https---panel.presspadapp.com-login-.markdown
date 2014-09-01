@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://panel.presspadapp.com/login/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [PressPad](https://panel.presspadapp.com/login/)
 
@@ -29,9 +34,6 @@ title: https://panel.presspadapp.com/login/
 *  JS Response Bytes: 1079600
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 151119
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://wolverinetokyofury.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://wolverinetokyofury.blogspot.com/?m=1)
 
@@ -18,20 +21,17 @@ title: http://wolverinetokyofury.blogspot.com/?m=1
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 1006
+*  Total Request Bytes: 1004
 
 ### Response data
 
 *  HTML Response Bytes: 0
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 46653
-*  Image Response Bytes: 2951
-*  JS Response Bytes: 41101
+*  CSS Response Bytes: 46651
+*  Image Response Bytes: 2949
+*  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 18790
-
-### Performance issues
-
+*  Other Response Bytes: 18788
 
 ### Performance issues
 

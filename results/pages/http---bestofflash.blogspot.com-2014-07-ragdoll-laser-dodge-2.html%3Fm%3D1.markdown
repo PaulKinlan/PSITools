@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://bestofflash.blogspot.com/2014/07/ragdoll-laser-dodge-2.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fun Free Online Flash Games: Ragdoll Laser Dodge 2](http://bestofflash.blogspot.com/2014/07/ragdoll-laser-dodge-2.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://bestofflash.blogspot.com/2014/07/ragdoll-laser-dodge-2.html?m=1
 *  JS Response Bytes: 1196084
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 139077
-
-### Performance issues
-
 
 ### Performance issues
 

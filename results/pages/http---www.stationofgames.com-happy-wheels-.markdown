@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.stationofgames.com/happy-wheels/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Happy Wheels](http://www.stationofgames.com/happy-wheels/)
 
@@ -29,9 +36,6 @@ title: http://www.stationofgames.com/happy-wheels/
 *  JS Response Bytes: 1329565
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106330
-
-### Performance issues
-
 
 ### Performance issues
 

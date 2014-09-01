@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://books.google.com/?hl=en
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Google Books](http://books.google.com/?hl=en)
 
@@ -29,9 +32,6 @@ title: http://books.google.com/?hl=en
 *  JS Response Bytes: 381297
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1321
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://kid2play.com/action/search-papoy/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Search Papoy](http://kid2play.com/action/search-papoy/)
 
@@ -29,9 +35,6 @@ title: http://kid2play.com/action/search-papoy/
 *  JS Response Bytes: 2350431
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113624
-
-### Performance issues
-
 
 ### Performance issues
 

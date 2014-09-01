@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.games-h.com/defense-games/bloons-tower-defense-5.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Playing Bloons Tower Defense 5 - Play Free Online Games at Games-H.COM](http://www.games-h.com/defense-games/bloons-tower-defense-5.html)
 
@@ -29,9 +34,6 @@ title: http://www.games-h.com/defense-games/bloons-tower-defense-5.html
 *  JS Response Bytes: 2602167
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 147115
-
-### Performance issues
-
 
 ### Performance issues
 

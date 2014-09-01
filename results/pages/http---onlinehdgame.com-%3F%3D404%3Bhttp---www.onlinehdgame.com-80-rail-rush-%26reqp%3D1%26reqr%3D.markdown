@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://onlinehdgame.com/?=404;http://www.onlinehdgame.com:80/rail-rush/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [onlinehdgame.com](http://onlinehdgame.com/?=404;http://www.onlinehdgame.com:80/rail-rush/&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://onlinehdgame.com/?=404;http://www.onlinehdgame.com:80/rail-rush/&r
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105
-
-### Performance issues
-
 
 ### Performance issues
 

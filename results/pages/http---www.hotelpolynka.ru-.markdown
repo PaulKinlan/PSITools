@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.hotelpolynka.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Хостел в центре Москвы](http://www.hotelpolynka.ru/)
 
@@ -29,9 +33,6 @@ title: http://www.hotelpolynka.ru/
 *  JS Response Bytes: 174880
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10507
-
-### Performance issues
-
 
 ### Performance issues
 

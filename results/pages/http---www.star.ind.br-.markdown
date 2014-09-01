@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.star.ind.br/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Star Lighting Division - Iluminação Profissional ! (19 3864-1007 | www.star.ind.br)](http://www.star.ind.br/)
 
@@ -29,9 +35,6 @@ title: http://www.star.ind.br/
 *  JS Response Bytes: 582646
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1796
-
-### Performance issues
-
 
 ### Performance issues
 

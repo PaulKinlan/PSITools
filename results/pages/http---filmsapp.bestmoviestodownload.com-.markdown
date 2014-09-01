@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://filmsapp.bestmoviestodownload.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [Bestmoviestodownload.com](http://filmsapp.bestmoviestodownload.com/)
 
@@ -29,9 +30,6 @@ title: http://filmsapp.bestmoviestodownload.com/
 *  JS Response Bytes: 259015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 441
-
-### Performance issues
-
 
 ### Performance issues
 

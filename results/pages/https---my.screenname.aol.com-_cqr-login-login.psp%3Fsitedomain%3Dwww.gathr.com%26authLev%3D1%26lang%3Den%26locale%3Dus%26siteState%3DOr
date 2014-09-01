@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://my.screenname.aol.com/_cqr/login/login.psp?sitedomain=www.gathr.com&authLev=1&lang=en&locale=us&siteState=OrigUrl%3Dhttps%253A%252F%252Fwww.gathr.com%252Fmystuff
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gathr - All Your Favorite Brands in One Place, for Less - Try It Free!](https://my.screenname.aol.com/_cqr/login/login.psp?sitedomain=www.gathr.com&authLev=1&lang=en&locale=us&siteState=OrigUrl%3Dhttps%253A%252F%252Fwww.gathr.com%252Fmystuff)
 
@@ -29,9 +32,6 @@ title: https://my.screenname.aol.com/_cqr/login/login.psp?sitedomain=www.gathr.c
 *  JS Response Bytes: 209847
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 84745
-
-### Performance issues
-
 
 ### Performance issues
 

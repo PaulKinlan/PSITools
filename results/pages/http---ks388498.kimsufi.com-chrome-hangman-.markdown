@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ks388498.kimsufi.com/chrome/hangman/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [HangMan](http://ks388498.kimsufi.com/chrome/hangman/)
 
@@ -29,9 +31,6 @@ title: http://ks388498.kimsufi.com/chrome/hangman/
 *  JS Response Bytes: 809107
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15989
-
-### Performance issues
-
 
 ### Performance issues
 

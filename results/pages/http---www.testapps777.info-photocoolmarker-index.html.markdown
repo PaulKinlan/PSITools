@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.testapps777.info/photocoolmarker/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Photo Cool Marker App](http://www.testapps777.info/photocoolmarker/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.testapps777.info/photocoolmarker/index.html
 *  JS Response Bytes: 935599
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110241
-
-### Performance issues
-
 
 ### Performance issues
 

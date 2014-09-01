@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.hitingame.com/online-games/candy-crush/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Candy Crush « Online Flash Games – Popular Flash Games](http://www.hitingame.com/online-games/candy-crush/)
 
@@ -29,9 +34,6 @@ title: http://www.hitingame.com/online-games/candy-crush/
 *  JS Response Bytes: 1831780
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55313
-
-### Performance issues
-
 
 ### Performance issues
 

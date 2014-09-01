@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.stocktok.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [Bullish vs Bearish: What are Investors Bearish and Bullish on Today?](http://www.stocktok.com/)
 
@@ -29,9 +33,6 @@ title: http://www.stocktok.com/
 *  JS Response Bytes: 25852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

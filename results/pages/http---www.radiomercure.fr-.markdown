@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.radiomercure.fr/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [RADIO MERCURE](http://www.radiomercure.fr/)
 
@@ -29,9 +31,6 @@ title: http://www.radiomercure.fr/
 *  JS Response Bytes: 367596
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54101
-
-### Performance issues
-
 
 ### Performance issues
 

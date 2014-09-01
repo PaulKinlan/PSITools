@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.g-a-a-p.nl/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gebruikersvereniging Advocaten Automatisering Pakket](https://www.g-a-a-p.nl/)
 
@@ -29,9 +33,6 @@ title: https://www.g-a-a-p.nl/
 *  JS Response Bytes: 196848
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

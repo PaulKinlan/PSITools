@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.rabbit38.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Rabbit38](http://www.rabbit38.com/)
 
@@ -29,9 +32,6 @@ title: http://www.rabbit38.com/
 *  JS Response Bytes: 856242
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6023
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://slots4play.mobi/?url=http%253A%252F%252Fwww.slots4play.com%252Fslots%252Fapp%252F#bmb=1
+AvoidLandingPageRedirects: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Slots for mobile phones - Free Gaming Casino Mobile Games](http://slots4play.mobi/?url=http%253A%252F%252Fwww.slots4play.com%252Fslots%252Fapp%252F#bmb=1)
 
@@ -29,9 +33,6 @@ title: http://slots4play.mobi/?url=http%253A%252F%252Fwww.slots4play.com%252Fslo
 *  JS Response Bytes: 1194627
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 191717
-
-### Performance issues
-
 
 ### Performance issues
 

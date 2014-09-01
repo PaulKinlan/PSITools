@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.unityplay.com/jewelry_hunter/webplayer.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jewelry Hunter | UnityPlay.com-Flash-Android-Chrome Games](http://www.unityplay.com/jewelry_hunter/webplayer.html)
 
@@ -29,9 +34,6 @@ title: http://www.unityplay.com/jewelry_hunter/webplayer.html
 *  JS Response Bytes: 845365
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2938
-
-### Performance issues
-
 
 ### Performance issues
 

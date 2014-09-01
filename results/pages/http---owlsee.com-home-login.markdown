@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://owlsee.com/home/login
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Owlsee textReader - the best plain text reader for google drive](http://owlsee.com/home/login)
 
@@ -29,9 +32,6 @@ title: http://owlsee.com/home/login
 *  JS Response Bytes: 170477
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1032
-
-### Performance issues
-
 
 ### Performance issues
 

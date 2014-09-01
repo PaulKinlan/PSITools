@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://freefreshgame.com/snail-bob-5-love-story/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [freefreshgame.com-the best free online flash gamesSnail Bob 5 Love Story](http://freefreshgame.com/snail-bob-5-love-story/)
 
@@ -29,9 +36,6 @@ title: http://freefreshgame.com/snail-bob-5-love-story/
 *  JS Response Bytes: 1116762
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14380
-
-### Performance issues
-
 
 ### Performance issues
 

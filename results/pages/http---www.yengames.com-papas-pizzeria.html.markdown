@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.yengames.com/papas-pizzeria.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [YenGames.Com | Flash Game Site – Papa’s Pizzeria](http://www.yengames.com/papas-pizzeria.html)
 
@@ -29,9 +35,6 @@ title: http://www.yengames.com/papas-pizzeria.html
 *  JS Response Bytes: 413031
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1429
-
-### Performance issues
-
 
 ### Performance issues
 

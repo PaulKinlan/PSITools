@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.xboxcove.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Xbox One Forum Community · Xbox Cove](http://www.xboxcove.com/)
 
@@ -29,9 +31,6 @@ title: http://www.xboxcove.com/
 *  JS Response Bytes: 427333
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59101
-
-### Performance issues
-
 
 ### Performance issues
 

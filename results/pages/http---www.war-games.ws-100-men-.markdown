@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/100-men/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [100 Men](http://www.war-games.ws/100-men/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/100-men/
 *  JS Response Bytes: 2292925
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115217
-
-### Performance issues
-
 
 ### Performance issues
 

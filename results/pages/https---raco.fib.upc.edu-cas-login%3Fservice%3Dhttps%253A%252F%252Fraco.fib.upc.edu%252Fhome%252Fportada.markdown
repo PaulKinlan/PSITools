@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://raco.fib.upc.edu/cas/login?service=https%3A%2F%2Fraco.fib.upc.edu%2Fhome%2Fportada
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [Login - Facultat d'informàtica de Barcelona](https://raco.fib.upc.edu/cas/login?service=https%3A%2F%2Fraco.fib.upc.edu%2Fhome%2Fportada)
 
@@ -29,9 +33,6 @@ title: https://raco.fib.upc.edu/cas/login?service=https%3A%2F%2Fraco.fib.upc.edu
 *  JS Response Bytes: 183888
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1844
-
-### Performance issues
-
 
 ### Performance issues
 

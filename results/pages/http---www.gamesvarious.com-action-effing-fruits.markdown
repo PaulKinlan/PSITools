@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/action/effing-fruits
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Effing Fruits - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/action/effing-fruits)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/action/effing-fruits
 *  JS Response Bytes: 2180546
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125113
-
-### Performance issues
-
 
 ### Performance issues
 

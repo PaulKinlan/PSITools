@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chrome.kingstonking.com/angrybirdsseasons/angry-birds-seasons.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games Play » Angry Birds Seasons](http://chrome.kingstonking.com/angrybirdsseasons/angry-birds-seasons.html)
 
@@ -29,9 +33,6 @@ title: http://chrome.kingstonking.com/angrybirdsseasons/angry-birds-seasons.html
 *  JS Response Bytes: 2215082
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 133735
-
-### Performance issues
-
 
 ### Performance issues
 

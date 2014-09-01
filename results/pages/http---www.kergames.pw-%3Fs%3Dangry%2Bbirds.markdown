@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kergames.pw/?s=angry+birds
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [angry birds – Search Results – Online Best Games](http://www.kergames.pw/?s=angry+birds)
 
@@ -29,9 +34,6 @@ title: http://www.kergames.pw/?s=angry+birds
 *  JS Response Bytes: 718336
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

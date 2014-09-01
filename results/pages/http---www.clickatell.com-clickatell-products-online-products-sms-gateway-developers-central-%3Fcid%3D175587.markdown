@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.clickatell.com/clickatell-products/online-products/sms-gateway-developers-central/?cid=175587
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bulk SMS Gateway | Clickatell.com](http://www.clickatell.com/clickatell-products/online-products/sms-gateway-developers-central/?cid=175587)
 
@@ -29,9 +34,6 @@ title: http://www.clickatell.com/clickatell-products/online-products/sms-gateway
 *  JS Response Bytes: 884898
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11847
-
-### Performance issues
-
 
 ### Performance issues
 

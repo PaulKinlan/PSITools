@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://timezoneconverter.directionalstar.com/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TimeZone converter WEB API](http://timezoneconverter.directionalstar.com/)
 
@@ -29,9 +31,6 @@ title: http://timezoneconverter.directionalstar.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gokiu.com/game/earn-to-die-22
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Earn To Die Game - Gokiu](http://www.gokiu.com/game/earn-to-die-22)
 
@@ -29,9 +33,6 @@ title: http://www.gokiu.com/game/earn-to-die-22
 *  JS Response Bytes: 576578
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1505
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://dominoc925-pages.appspot.com/webapp/gifanim/default.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [dominoc925 - Create Animated GIF](http://dominoc925-pages.appspot.com/webapp/gifanim/default.html)
 
@@ -29,9 +34,6 @@ title: http://dominoc925-pages.appspot.com/webapp/gifanim/default.html
 *  JS Response Bytes: 1271988
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

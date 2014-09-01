@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.zanebenefits.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Small Business Health Insurance Reimbursement Arrangements | Zane Benefits](http://www.zanebenefits.com/)
 
@@ -29,9 +31,6 @@ title: http://www.zanebenefits.com/
 *  JS Response Bytes: 1383349
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106017
-
-### Performance issues
-
 
 ### Performance issues
 

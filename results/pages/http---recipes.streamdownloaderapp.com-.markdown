@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://recipes.streamdownloaderapp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [streamdownloaderapp.com](http://recipes.streamdownloaderapp.com/)
 
@@ -18,20 +22,17 @@ title: http://recipes.streamdownloaderapp.com/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 8
-*  Total Request Bytes: 2495
+*  Total Request Bytes: 2490
 
 ### Response data
 
-*  HTML Response Bytes: 14660
+*  HTML Response Bytes: 14536
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 5996
-*  Image Response Bytes: 46306
-*  JS Response Bytes: 209105
+*  CSS Response Bytes: 6044
+*  Image Response Bytes: 46296
+*  JS Response Bytes: 209184
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

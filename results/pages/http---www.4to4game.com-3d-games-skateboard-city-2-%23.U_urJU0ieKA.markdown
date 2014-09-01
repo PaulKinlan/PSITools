@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.4to4game.com/3d-games/skateboard-city-2-#.U_urJU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Skateboard City 2 - 4to4game.com - just Challange! And Play Free! Play Online!](http://www.4to4game.com/3d-games/skateboard-city-2-#.U_urJU0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.4to4game.com/3d-games/skateboard-city-2-#.U_urJU0ieKA
 *  JS Response Bytes: 2116446
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 37700
-
-### Performance issues
-
 
 ### Performance issues
 

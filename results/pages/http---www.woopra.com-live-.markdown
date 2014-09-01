@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.woopra.com/live/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Woopra](http://www.woopra.com/live/)
 
@@ -29,9 +33,6 @@ title: http://www.woopra.com/live/
 *  JS Response Bytes: 1962650
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

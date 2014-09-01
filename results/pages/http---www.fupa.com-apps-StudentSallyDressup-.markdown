@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/StudentSallyDressup/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Student Sally Dressup](http://www.fupa.com/apps/StudentSallyDressup/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/StudentSallyDressup/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

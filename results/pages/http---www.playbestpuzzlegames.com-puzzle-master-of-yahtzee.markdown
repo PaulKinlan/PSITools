@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.playbestpuzzlegames.com/puzzle/master-of-yahtzee
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Master of Yahtzee - Games - Free Online Play Best Puzzle Games](http://www.playbestpuzzlegames.com/puzzle/master-of-yahtzee)
 
@@ -29,9 +35,6 @@ title: http://www.playbestpuzzlegames.com/puzzle/master-of-yahtzee
 *  JS Response Bytes: 980015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14932
-
-### Performance issues
-
 
 ### Performance issues
 

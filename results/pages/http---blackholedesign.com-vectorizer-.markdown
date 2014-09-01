@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://blackholedesign.com/vectorizer/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Vectorizer | Black Hole Design](http://blackholedesign.com/vectorizer/)
 
@@ -29,9 +33,6 @@ title: http://blackholedesign.com/vectorizer/
 *  JS Response Bytes: 431725
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 603
-
-### Performance issues
-
 
 ### Performance issues
 

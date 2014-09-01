@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.cpdme.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [CPD Portfolio Builder](http://www.cpdme.com/)
 
@@ -29,9 +33,6 @@ title: http://www.cpdme.com/
 *  JS Response Bytes: 1774745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49849
-
-### Performance issues
-
 
 ### Performance issues
 

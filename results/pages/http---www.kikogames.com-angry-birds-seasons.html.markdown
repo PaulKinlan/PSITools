@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.kikogames.com/angry-birds-seasons.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Seasons | Kiko Games](http://www.kikogames.com/angry-birds-seasons.html)
 
@@ -29,9 +33,6 @@ title: http://www.kikogames.com/angry-birds-seasons.html
 *  JS Response Bytes: 1693770
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103934
-
-### Performance issues
-
 
 ### Performance issues
 

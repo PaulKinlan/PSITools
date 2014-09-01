@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://platform.jostle.us/jostle-prod/mainLogin.html;jsessionid=18796BB6EB107E941ED1E9280EE82B26-node1.node1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jostle Login](https://platform.jostle.us/jostle-prod/mainLogin.html;jsessionid=18796BB6EB107E941ED1E9280EE82B26-node1.node1)
 
@@ -29,9 +35,6 @@ title: https://platform.jostle.us/jostle-prod/mainLogin.html;jsessionid=18796BB6
 *  JS Response Bytes: 7175
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 674
-
-### Performance issues
-
 
 ### Performance issues
 

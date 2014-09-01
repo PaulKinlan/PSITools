@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://racewonder.appspot.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Car Race in Wonderland](http://racewonder.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://racewonder.appspot.com/
 *  JS Response Bytes: 90244
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 609
-
-### Performance issues
-
 
 ### Performance issues
 

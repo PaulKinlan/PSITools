@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://twittaw.appspot.com/public
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Twittaw » Public](http://twittaw.appspot.com/public)
 
@@ -29,9 +31,6 @@ title: http://twittaw.appspot.com/public
 *  JS Response Bytes: 387375
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5596
-
-### Performance issues
-
 
 ### Performance issues
 

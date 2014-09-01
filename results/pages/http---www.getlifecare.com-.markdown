@@ -33,8 +33,5 @@ title: http://www.getlifecare.com/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

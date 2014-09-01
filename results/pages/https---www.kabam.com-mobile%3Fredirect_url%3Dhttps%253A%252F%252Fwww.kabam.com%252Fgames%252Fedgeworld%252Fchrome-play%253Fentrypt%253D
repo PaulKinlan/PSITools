@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.kabam.com/mobile?redirect_url=https%3A%2F%2Fwww.kabam.com%2Fgames%2Fedgeworld%2Fchrome-play%3Fentrypt%3Dew-gcs-z-z-z-z
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Kabam | Play free online strategy games](https://www.kabam.com/mobile?redirect_url=https%3A%2F%2Fwww.kabam.com%2Fgames%2Fedgeworld%2Fchrome-play%3Fentrypt%3Dew-gcs-z-z-z-z)
 
@@ -29,9 +32,6 @@ title: https://www.kabam.com/mobile?redirect_url=https%3A%2F%2Fwww.kabam.com%2Fg
 *  JS Response Bytes: 289474
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9764
-
-### Performance issues
-
 
 ### Performance issues
 

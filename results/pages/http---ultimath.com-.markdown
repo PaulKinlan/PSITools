@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ultimath.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Ultimath](http://ultimath.com/)
 
@@ -29,9 +32,6 @@ title: http://ultimath.com/
 *  JS Response Bytes: 25852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 574
-
-### Performance issues
-
 
 ### Performance issues
 

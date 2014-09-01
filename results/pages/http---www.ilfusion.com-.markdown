@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.ilfusion.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Ilfusion Creative | Web, Design, Video, Social, Marketing](http://www.ilfusion.com/)
 
@@ -29,9 +31,6 @@ title: http://www.ilfusion.com/
 *  JS Response Bytes: 793965
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 84508
-
-### Performance issues
-
 
 ### Performance issues
 

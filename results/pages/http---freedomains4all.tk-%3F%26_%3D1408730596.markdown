@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://freedomains4all.tk/?&_=1408730596
+AvoidLandingPageRedirects: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://freedomains4all.tk/?&_=1408730596)
 
@@ -29,9 +33,6 @@ title: http://freedomains4all.tk/?&_=1408730596
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 355
-
-### Performance issues
-
 
 ### Performance issues
 

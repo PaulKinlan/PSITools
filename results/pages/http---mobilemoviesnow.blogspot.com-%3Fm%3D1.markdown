@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://mobilemoviesnow.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [LAYAAN](http://mobilemoviesnow.blogspot.com/?m=1)
 
@@ -26,12 +28,9 @@ title: http://mobilemoviesnow.blogspot.com/?m=1
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 21448
 *  Image Response Bytes: 0
-*  JS Response Bytes: 1180211
+*  JS Response Bytes: 1180209
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2050
-
-### Performance issues
-
 
 ### Performance issues
 

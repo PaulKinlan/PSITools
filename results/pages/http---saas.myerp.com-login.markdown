@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://saas.myerp.com/login
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sign In » myERP.com](http://saas.myerp.com/login)
 
@@ -29,9 +33,6 @@ title: http://saas.myerp.com/login
 *  JS Response Bytes: 117848
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 151
-
-### Performance issues
-
 
 ### Performance issues
 

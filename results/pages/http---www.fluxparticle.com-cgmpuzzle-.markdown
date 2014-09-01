@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fluxparticle.com/cgmpuzzle/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [CG Madness Puzzle - FLUXparticle](http://www.fluxparticle.com/cgmpuzzle/)
 
@@ -29,9 +32,6 @@ title: http://www.fluxparticle.com/cgmpuzzle/
 *  JS Response Bytes: 924062
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95799
-
-### Performance issues
-
 
 ### Performance issues
 

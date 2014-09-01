@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.inzercexxl.cz/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Inzerce zdarma | inzerceXXL.cz](http://www.inzercexxl.cz/)
 
@@ -29,9 +34,6 @@ title: http://www.inzercexxl.cz/
 *  JS Response Bytes: 43616
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9996
-
-### Performance issues
-
 
 ### Performance issues
 

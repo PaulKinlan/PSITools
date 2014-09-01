@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesright.com/bad-piggies-2-hd/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games Right – Bad Piggies 2 HD](http://www.gamesright.com/bad-piggies-2-hd/)
 
@@ -29,9 +34,6 @@ title: http://www.gamesright.com/bad-piggies-2-hd/
 *  JS Response Bytes: 875289
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14906
-
-### Performance issues
-
 
 ### Performance issues
 

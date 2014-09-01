@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.freeonlineruler.com/?cws=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free on-screen ruler on the Web.](http://www.freeonlineruler.com/?cws=1)
 
@@ -29,9 +32,6 @@ title: http://www.freeonlineruler.com/?cws=1
 *  JS Response Bytes: 181374
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

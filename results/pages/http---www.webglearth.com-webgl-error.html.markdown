@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.webglearth.com/webgl-error.html
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WebGL Earth - WebGL not supported](http://www.webglearth.com/webgl-error.html)
 
@@ -29,9 +31,6 @@ title: http://www.webglearth.com/webgl-error.html
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63
-
-### Performance issues
-
 
 ### Performance issues
 

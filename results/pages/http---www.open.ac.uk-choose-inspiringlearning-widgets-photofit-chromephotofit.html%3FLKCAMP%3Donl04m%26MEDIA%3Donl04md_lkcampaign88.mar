@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.open.ac.uk/choose/inspiringlearning/widgets/photofit/chromephotofit.html?LKCAMP=onl04m&MEDIA=onl04md_lkcampaign88
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [OU PhotoFit Me](http://www.open.ac.uk/choose/inspiringlearning/widgets/photofit/chromephotofit.html?LKCAMP=onl04m&MEDIA=onl04md_lkcampaign88)
 
@@ -29,9 +34,6 @@ title: http://www.open.ac.uk/choose/inspiringlearning/widgets/photofit/chromepho
 *  JS Response Bytes: 501181
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 595
-
-### Performance issues
-
 
 ### Performance issues
 

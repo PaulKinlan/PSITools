@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://openid.vinocities.com/op-selector?host=http%3A%2F%2Fadmin.vinocities.com&continue=http%3A%2F%2Fadmin.vinocities.com%2Fadmin%2F
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://openid.vinocities.com/op-selector?host=http%3A%2F%2Fadmin.vinocities.com&continue=http%3A%2F%2Fadmin.vinocities.com%2Fadmin%2F)
 
@@ -29,9 +34,6 @@ title: http://openid.vinocities.com/op-selector?host=http%3A%2F%2Fadmin.vinociti
 *  JS Response Bytes: 124001
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1316
-
-### Performance issues
-
 
 ### Performance issues
 

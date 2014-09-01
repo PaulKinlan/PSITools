@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sweetstone.us/default-category/football-5s-3d
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Football 5s 3D - Sweet Stone](http://www.sweetstone.us/default-category/football-5s-3d)
 
@@ -29,9 +34,6 @@ title: http://www.sweetstone.us/default-category/football-5s-3d
 *  JS Response Bytes: 1879669
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118549
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://m.facebook.com/login.php?skip_api_login=1&api_key=376384769054696&signed_next=1&next=https%3A%2F%2Fm.facebook.com%2Fv1.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Fapps.facebook.com%252Fastroxmate%252F%26state%3D538c2dff242241a4bc72dab88e3babab%26scope%3Duser_birthday%252Cfriends_birthday%26client_id%3D376384769054696%26ret%3Dlogin&cancel_uri=https%3A%2F%2Fapps.facebook.com%2Fastroxmate%2F%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3D538c2dff242241a4bc72dab88e3babab%23_%3D_&display=touch&_rdr
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Welcome to Facebook](https://m.facebook.com/login.php?skip_api_login=1&api_key=376384769054696&signed_next=1&next=https%3A%2F%2Fm.facebook.com%2Fv1.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Fapps.facebook.com%252Fastroxmate%252F%26state%3D538c2dff242241a4bc72dab88e3babab%26scope%3Duser_birthday%252Cfriends_birthday%26client_id%3D376384769054696%26ret%3Dlogin&cancel_uri=https%3A%2F%2Fapps.facebook.com%2Fastroxmate%2F%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3D538c2dff242241a4bc72dab88e3babab%23_%3D_&display=touch&_rdr)
 
@@ -29,9 +31,6 @@ title: https://m.facebook.com/login.php?skip_api_login=1&api_key=376384769054696
 *  JS Response Bytes: 329389
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2815
-
-### Performance issues
-
 
 ### Performance issues
 

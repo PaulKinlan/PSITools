@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://bighunt.biz/?lang=en
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free shooting game «Big Hunt».](http://bighunt.biz/?lang=en)
 
@@ -29,9 +33,6 @@ title: http://bighunt.biz/?lang=en
 *  JS Response Bytes: 271007
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2210
-
-### Performance issues
-
 
 ### Performance issues
 

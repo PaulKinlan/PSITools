@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://castle.bipsland.com/404.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404 - PAGE NOT FOUND](http://castle.bipsland.com/404.html)
 
@@ -29,9 +34,6 @@ title: http://castle.bipsland.com/404.html
 *  JS Response Bytes: 271851
 *  Flash Response Bytes: 43671
 *  Other Response Bytes: 151
-
-### Performance issues
-
 
 ### Performance issues
 

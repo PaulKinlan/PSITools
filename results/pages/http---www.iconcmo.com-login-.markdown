@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.iconcmo.com/login/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Church Management Software by Icon Systems :: Login](http://www.iconcmo.com/login/)
 
@@ -29,9 +32,6 @@ title: http://www.iconcmo.com/login/
 *  JS Response Bytes: 875600
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://online-arcade.bigfishgames.com/pc-online/3883/farm-frenzy-2/index.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Farm Frenzy 2 Free Online | Big Fish Games Online Arcade](http://online-arcade.bigfishgames.com/pc-online/3883/farm-frenzy-2/index.htm)
 
@@ -29,9 +34,6 @@ title: http://online-arcade.bigfishgames.com/pc-online/3883/farm-frenzy-2/index.
 *  JS Response Bytes: 162800
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

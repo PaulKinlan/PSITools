@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://fullofgames.net/game/ogame/20/cpvid=caoga&ts=ca
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [FullOfGames.net](http://fullofgames.net/game/ogame/20/cpvid=caoga&ts=ca)
 
@@ -29,9 +34,6 @@ title: http://fullofgames.net/game/ogame/20/cpvid=caoga&ts=ca
 *  JS Response Bytes: 490295
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55882
-
-### Performance issues
-
 
 ### Performance issues
 

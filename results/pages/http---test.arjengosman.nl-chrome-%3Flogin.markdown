@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://test.arjengosman.nl/chrome/?login
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://test.arjengosman.nl/chrome/?login)
 
@@ -29,9 +30,6 @@ title: http://test.arjengosman.nl/chrome/?login
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 465
-
-### Performance issues
-
 
 ### Performance issues
 

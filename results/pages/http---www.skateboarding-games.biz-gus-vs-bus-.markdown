@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/gus-vs-bus/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gus vs. Bus game](http://www.skateboarding-games.biz/gus-vs-bus/)
 
@@ -29,9 +36,6 @@ title: http://www.skateboarding-games.biz/gus-vs-bus/
 *  JS Response Bytes: 2123340
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 131588
-
-### Performance issues
-
 
 ### Performance issues
 

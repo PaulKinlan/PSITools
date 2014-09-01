@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://brahmint.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [ばらもんブログ](http://brahmint.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://brahmint.blogspot.com/?m=1
 *  JS Response Bytes: 355320
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 557
-
-### Performance issues
-
 
 ### Performance issues
 

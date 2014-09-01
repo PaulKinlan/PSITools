@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://triptracker.limashawnee.com/TripTracker/Login.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Versatrans Triptracker Login](http://triptracker.limashawnee.com/TripTracker/Login.aspx)
 
@@ -29,9 +33,6 @@ title: http://triptracker.limashawnee.com/TripTracker/Login.aspx
 *  JS Response Bytes: 155450
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 451
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://emulator.mobilewebsitesubmit.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mobile emulator and tablet to check responsive design testing online](http://emulator.mobilewebsitesubmit.com/)
 
@@ -29,9 +32,6 @@ title: http://emulator.mobilewebsitesubmit.com/
 *  JS Response Bytes: 25557
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

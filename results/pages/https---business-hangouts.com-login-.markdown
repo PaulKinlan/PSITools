@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://business-hangouts.com/login/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Business Hangouts – Login](https://business-hangouts.com/login/)
 
@@ -29,9 +31,6 @@ title: https://business-hangouts.com/login/
 *  JS Response Bytes: 1844440
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 755372
-
-### Performance issues
-
 
 ### Performance issues
 

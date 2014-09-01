@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.bigcommerce.com/mobile-home/node/1097
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Ecommerce Software & Shopping Cart Solutions | Bigcommerce](https://www.bigcommerce.com/mobile-home/node/1097)
 
@@ -29,9 +32,6 @@ title: https://www.bigcommerce.com/mobile-home/node/1097
 *  JS Response Bytes: 1876792
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125175
-
-### Performance issues
-
 
 ### Performance issues
 

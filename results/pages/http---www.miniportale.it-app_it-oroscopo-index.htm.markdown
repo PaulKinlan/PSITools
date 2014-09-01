@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.miniportale.it/app_it/oroscopo/index.htm
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [OROSCOPO QUOTIDIANO](http://www.miniportale.it/app_it/oroscopo/index.htm)
 
@@ -29,9 +33,6 @@ title: http://www.miniportale.it/app_it/oroscopo/index.htm
 *  JS Response Bytes: 570551
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25152
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.flashgirlgames.us/play_game/290/pou-at-the-dentist.html#.U_2MyU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pou At The Dentist - Flash Game For Girl](http://www.flashgirlgames.us/play_game/290/pou-at-the-dentist.html#.U_2MyU0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.flashgirlgames.us/play_game/290/pou-at-the-dentist.html#.U_2My
 *  JS Response Bytes: 1359166
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30372
-
-### Performance issues
-
 
 ### Performance issues
 

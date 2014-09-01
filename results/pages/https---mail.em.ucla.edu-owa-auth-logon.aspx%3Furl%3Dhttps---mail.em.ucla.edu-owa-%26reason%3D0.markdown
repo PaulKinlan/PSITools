@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://mail.em.ucla.edu/owa/auth/logon.aspx?url=https://mail.em.ucla.edu/owa/&reason=0
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Outlook Web App](https://mail.em.ucla.edu/owa/auth/logon.aspx?url=https://mail.em.ucla.edu/owa/&reason=0)
 
@@ -29,9 +34,6 @@ title: https://mail.em.ucla.edu/owa/auth/logon.aspx?url=https://mail.em.ucla.edu
 *  JS Response Bytes: 4498
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 632
-
-### Performance issues
-
 
 ### Performance issues
 

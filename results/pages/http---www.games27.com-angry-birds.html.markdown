@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.games27.com/angry-birds.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds | Games 27](http://www.games27.com/angry-birds.html)
 
@@ -29,9 +33,6 @@ title: http://www.games27.com/angry-birds.html
 *  JS Response Bytes: 1693536
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102556
-
-### Performance issues
-
 
 ### Performance issues
 

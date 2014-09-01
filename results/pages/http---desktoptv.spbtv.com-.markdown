@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://desktoptv.spbtv.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SPB TV | Premium Mobile TV Solution to Deliver Video to Multiscreen Devices](http://desktoptv.spbtv.com/)
 
@@ -29,9 +34,6 @@ title: http://desktoptv.spbtv.com/
 *  JS Response Bytes: 207390
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1620
-
-### Performance issues
-
 
 ### Performance issues
 

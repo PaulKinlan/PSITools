@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://bibleguardian.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bible Guardian Authorized King James Bible Online | Bible Guardian](http://bibleguardian.com/)
 
@@ -29,9 +33,6 @@ title: http://bibleguardian.com/
 *  JS Response Bytes: 566408
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20673
-
-### Performance issues
-
 
 ### Performance issues
 

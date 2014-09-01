@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://talking-tom-cat-2.blogspot.com.tr/2013/08/angry-gray-run.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [talking tom hd online game: Angry gray run](http://talking-tom-cat-2.blogspot.com.tr/2013/08/angry-gray-run.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://talking-tom-cat-2.blogspot.com.tr/2013/08/angry-gray-run.html?m=1
 *  JS Response Bytes: 1931504
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 137724
-
-### Performance issues
-
 
 ### Performance issues
 

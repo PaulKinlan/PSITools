@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://univeris.susu.ac.ru/office/Main.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ИАС Универис - Личный кабинет сотрудника](https://univeris.susu.ac.ru/office/Main.aspx)
 
@@ -29,9 +33,6 @@ title: https://univeris.susu.ac.ru/office/Main.aspx
 *  JS Response Bytes: 7929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1027
-
-### Performance issues
-
 
 ### Performance issues
 

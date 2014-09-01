@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://play.freeciv.org/wireframe.jsp?do=menu
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Freeciv-web - strategy game playable online with HTML5](http://play.freeciv.org/wireframe.jsp?do=menu)
 
@@ -29,9 +32,6 @@ title: http://play.freeciv.org/wireframe.jsp?do=menu
 *  JS Response Bytes: 1399697
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 190633
-
-### Performance issues
-
 
 ### Performance issues
 

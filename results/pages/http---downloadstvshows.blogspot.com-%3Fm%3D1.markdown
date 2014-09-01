@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://downloadstvshows.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [TV Shows Downloads](http://downloadstvshows.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://downloadstvshows.blogspot.com/?m=1
 *  JS Response Bytes: 1604027
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98312
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.miniportal.us/app_en/compatibility/index.htm
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ASCENDANT (EN)](http://www.miniportal.us/app_en/compatibility/index.htm)
 
@@ -29,9 +34,6 @@ title: http://www.miniportal.us/app_en/compatibility/index.htm
 *  JS Response Bytes: 399761
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20719
-
-### Performance issues
-
 
 ### Performance issues
 

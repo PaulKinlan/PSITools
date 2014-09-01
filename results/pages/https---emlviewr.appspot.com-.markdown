@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://emlviewr.appspot.com/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](https://emlviewr.appspot.com/)
 
@@ -29,9 +30,6 @@ title: https://emlviewr.appspot.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 435
-
-### Performance issues
-
 
 ### Performance issues
 

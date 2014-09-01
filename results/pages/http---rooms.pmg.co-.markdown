@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://rooms.pmg.co/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [PMG Conference Room Schedule](http://rooms.pmg.co/)
 
@@ -29,9 +33,6 @@ title: http://rooms.pmg.co/
 *  JS Response Bytes: 121577
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58468
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/3d-world-rugby-2011/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D World Rugby 2011 Game](http://www.footballgam.es/3d-world-rugby-2011/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/3d-world-rugby-2011/
 *  JS Response Bytes: 2304064
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 167597
-
-### Performance issues
-
 
 ### Performance issues
 

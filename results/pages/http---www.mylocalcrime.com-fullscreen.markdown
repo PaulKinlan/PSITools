@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mylocalcrime.com/fullscreen
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MyLocalCrime](http://www.mylocalcrime.com/fullscreen)
 
@@ -18,20 +22,17 @@ title: http://www.mylocalcrime.com/fullscreen
 *  Number of JS Resources: 12
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 27
-*  Total Request Bytes: 6838
+*  Total Request Bytes: 6835
 
 ### Response data
 
 *  HTML Response Bytes: 7885
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 20157
-*  Image Response Bytes: 853887
-*  JS Response Bytes: 462585
+*  Image Response Bytes: 853895
+*  JS Response Bytes: 536503
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 53916
-
-### Performance issues
-
+*  Other Response Bytes: 53920
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://uk.ixl.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IXL Maths | Online maths practice and lessons](http://uk.ixl.com/)
 
@@ -29,9 +34,6 @@ title: http://uk.ixl.com/
 *  JS Response Bytes: 1334591
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18548
-
-### Performance issues
-
 
 ### Performance issues
 

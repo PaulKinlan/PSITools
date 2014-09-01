@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://diable3guide.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Ultimate Diable 3 Guide](http://diable3guide.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://diable3guide.blogspot.com/?m=1
 *  JS Response Bytes: 1605125
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98343
-
-### Performance issues
-
 
 ### Performance issues
 

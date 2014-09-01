@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.kongregate.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [](http://m.kongregate.com/)
 
@@ -13,25 +16,22 @@ title: http://m.kongregate.com/
 
 ### Request information
 
-*  Number of Resources: 28
+*  Number of Resources: 27
 *  Number of Hosts: 10
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 3
-*  Nubmer of Static Resources: 23
-*  Total Request Bytes: 4893
+*  Nubmer of Static Resources: 22
+*  Total Request Bytes: 4805
 
 ### Response data
 
-*  HTML Response Bytes: 28711
+*  HTML Response Bytes: 27945
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 32195
-*  Image Response Bytes: 254229
-*  JS Response Bytes: 324774
+*  CSS Response Bytes: 32196
+*  Image Response Bytes: 213935
+*  JS Response Bytes: 324787
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2635
-
-### Performance issues
-
+*  Other Response Bytes: 2641
 
 ### Performance issues
 

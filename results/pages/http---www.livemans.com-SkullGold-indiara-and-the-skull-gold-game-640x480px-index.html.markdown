@@ -33,8 +33,5 @@ title: http://www.livemans.com/SkullGold/indiara-and-the-skull-gold/game/640x480
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

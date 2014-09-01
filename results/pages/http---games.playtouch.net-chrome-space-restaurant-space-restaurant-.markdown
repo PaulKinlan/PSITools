@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://games.playtouch.net/chrome/space-restaurant/space-restaurant/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Space Restaurant](http://games.playtouch.net/chrome/space-restaurant/space-restaurant/)
 
@@ -29,9 +32,6 @@ title: http://games.playtouch.net/chrome/space-restaurant/space-restaurant/
 *  JS Response Bytes: 2311072
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1052
-
-### Performance issues
-
 
 ### Performance issues
 

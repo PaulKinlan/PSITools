@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://accounts.planningcenteronline.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Planning Center Online | Login](https://accounts.planningcenteronline.com/)
 
@@ -29,9 +30,6 @@ title: https://accounts.planningcenteronline.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

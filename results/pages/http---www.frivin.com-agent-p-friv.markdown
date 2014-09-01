@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.frivin.com/agent-p/friv
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Agent Perry | Friv And Friv Games More Online Friv Game](http://www.frivin.com/agent-p/friv)
 
@@ -29,9 +34,6 @@ title: http://www.frivin.com/agent-p/friv
 *  JS Response Bytes: 1835941
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113063
-
-### Performance issues
-
 
 ### Performance issues
 

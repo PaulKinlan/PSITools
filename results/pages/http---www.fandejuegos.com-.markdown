@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.fandejuegos.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Juegos, juegos gratis online y juegos minijuegos - fandejuegos.com](http://www.fandejuegos.com/)
 
@@ -29,9 +33,6 @@ title: http://www.fandejuegos.com/
 *  JS Response Bytes: 1671274
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 288575
-
-### Performance issues
-
 
 ### Performance issues
 

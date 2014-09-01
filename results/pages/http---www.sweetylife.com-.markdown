@@ -33,8 +33,5 @@ title: http://www.sweetylife.com/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

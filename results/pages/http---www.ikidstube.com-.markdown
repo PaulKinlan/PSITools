@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ikidstube.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [iKidsTube | A fun and safer tube for Indian kids!](http://www.ikidstube.com/)
 
@@ -29,9 +33,6 @@ title: http://www.ikidstube.com/
 *  JS Response Bytes: 227892
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29288
-
-### Performance issues
-
 
 ### Performance issues
 

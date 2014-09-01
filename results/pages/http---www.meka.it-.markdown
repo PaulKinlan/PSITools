@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.meka.it/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Centro Arredamento e Mobili Meka Arredamenti Cucine e Camerette Napoli](http://www.meka.it/)
 
@@ -29,9 +34,6 @@ title: http://www.meka.it/
 *  JS Response Bytes: 643881
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 282408
-
-### Performance issues
-
 
 ### Performance issues
 

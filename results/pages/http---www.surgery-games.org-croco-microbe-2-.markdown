@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/croco-microbe-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Croco Microbe game](http://www.surgery-games.org/croco-microbe-2/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/croco-microbe-2/
 *  JS Response Bytes: 2636881
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 123168
-
-### Performance issues
-
 
 ### Performance issues
 

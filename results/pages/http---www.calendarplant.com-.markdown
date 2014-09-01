@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.calendarplant.com/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Calendar Plant](http://www.calendarplant.com/)
 
@@ -29,9 +31,6 @@ title: http://www.calendarplant.com/
 *  JS Response Bytes: 1299916
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109857
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playfreegames11.blogspot.com/2013/10/fairway-solitaire-new.html?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://playfreegames11.blogspot.com/2013/10/fairway-solitaire-new.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playfreegames11.blogspot.com/2013/10/fairway-solitaire-new.html?m=
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18844
-
-### Performance issues
-
 
 ### Performance issues
 

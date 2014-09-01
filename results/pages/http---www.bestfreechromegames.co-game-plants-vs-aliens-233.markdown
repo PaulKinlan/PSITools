@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bestfreechromegames.co/game/plants-vs-aliens-233
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Plants Vs Aliens Game - Best Free Chrome Games](http://www.bestfreechromegames.co/game/plants-vs-aliens-233)
 
@@ -29,9 +33,6 @@ title: http://www.bestfreechromegames.co/game/plants-vs-aliens-233
 *  JS Response Bytes: 621087
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16515
-
-### Performance issues
-
 
 ### Performance issues
 

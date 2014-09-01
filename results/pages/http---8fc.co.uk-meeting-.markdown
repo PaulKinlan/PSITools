@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://8fc.co.uk/meeting/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [jiggymeeting](http://8fc.co.uk/meeting/)
 
@@ -29,9 +32,6 @@ title: http://8fc.co.uk/meeting/
 *  JS Response Bytes: 54373
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

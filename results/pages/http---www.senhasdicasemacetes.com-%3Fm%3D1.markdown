@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.senhasdicasemacetes.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [SENHAS DICAS E MACETES](http://www.senhasdicasemacetes.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://www.senhasdicasemacetes.com/?m=1
 *  JS Response Bytes: 636976
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2975
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://supperdetailpainter.u.qiniudn.com/main.html
+MinimizeRenderBlockingResources: true
 ---
 ## [中华珍宝馆](http://supperdetailpainter.u.qiniudn.com/main.html)
 
@@ -29,9 +30,6 @@ title: http://supperdetailpainter.u.qiniudn.com/main.html
 *  JS Response Bytes: 312681
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

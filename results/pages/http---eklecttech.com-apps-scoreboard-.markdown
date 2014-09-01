@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://eklecttech.com/apps/scoreboard/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
 ---
 ## [](http://eklecttech.com/apps/scoreboard/)
 
@@ -29,9 +32,6 @@ title: http://eklecttech.com/apps/scoreboard/
 *  JS Response Bytes: 96773
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 539
-
-### Performance issues
-
 
 ### Performance issues
 

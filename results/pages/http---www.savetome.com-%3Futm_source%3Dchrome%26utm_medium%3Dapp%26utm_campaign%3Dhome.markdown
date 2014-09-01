@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.savetome.com/?utm_source=chrome&utm_medium=app&utm_campaign=home
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [savetome Portal de Sites - A minha página inicial - O melhor e o mais completo site de navegação do Brasil!](http://www.savetome.com/?utm_source=chrome&utm_medium=app&utm_campaign=home)
 
@@ -29,9 +31,6 @@ title: http://www.savetome.com/?utm_source=chrome&utm_medium=app&utm_campaign=ho
 *  JS Response Bytes: 121217
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120
-
-### Performance issues
-
 
 ### Performance issues
 

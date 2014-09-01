@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fullradyo.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Radyo Dinle - Yerli - Yabancı Online Radyo Dinle](http://www.fullradyo.com/)
 
@@ -29,9 +34,6 @@ title: http://www.fullradyo.com/
 *  JS Response Bytes: 1349875
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39512
-
-### Performance issues
-
 
 ### Performance issues
 

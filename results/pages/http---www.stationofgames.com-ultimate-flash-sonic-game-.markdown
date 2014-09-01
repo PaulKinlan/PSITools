@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.stationofgames.com/ultimate-flash-sonic-game/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ultimate Flash Sonic Game](http://www.stationofgames.com/ultimate-flash-sonic-game/)
 
@@ -29,9 +35,6 @@ title: http://www.stationofgames.com/ultimate-flash-sonic-game/
 *  JS Response Bytes: 1388362
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 123713
-
-### Performance issues
-
 
 ### Performance issues
 

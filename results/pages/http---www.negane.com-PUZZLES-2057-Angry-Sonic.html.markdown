@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.negane.com/PUZZLES/2057/Angry-Sonic.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Sonic - NeGaNe.com](http://www.negane.com/PUZZLES/2057/Angry-Sonic.html)
 
@@ -29,9 +35,6 @@ title: http://www.negane.com/PUZZLES/2057/Angry-Sonic.html
 *  JS Response Bytes: 1653296
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 402830
-
-### Performance issues
-
 
 ### Performance issues
 

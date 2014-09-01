@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://view-movies-online-gratis.blogspot.com.es/?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [peliculas online](http://view-movies-online-gratis.blogspot.com.es/?m=1)
 
@@ -29,9 +34,6 @@ title: http://view-movies-online-gratis.blogspot.com.es/?m=1
 *  JS Response Bytes: 3489860
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12448
-
-### Performance issues
-
 
 ### Performance issues
 

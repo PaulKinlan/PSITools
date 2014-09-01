@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.timemaps.com/welcome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [World History Timeline Welcome](http://www.timemaps.com/welcome)
 
@@ -29,9 +34,6 @@ title: http://www.timemaps.com/welcome
 *  JS Response Bytes: 2503324
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287586
-
-### Performance issues
-
 
 ### Performance issues
 

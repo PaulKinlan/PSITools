@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.rollip.com/start/?src=ws
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rollip - Online Photo Effects](http://www.rollip.com/start/?src=ws)
 
@@ -29,9 +33,6 @@ title: http://www.rollip.com/start/?src=ws
 *  JS Response Bytes: 567508
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

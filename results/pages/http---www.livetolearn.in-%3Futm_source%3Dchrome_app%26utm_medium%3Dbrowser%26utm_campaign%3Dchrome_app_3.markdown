@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.livetolearn.in/?utm_source=chrome_app&utm_medium=browser&utm_campaign=chrome_app_3
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Live to Learn! - Tech News, How-Tos, Tutorials, Programming Resources](http://www.livetolearn.in/?utm_source=chrome_app&utm_medium=browser&utm_campaign=chrome_app_3)
 
@@ -29,9 +33,6 @@ title: http://www.livetolearn.in/?utm_source=chrome_app&utm_medium=browser&utm_c
 *  JS Response Bytes: 1369391
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287973
-
-### Performance issues
-
 
 ### Performance issues
 

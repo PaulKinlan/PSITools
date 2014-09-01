@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://0lv.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Короткая ссылка 0LV.RU](http://0lv.ru/)
 
@@ -29,9 +33,6 @@ title: http://0lv.ru/
 *  JS Response Bytes: 275656
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21838
-
-### Performance issues
-
 
 ### Performance issues
 

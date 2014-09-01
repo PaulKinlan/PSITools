@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://flash5games.com/?=404;http://www.flash5games.com:80/cats-astronauts.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [flash5games.com](http://flash5games.com/?=404;http://www.flash5games.com:80/cats-astronauts.html&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://flash5games.com/?=404;http://www.flash5games.com:80/cats-astronaut
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113
-
-### Performance issues
-
 
 ### Performance issues
 

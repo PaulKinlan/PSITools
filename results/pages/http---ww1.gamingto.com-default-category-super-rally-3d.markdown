@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww1.gamingto.com/default-category/super-rally-3d
+MinimizeRenderBlockingResources: true
 ---
 ## [gamingto.com - gamingto Resources and Information. This website is for sale!](http://ww1.gamingto.com/default-category/super-rally-3d)
 
@@ -29,9 +30,6 @@ title: http://ww1.gamingto.com/default-category/super-rally-3d
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 263
-
-### Performance issues
-
 
 ### Performance issues
 

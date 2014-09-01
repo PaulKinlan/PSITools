@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.minecraftseedslist.org/category/minecraft_ideas/#.U_uyoE0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Minecraft Ideas — Minecraft Seeds : Best Cool Flat Minecraft Seeds 1.3, 1.8 Lists Ever](http://www.minecraftseedslist.org/category/minecraft_ideas/#.U_uyoE0ieKA)
 
@@ -29,9 +33,6 @@ title: http://www.minecraftseedslist.org/category/minecraft_ideas/#.U_uyoE0ieKA
 *  JS Response Bytes: 3658039
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 313480
-
-### Performance issues
-
 
 ### Performance issues
 

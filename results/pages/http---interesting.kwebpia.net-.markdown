@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://interesting.kwebpia.net/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Interesting Thing of the Day](http://interesting.kwebpia.net/)
 
@@ -29,9 +34,6 @@ title: http://interesting.kwebpia.net/
 *  JS Response Bytes: 620817
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

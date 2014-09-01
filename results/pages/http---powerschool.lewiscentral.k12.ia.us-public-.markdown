@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://powerschool.lewiscentral.k12.ia.us/public/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Student and Parent Sign In](http://powerschool.lewiscentral.k12.ia.us/public/)
 
@@ -29,9 +32,6 @@ title: http://powerschool.lewiscentral.k12.ia.us/public/
 *  JS Response Bytes: 344768
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 361
-
-### Performance issues
-
 
 ### Performance issues
 

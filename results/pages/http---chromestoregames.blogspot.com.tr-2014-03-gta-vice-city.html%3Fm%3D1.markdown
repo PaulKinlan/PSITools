@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromestoregames.blogspot.com.tr/2014/03/gta-vice-city.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [chrome Game: gta vice city](http://chromestoregames.blogspot.com.tr/2014/03/gta-vice-city.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromestoregames.blogspot.com.tr/2014/03/gta-vice-city.html?m=1
 *  JS Response Bytes: 1148247
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99239
-
-### Performance issues
-
 
 ### Performance issues
 

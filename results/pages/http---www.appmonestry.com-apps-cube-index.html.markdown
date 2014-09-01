@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.appmonestry.com/apps/cube/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Rubik's cube](http://www.appmonestry.com/apps/cube/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.appmonestry.com/apps/cube/index.html
 *  JS Response Bytes: 635094
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

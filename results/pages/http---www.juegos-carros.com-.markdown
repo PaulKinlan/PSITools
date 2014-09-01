@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.juegos-carros.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Juegos de carros - Juegos de carros gratis](http://www.juegos-carros.com/)
 
@@ -29,9 +32,6 @@ title: http://www.juegos-carros.com/
 *  JS Response Bytes: 587488
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1270
-
-### Performance issues
-
 
 ### Performance issues
 

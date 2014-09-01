@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://2014bestgames.blogspot.com/2013/12/assiassan-games.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [online games card games casino games flash games best free games: Assiassan games](http://2014bestgames.blogspot.com/2013/12/assiassan-games.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://2014bestgames.blogspot.com/2013/12/assiassan-games.html?m=1
 *  JS Response Bytes: 720903
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97769
-
-### Performance issues
-
 
 ### Performance issues
 

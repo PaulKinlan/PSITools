@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.nowgamez.com/Friv/2520/3d-mad-racers
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Mad Racers play 3D Mad Racers free at NowGamez.com](http://www.nowgamez.com/Friv/2520/3d-mad-racers)
 
@@ -29,9 +35,6 @@ title: http://www.nowgamez.com/Friv/2520/3d-mad-racers
 *  JS Response Bytes: 1285538
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4645
-
-### Performance issues
-
 
 ### Performance issues
 

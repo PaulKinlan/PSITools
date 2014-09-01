@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.sanook.com/m
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [ดูดวง ข่าว กีฬา น้ำมัน สลากกินแบ่งรัฐบาล Sanook! Mobile](http://m.sanook.com/m)
 
@@ -18,28 +20,22 @@ title: http://m.sanook.com/m
 *  Number of JS Resources: 15
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 18
-*  Total Request Bytes: 6061
+*  Total Request Bytes: 6062
 
 ### Response data
 
-*  HTML Response Bytes: 29256
-*  Text Response Bytes: 54462
-*  CSS Response Bytes: 12257
-*  Image Response Bytes: 3065
-*  JS Response Bytes: 209572
+*  HTML Response Bytes: 29258
+*  Text Response Bytes: 54535
+*  CSS Response Bytes: 12267
+*  Image Response Bytes: 3032
+*  JS Response Bytes: 209951
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1765
-
-### Performance issues
-
+*  Other Response Bytes: 1764
 
 ### Performance issues
 
 *  Avoid landing page redirects
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
-*  Inline render-blocking CSS
-*  Enable compression
-*  Improve server response time
 
 ### Mobile UX issues
 

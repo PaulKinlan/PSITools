@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ryanovereem.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Ryan Overeem - Freelance Digital Designer Auckland](http://www.ryanovereem.com/)
 
@@ -29,9 +32,6 @@ title: http://www.ryanovereem.com/
 *  JS Response Bytes: 135181
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 73311
-
-### Performance issues
-
 
 ### Performance issues
 

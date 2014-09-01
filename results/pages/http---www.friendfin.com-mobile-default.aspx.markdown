@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.friendfin.com/mobile/default.aspx
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://www.friendfin.com/mobile/default.aspx)
 
@@ -29,9 +32,6 @@ title: http://www.friendfin.com/mobile/default.aspx
 *  JS Response Bytes: 679703
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1333
-
-### Performance issues
-
 
 ### Performance issues
 

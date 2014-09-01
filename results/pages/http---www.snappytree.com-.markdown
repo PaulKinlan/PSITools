@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.snappytree.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tree](http://www.snappytree.com/)
 
@@ -29,9 +34,6 @@ title: http://www.snappytree.com/
 *  JS Response Bytes: 92577
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

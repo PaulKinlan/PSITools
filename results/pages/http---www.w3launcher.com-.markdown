@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.w3launcher.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [W3Launcher.com | Online Bookmark Manager](http://www.w3launcher.com/)
 
@@ -29,9 +33,6 @@ title: http://www.w3launcher.com/
 *  JS Response Bytes: 45367
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

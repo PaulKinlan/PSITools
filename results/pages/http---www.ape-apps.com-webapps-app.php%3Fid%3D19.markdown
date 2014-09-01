@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ape-apps.com/webapps/app.php?id=19
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [IQ Scanner](http://www.ape-apps.com/webapps/app.php?id=19)
 
@@ -29,9 +32,6 @@ title: http://www.ape-apps.com/webapps/app.php?id=19
 *  JS Response Bytes: 1572883
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110739
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://plusbeta.vitalaxis.com/vitaloffice/login.aspx
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PathTouch: Powered by VitalOffice](https://plusbeta.vitalaxis.com/vitaloffice/login.aspx)
 
@@ -29,9 +33,6 @@ title: https://plusbeta.vitalaxis.com/vitaloffice/login.aspx
 *  JS Response Bytes: 302355
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

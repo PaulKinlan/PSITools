@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://litlcatcher.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [LitlCatcher - convert webpages to image or pdf](http://litlcatcher.com/)
 
@@ -29,9 +32,6 @@ title: http://litlcatcher.com/
 *  JS Response Bytes: 121877
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51708
-
-### Performance issues
-
 
 ### Performance issues
 

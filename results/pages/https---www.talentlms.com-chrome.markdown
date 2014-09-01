@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://www.talentlms.com/chrome
+MinimizeRenderBlockingResources: true
 ---
 ## [TalentLMS - Signup](https://www.talentlms.com/chrome)
 
@@ -29,9 +30,6 @@ title: https://www.talentlms.com/chrome
 *  JS Response Bytes: 528636
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9367
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://jobs9.co.in/?reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [jobs9.co.in](http://jobs9.co.in/?reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://jobs9.co.in/?reqp=1&reqr=
 *  JS Response Bytes: 304173
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53
-
-### Performance issues
-
 
 ### Performance issues
 

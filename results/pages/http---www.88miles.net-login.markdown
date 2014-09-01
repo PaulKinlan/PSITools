@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.88miles.net/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [88miles - Simple Time Tracking](http://www.88miles.net/login)
 
@@ -29,9 +31,6 @@ title: http://www.88miles.net/login
 *  JS Response Bytes: 184597
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1009
-
-### Performance issues
-
 
 ### Performance issues
 

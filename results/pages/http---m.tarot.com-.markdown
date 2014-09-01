@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.tarot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tarot.com: Tarot, Astrology, Numerology, I Ching and Psychics](http://m.tarot.com/)
 
@@ -29,9 +31,6 @@ title: http://m.tarot.com/
 *  JS Response Bytes: 1703857
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7594
-
-### Performance issues
-
 
 ### Performance issues
 

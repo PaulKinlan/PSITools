@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://translunardesigns.com/tw/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Top Watch](http://translunardesigns.com/tw/index.html)
 
@@ -29,9 +32,6 @@ title: http://translunardesigns.com/tw/index.html
 *  JS Response Bytes: 254460
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

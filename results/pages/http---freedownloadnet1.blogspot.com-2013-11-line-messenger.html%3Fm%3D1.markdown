@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://freedownloadnet1.blogspot.com/2013/11/line-messenger.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Free download: Line messenger](http://freedownloadnet1.blogspot.com/2013/11/line-messenger.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://freedownloadnet1.blogspot.com/2013/11/line-messenger.html?m=1
 *  JS Response Bytes: 959538
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97989
-
-### Performance issues
-
 
 ### Performance issues
 

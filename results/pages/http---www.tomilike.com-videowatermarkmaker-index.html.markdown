@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.tomilike.com/videowatermarkmaker/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Video Watermark Maker. Video Watermark Software Free Download.](http://www.tomilike.com/videowatermarkmaker/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.tomilike.com/videowatermarkmaker/index.html
 *  JS Response Bytes: 911281
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109057
-
-### Performance issues
-
 
 ### Performance issues
 

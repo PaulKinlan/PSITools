@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://app.addshoppers.com/login/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AddShoppers Signup](https://app.addshoppers.com/login/)
 
@@ -29,9 +34,6 @@ title: https://app.addshoppers.com/login/
 *  JS Response Bytes: 395297
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34928
-
-### Performance issues
-
 
 ### Performance issues
 

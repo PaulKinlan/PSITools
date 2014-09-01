@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://jbhealthcare.cliniko.com/users/sign_in
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cliniko](https://jbhealthcare.cliniko.com/users/sign_in)
 
@@ -29,9 +33,6 @@ title: https://jbhealthcare.cliniko.com/users/sign_in
 *  JS Response Bytes: 960818
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1021
-
-### Performance issues
-
 
 ### Performance issues
 

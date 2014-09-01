@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://secure3.i-doxs.net/csr/default.asp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [User Console](https://secure3.i-doxs.net/csr/default.asp)
 
@@ -29,9 +33,6 @@ title: https://secure3.i-doxs.net/csr/default.asp
 *  JS Response Bytes: 438535
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10422
-
-### Performance issues
-
 
 ### Performance issues
 

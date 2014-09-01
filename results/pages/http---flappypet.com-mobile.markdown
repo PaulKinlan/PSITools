@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://flappypet.com/mobile
+MinimizeRenderBlockingResources: true
 ---
 ## [flappypet.com - flappypet Resources and Information. This website is for sale!](http://flappypet.com/mobile)
 
@@ -29,9 +30,6 @@ title: http://flappypet.com/mobile
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

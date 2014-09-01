@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://jonovos.com/NaCl/lcb/
+EnableGzipCompression: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Lucky Cinder Block](http://jonovos.com/NaCl/lcb/)
 
@@ -29,9 +32,6 @@ title: http://jonovos.com/NaCl/lcb/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.us/home-sheep-home-2-lost-in-space/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Home Sheep Home 2 Lost in Space](http://www.gamesgator.us/home-sheep-home-2-lost-in-space/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.us/home-sheep-home-2-lost-in-space/
 *  JS Response Bytes: 1094557
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53191
-
-### Performance issues
-
 
 ### Performance issues
 

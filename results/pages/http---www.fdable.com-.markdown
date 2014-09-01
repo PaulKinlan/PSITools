@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.fdable.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FDAble: Search FDA MedWatch AERS, MAUDE & VAERS Databases](http://www.fdable.com/)
 
@@ -29,9 +33,6 @@ title: http://www.fdable.com/
 *  JS Response Bytes: 397470
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

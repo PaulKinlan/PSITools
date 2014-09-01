@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://unishared.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [UniShared - Home](http://unishared.com/)
 
@@ -29,9 +32,6 @@ title: http://unishared.com/
 *  JS Response Bytes: 2977839
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 289061
-
-### Performance issues
-
 
 ### Performance issues
 

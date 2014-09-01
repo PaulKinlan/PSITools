@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.fungamesnetwork.com/red-ball-4-vol-2/index.htlm
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Red Ball 4 Vol.2 | Fungamesnetwork](http://www.fungamesnetwork.com/red-ball-4-vol-2/index.htlm)
 
@@ -29,9 +35,6 @@ title: http://www.fungamesnetwork.com/red-ball-4-vol-2/index.htlm
 *  JS Response Bytes: 1058610
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15225
-
-### Performance issues
-
 
 ### Performance issues
 

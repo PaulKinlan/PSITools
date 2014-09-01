@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.aksharit.com/MLOA/menuKn.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MadRat Games - Mystery Land of Aksharit](http://www.aksharit.com/MLOA/menuKn.html)
 
@@ -29,9 +33,6 @@ title: http://www.aksharit.com/MLOA/menuKn.html
 *  JS Response Bytes: 140958
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gojiyo.com/login
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Create Your Avatar | India's First Virtual World by Godrej](http://www.gojiyo.com/login)
 
@@ -29,9 +34,6 @@ title: http://www.gojiyo.com/login
 *  JS Response Bytes: 580282
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12443
-
-### Performance issues
-
 
 ### Performance issues
 

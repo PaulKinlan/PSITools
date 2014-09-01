@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ngenerator.com/?p=prnd
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.ngenerator.com/?p=prnd)
 
@@ -29,9 +34,6 @@ title: http://www.ngenerator.com/?p=prnd
 *  JS Response Bytes: 594508
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14636
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.tax-app.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [tax-app](http://www.tax-app.com/)
 
@@ -29,9 +30,6 @@ title: http://www.tax-app.com/
 *  JS Response Bytes: 500785
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18039
-
-### Performance issues
-
 
 ### Performance issues
 

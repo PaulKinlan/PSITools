@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ccleaner-mail.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ccleaner](http://ccleaner-mail.ru/)
 
@@ -29,9 +33,6 @@ title: http://ccleaner-mail.ru/
 *  JS Response Bytes: 850006
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15217
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.etnix.com/index.php/en/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://www.etnix.com/index.php/en/)
 
@@ -29,9 +31,6 @@ title: http://www.etnix.com/index.php/en/
 *  JS Response Bytes: 492591
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 440
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.bankofpoker.fr/play
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Bank of Poker](http://www.bankofpoker.fr/play)
 
@@ -29,9 +31,6 @@ title: http://www.bankofpoker.fr/play
 *  JS Response Bytes: 292964
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 74455
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/puzzlegames/candy-crush/#.U_uqUU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Candy Crush « Online Flash Game Candy Crush](http://gamematic.net/online-flash-games/puzzlegames/candy-crush/#.U_uqUU0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/puzzlegames/candy-crush/#.U_uqUU0
 *  JS Response Bytes: 1270990
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42167
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://support1.westport.k12.ct.us/mc/WOListView.do
+MinimizeRenderBlockingResources: true
 ---
 ## [ManageEngine ServiceDesk Plus](https://support1.westport.k12.ct.us/mc/WOListView.do)
 
@@ -29,9 +30,6 @@ title: https://support1.westport.k12.ct.us/mc/WOListView.do
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 343
-
-### Performance issues
-
 
 ### Performance issues
 

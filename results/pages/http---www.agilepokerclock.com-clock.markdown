@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.agilepokerclock.com/clock
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Agile Poker Clock](http://www.agilepokerclock.com/clock)
 
@@ -29,9 +32,6 @@ title: http://www.agilepokerclock.com/clock
 *  JS Response Bytes: 299416
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39773
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://games.appsmobilecenter.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
 ---
 ## [Best Online Games |](http://games.appsmobilecenter.com/)
 
@@ -29,9 +32,6 @@ title: http://games.appsmobilecenter.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

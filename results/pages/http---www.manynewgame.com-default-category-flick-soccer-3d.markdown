@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.manynewgame.com/default-category/flick-soccer-3d
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FLICK SOCCER 3D - Many New Game](http://www.manynewgame.com/default-category/flick-soccer-3d)
 
@@ -29,9 +36,6 @@ title: http://www.manynewgame.com/default-category/flick-soccer-3d
 *  JS Response Bytes: 2089977
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114060
-
-### Performance issues
-
 
 ### Performance issues
 

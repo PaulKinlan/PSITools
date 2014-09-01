@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://freechromegame.com/kilroy-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Kilroy-2 - Action - against, Chernobyl, Farms., fire, gun, Kilroy 2, machine, mercy, mutants, Show](http://freechromegame.com/kilroy-2/)
 
@@ -29,9 +34,6 @@ title: http://freechromegame.com/kilroy-2/
 *  JS Response Bytes: 1870876
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 153305
-
-### Performance issues
-
 
 ### Performance issues
 

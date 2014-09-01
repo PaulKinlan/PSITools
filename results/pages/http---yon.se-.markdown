@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://yon.se/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [YonSe](http://yon.se/)
 
@@ -29,9 +31,6 @@ title: http://yon.se/
 *  JS Response Bytes: 512604
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94971
-
-### Performance issues
-
 
 ### Performance issues
 

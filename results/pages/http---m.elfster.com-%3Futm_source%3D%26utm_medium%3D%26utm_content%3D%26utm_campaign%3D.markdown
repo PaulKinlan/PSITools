@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://m.elfster.com/?utm_source=&utm_medium=&utm_content=&utm_campaign=
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Elfster](http://m.elfster.com/?utm_source=&utm_medium=&utm_content=&utm_campaign=)
 
@@ -29,9 +34,6 @@ title: http://m.elfster.com/?utm_source=&utm_medium=&utm_content=&utm_campaign=
 *  JS Response Bytes: 606612
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14324
-
-### Performance issues
-
 
 ### Performance issues
 

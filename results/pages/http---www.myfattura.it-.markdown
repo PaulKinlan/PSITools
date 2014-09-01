@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.myfattura.it/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [My Fattura | Software di fatturazione gratuito, programma per fatture gratis, un software semplice e veloce](http://www.myfattura.it/)
 
@@ -29,9 +32,6 @@ title: http://www.myfattura.it/
 *  JS Response Bytes: 2393952
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 880
-
-### Performance issues
-
 
 ### Performance issues
 

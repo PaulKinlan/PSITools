@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tiponlinegames.com/greyhound-racer.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Greyhound Racer | TIP ONLINE GAMES](http://www.tiponlinegames.com/greyhound-racer.html)
 
@@ -29,9 +34,6 @@ title: http://www.tiponlinegames.com/greyhound-racer.html
 *  JS Response Bytes: 1051735
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16281
-
-### Performance issues
-
 
 ### Performance issues
 

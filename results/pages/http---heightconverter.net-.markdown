@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://heightconverter.net/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Height Converter](http://heightconverter.net/)
 
@@ -29,9 +32,6 @@ title: http://heightconverter.net/
 *  JS Response Bytes: 658789
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

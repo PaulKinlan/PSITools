@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.limkokwing-mobile.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [](http://www.limkokwing-mobile.com/)
 
@@ -29,9 +31,6 @@ title: http://www.limkokwing-mobile.com/
 *  JS Response Bytes: 601225
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

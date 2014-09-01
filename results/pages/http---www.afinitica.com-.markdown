@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.afinitica.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AFINITICA](http://www.afinitica.com/)
 
@@ -29,9 +32,6 @@ title: http://www.afinitica.com/
 *  JS Response Bytes: 443775
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 459476
-
-### Performance issues
-
 
 ### Performance issues
 

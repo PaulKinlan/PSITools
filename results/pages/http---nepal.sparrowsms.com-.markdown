@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://nepal.sparrowsms.com/
+PrioritizeVisibleContent: true
+UseLegibleFontSizes: true
 ---
 ## [](http://nepal.sparrowsms.com/)
 
@@ -29,9 +31,6 @@ title: http://nepal.sparrowsms.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

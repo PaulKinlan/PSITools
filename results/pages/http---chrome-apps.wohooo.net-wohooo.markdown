@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://chrome-apps.wohooo.net/wohooo
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://chrome-apps.wohooo.net/wohooo)
 
@@ -29,9 +30,6 @@ title: http://chrome-apps.wohooo.net/wohooo
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 466
-
-### Performance issues
-
 
 ### Performance issues
 

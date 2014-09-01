@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://mesdessins.waluu.com/?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Liste des contributions](http://mesdessins.waluu.com/?m=1)
 
@@ -29,9 +35,6 @@ title: http://mesdessins.waluu.com/?m=1
 *  JS Response Bytes: 906435
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8504
-
-### Performance issues
-
 
 ### Performance issues
 

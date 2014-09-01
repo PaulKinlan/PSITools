@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/action/dog-fight-2
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dog Fight 2 - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/action/dog-fight-2)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/action/dog-fight-2
 *  JS Response Bytes: 2180324
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99764
-
-### Performance issues
-
 
 ### Performance issues
 

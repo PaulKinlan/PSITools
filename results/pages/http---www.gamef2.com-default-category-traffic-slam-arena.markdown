@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamef2.com/default-category/traffic-slam-arena
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TRAFFIC SLAM ARENA - GaMeF2](http://www.gamef2.com/default-category/traffic-slam-arena)
 
@@ -29,9 +34,6 @@ title: http://www.gamef2.com/default-category/traffic-slam-arena
 *  JS Response Bytes: 2278543
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 108356
-
-### Performance issues
-
 
 ### Performance issues
 

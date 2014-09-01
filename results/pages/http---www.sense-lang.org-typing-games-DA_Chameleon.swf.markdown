@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.sense-lang.org/typing/games/DA_Chameleon.swf
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.sense-lang.org/typing/games/DA_Chameleon.swf)
 
@@ -29,9 +31,6 @@ title: http://www.sense-lang.org/typing/games/DA_Chameleon.swf
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 220239
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

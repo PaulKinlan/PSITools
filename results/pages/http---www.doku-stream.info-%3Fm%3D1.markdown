@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.doku-stream.info/?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Doku Stream](http://www.doku-stream.info/?m=1)
 
@@ -29,9 +31,6 @@ title: http://www.doku-stream.info/?m=1
 *  JS Response Bytes: 290032
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1103
-
-### Performance issues
-
 
 ### Performance issues
 

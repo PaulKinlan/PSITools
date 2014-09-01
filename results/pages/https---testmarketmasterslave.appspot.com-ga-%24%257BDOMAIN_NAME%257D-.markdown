@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://testmarketmasterslave.appspot.com/ga/$%7BDOMAIN_NAME%7D/
+UseLegibleFontSizes: true
 ---
 ## [Page not found at /ga/${DOMAIN_NAME}/](https://testmarketmasterslave.appspot.com/ga/$%7BDOMAIN_NAME%7D/)
 
@@ -29,9 +30,6 @@ title: https://testmarketmasterslave.appspot.com/ga/$%7BDOMAIN_NAME%7D/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15650
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://bodymassindexcalculator.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [BMI Calculator·](http://bodymassindexcalculator.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://bodymassindexcalculator.herokuapp.com/
 *  JS Response Bytes: 1463583
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 186758
-
-### Performance issues
-
 
 ### Performance issues
 

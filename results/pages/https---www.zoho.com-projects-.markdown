@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.zoho.com/projects/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Project Management Software | Free Online Planning : Zoho](https://www.zoho.com/projects/)
 
@@ -13,25 +18,22 @@ title: https://www.zoho.com/projects/
 
 ### Request information
 
-*  Number of Resources: 46
+*  Number of Resources: 45
 *  Number of Hosts: 10
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 4
-*  Nubmer of Static Resources: 35
-*  Total Request Bytes: 4494
+*  Nubmer of Static Resources: 34
+*  Total Request Bytes: 4425
 
 ### Response data
 
-*  HTML Response Bytes: 31249
+*  HTML Response Bytes: 30371
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 25265
-*  Image Response Bytes: 662843
-*  JS Response Bytes: 248757
+*  Image Response Bytes: 581811
+*  JS Response Bytes: 248759
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45583
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/green-skinned-soldier/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Green Skinned Soldier](http://www.war-games.ws/green-skinned-soldier/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/green-skinned-soldier/
 *  JS Response Bytes: 2135709
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122901
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://app.nimbits.com/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://app.nimbits.com/)
 
@@ -29,9 +30,6 @@ title: http://app.nimbits.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 442
-
-### Performance issues
-
 
 ### Performance issues
 

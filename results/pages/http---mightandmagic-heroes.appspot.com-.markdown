@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://mightandmagic-heroes.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Might & Magic Heroes Online](http://mightandmagic-heroes.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://mightandmagic-heroes.appspot.com/
 *  JS Response Bytes: 1114129
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41102
-
-### Performance issues
-
 
 ### Performance issues
 

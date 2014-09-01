@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.unionwebgames.com/game/tennis-challenge.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tennis Challenge Games online](http://www.unionwebgames.com/game/tennis-challenge.html)
 
@@ -29,9 +35,6 @@ title: http://www.unionwebgames.com/game/tennis-challenge.html
 *  JS Response Bytes: 514133
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 592
-
-### Performance issues
-
 
 ### Performance issues
 

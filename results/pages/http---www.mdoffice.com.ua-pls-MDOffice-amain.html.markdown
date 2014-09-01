@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mdoffice.com.ua/pls/MDOffice/amain.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [WWW MD Office - Все для внешнеэкономической деятельности](http://www.mdoffice.com.ua/pls/MDOffice/amain.html)
 
@@ -29,9 +34,6 @@ title: http://www.mdoffice.com.ua/pls/MDOffice/amain.html
 *  JS Response Bytes: 323248
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13858
-
-### Performance issues
-
 
 ### Performance issues
 

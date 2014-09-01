@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://accounts.zoho.com/login?&servicename=ZohoCRM&serviceurl=%2Fcrm%2FShowHomePage.do
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Zoho Accounts](https://accounts.zoho.com/login?&servicename=ZohoCRM&serviceurl=%2Fcrm%2FShowHomePage.do)
 
@@ -29,9 +31,6 @@ title: https://accounts.zoho.com/login?&servicename=ZohoCRM&serviceurl=%2Fcrm%2F
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.myhta.org/system/login/login.php
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [HonuHub - Login](https://www.myhta.org/system/login/login.php)
 
@@ -29,9 +31,6 @@ title: https://www.myhta.org/system/login/login.php
 *  JS Response Bytes: 131884
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

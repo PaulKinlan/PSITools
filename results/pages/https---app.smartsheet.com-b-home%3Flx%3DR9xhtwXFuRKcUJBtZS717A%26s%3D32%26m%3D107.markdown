@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://app.smartsheet.com/b/home?lx=R9xhtwXFuRKcUJBtZS717A&s=32&m=107
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [](https://app.smartsheet.com/b/home?lx=R9xhtwXFuRKcUJBtZS717A&s=32&m=107)
 
@@ -29,9 +31,6 @@ title: https://app.smartsheet.com/b/home?lx=R9xhtwXFuRKcUJBtZS717A&s=32&m=107
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

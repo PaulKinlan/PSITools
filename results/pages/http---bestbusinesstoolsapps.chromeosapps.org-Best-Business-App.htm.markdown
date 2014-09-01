@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bestbusinesstoolsapps.chromeosapps.org/Best-Business-App.htm
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Best Business App](http://bestbusinesstoolsapps.chromeosapps.org/Best-Business-App.htm)
 
@@ -29,9 +32,6 @@ title: http://bestbusinesstoolsapps.chromeosapps.org/Best-Business-App.htm
 *  JS Response Bytes: 586903
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15607
-
-### Performance issues
-
 
 ### Performance issues
 

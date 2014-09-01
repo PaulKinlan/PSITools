@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tradebiller.com/app/action?action=Index#/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Auto Repair Invoicing Software](http://www.tradebiller.com/app/action?action=Index#/)
 
@@ -29,9 +32,6 @@ title: http://www.tradebiller.com/app/action?action=Index#/
 *  JS Response Bytes: 101767
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 558
-
-### Performance issues
-
 
 ### Performance issues
 

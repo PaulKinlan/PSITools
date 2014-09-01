@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.clickfun.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Clickfun Casino Mobile - Take the fun with you!](http://m.clickfun.com/)
 
@@ -29,9 +31,6 @@ title: http://m.clickfun.com/
 *  JS Response Bytes: 265544
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1761
-
-### Performance issues
-
 
 ### Performance issues
 

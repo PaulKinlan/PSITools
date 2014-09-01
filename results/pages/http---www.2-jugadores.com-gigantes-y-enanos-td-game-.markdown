@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.2-jugadores.com/gigantes-y-enanos-td/game/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gigantes y Enanos TD juego](http://www.2-jugadores.com/gigantes-y-enanos-td/game/)
 
@@ -29,9 +35,6 @@ title: http://www.2-jugadores.com/gigantes-y-enanos-td/game/
 *  JS Response Bytes: 1731092
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50433
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://dominoc925-pages.appspot.com/webapp/seattle911mon/default.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [dominoc925 - Seattle 911 Monitor](http://dominoc925-pages.appspot.com/webapp/seattle911mon/default.html)
 
@@ -29,9 +32,6 @@ title: http://dominoc925-pages.appspot.com/webapp/seattle911mon/default.html
 *  JS Response Bytes: 1888661
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 69275
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://portail.sadur.org/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [L'association des usagers du RER D vous informe](http://portail.sadur.org/)
 
@@ -29,9 +32,6 @@ title: http://portail.sadur.org/
 *  JS Response Bytes: 600720
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48935
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ntfusion.net/casual-games/filled-with-monsters.html?utm_campaign=filled-with-monsters&utm_medium=app&utm_source=cws
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Filled With Monsters - NTFusion](http://www.ntfusion.net/casual-games/filled-with-monsters.html?utm_campaign=filled-with-monsters&utm_medium=app&utm_source=cws)
 
@@ -29,9 +34,6 @@ title: http://www.ntfusion.net/casual-games/filled-with-monsters.html?utm_campai
 *  JS Response Bytes: 2313622
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122582
-
-### Performance issues
-
 
 ### Performance issues
 

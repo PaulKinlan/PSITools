@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://lionsapp.com/webapp/fahrenheit_celsius/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LionsApp | Web App [Fahrenheit Celsus]](http://lionsapp.com/webapp/fahrenheit_celsius/)
 
@@ -29,9 +33,6 @@ title: http://lionsapp.com/webapp/fahrenheit_celsius/
 *  JS Response Bytes: 1571156
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111624
-
-### Performance issues
-
 
 ### Performance issues
 

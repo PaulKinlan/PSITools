@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.cashbasehq.com/signin
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CashBase - Personal finance made simple](http://www.cashbasehq.com/signin)
 
@@ -29,9 +33,6 @@ title: http://www.cashbasehq.com/signin
 *  JS Response Bytes: 263267
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 485
-
-### Performance issues
-
 
 ### Performance issues
 

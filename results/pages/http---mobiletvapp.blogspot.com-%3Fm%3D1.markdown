@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://mobiletvapp.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Mobile TV](http://mobiletvapp.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://mobiletvapp.blogspot.com/?m=1
 *  JS Response Bytes: 1611966
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98269
-
-### Performance issues
-
 
 ### Performance issues
 

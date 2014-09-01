@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.projectpad.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ProjectPad.Net](http://www.projectpad.net/)
 
@@ -29,9 +34,6 @@ title: http://www.projectpad.net/
 *  JS Response Bytes: 93351
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49957
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://cuttheropeonline.org/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [Play Cut The Rope Online For Free](http://cuttheropeonline.org/)
 
@@ -29,9 +34,6 @@ title: http://cuttheropeonline.org/
 *  JS Response Bytes: 1655503
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 225513
-
-### Performance issues
-
 
 ### Performance issues
 

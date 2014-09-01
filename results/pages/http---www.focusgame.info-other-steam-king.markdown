@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.focusgame.info/other/steam-king
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Steam King - FoCuS GaMe - New Online Flash Games](http://www.focusgame.info/other/steam-king)
 
@@ -29,9 +35,6 @@ title: http://www.focusgame.info/other/steam-king
 *  JS Response Bytes: 2188577
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 132509
-
-### Performance issues
-
 
 ### Performance issues
 

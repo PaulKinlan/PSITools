@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.mathmarathons.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Math Marathons | Home](http://www.mathmarathons.com/)
 
@@ -29,9 +35,6 @@ title: http://www.mathmarathons.com/
 *  JS Response Bytes: 810618
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31472
-
-### Performance issues
-
 
 ### Performance issues
 

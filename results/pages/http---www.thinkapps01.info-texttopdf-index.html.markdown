@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.thinkapps01.info/texttopdf/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Text to PDF Converter](http://www.thinkapps01.info/texttopdf/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.thinkapps01.info/texttopdf/index.html
 *  JS Response Bytes: 935559
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109057
-
-### Performance issues
-
 
 ### Performance issues
 

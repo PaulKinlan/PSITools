@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.viddyad.com/new
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Viddyad - Page Not Found](http://www.viddyad.com/new)
 
@@ -29,9 +32,6 @@ title: http://www.viddyad.com/new
 *  JS Response Bytes: 246453
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105540
-
-### Performance issues
-
 
 ### Performance issues
 

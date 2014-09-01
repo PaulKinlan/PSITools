@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.royalgame99.com/default-category/snake
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Snake - Royalgame99](http://www.royalgame99.com/default-category/snake)
 
@@ -29,9 +34,6 @@ title: http://www.royalgame99.com/default-category/snake
 *  JS Response Bytes: 673190
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

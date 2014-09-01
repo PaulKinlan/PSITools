@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.myappgames.com/mineclone.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MineClone : My APP Games](http://www.myappgames.com/mineclone.html)
 
@@ -29,9 +34,6 @@ title: http://www.myappgames.com/mineclone.html
 *  JS Response Bytes: 1920921
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 131934
-
-### Performance issues
-
 
 ### Performance issues
 

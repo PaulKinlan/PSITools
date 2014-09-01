@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/447550/?autoAction=true&sId=Chrome_Webstore_Nov12_447550&actid=Chrome_Webstore_447550
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Word Challenge Extreme for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/447550/?autoAction=true&sId=Chrome_Webstore_Nov12_447550&actid=Chrome_Webstore_447550)
 
@@ -29,9 +34,6 @@ title: http://www.freeridegames.com/chrome/games/447550/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1493093
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44391
-
-### Performance issues
-
 
 ### Performance issues
 

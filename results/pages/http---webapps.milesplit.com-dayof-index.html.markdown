@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://webapps.milesplit.com/dayof/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [RaceTab Day of Registrtion](http://webapps.milesplit.com/dayof/index.html)
 
@@ -29,9 +32,6 @@ title: http://webapps.milesplit.com/dayof/index.html
 *  JS Response Bytes: 85014
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

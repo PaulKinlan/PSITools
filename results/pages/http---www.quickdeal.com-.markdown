@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.quickdeal.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shopping, businesses, deals, for sale, buy, sell, directory, quick. Realtors, Cars, Jobs](http://www.quickdeal.com/)
 
@@ -29,9 +32,6 @@ title: http://www.quickdeal.com/
 *  JS Response Bytes: 220202
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

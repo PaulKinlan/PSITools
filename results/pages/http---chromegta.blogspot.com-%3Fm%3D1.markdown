@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://chromegta.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Gta San Andreas](http://chromegta.blogspot.com/?m=1)
 
@@ -18,20 +19,17 @@ title: http://chromegta.blogspot.com/?m=1
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 9
-*  Total Request Bytes: 1469
+*  Total Request Bytes: 1470
 
 ### Response data
 
-*  HTML Response Bytes: 52735
+*  HTML Response Bytes: 52736
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 21448
-*  Image Response Bytes: 1882
-*  JS Response Bytes: 314320
+*  Image Response Bytes: 1880
+*  JS Response Bytes: 314607
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 558
-
-### Performance issues
-
 
 ### Performance issues
 

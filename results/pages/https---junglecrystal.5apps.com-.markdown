@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://junglecrystal.5apps.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Jungle Crystal](https://junglecrystal.5apps.com/)
 
@@ -29,9 +33,6 @@ title: https://junglecrystal.5apps.com/
 *  JS Response Bytes: 861007
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 726
-
-### Performance issues
-
 
 ### Performance issues
 

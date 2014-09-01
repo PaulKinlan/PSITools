@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.cargames9.co.uk/car-games/play-3d-f1-racing
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D F1 Racing - Play Free 3D F1 Racing Game Now](http://www.cargames9.co.uk/car-games/play-3d-f1-racing)
 
@@ -29,9 +35,6 @@ title: http://www.cargames9.co.uk/car-games/play-3d-f1-racing
 *  JS Response Bytes: 889721
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43483
-
-### Performance issues
-
 
 ### Performance issues
 

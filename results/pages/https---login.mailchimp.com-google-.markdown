@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://login.mailchimp.com/google/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Login | MailChimp - email marketing made easy](https://login.mailchimp.com/google/)
 
@@ -29,9 +32,6 @@ title: https://login.mailchimp.com/google/
 *  JS Response Bytes: 1215257
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

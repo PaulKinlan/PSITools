@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamexcenter.net/formula-racer-2012/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Formula-Racer-2012 | GameXcenter](http://www.gamexcenter.net/formula-racer-2012/)
 
@@ -29,9 +34,6 @@ title: http://www.gamexcenter.net/formula-racer-2012/
 *  JS Response Bytes: 1057640
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 165092
-
-### Performance issues
-
 
 ### Performance issues
 

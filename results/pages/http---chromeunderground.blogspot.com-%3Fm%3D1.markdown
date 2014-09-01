@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromeunderground.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chrome Underground](http://chromeunderground.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromeunderground.blogspot.com/?m=1
 *  JS Response Bytes: 1876728
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110220
-
-### Performance issues
-
 
 ### Performance issues
 

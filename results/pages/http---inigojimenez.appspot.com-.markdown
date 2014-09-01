@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://inigojimenez.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Inigo Jimenez - My Life In 5 Minutes - creative and original CV](http://inigojimenez.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://inigojimenez.appspot.com/
 *  JS Response Bytes: 1454937
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 212737
-
-### Performance issues
-
 
 ### Performance issues
 

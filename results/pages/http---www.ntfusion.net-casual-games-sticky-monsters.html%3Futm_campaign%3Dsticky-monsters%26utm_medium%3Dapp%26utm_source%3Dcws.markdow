@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.ntfusion.net/casual-games/sticky-monsters.html?utm_campaign=sticky-monsters&utm_medium=app&utm_source=cws
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sticky Monsters - NTFusion](http://www.ntfusion.net/casual-games/sticky-monsters.html?utm_campaign=sticky-monsters&utm_medium=app&utm_source=cws)
 
@@ -29,9 +36,6 @@ title: http://www.ntfusion.net/casual-games/sticky-monsters.html?utm_campaign=st
 *  JS Response Bytes: 2468513
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119627
-
-### Performance issues
-
 
 ### Performance issues
 

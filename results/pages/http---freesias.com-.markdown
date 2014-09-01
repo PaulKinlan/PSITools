@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://freesias.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Available to buy, lease or showcase your business - Freesias](http://freesias.com/)
 
@@ -29,9 +35,6 @@ title: http://freesias.com/
 *  JS Response Bytes: 1222446
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2506
-
-### Performance issues
-
 
 ### Performance issues
 

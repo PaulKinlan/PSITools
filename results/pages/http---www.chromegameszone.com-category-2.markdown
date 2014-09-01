@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.chromegameszone.com/category/2
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Birds - Chrome Games Zone](http://www.chromegameszone.com/category/2)
 
@@ -29,9 +32,6 @@ title: http://www.chromegameszone.com/category/2
 *  JS Response Bytes: 649189
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1178
-
-### Performance issues
-
 
 ### Performance issues
 

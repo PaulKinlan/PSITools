@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://game90.net/online-flash-games/angry-gran-run/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Gran Run « Online Flash Games](http://game90.net/online-flash-games/angry-gran-run/)
 
@@ -29,9 +35,6 @@ title: http://game90.net/online-flash-games/angry-gran-run/
 *  JS Response Bytes: 1314535
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2235
-
-### Performance issues
-
 
 ### Performance issues
 

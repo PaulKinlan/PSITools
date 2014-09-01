@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gogirlgamesgo.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Girls go Games and Girl Games More Games For Girls](http://www.gogirlgamesgo.com/)
 
@@ -29,9 +32,6 @@ title: http://www.gogirlgamesgo.com/
 *  JS Response Bytes: 1701243
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118680
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://coachesaid.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Coaches Aid - Leading The Way](http://coachesaid.com/)
 
@@ -29,9 +33,6 @@ title: http://coachesaid.com/
 *  JS Response Bytes: 222153
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

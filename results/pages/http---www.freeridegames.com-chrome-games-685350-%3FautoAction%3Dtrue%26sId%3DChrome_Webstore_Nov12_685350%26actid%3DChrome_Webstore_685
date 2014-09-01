@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/685350/?autoAction=true&sId=Chrome_Webstore_Nov12_685350&actid=Chrome_Webstore_685350
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Ancient Rome for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/685350/?autoAction=true&sId=Chrome_Webstore_Nov12_685350&actid=Chrome_Webstore_685350)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/685350/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1468895
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54663
-
-### Performance issues
-
 
 ### Performance issues
 

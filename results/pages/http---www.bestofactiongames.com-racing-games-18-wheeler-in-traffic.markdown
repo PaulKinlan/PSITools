@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.bestofactiongames.com/racing-games/18-wheeler-in-traffic
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [18 WHEELER IN TRAFFIC - Games - Play Free Online Best of Action Games](http://www.bestofactiongames.com/racing-games/18-wheeler-in-traffic)
 
@@ -29,9 +35,6 @@ title: http://www.bestofactiongames.com/racing-games/18-wheeler-in-traffic
 *  JS Response Bytes: 1712220
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22019
-
-### Performance issues
-
 
 ### Performance issues
 

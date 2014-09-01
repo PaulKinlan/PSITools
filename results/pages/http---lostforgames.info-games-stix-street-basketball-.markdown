@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://lostforgames.info/games/stix-street-basketball/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stix Street Basketball | Lost For Games](http://lostforgames.info/games/stix-street-basketball/)
 
@@ -29,9 +34,6 @@ title: http://lostforgames.info/games/stix-street-basketball/
 *  JS Response Bytes: 519566
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42312
-
-### Performance issues
-
 
 ### Performance issues
 

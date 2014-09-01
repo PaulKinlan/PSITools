@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.popuz.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Popuz](http://www.popuz.com/)
 
@@ -29,9 +32,6 @@ title: http://www.popuz.com/
 *  JS Response Bytes: 1268237
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 107093
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.idmdownloadmaster.com/media-player.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Media Player | İdm Download Master](http://www.idmdownloadmaster.com/media-player.html)
 
@@ -18,20 +21,17 @@ title: http://www.idmdownloadmaster.com/media-player.html
 *  Number of JS Resources: 14
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 26
-*  Total Request Bytes: 4496
+*  Total Request Bytes: 4492
 
 ### Response data
 
-*  HTML Response Bytes: 82229
+*  HTML Response Bytes: 93894
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 34583
-*  Image Response Bytes: 67683
-*  JS Response Bytes: 530612
+*  Image Response Bytes: 67684
+*  JS Response Bytes: 530607
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 82243
-
-### Performance issues
-
 
 ### Performance issues
 

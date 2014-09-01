@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.thewordofthemonth.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Space, the Word of the Month by Gymglish.com | Online English lessons](http://www.thewordofthemonth.com/)
 
@@ -29,9 +33,6 @@ title: http://www.thewordofthemonth.com/
 *  JS Response Bytes: 1538415
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 856
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://game02.cixxxproduction.com/fartingparty/
+ServerResponseTime: true
 ---
 ## [TheCixxx Productions](http://game02.cixxxproduction.com/fartingparty/)
 
@@ -29,9 +30,6 @@ title: http://game02.cixxxproduction.com/fartingparty/
 *  JS Response Bytes: 269238
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 507
-
-### Performance issues
-
 
 ### Performance issues
 

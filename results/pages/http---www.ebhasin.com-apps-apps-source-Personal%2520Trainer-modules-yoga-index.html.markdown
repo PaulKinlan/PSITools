@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ebhasin.com/apps/apps-source/Personal%20Trainer/modules/yoga/index.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Personal Trainer : Yoga : Bhasinsoft](http://www.ebhasin.com/apps/apps-source/Personal%20Trainer/modules/yoga/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.ebhasin.com/apps/apps-source/Personal%20Trainer/modules/yoga/i
 *  JS Response Bytes: 1373425
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110955
-
-### Performance issues
-
 
 ### Performance issues
 

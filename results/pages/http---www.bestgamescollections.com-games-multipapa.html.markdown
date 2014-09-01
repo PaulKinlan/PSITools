@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.bestgamescollections.com/games/multipapa.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Papa's Collection - Best Games Collections](http://www.bestgamescollections.com/games/multipapa.html)
 
@@ -29,9 +34,6 @@ title: http://www.bestgamescollections.com/games/multipapa.html
 *  JS Response Bytes: 1402307
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111438
-
-### Performance issues
-
 
 ### Performance issues
 

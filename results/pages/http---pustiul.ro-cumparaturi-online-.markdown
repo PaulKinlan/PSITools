@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://pustiul.ro/cumparaturi-online/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Cumparaturi Online - Puştiu's blog](http://pustiul.ro/cumparaturi-online/)
 
@@ -29,9 +31,6 @@ title: http://pustiul.ro/cumparaturi-online/
 *  JS Response Bytes: 567499
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 90386
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.likemeimfamous.com/offers.php
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Social Media Tool - Brand Monitoring & Reputation on Facebook](http://www.likemeimfamous.com/offers.php)
 
@@ -29,9 +33,6 @@ title: http://www.likemeimfamous.com/offers.php
 *  JS Response Bytes: 991775
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1098
-
-### Performance issues
-
 
 ### Performance issues
 

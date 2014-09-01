@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.hugedomains.com/domain_profile.cfm?d=showandtalk&e=com
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HugeDomains.com - ShowAndTalk.com is for Sale (Show And Talk)](http://www.hugedomains.com/domain_profile.cfm?d=showandtalk&e=com)
 
@@ -29,9 +32,6 @@ title: http://www.hugedomains.com/domain_profile.cfm?d=showandtalk&e=com
 *  JS Response Bytes: 300756
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 438
-
-### Performance issues
-
 
 ### Performance issues
 

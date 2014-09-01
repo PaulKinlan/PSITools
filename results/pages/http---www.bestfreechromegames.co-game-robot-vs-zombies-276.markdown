@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bestfreechromegames.co/game/robot-vs-zombies-276
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Robot Vs Zombies Game - Best Free Chrome Games](http://www.bestfreechromegames.co/game/robot-vs-zombies-276)
 
@@ -29,9 +33,6 @@ title: http://www.bestfreechromegames.co/game/robot-vs-zombies-276
 *  JS Response Bytes: 621088
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

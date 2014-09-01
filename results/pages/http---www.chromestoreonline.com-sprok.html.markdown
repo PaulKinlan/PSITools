@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.chromestoreonline.com/sprok.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sprok | CHROMESTOREONLİNE](http://www.chromestoreonline.com/sprok.html)
 
@@ -29,9 +34,6 @@ title: http://www.chromestoreonline.com/sprok.html
 *  JS Response Bytes: 890473
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17053
-
-### Performance issues
-
 
 ### Performance issues
 

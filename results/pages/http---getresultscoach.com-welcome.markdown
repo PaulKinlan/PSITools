@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://getresultscoach.com/welcome
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [](http://getresultscoach.com/welcome)
 
@@ -29,9 +32,6 @@ title: http://getresultscoach.com/welcome
 *  JS Response Bytes: 28483
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 395310
-
-### Performance issues
-
 
 ### Performance issues
 

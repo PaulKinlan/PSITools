@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.kikogames.com/deer-hunter.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Deer Hunter | Kiko Games](http://www.kikogames.com/deer-hunter.html)
 
@@ -29,9 +37,6 @@ title: http://www.kikogames.com/deer-hunter.html
 *  JS Response Bytes: 1529809
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98546
-
-### Performance issues
-
 
 ### Performance issues
 

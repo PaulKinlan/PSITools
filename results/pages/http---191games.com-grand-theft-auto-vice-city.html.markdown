@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://191games.com/grand-theft-auto-vice-city.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404 - PAGE NOT FOUND](http://191games.com/grand-theft-auto-vice-city.html)
 
@@ -29,9 +34,6 @@ title: http://191games.com/grand-theft-auto-vice-city.html
 *  JS Response Bytes: 271851
 *  Flash Response Bytes: 43671
 *  Other Response Bytes: 13047
-
-### Performance issues
-
 
 ### Performance issues
 

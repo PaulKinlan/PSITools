@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://konkani.co/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Konkani Songs,Download Konkani songs,Goan Konkani songs,Mangalorean Konkani Songs](http://konkani.co/)
 
@@ -29,9 +33,6 @@ title: http://konkani.co/
 *  JS Response Bytes: 1407342
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2600
-
-### Performance issues
-
 
 ### Performance issues
 

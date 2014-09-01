@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://geek.coolstreaming.us/geektv/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Geek Tv Italia | Geek Blog e Web 2.0 Software, News dal web powered by Bismark.it](http://geek.coolstreaming.us/geektv/)
 
@@ -29,9 +33,6 @@ title: http://geek.coolstreaming.us/geektv/
 *  JS Response Bytes: 2591276
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 402668
-
-### Performance issues
-
 
 ### Performance issues
 

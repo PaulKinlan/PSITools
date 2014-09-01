@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://foldthatstory.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Fold That Story](http://foldthatstory.com/)
 
@@ -29,9 +30,6 @@ title: http://foldthatstory.com/
 *  JS Response Bytes: 1252491
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 874
-
-### Performance issues
-
 
 ### Performance issues
 

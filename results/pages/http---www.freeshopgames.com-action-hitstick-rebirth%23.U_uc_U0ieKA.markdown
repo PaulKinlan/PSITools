@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeshopgames.com/action/hitstick-rebirth#.U_uc_U0ieKA
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hitstick Rebirth - Free Shop Games](http://www.freeshopgames.com/action/hitstick-rebirth#.U_uc_U0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.freeshopgames.com/action/hitstick-rebirth#.U_uc_U0ieKA
 *  JS Response Bytes: 1483190
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31936
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.wishplz.com/email-instructions
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [WishPlz lets you shop for stuff you love and get alerts when the price drops](http://www.wishplz.com/email-instructions)
 
@@ -29,9 +31,6 @@ title: http://www.wishplz.com/email-instructions
 *  JS Response Bytes: 679876
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46627
-
-### Performance issues
-
 
 ### Performance issues
 

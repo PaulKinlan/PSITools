@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.formstack.com/admin/user/login?redirect=/account/dashboard
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Formstack](https://www.formstack.com/admin/user/login?redirect=/account/dashboard)
 
@@ -29,9 +34,6 @@ title: https://www.formstack.com/admin/user/login?redirect=/account/dashboard
 *  JS Response Bytes: 1098216
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18281
-
-### Performance issues
-
 
 ### Performance issues
 

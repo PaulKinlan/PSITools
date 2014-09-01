@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://seartwi.com/call_from_chrome_extension
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Seartwi - Twitter Search Analysis](http://seartwi.com/call_from_chrome_extension)
 
@@ -29,9 +32,6 @@ title: http://seartwi.com/call_from_chrome_extension
 *  JS Response Bytes: 1430445
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110297
-
-### Performance issues
-
 
 ### Performance issues
 

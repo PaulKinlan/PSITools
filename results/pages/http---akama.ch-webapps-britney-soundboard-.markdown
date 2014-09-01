@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://akama.ch/webapps/britney-soundboard/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [britney spears soundboard ios html5](http://akama.ch/webapps/britney-soundboard/)
 
@@ -29,9 +32,6 @@ title: http://akama.ch/webapps/britney-soundboard/
 *  JS Response Bytes: 551371
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14444
-
-### Performance issues
-
 
 ### Performance issues
 

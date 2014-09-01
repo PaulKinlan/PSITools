@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://promoterr.com/90s/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [90s Music Videos Delivered Daily](http://promoterr.com/90s/)
 
@@ -29,9 +31,6 @@ title: http://promoterr.com/90s/
 *  JS Response Bytes: 1106920
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

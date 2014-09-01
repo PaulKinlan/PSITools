@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/jump-n-grind-remix-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jump-N-Grind Remix game](http://www.skateboarding-games.biz/jump-n-grind-remix-2/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/jump-n-grind-remix-2/
 *  JS Response Bytes: 2123779
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120873
-
-### Performance issues
-
 
 ### Performance issues
 

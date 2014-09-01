@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.pdfpocket.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PDF to EPUB Converter | PdfPocket](http://www.pdfpocket.com/)
 
@@ -29,9 +34,6 @@ title: http://www.pdfpocket.com/
 *  JS Response Bytes: 1627269
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 211259
-
-### Performance issues
-
 
 ### Performance issues
 

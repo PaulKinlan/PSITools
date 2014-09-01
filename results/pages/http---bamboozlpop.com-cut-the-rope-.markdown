@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://bamboozlpop.com/cut-the-rope/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cut The Rope](http://bamboozlpop.com/cut-the-rope/)
 
@@ -29,9 +35,6 @@ title: http://bamboozlpop.com/cut-the-rope/
 *  JS Response Bytes: 1860100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110937
-
-### Performance issues
-
 
 ### Performance issues
 

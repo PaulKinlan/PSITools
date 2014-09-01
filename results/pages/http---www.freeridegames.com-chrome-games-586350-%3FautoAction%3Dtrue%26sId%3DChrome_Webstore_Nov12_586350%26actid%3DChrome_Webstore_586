@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/586350/?autoAction=true&sId=Chrome_Webstore_Nov12_586350&actid=Chrome_Webstore_586350
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download 7 Wonders II for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/586350/?autoAction=true&sId=Chrome_Webstore_Nov12_586350&actid=Chrome_Webstore_586350)
 
@@ -29,9 +34,6 @@ title: http://www.freeridegames.com/chrome/games/586350/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1673038
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34520
-
-### Performance issues
-
 
 ### Performance issues
 

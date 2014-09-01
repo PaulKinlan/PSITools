@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.sendwithus.com/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [sendwithus](https://www.sendwithus.com/login)
 
@@ -29,9 +33,6 @@ title: https://www.sendwithus.com/login
 *  JS Response Bytes: 1308345
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58476
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.flashgirlgames.us/play_game/281/talking-angela-dressup.html#.U_eEtk0ieKB
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Talking Angela Dressup - Flash Game For Girl](http://www.flashgirlgames.us/play_game/281/talking-angela-dressup.html#.U_eEtk0ieKB)
 
@@ -29,9 +36,6 @@ title: http://www.flashgirlgames.us/play_game/281/talking-angela-dressup.html#.U
 *  JS Response Bytes: 1507410
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29263
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.easychalk.eu/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.easychalk.eu/)
 
@@ -29,9 +33,6 @@ title: http://www.easychalk.eu/
 *  JS Response Bytes: 1153880
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

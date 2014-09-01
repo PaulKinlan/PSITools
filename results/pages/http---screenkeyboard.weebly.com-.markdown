@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://screenkeyboard.weebly.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Screen Keyboard - Home](http://screenkeyboard.weebly.com/)
 
@@ -29,9 +31,6 @@ title: http://screenkeyboard.weebly.com/
 *  JS Response Bytes: 398718
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 299981
-
-### Performance issues
-
 
 ### Performance issues
 

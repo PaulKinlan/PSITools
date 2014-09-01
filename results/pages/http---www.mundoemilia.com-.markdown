@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mundoemilia.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mundo Emilia - Poesía Infantil](http://www.mundoemilia.com/)
 
@@ -29,9 +33,6 @@ title: http://www.mundoemilia.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

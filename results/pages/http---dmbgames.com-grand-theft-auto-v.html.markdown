@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://dmbgames.com/grand-theft-auto-v.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DMBGames.Com – Grand Theft Auto V](http://dmbgames.com/grand-theft-auto-v.html)
 
@@ -29,9 +36,6 @@ title: http://dmbgames.com/grand-theft-auto-v.html
 *  JS Response Bytes: 475882
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3967
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://angrychromebirds.blogspot.com/2013/06/angry-birds-mega-memory.html?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://angrychromebirds.blogspot.com/2013/06/angry-birds-mega-memory.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://angrychromebirds.blogspot.com/2013/06/angry-birds-mega-memory.html
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18849
-
-### Performance issues
-
 
 ### Performance issues
 

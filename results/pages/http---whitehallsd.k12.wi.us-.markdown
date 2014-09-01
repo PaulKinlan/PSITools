@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://whitehallsd.k12.wi.us/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Whitehall School District](http://whitehallsd.k12.wi.us/)
 
@@ -29,9 +34,6 @@ title: http://whitehallsd.k12.wi.us/
 *  JS Response Bytes: 1177592
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55097
-
-### Performance issues
-
 
 ### Performance issues
 

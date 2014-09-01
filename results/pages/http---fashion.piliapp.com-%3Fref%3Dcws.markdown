@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://fashion.piliapp.com/?ref=cws
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [美妝邦 - ❤ 女人愛的那些事 ❤](http://fashion.piliapp.com/?ref=cws)
 
@@ -29,9 +32,6 @@ title: http://fashion.piliapp.com/?ref=cws
 *  JS Response Bytes: 531721
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

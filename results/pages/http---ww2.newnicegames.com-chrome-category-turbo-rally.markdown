@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.newnicegames.com/chrome-category/turbo-rally
+SizeTapTargetsAppropriately: true
 ---
 ## [newnicegames.com](http://ww2.newnicegames.com/chrome-category/turbo-rally)
 
@@ -29,9 +30,6 @@ title: http://ww2.newnicegames.com/chrome-category/turbo-rally
 *  JS Response Bytes: 229838
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21076
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://apps.facebook.com/thunderrun/?spin_campaign=7113_spinpunch_dot_com_thunderrun
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Thunder Run: War of Clans on Facebook](https://apps.facebook.com/thunderrun/?spin_campaign=7113_spinpunch_dot_com_thunderrun)
 
@@ -29,9 +34,6 @@ title: https://apps.facebook.com/thunderrun/?spin_campaign=7113_spinpunch_dot_co
 *  JS Response Bytes: 786137
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1218
-
-### Performance issues
-
 
 ### Performance issues
 

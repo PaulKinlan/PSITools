@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.webcari.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WebCARİ Muhasebe Sistemi](http://www.webcari.com/)
 
@@ -29,9 +35,6 @@ title: http://www.webcari.com/
 *  JS Response Bytes: 82386
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

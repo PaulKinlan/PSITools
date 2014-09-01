@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.swingdancegenova.net/mobile/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Swing Dance Genova - Mobile](http://www.swingdancegenova.net/mobile/)
 
@@ -29,9 +35,6 @@ title: http://www.swingdancegenova.net/mobile/
 *  JS Response Bytes: 182530
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8666
-
-### Performance issues
-
 
 ### Performance issues
 

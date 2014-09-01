@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gimboz.com/arcade/shooter/alien-attack-team/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gimboz.com](http://www.gimboz.com/arcade/shooter/alien-attack-team/)
 
@@ -29,9 +32,6 @@ title: http://www.gimboz.com/arcade/shooter/alien-attack-team/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

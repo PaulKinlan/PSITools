@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.publicintegrity.org/environment/natural-resources/looting-seas/looting-seas-i
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Looting the Seas I | Center for Public Integrity](http://www.publicintegrity.org/environment/natural-resources/looting-seas/looting-seas-i)
 
@@ -29,9 +31,6 @@ title: http://www.publicintegrity.org/environment/natural-resources/looting-seas
 *  JS Response Bytes: 513925
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2986
-
-### Performance issues
-
 
 ### Performance issues
 

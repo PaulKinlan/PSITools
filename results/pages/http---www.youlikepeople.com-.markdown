@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.youlikepeople.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [YouLike - Who do you like?](http://www.youlikepeople.com/)
 
@@ -29,9 +34,6 @@ title: http://www.youlikepeople.com/
 *  JS Response Bytes: 435072
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1868
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://flip-upsidedown-text.1bestlink.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Upside Down Text, Flip Text Converter](http://flip-upsidedown-text.1bestlink.net/)
 
@@ -29,9 +33,6 @@ title: http://flip-upsidedown-text.1bestlink.net/
 *  JS Response Bytes: 616293
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

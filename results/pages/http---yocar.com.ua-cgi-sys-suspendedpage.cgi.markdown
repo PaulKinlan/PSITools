@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://yocar.com.ua/cgi-sys/suspendedpage.cgi
+UseLegibleFontSizes: true
 ---
 ## [Account Suspended](http://yocar.com.ua/cgi-sys/suspendedpage.cgi)
 
@@ -29,9 +30,6 @@ title: http://yocar.com.ua/cgi-sys/suspendedpage.cgi
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 455
-
-### Performance issues
-
 
 ### Performance issues
 

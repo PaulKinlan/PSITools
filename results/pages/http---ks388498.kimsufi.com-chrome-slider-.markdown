@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ks388498.kimsufi.com/chrome/slider/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Pyramid Jewel](http://ks388498.kimsufi.com/chrome/slider/)
 
@@ -29,9 +31,6 @@ title: http://ks388498.kimsufi.com/chrome/slider/
 *  JS Response Bytes: 809114
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15989
-
-### Performance issues
-
 
 ### Performance issues
 

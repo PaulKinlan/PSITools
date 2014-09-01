@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ardmediathek.de/tv
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Videos und TV-Livestreams in der Übersicht | ARD Mediathek](http://www.ardmediathek.de/tv)
 
@@ -29,9 +34,6 @@ title: http://www.ardmediathek.de/tv
 *  JS Response Bytes: 821217
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1658
-
-### Performance issues
-
 
 ### Performance issues
 

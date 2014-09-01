@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://inresu.me/?login&oauth_provider=facebook
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [inresu.me](http://inresu.me/?login&oauth_provider=facebook)
 
@@ -29,9 +33,6 @@ title: http://inresu.me/?login&oauth_provider=facebook
 *  JS Response Bytes: 209185
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

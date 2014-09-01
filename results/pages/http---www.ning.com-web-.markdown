@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ning.com/web/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Page Not Found | Ning.com](http://www.ning.com/web/)
 
@@ -29,9 +33,6 @@ title: http://www.ning.com/web/
 *  JS Response Bytes: 368871
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16515
-
-### Performance issues
-
 
 ### Performance issues
 

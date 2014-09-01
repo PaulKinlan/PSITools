@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.gisapitalia.it/drupal/
+UseLegibleFontSizes: true
 ---
 ## [403 Forbidden](http://www.gisapitalia.it/drupal/)
 
@@ -29,9 +30,6 @@ title: http://www.gisapitalia.it/drupal/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 393
-
-### Performance issues
-
 
 ### Performance issues
 

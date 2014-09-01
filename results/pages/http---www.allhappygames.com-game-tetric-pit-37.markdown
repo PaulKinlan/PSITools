@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.allhappygames.com/game/tetric-pit-37
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tetric Pit Game - All Happy Games](http://www.allhappygames.com/game/tetric-pit-37)
 
@@ -29,9 +33,6 @@ title: http://www.allhappygames.com/game/tetric-pit-37
 *  JS Response Bytes: 646084
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

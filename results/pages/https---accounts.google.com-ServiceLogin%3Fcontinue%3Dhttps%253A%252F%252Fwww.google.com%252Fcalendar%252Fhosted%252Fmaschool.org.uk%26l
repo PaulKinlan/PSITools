@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fwww.google.com%2Fcalendar%2Fhosted%2Fmaschool.org.uk&ltmpl=mobileh&btmpl=mobile&service=cl&sacu=1&hd=maschool.org.uk
+AvoidLandingPageRedirects: true
 ---
 ## [Google Calendar](https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fwww.google.com%2Fcalendar%2Fhosted%2Fmaschool.org.uk&ltmpl=mobileh&btmpl=mobile&service=cl&sacu=1&hd=maschool.org.uk)
 
@@ -29,9 +30,6 @@ title: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fwww.googl
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52991
-
-### Performance issues
-
 
 ### Performance issues
 

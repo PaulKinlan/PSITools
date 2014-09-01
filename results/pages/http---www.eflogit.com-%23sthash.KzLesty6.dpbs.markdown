@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.eflogit.com/#sthash.KzLesty6.dpbs
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [eFlogIt - Classified Adverts for East Anglia](http://www.eflogit.com/#sthash.KzLesty6.dpbs)
 
@@ -29,9 +33,6 @@ title: http://www.eflogit.com/#sthash.KzLesty6.dpbs
 *  JS Response Bytes: 1188184
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3238
-
-### Performance issues
-
 
 ### Performance issues
 

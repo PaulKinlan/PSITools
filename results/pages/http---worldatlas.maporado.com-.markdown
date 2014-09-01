@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://worldatlas.maporado.com/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://worldatlas.maporado.com/)
 
@@ -29,9 +30,6 @@ title: http://worldatlas.maporado.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 391
-
-### Performance issues
-
 
 ### Performance issues
 

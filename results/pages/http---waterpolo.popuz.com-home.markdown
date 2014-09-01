@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://waterpolo.popuz.com/home
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fantasy Waterpolo](http://waterpolo.popuz.com/home)
 
@@ -29,9 +34,6 @@ title: http://waterpolo.popuz.com/home
 *  JS Response Bytes: 897205
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11294
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://appsplus1.woolworths.com.au/vpn/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Citrix Access Gateway](https://appsplus1.woolworths.com.au/vpn/index.html)
 
@@ -29,9 +34,6 @@ title: https://appsplus1.woolworths.com.au/vpn/index.html
 *  JS Response Bytes: 36504
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 683
-
-### Performance issues
-
 
 ### Performance issues
 

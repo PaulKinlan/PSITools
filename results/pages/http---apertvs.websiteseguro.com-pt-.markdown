@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://apertvs.websiteseguro.com/pt/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [!nfocalize bhuks](http://apertvs.websiteseguro.com/pt/)
 
@@ -29,9 +32,6 @@ title: http://apertvs.websiteseguro.com/pt/
 *  JS Response Bytes: 1311253
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1030
-
-### Performance issues
-
 
 ### Performance issues
 

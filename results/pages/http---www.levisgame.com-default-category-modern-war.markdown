@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.levisgame.com/default-category/modern-war
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Modern War - LeViSGaMe](http://www.levisgame.com/default-category/modern-war)
 
@@ -29,9 +34,6 @@ title: http://www.levisgame.com/default-category/modern-war
 *  JS Response Bytes: 2128524
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118864
-
-### Performance issues
-
 
 ### Performance issues
 

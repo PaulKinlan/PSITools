@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.soupcanchat.com/
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [soupcanchat.com: The Leading Soup Can Chat Site on the Net](http://www.soupcanchat.com/)
 
@@ -29,9 +32,6 @@ title: http://www.soupcanchat.com/
 *  JS Response Bytes: 88145
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://watchshakeitup.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shake It Up](http://watchshakeitup.blogspot.com/?m=1)
 
@@ -29,9 +33,6 @@ title: http://watchshakeitup.blogspot.com/?m=1
 *  JS Response Bytes: 1394173
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103933
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.royalgame99.com/default-category/engage
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ENGAGE - Royalgame99](http://www.royalgame99.com/default-category/engage)
 
@@ -29,9 +34,6 @@ title: http://www.royalgame99.com/default-category/engage
 *  JS Response Bytes: 673190
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

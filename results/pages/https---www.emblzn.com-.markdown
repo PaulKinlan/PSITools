@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.emblzn.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Emblzn | Design your own beautiful, made to order products](https://www.emblzn.com/)
 
@@ -29,9 +33,6 @@ title: https://www.emblzn.com/
 *  JS Response Bytes: 592761
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 79550
-
-### Performance issues
-
 
 ### Performance issues
 

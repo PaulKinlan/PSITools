@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.cargaygana.com/mobile/index.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Cargar saldo en mi celular · CargayGana.com](https://www.cargaygana.com/mobile/index.php)
 
@@ -29,9 +31,6 @@ title: https://www.cargaygana.com/mobile/index.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 64
-
-### Performance issues
-
 
 ### Performance issues
 

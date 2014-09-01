@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://fab.pe/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [»](http://fab.pe/)
 
@@ -29,9 +33,6 @@ title: http://fab.pe/
 *  JS Response Bytes: 1530324
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45550
-
-### Performance issues
-
 
 ### Performance issues
 

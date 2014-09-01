@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://ancienttowermahjong.fungadgets.info/ancienttowermahjong.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ancient Tower Mahjong](http://ancienttowermahjong.fungadgets.info/ancienttowermahjong.htm)
 
@@ -29,9 +34,6 @@ title: http://ancienttowermahjong.fungadgets.info/ancienttowermahjong.htm
 *  JS Response Bytes: 703909
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96385
-
-### Performance issues
-
 
 ### Performance issues
 

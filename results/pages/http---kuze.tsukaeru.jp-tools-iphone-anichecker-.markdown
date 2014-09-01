@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://kuze.tsukaeru.jp/tools/iphone/anichecker/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [東京都にて放送中のアニメ一覧](http://kuze.tsukaeru.jp/tools/iphone/anichecker/)
 
@@ -29,9 +32,6 @@ title: http://kuze.tsukaeru.jp/tools/iphone/anichecker/
 *  JS Response Bytes: 304864
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 548
-
-### Performance issues
-
 
 ### Performance issues
 

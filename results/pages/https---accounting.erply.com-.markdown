@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://accounting.erply.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ERPLY accounting](https://accounting.erply.com/)
 
@@ -29,9 +34,6 @@ title: https://accounting.erply.com/
 *  JS Response Bytes: 41998
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 192
-
-### Performance issues
-
 
 ### Performance issues
 

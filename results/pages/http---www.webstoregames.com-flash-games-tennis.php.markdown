@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.webstoregames.com/flash-games/tennis.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Classic Tennis - Free Games Online, Free Online Games, Flash Games!](http://www.webstoregames.com/flash-games/tennis.php)
 
@@ -29,9 +35,6 @@ title: http://www.webstoregames.com/flash-games/tennis.php
 *  JS Response Bytes: 1329870
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104003
-
-### Performance issues
-
 
 ### Performance issues
 

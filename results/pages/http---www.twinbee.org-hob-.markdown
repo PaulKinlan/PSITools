@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.twinbee.org/hob/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Java Spectrum Emulator - Hob](http://www.twinbee.org/hob/)
 
@@ -29,9 +33,6 @@ title: http://www.twinbee.org/hob/
 *  JS Response Bytes: 743528
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95532
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bestfreechromegames.co/game/monster-truck-adventure-3d-426
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Monster Truck Adventure 3D Game - Best Free Chrome Games](http://www.bestfreechromegames.co/game/monster-truck-adventure-3d-426)
 
@@ -29,9 +33,6 @@ title: http://www.bestfreechromegames.co/game/monster-truck-adventure-3d-426
 *  JS Response Bytes: 620526
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14677
-
-### Performance issues
-
 
 ### Performance issues
 

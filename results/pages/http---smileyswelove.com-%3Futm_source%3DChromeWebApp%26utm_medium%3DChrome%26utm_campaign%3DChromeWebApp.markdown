@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://smileyswelove.com/?utm_source=ChromeWebApp&utm_medium=Chrome&utm_campaign=ChromeWebApp
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Smileys & Emoticons](http://smileyswelove.com/?utm_source=ChromeWebApp&utm_medium=Chrome&utm_campaign=ChromeWebApp)
 
@@ -29,9 +36,6 @@ title: http://smileyswelove.com/?utm_source=ChromeWebApp&utm_medium=Chrome&utm_c
 *  JS Response Bytes: 2183789
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 321059
-
-### Performance issues
-
 
 ### Performance issues
 

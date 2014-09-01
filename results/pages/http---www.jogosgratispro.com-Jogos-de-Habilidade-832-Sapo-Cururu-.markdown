@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.jogosgratispro.com/Jogos-de-Habilidade/832/Sapo-Cururu/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sapo Cururu - Jogos Gratis Pro](http://www.jogosgratispro.com/Jogos-de-Habilidade/832/Sapo-Cururu/)
 
@@ -29,9 +36,6 @@ title: http://www.jogosgratispro.com/Jogos-de-Habilidade/832/Sapo-Cururu/
 *  JS Response Bytes: 2084194
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98516
-
-### Performance issues
-
 
 ### Performance issues
 

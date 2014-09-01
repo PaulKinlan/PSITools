@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.johnrouda.com/google/apps/binaryclock/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Binary Clock](http://www.johnrouda.com/google/apps/binaryclock/)
 
@@ -29,9 +31,6 @@ title: http://www.johnrouda.com/google/apps/binaryclock/
 *  JS Response Bytes: 429732
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

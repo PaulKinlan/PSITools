@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://twtqpon.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [TwtQpon | Social Coupon Platform](http://twtqpon.com/)
 
@@ -29,9 +33,6 @@ title: http://twtqpon.com/
 *  JS Response Bytes: 158437
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12778
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.indeed.co.uk/m/?r=us
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Indeed Mobile](http://www.indeed.co.uk/m/?r=us)
 
@@ -29,9 +31,6 @@ title: http://www.indeed.co.uk/m/?r=us
 *  JS Response Bytes: 176477
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2000
-
-### Performance issues
-
 
 ### Performance issues
 

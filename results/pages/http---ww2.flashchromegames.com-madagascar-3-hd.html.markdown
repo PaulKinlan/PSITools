@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.flashchromegames.com/madagascar-3-hd.html
+SizeTapTargetsAppropriately: true
 ---
 ## [flashchromegames.com](http://ww2.flashchromegames.com/madagascar-3-hd.html)
 
@@ -29,9 +30,6 @@ title: http://ww2.flashchromegames.com/madagascar-3-hd.html
 *  JS Response Bytes: 229919
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21049
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://lostforgames.com/games/power-rangers-dino-thunder/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Power Rangers Dino Thunder | Lost For Games](http://lostforgames.com/games/power-rangers-dino-thunder/)
 
@@ -29,9 +34,6 @@ title: http://lostforgames.com/games/power-rangers-dino-thunder/
 *  JS Response Bytes: 519579
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42313
-
-### Performance issues
-
 
 ### Performance issues
 

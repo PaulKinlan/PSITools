@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sporestory.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SporeStory - Write a interactive short story.](http://www.sporestory.com/)
 
@@ -29,9 +34,6 @@ title: http://www.sporestory.com/
 *  JS Response Bytes: 1582898
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3545
-
-### Performance issues
-
 
 ### Performance issues
 

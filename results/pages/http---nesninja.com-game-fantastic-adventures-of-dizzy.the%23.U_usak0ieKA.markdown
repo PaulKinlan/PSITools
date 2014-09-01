@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://nesninja.com/game/fantastic-adventures-of-dizzy.the#.U_usak0ieKA
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Fantastic Adventures of Dizzy, The » NES Ninja](http://nesninja.com/game/fantastic-adventures-of-dizzy.the#.U_usak0ieKA)
 
@@ -29,9 +32,6 @@ title: http://nesninja.com/game/fantastic-adventures-of-dizzy.the#.U_usak0ieKA
 *  JS Response Bytes: 2388577
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 181900
-
-### Performance issues
-
 
 ### Performance issues
 

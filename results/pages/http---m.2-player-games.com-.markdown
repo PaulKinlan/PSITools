@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.2-player-games.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [2 Player Game Apps](http://m.2-player-games.com/)
 
@@ -18,7 +21,7 @@ title: http://m.2-player-games.com/
 *  Number of JS Resources: 14
 *  Number of CSS Resources: 9
 *  Nubmer of Static Resources: 26
-*  Total Request Bytes: 4840
+*  Total Request Bytes: 4857
 
 ### Response data
 
@@ -26,12 +29,9 @@ title: http://m.2-player-games.com/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 119812
 *  Image Response Bytes: 1634902
-*  JS Response Bytes: 180364
+*  JS Response Bytes: 180365
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 321077
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://fdabek.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+UseLegibleFontSizes: true
 ---
 ## [Frank Dabek](http://fdabek.com/)
 
@@ -29,9 +33,6 @@ title: http://fdabek.com/
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

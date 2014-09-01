@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.kekness.nl/shuffle/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [+SHUFFLE](http://www.kekness.nl/shuffle/)
 
@@ -29,9 +32,6 @@ title: http://www.kekness.nl/shuffle/
 *  JS Response Bytes: 1444957
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 72762
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.finechromegames.com/play/247/school-bus-parking-3d.html#.U_2L8E0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [School Bus Parking 3D - finechromegames](http://www.finechromegames.com/play/247/school-bus-parking-3d.html#.U_2L8E0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.finechromegames.com/play/247/school-bus-parking-3d.html#.U_2L8
 *  JS Response Bytes: 1757623
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48503
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.gpsies.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [GPSies mobile | GPS, Tracks, Strecken, Touren, Konverter](http://m.gpsies.com/)
 
@@ -29,9 +31,6 @@ title: http://m.gpsies.com/
 *  JS Response Bytes: 780284
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41
-
-### Performance issues
-
 
 ### Performance issues
 

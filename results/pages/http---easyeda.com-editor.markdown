@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://easyeda.com/editor
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [EasyEDA - Web-Based EDA, schematic capture, spice circuit simulation and PCB layout Online](http://easyeda.com/editor)
 
@@ -29,9 +32,6 @@ title: http://easyeda.com/editor
 *  JS Response Bytes: 2013462
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

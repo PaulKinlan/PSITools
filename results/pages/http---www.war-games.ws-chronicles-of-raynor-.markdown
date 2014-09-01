@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/chronicles-of-raynor/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chronicles of Raynor](http://www.war-games.ws/chronicles-of-raynor/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/chronicles-of-raynor/
 *  JS Response Bytes: 2292887
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121658
-
-### Performance issues
-
 
 ### Performance issues
 

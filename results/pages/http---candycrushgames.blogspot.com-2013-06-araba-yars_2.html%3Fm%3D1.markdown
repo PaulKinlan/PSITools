@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://candycrushgames.blogspot.com/2013/06/araba-yars_2.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ty is awsome](http://candycrushgames.blogspot.com/2013/06/araba-yars_2.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://candycrushgames.blogspot.com/2013/06/araba-yars_2.html?m=1
 *  JS Response Bytes: 788564
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331055
-
-### Performance issues
-
 
 ### Performance issues
 

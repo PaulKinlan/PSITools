@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://kraken.x-labz.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [kraken](http://kraken.x-labz.net/)
 
@@ -29,9 +32,6 @@ title: http://kraken.x-labz.net/
 *  JS Response Bytes: 179665
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

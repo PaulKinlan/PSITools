@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://keepersecurity.com/vault/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Keeper - Password vault and online file storage](https://keepersecurity.com/vault/)
 
@@ -29,9 +32,6 @@ title: https://keepersecurity.com/vault/
 *  JS Response Bytes: 874611
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

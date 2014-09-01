@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/fighting/khronos
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Khronos - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/fighting/khronos)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/fighting/khronos
 *  JS Response Bytes: 2066140
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 157710
-
-### Performance issues
-
 
 ### Performance issues
 

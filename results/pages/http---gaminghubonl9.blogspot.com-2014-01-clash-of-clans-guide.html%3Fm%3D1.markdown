@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gaminghubonl9.blogspot.com/2014/01/clash-of-clans-guide.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://gaminghubonl9.blogspot.com/2014/01/clash-of-clans-guide.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://gaminghubonl9.blogspot.com/2014/01/clash-of-clans-guide.html?m=1
 *  JS Response Bytes: 41101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19293
-
-### Performance issues
-
 
 ### Performance issues
 

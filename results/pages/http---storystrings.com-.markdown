@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://storystrings.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CDbException](http://storystrings.com/)
 
@@ -29,9 +32,6 @@ title: http://storystrings.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32130
-
-### Performance issues
-
 
 ### Performance issues
 

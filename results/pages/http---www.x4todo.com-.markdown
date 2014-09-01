@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.x4todo.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Freelance tools | X4ToDo](http://www.x4todo.com/)
 
@@ -29,9 +32,6 @@ title: http://www.x4todo.com/
 *  JS Response Bytes: 273995
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://playgame88.blogspot.com/2013/10/bejeweled.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Online play game: Bejeweled](http://playgame88.blogspot.com/2013/10/bejeweled.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://playgame88.blogspot.com/2013/10/bejeweled.html?m=1
 *  JS Response Bytes: 720858
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95572
-
-### Performance issues
-
 
 ### Performance issues
 

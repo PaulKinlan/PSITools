@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.jogosdecirurgia.co/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jogos de Cirurgia](http://www.jogosdecirurgia.co/)
 
@@ -29,9 +34,6 @@ title: http://www.jogosdecirurgia.co/
 *  JS Response Bytes: 1870703
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98077
-
-### Performance issues
-
 
 ### Performance issues
 

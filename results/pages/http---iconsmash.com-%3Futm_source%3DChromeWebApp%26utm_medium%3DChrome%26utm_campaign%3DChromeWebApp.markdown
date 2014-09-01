@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://iconsmash.com/?utm_source=ChromeWebApp&utm_medium=Chrome&utm_campaign=ChromeWebApp
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Icons | Download Icon | IconSmash](http://iconsmash.com/?utm_source=ChromeWebApp&utm_medium=Chrome&utm_campaign=ChromeWebApp)
 
@@ -29,9 +35,6 @@ title: http://iconsmash.com/?utm_source=ChromeWebApp&utm_medium=Chrome&utm_campa
 *  JS Response Bytes: 1191152
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2931
-
-### Performance issues
-
 
 ### Performance issues
 

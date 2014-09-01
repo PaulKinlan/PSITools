@@ -33,8 +33,5 @@ title: http://www.playtopgames12.com/game.php?id=10
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

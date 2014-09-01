@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://service-app.weinor.de/versions/v_1_4_3/de/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
 ---
 ## [weinor Service](http://service-app.weinor.de/versions/v_1_4_3/de/)
 
@@ -29,9 +33,6 @@ title: http://service-app.weinor.de/versions/v_1_4_3/de/
 *  JS Response Bytes: 435792
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1063
-
-### Performance issues
-
 
 ### Performance issues
 

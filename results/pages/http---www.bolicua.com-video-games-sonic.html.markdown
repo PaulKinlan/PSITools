@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bolicua.com/video-games/sonic.html
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ultimate Flash Sonic Video Games](http://www.bolicua.com/video-games/sonic.html)
 
@@ -29,9 +33,6 @@ title: http://www.bolicua.com/video-games/sonic.html
 *  JS Response Bytes: 926112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1937
-
-### Performance issues
-
 
 ### Performance issues
 

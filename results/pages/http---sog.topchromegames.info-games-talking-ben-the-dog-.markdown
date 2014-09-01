@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://sog.topchromegames.info/games/talking-ben-the-dog/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Talking Ben The Dog Game — Sultans of Game](http://sog.topchromegames.info/games/talking-ben-the-dog/)
 
@@ -29,9 +34,6 @@ title: http://sog.topchromegames.info/games/talking-ben-the-dog/
 *  JS Response Bytes: 1673955
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 135289
-
-### Performance issues
-
 
 ### Performance issues
 

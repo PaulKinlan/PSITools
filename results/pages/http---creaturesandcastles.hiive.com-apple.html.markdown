@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://creaturesandcastles.hiive.com/apple.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [Creatures & Castles : iPod Touch, iPad, iPhone](http://creaturesandcastles.hiive.com/apple.html)
 
@@ -29,9 +31,6 @@ title: http://creaturesandcastles.hiive.com/apple.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32059
-
-### Performance issues
-
 
 ### Performance issues
 

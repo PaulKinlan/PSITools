@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://rubiworks.com/es/spin-road/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [No se encontró la página | RubiWorks](http://rubiworks.com/es/spin-road/)
 
@@ -29,9 +33,6 @@ title: http://rubiworks.com/es/spin-road/
 *  JS Response Bytes: 211662
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

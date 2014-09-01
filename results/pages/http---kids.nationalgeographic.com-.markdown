@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://kids.nationalgeographic.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Kids' Games, Animals, Photos, Stories, and More -- National Geographic Kids](http://kids.nationalgeographic.com/)
 
@@ -29,9 +34,6 @@ title: http://kids.nationalgeographic.com/
 *  JS Response Bytes: 2464822
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1533
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://operation7mmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Operation 7](http://operation7mmo.appspot.com/)
 
@@ -29,9 +35,6 @@ title: http://operation7mmo.appspot.com/
 *  JS Response Bytes: 1111133
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 37759
-
-### Performance issues
-
 
 ### Performance issues
 

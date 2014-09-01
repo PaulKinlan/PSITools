@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.hit250.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Hit250.com](http://www.hit250.com/)
 
@@ -29,9 +31,6 @@ title: http://www.hit250.com/
 *  JS Response Bytes: 9100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.latestgamesfree.com/action/-motocross-nitro-3d
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Motocross Nitro 3D - Latest Games Free](http://www.latestgamesfree.com/action/-motocross-nitro-3d)
 
@@ -29,9 +34,6 @@ title: http://www.latestgamesfree.com/action/-motocross-nitro-3d
 *  JS Response Bytes: 3223089
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 142630
-
-### Performance issues
-
 
 ### Performance issues
 

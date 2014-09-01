@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://redtomatogames.com/chrome/block_move/block_move.htm
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Block Move - This online game is so addictive -](http://redtomatogames.com/chrome/block_move/block_move.htm)
 
@@ -29,9 +36,6 @@ title: http://redtomatogames.com/chrome/block_move/block_move.htm
 *  JS Response Bytes: 732742
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4796
-
-### Performance issues
-
 
 ### Performance issues
 

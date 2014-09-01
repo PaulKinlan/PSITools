@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://meucv.co/
+MinimizeRenderBlockingResources: true
 ---
 ## [meucv.co - Crie seu currículo elegantes - grátis!](http://meucv.co/)
 
@@ -29,9 +30,6 @@ title: http://meucv.co/
 *  JS Response Bytes: 370804
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 214753
-
-### Performance issues
-
 
 ### Performance issues
 

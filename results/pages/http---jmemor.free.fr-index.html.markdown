@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://jmemor.free.fr/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Générateur de jmemor](http://jmemor.free.fr/index.html)
 
@@ -29,9 +34,6 @@ title: http://jmemor.free.fr/index.html
 *  JS Response Bytes: 138223
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

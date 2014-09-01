@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://buddy.fm/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Buddy FM - Music. With Friends.](http://buddy.fm/)
 
@@ -29,9 +33,6 @@ title: http://buddy.fm/
 *  JS Response Bytes: 125883
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

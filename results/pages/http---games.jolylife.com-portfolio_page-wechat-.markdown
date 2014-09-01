@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://games.jolylife.com/portfolio_page/wechat/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [GameStation | WeChat](http://games.jolylife.com/portfolio_page/wechat/)
 
@@ -29,9 +32,6 @@ title: http://games.jolylife.com/portfolio_page/wechat/
 *  JS Response Bytes: 838584
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 222204
-
-### Performance issues
-
 
 ### Performance issues
 

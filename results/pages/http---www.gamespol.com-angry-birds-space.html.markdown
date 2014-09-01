@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.gamespol.com/angry-birds-space.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gamespol.com](http://www.gamespol.com/angry-birds-space.html)
 
@@ -29,9 +31,6 @@ title: http://www.gamespol.com/angry-birds-space.html
 *  JS Response Bytes: 167742
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

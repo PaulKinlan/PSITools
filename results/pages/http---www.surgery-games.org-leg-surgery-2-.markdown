@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/leg-surgery-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Leg Surgery game](http://www.surgery-games.org/leg-surgery-2/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/leg-surgery-2/
 *  JS Response Bytes: 2480278
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122404
-
-### Performance issues
-
 
 ### Performance issues
 

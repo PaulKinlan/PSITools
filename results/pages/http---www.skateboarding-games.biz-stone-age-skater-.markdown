@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/stone-age-skater/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stone Age Skater game](http://www.skateboarding-games.biz/stone-age-skater/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/stone-age-skater/
 *  JS Response Bytes: 2344310
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114736
-
-### Performance issues
-
 
 ### Performance issues
 

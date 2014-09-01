@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://sbobgames.blogspot.com/2013/09/free-running-2.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [SpongeBob Games: Free Running 2](http://sbobgames.blogspot.com/2013/09/free-running-2.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://sbobgames.blogspot.com/2013/09/free-running-2.html?m=1
 *  JS Response Bytes: 1380744
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95876
-
-### Performance issues
-
 
 ### Performance issues
 

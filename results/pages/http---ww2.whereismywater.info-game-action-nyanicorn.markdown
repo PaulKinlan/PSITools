@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ww2.whereismywater.info/game/action/nyanicorn
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [whereismywater.info](http://ww2.whereismywater.info/game/action/nyanicorn)
 
@@ -29,9 +31,6 @@ title: http://ww2.whereismywater.info/game/action/nyanicorn
 *  JS Response Bytes: 229840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21048
-
-### Performance issues
-
 
 ### Performance issues
 

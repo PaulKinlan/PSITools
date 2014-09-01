@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.evolvingame.com/index.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Evolvingame.com](http://www.evolvingame.com/index.php)
 
@@ -29,9 +32,6 @@ title: http://www.evolvingame.com/index.php
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

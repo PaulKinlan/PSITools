@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamerune.com/3d-games/free-running-2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Running 2 - Free Online Games | GameRune](http://www.gamerune.com/3d-games/free-running-2)
 
@@ -29,9 +34,6 @@ title: http://www.gamerune.com/3d-games/free-running-2
 *  JS Response Bytes: 2687639
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 149138
-
-### Performance issues
-
 
 ### Performance issues
 

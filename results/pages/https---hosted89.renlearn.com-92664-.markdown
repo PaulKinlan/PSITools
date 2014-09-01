@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://hosted89.renlearn.com/92664/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Welcome to Renaissance Place](https://hosted89.renlearn.com/92664/)
 
@@ -29,9 +31,6 @@ title: https://hosted89.renlearn.com/92664/
 *  JS Response Bytes: 381275
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 450
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://beta.duecredit.co.uk/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Duecredit](http://beta.duecredit.co.uk/)
 
@@ -29,9 +33,6 @@ title: http://beta.duecredit.co.uk/
 *  JS Response Bytes: 1867773
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 965
-
-### Performance issues
-
 
 ### Performance issues
 

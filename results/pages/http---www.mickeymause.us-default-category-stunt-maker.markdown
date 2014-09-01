@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.mickeymause.us/default-category/stunt-maker
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stunt Maker - Mickey Mause](http://www.mickeymause.us/default-category/stunt-maker)
 
@@ -29,9 +35,6 @@ title: http://www.mickeymause.us/default-category/stunt-maker
 *  JS Response Bytes: 1857713
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98315
-
-### Performance issues
-
 
 ### Performance issues
 

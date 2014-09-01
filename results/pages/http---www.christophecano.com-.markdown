@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.christophecano.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Christophe Cano, coaching sportif](http://www.christophecano.com/)
 
@@ -29,9 +33,6 @@ title: http://www.christophecano.com/
 *  JS Response Bytes: 1768317
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48028
-
-### Performance issues
-
 
 ### Performance issues
 

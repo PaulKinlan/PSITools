@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://pinkgirlgames.com/avie-halloween-style/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [pinkgirlgames.com-the best free online flash gamesAvie halloween style » Dress-Up » Avie: Halloween Style, Avie: Halloween Style game, Avie: Halloween Style online games, free Avie: Halloween Style, free Avie: Halloween Style games, free games, free online Avie: Halloween Style games](http://pinkgirlgames.com/avie-halloween-style/)
 
@@ -29,9 +36,6 @@ title: http://pinkgirlgames.com/avie-halloween-style/
 *  JS Response Bytes: 1116745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

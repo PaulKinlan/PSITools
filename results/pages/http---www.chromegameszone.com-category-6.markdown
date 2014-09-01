@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.chromegameszone.com/category/6
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Board - Chrome Games Zone](http://www.chromegameszone.com/category/6)
 
@@ -29,9 +32,6 @@ title: http://www.chromegameszone.com/category/6
 *  JS Response Bytes: 649191
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1175
-
-### Performance issues
-
 
 ### Performance issues
 

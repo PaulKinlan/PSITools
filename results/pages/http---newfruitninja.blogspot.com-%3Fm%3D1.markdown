@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://newfruitninja.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Fruit ninja games](http://newfruitninja.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://newfruitninja.blogspot.com/?m=1
 *  JS Response Bytes: 788530
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 292886
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://konghack.com/?
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [More Than Just A Crime, It's A Survival Trait - KongHack](https://konghack.com/?)
 
@@ -29,9 +32,6 @@ title: https://konghack.com/?
 *  JS Response Bytes: 1813584
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2286
-
-### Performance issues
-
 
 ### Performance issues
 

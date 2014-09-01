@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chorelistapp.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [ChoreList](http://chorelistapp.com/)
 
@@ -29,9 +31,6 @@ title: http://chorelistapp.com/
 *  JS Response Bytes: 45381
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

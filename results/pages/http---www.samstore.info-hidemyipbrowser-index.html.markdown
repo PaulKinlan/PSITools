@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.samstore.info/hidemyipbrowser/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Quick Hide IP Browser - Best Hide Your IP Address App - Download FREE](http://www.samstore.info/hidemyipbrowser/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.samstore.info/hidemyipbrowser/index.html
 *  JS Response Bytes: 1068573
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112089
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://tweetscope.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [TweetscopeJ](http://tweetscope.appspot.com/)
 
@@ -29,9 +31,6 @@ title: http://tweetscope.appspot.com/
 *  JS Response Bytes: 636505
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1138
-
-### Performance issues
-
 
 ### Performance issues
 

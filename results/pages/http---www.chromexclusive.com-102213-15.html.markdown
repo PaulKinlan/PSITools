@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.chromexclusive.com/102213/15.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [chromExclusive Play » Angry Birds Heikki](http://www.chromexclusive.com/102213/15.html)
 
@@ -29,9 +36,6 @@ title: http://www.chromexclusive.com/102213/15.html
 *  JS Response Bytes: 428533
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15492
-
-### Performance issues
-
 
 ### Performance issues
 

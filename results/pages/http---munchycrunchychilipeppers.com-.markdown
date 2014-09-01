@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://munchycrunchychilipeppers.com/
+EnableGzipCompression: true
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [munchycrunchychilipeppers.com](http://munchycrunchychilipeppers.com/)
 
@@ -29,9 +32,6 @@ title: http://munchycrunchychilipeppers.com/
 *  JS Response Bytes: 1150119
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2048
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.royalgame99.com/default-category/icy-tower
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ICY TOWER - Royalgame99](http://www.royalgame99.com/default-category/icy-tower)
 
@@ -29,9 +34,6 @@ title: http://www.royalgame99.com/default-category/icy-tower
 *  JS Response Bytes: 677262
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

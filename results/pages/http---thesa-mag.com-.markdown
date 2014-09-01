@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://thesa-mag.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Welcome to TheSA-Mag - TheSA-Mag](http://thesa-mag.com/)
 
@@ -29,9 +34,6 @@ title: http://thesa-mag.com/
 *  JS Response Bytes: 226365
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 650
-
-### Performance issues
-
 
 ### Performance issues
 

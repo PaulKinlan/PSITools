@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://kittyklimber.com/kittyklimber/
+ServerResponseTime: true
 ---
 ## [Kitty Klimber](http://kittyklimber.com/kittyklimber/)
 
@@ -29,9 +30,6 @@ title: http://kittyklimber.com/kittyklimber/
 *  JS Response Bytes: 257702
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

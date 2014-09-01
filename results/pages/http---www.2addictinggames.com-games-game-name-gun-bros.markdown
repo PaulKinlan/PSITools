@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/game/name/gun-bros
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [gun-bros Addicting Games](http://www.2addictinggames.com/games/game/name/gun-bros)
 
@@ -29,9 +36,6 @@ title: http://www.2addictinggames.com/games/game/name/gun-bros
 *  JS Response Bytes: 1828524
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97925
-
-### Performance issues
-
 
 ### Performance issues
 

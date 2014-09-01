@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://apps.goodereader.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Android App Store & Blackberry App Store](http://apps.goodereader.com/)
 
@@ -29,9 +32,6 @@ title: http://apps.goodereader.com/
 *  JS Response Bytes: 1379574
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 889340
-
-### Performance issues
-
 
 ### Performance issues
 

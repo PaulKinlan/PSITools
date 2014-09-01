@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.scissorsfly.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](https://www.scissorsfly.com/)
 
@@ -29,9 +33,6 @@ title: https://www.scissorsfly.com/
 *  JS Response Bytes: 2630921
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 527
-
-### Performance issues
-
 
 ### Performance issues
 

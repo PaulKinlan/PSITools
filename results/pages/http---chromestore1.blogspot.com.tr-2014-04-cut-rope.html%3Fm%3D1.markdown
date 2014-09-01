@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://chromestore1.blogspot.com.tr/2014/04/cut-rope.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [chrome game store: cut the rope](http://chromestore1.blogspot.com.tr/2014/04/cut-rope.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://chromestore1.blogspot.com.tr/2014/04/cut-rope.html?m=1
 *  JS Response Bytes: 1472199
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116959
-
-### Performance issues
-
 
 ### Performance issues
 

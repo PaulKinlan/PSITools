@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://tankionline.com/en/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tanki Online - Free MMO game](http://tankionline.com/en/)
 
@@ -29,9 +32,6 @@ title: http://tankionline.com/en/
 *  JS Response Bytes: 2228711
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 168740
-
-### Performance issues
-
 
 ### Performance issues
 

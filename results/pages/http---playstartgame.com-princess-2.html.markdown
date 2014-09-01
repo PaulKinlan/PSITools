@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://playstartgame.com/princess-2.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PlayStartGame – Princess 2](http://playstartgame.com/princess-2.html)
 
@@ -29,9 +36,6 @@ title: http://playstartgame.com/princess-2.html
 *  JS Response Bytes: 427747
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4412
-
-### Performance issues
-
 
 ### Performance issues
 

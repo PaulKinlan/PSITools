@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://hdplaygame.com/?=404;http://hdplaygame.com:80/hulk-smash-up/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [hdplaygame.com](http://hdplaygame.com/?=404;http://hdplaygame.com:80/hulk-smash-up/&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://hdplaygame.com/?=404;http://hdplaygame.com:80/hulk-smash-up/&reqp=
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 101
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bexleydemo.wordpress.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bexley | A photoblogging theme](http://bexleydemo.wordpress.com/)
 
@@ -13,31 +16,27 @@ title: http://bexleydemo.wordpress.com/
 
 ### Request information
 
-*  Number of Resources: 28
-*  Number of Hosts: 9
-*  Number of JS Resources: 6
+*  Number of Resources: 27
+*  Number of Hosts: 10
+*  Number of JS Resources: 5
 *  Number of CSS Resources: 5
-*  Nubmer of Static Resources: 22
-*  Total Request Bytes: 3588
+*  Nubmer of Static Resources: 21
+*  Total Request Bytes: 3512
 
 ### Response data
 
-*  HTML Response Bytes: 37404
+*  HTML Response Bytes: 37575
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 191086
-*  Image Response Bytes: 6331815
-*  JS Response Bytes: 609082
+*  CSS Response Bytes: 191532
+*  Image Response Bytes: 6331814
+*  JS Response Bytes: 507639
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 29288
-
-### Performance issues
-
+*  Other Response Bytes: 29289
 
 ### Performance issues
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Enable compression
-*  Improve server response time
 
 ### Mobile UX issues
 

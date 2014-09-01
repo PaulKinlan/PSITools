@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.counterstrikezombi.com/defence-strategy/chess-3d
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chess 3D - CounterStrike](http://www.counterstrikezombi.com/defence-strategy/chess-3d)
 
@@ -29,9 +35,6 @@ title: http://www.counterstrikezombi.com/defence-strategy/chess-3d
 *  JS Response Bytes: 1903785
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117752
-
-### Performance issues
-
 
 ### Performance issues
 

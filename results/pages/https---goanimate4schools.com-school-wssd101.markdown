@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://goanimate4schools.com/school/wssd101
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login - Western Springs School District 101 - GoAnimate for Schools](https://goanimate4schools.com/school/wssd101)
 
@@ -29,9 +32,6 @@ title: https://goanimate4schools.com/school/wssd101
 *  JS Response Bytes: 556377
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15890
-
-### Performance issues
-
 
 ### Performance issues
 

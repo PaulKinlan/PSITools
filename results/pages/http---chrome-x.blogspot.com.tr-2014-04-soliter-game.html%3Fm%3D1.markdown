@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chrome-x.blogspot.com.tr/2014/04/soliter-game.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Chrome Best Game And Aplication: Soliter Game](http://chrome-x.blogspot.com.tr/2014/04/soliter-game.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chrome-x.blogspot.com.tr/2014/04/soliter-game.html?m=1
 *  JS Response Bytes: 720931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95578
-
-### Performance issues
-
 
 ### Performance issues
 

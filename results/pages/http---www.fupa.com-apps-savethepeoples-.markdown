@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/savethepeoples/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Save The Peoples](http://www.fupa.com/apps/savethepeoples/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/savethepeoples/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

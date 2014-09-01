@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mini-maps.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Home - MinIMaps](http://mini-maps.com/)
 
@@ -29,9 +33,6 @@ title: http://mini-maps.com/
 *  JS Response Bytes: 962208
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 66789
-
-### Performance issues
-
 
 ### Performance issues
 

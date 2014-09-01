@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://penzu.com/m/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
 ---
 ## [Penzu](https://penzu.com/m/login)
 
@@ -29,9 +34,6 @@ title: https://penzu.com/m/login
 *  JS Response Bytes: 178727
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1197
-
-### Performance issues
-
 
 ### Performance issues
 

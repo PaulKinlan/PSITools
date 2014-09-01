@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://horaagora.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Hora Agora - a hora certa no Brasil](http://horaagora.com/)
 
@@ -29,9 +33,6 @@ title: http://horaagora.com/
 *  JS Response Bytes: 1138639
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96343
-
-### Performance issues
-
 
 ### Performance issues
 

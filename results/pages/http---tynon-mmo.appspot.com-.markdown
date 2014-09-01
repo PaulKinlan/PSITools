@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://tynon-mmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Tynon Online](http://tynon-mmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://tynon-mmo.appspot.com/
 *  JS Response Bytes: 867318
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43367
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.speedanalysis.com/addon.php?cid=3957
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SpeedAnalysis.com | Free Internet Speed Test](http://www.speedanalysis.com/addon.php?cid=3957)
 
@@ -29,9 +34,6 @@ title: http://www.speedanalysis.com/addon.php?cid=3957
 *  JS Response Bytes: 563035
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 60242
-
-### Performance issues
-
 
 ### Performance issues
 

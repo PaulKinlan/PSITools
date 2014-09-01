@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://divineoftheeastmmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Divines of the East Online](http://divineoftheeastmmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://divineoftheeastmmo.appspot.com/
 *  JS Response Bytes: 1097430
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50064
-
-### Performance issues
-
 
 ### Performance issues
 

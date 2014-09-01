@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.kitchenpages.com/library/i3/r5
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [KitCAD i3 KGC - RPCL 5.0](http://www.kitchenpages.com/library/i3/r5)
 
@@ -29,9 +32,6 @@ title: http://www.kitchenpages.com/library/i3/r5
 *  JS Response Bytes: 555026
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 361
-
-### Performance issues
-
 
 ### Performance issues
 

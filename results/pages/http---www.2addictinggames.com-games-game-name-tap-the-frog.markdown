@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/game/name/tap-the-frog
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [tap-the-frog Addicting Games](http://www.2addictinggames.com/games/game/name/tap-the-frog)
 
@@ -29,9 +34,6 @@ title: http://www.2addictinggames.com/games/game/name/tap-the-frog
 *  JS Response Bytes: 1861673
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112197
-
-### Performance issues
-
 
 ### Performance issues
 

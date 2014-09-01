@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.tunnelgame.net/flash-games/angry-girls/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Girls « Flash Games, Online Games](http://www.tunnelgame.net/flash-games/angry-girls/)
 
@@ -29,9 +35,6 @@ title: http://www.tunnelgame.net/flash-games/angry-girls/
 *  JS Response Bytes: 1396679
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15743
-
-### Performance issues
-
 
 ### Performance issues
 

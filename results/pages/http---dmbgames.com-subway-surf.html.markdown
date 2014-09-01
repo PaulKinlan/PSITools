@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://dmbgames.com/subway-surf.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DMBGames.Com – Subway Surf](http://dmbgames.com/subway-surf.html)
 
@@ -29,9 +36,6 @@ title: http://dmbgames.com/subway-surf.html
 *  JS Response Bytes: 405488
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59048
-
-### Performance issues
-
 
 ### Performance issues
 

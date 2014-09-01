@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://apps.deskera.com/glogin.jsp?service=2
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Deskera CRM - Login](http://apps.deskera.com/glogin.jsp?service=2)
 
@@ -29,9 +32,6 @@ title: http://apps.deskera.com/glogin.jsp?service=2
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29528
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://portail.e-tag.fr/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login](https://portail.e-tag.fr/)
 
@@ -29,9 +32,6 @@ title: https://portail.e-tag.fr/
 *  JS Response Bytes: 728078
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.youscan.me/signin/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Log In to YouScanMe](https://www.youscan.me/signin/)
 
@@ -29,9 +33,6 @@ title: https://www.youscan.me/signin/
 *  JS Response Bytes: 136869
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1011
-
-### Performance issues
-
 
 ### Performance issues
 

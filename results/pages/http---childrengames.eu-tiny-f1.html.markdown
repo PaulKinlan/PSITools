@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://childrengames.eu/tiny-f1.html
+EnableGzipCompression: true
 ---
 ## [ChildrenGames.EU](http://childrengames.eu/tiny-f1.html)
 
@@ -29,9 +30,6 @@ title: http://childrengames.eu/tiny-f1.html
 *  JS Response Bytes: 303540
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

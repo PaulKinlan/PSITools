@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://weixin.txthinking.com/#!/image
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Image | 不正常人类研究中心](http://weixin.txthinking.com/#!/image)
 
@@ -29,9 +32,6 @@ title: http://weixin.txthinking.com/#!/image
 *  JS Response Bytes: 272898
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14571
-
-### Performance issues
-
 
 ### Performance issues
 

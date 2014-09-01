@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.jawoco.com/chrome#.U_uy400ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Page Not Found - Jawoco | Hub of Entertainment News](http://www.jawoco.com/chrome#.U_uy400ieKA)
 
@@ -29,9 +32,6 @@ title: http://www.jawoco.com/chrome#.U_uy400ieKA
 *  JS Response Bytes: 1364174
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104754
-
-### Performance issues
-
 
 ### Performance issues
 

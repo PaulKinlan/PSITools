@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://publicrecords.streamdownloaderapp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [streamdownloaderapp.com](http://publicrecords.streamdownloaderapp.com/)
 
@@ -18,20 +22,17 @@ title: http://publicrecords.streamdownloaderapp.com/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 8
-*  Total Request Bytes: 2530
+*  Total Request Bytes: 2536
 
 ### Response data
 
-*  HTML Response Bytes: 14662
+*  HTML Response Bytes: 14544
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 5996
-*  Image Response Bytes: 46306
-*  JS Response Bytes: 209183
+*  CSS Response Bytes: 6027
+*  Image Response Bytes: 46305
+*  JS Response Bytes: 209185
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

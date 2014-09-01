@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chrome.appstores.eu/p&f/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PHINEAS & FERB: TRANSPORTINATORS OF DOOOOM](http://chrome.appstores.eu/p&f/)
 
@@ -29,9 +33,6 @@ title: http://chrome.appstores.eu/p&f/
 *  JS Response Bytes: 391104
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

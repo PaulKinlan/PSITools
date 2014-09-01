@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://gamegif.com/asphalt-7-heat.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GameGIF.Com – Asphalt 7 Heat](http://gamegif.com/asphalt-7-heat.html)
 
@@ -29,9 +36,6 @@ title: http://gamegif.com/asphalt-7-heat.html
 *  JS Response Bytes: 468845
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6047
-
-### Performance issues
-
 
 ### Performance issues
 

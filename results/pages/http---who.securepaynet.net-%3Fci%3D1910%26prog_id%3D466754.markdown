@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://who.securepaynet.net/?ci=1910&prog_id=466754
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Whois Lookup | Domain Availability - Registration Information - Planteen Host](http://who.securepaynet.net/?ci=1910&prog_id=466754)
 
@@ -29,9 +34,6 @@ title: http://who.securepaynet.net/?ci=1910&prog_id=466754
 *  JS Response Bytes: 291337
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 283
-
-### Performance issues
-
 
 ### Performance issues
 

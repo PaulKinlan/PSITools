@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://pos.speedpos.com/?chromeApp#/login
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [SpeedPOS](http://pos.speedpos.com/?chromeApp#/login)
 
@@ -29,9 +32,6 @@ title: http://pos.speedpos.com/?chromeApp#/login
 *  JS Response Bytes: 1561787
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

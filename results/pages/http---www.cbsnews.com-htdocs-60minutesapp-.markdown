@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.cbsnews.com/htdocs/60minutesapp/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [60 Minutes](http://www.cbsnews.com/htdocs/60minutesapp/)
 
@@ -29,9 +33,6 @@ title: http://www.cbsnews.com/htdocs/60minutesapp/
 *  JS Response Bytes: 21629
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

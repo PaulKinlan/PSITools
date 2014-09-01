@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://english.mubasher.info/mobile/TDWL/home-page
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Home PageSaudi Arabia - Saudi Stock Exchange | Mubasher](http://english.mubasher.info/mobile/TDWL/home-page)
 
@@ -29,9 +34,6 @@ title: http://english.mubasher.info/mobile/TDWL/home-page
 *  JS Response Bytes: 1029678
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 399
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://tic-tac-toe.coolonlinegames.org/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tic Tac Toe - Cool Online Games](http://tic-tac-toe.coolonlinegames.org/index.html)
 
@@ -29,9 +34,6 @@ title: http://tic-tac-toe.coolonlinegames.org/index.html
 *  JS Response Bytes: 767610
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23910
-
-### Performance issues
-
 
 ### Performance issues
 

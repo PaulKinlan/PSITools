@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.paperitehdas.fi/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Paperitehdas | Matkakertomuksia paperista sähköön ja takaisin](http://www.paperitehdas.fi/)
 
@@ -29,9 +31,6 @@ title: http://www.paperitehdas.fi/
 *  JS Response Bytes: 1574356
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 78476
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://rst-app.appspot.com/drive/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://rst-app.appspot.com/drive/)
 
@@ -29,9 +30,6 @@ title: http://rst-app.appspot.com/drive/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 440
-
-### Performance issues
-
 
 ### Performance issues
 

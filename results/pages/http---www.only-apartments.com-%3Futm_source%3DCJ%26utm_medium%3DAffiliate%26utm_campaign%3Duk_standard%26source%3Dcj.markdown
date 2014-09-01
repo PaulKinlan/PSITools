@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.only-apartments.com/?utm_source=CJ&utm_medium=Affiliate&utm_campaign=uk_standard&source=cj
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [only-apartments.com](http://www.only-apartments.com/?utm_source=CJ&utm_medium=Affiliate&utm_campaign=uk_standard&source=cj)
 
@@ -29,9 +33,6 @@ title: http://www.only-apartments.com/?utm_source=CJ&utm_medium=Affiliate&utm_ca
 *  JS Response Bytes: 956334
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13389
-
-### Performance issues
-
 
 ### Performance issues
 

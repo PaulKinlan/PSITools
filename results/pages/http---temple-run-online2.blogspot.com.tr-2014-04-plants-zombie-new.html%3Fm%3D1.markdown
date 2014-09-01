@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://temple-run-online2.blogspot.com.tr/2014/04/plants-zombie-new.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [temple run hd: plants Zombie New](http://temple-run-online2.blogspot.com.tr/2014/04/plants-zombie-new.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://temple-run-online2.blogspot.com.tr/2014/04/plants-zombie-new.html?
 *  JS Response Bytes: 720835
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95604
-
-### Performance issues
-
 
 ### Performance issues
 

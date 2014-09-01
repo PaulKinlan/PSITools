@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.2playergames.info/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play 2 player games, two player games, 3 player games, multiplayer games, free online games on 2playergames.info](http://www.2playergames.info/)
 
@@ -29,9 +33,6 @@ title: http://www.2playergames.info/
 *  JS Response Bytes: 1645957
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105275
-
-### Performance issues
-
 
 ### Performance issues
 

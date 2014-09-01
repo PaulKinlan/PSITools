@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://minecraftplay-game.blogspot.com.tr/2014/04/talking-tom-clasic.html?m=1
+UseLegibleFontSizes: true
 ---
 ## [Service Unavailable](http://minecraftplay-game.blogspot.com.tr/2014/04/talking-tom-clasic.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://minecraftplay-game.blogspot.com.tr/2014/04/talking-tom-clasic.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1132
-
-### Performance issues
-
 
 ### Performance issues
 

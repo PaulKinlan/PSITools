@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.scootpad.com/signin?utm_source=ScootPad&utm_medium=Web&utm_campaign=ChromeWebStore
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](https://www.scootpad.com/signin?utm_source=ScootPad&utm_medium=Web&utm_campaign=ChromeWebStore)
 
@@ -29,9 +33,6 @@ title: https://www.scootpad.com/signin?utm_source=ScootPad&utm_medium=Web&utm_ca
 *  JS Response Bytes: 383615
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 864
-
-### Performance issues
-
 
 ### Performance issues
 

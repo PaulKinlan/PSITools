@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.financialfairplay.co.uk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Financial Fair Play](http://www.financialfairplay.co.uk/)
 
@@ -29,9 +33,6 @@ title: http://www.financialfairplay.co.uk/
 *  JS Response Bytes: 2591754
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3184
-
-### Performance issues
-
 
 ### Performance issues
 

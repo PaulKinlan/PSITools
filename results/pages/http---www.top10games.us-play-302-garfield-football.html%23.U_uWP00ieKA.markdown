@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.top10games.us/play/302/garfield-football.html#.U_uWP00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Garfield Football - Top Ten Games](http://www.top10games.us/play/302/garfield-football.html#.U_uWP00ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.top10games.us/play/302/garfield-football.html#.U_uWP00ieKA
 *  JS Response Bytes: 1448730
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14880
-
-### Performance issues
-
 
 ### Performance issues
 

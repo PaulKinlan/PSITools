@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.justas.biz/elegantsolitaire/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Elegant Klondike Solitaire HD](http://www.justas.biz/elegantsolitaire/)
 
@@ -29,9 +34,6 @@ title: http://www.justas.biz/elegantsolitaire/
 *  JS Response Bytes: 529047
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23761
-
-### Performance issues
-
 
 ### Performance issues
 

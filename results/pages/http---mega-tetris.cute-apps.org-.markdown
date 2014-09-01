@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mega-tetris.cute-apps.org/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tetris](http://mega-tetris.cute-apps.org/)
 
@@ -29,9 +32,6 @@ title: http://mega-tetris.cute-apps.org/
 *  JS Response Bytes: 1543799
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111370
-
-### Performance issues
-
 
 ### Performance issues
 

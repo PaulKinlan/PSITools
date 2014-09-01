@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://my-lands.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play My Lands Online](http://my-lands.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://my-lands.appspot.com/
 *  JS Response Bytes: 632770
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50237
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.crucruplanet.jp/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [くるくるプラネット](http://www.crucruplanet.jp/)
 
@@ -29,9 +34,6 @@ title: http://www.crucruplanet.jp/
 *  JS Response Bytes: 132924
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

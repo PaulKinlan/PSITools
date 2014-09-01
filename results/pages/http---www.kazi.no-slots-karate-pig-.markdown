@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.kazi.no/slots/karate-pig/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Karate pig @ Kazi.noKazi.no](http://www.kazi.no/slots/karate-pig/)
 
@@ -29,9 +35,6 @@ title: http://www.kazi.no/slots/karate-pig/
 *  JS Response Bytes: 1164872
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141028
-
-### Performance issues
-
 
 ### Performance issues
 

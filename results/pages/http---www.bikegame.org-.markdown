@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bikegame.org/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bike Games - Play Bike Games](http://www.bikegame.org/)
 
@@ -29,9 +33,6 @@ title: http://www.bikegame.org/
 *  JS Response Bytes: 651150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15278
-
-### Performance issues
-
 
 ### Performance issues
 

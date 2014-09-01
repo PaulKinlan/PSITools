@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://connection.ivank.net/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Connection](http://connection.ivank.net/)
 
@@ -29,9 +31,6 @@ title: http://connection.ivank.net/
 *  JS Response Bytes: 1343400
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95562
-
-### Performance issues
-
 
 ### Performance issues
 

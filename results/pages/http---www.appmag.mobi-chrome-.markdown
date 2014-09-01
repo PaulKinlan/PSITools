@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.appmag.mobi/chrome/
+MinimizeRenderBlockingResources: true
 ---
 ## [AppMag.Mobi--The Mobile App Magazine in the perspectives of South East Asian](http://www.appmag.mobi/chrome/)
 
@@ -29,9 +30,6 @@ title: http://www.appmag.mobi/chrome/
 *  JS Response Bytes: 345134
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16669
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/action/icy-fishes-2
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Icy Fishes - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/action/icy-fishes-2)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/action/icy-fishes-2
 *  JS Response Bytes: 2273512
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100005
-
-### Performance issues
-
 
 ### Performance issues
 

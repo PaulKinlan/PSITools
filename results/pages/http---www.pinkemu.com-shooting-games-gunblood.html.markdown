@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.pinkemu.com/shooting-games/gunblood.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GUNBLOOD | SHOOTING GAMES](http://www.pinkemu.com/shooting-games/gunblood.html)
 
@@ -29,9 +35,6 @@ title: http://www.pinkemu.com/shooting-games/gunblood.html
 *  JS Response Bytes: 2925885
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125732
-
-### Performance issues
-
 
 ### Performance issues
 

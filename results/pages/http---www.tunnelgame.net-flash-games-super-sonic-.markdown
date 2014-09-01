@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.tunnelgame.net/flash-games/super-sonic/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Sonic « Flash Games, Online Games](http://www.tunnelgame.net/flash-games/super-sonic/)
 
@@ -29,9 +35,6 @@ title: http://www.tunnelgame.net/flash-games/super-sonic/
 *  JS Response Bytes: 1190114
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17582
-
-### Performance issues
-
 
 ### Performance issues
 

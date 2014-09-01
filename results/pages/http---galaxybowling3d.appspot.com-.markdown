@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://galaxybowling3d.appspot.com/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [Galaxy Bowl - The best bowling since the Big Bang! | Beta](http://galaxybowling3d.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://galaxybowling3d.appspot.com/
 *  JS Response Bytes: 1806993
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15653
-
-### Performance issues
-
 
 ### Performance issues
 

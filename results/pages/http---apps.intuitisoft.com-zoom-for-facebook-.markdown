@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://apps.intuitisoft.com/zoom-for-facebook/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zoom for Facebook ™](http://apps.intuitisoft.com/zoom-for-facebook/)
 
@@ -29,9 +34,6 @@ title: http://apps.intuitisoft.com/zoom-for-facebook/
 *  JS Response Bytes: 1063992
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29612
-
-### Performance issues
-
 
 ### Performance issues
 

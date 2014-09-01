@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://droidpowerstudios.com/currentflow/webplayer.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Amazing Flow | DroidPowerStudios.com-Flash-Android-Chrome Games](http://droidpowerstudios.com/currentflow/webplayer.html)
 
@@ -29,9 +34,6 @@ title: http://droidpowerstudios.com/currentflow/webplayer.html
 *  JS Response Bytes: 788163
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11022
-
-### Performance issues
-
 
 ### Performance issues
 

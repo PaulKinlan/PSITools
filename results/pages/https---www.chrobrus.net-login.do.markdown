@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.chrobrus.net/login.do
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Calamari](https://www.chrobrus.net/login.do)
 
@@ -29,9 +32,6 @@ title: https://www.chrobrus.net/login.do
 *  JS Response Bytes: 1030855
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3501
-
-### Performance issues
-
 
 ### Performance issues
 

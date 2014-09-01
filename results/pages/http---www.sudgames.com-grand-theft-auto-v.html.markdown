@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.sudgames.com/grand-theft-auto-v.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SuDGameS.Com | Flash Game | Flash Games | Top Games – Grand Theft Auto V](http://www.sudgames.com/grand-theft-auto-v.html)
 
@@ -29,9 +35,6 @@ title: http://www.sudgames.com/grand-theft-auto-v.html
 *  JS Response Bytes: 419946
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 954
-
-### Performance issues
-
 
 ### Performance issues
 

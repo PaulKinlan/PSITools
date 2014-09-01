@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.5pmweb.com/login.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [5pm - project management on time. Login.](https://www.5pmweb.com/login.php)
 
@@ -29,9 +33,6 @@ title: https://www.5pmweb.com/login.php
 *  JS Response Bytes: 55238
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 439
-
-### Performance issues
-
 
 ### Performance issues
 

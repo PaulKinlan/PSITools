@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://fbfriendsmusic.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Friends' Music](http://fbfriendsmusic.appspot.com/)
 
@@ -29,9 +31,6 @@ title: http://fbfriendsmusic.appspot.com/
 *  JS Response Bytes: 817071
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1411
-
-### Performance issues
-
 
 ### Performance issues
 

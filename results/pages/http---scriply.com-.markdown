@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://scriply.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Scriply - Study and blog the Word of God.](http://scriply.com/)
 
@@ -29,9 +35,6 @@ title: http://scriply.com/
 *  JS Response Bytes: 330820
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15778
-
-### Performance issues
-
 
 ### Performance issues
 

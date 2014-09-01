@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.atericom.com/3d-ciftlik-yonet.html
+SizeTapTargetsAppropriately: true
 ---
 ## [atericom.com](http://www.atericom.com/3d-ciftlik-yonet.html)
 
@@ -29,9 +30,6 @@ title: http://www.atericom.com/3d-ciftlik-yonet.html
 *  JS Response Bytes: 229917
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20815
-
-### Performance issues
-
 
 ### Performance issues
 

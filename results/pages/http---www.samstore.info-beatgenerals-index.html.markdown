@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.samstore.info/beatgenerals/index.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn How To Make Beats - FL Studio Tutorial Videos](http://www.samstore.info/beatgenerals/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.samstore.info/beatgenerals/index.html
 *  JS Response Bytes: 526093
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

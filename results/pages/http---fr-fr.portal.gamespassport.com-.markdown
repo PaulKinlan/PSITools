@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://fr-fr.portal.gamespassport.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Games Passport](http://fr-fr.portal.gamespassport.com/)
 
@@ -29,9 +32,6 @@ title: http://fr-fr.portal.gamespassport.com/
 *  JS Response Bytes: 256184
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110871
-
-### Performance issues
-
 
 ### Performance issues
 

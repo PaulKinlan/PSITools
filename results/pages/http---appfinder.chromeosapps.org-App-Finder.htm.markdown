@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://appfinder.chromeosapps.org/App-Finder.htm
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [App Finder](http://appfinder.chromeosapps.org/App-Finder.htm)
 
@@ -29,9 +32,6 @@ title: http://appfinder.chromeosapps.org/App-Finder.htm
 *  JS Response Bytes: 446925
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14991
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.minube.com/chrome
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Donde empiezan y terminan tus viajes - Minube.com](http://www.minube.com/chrome)
 
@@ -29,9 +32,6 @@ title: http://www.minube.com/chrome
 *  JS Response Bytes: 1126246
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 673978
-
-### Performance issues
-
 
 ### Performance issues
 

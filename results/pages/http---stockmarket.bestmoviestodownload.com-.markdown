@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://stockmarket.bestmoviestodownload.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [Bestmoviestodownload.com](http://stockmarket.bestmoviestodownload.com/)
 
@@ -29,9 +30,6 @@ title: http://stockmarket.bestmoviestodownload.com/
 *  JS Response Bytes: 259015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 443
-
-### Performance issues
-
 
 ### Performance issues
 

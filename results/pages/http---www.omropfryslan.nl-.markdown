@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.omropfryslan.nl/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Omrop Fryslân - Alle dagen nij!](http://www.omropfryslan.nl/)
 
@@ -29,9 +32,6 @@ title: http://www.omropfryslan.nl/
 *  JS Response Bytes: 1404119
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12192
-
-### Performance issues
-
 
 ### Performance issues
 

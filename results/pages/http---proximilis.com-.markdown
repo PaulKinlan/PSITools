@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://proximilis.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Communication visuelle à Troyes - Impression et internet - De la conception à la réalisation](http://proximilis.com/)
 
@@ -29,9 +31,6 @@ title: http://proximilis.com/
 *  JS Response Bytes: 191466
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47020
-
-### Performance issues
-
 
 ### Performance issues
 

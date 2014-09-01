@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.cominggame.com/chrome-category/cheese-race
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cheese Race - Coming Game](http://www.cominggame.com/chrome-category/cheese-race)
 
@@ -29,9 +35,6 @@ title: http://www.cominggame.com/chrome-category/cheese-race
 *  JS Response Bytes: 919123
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16166
-
-### Performance issues
-
 
 ### Performance issues
 

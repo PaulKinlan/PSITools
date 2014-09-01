@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gamesurf.org/minecraft-demo/
+UseLegibleFontSizes: true
 ---
 ## [404 - File or directory not found.](http://gamesurf.org/minecraft-demo/)
 
@@ -29,9 +30,6 @@ title: http://gamesurf.org/minecraft-demo/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1450
-
-### Performance issues
-
 
 ### Performance issues
 

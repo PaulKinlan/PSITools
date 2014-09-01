@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://meiwei.me/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [美味工厂 - 分享菜谱, 收获快乐!](http://meiwei.me/)
 
@@ -29,9 +33,6 @@ title: http://meiwei.me/
 *  JS Response Bytes: 288257
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9668
-
-### Performance issues
-
 
 ### Performance issues
 

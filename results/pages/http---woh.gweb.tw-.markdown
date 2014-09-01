@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://woh.gweb.tw/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [::: 英雄世界World Of Heroes ::: 台灣官方網站《繁體中文版》](http://woh.gweb.tw/)
 
@@ -29,9 +33,6 @@ title: http://woh.gweb.tw/
 *  JS Response Bytes: 526584
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13522
-
-### Performance issues
-
 
 ### Performance issues
 

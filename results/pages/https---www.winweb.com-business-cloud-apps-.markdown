@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.winweb.com/business-cloud-apps/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WinWeb | App](https://www.winweb.com/business-cloud-apps/)
 
@@ -29,9 +34,6 @@ title: https://www.winweb.com/business-cloud-apps/
 *  JS Response Bytes: 1156434
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 306463
-
-### Performance issues
-
 
 ### Performance issues
 

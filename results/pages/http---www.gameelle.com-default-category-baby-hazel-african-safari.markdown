@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameelle.com/default-category/baby-hazel-african-safari
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Baby Hazel African Safari - Gameelle](http://www.gameelle.com/default-category/baby-hazel-african-safari)
 
@@ -29,9 +34,6 @@ title: http://www.gameelle.com/default-category/baby-hazel-african-safari
 *  JS Response Bytes: 673191
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://go2panel.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [CENTRIXS :: login](https://go2panel.com/)
 
@@ -29,9 +32,6 @@ title: https://go2panel.com/
 *  JS Response Bytes: 500886
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43806
-
-### Performance issues
-
 
 ### Performance issues
 

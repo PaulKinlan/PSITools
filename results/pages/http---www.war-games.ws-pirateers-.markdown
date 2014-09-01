@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/pirateers/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pirateers](http://www.war-games.ws/pirateers/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/pirateers/
 *  JS Response Bytes: 2148570
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114694
-
-### Performance issues
-
 
 ### Performance issues
 

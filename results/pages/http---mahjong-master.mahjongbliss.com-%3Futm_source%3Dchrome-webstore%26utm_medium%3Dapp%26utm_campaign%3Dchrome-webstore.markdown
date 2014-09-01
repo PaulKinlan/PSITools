@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mahjong-master.mahjongbliss.com/?utm_source=chrome-webstore&utm_medium=app&utm_campaign=chrome-webstore
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mahjong Master](http://mahjong-master.mahjongbliss.com/?utm_source=chrome-webstore&utm_medium=app&utm_campaign=chrome-webstore)
 
@@ -29,9 +33,6 @@ title: http://mahjong-master.mahjongbliss.com/?utm_source=chrome-webstore&utm_me
 *  JS Response Bytes: 730571
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95887
-
-### Performance issues
-
 
 ### Performance issues
 

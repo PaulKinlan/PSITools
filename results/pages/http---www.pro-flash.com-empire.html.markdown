@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.pro-flash.com/empire.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pro-Flash.Com – Empire](http://www.pro-flash.com/empire.html)
 
@@ -29,9 +35,6 @@ title: http://www.pro-flash.com/empire.html
 *  JS Response Bytes: 399906
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 70621
-
-### Performance issues
-
 
 ### Performance issues
 

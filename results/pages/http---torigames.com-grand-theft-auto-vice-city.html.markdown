@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://torigames.com/grand-theft-auto-vice-city.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ToriGames.Com | Flash Game | Flash Games | – Grand Theft Auto: Vice City](http://torigames.com/grand-theft-auto-vice-city.html)
 
@@ -29,9 +36,6 @@ title: http://torigames.com/grand-theft-auto-vice-city.html
 *  JS Response Bytes: 412749
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1208
-
-### Performance issues
-
 
 ### Performance issues
 

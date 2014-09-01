@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://playgamesonchrome.blogspot.com/2013/08/age-of-empires-iii-asian-dynasties.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://playgamesonchrome.blogspot.com/2013/08/age-of-empires-iii-asian-dynasties.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://playgamesonchrome.blogspot.com/2013/08/age-of-empires-iii-asian-dy
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18871
-
-### Performance issues
-
 
 ### Performance issues
 

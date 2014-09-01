@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://flappybirdgo.blogspot.com.tr/2014/03/flappy-bird-game.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [Flappy bird Game Chrome: flappy bird game](http://flappybirdgo.blogspot.com.tr/2014/03/flappy-bird-game.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://flappybirdgo.blogspot.com.tr/2014/03/flappy-bird-game.html?m=1
 *  JS Response Bytes: 814939
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97194
-
-### Performance issues
-
 
 ### Performance issues
 

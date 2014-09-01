@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.todaysonlinegames.com/bloons-tower-defense-3.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bloons Tower Defense 3 | Todays Online Games](http://www.todaysonlinegames.com/bloons-tower-defense-3.html)
 
@@ -29,9 +34,6 @@ title: http://www.todaysonlinegames.com/bloons-tower-defense-3.html
 *  JS Response Bytes: 1066898
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16636
-
-### Performance issues
-
 
 ### Performance issues
 

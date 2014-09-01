@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://games16.info/?=404;http://games16.info:80/dragon-city/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [games16.info](http://games16.info/?=404;http://games16.info:80/dragon-city/&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://games16.info/?=404;http://games16.info:80/dragon-city/&reqp=1&reqr
 *  JS Response Bytes: 219744
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95
-
-### Performance issues
-
 
 ### Performance issues
 

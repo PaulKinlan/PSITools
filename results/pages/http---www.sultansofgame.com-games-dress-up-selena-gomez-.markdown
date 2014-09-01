@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/dress-up-selena-gomez/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Dress Up Selena Gomez Game — Sultans of Game](http://www.sultansofgame.com/games/dress-up-selena-gomez/)
 
@@ -29,9 +34,6 @@ title: http://www.sultansofgame.com/games/dress-up-selena-gomez/
 *  JS Response Bytes: 1705480
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113518
-
-### Performance issues
-
 
 ### Performance issues
 

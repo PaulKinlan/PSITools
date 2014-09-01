@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/get-in-goal/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Get in Goal Game](http://www.footballgam.es/get-in-goal/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/get-in-goal/
 *  JS Response Bytes: 2237038
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156534
-
-### Performance issues
-
 
 ### Performance issues
 

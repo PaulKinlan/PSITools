@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.solaunitas.com/index.php/tr/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Sola Unitas® CA - Uluslararası Akredite Eğitimler](https://www.solaunitas.com/index.php/tr/)
 
@@ -29,9 +31,6 @@ title: https://www.solaunitas.com/index.php/tr/
 *  JS Response Bytes: 507318
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 745
-
-### Performance issues
-
 
 ### Performance issues
 

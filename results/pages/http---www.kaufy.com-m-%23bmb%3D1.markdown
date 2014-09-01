@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.kaufy.com/m/#bmb=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [news news](http://www.kaufy.com/m/#bmb=1)
 
@@ -29,9 +33,6 @@ title: http://www.kaufy.com/m/#bmb=1
 *  JS Response Bytes: 61179
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7308
-
-### Performance issues
-
 
 ### Performance issues
 

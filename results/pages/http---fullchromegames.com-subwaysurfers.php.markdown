@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://fullchromegames.com/subwaysurfers.php
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [fullchromegames.com](http://fullchromegames.com/subwaysurfers.php)
 
@@ -29,9 +32,6 @@ title: http://fullchromegames.com/subwaysurfers.php
 *  JS Response Bytes: 183045
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 276
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://app.gooseapp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Goose](https://app.gooseapp.com/)
 
@@ -29,9 +31,6 @@ title: https://app.gooseapp.com/
 *  JS Response Bytes: 1044767
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

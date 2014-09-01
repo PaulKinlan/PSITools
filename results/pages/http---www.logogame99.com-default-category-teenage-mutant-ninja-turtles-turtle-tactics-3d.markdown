@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.logogame99.com/default-category/teenage-mutant-ninja-turtles-turtle-tactics-3d
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Teenage Mutant Ninja Turtles: Turtle Tactics 3D - Logogame99](http://www.logogame99.com/default-category/teenage-mutant-ninja-turtles-turtle-tactics-3d)
 
@@ -29,9 +33,6 @@ title: http://www.logogame99.com/default-category/teenage-mutant-ninja-turtles-t
 *  JS Response Bytes: 671936
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15447
-
-### Performance issues
-
 
 ### Performance issues
 

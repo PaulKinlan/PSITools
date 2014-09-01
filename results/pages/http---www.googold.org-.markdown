@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.googold.org/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gold price Friday, 22 August 2014](http://www.googold.org/)
 
@@ -29,9 +34,6 @@ title: http://www.googold.org/
 *  JS Response Bytes: 554327
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

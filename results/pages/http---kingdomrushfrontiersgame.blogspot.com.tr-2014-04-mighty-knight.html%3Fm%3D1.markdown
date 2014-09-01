@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://kingdomrushfrontiersgame.blogspot.com.tr/2014/04/mighty-knight.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [Kingdom Rush Frontiers Game: Mighty Knight](http://kingdomrushfrontiersgame.blogspot.com.tr/2014/04/mighty-knight.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://kingdomrushfrontiersgame.blogspot.com.tr/2014/04/mighty-knight.htm
 *  JS Response Bytes: 1270773
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109987
-
-### Performance issues
-
 
 ### Performance issues
 

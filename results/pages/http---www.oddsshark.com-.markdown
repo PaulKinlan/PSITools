@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.oddsshark.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Betting Sites – Sports Betting Odds & Lines from Odds Shark](http://www.oddsshark.com/)
 
@@ -29,9 +31,6 @@ title: http://www.oddsshark.com/
 *  JS Response Bytes: 1409256
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23278
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://unfollow.ferrastudios.com/unfollow
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [FerraUnfollow - Unfollow Twitter Users who don't Follow You Back](http://unfollow.ferrastudios.com/unfollow)
 
@@ -29,9 +31,6 @@ title: http://unfollow.ferrastudios.com/unfollow
 *  JS Response Bytes: 1980058
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114345
-
-### Performance issues
-
 
 ### Performance issues
 

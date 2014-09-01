@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.jiuchongju.com/jcj/numtel
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [手机号码吉凶-九重居](http://www.jiuchongju.com/jcj/numtel)
 
@@ -29,9 +33,6 @@ title: http://www.jiuchongju.com/jcj/numtel
 *  JS Response Bytes: 330909
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

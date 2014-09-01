@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gta5hdgame.blogspot.com.tr/2014/04/gta-v.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [gta 5 online game: gta V](http://gta5hdgame.blogspot.com.tr/2014/04/gta-v.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://gta5hdgame.blogspot.com.tr/2014/04/gta-v.html?m=1
 *  JS Response Bytes: 1149315
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99174
-
-### Performance issues
-
 
 ### Performance issues
 

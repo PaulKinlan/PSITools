@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://p-share.appspot.com/
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [Web Application Starter Project](http://p-share.appspot.com/)
 
@@ -29,9 +31,6 @@ title: http://p-share.appspot.com/
 *  JS Response Bytes: 6345
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gokiu.com/index.php
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gokiu](http://www.gokiu.com/index.php)
 
@@ -29,9 +32,6 @@ title: http://www.gokiu.com/index.php
 *  JS Response Bytes: 576577
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1467
-
-### Performance issues
-
 
 ### Performance issues
 

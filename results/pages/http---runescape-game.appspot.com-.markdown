@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://runescape-game.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Runescape 3 Online](http://runescape-game.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://runescape-game.appspot.com/
 *  JS Response Bytes: 823494
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34024
-
-### Performance issues
-
 
 ### Performance issues
 

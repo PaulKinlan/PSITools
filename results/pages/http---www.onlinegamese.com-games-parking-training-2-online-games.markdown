@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.onlinegamese.com/games/parking-training-2/online-games
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Parking Training 2 | Online Games | Free Online Games Play Now](http://www.onlinegamese.com/games/parking-training-2/online-games)
 
@@ -29,9 +35,6 @@ title: http://www.onlinegamese.com/games/parking-training-2/online-games
 *  JS Response Bytes: 1866472
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 153734
-
-### Performance issues
-
 
 ### Performance issues
 

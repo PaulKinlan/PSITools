@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gtavicecitya.com/?s=fifa+2014&x=19&y=2
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [fifa 2014 « Search Results « free gta game vice city](http://www.gtavicecitya.com/?s=fifa+2014&x=19&y=2)
 
@@ -29,9 +33,6 @@ title: http://www.gtavicecitya.com/?s=fifa+2014&x=19&y=2
 *  JS Response Bytes: 1111442
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14380
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.meritonlinelearning.com/OLMS/Punch/Workbook.aspx?puid=1&cid=-1&pid=2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Paragraph Punch - Reasons](http://www.meritonlinelearning.com/OLMS/Punch/Workbook.aspx?puid=1&cid=-1&pid=2)
 
@@ -29,9 +33,6 @@ title: http://www.meritonlinelearning.com/OLMS/Punch/Workbook.aspx?puid=1&cid=-1
 *  JS Response Bytes: 84872
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 543
-
-### Performance issues
-
 
 ### Performance issues
 

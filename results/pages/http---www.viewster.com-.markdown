@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.viewster.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Watch Free Movies & TV-Series Online Without Downloading | Viewster Movies & TV-Series – Viewster BETA](http://www.viewster.com/)
 
@@ -29,9 +33,6 @@ title: http://www.viewster.com/
 *  JS Response Bytes: 267716
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3946
-
-### Performance issues
-
 
 ### Performance issues
 

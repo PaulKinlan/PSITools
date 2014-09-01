@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromemariogames.blogspot.com/2013/08/grand-theft-auto-san-andreas.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://chromemariogames.blogspot.com/2013/08/grand-theft-auto-san-andreas.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromemariogames.blogspot.com/2013/08/grand-theft-auto-san-andreas
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19316
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.balaodainformatica.com.br/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Balão da Informática - Balão da Informática](https://www.balaodainformatica.com.br/)
 
@@ -29,9 +32,6 @@ title: https://www.balaodainformatica.com.br/
 *  JS Response Bytes: 440246
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1339
-
-### Performance issues
-
 
 ### Performance issues
 

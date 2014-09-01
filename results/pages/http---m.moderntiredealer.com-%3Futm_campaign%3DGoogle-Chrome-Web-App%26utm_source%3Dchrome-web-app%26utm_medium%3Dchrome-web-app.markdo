@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.moderntiredealer.com/?utm_campaign=Google-Chrome-Web-App&utm_source=chrome-web-app&utm_medium=chrome-web-app
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
 ---
 ## [Modern Tire Dealer - Tire Dealer News](http://m.moderntiredealer.com/?utm_campaign=Google-Chrome-Web-App&utm_source=chrome-web-app&utm_medium=chrome-web-app)
 
@@ -29,9 +33,6 @@ title: http://m.moderntiredealer.com/?utm_campaign=Google-Chrome-Web-App&utm_sou
 *  JS Response Bytes: 401992
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1877
-
-### Performance issues
-
 
 ### Performance issues
 

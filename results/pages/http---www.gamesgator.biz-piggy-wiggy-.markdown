@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.biz/piggy-wiggy/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Piggy Wiggy](http://www.gamesgator.biz/piggy-wiggy/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.biz/piggy-wiggy/
 *  JS Response Bytes: 1087690
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48823
-
-### Performance issues
-
 
 ### Performance issues
 

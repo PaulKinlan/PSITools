@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chrome.com/maze/mobile/not-supported/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Chrome World Wide Maze - Not Supported](http://chrome.com/maze/mobile/not-supported/)
 
@@ -29,9 +31,6 @@ title: http://chrome.com/maze/mobile/not-supported/
 *  JS Response Bytes: 2222340
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125904
-
-### Performance issues
-
 
 ### Performance issues
 

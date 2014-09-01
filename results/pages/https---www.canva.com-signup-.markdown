@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.canva.com/signup/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Canva – Amazingly simple graphic design for blogs, presentations, Facebook covers, flyers and so much more.](https://www.canva.com/signup/)
 
@@ -29,9 +31,6 @@ title: https://www.canva.com/signup/
 *  JS Response Bytes: 546477
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59076
-
-### Performance issues
-
 
 ### Performance issues
 

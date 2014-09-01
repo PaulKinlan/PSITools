@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://capsgam.com/hay-day-plus/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Caps Games – Hay Day Plus](http://capsgam.com/hay-day-plus/)
 
@@ -29,9 +33,6 @@ title: http://capsgam.com/hay-day-plus/
 *  JS Response Bytes: 1036556
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15176
-
-### Performance issues
-
 
 ### Performance issues
 

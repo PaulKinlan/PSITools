@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://optiqal.com/bible-characters/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://optiqal.com/bible-characters/)
 
@@ -29,9 +34,6 @@ title: http://optiqal.com/bible-characters/
 *  JS Response Bytes: 736504
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25911
-
-### Performance issues
-
 
 ### Performance issues
 

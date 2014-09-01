@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://spidermanzombie.mopixie.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Spiderman Zombie Run 2 - Hacked Play Best Free Online Games, Flash Games Directory, Funtoosh Games](http://spidermanzombie.mopixie.com/)
 
@@ -29,9 +35,6 @@ title: http://spidermanzombie.mopixie.com/
 *  JS Response Bytes: 1196869
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5575
-
-### Performance issues
-
 
 ### Performance issues
 

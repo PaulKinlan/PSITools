@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.translate.ninja/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Translate Ninja](http://www.translate.ninja/)
 
@@ -29,9 +31,6 @@ title: http://www.translate.ninja/
 *  JS Response Bytes: 1841596
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 162327
-
-### Performance issues
-
 
 ### Performance issues
 

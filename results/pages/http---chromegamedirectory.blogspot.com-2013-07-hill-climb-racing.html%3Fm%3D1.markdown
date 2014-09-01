@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://chromegamedirectory.blogspot.com/2013/07/hill-climb-racing.html?m=1
+UseLegibleFontSizes: true
 ---
 ## [Service Unavailable](http://chromegamedirectory.blogspot.com/2013/07/hill-climb-racing.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://chromegamedirectory.blogspot.com/2013/07/hill-climb-racing.html?m=
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1123
-
-### Performance issues
-
 
 ### Performance issues
 

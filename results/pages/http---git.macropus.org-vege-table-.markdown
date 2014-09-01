@@ -33,8 +33,5 @@ title: http://git.macropus.org/vege-table/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

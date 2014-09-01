@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://tea-t.com/?label_chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tea-T.com | Tea Time Now](http://tea-t.com/?label_chrome)
 
@@ -29,9 +34,6 @@ title: http://tea-t.com/?label_chrome
 *  JS Response Bytes: 1568328
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14829
-
-### Performance issues
-
 
 ### Performance issues
 

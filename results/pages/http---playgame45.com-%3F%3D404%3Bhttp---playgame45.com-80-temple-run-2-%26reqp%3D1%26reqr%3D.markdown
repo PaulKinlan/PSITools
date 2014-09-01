@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://playgame45.com/?=404;http://playgame45.com:80/temple-run-2/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [playgame45.com](http://playgame45.com/?=404;http://playgame45.com:80/temple-run-2/&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://playgame45.com/?=404;http://playgame45.com:80/temple-run-2/&reqp=1
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100
-
-### Performance issues
-
 
 ### Performance issues
 

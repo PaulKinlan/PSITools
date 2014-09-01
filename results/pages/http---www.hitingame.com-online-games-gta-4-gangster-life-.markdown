@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.hitingame.com/online-games/gta-4-gangster-life/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GTA 4 Gangster Life « Online Flash Games – Popular Flash Games](http://www.hitingame.com/online-games/gta-4-gangster-life/)
 
@@ -29,9 +35,6 @@ title: http://www.hitingame.com/online-games/gta-4-gangster-life/
 *  JS Response Bytes: 1169015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98421
-
-### Performance issues
-
 
 ### Performance issues
 

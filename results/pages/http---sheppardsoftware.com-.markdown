@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://sheppardsoftware.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sheppard Software: Fun free online learning games and activities for kids.](http://sheppardsoftware.com/)
 
@@ -29,9 +34,6 @@ title: http://sheppardsoftware.com/
 *  JS Response Bytes: 993401
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1424
-
-### Performance issues
-
 
 ### Performance issues
 

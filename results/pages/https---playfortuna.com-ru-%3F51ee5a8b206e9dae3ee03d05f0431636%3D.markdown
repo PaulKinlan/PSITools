@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://playfortuna.com/ru/?51ee5a8b206e9dae3ee03d05f0431636=
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PlayFortuna - Казино ИгроваяФортуна | PlayFortuna казино - ПлейФортуна](https://playfortuna.com/ru/?51ee5a8b206e9dae3ee03d05f0431636=)
 
@@ -29,9 +34,6 @@ title: https://playfortuna.com/ru/?51ee5a8b206e9dae3ee03d05f0431636=
 *  JS Response Bytes: 720539
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6263
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.zasca.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Zasca.com - El mejor contenido de la red](http://www.zasca.com/)
 
@@ -29,9 +31,6 @@ title: http://www.zasca.com/
 *  JS Response Bytes: 1114200
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 716
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://fourneaudegraisse.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Fourneau Brûleur De Graisse](http://fourneaudegraisse.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://fourneaudegraisse.blogspot.com/?m=1
 *  JS Response Bytes: 1179390
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2820
-
-### Performance issues
-
 
 ### Performance issues
 

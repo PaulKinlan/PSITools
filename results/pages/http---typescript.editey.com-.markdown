@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://typescript.editey.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Editey](http://typescript.editey.com/)
 
@@ -29,9 +36,6 @@ title: http://typescript.editey.com/
 *  JS Response Bytes: 553732
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163919
-
-### Performance issues
-
 
 ### Performance issues
 

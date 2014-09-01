@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://spudslanding.moorheadschools.org/login.aspx?redir=%2F
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [S.P.U.D.S. - Login](https://spudslanding.moorheadschools.org/login.aspx?redir=%2F)
 
@@ -29,9 +32,6 @@ title: https://spudslanding.moorheadschools.org/login.aspx?redir=%2F
 *  JS Response Bytes: 67041
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 374
-
-### Performance issues
-
 
 ### Performance issues
 

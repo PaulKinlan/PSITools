@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/tower/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Tower of Hanoi](http://www.fupa.com/apps/tower/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/tower/
 *  JS Response Bytes: 10488
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

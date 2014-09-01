@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://chrome.funhost.net/play/?app=minipool
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Mini Pool - Game on Fun Host Games!](http://chrome.funhost.net/play/?app=minipool)
 
@@ -29,9 +35,6 @@ title: http://chrome.funhost.net/play/?app=minipool
 *  JS Response Bytes: 3321660
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41390
-
-### Performance issues
-
 
 ### Performance issues
 

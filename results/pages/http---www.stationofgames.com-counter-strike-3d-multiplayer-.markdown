@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.stationofgames.com/counter-strike-3d-multiplayer/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Counter Strike 3D Multiplayer](http://www.stationofgames.com/counter-strike-3d-multiplayer/)
 
@@ -29,9 +35,6 @@ title: http://www.stationofgames.com/counter-strike-3d-multiplayer/
 *  JS Response Bytes: 1363490
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 133394
-
-### Performance issues
-
 
 ### Performance issues
 

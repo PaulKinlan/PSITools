@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bradsdeals.com/?utm_source=chrome&utm_medium=app&utm_campaign=bradsdeals_transactional&utm_content=bd_app_from_webstore
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Coupon Codes: Online Coupons & Promo Codes for Dell, Macy's, Overstock and More!](http://www.bradsdeals.com/?utm_source=chrome&utm_medium=app&utm_campaign=bradsdeals_transactional&utm_content=bd_app_from_webstore)
 
@@ -29,9 +33,6 @@ title: http://www.bradsdeals.com/?utm_source=chrome&utm_medium=app&utm_campaign=
 *  JS Response Bytes: 1501337
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 64933
-
-### Performance issues
-
 
 ### Performance issues
 

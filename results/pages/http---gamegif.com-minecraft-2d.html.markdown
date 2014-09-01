@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://gamegif.com/minecraft-2d.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GameGIF.Com – MineCraft 2D](http://gamegif.com/minecraft-2d.html)
 
@@ -29,9 +36,6 @@ title: http://gamegif.com/minecraft-2d.html
 *  JS Response Bytes: 399684
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63582
-
-### Performance issues
-
 
 ### Performance issues
 

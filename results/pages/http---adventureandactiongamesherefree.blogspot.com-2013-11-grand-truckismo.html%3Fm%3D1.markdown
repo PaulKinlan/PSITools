@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://adventureandactiongamesherefree.blogspot.com/2013/11/grand-truckismo.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Adventure And Action Games Here Free: Grand Truckismo](http://adventureandactiongamesherefree.blogspot.com/2013/11/grand-truckismo.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://adventureandactiongamesherefree.blogspot.com/2013/11/grand-truckis
 *  JS Response Bytes: 1291094
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111063
-
-### Performance issues
-
 
 ### Performance issues
 

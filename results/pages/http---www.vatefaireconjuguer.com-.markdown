@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.vatefaireconjuguer.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [La conjugaison des verbes français | vatefaireconjuguer.com](http://www.vatefaireconjuguer.com/)
 
@@ -29,9 +31,6 @@ title: http://www.vatefaireconjuguer.com/
 *  JS Response Bytes: 1291761
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 961
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://anunturiuk.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [AnunturiUK anunturi gratuite pentru Romani in UK](http://anunturiuk.com/)
 
@@ -29,9 +31,6 @@ title: http://anunturiuk.com/
 *  JS Response Bytes: 117312
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7866
-
-### Performance issues
-
 
 ### Performance issues
 

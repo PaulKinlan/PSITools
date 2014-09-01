@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://givster.pl/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pomagamy organizować zrzutki na prezent przez Internet - givster.pl](http://givster.pl/)
 
@@ -29,9 +34,6 @@ title: http://givster.pl/
 *  JS Response Bytes: 288090
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

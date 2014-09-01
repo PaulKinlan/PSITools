@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.amazingpublicrec.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://www.amazingpublicrec.blogspot.com/?m=1)
 
@@ -18,20 +21,17 @@ title: http://www.amazingpublicrec.blogspot.com/?m=1
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 1013
+*  Total Request Bytes: 1014
 
 ### Response data
 
 *  HTML Response Bytes: 0
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 46653
-*  Image Response Bytes: 2951
-*  JS Response Bytes: 41102
+*  Image Response Bytes: 2950
+*  JS Response Bytes: 41101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18789
-
-### Performance issues
-
 
 ### Performance issues
 

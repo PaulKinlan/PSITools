@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.technicgaming.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TechnicGaming - Home](http://www.technicgaming.com/)
 
@@ -29,9 +34,6 @@ title: http://www.technicgaming.com/
 *  JS Response Bytes: 620675
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 822
-
-### Performance issues
-
 
 ### Performance issues
 

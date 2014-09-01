@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.worldcupfootball360.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [World Cup 2014](http://m.worldcupfootball360.com/)
 
@@ -29,9 +31,6 @@ title: http://m.worldcupfootball360.com/
 *  JS Response Bytes: 162503
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7103
-
-### Performance issues
-
 
 ### Performance issues
 

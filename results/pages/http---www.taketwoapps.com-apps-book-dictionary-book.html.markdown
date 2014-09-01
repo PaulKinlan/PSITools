@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.taketwoapps.com/apps/book/dictionary/book.html
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dictionary Study Tool](http://www.taketwoapps.com/apps/book/dictionary/book.html)
 
@@ -29,9 +33,6 @@ title: http://www.taketwoapps.com/apps/book/dictionary/book.html
 *  JS Response Bytes: 428390
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

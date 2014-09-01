@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.arcadgames.net/apps/Pdf-to-Excel/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [convert pdf to excel](http://www.arcadgames.net/apps/Pdf-to-Excel/)
 
@@ -29,9 +32,6 @@ title: http://www.arcadgames.net/apps/Pdf-to-Excel/
 *  JS Response Bytes: 403526
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17088
-
-### Performance issues
-
 
 ### Performance issues
 

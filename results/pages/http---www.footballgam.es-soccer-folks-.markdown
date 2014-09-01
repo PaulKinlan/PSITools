@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/soccer-folks/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Soccer Folks Game](http://www.footballgam.es/soccer-folks/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/soccer-folks/
 *  JS Response Bytes: 2407050
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 159962
-
-### Performance issues
-
 
 ### Performance issues
 

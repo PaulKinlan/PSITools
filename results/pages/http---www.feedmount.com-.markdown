@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.feedmount.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Feedmount](http://www.feedmount.com/)
 
@@ -29,9 +32,6 @@ title: http://www.feedmount.com/
 *  JS Response Bytes: 540827
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 602
-
-### Performance issues
-
 
 ### Performance issues
 

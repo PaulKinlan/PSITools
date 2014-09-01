@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://8ball.appb.in/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Magic 8Ball - 8ball.appb.in](http://8ball.appb.in/)
 
@@ -29,9 +31,6 @@ title: http://8ball.appb.in/
 *  JS Response Bytes: 525024
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

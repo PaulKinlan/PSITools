@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.amazon.co.uk/?_encoding=UTF8&camp=1634&creative=6738&linkCode=ur2&tag=vocofrfrprsaf-21
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://www.amazon.co.uk/?_encoding=UTF8&camp=1634&creative=6738&linkCode=ur2&tag=vocofrfrprsaf-21)
 
@@ -29,9 +33,6 @@ title: http://www.amazon.co.uk/?_encoding=UTF8&camp=1634&creative=6738&linkCode=
 *  JS Response Bytes: 254348
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10375
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://audioconverterfree.com/download/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Audio Converter](http://audioconverterfree.com/download/)
 
@@ -29,9 +32,6 @@ title: http://audioconverterfree.com/download/
 *  JS Response Bytes: 25852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1747
-
-### Performance issues
-
 
 ### Performance issues
 

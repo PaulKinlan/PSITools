@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.uhedgefund.com/Wolfgang_system/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hedge Fund, Trader](http://www.uhedgefund.com/Wolfgang_system/)
 
@@ -29,9 +35,6 @@ title: http://www.uhedgefund.com/Wolfgang_system/
 *  JS Response Bytes: 370737
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1470
-
-### Performance issues
-
 
 ### Performance issues
 

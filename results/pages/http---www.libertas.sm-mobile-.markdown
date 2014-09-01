@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.libertas.sm/mobile/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Libertas.sm Mobile](http://www.libertas.sm/mobile/)
 
@@ -29,9 +34,6 @@ title: http://www.libertas.sm/mobile/
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13469
-
-### Performance issues
-
 
 ### Performance issues
 

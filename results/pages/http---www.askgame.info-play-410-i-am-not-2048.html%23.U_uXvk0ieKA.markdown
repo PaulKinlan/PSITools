@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.askgame.info/play/410/i-am-not-2048.html#.U_uXvk0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [I am not 2048 - Ask Game - Best Free Online Flash Games](http://www.askgame.info/play/410/i-am-not-2048.html#.U_uXvk0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.askgame.info/play/410/i-am-not-2048.html#.U_uXvk0ieKA
 *  JS Response Bytes: 1718188
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27294
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.sitiostotal.com/envivo-online/escuchar-programas-de-radio-en-vivo-y-online/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Escuchar Programas de Radio en Vivo y Online](http://www.sitiostotal.com/envivo-online/escuchar-programas-de-radio-en-vivo-y-online/)
 
@@ -29,9 +33,6 @@ title: http://www.sitiostotal.com/envivo-online/escuchar-programas-de-radio-en-v
 *  JS Response Bytes: 2082939
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118679
-
-### Performance issues
-
 
 ### Performance issues
 

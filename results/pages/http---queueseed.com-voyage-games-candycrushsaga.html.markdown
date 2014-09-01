@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://queueseed.com/voyage/games/candycrushsaga.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Candy Crush saga](http://queueseed.com/voyage/games/candycrushsaga.html)
 
@@ -29,9 +34,6 @@ title: http://queueseed.com/voyage/games/candycrushsaga.html
 *  JS Response Bytes: 878762
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15722
-
-### Performance issues
-
 
 ### Performance issues
 

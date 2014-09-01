@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.cocoonfxmedia.co.uk/news/?utm_source=Chrome%2BApp&utm_medium=App&utm_campaign=Chrom%2BApp
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Web Design News | Tamworth | Lichfield | Birmingham Cocoonfxmedia](http://www.cocoonfxmedia.co.uk/news/?utm_source=Chrome%2BApp&utm_medium=App&utm_campaign=Chrom%2BApp)
 
@@ -29,9 +35,6 @@ title: http://www.cocoonfxmedia.co.uk/news/?utm_source=Chrome%2BApp&utm_medium=A
 *  JS Response Bytes: 1285907
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116846
-
-### Performance issues
-
 
 ### Performance issues
 

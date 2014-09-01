@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.juegosdecirugia.org/futbol-doctor-2/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fútbol doctor 2 juego](http://www.juegosdecirugia.org/futbol-doctor-2/)
 
@@ -29,9 +36,6 @@ title: http://www.juegosdecirugia.org/futbol-doctor-2/
 *  JS Response Bytes: 3410289
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106572
-
-### Performance issues
-
 
 ### Performance issues
 

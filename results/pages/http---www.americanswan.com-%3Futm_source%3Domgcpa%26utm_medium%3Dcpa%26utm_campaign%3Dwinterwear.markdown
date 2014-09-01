@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.americanswan.com/?utm_source=omgcpa&utm_medium=cpa&utm_campaign=winterwear
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Shopping Sites in India, Clothes, Cash on Delivery, Fashion, Footwear](http://www.americanswan.com/?utm_source=omgcpa&utm_medium=cpa&utm_campaign=winterwear)
 
@@ -29,9 +34,6 @@ title: http://www.americanswan.com/?utm_source=omgcpa&utm_medium=cpa&utm_campaig
 *  JS Response Bytes: 1357808
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27460
-
-### Performance issues
-
 
 ### Performance issues
 

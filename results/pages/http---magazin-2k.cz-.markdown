@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://magazin-2k.cz/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Magazín 2K](http://magazin-2k.cz/)
 
@@ -29,9 +32,6 @@ title: http://magazin-2k.cz/
 *  JS Response Bytes: 1138404
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 81978
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://jimmcgaw.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Jim McGaw's Blog](http://jimmcgaw.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://jimmcgaw.blogspot.com/?m=1
 *  JS Response Bytes: 314307
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 557
-
-### Performance issues
-
 
 ### Performance issues
 

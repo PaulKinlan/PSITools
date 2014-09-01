@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.mygamesapps.com/sub_action/sub20109131114.html#.U_eCXE0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Callow Drift_mygamesapps](http://www.mygamesapps.com/sub_action/sub20109131114.html#.U_eCXE0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.mygamesapps.com/sub_action/sub20109131114.html#.U_eCXE0ieKA
 *  JS Response Bytes: 733875
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3166
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_310_Pro-Racing-GT.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pro Racing GT Flash Games](http://www.newpopulargames.com/game_310_Pro-Racing-GT.html)
 
@@ -29,9 +36,6 @@ title: http://www.newpopulargames.com/game_310_Pro-Racing-GT.html
 *  JS Response Bytes: 1685843
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114261
-
-### Performance issues
-
 
 ### Performance issues
 

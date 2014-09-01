@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mobilegeekworld.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mobilegeekworld.com](http://www.mobilegeekworld.com/)
 
@@ -29,9 +33,6 @@ title: http://www.mobilegeekworld.com/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

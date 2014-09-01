@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://frontrow-seat.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Frontrow Full Movie](http://frontrow-seat.com/)
 
@@ -29,9 +33,6 @@ title: http://frontrow-seat.com/
 *  JS Response Bytes: 2102011
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16452
-
-### Performance issues
-
 
 ### Performance issues
 

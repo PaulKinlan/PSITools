@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.coolmathgamesall.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cool Math Games and cool math more run cool math](http://www.coolmathgamesall.com/)
 
@@ -29,9 +33,6 @@ title: http://www.coolmathgamesall.com/
 *  JS Response Bytes: 1749097
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118125
-
-### Performance issues
-
 
 ### Performance issues
 

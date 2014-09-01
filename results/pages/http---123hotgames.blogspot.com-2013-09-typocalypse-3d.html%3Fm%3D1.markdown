@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://123hotgames.blogspot.com/2013/09/typocalypse-3d.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [123 hot games: Typocalypse 3D](http://123hotgames.blogspot.com/2013/09/typocalypse-3d.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://123hotgames.blogspot.com/2013/09/typocalypse-3d.html?m=1
 *  JS Response Bytes: 2393478
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287751
-
-### Performance issues
-
 
 ### Performance issues
 

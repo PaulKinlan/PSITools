@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://freehd-games.blogspot.com/2013/08/angry-gray-run.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free online web games: Angry gray run](http://freehd-games.blogspot.com/2013/08/angry-gray-run.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://freehd-games.blogspot.com/2013/08/angry-gray-run.html?m=1
 *  JS Response Bytes: 1840814
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98480
-
-### Performance issues
-
 
 ### Performance issues
 

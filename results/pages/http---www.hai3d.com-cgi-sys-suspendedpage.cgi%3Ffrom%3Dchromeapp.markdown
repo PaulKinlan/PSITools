@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.hai3d.com/cgi-sys/suspendedpage.cgi?from=chromeapp
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Account Suspended](http://www.hai3d.com/cgi-sys/suspendedpage.cgi?from=chromeapp)
 
@@ -29,9 +31,6 @@ title: http://www.hai3d.com/cgi-sys/suspendedpage.cgi?from=chromeapp
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 460
-
-### Performance issues
-
 
 ### Performance issues
 

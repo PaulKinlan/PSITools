@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://sdgundamcapsulefighter-mmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play SD Gundam Capsule Fighter Online](http://sdgundamcapsulefighter-mmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://sdgundamcapsulefighter-mmo.appspot.com/
 *  JS Response Bytes: 778376
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42660
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://velocity.pm/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Velocity Project Management for Small Businesses](http://velocity.pm/)
 
@@ -29,9 +31,6 @@ title: http://velocity.pm/
 *  JS Response Bytes: 397840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 168527
-
-### Performance issues
-
 
 ### Performance issues
 

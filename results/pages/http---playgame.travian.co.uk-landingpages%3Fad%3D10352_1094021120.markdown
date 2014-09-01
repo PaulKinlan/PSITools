@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://playgame.travian.co.uk/landingpages?ad=10352_1094021120
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Travian - Browser Game - Romans, Gauls & Teutons](http://playgame.travian.co.uk/landingpages?ad=10352_1094021120)
 
@@ -29,9 +34,6 @@ title: http://playgame.travian.co.uk/landingpages?ad=10352_1094021120
 *  JS Response Bytes: 643156
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3758
-
-### Performance issues
-
 
 ### Performance issues
 

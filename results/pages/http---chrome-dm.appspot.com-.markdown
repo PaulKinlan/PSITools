@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chrome-dm.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chrome Device Manifest](http://chrome-dm.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://chrome-dm.appspot.com/
 *  JS Response Bytes: 123057
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

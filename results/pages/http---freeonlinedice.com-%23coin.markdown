@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://freeonlinedice.com/#coin
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Roll The Dice - Flip A Coin: freeonlinedice.com](http://freeonlinedice.com/#coin)
 
@@ -29,9 +32,6 @@ title: http://freeonlinedice.com/#coin
 *  JS Response Bytes: 739178
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44204
-
-### Performance issues
-
 
 ### Performance issues
 

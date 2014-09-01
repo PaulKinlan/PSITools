@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromegames.appsengine.us/portal/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Play Free Online Portal Game](http://chromegames.appsengine.us/portal/)
 
@@ -29,9 +32,6 @@ title: http://chromegames.appsengine.us/portal/
 *  JS Response Bytes: 538642
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2401
-
-### Performance issues
-
 
 ### Performance issues
 

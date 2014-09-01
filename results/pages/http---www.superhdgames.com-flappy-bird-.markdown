@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.superhdgames.com/flappy-bird/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super HD Games – Flappy Bird](http://www.superhdgames.com/flappy-bird/)
 
@@ -29,9 +33,6 @@ title: http://www.superhdgames.com/flappy-bird/
 *  JS Response Bytes: 875985
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15974
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://app.invoice2go.com/DownloadiPhone.aspx
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [Invoice2go](http://app.invoice2go.com/DownloadiPhone.aspx)
 
@@ -29,9 +32,6 @@ title: http://app.invoice2go.com/DownloadiPhone.aspx
 *  JS Response Bytes: 41101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 549
-
-### Performance issues
-
 
 ### Performance issues
 

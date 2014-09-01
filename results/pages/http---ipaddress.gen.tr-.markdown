@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ipaddress.gen.tr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ip Address](http://ipaddress.gen.tr/)
 
@@ -29,9 +33,6 @@ title: http://ipaddress.gen.tr/
 *  JS Response Bytes: 527443
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

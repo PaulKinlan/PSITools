@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://electric-mist-8294.herokuapp.com/
+EnableGzipCompression: true
 ---
 ## [Application Error](https://electric-mist-8294.herokuapp.com/)
 
@@ -29,9 +30,6 @@ title: https://electric-mist-8294.herokuapp.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 661
-
-### Performance issues
-
 
 ### Performance issues
 

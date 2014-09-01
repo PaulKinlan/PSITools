@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://hubgamingonl9.blogspot.com/2014/04/need-for-speed-most-wanted-guide.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gaming Hub: Need for Speed: Most Wanted Guide](http://hubgamingonl9.blogspot.com/2014/04/need-for-speed-most-wanted-guide.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://hubgamingonl9.blogspot.com/2014/04/need-for-speed-most-wanted-guid
 *  JS Response Bytes: 1373029
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287192
-
-### Performance issues
-
 
 ### Performance issues
 

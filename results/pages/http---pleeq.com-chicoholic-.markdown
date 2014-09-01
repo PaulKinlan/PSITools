@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://pleeq.com/chicoholic/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chicoholic](http://pleeq.com/chicoholic/)
 
@@ -29,9 +32,6 @@ title: http://pleeq.com/chicoholic/
 *  JS Response Bytes: 147415
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1416
-
-### Performance issues
-
 
 ### Performance issues
 

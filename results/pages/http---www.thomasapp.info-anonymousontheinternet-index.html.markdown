@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.thomasapp.info/anonymousontheinternet/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Easy Hide Your IP Address - Anonymous on the Internet - Download FREE](http://www.thomasapp.info/anonymousontheinternet/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.thomasapp.info/anonymousontheinternet/index.html
 *  JS Response Bytes: 911322
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112860
-
-### Performance issues
-
 
 ### Performance issues
 

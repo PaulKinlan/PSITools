@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://play.dreambox.com/login/3mtg/olympicve1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DreamBox Learning - Login](https://play.dreambox.com/login/3mtg/olympicve1)
 
@@ -29,9 +34,6 @@ title: https://play.dreambox.com/login/3mtg/olympicve1
 *  JS Response Bytes: 52457
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://secure.creditsesame.com/s/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Credit Sesame - Log In](https://secure.creditsesame.com/s/login)
 
@@ -29,9 +33,6 @@ title: https://secure.creditsesame.com/s/login
 *  JS Response Bytes: 1088918
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96431
-
-### Performance issues
-
 
 ### Performance issues
 

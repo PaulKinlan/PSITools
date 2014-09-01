@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tamgam.com/hay-day-plus/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tam Games – Hay Day Plus](http://www.tamgam.com/hay-day-plus/)
 
@@ -29,9 +34,6 @@ title: http://www.tamgam.com/hay-day-plus/
 *  JS Response Bytes: 1035287
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45728
-
-### Performance issues
-
 
 ### Performance issues
 

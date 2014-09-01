@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mmogoodgames.blogspot.com.tr/2014/05/deer-sniper-2014_25.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MMO Good Games: Deer Sniper 2014](http://mmogoodgames.blogspot.com.tr/2014/05/deer-sniper-2014_25.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://mmogoodgames.blogspot.com.tr/2014/05/deer-sniper-2014_25.html?m=1
 *  JS Response Bytes: 1270754
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111046
-
-### Performance issues
-
 
 ### Performance issues
 

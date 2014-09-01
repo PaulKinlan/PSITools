@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gold-quest.appspot.com/game.html?game=goldquest
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://gold-quest.appspot.com/game.html?game=goldquest)
 
@@ -29,9 +34,6 @@ title: http://gold-quest.appspot.com/game.html?game=goldquest
 *  JS Response Bytes: 371179
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 467
-
-### Performance issues
-
 
 ### Performance issues
 

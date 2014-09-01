@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://afw.alawar.com/?r=wrapper/index&viewer_id=1&api_id=10&sn=chromestore
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [](http://afw.alawar.com/?r=wrapper/index&viewer_id=1&api_id=10&sn=chromestore)
 
@@ -29,9 +31,6 @@ title: http://afw.alawar.com/?r=wrapper/index&viewer_id=1&api_id=10&sn=chromesto
 *  JS Response Bytes: 86065
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 495
-
-### Performance issues
-
 
 ### Performance issues
 

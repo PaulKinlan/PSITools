@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.meepcity.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MeepCity - Online Social Hangout!](https://www.meepcity.com/)
 
@@ -29,9 +34,6 @@ title: https://www.meepcity.com/
 *  JS Response Bytes: 617761
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95406
-
-### Performance issues
-
 
 ### Performance issues
 

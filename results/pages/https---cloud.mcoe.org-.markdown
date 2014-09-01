@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://cloud.mcoe.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Merced COE Cloud](https://cloud.mcoe.org/)
 
@@ -29,9 +31,6 @@ title: https://cloud.mcoe.org/
 *  JS Response Bytes: 119266
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 62
-
-### Performance issues
-
 
 ### Performance issues
 

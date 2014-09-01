@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://arcadechrome.com/gch/?g=119
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Big Snow Tricks](http://arcadechrome.com/gch/?g=119)
 
@@ -29,9 +33,6 @@ title: http://arcadechrome.com/gch/?g=119
 *  JS Response Bytes: 1512883
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39460
-
-### Performance issues
-
 
 ### Performance issues
 

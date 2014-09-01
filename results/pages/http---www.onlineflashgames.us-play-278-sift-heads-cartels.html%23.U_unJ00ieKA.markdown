@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.onlineflashgames.us/play/278/sift-heads-cartels.html#.U_unJ00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sift heads cartels - Online Flash Games](http://www.onlineflashgames.us/play/278/sift-heads-cartels.html#.U_unJ00ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.onlineflashgames.us/play/278/sift-heads-cartels.html#.U_unJ00i
 *  JS Response Bytes: 1448255
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14839
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://onl9gamehub.blogspot.com/2013/11/drag-racing-online-game-for-pc.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Gaming: Drag Racing Online game for PC](http://onl9gamehub.blogspot.com/2013/11/drag-racing-online-game-for-pc.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://onl9gamehub.blogspot.com/2013/11/drag-racing-online-game-for-pc.ht
 *  JS Response Bytes: 1114843
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95609
-
-### Performance issues
-
 
 ### Performance issues
 

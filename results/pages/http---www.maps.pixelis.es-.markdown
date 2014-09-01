@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.maps.pixelis.es/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Pixelis Maps · Buscador de coordenadas GPS](http://www.maps.pixelis.es/)
 
@@ -29,9 +33,6 @@ title: http://www.maps.pixelis.es/
 *  JS Response Bytes: 872095
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53640
-
-### Performance issues
-
 
 ### Performance issues
 

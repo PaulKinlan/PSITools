@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/shadez-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shadez 2](http://www.war-games.ws/shadez-2/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/shadez-2/
 *  JS Response Bytes: 2292954
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122118
-
-### Performance issues
-
 
 ### Performance issues
 

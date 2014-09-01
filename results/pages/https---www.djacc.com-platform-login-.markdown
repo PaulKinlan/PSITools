@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.djacc.com/platform/login/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login - Mosaic](https://www.djacc.com/platform/login/)
 
@@ -29,9 +34,6 @@ title: https://www.djacc.com/platform/login/
 *  JS Response Bytes: 601121
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3472
-
-### Performance issues
-
 
 ### Performance issues
 

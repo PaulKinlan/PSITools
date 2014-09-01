@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.agencymanager.amadeus.com/agm-web-9.1.40/?configfile=/ahpomnbe148c3304
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Amadeus Agency Manager](https://www.agencymanager.amadeus.com/agm-web-9.1.40/?configfile=/ahpomnbe148c3304)
 
@@ -29,9 +34,6 @@ title: https://www.agencymanager.amadeus.com/agm-web-9.1.40/?configfile=/ahpomnb
 *  JS Response Bytes: 25991
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 561
-
-### Performance issues
-
 
 ### Performance issues
 

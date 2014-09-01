@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/actiongames/gta-5-flash-version/#.U_ubsk0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GTA 5 Flash Version « Online Flash Game GTA 5 Flash Version](http://gamematic.net/online-flash-games/actiongames/gta-5-flash-version/#.U_ubsk0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/actiongames/gta-5-flash-version/#
 *  JS Response Bytes: 1754640
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29934
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ssupremacy.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Star Supremacy - A Free to Play Sci Fi Browser-Based MMORTS from Barbily Games](http://www.ssupremacy.com/)
 
@@ -29,9 +34,6 @@ title: http://www.ssupremacy.com/
 *  JS Response Bytes: 116586
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

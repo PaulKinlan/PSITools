@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.ghacks.net/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [gHacks Technology News](http://www.ghacks.net/)
 
@@ -29,9 +31,6 @@ title: http://www.ghacks.net/
 *  JS Response Bytes: 172085
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://mrdoob.com/projects/harmony/
+SizeTapTargetsAppropriately: true
 ---
 ## [Harmony](http://mrdoob.com/projects/harmony/)
 
@@ -29,9 +30,6 @@ title: http://mrdoob.com/projects/harmony/
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

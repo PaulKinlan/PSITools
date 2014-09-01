@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://app.youtubeloop.net/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [∞ Loop YouTube Videos! Repeat full or partial YouTube videos using YouTube Loop](http://app.youtubeloop.net/)
 
@@ -29,9 +31,6 @@ title: http://app.youtubeloop.net/
 *  JS Response Bytes: 748124
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

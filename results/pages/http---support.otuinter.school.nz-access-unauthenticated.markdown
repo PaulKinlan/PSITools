@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://support.otuinter.school.nz/access/unauthenticated
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Otumoetai Intermediate](http://support.otuinter.school.nz/access/unauthenticated)
 
@@ -29,9 +31,6 @@ title: http://support.otuinter.school.nz/access/unauthenticated
 *  JS Response Bytes: 335086
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1961
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.freezonegames.com/default-category/top-model-contest
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Top Model Contest - Free Zone GaMeS - Free Online Flash Games](http://www.freezonegames.com/default-category/top-model-contest)
 
@@ -29,9 +36,6 @@ title: http://www.freezonegames.com/default-category/top-model-contest
 *  JS Response Bytes: 934961
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15564
-
-### Performance issues
-
 
 ### Performance issues
 

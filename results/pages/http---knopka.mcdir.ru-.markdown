@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://knopka.mcdir.ru/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Начальная страница домена knopka.mcdir.ru](http://knopka.mcdir.ru/)
 
@@ -29,9 +31,6 @@ title: http://knopka.mcdir.ru/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.taketwoapps.com/apps/other/safe-search/app.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Child Safe Internet Search](http://www.taketwoapps.com/apps/other/safe-search/app.html)
 
@@ -29,9 +32,6 @@ title: http://www.taketwoapps.com/apps/other/safe-search/app.html
 *  JS Response Bytes: 6647
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

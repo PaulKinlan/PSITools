@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.onlinemarketgames.com/safety-first.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Safety First | Online Market Games](http://www.onlinemarketgames.com/safety-first.html)
 
@@ -29,9 +34,6 @@ title: http://www.onlinemarketgames.com/safety-first.html
 *  JS Response Bytes: 894476
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16328
-
-### Performance issues
-
 
 ### Performance issues
 

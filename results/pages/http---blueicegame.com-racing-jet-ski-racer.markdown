@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://blueicegame.com/racing/jet-ski-racer
+UseLegibleFontSizes: true
 ---
 ## [509 Bandwidth Limit Exceeded](http://blueicegame.com/racing/jet-ski-racer)
 
@@ -29,9 +30,6 @@ title: http://blueicegame.com/racing/jet-ski-racer
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6329
-
-### Performance issues
-
 
 ### Performance issues
 

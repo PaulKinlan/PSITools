@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://sportsquid.byethost16.com/windoge%208.1.html
+PrioritizeVisibleContent: true
 ---
 ## [Windoge 8.1 (made by sportsquid)](http://sportsquid.byethost16.com/windoge%208.1.html)
 
@@ -29,9 +30,6 @@ title: http://sportsquid.byethost16.com/windoge%208.1.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

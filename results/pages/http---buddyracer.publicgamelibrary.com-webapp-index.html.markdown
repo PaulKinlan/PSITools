@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://buddyracer.publicgamelibrary.com/webapp/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Buddy Racer](http://buddyracer.publicgamelibrary.com/webapp/index.html)
 
@@ -29,9 +31,6 @@ title: http://buddyracer.publicgamelibrary.com/webapp/index.html
 *  JS Response Bytes: 708536
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

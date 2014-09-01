@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.playsolitairegames.com/pyramid-solitaire/trident-solitaire
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Trident Solitaire - Games - Play Free Online Solitaire Games](http://www.playsolitairegames.com/pyramid-solitaire/trident-solitaire)
 
@@ -29,9 +35,6 @@ title: http://www.playsolitairegames.com/pyramid-solitaire/trident-solitaire
 *  JS Response Bytes: 980065
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17065
-
-### Performance issues
-
 
 ### Performance issues
 

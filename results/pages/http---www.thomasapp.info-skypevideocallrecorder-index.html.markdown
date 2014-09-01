@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.thomasapp.info/skypevideocallrecorder/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MSN/Skype Webcam Recorder, Skype/Msn Messenger, Recording Both Audio and Video Chats](http://www.thomasapp.info/skypevideocallrecorder/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.thomasapp.info/skypevideocallrecorder/index.html
 *  JS Response Bytes: 1007682
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112305
-
-### Performance issues
-
 
 ### Performance issues
 

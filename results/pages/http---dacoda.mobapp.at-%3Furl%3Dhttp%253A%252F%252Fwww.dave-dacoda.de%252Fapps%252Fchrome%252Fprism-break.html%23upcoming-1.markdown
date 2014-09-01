@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://dacoda.mobapp.at/?url=http%3A%2F%2Fwww.dave-dacoda.de%2Fapps%2Fchrome%2Fprism-break.html#upcoming/1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Fussball LIVE](http://dacoda.mobapp.at/?url=http%3A%2F%2Fwww.dave-dacoda.de%2Fapps%2Fchrome%2Fprism-break.html#upcoming/1)
 
@@ -29,9 +33,6 @@ title: http://dacoda.mobapp.at/?url=http%3A%2F%2Fwww.dave-dacoda.de%2Fapps%2Fchr
 *  JS Response Bytes: 1235081
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 771
-
-### Performance issues
-
 
 ### Performance issues
 

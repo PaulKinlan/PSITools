@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gamesangel.net/?=404;http://www.gamesangel.net:80/racing-games.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [gamesangel.net](http://gamesangel.net/?=404;http://www.gamesangel.net:80/racing-games.html&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://gamesangel.net/?=404;http://www.gamesangel.net:80/racing-games.htm
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 108
-
-### Performance issues
-
 
 ### Performance issues
 

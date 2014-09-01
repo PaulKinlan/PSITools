@@ -33,8 +33,5 @@ title: http://www.yobugames.com/game/raptor_safari-1088
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://mparc.pageforest.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [m.PARC.Forum](http://mparc.pageforest.com/)
 
@@ -29,9 +31,6 @@ title: http://mparc.pageforest.com/
 *  JS Response Bytes: 374968
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

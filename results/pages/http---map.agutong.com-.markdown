@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://map.agutong.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [股票热力地图，最直观、最先进的看盘工具，A股数据尽收眼底](http://map.agutong.com/)
 
@@ -29,9 +33,6 @@ title: http://map.agutong.com/
 *  JS Response Bytes: 398405
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

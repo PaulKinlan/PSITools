@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.warcoder.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Warcoder](http://www.warcoder.net/)
 
@@ -29,9 +33,6 @@ title: http://www.warcoder.net/
 *  JS Response Bytes: 2183077
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2622
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.teacherease.com/common/login.aspx
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Common Goal Systems: Secure/Encrypted Login](https://www.teacherease.com/common/login.aspx)
 
@@ -29,9 +32,6 @@ title: https://www.teacherease.com/common/login.aspx
 *  JS Response Bytes: 107577
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

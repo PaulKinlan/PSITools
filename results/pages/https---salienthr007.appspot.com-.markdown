@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://salienthr007.appspot.com/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](https://salienthr007.appspot.com/)
 
@@ -29,9 +30,6 @@ title: https://salienthr007.appspot.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 435
-
-### Performance issues
-
 
 ### Performance issues
 

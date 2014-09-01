@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.banditracer.eu/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [banditracer.eu](http://www.banditracer.eu/)
 
@@ -29,9 +31,6 @@ title: http://www.banditracer.eu/
 *  JS Response Bytes: 2689958
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97355
-
-### Performance issues
-
 
 ### Performance issues
 

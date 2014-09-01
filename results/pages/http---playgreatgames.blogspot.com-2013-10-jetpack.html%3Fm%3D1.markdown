@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playgreatgames.blogspot.com/2013/10/jetpack.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play great games: Jetpack](http://playgreatgames.blogspot.com/2013/10/jetpack.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playgreatgames.blogspot.com/2013/10/jetpack.html?m=1
 *  JS Response Bytes: 1371233
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287147
-
-### Performance issues
-
 
 ### Performance issues
 

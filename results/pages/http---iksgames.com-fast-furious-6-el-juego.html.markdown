@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://iksgames.com/fast-furious-6-el-juego.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IKSgameS.Com | Flash Games. – Fast & Furious 6: El Juego](http://iksgames.com/fast-furious-6-el-juego.html)
 
@@ -29,9 +35,6 @@ title: http://iksgames.com/fast-furious-6-el-juego.html
 *  JS Response Bytes: 412219
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 812
-
-### Performance issues
-
 
 ### Performance issues
 

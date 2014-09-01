@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://loggable.co.uk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Loggable - Greater Transparency. Better Efficiency. Improved Profitability. | Welcome to Loggable](https://loggable.co.uk/)
 
@@ -29,9 +31,6 @@ title: https://loggable.co.uk/
 *  JS Response Bytes: 1153702
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 93191
-
-### Performance issues
-
 
 ### Performance issues
 

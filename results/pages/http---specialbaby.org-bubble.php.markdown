@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://specialbaby.org/bubble.php
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bubble Pop | App for Special Needs Children](http://specialbaby.org/bubble.php)
 
@@ -29,9 +32,6 @@ title: http://specialbaby.org/bubble.php
 *  JS Response Bytes: 1162572
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14661
-
-### Performance issues
-
 
 ### Performance issues
 

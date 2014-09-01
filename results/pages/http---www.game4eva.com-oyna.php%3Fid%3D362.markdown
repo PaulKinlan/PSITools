@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.game4eva.com/oyna.php?id=362
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games – Flash Game World – Counter Terror](http://www.game4eva.com/oyna.php?id=362)
 
@@ -29,9 +37,6 @@ title: http://www.game4eva.com/oyna.php?id=362
 *  JS Response Bytes: 1282596
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 66825
-
-### Performance issues
-
 
 ### Performance issues
 

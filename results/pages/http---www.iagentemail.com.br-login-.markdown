@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.iagentemail.com.br/login/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Envio de campanhas de email marketing e pesquisas online - IAGENTEmail](http://www.iagentemail.com.br/login/)
 
@@ -29,9 +32,6 @@ title: http://www.iagentemail.com.br/login/
 *  JS Response Bytes: 135777
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://translate.voov.me/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ონლაინ ლექსიკონი](http://translate.voov.me/)
 
@@ -29,9 +32,6 @@ title: http://translate.voov.me/
 *  JS Response Bytes: 739124
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30031
-
-### Performance issues
-
 
 ### Performance issues
 

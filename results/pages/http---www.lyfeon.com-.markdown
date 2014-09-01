@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.lyfeon.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [LyfeOn - Turn your life back ON !](http://www.lyfeon.com/)
 
@@ -29,9 +32,6 @@ title: http://www.lyfeon.com/
 *  JS Response Bytes: 573441
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114851
-
-### Performance issues
-
 
 ### Performance issues
 

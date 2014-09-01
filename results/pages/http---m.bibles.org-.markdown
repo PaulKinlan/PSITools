@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.bibles.org/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Bible Search](http://m.bibles.org/)
 
@@ -29,9 +32,6 @@ title: http://m.bibles.org/
 *  JS Response Bytes: 536264
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1541
-
-### Performance issues
-
 
 ### Performance issues
 

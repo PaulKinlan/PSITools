@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.wealthlift.com/web-login/?p=learn&utm_source=chrome&utm_medium=chrome&utm_campaign=chrome_store_learn
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WealthLift Chrome App Login](http://www.wealthlift.com/web-login/?p=learn&utm_source=chrome&utm_medium=chrome&utm_campaign=chrome_store_learn)
 
@@ -29,9 +33,6 @@ title: http://www.wealthlift.com/web-login/?p=learn&utm_source=chrome&utm_medium
 *  JS Response Bytes: 1242568
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3468
-
-### Performance issues
-
 
 ### Performance issues
 

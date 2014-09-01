@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.stationofgames.com/the-parking-game/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Parking Game](http://www.stationofgames.com/the-parking-game/)
 
@@ -29,9 +36,6 @@ title: http://www.stationofgames.com/the-parking-game/
 *  JS Response Bytes: 1914082
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 86121
-
-### Performance issues
-
 
 ### Performance issues
 

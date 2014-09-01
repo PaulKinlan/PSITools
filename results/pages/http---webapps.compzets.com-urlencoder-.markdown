@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://webapps.compzets.com/urlencoder/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online URL Encoder & Decoder - WebApps by Compzets.com](http://webapps.compzets.com/urlencoder/)
 
@@ -29,9 +32,6 @@ title: http://webapps.compzets.com/urlencoder/
 *  JS Response Bytes: 1556391
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98177
-
-### Performance issues
-
 
 ### Performance issues
 

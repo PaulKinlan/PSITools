@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://virtuagym.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Virtuagym Online Fitness | Workout Plans, Nutrition Tracking & More](http://virtuagym.com/)
 
@@ -29,9 +34,6 @@ title: http://virtuagym.com/
 *  JS Response Bytes: 507963
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26114
-
-### Performance issues
-
 
 ### Performance issues
 

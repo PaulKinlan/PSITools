@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.hepgames.club/?s=Royal+Revolt+2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Royal Revolt 2 – Search Results – Online Best Games](http://www.hepgames.club/?s=Royal+Revolt+2)
 
@@ -29,9 +34,6 @@ title: http://www.hepgames.club/?s=Royal+Revolt+2
 *  JS Response Bytes: 561081
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

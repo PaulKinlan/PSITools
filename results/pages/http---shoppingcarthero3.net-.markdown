@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://shoppingcarthero3.net/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Shopping Cart Hero 3](http://shoppingcarthero3.net/)
 
@@ -29,9 +33,6 @@ title: http://shoppingcarthero3.net/
 *  JS Response Bytes: 1021087
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 67713
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.printedowl.com/Calendar.aspx?id=health_fitness
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Daily Quote | Health and Fitness Daily Quote | Suggested Gifts and Search | August 25](http://www.printedowl.com/Calendar.aspx?id=health_fitness)
 
@@ -29,9 +33,6 @@ title: http://www.printedowl.com/Calendar.aspx?id=health_fitness
 *  JS Response Bytes: 809026
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29664
-
-### Performance issues
-
 
 ### Performance issues
 

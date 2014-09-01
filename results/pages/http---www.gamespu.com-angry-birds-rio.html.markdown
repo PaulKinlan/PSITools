@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamespu.com/angry-birds-rio.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Rio | GamesPu - Free Online Games](http://www.gamespu.com/angry-birds-rio.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamespu.com/angry-birds-rio.html
 *  JS Response Bytes: 1543383
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105213
-
-### Performance issues
-
 
 ### Performance issues
 

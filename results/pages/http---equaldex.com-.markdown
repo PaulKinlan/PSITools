@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://equaldex.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Equaldex: The Collaborative LGBT Rights Knowledge Base](http://equaldex.com/)
 
@@ -29,9 +33,6 @@ title: http://equaldex.com/
 *  JS Response Bytes: 1253492
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122525
-
-### Performance issues
-
 
 ### Performance issues
 

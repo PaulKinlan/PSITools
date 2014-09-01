@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.veryfamousgames.com/play/274/basketball-jam.html#.U_2NXk0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Basketball Jam - veryfamousgames](http://www.veryfamousgames.com/play/274/basketball-jam.html#.U_2NXk0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.veryfamousgames.com/play/274/basketball-jam.html#.U_2NXk0ieKA
 *  JS Response Bytes: 2102781
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46268
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.games4addict.com/action/mad-trucker-last-pursuit-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mad Trucker: Last Pursuit | Games 4 Addict](http://www.games4addict.com/action/mad-trucker-last-pursuit-2/)
 
@@ -29,9 +35,6 @@ title: http://www.games4addict.com/action/mad-trucker-last-pursuit-2/
 *  JS Response Bytes: 1123078
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 133019
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/bet-football/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bet Football Game](http://www.footballgam.es/bet-football/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/bet-football/
 *  JS Response Bytes: 2296830
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156830
-
-### Performance issues
-
 
 ### Performance issues
 

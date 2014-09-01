@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.diy-kitchens.com/style-kitchen-tool/view-kitchen.asp
+UseLegibleFontSizes: true
 ---
 ## [](http://www.diy-kitchens.com/style-kitchen-tool/view-kitchen.asp)
 
@@ -29,9 +30,6 @@ title: http://www.diy-kitchens.com/style-kitchen-tool/view-kitchen.asp
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 600
-
-### Performance issues
-
 
 ### Performance issues
 

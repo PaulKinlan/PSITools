@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://quiz.demo.mimicme.com/#render=00100002659,00100002808,00100002415,00100003170,00100003262
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Demo - MimicMe](http://quiz.demo.mimicme.com/#render=00100002659,00100002808,00100002415,00100003170,00100003262)
 
@@ -29,9 +33,6 @@ title: http://quiz.demo.mimicme.com/#render=00100002659,00100002808,00100002415,
 *  JS Response Bytes: 1917616
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

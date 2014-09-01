@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.wpcpuzzlesonline.com/sudoku-variations
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Sudoku Variations - Fun With Logic](http://www.wpcpuzzlesonline.com/sudoku-variations)
 
@@ -29,9 +32,6 @@ title: http://www.wpcpuzzlesonline.com/sudoku-variations
 *  JS Response Bytes: 2036984
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 307495
-
-### Performance issues
-
 
 ### Performance issues
 

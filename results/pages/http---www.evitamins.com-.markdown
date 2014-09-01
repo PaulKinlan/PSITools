@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.evitamins.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Buy Discount Vitamins & Supplements & Herbs - eVitamins.com](http://www.evitamins.com/)
 
@@ -29,9 +34,6 @@ title: http://www.evitamins.com/
 *  JS Response Bytes: 1892775
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1823
-
-### Performance issues
-
 
 ### Performance issues
 

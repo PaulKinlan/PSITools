@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://secure.vendhq.com/chrome/signup
+MinimizeRenderBlockingResources: true
 ---
 ## [Vend / vend](https://secure.vendhq.com/chrome/signup)
 
@@ -29,9 +30,6 @@ title: https://secure.vendhq.com/chrome/signup
 *  JS Response Bytes: 1315739
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

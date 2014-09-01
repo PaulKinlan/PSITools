@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://enelle.demo.mimicme.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Demo - MimicMe](http://enelle.demo.mimicme.com/)
 
@@ -29,9 +32,6 @@ title: http://enelle.demo.mimicme.com/
 *  JS Response Bytes: 477620
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

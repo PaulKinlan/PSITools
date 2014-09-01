@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ikeaclosetsystems.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [IkeaClosetSystems.com | Best Ikea Closet Systems Organizer Design Ideas](http://www.ikeaclosetsystems.com/)
 
@@ -29,9 +32,6 @@ title: http://www.ikeaclosetsystems.com/
 *  JS Response Bytes: 113630
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42458
-
-### Performance issues
-
 
 ### Performance issues
 

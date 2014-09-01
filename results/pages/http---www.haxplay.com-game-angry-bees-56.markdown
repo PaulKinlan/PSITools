@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.haxplay.com/game/angry-bees-56
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Bees Game - Play Free Online Games](http://www.haxplay.com/game/angry-bees-56)
 
@@ -29,9 +33,6 @@ title: http://www.haxplay.com/game/angry-bees-56
 *  JS Response Bytes: 608311
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18011
-
-### Performance issues
-
 
 ### Performance issues
 

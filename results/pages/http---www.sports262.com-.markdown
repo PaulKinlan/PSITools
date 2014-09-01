@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.sports262.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Sports262](http://www.sports262.com/)
 
@@ -29,9 +31,6 @@ title: http://www.sports262.com/
 *  JS Response Bytes: 277882
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

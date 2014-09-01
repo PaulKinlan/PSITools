@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chrometopgame.blogspot.com/2013/08/bejeweled-twist.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [chrometopgame: Bejeweled Twist](http://chrometopgame.blogspot.com/2013/08/bejeweled-twist.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chrometopgame.blogspot.com/2013/08/bejeweled-twist.html?m=1
 *  JS Response Bytes: 1067942
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97987
-
-### Performance issues
-
 
 ### Performance issues
 

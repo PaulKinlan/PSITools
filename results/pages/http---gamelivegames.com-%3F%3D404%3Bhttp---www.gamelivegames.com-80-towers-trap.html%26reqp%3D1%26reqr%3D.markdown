@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gamelivegames.com/?=404;http://www.gamelivegames.com:80/towers-trap.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [gamelivegames.com](http://gamelivegames.com/?=404;http://www.gamelivegames.com:80/towers-trap.html&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://gamelivegames.com/?=404;http://www.gamelivegames.com:80/towers-tra
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113
-
-### Performance issues
-
 
 ### Performance issues
 

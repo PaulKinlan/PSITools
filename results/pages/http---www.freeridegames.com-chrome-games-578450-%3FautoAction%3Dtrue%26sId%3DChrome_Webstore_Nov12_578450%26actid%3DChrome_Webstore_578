@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/578450/?autoAction=true&sId=Chrome_Webstore_Nov12_578450&actid=Chrome_Webstore_578450
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Slingo Quest: Hawaii for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/578450/?autoAction=true&sId=Chrome_Webstore_Nov12_578450&actid=Chrome_Webstore_578450)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/578450/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1400891
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30205
-
-### Performance issues
-
 
 ### Performance issues
 

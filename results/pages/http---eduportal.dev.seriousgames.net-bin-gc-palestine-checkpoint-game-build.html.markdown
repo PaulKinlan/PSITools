@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://eduportal.dev.seriousgames.net/bin/gc-palestine-checkpoint/game/build.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Unity Web Player | Global Conflicts - Checkpoints](http://eduportal.dev.seriousgames.net/bin/gc-palestine-checkpoint/game/build.html)
 
@@ -29,9 +33,6 @@ title: http://eduportal.dev.seriousgames.net/bin/gc-palestine-checkpoint/game/bu
 *  JS Response Bytes: 152681
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

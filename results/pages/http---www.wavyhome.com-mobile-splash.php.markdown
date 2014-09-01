@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.wavyhome.com/mobile/splash.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [](http://www.wavyhome.com/mobile/splash.php)
 
@@ -29,9 +31,6 @@ title: http://www.wavyhome.com/mobile/splash.php
 *  JS Response Bytes: 87664
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27575
-
-### Performance issues
-
 
 ### Performance issues
 

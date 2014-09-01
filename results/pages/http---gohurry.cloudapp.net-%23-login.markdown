@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gohurry.cloudapp.net/#/login
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://gohurry.cloudapp.net/#/login)
 
@@ -29,9 +34,6 @@ title: http://gohurry.cloudapp.net/#/login
 *  JS Response Bytes: 3960163
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

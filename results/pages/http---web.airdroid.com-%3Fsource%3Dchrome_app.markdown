@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://web.airdroid.com/?source=chrome_app
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AirDroid](http://web.airdroid.com/?source=chrome_app)
 
@@ -29,9 +34,6 @@ title: http://web.airdroid.com/?source=chrome_app
 *  JS Response Bytes: 974372
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

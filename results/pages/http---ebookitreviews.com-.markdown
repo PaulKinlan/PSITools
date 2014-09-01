@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ebookitreviews.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ネイルサロンやエステは自分にあったところを探す](http://ebookitreviews.com/)
 
@@ -29,9 +33,6 @@ title: http://ebookitreviews.com/
 *  JS Response Bytes: 93079
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 487
-
-### Performance issues
-
 
 ### Performance issues
 

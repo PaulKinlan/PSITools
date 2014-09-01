@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://dansk-engelsk-oversaetter.herokuapp.com/
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Dansk Engelsk Oversætter](http://dansk-engelsk-oversaetter.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://dansk-engelsk-oversaetter.herokuapp.com/
 *  JS Response Bytes: 1313181
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110122
-
-### Performance issues
-
 
 ### Performance issues
 

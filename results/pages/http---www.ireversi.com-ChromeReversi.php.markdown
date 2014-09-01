@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ireversi.com/ChromeReversi.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Reversi](http://www.ireversi.com/ChromeReversi.php)
 
@@ -29,9 +35,6 @@ title: http://www.ireversi.com/ChromeReversi.php
 *  JS Response Bytes: 619271
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 974
-
-### Performance issues
-
 
 ### Performance issues
 

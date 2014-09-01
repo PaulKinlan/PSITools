@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://notes.musicpug.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pug's Notation Training](http://notes.musicpug.com/)
 
@@ -29,9 +34,6 @@ title: http://notes.musicpug.com/
 *  JS Response Bytes: 1256684
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109640
-
-### Performance issues
-
 
 ### Performance issues
 

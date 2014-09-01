@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.earthnewspapers.com/pakistan/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [NEWSPAPERS OF Pakistan](http://www.earthnewspapers.com/pakistan/index.html)
 
@@ -29,9 +36,6 @@ title: http://www.earthnewspapers.com/pakistan/index.html
 *  JS Response Bytes: 984693
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17960
-
-### Performance issues
-
 
 ### Performance issues
 

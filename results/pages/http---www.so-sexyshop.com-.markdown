@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.so-sexyshop.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [so-sexyshop.com](http://www.so-sexyshop.com/)
 
@@ -29,9 +32,6 @@ title: http://www.so-sexyshop.com/
 *  JS Response Bytes: 209530
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

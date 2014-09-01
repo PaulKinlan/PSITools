@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://sisecevirmece.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [](http://sisecevirmece.org/)
 
@@ -29,9 +32,6 @@ title: http://sisecevirmece.org/
 *  JS Response Bytes: 101443
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49926
-
-### Performance issues
-
 
 ### Performance issues
 

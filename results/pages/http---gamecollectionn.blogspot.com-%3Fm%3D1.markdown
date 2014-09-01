@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gamecollectionn.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Game Collection](http://gamecollectionn.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://gamecollectionn.blogspot.com/?m=1
 *  JS Response Bytes: 787164
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14949
-
-### Performance issues
-
 
 ### Performance issues
 

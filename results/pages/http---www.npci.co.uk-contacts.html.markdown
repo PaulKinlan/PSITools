@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.npci.co.uk/contacts.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [404 Not Found](http://www.npci.co.uk/contacts.html)
 
@@ -29,9 +32,6 @@ title: http://www.npci.co.uk/contacts.html
 *  JS Response Bytes: 559258
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40038
-
-### Performance issues
-
 
 ### Performance issues
 

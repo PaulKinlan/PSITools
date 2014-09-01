@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://online.comfyland.com/comfy/COMFY.html?ref=CHROME_MY_HOME_PLUS
+EnableGzipCompression: true
+AvoidPlugins: true
 ---
 ## [Comfy Online](http://online.comfyland.com/comfy/COMFY.html?ref=CHROME_MY_HOME_PLUS)
 
@@ -29,9 +31,6 @@ title: http://online.comfyland.com/comfy/COMFY.html?ref=CHROME_MY_HOME_PLUS
 *  JS Response Bytes: 169803
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1570
-
-### Performance issues
-
 
 ### Performance issues
 

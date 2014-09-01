@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chirpcal.com/mobile/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [ChirpCalendar](http://chirpcal.com/mobile/)
 
@@ -29,9 +31,6 @@ title: http://chirpcal.com/mobile/
 *  JS Response Bytes: 1229900
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 931
-
-### Performance issues
-
 
 ### Performance issues
 

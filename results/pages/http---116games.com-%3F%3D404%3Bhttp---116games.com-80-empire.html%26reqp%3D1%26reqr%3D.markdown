@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://116games.com/?=404;http://116games.com:80/empire.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [116games.com](http://116games.com/?=404;http://116games.com:80/empire.html&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://116games.com/?=404;http://116games.com:80/empire.html&reqp=1&reqr=
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94
-
-### Performance issues
-
 
 ### Performance issues
 

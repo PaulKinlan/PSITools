@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.timeledger.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TimeLedger](http://www.timeledger.com/)
 
@@ -29,9 +34,6 @@ title: http://www.timeledger.com/
 *  JS Response Bytes: 643284
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7248
-
-### Performance issues
-
 
 ### Performance issues
 

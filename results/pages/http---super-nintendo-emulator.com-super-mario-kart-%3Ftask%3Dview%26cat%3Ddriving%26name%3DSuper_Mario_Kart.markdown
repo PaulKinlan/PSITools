@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://super-nintendo-emulator.com/super-mario-kart/?task=view&cat=driving&name=Super_Mario_Kart
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Emulator of Super Mario Kart - Super Nintendo](http://super-nintendo-emulator.com/super-mario-kart/?task=view&cat=driving&name=Super_Mario_Kart)
 
@@ -29,9 +32,6 @@ title: http://super-nintendo-emulator.com/super-mario-kart/?task=view&cat=drivin
 *  JS Response Bytes: 429730
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50736
-
-### Performance issues
-
 
 ### Performance issues
 

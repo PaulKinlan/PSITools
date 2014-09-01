@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://apps.smartlittlegames.com/word-wizard/word-wizard.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Scrabble and Words With Friends Cheats](http://apps.smartlittlegames.com/word-wizard/word-wizard.html)
 
@@ -29,9 +33,6 @@ title: http://apps.smartlittlegames.com/word-wizard/word-wizard.html
 *  JS Response Bytes: 3956031
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111463
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.fineemb.com/idea
+MinimizeRenderBlockingResources: true
 ---
 ## [Idea | FineEmb Studio](http://www.fineemb.com/idea)
 
@@ -29,9 +30,6 @@ title: http://www.fineemb.com/idea
 *  JS Response Bytes: 290488
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

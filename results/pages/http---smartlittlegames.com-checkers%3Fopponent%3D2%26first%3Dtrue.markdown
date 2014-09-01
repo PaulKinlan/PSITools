@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://smartlittlegames.com/checkers?opponent=2&first=true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Smart Little Games - Online Strategy Games](http://smartlittlegames.com/checkers?opponent=2&first=true)
 
@@ -29,9 +34,6 @@ title: http://smartlittlegames.com/checkers?opponent=2&first=true
 *  JS Response Bytes: 1187002
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18048
-
-### Performance issues
-
 
 ### Performance issues
 

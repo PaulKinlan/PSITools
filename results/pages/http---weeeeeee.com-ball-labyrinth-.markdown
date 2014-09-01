@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://weeeeeee.com/ball-labyrinth/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Wee Weee Weeee - Play to Play on Weeeeeee](http://weeeeeee.com/ball-labyrinth/)
 
@@ -29,9 +35,6 @@ title: http://weeeeeee.com/ball-labyrinth/
 *  JS Response Bytes: 607640
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

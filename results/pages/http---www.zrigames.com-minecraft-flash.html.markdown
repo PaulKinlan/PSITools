@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.zrigames.com/minecraft-flash.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Minecraft Flash « Best HD Games Play Now](http://www.zrigames.com/minecraft-flash.html)
 
@@ -29,9 +36,6 @@ title: http://www.zrigames.com/minecraft-flash.html
 *  JS Response Bytes: 397890
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

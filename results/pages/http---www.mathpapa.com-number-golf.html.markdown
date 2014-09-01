@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.mathpapa.com/number-golf.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Number Golf by MathPapa.com](http://www.mathpapa.com/number-golf.html)
 
@@ -29,9 +31,6 @@ title: http://www.mathpapa.com/number-golf.html
 *  JS Response Bytes: 168132
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://barbiemakeovergames.net/category/christmas-games-2/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Christmas Games | Barbie Games](http://barbiemakeovergames.net/category/christmas-games-2/)
 
@@ -29,9 +33,6 @@ title: http://barbiemakeovergames.net/category/christmas-games-2/
 *  JS Response Bytes: 564644
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44060
-
-### Performance issues
-
 
 ### Performance issues
 

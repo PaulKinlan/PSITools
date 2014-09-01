@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.phonetvsoftware.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Phonetvsoftware.com](http://www.phonetvsoftware.com/)
 
@@ -22,16 +25,13 @@ title: http://www.phonetvsoftware.com/
 
 ### Response data
 
-*  HTML Response Bytes: 13962
+*  HTML Response Bytes: 13772
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 6024
 *  Image Response Bytes: 1681
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

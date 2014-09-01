@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://fiddlesalad.com/html/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+UseLegibleFontSizes: true
 ---
 ## [HTML Editor with Preview | Fiddle Salad](http://fiddlesalad.com/html/)
 
@@ -29,9 +32,6 @@ title: http://fiddlesalad.com/html/
 *  JS Response Bytes: 2494076
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48996
-
-### Performance issues
-
 
 ### Performance issues
 

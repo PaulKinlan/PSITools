@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://dailycalculators.com/stop-watch
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stopwatch | Daily Calculators](http://dailycalculators.com/stop-watch)
 
@@ -29,9 +34,6 @@ title: http://dailycalculators.com/stop-watch
 *  JS Response Bytes: 2103859
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32305
-
-### Performance issues
-
 
 ### Performance issues
 

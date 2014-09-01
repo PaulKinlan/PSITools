@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://www.webhuset.no/parkering/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Parkert - Webhuset AS](https://www.webhuset.no/parkering/)
 
@@ -29,9 +35,6 @@ title: https://www.webhuset.no/parkering/
 *  JS Response Bytes: 647824
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10485
-
-### Performance issues
-
 
 ### Performance issues
 

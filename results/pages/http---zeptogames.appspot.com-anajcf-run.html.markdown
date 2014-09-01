@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://zeptogames.appspot.com/anajcf/run.html
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Analyze Java Class File](http://zeptogames.appspot.com/anajcf/run.html)
 
@@ -29,9 +32,6 @@ title: http://zeptogames.appspot.com/anajcf/run.html
 *  JS Response Bytes: 388628
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

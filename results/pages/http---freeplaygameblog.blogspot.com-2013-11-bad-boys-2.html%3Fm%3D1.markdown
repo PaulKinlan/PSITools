@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://freeplaygameblog.blogspot.com/2013/11/bad-boys-2.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free play game blog: Bad Boys 2](http://freeplaygameblog.blogspot.com/2013/11/bad-boys-2.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://freeplaygameblog.blogspot.com/2013/11/bad-boys-2.html?m=1
 *  JS Response Bytes: 1799617
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 290788
-
-### Performance issues
-
 
 ### Performance issues
 

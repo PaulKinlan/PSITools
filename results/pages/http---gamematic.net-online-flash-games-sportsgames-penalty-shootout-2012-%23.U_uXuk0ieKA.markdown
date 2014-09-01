@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/sportsgames/penalty-shootout-2012/#.U_uXuk0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Penalty Shootout 2012 « Online Flash Game Penalty Shootout 2012](http://gamematic.net/online-flash-games/sportsgames/penalty-shootout-2012/#.U_uXuk0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/sportsgames/penalty-shootout-2012
 *  JS Response Bytes: 1264970
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43111
-
-### Performance issues
-
 
 ### Performance issues
 

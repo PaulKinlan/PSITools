@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gameworldchrome.blogspot.com/2014/08/gta-4.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [Game World: Gta 4](http://gameworldchrome.blogspot.com/2014/08/gta-4.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://gameworldchrome.blogspot.com/2014/08/gta-4.html?m=1
 *  JS Response Bytes: 1265488
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109953
-
-### Performance issues
-
 
 ### Performance issues
 

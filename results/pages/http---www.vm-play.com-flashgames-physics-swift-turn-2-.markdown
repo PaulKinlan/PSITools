@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.vm-play.com/flashgames/physics/swift-turn-2/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [vm-play.com](http://www.vm-play.com/flashgames/physics/swift-turn-2/)
 
@@ -29,9 +34,6 @@ title: http://www.vm-play.com/flashgames/physics/swift-turn-2/
 *  JS Response Bytes: 187205
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

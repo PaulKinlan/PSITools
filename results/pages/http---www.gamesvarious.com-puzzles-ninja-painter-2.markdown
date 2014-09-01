@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/puzzles/ninja-painter-2
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ninja Painter 2 - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/puzzles/ninja-painter-2)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/puzzles/ninja-painter-2
 *  JS Response Bytes: 2220447
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 149997
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ug.dilleva.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DillEva.](http://ug.dilleva.com/)
 
@@ -29,9 +33,6 @@ title: http://ug.dilleva.com/
 *  JS Response Bytes: 709018
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1430
-
-### Performance issues
-
 
 ### Performance issues
 

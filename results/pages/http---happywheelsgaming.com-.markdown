@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://happywheelsgaming.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Happy Wheels Game Online](http://happywheelsgaming.com/)
 
@@ -29,9 +35,6 @@ title: http://happywheelsgaming.com/
 *  JS Response Bytes: 2167888
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113786
-
-### Performance issues
-
 
 ### Performance issues
 

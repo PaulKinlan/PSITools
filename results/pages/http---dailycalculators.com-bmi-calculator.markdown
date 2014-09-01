@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://dailycalculators.com/bmi-calculator
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BMI Calculator | Daily Calculators](http://dailycalculators.com/bmi-calculator)
 
@@ -29,9 +34,6 @@ title: http://dailycalculators.com/bmi-calculator
 *  JS Response Bytes: 1913714
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48123
-
-### Performance issues
-
 
 ### Performance issues
 

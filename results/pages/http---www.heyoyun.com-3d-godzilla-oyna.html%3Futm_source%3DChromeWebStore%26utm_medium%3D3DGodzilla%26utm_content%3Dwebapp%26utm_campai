@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.heyoyun.com/3d-godzilla-oyna.html?utm_source=ChromeWebStore&utm_medium=3DGodzilla&utm_content=webapp&utm_campaign=kisayol
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Godzilla Oyna - Hey Oyun](http://www.heyoyun.com/3d-godzilla-oyna.html?utm_source=ChromeWebStore&utm_medium=3DGodzilla&utm_content=webapp&utm_campaign=kisayol)
 
@@ -29,9 +34,6 @@ title: http://www.heyoyun.com/3d-godzilla-oyna.html?utm_source=ChromeWebStore&ut
 *  JS Response Bytes: 3588331
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 289567
-
-### Performance issues
-
 
 ### Performance issues
 

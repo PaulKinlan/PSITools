@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://loja.smartkids.com.br/products/desenhos-para-colorir-brinquedos-reciclados
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Jogos Educativos, Desenhos para colorir e pintar, Educação infantil - Smartkids](http://loja.smartkids.com.br/products/desenhos-para-colorir-brinquedos-reciclados)
 
@@ -29,9 +32,6 @@ title: http://loja.smartkids.com.br/products/desenhos-para-colorir-brinquedos-re
 *  JS Response Bytes: 940528
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59426
-
-### Performance issues
-
 
 ### Performance issues
 

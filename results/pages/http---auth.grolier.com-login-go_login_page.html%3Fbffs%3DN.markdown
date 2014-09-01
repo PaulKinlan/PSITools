@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://auth.grolier.com/login/go_login_page.html?bffs=N
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Grolier Online Login](http://auth.grolier.com/login/go_login_page.html?bffs=N)
 
@@ -29,9 +35,6 @@ title: http://auth.grolier.com/login/go_login_page.html?bffs=N
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 914
-
-### Performance issues
-
 
 ### Performance issues
 

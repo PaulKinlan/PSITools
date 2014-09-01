@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://the-90s-love-calculator.herokuapp.com/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The 90s Love Calculator](http://the-90s-love-calculator.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://the-90s-love-calculator.herokuapp.com/
 *  JS Response Bytes: 1346584
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 206737
-
-### Performance issues
-
 
 ### Performance issues
 

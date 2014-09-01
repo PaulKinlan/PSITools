@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://veoble.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Veoble - Black Google Search](http://veoble.com/)
 
@@ -29,9 +33,6 @@ title: http://veoble.com/
 *  JS Response Bytes: 375475
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

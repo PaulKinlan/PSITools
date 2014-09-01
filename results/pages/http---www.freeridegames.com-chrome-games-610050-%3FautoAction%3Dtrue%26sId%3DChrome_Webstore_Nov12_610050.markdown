@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/610050/?autoAction=true&sId=Chrome_Webstore_Nov12_610050
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download 7 Wonders 3 - Treasures of Seven for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/610050/?autoAction=true&sId=Chrome_Webstore_Nov12_610050)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/610050/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1533058
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31477
-
-### Performance issues
-
 
 ### Performance issues
 

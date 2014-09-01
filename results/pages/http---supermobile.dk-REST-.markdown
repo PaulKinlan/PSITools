@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://supermobile.dk/REST/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [REST @JalalHejazi](http://supermobile.dk/REST/)
 
@@ -29,9 +33,6 @@ title: http://supermobile.dk/REST/
 *  JS Response Bytes: 498762
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

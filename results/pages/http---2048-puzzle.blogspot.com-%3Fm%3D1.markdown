@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://2048-puzzle.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [2048](http://2048-puzzle.blogspot.com/?m=1)
 
@@ -29,9 +33,6 @@ title: http://2048-puzzle.blogspot.com/?m=1
 *  JS Response Bytes: 1917242
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112524
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/days-of-monster/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Days of Monster](http://www.war-games.ws/days-of-monster/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/days-of-monster/
 *  JS Response Bytes: 2292947
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120572
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://fcmteaser.t3fun.com/en/?utm_source=Chrome%20Store&utm_medium=Chrome%20App&utm_campaign=Chrome%20Store%20Link
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FCManager Global](http://fcmteaser.t3fun.com/en/?utm_source=Chrome%20Store&utm_medium=Chrome%20App&utm_campaign=Chrome%20Store%20Link)
 
@@ -29,9 +34,6 @@ title: http://fcmteaser.t3fun.com/en/?utm_source=Chrome%20Store&utm_medium=Chrom
 *  JS Response Bytes: 1526706
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27416
-
-### Performance issues
-
 
 ### Performance issues
 

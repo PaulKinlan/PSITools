@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.recyclefinder.co.uk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [RecycleFinder: Home](http://www.recyclefinder.co.uk/)
 
@@ -29,9 +33,6 @@ title: http://www.recyclefinder.co.uk/
 *  JS Response Bytes: 416944
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

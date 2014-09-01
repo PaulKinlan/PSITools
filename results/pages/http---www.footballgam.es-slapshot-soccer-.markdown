@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/slapshot-soccer/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Slapshot Soccer Game](http://www.footballgam.es/slapshot-soccer/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/slapshot-soccer/
 *  JS Response Bytes: 2309731
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156594
-
-### Performance issues
-
 
 ### Performance issues
 

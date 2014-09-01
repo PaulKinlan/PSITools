@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://wwwstage.docusign.net/MEMBER/GDrive2LOProcessor.aspx?fromChrome=true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DocuSign](https://wwwstage.docusign.net/MEMBER/GDrive2LOProcessor.aspx?fromChrome=true)
 
@@ -29,9 +32,6 @@ title: https://wwwstage.docusign.net/MEMBER/GDrive2LOProcessor.aspx?fromChrome=t
 *  JS Response Bytes: 45258
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

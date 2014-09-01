@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.oefenmeer.nl/SplitsGratisChromeWebstore/
+SizeContentToViewport: true
 ---
 ## [Splits (gratis)](http://www.oefenmeer.nl/SplitsGratisChromeWebstore/)
 
@@ -29,9 +30,6 @@ title: http://www.oefenmeer.nl/SplitsGratisChromeWebstore/
 *  JS Response Bytes: 569851
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

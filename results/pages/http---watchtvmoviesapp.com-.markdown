@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://watchtvmoviesapp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [watchtvmoviesapp.com](http://watchtvmoviesapp.com/)
 
@@ -18,20 +22,17 @@ title: http://watchtvmoviesapp.com/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 1683
+*  Total Request Bytes: 1684
 
 ### Response data
 
-*  HTML Response Bytes: 8176
+*  HTML Response Bytes: 8178
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 3590
-*  Image Response Bytes: 6108
-*  JS Response Bytes: 244076
+*  CSS Response Bytes: 3622
+*  Image Response Bytes: 6098
+*  JS Response Bytes: 244316
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

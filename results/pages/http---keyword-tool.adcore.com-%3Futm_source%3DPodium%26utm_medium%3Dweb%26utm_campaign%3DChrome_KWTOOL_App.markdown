@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://keyword-tool.adcore.com/?utm_source=Podium&utm_medium=web&utm_campaign=Chrome_KWTOOL_App
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Keyword Tool | by adCore](http://keyword-tool.adcore.com/?utm_source=Podium&utm_medium=web&utm_campaign=Chrome_KWTOOL_App)
 
@@ -29,9 +33,6 @@ title: http://keyword-tool.adcore.com/?utm_source=Podium&utm_medium=web&utm_camp
 *  JS Response Bytes: 1236644
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2019
-
-### Performance issues
-
 
 ### Performance issues
 

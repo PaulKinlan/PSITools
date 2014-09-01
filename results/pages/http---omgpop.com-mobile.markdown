@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://omgpop.com/mobile
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [OMGPOP Mobile Games](http://omgpop.com/mobile)
 
@@ -29,9 +31,6 @@ title: http://omgpop.com/mobile
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 276
-
-### Performance issues
-
 
 ### Performance issues
 

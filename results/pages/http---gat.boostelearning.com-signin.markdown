@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gat.boostelearning.com/signin
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Training](http://gat.boostelearning.com/signin)
 
@@ -29,9 +33,6 @@ title: http://gat.boostelearning.com/signin
 *  JS Response Bytes: 138482
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 590
-
-### Performance issues
-
 
 ### Performance issues
 

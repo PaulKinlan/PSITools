@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.baginc.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Wholesale Handbag, Fashion Handbag, Wholesale Bags, Celebrity Style Purse For Sale](http://www.baginc.com/)
 
@@ -29,9 +32,6 @@ title: http://www.baginc.com/
 *  JS Response Bytes: 728900
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 598
-
-### Performance issues
-
 
 ### Performance issues
 

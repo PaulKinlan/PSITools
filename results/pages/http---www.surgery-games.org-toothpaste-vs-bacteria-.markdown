@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/toothpaste-vs-bacteria/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Toothpaste Vs. Bacteria game](http://www.surgery-games.org/toothpaste-vs-bacteria/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/toothpaste-vs-bacteria/
 *  JS Response Bytes: 2479550
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122851
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://centralsphere.net/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [CentralSphere - Login](https://centralsphere.net/login)
 
@@ -29,9 +32,6 @@ title: https://centralsphere.net/login
 *  JS Response Bytes: 429441
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 37050
-
-### Performance issues
-
 
 ### Performance issues
 

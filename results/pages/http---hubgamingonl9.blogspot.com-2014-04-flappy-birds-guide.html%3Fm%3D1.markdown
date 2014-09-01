@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://hubgamingonl9.blogspot.com/2014/04/flappy-birds-guide.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gaming Hub: Flappy Birds Guide](http://hubgamingonl9.blogspot.com/2014/04/flappy-birds-guide.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://hubgamingonl9.blogspot.com/2014/04/flappy-birds-guide.html?m=1
 *  JS Response Bytes: 973541
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331821
-
-### Performance issues
-
 
 ### Performance issues
 

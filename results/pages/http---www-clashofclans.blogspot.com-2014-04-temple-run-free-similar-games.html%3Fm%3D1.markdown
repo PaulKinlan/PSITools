@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www-clashofclans.blogspot.com/2014/04/temple-run-free-similar-games.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Online games: Temple Run Free similar games](http://www-clashofclans.blogspot.com/2014/04/temple-run-free-similar-games.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://www-clashofclans.blogspot.com/2014/04/temple-run-free-similar-game
 *  JS Response Bytes: 762379
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95619
-
-### Performance issues
-
 
 ### Performance issues
 

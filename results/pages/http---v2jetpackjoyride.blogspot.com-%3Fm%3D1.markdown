@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://v2jetpackjoyride.blogspot.com/?m=1
+UseLegibleFontSizes: true
 ---
 ## [Service Unavailable](http://v2jetpackjoyride.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://v2jetpackjoyride.blogspot.com/?m=1
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1066
-
-### Performance issues
-
 
 ### Performance issues
 

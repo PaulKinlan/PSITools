@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.webgameu.com/webgames/sports/tennis.html#.U_utQ00ieKA
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [tennis_我的网站](http://www.webgameu.com/webgames/sports/tennis.html#.U_utQ00ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.webgameu.com/webgames/sports/tennis.html#.U_utQ00ieKA
 *  JS Response Bytes: 734691
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8256
-
-### Performance issues
-
 
 ### Performance issues
 

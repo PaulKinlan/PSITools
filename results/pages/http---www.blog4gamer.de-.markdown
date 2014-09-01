@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.blog4gamer.de/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [| Blog4Gamer.de | kostenlose Browsergames | kostenlose Online-Spiele | kostenlos spielen](http://www.blog4gamer.de/)
 
@@ -29,9 +33,6 @@ title: http://www.blog4gamer.de/
 *  JS Response Bytes: 916434
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96335
-
-### Performance issues
-
 
 ### Performance issues
 

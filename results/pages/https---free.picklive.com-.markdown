@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://free.picklive.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Picklive - Fantasy Football Games](https://free.picklive.com/)
 
@@ -29,9 +32,6 @@ title: https://free.picklive.com/
 *  JS Response Bytes: 1709267
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 139899
-
-### Performance issues
-
 
 ### Performance issues
 

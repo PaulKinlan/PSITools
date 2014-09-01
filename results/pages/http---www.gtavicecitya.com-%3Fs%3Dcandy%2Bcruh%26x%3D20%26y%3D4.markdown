@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gtavicecitya.com/?s=candy+cruh&x=20&y=4
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [candy cruh « Search Results « free gta game vice city](http://www.gtavicecitya.com/?s=candy+cruh&x=20&y=4)
 
@@ -29,9 +34,6 @@ title: http://www.gtavicecitya.com/?s=candy+cruh&x=20&y=4
 *  JS Response Bytes: 1111441
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14380
-
-### Performance issues
-
 
 ### Performance issues
 

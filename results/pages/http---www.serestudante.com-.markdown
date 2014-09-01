@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.serestudante.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ser Estudante](http://www.serestudante.com/)
 
@@ -29,9 +33,6 @@ title: http://www.serestudante.com/
 *  JS Response Bytes: 2183071
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 345248
-
-### Performance issues
-
 
 ### Performance issues
 

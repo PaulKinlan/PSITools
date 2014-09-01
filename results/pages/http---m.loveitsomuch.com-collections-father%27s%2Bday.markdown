@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.loveitsomuch.com/collections/father's+day
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [father s day - Discover / Shop Amazing Products for father s day](http://m.loveitsomuch.com/collections/father's+day)
 
@@ -29,9 +31,6 @@ title: http://m.loveitsomuch.com/collections/father's+day
 *  JS Response Bytes: 624816
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 749
-
-### Performance issues
-
 
 ### Performance issues
 

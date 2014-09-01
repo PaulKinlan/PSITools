@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ichromegames.blogspot.com/2013/06/fruit-ninja.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [ichromegames: Fruit Ninja](http://ichromegames.blogspot.com/2013/06/fruit-ninja.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://ichromegames.blogspot.com/2013/06/fruit-ninja.html?m=1
 *  JS Response Bytes: 1068581
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97981
-
-### Performance issues
-
 
 ### Performance issues
 

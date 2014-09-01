@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.loveitsomuch.com/collections/ice+cream
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ice cream - Discover / Shop Amazing Products for ice cream](http://m.loveitsomuch.com/collections/ice+cream)
 
@@ -29,9 +32,6 @@ title: http://m.loveitsomuch.com/collections/ice+cream
 *  JS Response Bytes: 739460
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 898
-
-### Performance issues
-
 
 ### Performance issues
 

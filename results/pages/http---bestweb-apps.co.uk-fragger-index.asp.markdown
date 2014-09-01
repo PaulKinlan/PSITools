@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://bestweb-apps.co.uk/fragger/index.asp
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fragger Free Games](http://bestweb-apps.co.uk/fragger/index.asp)
 
@@ -29,9 +33,6 @@ title: http://bestweb-apps.co.uk/fragger/index.asp
 *  JS Response Bytes: 388629
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1745
-
-### Performance issues
-
 
 ### Performance issues
 

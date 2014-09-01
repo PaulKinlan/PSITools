@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://limbus.ogsi.it/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Benvenuto in Limbus Limbus the Dark City](http://limbus.ogsi.it/)
 
@@ -29,9 +34,6 @@ title: http://limbus.ogsi.it/
 *  JS Response Bytes: 1363609
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96380
-
-### Performance issues
-
 
 ### Performance issues
 

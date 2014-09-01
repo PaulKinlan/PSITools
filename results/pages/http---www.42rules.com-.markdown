@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.42rules.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Buy Career, Leadership, Sales, Marketing, Personal Growth books.](http://www.42rules.com/)
 
@@ -29,9 +32,6 @@ title: http://www.42rules.com/
 *  JS Response Bytes: 394567
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22294
-
-### Performance issues
-
 
 ### Performance issues
 

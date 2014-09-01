@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.ebhasin.com/games/games-source/javascript/Jump-It/src/index.html
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jump It -::- Bhasinsoft](http://www.ebhasin.com/games/games-source/javascript/Jump-It/src/index.html)
 
@@ -29,9 +31,6 @@ title: http://www.ebhasin.com/games/games-source/javascript/Jump-It/src/index.ht
 *  JS Response Bytes: 388628
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

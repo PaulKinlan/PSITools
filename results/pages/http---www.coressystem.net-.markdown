@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.coressystem.net/
+MinimizeRenderBlockingResources: true
 ---
 ## [CoRes System DOO | CoRes SystemCoRes System | Proizvodnja sintetskih smola i drugih hemijskih proizvoda](http://www.coressystem.net/)
 
@@ -29,9 +30,6 @@ title: http://www.coressystem.net/
 *  JS Response Bytes: 264449
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

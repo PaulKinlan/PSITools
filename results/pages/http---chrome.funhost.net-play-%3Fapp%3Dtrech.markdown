@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://chrome.funhost.net/play/?app=trech
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play TRECH - Ultimate 3D Shooting Game! - Game on Fun Host Games!](http://chrome.funhost.net/play/?app=trech)
 
@@ -29,9 +35,6 @@ title: http://chrome.funhost.net/play/?app=trech
 *  JS Response Bytes: 2305921
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124694
-
-### Performance issues
-
 
 ### Performance issues
 

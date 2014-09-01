@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://online-chrome-game.blogspot.com/2014/04/minecraft-similar-2d-games.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [online chrome game](http://online-chrome-game.blogspot.com/2014/04/minecraft-similar-2d-games.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://online-chrome-game.blogspot.com/2014/04/minecraft-similar-2d-games
 *  JS Response Bytes: 314308
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44372
-
-### Performance issues
-
 
 ### Performance issues
 

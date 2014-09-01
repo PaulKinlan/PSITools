@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://lgsports.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [LGSPORTSTV.SE](http://lgsports.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://lgsports.blogspot.com/?m=1
 *  JS Response Bytes: 794714
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14935
-
-### Performance issues
-
 
 ### Performance issues
 

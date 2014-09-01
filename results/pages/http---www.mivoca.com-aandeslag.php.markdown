@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.mivoca.com/aandeslag.php
+MinimizeRenderBlockingResources: true
 ---
 ## [Mivoca - start met woorden oefenen](http://www.mivoca.com/aandeslag.php)
 
@@ -29,9 +30,6 @@ title: http://www.mivoca.com/aandeslag.php
 *  JS Response Bytes: 201086
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 629
-
-### Performance issues
-
 
 ### Performance issues
 

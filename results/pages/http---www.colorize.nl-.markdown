@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.colorize.nl/
+MinimizeRenderBlockingResources: true
 ---
 ## [Colorize - Vakmanschap in nieuwe media](http://www.colorize.nl/)
 
@@ -29,9 +30,6 @@ title: http://www.colorize.nl/
 *  JS Response Bytes: 521193
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105274
-
-### Performance issues
-
 
 ### Performance issues
 

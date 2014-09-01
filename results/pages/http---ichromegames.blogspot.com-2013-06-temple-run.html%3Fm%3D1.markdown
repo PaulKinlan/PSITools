@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ichromegames.blogspot.com/2013/06/temple-run.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [ichromegames: Temple Run](http://ichromegames.blogspot.com/2013/06/temple-run.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://ichromegames.blogspot.com/2013/06/temple-run.html?m=1
 *  JS Response Bytes: 1067887
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97978
-
-### Performance issues
-
 
 ### Performance issues
 

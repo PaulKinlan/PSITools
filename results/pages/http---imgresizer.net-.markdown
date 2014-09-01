@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://imgresizer.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Image Resizer - Free Tool For Online Image Resizing](http://imgresizer.net/)
 
@@ -29,9 +33,6 @@ title: http://imgresizer.net/
 *  JS Response Bytes: 797007
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95625
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/i-will-survive/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [1 Will Survive](http://www.war-games.ws/i-will-survive/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/i-will-survive/
 *  JS Response Bytes: 2292920
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114143
-
-### Performance issues
-
 
 ### Performance issues
 

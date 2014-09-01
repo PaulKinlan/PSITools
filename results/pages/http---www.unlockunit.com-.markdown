@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.unlockunit.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Unlock your phone safe and fast - UnlockUnit.com](http://www.unlockunit.com/)
 
@@ -29,9 +35,6 @@ title: http://www.unlockunit.com/
 *  JS Response Bytes: 1063766
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94972
-
-### Performance issues
-
 
 ### Performance issues
 

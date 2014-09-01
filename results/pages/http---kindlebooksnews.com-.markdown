@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://kindlebooksnews.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kindle Books News](http://kindlebooksnews.com/)
 
@@ -22,16 +25,13 @@ title: http://kindlebooksnews.com/
 
 ### Response data
 
-*  HTML Response Bytes: 40601
+*  HTML Response Bytes: 40331
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 163601
+*  CSS Response Bytes: 166406
 *  Image Response Bytes: 2356363
-*  JS Response Bytes: 1065451
+*  JS Response Bytes: 1067739
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2060
-
-### Performance issues
-
 
 ### Performance issues
 

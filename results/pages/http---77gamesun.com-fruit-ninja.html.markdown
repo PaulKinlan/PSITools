@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://77gamesun.com/fruit-ninja.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [77GamesUN.Com | Flash Game Site| Play Game | – Fruit Ninja](http://77gamesun.com/fruit-ninja.html)
 
@@ -29,9 +35,6 @@ title: http://77gamesun.com/fruit-ninja.html
 *  JS Response Bytes: 412468
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1179
-
-### Performance issues
-
 
 ### Performance issues
 

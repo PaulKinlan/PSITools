@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.war-games.ws/castaway/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Castaway](http://www.war-games.ws/castaway/)
 
@@ -29,9 +36,6 @@ title: http://www.war-games.ws/castaway/
 *  JS Response Bytes: 2313971
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121877
-
-### Performance issues
-
 
 ### Performance issues
 

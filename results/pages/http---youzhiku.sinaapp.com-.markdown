@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://youzhiku.sinaapp.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [youzhiku.net 网络招聘,服装店,咖啡馆,旅馆,小实体商业招聘平台](http://youzhiku.sinaapp.com/)
 
@@ -29,9 +33,6 @@ title: http://youzhiku.sinaapp.com/
 *  JS Response Bytes: 106561
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://webstore.limexgames.net/ag_cargo_bridge/index.html
+AvoidPlugins: true
 ---
 ## [Cargo Bridge: Armor Games Edition](http://webstore.limexgames.net/ag_cargo_bridge/index.html)
 
@@ -29,9 +30,6 @@ title: http://webstore.limexgames.net/ag_cargo_bridge/index.html
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

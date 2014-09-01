@@ -33,8 +33,5 @@ title: https://ctocloud.livehive.com/openidconnect/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

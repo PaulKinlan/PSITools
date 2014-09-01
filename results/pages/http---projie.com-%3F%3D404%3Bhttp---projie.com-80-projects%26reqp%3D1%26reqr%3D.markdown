@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://projie.com/?=404;http://projie.com:80/projects&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [projie.com](http://projie.com/?=404;http://projie.com:80/projects&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://projie.com/?=404;http://projie.com:80/projects&reqp=1&reqr=
 *  JS Response Bytes: 304181
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 87
-
-### Performance issues
-
 
 ### Performance issues
 

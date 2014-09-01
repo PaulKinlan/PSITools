@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.audiocarbrasil.com.br/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [AudioCarBrasil v4](http://www.audiocarbrasil.com.br/)
 
@@ -29,9 +33,6 @@ title: http://www.audiocarbrasil.com.br/
 *  JS Response Bytes: 1419218
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 288324
-
-### Performance issues
-
 
 ### Performance issues
 

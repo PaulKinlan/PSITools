@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.chinesexchess.com/XChess
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chinesexchess.com](http://www.chinesexchess.com/XChess)
 
@@ -29,9 +33,6 @@ title: http://www.chinesexchess.com/XChess
 *  JS Response Bytes: 312252
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 356
-
-### Performance issues
-
 
 ### Performance issues
 

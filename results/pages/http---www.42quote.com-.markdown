@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.42quote.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [42quote - Trending quotes on the Internet](http://www.42quote.com/)
 
@@ -29,9 +32,6 @@ title: http://www.42quote.com/
 *  JS Response Bytes: 1441098
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 300439
-
-### Performance issues
-
 
 ### Performance issues
 

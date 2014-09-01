@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://afinador.net.br/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Afinador de Violão - Afinador de Guitarra - Instrumentos de corda](http://afinador.net.br/)
 
@@ -29,9 +32,6 @@ title: http://afinador.net.br/
 *  JS Response Bytes: 1188025
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19046
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://laundryqueue.heroku.com/welcome
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LaundryQueue - clean online resources scheduling](http://laundryqueue.heroku.com/welcome)
 
@@ -29,9 +33,6 @@ title: http://laundryqueue.heroku.com/welcome
 *  JS Response Bytes: 307045
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 332
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://online-arcade.bigfishgames.com/index.htm
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Big Fish Games Online Arcade](http://online-arcade.bigfishgames.com/index.htm)
 
@@ -29,9 +32,6 @@ title: http://online-arcade.bigfishgames.com/index.htm
 *  JS Response Bytes: 162799
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

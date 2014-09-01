@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/actiongames/spiderman-zombie-run-2/#.U_d72k0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Spiderman Zombie Run 2 « Online Flash Game Spiderman Zombie Run 2](http://gamematic.net/online-flash-games/actiongames/spiderman-zombie-run-2/#.U_d72k0ieKA)
 
@@ -29,9 +37,6 @@ title: http://gamematic.net/online-flash-games/actiongames/spiderman-zombie-run-
 *  JS Response Bytes: 1547346
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32903
-
-### Performance issues
-
 
 ### Performance issues
 

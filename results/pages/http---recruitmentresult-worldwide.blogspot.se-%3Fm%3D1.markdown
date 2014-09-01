@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://recruitmentresult-worldwide.blogspot.se/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Recruitment - World Wide Web](http://recruitmentresult-worldwide.blogspot.se/?m=1)
 
@@ -29,9 +32,6 @@ title: http://recruitmentresult-worldwide.blogspot.se/?m=1
 *  JS Response Bytes: 4332561
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35550
-
-### Performance issues
-
 
 ### Performance issues
 

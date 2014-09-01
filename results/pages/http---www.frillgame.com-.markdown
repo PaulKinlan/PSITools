@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.frillgame.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+UseLegibleFontSizes: true
 ---
 ## [www.frillgame.com](http://www.frillgame.com/)
 
@@ -29,9 +32,6 @@ title: http://www.frillgame.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.3d-juegos.co/apple-shooter-champ/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Apple Shooter Champ juego](http://www.3d-juegos.co/apple-shooter-champ/)
 
@@ -29,9 +34,6 @@ title: http://www.3d-juegos.co/apple-shooter-champ/
 *  JS Response Bytes: 2478673
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 152027
-
-### Performance issues
-
 
 ### Performance issues
 

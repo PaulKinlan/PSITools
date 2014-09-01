@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.perfectgamez.com/harlem-shake.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Harlem Shake | Perfect Gamez](http://www.perfectgamez.com/harlem-shake.html)
 
@@ -29,9 +35,6 @@ title: http://www.perfectgamez.com/harlem-shake.html
 *  JS Response Bytes: 1126820
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1457
-
-### Performance issues
-
 
 ### Performance issues
 

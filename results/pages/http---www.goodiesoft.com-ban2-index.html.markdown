@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.goodiesoft.com/ban2/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Balls and numbers 2](http://www.goodiesoft.com/ban2/index.html)
 
@@ -29,9 +34,6 @@ title: http://www.goodiesoft.com/ban2/index.html
 *  JS Response Bytes: 289102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1311
-
-### Performance issues
-
 
 ### Performance issues
 

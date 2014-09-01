@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://app.inspectit.com/ahit/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Welcome to InspectIt](https://app.inspectit.com/ahit/)
 
@@ -29,9 +32,6 @@ title: https://app.inspectit.com/ahit/
 *  JS Response Bytes: 277244
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://cloud.sagemath.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [SageMathCloud](https://cloud.sagemath.com/)
 
@@ -29,9 +32,6 @@ title: https://cloud.sagemath.com/
 *  JS Response Bytes: 3997720
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 289
-
-### Performance issues
-
 
 ### Performance issues
 

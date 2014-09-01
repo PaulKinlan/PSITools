@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.playsurfers.com/anno-app/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Anno App | PlaySurfers](http://www.playsurfers.com/anno-app/)
 
@@ -29,9 +31,6 @@ title: http://www.playsurfers.com/anno-app/
 *  JS Response Bytes: 304213
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

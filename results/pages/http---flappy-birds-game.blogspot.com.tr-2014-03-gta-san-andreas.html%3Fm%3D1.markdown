@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://flappy-birds-game.blogspot.com.tr/2014/03/gta-san-andreas.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Game Chrome Store: gta san andreas](http://flappy-birds-game.blogspot.com.tr/2014/03/gta-san-andreas.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://flappy-birds-game.blogspot.com.tr/2014/03/gta-san-andreas.html?m=1
 *  JS Response Bytes: 1148891
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100859
-
-### Performance issues
-
 
 ### Performance issues
 

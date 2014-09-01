@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://internet-tv-live.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [free TV](http://internet-tv-live.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://internet-tv-live.appspot.com/
 *  JS Response Bytes: 556591
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

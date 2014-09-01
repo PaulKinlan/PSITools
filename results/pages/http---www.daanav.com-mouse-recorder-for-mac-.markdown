@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.daanav.com/mouse-recorder-for-mac/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mouse Recorder for Mac](http://www.daanav.com/mouse-recorder-for-mac/)
 
@@ -29,9 +32,6 @@ title: http://www.daanav.com/mouse-recorder-for-mac/
 *  JS Response Bytes: 1154607
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 309624
-
-### Performance issues
-
 
 ### Performance issues
 

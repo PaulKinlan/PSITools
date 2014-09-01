@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://dev.google.thinksmart.com/
+UseLegibleFontSizes: true
 ---
 ## [](http://dev.google.thinksmart.com/)
 
@@ -29,9 +30,6 @@ title: http://dev.google.thinksmart.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6339
-
-### Performance issues
-
 
 ### Performance issues
 

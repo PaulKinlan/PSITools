@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/bowls-game/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bowls Game Game](http://www.footballgam.es/bowls-game/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/bowls-game/
 *  JS Response Bytes: 2265022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 140440
-
-### Performance issues
-
 
 ### Performance issues
 

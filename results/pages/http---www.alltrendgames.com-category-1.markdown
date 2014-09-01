@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.alltrendgames.com/category/1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Car - All Trend Games](http://www.alltrendgames.com/category/1)
 
@@ -29,9 +32,6 @@ title: http://www.alltrendgames.com/category/1
 *  JS Response Bytes: 647914
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1172
-
-### Performance issues
-
 
 ### Performance issues
 

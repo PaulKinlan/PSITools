@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://uk.ixl.com/signin/fipps
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IXL - Sign In](https://uk.ixl.com/signin/fipps)
 
@@ -29,9 +32,6 @@ title: https://uk.ixl.com/signin/fipps
 *  JS Response Bytes: 909000
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14079
-
-### Performance issues
-
 
 ### Performance issues
 

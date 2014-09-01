@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://143pets.com/chrome/?utm_source=chrome_ext
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [](http://143pets.com/chrome/?utm_source=chrome_ext)
 
@@ -29,9 +33,6 @@ title: http://143pets.com/chrome/?utm_source=chrome_ext
 *  JS Response Bytes: 1734802
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111059
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kazi.no/slots/ladies-nite/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ladies nite @ Kazi.noKazi.no](http://www.kazi.no/slots/ladies-nite/)
 
@@ -29,9 +34,6 @@ title: http://www.kazi.no/slots/ladies-nite/
 *  JS Response Bytes: 1165641
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141016
-
-### Performance issues
-
 
 ### Performance issues
 

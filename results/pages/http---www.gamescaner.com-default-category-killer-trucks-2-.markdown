@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamescaner.com/default-category/killer-trucks-2-
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Killer Trucks 2 - Gamescaner.com](http://www.gamescaner.com/default-category/killer-trucks-2-)
 
@@ -29,9 +34,6 @@ title: http://www.gamescaner.com/default-category/killer-trucks-2-
 *  JS Response Bytes: 673205
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16667
-
-### Performance issues
-
 
 ### Performance issues
 

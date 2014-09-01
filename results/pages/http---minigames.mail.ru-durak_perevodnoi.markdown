@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://minigames.mail.ru/durak_perevodnoi
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [Мини-игры@Mail.Ru](http://minigames.mail.ru/durak_perevodnoi)
 
@@ -29,9 +31,6 @@ title: http://minigames.mail.ru/durak_perevodnoi
 *  JS Response Bytes: 103992
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 364
-
-### Performance issues
-
 
 ### Performance issues
 

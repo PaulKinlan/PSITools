@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://galeriacr7.com.br/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Galeria CR7 - Uma visão diferente sobre o mundo de Cristiano Ronaldo](http://galeriacr7.com.br/)
 
@@ -29,9 +33,6 @@ title: http://galeriacr7.com.br/
 *  JS Response Bytes: 1728433
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1592
-
-### Performance issues
-
 
 ### Performance issues
 

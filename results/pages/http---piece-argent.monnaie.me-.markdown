@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://piece-argent.monnaie.me/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Piece argent](http://piece-argent.monnaie.me/)
 
@@ -29,9 +34,6 @@ title: http://piece-argent.monnaie.me/
 *  JS Response Bytes: 431863
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

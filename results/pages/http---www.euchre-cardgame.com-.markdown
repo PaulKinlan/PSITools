@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.euchre-cardgame.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Euchre Card Game](http://www.euchre-cardgame.com/)
 
@@ -29,9 +33,6 @@ title: http://www.euchre-cardgame.com/
 *  JS Response Bytes: 739933
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51746
-
-### Performance issues
-
 
 ### Performance issues
 

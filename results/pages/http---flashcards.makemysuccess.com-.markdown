@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://flashcards.makemysuccess.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Flashcards](http://flashcards.makemysuccess.com/)
 
@@ -29,9 +33,6 @@ title: http://flashcards.makemysuccess.com/
 *  JS Response Bytes: 418479
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

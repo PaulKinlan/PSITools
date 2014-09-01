@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesgator.biz/mobil-1-racing-academy/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mobil 1 Racing Academy](http://www.gamesgator.biz/mobil-1-racing-academy/)
 
@@ -29,9 +34,6 @@ title: http://www.gamesgator.biz/mobil-1-racing-academy/
 *  JS Response Bytes: 1141769
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 38328
-
-### Performance issues
-
 
 ### Performance issues
 

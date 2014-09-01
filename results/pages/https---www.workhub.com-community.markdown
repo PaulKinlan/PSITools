@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://www.workhub.com/community
+MinimizeRenderBlockingResources: true
 ---
 ## [WorkHub – Our community](https://www.workhub.com/community)
 
@@ -29,9 +30,6 @@ title: https://www.workhub.com/community
 *  JS Response Bytes: 485122
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49755
-
-### Performance issues
-
 
 ### Performance issues
 

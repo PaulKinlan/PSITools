@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesforfreetime.com/arcade/colour-cube
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Colour Cube - Games For Free Time](http://www.gamesforfreetime.com/arcade/colour-cube)
 
@@ -29,9 +35,6 @@ title: http://www.gamesforfreetime.com/arcade/colour-cube
 *  JS Response Bytes: 2228950
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111402
-
-### Performance issues
-
 
 ### Performance issues
 

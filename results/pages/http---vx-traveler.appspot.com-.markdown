@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://vx-traveler.appspot.com/
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [We're sorry, but something went wrong (500)](http://vx-traveler.appspot.com/)
 
@@ -29,9 +31,6 @@ title: http://vx-traveler.appspot.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1415
-
-### Performance issues
-
 
 ### Performance issues
 

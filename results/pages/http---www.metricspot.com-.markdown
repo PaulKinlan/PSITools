@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.metricspot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Web Analytics and SEO Tools | MetricSpot](http://www.metricspot.com/)
 
@@ -29,9 +31,6 @@ title: http://www.metricspot.com/
 *  JS Response Bytes: 1223323
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125134
-
-### Performance issues
-
 
 ### Performance issues
 

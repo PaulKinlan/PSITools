@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.lize-art.com/?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Lize van der Walt Art](http://www.lize-art.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://www.lize-art.com/?m=1
 *  JS Response Bytes: 255799
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1441
-
-### Performance issues
-
 
 ### Performance issues
 

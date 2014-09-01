@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/shooting/tactical-assassin-mobile
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tactical Assassin Mobile - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/shooting/tactical-assassin-mobile)
 
@@ -29,9 +33,6 @@ title: http://www.gamesvarious.com/shooting/tactical-assassin-mobile
 *  JS Response Bytes: 2180515
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106419
-
-### Performance issues
-
 
 ### Performance issues
 

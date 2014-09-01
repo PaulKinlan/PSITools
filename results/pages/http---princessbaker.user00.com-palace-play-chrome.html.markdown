@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://princessbaker.user00.com/palace/play/chrome.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Princess Baker: Palace](http://princessbaker.user00.com/palace/play/chrome.html)
 
@@ -29,9 +33,6 @@ title: http://princessbaker.user00.com/palace/play/chrome.html
 *  JS Response Bytes: 400052
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

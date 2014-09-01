@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://mobile.kixeye.com/game/battlepirates?from=dpbpcw-aq-us-18-65&game=bp
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [KIXEYE: Battle Pirates](http://mobile.kixeye.com/game/battlepirates?from=dpbpcw-aq-us-18-65&game=bp)
 
@@ -29,9 +34,6 @@ title: http://mobile.kixeye.com/game/battlepirates?from=dpbpcw-aq-us-18-65&game=
 *  JS Response Bytes: 2608339
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6146
-
-### Performance issues
-
 
 ### Performance issues
 

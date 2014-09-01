@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.pearsonsuccessnet.com/snpapp/login/PsnLandingPage.jsp?showLandingPage=true
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login](https://www.pearsonsuccessnet.com/snpapp/login/PsnLandingPage.jsp?showLandingPage=true)
 
@@ -18,20 +23,17 @@ title: https://www.pearsonsuccessnet.com/snpapp/login/PsnLandingPage.jsp?showLan
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 16
-*  Total Request Bytes: 2010
+*  Total Request Bytes: 2009
 
 ### Response data
 
 *  HTML Response Bytes: 12854
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 171871
-*  Image Response Bytes: 36830
-*  JS Response Bytes: 123625
+*  CSS Response Bytes: 171875
+*  Image Response Bytes: 36837
+*  JS Response Bytes: 123628
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 3448
-
-### Performance issues
-
+*  Other Response Bytes: 3447
 
 ### Performance issues
 

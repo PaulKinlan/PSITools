@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://minecraft-plaay-game.blogspot.com/2014/04/angry-birds-rio.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [chrome store hd minecraft best of free: Angry Birds Rio](http://minecraft-plaay-game.blogspot.com/2014/04/angry-birds-rio.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://minecraft-plaay-game.blogspot.com/2014/04/angry-birds-rio.html?m=1
 *  JS Response Bytes: 720850
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95885
-
-### Performance issues
-
 
 ### Performance issues
 

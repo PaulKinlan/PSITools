@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/bloons-tower-defense-5/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Bloons Tower Defense 5 Game — Sultans of Game](http://www.sultansofgame.com/games/bloons-tower-defense-5/)
 
@@ -29,9 +34,6 @@ title: http://www.sultansofgame.com/games/bloons-tower-defense-5/
 *  JS Response Bytes: 1646226
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120741
-
-### Performance issues
-
 
 ### Performance issues
 

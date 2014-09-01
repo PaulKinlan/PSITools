@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/racing/lose-the-heat-3-highway-hero
+UseLegibleFontSizes: true
 ---
 ## [404 - Page not found](http://www.gamesvarious.com/racing/lose-the-heat-3-highway-hero)
 
@@ -29,9 +30,6 @@ title: http://www.gamesvarious.com/racing/lose-the-heat-3-highway-hero
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 949
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/461050/?autoAction=true&sId=Chrome_Webstore_Nov12_461050&actid=Chrome_Webstore_461050
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Cake Mania for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/461050/?autoAction=true&sId=Chrome_Webstore_Nov12_461050&actid=Chrome_Webstore_461050)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/461050/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1563736
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32516
-
-### Performance issues
-
 
 ### Performance issues
 

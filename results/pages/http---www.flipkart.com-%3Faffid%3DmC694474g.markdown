@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.flipkart.com/?affid=mC694474g
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Online Shopping India - Shop Online for Books, Mobile Phones, Digital Cameras, Watches & More at Flipkart.com](http://www.flipkart.com/?affid=mC694474g)
 
@@ -29,9 +32,6 @@ title: http://www.flipkart.com/?affid=mC694474g
 *  JS Response Bytes: 739373
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11496
-
-### Performance issues
-
 
 ### Performance issues
 

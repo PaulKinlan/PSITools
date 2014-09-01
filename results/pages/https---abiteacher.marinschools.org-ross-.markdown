@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://abiteacher.marinschools.org/ross/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [You are not authorized to view this page](https://abiteacher.marinschools.org/ross/)
 
@@ -29,9 +31,6 @@ title: https://abiteacher.marinschools.org/ross/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1688
-
-### Performance issues
-
 
 ### Performance issues
 

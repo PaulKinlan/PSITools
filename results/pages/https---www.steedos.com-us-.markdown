@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.steedos.com/us/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SteedOS - Apps for Business](https://www.steedos.com/us/)
 
@@ -29,9 +34,6 @@ title: https://www.steedos.com/us/
 *  JS Response Bytes: 662123
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1002
-
-### Performance issues
-
 
 ### Performance issues
 

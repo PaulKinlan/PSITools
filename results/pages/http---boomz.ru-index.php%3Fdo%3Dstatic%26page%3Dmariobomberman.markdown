@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://boomz.ru/index.php?do=static&page=mariobomberman
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Russian Game - Mario + Bomberman](http://boomz.ru/index.php?do=static&page=mariobomberman)
 
@@ -29,9 +34,6 @@ title: http://boomz.ru/index.php?do=static&page=mariobomberman
 *  JS Response Bytes: 276928
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2815
-
-### Performance issues
-
 
 ### Performance issues
 

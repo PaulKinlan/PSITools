@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.cloudygame2.in/candy-crush/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Candy Crush saga online play game - Cloudy game](http://www.cloudygame2.in/candy-crush/)
 
@@ -29,9 +34,6 @@ title: http://www.cloudygame2.in/candy-crush/
 *  JS Response Bytes: 1821640
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 144550
-
-### Performance issues
-
 
 ### Performance issues
 

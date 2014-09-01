@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gtalivegames.com/?=404;http://www.gtalivegames.com:80/mad-trucker-2.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [gtalivegames.com](http://gtalivegames.com/?=404;http://www.gtalivegames.com:80/mad-trucker-2.html&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://gtalivegames.com/?=404;http://www.gtalivegames.com:80/mad-trucker-
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113
-
-### Performance issues
-
 
 ### Performance issues
 

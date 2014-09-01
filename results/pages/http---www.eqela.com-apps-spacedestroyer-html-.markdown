@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.eqela.com/apps/spacedestroyer/html/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Space Destroyer](http://www.eqela.com/apps/spacedestroyer/html/)
 
@@ -29,9 +33,6 @@ title: http://www.eqela.com/apps/spacedestroyer/html/
 *  JS Response Bytes: 1397504
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

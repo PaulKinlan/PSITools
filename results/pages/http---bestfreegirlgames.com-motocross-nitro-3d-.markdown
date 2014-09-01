@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://bestfreegirlgames.com/motocross-nitro-3d/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Motocross Nitro 3D | BestFreeGirlGames Free Girl Games, Online Girl Games](http://bestfreegirlgames.com/motocross-nitro-3d/)
 
@@ -29,9 +35,6 @@ title: http://bestfreegirlgames.com/motocross-nitro-3d/
 *  JS Response Bytes: 1194514
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15687
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.guitarstringsforlife.com/apps/scalebook/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.guitarstringsforlife.com/apps/scalebook/)
 
@@ -29,9 +33,6 @@ title: http://www.guitarstringsforlife.com/apps/scalebook/
 *  JS Response Bytes: 253673
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://yeoldestudio.co.uk/
+MinimizeRenderBlockingResources: true
 ---
 ## [Ye Olde Studio](http://yeoldestudio.co.uk/)
 
@@ -29,9 +30,6 @@ title: http://yeoldestudio.co.uk/
 *  JS Response Bytes: 314539
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 67842
-
-### Performance issues
-
 
 ### Performance issues
 

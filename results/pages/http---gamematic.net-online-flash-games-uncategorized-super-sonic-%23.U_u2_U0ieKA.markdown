@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/uncategorized/super-sonic/#.U_u2_U0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Sonic « Online Flash Game Super Sonic](http://gamematic.net/online-flash-games/uncategorized/super-sonic/#.U_u2_U0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/uncategorized/super-sonic/#.U_u2_
 *  JS Response Bytes: 1763297
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 36669
-
-### Performance issues
-
 
 ### Performance issues
 

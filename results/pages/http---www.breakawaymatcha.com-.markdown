@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.breakawaymatcha.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Breakaway Matcha, Hyperpremium Matcha Green Tea](http://www.breakawaymatcha.com/)
 
@@ -29,9 +32,6 @@ title: http://www.breakawaymatcha.com/
 *  JS Response Bytes: 438789
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 191
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://downloadallinblog.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DVD And TV And Movies](http://downloadallinblog.blogspot.com/?m=1)
 
@@ -22,16 +25,13 @@ title: http://downloadallinblog.blogspot.com/?m=1
 
 ### Response data
 
-*  HTML Response Bytes: 130565
+*  HTML Response Bytes: 130704
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 29535
 *  Image Response Bytes: 2784
-*  JS Response Bytes: 1611795
+*  JS Response Bytes: 1611817
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98205
-
-### Performance issues
-
 
 ### Performance issues
 

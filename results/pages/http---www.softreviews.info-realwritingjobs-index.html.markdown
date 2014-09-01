@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.softreviews.info/realwritingjobs/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Writing Jobs 2013](http://www.softreviews.info/realwritingjobs/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.softreviews.info/realwritingjobs/index.html
 *  JS Response Bytes: 397307
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

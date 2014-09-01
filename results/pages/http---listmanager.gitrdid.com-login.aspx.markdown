@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://listmanager.gitrdid.com/login.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://listmanager.gitrdid.com/login.aspx)
 
@@ -29,9 +34,6 @@ title: http://listmanager.gitrdid.com/login.aspx
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 374
-
-### Performance issues
-
 
 ### Performance issues
 

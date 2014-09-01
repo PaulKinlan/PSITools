@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gtavicecityplay.blogspot.com/2013/07/gta-vice-city.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [עחיכ](http://gtavicecityplay.blogspot.com/2013/07/gta-vice-city.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://gtavicecityplay.blogspot.com/2013/07/gta-vice-city.html?m=1
 *  JS Response Bytes: 798623
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 330917
-
-### Performance issues
-
 
 ### Performance issues
 

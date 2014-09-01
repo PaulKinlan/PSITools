@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.vusd.org/mtwhitney.cfm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mt. Whitney High School](http://www.vusd.org/mtwhitney.cfm)
 
@@ -29,9 +33,6 @@ title: http://www.vusd.org/mtwhitney.cfm
 *  JS Response Bytes: 358437
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.surveyangle.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SurveyAngle - Free online surveys, questionnaires, forms and polls](http://www.surveyangle.com/)
 
@@ -29,9 +32,6 @@ title: http://www.surveyangle.com/
 *  JS Response Bytes: 1269612
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 609
-
-### Performance issues
-
 
 ### Performance issues
 

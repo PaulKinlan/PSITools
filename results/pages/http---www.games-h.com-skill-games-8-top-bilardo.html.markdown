@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.games-h.com/skill-games/8-top-bilardo.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Playing 8 Top Bilardo - Play Free Online Games at Games-H.COM](http://www.games-h.com/skill-games/8-top-bilardo.html)
 
@@ -29,9 +35,6 @@ title: http://www.games-h.com/skill-games/8-top-bilardo.html
 *  JS Response Bytes: 2434753
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 152735
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.ps4em.com/game-of-war.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Game of War - SkyApps](http://www.ps4em.com/game-of-war.html)
 
@@ -29,9 +31,6 @@ title: http://www.ps4em.com/game-of-war.html
 *  JS Response Bytes: 535346
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45604
-
-### Performance issues
-
 
 ### Performance issues
 

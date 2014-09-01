@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/world-cup-kicks/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [World Cup Kicks Game](http://www.footballgam.es/world-cup-kicks/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/world-cup-kicks/
 *  JS Response Bytes: 2296927
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156833
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://pmate.ua.pt/flash/tabelaPeriodica/Conte%C3%BAdo
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Periodic table of elements](http://pmate.ua.pt/flash/tabelaPeriodica/Conte%C3%BAdo)
 
@@ -29,9 +33,6 @@ title: http://pmate.ua.pt/flash/tabelaPeriodica/Conte%C3%BAdo
 *  JS Response Bytes: 26501
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 639
-
-### Performance issues
-
 
 ### Performance issues
 

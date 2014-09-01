@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.onlinechildrengame.com/3d-games/kick-box/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kick Box](http://www.onlinechildrengame.com/3d-games/kick-box/)
 
@@ -29,9 +34,6 @@ title: http://www.onlinechildrengame.com/3d-games/kick-box/
 *  JS Response Bytes: 894261
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20318
-
-### Performance issues
-
 
 ### Performance issues
 

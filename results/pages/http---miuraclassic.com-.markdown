@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://miuraclassic.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Miura Classic - Voitures de collection et de prestige à vendre](http://miuraclassic.com/)
 
@@ -29,9 +31,6 @@ title: http://miuraclassic.com/
 *  JS Response Bytes: 747512
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 822
-
-### Performance issues
-
 
 ### Performance issues
 

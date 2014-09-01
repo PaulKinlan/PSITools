@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.777flashgames.com/cut-the-rope.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cut the Rope | 777 Flash Games](http://www.777flashgames.com/cut-the-rope.html)
 
@@ -29,9 +33,6 @@ title: http://www.777flashgames.com/cut-the-rope.html
 *  JS Response Bytes: 1529185
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105125
-
-### Performance issues
-
 
 ### Performance issues
 

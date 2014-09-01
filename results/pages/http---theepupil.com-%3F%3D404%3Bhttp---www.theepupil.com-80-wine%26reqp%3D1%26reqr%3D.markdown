@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://theepupil.com/?=404;http://www.theepupil.com:80/wine&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [theepupil.com](http://theepupil.com/?=404;http://www.theepupil.com:80/wine&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://theepupil.com/?=404;http://www.theepupil.com:80/wine&reqp=1&reqr=
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 93
-
-### Performance issues
-
 
 ### Performance issues
 

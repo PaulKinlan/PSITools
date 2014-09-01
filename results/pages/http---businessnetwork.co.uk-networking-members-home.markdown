@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://businessnetwork.co.uk/networking/members/home
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;"> <h4>A PHP Error was encountered</h4> <p>Severity: Notice</p> <p>Message: Undefined variable: meta_title</p> <p>Filename: views/header.php</p> <p>Line Number: 6</p> </div>](http://businessnetwork.co.uk/networking/members/home)
 
@@ -29,9 +31,6 @@ title: http://businessnetwork.co.uk/networking/members/home
 *  JS Response Bytes: 284494
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111209
-
-### Performance issues
-
 
 ### Performance issues
 

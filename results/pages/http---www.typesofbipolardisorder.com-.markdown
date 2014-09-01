@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.typesofbipolardisorder.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Types of Bipolar Disorder](http://www.typesofbipolardisorder.com/)
 
@@ -29,9 +36,6 @@ title: http://www.typesofbipolardisorder.com/
 *  JS Response Bytes: 601616
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25173
-
-### Performance issues
-
 
 ### Performance issues
 

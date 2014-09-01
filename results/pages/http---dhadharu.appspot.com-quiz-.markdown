@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://dhadharu.appspot.com/quiz/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [নীড়পাতা - ধাঁধা](http://dhadharu.appspot.com/quiz/)
 
@@ -29,9 +32,6 @@ title: http://dhadharu.appspot.com/quiz/
 *  JS Response Bytes: 309321
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1854
-
-### Performance issues
-
 
 ### Performance issues
 

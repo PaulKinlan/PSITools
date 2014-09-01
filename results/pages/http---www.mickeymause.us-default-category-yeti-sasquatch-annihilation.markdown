@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mickeymause.us/default-category/yeti-sasquatch-annihilation
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Yeti Sasquatch Annihilation - Mickey Mause](http://www.mickeymause.us/default-category/yeti-sasquatch-annihilation)
 
@@ -29,9 +34,6 @@ title: http://www.mickeymause.us/default-category/yeti-sasquatch-annihilation
 *  JS Response Bytes: 2068913
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113474
-
-### Performance issues
-
 
 ### Performance issues
 

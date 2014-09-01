@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mariogame123.com/world-of-tanks/#.U_uyiE0ieKA
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [World Of Tanks | Mario Games](http://mariogame123.com/world-of-tanks/#.U_uyiE0ieKA)
 
@@ -29,9 +33,6 @@ title: http://mariogame123.com/world-of-tanks/#.U_uyiE0ieKA
 *  JS Response Bytes: 908949
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20430
-
-### Performance issues
-
 
 ### Performance issues
 

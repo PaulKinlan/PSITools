@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.angelgames.co/fancy-pants-adventure-2.html#.U_2MNk0ieKB
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Fancy Pants Adventure 2, a free online game at Angel Games - Angel Games](http://www.angelgames.co/fancy-pants-adventure-2.html#.U_2MNk0ieKB)
 
@@ -29,9 +36,6 @@ title: http://www.angelgames.co/fancy-pants-adventure-2.html#.U_2MNk0ieKB
 *  JS Response Bytes: 1273141
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 78723
-
-### Performance issues
-
 
 ### Performance issues
 

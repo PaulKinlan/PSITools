@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.chromegames.co.uk/gravityguy.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gravity Guy Game](http://www.chromegames.co.uk/gravityguy.html)
 
@@ -29,9 +33,6 @@ title: http://www.chromegames.co.uk/gravityguy.html
 *  JS Response Bytes: 2295032
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 132578
-
-### Performance issues
-
 
 ### Performance issues
 

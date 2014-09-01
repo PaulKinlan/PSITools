@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://retro-arcade.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Retro Arcade Games-No Coins Needed](http://retro-arcade.com/)
 
@@ -29,9 +35,6 @@ title: http://retro-arcade.com/
 *  JS Response Bytes: 1008903
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97168
-
-### Performance issues
-
 
 ### Performance issues
 

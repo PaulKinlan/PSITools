@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://storage-market.tonkworks.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Rent out extra space in your garage, or house on StorageMarketStorageMarket](http://storage-market.tonkworks.com/)
 
@@ -29,9 +31,6 @@ title: http://storage-market.tonkworks.com/
 *  JS Response Bytes: 378078
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 370
-
-### Performance issues
-
 
 ### Performance issues
 

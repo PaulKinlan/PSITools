@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.textnow.com/m/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [TextNow Mobile](https://www.textnow.com/m/)
 
@@ -29,9 +32,6 @@ title: https://www.textnow.com/m/
 *  JS Response Bytes: 971097
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 574
-
-### Performance issues
-
 
 ### Performance issues
 

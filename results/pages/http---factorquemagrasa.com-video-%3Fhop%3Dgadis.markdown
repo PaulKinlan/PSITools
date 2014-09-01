@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://factorquemagrasa.com/video/?hop=gadis
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Como Bajar de Peso - Factor Quema Grasa](http://factorquemagrasa.com/video/?hop=gadis)
 
@@ -29,9 +37,6 @@ title: http://factorquemagrasa.com/video/?hop=gadis
 *  JS Response Bytes: 333703
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28471
-
-### Performance issues
-
 
 ### Performance issues
 

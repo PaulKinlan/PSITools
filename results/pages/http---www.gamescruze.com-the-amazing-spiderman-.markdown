@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamescruze.com/the-amazing-spiderman/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games Cruze – The Amazing Spiderman](http://www.gamescruze.com/the-amazing-spiderman/)
 
@@ -29,9 +33,6 @@ title: http://www.gamescruze.com/the-amazing-spiderman/
 *  JS Response Bytes: 1033246
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16275
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://mail.ricelake.k12.wi.us/owa/auth/logon.aspx?url=https://mail.ricelake.k12.wi.us/owa/&reason=0
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Outlook Web App](https://mail.ricelake.k12.wi.us/owa/auth/logon.aspx?url=https://mail.ricelake.k12.wi.us/owa/&reason=0)
 
@@ -29,9 +33,6 @@ title: https://mail.ricelake.k12.wi.us/owa/auth/logon.aspx?url=https://mail.rice
 *  JS Response Bytes: 4498
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 452
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://miawcatz.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [screen cat](http://miawcatz.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://miawcatz.blogspot.com/?m=1
 *  JS Response Bytes: 1177192
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1289
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ww38.ptd1.poodlegames.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [poodlegames.com](http://ww38.ptd1.poodlegames.com/)
 
@@ -29,9 +33,6 @@ title: http://ww38.ptd1.poodlegames.com/
 *  JS Response Bytes: 209185
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 216
-
-### Performance issues
-
 
 ### Performance issues
 

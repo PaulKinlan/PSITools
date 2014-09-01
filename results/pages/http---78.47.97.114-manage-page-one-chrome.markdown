@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://78.47.97.114/manage/page/one/chrome
+UseLegibleFontSizes: true
 ---
 ## [Panacea Mobile Console](http://78.47.97.114/manage/page/one/chrome)
 
@@ -29,9 +30,6 @@ title: http://78.47.97.114/manage/page/one/chrome
 *  JS Response Bytes: 162347
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3630
-
-### Performance issues
-
 
 ### Performance issues
 

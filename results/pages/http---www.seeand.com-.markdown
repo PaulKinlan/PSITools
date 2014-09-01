@@ -33,8 +33,5 @@ title: http://www.seeand.com/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

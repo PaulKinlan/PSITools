@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.miniportal.us/app_en/newspapers/index.htm
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.miniportal.us/app_en/newspapers/index.htm)
 
@@ -29,9 +32,6 @@ title: http://www.miniportal.us/app_en/newspapers/index.htm
 *  JS Response Bytes: 390286
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19648
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.war-games.ws/cosmo-fortress/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cosmo Fortress](http://www.war-games.ws/cosmo-fortress/)
 
@@ -29,9 +36,6 @@ title: http://www.war-games.ws/cosmo-fortress/
 *  JS Response Bytes: 2196056
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115919
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://pasgame.info/subway-surfers-world-tour/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PasGame.info Play Online Free Game – Subway Surfers World Tour](http://pasgame.info/subway-surfers-world-tour/)
 
@@ -29,9 +34,6 @@ title: http://pasgame.info/subway-surfers-world-tour/
 *  JS Response Bytes: 728255
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15627
-
-### Performance issues
-
 
 ### Performance issues
 

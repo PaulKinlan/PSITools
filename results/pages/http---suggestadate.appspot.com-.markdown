@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://suggestadate.appspot.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Suggest a date](http://suggestadate.appspot.com/)
 
@@ -29,9 +35,6 @@ title: http://suggestadate.appspot.com/
 *  JS Response Bytes: 1165450
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16273
-
-### Performance issues
-
 
 ### Performance issues
 

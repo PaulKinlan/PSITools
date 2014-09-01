@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mybmi.org/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [BMI Calculator](http://mybmi.org/)
 
@@ -29,9 +33,6 @@ title: http://mybmi.org/
 *  JS Response Bytes: 129022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 205831
-
-### Performance issues
-
 
 ### Performance issues
 

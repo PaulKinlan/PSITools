@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playpop.com/en/mahjong.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mahjong - Multiplayer Free Games on PLAYPOP](http://playpop.com/en/mahjong.html)
 
@@ -29,9 +33,6 @@ title: http://playpop.com/en/mahjong.html
 *  JS Response Bytes: 1409907
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97018
-
-### Performance issues
-
 
 ### Performance issues
 

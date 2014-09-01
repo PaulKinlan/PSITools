@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.frivfriv.us/games/game/name/ultimate-flash-sonic
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ultimate-flash-sonic Friv Games](http://www.frivfriv.us/games/game/name/ultimate-flash-sonic)
 
@@ -29,9 +33,6 @@ title: http://www.frivfriv.us/games/game/name/ultimate-flash-sonic
 *  JS Response Bytes: 1875017
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110834
-
-### Performance issues
-
 
 ### Performance issues
 

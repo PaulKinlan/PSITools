@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.absgames.info/?s=webcam
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online free best games – Search Results – webcam](http://www.absgames.info/?s=webcam)
 
@@ -29,9 +34,6 @@ title: http://www.absgames.info/?s=webcam
 *  JS Response Bytes: 565295
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14380
-
-### Performance issues
-
 
 ### Performance issues
 

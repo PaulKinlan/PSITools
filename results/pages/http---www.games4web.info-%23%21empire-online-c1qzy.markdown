@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.games4web.info/#!empire-online/c1qzy
+EnableGzipCompression: true
 ---
 ## [bestgames | Empire Online](http://www.games4web.info/#!empire-online/c1qzy)
 
@@ -29,9 +30,6 @@ title: http://www.games4web.info/#!empire-online/c1qzy
 *  JS Response Bytes: 5000669
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2084
-
-### Performance issues
-
 
 ### Performance issues
 

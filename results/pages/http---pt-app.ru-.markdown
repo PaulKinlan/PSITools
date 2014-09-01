@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://pt-app.ru/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Периодическая система химических элементов](http://pt-app.ru/)
 
@@ -29,9 +33,6 @@ title: http://pt-app.ru/
 *  JS Response Bytes: 302602
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 304397
-
-### Performance issues
-
 
 ### Performance issues
 

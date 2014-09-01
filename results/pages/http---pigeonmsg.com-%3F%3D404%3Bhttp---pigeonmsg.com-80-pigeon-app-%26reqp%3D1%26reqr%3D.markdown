@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://pigeonmsg.com/?=404;http://pigeonmsg.com:80/pigeon/app/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [pigeonmsg.com](http://pigeonmsg.com/?=404;http://pigeonmsg.com:80/pigeon/app/&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://pigeonmsg.com/?=404;http://pigeonmsg.com:80/pigeon/app/&reqp=1&req
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96
-
-### Performance issues
-
 
 ### Performance issues
 

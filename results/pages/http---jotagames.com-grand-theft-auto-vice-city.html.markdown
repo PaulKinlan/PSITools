@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://jotagames.com/grand-theft-auto-vice-city.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [JOTAGameS.Com | Flash Games – Grand Theft Auto: Vice City](http://jotagames.com/grand-theft-auto-vice-city.html)
 
@@ -29,9 +35,6 @@ title: http://jotagames.com/grand-theft-auto-vice-city.html
 *  JS Response Bytes: 416753
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 817
-
-### Performance issues
-
 
 ### Performance issues
 

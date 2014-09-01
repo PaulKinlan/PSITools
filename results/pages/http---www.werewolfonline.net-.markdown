@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.werewolfonline.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [人狼オンラインX ホーム](http://www.werewolfonline.net/)
 
@@ -29,9 +32,6 @@ title: http://www.werewolfonline.net/
 *  JS Response Bytes: 791946
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63208
-
-### Performance issues
-
 
 ### Performance issues
 

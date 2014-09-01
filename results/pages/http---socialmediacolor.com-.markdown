@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://socialmediacolor.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Socialmediacolor.com](http://socialmediacolor.com/)
 
@@ -29,9 +32,6 @@ title: http://socialmediacolor.com/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

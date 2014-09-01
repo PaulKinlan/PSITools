@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://dowcwow.wix.com/my-games#!latest-game/cj5f
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [my-games | Latest game](http://dowcwow.wix.com/my-games#!latest-game/cj5f)
 
@@ -29,9 +32,6 @@ title: http://dowcwow.wix.com/my-games#!latest-game/cj5f
 *  JS Response Bytes: 4247053
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22578
-
-### Performance issues
-
 
 ### Performance issues
 

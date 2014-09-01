@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/virtual-hair-transplant-surgery/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Virtual Hair Transplant Surgery game](http://www.surgery-games.org/virtual-hair-transplant-surgery/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/virtual-hair-transplant-surgery/
 *  JS Response Bytes: 2636801
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120573
-
-### Performance issues
-
 
 ### Performance issues
 

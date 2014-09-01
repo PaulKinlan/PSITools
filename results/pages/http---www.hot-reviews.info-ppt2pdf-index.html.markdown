@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.hot-reviews.info/ppt2pdf/index.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PPT to PDF Guide – How to Convert PPT to PDF](http://www.hot-reviews.info/ppt2pdf/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.hot-reviews.info/ppt2pdf/index.html
 *  JS Response Bytes: 399882
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14996
-
-### Performance issues
-
 
 ### Performance issues
 

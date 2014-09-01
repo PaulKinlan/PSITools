@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fwd-to.com/hidemeproxy/index.php
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hide me Proxy](http://www.fwd-to.com/hidemeproxy/index.php)
 
@@ -29,9 +34,6 @@ title: http://www.fwd-to.com/hidemeproxy/index.php
 *  JS Response Bytes: 552518
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15447
-
-### Performance issues
-
 
 ### Performance issues
 

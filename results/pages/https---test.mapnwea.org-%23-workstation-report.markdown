@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://test.mapnwea.org/#/workstation-report
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Test Player](https://test.mapnwea.org/#/workstation-report)
 
@@ -29,9 +35,6 @@ title: https://test.mapnwea.org/#/workstation-report
 *  JS Response Bytes: 1919206
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 101
-
-### Performance issues
-
 
 ### Performance issues
 

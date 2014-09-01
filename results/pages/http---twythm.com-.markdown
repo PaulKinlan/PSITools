@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://twythm.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Twythm / Share what you're listening to](http://twythm.com/)
 
@@ -29,9 +32,6 @@ title: http://twythm.com/
 *  JS Response Bytes: 382002
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4409
-
-### Performance issues
-
 
 ### Performance issues
 

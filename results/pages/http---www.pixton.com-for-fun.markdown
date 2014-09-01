@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pixton.com/for-fun
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pixton for Fun](http://www.pixton.com/for-fun)
 
@@ -29,9 +33,6 @@ title: http://www.pixton.com/for-fun
 *  JS Response Bytes: 499179
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46462
-
-### Performance issues
-
 
 ### Performance issues
 

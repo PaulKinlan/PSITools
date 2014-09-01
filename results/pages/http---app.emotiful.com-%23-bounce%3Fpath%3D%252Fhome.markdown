@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://app.emotiful.com/#/bounce?path=%2Fhome
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [](http://app.emotiful.com/#/bounce?path=%2Fhome)
 
@@ -29,9 +34,6 @@ title: http://app.emotiful.com/#/bounce?path=%2Fhome
 *  JS Response Bytes: 410320
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16220
-
-### Performance issues
-
 
 ### Performance issues
 

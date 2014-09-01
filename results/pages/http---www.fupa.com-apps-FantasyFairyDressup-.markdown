@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/FantasyFairyDressup/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Fantasy Fairy DressUp](http://www.fupa.com/apps/FantasyFairyDressup/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/FantasyFairyDressup/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

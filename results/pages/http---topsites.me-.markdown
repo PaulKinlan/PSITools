@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://topsites.me/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Start Page - visual bookmarks and speed dial](http://topsites.me/)
 
@@ -29,9 +34,6 @@ title: http://topsites.me/
 *  JS Response Bytes: 1614274
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18608
-
-### Performance issues
-
 
 ### Performance issues
 

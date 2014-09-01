@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.sumo.fm/#create
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome to Sumo.fm](http://www.sumo.fm/#create)
 
@@ -29,9 +33,6 @@ title: http://www.sumo.fm/#create
 *  JS Response Bytes: 195262
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

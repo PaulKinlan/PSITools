@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://online.unityplay.com/chrome/blackjack/webplayer.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blackjack | UnityPlay.com-Flash-Android-Chrome Games](http://online.unityplay.com/chrome/blackjack/webplayer.html)
 
@@ -29,9 +34,6 @@ title: http://online.unityplay.com/chrome/blackjack/webplayer.html
 *  JS Response Bytes: 926925
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9893
-
-### Performance issues
-
 
 ### Performance issues
 

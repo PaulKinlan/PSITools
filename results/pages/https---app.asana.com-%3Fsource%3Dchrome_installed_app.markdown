@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://app.asana.com/?source=chrome_installed_app
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Asana - Log In](https://app.asana.com/?source=chrome_installed_app)
 
@@ -29,9 +31,6 @@ title: https://app.asana.com/?source=chrome_installed_app
 *  JS Response Bytes: 231520
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

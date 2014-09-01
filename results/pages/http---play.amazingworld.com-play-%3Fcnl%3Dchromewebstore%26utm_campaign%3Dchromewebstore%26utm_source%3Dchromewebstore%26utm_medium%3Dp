@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://play.amazingworld.com/play/?cnl=chromewebstore&utm_campaign=chromewebstore&utm_source=chromewebstore&utm_medium=portal
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Amazing World](http://play.amazingworld.com/play/?cnl=chromewebstore&utm_campaign=chromewebstore&utm_source=chromewebstore&utm_medium=portal)
 
@@ -29,9 +33,6 @@ title: http://play.amazingworld.com/play/?cnl=chromewebstore&utm_campaign=chrome
 *  JS Response Bytes: 167278
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1856
-
-### Performance issues
-
 
 ### Performance issues
 

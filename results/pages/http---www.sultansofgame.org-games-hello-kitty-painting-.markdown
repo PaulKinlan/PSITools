@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sultansofgame.org/games/hello-kitty-painting/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Hello Kitty Painting Game — Sultans of Game](http://www.sultansofgame.org/games/hello-kitty-painting/)
 
@@ -29,9 +34,6 @@ title: http://www.sultansofgame.org/games/hello-kitty-painting/
 *  JS Response Bytes: 1733351
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 132344
-
-### Performance issues
-
 
 ### Performance issues
 

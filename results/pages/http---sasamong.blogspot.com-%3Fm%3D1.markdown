@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://sasamong.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Testblog](http://sasamong.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://sasamong.blogspot.com/?m=1
 *  JS Response Bytes: 1181288
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2011
-
-### Performance issues
-
 
 ### Performance issues
 

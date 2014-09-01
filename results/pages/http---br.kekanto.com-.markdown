@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://br.kekanto.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Guia Kekanto São Paulo - SP](http://br.kekanto.com/)
 
@@ -29,9 +32,6 @@ title: http://br.kekanto.com/
 *  JS Response Bytes: 346412
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.snoopple.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Snoopple - The online CV for job hunters looking for employment, Create an electronic CV today.](http://www.snoopple.com/)
 
@@ -29,9 +33,6 @@ title: http://www.snoopple.com/
 *  JS Response Bytes: 1768470
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109867
-
-### Performance issues
-
 
 ### Performance issues
 

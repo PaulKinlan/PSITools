@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.selectthedate.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free online meeting scheduler and event planner app | SelectTheDate](https://www.selectthedate.com/)
 
@@ -29,9 +32,6 @@ title: https://www.selectthedate.com/
 *  JS Response Bytes: 1982317
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 616
-
-### Performance issues
-
 
 ### Performance issues
 

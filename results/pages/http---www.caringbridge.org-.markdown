@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.caringbridge.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Connecting Friends & Family During a Health Event | CaringBridge](http://www.caringbridge.org/)
 
@@ -29,9 +33,6 @@ title: http://www.caringbridge.org/
 *  JS Response Bytes: 1646218
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 786
-
-### Performance issues
-
 
 ### Performance issues
 

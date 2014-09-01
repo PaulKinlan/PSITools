@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.miniclipgame.info/game-play/316/track-racing-pursuit.html#.U_uxAU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Track Racing Pursuit - Miniclip Game - Free Online Flash Games](http://www.miniclipgame.info/game-play/316/track-racing-pursuit.html#.U_uxAU0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.miniclipgame.info/game-play/316/track-racing-pursuit.html#.U_u
 *  JS Response Bytes: 1817183
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14975
-
-### Performance issues
-
 
 ### Performance issues
 

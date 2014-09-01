@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.eventsclique.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Events Clique: 3D Floor Plan Software | Events Clique | 3D Event Designer](http://www.eventsclique.com/)
 
@@ -29,9 +34,6 @@ title: http://www.eventsclique.com/
 *  JS Response Bytes: 879606
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 568
-
-### Performance issues
-
 
 ### Performance issues
 

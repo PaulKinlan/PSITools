@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://webfinanceiro.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [WebFinanceiro.com](http://webfinanceiro.com/)
 
@@ -29,9 +33,6 @@ title: http://webfinanceiro.com/
 *  JS Response Bytes: 51257
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

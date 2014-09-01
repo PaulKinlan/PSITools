@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://jing.fm/beta/?utm_source=app&utm_medium=chrome_web_store&utm_campaign=preinstall&invt=web3obeta
+MinimizeRenderBlockingResources: true
 ---
 ## [Jing+ Music](http://jing.fm/beta/?utm_source=app&utm_medium=chrome_web_store&utm_campaign=preinstall&invt=web3obeta)
 
@@ -29,9 +30,6 @@ title: http://jing.fm/beta/?utm_source=app&utm_medium=chrome_web_store&utm_campa
 *  JS Response Bytes: 281217
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

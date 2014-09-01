@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://www.abcmouse.com/html5/home_page
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ABCmouse: Kids Learning, Phonics, Educational Games, Preschool-Kindergarten Reading](https://www.abcmouse.com/html5/home_page)
 
@@ -29,9 +35,6 @@ title: https://www.abcmouse.com/html5/home_page
 *  JS Response Bytes: 393412
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 843
-
-### Performance issues
-
 
 ### Performance issues
 

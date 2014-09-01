@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://thebestaffiliatecourse.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [my blog](http://thebestaffiliatecourse.blogspot.com/?m=1)
 
@@ -18,20 +20,17 @@ title: http://thebestaffiliatecourse.blogspot.com/?m=1
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 11
-*  Total Request Bytes: 1777
+*  Total Request Bytes: 1778
 
 ### Response data
 
-*  HTML Response Bytes: 22975
+*  HTML Response Bytes: 22976
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 21448
 *  Image Response Bytes: 0
-*  JS Response Bytes: 1177016
+*  JS Response Bytes: 1177238
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2091
-
-### Performance issues
-
 
 ### Performance issues
 

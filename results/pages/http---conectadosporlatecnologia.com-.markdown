@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://conectadosporlatecnologia.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Conectados por la Tecnología](http://conectadosporlatecnologia.com/)
 
@@ -29,9 +33,6 @@ title: http://conectadosporlatecnologia.com/
 *  JS Response Bytes: 1479132
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2751
-
-### Performance issues
-
 
 ### Performance issues
 

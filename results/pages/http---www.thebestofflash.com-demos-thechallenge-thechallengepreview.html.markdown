@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.thebestofflash.com/demos/thechallenge/thechallengepreview.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Flash Challenge Game Preview](http://www.thebestofflash.com/demos/thechallenge/thechallengepreview.html)
 
@@ -29,9 +37,6 @@ title: http://www.thebestofflash.com/demos/thechallenge/thechallengepreview.html
 *  JS Response Bytes: 1483675
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109683
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.vlogg.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Google Plus | Google+ News Blog | Creative Kit | Hangout Videos](http://www.vlogg.com/)
 
@@ -29,9 +31,6 @@ title: http://www.vlogg.com/
 *  JS Response Bytes: 1648685
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 420602
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamegreat.us/default-category/stunt-guy-tricky-rider
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stunt Guy: Tricky Rider - Game Great](http://www.gamegreat.us/default-category/stunt-guy-tricky-rider)
 
@@ -29,9 +34,6 @@ title: http://www.gamegreat.us/default-category/stunt-guy-tricky-rider
 *  JS Response Bytes: 1730736
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120081
-
-### Performance issues
-
 
 ### Performance issues
 

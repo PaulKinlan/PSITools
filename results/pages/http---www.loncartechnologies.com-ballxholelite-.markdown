@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.loncartechnologies.com/ballxholelite/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ball x Hole](http://www.loncartechnologies.com/ballxholelite/)
 
@@ -29,9 +35,6 @@ title: http://www.loncartechnologies.com/ballxholelite/
 *  JS Response Bytes: 380899
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1375
-
-### Performance issues
-
 
 ### Performance issues
 

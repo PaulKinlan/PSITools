@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.games-h.com/action-games/star-wars-3d.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Playing Star Wars 3D - Play Free Online Games at Games-H.COM](http://www.games-h.com/action-games/star-wars-3d.html)
 
@@ -29,9 +35,6 @@ title: http://www.games-h.com/action-games/star-wars-3d.html
 *  JS Response Bytes: 3231014
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 131952
-
-### Performance issues
-
 
 ### Performance issues
 

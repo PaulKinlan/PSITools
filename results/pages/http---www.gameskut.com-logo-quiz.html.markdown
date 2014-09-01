@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gameskut.com/logo-quiz.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Logo Quiz | GamesKut](http://www.gameskut.com/logo-quiz.html)
 
@@ -29,9 +35,6 @@ title: http://www.gameskut.com/logo-quiz.html
 *  JS Response Bytes: 484324
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1170
-
-### Performance issues
-
 
 ### Performance issues
 

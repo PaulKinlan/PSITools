@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://international.rdcrs.ca/
+MinimizeRenderBlockingResources: true
 ---
 ## [Home | International Student Services](http://international.rdcrs.ca/)
 
@@ -29,9 +30,6 @@ title: http://international.rdcrs.ca/
 *  JS Response Bytes: 556198
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13387
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/DiveFabulousDressup/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Diva Fabulous DressUp](http://www.fupa.com/apps/DiveFabulousDressup/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/DiveFabulousDressup/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

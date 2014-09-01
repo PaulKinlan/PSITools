@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://chrome.funhost.net/play/?app=micromotors
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Micro Motors - Inspired by Micro Machines! - Game on Fun Host Games!](http://chrome.funhost.net/play/?app=micromotors)
 
@@ -29,9 +35,6 @@ title: http://chrome.funhost.net/play/?app=micromotors
 *  JS Response Bytes: 3322543
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41854
-
-### Performance issues
-
 
 ### Performance issues
 

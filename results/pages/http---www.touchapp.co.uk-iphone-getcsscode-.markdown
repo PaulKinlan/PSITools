@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.touchapp.co.uk/iphone/getcsscode/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Get CSS Code](http://www.touchapp.co.uk/iphone/getcsscode/)
 
@@ -29,9 +31,6 @@ title: http://www.touchapp.co.uk/iphone/getcsscode/
 *  JS Response Bytes: 389748
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

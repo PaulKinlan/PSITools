@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/angry-gran-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Angry Gran 2 Game — Sultans of Game](http://www.sultansofgame.com/games/angry-gran-2/)
 
@@ -29,9 +34,6 @@ title: http://www.sultansofgame.com/games/angry-gran-2/
 *  JS Response Bytes: 1675219
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105078
-
-### Performance issues
-
 
 ### Performance issues
 

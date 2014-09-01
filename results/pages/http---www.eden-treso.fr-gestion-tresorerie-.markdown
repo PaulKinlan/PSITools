@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.eden-treso.fr/gestion-tresorerie/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Inscription à Eden-Tréso](http://www.eden-treso.fr/gestion-tresorerie/)
 
@@ -29,9 +31,6 @@ title: http://www.eden-treso.fr/gestion-tresorerie/
 *  JS Response Bytes: 80539
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 462
-
-### Performance issues
-
 
 ### Performance issues
 

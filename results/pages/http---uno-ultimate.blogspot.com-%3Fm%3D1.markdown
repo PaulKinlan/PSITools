@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://uno-ultimate.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [UNO Ultimate](http://uno-ultimate.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://uno-ultimate.blogspot.com/?m=1
 *  JS Response Bytes: 596056
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2965
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://crowdmap.com/welcome
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Welcome • Crowdmap](https://crowdmap.com/welcome)
 
@@ -29,9 +33,6 @@ title: https://crowdmap.com/welcome
 *  JS Response Bytes: 573761
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1488
-
-### Performance issues
-
 
 ### Performance issues
 

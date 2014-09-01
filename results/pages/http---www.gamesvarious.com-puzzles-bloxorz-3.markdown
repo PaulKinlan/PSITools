@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/puzzles/bloxorz-3
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bloxorz 3 - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/puzzles/bloxorz-3)
 
@@ -29,9 +35,6 @@ title: http://www.gamesvarious.com/puzzles/bloxorz-3
 *  JS Response Bytes: 2212663
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148840
-
-### Performance issues
-
 
 ### Performance issues
 

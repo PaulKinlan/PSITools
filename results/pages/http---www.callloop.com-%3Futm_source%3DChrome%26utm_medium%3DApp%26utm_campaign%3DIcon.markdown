@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.callloop.com/?utm_source=Chrome&utm_medium=App&utm_campaign=Icon
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SMS Marketing | Text Message Marketing | Voice Broadcasting](http://www.callloop.com/?utm_source=Chrome&utm_medium=App&utm_campaign=Icon)
 
@@ -29,9 +33,6 @@ title: http://www.callloop.com/?utm_source=Chrome&utm_medium=App&utm_campaign=Ic
 *  JS Response Bytes: 1523906
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15186
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://odooc.fr/edocea/fr/tableau-de-bord
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [edocea](https://odooc.fr/edocea/fr/tableau-de-bord)
 
@@ -29,9 +31,6 @@ title: https://odooc.fr/edocea/fr/tableau-de-bord
 *  JS Response Bytes: 670763
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

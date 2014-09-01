@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.findasecurityguard.co.uk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [FASG](http://www.findasecurityguard.co.uk/)
 
@@ -29,9 +31,6 @@ title: http://www.findasecurityguard.co.uk/
 *  JS Response Bytes: 178522
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 78838
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.online-mahjongg.com/?chromestore=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Mah Jongg](http://www.online-mahjongg.com/?chromestore=1)
 
@@ -29,9 +33,6 @@ title: http://www.online-mahjongg.com/?chromestore=1
 *  JS Response Bytes: 1159221
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112547
-
-### Performance issues
-
 
 ### Performance issues
 

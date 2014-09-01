@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromiumgame.blogspot.com/2013/07/gta-v.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://chromiumgame.blogspot.com/2013/07/gta-v.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromiumgame.blogspot.com/2013/07/gta-v.html?m=1
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18795
-
-### Performance issues
-
 
 ### Performance issues
 

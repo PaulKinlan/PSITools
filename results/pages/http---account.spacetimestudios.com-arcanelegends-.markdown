@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://account.spacetimestudios.com/arcanelegends/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [Arcane Legends](http://account.spacetimestudios.com/arcanelegends/)
 
@@ -29,9 +32,6 @@ title: http://account.spacetimestudios.com/arcanelegends/
 *  JS Response Bytes: 228892
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1891
-
-### Performance issues
-
 
 ### Performance issues
 

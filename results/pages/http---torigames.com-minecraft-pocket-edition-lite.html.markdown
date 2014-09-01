@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://torigames.com/minecraft-pocket-edition-lite.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ToriGames.Com | Flash Game | Flash Games | – Minecraft – Pocket Edition Lite](http://torigames.com/minecraft-pocket-edition-lite.html)
 
@@ -29,9 +35,6 @@ title: http://torigames.com/minecraft-pocket-edition-lite.html
 *  JS Response Bytes: 413026
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1574
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.coverbash.com/facebook-cover-maker
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Facebook Cover Maker - CoverBash.com](http://www.coverbash.com/facebook-cover-maker)
 
@@ -29,9 +33,6 @@ title: http://www.coverbash.com/facebook-cover-maker
 *  JS Response Bytes: 3029654
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23267
-
-### Performance issues
-
 
 ### Performance issues
 

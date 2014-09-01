@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://playgamesorbust.com/supermarioflash2.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Mario Flash 2 Game](http://playgamesorbust.com/supermarioflash2.htm)
 
@@ -29,9 +35,6 @@ title: http://playgamesorbust.com/supermarioflash2.htm
 *  JS Response Bytes: 921229
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98636
-
-### Performance issues
-
 
 ### Performance issues
 

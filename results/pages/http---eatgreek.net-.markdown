@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://eatgreek.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Eatgreek.net](http://eatgreek.net/)
 
@@ -29,9 +32,6 @@ title: http://eatgreek.net/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

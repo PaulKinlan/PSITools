@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.29mayis.edu.tr/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Anasayfa](http://www.29mayis.edu.tr/)
 
@@ -29,9 +32,6 @@ title: http://www.29mayis.edu.tr/
 *  JS Response Bytes: 780800
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

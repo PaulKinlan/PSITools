@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.pjhome.net/web/html5/encodeDataUrl.htm
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [file encode to Base64URL](http://www.pjhome.net/web/html5/encodeDataUrl.htm)
 
@@ -29,9 +31,6 @@ title: http://www.pjhome.net/web/html5/encodeDataUrl.htm
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

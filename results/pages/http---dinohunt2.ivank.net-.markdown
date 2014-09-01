@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://dinohunt2.ivank.net/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Dino Hunt 2](http://dinohunt2.ivank.net/)
 
@@ -29,9 +31,6 @@ title: http://dinohunt2.ivank.net/
 *  JS Response Bytes: 1012758
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95444
-
-### Performance issues
-
 
 ### Performance issues
 

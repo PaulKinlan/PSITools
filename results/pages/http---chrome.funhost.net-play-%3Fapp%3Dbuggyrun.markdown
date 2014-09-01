@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://chrome.funhost.net/play/?app=buggyrun
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Buggy Run - Game on Fun Host Games!](http://chrome.funhost.net/play/?app=buggyrun)
 
@@ -29,9 +35,6 @@ title: http://chrome.funhost.net/play/?app=buggyrun
 *  JS Response Bytes: 3320315
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45872
-
-### Performance issues
-
 
 ### Performance issues
 

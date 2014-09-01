@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://admin.inmoflex.com/inmoflex/admin/index.jsp
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [InmoFLEX](http://admin.inmoflex.com/inmoflex/admin/index.jsp)
 
@@ -29,9 +32,6 @@ title: http://admin.inmoflex.com/inmoflex/admin/index.jsp
 *  JS Response Bytes: 15707
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 564
-
-### Performance issues
-
 
 ### Performance issues
 

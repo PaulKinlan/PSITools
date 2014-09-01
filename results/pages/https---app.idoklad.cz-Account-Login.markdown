@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://app.idoklad.cz/Account/Login
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [iDoklad – přihlášení do aplikace](https://app.idoklad.cz/Account/Login)
 
@@ -29,9 +34,6 @@ title: https://app.idoklad.cz/Account/Login
 *  JS Response Bytes: 1066331
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 477
-
-### Performance issues
-
 
 ### Performance issues
 

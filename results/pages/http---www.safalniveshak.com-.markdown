@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.safalniveshak.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Safal Niveshak | Value Investing in India | Value Investing Course](http://www.safalniveshak.com/)
 
@@ -29,9 +31,6 @@ title: http://www.safalniveshak.com/
 *  JS Response Bytes: 1548489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18348
-
-### Performance issues
-
 
 ### Performance issues
 

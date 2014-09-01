@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.freemarketer.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Professional Marketing Software - Customer Management Software | Freemarketer.com](http://www.freemarketer.com/)
 
@@ -29,9 +33,6 @@ title: http://www.freemarketer.com/
 *  JS Response Bytes: 147341
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 595
-
-### Performance issues
-
 
 ### Performance issues
 

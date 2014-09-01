@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ebhasin.com/games/TetricClassic/index.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tetric Classic -::- Bhasinsoft](http://www.ebhasin.com/games/TetricClassic/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.ebhasin.com/games/TetricClassic/index.html
 *  JS Response Bytes: 1415097
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110919
-
-### Performance issues
-
 
 ### Performance issues
 

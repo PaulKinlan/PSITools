@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.radioideias.com.pt/
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Radio Ideias - o seu som a sua musica](http://www.radioideias.com.pt/)
 
@@ -29,9 +34,6 @@ title: http://www.radioideias.com.pt/
 *  JS Response Bytes: 1974988
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46162
-
-### Performance issues
-
 
 ### Performance issues
 

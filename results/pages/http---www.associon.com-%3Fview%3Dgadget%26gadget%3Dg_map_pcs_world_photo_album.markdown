@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.associon.com/?view=gadget&gadget=g_map_pcs_world_photo_album
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ASSOCION | GADGET : G.Map - Picasa World Photo Album](http://www.associon.com/?view=gadget&gadget=g_map_pcs_world_photo_album)
 
@@ -29,9 +32,6 @@ title: http://www.associon.com/?view=gadget&gadget=g_map_pcs_world_photo_album
 *  JS Response Bytes: 2769999
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 211262
-
-### Performance issues
-
 
 ### Performance issues
 

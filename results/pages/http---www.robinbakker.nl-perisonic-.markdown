@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.robinbakker.nl/perisonic/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Perisonic](http://www.robinbakker.nl/perisonic/)
 
@@ -29,9 +33,6 @@ title: http://www.robinbakker.nl/perisonic/
 *  JS Response Bytes: 153233
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 502
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://onl9gamess.blogspot.com/2013/10/online-movie-search-engine.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://onl9gamess.blogspot.com/2013/10/online-movie-search-engine.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://onl9gamess.blogspot.com/2013/10/online-movie-search-engine.html?m=
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18818
-
-### Performance issues
-
 
 ### Performance issues
 

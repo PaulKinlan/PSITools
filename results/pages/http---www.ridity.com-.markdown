@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ridity.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ridity](http://www.ridity.com/)
 
@@ -29,9 +33,6 @@ title: http://www.ridity.com/
 *  JS Response Bytes: 1305264
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

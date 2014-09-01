@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://pixditor.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PiXditor - Photo Effects](http://pixditor.net/)
 
@@ -29,9 +35,6 @@ title: http://pixditor.net/
 *  JS Response Bytes: 544508
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

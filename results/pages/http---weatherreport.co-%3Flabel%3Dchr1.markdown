@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://weatherreport.co/?label=chr1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Weather Report and Forecasts for Mountain View, CA | Weatherreport.co](http://weatherreport.co/?label=chr1)
 
@@ -29,9 +32,6 @@ title: http://weatherreport.co/?label=chr1
 *  JS Response Bytes: 1022783
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14380
-
-### Performance issues
-
 
 ### Performance issues
 

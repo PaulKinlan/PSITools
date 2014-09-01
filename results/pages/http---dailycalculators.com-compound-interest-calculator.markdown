@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://dailycalculators.com/compound-interest-calculator
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Compound Interest Calculator | Daily Calculators](http://dailycalculators.com/compound-interest-calculator)
 
@@ -29,9 +34,6 @@ title: http://dailycalculators.com/compound-interest-calculator
 *  JS Response Bytes: 2035049
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47421
-
-### Performance issues
-
 
 ### Performance issues
 

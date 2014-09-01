@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://lorspi.com/HTML5/loco
+UseLegibleFontSizes: true
 ---
 ## [500 Internal Server Error](http://lorspi.com/HTML5/loco)
 
@@ -29,9 +30,6 @@ title: http://lorspi.com/HTML5/loco
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 807
-
-### Performance issues
-
 
 ### Performance issues
 

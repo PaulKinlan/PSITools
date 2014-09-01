@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tsr1.com/games/?p=348
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games to Addict » Blog Archive » RunWay](http://www.tsr1.com/games/?p=348)
 
@@ -29,9 +34,6 @@ title: http://www.tsr1.com/games/?p=348
 *  JS Response Bytes: 445434
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

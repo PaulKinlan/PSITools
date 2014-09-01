@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://radishapp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Radish](http://radishapp.com/)
 
@@ -29,9 +34,6 @@ title: http://radishapp.com/
 *  JS Response Bytes: 153290
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

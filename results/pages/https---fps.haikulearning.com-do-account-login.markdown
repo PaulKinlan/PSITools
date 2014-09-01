@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://fps.haikulearning.com/do/account/login
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sign in to Francis Parker School | Haiku Learning | The K12 learning management system](https://fps.haikulearning.com/do/account/login)
 
@@ -29,9 +33,6 @@ title: https://fps.haikulearning.com/do/account/login
 *  JS Response Bytes: 1101594
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 67
-
-### Performance issues
-
 
 ### Performance issues
 

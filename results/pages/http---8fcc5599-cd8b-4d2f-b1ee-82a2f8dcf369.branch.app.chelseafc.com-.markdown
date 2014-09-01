@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://8fcc5599-cd8b-4d2f-b1ee-82a2f8dcf369.branch.app.chelseafc.com/
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [](http://8fcc5599-cd8b-4d2f-b1ee-82a2f8dcf369.branch.app.chelseafc.com/)
 
@@ -29,9 +31,6 @@ title: http://8fcc5599-cd8b-4d2f-b1ee-82a2f8dcf369.branch.app.chelseafc.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6845
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mercatodellinnovazione.it/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Home - Mercato dell'innovazione](http://www.mercatodellinnovazione.it/)
 
@@ -29,9 +32,6 @@ title: http://www.mercatodellinnovazione.it/
 *  JS Response Bytes: 675378
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

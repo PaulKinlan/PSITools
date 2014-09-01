@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tigre.gov.ar/turismo/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Viví Tigre - Agencia de Turismo del Municipio de Tigre](http://www.tigre.gov.ar/turismo/)
 
@@ -29,9 +34,6 @@ title: http://www.tigre.gov.ar/turismo/
 *  JS Response Bytes: 1625938
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3452
-
-### Performance issues
-
 
 ### Performance issues
 

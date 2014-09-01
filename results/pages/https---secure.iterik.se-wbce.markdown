@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://secure.iterik.se/wbce
+UseLegibleFontSizes: true
 ---
 ## [403 Forbidden](https://secure.iterik.se/wbce)
 
@@ -29,9 +30,6 @@ title: https://secure.iterik.se/wbce
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 480
-
-### Performance issues
-
 
 ### Performance issues
 

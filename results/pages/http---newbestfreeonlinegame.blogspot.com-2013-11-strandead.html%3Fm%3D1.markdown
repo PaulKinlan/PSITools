@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://newbestfreeonlinegame.blogspot.com/2013/11/strandead.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [New Best Free Online Game: Strandead](http://newbestfreeonlinegame.blogspot.com/2013/11/strandead.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://newbestfreeonlinegame.blogspot.com/2013/11/strandead.html?m=1
 *  JS Response Bytes: 1976482
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112105
-
-### Performance issues
-
 
 ### Performance issues
 

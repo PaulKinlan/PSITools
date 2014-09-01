@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.phirmash.com/officemaps/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [OfficeMaps | Home](https://www.phirmash.com/officemaps/)
 
@@ -29,9 +32,6 @@ title: https://www.phirmash.com/officemaps/
 *  JS Response Bytes: 598203
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1007
-
-### Performance issues
-
 
 ### Performance issues
 

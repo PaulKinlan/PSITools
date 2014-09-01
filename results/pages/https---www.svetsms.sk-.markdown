@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.svetsms.sk/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [SvetSMS - najvýhodnejšie SMS správy do celého sveta](https://www.svetsms.sk/)
 
@@ -29,9 +31,6 @@ title: https://www.svetsms.sk/
 *  JS Response Bytes: 172714
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44
-
-### Performance issues
-
 
 ### Performance issues
 

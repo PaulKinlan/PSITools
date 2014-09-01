@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.darwinbiler.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Darwin Biler's Blog | Freelance Web Development Services](http://www.darwinbiler.com/)
 
@@ -29,9 +32,6 @@ title: http://www.darwinbiler.com/
 *  JS Response Bytes: 832285
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 129254
-
-### Performance issues
-
 
 ### Performance issues
 

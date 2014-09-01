@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://signup.livelycare.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Livelycare.com - Livelycare . com](http://signup.livelycare.com/)
 
@@ -29,9 +32,6 @@ title: http://signup.livelycare.com/
 *  JS Response Bytes: 208998
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14702
-
-### Performance issues
-
 
 ### Performance issues
 

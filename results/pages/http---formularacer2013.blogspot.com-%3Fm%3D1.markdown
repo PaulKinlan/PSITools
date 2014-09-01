@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://formularacer2013.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Formula Racer 2013](http://formularacer2013.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://formularacer2013.blogspot.com/?m=1
 *  JS Response Bytes: 788526
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 292894
-
-### Performance issues
-
 
 ### Performance issues
 

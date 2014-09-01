@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://hanagamelog.blogspot.com/2014/07/man-or-monster.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hana GameLog: Man or Monster](http://hanagamelog.blogspot.com/2014/07/man-or-monster.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://hanagamelog.blogspot.com/2014/07/man-or-monster.html?m=1
 *  JS Response Bytes: 1127431
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39501
-
-### Performance issues
-
 
 ### Performance issues
 

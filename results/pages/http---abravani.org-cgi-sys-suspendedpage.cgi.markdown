@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://abravani.org/cgi-sys/suspendedpage.cgi
+UseLegibleFontSizes: true
 ---
 ## [This website is currently unavailable.](http://abravani.org/cgi-sys/suspendedpage.cgi)
 
@@ -29,9 +30,6 @@ title: http://abravani.org/cgi-sys/suspendedpage.cgi
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2248
-
-### Performance issues
-
 
 ### Performance issues
 

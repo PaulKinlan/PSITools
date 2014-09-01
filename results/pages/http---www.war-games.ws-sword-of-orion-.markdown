@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/sword-of-orion/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sword of Orion](http://www.war-games.ws/sword-of-orion/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/sword-of-orion/
 *  JS Response Bytes: 2292985
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119818
-
-### Performance issues
-
 
 ### Performance issues
 

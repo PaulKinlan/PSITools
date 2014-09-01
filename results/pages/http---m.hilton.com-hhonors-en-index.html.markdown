@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.hilton.com/hhonors/en/index.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Hilton HHonors | A Hotel Rewards Program](http://m.hilton.com/hhonors/en/index.html)
 
@@ -29,9 +31,6 @@ title: http://m.hilton.com/hhonors/en/index.html
 *  JS Response Bytes: 639244
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1593
-
-### Performance issues
-
 
 ### Performance issues
 

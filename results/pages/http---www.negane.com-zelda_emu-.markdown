@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.negane.com/zelda_emu/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.negane.com/zelda_emu/)
 
@@ -29,9 +37,6 @@ title: http://www.negane.com/zelda_emu/
 *  JS Response Bytes: 449845
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49681
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kor.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Королевство — браузерная ролевая онлайн-игра, бесплатная MMORPG online игра](http://www.kor.ru/)
 
@@ -29,9 +34,6 @@ title: http://www.kor.ru/
 *  JS Response Bytes: 252313
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2744
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://lostforgames.us/games/spongebobs-gone-missing/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SpongeBob’s Gone Missing! | Lost For Games](http://lostforgames.us/games/spongebobs-gone-missing/)
 
@@ -29,9 +34,6 @@ title: http://lostforgames.us/games/spongebobs-gone-missing/
 *  JS Response Bytes: 519272
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42313
-
-### Performance issues
-
 
 ### Performance issues
 

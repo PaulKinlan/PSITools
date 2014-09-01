@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.vudu.com/movies/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [VUDU - Top Picks](http://www.vudu.com/movies/)
 
@@ -29,9 +34,6 @@ title: http://www.vudu.com/movies/
 *  JS Response Bytes: 328606
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12310
-
-### Performance issues
-
 
 ### Performance issues
 

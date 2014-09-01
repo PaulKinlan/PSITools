@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://awesome-new-gadgets.blogspot.com/2014/07/super-mario-world-2.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [AWESOME DESKTOP WIDGETS: Super Mario World 2](http://awesome-new-gadgets.blogspot.com/2014/07/super-mario-world-2.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://awesome-new-gadgets.blogspot.com/2014/07/super-mario-world-2.html?
 *  JS Response Bytes: 1935553
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125903
-
-### Performance issues
-
 
 ### Performance issues
 

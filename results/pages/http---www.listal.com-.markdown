@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.listal.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Listal - List the stuff you love! Movies, TV, music, games and books](http://www.listal.com/)
 
@@ -29,9 +34,6 @@ title: http://www.listal.com/
 *  JS Response Bytes: 1218219
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2178
-
-### Performance issues
-
 
 ### Performance issues
 

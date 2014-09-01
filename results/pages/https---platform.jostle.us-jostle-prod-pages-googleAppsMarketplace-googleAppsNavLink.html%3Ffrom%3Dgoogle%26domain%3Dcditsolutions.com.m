@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://platform.jostle.us/jostle-prod/pages/googleAppsMarketplace/googleAppsNavLink.html?from=google&domain=cditsolutions.com
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [Google Interaction Error](https://platform.jostle.us/jostle-prod/pages/googleAppsMarketplace/googleAppsNavLink.html?from=google&domain=cditsolutions.com)
 
@@ -29,9 +31,6 @@ title: https://platform.jostle.us/jostle-prod/pages/googleAppsMarketplace/google
 *  JS Response Bytes: 64431
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

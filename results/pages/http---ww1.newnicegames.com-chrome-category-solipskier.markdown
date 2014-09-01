@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww1.newnicegames.com/chrome-category/solipskier
+MinimizeRenderBlockingResources: true
 ---
 ## [newnicegames.com - newnicegames Resources and Information. This website is for sale!](http://ww1.newnicegames.com/chrome-category/solipskier)
 
@@ -29,9 +30,6 @@ title: http://ww1.newnicegames.com/chrome-category/solipskier
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 237
-
-### Performance issues
-
 
 ### Performance issues
 

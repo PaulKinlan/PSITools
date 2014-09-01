@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/power-ball/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Power Ball Game](http://www.footballgam.es/power-ball/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/power-ball/
 *  JS Response Bytes: 2265096
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 140436
-
-### Performance issues
-
 
 ### Performance issues
 

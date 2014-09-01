@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://hectagames.com/mechwarriorsonline/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mech Warriors Online | HectaGames](http://hectagames.com/mechwarriorsonline/)
 
@@ -29,9 +32,6 @@ title: http://hectagames.com/mechwarriorsonline/
 *  JS Response Bytes: 550193
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5817
-
-### Performance issues
-
 
 ### Performance issues
 

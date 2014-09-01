@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gamedata.bluesky.cn/reversi/index.html#menu
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Reversi](http://gamedata.bluesky.cn/reversi/index.html#menu)
 
@@ -29,9 +31,6 @@ title: http://gamedata.bluesky.cn/reversi/index.html#menu
 *  JS Response Bytes: 304312
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

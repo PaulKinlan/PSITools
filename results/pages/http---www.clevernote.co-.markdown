@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.clevernote.co/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [CleverNote - Note taking for Google Drive and Android. Import from Evernote and Springpad](http://www.clevernote.co/)
 
@@ -29,9 +31,6 @@ title: http://www.clevernote.co/
 *  JS Response Bytes: 121352
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

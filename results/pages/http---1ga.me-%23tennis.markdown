@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://1ga.me/#tennis
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [1GA.ME Just Perfect Games 1game](http://1ga.me/#tennis)
 
@@ -29,9 +32,6 @@ title: http://1ga.me/#tennis
 *  JS Response Bytes: 793224
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16915
-
-### Performance issues
-
 
 ### Performance issues
 

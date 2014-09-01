@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gameboss.c0l.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Крупнейшая коллекция игр. Скачивай Бесплатно игры сколько захочешь!](http://gameboss.c0l.ru/)
 
@@ -29,9 +34,6 @@ title: http://gameboss.c0l.ru/
 *  JS Response Bytes: 102404
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1846
-
-### Performance issues
-
 
 ### Performance issues
 

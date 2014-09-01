@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.socialesman.com/app/free-wheels/free-wheels.html
+MinimizeRenderBlockingResources: true
 ---
 ## [Clone doesnt have this page](http://www.socialesman.com/app/free-wheels/free-wheels.html)
 
@@ -29,9 +30,6 @@ title: http://www.socialesman.com/app/free-wheels/free-wheels.html
 *  JS Response Bytes: 824762
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97411
-
-### Performance issues
-
 
 ### Performance issues
 

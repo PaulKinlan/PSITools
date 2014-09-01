@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://kan.sohu.com/reader/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [搜狐随身看-登录](http://kan.sohu.com/reader/)
 
@@ -29,9 +33,6 @@ title: http://kan.sohu.com/reader/
 *  JS Response Bytes: 135814
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 393
-
-### Performance issues
-
 
 ### Performance issues
 

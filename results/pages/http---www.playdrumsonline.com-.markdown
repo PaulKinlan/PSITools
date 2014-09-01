@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.playdrumsonline.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play drums online!](http://www.playdrumsonline.com/)
 
@@ -29,9 +33,6 @@ title: http://www.playdrumsonline.com/
 *  JS Response Bytes: 1226101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148874
-
-### Performance issues
-
 
 ### Performance issues
 

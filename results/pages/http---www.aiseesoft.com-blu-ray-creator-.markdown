@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.aiseesoft.com/blu-ray-creator/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blu-ray Creator - Create Blu-ray with video file](http://www.aiseesoft.com/blu-ray-creator/)
 
@@ -29,9 +35,6 @@ title: http://www.aiseesoft.com/blu-ray-creator/
 *  JS Response Bytes: 1395198
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109092
-
-### Performance issues
-
 
 ### Performance issues
 

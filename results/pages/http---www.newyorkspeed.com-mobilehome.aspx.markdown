@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.newyorkspeed.com/mobilehome.aspx
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [NewYorkSpeed.com | Home Page | Diesel Online Store | Designer Jeans](http://www.newyorkspeed.com/mobilehome.aspx)
 
@@ -29,9 +31,6 @@ title: http://www.newyorkspeed.com/mobilehome.aspx
 *  JS Response Bytes: 849587
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3603
-
-### Performance issues
-
 
 ### Performance issues
 

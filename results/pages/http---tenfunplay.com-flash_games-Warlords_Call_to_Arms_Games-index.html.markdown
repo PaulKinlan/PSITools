@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://tenfunplay.com/flash_games/Warlords_Call_to_Arms_Games/index.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Warlords Call to Arms Games | Flash funny Game | tenfunplay.com](http://tenfunplay.com/flash_games/Warlords_Call_to_Arms_Games/index.html)
 
@@ -29,9 +34,6 @@ title: http://tenfunplay.com/flash_games/Warlords_Call_to_Arms_Games/index.html
 *  JS Response Bytes: 589284
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2365
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://elite87.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [~*#>>>>>ELITE<<<<<#*~](http://elite87.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://elite87.blogspot.com/?m=1
 *  JS Response Bytes: 249574
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 556
-
-### Performance issues
-
 
 ### Performance issues
 

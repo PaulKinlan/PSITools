@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://getpocket.com/?src=chs
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pocket](https://getpocket.com/?src=chs)
 
@@ -29,9 +33,6 @@ title: https://getpocket.com/?src=chs
 *  JS Response Bytes: 584925
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 297
-
-### Performance issues
-
 
 ### Performance issues
 

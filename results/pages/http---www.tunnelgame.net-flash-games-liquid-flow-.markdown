@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.tunnelgame.net/flash-games/liquid-flow/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Liquid Flow « Flash Games, Online Games](http://www.tunnelgame.net/flash-games/liquid-flow/)
 
@@ -29,9 +37,6 @@ title: http://www.tunnelgame.net/flash-games/liquid-flow/
 *  JS Response Bytes: 1044037
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15445
-
-### Performance issues
-
 
 ### Performance issues
 

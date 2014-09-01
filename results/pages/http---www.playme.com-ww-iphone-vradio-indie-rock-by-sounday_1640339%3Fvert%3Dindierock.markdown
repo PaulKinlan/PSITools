@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.playme.com/ww/iphone/vradio/indie-rock-by-sounday_1640339?vert=indierock
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
 ---
 ## [Playme Radio](http://www.playme.com/ww/iphone/vradio/indie-rock-by-sounday_1640339?vert=indierock)
 
@@ -29,9 +33,6 @@ title: http://www.playme.com/ww/iphone/vradio/indie-rock-by-sounday_1640339?vert
 *  JS Response Bytes: 1671953
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3353
-
-### Performance issues
-
 
 ### Performance issues
 

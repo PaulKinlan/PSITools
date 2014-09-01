@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/9m-soccer/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [9M Soccer Game](http://www.footballgam.es/9m-soccer/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/9m-soccer/
 *  JS Response Bytes: 2296771
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156831
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://the-sims-14.blogspot.com.tr/2014/04/minecraft.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [the sims 3 online game store: minecraft](http://the-sims-14.blogspot.com.tr/2014/04/minecraft.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://the-sims-14.blogspot.com.tr/2014/04/minecraft.html?m=1
 *  JS Response Bytes: 720881
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95579
-
-### Performance issues
-
 
 ### Performance issues
 

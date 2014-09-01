@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/santas-footy-challenge/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Santa’s Footy Challenge Game](http://www.footballgam.es/santas-footy-challenge/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/santas-footy-challenge/
 *  JS Response Bytes: 2295850
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 162034
-
-### Performance issues
-
 
 ### Performance issues
 

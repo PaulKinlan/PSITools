@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://droidpowerstudios.com/chrome/3d_aeroplane_chess/webplayer.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Aeroplane Chess | DroidPowerStudios.com-Flash-Android-Chrome Games](http://droidpowerstudios.com/chrome/3d_aeroplane_chess/webplayer.html)
 
@@ -29,9 +34,6 @@ title: http://droidpowerstudios.com/chrome/3d_aeroplane_chess/webplayer.html
 *  JS Response Bytes: 894640
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3487
-
-### Performance issues
-
 
 ### Performance issues
 

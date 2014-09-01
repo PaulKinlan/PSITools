@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gametores.com/oyun.php?id=57
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Space HD](http://www.gametores.com/oyun.php?id=57)
 
@@ -29,9 +35,6 @@ title: http://www.gametores.com/oyun.php?id=57
 *  JS Response Bytes: 1459749
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97497
-
-### Performance issues
-
 
 ### Performance issues
 

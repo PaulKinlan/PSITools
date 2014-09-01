@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://chrome.funhost.net/play/?app=constructionbreaker
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Construction Breaker - Game on Fun Host Games!](http://chrome.funhost.net/play/?app=constructionbreaker)
 
@@ -29,9 +36,6 @@ title: http://chrome.funhost.net/play/?app=constructionbreaker
 *  JS Response Bytes: 2346532
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45101
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://minecraft-gaame.blogspot.com.tr/2014/04/american-racing.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [minecraft game chrome store: American Racing](http://minecraft-gaame.blogspot.com.tr/2014/04/american-racing.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://minecraft-gaame.blogspot.com.tr/2014/04/american-racing.html?m=1
 *  JS Response Bytes: 721129
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95594
-
-### Performance issues
-
 
 ### Performance issues
 

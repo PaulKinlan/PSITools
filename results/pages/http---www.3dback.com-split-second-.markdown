@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.3dback.com/split-second/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Split Second](http://www.3dback.com/split-second/)
 
@@ -29,9 +35,6 @@ title: http://www.3dback.com/split-second/
 *  JS Response Bytes: 3153215
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 345892
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.tl.ubinam.eu/tracking_live/login/login.htm
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tracking Live](https://www.tl.ubinam.eu/tracking_live/login/login.htm)
 
@@ -29,9 +33,6 @@ title: https://www.tl.ubinam.eu/tracking_live/login/login.htm
 *  JS Response Bytes: 48116
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 657
-
-### Performance issues
-
 
 ### Performance issues
 

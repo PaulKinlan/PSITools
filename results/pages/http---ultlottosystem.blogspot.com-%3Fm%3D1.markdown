@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ultlottosystem.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://ultlottosystem.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://ultlottosystem.blogspot.com/?m=1
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18771
-
-### Performance issues
-
 
 ### Performance issues
 

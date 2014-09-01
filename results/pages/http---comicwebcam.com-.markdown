@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://comicwebcam.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Webcam Effects | ComicWebCam - the best funny effects online](http://comicwebcam.com/)
 
@@ -29,9 +34,6 @@ title: http://comicwebcam.com/
 *  JS Response Bytes: 851498
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16761
-
-### Performance issues
-
 
 ### Performance issues
 

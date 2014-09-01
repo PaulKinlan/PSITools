@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.tunnelgame.net/flash-games/dragon-ball-z-hightime/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dragon Ball Z Hightime « Flash Games, Online Games](http://www.tunnelgame.net/flash-games/dragon-ball-z-hightime/)
 
@@ -29,9 +35,6 @@ title: http://www.tunnelgame.net/flash-games/dragon-ball-z-hightime/
 *  JS Response Bytes: 1190117
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16515
-
-### Performance issues
-
 
 ### Performance issues
 

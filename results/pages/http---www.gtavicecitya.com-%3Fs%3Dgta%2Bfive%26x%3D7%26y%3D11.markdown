@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gtavicecitya.com/?s=gta+five&x=7&y=11
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [gta five « Search Results « free gta game vice city](http://www.gtavicecitya.com/?s=gta+five&x=7&y=11)
 
@@ -29,9 +32,6 @@ title: http://www.gtavicecitya.com/?s=gta+five&x=7&y=11
 *  JS Response Bytes: 1112709
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

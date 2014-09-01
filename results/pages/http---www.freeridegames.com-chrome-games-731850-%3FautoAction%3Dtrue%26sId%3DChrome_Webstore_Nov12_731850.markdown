@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/731850/?autoAction=true&sId=Chrome_Webstore_Nov12_731850
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Hdo Adventure Dr Jekyll and Mr Hyde Extended Edition for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/731850/?autoAction=true&sId=Chrome_Webstore_Nov12_731850)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/731850/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1755666
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35562
-
-### Performance issues
-
 
 ### Performance issues
 

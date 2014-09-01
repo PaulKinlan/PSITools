@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.89121313.com/6.html
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IIS 7.5 详细错误 - 404.0 - Not Found](http://www.89121313.com/6.html)
 
@@ -29,9 +31,6 @@ title: http://www.89121313.com/6.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5259
-
-### Performance issues
-
 
 ### Performance issues
 

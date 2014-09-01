@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://secure.apptoto.com/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Apptoto: Login](https://secure.apptoto.com/login)
 
@@ -29,9 +34,6 @@ title: https://secure.apptoto.com/login
 *  JS Response Bytes: 315436
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8573
-
-### Performance issues
-
 
 ### Performance issues
 

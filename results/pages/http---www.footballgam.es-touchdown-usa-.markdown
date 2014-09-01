@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/touchdown-usa/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Touchdown USA Game](http://www.footballgam.es/touchdown-usa/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/touchdown-usa/
 *  JS Response Bytes: 2296935
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155300
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://vmenu.vloo.es/market
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [vMenu](http://vmenu.vloo.es/market)
 
@@ -29,9 +32,6 @@ title: http://vmenu.vloo.es/market
 *  JS Response Bytes: 244033
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7030
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gametores.com/index2.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Online Games - Game Tores](http://www.gametores.com/index2.php)
 
@@ -29,9 +36,6 @@ title: http://www.gametores.com/index2.php
 *  JS Response Bytes: 851528
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16869
-
-### Performance issues
-
 
 ### Performance issues
 

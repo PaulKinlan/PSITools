@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://worldofsymbols.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [World of Symbols](http://worldofsymbols.com/)
 
@@ -29,9 +31,6 @@ title: http://worldofsymbols.com/
 *  JS Response Bytes: 162912
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

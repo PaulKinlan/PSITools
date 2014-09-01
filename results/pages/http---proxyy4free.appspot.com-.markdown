@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://proxyy4free.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [free proxy](http://proxyy4free.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://proxyy4free.appspot.com/
 *  JS Response Bytes: 586905
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15666
-
-### Performance issues
-
 
 ### Performance issues
 

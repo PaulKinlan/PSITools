@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://minecraft-gaame.blogspot.com.tr/2014/04/photo-boot.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [minecraft game chrome store: photo boot](http://minecraft-gaame.blogspot.com.tr/2014/04/photo-boot.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://minecraft-gaame.blogspot.com.tr/2014/04/photo-boot.html?m=1
 *  JS Response Bytes: 622678
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95585
-
-### Performance issues
-
 
 ### Performance issues
 

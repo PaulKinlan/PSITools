@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.cheatbeast.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free Cheats and Cheat Codes for Every GameCheat Beast](http://m.cheatbeast.com/)
 
@@ -29,9 +32,6 @@ title: http://m.cheatbeast.com/
 *  JS Response Bytes: 803040
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16356
-
-### Performance issues
-
 
 ### Performance issues
 

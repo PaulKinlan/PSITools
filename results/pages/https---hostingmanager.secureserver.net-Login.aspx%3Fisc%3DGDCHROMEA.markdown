@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://hostingmanager.secureserver.net/Login.aspx?isc=GDCHROMEA
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hosting Control Center](https://hostingmanager.secureserver.net/Login.aspx?isc=GDCHROMEA)
 
@@ -29,9 +33,6 @@ title: https://hostingmanager.secureserver.net/Login.aspx?isc=GDCHROMEA
 *  JS Response Bytes: 720587
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

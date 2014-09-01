@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.jcrawl.com/app.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jcrawl.com - Scrape the web from the browser](http://www.jcrawl.com/app.html)
 
@@ -29,9 +33,6 @@ title: http://www.jcrawl.com/app.html
 *  JS Response Bytes: 1246385
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 880
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/virtual-rhinoplasty-nose-job/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Virtual Rhinoplasty (Nose Job) game](http://www.surgery-games.org/virtual-rhinoplasty-nose-job/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/virtual-rhinoplasty-nose-job/
 *  JS Response Bytes: 2272342
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 123105
-
-### Performance issues
-
 
 ### Performance issues
 

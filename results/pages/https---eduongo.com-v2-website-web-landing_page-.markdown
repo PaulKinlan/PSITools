@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://eduongo.com/v2/website/web/landing_page/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [EDUonGo.com Mobile](https://eduongo.com/v2/website/web/landing_page/)
 
@@ -29,9 +33,6 @@ title: https://eduongo.com/v2/website/web/landing_page/
 *  JS Response Bytes: 684575
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1096
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.store.diamante-wear.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Diamante Wear - Oficjalny Internetowy Salon Odzieżowy](http://www.store.diamante-wear.com/)
 
@@ -29,9 +34,6 @@ title: http://www.store.diamante-wear.com/
 *  JS Response Bytes: 661412
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296205
-
-### Performance issues
-
 
 ### Performance issues
 

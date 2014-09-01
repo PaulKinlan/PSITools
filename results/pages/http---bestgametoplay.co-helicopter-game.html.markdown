@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://bestgametoplay.co/helicopter-game.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Best Game To Play – Helicopter Game](http://bestgametoplay.co/helicopter-game.html)
 
@@ -29,9 +34,6 @@ title: http://bestgametoplay.co/helicopter-game.html
 *  JS Response Bytes: 1850800
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112082
-
-### Performance issues
-
 
 ### Performance issues
 

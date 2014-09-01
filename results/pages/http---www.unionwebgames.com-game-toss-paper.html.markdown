@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.unionwebgames.com/game/toss-paper.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Toss Paper Games online](http://www.unionwebgames.com/game/toss-paper.html)
 
@@ -29,9 +36,6 @@ title: http://www.unionwebgames.com/game/toss-paper.html
 *  JS Response Bytes: 745098
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

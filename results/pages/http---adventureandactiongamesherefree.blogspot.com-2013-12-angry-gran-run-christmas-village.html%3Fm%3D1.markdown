@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://adventureandactiongamesherefree.blogspot.com/2013/12/angry-gran-run-christmas-village.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Adventure And Action Games Here Free: Angry Gran Run Christmas Village](http://adventureandactiongamesherefree.blogspot.com/2013/12/angry-gran-run-christmas-village.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://adventureandactiongamesherefree.blogspot.com/2013/12/angry-gran-ru
 *  JS Response Bytes: 1692145
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111392
-
-### Performance issues
-
 
 ### Performance issues
 

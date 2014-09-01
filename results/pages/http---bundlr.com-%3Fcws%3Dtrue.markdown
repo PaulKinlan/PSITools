@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://bundlr.com/?cws=true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bundlr - Bookmark and discover amazing content](http://bundlr.com/?cws=true)
 
@@ -29,9 +33,6 @@ title: http://bundlr.com/?cws=true
 *  JS Response Bytes: 732406
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42767
-
-### Performance issues
-
 
 ### Performance issues
 

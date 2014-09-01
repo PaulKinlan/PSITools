@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://freehd-games.blogspot.com/2013/08/temple-run-rail-rush-2.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free online web games: Temple Run Rail Rush 2](http://freehd-games.blogspot.com/2013/08/temple-run-rail-rush-2.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://freehd-games.blogspot.com/2013/08/temple-run-rail-rush-2.html?m=1
 *  JS Response Bytes: 1855153
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102493
-
-### Performance issues
-
 
 ### Performance issues
 

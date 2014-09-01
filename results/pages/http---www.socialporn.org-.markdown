@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.socialporn.org/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SocialPorn - Free Dating Porno- Front page](http://www.socialporn.org/)
 
@@ -29,9 +35,6 @@ title: http://www.socialporn.org/
 *  JS Response Bytes: 352242
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

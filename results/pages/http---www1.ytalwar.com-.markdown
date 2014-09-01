@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www1.ytalwar.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [ytalwar.com - ytalwar Resources and Information. This website is for sale!](http://www1.ytalwar.com/)
 
@@ -29,9 +30,6 @@ title: http://www1.ytalwar.com/
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 308
-
-### Performance issues
-
 
 ### Performance issues
 

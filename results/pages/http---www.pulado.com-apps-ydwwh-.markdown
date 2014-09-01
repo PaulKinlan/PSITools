@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pulado.com/apps/ydwwh/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Space Wars](http://www.pulado.com/apps/ydwwh/)
 
@@ -29,9 +33,6 @@ title: http://www.pulado.com/apps/ydwwh/
 *  JS Response Bytes: 21834
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

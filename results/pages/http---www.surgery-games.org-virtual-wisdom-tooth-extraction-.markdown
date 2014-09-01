@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.surgery-games.org/virtual-wisdom-tooth-extraction/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Virtual Wisdom Tooth Extraction game](http://www.surgery-games.org/virtual-wisdom-tooth-extraction/)
 
@@ -29,9 +36,6 @@ title: http://www.surgery-games.org/virtual-wisdom-tooth-extraction/
 *  JS Response Bytes: 2752095
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122529
-
-### Performance issues
-
 
 ### Performance issues
 

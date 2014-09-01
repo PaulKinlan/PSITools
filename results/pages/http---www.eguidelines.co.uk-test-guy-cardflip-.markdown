@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.eguidelines.co.uk/test/guy/cardflip/
+MinimizeRenderBlockingResources: true
 ---
 ## [Card Flip](http://www.eguidelines.co.uk/test/guy/cardflip/)
 
@@ -29,9 +30,6 @@ title: http://www.eguidelines.co.uk/test/guy/cardflip/
 *  JS Response Bytes: 4354
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

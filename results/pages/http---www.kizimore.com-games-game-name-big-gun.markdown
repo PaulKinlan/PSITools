@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.kizimore.com/games/game/name/big-gun
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [big-gun Kizi - Online Games - Life is fun!](http://www.kizimore.com/games/game/name/big-gun)
 
@@ -29,9 +35,6 @@ title: http://www.kizimore.com/games/game/name/big-gun
 *  JS Response Bytes: 1857629
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111947
-
-### Performance issues
-
 
 ### Performance issues
 

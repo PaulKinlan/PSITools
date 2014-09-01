@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.webgames24h.com/minecraft.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MineCraft | Web Games 24H](http://www.webgames24h.com/minecraft.html)
 
@@ -29,9 +37,6 @@ title: http://www.webgames24h.com/minecraft.html
 *  JS Response Bytes: 1529905
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109876
-
-### Performance issues
-
 
 ### Performance issues
 

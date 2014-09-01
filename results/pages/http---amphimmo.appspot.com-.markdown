@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://amphimmo.appspot.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Multiplayer 3D Car Race](http://amphimmo.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://amphimmo.appspot.com/
 *  JS Response Bytes: 90244
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 609
-
-### Performance issues
-
 
 ### Performance issues
 

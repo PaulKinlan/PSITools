@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://videodownloadhelper.trafficterminal.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Video Download Helper](http://videodownloadhelper.trafficterminal.com/)
 
@@ -29,9 +33,6 @@ title: http://videodownloadhelper.trafficterminal.com/
 *  JS Response Bytes: 96902
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

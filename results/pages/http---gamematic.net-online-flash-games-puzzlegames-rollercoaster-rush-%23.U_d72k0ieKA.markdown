@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/puzzlegames/rollercoaster-rush/#.U_d72k0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rollercoaster Rush « Online Flash Game Rollercoaster Rush](http://gamematic.net/online-flash-games/puzzlegames/rollercoaster-rush/#.U_d72k0ieKA)
 
@@ -29,9 +37,6 @@ title: http://gamematic.net/online-flash-games/puzzlegames/rollercoaster-rush/#.
 *  JS Response Bytes: 1264597
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44888
-
-### Performance issues
-
 
 ### Performance issues
 

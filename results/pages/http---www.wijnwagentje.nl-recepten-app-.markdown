@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.wijnwagentje.nl/recepten-app/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Wijnwagentje](http://www.wijnwagentje.nl/recepten-app/)
 
@@ -29,9 +31,6 @@ title: http://www.wijnwagentje.nl/recepten-app/
 *  JS Response Bytes: 326273
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

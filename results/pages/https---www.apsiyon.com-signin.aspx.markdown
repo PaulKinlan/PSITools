@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.apsiyon.com/signin.aspx
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Apartman Site Yönetim Programı - Apsiyon.com](https://www.apsiyon.com/signin.aspx)
 
@@ -29,9 +33,6 @@ title: https://www.apsiyon.com/signin.aspx
 *  JS Response Bytes: 442795
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

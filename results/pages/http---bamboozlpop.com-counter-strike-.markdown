@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://bamboozlpop.com/counter-strike/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Counter Strike](http://bamboozlpop.com/counter-strike/)
 
@@ -29,9 +35,6 @@ title: http://bamboozlpop.com/counter-strike/
 *  JS Response Bytes: 2134465
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110170
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://portugues.translate.ninja/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tradutor Português Inglês](http://portugues.translate.ninja/)
 
@@ -29,9 +31,6 @@ title: http://portugues.translate.ninja/
 *  JS Response Bytes: 1682636
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 177895
-
-### Performance issues
-
 
 ### Performance issues
 

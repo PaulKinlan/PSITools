@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://translate-all-language.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Translate All Language](http://translate-all-language.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://translate-all-language.herokuapp.com/
 *  JS Response Bytes: 1472140
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 173383
-
-### Performance issues
-
 
 ### Performance issues
 

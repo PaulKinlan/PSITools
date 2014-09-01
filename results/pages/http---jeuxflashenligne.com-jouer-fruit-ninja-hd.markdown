@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://jeuxflashenligne.com/jouer-fruit-ninja-hd
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fruit Ninja HD](http://jeuxflashenligne.com/jouer-fruit-ninja-hd)
 
@@ -29,9 +32,6 @@ title: http://jeuxflashenligne.com/jouer-fruit-ninja-hd
 *  JS Response Bytes: 1756947
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103833
-
-### Performance issues
-
 
 ### Performance issues
 

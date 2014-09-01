@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://orchant.awayfind.com/chrome.php
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AwayFind - Create your Account](http://orchant.awayfind.com/chrome.php)
 
@@ -18,20 +23,17 @@ title: http://orchant.awayfind.com/chrome.php
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 13
-*  Total Request Bytes: 1812
+*  Total Request Bytes: 1813
 
 ### Response data
 
 *  HTML Response Bytes: 10656
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 37891
+*  CSS Response Bytes: 37890
 *  Image Response Bytes: 49823
 *  JS Response Bytes: 159064
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

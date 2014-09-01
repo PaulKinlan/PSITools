@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://websitezcollectionz.blogspot.com/2013/01/cell-phones-and-mobiles.html?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Websites Collection: Cell Phones and Mobiles](http://websitezcollectionz.blogspot.com/2013/01/cell-phones-and-mobiles.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://websitezcollectionz.blogspot.com/2013/01/cell-phones-and-mobiles.h
 *  JS Response Bytes: 1162586
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95612
-
-### Performance issues
-
 
 ### Performance issues
 

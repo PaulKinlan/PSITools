@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://app.fps-x-games.com/669344
+UseLegibleFontSizes: true
 ---
 ## [](http://app.fps-x-games.com/669344)
 
@@ -29,9 +30,6 @@ title: http://app.fps-x-games.com/669344
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

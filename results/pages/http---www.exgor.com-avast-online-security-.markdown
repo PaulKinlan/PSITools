@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.exgor.com/avast-online-security/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.exgor.com/avast-online-security/)
 
@@ -29,9 +31,6 @@ title: http://www.exgor.com/avast-online-security/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

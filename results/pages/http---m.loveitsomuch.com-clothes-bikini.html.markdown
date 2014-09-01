@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.loveitsomuch.com/clothes/bikini.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bikini: Discover Fashion Bikini](http://m.loveitsomuch.com/clothes/bikini.html)
 
@@ -29,9 +31,6 @@ title: http://m.loveitsomuch.com/clothes/bikini.html
 *  JS Response Bytes: 740601
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 362
-
-### Performance issues
-
 
 ### Performance issues
 

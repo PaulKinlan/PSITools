@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://inventikasolutions.com/ipad3/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [iPad 3 - Try it out online](http://inventikasolutions.com/ipad3/)
 
@@ -29,9 +32,6 @@ title: http://inventikasolutions.com/ipad3/
 *  JS Response Bytes: 354938
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57519
-
-### Performance issues
-
 
 ### Performance issues
 

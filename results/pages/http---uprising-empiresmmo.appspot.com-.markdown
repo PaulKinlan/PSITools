@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://uprising-empiresmmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Uprising Empires Online](http://uprising-empiresmmo.appspot.com/)
 
@@ -29,9 +35,6 @@ title: http://uprising-empiresmmo.appspot.com/
 *  JS Response Bytes: 1435777
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50901
-
-### Performance issues
-
 
 ### Performance issues
 

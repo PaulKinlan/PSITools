@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://recipesdictionary.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Recipes Dictionary ·](http://recipesdictionary.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://recipesdictionary.herokuapp.com/
 *  JS Response Bytes: 1600247
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141545
-
-### Performance issues
-
 
 ### Performance issues
 

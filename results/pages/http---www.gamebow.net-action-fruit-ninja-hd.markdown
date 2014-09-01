@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gamebow.net/action/fruit-ninja-hd
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fruit Ninja HD - GameBow.net | Free Online Flash Games](http://www.gamebow.net/action/fruit-ninja-hd)
 
@@ -29,9 +36,6 @@ title: http://www.gamebow.net/action/fruit-ninja-hd
 *  JS Response Bytes: 2393202
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 129884
-
-### Performance issues
-
 
 ### Performance issues
 

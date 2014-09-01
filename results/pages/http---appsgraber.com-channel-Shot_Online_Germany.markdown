@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://appsgraber.com/channel/Shot_Online_Germany
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shot Online Germany | Browser Games - My Planet Game](http://appsgraber.com/channel/Shot_Online_Germany)
 
@@ -29,9 +32,6 @@ title: http://appsgraber.com/channel/Shot_Online_Germany
 *  JS Response Bytes: 1217196
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103863
-
-### Performance issues
-
 
 ### Performance issues
 

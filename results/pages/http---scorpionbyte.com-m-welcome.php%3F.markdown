@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://scorpionbyte.com/m/welcome.php?
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [ScorpionByte](http://scorpionbyte.com/m/welcome.php?)
 
@@ -29,9 +33,6 @@ title: http://scorpionbyte.com/m/welcome.php?
 *  JS Response Bytes: 520709
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 38730
-
-### Performance issues
-
 
 ### Performance issues
 

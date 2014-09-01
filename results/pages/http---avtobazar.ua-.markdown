@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://avtobazar.ua/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [АВТОБАЗАР. Продажа авто. Продажа и покупка автомобилей на Автобазаре Украины. 167043 объявлений.](http://avtobazar.ua/)
 
@@ -29,9 +35,6 @@ title: http://avtobazar.ua/
 *  JS Response Bytes: 1600473
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19812
-
-### Performance issues
-
 
 ### Performance issues
 

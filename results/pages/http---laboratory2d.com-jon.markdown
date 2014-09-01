@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://laboratory2d.com/jon
+UseLegibleFontSizes: true
 ---
 ## [データベースエラー](http://laboratory2d.com/jon)
 
@@ -29,9 +30,6 @@ title: http://laboratory2d.com/jon
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

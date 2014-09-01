@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://corporate.fiabee.com/en/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [corporate.fiabee.com](https://corporate.fiabee.com/en/)
 
@@ -29,9 +33,6 @@ title: https://corporate.fiabee.com/en/
 *  JS Response Bytes: 381889
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1062
-
-### Performance issues
-
 
 ### Performance issues
 

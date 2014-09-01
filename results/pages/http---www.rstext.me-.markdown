@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.rstext.me/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Rstextme - write geek, be elegant](http://www.rstext.me/)
 
@@ -29,9 +32,6 @@ title: http://www.rstext.me/
 *  JS Response Bytes: 605829
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47494
-
-### Performance issues
-
 
 ### Performance issues
 

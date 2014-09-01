@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://bestdietforpsoriasis.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [The Best Diet For Psoriasis blog with John Redfern](http://bestdietforpsoriasis.com/)
 
@@ -29,9 +31,6 @@ title: http://bestdietforpsoriasis.com/
 *  JS Response Bytes: 100838
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4368
-
-### Performance issues
-
 
 ### Performance issues
 

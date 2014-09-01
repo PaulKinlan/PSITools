@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://rent.roozz.com/ChromiumBSU?affid=chrome
+UseLegibleFontSizes: true
 ---
 ## [](http://rent.roozz.com/ChromiumBSU?affid=chrome)
 
@@ -29,9 +30,6 @@ title: http://rent.roozz.com/ChromiumBSU?affid=chrome
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 532
-
-### Performance issues
-
 
 ### Performance issues
 

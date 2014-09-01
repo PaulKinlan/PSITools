@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chromestoregame.com/?=404;http://www.chromestoregame.com:80/hill-climb-racing-2/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [chromestoregame.com](http://chromestoregame.com/?=404;http://www.chromestoregame.com:80/hill-climb-racing-2/&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://chromestoregame.com/?=404;http://www.chromestoregame.com:80/hill-c
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121
-
-### Performance issues
-
 
 ### Performance issues
 

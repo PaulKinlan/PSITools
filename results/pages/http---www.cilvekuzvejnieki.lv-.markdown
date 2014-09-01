@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.cilvekuzvejnieki.lv/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Cilvēku Zvejnieki](http://www.cilvekuzvejnieki.lv/)
 
@@ -29,9 +31,6 @@ title: http://www.cilvekuzvejnieki.lv/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

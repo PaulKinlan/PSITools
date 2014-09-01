@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://bestimmtspiele.blogspot.com/2014/01/pro-skeet.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bestimmt Spiele: Pro Skeet](http://bestimmtspiele.blogspot.com/2014/01/pro-skeet.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://bestimmtspiele.blogspot.com/2014/01/pro-skeet.html?m=1
 *  JS Response Bytes: 1113492
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111797
-
-### Performance issues
-
 
 ### Performance issues
 

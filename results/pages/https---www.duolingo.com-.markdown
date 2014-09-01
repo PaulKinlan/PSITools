@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.duolingo.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Duolingo | Learn Spanish, French, German, Portuguese, Italian and English for free](https://www.duolingo.com/)
 
@@ -29,9 +34,6 @@ title: https://www.duolingo.com/
 *  JS Response Bytes: 2337784
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 604
-
-### Performance issues
-
 
 ### Performance issues
 

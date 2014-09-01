@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.askgame.info/play/420/fruit-sniper.html#.U_ugQE0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fruit Sniper - Ask Game - Best Free Online Flash Games](http://www.askgame.info/play/420/fruit-sniper.html#.U_ugQE0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.askgame.info/play/420/fruit-sniper.html#.U_ugQE0ieKA
 *  JS Response Bytes: 1543440
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43207
-
-### Performance issues
-
 
 ### Performance issues
 

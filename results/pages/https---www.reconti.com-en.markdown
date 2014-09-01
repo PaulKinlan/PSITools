@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.reconti.com/en
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [reconti](https://www.reconti.com/en)
 
@@ -29,9 +31,6 @@ title: https://www.reconti.com/en
 *  JS Response Bytes: 375185
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 356
-
-### Performance issues
-
 
 ### Performance issues
 

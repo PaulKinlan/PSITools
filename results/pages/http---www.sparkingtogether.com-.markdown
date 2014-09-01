@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.sparkingtogether.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [.:: Fiona ::.:: Sparking Together ::.](http://www.sparkingtogether.com/)
 
@@ -29,9 +35,6 @@ title: http://www.sparkingtogether.com/
 *  JS Response Bytes: 644629
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 82274
-
-### Performance issues
-
 
 ### Performance issues
 

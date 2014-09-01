@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.apps123.info/digitalmediaconverter/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Digital Media Converter Software - Digital Media Converter](http://www.apps123.info/digitalmediaconverter/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.apps123.info/digitalmediaconverter/index.html
 *  JS Response Bytes: 1092854
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113156
-
-### Performance issues
-
 
 ### Performance issues
 

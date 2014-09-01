@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://interonlychrome.appspot.com/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [F.C. Internazionale Milano News](http://interonlychrome.appspot.com/index.html)
 
@@ -29,9 +33,6 @@ title: http://interonlychrome.appspot.com/index.html
 *  JS Response Bytes: 1104279
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16635
-
-### Performance issues
-
 
 ### Performance issues
 

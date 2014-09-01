@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamef2.com/default-category/zombies-don-t-run
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombies Don t Run - GaMeF2](http://www.gamef2.com/default-category/zombies-don-t-run)
 
@@ -29,9 +34,6 @@ title: http://www.gamef2.com/default-category/zombies-don-t-run
 *  JS Response Bytes: 2177865
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121447
-
-### Performance issues
-
 
 ### Performance issues
 

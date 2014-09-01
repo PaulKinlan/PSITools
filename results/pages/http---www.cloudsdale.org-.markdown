@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.cloudsdale.org/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Cloudsdale](http://www.cloudsdale.org/)
 
@@ -29,9 +33,6 @@ title: http://www.cloudsdale.org/
 *  JS Response Bytes: 1718344
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 107922
-
-### Performance issues
-
 
 ### Performance issues
 

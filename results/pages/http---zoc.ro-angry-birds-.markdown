@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://zoc.ro/angry-birds/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Game Collections](http://zoc.ro/angry-birds/)
 
@@ -29,9 +33,6 @@ title: http://zoc.ro/angry-birds/
 *  JS Response Bytes: 572750
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15447
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/Bricks-Squasher-2/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Bricks Squasher 2](http://www.fupa.com/apps/Bricks-Squasher-2/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/Bricks-Squasher-2/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

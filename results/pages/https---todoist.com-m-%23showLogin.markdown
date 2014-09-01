@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://todoist.com/m/#showLogin
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Todoist](https://todoist.com/m/#showLogin)
 
@@ -29,9 +33,6 @@ title: https://todoist.com/m/#showLogin
 *  JS Response Bytes: 194760
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 466
-
-### Performance issues
-
 
 ### Performance issues
 

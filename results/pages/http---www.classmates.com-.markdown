@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.classmates.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Step back in time - Classmates.com](http://www.classmates.com/)
 
@@ -29,9 +32,6 @@ title: http://www.classmates.com/
 *  JS Response Bytes: 378506
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5000
-
-### Performance issues
-
 
 ### Performance issues
 

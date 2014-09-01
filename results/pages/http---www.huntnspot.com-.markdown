@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.huntnspot.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Hunt N Spot | An Outdoorsman's Tracker](http://www.huntnspot.com/)
 
@@ -29,9 +31,6 @@ title: http://www.huntnspot.com/
 *  JS Response Bytes: 602885
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

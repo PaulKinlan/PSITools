@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.myplaniq.com/LTISystem/f401k__main.action
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [401K, IRA, Annuity (Retirement) Investments & Portfolios](http://www.myplaniq.com/LTISystem/f401k__main.action)
 
@@ -29,9 +33,6 @@ title: http://www.myplaniq.com/LTISystem/f401k__main.action
 *  JS Response Bytes: 1195811
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2941
-
-### Performance issues
-
 
 ### Performance issues
 

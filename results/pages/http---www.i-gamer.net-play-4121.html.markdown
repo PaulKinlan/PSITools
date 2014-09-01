@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.i-gamer.net/play/4121.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [電眼美女冬季之戀遊戲](http://www.i-gamer.net/play/4121.html)
 
@@ -29,9 +35,6 @@ title: http://www.i-gamer.net/play/4121.html
 *  JS Response Bytes: 1169993
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1255
-
-### Performance issues
-
 
 ### Performance issues
 

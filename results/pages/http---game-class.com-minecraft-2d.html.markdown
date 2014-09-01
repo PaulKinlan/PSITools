@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://game-class.com/minecraft-2d.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Game-Class.Com – MineCraft 2d](http://game-class.com/minecraft-2d.html)
 
@@ -29,9 +36,6 @@ title: http://game-class.com/minecraft-2d.html
 *  JS Response Bytes: 599894
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 65424
-
-### Performance issues
-
 
 ### Performance issues
 

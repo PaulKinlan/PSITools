@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.whois.com.au/whois/dns.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DNS Lookup | Query A, MX, NS, AAAA, SOA, TXT, and AXFR DNS records at Whois®](http://www.whois.com.au/whois/dns.html)
 
@@ -29,9 +32,6 @@ title: http://www.whois.com.au/whois/dns.html
 *  JS Response Bytes: 1534601
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44061
-
-### Performance issues
-
 
 ### Performance issues
 

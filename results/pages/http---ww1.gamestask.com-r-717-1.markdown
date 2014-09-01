@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ww1.gamestask.com/r-717-1
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [gamestask.com - gamestask Resources and Information. This website is for sale!](http://ww1.gamestask.com/r-717-1)
 
@@ -29,9 +31,6 @@ title: http://ww1.gamestask.com/r-717-1
 *  JS Response Bytes: 113648
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 215
-
-### Performance issues
-
 
 ### Performance issues
 

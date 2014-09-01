@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://enginev2.memorygamesengine.com/001/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Memory Games](http://enginev2.memorygamesengine.com/001/index.html)
 
@@ -29,9 +34,6 @@ title: http://enginev2.memorygamesengine.com/001/index.html
 *  JS Response Bytes: 1262422
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14890
-
-### Performance issues
-
 
 ### Performance issues
 

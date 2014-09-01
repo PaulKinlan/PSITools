@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.exgor.com/adblock-pro/
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.exgor.com/adblock-pro/)
 
@@ -29,9 +32,6 @@ title: http://www.exgor.com/adblock-pro/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

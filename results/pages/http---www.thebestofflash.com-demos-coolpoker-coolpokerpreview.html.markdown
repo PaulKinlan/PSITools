@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.thebestofflash.com/demos/coolpoker/coolpokerpreview.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Cool Poker Game Preview at TheBestofFlash.com](http://www.thebestofflash.com/demos/coolpoker/coolpokerpreview.html)
 
@@ -29,9 +37,6 @@ title: http://www.thebestofflash.com/demos/coolpoker/coolpokerpreview.html
 *  JS Response Bytes: 1483887
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109677
-
-### Performance issues
-
 
 ### Performance issues
 

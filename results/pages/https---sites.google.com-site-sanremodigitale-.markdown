@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://sites.google.com/site/sanremodigitale/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sanremo Digitale](https://sites.google.com/site/sanremodigitale/)
 
@@ -29,9 +31,6 @@ title: https://sites.google.com/site/sanremodigitale/
 *  JS Response Bytes: 2017900
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49304
-
-### Performance issues
-
 
 ### Performance issues
 

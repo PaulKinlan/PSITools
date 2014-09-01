@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.war-games.ws/strategy-defense/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Strategy defense](http://www.war-games.ws/strategy-defense/)
 
@@ -29,9 +36,6 @@ title: http://www.war-games.ws/strategy-defense/
 *  JS Response Bytes: 2291720
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120565
-
-### Performance issues
-
 
 ### Performance issues
 

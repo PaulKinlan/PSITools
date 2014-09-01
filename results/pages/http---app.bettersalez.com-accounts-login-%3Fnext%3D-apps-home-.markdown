@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://app.bettersalez.com/accounts/login/?next=/apps/home/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BetterSalez | Simple Sales Tracking | Web Based Sales Prospect Tracking](http://app.bettersalez.com/accounts/login/?next=/apps/home/)
 
@@ -29,9 +34,6 @@ title: http://app.bettersalez.com/accounts/login/?next=/apps/home/
 *  JS Response Bytes: 196805
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5121
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -33,8 +33,5 @@ title: http://www.runogames.com/?f
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

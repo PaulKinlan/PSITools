@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamezaddict.com/kickup.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kickup | Gamez Addict](http://www.gamezaddict.com/kickup.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamezaddict.com/kickup.html
 *  JS Response Bytes: 1019966
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1409
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.profitania.com/index.php
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Profitania - Tycoon Games Business Sims Money Management Simulations](http://www.profitania.com/index.php)
 
@@ -29,9 +33,6 @@ title: http://www.profitania.com/index.php
 *  JS Response Bytes: 99160
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 546
-
-### Performance issues
-
 
 ### Performance issues
 

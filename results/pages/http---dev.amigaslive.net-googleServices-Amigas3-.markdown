@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://dev.amigaslive.net/googleServices/Amigas3/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Aulas Amigas](http://dev.amigaslive.net/googleServices/Amigas3/)
 
@@ -29,9 +32,6 @@ title: http://dev.amigaslive.net/googleServices/Amigas3/
 *  JS Response Bytes: 541224
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2516
-
-### Performance issues
-
 
 ### Performance issues
 

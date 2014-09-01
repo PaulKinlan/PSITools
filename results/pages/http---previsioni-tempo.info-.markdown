@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://previsioni-tempo.info/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Previsioni del Tempo | il Meteo](http://previsioni-tempo.info/)
 
@@ -29,9 +35,6 @@ title: http://previsioni-tempo.info/
 *  JS Response Bytes: 499562
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15725
-
-### Performance issues
-
 
 ### Performance issues
 

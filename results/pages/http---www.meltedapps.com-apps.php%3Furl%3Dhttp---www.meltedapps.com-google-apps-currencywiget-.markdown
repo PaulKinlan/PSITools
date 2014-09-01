@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.meltedapps.com/apps.php?url=http://www.meltedapps.com/google/apps/currencywiget/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games and Apps from Melted Apps LLC :: iPhone and Android Applications, Web Applications, Hosted Solutions.](http://www.meltedapps.com/apps.php?url=http://www.meltedapps.com/google/apps/currencywiget/)
 
@@ -29,9 +31,6 @@ title: http://www.meltedapps.com/apps.php?url=http://www.meltedapps.com/google/a
 *  JS Response Bytes: 489333
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1323
-
-### Performance issues
-
 
 ### Performance issues
 

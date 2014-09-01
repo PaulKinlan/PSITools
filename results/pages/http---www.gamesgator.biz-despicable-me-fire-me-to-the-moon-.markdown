@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.biz/despicable-me-fire-me-to-the-moon/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Despicable Me Fire Me to the Moon](http://www.gamesgator.biz/despicable-me-fire-me-to-the-moon/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.biz/despicable-me-fire-me-to-the-moon/
 *  JS Response Bytes: 961253
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 67060
-
-### Performance issues
-
 
 ### Performance issues
 

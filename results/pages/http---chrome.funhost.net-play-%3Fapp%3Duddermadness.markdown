@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://chrome.funhost.net/play/?app=uddermadness
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Udder Madness - Game on Fun Host Games!](http://chrome.funhost.net/play/?app=uddermadness)
 
@@ -29,9 +36,6 @@ title: http://chrome.funhost.net/play/?app=uddermadness
 *  JS Response Bytes: 3165190
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41560
-
-### Performance issues
-
 
 ### Performance issues
 

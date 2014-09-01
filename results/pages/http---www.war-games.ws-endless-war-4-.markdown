@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/endless-war-4/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Endless War 4](http://www.war-games.ws/endless-war-4/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/endless-war-4/
 *  JS Response Bytes: 2292998
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120580
-
-### Performance issues
-
 
 ### Performance issues
 

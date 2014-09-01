@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.evolvedonlinegames.com/app.php?id=3685
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Multiball Rampage](http://www.evolvedonlinegames.com/app.php?id=3685)
 
@@ -29,9 +34,6 @@ title: http://www.evolvedonlinegames.com/app.php?id=3685
 *  JS Response Bytes: 1029113
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97381
-
-### Performance issues
-
 
 ### Performance issues
 

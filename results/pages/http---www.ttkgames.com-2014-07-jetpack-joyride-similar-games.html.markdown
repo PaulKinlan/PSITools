@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ttkgames.com/2014/07/jetpack-joyride-similar-games.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [All free games play now, free hd games. » Jetpack Joyride similar games](http://www.ttkgames.com/2014/07/jetpack-joyride-similar-games.html)
 
@@ -29,9 +35,6 @@ title: http://www.ttkgames.com/2014/07/jetpack-joyride-similar-games.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16576
-
-### Performance issues
-
 
 ### Performance issues
 

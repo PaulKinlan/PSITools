@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gamefuse.com/rise-of-mythos/landing/?path=kl&media=chrm&adv=sy2&subid=
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GameFuse | Play Free Games | Rise of Mythos – Free Online Trading Card Game (TCG) with an MMORPG Twist – Landing Page](http://www.gamefuse.com/rise-of-mythos/landing/?path=kl&media=chrm&adv=sy2&subid=)
 
@@ -29,9 +32,6 @@ title: http://www.gamefuse.com/rise-of-mythos/landing/?path=kl&media=chrm&adv=sy
 *  JS Response Bytes: 636006
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58192
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ccisolutions.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Acoustics, Sound, Lighting, Video for Church, Entertainment and Presentation](http://www.ccisolutions.com/)
 
@@ -29,9 +33,6 @@ title: http://www.ccisolutions.com/
 *  JS Response Bytes: 637297
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9182
-
-### Performance issues
-
 
 ### Performance issues
 

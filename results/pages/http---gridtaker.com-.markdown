@@ -33,8 +33,5 @@ title: http://gridtaker.com/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://drivehost.googleusercontent.com/id/0B8SQlZkbb1pOZ2dNREphZDJHQTg/test.html
+UseLegibleFontSizes: true
 ---
 ## [](http://drivehost.googleusercontent.com/id/0B8SQlZkbb1pOZ2dNREphZDJHQTg/test.html)
 
@@ -29,9 +30,6 @@ title: http://drivehost.googleusercontent.com/id/0B8SQlZkbb1pOZ2dNREphZDJHQTg/te
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 208
-
-### Performance issues
-
 
 ### Performance issues
 

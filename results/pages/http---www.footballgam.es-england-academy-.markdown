@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/england-academy/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [England Rugby Academy Game](http://www.footballgam.es/england-academy/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/england-academy/
 *  JS Response Bytes: 2139040
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 160051
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://app.spamdrain.net/en/members/login-required.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Log in – SpamDrain – spam filter for domains, PC, Mac, iPhone, Android and mobile [anti-spam, spam filter]](https://app.spamdrain.net/en/members/login-required.html)
 
@@ -29,9 +33,6 @@ title: https://app.spamdrain.net/en/members/login-required.html
 *  JS Response Bytes: 486072
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 943
-
-### Performance issues
-
 
 ### Performance issues
 

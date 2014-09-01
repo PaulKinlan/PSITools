@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://mobile.onepagecrm.com/#login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [OnePage CRM](http://mobile.onepagecrm.com/#login)
 
@@ -29,9 +34,6 @@ title: http://mobile.onepagecrm.com/#login
 *  JS Response Bytes: 234933
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 969
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://247flashgame.com/?=404;http://247flashgame.com:80/green-beret-castle-assault.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [247flashgame.com](http://247flashgame.com/?=404;http://247flashgame.com:80/green-beret-castle-assault.html&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://247flashgame.com/?=404;http://247flashgame.com:80/green-beret-cast
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122
-
-### Performance issues
-
 
 ### Performance issues
 

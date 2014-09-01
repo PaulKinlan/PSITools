@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.associon.com/?view=gadget&gadget=g_map_yt_global_videos
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ASSOCION | GADGET : G.Map - YouTube Global Videos](http://www.associon.com/?view=gadget&gadget=g_map_yt_global_videos)
 
@@ -29,9 +32,6 @@ title: http://www.associon.com/?view=gadget&gadget=g_map_yt_global_videos
 *  JS Response Bytes: 2779882
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 212603
-
-### Performance issues
-
 
 ### Performance issues
 

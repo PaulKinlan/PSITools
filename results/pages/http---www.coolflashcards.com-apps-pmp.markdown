@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.coolflashcards.com/apps/pmp
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PMP Certification Online Flashcards](http://www.coolflashcards.com/apps/pmp)
 
@@ -29,9 +35,6 @@ title: http://www.coolflashcards.com/apps/pmp
 *  JS Response Bytes: 2252410
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14619
-
-### Performance issues
-
 
 ### Performance issues
 

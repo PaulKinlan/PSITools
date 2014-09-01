@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.americaswars.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [America's Wars | Historial Conflicts](http://www.americaswars.com/)
 
@@ -29,9 +32,6 @@ title: http://www.americaswars.com/
 *  JS Response Bytes: 309388
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

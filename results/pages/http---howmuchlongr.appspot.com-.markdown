@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://howmuchlongr.appspot.com/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://howmuchlongr.appspot.com/)
 
@@ -29,9 +30,6 @@ title: http://howmuchlongr.appspot.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 434
-
-### Performance issues
-
 
 ### Performance issues
 

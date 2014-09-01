@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.arcaderush.net/ArcadeRushApp/chrome_galley.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Arcade Rush Games - Newest Games](http://www.arcaderush.net/ArcadeRushApp/chrome_galley.php)
 
@@ -29,9 +33,6 @@ title: http://www.arcaderush.net/ArcadeRushApp/chrome_galley.php
 *  JS Response Bytes: 593369
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44295
-
-### Performance issues
-
 
 ### Performance issues
 

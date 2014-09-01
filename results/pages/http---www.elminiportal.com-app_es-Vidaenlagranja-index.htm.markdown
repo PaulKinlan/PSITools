@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.elminiportal.com/app_es/Vidaenlagranja/index.htm
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Vida en la granja - MINIPORTAL](http://www.elminiportal.com/app_es/Vidaenlagranja/index.htm)
 
@@ -29,9 +33,6 @@ title: http://www.elminiportal.com/app_es/Vidaenlagranja/index.htm
 *  JS Response Bytes: 1267948
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46918
-
-### Performance issues
-
 
 ### Performance issues
 

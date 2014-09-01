@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.infamousapp.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Welcome - Infamous: Rise of the Factions - InfamousApp.com](https://www.infamousapp.com/)
 
@@ -29,9 +32,6 @@ title: https://www.infamousapp.com/
 *  JS Response Bytes: 393588
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 613
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.starfall.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Starfall's Learn to Read with phonics](http://www.starfall.com/)
 
@@ -22,16 +27,13 @@ title: http://www.starfall.com/
 
 ### Response data
 
-*  HTML Response Bytes: 16033
+*  HTML Response Bytes: 16028
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 2502
-*  Image Response Bytes: 196827
+*  CSS Response Bytes: 2501
+*  Image Response Bytes: 196819
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

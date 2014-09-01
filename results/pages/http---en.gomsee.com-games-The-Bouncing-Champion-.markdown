@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://en.gomsee.com/games/The-Bouncing-Champion/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Online Games, Flash Games & Play Free Online Games | Gomsee :: The Little Girl of the Post Office](http://en.gomsee.com/games/The-Bouncing-Champion/)
 
@@ -29,9 +35,6 @@ title: http://en.gomsee.com/games/The-Bouncing-Champion/
 *  JS Response Bytes: 293890
 *  Flash Response Bytes: 932600
 *  Other Response Bytes: 15065
-
-### Performance issues
-
 
 ### Performance issues
 

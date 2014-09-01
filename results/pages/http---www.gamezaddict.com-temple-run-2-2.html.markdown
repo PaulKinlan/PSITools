@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamezaddict.com/temple-run-2-2.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Temple Run 2 | Gamez Addict](http://www.gamezaddict.com/temple-run-2-2.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamezaddict.com/temple-run-2-2.html
 *  JS Response Bytes: 894460
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17042
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://cryowallet.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CryoWallet.com - Really cool cold storage](https://cryowallet.com/)
 
@@ -29,9 +33,6 @@ title: https://cryowallet.com/
 *  JS Response Bytes: 2885946
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3864
-
-### Performance issues
-
 
 ### Performance issues
 

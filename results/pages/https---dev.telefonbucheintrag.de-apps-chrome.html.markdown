@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://dev.telefonbucheintrag.de/apps/chrome.html
+UseLegibleFontSizes: true
 ---
 ## [401 Authorization Required](https://dev.telefonbucheintrag.de/apps/chrome.html)
 
@@ -29,9 +30,6 @@ title: https://dev.telefonbucheintrag.de/apps/chrome.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 658
-
-### Performance issues
-
 
 ### Performance issues
 

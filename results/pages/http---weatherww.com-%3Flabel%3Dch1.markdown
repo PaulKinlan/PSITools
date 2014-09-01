@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://weatherww.com/?label=ch1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Weather Worldwide | WeatherWW.com](http://weatherww.com/?label=ch1)
 
@@ -29,9 +37,6 @@ title: http://weatherww.com/?label=ch1
 *  JS Response Bytes: 1933832
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55931
-
-### Performance issues
-
 
 ### Performance issues
 

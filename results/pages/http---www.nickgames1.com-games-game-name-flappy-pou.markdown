@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.nickgames1.com/games/game/name/flappy-pou
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [flappy-pou Nickelodeon Games](http://www.nickgames1.com/games/game/name/flappy-pou)
 
@@ -29,9 +36,6 @@ title: http://www.nickgames1.com/games/game/name/flappy-pou
 *  JS Response Bytes: 1978274
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111813
-
-### Performance issues
-
 
 ### Performance issues
 

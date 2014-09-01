@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.yoursecuremarket.com/androidfoolery/sex-test-angel-or-devil/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sex Test: Are you an Angel or a Devil? | Hot Quizzes](http://www.yoursecuremarket.com/androidfoolery/sex-test-angel-or-devil/)
 
@@ -29,9 +32,6 @@ title: http://www.yoursecuremarket.com/androidfoolery/sex-test-angel-or-devil/
 *  JS Response Bytes: 165108
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

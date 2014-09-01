@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://alcre8or.com/play/dragonandspikes/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dragon & Spikes](http://alcre8or.com/play/dragonandspikes/)
 
@@ -29,9 +33,6 @@ title: http://alcre8or.com/play/dragonandspikes/
 *  JS Response Bytes: 698462
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58130
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.negane.com/wolfenstein/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.negane.com/wolfenstein/)
 
@@ -29,9 +33,6 @@ title: http://www.negane.com/wolfenstein/
 *  JS Response Bytes: 450630
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50194
-
-### Performance issues
-
 
 ### Performance issues
 

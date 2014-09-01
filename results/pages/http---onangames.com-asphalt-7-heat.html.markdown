@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://onangames.com/asphalt-7-heat.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [OnanGames.Com | Flash Game | Flash Games – Asphalt 7 Heat](http://onangames.com/asphalt-7-heat.html)
 
@@ -29,9 +35,6 @@ title: http://onangames.com/asphalt-7-heat.html
 *  JS Response Bytes: 412514
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 805
-
-### Performance issues
-
 
 ### Performance issues
 

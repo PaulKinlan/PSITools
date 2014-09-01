@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://api2.nextgame.ru/partner/chrome/startpage/109/
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Тысяча](http://api2.nextgame.ru/partner/chrome/startpage/109/)
 
@@ -29,9 +33,6 @@ title: http://api2.nextgame.ru/partner/chrome/startpage/109/
 *  JS Response Bytes: 372380
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3354
-
-### Performance issues
-
 
 ### Performance issues
 

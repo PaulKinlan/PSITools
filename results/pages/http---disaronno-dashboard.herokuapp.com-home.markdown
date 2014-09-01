@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://disaronno-dashboard.herokuapp.com/home
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Disaronno Dashboard](http://disaronno-dashboard.herokuapp.com/home)
 
@@ -29,9 +34,6 @@ title: http://disaronno-dashboard.herokuapp.com/home
 *  JS Response Bytes: 860367
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 78835
-
-### Performance issues
-
 
 ### Performance issues
 

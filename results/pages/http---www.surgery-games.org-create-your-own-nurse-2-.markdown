@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.surgery-games.org/create-your-own-nurse-2/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Create Your Own Nurse game](http://www.surgery-games.org/create-your-own-nurse-2/)
 
@@ -29,9 +36,6 @@ title: http://www.surgery-games.org/create-your-own-nurse-2/
 *  JS Response Bytes: 2430091
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 135171
-
-### Performance issues
-
 
 ### Performance issues
 

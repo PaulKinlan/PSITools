@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://alive.in.th/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Alive - Free Video Streaming Online](http://alive.in.th/)
 
@@ -29,9 +34,6 @@ title: http://alive.in.th/
 *  JS Response Bytes: 639896
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20164
-
-### Performance issues
-
 
 ### Performance issues
 

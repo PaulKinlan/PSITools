@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.acompanheaobra.com.br/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Acompanhe a Obra](http://www.acompanheaobra.com.br/)
 
@@ -29,9 +34,6 @@ title: http://www.acompanheaobra.com.br/
 *  JS Response Bytes: 817794
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 69926
-
-### Performance issues
-
 
 ### Performance issues
 

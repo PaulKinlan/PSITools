@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playmychromev1.blogspot.com/2013/06/bejeweled-twist.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [Play My Chrome v1: Bejeweled Twist](http://playmychromev1.blogspot.com/2013/06/bejeweled-twist.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playmychromev1.blogspot.com/2013/06/bejeweled-twist.html?m=1
 *  JS Response Bytes: 1067672
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97989
-
-### Performance issues
-
 
 ### Performance issues
 

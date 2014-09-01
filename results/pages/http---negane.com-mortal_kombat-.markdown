@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://negane.com/mortal_kombat/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://negane.com/mortal_kombat/)
 
@@ -29,9 +35,6 @@ title: http://negane.com/mortal_kombat/
 *  JS Response Bytes: 450628
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50751
-
-### Performance issues
-
 
 ### Performance issues
 

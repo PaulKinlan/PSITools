@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.bestgameforgirl.com/index.php?task=view&id=160
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Paws to Beauty - The BEST Flash Game For Girl](http://www.bestgameforgirl.com/index.php?task=view&id=160)
 
@@ -29,9 +35,6 @@ title: http://www.bestgameforgirl.com/index.php?task=view&id=160
 *  JS Response Bytes: 2344518
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114058
-
-### Performance issues
-
 
 ### Performance issues
 

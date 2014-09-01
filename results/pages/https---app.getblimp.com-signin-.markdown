@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://app.getblimp.com/signin/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sign In - Blimp](https://app.getblimp.com/signin/)
 
@@ -29,9 +35,6 @@ title: https://app.getblimp.com/signin/
 *  JS Response Bytes: 1318243
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11166
-
-### Performance issues
-
 
 ### Performance issues
 

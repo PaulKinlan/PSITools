@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.towerdefender.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tower Defense Games and Strategy Games](http://www.towerdefender.net/)
 
@@ -29,9 +34,6 @@ title: http://www.towerdefender.net/
 *  JS Response Bytes: 2168696
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 150251
-
-### Performance issues
-
 
 ### Performance issues
 

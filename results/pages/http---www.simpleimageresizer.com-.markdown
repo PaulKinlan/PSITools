@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.simpleimageresizer.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Simple Image Resizer, resize online images without losing quality](http://www.simpleimageresizer.com/)
 
@@ -29,9 +33,6 @@ title: http://www.simpleimageresizer.com/
 *  JS Response Bytes: 980405
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24619
-
-### Performance issues
-
 
 ### Performance issues
 

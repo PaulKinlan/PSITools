@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://en.onlinegames-info.com/home/index?ref=chrome_ws
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Onlinegames-Info.com - Information about onlinegames, guild, alliances and characters. Find old friends again.](http://en.onlinegames-info.com/home/index?ref=chrome_ws)
 
@@ -29,9 +35,6 @@ title: http://en.onlinegames-info.com/home/index?ref=chrome_ws
 *  JS Response Bytes: 489496
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 142883
-
-### Performance issues
-
 
 ### Performance issues
 

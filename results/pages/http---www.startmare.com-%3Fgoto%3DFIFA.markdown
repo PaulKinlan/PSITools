@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.startmare.com/?goto=FIFA
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FIFA](http://www.startmare.com/?goto=FIFA)
 
@@ -29,9 +32,6 @@ title: http://www.startmare.com/?goto=FIFA
 *  JS Response Bytes: 869321
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2789
-
-### Performance issues
-
 
 ### Performance issues
 

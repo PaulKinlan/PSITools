@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://webtranslateit.com/en
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online software translation and project management · WebTranslateIt](https://webtranslateit.com/en)
 
@@ -29,9 +33,6 @@ title: https://webtranslateit.com/en
 *  JS Response Bytes: 172677
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 971
-
-### Performance issues
-
 
 ### Performance issues
 

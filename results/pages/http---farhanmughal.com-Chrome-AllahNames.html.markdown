@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://farhanmughal.com/Chrome/AllahNames.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Allah Names - All 99 Names with English Transliteration and Translation](http://farhanmughal.com/Chrome/AllahNames.html)
 
@@ -29,9 +33,6 @@ title: http://farhanmughal.com/Chrome/AllahNames.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

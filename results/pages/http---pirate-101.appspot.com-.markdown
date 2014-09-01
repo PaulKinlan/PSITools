@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://pirate-101.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Pirate 101 Online](http://pirate-101.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://pirate-101.appspot.com/
 *  JS Response Bytes: 1017655
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 37192
-
-### Performance issues
-
 
 ### Performance issues
 

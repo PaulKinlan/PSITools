@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ww38.quran-tube.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [quran-tube.com](http://ww38.quran-tube.com/)
 
@@ -29,9 +32,6 @@ title: http://ww38.quran-tube.com/
 *  JS Response Bytes: 209105
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 210
-
-### Performance issues
-
 
 ### Performance issues
 

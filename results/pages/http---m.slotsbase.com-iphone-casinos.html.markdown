@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.slotsbase.com/iphone-casinos.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [iPhone Casinos | Slotsbase](http://m.slotsbase.com/iphone-casinos.html)
 
@@ -18,20 +20,17 @@ title: http://m.slotsbase.com/iphone-casinos.html
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 5
-*  Total Request Bytes: 1530
+*  Total Request Bytes: 1525
 
 ### Response data
 
 *  HTML Response Bytes: 3552
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 3496
-*  Image Response Bytes: 11967
-*  JS Response Bytes: 50481
+*  Image Response Bytes: 11966
+*  JS Response Bytes: 50482
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 672
-
-### Performance issues
-
 
 ### Performance issues
 

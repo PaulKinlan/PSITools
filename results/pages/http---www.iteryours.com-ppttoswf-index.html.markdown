@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.iteryours.com/ppttoswf/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Convert powerpoint,ppt,pptx to swf](http://www.iteryours.com/ppttoswf/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.iteryours.com/ppttoswf/index.html
 *  JS Response Bytes: 1059527
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95268
-
-### Performance issues
-
 
 ### Performance issues
 

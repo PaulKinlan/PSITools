@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sites.google.com/site/gogox2300/games/icarus
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [找不到頁面 - Gogox2300](https://sites.google.com/site/gogox2300/games/icarus)
 
@@ -29,9 +32,6 @@ title: https://sites.google.com/site/gogox2300/games/icarus
 *  JS Response Bytes: 657869
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32931
-
-### Performance issues
-
 
 ### Performance issues
 

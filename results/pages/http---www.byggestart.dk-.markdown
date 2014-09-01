@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.byggestart.dk/
+MinimizeRenderBlockingResources: true
 ---
 ## [Byggestart.dk - Find den helt rigtige håndværker](http://www.byggestart.dk/)
 
@@ -29,9 +30,6 @@ title: http://www.byggestart.dk/
 *  JS Response Bytes: 963193
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1720
-
-### Performance issues
-
 
 ### Performance issues
 

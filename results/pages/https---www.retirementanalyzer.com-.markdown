@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.retirementanalyzer.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Retirement Analyzer by Thomas Gold Solutions](https://www.retirementanalyzer.com/)
 
@@ -29,9 +32,6 @@ title: https://www.retirementanalyzer.com/
 *  JS Response Bytes: 727681
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1737
-
-### Performance issues
-
 
 ### Performance issues
 

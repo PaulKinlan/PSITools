@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.goldgirlsgames.com/customize/barbie-going-to-school#.U_eCWk0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Barbie Going To School - Flash Game For Girl](http://www.goldgirlsgames.com/customize/barbie-going-to-school#.U_eCWk0ieKA)
 
@@ -29,9 +36,6 @@ title: http://www.goldgirlsgames.com/customize/barbie-going-to-school#.U_eCWk0ie
 *  JS Response Bytes: 1569538
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 66744
-
-### Performance issues
-
 
 ### Performance issues
 

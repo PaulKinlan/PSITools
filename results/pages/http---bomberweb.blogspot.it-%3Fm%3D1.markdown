@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bomberweb.blogspot.it/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bomber Web Blog](http://bomberweb.blogspot.it/?m=1)
 
@@ -29,9 +32,6 @@ title: http://bomberweb.blogspot.it/?m=1
 *  JS Response Bytes: 1335145
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 301482
-
-### Performance issues
-
 
 ### Performance issues
 

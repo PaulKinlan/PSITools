@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://intranet.descasio.com/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Login](http://intranet.descasio.com/login)
 
@@ -29,9 +32,6 @@ title: http://intranet.descasio.com/login
 *  JS Response Bytes: 647823
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4024
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/istund-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Istund 2 game](http://www.skateboarding-games.biz/istund-2/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/istund-2/
 *  JS Response Bytes: 2281037
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121641
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/DaycareDaisyDressup/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Daycare Daisy DressUp](http://www.fupa.com/apps/DaycareDaisyDressup/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/DaycareDaisyDressup/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

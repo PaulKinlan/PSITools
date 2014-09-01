@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://games.bugaco.com/games/cyclickomania/index.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Click-o-mania - bugaco.com](http://games.bugaco.com/games/cyclickomania/index.html)
 
@@ -29,9 +32,6 @@ title: http://games.bugaco.com/games/cyclickomania/index.html
 *  JS Response Bytes: 948780
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109057
-
-### Performance issues
-
 
 ### Performance issues
 

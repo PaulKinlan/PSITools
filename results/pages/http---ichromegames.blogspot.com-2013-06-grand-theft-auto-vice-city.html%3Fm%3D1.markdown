@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ichromegames.blogspot.com/2013/06/grand-theft-auto-vice-city.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [ichromegames: Grand Theft Auto: Vice City](http://ichromegames.blogspot.com/2013/06/grand-theft-auto-vice-city.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://ichromegames.blogspot.com/2013/06/grand-theft-auto-vice-city.html?
 *  JS Response Bytes: 1067632
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98008
-
-### Performance issues
-
 
 ### Performance issues
 

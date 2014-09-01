@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.titolocanzone.it/?GWS
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Titolo Canzone: Trova il titolo delle tue canzoni preferite](http://www.titolocanzone.it/?GWS)
 
@@ -29,9 +32,6 @@ title: http://www.titolocanzone.it/?GWS
 *  JS Response Bytes: 320545
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

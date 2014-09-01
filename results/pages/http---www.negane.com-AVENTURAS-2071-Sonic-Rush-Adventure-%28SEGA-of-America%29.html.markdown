@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.negane.com/AVENTURAS/2071/Sonic-Rush-Adventure-(SEGA-of-America).html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sonic Rush Adventure (SEGA of America) - NeGaNe.com](http://www.negane.com/AVENTURAS/2071/Sonic-Rush-Adventure-(SEGA-of-America).html)
 
@@ -29,9 +35,6 @@ title: http://www.negane.com/AVENTURAS/2071/Sonic-Rush-Adventure-(SEGA-of-Americ
 *  JS Response Bytes: 1653373
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113578
-
-### Performance issues
-
 
 ### Performance issues
 

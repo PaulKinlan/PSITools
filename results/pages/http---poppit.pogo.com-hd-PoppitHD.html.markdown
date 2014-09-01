@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://poppit.pogo.com/hd/PoppitHD.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Poppit | Free Pogo Games](http://poppit.pogo.com/hd/PoppitHD.html)
 
@@ -29,9 +32,6 @@ title: http://poppit.pogo.com/hd/PoppitHD.html
 *  JS Response Bytes: 233716
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

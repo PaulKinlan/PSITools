@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.paleoeffect.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Paleo Effect | Grain Free, Dairy Free Paleo Recipes for a healthy Lifestyle!](http://www.paleoeffect.com/)
 
@@ -29,9 +33,6 @@ title: http://www.paleoeffect.com/
 *  JS Response Bytes: 615989
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98559
-
-### Performance issues
-
 
 ### Performance issues
 

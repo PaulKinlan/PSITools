@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.aberavonwizards.co.uk/Error/PageNotFound?aspxerrorpath=/fixturesResults.htm
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Error 404 | Aberavon Wizards RFC](http://www.aberavonwizards.co.uk/Error/PageNotFound?aspxerrorpath=/fixturesResults.htm)
 
@@ -29,9 +33,6 @@ title: http://www.aberavonwizards.co.uk/Error/PageNotFound?aspxerrorpath=/fixtur
 *  JS Response Bytes: 249013
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 131264
-
-### Performance issues
-
 
 ### Performance issues
 

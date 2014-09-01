@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.acnenomas.com/Acne-Spanish.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Acné No Más de Mike Walden - Cure Su Acné Holísticamente](http://www.acnenomas.com/Acne-Spanish.html)
 
@@ -29,9 +35,6 @@ title: http://www.acnenomas.com/Acne-Spanish.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1908
-
-### Performance issues
-
 
 ### Performance issues
 

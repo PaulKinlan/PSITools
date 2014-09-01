@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://dapurmasak.com/?ref=chrome_web_app
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DapurMasak - Tempat No. 1 untuk menyimpan resep masakan kamu](http://dapurmasak.com/?ref=chrome_web_app)
 
@@ -29,9 +31,6 @@ title: http://dapurmasak.com/?ref=chrome_web_app
 *  JS Response Bytes: 165113
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

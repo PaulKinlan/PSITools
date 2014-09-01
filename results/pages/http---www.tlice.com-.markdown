@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tlice.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Photo Puzzle Game - Tlice](http://www.tlice.com/)
 
@@ -29,9 +32,6 @@ title: http://www.tlice.com/
 *  JS Response Bytes: 1244266
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51725
-
-### Performance issues
-
 
 ### Performance issues
 

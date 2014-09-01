@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.tipoyun.com/oyun/candy-crush-saga.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Candy Crush Saga - Zeka Oyunları](http://www.tipoyun.com/oyun/candy-crush-saga.html)
 
@@ -29,9 +35,6 @@ title: http://www.tipoyun.com/oyun/candy-crush-saga.html
 *  JS Response Bytes: 1865807
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3470
-
-### Performance issues
-
 
 ### Performance issues
 

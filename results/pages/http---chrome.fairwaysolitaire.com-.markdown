@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chrome.fairwaysolitaire.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fairway Solitaire Chrome](http://chrome.fairwaysolitaire.com/)
 
@@ -29,9 +33,6 @@ title: http://chrome.fairwaysolitaire.com/
 *  JS Response Bytes: 847606
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96660
-
-### Performance issues
-
 
 ### Performance issues
 

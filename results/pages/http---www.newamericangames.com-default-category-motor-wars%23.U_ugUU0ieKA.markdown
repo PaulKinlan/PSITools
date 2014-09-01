@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.newamericangames.com/default-category/motor-wars#.U_ugUU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Motor Wars - New American Games](http://www.newamericangames.com/default-category/motor-wars#.U_ugUU0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.newamericangames.com/default-category/motor-wars#.U_ugUU0ieKA
 *  JS Response Bytes: 1683371
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 134111
-
-### Performance issues
-
 
 ### Performance issues
 

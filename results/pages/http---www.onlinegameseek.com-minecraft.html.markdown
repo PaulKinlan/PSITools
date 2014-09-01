@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.onlinegameseek.com/minecraft.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MineCraft | Online Game Seek](http://www.onlinegameseek.com/minecraft.html)
 
@@ -29,9 +34,6 @@ title: http://www.onlinegameseek.com/minecraft.html
 *  JS Response Bytes: 2075501
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 129563
-
-### Performance issues
-
 
 ### Performance issues
 

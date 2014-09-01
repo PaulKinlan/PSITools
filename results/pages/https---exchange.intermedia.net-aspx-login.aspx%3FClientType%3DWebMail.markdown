@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://exchange.intermedia.net/aspx/login.aspx?ClientType=WebMail
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login](https://exchange.intermedia.net/aspx/login.aspx?ClientType=WebMail)
 
@@ -29,9 +33,6 @@ title: https://exchange.intermedia.net/aspx/login.aspx?ClientType=WebMail
 *  JS Response Bytes: 561537
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1363
-
-### Performance issues
-
 
 ### Performance issues
 

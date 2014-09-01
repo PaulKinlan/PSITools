@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://shojisworks.com/apps/earthclock/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Earth Clock](http://shojisworks.com/apps/earthclock/)
 
@@ -29,9 +34,6 @@ title: http://shojisworks.com/apps/earthclock/
 *  JS Response Bytes: 1811097
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

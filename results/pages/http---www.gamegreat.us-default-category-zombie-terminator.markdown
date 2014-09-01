@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamegreat.us/default-category/zombie-terminator
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombie Terminator - Game Great](http://www.gamegreat.us/default-category/zombie-terminator)
 
@@ -29,9 +34,6 @@ title: http://www.gamegreat.us/default-category/zombie-terminator
 *  JS Response Bytes: 1847389
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99016
-
-### Performance issues
-
 
 ### Performance issues
 

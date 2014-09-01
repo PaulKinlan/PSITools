@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesgator.info/motor-wars/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Motor Wars](http://www.gamesgator.info/motor-wars/)
 
@@ -29,9 +34,6 @@ title: http://www.gamesgator.info/motor-wars/
 *  JS Response Bytes: 1880159
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 67423
-
-### Performance issues
-
 
 ### Performance issues
 

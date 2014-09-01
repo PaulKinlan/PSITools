@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.funygames24.com/action/saloon-brawl-2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Saloon Brawl 2 - funygames24](http://www.funygames24.com/action/saloon-brawl-2)
 
@@ -29,9 +34,6 @@ title: http://www.funygames24.com/action/saloon-brawl-2
 *  JS Response Bytes: 3219451
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 142662
-
-### Performance issues
-
 
 ### Performance issues
 

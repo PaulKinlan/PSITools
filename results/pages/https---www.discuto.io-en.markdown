@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.discuto.io/en
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Improve decision making through document discussion and participation | Discuto](https://www.discuto.io/en)
 
@@ -29,9 +34,6 @@ title: https://www.discuto.io/en
 *  JS Response Bytes: 809892
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47259
-
-### Performance issues
-
 
 ### Performance issues
 

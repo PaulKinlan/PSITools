@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tyrannosaurusprep.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Home | Tyrannosaurus Prep](http://www.tyrannosaurusprep.com/)
 
@@ -29,9 +32,6 @@ title: http://www.tyrannosaurusprep.com/
 *  JS Response Bytes: 1107364
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95810
-
-### Performance issues
-
 
 ### Performance issues
 

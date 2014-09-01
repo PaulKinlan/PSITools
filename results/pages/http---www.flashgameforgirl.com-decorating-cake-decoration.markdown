@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.flashgameforgirl.com/decorating/cake-decoration
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cake Decoration - Flash Game For Girl](http://www.flashgameforgirl.com/decorating/cake-decoration)
 
@@ -29,9 +33,6 @@ title: http://www.flashgameforgirl.com/decorating/cake-decoration
 *  JS Response Bytes: 2032612
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 133156
-
-### Performance issues
-
 
 ### Performance issues
 

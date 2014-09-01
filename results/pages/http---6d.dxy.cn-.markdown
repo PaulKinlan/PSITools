@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://6d.dxy.cn/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [丁香六度_丁香园](http://6d.dxy.cn/)
 
@@ -29,9 +31,6 @@ title: http://6d.dxy.cn/
 *  JS Response Bytes: 452531
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 455
-
-### Performance issues
-
 
 ### Performance issues
 

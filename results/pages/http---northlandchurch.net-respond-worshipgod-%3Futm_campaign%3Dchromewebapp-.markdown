@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://northlandchurch.net/respond/worshipgod/?utm_campaign=chromewebapp/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Northland, A Church Distributed](http://northlandchurch.net/respond/worshipgod/?utm_campaign=chromewebapp/)
 
@@ -29,9 +33,6 @@ title: http://northlandchurch.net/respond/worshipgod/?utm_campaign=chromewebapp/
 *  JS Response Bytes: 1020870
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 640
-
-### Performance issues
-
 
 ### Performance issues
 

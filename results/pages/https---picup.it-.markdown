@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://picup.it/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [PicUp - Simple and Easy Pictures upload and sharing, Free image hosting platform](https://picup.it/)
 
@@ -29,9 +32,6 @@ title: https://picup.it/
 *  JS Response Bytes: 277152
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

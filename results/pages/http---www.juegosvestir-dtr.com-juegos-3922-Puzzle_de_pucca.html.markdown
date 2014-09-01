@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.juegosvestir-dtr.com/juegos/3922/Puzzle_de_pucca.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Juegos de Puzzle de pucca gratis](http://www.juegosvestir-dtr.com/juegos/3922/Puzzle_de_pucca.html)
 
@@ -29,9 +35,6 @@ title: http://www.juegosvestir-dtr.com/juegos/3922/Puzzle_de_pucca.html
 *  JS Response Bytes: 1482283
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96044
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://age-of-conan.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Age of Conan Unchained Online](http://age-of-conan.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://age-of-conan.appspot.com/
 *  JS Response Bytes: 943991
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39211
-
-### Performance issues
-
 
 ### Performance issues
 

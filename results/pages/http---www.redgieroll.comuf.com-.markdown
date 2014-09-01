@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.redgieroll.comuf.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [RedgieRoll](http://www.redgieroll.comuf.com/)
 
@@ -29,9 +35,6 @@ title: http://www.redgieroll.comuf.com/
 *  JS Response Bytes: 1186929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95778
-
-### Performance issues
-
 
 ### Performance issues
 

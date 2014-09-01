@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chromecoaster.com/puzzle/tower-bloxx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Tower Bloxx - Kill Your Boring Times](http://www.chromecoaster.com/puzzle/tower-bloxx)
 
@@ -29,9 +35,6 @@ title: http://www.chromecoaster.com/puzzle/tower-bloxx
 *  JS Response Bytes: 628048
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2306
-
-### Performance issues
-
 
 ### Performance issues
 

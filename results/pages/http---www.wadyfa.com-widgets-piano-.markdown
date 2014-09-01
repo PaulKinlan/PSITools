@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.wadyfa.com/widgets/piano/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Wadyfa Online Piano](http://www.wadyfa.com/widgets/piano/)
 
@@ -29,9 +33,6 @@ title: http://www.wadyfa.com/widgets/piano/
 *  JS Response Bytes: 589222
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15143
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://m.funnygames.biz/?gameid=20223&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=hummer_limo_parking
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funnygames.biz/?gameid=20223&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=hummer_limo_parking)
 
@@ -29,9 +34,6 @@ title: http://m.funnygames.biz/?gameid=20223&utm_source=cws&utm_medium=app&utm_c
 *  JS Response Bytes: 1265759
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28431
-
-### Performance issues
-
 
 ### Performance issues
 

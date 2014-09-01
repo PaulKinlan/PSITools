@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/casino/forty-thieves-solitaire-gold
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Forty Thieves Solitaire Gold - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/casino/forty-thieves-solitaire-gold)
 
@@ -29,9 +36,6 @@ title: http://www.gamesvarious.com/casino/forty-thieves-solitaire-gold
 *  JS Response Bytes: 2160881
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99901
-
-### Performance issues
-
 
 ### Performance issues
 

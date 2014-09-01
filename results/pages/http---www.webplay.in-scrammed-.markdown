@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.webplay.in/scrammed/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Scrammed! - an online game mixing Qwirkle, Scrabble and Sudoku](http://www.webplay.in/scrammed/)
 
@@ -29,9 +33,6 @@ title: http://www.webplay.in/scrammed/
 *  JS Response Bytes: 550951
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

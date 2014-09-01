@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://search.motherpipe.com/mobile/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Be anonymous. Be private. Search with Motherpipe.](https://search.motherpipe.com/mobile/)
 
@@ -29,9 +32,6 @@ title: https://search.motherpipe.com/mobile/
 *  JS Response Bytes: 704735
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5737
-
-### Performance issues
-
 
 ### Performance issues
 

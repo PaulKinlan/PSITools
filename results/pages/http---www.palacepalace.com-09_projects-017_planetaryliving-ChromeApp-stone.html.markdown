@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.palacepalace.com/09_projects/017_planetaryliving/ChromeApp/stone.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [](http://www.palacepalace.com/09_projects/017_planetaryliving/ChromeApp/stone.html)
 
@@ -29,9 +32,6 @@ title: http://www.palacepalace.com/09_projects/017_planetaryliving/ChromeApp/sto
 *  JS Response Bytes: 198157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

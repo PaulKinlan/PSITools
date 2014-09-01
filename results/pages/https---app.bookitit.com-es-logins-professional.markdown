@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://app.bookitit.com/es/logins/professional
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [.:: BOOKITIT ::.](https://app.bookitit.com/es/logins/professional)
 
@@ -29,9 +33,6 @@ title: https://app.bookitit.com/es/logins/professional
 *  JS Response Bytes: 174478
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

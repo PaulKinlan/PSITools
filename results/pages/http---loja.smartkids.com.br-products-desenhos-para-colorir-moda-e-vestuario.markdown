@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://loja.smartkids.com.br/products/desenhos-para-colorir-moda-e-vestuario
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Jogos Educativos, Desenhos para colorir e pintar, Educação infantil - Smartkids](http://loja.smartkids.com.br/products/desenhos-para-colorir-moda-e-vestuario)
 
@@ -29,9 +32,6 @@ title: http://loja.smartkids.com.br/products/desenhos-para-colorir-moda-e-vestua
 *  JS Response Bytes: 940817
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59442
-
-### Performance issues
-
 
 ### Performance issues
 

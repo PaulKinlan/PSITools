@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.sevgames.biz/?s=Running+Fred
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Running Fred – Search Results – Online Best Games](http://www.sevgames.biz/?s=Running+Fred)
 
@@ -29,9 +36,6 @@ title: http://www.sevgames.biz/?s=Running+Fred
 *  JS Response Bytes: 671640
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16710
-
-### Performance issues
-
 
 ### Performance issues
 

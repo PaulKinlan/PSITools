@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://vocabking.com/GRE-Vocabulary-Game
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play the GRE Vocabulary Game |VocabKing.com](http://vocabking.com/GRE-Vocabulary-Game)
 
@@ -29,9 +32,6 @@ title: http://vocabking.com/GRE-Vocabulary-Game
 *  JS Response Bytes: 955645
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25223
-
-### Performance issues
-
 
 ### Performance issues
 

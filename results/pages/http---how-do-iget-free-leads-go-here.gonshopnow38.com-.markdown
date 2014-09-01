@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://how-do-iget-free-leads-go-here.gonshopnow38.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Power Lead System](http://how-do-iget-free-leads-go-here.gonshopnow38.com/)
 
@@ -29,9 +35,6 @@ title: http://how-do-iget-free-leads-go-here.gonshopnow38.com/
 *  JS Response Bytes: 1230249
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32457
-
-### Performance issues
-
 
 ### Performance issues
 

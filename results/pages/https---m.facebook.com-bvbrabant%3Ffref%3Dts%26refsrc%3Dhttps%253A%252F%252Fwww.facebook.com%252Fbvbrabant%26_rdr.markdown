@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://m.facebook.com/bvbrabant?fref=ts&refsrc=https%3A%2F%2Fwww.facebook.com%2Fbvbrabant&_rdr
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [BV Brabant](https://m.facebook.com/bvbrabant?fref=ts&refsrc=https%3A%2F%2Fwww.facebook.com%2Fbvbrabant&_rdr)
 
@@ -29,9 +33,6 @@ title: https://m.facebook.com/bvbrabant?fref=ts&refsrc=https%3A%2F%2Fwww.faceboo
 *  JS Response Bytes: 437395
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1188
-
-### Performance issues
-
 
 ### Performance issues
 

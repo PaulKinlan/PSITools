@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chrome-x.blogspot.com.tr/2014/03/counter-strike.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Chrome Best Game And Aplication: counter strike](http://chrome-x.blogspot.com.tr/2014/03/counter-strike.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chrome-x.blogspot.com.tr/2014/03/counter-strike.html?m=1
 *  JS Response Bytes: 770114
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95582
-
-### Performance issues
-
 
 ### Performance issues
 

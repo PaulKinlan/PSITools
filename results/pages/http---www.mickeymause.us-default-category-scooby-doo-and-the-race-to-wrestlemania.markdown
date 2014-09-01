@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.mickeymause.us/default-category/scooby-doo-and-the-race-to-wrestlemania
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Scooby Doo and The Race to Wrestlemania - Mickey Mause](http://www.mickeymause.us/default-category/scooby-doo-and-the-race-to-wrestlemania)
 
@@ -29,9 +35,6 @@ title: http://www.mickeymause.us/default-category/scooby-doo-and-the-race-to-wre
 *  JS Response Bytes: 2187199
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98349
-
-### Performance issues
-
 
 ### Performance issues
 

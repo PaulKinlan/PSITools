@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.topwebapplication.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [topwebapplication.com](http://www.topwebapplication.com/)
 
@@ -18,20 +19,17 @@ title: http://www.topwebapplication.com/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 7
-*  Total Request Bytes: 4450
+*  Total Request Bytes: 4448
 
 ### Response data
 
-*  HTML Response Bytes: 82689
+*  HTML Response Bytes: 73258
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 9784
 *  Image Response Bytes: 2986
-*  JS Response Bytes: 229840
+*  JS Response Bytes: 229920
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 20813
-
-### Performance issues
-
+*  Other Response Bytes: 20814
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.vaughanclassroom.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Curso de Inglés Online Richard Vaughan - Vaughan Classroom](http://www.vaughanclassroom.com/)
 
@@ -29,9 +34,6 @@ title: http://www.vaughanclassroom.com/
 *  JS Response Bytes: 449985
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 69687
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.rtvnoord.nl/mobiel/i/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Home - Mobiel - RTVNoord.nl](http://www.rtvnoord.nl/mobiel/i/)
 
@@ -29,9 +35,6 @@ title: http://www.rtvnoord.nl/mobiel/i/
 *  JS Response Bytes: 555745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1741
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.lumarnia.com/index_game.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lumarnia: nature sorcerers](http://www.lumarnia.com/index_game.html)
 
@@ -29,9 +34,6 @@ title: http://www.lumarnia.com/index_game.html
 *  JS Response Bytes: 509460
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4336
-
-### Performance issues
-
 
 ### Performance issues
 

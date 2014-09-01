@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.downloadbox.us/kik-messenger/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [kik messenger | Download Box](http://www.downloadbox.us/kik-messenger/)
 
@@ -29,9 +32,6 @@ title: http://www.downloadbox.us/kik-messenger/
 *  JS Response Bytes: 939574
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 240259
-
-### Performance issues
-
 
 ### Performance issues
 

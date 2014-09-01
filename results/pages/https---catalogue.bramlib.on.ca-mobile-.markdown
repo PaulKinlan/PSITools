@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://catalogue.bramlib.on.ca/mobile/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Home - Brampton Library](https://catalogue.bramlib.on.ca/mobile/)
 
@@ -29,9 +32,6 @@ title: https://catalogue.bramlib.on.ca/mobile/
 *  JS Response Bytes: 66876
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1548
-
-### Performance issues
-
 
 ### Performance issues
 

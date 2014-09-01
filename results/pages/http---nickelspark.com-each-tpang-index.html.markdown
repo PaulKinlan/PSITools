@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://nickelspark.com/each/tpang/index.html
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Chrismas Twinkle Pang](http://nickelspark.com/each/tpang/index.html)
 
@@ -29,9 +31,6 @@ title: http://nickelspark.com/each/tpang/index.html
 *  JS Response Bytes: 485533
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gametop.com/online-free-games/party-van-madness-online/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Party Van Madness Free Online Game](http://www.gametop.com/online-free-games/party-van-madness-online/)
 
@@ -29,9 +34,6 @@ title: http://www.gametop.com/online-free-games/party-van-madness-online/
 *  JS Response Bytes: 586216
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

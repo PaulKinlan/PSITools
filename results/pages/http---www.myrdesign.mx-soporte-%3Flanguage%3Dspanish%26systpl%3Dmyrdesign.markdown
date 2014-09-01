@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.myrdesign.mx/soporte/?language=spanish&systpl=myrdesign
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Administración - Myrdesign](http://www.myrdesign.mx/soporte/?language=spanish&systpl=myrdesign)
 
@@ -29,9 +31,6 @@ title: http://www.myrdesign.mx/soporte/?language=spanish&systpl=myrdesign
 *  JS Response Bytes: 1059499
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 523
-
-### Performance issues
-
 
 ### Performance issues
 

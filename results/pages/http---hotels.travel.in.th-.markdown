@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://hotels.travel.in.th/
+UseLegibleFontSizes: true
 ---
 ## [403 Forbidden](http://hotels.travel.in.th/)
 
@@ -29,9 +30,6 @@ title: http://hotels.travel.in.th/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 573
-
-### Performance issues
-
 
 ### Performance issues
 

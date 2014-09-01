@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.adcore.com/?utm_source=Podium&utm_medium=web&utm_campaign=Chrome_App_BUSINESS
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [AdWords Software | adCore](https://www.adcore.com/?utm_source=Podium&utm_medium=web&utm_campaign=Chrome_App_BUSINESS)
 
@@ -29,9 +33,6 @@ title: https://www.adcore.com/?utm_source=Podium&utm_medium=web&utm_campaign=Chr
 *  JS Response Bytes: 2080837
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 483667
-
-### Performance issues
-
 
 ### Performance issues
 

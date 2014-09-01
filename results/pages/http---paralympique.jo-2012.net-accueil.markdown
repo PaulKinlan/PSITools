@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://paralympique.jo-2012.net/accueil
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jeux Paralympiques 2012 - Actualité, Calendrier, Résultats, Médailles, Stades](http://paralympique.jo-2012.net/accueil)
 
@@ -29,9 +33,6 @@ title: http://paralympique.jo-2012.net/accueil
 *  JS Response Bytes: 1803683
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 303421
-
-### Performance issues
-
 
 ### Performance issues
 

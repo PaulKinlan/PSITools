@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.nysus.net/home/default.asp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nysus Solutions](http://www.nysus.net/home/default.asp)
 
@@ -29,9 +33,6 @@ title: http://www.nysus.net/home/default.asp
 *  JS Response Bytes: 206830
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://app.saleslifecycle.com/Account/Login?ReturnUrl=%2F
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login to your Account](https://app.saleslifecycle.com/Account/Login?ReturnUrl=%2F)
 
@@ -29,9 +33,6 @@ title: https://app.saleslifecycle.com/Account/Login?ReturnUrl=%2F
 *  JS Response Bytes: 95294
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 886
-
-### Performance issues
-
 
 ### Performance issues
 

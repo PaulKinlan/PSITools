@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bhawanigarg.com/fb_gif/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Facebook Gif Poster](http://bhawanigarg.com/fb_gif/)
 
@@ -29,9 +32,6 @@ title: http://bhawanigarg.com/fb_gif/
 *  JS Response Bytes: 277881
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46667
-
-### Performance issues
-
 
 ### Performance issues
 

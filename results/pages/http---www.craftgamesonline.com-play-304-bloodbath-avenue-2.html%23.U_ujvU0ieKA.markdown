@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.craftgamesonline.com/play/304/bloodbath-avenue-2.html#.U_ujvU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bloodbath Avenue 2 - Craft Games Online](http://www.craftgamesonline.com/play/304/bloodbath-avenue-2.html#.U_ujvU0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.craftgamesonline.com/play/304/bloodbath-avenue-2.html#.U_ujvU0
 *  JS Response Bytes: 1495155
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28812
-
-### Performance issues
-
 
 ### Performance issues
 

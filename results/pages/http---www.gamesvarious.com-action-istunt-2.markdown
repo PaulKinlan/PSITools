@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/action/istunt-2
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [iStunt 2 - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/action/istunt-2)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/action/istunt-2
 *  JS Response Bytes: 2180489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106365
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.match.com/cpx/en-us/mobile/IndexPage/?trackingid=526484&bannerid=710307
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Match.com® | The Leading Online Dating Site for Singles & Personals](http://www.match.com/cpx/en-us/mobile/IndexPage/?trackingid=526484&bannerid=710307)
 
@@ -29,9 +31,6 @@ title: http://www.match.com/cpx/en-us/mobile/IndexPage/?trackingid=526484&banner
 *  JS Response Bytes: 233353
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 207
-
-### Performance issues
-
 
 ### Performance issues
 

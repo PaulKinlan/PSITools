@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.arobs.ro/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Solutii IT si software la comanda pentru succesul tau.: Arobs Transilvania Software](http://www.arobs.ro/)
 
@@ -29,9 +35,6 @@ title: http://www.arobs.ro/
 *  JS Response Bytes: 1807117
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104500
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://app.apps-builder.com//522077#bmb=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Snowboard Colorado](http://app.apps-builder.com//522077#bmb=1)
 
@@ -29,9 +32,6 @@ title: http://app.apps-builder.com//522077#bmb=1
 *  JS Response Bytes: 1096521
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9625
-
-### Performance issues
-
 
 ### Performance issues
 

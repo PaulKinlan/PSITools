@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.thegame99.com/default-category/darkman-fight
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Darkman Fight - AV Arcade](http://www.thegame99.com/default-category/darkman-fight)
 
@@ -29,9 +35,6 @@ title: http://www.thegame99.com/default-category/darkman-fight
 *  JS Response Bytes: 2213953
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98350
-
-### Performance issues
-
 
 ### Performance issues
 

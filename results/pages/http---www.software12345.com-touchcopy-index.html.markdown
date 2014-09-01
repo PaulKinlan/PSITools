@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.software12345.com/touchcopy/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [How to transfer music from iPod to iTunes, Transfer Music from iPhone to iTunes](http://www.software12345.com/touchcopy/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.software12345.com/touchcopy/index.html
 *  JS Response Bytes: 935857
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109057
-
-### Performance issues
-
 
 ### Performance issues
 

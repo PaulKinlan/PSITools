@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gamesgirlsgames.com/game-for-girls
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Game For Girls | Girls Games and Play Girl Games More Games Games](http://www.gamesgirlsgames.com/game-for-girls)
 
@@ -29,9 +32,6 @@ title: http://www.gamesgirlsgames.com/game-for-girls
 *  JS Response Bytes: 1224362
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23932
-
-### Performance issues
-
 
 ### Performance issues
 

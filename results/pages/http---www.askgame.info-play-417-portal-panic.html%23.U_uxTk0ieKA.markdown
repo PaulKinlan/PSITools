@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.askgame.info/play/417/portal-panic.html#.U_uxTk0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Portal Panic - Ask Game - Best Free Online Flash Games](http://www.askgame.info/play/417/portal-panic.html#.U_uxTk0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.askgame.info/play/417/portal-panic.html#.U_uxTk0ieKA
 *  JS Response Bytes: 1700706
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42436
-
-### Performance issues
-
 
 ### Performance issues
 

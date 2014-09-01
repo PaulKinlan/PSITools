@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ilike888.com/translatorjobs/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Find Translator Jobs 2013](http://www.ilike888.com/translatorjobs/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.ilike888.com/translatorjobs/index.html
 *  JS Response Bytes: 911332
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96717
-
-### Performance issues
-
 
 ### Performance issues
 

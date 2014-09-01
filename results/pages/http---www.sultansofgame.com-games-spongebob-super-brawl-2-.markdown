@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/spongebob-super-brawl-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play SpongeBob Super Brawl 2 Game — Sultans of Game](http://www.sultansofgame.com/games/spongebob-super-brawl-2/)
 
@@ -29,9 +33,6 @@ title: http://www.sultansofgame.com/games/spongebob-super-brawl-2/
 *  JS Response Bytes: 1479794
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125566
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.keep-cash-flowing.com/traderush-app/
+SizeContentToViewport: true
 ---
 ## [Traderush | Keep Cash Flowing](http://www.keep-cash-flowing.com/traderush-app/)
 
@@ -29,9 +30,6 @@ title: http://www.keep-cash-flowing.com/traderush-app/
 *  JS Response Bytes: 304225
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

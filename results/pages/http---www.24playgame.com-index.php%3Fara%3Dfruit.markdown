@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.24playgame.com/index.php?ara=fruit
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [fruit | Play Games free play the best games](http://www.24playgame.com/index.php?ara=fruit)
 
@@ -29,9 +33,6 @@ title: http://www.24playgame.com/index.php?ara=fruit
 *  JS Response Bytes: 660800
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://xiuxiu.web.meitu.com/main.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [美图秀秀网页版 官方网站_在线制作图片及图片处理工具](http://xiuxiu.web.meitu.com/main.html)
 
@@ -29,9 +33,6 @@ title: http://xiuxiu.web.meitu.com/main.html
 *  JS Response Bytes: 63863
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1290
-
-### Performance issues
-
 
 ### Performance issues
 

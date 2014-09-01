@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mypiratemirror.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Pirate Bay Proxy - Download music, movies, games, software! The Pirate Bay - The galaxy's most resilient BitTorrent site](http://mypiratemirror.com/)
 
@@ -29,9 +33,6 @@ title: http://mypiratemirror.com/
 *  JS Response Bytes: 308068
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1645
-
-### Performance issues
-
 
 ### Performance issues
 

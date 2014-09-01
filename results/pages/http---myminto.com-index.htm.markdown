@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://myminto.com/index.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MyMinto - Free Merch Store For Bands, Sell Digital Downloads, Mobile Shopping Cart, Free Online Store](http://myminto.com/index.htm)
 
@@ -29,9 +33,6 @@ title: http://myminto.com/index.htm
 *  JS Response Bytes: 1256589
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105164
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeshopgames.com/sports/3d-ferrari-f458#.U_ua-E0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Ferrari F458 - Free Shop Games](http://www.freeshopgames.com/sports/3d-ferrari-f458#.U_ua-E0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.freeshopgames.com/sports/3d-ferrari-f458#.U_ua-E0ieKA
 *  JS Response Bytes: 2273916
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16460
-
-### Performance issues
-
 
 ### Performance issues
 

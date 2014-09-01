@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://promoterr.com/entertainment/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Entertainment and Music Videos Delivered Daily](http://promoterr.com/entertainment/)
 
@@ -29,9 +31,6 @@ title: http://promoterr.com/entertainment/
 *  JS Response Bytes: 1106473
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 913
-
-### Performance issues
-
 
 ### Performance issues
 

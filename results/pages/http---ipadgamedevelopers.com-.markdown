@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ipadgamedevelopers.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ipadgamedevelopers.com](http://ipadgamedevelopers.com/)
 
@@ -29,9 +31,6 @@ title: http://ipadgamedevelopers.com/
 *  JS Response Bytes: 167774
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

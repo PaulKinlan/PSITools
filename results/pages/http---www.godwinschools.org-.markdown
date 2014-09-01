@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.godwinschools.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Godwin Heights Public Schools](http://www.godwinschools.org/)
 
@@ -29,9 +33,6 @@ title: http://www.godwinschools.org/
 *  JS Response Bytes: 597788
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1113
-
-### Performance issues
-
 
 ### Performance issues
 

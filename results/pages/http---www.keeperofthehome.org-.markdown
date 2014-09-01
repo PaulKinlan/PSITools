@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.keeperofthehome.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Keeper of the Home - Naturally inspired living for homemakers](http://www.keeperofthehome.org/)
 
@@ -29,9 +34,6 @@ title: http://www.keeperofthehome.org/
 *  JS Response Bytes: 1550942
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 38513
-
-### Performance issues
-
 
 ### Performance issues
 

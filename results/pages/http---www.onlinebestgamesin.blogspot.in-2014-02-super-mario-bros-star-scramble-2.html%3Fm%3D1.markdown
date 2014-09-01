@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.onlinebestgamesin.blogspot.in/2014/02/super-mario-bros-star-scramble-2.html?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Online Best Games: Super Mario Bros Star Scramble 2](http://www.onlinebestgamesin.blogspot.in/2014/02/super-mario-bros-star-scramble-2.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://www.onlinebestgamesin.blogspot.in/2014/02/super-mario-bros-star-sc
 *  JS Response Bytes: 610762
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95632
-
-### Performance issues
-
 
 ### Performance issues
 

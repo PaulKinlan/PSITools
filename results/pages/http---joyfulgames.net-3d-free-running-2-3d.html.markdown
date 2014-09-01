@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://joyfulgames.net/3d/free-running-2-3d.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Running 2 3D - Best Free Online Games | JoyfulGames.net - http://joyfulgames.net](http://joyfulgames.net/3d/free-running-2-3d.html)
 
@@ -29,9 +33,6 @@ title: http://joyfulgames.net/3d/free-running-2-3d.html
 *  JS Response Bytes: 3176335
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141733
-
-### Performance issues
-
 
 ### Performance issues
 

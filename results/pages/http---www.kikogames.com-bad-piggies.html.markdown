@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kikogames.com/bad-piggies.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bad Piggies | Kiko Games](http://www.kikogames.com/bad-piggies.html)
 
@@ -29,9 +34,6 @@ title: http://www.kikogames.com/bad-piggies.html
 *  JS Response Bytes: 1543923
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103630
-
-### Performance issues
-
 
 ### Performance issues
 

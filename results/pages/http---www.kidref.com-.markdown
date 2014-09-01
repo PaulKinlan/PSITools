@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.kidref.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [KidRef](http://www.kidref.com/)
 
@@ -29,9 +33,6 @@ title: http://www.kidref.com/
 *  JS Response Bytes: 1142837
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6837
-
-### Performance issues
-
 
 ### Performance issues
 

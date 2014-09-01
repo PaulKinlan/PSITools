@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.chrome-games-new-99.blogspot.com/2014/01/running-fred.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Games: Running Fred](http://www.chrome-games-new-99.blogspot.com/2014/01/running-fred.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://www.chrome-games-new-99.blogspot.com/2014/01/running-fred.html?m=1
 *  JS Response Bytes: 1471442
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96737
-
-### Performance issues
-
 
 ### Performance issues
 

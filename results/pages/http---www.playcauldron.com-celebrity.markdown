@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.playcauldron.com/celebrity
+MinimizeRenderBlockingResources: true
 ---
 ## [Celebrity! - a Cauldron Studios game](http://www.playcauldron.com/celebrity)
 
@@ -29,9 +30,6 @@ title: http://www.playcauldron.com/celebrity
 *  JS Response Bytes: 88593
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

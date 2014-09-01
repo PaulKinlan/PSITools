@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.aniguay.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gifs animados graciosos mejores para compartir](http://www.aniguay.com/)
 
@@ -29,9 +34,6 @@ title: http://www.aniguay.com/
 *  JS Response Bytes: 234208
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8443
-
-### Performance issues
-
 
 ### Performance issues
 

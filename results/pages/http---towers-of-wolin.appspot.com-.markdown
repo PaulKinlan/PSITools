@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://towers-of-wolin.appspot.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Towers of Wolin](http://towers-of-wolin.appspot.com/)
 
@@ -29,9 +35,6 @@ title: http://towers-of-wolin.appspot.com/
 *  JS Response Bytes: 872961
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.hitingame.com/online-games/uphill-rush-4/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Uphill Rush 4 « Online Flash Games – Popular Flash Games](http://www.hitingame.com/online-games/uphill-rush-4/)
 
@@ -29,9 +35,6 @@ title: http://www.hitingame.com/online-games/uphill-rush-4/
 *  JS Response Bytes: 1035687
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18021
-
-### Performance issues
-
 
 ### Performance issues
 

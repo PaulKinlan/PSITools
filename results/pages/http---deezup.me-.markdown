@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://deezup.me/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DeezUp - Make sure your event hits the right notes](http://deezup.me/)
 
@@ -29,9 +32,6 @@ title: http://deezup.me/
 *  JS Response Bytes: 2640792
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98627
-
-### Performance issues
-
 
 ### Performance issues
 

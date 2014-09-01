@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://patriot.buzzadoo.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [EMPOWERED PATRIOT](http://patriot.buzzadoo.com/)
 
@@ -29,9 +33,6 @@ title: http://patriot.buzzadoo.com/
 *  JS Response Bytes: 85999
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 907
-
-### Performance issues
-
 
 ### Performance issues
 

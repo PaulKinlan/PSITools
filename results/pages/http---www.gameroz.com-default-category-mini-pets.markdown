@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gameroz.com/default-category/mini-pets
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mini Pets - Gameroz.com](http://www.gameroz.com/default-category/mini-pets)
 
@@ -29,9 +33,6 @@ title: http://www.gameroz.com/default-category/mini-pets
 *  JS Response Bytes: 3341770
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 158873
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://landofpixels.com/games/castlecapers/game.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://landofpixels.com/games/castlecapers/game.html)
 
@@ -29,9 +31,6 @@ title: http://landofpixels.com/games/castlecapers/game.html
 *  JS Response Bytes: 443372
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

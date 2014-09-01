@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://promoterr.com/hiphoprb/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Hip Hop, Rap and R&B Music Videos Delivered Daily](http://promoterr.com/hiphoprb/)
 
@@ -29,9 +31,6 @@ title: http://promoterr.com/hiphoprb/
 *  JS Response Bytes: 1106553
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 913
-
-### Performance issues
-
 
 ### Performance issues
 

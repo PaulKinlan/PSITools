@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://authoralcove.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Discover your new favorite book | Author Alcove](http://authoralcove.com/)
 
@@ -29,9 +33,6 @@ title: http://authoralcove.com/
 *  JS Response Bytes: 147945
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97955
-
-### Performance issues
-
 
 ### Performance issues
 

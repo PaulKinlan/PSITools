@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ring.sizeconversion.net/ring
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ring Size Conversion](http://ring.sizeconversion.net/ring)
 
@@ -29,9 +32,6 @@ title: http://ring.sizeconversion.net/ring
 *  JS Response Bytes: 268341
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.richmondcrystal.co.uk/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Richmond Crystal](http://www.richmondcrystal.co.uk/)
 
@@ -29,9 +31,6 @@ title: http://www.richmondcrystal.co.uk/
 *  JS Response Bytes: 337450
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

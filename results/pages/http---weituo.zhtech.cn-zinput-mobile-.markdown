@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://weituo.zhtech.cn/zinput/mobile/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [检测套餐分类-检验检疫行业第一门户](http://weituo.zhtech.cn/zinput/mobile/)
 
@@ -29,9 +32,6 @@ title: http://weituo.zhtech.cn/zinput/mobile/
 *  JS Response Bytes: 551164
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 206
-
-### Performance issues
-
 
 ### Performance issues
 

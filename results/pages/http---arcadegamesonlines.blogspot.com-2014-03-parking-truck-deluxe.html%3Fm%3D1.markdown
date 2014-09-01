@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://arcadegamesonlines.blogspot.com/2014/03/parking-truck-deluxe.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [games: Parking Truck Deluxe](http://arcadegamesonlines.blogspot.com/2014/03/parking-truck-deluxe.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://arcadegamesonlines.blogspot.com/2014/03/parking-truck-deluxe.html?
 *  JS Response Bytes: 1375861
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287181
-
-### Performance issues
-
 
 ### Performance issues
 

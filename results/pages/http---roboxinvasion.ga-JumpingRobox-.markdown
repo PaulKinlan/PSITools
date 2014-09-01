@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://roboxinvasion.ga/JumpingRobox/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://roboxinvasion.ga/JumpingRobox/)
 
@@ -29,9 +33,6 @@ title: http://roboxinvasion.ga/JumpingRobox/
 *  JS Response Bytes: 1191443
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 728074
-
-### Performance issues
-
 
 ### Performance issues
 

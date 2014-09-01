@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://medilon.ru/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ООО "Медилон-Фармимэкс" Продажа медикаментов оптом, заказ медикаментов, поставки медикаментов](http://medilon.ru/)
 
@@ -29,9 +32,6 @@ title: http://medilon.ru/
 *  JS Response Bytes: 422355
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1820
-
-### Performance issues
-
 
 ### Performance issues
 

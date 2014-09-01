@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ausdroid.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ausdroid — The hardest working guys in Android](http://ausdroid.net/)
 
@@ -29,9 +32,6 @@ title: http://ausdroid.net/
 *  JS Response Bytes: 1939056
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52170
-
-### Performance issues
-
 
 ### Performance issues
 

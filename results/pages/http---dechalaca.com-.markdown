@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://dechalaca.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [De Chalaca | Fútbol para el que la conoce](http://dechalaca.com/)
 
@@ -29,9 +32,6 @@ title: http://dechalaca.com/
 *  JS Response Bytes: 1456786
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 126132
-
-### Performance issues
-
 
 ### Performance issues
 

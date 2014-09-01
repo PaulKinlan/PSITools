@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://cssgames.com/temple-run-oz.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CSSGames.Com – Temple Run OZ](http://cssgames.com/temple-run-oz.html)
 
@@ -29,9 +35,6 @@ title: http://cssgames.com/temple-run-oz.html
 *  JS Response Bytes: 413248
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 802
-
-### Performance issues
-
 
 ### Performance issues
 

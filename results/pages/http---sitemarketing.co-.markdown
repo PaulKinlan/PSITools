@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://sitemarketing.co/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Site Marketing](http://sitemarketing.co/)
 
@@ -29,9 +33,6 @@ title: http://sitemarketing.co/
 *  JS Response Bytes: 123848
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

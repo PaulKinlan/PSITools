@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromeapp1.phper.jp/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Apache HTTP Server Test Page powered by CentOS](http://chromeapp1.phper.jp/)
 
@@ -29,9 +31,6 @@ title: http://chromeapp1.phper.jp/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5261
-
-### Performance issues
-
 
 ### Performance issues
 

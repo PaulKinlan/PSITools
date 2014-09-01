@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/roll-the-ball/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Roll the Ball game](http://www.skateboarding-games.biz/roll-the-ball/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/roll-the-ball/
 *  JS Response Bytes: 2123689
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120874
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/angrybirds/angry-duck-space/#.U_eDZk0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Duck Space « Online Flash Game Angry Duck Space](http://gamematic.net/online-flash-games/angrybirds/angry-duck-space/#.U_eDZk0ieKA)
 
@@ -29,9 +37,6 @@ title: http://gamematic.net/online-flash-games/angrybirds/angry-duck-space/#.U_e
 *  JS Response Bytes: 1266182
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46301
-
-### Performance issues
-
 
 ### Performance issues
 

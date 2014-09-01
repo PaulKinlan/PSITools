@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://iitjeesimplified.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [IITJEEsimplified | Study Smart!](http://iitjeesimplified.com/)
 
@@ -29,9 +32,6 @@ title: http://iitjeesimplified.com/
 *  JS Response Bytes: 599822
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1138
-
-### Performance issues
-
 
 ### Performance issues
 

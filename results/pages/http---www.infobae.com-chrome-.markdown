@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.infobae.com/chrome/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [404 Error - Infobae](http://www.infobae.com/chrome/)
 
@@ -29,9 +32,6 @@ title: http://www.infobae.com/chrome/
 *  JS Response Bytes: 657092
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15184
-
-### Performance issues
-
 
 ### Performance issues
 

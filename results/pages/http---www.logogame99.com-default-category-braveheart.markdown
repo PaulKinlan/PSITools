@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.logogame99.com/default-category/braveheart
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Braveheart - Logogame99](http://www.logogame99.com/default-category/braveheart)
 
@@ -29,9 +34,6 @@ title: http://www.logogame99.com/default-category/braveheart
 *  JS Response Bytes: 673189
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

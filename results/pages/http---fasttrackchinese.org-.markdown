@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://fasttrackchinese.org/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Chinese Vocabulary Trainer | Learn Chinese Online](http://fasttrackchinese.org/)
 
@@ -29,9 +31,6 @@ title: http://fasttrackchinese.org/
 *  JS Response Bytes: 372899
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

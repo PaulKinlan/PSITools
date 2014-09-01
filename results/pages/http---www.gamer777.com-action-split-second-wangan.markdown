@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.gamer777.com/action/split-second-wangan
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Split Second Wangan - gamer777 Free Online Games](http://www.gamer777.com/action/split-second-wangan)
 
@@ -29,9 +37,6 @@ title: http://www.gamer777.com/action/split-second-wangan
 *  JS Response Bytes: 2345798
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105958
-
-### Performance issues
-
 
 ### Performance issues
 

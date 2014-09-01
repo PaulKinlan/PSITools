@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://hdgame2013.blogspot.com/2013/09/3d-racing-games.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Hd games free: 3D Racing games](http://hdgame2013.blogspot.com/2013/09/3d-racing-games.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://hdgame2013.blogspot.com/2013/09/3d-racing-games.html?m=1
 *  JS Response Bytes: 1441780
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98350
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gameflare.com/online-game/begone-guerra/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BeGone: Guerra - online game | GameFlare.com](http://www.gameflare.com/online-game/begone-guerra/)
 
@@ -29,9 +35,6 @@ title: http://www.gameflare.com/online-game/begone-guerra/
 *  JS Response Bytes: 2076737
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 303634
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.photoboothstudio.co.uk/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Photo booth hire lincolnshire | photoboothstudio.co.uk](http://www.photoboothstudio.co.uk/)
 
@@ -29,9 +34,6 @@ title: http://www.photoboothstudio.co.uk/
 *  JS Response Bytes: 2474835
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55572
-
-### Performance issues
-
 
 ### Performance issues
 

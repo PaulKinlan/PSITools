@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.otakupt.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [OtakuPT](http://www.otakupt.com/)
 
@@ -29,9 +33,6 @@ title: http://www.otakupt.com/
 *  JS Response Bytes: 706849
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43660
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ultraweatherapp.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Ultraweather - Local Weather Forecast Meets Instagram](http://ultraweatherapp.com/)
 
@@ -29,9 +32,6 @@ title: http://ultraweatherapp.com/
 *  JS Response Bytes: 131247
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29101
-
-### Performance issues
-
 
 ### Performance issues
 

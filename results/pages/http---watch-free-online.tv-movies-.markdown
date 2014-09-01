@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://watch-free-online.tv/movies/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [- Classic Full Movies - The best Movies of all time!](http://watch-free-online.tv/movies/)
 
@@ -29,9 +34,6 @@ title: http://watch-free-online.tv/movies/
 *  JS Response Bytes: 355242
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 323
-
-### Performance issues
-
 
 ### Performance issues
 

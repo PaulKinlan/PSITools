@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.didugames.com/angry-birds-star-wars-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Star Wars 2 | Didu Games](http://www.didugames.com/angry-birds-star-wars-2.html)
 
@@ -29,9 +34,6 @@ title: http://www.didugames.com/angry-birds-star-wars-2.html
 *  JS Response Bytes: 2078147
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119855
-
-### Performance issues
-
 
 ### Performance issues
 

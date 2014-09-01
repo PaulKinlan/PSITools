@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.learnathome.ru/?ga
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Английский онлайн - самоучитель английского языка Learnathome.ru](http://www.learnathome.ru/?ga)
 
@@ -29,9 +31,6 @@ title: http://www.learnathome.ru/?ga
 *  JS Response Bytes: 3197624
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 90113
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -33,8 +33,5 @@ title: http://home.plabesk.com/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

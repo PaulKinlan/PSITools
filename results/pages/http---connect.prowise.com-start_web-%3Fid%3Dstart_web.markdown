@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://connect.prowise.com/start_web/?id=start_web
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ProConnect](http://connect.prowise.com/start_web/?id=start_web)
 
@@ -18,20 +21,17 @@ title: http://connect.prowise.com/start_web/?id=start_web
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 1475
+*  Total Request Bytes: 1474
 
 ### Response data
 
 *  HTML Response Bytes: 2289
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 2130
-*  JS Response Bytes: 422523
+*  Image Response Bytes: 2129
+*  JS Response Bytes: 422603
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 24384
-
-### Performance issues
-
+*  Other Response Bytes: 24383
 
 ### Performance issues
 

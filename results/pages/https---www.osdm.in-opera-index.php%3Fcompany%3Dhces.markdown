@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.osdm.in/opera/index.php?company=hces
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [HCES School Database](https://www.osdm.in/opera/index.php?company=hces)
 
@@ -29,9 +31,6 @@ title: https://www.osdm.in/opera/index.php?company=hces
 *  JS Response Bytes: 137324
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1012
-
-### Performance issues
-
 
 ### Performance issues
 

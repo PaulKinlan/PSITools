@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://androidwidget.info/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [AndroidWidget.Info | Android Widgets, Apps & Games Reviews](http://androidwidget.info/)
 
@@ -29,9 +32,6 @@ title: http://androidwidget.info/
 *  JS Response Bytes: 1955848
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 401249
-
-### Performance issues
-
 
 ### Performance issues
 

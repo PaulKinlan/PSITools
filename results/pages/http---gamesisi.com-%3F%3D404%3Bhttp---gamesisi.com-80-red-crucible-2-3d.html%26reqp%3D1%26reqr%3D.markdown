@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gamesisi.com/?=404;http://gamesisi.com:80/red-crucible-2-3d.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [gamesisi.com](http://gamesisi.com/?=404;http://gamesisi.com:80/red-crucible-2-3d.html&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://gamesisi.com/?=404;http://gamesisi.com:80/red-crucible-2-3d.html&r
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.drawyourprofessor.com/mobile.php
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Draw Your Professor](http://www.drawyourprofessor.com/mobile.php)
 
@@ -29,9 +31,6 @@ title: http://www.drawyourprofessor.com/mobile.php
 *  JS Response Bytes: 815953
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2292
-
-### Performance issues
-
 
 ### Performance issues
 

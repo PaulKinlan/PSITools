@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.sudgames.com/temple-run-2.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SuDGameS.Com | Flash Game | Flash Games | Top Games – Temple Run 2](http://www.sudgames.com/temple-run-2.html)
 
@@ -29,9 +36,6 @@ title: http://www.sudgames.com/temple-run-2.html
 *  JS Response Bytes: 412704
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1057
-
-### Performance issues
-
 
 ### Performance issues
 

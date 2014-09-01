@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://scuola.massimol.it/sinonimos/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SINÓNIMOS Diccionario de sinonimos e Diccionario de sinónimos en línea gratis](http://scuola.massimol.it/sinonimos/)
 
@@ -29,9 +35,6 @@ title: http://scuola.massimol.it/sinonimos/
 *  JS Response Bytes: 505600
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://angrychromebirds.blogspot.com/2013/06/angry-birds-jet-bike.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://angrychromebirds.blogspot.com/2013/06/angry-birds-jet-bike.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://angrychromebirds.blogspot.com/2013/06/angry-birds-jet-bike.html?m=
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18835
-
-### Performance issues
-
 
 ### Performance issues
 

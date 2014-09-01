@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://minecrafftgame.blogspot.com.tr/2014/04/gta-v.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [minecraft hd online game: gta V](http://minecrafftgame.blogspot.com.tr/2014/04/gta-v.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://minecrafftgame.blogspot.com.tr/2014/04/gta-v.html?m=1
 *  JS Response Bytes: 1149251
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99196
-
-### Performance issues
-
 
 ### Performance issues
 

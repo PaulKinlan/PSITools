@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://punchedin.com/00316.1.127211307612466958/ERROR
+EnableGzipCompression: true
 ---
 ## [TimeClock](http://punchedin.com/00316.1.127211307612466958/ERROR)
 
@@ -29,9 +30,6 @@ title: http://punchedin.com/00316.1.127211307612466958/ERROR
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 537
-
-### Performance issues
-
 
 ### Performance issues
 

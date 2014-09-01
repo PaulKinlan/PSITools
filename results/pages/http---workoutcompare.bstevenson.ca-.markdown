@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://workoutcompare.bstevenson.ca/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Compare Workouts](http://workoutcompare.bstevenson.ca/)
 
@@ -29,9 +33,6 @@ title: http://workoutcompare.bstevenson.ca/
 *  JS Response Bytes: 881359
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

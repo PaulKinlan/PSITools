@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/hikouki-tomodachi-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hikouki Tomodachi](http://www.war-games.ws/hikouki-tomodachi-2/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/hikouki-tomodachi-2/
 *  JS Response Bytes: 2352928
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116214
-
-### Performance issues
-
 
 ### Performance issues
 

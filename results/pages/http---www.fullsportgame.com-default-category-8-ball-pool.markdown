@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fullsportgame.com/default-category/8-ball-pool
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [8 Ball Pool - Full Sport Game](http://www.fullsportgame.com/default-category/8-ball-pool)
 
@@ -29,9 +34,6 @@ title: http://www.fullsportgame.com/default-category/8-ball-pool
 *  JS Response Bytes: 3564903
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 140899
-
-### Performance issues
-
 
 ### Performance issues
 

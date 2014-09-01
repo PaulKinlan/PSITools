@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.fedex.com/us/office/mobile-printing.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Mobile printing app from an iOS device - FedEx Office](http://www.fedex.com/us/office/mobile-printing.html)
 
@@ -29,9 +33,6 @@ title: http://www.fedex.com/us/office/mobile-printing.html
 *  JS Response Bytes: 728206
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39308
-
-### Performance issues
-
 
 ### Performance issues
 

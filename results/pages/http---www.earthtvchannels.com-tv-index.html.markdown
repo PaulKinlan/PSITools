@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.earthtvchannels.com/tv/index.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Earth TV](http://www.earthtvchannels.com/tv/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.earthtvchannels.com/tv/index.html
 *  JS Response Bytes: 1013157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1203
-
-### Performance issues
-
 
 ### Performance issues
 

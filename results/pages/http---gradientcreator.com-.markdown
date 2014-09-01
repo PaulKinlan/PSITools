@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gradientcreator.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Colorful CSS Gradient Background Generator](http://gradientcreator.com/)
 
@@ -29,9 +33,6 @@ title: http://gradientcreator.com/
 *  JS Response Bytes: 1789994
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 153331
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://flashgame3d.blogspot.com/2014/01/sherlock-holmes-3d.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Flash Game 2014: Sherlock Holmes 3D](http://flashgame3d.blogspot.com/2014/01/sherlock-holmes-3d.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://flashgame3d.blogspot.com/2014/01/sherlock-holmes-3d.html?m=1
 *  JS Response Bytes: 1689079
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95881
-
-### Performance issues
-
 
 ### Performance issues
 

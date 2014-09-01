@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://livemargin.com/reader/client/index.html#/library
+EnableGzipCompression: true
 ---
 ## [Livemargin Reader](http://livemargin.com/reader/client/index.html#/library)
 
@@ -18,20 +19,17 @@ title: http://livemargin.com/reader/client/index.html#/library
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 2147
+*  Total Request Bytes: 2143
 
 ### Response data
 
 *  HTML Response Bytes: 5964
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 93776
-*  Image Response Bytes: 384
-*  JS Response Bytes: 1550590
+*  Image Response Bytes: 383
+*  JS Response Bytes: 1550634
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://yegames.info/clash-of-clans/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tic Games Flash Games – Clash Of Clans](http://yegames.info/clash-of-clans/)
 
@@ -29,9 +34,6 @@ title: http://yegames.info/clash-of-clans/
 *  JS Response Bytes: 1032867
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16250
-
-### Performance issues
-
 
 ### Performance issues
 

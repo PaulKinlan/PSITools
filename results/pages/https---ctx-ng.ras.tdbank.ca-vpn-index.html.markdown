@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://ctx-ng.ras.tdbank.ca/vpn/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TDBFG Remote Access Services P201](https://ctx-ng.ras.tdbank.ca/vpn/index.html)
 
@@ -29,9 +33,6 @@ title: https://ctx-ng.ras.tdbank.ca/vpn/index.html
 *  JS Response Bytes: 36917
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

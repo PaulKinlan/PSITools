@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/born-of-fire-td/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Born Of Fire TD](http://www.war-games.ws/born-of-fire-td/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/born-of-fire-td/
 *  JS Response Bytes: 2292922
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115219
-
-### Performance issues
-
 
 ### Performance issues
 

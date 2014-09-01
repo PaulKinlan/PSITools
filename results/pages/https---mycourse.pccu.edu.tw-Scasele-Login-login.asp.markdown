@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://mycourse.pccu.edu.tw/Scasele/Login/login.asp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [中國文化大學 選課專用入口](https://mycourse.pccu.edu.tw/Scasele/Login/login.asp)
 
@@ -29,9 +32,6 @@ title: https://mycourse.pccu.edu.tw/Scasele/Login/login.asp
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

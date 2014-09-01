@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.miragetour.com.tw/eWeb_miragetour/index/index.asp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [歡迎光臨~【翔順忘情遊】．國內外團體旅遊、航空機票、訂房、各國簽證、自由行、獎勵旅遊、工商考察、參展、大陸來台](http://www.miragetour.com.tw/eWeb_miragetour/index/index.asp)
 
@@ -29,9 +33,6 @@ title: http://www.miragetour.com.tw/eWeb_miragetour/index/index.asp
 *  JS Response Bytes: 338434
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3515
-
-### Performance issues
-
 
 ### Performance issues
 

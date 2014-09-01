@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://staticcdn.spreaker.com/swf/player.swf?API_BASE_URL=http%3A%2F%2Fapi.spreaker.com&SITE_BASE_URL=http%3A%2F%2Fwww.spreaker.com&CHAT_BASE_URL=http%3A%2F%2Fpush.spreaker.com&STATION_URL=http%3A%2F%2Fapi.spreaker.com%2Fshow%2F163368%2Fepisode%2Flatest&AUTOPLAY=false&EXTERNAL_INTER
+UseLegibleFontSizes: true
 ---
 ## [](http://staticcdn.spreaker.com/swf/player.swf?API_BASE_URL=http%3A%2F%2Fapi.spreaker.com&SITE_BASE_URL=http%3A%2F%2Fwww.spreaker.com&CHAT_BASE_URL=http%3A%2F%2Fpush.spreaker.com&STATION_URL=http%3A%2F%2Fapi.spreaker.com%2Fshow%2F163368%2Fepisode%2Flatest&AUTOPLAY=false&EXTERNAL_INTER)
 
@@ -29,9 +30,6 @@ title: http://staticcdn.spreaker.com/swf/player.swf?API_BASE_URL=http%3A%2F%2Fap
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 157087
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

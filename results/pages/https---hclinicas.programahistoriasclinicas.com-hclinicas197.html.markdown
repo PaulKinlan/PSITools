@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://hclinicas.programahistoriasclinicas.com/hclinicas197.html
+EnableGzipCompression: true
+AvoidPlugins: true
 ---
 ## [Historias clínicas online 1.9.7 14-08-14 // 14:11:00. Programa de gestión de historia clinica electrónica en internet. Sotfware médico para clinicas con historial de pacientes, consultas, agenda, grupos de terapia y facturas](https://hclinicas.programahistoriasclinicas.com/hclinicas197.html)
 
@@ -29,9 +31,6 @@ title: https://hclinicas.programahistoriasclinicas.com/hclinicas197.html
 *  JS Response Bytes: 33274
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 220
-
-### Performance issues
-
 
 ### Performance issues
 

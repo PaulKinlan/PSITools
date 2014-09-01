@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://multicare.weebly.com/
+UseLegibleFontSizes: true
 ---
 ## [404 - Page Not Found](http://multicare.weebly.com/)
 
@@ -29,9 +30,6 @@ title: http://multicare.weebly.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1822
-
-### Performance issues
-
 
 ### Performance issues
 

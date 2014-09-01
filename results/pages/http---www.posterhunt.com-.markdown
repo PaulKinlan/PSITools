@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.posterhunt.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [PosterHunt.com: The Leading Poster Hunt Site on the Net](http://www.posterhunt.com/)
 
@@ -29,9 +30,6 @@ title: http://www.posterhunt.com/
 *  JS Response Bytes: 259015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 431
-
-### Performance issues
-
 
 ### Performance issues
 

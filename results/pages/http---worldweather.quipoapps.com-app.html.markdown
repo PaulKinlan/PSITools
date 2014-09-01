@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://worldweather.quipoapps.com/app.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [World Weather - The animated Weather!](http://worldweather.quipoapps.com/app.html)
 
@@ -29,9 +34,6 @@ title: http://worldweather.quipoapps.com/app.html
 *  JS Response Bytes: 1649922
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110939
-
-### Performance issues
-
 
 ### Performance issues
 

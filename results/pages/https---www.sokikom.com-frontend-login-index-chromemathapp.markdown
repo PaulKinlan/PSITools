@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.sokikom.com/frontend/login/index/chromemathapp
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Sokikom - Login](https://www.sokikom.com/frontend/login/index/chromemathapp)
 
@@ -29,9 +32,6 @@ title: https://www.sokikom.com/frontend/login/index/chromemathapp
 *  JS Response Bytes: 466867
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30333
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://miraregularexpression.altervista.org/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mira Regular Expression](http://miraregularexpression.altervista.org/)
 
@@ -29,9 +32,6 @@ title: http://miraregularexpression.altervista.org/
 *  JS Response Bytes: 516440
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://nokigame.com/?=404;http://nokigame.com:80/plants-vs-zombies-2/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [nokigame.com](http://nokigame.com/?=404;http://nokigame.com:80/plants-vs-zombies-2/&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://nokigame.com/?=404;http://nokigame.com:80/plants-vs-zombies-2/&req
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103
-
-### Performance issues
-
 
 ### Performance issues
 

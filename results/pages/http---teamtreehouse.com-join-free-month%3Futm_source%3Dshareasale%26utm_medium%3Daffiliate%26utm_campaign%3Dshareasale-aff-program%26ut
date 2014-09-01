@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://teamtreehouse.com/join/free-month?utm_source=shareasale&utm_medium=affiliate&utm_campaign=shareasale-aff-program&utm_content=treehouse-anchor-textk&cid=1086&SSAID=838079
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Start Learning at Treehouse for Free](http://teamtreehouse.com/join/free-month?utm_source=shareasale&utm_medium=affiliate&utm_campaign=shareasale-aff-program&utm_content=treehouse-anchor-textk&cid=1086&SSAID=838079)
 
@@ -29,9 +32,6 @@ title: http://teamtreehouse.com/join/free-month?utm_source=shareasale&utm_medium
 *  JS Response Bytes: 406635
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14268
-
-### Performance issues
-
 
 ### Performance issues
 

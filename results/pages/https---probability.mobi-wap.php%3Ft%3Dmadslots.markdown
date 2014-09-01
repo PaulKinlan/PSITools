@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://probability.mobi/wap.php?t=madslots
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MadSlots](https://probability.mobi/wap.php?t=madslots)
 
@@ -29,9 +32,6 @@ title: https://probability.mobi/wap.php?t=madslots
 *  JS Response Bytes: 37435
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13297
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.oneill.co.nz/displaythis/
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Display This.](http://www.oneill.co.nz/displaythis/)
 
@@ -29,9 +32,6 @@ title: http://www.oneill.co.nz/displaythis/
 *  JS Response Bytes: 1989174
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97177
-
-### Performance issues
-
 
 ### Performance issues
 

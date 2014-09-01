@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://wikipartido.es/index.php?title=P%C3%A1gina_Principal
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Página Principal - WikiPartido](http://wikipartido.es/index.php?title=P%C3%A1gina_Principal)
 
@@ -29,9 +32,6 @@ title: http://wikipartido.es/index.php?title=P%C3%A1gina_Principal
 *  JS Response Bytes: 265228
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15407
-
-### Performance issues
-
 
 ### Performance issues
 

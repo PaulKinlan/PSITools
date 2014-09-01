@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pharmaguideline.com/?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Pharmaceutical Guidelines : Total Pharmaceutical Solution](http://www.pharmaguideline.com/?m=1)
 
@@ -29,9 +33,6 @@ title: http://www.pharmaguideline.com/?m=1
 *  JS Response Bytes: 2671087
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 338616
-
-### Performance issues
-
 
 ### Performance issues
 

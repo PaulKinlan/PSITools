@@ -33,8 +33,5 @@ title: https://fortinj.com/chalur/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

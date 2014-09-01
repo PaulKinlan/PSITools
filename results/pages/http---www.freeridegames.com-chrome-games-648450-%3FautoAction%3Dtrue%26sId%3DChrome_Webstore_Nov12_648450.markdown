@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/648450/?autoAction=true&sId=Chrome_Webstore_Nov12_648450
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Cooking Dash: DinerTown Studios for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/648450/?autoAction=true&sId=Chrome_Webstore_Nov12_648450)
 
@@ -29,9 +34,6 @@ title: http://www.freeridegames.com/chrome/games/648450/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1354792
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19532
-
-### Performance issues
-
 
 ### Performance issues
 

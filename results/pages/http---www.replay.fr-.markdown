@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.replay.fr/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [RePlay - Toute la TV en streaming à revoir gratuitement](http://www.replay.fr/)
 
@@ -29,9 +32,6 @@ title: http://www.replay.fr/
 *  JS Response Bytes: 2039992
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 303091
-
-### Performance issues
-
 
 ### Performance issues
 

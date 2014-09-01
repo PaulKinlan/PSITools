@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://demo.solucoesglobais.com.br/sistemas/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Multi24](http://demo.solucoesglobais.com.br/sistemas/)
 
@@ -29,9 +32,6 @@ title: http://demo.solucoesglobais.com.br/sistemas/
 *  JS Response Bytes: 1359957
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

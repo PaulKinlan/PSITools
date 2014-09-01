@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://slodive.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tattoo Ideas, Trending Hairstyles, Wordpress Themes and More!](http://slodive.com/)
 
@@ -29,9 +33,6 @@ title: http://slodive.com/
 *  JS Response Bytes: 2338465
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 377430
-
-### Performance issues
-
 
 ### Performance issues
 

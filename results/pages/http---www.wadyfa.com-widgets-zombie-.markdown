@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.wadyfa.com/widgets/zombie/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombie Killer](http://www.wadyfa.com/widgets/zombie/)
 
@@ -29,9 +34,6 @@ title: http://www.wadyfa.com/widgets/zombie/
 *  JS Response Bytes: 905240
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21572
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://superevilbrain.com/dungeons-dragons/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dungeons & Dragons | Super Evil Brain](http://superevilbrain.com/dungeons-dragons/)
 
@@ -29,9 +36,6 @@ title: http://superevilbrain.com/dungeons-dragons/
 *  JS Response Bytes: 638305
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16699
-
-### Performance issues
-
 
 ### Performance issues
 

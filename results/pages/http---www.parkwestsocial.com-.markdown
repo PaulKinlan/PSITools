@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.parkwestsocial.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Park West Social - A Mount Pleasant S.C. Social NetworkPark West Social](http://www.parkwestsocial.com/)
 
@@ -29,9 +31,6 @@ title: http://www.parkwestsocial.com/
 *  JS Response Bytes: 1097017
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51599
-
-### Performance issues
-
 
 ### Performance issues
 

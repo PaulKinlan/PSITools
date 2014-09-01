@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://app.gettimely.com/Mobile/Account/Login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Welcome to Timely](https://app.gettimely.com/Mobile/Account/Login)
 
@@ -29,9 +31,6 @@ title: https://app.gettimely.com/Mobile/Account/Login
 *  JS Response Bytes: 312769
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 65243
-
-### Performance issues
-
 
 ### Performance issues
 

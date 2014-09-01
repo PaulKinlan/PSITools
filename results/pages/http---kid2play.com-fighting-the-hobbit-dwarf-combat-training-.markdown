@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://kid2play.com/fighting/the-hobbit-dwarf-combat-training/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Hobbit – Dwarf Combat Training](http://kid2play.com/fighting/the-hobbit-dwarf-combat-training/)
 
@@ -29,9 +34,6 @@ title: http://kid2play.com/fighting/the-hobbit-dwarf-combat-training/
 *  JS Response Bytes: 2353159
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112578
-
-### Performance issues
-
 
 ### Performance issues
 

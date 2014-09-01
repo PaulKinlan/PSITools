@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://developer.chrome.com/webstore/get_started_simple
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tutorial: Getting Started - Google Chrome](https://developer.chrome.com/webstore/get_started_simple)
 
@@ -29,9 +32,6 @@ title: https://developer.chrome.com/webstore/get_started_simple
 *  JS Response Bytes: 1150878
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 182737
-
-### Performance issues
-
 
 ### Performance issues
 

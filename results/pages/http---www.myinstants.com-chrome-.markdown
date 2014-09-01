@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.myinstants.com/chrome/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Myinstants! The largest instant button website!](http://www.myinstants.com/chrome/)
 
@@ -29,9 +33,6 @@ title: http://www.myinstants.com/chrome/
 *  JS Response Bytes: 1219772
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8081
-
-### Performance issues
-
 
 ### Performance issues
 

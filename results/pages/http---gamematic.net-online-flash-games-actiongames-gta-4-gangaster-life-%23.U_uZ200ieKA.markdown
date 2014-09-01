@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/actiongames/gta-4-gangaster-life/#.U_uZ200ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GTA 4 Gangaster Life « Online Flash Game GTA 4 Gangaster Life](http://gamematic.net/online-flash-games/actiongames/gta-4-gangaster-life/#.U_uZ200ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/actiongames/gta-4-gangaster-life/
 *  JS Response Bytes: 1261256
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49982
-
-### Performance issues
-
 
 ### Performance issues
 

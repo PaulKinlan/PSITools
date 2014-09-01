@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.elminiportal.com/app_pt/CandyCash.htm
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Candy Cash - MINIPORTAL](http://www.elminiportal.com/app_pt/CandyCash.htm)
 
@@ -29,9 +34,6 @@ title: http://www.elminiportal.com/app_pt/CandyCash.htm
 *  JS Response Bytes: 1337783
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 178020
-
-### Performance issues
-
 
 ### Performance issues
 

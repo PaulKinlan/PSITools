@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://blogest.net/news/it/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [IT・科学に関するニュースや読み物](http://blogest.net/news/it/)
 
@@ -29,9 +33,6 @@ title: http://blogest.net/news/it/
 *  JS Response Bytes: 398653
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

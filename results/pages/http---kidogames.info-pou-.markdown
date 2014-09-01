@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://kidogames.info/pou/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tic Games Flash Games – Pou](http://kidogames.info/pou/)
 
@@ -29,9 +36,6 @@ title: http://kidogames.info/pou/
 *  JS Response Bytes: 1029022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16243
-
-### Performance issues
-
 
 ### Performance issues
 

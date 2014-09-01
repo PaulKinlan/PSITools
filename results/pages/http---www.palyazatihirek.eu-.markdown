@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.palyazatihirek.eu/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pályázati Hírek - Új Széchenyi Terv Pályázatok](http://www.palyazatihirek.eu/)
 
@@ -29,9 +35,6 @@ title: http://www.palyazatihirek.eu/
 *  JS Response Bytes: 1416253
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1222
-
-### Performance issues
-
 
 ### Performance issues
 

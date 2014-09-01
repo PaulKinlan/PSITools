@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.myappgames.com/angry-birds.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds : My APP Games](http://www.myappgames.com/angry-birds.html)
 
@@ -29,9 +33,6 @@ title: http://www.myappgames.com/angry-birds.html
 *  JS Response Bytes: 2241712
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120054
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://onangames.com/temple-run-oz.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [OnanGames.Com | Flash Game | Flash Games – Temple Run OZ](http://onangames.com/temple-run-oz.html)
 
@@ -29,9 +36,6 @@ title: http://onangames.com/temple-run-oz.html
 *  JS Response Bytes: 412704
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 805
-
-### Performance issues
-
 
 ### Performance issues
 

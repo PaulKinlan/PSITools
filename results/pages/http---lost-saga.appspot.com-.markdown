@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://lost-saga.appspot.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Lost Saga Online](http://lost-saga.appspot.com/)
 
@@ -29,9 +35,6 @@ title: http://lost-saga.appspot.com/
 *  JS Response Bytes: 1832506
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 37690
-
-### Performance issues
-
 
 ### Performance issues
 

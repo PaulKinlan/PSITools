@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://games.playtouch.net/chrome/solitaire-deluxe/solitaire-deluxe/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Solitaire Deluxe](http://games.playtouch.net/chrome/solitaire-deluxe/solitaire-deluxe/)
 
@@ -29,9 +31,6 @@ title: http://games.playtouch.net/chrome/solitaire-deluxe/solitaire-deluxe/
 *  JS Response Bytes: 1568126
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1052
-
-### Performance issues
-
 
 ### Performance issues
 

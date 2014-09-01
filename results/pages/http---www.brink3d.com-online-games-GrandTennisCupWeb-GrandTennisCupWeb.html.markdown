@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.brink3d.com/online-games/GrandTennisCupWeb/GrandTennisCupWeb.html
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://www.brink3d.com/online-games/GrandTennisCupWeb/GrandTennisCupWeb.html)
 
@@ -29,9 +30,6 @@ title: http://www.brink3d.com/online-games/GrandTennisCupWeb/GrandTennisCupWeb.h
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 615
-
-### Performance issues
-
 
 ### Performance issues
 

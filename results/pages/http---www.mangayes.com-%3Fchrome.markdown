@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mangayes.com/?chrome
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Read manga for free online - Manga Yes](http://www.mangayes.com/?chrome)
 
@@ -29,9 +33,6 @@ title: http://www.mangayes.com/?chrome
 *  JS Response Bytes: 952131
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1887
-
-### Performance issues
-
 
 ### Performance issues
 

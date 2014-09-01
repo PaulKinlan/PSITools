@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.mickeymause.us/default-category/the-grand-police-escape
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Grand Police Escape - Mickey Mause](http://www.mickeymause.us/default-category/the-grand-police-escape)
 
@@ -29,9 +35,6 @@ title: http://www.mickeymause.us/default-category/the-grand-police-escape
 *  JS Response Bytes: 1847831
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98036
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.frivangel.info/gemwars.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play gemewars, a free online Game at Friv Angel - Friv  Angel](http://www.frivangel.info/gemwars.html)
 
@@ -29,9 +33,6 @@ title: http://www.frivangel.info/gemwars.html
 *  JS Response Bytes: 662654
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58901
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://chicago1920-mmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Chicago1920 Online](http://chicago1920-mmo.appspot.com/)
 
@@ -29,9 +35,6 @@ title: http://chicago1920-mmo.appspot.com/
 *  JS Response Bytes: 914491
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49594
-
-### Performance issues
-
 
 ### Performance issues
 

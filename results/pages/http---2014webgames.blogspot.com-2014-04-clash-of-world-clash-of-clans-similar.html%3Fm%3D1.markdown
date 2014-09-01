@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://2014webgames.blogspot.com/2014/04/clash-of-world-clash-of-clans-similar.html?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Online games](http://2014webgames.blogspot.com/2014/04/clash-of-world-clash-of-clans-similar.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://2014webgames.blogspot.com/2014/04/clash-of-world-clash-of-clans-si
 *  JS Response Bytes: 314319
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44295
-
-### Performance issues
-
 
 ### Performance issues
 

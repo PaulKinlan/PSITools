@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://flv.langkawiferryline.com/mon/passkey.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Passkey](http://flv.langkawiferryline.com/mon/passkey.php)
 
@@ -29,9 +34,6 @@ title: http://flv.langkawiferryline.com/mon/passkey.php
 *  JS Response Bytes: 304822
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1350
-
-### Performance issues
-
 
 ### Performance issues
 

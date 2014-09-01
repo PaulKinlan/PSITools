@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.purplemash.co.uk/#/ipad
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Purple Mash - the award winning educational resource from 2Simple Software - Site](http://www.purplemash.co.uk/#/ipad)
 
@@ -29,9 +32,6 @@ title: http://www.purplemash.co.uk/#/ipad
 *  JS Response Bytes: 745449
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 773
-
-### Performance issues
-
 
 ### Performance issues
 

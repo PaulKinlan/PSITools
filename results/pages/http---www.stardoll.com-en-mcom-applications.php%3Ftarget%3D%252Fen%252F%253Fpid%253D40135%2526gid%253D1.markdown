@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.stardoll.com/en/mcom/applications.php?target=%2Fen%2F%3Fpid%3D40135%26gid%3D1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Stardoll Applications](http://www.stardoll.com/en/mcom/applications.php?target=%2Fen%2F%3Fpid%3D40135%26gid%3D1)
 
@@ -29,9 +32,6 @@ title: http://www.stardoll.com/en/mcom/applications.php?target=%2Fen%2F%3Fpid%3D
 *  JS Response Bytes: 146187
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1025
-
-### Performance issues
-
 
 ### Performance issues
 

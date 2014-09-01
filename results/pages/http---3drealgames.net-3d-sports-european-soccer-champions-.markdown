@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://3drealgames.net/3d-sports/european-soccer-champions/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [European Soccer Champions](http://3drealgames.net/3d-sports/european-soccer-champions/)
 
@@ -29,9 +34,6 @@ title: http://3drealgames.net/3d-sports/european-soccer-champions/
 *  JS Response Bytes: 860534
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15203
-
-### Performance issues
-
 
 ### Performance issues
 

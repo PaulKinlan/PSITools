@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.m7flashgames.com/cat700/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [العاب سبونج بوب فقط | سبونجبوب وبسيط | العاب فلاش M7](http://www.m7flashgames.com/cat700/)
 
@@ -29,9 +34,6 @@ title: http://www.m7flashgames.com/cat700/
 *  JS Response Bytes: 541289
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43421
-
-### Performance issues
-
 
 ### Performance issues
 

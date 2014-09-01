@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.elminiportal.com/app_pt/FazendaFeliz/index.htm
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fazenda Feliz - MINIPORTAL](http://www.elminiportal.com/app_pt/FazendaFeliz/index.htm)
 
@@ -29,9 +34,6 @@ title: http://www.elminiportal.com/app_pt/FazendaFeliz/index.htm
 *  JS Response Bytes: 1216476
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47295
-
-### Performance issues
-
 
 ### Performance issues
 

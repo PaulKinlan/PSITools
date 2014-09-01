@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.24playgame.com/index.php?ara=monopoly
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [monopoly | Play Games free play the best games](http://www.24playgame.com/index.php?ara=monopoly)
 
@@ -29,9 +33,6 @@ title: http://www.24playgame.com/index.php?ara=monopoly
 *  JS Response Bytes: 660799
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://play.dreambox.com/login/6myw/eaglevillecs
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DreamBox Learning - Login](https://play.dreambox.com/login/6myw/eaglevillecs)
 
@@ -29,9 +34,6 @@ title: https://play.dreambox.com/login/6myw/eaglevillecs
 *  JS Response Bytes: 52377
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

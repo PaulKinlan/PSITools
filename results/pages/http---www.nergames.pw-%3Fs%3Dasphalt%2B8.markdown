@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.nergames.pw/?s=asphalt+8
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [asphalt 8 – Search Results – Online Best Games](http://www.nergames.pw/?s=asphalt+8)
 
@@ -29,9 +34,6 @@ title: http://www.nergames.pw/?s=asphalt+8
 *  JS Response Bytes: 686590
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://isalso.at/
+MinimizeRenderBlockingResources: true
 ---
 ## [isalso.at - isalso Resources and Information. This website is for sale!](http://isalso.at/)
 
@@ -29,9 +30,6 @@ title: http://isalso.at/
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

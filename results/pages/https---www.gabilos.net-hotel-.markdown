@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.gabilos.net/hotel/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gabilos Software: Hotel](https://www.gabilos.net/hotel/)
 
@@ -29,9 +34,6 @@ title: https://www.gabilos.net/hotel/
 *  JS Response Bytes: 15330
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 193
-
-### Performance issues
-
 
 ### Performance issues
 

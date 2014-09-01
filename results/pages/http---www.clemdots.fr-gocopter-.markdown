@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.clemdots.fr/gocopter/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GoCopter!](http://www.clemdots.fr/gocopter/)
 
@@ -29,9 +33,6 @@ title: http://www.clemdots.fr/gocopter/
 *  JS Response Bytes: 1204379
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110117
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.playgoats.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
 ---
 ## [Goats](http://www.playgoats.com/)
 
@@ -29,9 +32,6 @@ title: http://www.playgoats.com/
 *  JS Response Bytes: 349872
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

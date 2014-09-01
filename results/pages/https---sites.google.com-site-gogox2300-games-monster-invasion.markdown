@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://sites.google.com/site/gogox2300/games/monster-invasion
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [+Monster-invasion - Gogox2300](https://sites.google.com/site/gogox2300/games/monster-invasion)
 
@@ -29,9 +35,6 @@ title: https://sites.google.com/site/gogox2300/games/monster-invasion
 *  JS Response Bytes: 1106910
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16351
-
-### Performance issues
-
 
 ### Performance issues
 

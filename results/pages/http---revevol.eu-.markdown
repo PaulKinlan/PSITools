@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://revevol.eu/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Revevol Group | Revevol](http://revevol.eu/)
 
@@ -29,9 +34,6 @@ title: http://revevol.eu/
 *  JS Response Bytes: 1527080
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 136901
-
-### Performance issues
-
 
 ### Performance issues
 

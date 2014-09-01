@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.obsessionxgames.com/ball/ball_web/ball.html
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Untitled Document](http://www.obsessionxgames.com/ball/ball_web/ball.html)
 
@@ -29,9 +32,6 @@ title: http://www.obsessionxgames.com/ball/ball_web/ball.html
 *  JS Response Bytes: 1947690
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

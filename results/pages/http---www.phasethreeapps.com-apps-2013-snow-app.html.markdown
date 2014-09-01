@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.phasethreeapps.com/apps/2013/snow/app.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Custom Snow Globe Builder](http://www.phasethreeapps.com/apps/2013/snow/app.html)
 
@@ -29,9 +34,6 @@ title: http://www.phasethreeapps.com/apps/2013/snow/app.html
 *  JS Response Bytes: 434789
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

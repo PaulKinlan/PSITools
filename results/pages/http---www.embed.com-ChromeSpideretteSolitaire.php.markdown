@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.embed.com/ChromeSpideretteSolitaire.php
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Spiderette Solitaire for Chrome](http://www.embed.com/ChromeSpideretteSolitaire.php)
 
@@ -29,9 +35,6 @@ title: http://www.embed.com/ChromeSpideretteSolitaire.php
 *  JS Response Bytes: 1407469
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96434
-
-### Performance issues
-
 
 ### Performance issues
 

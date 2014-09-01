@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://bestfreegirlgames.com/naruto-vs-bleach/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Naruto vs Bleach | BestFreeGirlGames Free Girl Games, Online Girl Games](http://bestfreegirlgames.com/naruto-vs-bleach/)
 
@@ -29,9 +35,6 @@ title: http://bestfreegirlgames.com/naruto-vs-bleach/
 *  JS Response Bytes: 1199252
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16748
-
-### Performance issues
-
 
 ### Performance issues
 

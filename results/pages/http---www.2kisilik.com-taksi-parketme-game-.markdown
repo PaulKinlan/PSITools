@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.2kisilik.com/taksi-parketme/game/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [2 kişilik Taksi Parketme oyunu](http://www.2kisilik.com/taksi-parketme/game/)
 
@@ -29,9 +35,6 @@ title: http://www.2kisilik.com/taksi-parketme/game/
 *  JS Response Bytes: 2209536
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49294
-
-### Performance issues
-
 
 ### Performance issues
 

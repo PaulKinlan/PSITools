@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://book.codnex.net/index.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Book Manager - Read or Write a book](http://book.codnex.net/index.php)
 
@@ -29,9 +31,6 @@ title: http://book.codnex.net/index.php
 *  JS Response Bytes: 476389
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4238
-
-### Performance issues
-
 
 ### Performance issues
 

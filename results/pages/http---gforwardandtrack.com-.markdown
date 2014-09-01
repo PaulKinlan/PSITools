@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gforwardandtrack.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [GForwardAndTrack.com: The Leading G Forward and Track Site on the Net](http://gforwardandtrack.com/)
 
@@ -29,9 +30,6 @@ title: http://gforwardandtrack.com/
 *  JS Response Bytes: 259015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 444
-
-### Performance issues
-
 
 ### Performance issues
 

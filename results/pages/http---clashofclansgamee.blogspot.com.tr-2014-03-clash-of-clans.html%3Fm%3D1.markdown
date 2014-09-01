@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://clashofclansgamee.blogspot.com.tr/2014/03/clash-of-clans.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://clashofclansgamee.blogspot.com.tr/2014/03/clash-of-clans.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://clashofclansgamee.blogspot.com.tr/2014/03/clash-of-clans.html?m=1
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19293
-
-### Performance issues
-
 
 ### Performance issues
 

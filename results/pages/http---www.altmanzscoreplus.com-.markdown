@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.altmanzscoreplus.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Altman Z-Score+ Mobile App | Bond Rating Equivalent | PD | Credit Rating Web App](http://www.altmanzscoreplus.com/)
 
@@ -29,9 +34,6 @@ title: http://www.altmanzscoreplus.com/
 *  JS Response Bytes: 3447109
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 132504
-
-### Performance issues
-
 
 ### Performance issues
 

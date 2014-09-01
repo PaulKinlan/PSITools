@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://studentstocktrader.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Student Stock Trader - Simple Stock Market Simulator](http://studentstocktrader.com/)
 
@@ -29,9 +32,6 @@ title: http://studentstocktrader.com/
 *  JS Response Bytes: 1315332
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44212
-
-### Performance issues
-
 
 ### Performance issues
 

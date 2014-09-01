@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.st-bedes.surrey.sch.uk/index.php
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Saint Bede's School | The ecumencial Christian school](http://www.st-bedes.surrey.sch.uk/index.php)
 
@@ -29,9 +33,6 @@ title: http://www.st-bedes.surrey.sch.uk/index.php
 *  JS Response Bytes: 297442
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

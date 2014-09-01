@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://infectonator1.fungadgets.info/infectonator1.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Infectonator 1](http://infectonator1.fungadgets.info/infectonator1.htm)
 
@@ -29,9 +35,6 @@ title: http://infectonator1.fungadgets.info/infectonator1.htm
 *  JS Response Bytes: 744776
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96174
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.knowre.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [KnowRe](http://www.knowre.com/)
 
@@ -29,9 +33,6 @@ title: http://www.knowre.com/
 *  JS Response Bytes: 2789474
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

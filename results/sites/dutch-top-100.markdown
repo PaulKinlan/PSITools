@@ -275,6 +275,7 @@ category: country
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -427,6 +428,7 @@ category: country
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -757,6 +759,7 @@ category: country
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -794,6 +797,7 @@ category: country
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -832,6 +836,7 @@ category: country
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1161,6 +1166,7 @@ category: country
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1198,6 +1204,7 @@ category: country
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1235,6 +1242,7 @@ category: country
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1313,6 +1321,7 @@ category: country
 ### Mobile UX issues
 
 *  Avoid plugins
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1464,6 +1473,7 @@ category: country
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1503,6 +1513,7 @@ category: country
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1613,6 +1624,7 @@ category: country
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1693,6 +1705,7 @@ category: country
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 <hr>
 
@@ -1730,6 +1743,7 @@ category: country
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1993,6 +2007,7 @@ category: country
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -2151,6 +2166,7 @@ category: country
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -2227,6 +2243,7 @@ category: country
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -2301,6 +2318,7 @@ category: country
 
 ### Mobile UX issues
 
+*  Configure the viewport
 <hr>
 
 
@@ -2374,6 +2392,7 @@ category: country
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -3099,6 +3118,7 @@ category: country
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/yummy-nuts/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Yummy Nuts Game — Sultans of Game](http://www.sultansofgame.com/games/yummy-nuts/)
 
@@ -29,9 +34,6 @@ title: http://www.sultansofgame.com/games/yummy-nuts/
 *  JS Response Bytes: 1594239
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 137236
-
-### Performance issues
-
 
 ### Performance issues
 

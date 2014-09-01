@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.bild.de/&m=1
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fehler 404 Not Found](http://www.bild.de/&m=1)
 
@@ -29,9 +31,6 @@ title: http://www.bild.de/&m=1
 *  JS Response Bytes: 777855
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5688
-
-### Performance issues
-
 
 ### Performance issues
 

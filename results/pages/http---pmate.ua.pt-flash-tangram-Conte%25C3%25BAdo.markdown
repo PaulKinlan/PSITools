@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://pmate.ua.pt/flash/tangram/Conte%C3%BAdo
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Tangram](http://pmate.ua.pt/flash/tangram/Conte%C3%BAdo)
 
@@ -29,9 +33,6 @@ title: http://pmate.ua.pt/flash/tangram/Conte%C3%BAdo
 *  JS Response Bytes: 26502
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 639
-
-### Performance issues
-
 
 ### Performance issues
 

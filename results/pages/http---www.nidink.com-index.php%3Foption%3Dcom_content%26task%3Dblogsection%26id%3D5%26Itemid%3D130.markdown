@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.nidink.com/index.php?option=com_content&task=blogsection&id=5&Itemid=130
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Home of Nidink - Take me to the games!](http://www.nidink.com/index.php?option=com_content&task=blogsection&id=5&Itemid=130)
 
@@ -29,9 +32,6 @@ title: http://www.nidink.com/index.php?option=com_content&task=blogsection&id=5&
 *  JS Response Bytes: 1167032
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23704
-
-### Performance issues
-
 
 ### Performance issues
 

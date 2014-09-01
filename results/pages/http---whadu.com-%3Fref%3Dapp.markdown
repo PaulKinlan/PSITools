@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://whadu.com/?ref=app
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Create an interstitial ad page for free! | whadu.com](http://whadu.com/?ref=app)
 
@@ -29,9 +33,6 @@ title: http://whadu.com/?ref=app
 *  JS Response Bytes: 235125
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

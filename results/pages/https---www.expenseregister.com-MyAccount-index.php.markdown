@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://www.expenseregister.com/MyAccount/index.php
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Expense Register - Online Expense Tracking Tool for Small Businesses and Individuals](https://www.expenseregister.com/MyAccount/index.php)
 
@@ -29,9 +35,6 @@ title: https://www.expenseregister.com/MyAccount/index.php
 *  JS Response Bytes: 37806
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 484
-
-### Performance issues
-
 
 ### Performance issues
 

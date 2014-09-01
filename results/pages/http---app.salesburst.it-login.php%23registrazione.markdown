@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://app.salesburst.it/login.php#registrazione
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SALESBURST V.5.0](http://app.salesburst.it/login.php#registrazione)
 
@@ -29,9 +33,6 @@ title: http://app.salesburst.it/login.php#registrazione
 *  JS Response Bytes: 721708
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

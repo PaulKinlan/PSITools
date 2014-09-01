@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.icalledu.com/?src=cs
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IcalledU - Manage customer calls the smart way.](http://www.icalledu.com/?src=cs)
 
@@ -29,9 +32,6 @@ title: http://www.icalledu.com/?src=cs
 *  JS Response Bytes: 547060
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 93538
-
-### Performance issues
-
 
 ### Performance issues
 

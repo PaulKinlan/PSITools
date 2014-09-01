@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.247freepoker.com/free_poker_holdem_normal.php?chromestore=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Poker Games](http://www.247freepoker.com/free_poker_holdem_normal.php?chromestore=1)
 
@@ -29,9 +34,6 @@ title: http://www.247freepoker.com/free_poker_holdem_normal.php?chromestore=1
 *  JS Response Bytes: 1489436
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 301800
-
-### Performance issues
-
 
 ### Performance issues
 

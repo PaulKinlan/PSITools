@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.pdfmakerapp.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PDF Maker - Create PDf from html to PDF FREE - Best PDF Creator](http://www.pdfmakerapp.com/)
 
@@ -29,9 +32,6 @@ title: http://www.pdfmakerapp.com/
 *  JS Response Bytes: 2301995
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97774
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kielack.de/anele/peg_solitair.htm
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Peg Solitair](http://www.kielack.de/anele/peg_solitair.htm)
 
@@ -29,9 +34,6 @@ title: http://www.kielack.de/anele/peg_solitair.htm
 *  JS Response Bytes: 393730
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

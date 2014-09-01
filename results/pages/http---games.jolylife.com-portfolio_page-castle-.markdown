@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://games.jolylife.com/portfolio_page/castle/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [GameStation | Castle Clash](http://games.jolylife.com/portfolio_page/castle/)
 
@@ -29,9 +32,6 @@ title: http://games.jolylife.com/portfolio_page/castle/
 *  JS Response Bytes: 837484
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 222203
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://pepper-tube.appspot.com/info
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pepper-Tube](http://pepper-tube.appspot.com/info)
 
@@ -29,9 +33,6 @@ title: http://pepper-tube.appspot.com/info
 *  JS Response Bytes: 25557
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 225
-
-### Performance issues
-
 
 ### Performance issues
 

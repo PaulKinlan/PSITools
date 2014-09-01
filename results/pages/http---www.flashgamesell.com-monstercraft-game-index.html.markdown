@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.flashgamesell.com/monstercraft-game/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Monstercraft Game | Flash Game Sell, Game Unity Games](http://www.flashgamesell.com/monstercraft-game/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.flashgamesell.com/monstercraft-game/index.html
 *  JS Response Bytes: 1059538
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17356
-
-### Performance issues
-
 
 ### Performance issues
 

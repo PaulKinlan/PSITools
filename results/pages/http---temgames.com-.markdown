@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://temgames.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Temgames.com](http://temgames.com/)
 
@@ -18,20 +20,17 @@ title: http://temgames.com/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 1246
+*  Total Request Bytes: 1236
 
 ### Response data
 
-*  HTML Response Bytes: 11130
+*  HTML Response Bytes: 10704
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 1304
+*  Image Response Bytes: 1305
 *  JS Response Bytes: 167694
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

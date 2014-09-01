@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tedswoodworking.apps-com.info/popularwoodworking.htm
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Popular Woodworking](http://www.tedswoodworking.apps-com.info/popularwoodworking.htm)
 
@@ -29,9 +32,6 @@ title: http://www.tedswoodworking.apps-com.info/popularwoodworking.htm
 *  JS Response Bytes: 927492
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 68526
-
-### Performance issues
-
 
 ### Performance issues
 

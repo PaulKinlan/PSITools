@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://inertianetworks.com/s/clientarea/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [404!!](https://inertianetworks.com/s/clientarea/)
 
@@ -29,9 +31,6 @@ title: https://inertianetworks.com/s/clientarea/
 *  JS Response Bytes: 25558
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 419052
-
-### Performance issues
-
 
 ### Performance issues
 

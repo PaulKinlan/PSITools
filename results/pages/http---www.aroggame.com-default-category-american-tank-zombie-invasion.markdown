@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.aroggame.com/default-category/american-tank-zombie-invasion
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [American Tank - Zombie Invasion - Aroggame.com](http://www.aroggame.com/default-category/american-tank-zombie-invasion)
 
@@ -29,9 +34,6 @@ title: http://www.aroggame.com/default-category/american-tank-zombie-invasion
 *  JS Response Bytes: 2194744
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120521
-
-### Performance issues
-
 
 ### Performance issues
 

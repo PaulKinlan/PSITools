@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tubeloop.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TubeLoop - A Social YouTube Experiment](http://www.tubeloop.com/)
 
@@ -29,9 +32,6 @@ title: http://www.tubeloop.com/
 *  JS Response Bytes: 962994
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42019
-
-### Performance issues
-
 
 ### Performance issues
 

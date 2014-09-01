@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.123wzm.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [手机网站大全_123网址之家旗下手机网址导航网站](http://m.123wzm.com/)
 
@@ -29,9 +33,6 @@ title: http://m.123wzm.com/
 *  JS Response Bytes: 225789
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 988
-
-### Performance issues
-
 
 ### Performance issues
 

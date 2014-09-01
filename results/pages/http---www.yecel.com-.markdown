@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.yecel.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [yecel.com - yecel Resources and Information. This website is for sale!](http://www.yecel.com/)
 
@@ -29,9 +30,6 @@ title: http://www.yecel.com/
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

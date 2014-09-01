@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://minecraft-online-hd.blogspot.com.tr/2014/04/american-racing.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [minecraft online game store: American Racing](http://minecraft-online-hd.blogspot.com.tr/2014/04/american-racing.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://minecraft-online-hd.blogspot.com.tr/2014/04/american-racing.html?m
 *  JS Response Bytes: 720875
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95601
-
-### Performance issues
-
 
 ### Performance issues
 

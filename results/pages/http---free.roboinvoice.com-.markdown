@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://free.roboinvoice.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Invoice Creator | Robo Invoice](http://free.roboinvoice.com/)
 
@@ -29,9 +33,6 @@ title: http://free.roboinvoice.com/
 *  JS Response Bytes: 1944658
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 169206
-
-### Performance issues
-
 
 ### Performance issues
 

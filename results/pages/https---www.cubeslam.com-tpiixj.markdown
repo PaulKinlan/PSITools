@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.cubeslam.com/tpiixj
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
 ---
 ## [Cube Slam](https://www.cubeslam.com/tpiixj)
 
@@ -29,9 +32,6 @@ title: https://www.cubeslam.com/tpiixj
 *  JS Response Bytes: 776155
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11959
-
-### Performance issues
-
 
 ### Performance issues
 

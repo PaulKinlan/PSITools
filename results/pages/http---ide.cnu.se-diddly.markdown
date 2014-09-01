@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ide.cnu.se/diddly
+UseLegibleFontSizes: true
 ---
 ## [404 - File or directory not found.](http://ide.cnu.se/diddly)
 
@@ -29,9 +30,6 @@ title: http://ide.cnu.se/diddly
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2024
-
-### Performance issues
-
 
 ### Performance issues
 

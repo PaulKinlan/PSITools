@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.popob.com/barbie-dress-up/#.U_uU7E0ieKA
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Barbie Dress Up – PoPoB Game Area](http://www.popob.com/barbie-dress-up/#.U_uU7E0ieKA)
 
@@ -29,9 +33,6 @@ title: http://www.popob.com/barbie-dress-up/#.U_uU7E0ieKA
 *  JS Response Bytes: 1248844
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 134383
-
-### Performance issues
-
 
 ### Performance issues
 

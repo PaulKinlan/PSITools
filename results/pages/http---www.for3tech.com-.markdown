@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.for3tech.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [For3 Technologies | The Wabash Valley's leading small business technology provider](http://www.for3tech.com/)
 
@@ -29,9 +32,6 @@ title: http://www.for3tech.com/
 *  JS Response Bytes: 352662
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.zrigames.com/clash-of-clans-similar-games-2.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Clash of Clans Similar games « Best HD Games Play Now](http://www.zrigames.com/clash-of-clans-similar-games-2.html)
 
@@ -29,9 +35,6 @@ title: http://www.zrigames.com/clash-of-clans-similar-games-2.html
 *  JS Response Bytes: 523262
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.latestfishingweather.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Fishing Weather Forecast – Local Fishing Reports – Fishing Forecast – Latest Fishing Weather](http://www.latestfishingweather.com/)
 
@@ -29,9 +33,6 @@ title: http://www.latestfishingweather.com/
 *  JS Response Bytes: 1238323
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2308
-
-### Performance issues
-
 
 ### Performance issues
 

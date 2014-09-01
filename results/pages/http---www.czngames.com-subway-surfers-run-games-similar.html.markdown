@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.czngames.com/subway-surfers-run-games-similar.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Subway Surfers Run Games Similar Games](http://www.czngames.com/subway-surfers-run-games-similar.html)
 
@@ -29,9 +36,6 @@ title: http://www.czngames.com/subway-surfers-run-games-similar.html
 *  JS Response Bytes: 556852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14380
-
-### Performance issues
-
 
 ### Performance issues
 

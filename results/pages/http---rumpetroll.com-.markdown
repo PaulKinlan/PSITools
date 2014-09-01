@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://rumpetroll.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Rumpetroll! — It's norwegian, but probably not what you think](http://rumpetroll.com/)
 
@@ -29,9 +33,6 @@ title: http://rumpetroll.com/
 *  JS Response Bytes: 505100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 566
-
-### Performance issues
-
 
 ### Performance issues
 

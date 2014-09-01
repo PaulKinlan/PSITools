@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.nefisyemektarifleri.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Nefis Yemek Tarifleri — Kolay ve Resimli Yemek Tarifleri](http://www.nefisyemektarifleri.com/)
 
@@ -29,9 +31,6 @@ title: http://www.nefisyemektarifleri.com/
 *  JS Response Bytes: 991870
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 921
-
-### Performance issues
-
 
 ### Performance issues
 

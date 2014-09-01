@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.4to4game.com/fun-games/rollercoaster-creator-2#.U_un0U0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rollercoaster Creator 2 - 4to4game.com - just Challange! And Play Free! Play Online!](http://www.4to4game.com/fun-games/rollercoaster-creator-2#.U_un0U0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.4to4game.com/fun-games/rollercoaster-creator-2#.U_un0U0ieKA
 *  JS Response Bytes: 2116451
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 36173
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.heroisdati.com/
+UseLegibleFontSizes: true
 ---
 ## [403 Forbidden](http://www.heroisdati.com/)
 
@@ -29,9 +30,6 @@ title: http://www.heroisdati.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 504
-
-### Performance issues
-
 
 ### Performance issues
 

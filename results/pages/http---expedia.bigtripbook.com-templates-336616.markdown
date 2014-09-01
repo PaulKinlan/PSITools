@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://expedia.bigtripbook.com/templates/336616
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [TravelNow.com - Global Discount Hotel Reservations](http://expedia.bigtripbook.com/templates/336616)
 
@@ -29,9 +31,6 @@ title: http://expedia.bigtripbook.com/templates/336616
 *  JS Response Bytes: 885935
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3355
-
-### Performance issues
-
 
 ### Performance issues
 

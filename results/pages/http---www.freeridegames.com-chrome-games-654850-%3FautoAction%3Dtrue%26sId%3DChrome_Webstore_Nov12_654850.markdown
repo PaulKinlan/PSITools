@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/654850/?autoAction=true&sId=Chrome_Webstore_Nov12_654850
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Gemini Lost for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/654850/?autoAction=true&sId=Chrome_Webstore_Nov12_654850)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/654850/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1490524
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43934
-
-### Performance issues
-
 
 ### Performance issues
 

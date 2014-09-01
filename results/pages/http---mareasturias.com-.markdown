@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://mareasturias.com/
+EnableGzipCompression: true
 ---
 ## [MareAsturias](http://mareasturias.com/)
 
@@ -29,9 +30,6 @@ title: http://mareasturias.com/
 *  JS Response Bytes: 41100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

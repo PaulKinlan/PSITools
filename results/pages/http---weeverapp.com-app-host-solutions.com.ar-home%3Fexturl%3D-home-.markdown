@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://weeverapp.com/app/host-solutions.com.ar/home?exturl=/home/
+UseLegibleFontSizes: true
 ---
 ## [](http://weeverapp.com/app/host-solutions.com.ar/home?exturl=/home/)
 
@@ -29,9 +30,6 @@ title: http://weeverapp.com/app/host-solutions.com.ar/home?exturl=/home/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2191
-
-### Performance issues
-
 
 ### Performance issues
 

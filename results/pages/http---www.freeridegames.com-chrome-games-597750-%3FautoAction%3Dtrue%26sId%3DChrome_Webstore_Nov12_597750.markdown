@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/597750/?autoAction=true&sId=Chrome_Webstore_Nov12_597750
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Kakuro Master for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/597750/?autoAction=true&sId=Chrome_Webstore_Nov12_597750)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/597750/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1349252
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22004
-
-### Performance issues
-
 
 ### Performance issues
 

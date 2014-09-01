@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://sbobgames.blogspot.com/2013/02/garbage-truck.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [SpongeBob Games: Garbage Truck](http://sbobgames.blogspot.com/2013/02/garbage-truck.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://sbobgames.blogspot.com/2013/02/garbage-truck.html?m=1
 *  JS Response Bytes: 1636051
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95873
-
-### Performance issues
-
 
 ### Performance issues
 

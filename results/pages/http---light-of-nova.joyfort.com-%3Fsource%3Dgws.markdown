@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://light-of-nova.joyfort.com/?source=gws
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Light of Nova | Next Gen Space Game with Thousands of Gamers!](http://light-of-nova.joyfort.com/?source=gws)
 
@@ -29,9 +33,6 @@ title: http://light-of-nova.joyfort.com/?source=gws
 *  JS Response Bytes: 1475952
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14221
-
-### Performance issues
-
 
 ### Performance issues
 

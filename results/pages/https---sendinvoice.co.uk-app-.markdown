@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://sendinvoice.co.uk/app/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Manage your invoices online | sendinvoice.co.uk](https://sendinvoice.co.uk/app/)
 
@@ -29,9 +35,6 @@ title: https://sendinvoice.co.uk/app/
 *  JS Response Bytes: 267177
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3672
-
-### Performance issues
-
 
 ### Performance issues
 

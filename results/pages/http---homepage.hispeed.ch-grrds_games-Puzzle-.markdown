@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://homepage.hispeed.ch/grrds_games/Puzzle/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [grrd's Puzzle](http://homepage.hispeed.ch/grrds_games/Puzzle/)
 
@@ -29,9 +31,6 @@ title: http://homepage.hispeed.ch/grrds_games/Puzzle/
 *  JS Response Bytes: 443959
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

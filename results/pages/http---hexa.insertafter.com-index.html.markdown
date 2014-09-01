@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://hexa.insertafter.com/index.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Hexa : Online hexadecimal editor](http://hexa.insertafter.com/index.html)
 
@@ -29,9 +32,6 @@ title: http://hexa.insertafter.com/index.html
 *  JS Response Bytes: 52354
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

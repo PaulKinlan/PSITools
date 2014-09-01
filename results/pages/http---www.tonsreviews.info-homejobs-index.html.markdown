@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.tonsreviews.info/homejobs/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jobs at Home](http://www.tonsreviews.info/homejobs/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.tonsreviews.info/homejobs/index.html
 *  JS Response Bytes: 911966
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110124
-
-### Performance issues
-
 
 ### Performance issues
 

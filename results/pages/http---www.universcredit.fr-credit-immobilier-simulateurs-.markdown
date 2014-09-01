@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.universcredit.fr/credit-immobilier/simulateurs/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Simulateur de Credit, Calcul pret immobilier](http://www.universcredit.fr/credit-immobilier/simulateurs/)
 
@@ -29,9 +33,6 @@ title: http://www.universcredit.fr/credit-immobilier/simulateurs/
 *  JS Response Bytes: 150140
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

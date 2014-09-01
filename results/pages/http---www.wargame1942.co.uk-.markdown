@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.wargame1942.co.uk/
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Wargame 1942](http://www.wargame1942.co.uk/)
 
@@ -29,9 +32,6 @@ title: http://www.wargame1942.co.uk/
 *  JS Response Bytes: 367925
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1977
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://eur.2inr.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Euro to Rupee Exchange Rates - Live](http://eur.2inr.com/)
 
@@ -29,9 +32,6 @@ title: http://eur.2inr.com/
 *  JS Response Bytes: 1062974
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

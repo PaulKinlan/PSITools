@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gameappchrome.blogspot.com/2014/07/nba-2014.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Game App Chrome: NBA 2014](http://gameappchrome.blogspot.com/2014/07/nba-2014.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://gameappchrome.blogspot.com/2014/07/nba-2014.html?m=1
 *  JS Response Bytes: 2278623
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 147853
-
-### Performance issues
-
 
 ### Performance issues
 

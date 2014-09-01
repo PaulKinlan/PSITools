@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://play.dreambox.com/play/login?requested_url=%2F
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Let's Play DreamBox](https://play.dreambox.com/play/login?requested_url=%2F)
 
@@ -29,9 +34,6 @@ title: https://play.dreambox.com/play/login?requested_url=%2F
 *  JS Response Bytes: 577547
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

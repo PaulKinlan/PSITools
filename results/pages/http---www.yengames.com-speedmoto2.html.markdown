@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.yengames.com/speedmoto2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [YenGames.Com | Flash Game Site – SpeedMoto2](http://www.yengames.com/speedmoto2.html)
 
@@ -29,9 +35,6 @@ title: http://www.yengames.com/speedmoto2.html
 *  JS Response Bytes: 413988
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1054
-
-### Performance issues
-
 
 ### Performance issues
 

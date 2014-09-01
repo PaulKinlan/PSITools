@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.mostup.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [澳門先進網 m.mostup.net](http://m.mostup.net/)
 
@@ -29,9 +32,6 @@ title: http://m.mostup.net/
 *  JS Response Bytes: 965668
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

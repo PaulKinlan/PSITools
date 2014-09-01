@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://game2live.net/strategy/battleships.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Battleships - Best Free Online Games | game2live.net - http://game2live.net](http://game2live.net/strategy/battleships.html)
 
@@ -29,9 +34,6 @@ title: http://game2live.net/strategy/battleships.html
 *  JS Response Bytes: 2886958
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 176749
-
-### Performance issues
-
 
 ### Performance issues
 

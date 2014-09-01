@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://test.docusign.net/MEMBER/GDrive2LOProcessor.aspx?fromChrome=true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DocuSign](https://test.docusign.net/MEMBER/GDrive2LOProcessor.aspx?fromChrome=true)
 
@@ -29,9 +33,6 @@ title: https://test.docusign.net/MEMBER/GDrive2LOProcessor.aspx?fromChrome=true
 *  JS Response Bytes: 45254
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

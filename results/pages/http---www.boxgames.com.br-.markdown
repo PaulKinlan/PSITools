@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.boxgames.com.br/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jogos Online no Boxgames](http://www.boxgames.com.br/)
 
@@ -29,9 +34,6 @@ title: http://www.boxgames.com.br/
 *  JS Response Bytes: 315992
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29479
-
-### Performance issues
-
 
 ### Performance issues
 

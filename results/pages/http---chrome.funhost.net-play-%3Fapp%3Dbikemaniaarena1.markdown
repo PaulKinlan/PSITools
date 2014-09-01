@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://chrome.funhost.net/play/?app=bikemaniaarena1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Bike Mania Arena - Game on Fun Host Games!](http://chrome.funhost.net/play/?app=bikemaniaarena1)
 
@@ -29,9 +34,6 @@ title: http://chrome.funhost.net/play/?app=bikemaniaarena1
 *  JS Response Bytes: 2349687
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42017
-
-### Performance issues
-
 
 ### Performance issues
 

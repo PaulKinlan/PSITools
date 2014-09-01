@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tecmedia.com.br/desenvolvimento/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tecmedia | Web site, Portal Corporativo, SEO, Atendimento Online, Help Desk, GED, CRM, Chat, Força de vendas](http://www.tecmedia.com.br/desenvolvimento/)
 
@@ -29,9 +34,6 @@ title: http://www.tecmedia.com.br/desenvolvimento/
 *  JS Response Bytes: 43502
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99915
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bogames.com/onlinegames/baseball/?tag#.U_ubqE0ieKA
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Baseball Games - Play Baseball Games Online](http://www.bogames.com/onlinegames/baseball/?tag#.U_ubqE0ieKA)
 
@@ -29,9 +33,6 @@ title: http://www.bogames.com/onlinegames/baseball/?tag#.U_ubqE0ieKA
 *  JS Response Bytes: 989341
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16893
-
-### Performance issues
-
 
 ### Performance issues
 

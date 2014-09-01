@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamegol.com.br/2.0/_home/?
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Game Gol](http://www.gamegol.com.br/2.0/_home/?)
 
@@ -29,9 +33,6 @@ title: http://www.gamegol.com.br/2.0/_home/?
 *  JS Response Bytes: 787948
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1478
-
-### Performance issues
-
 
 ### Performance issues
 

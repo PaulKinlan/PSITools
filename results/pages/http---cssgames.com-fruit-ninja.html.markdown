@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://cssgames.com/fruit-ninja.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CSSGames.Com – Fruit Ninja](http://cssgames.com/fruit-ninja.html)
 
@@ -29,9 +36,6 @@ title: http://cssgames.com/fruit-ninja.html
 *  JS Response Bytes: 413433
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 801
-
-### Performance issues
-
 
 ### Performance issues
 

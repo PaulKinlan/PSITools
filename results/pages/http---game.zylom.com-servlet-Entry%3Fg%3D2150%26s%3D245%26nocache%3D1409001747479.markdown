@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://game.zylom.com/servlet/Entry?g=2150&s=245&nocache=1409001747479
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mahjongg Fortuna](http://game.zylom.com/servlet/Entry?g=2150&s=245&nocache=1409001747479)
 
@@ -29,9 +35,6 @@ title: http://game.zylom.com/servlet/Entry?g=2150&s=245&nocache=1409001747479
 *  JS Response Bytes: 295519
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8140
-
-### Performance issues
-
 
 ### Performance issues
 

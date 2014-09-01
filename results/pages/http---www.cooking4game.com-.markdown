@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.cooking4game.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cooking4Game - Free Cooking Games](http://www.cooking4game.com/)
 
@@ -29,9 +34,6 @@ title: http://www.cooking4game.com/
 *  JS Response Bytes: 1779280
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 132929
-
-### Performance issues
-
 
 ### Performance issues
 

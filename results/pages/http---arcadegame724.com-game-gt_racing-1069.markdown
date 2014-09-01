@@ -33,8 +33,5 @@ title: http://arcadegame724.com/game/gt_racing-1069
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

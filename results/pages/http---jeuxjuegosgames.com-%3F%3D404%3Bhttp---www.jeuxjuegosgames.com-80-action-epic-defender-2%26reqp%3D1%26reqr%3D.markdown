@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://jeuxjuegosgames.com/?=404;http://www.jeuxjuegosgames.com:80/action/epic-defender-2&reqp=1&reqr=
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [jeuxjuegosgames.com](http://jeuxjuegosgames.com/?=404;http://www.jeuxjuegosgames.com:80/action/epic-defender-2&reqp=1&reqr=)
 
@@ -29,9 +34,6 @@ title: http://jeuxjuegosgames.com/?=404;http://www.jeuxjuegosgames.com:80/action
 *  JS Response Bytes: 304181
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 197
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.alltrendgames.com/category/4
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Agility - All Trend Games](http://www.alltrendgames.com/category/4)
 
@@ -29,9 +32,6 @@ title: http://www.alltrendgames.com/category/4
 *  JS Response Bytes: 647916
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1175
-
-### Performance issues
-
 
 ### Performance issues
 

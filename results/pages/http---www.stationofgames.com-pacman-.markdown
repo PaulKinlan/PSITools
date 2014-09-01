@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.stationofgames.com/pacman/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pacman](http://www.stationofgames.com/pacman/)
 
@@ -29,9 +35,6 @@ title: http://www.stationofgames.com/pacman/
 *  JS Response Bytes: 1484885
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109006
-
-### Performance issues
-
 
 ### Performance issues
 

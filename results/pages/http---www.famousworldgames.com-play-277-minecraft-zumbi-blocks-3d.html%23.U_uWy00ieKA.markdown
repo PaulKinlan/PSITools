@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.famousworldgames.com/play/277/minecraft-zumbi-blocks-3d.html#.U_uWy00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Minecraft: Zumbi Blocks 3D - Famous World Games - Free Online Best Games](http://www.famousworldgames.com/play/277/minecraft-zumbi-blocks-3d.html#.U_uWy00ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.famousworldgames.com/play/277/minecraft-zumbi-blocks-3d.html#.
 *  JS Response Bytes: 1497500
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16449
-
-### Performance issues
-
 
 ### Performance issues
 

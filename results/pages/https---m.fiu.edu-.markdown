@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://m.fiu.edu/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [FIU Mobile](https://m.fiu.edu/)
 
@@ -29,9 +32,6 @@ title: https://m.fiu.edu/
 *  JS Response Bytes: 200477
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

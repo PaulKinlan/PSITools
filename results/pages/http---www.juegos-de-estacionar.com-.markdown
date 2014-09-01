@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.juegos-de-estacionar.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Juegos de Estacionar - Juegos de aparcar, estacionar y parking.](http://www.juegos-de-estacionar.com/)
 
@@ -29,9 +33,6 @@ title: http://www.juegos-de-estacionar.com/
 *  JS Response Bytes: 1640933
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104649
-
-### Performance issues
-
 
 ### Performance issues
 

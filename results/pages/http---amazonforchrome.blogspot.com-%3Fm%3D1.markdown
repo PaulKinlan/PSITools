@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://amazonforchrome.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://amazonforchrome.blogspot.com/?m=1)
 
@@ -18,7 +21,7 @@ title: http://amazonforchrome.blogspot.com/?m=1
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 999
+*  Total Request Bytes: 998
 
 ### Response data
 
@@ -26,12 +29,9 @@ title: http://amazonforchrome.blogspot.com/?m=1
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 46653
 *  Image Response Bytes: 2951
-*  JS Response Bytes: 41022
+*  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18776
-
-### Performance issues
-
 
 ### Performance issues
 

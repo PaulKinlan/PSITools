@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mighty-mouse.formigone.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Web hosting provider - Bluehost.com - domain hosting - PHP Hosting - cheap web hosting - Frontpage Hosting E-Commerce Web Hosting Bluehost](http://mighty-mouse.formigone.com/)
 
@@ -29,9 +33,6 @@ title: http://mighty-mouse.formigone.com/
 *  JS Response Bytes: 43132
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://smallpdf.com/ppt-to-pdf
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [PPT to PDF - Convert Powerpoint to PDF Online](http://smallpdf.com/ppt-to-pdf)
 
@@ -29,9 +33,6 @@ title: http://smallpdf.com/ppt-to-pdf
 *  JS Response Bytes: 1601987
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 160047
-
-### Performance issues
-
 
 ### Performance issues
 

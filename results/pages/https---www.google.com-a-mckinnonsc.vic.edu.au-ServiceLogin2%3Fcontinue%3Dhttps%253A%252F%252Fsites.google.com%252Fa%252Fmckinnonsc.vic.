@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://www.google.com/a/mckinnonsc.vic.edu.au/ServiceLogin2?continue=https%3A%2F%2Fsites.google.com%2Fa%2Fmckinnonsc.vic.edu.au%2Fintranet%2F&followup=https%3A%2F%2Fsites.google.com%2Fa%2Fmckinnonsc.vic.edu.au%2Fintranet%2F&service=jotspot&passive=true&ul=1
+AvoidLandingPageRedirects: true
 ---
 ## [Sign in - Google Accounts](https://www.google.com/a/mckinnonsc.vic.edu.au/ServiceLogin2?continue=https%3A%2F%2Fsites.google.com%2Fa%2Fmckinnonsc.vic.edu.au%2Fintranet%2F&followup=https%3A%2F%2Fsites.google.com%2Fa%2Fmckinnonsc.vic.edu.au%2Fintranet%2F&service=jotspot&passive=true&ul=1)
 
@@ -29,9 +30,6 @@ title: https://www.google.com/a/mckinnonsc.vic.edu.au/ServiceLogin2?continue=htt
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51298
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://populr.me/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Populr.me - Create a Page for Anything in 5 Minutes](https://populr.me/)
 
@@ -29,9 +32,6 @@ title: https://populr.me/
 *  JS Response Bytes: 1691549
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 67066
-
-### Performance issues
-
 
 ### Performance issues
 

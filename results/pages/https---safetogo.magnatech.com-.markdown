@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://safetogo.magnatech.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [SafeToGo](https://safetogo.magnatech.com/)
 
@@ -29,9 +31,6 @@ title: https://safetogo.magnatech.com/
 *  JS Response Bytes: 244194
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 509
-
-### Performance issues
-
 
 ### Performance issues
 

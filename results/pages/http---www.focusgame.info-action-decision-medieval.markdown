@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.focusgame.info/action/decision-medieval
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Decision: Medieval - FoCuS GaMe - New Online Flash Games](http://www.focusgame.info/action/decision-medieval)
 
@@ -29,9 +36,6 @@ title: http://www.focusgame.info/action/decision-medieval
 *  JS Response Bytes: 2506765
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111337
-
-### Performance issues
-
 
 ### Performance issues
 

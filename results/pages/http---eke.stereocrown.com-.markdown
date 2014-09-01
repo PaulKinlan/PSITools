@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://eke.stereocrown.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Eke Online](http://eke.stereocrown.com/)
 
@@ -29,9 +32,6 @@ title: http://eke.stereocrown.com/
 *  JS Response Bytes: 142247
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43739
-
-### Performance issues
-
 
 ### Performance issues
 

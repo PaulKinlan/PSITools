@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://dinspire.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [D'Inspire - Design & Inspiration](http://dinspire.net/)
 
@@ -29,9 +32,6 @@ title: http://dinspire.net/
 *  JS Response Bytes: 316697
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1291
-
-### Performance issues
-
 
 ### Performance issues
 

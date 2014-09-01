@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://chrome.funhost.net/play/?app=turtlebridge
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Turtle Bridge - Game on Fun Host Games!](http://chrome.funhost.net/play/?app=turtlebridge)
 
@@ -29,9 +36,6 @@ title: http://chrome.funhost.net/play/?app=turtlebridge
 *  JS Response Bytes: 3438789
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44005
-
-### Performance issues
-
 
 ### Performance issues
 

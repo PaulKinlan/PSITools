@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://freegamesapplication.blogspot.com/2014/01/coloring-book.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free Game And Application: Coloring Book](http://freegamesapplication.blogspot.com/2014/01/coloring-book.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://freegamesapplication.blogspot.com/2014/01/coloring-book.html?m=1
 *  JS Response Bytes: 1636045
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95893
-
-### Performance issues
-
 
 ### Performance issues
 

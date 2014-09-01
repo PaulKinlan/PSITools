@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://coted.com.br/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [COTED](http://coted.com.br/)
 
@@ -29,9 +31,6 @@ title: http://coted.com.br/
 *  JS Response Bytes: 25852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

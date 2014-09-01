@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameswish.com/default-category/3d-f1-racing
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D F1 Racing - Game Wish](http://www.gameswish.com/default-category/3d-f1-racing)
 
@@ -29,9 +34,6 @@ title: http://www.gameswish.com/default-category/3d-f1-racing
 *  JS Response Bytes: 1331198
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29743
-
-### Performance issues
-
 
 ### Performance issues
 

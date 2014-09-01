@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://essaybank.degree-essays.com/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://essaybank.degree-essays.com/)
 
@@ -29,9 +30,6 @@ title: http://essaybank.degree-essays.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 457
-
-### Performance issues
-
 
 ### Performance issues
 

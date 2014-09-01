@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=/derbygrammar/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Site not found](https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=/derbygrammar/)
 
@@ -29,9 +33,6 @@ title: https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3463
-
-### Performance issues
-
 
 ### Performance issues
 

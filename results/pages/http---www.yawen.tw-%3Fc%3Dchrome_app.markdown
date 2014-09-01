@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.yawen.tw/?c=chrome_app
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [雅文 :: Yawen.tw](http://www.yawen.tw/?c=chrome_app)
 
@@ -29,9 +31,6 @@ title: http://www.yawen.tw/?c=chrome_app
 *  JS Response Bytes: 370000
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1381
-
-### Performance issues
-
 
 ### Performance issues
 

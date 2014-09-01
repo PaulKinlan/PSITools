@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://office.live.com/start/PowerPoint.aspx?WT.mc_id=016_Chrome_Web_Store_App_PowerPoint_1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Microsoft PowerPoint Online - Work together on PowerPoint presentations](https://office.live.com/start/PowerPoint.aspx?WT.mc_id=016_Chrome_Web_Store_App_PowerPoint_1)
 
@@ -29,9 +34,6 @@ title: https://office.live.com/start/PowerPoint.aspx?WT.mc_id=016_Chrome_Web_Sto
 *  JS Response Bytes: 489891
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

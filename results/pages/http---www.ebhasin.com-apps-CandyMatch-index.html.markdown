@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.ebhasin.com/apps/CandyMatch/index.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Candy Match -::- Bhasinsoft](http://www.ebhasin.com/apps/CandyMatch/index.html)
 
@@ -29,9 +31,6 @@ title: http://www.ebhasin.com/apps/CandyMatch/index.html
 *  JS Response Bytes: 391940
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19404
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.games.com/hub/play/chrome/poker-texas-holdem-no-limit/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Error Page : Games.com](http://www.games.com/hub/play/chrome/poker-texas-holdem-no-limit/)
 
@@ -29,9 +32,6 @@ title: http://www.games.com/hub/play/chrome/poker-texas-holdem-no-limit/
 *  JS Response Bytes: 692748
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 130001
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamenur.com/tequila-zombies-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tequila zombies 2 | Gamenur](http://www.gamenur.com/tequila-zombies-2/)
 
@@ -29,9 +34,6 @@ title: http://www.gamenur.com/tequila-zombies-2/
 *  JS Response Bytes: 1414847
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 146836
-
-### Performance issues
-
 
 ### Performance issues
 

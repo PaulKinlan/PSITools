@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://my.gpanion.com/
+UseLegibleFontSizes: true
 ---
 ## [](http://my.gpanion.com/)
 
@@ -29,9 +30,6 @@ title: http://my.gpanion.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 335
-
-### Performance issues
-
 
 ### Performance issues
 

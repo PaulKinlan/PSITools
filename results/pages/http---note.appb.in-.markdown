@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://note.appb.in/
+MinimizeRenderBlockingResources: true
 ---
 ## [note.appb.in](http://note.appb.in/)
 
@@ -29,9 +30,6 @@ title: http://note.appb.in/
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

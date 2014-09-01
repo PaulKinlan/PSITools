@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ludado.com/pyramids.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ludado - Pyramids](http://www.ludado.com/pyramids.html)
 
@@ -29,9 +32,6 @@ title: http://www.ludado.com/pyramids.html
 *  JS Response Bytes: 362357
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1167
-
-### Performance issues
-
 
 ### Performance issues
 

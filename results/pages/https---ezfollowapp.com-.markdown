@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://ezfollowapp.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login](https://ezfollowapp.com/)
 
@@ -29,9 +32,6 @@ title: https://ezfollowapp.com/
 *  JS Response Bytes: 489772
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 575
-
-### Performance issues
-
 
 ### Performance issues
 

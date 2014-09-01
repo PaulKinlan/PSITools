@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.kooxpi.com/tag/best
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [best | Kooxpi Games: Play free online games](http://www.kooxpi.com/tag/best)
 
@@ -29,9 +33,6 @@ title: http://www.kooxpi.com/tag/best
 *  JS Response Bytes: 543302
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

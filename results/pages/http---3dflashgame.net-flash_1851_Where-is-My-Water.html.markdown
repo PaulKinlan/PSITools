@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://3dflashgame.net/flash_1851_Where-is-My-Water.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Where is My Water flash game 3D unity 2013](http://3dflashgame.net/flash_1851_Where-is-My-Water.html)
 
@@ -29,9 +34,6 @@ title: http://3dflashgame.net/flash_1851_Where-is-My-Water.html
 *  JS Response Bytes: 572617
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

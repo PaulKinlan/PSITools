@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.ebhasin.com/games/HeartBreaker/index.html
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Heart Breaker -:: Bhasinsoft](http://www.ebhasin.com/games/HeartBreaker/index.html)
 
@@ -29,9 +31,6 @@ title: http://www.ebhasin.com/games/HeartBreaker/index.html
 *  JS Response Bytes: 1467668
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109869
-
-### Performance issues
-
 
 ### Performance issues
 

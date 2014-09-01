@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://webmon.siteflex.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Website monitor](http://webmon.siteflex.net/)
 
@@ -29,9 +31,6 @@ title: http://webmon.siteflex.net/
 *  JS Response Bytes: 571476
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

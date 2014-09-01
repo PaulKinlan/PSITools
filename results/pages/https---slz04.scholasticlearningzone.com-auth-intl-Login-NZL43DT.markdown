@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://slz04.scholasticlearningzone.com/auth/intl/Login/NZL43DT
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Scholastic Learning Zone](https://slz04.scholasticlearningzone.com/auth/intl/Login/NZL43DT)
 
@@ -29,9 +33,6 @@ title: https://slz04.scholasticlearningzone.com/auth/intl/Login/NZL43DT
 *  JS Response Bytes: 783198
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13703
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.hoydeturno.com.ar/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Farmacias de Turno en Pergamino](http://www.hoydeturno.com.ar/)
 
@@ -29,9 +32,6 @@ title: http://www.hoydeturno.com.ar/
 *  JS Response Bytes: 285955
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

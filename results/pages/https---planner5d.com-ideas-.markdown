@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://planner5d.com/ideas/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Planner 5D - Ideas](https://planner5d.com/ideas/)
 
@@ -29,9 +33,6 @@ title: https://planner5d.com/ideas/
 *  JS Response Bytes: 167467
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 379
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.icardgames.com/ChromeSpades.php
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Spades](http://www.icardgames.com/ChromeSpades.php)
 
@@ -29,9 +35,6 @@ title: http://www.icardgames.com/ChromeSpades.php
 *  JS Response Bytes: 450921
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

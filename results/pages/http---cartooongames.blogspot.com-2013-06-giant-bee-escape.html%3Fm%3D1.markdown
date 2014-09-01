@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://cartooongames.blogspot.com/2013/06/giant-bee-escape.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://cartooongames.blogspot.com/2013/06/giant-bee-escape.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://cartooongames.blogspot.com/2013/06/giant-bee-escape.html?m=1
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19306
-
-### Performance issues
-
 
 ### Performance issues
 

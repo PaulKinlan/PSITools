@@ -33,8 +33,5 @@ title: http://vandfald.net/privalia
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

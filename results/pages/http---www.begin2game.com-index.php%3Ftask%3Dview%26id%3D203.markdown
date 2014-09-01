@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.begin2game.com/index.php?task=view&id=203
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Duty Hill 2 - BeGiN2GaMe - just Challange! And Play Free! Play Online!](http://www.begin2game.com/index.php?task=view&id=203)
 
@@ -29,9 +34,6 @@ title: http://www.begin2game.com/index.php?task=view&id=203
 *  JS Response Bytes: 2271865
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120835
-
-### Performance issues
-
 
 ### Performance issues
 

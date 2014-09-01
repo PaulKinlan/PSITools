@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://arabic-to-english-translation.herokuapp.com/
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [العربية إلى الإنجليزية ترجمة](http://arabic-to-english-translation.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://arabic-to-english-translation.herokuapp.com/
 *  JS Response Bytes: 1807879
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125359
-
-### Performance issues
-
 
 ### Performance issues
 

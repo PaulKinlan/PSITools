@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mozillagames.com/angry-birds-space.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Space | Mozilla Games](http://www.mozillagames.com/angry-birds-space.html)
 
@@ -29,9 +34,6 @@ title: http://www.mozillagames.com/angry-birds-space.html
 *  JS Response Bytes: 1529038
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103929
-
-### Performance issues
-
 
 ### Performance issues
 

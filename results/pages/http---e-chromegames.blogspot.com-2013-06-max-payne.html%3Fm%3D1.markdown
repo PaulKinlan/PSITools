@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://e-chromegames.blogspot.com/2013/06/max-payne.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [e-chromegames: Max Payne](http://e-chromegames.blogspot.com/2013/06/max-payne.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://e-chromegames.blogspot.com/2013/06/max-payne.html?m=1
 *  JS Response Bytes: 1068805
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97978
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.idmdownloadmaster.com/internet-download-manager.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [İnternet Download Manager | İdm Download Master](http://www.idmdownloadmaster.com/internet-download-manager.html)
 
@@ -29,9 +32,6 @@ title: http://www.idmdownloadmaster.com/internet-download-manager.html
 *  JS Response Bytes: 656118
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 68445
-
-### Performance issues
-
 
 ### Performance issues
 

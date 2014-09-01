@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://marketingdigital360.net/blog/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Master Marketing Digital 360 - #simples #prático # eficaz](http://marketingdigital360.net/blog/)
 
@@ -29,9 +32,6 @@ title: http://marketingdigital360.net/blog/
 *  JS Response Bytes: 4299269
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 364628
-
-### Performance issues
-
 
 ### Performance issues
 

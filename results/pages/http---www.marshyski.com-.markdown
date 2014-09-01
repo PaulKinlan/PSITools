@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.marshyski.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Marshy Ski](http://www.marshyski.com/)
 
@@ -29,9 +32,6 @@ title: http://www.marshyski.com/
 *  JS Response Bytes: 213530
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46961
-
-### Performance issues
-
 
 ### Performance issues
 

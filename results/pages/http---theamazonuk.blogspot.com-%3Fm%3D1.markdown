@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://theamazonuk.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://theamazonuk.blogspot.com/?m=1)
 
@@ -18,20 +21,17 @@ title: http://theamazonuk.blogspot.com/?m=1
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 985
+*  Total Request Bytes: 984
 
 ### Response data
 
 *  HTML Response Bytes: 0
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 46653
+*  CSS Response Bytes: 46652
 *  Image Response Bytes: 2951
-*  JS Response Bytes: 41101
+*  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 18758
-
-### Performance issues
-
+*  Other Response Bytes: 18757
 
 ### Performance issues
 

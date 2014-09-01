@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww1.locolearning.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [locolearning.com - locolearning Resources and Information. This website is for sale!](http://ww1.locolearning.com/)
 
@@ -22,16 +23,13 @@ title: http://ww1.locolearning.com/
 
 ### Response data
 
-*  HTML Response Bytes: 25430
+*  HTML Response Bytes: 25426
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 0
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 174
-
-### Performance issues
-
 
 ### Performance issues
 

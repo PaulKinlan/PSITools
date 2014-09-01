@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.drogbaster.it/Trailer_Film.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Trailer dei film in programmazione nei cinema](http://www.drogbaster.it/Trailer_Film.htm)
 
@@ -29,9 +34,6 @@ title: http://www.drogbaster.it/Trailer_Film.htm
 *  JS Response Bytes: 2075860
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 129841
-
-### Performance issues
-
 
 ### Performance issues
 

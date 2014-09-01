@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://funkyflash.info/newsuperchicksisters.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [NEW Super Chick Sisters Game](http://funkyflash.info/newsuperchicksisters.htm)
 
@@ -29,9 +35,6 @@ title: http://funkyflash.info/newsuperchicksisters.htm
 *  JS Response Bytes: 585748
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96163
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://moomgame.com/2048-flash/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MoomGame.com Play Full HD Game – 2048 Flash](http://moomgame.com/2048-flash/)
 
@@ -29,9 +34,6 @@ title: http://moomgame.com/2048-flash/
 *  JS Response Bytes: 728257
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14560
-
-### Performance issues
-
 
 ### Performance issues
 

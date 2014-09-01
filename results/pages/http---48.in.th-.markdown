@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://48.in.th/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [48.in.th](http://48.in.th/)
 
@@ -29,9 +32,6 @@ title: http://48.in.th/
 *  JS Response Bytes: 236085
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

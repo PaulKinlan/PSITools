@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chrome.funhost.net/daygame/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Fun Games and Get Free Apps](http://chrome.funhost.net/daygame/)
 
@@ -29,9 +33,6 @@ title: http://chrome.funhost.net/daygame/
 *  JS Response Bytes: 2275768
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117436
-
-### Performance issues
-
 
 ### Performance issues
 

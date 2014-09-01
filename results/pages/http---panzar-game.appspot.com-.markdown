@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://panzar-game.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Panzar Online](http://panzar-game.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://panzar-game.appspot.com/
 *  JS Response Bytes: 632991
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 36824
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://chrome.google.com/webstore/detail/facebook-color-changer/afedcjoccajaicgdodipokdpflhedcco
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Facebook color changer](https://chrome.google.com/webstore/detail/facebook-color-changer/afedcjoccajaicgdodipokdpflhedcco)
 
@@ -29,9 +31,6 @@ title: https://chrome.google.com/webstore/detail/facebook-color-changer/afedcjoc
 *  JS Response Bytes: 687042
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95090
-
-### Performance issues
-
 
 ### Performance issues
 

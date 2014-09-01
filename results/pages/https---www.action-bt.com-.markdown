@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.action-bt.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Action Business Tools: la gestión gratuita de PyMEs y autónomos en la nube.](https://www.action-bt.com/)
 
@@ -29,9 +31,6 @@ title: https://www.action-bt.com/
 *  JS Response Bytes: 1065588
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95581
-
-### Performance issues
-
 
 ### Performance issues
 

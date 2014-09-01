@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://web.xms.me/#login-step1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Web XMS](https://web.xms.me/#login-step1)
 
@@ -29,9 +34,6 @@ title: https://web.xms.me/#login-step1
 *  JS Response Bytes: 618967
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 592
-
-### Performance issues
-
 
 ### Performance issues
 

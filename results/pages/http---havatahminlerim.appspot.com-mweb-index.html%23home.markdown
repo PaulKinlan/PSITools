@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://havatahminlerim.appspot.com/mweb/index.html#home
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [](http://havatahminlerim.appspot.com/mweb/index.html#home)
 
@@ -29,9 +31,6 @@ title: http://havatahminlerim.appspot.com/mweb/index.html#home
 *  JS Response Bytes: 477541
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43187
-
-### Performance issues
-
 
 ### Performance issues
 

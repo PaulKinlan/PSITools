@@ -33,8 +33,5 @@ title: http://mahjonggames23.com/game.php?id=87
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

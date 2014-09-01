@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.weroom.com/en
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Weroom – Find a flatshare to stay & great people to live with!](https://www.weroom.com/en)
 
@@ -29,9 +32,6 @@ title: https://www.weroom.com/en
 *  JS Response Bytes: 972697
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 101224
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.cynosurex.com/Software/Words%20That%20Sell/ChromeApp.php
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Words That Sell](http://www.cynosurex.com/Software/Words%20That%20Sell/ChromeApp.php)
 
@@ -29,9 +31,6 @@ title: http://www.cynosurex.com/Software/Words%20That%20Sell/ChromeApp.php
 *  JS Response Bytes: 90893
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

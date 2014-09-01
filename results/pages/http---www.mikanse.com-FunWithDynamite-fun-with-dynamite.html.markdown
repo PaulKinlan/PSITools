@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mikanse.com/FunWithDynamite/fun-with-dynamite.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fun with dynamite](http://www.mikanse.com/FunWithDynamite/fun-with-dynamite.html)
 
@@ -29,9 +34,6 @@ title: http://www.mikanse.com/FunWithDynamite/fun-with-dynamite.html
 *  JS Response Bytes: 1996328
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109876
-
-### Performance issues
-
 
 ### Performance issues
 

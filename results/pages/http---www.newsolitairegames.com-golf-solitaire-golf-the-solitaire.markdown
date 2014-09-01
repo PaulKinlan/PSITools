@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.newsolitairegames.com/golf-solitaire/golf-the-solitaire
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Golf - The Solitaire - Games - Play Free Online New Solitaire Games](http://www.newsolitairegames.com/golf-solitaire/golf-the-solitaire)
 
@@ -29,9 +35,6 @@ title: http://www.newsolitairegames.com/golf-solitaire/golf-the-solitaire
 *  JS Response Bytes: 979018
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15995
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://demo.nomadeditions.com/wide-screen/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Wide Screen](http://demo.nomadeditions.com/wide-screen/)
 
@@ -29,9 +32,6 @@ title: http://demo.nomadeditions.com/wide-screen/
 *  JS Response Bytes: 102196
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2464
-
-### Performance issues
-
 
 ### Performance issues
 

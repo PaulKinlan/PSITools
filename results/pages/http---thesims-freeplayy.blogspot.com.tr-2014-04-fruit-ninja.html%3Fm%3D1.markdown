@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://thesims-freeplayy.blogspot.com.tr/2014/04/fruit-ninja.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [the sims free play game: Fruit Ninja](http://thesims-freeplayy.blogspot.com.tr/2014/04/fruit-ninja.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://thesims-freeplayy.blogspot.com.tr/2014/04/fruit-ninja.html?m=1
 *  JS Response Bytes: 1477233
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112836
-
-### Performance issues
-
 
 ### Performance issues
 

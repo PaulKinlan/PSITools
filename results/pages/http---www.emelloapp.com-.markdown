@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.emelloapp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Emello, email to trello integration](http://www.emelloapp.com/)
 
@@ -29,9 +31,6 @@ title: http://www.emelloapp.com/
 *  JS Response Bytes: 220191
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 60977
-
-### Performance issues
-
 
 ### Performance issues
 

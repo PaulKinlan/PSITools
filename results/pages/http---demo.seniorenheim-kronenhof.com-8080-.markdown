@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://demo.seniorenheim-kronenhof.com:8080/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [demo.seniorenheim-kronenhof.com](http://demo.seniorenheim-kronenhof.com:8080/)
 
@@ -29,9 +34,6 @@ title: http://demo.seniorenheim-kronenhof.com:8080/
 *  JS Response Bytes: 409239
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 778
-
-### Performance issues
-
 
 ### Performance issues
 

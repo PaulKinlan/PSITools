@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://thewordsearch.com/chromeapp/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Word Search](http://thewordsearch.com/chromeapp/)
 
@@ -29,9 +32,6 @@ title: http://thewordsearch.com/chromeapp/
 *  JS Response Bytes: 112915
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

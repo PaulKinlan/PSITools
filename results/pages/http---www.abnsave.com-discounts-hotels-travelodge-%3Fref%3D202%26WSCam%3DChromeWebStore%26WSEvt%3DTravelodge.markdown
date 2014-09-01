@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.abnsave.com/discounts/hotels/travelodge/?ref=202&WSCam=ChromeWebStore&WSEvt=Travelodge
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Travelodge Promo Code - Hotel Discount Codes | ABN Save](http://www.abnsave.com/discounts/hotels/travelodge/?ref=202&WSCam=ChromeWebStore&WSEvt=Travelodge)
 
@@ -29,9 +34,6 @@ title: http://www.abnsave.com/discounts/hotels/travelodge/?ref=202&WSCam=ChromeW
 *  JS Response Bytes: 3002530
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 145892
-
-### Performance issues
-
 
 ### Performance issues
 

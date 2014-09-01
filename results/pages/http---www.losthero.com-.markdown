@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.losthero.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LOST HERO - Free Online Comix Game](http://www.losthero.com/)
 
@@ -29,9 +32,6 @@ title: http://www.losthero.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

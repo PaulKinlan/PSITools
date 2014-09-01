@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.dotemu.com/en/play/hammerin-harry
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Hammerin Harry online for free - DotEmu](http://www.dotemu.com/en/play/hammerin-harry)
 
@@ -29,9 +32,6 @@ title: http://www.dotemu.com/en/play/hammerin-harry
 *  JS Response Bytes: 1548422
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97895
-
-### Performance issues
-
 
 ### Performance issues
 

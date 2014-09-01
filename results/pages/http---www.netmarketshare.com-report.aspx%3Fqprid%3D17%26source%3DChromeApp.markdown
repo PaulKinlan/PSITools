@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.netmarketshare.com/report.aspx?qprid=17&source=ChromeApp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Market share for browsers, operating systems and search engines | News](http://www.netmarketshare.com/report.aspx?qprid=17&source=ChromeApp)
 
@@ -29,9 +33,6 @@ title: http://www.netmarketshare.com/report.aspx?qprid=17&source=ChromeApp
 *  JS Response Bytes: 406950
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

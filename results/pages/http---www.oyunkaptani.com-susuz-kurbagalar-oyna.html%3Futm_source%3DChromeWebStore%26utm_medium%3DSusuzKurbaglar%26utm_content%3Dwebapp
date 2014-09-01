@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.oyunkaptani.com/susuz-kurbagalar-oyna.html?utm_source=ChromeWebStore&utm_medium=SusuzKurbaglar&utm_content=webapp&utm_campaign=kisayol
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Susuz Kurbağalar Oyna - Oyun Kaptanı](http://www.oyunkaptani.com/susuz-kurbagalar-oyna.html?utm_source=ChromeWebStore&utm_medium=SusuzKurbaglar&utm_content=webapp&utm_campaign=kisayol)
 
@@ -29,9 +35,6 @@ title: http://www.oyunkaptani.com/susuz-kurbagalar-oyna.html?utm_source=ChromeWe
 *  JS Response Bytes: 2036148
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 302302
-
-### Performance issues
-
 
 ### Performance issues
 

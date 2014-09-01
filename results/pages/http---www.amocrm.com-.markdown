@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.amocrm.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CRM online by amoCRM. Web based hosted CRM for small business lead & sales pipeline management for B2B — amoCRM](http://www.amocrm.com/)
 
@@ -29,9 +32,6 @@ title: http://www.amocrm.com/
 *  JS Response Bytes: 250566
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1017
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.surgery-games.org/drunk-doctor-3/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Drunk Doctor game](http://www.surgery-games.org/drunk-doctor-3/)
 
@@ -29,9 +36,6 @@ title: http://www.surgery-games.org/drunk-doctor-3/
 *  JS Response Bytes: 2429228
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 128757
-
-### Performance issues
-
 
 ### Performance issues
 

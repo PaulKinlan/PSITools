@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://fiddlesalad.com/roy/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+UseLegibleFontSizes: true
 ---
 ## [Programming with Roy | Fiddle Salad](http://fiddlesalad.com/roy/)
 
@@ -29,9 +32,6 @@ title: http://fiddlesalad.com/roy/
 *  JS Response Bytes: 2494075
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48985
-
-### Performance issues
-
 
 ### Performance issues
 

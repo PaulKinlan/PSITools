@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.newsblur.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [NewsBlur](http://www.newsblur.com/)
 
@@ -29,9 +32,6 @@ title: http://www.newsblur.com/
 *  JS Response Bytes: 1191282
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1639
-
-### Performance issues
-
 
 ### Performance issues
 

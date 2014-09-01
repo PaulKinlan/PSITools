@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.flashtogame.com/view/1111/streets-of-gotham-full-throttle-
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Streets of Gotham Full Throttle - Flash to GaMe - Free Online Flash Games](http://www.flashtogame.com/view/1111/streets-of-gotham-full-throttle-)
 
@@ -29,9 +34,6 @@ title: http://www.flashtogame.com/view/1111/streets-of-gotham-full-throttle-
 *  JS Response Bytes: 2036863
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 126850
-
-### Performance issues
-
 
 ### Performance issues
 

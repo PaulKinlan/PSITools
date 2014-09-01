@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.chromegameszone.com/category/13
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Boxing - Chrome Games Zone](http://www.chromegameszone.com/category/13)
 
@@ -29,9 +32,6 @@ title: http://www.chromegameszone.com/category/13
 *  JS Response Bytes: 649198
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1180
-
-### Performance issues
-
 
 ### Performance issues
 

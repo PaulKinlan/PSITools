@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.kingofgamez.com/webcam-toy.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Webcam Toy | King of Gamez](http://www.kingofgamez.com/webcam-toy.html)
 
@@ -29,9 +33,6 @@ title: http://www.kingofgamez.com/webcam-toy.html
 *  JS Response Bytes: 1053621
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16267
-
-### Performance issues
-
 
 ### Performance issues
 

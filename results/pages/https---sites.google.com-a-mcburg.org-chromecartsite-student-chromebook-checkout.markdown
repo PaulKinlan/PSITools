@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://sites.google.com/a/mcburg.org/chromecartsite/student-chromebook-checkout
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Student Checkout - Chrome Cart Site](https://sites.google.com/a/mcburg.org/chromecartsite/student-chromebook-checkout)
 
@@ -29,9 +33,6 @@ title: https://sites.google.com/a/mcburg.org/chromecartsite/student-chromebook-c
 *  JS Response Bytes: 412691
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4428
-
-### Performance issues
-
 
 ### Performance issues
 

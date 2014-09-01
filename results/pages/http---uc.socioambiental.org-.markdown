@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://uc.socioambiental.org/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Unidades de Conservação |](http://uc.socioambiental.org/)
 
@@ -29,9 +33,6 @@ title: http://uc.socioambiental.org/
 *  JS Response Bytes: 970983
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2699
-
-### Performance issues
-
 
 ### Performance issues
 

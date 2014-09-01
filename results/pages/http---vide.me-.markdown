@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://vide.me/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Vide.me Record you video email](http://vide.me/)
 
@@ -29,9 +32,6 @@ title: http://vide.me/
 *  JS Response Bytes: 274350
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 639
-
-### Performance issues
-
 
 ### Performance issues
 

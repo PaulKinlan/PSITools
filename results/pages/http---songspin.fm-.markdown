@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://songspin.fm/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Songspin.FM - Free Music - Internet Radio](http://songspin.fm/)
 
@@ -29,9 +34,6 @@ title: http://songspin.fm/
 *  JS Response Bytes: 1331053
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96359
-
-### Performance issues
-
 
 ### Performance issues
 

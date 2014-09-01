@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://antogames.com/minecraft-demo/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AntoGames.Com Full Free Flash Game – Minecraft Demo](http://antogames.com/minecraft-demo/)
 
@@ -29,9 +33,6 @@ title: http://antogames.com/minecraft-demo/
 *  JS Response Bytes: 728257
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14977
-
-### Performance issues
-
 
 ### Performance issues
 

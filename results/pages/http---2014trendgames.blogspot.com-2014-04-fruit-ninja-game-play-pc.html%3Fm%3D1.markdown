@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://2014trendgames.blogspot.com/2014/04/fruit-ninja-game-play-pc.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [2014 Trend games: Fruit Ninja Game Play PC](http://2014trendgames.blogspot.com/2014/04/fruit-ninja-game-play-pc.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://2014trendgames.blogspot.com/2014/04/fruit-ninja-game-play-pc.html?
 *  JS Response Bytes: 1573820
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 139601
-
-### Performance issues
-
 
 ### Performance issues
 

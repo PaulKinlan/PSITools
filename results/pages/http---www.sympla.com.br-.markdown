@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sympla.com.br/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sympla - A Plataforma Online de Eventos - Inscrições e Venda de Ingressos](http://www.sympla.com.br/)
 
@@ -29,9 +34,6 @@ title: http://www.sympla.com.br/
 *  JS Response Bytes: 1489497
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1256
-
-### Performance issues
-
 
 ### Performance issues
 

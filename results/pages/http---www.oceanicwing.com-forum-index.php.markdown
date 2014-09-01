@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.oceanicwing.com/forum/index.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Oceanic Wing Forum • Index page](http://www.oceanicwing.com/forum/index.php)
 
@@ -29,9 +32,6 @@ title: http://www.oceanicwing.com/forum/index.php
 *  JS Response Bytes: 10096
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

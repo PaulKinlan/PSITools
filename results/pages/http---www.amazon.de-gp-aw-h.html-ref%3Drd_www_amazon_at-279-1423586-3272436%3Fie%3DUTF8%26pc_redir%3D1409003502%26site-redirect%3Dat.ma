@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.amazon.de/gp/aw/h.html/ref=rd_www_amazon_at/279-1423586-3272436?ie=UTF8&pc_redir=1409003502&site-redirect=at
+AvoidLandingPageRedirects: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Amazon.de](http://www.amazon.de/gp/aw/h.html/ref=rd_www_amazon_at/279-1423586-3272436?ie=UTF8&pc_redir=1409003502&site-redirect=at)
 
@@ -29,9 +31,6 @@ title: http://www.amazon.de/gp/aw/h.html/ref=rd_www_amazon_at/279-1423586-327243
 *  JS Response Bytes: 392182
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2416
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.edgeent.com/v2/edge_npm.asp?eidm=17
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Edge Entertainment [I Liga Nacional de Descent] - Editorial de juegos de rol, cartas, tablero, miniaturas y novelas.](http://www.edgeent.com/v2/edge_npm.asp?eidm=17)
 
@@ -29,9 +33,6 @@ title: http://www.edgeent.com/v2/edge_npm.asp?eidm=17
 *  JS Response Bytes: 144485
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 451
-
-### Performance issues
-
 
 ### Performance issues
 

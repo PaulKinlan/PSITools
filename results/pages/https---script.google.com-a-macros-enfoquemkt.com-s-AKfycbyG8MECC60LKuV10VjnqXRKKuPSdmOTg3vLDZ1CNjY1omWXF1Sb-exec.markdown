@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://script.google.com/a/macros/enfoquemkt.com/s/AKfycbyG8MECC60LKuV10VjnqXRKKuPSdmOTg3vLDZ1CNjY1omWXF1Sb/exec
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Google Apps Script](https://script.google.com/a/macros/enfoquemkt.com/s/AKfycbyG8MECC60LKuV10VjnqXRKKuPSdmOTg3vLDZ1CNjY1omWXF1Sb/exec)
 
@@ -29,9 +35,6 @@ title: https://script.google.com/a/macros/enfoquemkt.com/s/AKfycbyG8MECC60LKuV10
 *  JS Response Bytes: 1292929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

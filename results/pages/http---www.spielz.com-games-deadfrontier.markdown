@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.spielz.com/games/deadfrontier
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [spiele](http://www.spielz.com/games/deadfrontier)
 
@@ -29,9 +34,6 @@ title: http://www.spielz.com/games/deadfrontier
 *  JS Response Bytes: 2395547
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122820
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://pcardona34.github.io/jcrux/index.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [JCruX](http://pcardona34.github.io/jcrux/index.html)
 
@@ -29,9 +32,6 @@ title: http://pcardona34.github.io/jcrux/index.html
 *  JS Response Bytes: 106653
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

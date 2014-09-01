@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://jotake.virtualwaregroup.com/index.html
+EnableGzipCompression: true
 ---
 ## [Jotake](http://jotake.virtualwaregroup.com/index.html)
 
@@ -29,9 +30,6 @@ title: http://jotake.virtualwaregroup.com/index.html
 *  JS Response Bytes: 149550
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

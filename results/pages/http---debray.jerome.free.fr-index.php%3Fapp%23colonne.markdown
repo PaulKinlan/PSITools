@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://debray.jerome.free.fr/index.php?app#colonne
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Generateur de multi-colonnes en CSS3 - Design et programmation web2 - Dji](http://debray.jerome.free.fr/index.php?app#colonne)
 
@@ -29,9 +34,6 @@ title: http://debray.jerome.free.fr/index.php?app#colonne
 *  JS Response Bytes: 446656
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 626
-
-### Performance issues
-
 
 ### Performance issues
 

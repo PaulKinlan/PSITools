@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.brilliance.co.il/?page_id=814
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [fat loss factor | קורסים בהתאמה אישית. כל קורס מכל מכללה או מוסד לימודים ביעוץ אישי והכוונה חינם.](http://www.brilliance.co.il/?page_id=814)
 
@@ -29,9 +34,6 @@ title: http://www.brilliance.co.il/?page_id=814
 *  JS Response Bytes: 663969
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3235
-
-### Performance issues
-
 
 ### Performance issues
 

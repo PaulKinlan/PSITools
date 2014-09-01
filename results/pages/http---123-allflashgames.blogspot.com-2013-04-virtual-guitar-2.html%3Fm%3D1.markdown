@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://123-allflashgames.blogspot.com/2013/04/virtual-guitar-2.html?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [All Flash Games: Virtual Guitar 2](http://123-allflashgames.blogspot.com/2013/04/virtual-guitar-2.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://123-allflashgames.blogspot.com/2013/04/virtual-guitar-2.html?m=1
 *  JS Response Bytes: 2461299
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 302556
-
-### Performance issues
-
 
 ### Performance issues
 

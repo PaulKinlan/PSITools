@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/horizon-of-war/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Horizon Of War](http://www.war-games.ws/horizon-of-war/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/horizon-of-war/
 *  JS Response Bytes: 2292866
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122542
-
-### Performance issues
-
 
 ### Performance issues
 

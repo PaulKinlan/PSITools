@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://phown.manybots.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Phown - Backup, explore and connect your phone calls and messages, with Android or iPhone](https://phown.manybots.com/)
 
@@ -29,9 +34,6 @@ title: https://phown.manybots.com/
 *  JS Response Bytes: 373822
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

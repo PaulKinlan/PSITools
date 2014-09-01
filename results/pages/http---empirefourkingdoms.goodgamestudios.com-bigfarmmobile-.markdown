@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://empirefourkingdoms.goodgamestudios.com/bigfarmmobile/
+MinimizeRenderBlockingResources: true
 ---
 ## [Goodgame Big Farm | The first farm strategy game](http://empirefourkingdoms.goodgamestudios.com/bigfarmmobile/)
 
@@ -29,9 +30,6 @@ title: http://empirefourkingdoms.goodgamestudios.com/bigfarmmobile/
 *  JS Response Bytes: 136100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22940
-
-### Performance issues
-
 
 ### Performance issues
 

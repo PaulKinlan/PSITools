@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mobile.nakouzia.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://mobile.nakouzia.com/)
 
@@ -29,9 +33,6 @@ title: http://mobile.nakouzia.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 912
-
-### Performance issues
-
 
 ### Performance issues
 

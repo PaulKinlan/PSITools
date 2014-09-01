@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/play2048
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Addicting Games](http://www.2addictinggames.com/games/play2048)
 
@@ -29,9 +33,6 @@ title: http://www.2addictinggames.com/games/play2048
 *  JS Response Bytes: 1132789
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10195
-
-### Performance issues
-
 
 ### Performance issues
 

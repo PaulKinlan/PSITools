@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.amindi.ge/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Amindi.GE - ამინდის პროგნოზი საქართველოში](http://www.amindi.ge/)
 
@@ -29,9 +35,6 @@ title: http://www.amindi.ge/
 *  JS Response Bytes: 633791
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 288
-
-### Performance issues
-
 
 ### Performance issues
 

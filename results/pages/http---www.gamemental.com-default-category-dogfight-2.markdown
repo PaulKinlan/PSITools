@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamemental.com/default-category/dogfight-2
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DOGFIGHT 2 - Gamemental](http://www.gamemental.com/default-category/dogfight-2)
 
@@ -29,9 +33,6 @@ title: http://www.gamemental.com/default-category/dogfight-2
 *  JS Response Bytes: 841454
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 974
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.openblackbelt.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Open Black Belt - FREE Online Martial Arts School Management Software](http://www.openblackbelt.com/)
 
@@ -29,9 +32,6 @@ title: http://www.openblackbelt.com/
 *  JS Response Bytes: 367484
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://siva.me/carnatic-raga/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Carnatic Raga](http://siva.me/carnatic-raga/)
 
@@ -29,9 +34,6 @@ title: http://siva.me/carnatic-raga/
 *  JS Response Bytes: 443434
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16924
-
-### Performance issues
-
 
 ### Performance issues
 

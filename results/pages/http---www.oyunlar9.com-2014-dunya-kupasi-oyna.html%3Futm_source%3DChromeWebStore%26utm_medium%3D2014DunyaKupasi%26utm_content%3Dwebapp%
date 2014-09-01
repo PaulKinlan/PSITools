@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.oyunlar9.com/2014-dunya-kupasi-oyna.html?utm_source=ChromeWebStore&utm_medium=2014DunyaKupasi&utm_content=webapp&utm_campaign=kisayol
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [2014 Dünya Kupası Oyna - Oyunlar 9](http://www.oyunlar9.com/2014-dunya-kupasi-oyna.html?utm_source=ChromeWebStore&utm_medium=2014DunyaKupasi&utm_content=webapp&utm_campaign=kisayol)
 
@@ -29,9 +34,6 @@ title: http://www.oyunlar9.com/2014-dunya-kupasi-oyna.html?utm_source=ChromeWebS
 *  JS Response Bytes: 2338290
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 303485
-
-### Performance issues
-
 
 ### Performance issues
 

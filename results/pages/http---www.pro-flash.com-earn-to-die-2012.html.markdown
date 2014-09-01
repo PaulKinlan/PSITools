@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.pro-flash.com/earn-to-die-2012.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pro-Flash.Com – Earn to Die 2012](http://www.pro-flash.com/earn-to-die-2012.html)
 
@@ -29,9 +35,6 @@ title: http://www.pro-flash.com/earn-to-die-2012.html
 *  JS Response Bytes: 616495
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55493
-
-### Performance issues
-
 
 ### Performance issues
 

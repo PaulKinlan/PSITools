@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.wowchrome.com/?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [wow/chrome](http://www.wowchrome.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://www.wowchrome.com/?m=1
 *  JS Response Bytes: 296799
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1441
-
-### Performance issues
-
 
 ### Performance issues
 

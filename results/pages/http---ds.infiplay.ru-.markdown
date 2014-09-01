@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ds.infiplay.ru/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Demon Slayer, Демон Слеер, Слеер, Wartune](http://ds.infiplay.ru/)
 
@@ -29,9 +32,6 @@ title: http://ds.infiplay.ru/
 *  JS Response Bytes: 632566
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 981
-
-### Performance issues
-
 
 ### Performance issues
 

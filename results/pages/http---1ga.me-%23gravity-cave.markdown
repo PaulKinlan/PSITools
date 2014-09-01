@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://1ga.me/#gravity-cave
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [1GA.ME Just Perfect Games 1game](http://1ga.me/#gravity-cave)
 
@@ -18,20 +21,17 @@ title: http://1ga.me/#gravity-cave
 *  Number of JS Resources: 19
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 48
-*  Total Request Bytes: 7416
+*  Total Request Bytes: 7413
 
 ### Response data
 
-*  HTML Response Bytes: 253073
+*  HTML Response Bytes: 253334
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 87724
-*  Image Response Bytes: 3882939
-*  JS Response Bytes: 793224
+*  Image Response Bytes: 3882938
+*  JS Response Bytes: 798180
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 16913
-
-### Performance issues
-
+*  Other Response Bytes: 16795
 
 ### Performance issues
 

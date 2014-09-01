@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.astroflux.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Astroflux | 2D Space Shooter Multiplayer Browser Game](http://www.astroflux.net/)
 
@@ -29,9 +34,6 @@ title: http://www.astroflux.net/
 *  JS Response Bytes: 2663124
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6097
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.goldgirlsgames.com/customize/barbie-at-anatomy#.U_u1gk0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Barbie At Anatomy - Flash Game For Girl](http://www.goldgirlsgames.com/customize/barbie-at-anatomy#.U_u1gk0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.goldgirlsgames.com/customize/barbie-at-anatomy#.U_u1gk0ieKA
 *  JS Response Bytes: 1690725
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33060
-
-### Performance issues
-
 
 ### Performance issues
 

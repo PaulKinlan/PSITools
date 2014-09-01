@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ninong.maxschicken.com.ph/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Ninong Ko Si Max's](http://ninong.maxschicken.com.ph/)
 
@@ -29,9 +31,6 @@ title: http://ninong.maxschicken.com.ph/
 *  JS Response Bytes: 327585
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

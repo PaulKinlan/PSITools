@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://akama.ch/webapps/john-wayne/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [john wayne soundboard html5](http://akama.ch/webapps/john-wayne/)
 
@@ -29,9 +32,6 @@ title: http://akama.ch/webapps/john-wayne/
 *  JS Response Bytes: 675386
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14436
-
-### Performance issues
-
 
 ### Performance issues
 

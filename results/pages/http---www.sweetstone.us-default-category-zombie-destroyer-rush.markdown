@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.sweetstone.us/default-category/zombie-destroyer-rush
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombie Destroyer Rush - Sweet Stone](http://www.sweetstone.us/default-category/zombie-destroyer-rush)
 
@@ -29,9 +33,6 @@ title: http://www.sweetstone.us/default-category/zombie-destroyer-rush
 *  JS Response Bytes: 1880171
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113186
-
-### Performance issues
-
 
 ### Performance issues
 

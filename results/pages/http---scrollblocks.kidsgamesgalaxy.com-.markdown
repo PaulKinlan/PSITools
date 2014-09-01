@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://scrollblocks.kidsgamesgalaxy.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Conflux: Scroll Blocks Chrome](http://scrollblocks.kidsgamesgalaxy.com/)
 
@@ -29,9 +34,6 @@ title: http://scrollblocks.kidsgamesgalaxy.com/
 *  JS Response Bytes: 649676
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16050
-
-### Performance issues
-
 
 ### Performance issues
 

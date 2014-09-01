@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/adventure-games/cactus-mccoy-2/#.U_usK00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cactus McCoy 2 « Online Flash Game Cactus McCoy 2](http://gamematic.net/online-flash-games/adventure-games/cactus-mccoy-2/#.U_usK00ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/adventure-games/cactus-mccoy-2/#.
 *  JS Response Bytes: 1231293
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40925
-
-### Performance issues
-
 
 ### Performance issues
 

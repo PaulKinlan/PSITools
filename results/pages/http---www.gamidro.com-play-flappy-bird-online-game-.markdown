@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamidro.com/play-flappy-bird-online-game/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Flappy Bird Online Game - Gamidro](http://www.gamidro.com/play-flappy-bird-online-game/)
 
@@ -29,9 +34,6 @@ title: http://www.gamidro.com/play-flappy-bird-online-game/
 *  JS Response Bytes: 1275079
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 302814
-
-### Performance issues
-
 
 ### Performance issues
 

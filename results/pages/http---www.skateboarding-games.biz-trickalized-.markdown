@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/trickalized/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Trickalized game](http://www.skateboarding-games.biz/trickalized/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/trickalized/
 *  JS Response Bytes: 2280771
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 133183
-
-### Performance issues
-
 
 ### Performance issues
 

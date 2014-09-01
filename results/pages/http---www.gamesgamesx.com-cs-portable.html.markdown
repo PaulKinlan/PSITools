@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesgamesx.com/cs-portable.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CS Portable : Games Games X](http://www.gamesgamesx.com/cs-portable.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamesgamesx.com/cs-portable.html
 *  JS Response Bytes: 1920767
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124865
-
-### Performance issues
-
 
 ### Performance issues
 

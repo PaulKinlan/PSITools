@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.hitingame.com/online-games/bejeweled-3/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bejeweled 3 « Online Flash Games – Popular Flash Games](http://www.hitingame.com/online-games/bejeweled-3/)
 
@@ -29,9 +34,6 @@ title: http://www.hitingame.com/online-games/bejeweled-3/
 *  JS Response Bytes: 1151646
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 69717
-
-### Performance issues
-
 
 ### Performance issues
 

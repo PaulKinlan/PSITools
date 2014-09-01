@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://travelingsalesman.koma.be/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [KOMA - Solve360 Map](http://travelingsalesman.koma.be/index.html)
 
@@ -29,9 +33,6 @@ title: http://travelingsalesman.koma.be/index.html
 *  JS Response Bytes: 451300
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 211892
-
-### Performance issues
-
 
 ### Performance issues
 

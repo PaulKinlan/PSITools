@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://funkygadgets.org/ggadgets/spaceinvadersf.htm
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Space Invaders](http://funkygadgets.org/ggadgets/spaceinvadersf.htm)
 
@@ -29,9 +35,6 @@ title: http://funkygadgets.org/ggadgets/spaceinvadersf.htm
 *  JS Response Bytes: 920169
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98636
-
-### Performance issues
-
 
 ### Performance issues
 

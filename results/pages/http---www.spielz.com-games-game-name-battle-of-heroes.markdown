@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.spielz.com/games/game/name/battle-of-heroes
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [battle-of-heroes spiele](http://www.spielz.com/games/game/name/battle-of-heroes)
 
@@ -29,9 +34,6 @@ title: http://www.spielz.com/games/game/name/battle-of-heroes
 *  JS Response Bytes: 1925170
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112963
-
-### Performance issues
-
 
 ### Performance issues
 

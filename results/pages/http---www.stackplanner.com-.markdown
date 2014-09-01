@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.stackplanner.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [Stack Plan](http://www.stackplanner.com/)
 
@@ -29,9 +32,6 @@ title: http://www.stackplanner.com/
 *  JS Response Bytes: 137095
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18523
-
-### Performance issues
-
 
 ### Performance issues
 

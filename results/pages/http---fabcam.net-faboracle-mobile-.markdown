@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://fabcam.net/faboracle/mobile/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [FabOracle](http://fabcam.net/faboracle/mobile/)
 
@@ -29,9 +31,6 @@ title: http://fabcam.net/faboracle/mobile/
 *  JS Response Bytes: 558515
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 656
-
-### Performance issues
-
 
 ### Performance issues
 

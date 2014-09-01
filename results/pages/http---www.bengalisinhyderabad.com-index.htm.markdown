@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.bengalisinhyderabad.com/index.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Page Not Found - Webs](http://www.bengalisinhyderabad.com/index.htm)
 
@@ -29,9 +31,6 @@ title: http://www.bengalisinhyderabad.com/index.htm
 *  JS Response Bytes: 140696
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 166973
-
-### Performance issues
-
 
 ### Performance issues
 

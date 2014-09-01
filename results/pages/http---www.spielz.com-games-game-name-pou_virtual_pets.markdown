@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.spielz.com/games/game/name/pou_virtual_pets
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [pou_virtual_pets spiele](http://www.spielz.com/games/game/name/pou_virtual_pets)
 
@@ -29,9 +33,6 @@ title: http://www.spielz.com/games/game/name/pou_virtual_pets
 *  JS Response Bytes: 1983443
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112749
-
-### Performance issues
-
 
 ### Performance issues
 

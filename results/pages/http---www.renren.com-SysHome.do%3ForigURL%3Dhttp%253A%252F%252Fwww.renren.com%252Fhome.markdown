@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.renren.com/SysHome.do?origURL=http%3A%2F%2Fwww.renren.com%2Fhome
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [人人网 中国领先的实名制SNS社交网络。加入人人网，找到老同学，结识新朋友。](http://www.renren.com/SysHome.do?origURL=http%3A%2F%2Fwww.renren.com%2Fhome)
 
@@ -29,9 +35,6 @@ title: http://www.renren.com/SysHome.do?origURL=http%3A%2F%2Fwww.renren.com%2Fho
 *  JS Response Bytes: 344704
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2240
-
-### Performance issues
-
 
 ### Performance issues
 

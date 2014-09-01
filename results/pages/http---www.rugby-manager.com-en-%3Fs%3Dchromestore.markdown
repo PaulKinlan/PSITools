@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.rugby-manager.com/en/?s=chromestore
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rugby Manager : Online rugby management game](http://www.rugby-manager.com/en/?s=chromestore)
 
@@ -29,9 +33,6 @@ title: http://www.rugby-manager.com/en/?s=chromestore
 *  JS Response Bytes: 1510265
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96712
-
-### Performance issues
-
 
 ### Performance issues
 

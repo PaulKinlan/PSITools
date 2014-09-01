@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://gid.groupcamp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sign into a GroupCamp account](https://gid.groupcamp.com/)
 
@@ -29,9 +34,6 @@ title: https://gid.groupcamp.com/
 *  JS Response Bytes: 925033
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

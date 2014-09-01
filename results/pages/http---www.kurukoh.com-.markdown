@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.kurukoh.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Kurukoh](http://www.kurukoh.com/)
 
@@ -29,9 +31,6 @@ title: http://www.kurukoh.com/
 *  JS Response Bytes: 109086
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

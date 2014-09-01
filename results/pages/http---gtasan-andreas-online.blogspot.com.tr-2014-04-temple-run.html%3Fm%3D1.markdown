@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gtasan-andreas-online.blogspot.com.tr/2014/04/temple-run.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [gta san andreas online: Temple Run](http://gtasan-andreas-online.blogspot.com.tr/2014/04/temple-run.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://gtasan-andreas-online.blogspot.com.tr/2014/04/temple-run.html?m=1
 *  JS Response Bytes: 720883
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95595
-
-### Performance issues
-
 
 ### Performance issues
 

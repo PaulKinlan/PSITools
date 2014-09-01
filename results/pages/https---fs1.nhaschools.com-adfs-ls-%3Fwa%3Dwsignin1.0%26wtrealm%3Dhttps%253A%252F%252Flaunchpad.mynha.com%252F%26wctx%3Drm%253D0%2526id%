@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://fs1.nhaschools.com/adfs/ls/?wa=wsignin1.0&wtrealm=https%3A%2F%2Flaunchpad.mynha.com%2F&wctx=rm%3D0%26id%3Dpassive%26ru%3D%252f&wct=2014-08-25T20%3A35%3A30Z
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Sign In](https://fs1.nhaschools.com/adfs/ls/?wa=wsignin1.0&wtrealm=https%3A%2F%2Flaunchpad.mynha.com%2F&wctx=rm%3D0%26id%3Dpassive%26ru%3D%252f&wct=2014-08-25T20%3A35%3A30Z)
 
@@ -29,9 +32,6 @@ title: https://fs1.nhaschools.com/adfs/ls/?wa=wsignin1.0&wtrealm=https%3A%2F%2Fl
 *  JS Response Bytes: 334790
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 696
-
-### Performance issues
-
 
 ### Performance issues
 

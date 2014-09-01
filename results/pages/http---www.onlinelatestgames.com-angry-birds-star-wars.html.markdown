@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.onlinelatestgames.com/angry-birds-star-wars.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Star Wars | Online Latest Games](http://www.onlinelatestgames.com/angry-birds-star-wars.html)
 
@@ -29,9 +37,6 @@ title: http://www.onlinelatestgames.com/angry-birds-star-wars.html
 *  JS Response Bytes: 1529293
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98612
-
-### Performance issues
-
 
 ### Performance issues
 

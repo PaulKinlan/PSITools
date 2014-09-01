@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.thailandyoga.net/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Yoga Teacher Training Thailand | Yoga Instructor Certification Course | Yoga Retreats Thailand | Yoga Thailand](http://www.thailandyoga.net/)
 
@@ -29,9 +32,6 @@ title: http://www.thailandyoga.net/
 *  JS Response Bytes: 1944763
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 323857
-
-### Performance issues
-
 
 ### Performance issues
 

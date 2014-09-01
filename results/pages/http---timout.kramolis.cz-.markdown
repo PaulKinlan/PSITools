@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://timout.kramolis.cz/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Timout - Time Management](http://timout.kramolis.cz/)
 
@@ -29,9 +33,6 @@ title: http://timout.kramolis.cz/
 *  JS Response Bytes: 678486
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94972
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.musiqueradio.com/audio/streaming.php
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Musique streaming : Ecouter la radio en ligne | Musique Radio](http://www.musiqueradio.com/audio/streaming.php)
 
@@ -29,9 +32,6 @@ title: http://www.musiqueradio.com/audio/streaming.php
 *  JS Response Bytes: 509530
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 422495
-
-### Performance issues
-
 
 ### Performance issues
 

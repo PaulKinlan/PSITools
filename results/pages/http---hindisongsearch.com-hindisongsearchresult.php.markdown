@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://hindisongsearch.com/hindisongsearchresult.php
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [: Hindi Songs - lyrics, audio, video & mp3](http://hindisongsearch.com/hindisongsearchresult.php)
 
@@ -29,9 +32,6 @@ title: http://hindisongsearch.com/hindisongsearchresult.php
 *  JS Response Bytes: 1007709
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2678
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://8bit.tv/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [8Bit.TV – If you're as crazy about video games as we are then you'll feel right at home here.](http://8bit.tv/)
 
@@ -29,9 +33,6 @@ title: http://8bit.tv/
 *  JS Response Bytes: 1755813
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115137
-
-### Performance issues
-
 
 ### Performance issues
 

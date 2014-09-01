@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mejura.com/chromeapps/instanumerology/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Instant Numerology - Quick lookup of numbers for a name | Mejura](http://mejura.com/chromeapps/instanumerology/)
 
@@ -29,9 +33,6 @@ title: http://mejura.com/chromeapps/instanumerology/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

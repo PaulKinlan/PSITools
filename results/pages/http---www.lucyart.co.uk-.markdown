@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.lucyart.co.uk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Canvas Art, Prints, Abstract Art Commissions, Bespoke Art, Canvas Paintings](http://www.lucyart.co.uk/)
 
@@ -29,9 +33,6 @@ title: http://www.lucyart.co.uk/
 *  JS Response Bytes: 1128698
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105524
-
-### Performance issues
-
 
 ### Performance issues
 

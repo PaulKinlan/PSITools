@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://eyeonmajors.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [EyeOnMajors - EyeOnMajors.com](http://eyeonmajors.com/)
 
@@ -29,9 +33,6 @@ title: http://eyeonmajors.com/
 *  JS Response Bytes: 861868
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 563
-
-### Performance issues
-
 
 ### Performance issues
 

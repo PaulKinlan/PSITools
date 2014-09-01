@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.gamesunique.com/american-racing/
+UseLegibleFontSizes: true
 ---
 ## [500 Internal Server Error](http://www.gamesunique.com/american-racing/)
 
@@ -29,9 +30,6 @@ title: http://www.gamesunique.com/american-racing/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 720
-
-### Performance issues
-
 
 ### Performance issues
 

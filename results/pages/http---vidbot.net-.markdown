@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://vidbot.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [vidbot.net](http://vidbot.net/)
 
@@ -29,9 +33,6 @@ title: http://vidbot.net/
 *  JS Response Bytes: 173157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.friv-game.org/games/game/name/barbie-lace-fashion
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [barbie-lace-fashion Friv Games](http://www.friv-game.org/games/game/name/barbie-lace-fashion)
 
@@ -29,9 +33,6 @@ title: http://www.friv-game.org/games/game/name/barbie-lace-fashion
 *  JS Response Bytes: 1875090
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112889
-
-### Performance issues
-
 
 ### Performance issues
 

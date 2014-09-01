@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tigremunicipio.tv/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Municipio de Tigre - Canal de transmisión online](http://www.tigremunicipio.tv/)
 
@@ -29,9 +34,6 @@ title: http://www.tigremunicipio.tv/
 *  JS Response Bytes: 1534261
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98169
-
-### Performance issues
-
 
 ### Performance issues
 

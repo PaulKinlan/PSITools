@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://pm.ss3c.com.tw/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [PM](http://pm.ss3c.com.tw/)
 
@@ -29,9 +32,6 @@ title: http://pm.ss3c.com.tw/
 *  JS Response Bytes: 2527122
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

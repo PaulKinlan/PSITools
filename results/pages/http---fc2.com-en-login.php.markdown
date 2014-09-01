@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://fc2.com/en/login.php
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Log in FC2 - Free Website Access Analysis Blog Rental Server SEO Countermeasures etc. -](http://fc2.com/en/login.php)
 
@@ -29,9 +32,6 @@ title: http://fc2.com/en/login.php
 *  JS Response Bytes: 94844
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48
-
-### Performance issues
-
 
 ### Performance issues
 

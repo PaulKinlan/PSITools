@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://meaningofnames.herokuapp.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Meaning of Names](http://meaningofnames.herokuapp.com/)
 
@@ -29,9 +33,6 @@ title: http://meaningofnames.herokuapp.com/
 *  JS Response Bytes: 1828692
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111251
-
-### Performance issues
-
 
 ### Performance issues
 

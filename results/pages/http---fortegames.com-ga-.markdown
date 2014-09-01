@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://fortegames.com/ga/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Texas Hold'Em Poker](http://fortegames.com/ga/)
 
@@ -29,9 +32,6 @@ title: http://fortegames.com/ga/
 *  JS Response Bytes: 174627
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 598
-
-### Performance issues
-
 
 ### Performance issues
 

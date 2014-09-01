@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gigglestick.com/more/poke.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Poke A Pig™](http://www.gigglestick.com/more/poke.html)
 
@@ -29,9 +34,6 @@ title: http://www.gigglestick.com/more/poke.html
 *  JS Response Bytes: 1186892
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17767
-
-### Performance issues
-
 
 ### Performance issues
 

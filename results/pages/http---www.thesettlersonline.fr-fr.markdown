@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.thesettlersonline.fr/fr
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Settlers Online - Jeu de strategie gratuit en ligne sans telechargement | Page de démarrage](http://www.thesettlersonline.fr/fr)
 
@@ -29,9 +35,6 @@ title: http://www.thesettlersonline.fr/fr
 *  JS Response Bytes: 1284596
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100933
-
-### Performance issues
-
 
 ### Performance issues
 

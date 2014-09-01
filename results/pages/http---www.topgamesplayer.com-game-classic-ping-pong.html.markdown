@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.topgamesplayer.com/game/classic-ping-pong.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Classic Ping Pong Games online](http://www.topgamesplayer.com/game/classic-ping-pong.html)
 
@@ -29,9 +35,6 @@ title: http://www.topgamesplayer.com/game/classic-ping-pong.html
 *  JS Response Bytes: 1235724
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104345
-
-### Performance issues
-
 
 ### Performance issues
 

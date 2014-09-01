@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamevole.com/index.php?task=view&id=212
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Running 2 - GaMeVole - just Challange! And Play Free! Play Online!](http://www.gamevole.com/index.php?task=view&id=212)
 
@@ -29,9 +33,6 @@ title: http://www.gamevole.com/index.php?task=view&id=212
 *  JS Response Bytes: 2036938
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53037
-
-### Performance issues
-
 
 ### Performance issues
 

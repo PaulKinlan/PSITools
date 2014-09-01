@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.us/supercar-road-trip/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Supercar Road Trip](http://www.gamesgator.us/supercar-road-trip/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.us/supercar-road-trip/
 *  JS Response Bytes: 1092259
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45788
-
-### Performance issues
-
 
 ### Performance issues
 

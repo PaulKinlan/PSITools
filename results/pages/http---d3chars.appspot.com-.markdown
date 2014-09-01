@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://d3chars.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://d3chars.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://d3chars.appspot.com/
 *  JS Response Bytes: 898322
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15116
-
-### Performance issues
-
 
 ### Performance issues
 

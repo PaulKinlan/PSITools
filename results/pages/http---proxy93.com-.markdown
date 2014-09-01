@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://proxy93.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [proxy93.com: The Leading Proxy Site on the Net](http://proxy93.com/)
 
@@ -29,9 +30,6 @@ title: http://proxy93.com/
 *  JS Response Bytes: 259015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 435
-
-### Performance issues
-
 
 ### Performance issues
 

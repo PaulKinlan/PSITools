@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://signon1.sso.services.sage.com/signon/2f4ec716-354e-4c66-ba1e-a6170427f7e5?f=v3j39alHbJZ3rWNSnCkvR70%2FT5oQM1ZJ78andIXWQD7Wsa1NET7pqhbofWJNdkBuuFIj%2F5XPn%2BsrR88ei%2Btco2HCWLce%2FxU2YOuNfOW%2B4uPmE9bjOiQe8Dv2mFmSCpXUVN01pzcAPeePBZQNC8o%2F3wFGwHsOp2mvhxPufsP6JAo%3D
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Sign in to Sage One](https://signon1.sso.services.sage.com/signon/2f4ec716-354e-4c66-ba1e-a6170427f7e5?f=v3j39alHbJZ3rWNSnCkvR70%2FT5oQM1ZJ78andIXWQD7Wsa1NET7pqhbofWJNdkBuuFIj%2F5XPn%2BsrR88ei%2Btco2HCWLce%2FxU2YOuNfOW%2B4uPmE9bjOiQe8Dv2mFmSCpXUVN01pzcAPeePBZQNC8o%2F3wFGwHsOp2mvhxPufsP6JAo%3D)
 
@@ -29,9 +33,6 @@ title: https://signon1.sso.services.sage.com/signon/2f4ec716-354e-4c66-ba1e-a617
 *  JS Response Bytes: 174948
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63520
-
-### Performance issues
-
 
 ### Performance issues
 

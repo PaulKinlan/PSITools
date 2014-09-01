@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://elbirque.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [el birque | animaciones](http://elbirque.com/)
 
@@ -29,9 +33,6 @@ title: http://elbirque.com/
 *  JS Response Bytes: 958882
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43277
-
-### Performance issues
-
 
 ### Performance issues
 

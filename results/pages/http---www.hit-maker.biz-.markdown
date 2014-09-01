@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.hit-maker.biz/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SEO対策｜月額1万円SEO対策｜あなたのサイトやお店を流行らせる『ヒットメーカー』](http://www.hit-maker.biz/)
 
@@ -29,9 +33,6 @@ title: http://www.hit-maker.biz/
 *  JS Response Bytes: 64233
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

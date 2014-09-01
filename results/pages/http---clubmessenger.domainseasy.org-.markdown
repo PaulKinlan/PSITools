@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://clubmessenger.domainseasy.org/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Club Messenger](http://clubmessenger.domainseasy.org/)
 
@@ -29,9 +32,6 @@ title: http://clubmessenger.domainseasy.org/
 *  JS Response Bytes: 430168
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1544
-
-### Performance issues
-
 
 ### Performance issues
 

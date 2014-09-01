@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://melomics.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Melomics](http://melomics.com/)
 
@@ -29,9 +33,6 @@ title: http://melomics.com/
 *  JS Response Bytes: 883294
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

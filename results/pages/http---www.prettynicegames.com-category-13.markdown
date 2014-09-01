@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.prettynicegames.com/category/13
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Waitress Games - Pretty Nice Games](http://www.prettynicegames.com/category/13)
 
@@ -29,9 +32,6 @@ title: http://www.prettynicegames.com/category/13
 *  JS Response Bytes: 649190
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1188
-
-### Performance issues
-
 
 ### Performance issues
 

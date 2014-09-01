@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://s1.miramagia.pt/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jogo de cultivo online gratuito com muita magia: Miramagia](http://s1.miramagia.pt/)
 
@@ -29,9 +35,6 @@ title: http://s1.miramagia.pt/
 *  JS Response Bytes: 2420643
 *  Flash Response Bytes: 10497
 *  Other Response Bytes: 122086
-
-### Performance issues
-
 
 ### Performance issues
 

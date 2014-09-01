@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.newflashgames.info/play/397/world-of-tanks-the-crayfish.html#.U_2NDE0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [World of Tanks: The Crayfish - New Flash Games - Best Free Online Flash Games](http://www.newflashgames.info/play/397/world-of-tanks-the-crayfish.html#.U_2NDE0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.newflashgames.info/play/397/world-of-tanks-the-crayfish.html#.
 *  JS Response Bytes: 1501293
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23490
-
-### Performance issues
-
 
 ### Performance issues
 

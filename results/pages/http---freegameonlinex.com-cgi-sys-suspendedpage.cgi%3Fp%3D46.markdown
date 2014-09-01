@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://freegameonlinex.com/cgi-sys/suspendedpage.cgi?p=46
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Contact Support](http://freegameonlinex.com/cgi-sys/suspendedpage.cgi?p=46)
 
@@ -29,9 +31,6 @@ title: http://freegameonlinex.com/cgi-sys/suspendedpage.cgi?p=46
 *  JS Response Bytes: 9100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 531
-
-### Performance issues
-
 
 ### Performance issues
 

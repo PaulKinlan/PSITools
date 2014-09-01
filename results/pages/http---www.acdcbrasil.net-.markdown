@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.acdcbrasil.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [AC/DC Brasil - Let There Be Rock In Brazil - O maior portal sobre AC/DC em língua portuguesa com as últimas notícias, entrevistas, promoções, tudo sobre a banda!](http://www.acdcbrasil.net/)
 
@@ -29,9 +33,6 @@ title: http://www.acdcbrasil.net/
 *  JS Response Bytes: 507637
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 423
-
-### Performance issues
-
 
 ### Performance issues
 

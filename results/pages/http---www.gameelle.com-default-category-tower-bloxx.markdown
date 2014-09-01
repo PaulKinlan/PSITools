@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gameelle.com/default-category/tower-bloxx
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TOWER BLOXX - Gameelle](http://www.gameelle.com/default-category/tower-bloxx)
 
@@ -29,9 +33,6 @@ title: http://www.gameelle.com/default-category/tower-bloxx
 *  JS Response Bytes: 828629
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15447
-
-### Performance issues
-
 
 ### Performance issues
 

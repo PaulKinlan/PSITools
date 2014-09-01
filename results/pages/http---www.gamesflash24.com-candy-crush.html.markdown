@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesflash24.com/candy-crush.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Candy Crush : Games Flash 24](http://www.gamesflash24.com/candy-crush.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamesflash24.com/candy-crush.html
 *  JS Response Bytes: 1920826
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120831
-
-### Performance issues
-
 
 ### Performance issues
 

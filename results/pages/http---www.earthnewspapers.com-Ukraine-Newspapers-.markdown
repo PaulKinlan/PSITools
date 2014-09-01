@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.earthnewspapers.com/Ukraine-Newspapers/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [List of Newspapers in Republic of Ukraine](http://www.earthnewspapers.com/Ukraine-Newspapers/)
 
@@ -29,9 +35,6 @@ title: http://www.earthnewspapers.com/Ukraine-Newspapers/
 *  JS Response Bytes: 832278
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14900
-
-### Performance issues
-
 
 ### Performance issues
 

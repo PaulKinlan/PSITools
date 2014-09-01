@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.samstore.info/pdf2word/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Convert PDF to Word for Windows - FREE PDF to Word App](http://www.samstore.info/pdf2word/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.samstore.info/pdf2word/index.html
 *  JS Response Bytes: 1167734
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112588
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.iappletech128.webnode.com/new/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [News :: iappletech128](http://m.iappletech128.webnode.com/new/)
 
@@ -29,9 +33,6 @@ title: http://m.iappletech128.webnode.com/new/
 *  JS Response Bytes: 780279
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 416881
-
-### Performance issues
-
 
 ### Performance issues
 

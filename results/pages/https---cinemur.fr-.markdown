@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://cinemur.fr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Toute l'actualité du cinéma et des séries - Cinémur](https://cinemur.fr/)
 
@@ -29,9 +31,6 @@ title: https://cinemur.fr/
 *  JS Response Bytes: 346715
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 132935
-
-### Performance issues
-
 
 ### Performance issues
 

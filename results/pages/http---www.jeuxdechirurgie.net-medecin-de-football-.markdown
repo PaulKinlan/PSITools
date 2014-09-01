@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.jeuxdechirurgie.net/medecin-de-football/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://www.jeuxdechirurgie.net/medecin-de-football/)
 
@@ -29,9 +30,6 @@ title: http://www.jeuxdechirurgie.net/medecin-de-football/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1257
-
-### Performance issues
-
 
 ### Performance issues
 

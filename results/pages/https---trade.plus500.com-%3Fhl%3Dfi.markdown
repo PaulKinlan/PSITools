@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://trade.plus500.com/?hl=fi
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Plus500 WebTrader](https://trade.plus500.com/?hl=fi)
 
@@ -29,9 +35,6 @@ title: https://trade.plus500.com/?hl=fi
 *  JS Response Bytes: 617232
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 941
-
-### Performance issues
-
 
 ### Performance issues
 

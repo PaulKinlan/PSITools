@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.war-games.ws/epic-war/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Epic War](http://www.war-games.ws/epic-war/)
 
@@ -29,9 +35,6 @@ title: http://www.war-games.ws/epic-war/
 *  JS Response Bytes: 2196142
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115922
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.dseffects.com/games/MonkeyJump/MonkeyJump.php?pid=7000
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [MonkeyJump - HTML5 game for iPhone, iPad, Android, WP8](http://www.dseffects.com/games/MonkeyJump/MonkeyJump.php?pid=7000)
 
@@ -29,9 +32,6 @@ title: http://www.dseffects.com/games/MonkeyJump/MonkeyJump.php?pid=7000
 *  JS Response Bytes: 730751
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

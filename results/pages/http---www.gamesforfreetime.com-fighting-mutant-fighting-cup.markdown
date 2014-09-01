@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesforfreetime.com/fighting/mutant-fighting-cup
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mutant Fighting Cup - Games For Free Time](http://www.gamesforfreetime.com/fighting/mutant-fighting-cup)
 
@@ -29,9 +35,6 @@ title: http://www.gamesforfreetime.com/fighting/mutant-fighting-cup
 *  JS Response Bytes: 2386210
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99372
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.servicem8.com/index
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Smart Job Management | ServiceM8](http://www.servicem8.com/index)
 
@@ -29,9 +33,6 @@ title: http://www.servicem8.com/index
 *  JS Response Bytes: 1176744
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1215
-
-### Performance issues
-
 
 ### Performance issues
 

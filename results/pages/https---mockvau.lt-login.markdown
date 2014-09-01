@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://mockvau.lt/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MockVault](https://mockvau.lt/login)
 
@@ -29,9 +33,6 @@ title: https://mockvau.lt/login
 *  JS Response Bytes: 386080
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45
-
-### Performance issues
-
 
 ### Performance issues
 

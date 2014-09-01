@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://kidlandia.yolasite.com/Map.aspx.php?SKU=KID_01_07_10X50_GC_PR-DIS_GC_PR_BE
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://kidlandia.yolasite.com/Map.aspx.php?SKU=KID_01_07_10X50_GC_PR-DIS_GC_PR_BE)
 
@@ -29,9 +31,6 @@ title: http://kidlandia.yolasite.com/Map.aspx.php?SKU=KID_01_07_10X50_GC_PR-DIS_
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1316
-
-### Performance issues
-
 
 ### Performance issues
 

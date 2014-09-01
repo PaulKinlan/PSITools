@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://cswgames.com/papas-cupcakeria.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CSWGames.Com – Papa’s Cupcakeria](http://cswgames.com/papas-cupcakeria.html)
 
@@ -29,9 +35,6 @@ title: http://cswgames.com/papas-cupcakeria.html
 *  JS Response Bytes: 613470
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44773
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.maxgamescloud.com/MadBurger/webplayer.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mad Burger | MaxGamesCloud.com-Flash-Android-Chrome Games](http://www.maxgamescloud.com/MadBurger/webplayer.html)
 
@@ -29,9 +35,6 @@ title: http://www.maxgamescloud.com/MadBurger/webplayer.html
 *  JS Response Bytes: 383371
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40377
-
-### Performance issues
-
 
 ### Performance issues
 

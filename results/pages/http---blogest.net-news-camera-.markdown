@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://blogest.net/news/camera/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [デジカメ最新情報](http://blogest.net/news/camera/)
 
@@ -29,9 +33,6 @@ title: http://blogest.net/news/camera/
 *  JS Response Bytes: 480449
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

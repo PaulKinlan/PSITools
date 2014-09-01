@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://bmi.networkpanda.com/calciphone.php
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [BMI Calculator](http://bmi.networkpanda.com/calciphone.php)
 
@@ -29,9 +33,6 @@ title: http://bmi.networkpanda.com/calciphone.php
 *  JS Response Bytes: 513299
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 834
-
-### Performance issues
-
 
 ### Performance issues
 

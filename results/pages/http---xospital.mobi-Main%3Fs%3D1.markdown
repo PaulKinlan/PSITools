@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://xospital.mobi/Main?s=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Интерны](http://xospital.mobi/Main?s=1)
 
@@ -29,9 +32,6 @@ title: http://xospital.mobi/Main?s=1
 *  JS Response Bytes: 1054
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

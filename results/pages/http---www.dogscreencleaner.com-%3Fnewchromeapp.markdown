@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.dogscreencleaner.com/?newchromeapp
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DogScreenCleaner: Online Virtual Pet For Screen Cleaning](http://www.dogscreencleaner.com/?newchromeapp)
 
@@ -29,9 +32,6 @@ title: http://www.dogscreencleaner.com/?newchromeapp
 *  JS Response Bytes: 782625
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21487
-
-### Performance issues
-
 
 ### Performance issues
 

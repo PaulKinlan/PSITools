@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://fullmeals.mobi/recipes/main.html?123#model
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Sweet'N'Spicy Indian Video Recipes on Mobile](http://fullmeals.mobi/recipes/main.html?123#model)
 
@@ -29,9 +32,6 @@ title: http://fullmeals.mobi/recipes/main.html?123#model
 *  JS Response Bytes: 257693
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 723
-
-### Performance issues
-
 
 ### Performance issues
 

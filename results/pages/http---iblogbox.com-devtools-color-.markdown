@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://iblogbox.com/devtools/color/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Color Tools](http://iblogbox.com/devtools/color/)
 
@@ -29,9 +34,6 @@ title: http://iblogbox.com/devtools/color/
 *  JS Response Bytes: 1480033
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110440
-
-### Performance issues
-
 
 ### Performance issues
 

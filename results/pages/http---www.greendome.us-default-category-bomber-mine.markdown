@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.greendome.us/default-category/bomber-mine
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bomber Mine - Green Dome](http://www.greendome.us/default-category/bomber-mine)
 
@@ -29,9 +35,6 @@ title: http://www.greendome.us/default-category/bomber-mine
 *  JS Response Bytes: 1887776
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119209
-
-### Performance issues
-
 
 ### Performance issues
 

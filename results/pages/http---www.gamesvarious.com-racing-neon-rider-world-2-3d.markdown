@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/racing/neon-rider-world-2-3d
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Neon Rider World 2 3D - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/racing/neon-rider-world-2-3d)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/racing/neon-rider-world-2-3d
 *  JS Response Bytes: 2180407
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106408
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.app.avfc.co.uk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ASTON VILLA FOOTBALL CLUB](http://www.app.avfc.co.uk/)
 
@@ -29,9 +34,6 @@ title: http://www.app.avfc.co.uk/
 *  JS Response Bytes: 873959
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 142938
-
-### Performance issues
-
 
 ### Performance issues
 

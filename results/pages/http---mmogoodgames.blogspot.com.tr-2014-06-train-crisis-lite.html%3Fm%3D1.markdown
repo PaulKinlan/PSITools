@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mmogoodgames.blogspot.com.tr/2014/06/train-crisis-lite.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [MMO Good Games: Train Crisis Lite](http://mmogoodgames.blogspot.com.tr/2014/06/train-crisis-lite.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://mmogoodgames.blogspot.com.tr/2014/06/train-crisis-lite.html?m=1
 *  JS Response Bytes: 1406309
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111957
-
-### Performance issues
-
 
 ### Performance issues
 

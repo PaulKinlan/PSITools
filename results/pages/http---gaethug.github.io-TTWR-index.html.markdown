@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gaethug.github.io/TTWR/index.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TTWR Player](http://gaethug.github.io/TTWR/index.html)
 
@@ -29,9 +32,6 @@ title: http://gaethug.github.io/TTWR/index.html
 *  JS Response Bytes: 1217160
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1953935
-
-### Performance issues
-
 
 ### Performance issues
 

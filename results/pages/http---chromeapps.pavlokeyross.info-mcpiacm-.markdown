@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromeapps.pavlokeyross.info/mcpiacm/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MY CELL PHONE IS A CASH MACHINE | MAKE MONEY USING YOUR SMARTPHONE](http://chromeapps.pavlokeyross.info/mcpiacm/)
 
@@ -29,9 +32,6 @@ title: http://chromeapps.pavlokeyross.info/mcpiacm/
 *  JS Response Bytes: 121120
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

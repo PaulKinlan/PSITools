@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://stage1.npr.org/infiniteplayer
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Page Not Found](http://stage1.npr.org/infiniteplayer)
 
@@ -29,9 +33,6 @@ title: http://stage1.npr.org/infiniteplayer
 *  JS Response Bytes: 406713
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 68962
-
-### Performance issues
-
 
 ### Performance issues
 

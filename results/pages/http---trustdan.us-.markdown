@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://trustdan.us/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome trustdan.us - BlueHost.com](http://trustdan.us/)
 
@@ -29,9 +34,6 @@ title: http://trustdan.us/
 *  JS Response Bytes: 337717
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20813
-
-### Performance issues
-
 
 ### Performance issues
 

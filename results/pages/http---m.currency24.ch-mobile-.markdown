@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.currency24.ch/mobile/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [currency24.ch - clever currency converter](http://m.currency24.ch/mobile/)
 
@@ -29,9 +31,6 @@ title: http://m.currency24.ch/mobile/
 *  JS Response Bytes: 183204
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8228
-
-### Performance issues
-
 
 ### Performance issues
 

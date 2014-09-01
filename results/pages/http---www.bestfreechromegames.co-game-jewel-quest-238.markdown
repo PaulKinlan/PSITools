@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.bestfreechromegames.co/game/jewel-quest-238
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jewel Quest Game - Best Free Chrome Games](http://www.bestfreechromegames.co/game/jewel-quest-238)
 
@@ -29,9 +35,6 @@ title: http://www.bestfreechromegames.co/game/jewel-quest-238
 *  JS Response Bytes: 737509
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14380
-
-### Performance issues
-
 
 ### Performance issues
 

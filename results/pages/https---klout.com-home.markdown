@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://klout.com/home
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Klout | Be Known For What You Love](https://klout.com/home)
 
@@ -29,9 +31,6 @@ title: https://klout.com/home
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1509
-
-### Performance issues
-
 
 ### Performance issues
 

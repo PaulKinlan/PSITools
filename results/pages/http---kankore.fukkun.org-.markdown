@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://kankore.fukkun.org/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [艦これ速報まとめ2-4-1 | 艦これの攻略や速報まとめ](http://kankore.fukkun.org/)
 
@@ -29,9 +33,6 @@ title: http://kankore.fukkun.org/
 *  JS Response Bytes: 33998
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 482
-
-### Performance issues
-
 
 ### Performance issues
 

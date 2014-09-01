@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://cts.versitek.com/blog/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Versitek | Professional Web Development](http://cts.versitek.com/blog/)
 
@@ -29,9 +33,6 @@ title: http://cts.versitek.com/blog/
 *  JS Response Bytes: 2290624
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28678
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://oinknote.jp/kakeibo/?act=android_index
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [無料家計簿 Oink Note](http://oinknote.jp/kakeibo/?act=android_index)
 
@@ -29,9 +33,6 @@ title: http://oinknote.jp/kakeibo/?act=android_index
 *  JS Response Bytes: 1796934
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97829
-
-### Performance issues
-
 
 ### Performance issues
 

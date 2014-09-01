@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://medivizor.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Medivizor: Simply what you need to know](https://medivizor.com/)
 
@@ -29,9 +32,6 @@ title: https://medivizor.com/
 *  JS Response Bytes: 2179216
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1835
-
-### Performance issues
-
 
 ### Performance issues
 

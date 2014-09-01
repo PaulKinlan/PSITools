@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://allplaygame.com/action/rogue-soul
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rogue Soul - All Play Game](http://allplaygame.com/action/rogue-soul)
 
@@ -29,9 +34,6 @@ title: http://allplaygame.com/action/rogue-soul
 *  JS Response Bytes: 1131424
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15430
-
-### Performance issues
-
 
 ### Performance issues
 

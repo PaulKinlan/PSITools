@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.cloudtrawl.com/cloudtrawl/signin
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sign In :: CloudTrawl.com](https://www.cloudtrawl.com/cloudtrawl/signin)
 
@@ -29,9 +33,6 @@ title: https://www.cloudtrawl.com/cloudtrawl/signin
 *  JS Response Bytes: 41103
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

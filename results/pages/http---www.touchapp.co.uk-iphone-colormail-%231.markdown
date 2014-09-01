@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.touchapp.co.uk/iphone/colormail/#1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Color Mail](http://www.touchapp.co.uk/iphone/colormail/#1)
 
@@ -29,9 +32,6 @@ title: http://www.touchapp.co.uk/iphone/colormail/#1
 *  JS Response Bytes: 575224
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

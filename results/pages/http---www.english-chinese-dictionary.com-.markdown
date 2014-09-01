@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.english-chinese-dictionary.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [English - Chinese Dictionary : Learn Chinese on Chrome](http://www.english-chinese-dictionary.com/)
 
@@ -29,9 +33,6 @@ title: http://www.english-chinese-dictionary.com/
 *  JS Response Bytes: 1735670
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 303605
-
-### Performance issues
-
 
 ### Performance issues
 

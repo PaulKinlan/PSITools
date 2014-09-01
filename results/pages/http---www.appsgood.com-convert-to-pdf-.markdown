@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.appsgood.com/convert-to-pdf/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Any Files TO PDF](http://www.appsgood.com/convert-to-pdf/)
 
@@ -29,9 +32,6 @@ title: http://www.appsgood.com/convert-to-pdf/
 *  JS Response Bytes: 2275533
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97298
-
-### Performance issues
-
 
 ### Performance issues
 

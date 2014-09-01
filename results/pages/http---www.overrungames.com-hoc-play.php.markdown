@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.overrungames.com/hoc/play.php
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hero of Crystalmire](http://www.overrungames.com/hoc/play.php)
 
@@ -29,9 +33,6 @@ title: http://www.overrungames.com/hoc/play.php
 *  JS Response Bytes: 266177
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

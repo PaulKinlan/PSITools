@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.ape-apps.com/webapps/app.php?id=5
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Musical Kittens](http://www.ape-apps.com/webapps/app.php?id=5)
 
@@ -29,9 +31,6 @@ title: http://www.ape-apps.com/webapps/app.php?id=5
 *  JS Response Bytes: 1541616
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110739
-
-### Performance issues
-
 
 ### Performance issues
 

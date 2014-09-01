@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ezyonlinebookings.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Booking System](http://www.ezyonlinebookings.com/)
 
@@ -29,9 +33,6 @@ title: http://www.ezyonlinebookings.com/
 *  JS Response Bytes: 352700
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

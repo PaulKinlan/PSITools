@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.engradepro.com/user/login.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Engrade - Login](https://www.engradepro.com/user/login.php)
 
@@ -29,9 +34,6 @@ title: https://www.engradepro.com/user/login.php
 *  JS Response Bytes: 374972
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 876
-
-### Performance issues
-
 
 ### Performance issues
 

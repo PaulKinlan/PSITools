@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://www.klashapp.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Klash • Challenge accepted.](https://www.klashapp.com/)
 
@@ -29,9 +30,6 @@ title: https://www.klashapp.com/
 *  JS Response Bytes: 160735
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6791
-
-### Performance issues
-
 
 ### Performance issues
 

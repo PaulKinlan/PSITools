@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://chinaonrails.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ChinaonRails | Focus on Ruby on Rails, Web2.0, Business, Technic and beyond](http://chinaonrails.com/)
 
@@ -29,9 +36,6 @@ title: http://chinaonrails.com/
 *  JS Response Bytes: 40174
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 865
-
-### Performance issues
-
 
 ### Performance issues
 

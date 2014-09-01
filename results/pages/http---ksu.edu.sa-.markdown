@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ksu.edu.sa/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [جامعة الملك سعود](http://ksu.edu.sa/)
 
@@ -29,9 +31,6 @@ title: http://ksu.edu.sa/
 *  JS Response Bytes: 483692
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287676
-
-### Performance issues
-
 
 ### Performance issues
 

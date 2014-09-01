@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.app.mfc.co.uk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BORO](http://www.app.mfc.co.uk/)
 
@@ -29,9 +34,6 @@ title: http://www.app.mfc.co.uk/
 *  JS Response Bytes: 885432
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 154385
-
-### Performance issues
-
 
 ### Performance issues
 

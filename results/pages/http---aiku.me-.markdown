@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://aiku.me/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [收藏喜欢，分享乐趣 - 爱库网 - ikeepu.com](http://aiku.me/)
 
@@ -29,9 +34,6 @@ title: http://aiku.me/
 *  JS Response Bytes: 529774
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2341
-
-### Performance issues
-
 
 ### Performance issues
 

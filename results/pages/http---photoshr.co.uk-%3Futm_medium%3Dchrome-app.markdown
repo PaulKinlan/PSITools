@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://photoshr.co.uk/?utm_medium=chrome-app
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Missing Routing](http://photoshr.co.uk/?utm_medium=chrome-app)
 
@@ -29,9 +31,6 @@ title: http://photoshr.co.uk/?utm_medium=chrome-app
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1837
-
-### Performance issues
-
 
 ### Performance issues
 

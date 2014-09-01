@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.tomilike.com/buildingachickencoop/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Build A Chicken Coop](http://www.tomilike.com/buildingachickencoop/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.tomilike.com/buildingachickencoop/index.html
 *  JS Response Bytes: 911925
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110124
-
-### Performance issues
-
 
 ### Performance issues
 

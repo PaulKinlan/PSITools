@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://play-dominoes.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
 ---
 ## [Dominoes](http://play-dominoes.com/)
 
@@ -29,9 +32,6 @@ title: http://play-dominoes.com/
 *  JS Response Bytes: 1171352
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

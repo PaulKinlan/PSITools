@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://sproutsocial.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Social Media Management Software | Sprout Social](http://sproutsocial.com/)
 
@@ -29,9 +31,6 @@ title: http://sproutsocial.com/
 *  JS Response Bytes: 229595
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 235014
-
-### Performance issues
-
 
 ### Performance issues
 

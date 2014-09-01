@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.jetradar.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [JetRadar](http://www.jetradar.com/)
 
@@ -29,9 +32,6 @@ title: http://www.jetradar.com/
 *  JS Response Bytes: 659845
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 637
-
-### Performance issues
-
 
 ### Performance issues
 

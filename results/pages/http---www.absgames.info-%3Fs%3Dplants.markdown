@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.absgames.info/?s=plants
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online free best games – Search Results – plants](http://www.absgames.info/?s=plants)
 
@@ -29,9 +33,6 @@ title: http://www.absgames.info/?s=plants
 *  JS Response Bytes: 565304
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15447
-
-### Performance issues
-
 
 ### Performance issues
 

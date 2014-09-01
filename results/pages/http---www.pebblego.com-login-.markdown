@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.pebblego.com/login/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [PebbleGo | Capstone Digital](http://www.pebblego.com/login/)
 
@@ -29,9 +32,6 @@ title: http://www.pebblego.com/login/
 *  JS Response Bytes: 196060
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 548
-
-### Performance issues
-
 
 ### Performance issues
 

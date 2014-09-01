@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.jogatina.com/poker-online.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Poker Online Grátis agora com seus amigos no Jogatina!](http://www.jogatina.com/poker-online.html)
 
@@ -29,9 +34,6 @@ title: http://www.jogatina.com/poker-online.html
 *  JS Response Bytes: 1759445
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 416581
-
-### Performance issues
-
 
 ### Performance issues
 

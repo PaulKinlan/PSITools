@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.radioenfrance.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Radio en France](http://www.radioenfrance.com/)
 
@@ -29,9 +36,6 @@ title: http://www.radioenfrance.com/
 *  JS Response Bytes: 1566877
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97864
-
-### Performance issues
-
 
 ### Performance issues
 

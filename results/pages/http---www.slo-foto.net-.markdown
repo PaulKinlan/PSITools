@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.slo-foto.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Slo-Foto.net - Fotografska skupnost](http://www.slo-foto.net/)
 
@@ -29,9 +35,6 @@ title: http://www.slo-foto.net/
 *  JS Response Bytes: 337009
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 72861
-
-### Performance issues
-
 
 ### Performance issues
 

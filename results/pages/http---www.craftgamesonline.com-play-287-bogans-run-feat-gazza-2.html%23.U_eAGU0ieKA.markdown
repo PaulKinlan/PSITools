@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.craftgamesonline.com/play/287/bogans-run-feat-gazza-2.html#.U_eAGU0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bogan's Run feat Gazza - Craft Games Online](http://www.craftgamesonline.com/play/287/bogans-run-feat-gazza-2.html#.U_eAGU0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.craftgamesonline.com/play/287/bogans-run-feat-gazza-2.html#.U_
 *  JS Response Bytes: 1512235
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14883
-
-### Performance issues
-
 
 ### Performance issues
 

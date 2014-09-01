@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.miniportale.it/app_it/spagnolo/index.htm
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DIZIONARIO DI Spagnolo](http://www.miniportale.it/app_it/spagnolo/index.htm)
 
@@ -29,9 +33,6 @@ title: http://www.miniportale.it/app_it/spagnolo/index.htm
 *  JS Response Bytes: 749340
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 36644
-
-### Performance issues
-
 
 ### Performance issues
 

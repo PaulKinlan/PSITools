@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.puxgames.com/game/extreme-skater-51
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Extreme Skater Game - Pux Games](http://www.puxgames.com/game/extreme-skater-51)
 
@@ -29,9 +33,6 @@ title: http://www.puxgames.com/game/extreme-skater-51
 *  JS Response Bytes: 1700084
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39092
-
-### Performance issues
-
 
 ### Performance issues
 

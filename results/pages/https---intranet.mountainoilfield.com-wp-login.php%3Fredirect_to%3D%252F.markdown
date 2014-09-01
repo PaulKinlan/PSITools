@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://intranet.mountainoilfield.com/wp-login.php?redirect_to=%2F
+MinimizeRenderBlockingResources: true
 ---
 ## [Inside the Mountain › Log In](https://intranet.mountainoilfield.com/wp-login.php?redirect_to=%2F)
 
@@ -29,9 +30,6 @@ title: https://intranet.mountainoilfield.com/wp-login.php?redirect_to=%2F
 *  JS Response Bytes: 222015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 146509
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.flashgamesell.com/alliant-defence/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Alliant Defence | Flash Game Sell, Game Unity Games](http://www.flashgamesell.com/alliant-defence/index.html)
 
@@ -29,9 +36,6 @@ title: http://www.flashgamesell.com/alliant-defence/index.html
 *  JS Response Bytes: 1169553
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2751
-
-### Performance issues
-
 
 ### Performance issues
 

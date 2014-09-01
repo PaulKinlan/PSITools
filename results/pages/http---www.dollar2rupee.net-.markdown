@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.dollar2rupee.net/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [US Dollar to Rupee Exchange Rates - Live](http://www.dollar2rupee.net/)
 
@@ -29,9 +32,6 @@ title: http://www.dollar2rupee.net/
 *  JS Response Bytes: 1062974
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

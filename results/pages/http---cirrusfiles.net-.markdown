@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://cirrusfiles.net/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Google Drive and Google Docs for Salesforce - Cirrus Files](http://cirrusfiles.net/)
 
@@ -29,9 +31,6 @@ title: http://cirrusfiles.net/
 *  JS Response Bytes: 886959
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 78603
-
-### Performance issues
-
 
 ### Performance issues
 

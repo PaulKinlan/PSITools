@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/vick-football/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Vick Football Game](http://www.footballgam.es/vick-football/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/vick-football/
 *  JS Response Bytes: 2265058
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141987
-
-### Performance issues
-
 
 ### Performance issues
 

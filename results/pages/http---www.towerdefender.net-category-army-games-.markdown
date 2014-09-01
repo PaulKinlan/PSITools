@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.towerdefender.net/category/army-games/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Army Games](http://www.towerdefender.net/category/army-games/)
 
@@ -29,9 +35,6 @@ title: http://www.towerdefender.net/category/army-games/
 *  JS Response Bytes: 2119490
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 133148
-
-### Performance issues
-
 
 ### Performance issues
 

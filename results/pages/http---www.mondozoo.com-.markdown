@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mondozoo.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MondoZoo // Gérez votre propre zoo !](http://www.mondozoo.com/)
 
@@ -29,9 +32,6 @@ title: http://www.mondozoo.com/
 *  JS Response Bytes: 1688368
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100988
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://garbagegaragemmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Garbage Garage Online](http://garbagegaragemmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://garbagegaragemmo.appspot.com/
 *  JS Response Bytes: 1509799
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 126904
-
-### Performance issues
-
 
 ### Performance issues
 

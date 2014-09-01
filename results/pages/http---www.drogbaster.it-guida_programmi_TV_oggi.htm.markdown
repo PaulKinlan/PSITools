@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.drogbaster.it/guida_programmi_TV_oggi.htm
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tele Guida - I programmi TV di stasera,TV Sky, Rai e Mediaset](http://www.drogbaster.it/guida_programmi_TV_oggi.htm)
 
@@ -29,9 +33,6 @@ title: http://www.drogbaster.it/guida_programmi_TV_oggi.htm
 *  JS Response Bytes: 1813904
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 130430
-
-### Performance issues
-
 
 ### Performance issues
 

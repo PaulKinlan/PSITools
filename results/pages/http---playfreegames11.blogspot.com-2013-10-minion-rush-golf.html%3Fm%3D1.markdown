@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playfreegames11.blogspot.com/2013/10/minion-rush-golf.html?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://playfreegames11.blogspot.com/2013/10/minion-rush-golf.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playfreegames11.blogspot.com/2013/10/minion-rush-golf.html?m=1
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18835
-
-### Performance issues
-
 
 ### Performance issues
 

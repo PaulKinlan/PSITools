@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mataaula.com/mortal-kombat/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Mortal Kombat Game](http://mataaula.com/mortal-kombat/)
 
@@ -29,9 +33,6 @@ title: http://mataaula.com/mortal-kombat/
 *  JS Response Bytes: 2048598
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 165918
-
-### Performance issues
-
 
 ### Performance issues
 

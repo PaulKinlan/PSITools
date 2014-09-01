@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.datecountdown.com/chrome/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Date Countdown](http://www.datecountdown.com/chrome/)
 
@@ -29,9 +33,6 @@ title: http://www.datecountdown.com/chrome/
 *  JS Response Bytes: 1247482
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 612
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://lcsdcompass.leeschools.net/clologin.aspx
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Odyssey Login - Enterprise Customers](https://lcsdcompass.leeschools.net/clologin.aspx)
 
@@ -29,9 +34,6 @@ title: https://lcsdcompass.leeschools.net/clologin.aspx
 *  JS Response Bytes: 13524
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 38083
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://account.subitup.com/Default.aspx
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SubItUp](https://account.subitup.com/Default.aspx)
 
@@ -29,9 +35,6 @@ title: https://account.subitup.com/Default.aspx
 *  JS Response Bytes: 339384
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52269
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://garrettassetmanagement.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Garrett Asset Management, LLC.](http://garrettassetmanagement.com/)
 
@@ -29,9 +34,6 @@ title: http://garrettassetmanagement.com/
 *  JS Response Bytes: 118149
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1688
-
-### Performance issues
-
 
 ### Performance issues
 

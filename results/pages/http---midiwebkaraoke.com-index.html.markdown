@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://midiwebkaraoke.com/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [MIDIWebKaraoke: MIDI Karaoke files player](http://midiwebkaraoke.com/index.html)
 
@@ -29,9 +31,6 @@ title: http://midiwebkaraoke.com/index.html
 *  JS Response Bytes: 85493
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

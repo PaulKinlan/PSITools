@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://quran.ksu.edu.sa/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [القرآن الكريم - مشروع المصحف الإلكتروني بجامعة الملك سعود](http://quran.ksu.edu.sa/)
 
@@ -29,9 +31,6 @@ title: http://quran.ksu.edu.sa/
 *  JS Response Bytes: 401486
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1112
-
-### Performance issues
-
 
 ### Performance issues
 

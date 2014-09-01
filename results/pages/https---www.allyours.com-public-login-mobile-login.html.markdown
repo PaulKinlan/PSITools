@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.allyours.com/public/login/mobile-login.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mobile Login](https://www.allyours.com/public/login/mobile-login.html)
 
@@ -29,9 +32,6 @@ title: https://www.allyours.com/public/login/mobile-login.html
 *  JS Response Bytes: 314946
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 490
-
-### Performance issues
-
 
 ### Performance issues
 

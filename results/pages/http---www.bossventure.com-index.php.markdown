@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bossventure.com/index.php
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BossVenture.com](http://www.bossventure.com/index.php)
 
@@ -29,9 +33,6 @@ title: http://www.bossventure.com/index.php
 *  JS Response Bytes: 121696
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57
-
-### Performance issues
-
 
 ### Performance issues
 

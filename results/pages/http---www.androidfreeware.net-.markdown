@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.androidfreeware.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Android Freeware. Free Android Apps and Free Android Games.](http://www.androidfreeware.net/)
 
@@ -29,9 +34,6 @@ title: http://www.androidfreeware.net/
 *  JS Response Bytes: 2210691
 *  Flash Response Bytes: 431
 *  Other Response Bytes: 293149
-
-### Performance issues
-
 
 ### Performance issues
 

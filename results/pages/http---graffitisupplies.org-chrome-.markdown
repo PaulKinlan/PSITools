@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://graffitisupplies.org/chrome/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Graffiti Supplies Stores Map](http://graffitisupplies.org/chrome/)
 
@@ -29,9 +35,6 @@ title: http://graffitisupplies.org/chrome/
 *  JS Response Bytes: 2545665
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 341460
-
-### Performance issues
-
 
 ### Performance issues
 

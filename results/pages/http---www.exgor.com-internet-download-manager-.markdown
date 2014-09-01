@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.exgor.com/internet-download-manager/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.exgor.com/internet-download-manager/)
 
@@ -29,9 +31,6 @@ title: http://www.exgor.com/internet-download-manager/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

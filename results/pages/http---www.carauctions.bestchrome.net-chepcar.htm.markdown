@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.carauctions.bestchrome.net/chepcar.htm
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cheapcars](http://www.carauctions.bestchrome.net/chepcar.htm)
 
@@ -29,9 +33,6 @@ title: http://www.carauctions.bestchrome.net/chepcar.htm
 *  JS Response Bytes: 322901
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1740
-
-### Performance issues
-
 
 ### Performance issues
 

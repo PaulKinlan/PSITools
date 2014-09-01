@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://kinggamesonline.info/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Online Games](http://kinggamesonline.info/)
 
@@ -29,9 +34,6 @@ title: http://kinggamesonline.info/
 *  JS Response Bytes: 610588
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16325
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.tomilike.com/foreclosuresearch/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Foreclosures Canada](http://www.tomilike.com/foreclosuresearch/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.tomilike.com/foreclosuresearch/index.html
 *  JS Response Bytes: 936277
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109057
-
-### Performance issues
-
 
 ### Performance issues
 

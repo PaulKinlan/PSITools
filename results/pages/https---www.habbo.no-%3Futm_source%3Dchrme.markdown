@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.habbo.no/?utm_source=chrme
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Habbo: Lag din egen avatar, dekorer rommet ditt, chat og få nye venner.](https://www.habbo.no/?utm_source=chrme)
 
@@ -29,9 +33,6 @@ title: https://www.habbo.no/?utm_source=chrme
 *  JS Response Bytes: 572226
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117047
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://searchengineup.com/frame.aspx?u=http%3A%2F%2Fdsparking.com%2F%3Fo_id%3D59290%26domainname%3Dsearchengineup.com&r=2&adi=100
+AvoidLandingPageRedirects: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [searchengineup.com](http://searchengineup.com/frame.aspx?u=http%3A%2F%2Fdsparking.com%2F%3Fo_id%3D59290%26domainname%3Dsearchengineup.com&r=2&adi=100)
 
@@ -29,9 +32,6 @@ title: http://searchengineup.com/frame.aspx?u=http%3A%2F%2Fdsparking.com%2F%3Fo_
 *  JS Response Bytes: 65727
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1228
-
-### Performance issues
-
 
 ### Performance issues
 

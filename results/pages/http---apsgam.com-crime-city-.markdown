@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://apsgam.com/crime-city/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [APS GAME – Crime City](http://apsgam.com/crime-city/)
 
@@ -29,9 +33,6 @@ title: http://apsgam.com/crime-city/
 *  JS Response Bytes: 1035298
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16238
-
-### Performance issues
-
 
 ### Performance issues
 

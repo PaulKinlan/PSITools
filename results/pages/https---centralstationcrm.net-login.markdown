@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://centralstationcrm.net/login
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [CentralStationCRM](https://centralstationcrm.net/login)
 
@@ -29,9 +31,6 @@ title: https://centralstationcrm.net/login
 *  JS Response Bytes: 369986
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 804
-
-### Performance issues
-
 
 ### Performance issues
 

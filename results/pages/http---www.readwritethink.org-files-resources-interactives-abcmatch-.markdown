@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.readwritethink.org/files/resources/interactives/abcmatch/
+EnableGzipCompression: true
+AvoidPlugins: true
 ---
 ## [ABC_Match](http://www.readwritethink.org/files/resources/interactives/abcmatch/)
 
@@ -29,9 +31,6 @@ title: http://www.readwritethink.org/files/resources/interactives/abcmatch/
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://godparticlebible.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The God Particle, kindle, Kindle Books, Amazon Kindle ebooks, Free Kindle books](http://godparticlebible.com/)
 
@@ -29,9 +33,6 @@ title: http://godparticlebible.com/
 *  JS Response Bytes: 1959636
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97124
-
-### Performance issues
-
 
 ### Performance issues
 

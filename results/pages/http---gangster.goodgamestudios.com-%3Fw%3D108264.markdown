@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gangster.goodgamestudios.com/?w=108264
+PreferAsyncResources: true
+AvoidPlugins: true
 ---
 ## [Goodgame Gangster | Goodgame Studios](http://gangster.goodgamestudios.com/?w=108264)
 
@@ -29,9 +31,6 @@ title: http://gangster.goodgamestudios.com/?w=108264
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

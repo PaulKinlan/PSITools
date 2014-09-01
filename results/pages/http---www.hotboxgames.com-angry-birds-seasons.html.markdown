@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.hotboxgames.com/angry-birds-seasons.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Seasons | Hot Box Games](http://www.hotboxgames.com/angry-birds-seasons.html)
 
@@ -29,9 +33,6 @@ title: http://www.hotboxgames.com/angry-birds-seasons.html
 *  JS Response Bytes: 1693613
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105481
-
-### Performance issues
-
 
 ### Performance issues
 

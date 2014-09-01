@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.breezerindia.com/game.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Breezer Catch The Flavor Game](http://www.breezerindia.com/game.html)
 
@@ -29,9 +33,6 @@ title: http://www.breezerindia.com/game.html
 *  JS Response Bytes: 1116319
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1195
-
-### Performance issues
-
 
 ### Performance issues
 

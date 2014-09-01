@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://frontdeskanywhere.com/login.php
+MinimizeRenderBlockingResources: true
 ---
 ## [Page Not Found |](http://frontdeskanywhere.com/login.php)
 
@@ -29,9 +30,6 @@ title: http://frontdeskanywhere.com/login.php
 *  JS Response Bytes: 1008097
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 164483
-
-### Performance issues
-
 
 ### Performance issues
 

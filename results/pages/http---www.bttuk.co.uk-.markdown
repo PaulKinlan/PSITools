@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.bttuk.co.uk/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MMA Norwich 30 Day FREE Trial & BJJ Norwich, Try Today 01603 408707](http://www.bttuk.co.uk/)
 
@@ -29,9 +32,6 @@ title: http://www.bttuk.co.uk/
 *  JS Response Bytes: 1067739
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1766
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://bharatheducation.blogspot.in/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Bharath English High School](http://bharatheducation.blogspot.in/?m=1)
 
@@ -29,9 +31,6 @@ title: http://bharatheducation.blogspot.in/?m=1
 *  JS Response Bytes: 314308
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 569
-
-### Performance issues
-
 
 ### Performance issues
 

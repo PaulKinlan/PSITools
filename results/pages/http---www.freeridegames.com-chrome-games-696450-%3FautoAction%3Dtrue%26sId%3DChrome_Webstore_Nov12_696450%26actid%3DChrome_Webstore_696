@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/696450/?autoAction=true&sId=Chrome_Webstore_Nov12_696450&actid=Chrome_Webstore_696450
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Lottso Deluxe for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/696450/?autoAction=true&sId=Chrome_Webstore_Nov12_696450&actid=Chrome_Webstore_696450)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/696450/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1653450
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34547
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://apps.wikihow.com/survivalkit/#!/home/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [wikiHow Survival Kit](http://apps.wikihow.com/survivalkit/#!/home/)
 
@@ -29,9 +33,6 @@ title: http://apps.wikihow.com/survivalkit/#!/home/
 *  JS Response Bytes: 384510
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109068
-
-### Performance issues
-
 
 ### Performance issues
 

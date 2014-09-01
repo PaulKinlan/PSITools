@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.thomasapp.info/detoxmypc/index.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Detox My PC](http://www.thomasapp.info/detoxmypc/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.thomasapp.info/detoxmypc/index.html
 *  JS Response Bytes: 400583
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16064
-
-### Performance issues
-
 
 ### Performance issues
 

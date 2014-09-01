@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.downloader-ing.com/wechat/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Wechat | Download](http://www.downloader-ing.com/wechat/)
 
@@ -29,9 +33,6 @@ title: http://www.downloader-ing.com/wechat/
 *  JS Response Bytes: 532182
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15320
-
-### Performance issues
-
 
 ### Performance issues
 

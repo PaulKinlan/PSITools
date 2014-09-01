@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.24playgame.com/index.php?ara=minecraft
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [minecraft | Play Games free play the best games](http://www.24playgame.com/index.php?ara=minecraft)
 
@@ -29,9 +33,6 @@ title: http://www.24playgame.com/index.php?ara=minecraft
 *  JS Response Bytes: 660798
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

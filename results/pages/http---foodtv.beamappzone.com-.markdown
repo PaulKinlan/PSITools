@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://foodtv.beamappzone.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Food Recipes TV Live](http://foodtv.beamappzone.com/)
 
@@ -29,9 +33,6 @@ title: http://foodtv.beamappzone.com/
 *  JS Response Bytes: 481711
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

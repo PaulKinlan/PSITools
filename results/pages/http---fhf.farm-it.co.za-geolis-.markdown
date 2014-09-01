@@ -33,8 +33,5 @@ title: http://fhf.farm-it.co.za/geolis/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

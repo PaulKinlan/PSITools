@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.befunky.com/mobile/
+MinimizeRenderBlockingResources: true
 ---
 ## [Photo editor | BeFunky: Free Online Photo Editing and Collage Maker](http://www.befunky.com/mobile/)
 
@@ -29,9 +30,6 @@ title: http://www.befunky.com/mobile/
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15383
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.adminkit.net/ip2location.aspx
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IP 2 Location | adminkit.net](http://www.adminkit.net/ip2location.aspx)
 
@@ -29,9 +36,6 @@ title: http://www.adminkit.net/ip2location.aspx
 *  JS Response Bytes: 2025664
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 157041
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://barcodegenerator.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+UseLegibleFontSizes: true
 ---
 ## [](http://barcodegenerator.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://barcodegenerator.appspot.com/
 *  JS Response Bytes: 66947
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1544
-
-### Performance issues
-
 
 ### Performance issues
 

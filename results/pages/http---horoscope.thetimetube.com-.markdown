@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://horoscope.thetimetube.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Today's Horoscope - Aries](http://horoscope.thetimetube.com/)
 
@@ -29,9 +34,6 @@ title: http://horoscope.thetimetube.com/
 *  JS Response Bytes: 389971
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

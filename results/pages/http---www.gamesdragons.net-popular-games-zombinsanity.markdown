@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesdragons.net/popular-games/zombinsanity
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | www.gamesdragons.net | Play Most Popular Games Free](http://www.gamesdragons.net/popular-games/zombinsanity)
 
@@ -29,9 +34,6 @@ title: http://www.gamesdragons.net/popular-games/zombinsanity
 *  JS Response Bytes: 600221
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3582
-
-### Performance issues
-
 
 ### Performance issues
 

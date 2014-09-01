@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://short2games.com/games/concentration/concentration.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Concentration](http://short2games.com/games/concentration/concentration.html)
 
@@ -29,9 +31,6 @@ title: http://short2games.com/games/concentration/concentration.html
 *  JS Response Bytes: 130170
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 392
-
-### Performance issues
-
 
 ### Performance issues
 

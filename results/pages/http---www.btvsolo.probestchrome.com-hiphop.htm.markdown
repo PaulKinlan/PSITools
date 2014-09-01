@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.btvsolo.probestchrome.com/hiphop.htm
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HIPHOP BEAT SOFTWARE](http://www.btvsolo.probestchrome.com/hiphop.htm)
 
@@ -29,9 +32,6 @@ title: http://www.btvsolo.probestchrome.com/hiphop.htm
 *  JS Response Bytes: 2651044
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14698
-
-### Performance issues
-
 
 ### Performance issues
 

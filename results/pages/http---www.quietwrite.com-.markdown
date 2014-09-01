@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.quietwrite.com/
+UseLegibleFontSizes: true
 ---
 ## [502 Bad Gateway](http://www.quietwrite.com/)
 
@@ -29,9 +30,6 @@ title: http://www.quietwrite.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 307
-
-### Performance issues
-
 
 ### Performance issues
 

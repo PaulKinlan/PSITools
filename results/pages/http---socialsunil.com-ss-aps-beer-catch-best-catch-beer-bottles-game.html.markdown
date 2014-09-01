@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://socialsunil.com/ss/aps/beer-catch/best-catch-beer-bottles-game.html
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Best Catch Beer Bottles Game](http://socialsunil.com/ss/aps/beer-catch/best-catch-beer-bottles-game.html)
 
@@ -29,9 +33,6 @@ title: http://socialsunil.com/ss/aps/beer-catch/best-catch-beer-bottles-game.htm
 *  JS Response Bytes: 412906
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

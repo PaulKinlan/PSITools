@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.apixline.org/pm/app/web/colorgame/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flash-Line & Images-Concept COLOR GAME](http://www.apixline.org/pm/app/web/colorgame/)
 
@@ -29,9 +33,6 @@ title: http://www.apixline.org/pm/app/web/colorgame/
 *  JS Response Bytes: 7071
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13838
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://yi-ez.com/store/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Pool All-time](http://yi-ez.com/store/)
 
@@ -29,9 +33,6 @@ title: http://yi-ez.com/store/
 *  JS Response Bytes: 214817
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1226
-
-### Performance issues
-
 
 ### Performance issues
 

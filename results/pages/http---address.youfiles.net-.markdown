@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://address.youfiles.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Address verification, validation](http://address.youfiles.net/)
 
@@ -29,9 +34,6 @@ title: http://address.youfiles.net/
 *  JS Response Bytes: 1091888
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54598
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromeflappybird.blogspot.com/2013/08/bad-boys-2.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free play games: Bad Boys 2](http://chromeflappybird.blogspot.com/2013/08/bad-boys-2.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromeflappybird.blogspot.com/2013/08/bad-boys-2.html?m=1
 *  JS Response Bytes: 1548862
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99214
-
-### Performance issues
-
 
 ### Performance issues
 

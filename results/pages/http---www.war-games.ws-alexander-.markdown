@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/alexander/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Alexander](http://www.war-games.ws/alexander/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/alexander/
 *  JS Response Bytes: 2292871
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 123812
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://i-libro.net/game/article/html5test/chap5-b/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [バグ消しパズル](http://i-libro.net/game/article/html5test/chap5-b/)
 
@@ -29,9 +32,6 @@ title: http://i-libro.net/game/article/html5test/chap5-b/
 *  JS Response Bytes: 15541
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

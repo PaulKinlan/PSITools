@@ -33,8 +33,5 @@ title: http://lexiconium.com/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

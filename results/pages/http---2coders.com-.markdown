@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://2coders.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [2Coders](http://2coders.com/)
 
@@ -29,9 +33,6 @@ title: http://2coders.com/
 *  JS Response Bytes: 532945
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 324340
-
-### Performance issues
-
 
 ### Performance issues
 

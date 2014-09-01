@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.abaenglish.com/en/?partnerid=300012
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn English with ABA](http://www.abaenglish.com/en/?partnerid=300012)
 
@@ -29,9 +33,6 @@ title: http://www.abaenglish.com/en/?partnerid=300012
 *  JS Response Bytes: 953488
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55029
-
-### Performance issues
-
 
 ### Performance issues
 

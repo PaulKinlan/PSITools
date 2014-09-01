@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.coreonline.com/hitman-blood-money/?utm_source=CWS&utm_medium=Launcher&utm_campaign=Hitman-Blood-Money
+UseLegibleFontSizes: true
 ---
 ## [403 Forbidden](http://www.coreonline.com/hitman-blood-money/?utm_source=CWS&utm_medium=Launcher&utm_campaign=Hitman-Blood-Money)
 
@@ -29,9 +30,6 @@ title: http://www.coreonline.com/hitman-blood-money/?utm_source=CWS&utm_medium=L
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 525
-
-### Performance issues
-
 
 ### Performance issues
 

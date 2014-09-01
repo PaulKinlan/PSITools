@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.funygames24.com/action/uphill-rush-6
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Uphill Rush 6 - funygames24](http://www.funygames24.com/action/uphill-rush-6)
 
@@ -29,9 +37,6 @@ title: http://www.funygames24.com/action/uphill-rush-6
 *  JS Response Bytes: 2094877
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99541
-
-### Performance issues
-
 
 ### Performance issues
 

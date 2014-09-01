@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.onlinetopgame.com/game/aqua-bubble.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bubble Shooter - Skill Games - Play Free Online Games](http://www.onlinetopgame.com/game/aqua-bubble.html)
 
@@ -29,9 +35,6 @@ title: http://www.onlinetopgame.com/game/aqua-bubble.html
 *  JS Response Bytes: 514136
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

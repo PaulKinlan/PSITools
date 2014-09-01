@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/sweet-ride-skate/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sweet Ride Skate game](http://www.skateboarding-games.biz/sweet-ride-skate/)
 
@@ -29,9 +35,6 @@ title: http://www.skateboarding-games.biz/sweet-ride-skate/
 *  JS Response Bytes: 2279786
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124553
-
-### Performance issues
-
 
 ### Performance issues
 

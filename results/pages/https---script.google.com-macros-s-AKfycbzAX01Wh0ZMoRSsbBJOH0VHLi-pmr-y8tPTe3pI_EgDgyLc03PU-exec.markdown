@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://script.google.com/macros/s/AKfycbzAX01Wh0ZMoRSsbBJOH0VHLi-pmr-y8tPTe3pI_EgDgyLc03PU/exec
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [Error](https://script.google.com/macros/s/AKfycbzAX01Wh0ZMoRSsbBJOH0VHLi-pmr-y8tPTe3pI_EgDgyLc03PU/exec)
 
@@ -29,9 +31,6 @@ title: https://script.google.com/macros/s/AKfycbzAX01Wh0ZMoRSsbBJOH0VHLi-pmr-y8t
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

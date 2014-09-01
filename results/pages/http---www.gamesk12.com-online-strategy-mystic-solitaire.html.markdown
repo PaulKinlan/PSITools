@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/strategy/mystic-solitaire.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mystic Solitaire Play Mystic Solitaire on Gamesk12.com Free Online Games](http://www.gamesk12.com/online/strategy/mystic-solitaire.html)
 
@@ -29,9 +36,6 @@ title: http://www.gamesk12.com/online/strategy/mystic-solitaire.html
 *  JS Response Bytes: 1844538
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106633
-
-### Performance issues
-
 
 ### Performance issues
 

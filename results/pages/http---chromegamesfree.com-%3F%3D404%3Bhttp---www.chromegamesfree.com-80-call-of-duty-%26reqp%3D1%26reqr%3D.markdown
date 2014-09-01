@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromegamesfree.com/?=404;http://www.chromegamesfree.com:80/call-of-duty/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [chromegamesfree.com](http://chromegamesfree.com/?=404;http://www.chromegamesfree.com:80/call-of-duty/&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://chromegamesfree.com/?=404;http://www.chromegamesfree.com:80/call-o
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114
-
-### Performance issues
-
 
 ### Performance issues
 

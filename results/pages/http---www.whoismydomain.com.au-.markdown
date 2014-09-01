@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.whoismydomain.com.au/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Whois Mydomain | Free Who is Search | Who is Lookup | Who is Domain Tool](http://www.whoismydomain.com.au/)
 
@@ -29,9 +33,6 @@ title: http://www.whoismydomain.com.au/
 *  JS Response Bytes: 118960
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 333
-
-### Performance issues
-
 
 ### Performance issues
 

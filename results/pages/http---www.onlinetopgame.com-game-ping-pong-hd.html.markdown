@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.onlinetopgame.com/game/ping-pong-hd.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ping Pong HD - Sports Games - Play Free Online Games](http://www.onlinetopgame.com/game/ping-pong-hd.html)
 
@@ -29,9 +35,6 @@ title: http://www.onlinetopgame.com/game/ping-pong-hd.html
 *  JS Response Bytes: 514135
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 592
-
-### Performance issues
-
 
 ### Performance issues
 

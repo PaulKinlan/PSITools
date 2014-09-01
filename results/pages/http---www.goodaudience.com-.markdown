@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.goodaudience.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Good Audience | Get More Followers](http://www.goodaudience.com/)
 
@@ -29,9 +33,6 @@ title: http://www.goodaudience.com/
 *  JS Response Bytes: 1912321
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7353
-
-### Performance issues
-
 
 ### Performance issues
 

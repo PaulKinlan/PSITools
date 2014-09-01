@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://reematch.com/login.php
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [ReeMatch.com : Matches you with relevant jobs](http://reematch.com/login.php)
 
@@ -29,9 +31,6 @@ title: http://reematch.com/login.php
 *  JS Response Bytes: 144652
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 72145
-
-### Performance issues
-
 
 ### Performance issues
 

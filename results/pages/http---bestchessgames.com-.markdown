@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://bestchessgames.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chess Games, Board Games](http://bestchessgames.com/)
 
@@ -29,9 +34,6 @@ title: http://bestchessgames.com/
 *  JS Response Bytes: 661556
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14613
-
-### Performance issues
-
 
 ### Performance issues
 

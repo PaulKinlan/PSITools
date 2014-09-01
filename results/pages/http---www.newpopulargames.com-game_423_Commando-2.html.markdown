@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_423_Commando-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Commando 2 Flash Games](http://www.newpopulargames.com/game_423_Commando-2.html)
 
@@ -29,9 +34,6 @@ title: http://www.newpopulargames.com/game_423_Commando-2.html
 *  JS Response Bytes: 2645942
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 150482
-
-### Performance issues
-
 
 ### Performance issues
 

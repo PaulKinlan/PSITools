@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.organic-ese.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Organic-ese - Organic Chemistry Easier | Presentation Makes All the Difference](http://www.organic-ese.com/)
 
@@ -29,9 +34,6 @@ title: http://www.organic-ese.com/
 *  JS Response Bytes: 1218545
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 229710
-
-### Performance issues
-
 
 ### Performance issues
 

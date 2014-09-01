@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gameflare.com/online-game/freefall-tournament/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Freefall Tournament - online game | GameFlare.com](http://www.gameflare.com/online-game/freefall-tournament/)
 
@@ -29,9 +36,6 @@ title: http://www.gameflare.com/online-game/freefall-tournament/
 *  JS Response Bytes: 2190736
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 304700
-
-### Performance issues
-
 
 ### Performance issues
 

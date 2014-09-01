@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.runtastic.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Runtastic - makes sports funtastic](https://www.runtastic.com/)
 
@@ -29,9 +32,6 @@ title: https://www.runtastic.com/
 *  JS Response Bytes: 864109
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1164
-
-### Performance issues
-
 
 ### Performance issues
 

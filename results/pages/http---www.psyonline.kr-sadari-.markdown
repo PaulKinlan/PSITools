@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.psyonline.kr/sadari/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SADARI !](http://www.psyonline.kr/sadari/)
 
@@ -29,9 +34,6 @@ title: http://www.psyonline.kr/sadari/
 *  JS Response Bytes: 123502
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromeapplications.blogspot.com/2014/07/adblock-for-youtube.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Chrome App Blog: Adblock for Youtube™](http://chromeapplications.blogspot.com/2014/07/adblock-for-youtube.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromeapplications.blogspot.com/2014/07/adblock-for-youtube.html?m
 *  JS Response Bytes: 2795160
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 142436
-
-### Performance issues
-
 
 ### Performance issues
 

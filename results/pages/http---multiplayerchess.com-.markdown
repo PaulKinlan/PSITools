@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://multiplayerchess.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [71 Online Players @ Multiplayer Chess](http://multiplayerchess.com/)
 
@@ -29,9 +33,6 @@ title: http://multiplayerchess.com/
 *  JS Response Bytes: 309100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

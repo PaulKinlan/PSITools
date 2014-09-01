@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.soundtracker.fm/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Soundtracker | Social Music Network](http://www.soundtracker.fm/)
 
@@ -29,9 +32,6 @@ title: http://www.soundtracker.fm/
 *  JS Response Bytes: 2552608
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31041
-
-### Performance issues
-
 
 ### Performance issues
 

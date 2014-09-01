@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.thebestofflash.com/demos/lightbikes/lightbikespreview.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Light Bikes Game (Similar To Flash Tron Light Cycles Game) Preview](http://www.thebestofflash.com/demos/lightbikes/lightbikespreview.html)
 
@@ -29,9 +35,6 @@ title: http://www.thebestofflash.com/demos/lightbikes/lightbikespreview.html
 *  JS Response Bytes: 1485042
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111814
-
-### Performance issues
-
 
 ### Performance issues
 

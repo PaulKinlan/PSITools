@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.stationofgames.com/angry-gran-2/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Gran 2](http://www.stationofgames.com/angry-gran-2/)
 
@@ -29,9 +36,6 @@ title: http://www.stationofgames.com/angry-gran-2/
 *  JS Response Bytes: 1619170
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 101239
-
-### Performance issues
-
 
 ### Performance issues
 

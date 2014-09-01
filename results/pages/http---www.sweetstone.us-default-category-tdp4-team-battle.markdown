@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sweetstone.us/default-category/tdp4-team-battle
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TDP4: Team Battle - Sweet Stone](http://www.sweetstone.us/default-category/tdp4-team-battle)
 
@@ -29,9 +34,6 @@ title: http://www.sweetstone.us/default-category/tdp4-team-battle
 *  JS Response Bytes: 1880156
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112113
-
-### Performance issues
-
 
 ### Performance issues
 

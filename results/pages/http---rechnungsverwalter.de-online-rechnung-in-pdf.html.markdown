@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://rechnungsverwalter.de/online-rechnung-in-pdf.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online-Rechnung erstellen](http://rechnungsverwalter.de/online-rechnung-in-pdf.html)
 
@@ -29,9 +34,6 @@ title: http://rechnungsverwalter.de/online-rechnung-in-pdf.html
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

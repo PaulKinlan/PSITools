@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://forplaydemo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [HelloGame](http://forplaydemo.appspot.com/)
 
@@ -29,9 +31,6 @@ title: http://forplaydemo.appspot.com/
 *  JS Response Bytes: 4875
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

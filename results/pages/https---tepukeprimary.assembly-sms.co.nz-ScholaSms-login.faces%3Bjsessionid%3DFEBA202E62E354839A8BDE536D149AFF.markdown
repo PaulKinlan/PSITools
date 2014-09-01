@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://tepukeprimary.assembly-sms.co.nz/ScholaSms/login.faces;jsessionid=FEBA202E62E354839A8BDE536D149AFF
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login](https://tepukeprimary.assembly-sms.co.nz/ScholaSms/login.faces;jsessionid=FEBA202E62E354839A8BDE536D149AFF)
 
@@ -29,9 +33,6 @@ title: https://tepukeprimary.assembly-sms.co.nz/ScholaSms/login.faces;jsessionid
 *  JS Response Bytes: 63165
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1403
-
-### Performance issues
-
 
 ### Performance issues
 

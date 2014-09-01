@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gamezofworld.blogspot.com/2013/02/spongebob-stars-racing-3d.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Best Free Games: SpongeBob Stars Racing 3D](http://gamezofworld.blogspot.com/2013/02/spongebob-stars-racing-3d.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://gamezofworld.blogspot.com/2013/02/spongebob-stars-racing-3d.html?m
 *  JS Response Bytes: 1852146
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287787
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://sites.google.com/site/playfungameforfun/home/tower-tank-destruction
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [Tower Tank Destruction - PlayGame](https://sites.google.com/site/playfungameforfun/home/tower-tank-destruction)
 
@@ -29,9 +31,6 @@ title: https://sites.google.com/site/playfungameforfun/home/tower-tank-destructi
 *  JS Response Bytes: 475750
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4114
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://thenytimesbestsellers.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ny times bestsellers, new york times best sellers, ny times best selling books, new york times best selling books, best selling books](http://thenytimesbestsellers.com/)
 
@@ -29,9 +32,6 @@ title: http://thenytimesbestsellers.com/
 *  JS Response Bytes: 1419824
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2164
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://script.google.com/a/macros/nharyes.net/s/AKfycbzBTJo1sy4vs2ZTbfay7V0Wyp_-AB_tI1eXfLfDMNjBIlJDCNs/exec
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Plus Channel](https://script.google.com/a/macros/nharyes.net/s/AKfycbzBTJo1sy4vs2ZTbfay7V0Wyp_-AB_tI1eXfLfDMNjBIlJDCNs/exec)
 
@@ -29,9 +33,6 @@ title: https://script.google.com/a/macros/nharyes.net/s/AKfycbzBTJo1sy4vs2ZTbfay
 *  JS Response Bytes: 1292921
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4976
-
-### Performance issues
-
 
 ### Performance issues
 

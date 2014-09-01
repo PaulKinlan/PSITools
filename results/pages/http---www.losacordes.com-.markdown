@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.losacordes.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Los Acordes - Canciones para Guitarra con Acordes y Tablaturas](http://www.losacordes.com/)
 
@@ -29,9 +33,6 @@ title: http://www.losacordes.com/
 *  JS Response Bytes: 499707
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14850
-
-### Performance issues
-
 
 ### Performance issues
 

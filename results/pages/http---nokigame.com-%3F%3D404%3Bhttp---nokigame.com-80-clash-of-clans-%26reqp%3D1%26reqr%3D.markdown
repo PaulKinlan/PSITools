@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://nokigame.com/?=404;http://nokigame.com:80/clash-of-clans/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [nokigame.com](http://nokigame.com/?=404;http://nokigame.com:80/clash-of-clans/&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://nokigame.com/?=404;http://nokigame.com:80/clash-of-clans/&reqp=1&r
 *  JS Response Bytes: 219744
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98
-
-### Performance issues
-
 
 ### Performance issues
 

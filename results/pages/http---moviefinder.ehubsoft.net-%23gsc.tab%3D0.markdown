@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://moviefinder.ehubsoft.net/#gsc.tab=0
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Movie Finder, Find the content you're looking for!](http://moviefinder.ehubsoft.net/#gsc.tab=0)
 
@@ -29,9 +33,6 @@ title: http://moviefinder.ehubsoft.net/#gsc.tab=0
 *  JS Response Bytes: 977972
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15390
-
-### Performance issues
-
 
 ### Performance issues
 

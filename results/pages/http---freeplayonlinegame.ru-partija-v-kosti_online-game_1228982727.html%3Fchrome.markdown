@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://freeplayonlinegame.ru/partija-v-kosti_online-game_1228982727.html?chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Игра Партия в кости онлайн](http://freeplayonlinegame.ru/partija-v-kosti_online-game_1228982727.html?chrome)
 
@@ -29,9 +35,6 @@ title: http://freeplayonlinegame.ru/partija-v-kosti_online-game_1228982727.html?
 *  JS Response Bytes: 349659
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 93201
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mondialparebrise.fr/acc_extranet_mpb/mpbmapps/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Carte Mondial Pare-Brise](http://www.mondialparebrise.fr/acc_extranet_mpb/mpbmapps/index.html)
 
@@ -29,9 +34,6 @@ title: http://www.mondialparebrise.fr/acc_extranet_mpb/mpbmapps/index.html
 *  JS Response Bytes: 569108
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 77131
-
-### Performance issues
-
 
 ### Performance issues
 

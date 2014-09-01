@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://freehdgame2013.blogspot.com/2013/08/angry-birds-space-hd.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [martin](http://freehdgame2013.blogspot.com/2013/08/angry-birds-space-hd.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://freehdgame2013.blogspot.com/2013/08/angry-birds-space-hd.html?m=1
 *  JS Response Bytes: 790879
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331043
-
-### Performance issues
-
 
 ### Performance issues
 

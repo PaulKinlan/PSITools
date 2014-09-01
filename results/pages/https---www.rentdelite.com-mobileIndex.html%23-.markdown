@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.rentdelite.com/mobileIndex.html#/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Rent Delite](https://www.rentdelite.com/mobileIndex.html#/)
 
@@ -29,9 +32,6 @@ title: https://www.rentdelite.com/mobileIndex.html#/
 *  JS Response Bytes: 2171207
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 64
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://playgame3d.blogspot.com/2013/08/day-z.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Free GamePlay: Day Z](http://playgame3d.blogspot.com/2013/08/day-z.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://playgame3d.blogspot.com/2013/08/day-z.html?m=1
 *  JS Response Bytes: 1634766
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96158
-
-### Performance issues
-
 
 ### Performance issues
 

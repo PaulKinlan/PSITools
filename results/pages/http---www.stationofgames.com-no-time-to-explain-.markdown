@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.stationofgames.com/no-time-to-explain/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [No Time To Explain](http://www.stationofgames.com/no-time-to-explain/)
 
@@ -29,9 +35,6 @@ title: http://www.stationofgames.com/no-time-to-explain/
 *  JS Response Bytes: 1359735
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 126578
-
-### Performance issues
-
 
 ### Performance issues
 

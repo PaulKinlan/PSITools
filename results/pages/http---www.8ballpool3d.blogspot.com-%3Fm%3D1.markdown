@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.8ballpool3d.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [8 Ball Pool Pool 3d](http://www.8ballpool3d.blogspot.com/?m=1)
 
@@ -25,13 +26,10 @@ title: http://www.8ballpool3d.blogspot.com/?m=1
 *  HTML Response Bytes: 50276
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 21448
-*  Image Response Bytes: 1709
-*  JS Response Bytes: 242527
+*  Image Response Bytes: 1708
+*  JS Response Bytes: 242547
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 571
-
-### Performance issues
-
 
 ### Performance issues
 

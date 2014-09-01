@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.didugames.com/pou.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pou | Didu Games](http://www.didugames.com/pou.html)
 
@@ -29,9 +34,6 @@ title: http://www.didugames.com/pou.html
 *  JS Response Bytes: 2077494
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119345
-
-### Performance issues
-
 
 ### Performance issues
 

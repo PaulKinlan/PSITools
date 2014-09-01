@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://allping.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AllPing EDM Login](http://allping.net/)
 
@@ -29,9 +33,6 @@ title: http://allping.net/
 *  JS Response Bytes: 182631
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

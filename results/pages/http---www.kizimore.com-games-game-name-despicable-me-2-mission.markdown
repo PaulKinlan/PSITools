@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.kizimore.com/games/game/name/despicable-me-2-mission
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [despicable-me-2-mission Kizi - Online Games - Life is fun!](http://www.kizimore.com/games/game/name/despicable-me-2-mission)
 
@@ -29,9 +36,6 @@ title: http://www.kizimore.com/games/game/name/despicable-me-2-mission
 *  JS Response Bytes: 1700750
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112770
-
-### Performance issues
-
 
 ### Performance issues
 

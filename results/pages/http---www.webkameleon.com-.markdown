@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.webkameleon.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [webkameleon, create a mobile and beutiful website](http://www.webkameleon.com/)
 
@@ -29,9 +32,6 @@ title: http://www.webkameleon.com/
 *  JS Response Bytes: 280578
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 222546
-
-### Performance issues
-
 
 ### Performance issues
 

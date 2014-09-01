@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gtaplaygames.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Play gta online games](http://gtaplaygames.blogspot.com/?m=1)
 
@@ -22,16 +23,13 @@ title: http://gtaplaygames.blogspot.com/?m=1
 
 ### Response data
 
-*  HTML Response Bytes: 51739
+*  HTML Response Bytes: 51740
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 21448
 *  Image Response Bytes: 1709
-*  JS Response Bytes: 249555
+*  JS Response Bytes: 249576
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 564
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://3drealgames.net/category/dress-up/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dress-Up - 3D Real Games – Online Game 3D – Play Online Flash Game – 3D Real Flash Game](http://3drealgames.net/category/dress-up/)
 
@@ -29,9 +35,6 @@ title: http://3drealgames.net/category/dress-up/
 *  JS Response Bytes: 824945
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1118
-
-### Performance issues
-
 
 ### Performance issues
 

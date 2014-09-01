@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ameliyat.me/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ameliyat Oyunları oyna](http://www.ameliyat.me/)
 
@@ -29,9 +34,6 @@ title: http://www.ameliyat.me/
 *  JS Response Bytes: 1922136
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98043
-
-### Performance issues
-
 
 ### Performance issues
 

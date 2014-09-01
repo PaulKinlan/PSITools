@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/654050/?autoAction=true&sId=Chrome_Webstore_Nov12_654050
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Everyday Genius: SquareLogic for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/654050/?autoAction=true&sId=Chrome_Webstore_Nov12_654050)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/654050/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1384177
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35558
-
-### Performance issues
-
 
 ### Performance issues
 

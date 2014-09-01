@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.midialinks.com.br/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Midialinks - Para quem compra e vende Mídia](http://www.midialinks.com.br/)
 
@@ -29,9 +34,6 @@ title: http://www.midialinks.com.br/
 *  JS Response Bytes: 1545484
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 151515
-
-### Performance issues
-
 
 ### Performance issues
 

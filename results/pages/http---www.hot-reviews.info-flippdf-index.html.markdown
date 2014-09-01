@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.hot-reviews.info/flippdf/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flip PDF: Professional page flip software to make PDF page flip to read as real books on digital devices. - Download FREE](http://www.hot-reviews.info/flippdf/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.hot-reviews.info/flippdf/index.html
 *  JS Response Bytes: 1035291
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98004
-
-### Performance issues
-
 
 ### Performance issues
 

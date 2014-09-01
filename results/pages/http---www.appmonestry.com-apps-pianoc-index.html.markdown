@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.appmonestry.com/apps/pianoc/index.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Piano Lite](http://www.appmonestry.com/apps/pianoc/index.html)
 
@@ -29,9 +31,6 @@ title: http://www.appmonestry.com/apps/pianoc/index.html
 *  JS Response Bytes: 858611
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16749
-
-### Performance issues
-
 
 ### Performance issues
 

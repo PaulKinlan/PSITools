@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.tonsreviews.info/myshedplans/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free outdoor shed plans, garden and storage sheds plus wood working projects, designs with woodworking patterns. Comes with garage plans and projects](http://www.tonsreviews.info/myshedplans/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.tonsreviews.info/myshedplans/index.html
 *  JS Response Bytes: 1619896
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14380
-
-### Performance issues
-
 
 ### Performance issues
 

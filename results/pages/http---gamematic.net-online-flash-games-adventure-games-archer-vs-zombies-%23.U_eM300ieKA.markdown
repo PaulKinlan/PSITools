@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/adventure-games/archer-vs-zombies/#.U_eM300ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Archer vs Zombies « Online Flash Game Archer vs Zombies](http://gamematic.net/online-flash-games/adventure-games/archer-vs-zombies/#.U_eM300ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/adventure-games/archer-vs-zombies
 *  JS Response Bytes: 1265216
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43787
-
-### Performance issues
-
 
 ### Performance issues
 

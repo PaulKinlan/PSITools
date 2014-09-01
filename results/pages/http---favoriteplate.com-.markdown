@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://favoriteplate.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Favorite Plate](http://favoriteplate.com/)
 
@@ -29,9 +31,6 @@ title: http://favoriteplate.com/
 *  JS Response Bytes: 371461
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

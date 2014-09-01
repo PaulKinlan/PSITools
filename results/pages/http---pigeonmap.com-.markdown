@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://pigeonmap.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [PigeonMap.com Classifieds](http://pigeonmap.com/)
 
@@ -29,9 +30,6 @@ title: http://pigeonmap.com/
 *  JS Response Bytes: 1039770
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95563
-
-### Performance issues
-
 
 ### Performance issues
 

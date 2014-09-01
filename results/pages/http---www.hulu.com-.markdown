@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.hulu.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Popular clips from TV and Movies | Hulu Mobile Clips | Free](http://www.hulu.com/)
 
@@ -29,9 +32,6 @@ title: http://www.hulu.com/
 *  JS Response Bytes: 2285883
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4464
-
-### Performance issues
-
 
 ### Performance issues
 

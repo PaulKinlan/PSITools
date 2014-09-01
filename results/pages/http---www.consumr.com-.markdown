@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.consumr.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Consumr Product Reviews & Barcode Scanner for Beauty, Baby, Electronics, Food and More](http://www.consumr.com/)
 
@@ -29,9 +33,6 @@ title: http://www.consumr.com/
 *  JS Response Bytes: 610260
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1999
-
-### Performance issues
-
 
 ### Performance issues
 

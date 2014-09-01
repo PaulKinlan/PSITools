@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.watchtvnow.appsforchrome.org/entertaintment/watch-tv-now/
+MinimizeRenderBlockingResources: true
 ---
 ## [APPSFORCHROME.ORG](http://www.watchtvnow.appsforchrome.org/entertaintment/watch-tv-now/)
 
@@ -22,16 +23,13 @@ title: http://www.watchtvnow.appsforchrome.org/entertaintment/watch-tv-now/
 
 ### Response data
 
-*  HTML Response Bytes: 12267
+*  HTML Response Bytes: 12106
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 1356
-*  JS Response Bytes: 219745
+*  Image Response Bytes: 1357
+*  JS Response Bytes: 219744
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

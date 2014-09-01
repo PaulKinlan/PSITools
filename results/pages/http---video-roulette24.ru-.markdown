@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://video-roulette24.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Видеочат - Рулетка | Bluepiece Ltd](http://video-roulette24.ru/)
 
@@ -29,9 +34,6 @@ title: http://video-roulette24.ru/
 *  JS Response Bytes: 347921
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1917
-
-### Performance issues
-
 
 ### Performance issues
 

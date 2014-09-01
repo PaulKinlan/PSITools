@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://beats.beats4real.net/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Beats4Real - Hip Hop Beats For Sale | Buy Rap Instrumentals Online](http://beats.beats4real.net/)
 
@@ -29,9 +31,6 @@ title: http://beats.beats4real.net/
 *  JS Response Bytes: 442968
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63530
-
-### Performance issues
-
 
 ### Performance issues
 

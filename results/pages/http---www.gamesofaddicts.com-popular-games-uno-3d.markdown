@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesofaddicts.com/popular-games/uno-3d
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | Gamesogaddicts.com | Play Most Popular Games Free](http://www.gamesofaddicts.com/popular-games/uno-3d)
 
@@ -29,9 +35,6 @@ title: http://www.gamesofaddicts.com/popular-games/uno-3d
 *  JS Response Bytes: 1310638
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 60956
-
-### Performance issues
-
 
 ### Performance issues
 

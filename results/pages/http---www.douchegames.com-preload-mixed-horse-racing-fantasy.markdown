@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.douchegames.com/preload/mixed/horse-racing-fantasy
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Horse Racing Fantasy - Play Game Douchbag!!!](http://www.douchegames.com/preload/mixed/horse-racing-fantasy)
 
@@ -29,9 +34,6 @@ title: http://www.douchegames.com/preload/mixed/horse-racing-fantasy
 *  JS Response Bytes: 182226
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1853
-
-### Performance issues
-
 
 ### Performance issues
 

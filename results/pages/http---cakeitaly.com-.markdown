@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://cakeitaly.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [CakeItaly - Italian cakes and sweets](http://cakeitaly.com/)
 
@@ -29,9 +34,6 @@ title: http://cakeitaly.com/
 *  JS Response Bytes: 1220616
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19367
-
-### Performance issues
-
 
 ### Performance issues
 

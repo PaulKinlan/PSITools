@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://p2m.ep2.com/User/Login.cfm
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [EP2 Tracking System](https://p2m.ep2.com/User/Login.cfm)
 
@@ -29,9 +33,6 @@ title: https://p2m.ep2.com/User/Login.cfm
 *  JS Response Bytes: 197093
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 622
-
-### Performance issues
-
 
 ### Performance issues
 

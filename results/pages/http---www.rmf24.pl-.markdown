@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.rmf24.pl/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [RMF 24 - Najbliżej faktów](http://www.rmf24.pl/)
 
@@ -29,9 +35,6 @@ title: http://www.rmf24.pl/
 *  JS Response Bytes: 790919
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6078
-
-### Performance issues
-
 
 ### Performance issues
 

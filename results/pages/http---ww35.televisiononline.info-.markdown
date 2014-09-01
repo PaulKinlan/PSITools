@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ww35.televisiononline.info/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [televisiononline.info](http://ww35.televisiononline.info/)
 
@@ -18,20 +22,17 @@ title: http://ww35.televisiononline.info/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 1694
+*  Total Request Bytes: 1650
 
 ### Response data
 
-*  HTML Response Bytes: 20419
+*  HTML Response Bytes: 20166
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 2097
+*  Image Response Bytes: 2098
 *  JS Response Bytes: 173157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 217
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freegames123.com/angry-birds-rio.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Rio | Free Games 123](http://www.freegames123.com/angry-birds-rio.html)
 
@@ -29,9 +34,6 @@ title: http://www.freegames123.com/angry-birds-rio.html
 *  JS Response Bytes: 1529659
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103916
-
-### Performance issues
-
 
 ### Performance issues
 

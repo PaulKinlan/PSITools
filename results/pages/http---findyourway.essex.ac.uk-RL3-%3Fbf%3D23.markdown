@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://findyourway.essex.ac.uk/RL3/?bf=23
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [WAI2Go](http://findyourway.essex.ac.uk/RL3/?bf=23)
 
@@ -29,9 +33,6 @@ title: http://findyourway.essex.ac.uk/RL3/?bf=23
 *  JS Response Bytes: 490275
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 868
-
-### Performance issues
-
 
 ### Performance issues
 

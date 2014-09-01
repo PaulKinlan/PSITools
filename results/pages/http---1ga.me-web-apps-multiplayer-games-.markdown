@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://1ga.me/web-apps/multiplayer-games/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Multiplayer Games](http://1ga.me/web-apps/multiplayer-games/)
 
@@ -29,9 +33,6 @@ title: http://1ga.me/web-apps/multiplayer-games/
 *  JS Response Bytes: 1197677
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32439
-
-### Performance issues
-
 
 ### Performance issues
 

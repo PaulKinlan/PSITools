@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/physics/bobble-bots-bustle
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bobble Bots Bustle - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/physics/bobble-bots-bustle)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/physics/bobble-bots-bustle
 *  JS Response Bytes: 2212767
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 140290
-
-### Performance issues
-
 
 ### Performance issues
 

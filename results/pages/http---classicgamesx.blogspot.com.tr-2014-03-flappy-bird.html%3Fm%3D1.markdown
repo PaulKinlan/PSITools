@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://classicgamesx.blogspot.com.tr/2014/03/flappy-bird.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Classic Games: Flappy Bird](http://classicgamesx.blogspot.com.tr/2014/03/flappy-bird.html?m=1)
 
@@ -18,20 +21,17 @@ title: http://classicgamesx.blogspot.com.tr/2014/03/flappy-bird.html?m=1
 *  Number of JS Resources: 21
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 39
-*  Total Request Bytes: 5518
+*  Total Request Bytes: 5516
 
 ### Response data
 
-*  HTML Response Bytes: 100496
+*  HTML Response Bytes: 100495
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 44055
-*  Image Response Bytes: 150503
-*  JS Response Bytes: 1076415
+*  Image Response Bytes: 160150
+*  JS Response Bytes: 1076428
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 96487
-
-### Performance issues
-
+*  Other Response Bytes: 96493
 
 ### Performance issues
 

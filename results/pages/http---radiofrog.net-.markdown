@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://radiofrog.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [רדיו צפרדע - רדיו אינטרנטי עם תחנות מהארץ והעולם](http://radiofrog.net/)
 
@@ -29,9 +36,6 @@ title: http://radiofrog.net/
 *  JS Response Bytes: 1723208
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96675
-
-### Performance issues
-
 
 ### Performance issues
 

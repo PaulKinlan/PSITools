@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/christmas/snow-man.html#.U_eKmE0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Snow Man on Gamesk12.com Play for free](http://www.gamesk12.com/online/christmas/snow-man.html#.U_eKmE0ieKA)
 
@@ -29,9 +36,6 @@ title: http://www.gamesk12.com/online/christmas/snow-man.html#.U_eKmE0ieKA
 *  JS Response Bytes: 1900616
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119301
-
-### Performance issues
-
 
 ### Performance issues
 

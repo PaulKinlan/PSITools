@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.nergames.pw/?s=candy+crush+saga
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [candy crush saga – Search Results – Online Best Games](http://www.nergames.pw/?s=candy+crush+saga)
 
@@ -29,9 +36,6 @@ title: http://www.nergames.pw/?s=candy+crush+saga
 *  JS Response Bytes: 717080
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14380
-
-### Performance issues
-
 
 ### Performance issues
 

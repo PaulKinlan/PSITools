@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/warrior-dual/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Warrior Dual](http://www.war-games.ws/warrior-dual/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/warrior-dual/
 *  JS Response Bytes: 2292987
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121060
-
-### Performance issues
-
 
 ### Performance issues
 

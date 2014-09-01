@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/abilitygames/cargo-bridge/#.U_2MA00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cargo Bridge « Online Flash Game Cargo Bridge](http://gamematic.net/online-flash-games/abilitygames/cargo-bridge/#.U_2MA00ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/abilitygames/cargo-bridge/#.U_2MA
 *  JS Response Bytes: 1284992
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39275
-
-### Performance issues
-
 
 ### Performance issues
 

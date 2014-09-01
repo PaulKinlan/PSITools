@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamefobi.com/default-category/red-crucible-2
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Red Crucible 2 - Gamefobi](http://www.gamefobi.com/default-category/red-crucible-2)
 
@@ -29,9 +35,6 @@ title: http://www.gamefobi.com/default-category/red-crucible-2
 *  JS Response Bytes: 3603065
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 180123
-
-### Performance issues
-
 
 ### Performance issues
 

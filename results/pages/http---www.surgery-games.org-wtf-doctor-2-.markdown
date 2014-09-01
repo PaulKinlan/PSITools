@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/wtf-doctor-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WTF Doctor game](http://www.surgery-games.org/wtf-doctor-2/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/wtf-doctor-2/
 *  JS Response Bytes: 2479483
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124712
-
-### Performance issues
-
 
 ### Performance issues
 

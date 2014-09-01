@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.icrayonetim.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [.:Adop İcra Yönetim Programı:.icra programı, uyap uyumlu icra programı](http://www.icrayonetim.com/)
 
@@ -29,9 +32,6 @@ title: http://www.icrayonetim.com/
 *  JS Response Bytes: 621401
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

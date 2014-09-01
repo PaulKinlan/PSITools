@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://1244dendimongames.blogspot.com/2013/02/one-piece-vs-naruto.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [Best Games: One piece vs Naruto](http://1244dendimongames.blogspot.com/2013/02/one-piece-vs-naruto.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://1244dendimongames.blogspot.com/2013/02/one-piece-vs-naruto.html?m=
 *  JS Response Bytes: 2172492
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 289578
-
-### Performance issues
-
 
 ### Performance issues
 

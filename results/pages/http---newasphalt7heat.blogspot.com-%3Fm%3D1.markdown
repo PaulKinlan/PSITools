@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://newasphalt7heat.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://newasphalt7heat.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://newasphalt7heat.blogspot.com/?m=1
 *  JS Response Bytes: 41101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18777
-
-### Performance issues
-
 
 ### Performance issues
 

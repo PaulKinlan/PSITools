@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sultansofgame.org/games/ronaldo-vs-messi/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Ronaldo vs Messi Game — Sultans of Game](http://www.sultansofgame.org/games/ronaldo-vs-messi/)
 
@@ -29,9 +34,6 @@ title: http://www.sultansofgame.org/games/ronaldo-vs-messi/
 *  JS Response Bytes: 1593951
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 129593
-
-### Performance issues
-
 
 ### Performance issues
 

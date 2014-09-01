@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamemental.com/default-category/gladiator-true-story
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gladiator - True Story - Gamemental](http://www.gamemental.com/default-category/gladiator-true-story)
 
@@ -29,9 +34,6 @@ title: http://www.gamemental.com/default-category/gladiator-true-story
 *  JS Response Bytes: 723941
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

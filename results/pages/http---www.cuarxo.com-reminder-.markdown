@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.cuarxo.com/reminder/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cuarxo Reminder | Email reminder made easy](http://www.cuarxo.com/reminder/)
 
@@ -29,9 +34,6 @@ title: http://www.cuarxo.com/reminder/
 *  JS Response Bytes: 1172198
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

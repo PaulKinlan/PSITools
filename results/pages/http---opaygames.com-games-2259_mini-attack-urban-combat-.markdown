@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://opaygames.com/games/2259_mini-attack-urban-combat/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Mini Attack: Urban Combat | Games at Opaygames](http://opaygames.com/games/2259_mini-attack-urban-combat/)
 
@@ -29,9 +34,6 @@ title: http://opaygames.com/games/2259_mini-attack-urban-combat/
 *  JS Response Bytes: 324783
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2377
-
-### Performance issues
-
 
 ### Performance issues
 

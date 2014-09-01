@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://stopwatch.appstube.co/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stop Watch](http://stopwatch.appstube.co/)
 
@@ -29,9 +36,6 @@ title: http://stopwatch.appstube.co/
 *  JS Response Bytes: 453223
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22155
-
-### Performance issues
-
 
 ### Performance issues
 

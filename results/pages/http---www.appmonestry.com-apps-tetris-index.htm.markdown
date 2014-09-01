@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.appmonestry.com/apps/tetris/index.htm
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tetris](http://www.appmonestry.com/apps/tetris/index.htm)
 
@@ -29,9 +34,6 @@ title: http://www.appmonestry.com/apps/tetris/index.htm
 *  JS Response Bytes: 392364
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14686
-
-### Performance issues
-
 
 ### Performance issues
 

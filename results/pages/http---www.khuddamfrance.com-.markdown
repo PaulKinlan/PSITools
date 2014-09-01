@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.khuddamfrance.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Majlis Khuddam-ul-Ahmadiyya de France](http://www.khuddamfrance.com/)
 
@@ -29,9 +33,6 @@ title: http://www.khuddamfrance.com/
 *  JS Response Bytes: 133980
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3318
-
-### Performance issues
-
 
 ### Performance issues
 

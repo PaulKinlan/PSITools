@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.routexl.de/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [RouteXL - Routenplaner mehrere Ziele](http://www.routexl.de/)
 
@@ -29,9 +35,6 @@ title: http://www.routexl.de/
 *  JS Response Bytes: 2230432
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 152133
-
-### Performance issues
-
 
 ### Performance issues
 

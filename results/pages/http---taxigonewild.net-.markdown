@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://taxigonewild.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Taxi Gone Wild Online!](http://taxigonewild.net/)
 
@@ -29,9 +34,6 @@ title: http://taxigonewild.net/
 *  JS Response Bytes: 1662489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 135301
-
-### Performance issues
-
 
 ### Performance issues
 

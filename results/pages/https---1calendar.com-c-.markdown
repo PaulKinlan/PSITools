@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://1calendar.com/c/
+UseLegibleFontSizes: true
 ---
 ## [Not Found](https://1calendar.com/c/)
 
@@ -29,9 +30,6 @@ title: https://1calendar.com/c/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 471
-
-### Performance issues
-
 
 ### Performance issues
 

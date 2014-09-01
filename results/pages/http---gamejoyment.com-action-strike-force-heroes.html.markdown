@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gamejoyment.com/action/strike-force-heroes.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Strike Force Heroes - Best Free Online Games | GameJoyment.com - http://gamejoyment.com](http://gamejoyment.com/action/strike-force-heroes.html)
 
@@ -29,9 +34,6 @@ title: http://gamejoyment.com/action/strike-force-heroes.html
 *  JS Response Bytes: 2701987
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 107606
-
-### Performance issues
-
 
 ### Performance issues
 

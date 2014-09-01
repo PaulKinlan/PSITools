@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.slotozilla.com/?utm_source=app&utm_medium=chrome&utm_campaign=Plugins
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free slots online for fun only at Slotozilla.com](http://www.slotozilla.com/?utm_source=app&utm_medium=chrome&utm_campaign=Plugins)
 
@@ -29,9 +32,6 @@ title: http://www.slotozilla.com/?utm_source=app&utm_medium=chrome&utm_campaign=
 *  JS Response Bytes: 2271985
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 289886
-
-### Performance issues
-
 
 ### Performance issues
 

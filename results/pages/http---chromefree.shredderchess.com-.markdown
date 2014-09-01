@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://chromefree.shredderchess.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shredder Chess](http://chromefree.shredderchess.com/)
 
@@ -29,9 +36,6 @@ title: http://chromefree.shredderchess.com/
 *  JS Response Bytes: 46951
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

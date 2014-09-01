@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://edsby.com/login/?page=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Login | Edsby](http://edsby.com/login/?page=1)
 
@@ -29,9 +33,6 @@ title: http://edsby.com/login/?page=1
 *  JS Response Bytes: 882808
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 130168
-
-### Performance issues
-
 
 ### Performance issues
 

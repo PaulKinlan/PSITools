@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_1585_Cargo-Bridge-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cargo Bridge 2 Flash Games](http://www.newpopulargames.com/game_1585_Cargo-Bridge-2.html)
 
@@ -29,9 +35,6 @@ title: http://www.newpopulargames.com/game_1585_Cargo-Bridge-2.html
 *  JS Response Bytes: 1522511
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112585
-
-### Performance issues
-
 
 ### Performance issues
 

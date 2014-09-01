@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.candygames.co/papas-cupcakeria.html#.U_uTyE0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Papa's Cupcakeria, a free online game at Candy Games - Candy Games](http://www.candygames.co/papas-cupcakeria.html#.U_uTyE0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.candygames.co/papas-cupcakeria.html#.U_uTyE0ieKA
 *  JS Response Bytes: 1271046
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 140234
-
-### Performance issues
-
 
 ### Performance issues
 

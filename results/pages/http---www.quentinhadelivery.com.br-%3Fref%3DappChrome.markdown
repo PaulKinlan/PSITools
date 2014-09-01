@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.quentinhadelivery.com.br/?ref=appChrome
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Quentinha Delivery](http://www.quentinhadelivery.com.br/?ref=appChrome)
 
@@ -29,9 +32,6 @@ title: http://www.quentinhadelivery.com.br/?ref=appChrome
 *  JS Response Bytes: 435690
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102711
-
-### Performance issues
-
 
 ### Performance issues
 

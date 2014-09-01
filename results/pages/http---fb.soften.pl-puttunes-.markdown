@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://fb.soften.pl/puttunes/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [puTTunes](http://fb.soften.pl/puttunes/)
 
@@ -29,9 +34,6 @@ title: http://fb.soften.pl/puttunes/
 *  JS Response Bytes: 1372728
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 81170
-
-### Performance issues
-
 
 ### Performance issues
 

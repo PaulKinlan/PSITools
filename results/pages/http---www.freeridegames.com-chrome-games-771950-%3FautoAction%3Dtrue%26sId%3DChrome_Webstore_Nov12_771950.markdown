@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/771950/?autoAction=true&sId=Chrome_Webstore_Nov12_771950
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Dress Up Pups for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/771950/?autoAction=true&sId=Chrome_Webstore_Nov12_771950)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/771950/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1550714
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33981
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.emisora.org.es/mobile/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Emisoras de radio españolas, radios online de España, escuchar radio](http://www.emisora.org.es/mobile/)
 
@@ -29,9 +32,6 @@ title: http://www.emisora.org.es/mobile/
 *  JS Response Bytes: 1654386
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110141
-
-### Performance issues
-
 
 ### Performance issues
 

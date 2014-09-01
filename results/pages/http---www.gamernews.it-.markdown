@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gamernews.it/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [GamerNews.it](http://www.gamernews.it/)
 
@@ -29,9 +32,6 @@ title: http://www.gamernews.it/
 *  JS Response Bytes: 1458183
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 159836
-
-### Performance issues
-
 
 ### Performance issues
 

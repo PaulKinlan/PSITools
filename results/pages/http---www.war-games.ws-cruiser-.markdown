@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.war-games.ws/cruiser/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cruiser](http://www.war-games.ws/cruiser/)
 
@@ -29,9 +36,6 @@ title: http://www.war-games.ws/cruiser/
 *  JS Response Bytes: 2200293
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105581
-
-### Performance issues
-
 
 ### Performance issues
 

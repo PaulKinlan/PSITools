@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://creativesparkstudios.com/sumo/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sumo Wrestling Tycoon | Creative Spark Studios](http://creativesparkstudios.com/sumo/index.html)
 
@@ -29,9 +35,6 @@ title: http://creativesparkstudios.com/sumo/index.html
 *  JS Response Bytes: 918202
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16767
-
-### Performance issues
-
 
 ### Performance issues
 

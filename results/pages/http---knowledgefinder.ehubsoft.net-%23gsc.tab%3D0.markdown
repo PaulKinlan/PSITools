@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://knowledgefinder.ehubsoft.net/#gsc.tab=0
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Knowledge Finder, Get answers to your questions](http://knowledgefinder.ehubsoft.net/#gsc.tab=0)
 
@@ -29,9 +33,6 @@ title: http://knowledgefinder.ehubsoft.net/#gsc.tab=0
 *  JS Response Bytes: 977984
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15390
-
-### Performance issues
-
 
 ### Performance issues
 

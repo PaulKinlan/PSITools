@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.drivanizer.com/app
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Version - Drivanizer](http://www.drivanizer.com/app)
 
@@ -29,9 +31,6 @@ title: http://www.drivanizer.com/app
 *  JS Response Bytes: 1053220
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95564
-
-### Performance issues
-
 
 ### Performance issues
 

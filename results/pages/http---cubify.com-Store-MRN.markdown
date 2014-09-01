@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://cubify.com/Store/MRN
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Cubify - Express Yourself in 3D](http://cubify.com/Store/MRN)
 
@@ -29,9 +35,6 @@ title: http://cubify.com/Store/MRN
 *  JS Response Bytes: 1496615
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4108
-
-### Performance issues
-
 
 ### Performance issues
 

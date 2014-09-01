@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamescruze.com/vegas-gangsteri/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games Cruze – Vegas Gangsteri](http://www.gamescruze.com/vegas-gangsteri/)
 
@@ -29,9 +33,6 @@ title: http://www.gamescruze.com/vegas-gangsteri/
 *  JS Response Bytes: 875984
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17038
-
-### Performance issues
-
 
 ### Performance issues
 

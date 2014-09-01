@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.krazyjobs.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Krazy Jobs |](http://www.krazyjobs.com/)
 
@@ -29,9 +32,6 @@ title: http://www.krazyjobs.com/
 *  JS Response Bytes: 239765
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2074
-
-### Performance issues
-
 
 ### Performance issues
 

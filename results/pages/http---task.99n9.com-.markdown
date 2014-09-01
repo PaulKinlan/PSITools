@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://task.99n9.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [CoTask](http://task.99n9.com/)
 
@@ -29,9 +34,6 @@ title: http://task.99n9.com/
 *  JS Response Bytes: 1106245
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

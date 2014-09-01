@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://cattt.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [cattt.com Glype® proxy](https://cattt.com/)
 
@@ -29,9 +33,6 @@ title: https://cattt.com/
 *  JS Response Bytes: 36608
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

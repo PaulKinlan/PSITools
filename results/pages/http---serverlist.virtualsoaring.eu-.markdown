@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://serverlist.virtualsoaring.eu/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Virtualsoaring.eu | Condor Servers List](http://serverlist.virtualsoaring.eu/)
 
@@ -29,9 +33,6 @@ title: http://serverlist.virtualsoaring.eu/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13331
-
-### Performance issues
-
 
 ### Performance issues
 

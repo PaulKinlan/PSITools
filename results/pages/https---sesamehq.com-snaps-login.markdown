@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://sesamehq.com/snaps/login
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Student Snap | Sesame](https://sesamehq.com/snaps/login)
 
@@ -29,9 +31,6 @@ title: https://sesamehq.com/snaps/login
 *  JS Response Bytes: 1903165
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106211
-
-### Performance issues
-
 
 ### Performance issues
 

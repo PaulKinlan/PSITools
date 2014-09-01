@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.angelgames.co/wonderputt.html#.U_eEoU0ieKB
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Wonderputt, a free online sports game at AngelGames - Angel Games](http://www.angelgames.co/wonderputt.html#.U_eEoU0ieKB)
 
@@ -29,9 +36,6 @@ title: http://www.angelgames.co/wonderputt.html#.U_eEoU0ieKB
 *  JS Response Bytes: 1271930
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 78425
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://vtricity.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Amplify What Moves You - Matter More](http://vtricity.com/)
 
@@ -29,9 +32,6 @@ title: http://vtricity.com/
 *  JS Response Bytes: 1445057
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 209529
-
-### Performance issues
-
 
 ### Performance issues
 

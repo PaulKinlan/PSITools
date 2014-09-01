@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://games.arcticpaint.com/geousa/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GeoUSA](http://games.arcticpaint.com/geousa/)
 
@@ -29,9 +33,6 @@ title: http://games.arcticpaint.com/geousa/
 *  JS Response Bytes: 212237
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tom777.info/soccertraining/index.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Epic Soccer Training](http://www.tom777.info/soccertraining/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.tom777.info/soccertraining/index.html
 *  JS Response Bytes: 400586
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

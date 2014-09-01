@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://devdive-mikle.blogspot.com/p/blog-page.html?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [devdive-mikle: ft-chromewebapp](http://devdive-mikle.blogspot.com/p/blog-page.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://devdive-mikle.blogspot.com/p/blog-page.html?m=1
 *  JS Response Bytes: 611827
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95564
-
-### Performance issues
-
 
 ### Performance issues
 

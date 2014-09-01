@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kolorowankionline.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Darmowe kolorowanki dla dzieci online](http://www.kolorowankionline.net/)
 
@@ -29,9 +34,6 @@ title: http://www.kolorowankionline.net/
 *  JS Response Bytes: 1622315
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 176336
-
-### Performance issues
-
 
 ### Performance issues
 

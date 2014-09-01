@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.appkid.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Children learn by playing.](http://www.appkid.org/)
 
@@ -29,9 +32,6 @@ title: http://www.appkid.org/
 *  JS Response Bytes: 666671
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 322948
-
-### Performance issues
-
 
 ### Performance issues
 

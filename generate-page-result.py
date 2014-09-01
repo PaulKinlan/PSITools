@@ -57,6 +57,13 @@ for site in sorted_sites:
     print >> f, "---"
     print >> f, "layout: result"
     print >> f, "title: %s" % id
+    for rule in speed_rules:
+      if rule in rule_results and rule_results[rule]["ruleImpact"] > 0:
+        print >> f, "%s: true" % (rule)
+        
+    for rule in ux_rules:
+      if rule in rule_results and rule_results[rule]["ruleImpact"] > 0:
+        print >> f, "%s: true" % (rule)
     print >> f, "---"
 
     f.write("## [")
@@ -87,7 +94,6 @@ for site in sorted_sites:
     print >> f, "*  Flash Response Bytes: %s" % (pageStats.get("flashResponseBytes", "0"))
     print >> f, "*  Other Response Bytes: %s" % (pageStats.get("otherResponseBytes", "0")) 
 
-    print >> f, "\n### Performance issues\n"
     print >> f, "\n### Performance issues\n"
     for rule in speed_rules:
       if rule in rule_results and rule_results[rule]["ruleImpact"] > 0:

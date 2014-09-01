@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.flipkart.com/?affid=affiliates11
+MinimizeRenderBlockingResources: true
 ---
 ## [Online Shopping India - Shop Online for Books, Mobile Phones, Digital Cameras, Watches & More at Flipkart.com](http://www.flipkart.com/?affid=affiliates11)
 
@@ -29,9 +30,6 @@ title: http://www.flipkart.com/?affid=affiliates11
 *  JS Response Bytes: 740351
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12592
-
-### Performance issues
-
 
 ### Performance issues
 

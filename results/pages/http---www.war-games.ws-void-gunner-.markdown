@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/void-gunner/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Void Gunner](http://www.war-games.ws/void-gunner/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/void-gunner/
 *  JS Response Bytes: 2292955
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120563
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://leon-bly.appspot.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Dr. Leon J. Bly](http://leon-bly.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://leon-bly.appspot.com/
 *  JS Response Bytes: 1021523
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95538
-
-### Performance issues
-
 
 ### Performance issues
 

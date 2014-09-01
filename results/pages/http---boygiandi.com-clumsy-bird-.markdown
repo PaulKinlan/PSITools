@@ -33,8 +33,5 @@ title: http://boygiandi.com/clumsy-bird/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

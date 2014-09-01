@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://login.mymusicstaff.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [My Music Staff - Login](https://login.mymusicstaff.com/)
 
@@ -29,9 +30,6 @@ title: https://login.mymusicstaff.com/
 *  JS Response Bytes: 397357
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

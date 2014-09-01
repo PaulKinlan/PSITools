@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://ola.performancematters.com/ola/
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [SAM Online - Performance Matters](https://ola.performancematters.com/ola/)
 
@@ -29,9 +31,6 @@ title: https://ola.performancematters.com/ola/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

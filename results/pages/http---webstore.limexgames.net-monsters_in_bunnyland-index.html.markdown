@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://webstore.limexgames.net/monsters_in_bunnyland/index.html
+EnableGzipCompression: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Monsters in Bunnyland](http://webstore.limexgames.net/monsters_in_bunnyland/index.html)
 
@@ -29,9 +32,6 @@ title: http://webstore.limexgames.net/monsters_in_bunnyland/index.html
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.freeboh.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Freeboh, Shift-based hiring. Works for me!](https://www.freeboh.com/)
 
@@ -29,9 +33,6 @@ title: https://www.freeboh.com/
 *  JS Response Bytes: 733422
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

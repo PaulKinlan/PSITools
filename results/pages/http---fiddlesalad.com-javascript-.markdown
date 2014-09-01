@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://fiddlesalad.com/javascript/
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [JavaScript & jQuery IDE | Fiddle Salad](http://fiddlesalad.com/javascript/)
 
@@ -29,9 +31,6 @@ title: http://fiddlesalad.com/javascript/
 *  JS Response Bytes: 2494191
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49000
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.chrome-play-game.blogspot.com/2013/12/candy-crush-saga.html?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://www.chrome-play-game.blogspot.com/2013/12/candy-crush-saga.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://www.chrome-play-game.blogspot.com/2013/12/candy-crush-saga.html?m=
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18848
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.socialesman.com/app/acid-factory/acid-factory.html
+MinimizeRenderBlockingResources: true
 ---
 ## [Clone doesnt have this page](http://www.socialesman.com/app/acid-factory/acid-factory.html)
 
@@ -24,14 +25,11 @@ title: http://www.socialesman.com/app/acid-factory/acid-factory.html
 
 *  HTML Response Bytes: 0
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 570309
+*  CSS Response Bytes: 570308
 *  Image Response Bytes: 14501
-*  JS Response Bytes: 824763
+*  JS Response Bytes: 824764
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 97409
-
-### Performance issues
-
+*  Other Response Bytes: 97408
 
 ### Performance issues
 

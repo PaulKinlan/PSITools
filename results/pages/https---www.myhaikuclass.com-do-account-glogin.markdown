@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.myhaikuclass.com/do/account/glogin
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [404 Error | Haiku Learning](https://www.myhaikuclass.com/do/account/glogin)
 
@@ -29,9 +33,6 @@ title: https://www.myhaikuclass.com/do/account/glogin
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32072
-
-### Performance issues
-
 
 ### Performance issues
 

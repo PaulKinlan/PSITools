@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://flipbook.c-wh.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FlipBook - Editor](http://flipbook.c-wh.org/)
 
@@ -29,9 +34,6 @@ title: http://flipbook.c-wh.org/
 *  JS Response Bytes: 637854
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11909
-
-### Performance issues
-
 
 ### Performance issues
 

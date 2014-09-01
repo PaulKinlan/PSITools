@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://ngs.okta.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [National Geographic - Sign In](https://ngs.okta.com/)
 
@@ -29,9 +31,6 @@ title: https://ngs.okta.com/
 *  JS Response Bytes: 1031866
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

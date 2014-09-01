@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://aslville.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ASLville: Talk to Pseudo-Random Strangers!](http://aslville.com/)
 
@@ -29,9 +36,6 @@ title: http://aslville.com/
 *  JS Response Bytes: 415746
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1803
-
-### Performance issues
-
 
 ### Performance issues
 

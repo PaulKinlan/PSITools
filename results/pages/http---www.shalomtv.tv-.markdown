@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.shalomtv.tv/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Shalom TV](http://www.shalomtv.tv/)
 
@@ -29,9 +33,6 @@ title: http://www.shalomtv.tv/
 *  JS Response Bytes: 871288
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

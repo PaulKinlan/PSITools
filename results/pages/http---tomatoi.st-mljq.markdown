@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://tomatoi.st/mljq
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Pomodoro!](http://tomatoi.st/mljq)
 
@@ -29,9 +31,6 @@ title: http://tomatoi.st/mljq
 *  JS Response Bytes: 192612
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 190
-
-### Performance issues
-
 
 ### Performance issues
 

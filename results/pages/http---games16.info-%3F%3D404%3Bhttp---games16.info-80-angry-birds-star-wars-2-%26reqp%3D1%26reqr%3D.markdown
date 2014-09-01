@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://games16.info/?=404;http://games16.info:80/angry-birds-star-wars-2/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [games16.info](http://games16.info/?=404;http://games16.info:80/angry-birds-star-wars-2/&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://games16.info/?=404;http://games16.info:80/angry-birds-star-wars-2/
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 107
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.okweekend.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ok Weekend](http://www.okweekend.com/)
 
@@ -29,9 +33,6 @@ title: http://www.okweekend.com/
 *  JS Response Bytes: 1122643
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54212
-
-### Performance issues
-
 
 ### Performance issues
 

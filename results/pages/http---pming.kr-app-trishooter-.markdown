@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://pming.kr/app/trishooter/
+UseLegibleFontSizes: true
 ---
 ## [Apache Tomcat/7.0.28 - Error report](http://pming.kr/app/trishooter/)
 
@@ -29,9 +30,6 @@ title: http://pming.kr/app/trishooter/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1131
-
-### Performance issues
-
 
 ### Performance issues
 

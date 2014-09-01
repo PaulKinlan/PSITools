@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chrome.sparkchess.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
 ---
 ## [SparkChess 7 Lite](http://chrome.sparkchess.com/)
 
@@ -29,9 +32,6 @@ title: http://chrome.sparkchess.com/
 *  JS Response Bytes: 1295728
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111571
-
-### Performance issues
-
 
 ### Performance issues
 

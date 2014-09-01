@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://deutsch-ubersetzer.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Deutsch Übersetzer](http://deutsch-ubersetzer.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://deutsch-ubersetzer.herokuapp.com/
 *  JS Response Bytes: 1841742
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 173942
-
-### Performance issues
-
 
 ### Performance issues
 

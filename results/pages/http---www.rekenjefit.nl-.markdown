@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.rekenjefit.nl/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BMI](http://www.rekenjefit.nl/)
 
@@ -29,9 +33,6 @@ title: http://www.rekenjefit.nl/
 *  JS Response Bytes: 462254
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14913
-
-### Performance issues
-
 
 ### Performance issues
 

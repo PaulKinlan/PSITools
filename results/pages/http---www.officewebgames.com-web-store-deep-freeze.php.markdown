@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.officewebgames.com/web-store/deep-freeze.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [- Free Games Online, Free Online Games, Flash Games!](http://www.officewebgames.com/web-store/deep-freeze.php)
 
@@ -29,9 +35,6 @@ title: http://www.officewebgames.com/web-store/deep-freeze.php
 *  JS Response Bytes: 1329774
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98012
-
-### Performance issues
-
 
 ### Performance issues
 

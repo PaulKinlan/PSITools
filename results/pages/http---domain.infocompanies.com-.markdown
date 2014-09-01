@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://domain.infocompanies.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [.com/net/org/info Domain Name Checker](http://domain.infocompanies.com/)
 
@@ -29,9 +35,6 @@ title: http://domain.infocompanies.com/
 *  JS Response Bytes: 506441
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1745
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.new2sms.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [New2sms.com ::: Send Free SMS in India, online mobile recharge in India, send sms, free sms to across India, sms alert, new2sms text messages, short message service, send group sms](http://www.new2sms.com/)
 
@@ -29,9 +32,6 @@ title: http://www.new2sms.com/
 *  JS Response Bytes: 1342691
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 168753
-
-### Performance issues
-
 
 ### Performance issues
 

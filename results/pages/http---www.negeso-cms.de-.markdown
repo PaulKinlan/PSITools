@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.negeso-cms.de/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Homepage erstellen mit innovativem online CMS €1.999! Onlineshop/Website erstellen mit Negeso CMS](http://www.negeso-cms.de/)
 
@@ -29,9 +35,6 @@ title: http://www.negeso-cms.de/
 *  JS Response Bytes: 1858965
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4586
-
-### Performance issues
-
 
 ### Performance issues
 

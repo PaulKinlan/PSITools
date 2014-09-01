@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/game/name/minecart-madness
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [minecart-madness Addicting Games](http://www.2addictinggames.com/games/game/name/minecart-madness)
 
@@ -29,9 +35,6 @@ title: http://www.2addictinggames.com/games/game/name/minecart-madness
 *  JS Response Bytes: 2930512
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 135473
-
-### Performance issues
-
 
 ### Performance issues
 

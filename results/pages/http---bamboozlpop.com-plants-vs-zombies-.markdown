@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://bamboozlpop.com/plants-vs-zombies/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Plants vs Zombies](http://bamboozlpop.com/plants-vs-zombies/)
 
@@ -29,9 +34,6 @@ title: http://bamboozlpop.com/plants-vs-zombies/
 *  JS Response Bytes: 1987156
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96384
-
-### Performance issues
-
 
 ### Performance issues
 

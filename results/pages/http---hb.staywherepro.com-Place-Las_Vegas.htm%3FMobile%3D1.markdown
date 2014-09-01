@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://hb.staywherepro.com/Place/Las_Vegas.htm?Mobile=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [StayWhere PRO - Hotels in Las Vegas](http://hb.staywherepro.com/Place/Las_Vegas.htm?Mobile=1)
 
@@ -29,9 +31,6 @@ title: http://hb.staywherepro.com/Place/Las_Vegas.htm?Mobile=1
 *  JS Response Bytes: 294716
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2004
-
-### Performance issues
-
 
 ### Performance issues
 

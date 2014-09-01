@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://thebestandthenewestonlinegames.blogspot.com/2013/11/pool-practice.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The best and the newest online games: Pool Practice](http://thebestandthenewestonlinegames.blogspot.com/2013/11/pool-practice.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://thebestandthenewestonlinegames.blogspot.com/2013/11/pool-practice.
 *  JS Response Bytes: 1292607
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109994
-
-### Performance issues
-
 
 ### Performance issues
 

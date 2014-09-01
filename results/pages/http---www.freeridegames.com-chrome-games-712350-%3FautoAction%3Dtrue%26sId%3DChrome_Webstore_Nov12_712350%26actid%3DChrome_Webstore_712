@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/712350/?autoAction=true&sId=Chrome_Webstore_Nov12_712350&actid=Chrome_Webstore_712350
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Avenue Flo Special Delivery for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/712350/?autoAction=true&sId=Chrome_Webstore_Nov12_712350&actid=Chrome_Webstore_712350)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/712350/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1540987
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30702
-
-### Performance issues
-
 
 ### Performance issues
 

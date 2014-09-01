@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.flatterfiles.com/search/login.jsp
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [Flatter Files Search](https://www.flatterfiles.com/search/login.jsp)
 
@@ -29,9 +32,6 @@ title: https://www.flatterfiles.com/search/login.jsp
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 948
-
-### Performance issues
-
 
 ### Performance issues
 

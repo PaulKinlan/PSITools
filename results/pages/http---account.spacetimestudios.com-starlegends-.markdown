@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://account.spacetimestudios.com/starlegends/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [Star Legends: The Blackstar Chronicles](http://account.spacetimestudios.com/starlegends/)
 
@@ -29,9 +32,6 @@ title: http://account.spacetimestudios.com/starlegends/
 *  JS Response Bytes: 240668
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1890
-
-### Performance issues
-
 
 ### Performance issues
 

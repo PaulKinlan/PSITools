@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://efoundry.iitb.ac.in/Academy/index.jsp
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [E-Foundry](http://efoundry.iitb.ac.in/Academy/index.jsp)
 
@@ -29,9 +31,6 @@ title: http://efoundry.iitb.ac.in/Academy/index.jsp
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 264
-
-### Performance issues
-
 
 ### Performance issues
 

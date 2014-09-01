@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.51zhi.com/overwork/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [加班管理_知行-养成社区](http://www.51zhi.com/overwork/)
 
@@ -29,9 +32,6 @@ title: http://www.51zhi.com/overwork/
 *  JS Response Bytes: 166489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

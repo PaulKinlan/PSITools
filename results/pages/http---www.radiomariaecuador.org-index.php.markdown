@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.radiomariaecuador.org/index.php
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sitio Oficial de Fundación Radio Maria Ecuador](http://www.radiomariaecuador.org/index.php)
 
@@ -29,9 +35,6 @@ title: http://www.radiomariaecuador.org/index.php
 *  JS Response Bytes: 2703258
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4029
-
-### Performance issues
-
 
 ### Performance issues
 

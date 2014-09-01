@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.liveminutes.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [LiveMinutes](http://www.liveminutes.com/)
 
@@ -29,9 +31,6 @@ title: http://www.liveminutes.com/
 *  JS Response Bytes: 1009650
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 855
-
-### Performance issues
-
 
 ### Performance issues
 

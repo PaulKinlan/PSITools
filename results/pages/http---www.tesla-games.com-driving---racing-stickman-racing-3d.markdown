@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.tesla-games.com/driving---racing/stickman-racing-3d
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Playing Stickman Racing 3D - Games - Play Free Online Games at Tesla Games](http://www.tesla-games.com/driving---racing/stickman-racing-3d)
 
@@ -29,9 +35,6 @@ title: http://www.tesla-games.com/driving---racing/stickman-racing-3d
 *  JS Response Bytes: 1312604
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1682
-
-### Performance issues
-
 
 ### Performance issues
 

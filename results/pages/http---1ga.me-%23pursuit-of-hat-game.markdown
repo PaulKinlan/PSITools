@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://1ga.me/#pursuit-of-hat-game
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [1GA.ME Just Perfect Games 1game](http://1ga.me/#pursuit-of-hat-game)
 
@@ -29,9 +33,6 @@ title: http://1ga.me/#pursuit-of-hat-game
 *  JS Response Bytes: 793144
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16912
-
-### Performance issues
-
 
 ### Performance issues
 

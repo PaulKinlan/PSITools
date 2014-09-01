@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamemental.com/default-category/arkadium-backgammon
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Arkadium Backgammon - Gamemental](http://www.gamemental.com/default-category/arkadium-backgammon)
 
@@ -29,9 +34,6 @@ title: http://www.gamemental.com/default-category/arkadium-backgammon
 *  JS Response Bytes: 673207
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

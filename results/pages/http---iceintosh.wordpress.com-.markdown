@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://iceintosh.wordpress.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [iCEINTOSH by jackmayr | Blog about tech](http://iceintosh.wordpress.com/)
 
@@ -29,9 +32,6 @@ title: http://iceintosh.wordpress.com/
 *  JS Response Bytes: 611554
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

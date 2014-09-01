@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/golfsolitaire/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Golf Solitaire](http://www.fupa.com/apps/golfsolitaire/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/golfsolitaire/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

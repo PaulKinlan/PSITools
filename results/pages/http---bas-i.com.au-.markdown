@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://bas-i.com.au/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Basic free and easy GST and BAS accounting for sole traders, small, micro and home based business.](http://bas-i.com.au/)
 
@@ -29,9 +34,6 @@ title: http://bas-i.com.au/
 *  JS Response Bytes: 241937
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.androidsimple.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [AndroidSimple](http://www.androidsimple.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://www.androidsimple.com/?m=1
 *  JS Response Bytes: 835053
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15307
-
-### Performance issues
-
 
 ### Performance issues
 

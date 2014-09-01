@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.beloola.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Beloola - social (R)evolution](http://www.beloola.com/)
 
@@ -29,9 +34,6 @@ title: http://www.beloola.com/
 *  JS Response Bytes: 1690899
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 183805
-
-### Performance issues
-
 
 ### Performance issues
 

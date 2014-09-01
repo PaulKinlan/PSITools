@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.3dchromeboxgames.com/cross-fire-golden-eagle/index.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cross Fire Golden Eagle | 3dchromeboxgames](http://www.3dchromeboxgames.com/cross-fire-golden-eagle/index.html)
 
@@ -29,9 +34,6 @@ title: http://www.3dchromeboxgames.com/cross-fire-golden-eagle/index.html
 *  JS Response Bytes: 1038909
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1449
-
-### Performance issues
-
 
 ### Performance issues
 

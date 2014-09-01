@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.istikana.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [إستكانة](http://www.istikana.com/)
 
@@ -29,9 +32,6 @@ title: http://www.istikana.com/
 *  JS Response Bytes: 1993629
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 84091
-
-### Performance issues
-
 
 ### Performance issues
 

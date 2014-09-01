@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_2063_Scooby-Doo-Parking-Lot.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Scooby Doo Parking Lot Flash Games](http://www.newpopulargames.com/game_2063_Scooby-Doo-Parking-Lot.html)
 
@@ -29,9 +35,6 @@ title: http://www.newpopulargames.com/game_2063_Scooby-Doo-Parking-Lot.html
 *  JS Response Bytes: 1687289
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113602
-
-### Performance issues
-
 
 ### Performance issues
 

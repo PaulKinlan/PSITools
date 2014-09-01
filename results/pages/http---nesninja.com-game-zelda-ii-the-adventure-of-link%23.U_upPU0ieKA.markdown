@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://nesninja.com/game/zelda-ii-the-adventure-of-link#.U_upPU0ieKA
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Zelda II - The Adventure of Link » NES Ninja](http://nesninja.com/game/zelda-ii-the-adventure-of-link#.U_upPU0ieKA)
 
@@ -29,9 +32,6 @@ title: http://nesninja.com/game/zelda-ii-the-adventure-of-link#.U_upPU0ieKA
 *  JS Response Bytes: 2389009
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 181587
-
-### Performance issues
-
 
 ### Performance issues
 

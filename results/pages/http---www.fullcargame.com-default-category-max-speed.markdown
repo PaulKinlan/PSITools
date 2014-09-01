@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fullcargame.com/default-category/max-speed
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Max Speed - Full Car Games - All Free Car Games](http://www.fullcargame.com/default-category/max-speed)
 
@@ -29,9 +34,6 @@ title: http://www.fullcargame.com/default-category/max-speed
 *  JS Response Bytes: 3747761
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 137022
-
-### Performance issues
-
 
 ### Performance issues
 

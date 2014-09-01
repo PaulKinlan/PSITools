@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.flashchromegames.com/angry-birds-star-wars.html
+SizeTapTargetsAppropriately: true
 ---
 ## [flashchromegames.com](http://ww2.flashchromegames.com/angry-birds-star-wars.html)
 
@@ -29,9 +30,6 @@ title: http://ww2.flashchromegames.com/angry-birds-star-wars.html
 *  JS Response Bytes: 229917
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21055
-
-### Performance issues
-
 
 ### Performance issues
 

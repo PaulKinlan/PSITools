@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://pizigames.com/quard-of-kingdom/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [pizigames.com-the best free online flash gamesQuard of Kingdom](http://pizigames.com/quard-of-kingdom/)
 
@@ -29,9 +34,6 @@ title: http://pizigames.com/quard-of-kingdom/
 *  JS Response Bytes: 821436
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

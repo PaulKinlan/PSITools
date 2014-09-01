@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromefulldownload.blogspot.com/2014/01/flv-player.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://chromefulldownload.blogspot.com/2014/01/flv-player.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromefulldownload.blogspot.com/2014/01/flv-player.html?m=1
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18830
-
-### Performance issues
-
 
 ### Performance issues
 

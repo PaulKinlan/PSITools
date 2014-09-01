@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.usopen.com/en_US/index.html#!/usopen_today/index/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Official Site of the 114th U.S. Open Championship Conducted by the USGA](http://www.usopen.com/en_US/index.html#!/usopen_today/index/)
 
@@ -29,9 +33,6 @@ title: http://www.usopen.com/en_US/index.html#!/usopen_today/index/
 *  JS Response Bytes: 1046396
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1663
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -33,8 +33,5 @@ title: http://www.unclehandsalt.com/games/wezap/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

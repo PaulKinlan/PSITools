@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.caesarservices.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [سيزر لأنظمة الخدمات الامنية](http://www.caesarservices.com/)
 
@@ -29,9 +32,6 @@ title: http://www.caesarservices.com/
 *  JS Response Bytes: 159777
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 216622
-
-### Performance issues
-
 
 ### Performance issues
 

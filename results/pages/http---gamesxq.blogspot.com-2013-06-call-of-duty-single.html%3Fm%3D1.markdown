@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gamesxq.blogspot.com/2013/06/call-of-duty-single.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [south park](http://gamesxq.blogspot.com/2013/06/call-of-duty-single.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://gamesxq.blogspot.com/2013/06/call-of-duty-single.html?m=1
 *  JS Response Bytes: 789630
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 330956
-
-### Performance issues
-
 
 ### Performance issues
 

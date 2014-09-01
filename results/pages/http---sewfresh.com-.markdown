@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://sewfresh.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sew Fresh | Swag for kids!](http://sewfresh.com/)
 
@@ -29,9 +33,6 @@ title: http://sewfresh.com/
 *  JS Response Bytes: 197204
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 73311
-
-### Performance issues
-
 
 ### Performance issues
 

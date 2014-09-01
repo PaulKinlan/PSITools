@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.miinecraftgame.com/?s=candy
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [free game play – Search Results – candy](http://www.miinecraftgame.com/?s=candy)
 
@@ -29,9 +33,6 @@ title: http://www.miinecraftgame.com/?s=candy
 *  JS Response Bytes: 664420
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

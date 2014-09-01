@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://manager.emenutouch.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [eMenuTouch Manager](https://manager.emenutouch.com/)
 
@@ -29,9 +33,6 @@ title: https://manager.emenutouch.com/
 *  JS Response Bytes: 664903
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63940
-
-### Performance issues
-
 
 ### Performance issues
 

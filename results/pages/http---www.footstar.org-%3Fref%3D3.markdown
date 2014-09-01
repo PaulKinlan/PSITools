@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.footstar.org/?ref=3
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Planetarium Football Star – Become a World Star Player!](http://www.footstar.org/?ref=3)
 
@@ -29,9 +32,6 @@ title: http://www.footstar.org/?ref=3
 *  JS Response Bytes: 1279312
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102567
-
-### Performance issues
-
 
 ### Performance issues
 

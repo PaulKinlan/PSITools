@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.djtribunus.altervista.org/Sportsworldlive/index.html#inscore_ifheight_xdc_3561
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SportsWorld Live - Football](http://www.djtribunus.altervista.org/Sportsworldlive/index.html#inscore_ifheight_xdc_3561)
 
@@ -29,9 +33,6 @@ title: http://www.djtribunus.altervista.org/Sportsworldlive/index.html#inscore_i
 *  JS Response Bytes: 2126111
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 202431
-
-### Performance issues
-
 
 ### Performance issues
 

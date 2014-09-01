@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.42pix.com/fr
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Partager vos photos n'a jamais été aussi simple! - 42pix](http://www.42pix.com/fr)
 
@@ -29,9 +34,6 @@ title: http://www.42pix.com/fr
 *  JS Response Bytes: 330042
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 385
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://401.mx/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://401.mx/)
 
@@ -29,9 +32,6 @@ title: http://401.mx/
 *  JS Response Bytes: 240768
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1552
-
-### Performance issues
-
 
 ### Performance issues
 

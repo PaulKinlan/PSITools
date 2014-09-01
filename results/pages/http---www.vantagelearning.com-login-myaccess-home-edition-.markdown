@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.vantagelearning.com/login/myaccess-home-edition/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MY Access!® Home Edition - Vantage Learning](http://www.vantagelearning.com/login/myaccess-home-edition/)
 
@@ -29,9 +33,6 @@ title: http://www.vantagelearning.com/login/myaccess-home-edition/
 *  JS Response Bytes: 1387438
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55547
-
-### Performance issues
-
 
 ### Performance issues
 

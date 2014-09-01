@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://rom.tersnetwork.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [لعبة أساطير القوة | السيرفر الخاص المجاني](http://rom.tersnetwork.com/)
 
@@ -29,9 +34,6 @@ title: http://rom.tersnetwork.com/
 *  JS Response Bytes: 718283
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47434
-
-### Performance issues
-
 
 ### Performance issues
 

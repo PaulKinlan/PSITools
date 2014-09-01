@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://beanandme.com.au/category/new.htm
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Page not found - bean and me](http://beanandme.com.au/category/new.htm)
 
@@ -29,9 +33,6 @@ title: http://beanandme.com.au/category/new.htm
 *  JS Response Bytes: 1158084
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 609060
-
-### Performance issues
-
 
 ### Performance issues
 

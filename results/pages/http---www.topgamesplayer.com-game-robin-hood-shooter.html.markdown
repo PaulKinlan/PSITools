@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.topgamesplayer.com/game/robin-hood-shooter.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crazy Shooter (Robin Hood) Games online](http://www.topgamesplayer.com/game/robin-hood-shooter.html)
 
@@ -29,9 +36,6 @@ title: http://www.topgamesplayer.com/game/robin-hood-shooter.html
 *  JS Response Bytes: 1234872
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109963
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://smartflashgames.blogspot.com/2011/04/5-brain-teasers.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Smart Flash Games: 5 Brain Teasers](http://smartflashgames.blogspot.com/2011/04/5-brain-teasers.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://smartflashgames.blogspot.com/2011/04/5-brain-teasers.html?m=1
 *  JS Response Bytes: 1634623
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97050
-
-### Performance issues
-
 
 ### Performance issues
 

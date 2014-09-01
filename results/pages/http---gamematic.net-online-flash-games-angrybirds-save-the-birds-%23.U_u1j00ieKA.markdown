@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/angrybirds/save-the-birds/#.U_u1j00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Save the Birds « Online Flash Game Save the Birds](http://gamematic.net/online-flash-games/angrybirds/save-the-birds/#.U_u1j00ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/angrybirds/save-the-birds/#.U_u1j
 *  JS Response Bytes: 1272709
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47929
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://app.crowdcontrolhq.com/user/login?to=%2F
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CrowdControlHQ](https://app.crowdcontrolhq.com/user/login?to=%2F)
 
@@ -29,9 +34,6 @@ title: https://app.crowdcontrolhq.com/user/login?to=%2F
 *  JS Response Bytes: 514588
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 545
-
-### Performance issues
-
 
 ### Performance issues
 

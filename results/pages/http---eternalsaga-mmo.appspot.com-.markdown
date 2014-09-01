@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://eternalsaga-mmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Eternal Saga Online](http://eternalsaga-mmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://eternalsaga-mmo.appspot.com/
 *  JS Response Bytes: 1745679
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 137595
-
-### Performance issues
-
 
 ### Performance issues
 

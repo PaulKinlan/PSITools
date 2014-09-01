@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.host-party.com/Mobile/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Host-Party.com Murder Mystery Games](http://www.host-party.com/Mobile/)
 
@@ -29,9 +31,6 @@ title: http://www.host-party.com/Mobile/
 *  JS Response Bytes: 521012
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1088
-
-### Performance issues
-
 
 ### Performance issues
 

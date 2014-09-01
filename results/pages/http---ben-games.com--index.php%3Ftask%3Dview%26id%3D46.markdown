@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://ben-games.com//index.php?task=view&id=46
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ben-games.com - play the best selection of free online flash games. - US Cities](http://ben-games.com//index.php?task=view&id=46)
 
@@ -29,9 +35,6 @@ title: http://ben-games.com//index.php?task=view&id=46
 *  JS Response Bytes: 555858
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

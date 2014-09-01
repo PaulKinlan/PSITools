@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.software12345.com/bookkeeper/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bookkeeper 2014 -- Accounting Softweare for Windows](http://www.software12345.com/bookkeeper/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.software12345.com/bookkeeper/index.html
 *  JS Response Bytes: 934185
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109055
-
-### Performance issues
-
 
 ### Performance issues
 

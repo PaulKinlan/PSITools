@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ebhasin.com/games/SnookerClub/index.htm
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Snooker Club](http://www.ebhasin.com/games/SnookerClub/index.htm)
 
@@ -29,9 +33,6 @@ title: http://www.ebhasin.com/games/SnookerClub/index.htm
 *  JS Response Bytes: 481328
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18344
-
-### Performance issues
-
 
 ### Performance issues
 

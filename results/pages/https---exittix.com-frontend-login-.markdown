@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://exittix.com/frontend/login/
+AvoidLandingPageRedirects: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ExitTicket](https://exittix.com/frontend/login/)
 
@@ -29,9 +32,6 @@ title: https://exittix.com/frontend/login/
 *  JS Response Bytes: 50076
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1936
-
-### Performance issues
-
 
 ### Performance issues
 

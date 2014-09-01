@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.email-reveal.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Lovealyzer for Gmail](http://www.email-reveal.com/)
 
@@ -29,9 +32,6 @@ title: http://www.email-reveal.com/
 *  JS Response Bytes: 1013927
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 149359
-
-### Performance issues
-
 
 ### Performance issues
 

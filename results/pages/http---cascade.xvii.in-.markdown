@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://cascade.xvii.in/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cascade - The fun new word game with a twist!](http://cascade.xvii.in/)
 
@@ -29,9 +34,6 @@ title: http://cascade.xvii.in/
 *  JS Response Bytes: 189197
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55102
-
-### Performance issues
-
 
 ### Performance issues
 

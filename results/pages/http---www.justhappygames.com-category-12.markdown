@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.justhappygames.com/category/12
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Punch - Just Happy Games](http://www.justhappygames.com/category/12)
 
@@ -29,9 +32,6 @@ title: http://www.justhappygames.com/category/12
 *  JS Response Bytes: 646938
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

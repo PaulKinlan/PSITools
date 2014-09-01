@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gegar.thr.fm/dvr
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [THR Gegar - Permata Pantai Timur](http://gegar.thr.fm/dvr)
 
@@ -29,9 +32,6 @@ title: http://gegar.thr.fm/dvr
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18842
-
-### Performance issues
-
 
 ### Performance issues
 

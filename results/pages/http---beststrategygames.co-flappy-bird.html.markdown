@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://beststrategygames.co/flappy-bird.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Strategy Games – Flappy Bird](http://beststrategygames.co/flappy-bird.html)
 
@@ -29,9 +35,6 @@ title: http://beststrategygames.co/flappy-bird.html
 *  JS Response Bytes: 1057284
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15455
-
-### Performance issues
-
 
 ### Performance issues
 

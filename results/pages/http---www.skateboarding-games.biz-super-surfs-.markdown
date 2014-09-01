@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/super-surfs/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Surfs game](http://www.skateboarding-games.biz/super-surfs/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/super-surfs/
 *  JS Response Bytes: 2123674
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114437
-
-### Performance issues
-
 
 ### Performance issues
 

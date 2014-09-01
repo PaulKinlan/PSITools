@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://hockeytutorial.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hockey Tutorial: Skating, Shooting and Hockey videos](http://hockeytutorial.com/)
 
@@ -29,9 +34,6 @@ title: http://hockeytutorial.com/
 *  JS Response Bytes: 965037
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 867
-
-### Performance issues
-
 
 ### Performance issues
 

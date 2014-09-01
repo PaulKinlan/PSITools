@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/laboratary/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Laboratary game](http://www.surgery-games.org/laboratary/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/laboratary/
 *  JS Response Bytes: 2479595
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119170
-
-### Performance issues
-
 
 ### Performance issues
 

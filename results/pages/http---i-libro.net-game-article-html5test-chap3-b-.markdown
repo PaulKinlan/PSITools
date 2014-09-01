@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://i-libro.net/game/article/html5test/chap3-b/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [シルクハット並べ](http://i-libro.net/game/article/html5test/chap3-b/)
 
@@ -29,9 +32,6 @@ title: http://i-libro.net/game/article/html5test/chap3-b/
 *  JS Response Bytes: 9458
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

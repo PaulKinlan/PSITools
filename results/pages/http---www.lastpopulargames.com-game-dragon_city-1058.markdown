@@ -33,8 +33,5 @@ title: http://www.lastpopulargames.com/game/dragon_city-1058
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.onlinegamese.com/games/cargo-bridge/online-games
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cargo Bridge | Online Games | Free Online Games Play Now](http://www.onlinegamese.com/games/cargo-bridge/online-games)
 
@@ -29,9 +35,6 @@ title: http://www.onlinegamese.com/games/cargo-bridge/online-games
 *  JS Response Bytes: 2134579
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155248
-
-### Performance issues
-
 
 ### Performance issues
 

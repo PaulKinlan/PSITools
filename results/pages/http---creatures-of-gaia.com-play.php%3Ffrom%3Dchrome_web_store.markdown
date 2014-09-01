@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://creatures-of-gaia.com/play.php?from=chrome_web_store
+EnableGzipCompression: true
 ---
 ## [Creatures of Gaia](http://creatures-of-gaia.com/play.php?from=chrome_web_store)
 
@@ -29,9 +30,6 @@ title: http://creatures-of-gaia.com/play.php?from=chrome_web_store
 *  JS Response Bytes: 670986
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

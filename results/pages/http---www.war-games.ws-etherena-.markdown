@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/etherena/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Etherena](http://www.war-games.ws/etherena/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/etherena/
 *  JS Response Bytes: 2153631
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118387
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gifbooster.com/extension/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Animated GIFs on your Facebook. Download GifBooster](http://www.gifbooster.com/extension/)
 
@@ -29,9 +34,6 @@ title: http://www.gifbooster.com/extension/
 *  JS Response Bytes: 935255
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54909
-
-### Performance issues
-
 
 ### Performance issues
 

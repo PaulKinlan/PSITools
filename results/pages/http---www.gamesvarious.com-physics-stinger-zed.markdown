@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/physics/stinger-zed
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stinger Zed - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/physics/stinger-zed)
 
@@ -29,9 +35,6 @@ title: http://www.gamesvarious.com/physics/stinger-zed
 *  JS Response Bytes: 2180897
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105979
-
-### Performance issues
-
 
 ### Performance issues
 

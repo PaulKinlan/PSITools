@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://psddestiny.pendleton.k12.or.us/cataloging/servlet/presentadvancedsearchredirectorform.do;jsessionid=B1357D84A8336FA4E2250EA739080D3A?l2m=Library%20Search&tm=TopLevelCatalog&l2m=Library+Search
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Library Search](http://psddestiny.pendleton.k12.or.us/cataloging/servlet/presentadvancedsearchredirectorform.do;jsessionid=B1357D84A8336FA4E2250EA739080D3A?l2m=Library%20Search&tm=TopLevelCatalog&l2m=Library+Search)
 
@@ -29,9 +32,6 @@ title: http://psddestiny.pendleton.k12.or.us/cataloging/servlet/presentadvanceds
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 582
-
-### Performance issues
-
 
 ### Performance issues
 

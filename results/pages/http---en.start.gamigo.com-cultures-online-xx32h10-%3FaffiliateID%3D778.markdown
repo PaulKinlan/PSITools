@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://en.start.gamigo.com/cultures-online/xx32h10/?affiliateID=778
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cultures Online | Simulation Strategy Browser Game | Free-To-Play Online Game @ gamigo](http://en.start.gamigo.com/cultures-online/xx32h10/?affiliateID=778)
 
@@ -29,9 +35,6 @@ title: http://en.start.gamigo.com/cultures-online/xx32h10/?affiliateID=778
 *  JS Response Bytes: 668729
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3288
-
-### Performance issues
-
 
 ### Performance issues
 

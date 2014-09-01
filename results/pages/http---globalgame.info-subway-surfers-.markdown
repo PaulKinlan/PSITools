@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://globalgame.info/subway-surfers/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tic Games Flash Games – Subway Surfers](http://globalgame.info/subway-surfers/)
 
@@ -29,9 +36,6 @@ title: http://globalgame.info/subway-surfers/
 *  JS Response Bytes: 997704
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1106
-
-### Performance issues
-
 
 ### Performance issues
 

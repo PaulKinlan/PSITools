@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.keybr.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn typing at the speed of thought! Typing lessons that work.](http://www.keybr.com/)
 
@@ -29,9 +33,6 @@ title: http://www.keybr.com/
 *  JS Response Bytes: 1071556
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 180578
-
-### Performance issues
-
 
 ### Performance issues
 

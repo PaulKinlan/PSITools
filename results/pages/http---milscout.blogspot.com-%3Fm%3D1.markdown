@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://milscout.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MilScout](http://milscout.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://milscout.blogspot.com/?m=1
 *  JS Response Bytes: 672279
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14642
-
-### Performance issues
-
 
 ### Performance issues
 

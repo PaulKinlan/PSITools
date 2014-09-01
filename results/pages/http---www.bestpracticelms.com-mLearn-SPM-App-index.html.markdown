@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.bestpracticelms.com/mLearn/SPM-App/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [PRINCE2® & Project Management Resources](http://www.bestpracticelms.com/mLearn/SPM-App/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.bestpracticelms.com/mLearn/SPM-App/index.html
 *  JS Response Bytes: 213423
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

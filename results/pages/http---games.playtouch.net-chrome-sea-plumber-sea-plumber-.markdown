@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://games.playtouch.net/chrome/sea-plumber/sea-plumber/
+InlineRenderBlockingCss: true
 ---
 ## [Sea Plumper](http://games.playtouch.net/chrome/sea-plumber/sea-plumber/)
 
@@ -29,9 +30,6 @@ title: http://games.playtouch.net/chrome/sea-plumber/sea-plumber/
 *  JS Response Bytes: 1735945
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1047
-
-### Performance issues
-
 
 ### Performance issues
 

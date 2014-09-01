@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.proust.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [PROUST | It's Fun to Judge](http://www.proust.com/)
 
@@ -29,9 +33,6 @@ title: http://www.proust.com/
 *  JS Response Bytes: 210766
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 545
-
-### Performance issues
-
 
 ### Performance issues
 

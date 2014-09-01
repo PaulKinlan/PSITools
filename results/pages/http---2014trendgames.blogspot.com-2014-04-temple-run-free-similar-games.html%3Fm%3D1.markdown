@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://2014trendgames.blogspot.com/2014/04/temple-run-free-similar-games.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [2014 Trend games: Temple Run Free similar games](http://2014trendgames.blogspot.com/2014/04/temple-run-free-similar-games.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://2014trendgames.blogspot.com/2014/04/temple-run-free-similar-games.
 *  JS Response Bytes: 762314
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95608
-
-### Performance issues
-
 
 ### Performance issues
 

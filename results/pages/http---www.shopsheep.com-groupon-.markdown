@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.shopsheep.com/groupon/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ShopSheep - Groupon Deals](http://www.shopsheep.com/groupon/)
 
@@ -29,9 +32,6 @@ title: http://www.shopsheep.com/groupon/
 *  JS Response Bytes: 897179
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27569
-
-### Performance issues
-
 
 ### Performance issues
 

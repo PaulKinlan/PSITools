@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://maps.landkartenindex.de/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [maps.landkartenindex.de - Mehrere Routenplaner, Landkarten und Stadtpläne auf einmal](http://maps.landkartenindex.de/)
 
@@ -29,9 +34,6 @@ title: http://maps.landkartenindex.de/
 *  JS Response Bytes: 3653172
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2769
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.meteo-europ.com/en/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Weather Europe](http://m.meteo-europ.com/en/)
 
@@ -29,9 +32,6 @@ title: http://m.meteo-europ.com/en/
 *  JS Response Bytes: 1343905
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96864
-
-### Performance issues
-
 
 ### Performance issues
 

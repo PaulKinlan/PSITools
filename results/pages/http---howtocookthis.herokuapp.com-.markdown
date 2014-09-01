@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://howtocookthis.herokuapp.com/
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [How to Cook ·](http://howtocookthis.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://howtocookthis.herokuapp.com/
 *  JS Response Bytes: 1598268
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 187030
-
-### Performance issues
-
 
 ### Performance issues
 

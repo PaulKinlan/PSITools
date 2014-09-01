@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.cpaiii.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Vancouver Private Investigation Firm | Private Investigators](http://www.cpaiii.com/)
 
@@ -29,9 +34,6 @@ title: http://www.cpaiii.com/
 *  JS Response Bytes: 387421
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23623
-
-### Performance issues
-
 
 ### Performance issues
 

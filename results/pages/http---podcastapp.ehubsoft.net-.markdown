@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://podcastapp.ehubsoft.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Podcast Awards - Podcast App](http://podcastapp.ehubsoft.net/)
 
@@ -29,9 +35,6 @@ title: http://podcastapp.ehubsoft.net/
 *  JS Response Bytes: 1858182
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110157
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://specials.nana10.co.il/minisites/iphone/default.asp?device=1&ObjectName=Category&ServiceID=120&CategoryID=300803&mobileappnana=
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Splash page](http://specials.nana10.co.il/minisites/iphone/default.asp?device=1&ObjectName=Category&ServiceID=120&CategoryID=300803&mobileappnana=)
 
@@ -29,9 +32,6 @@ title: http://specials.nana10.co.il/minisites/iphone/default.asp?device=1&Object
 *  JS Response Bytes: 208127
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1014
-
-### Performance issues
-
 
 ### Performance issues
 

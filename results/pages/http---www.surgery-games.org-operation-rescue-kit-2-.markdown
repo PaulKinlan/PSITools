@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/operation-rescue-kit-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Operation Rescue Kit game](http://www.surgery-games.org/operation-rescue-kit-2/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/operation-rescue-kit-2/
 *  JS Response Bytes: 2636864
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122070
-
-### Performance issues
-
 
 ### Performance issues
 

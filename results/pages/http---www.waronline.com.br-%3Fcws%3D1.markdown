@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.waronline.com.br/?cws=1
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WarONLINE](http://www.waronline.com.br/?cws=1)
 
@@ -29,9 +32,6 @@ title: http://www.waronline.com.br/?cws=1
 *  JS Response Bytes: 365908
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

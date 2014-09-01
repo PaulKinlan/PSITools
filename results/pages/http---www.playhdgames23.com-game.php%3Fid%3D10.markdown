@@ -33,8 +33,5 @@ title: http://www.playhdgames23.com/game.php?id=10
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

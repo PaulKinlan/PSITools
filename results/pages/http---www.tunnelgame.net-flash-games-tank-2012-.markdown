@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.tunnelgame.net/flash-games/tank-2012/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tank 2012 « Flash Games, Online Games](http://www.tunnelgame.net/flash-games/tank-2012/)
 
@@ -29,9 +37,6 @@ title: http://www.tunnelgame.net/flash-games/tank-2012/
 *  JS Response Bytes: 1139521
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15742
-
-### Performance issues
-
 
 ### Performance issues
 

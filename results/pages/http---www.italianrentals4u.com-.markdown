@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.italianrentals4u.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Italian Rentals 4U - Holiday villas and apartment rentals in Italy](http://www.italianrentals4u.com/)
 
@@ -29,9 +34,6 @@ title: http://www.italianrentals4u.com/
 *  JS Response Bytes: 969525
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 143252
-
-### Performance issues
-
 
 ### Performance issues
 

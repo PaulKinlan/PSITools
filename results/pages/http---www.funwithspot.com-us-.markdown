@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.funwithspot.com/us/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fun with Spot](http://www.funwithspot.com/us/)
 
@@ -29,9 +36,6 @@ title: http://www.funwithspot.com/us/
 *  JS Response Bytes: 92118
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1604
-
-### Performance issues
-
 
 ### Performance issues
 

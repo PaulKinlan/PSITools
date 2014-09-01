@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://landmax.ca/weather/index.htm
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Easy Weather Map | v-12.11.24](http://landmax.ca/weather/index.htm)
 
@@ -29,9 +34,6 @@ title: http://landmax.ca/weather/index.htm
 *  JS Response Bytes: 1093600
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54334
-
-### Performance issues
-
 
 ### Performance issues
 

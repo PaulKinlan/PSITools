@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://kidlandia.yolasite.com/Map.aspx.php?sku=kid_14x11_po_dora-nick_dora_1
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://kidlandia.yolasite.com/Map.aspx.php?sku=kid_14x11_po_dora-nick_dora_1)
 
@@ -29,9 +31,6 @@ title: http://kidlandia.yolasite.com/Map.aspx.php?sku=kid_14x11_po_dora-nick_dor
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1306
-
-### Performance issues
-
 
 ### Performance issues
 

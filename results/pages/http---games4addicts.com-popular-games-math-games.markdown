@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://games4addicts.com/popular-games/math-games
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Games4Addicts.com | Free Popular Online Games | Play Online Page not found » Games4Addicts.com | Free Popular Online Games | Play Online](http://games4addicts.com/popular-games/math-games)
 
@@ -29,9 +32,6 @@ title: http://games4addicts.com/popular-games/math-games
 *  JS Response Bytes: 758346
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 68338
-
-### Performance issues
-
 
 ### Performance issues
 

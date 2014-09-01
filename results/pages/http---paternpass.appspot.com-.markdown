@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://paternpass.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Pattern Password - Simple password generator | password manager](http://paternpass.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://paternpass.appspot.com/
 *  JS Response Bytes: 255521
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

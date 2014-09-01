@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://dmbgames.com/grand-theft-auto-vice-city.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DMBGames.Com – Grand Theft Auto: Vice City](http://dmbgames.com/grand-theft-auto-vice-city.html)
 
@@ -29,9 +35,6 @@ title: http://dmbgames.com/grand-theft-auto-vice-city.html
 *  JS Response Bytes: 404614
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 64246
-
-### Performance issues
-
 
 ### Performance issues
 

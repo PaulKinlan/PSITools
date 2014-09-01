@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.mynet.com/index.htm#http://aktuel.mynet.com/galeri/mobile/detail?gid=galeri&pid=/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mynet Mobil](http://m.mynet.com/index.htm#http://aktuel.mynet.com/galeri/mobile/detail?gid=galeri&pid=/)
 
@@ -29,9 +33,6 @@ title: http://m.mynet.com/index.htm#http://aktuel.mynet.com/galeri/mobile/detail
 *  JS Response Bytes: 868276
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5929
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://e-chromegames.blogspot.com/2013/06/bejeweled-3.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [e-chromegames: Bejeweled 3](http://e-chromegames.blogspot.com/2013/06/bejeweled-3.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://e-chromegames.blogspot.com/2013/06/bejeweled-3.html?m=1
 *  JS Response Bytes: 1067967
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97982
-
-### Performance issues
-
 
 ### Performance issues
 

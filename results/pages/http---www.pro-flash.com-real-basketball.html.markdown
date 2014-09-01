@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.pro-flash.com/real-basketball.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pro-Flash.Com – Real Basketball](http://www.pro-flash.com/real-basketball.html)
 
@@ -29,9 +35,6 @@ title: http://www.pro-flash.com/real-basketball.html
 *  JS Response Bytes: 404465
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 62237
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.daligames.com/temple-run-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Temple Run 2 | Dali Games](http://www.daligames.com/temple-run-2.html)
 
@@ -29,9 +34,6 @@ title: http://www.daligames.com/temple-run-2.html
 *  JS Response Bytes: 1529610
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106639
-
-### Performance issues
-
 
 ### Performance issues
 

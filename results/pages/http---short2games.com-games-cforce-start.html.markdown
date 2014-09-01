@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://short2games.com/games/cforce/start.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [CForce](http://short2games.com/games/cforce/start.html)
 
@@ -29,9 +31,6 @@ title: http://short2games.com/games/cforce/start.html
 *  JS Response Bytes: 96200
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

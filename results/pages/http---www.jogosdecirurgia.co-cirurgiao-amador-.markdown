@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.jogosdecirurgia.co/cirurgiao-amador/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [cirurgião amador Jogo](http://www.jogosdecirurgia.co/cirurgiao-amador/)
 
@@ -29,9 +35,6 @@ title: http://www.jogosdecirurgia.co/cirurgiao-amador/
 *  JS Response Bytes: 2817372
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115692
-
-### Performance issues
-
 
 ### Performance issues
 

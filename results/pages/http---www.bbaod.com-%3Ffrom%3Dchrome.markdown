@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.bbaod.com/?from=chrome
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [百宝袋](http://www.bbaod.com/?from=chrome)
 
@@ -29,9 +31,6 @@ title: http://www.bbaod.com/?from=chrome
 *  JS Response Bytes: 43896
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

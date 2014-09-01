@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/zombie-rumble/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombie Rumble](http://www.war-games.ws/zombie-rumble/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/zombie-rumble/
 *  JS Response Bytes: 2148630
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120062
-
-### Performance issues
-
 
 ### Performance issues
 

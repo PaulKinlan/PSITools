@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.tunnelgame.net/flash-games/cargo-bridge-armor-game/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cargo Bridge Armor « Flash Games, Online Games](http://www.tunnelgame.net/flash-games/cargo-bridge-armor-game/)
 
@@ -29,9 +35,6 @@ title: http://www.tunnelgame.net/flash-games/cargo-bridge-armor-game/
 *  JS Response Bytes: 1347420
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15744
-
-### Performance issues
-
 
 ### Performance issues
 

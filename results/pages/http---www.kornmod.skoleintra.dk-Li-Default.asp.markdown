@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.kornmod.skoleintra.dk/Li/Default.asp
+AvoidLandingPageRedirects: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.kornmod.skoleintra.dk/Li/Default.asp)
 
@@ -29,9 +33,6 @@ title: http://www.kornmod.skoleintra.dk/Li/Default.asp
 *  JS Response Bytes: 50516
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1905
-
-### Performance issues
-
 
 ### Performance issues
 

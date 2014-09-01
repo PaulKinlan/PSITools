@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.iulmsapp.tk/#/login
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [IULMS APP](http://www.iulmsapp.tk/#/login)
 
@@ -29,9 +32,6 @@ title: http://www.iulmsapp.tk/#/login
 *  JS Response Bytes: 584724
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 149
-
-### Performance issues
-
 
 ### Performance issues
 

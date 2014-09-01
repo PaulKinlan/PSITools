@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/nitroski/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nitroski game](http://www.skateboarding-games.biz/nitroski/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/nitroski/
 *  JS Response Bytes: 2123763
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120883
-
-### Performance issues
-
 
 ### Performance issues
 

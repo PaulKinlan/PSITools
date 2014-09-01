@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://secure.lrobson.com/gget
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](https://secure.lrobson.com/gget)
 
@@ -29,9 +30,6 @@ title: https://secure.lrobson.com/gget
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 420
-
-### Performance issues
-
 
 ### Performance issues
 

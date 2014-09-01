@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.coolmath-coolmath.com/games/mommy-to-be/coolmath
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [coolmath-Mommy to Be | -coolmath](http://www.coolmath-coolmath.com/games/mommy-to-be/coolmath)
 
@@ -29,9 +33,6 @@ title: http://www.coolmath-coolmath.com/games/mommy-to-be/coolmath
 *  JS Response Bytes: 1109186
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42468
-
-### Performance issues
-
 
 ### Performance issues
 

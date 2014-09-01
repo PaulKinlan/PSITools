@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://evony-online.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Evony Online](http://evony-online.appspot.com/)
 
@@ -29,9 +35,6 @@ title: http://evony-online.appspot.com/
 *  JS Response Bytes: 1402706
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61859
-
-### Performance issues
-
 
 ### Performance issues
 

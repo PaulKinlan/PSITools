@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.24playgame.com/minecraft-3d.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Minecraft 3D | Play Games free play the best games](http://www.24playgame.com/minecraft-3d.html)
 
@@ -29,9 +35,6 @@ title: http://www.24playgame.com/minecraft-3d.html
 *  JS Response Bytes: 659531
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2041
-
-### Performance issues
-
 
 ### Performance issues
 

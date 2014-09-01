@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://mixi.jp/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [ソーシャル・ネットワーキング サービス [mixi(ミクシィ)]](https://mixi.jp/)
 
@@ -29,9 +34,6 @@ title: https://mixi.jp/
 *  JS Response Bytes: 803764
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3068
-
-### Performance issues
-
 
 ### Performance issues
 

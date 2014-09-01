@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.newsolitairegames.com/forty-thieves-solitaire/forty-thieves-solitaire
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Forty Thieves Solitaire - Games - Play Free Online New Solitaire Games](http://www.newsolitairegames.com/forty-thieves-solitaire/forty-thieves-solitaire)
 
@@ -29,9 +35,6 @@ title: http://www.newsolitairegames.com/forty-thieves-solitaire/forty-thieves-so
 *  JS Response Bytes: 979017
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17062
-
-### Performance issues
-
 
 ### Performance issues
 

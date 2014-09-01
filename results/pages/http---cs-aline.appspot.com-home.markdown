@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://cs-aline.appspot.com/home
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [Spreadsheet Assembly Line](http://cs-aline.appspot.com/home)
 
@@ -29,9 +31,6 @@ title: http://cs-aline.appspot.com/home
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 222
-
-### Performance issues
-
 
 ### Performance issues
 

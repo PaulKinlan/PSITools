@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://nesninja.com/game/kings-quest-v#.U_umOU0ieKA
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [King's Quest V » NES Ninja](http://nesninja.com/game/kings-quest-v#.U_umOU0ieKA)
 
@@ -29,9 +32,6 @@ title: http://nesninja.com/game/kings-quest-v#.U_umOU0ieKA
 *  JS Response Bytes: 2420290
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 196697
-
-### Performance issues
-
 
 ### Performance issues
 

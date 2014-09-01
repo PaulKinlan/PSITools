@@ -33,8 +33,5 @@ title: http://www.skywarn.org.uk/app.html
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

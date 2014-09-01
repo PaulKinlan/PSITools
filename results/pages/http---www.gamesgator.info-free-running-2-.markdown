@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesgator.info/free-running-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Running 2](http://www.gamesgator.info/free-running-2/)
 
@@ -29,9 +34,6 @@ title: http://www.gamesgator.info/free-running-2/
 *  JS Response Bytes: 1033365
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42757
-
-### Performance issues
-
 
 ### Performance issues
 

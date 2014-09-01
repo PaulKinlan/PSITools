@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.royalgame99.com/default-category/fishao-games-online
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fishao Games Online - Royalgame99](http://www.royalgame99.com/default-category/fishao-games-online)
 
@@ -29,9 +33,6 @@ title: http://www.royalgame99.com/default-category/fishao-games-online
 *  JS Response Bytes: 1001743
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16087
-
-### Performance issues
-
 
 ### Performance issues
 

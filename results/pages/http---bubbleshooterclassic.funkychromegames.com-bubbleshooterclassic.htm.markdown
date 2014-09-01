@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://bubbleshooterclassic.funkychromegames.com/bubbleshooterclassic.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bubble Shooter Classic Game](http://bubbleshooterclassic.funkychromegames.com/bubbleshooterclassic.htm)
 
@@ -29,9 +35,6 @@ title: http://bubbleshooterclassic.funkychromegames.com/bubbleshooterclassic.htm
 *  JS Response Bytes: 743929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96210
-
-### Performance issues
-
 
 ### Performance issues
 

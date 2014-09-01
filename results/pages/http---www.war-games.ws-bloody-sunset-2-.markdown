@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.war-games.ws/bloody-sunset-2/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bloody Sunset](http://www.war-games.ws/bloody-sunset-2/)
 
@@ -29,9 +35,6 @@ title: http://www.war-games.ws/bloody-sunset-2/
 *  JS Response Bytes: 2291700
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117582
-
-### Performance issues
-
 
 ### Performance issues
 

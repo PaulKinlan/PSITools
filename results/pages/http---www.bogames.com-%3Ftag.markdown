@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bogames.com/?tag
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sports Games Online - Bo Games](http://www.bogames.com/?tag)
 
@@ -29,9 +33,6 @@ title: http://www.bogames.com/?tag
 *  JS Response Bytes: 1310865
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20556
-
-### Performance issues
-
 
 ### Performance issues
 

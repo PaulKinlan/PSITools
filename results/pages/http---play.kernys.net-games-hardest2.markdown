@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://play.kernys.net/games/hardest2
+UseLegibleFontSizes: true
 ---
 ## [502 Bad Gateway](http://play.kernys.net/games/hardest2)
 
@@ -29,9 +30,6 @@ title: http://play.kernys.net/games/hardest2
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 323
-
-### Performance issues
-
 
 ### Performance issues
 

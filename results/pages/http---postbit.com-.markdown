@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://postbit.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Create your Blog and Photo Album with Postbit.](http://postbit.com/)
 
@@ -29,9 +33,6 @@ title: http://postbit.com/
 *  JS Response Bytes: 960783
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95428
-
-### Performance issues
-
 
 ### Performance issues
 

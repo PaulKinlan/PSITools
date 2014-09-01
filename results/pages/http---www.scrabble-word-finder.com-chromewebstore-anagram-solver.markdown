@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.scrabble-word-finder.com/chromewebstore/anagram-solver
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Anagram Solver](http://www.scrabble-word-finder.com/chromewebstore/anagram-solver)
 
@@ -29,9 +32,6 @@ title: http://www.scrabble-word-finder.com/chromewebstore/anagram-solver
 *  JS Response Bytes: 1214771
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24441
-
-### Performance issues
-
 
 ### Performance issues
 

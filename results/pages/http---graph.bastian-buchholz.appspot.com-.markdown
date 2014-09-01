@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://graph.bastian-buchholz.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Graph Drawer](http://graph.bastian-buchholz.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://graph.bastian-buchholz.appspot.com/
 *  JS Response Bytes: 1292086
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1253
-
-### Performance issues
-
 
 ### Performance issues
 

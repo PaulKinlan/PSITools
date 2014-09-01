@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.elettro.org/kickstarter/bootsy/
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [kickstarter_template](http://www.elettro.org/kickstarter/bootsy/)
 
@@ -29,9 +33,6 @@ title: http://www.elettro.org/kickstarter/bootsy/
 *  JS Response Bytes: 630908
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1588
-
-### Performance issues
-
 
 ### Performance issues
 

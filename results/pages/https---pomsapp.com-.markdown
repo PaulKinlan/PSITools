@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://pomsapp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [PomsApp](https://pomsapp.com/)
 
@@ -29,9 +32,6 @@ title: https://pomsapp.com/
 *  JS Response Bytes: 1225394
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14647
-
-### Performance issues
-
 
 ### Performance issues
 

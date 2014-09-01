@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://howtomakemoney.guru/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [How To Make Money Guru -](http://howtomakemoney.guru/)
 
@@ -29,9 +32,6 @@ title: http://howtomakemoney.guru/
 *  JS Response Bytes: 369404
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9375
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://secure.conceptinbox.com/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Concept inbox](https://secure.conceptinbox.com/login)
 
@@ -29,9 +33,6 @@ title: https://secure.conceptinbox.com/login
 *  JS Response Bytes: 485765
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 158032
-
-### Performance issues
-
 
 ### Performance issues
 

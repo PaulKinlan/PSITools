@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://hackertarget.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Online Vulnerability Scanners and Port Scans | HackerTarget.com](http://hackertarget.com/)
 
@@ -29,9 +31,6 @@ title: http://hackertarget.com/
 *  JS Response Bytes: 222023
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

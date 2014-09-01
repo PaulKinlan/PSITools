@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://goshob.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [goShob | Online store builder, Best eCommerce software](http://goshob.com/)
 
@@ -29,9 +31,6 @@ title: http://goshob.com/
 *  JS Response Bytes: 355510
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43905
-
-### Performance issues
-
 
 ### Performance issues
 

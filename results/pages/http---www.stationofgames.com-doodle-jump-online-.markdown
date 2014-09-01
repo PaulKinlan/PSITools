@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.stationofgames.com/doodle-jump-online/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Doodle Jump Online](http://www.stationofgames.com/doodle-jump-online/)
 
@@ -29,9 +35,6 @@ title: http://www.stationofgames.com/doodle-jump-online/
 *  JS Response Bytes: 1290499
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119934
-
-### Performance issues
-
 
 ### Performance issues
 

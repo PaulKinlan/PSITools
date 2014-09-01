@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gimpark.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gimpark.com](http://www.gimpark.com/)
 
@@ -29,9 +33,6 @@ title: http://www.gimpark.com/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

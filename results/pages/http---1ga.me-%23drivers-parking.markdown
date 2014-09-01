@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://1ga.me/#drivers-parking
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [1GA.ME Just Perfect Games 1game](http://1ga.me/#drivers-parking)
 
@@ -29,9 +32,6 @@ title: http://1ga.me/#drivers-parking
 *  JS Response Bytes: 793274
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16911
-
-### Performance issues
-
 
 ### Performance issues
 

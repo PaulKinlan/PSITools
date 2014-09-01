@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/iphonegames/talking-tom-cat-3/#.U_eLMU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Talking Tom Cat 3 « Online Flash Game Talking Tom Cat 3](http://gamematic.net/online-flash-games/iphonegames/talking-tom-cat-3/#.U_eLMU0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/iphonegames/talking-tom-cat-3/#.U
 *  JS Response Bytes: 1534586
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29466
-
-### Performance issues
-
 
 ### Performance issues
 

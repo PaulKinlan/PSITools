@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://moviesblogapp.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://moviesblogapp.blogspot.com/?m=1)
 
@@ -29,9 +33,6 @@ title: http://moviesblogapp.blogspot.com/?m=1
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18772
-
-### Performance issues
-
 
 ### Performance issues
 

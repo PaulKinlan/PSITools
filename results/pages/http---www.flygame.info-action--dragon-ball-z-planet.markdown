@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.flygame.info/action/-dragon-ball-z-planet
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dragon Ball Z Planet - FLY GaMe - New Online Flash Games](http://www.flygame.info/action/-dragon-ball-z-planet)
 
@@ -29,9 +35,6 @@ title: http://www.flygame.info/action/-dragon-ball-z-planet
 *  JS Response Bytes: 2322903
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125212
-
-### Performance issues
-
 
 ### Performance issues
 

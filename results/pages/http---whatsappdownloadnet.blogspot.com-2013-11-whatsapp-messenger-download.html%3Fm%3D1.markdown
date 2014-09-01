@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://whatsappdownloadnet.blogspot.com/2013/11/whatsapp-messenger-download.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [WhatSapp DownLoad: Whatsapp messenger download](http://whatsappdownloadnet.blogspot.com/2013/11/whatsapp-messenger-download.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://whatsappdownloadnet.blogspot.com/2013/11/whatsapp-messenger-downlo
 *  JS Response Bytes: 959992
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98012
-
-### Performance issues
-
 
 ### Performance issues
 

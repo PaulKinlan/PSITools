@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.funny-games.co.uk/?gameid=15437
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funny-games.co.uk/?gameid=15437)
 
@@ -29,9 +33,6 @@ title: http://m.funny-games.co.uk/?gameid=15437
 *  JS Response Bytes: 1266600
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28055
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.miragine.com/game-1.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Miragine War | Miragine.com](http://www.miragine.com/game-1.html)
 
@@ -29,9 +35,6 @@ title: http://www.miragine.com/game-1.html
 *  JS Response Bytes: 2674871
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112442
-
-### Performance issues
-
 
 ### Performance issues
 

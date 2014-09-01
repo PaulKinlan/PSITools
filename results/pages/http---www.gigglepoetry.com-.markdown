@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gigglepoetry.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Giggle Poetry](http://www.gigglepoetry.com/)
 
@@ -29,9 +35,6 @@ title: http://www.gigglepoetry.com/
 *  JS Response Bytes: 678992
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14380
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.verynicegames.com/default-category/vehicles-parking-3d
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [VEHICLES PARKING 3D - Very Nice Games](http://www.verynicegames.com/default-category/vehicles-parking-3d)
 
@@ -29,9 +35,6 @@ title: http://www.verynicegames.com/default-category/vehicles-parking-3d
 *  JS Response Bytes: 1928805
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119812
-
-### Performance issues
-
 
 ### Performance issues
 

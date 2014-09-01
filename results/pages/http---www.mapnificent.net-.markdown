@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mapnificent.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
 ---
 ## [Mapnificent - Dynamic Public Transport Travel Time Maps](http://www.mapnificent.net/)
 
@@ -29,9 +33,6 @@ title: http://www.mapnificent.net/
 *  JS Response Bytes: 589383
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54009
-
-### Performance issues
-
 
 ### Performance issues
 

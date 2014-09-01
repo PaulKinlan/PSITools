@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.servizimultimediali.net/project/login.php
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SmProject v2.0q](http://www.servizimultimediali.net/project/login.php)
 
@@ -29,9 +32,6 @@ title: http://www.servizimultimediali.net/project/login.php
 *  JS Response Bytes: 648459
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1735
-
-### Performance issues
-
 
 ### Performance issues
 

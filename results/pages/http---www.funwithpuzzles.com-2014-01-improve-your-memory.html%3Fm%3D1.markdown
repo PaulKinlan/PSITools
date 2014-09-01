@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.funwithpuzzles.com/2014/01/improve-your-memory.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [Fun With Puzzles: Improve Your Memory](http://www.funwithpuzzles.com/2014/01/improve-your-memory.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://www.funwithpuzzles.com/2014/01/improve-your-memory.html?m=1
 *  JS Response Bytes: 1103774
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97995
-
-### Performance issues
-
 
 ### Performance issues
 

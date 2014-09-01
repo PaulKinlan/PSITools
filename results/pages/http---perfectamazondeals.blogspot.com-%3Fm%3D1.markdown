@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://perfectamazondeals.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [kids books](http://perfectamazondeals.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://perfectamazondeals.blogspot.com/?m=1
 *  JS Response Bytes: 789620
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287122
-
-### Performance issues
-
 
 ### Performance issues
 

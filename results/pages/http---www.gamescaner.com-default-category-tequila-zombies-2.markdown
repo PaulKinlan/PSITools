@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamescaner.com/default-category/tequila-zombies-2
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tequila Zombies 2 - Gamescaner.com](http://www.gamescaner.com/default-category/tequila-zombies-2)
 
@@ -29,9 +34,6 @@ title: http://www.gamescaner.com/default-category/tequila-zombies-2
 *  JS Response Bytes: 671936
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15600
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/629350/?autoEula=true&sId=Chrome_Webstore_Nov12_629350&actid=Chrome_Webstore_629350
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Virtual Villagers 2: The Lost Children for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/629350/?autoEula=true&sId=Chrome_Webstore_Nov12_629350&actid=Chrome_Webstore_629350)
 
@@ -29,9 +36,6 @@ title: http://www.freeridegames.com/chrome/games/629350/?autoEula=true&sId=Chrom
 *  JS Response Bytes: 1593251
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33180
-
-### Performance issues
-
 
 ### Performance issues
 

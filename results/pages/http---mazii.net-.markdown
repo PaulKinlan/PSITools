@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mazii.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Học tiếng Nhật cùng MAZII, từ điển Nhật Việt, Việt Nhật, Hán Nhật online](http://mazii.net/)
 
@@ -29,9 +32,6 @@ title: http://mazii.net/
 *  JS Response Bytes: 850762
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54670
-
-### Performance issues
-
 
 ### Performance issues
 

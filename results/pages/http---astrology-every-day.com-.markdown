@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://astrology-every-day.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Daily Horoscopes - See what astrology can tell you about your destiny.](http://astrology-every-day.com/)
 
@@ -29,9 +32,6 @@ title: http://astrology-every-day.com/
 *  JS Response Bytes: 2045578
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119693
-
-### Performance issues
-
 
 ### Performance issues
 

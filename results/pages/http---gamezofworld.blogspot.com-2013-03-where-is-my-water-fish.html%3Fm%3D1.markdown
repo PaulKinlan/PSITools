@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gamezofworld.blogspot.com/2013/03/where-is-my-water-fish.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Best Free Games: Pour the Fish](http://gamezofworld.blogspot.com/2013/03/where-is-my-water-fish.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://gamezofworld.blogspot.com/2013/03/where-is-my-water-fish.html?m=1
 *  JS Response Bytes: 1796197
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 288087
-
-### Performance issues
-
 
 ### Performance issues
 

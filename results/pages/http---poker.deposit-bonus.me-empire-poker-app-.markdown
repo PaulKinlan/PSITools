@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://poker.deposit-bonus.me/empire-poker-app/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Empire Poker App | Poker Deposit Bonus](http://poker.deposit-bonus.me/empire-poker-app/)
 
@@ -29,9 +32,6 @@ title: http://poker.deposit-bonus.me/empire-poker-app/
 *  JS Response Bytes: 221044
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 647
-
-### Performance issues
-
 
 ### Performance issues
 

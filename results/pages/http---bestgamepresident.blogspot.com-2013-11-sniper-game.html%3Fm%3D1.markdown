@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bestgamepresident.blogspot.com/2013/11/sniper-game.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Best of PC Game : sniper game](http://bestgamepresident.blogspot.com/2013/11/sniper-game.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://bestgamepresident.blogspot.com/2013/11/sniper-game.html?m=1
 *  JS Response Bytes: 971696
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287161
-
-### Performance issues
-
 
 ### Performance issues
 

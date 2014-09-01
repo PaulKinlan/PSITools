@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://viber.androck.co/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [windows Client for Viber™ - Home Viber](http://viber.androck.co/)
 
@@ -29,9 +32,6 @@ title: http://viber.androck.co/
 *  JS Response Bytes: 1336978
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148275
-
-### Performance issues
-
 
 ### Performance issues
 

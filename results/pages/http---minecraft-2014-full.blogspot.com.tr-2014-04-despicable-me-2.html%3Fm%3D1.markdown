@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://minecraft-2014-full.blogspot.com.tr/2014/04/despicable-me-2.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
 ---
 ## [minecraft full version game: Despicable Me 2](http://minecraft-2014-full.blogspot.com.tr/2014/04/despicable-me-2.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://minecraft-2014-full.blogspot.com.tr/2014/04/despicable-me-2.html?m
 *  JS Response Bytes: 720871
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95601
-
-### Performance issues
-
 
 ### Performance issues
 

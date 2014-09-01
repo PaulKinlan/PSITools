@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gamesbolo.blogspot.com/search/label/Doraemon%20Games?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [GameBolo: Doraemon Games](http://gamesbolo.blogspot.com/search/label/Doraemon%20Games?m=1)
 
@@ -29,9 +31,6 @@ title: http://gamesbolo.blogspot.com/search/label/Doraemon%20Games?m=1
 *  JS Response Bytes: 637560
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15759
-
-### Performance issues
-
 
 ### Performance issues
 

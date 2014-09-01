@@ -33,8 +33,5 @@ title: http://www.dressupwhois.com/pets/dolphin-pop
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

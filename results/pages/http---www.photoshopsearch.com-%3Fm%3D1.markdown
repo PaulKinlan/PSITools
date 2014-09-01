@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.photoshopsearch.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Photoshop Search](http://www.photoshopsearch.com/?m=1)
 
@@ -29,9 +34,6 @@ title: http://www.photoshopsearch.com/?m=1
 *  JS Response Bytes: 2482275
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 317749
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://hipcv.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [HipCV | Create Stylish Professional Resume In Minutes for FREE](https://hipcv.com/)
 
@@ -29,9 +32,6 @@ title: https://hipcv.com/
 *  JS Response Bytes: 1554463
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 168
-
-### Performance issues
-
 
 ### Performance issues
 

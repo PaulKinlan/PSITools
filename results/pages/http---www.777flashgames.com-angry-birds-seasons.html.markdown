@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.777flashgames.com/angry-birds-seasons.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Seasons | 777 Flash Games](http://www.777flashgames.com/angry-birds-seasons.html)
 
@@ -29,9 +36,6 @@ title: http://www.777flashgames.com/angry-birds-seasons.html
 *  JS Response Bytes: 1694015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103007
-
-### Performance issues
-
 
 ### Performance issues
 

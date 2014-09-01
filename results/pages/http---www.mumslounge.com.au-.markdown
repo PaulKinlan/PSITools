@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mumslounge.com.au/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mum's Lounge - The Leading Website for Mums in Australia](http://www.mumslounge.com.au/)
 
@@ -29,9 +32,6 @@ title: http://www.mumslounge.com.au/
 *  JS Response Bytes: 3188364
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58027
-
-### Performance issues
-
 
 ### Performance issues
 

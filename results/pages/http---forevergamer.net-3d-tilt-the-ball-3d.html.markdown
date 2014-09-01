@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://forevergamer.net/3d/tilt-the-ball-3d.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tilt The Ball 3D - Free Online Games Forever | ForeverGamer.net - http://forevergamer.net](http://forevergamer.net/3d/tilt-the-ball-3d.html)
 
@@ -29,9 +34,6 @@ title: http://forevergamer.net/3d/tilt-the-ball-3d.html
 *  JS Response Bytes: 2395978
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115568
-
-### Performance issues
-
 
 ### Performance issues
 

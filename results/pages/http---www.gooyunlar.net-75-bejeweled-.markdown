@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.gooyunlar.net/75/bejeweled/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gooyunlar.net](http://www.gooyunlar.net/75/bejeweled/)
 
@@ -29,9 +31,6 @@ title: http://www.gooyunlar.net/75/bejeweled/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

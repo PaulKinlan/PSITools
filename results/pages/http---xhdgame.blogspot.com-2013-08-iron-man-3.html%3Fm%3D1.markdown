@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://xhdgame.blogspot.com/2013/08/iron-man-3.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [XHDGAME: İron Man 3](http://xhdgame.blogspot.com/2013/08/iron-man-3.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://xhdgame.blogspot.com/2013/08/iron-man-3.html?m=1
 *  JS Response Bytes: 725651
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95570
-
-### Performance issues
-
 
 ### Performance issues
 

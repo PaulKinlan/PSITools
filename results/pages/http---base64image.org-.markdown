@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://base64image.org/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [BEST! Base64 Image - Image to Base64 - Image Encoder - Base64 Decoder](http://base64image.org/)
 
@@ -29,9 +32,6 @@ title: http://base64image.org/
 *  JS Response Bytes: 926088
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29520
-
-### Performance issues
-
 
 ### Performance issues
 

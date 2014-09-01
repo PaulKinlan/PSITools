@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gametork.com/adventure/bad-piggies-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bad piggies 2 - Play Free Online Games Play Free Online Games](http://www.gametork.com/adventure/bad-piggies-2/)
 
@@ -29,9 +35,6 @@ title: http://www.gametork.com/adventure/bad-piggies-2/
 *  JS Response Bytes: 2021605
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 460996
-
-### Performance issues
-
 
 ### Performance issues
 

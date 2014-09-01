@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.appmonestry.com/apps/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tic-Tac-Toe](http://www.appmonestry.com/apps/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.appmonestry.com/apps/index.html
 *  JS Response Bytes: 408068
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15684
-
-### Performance issues
-
 
 ### Performance issues
 

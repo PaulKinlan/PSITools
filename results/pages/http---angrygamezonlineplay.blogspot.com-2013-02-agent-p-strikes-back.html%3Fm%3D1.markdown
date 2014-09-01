@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://angrygamezonlineplay.blogspot.com/2013/02/agent-p-strikes-back.html?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://angrygamezonlineplay.blogspot.com/2013/02/agent-p-strikes-back.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://angrygamezonlineplay.blogspot.com/2013/02/agent-p-strikes-back.htm
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18869
-
-### Performance issues
-
 
 ### Performance issues
 

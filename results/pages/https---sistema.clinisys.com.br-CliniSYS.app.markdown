@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sistema.clinisys.com.br/CliniSYS.app
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CliniSYS - Sistema de Gestão de Clínicas](https://sistema.clinisys.com.br/CliniSYS.app)
 
@@ -29,9 +32,6 @@ title: https://sistema.clinisys.com.br/CliniSYS.app
 *  JS Response Bytes: 170032
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 494
-
-### Performance issues
-
 
 ### Performance issues
 

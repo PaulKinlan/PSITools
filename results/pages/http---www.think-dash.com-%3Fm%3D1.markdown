@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.think-dash.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Think-Dash](http://www.think-dash.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://www.think-dash.com/?m=1
 *  JS Response Bytes: 290033
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 561
-
-### Performance issues
-
 
 ### Performance issues
 

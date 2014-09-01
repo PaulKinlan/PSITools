@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.moviescapital.com/?hop=cozden72
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Movies - Download Full Movies](http://www.moviescapital.com/?hop=cozden72)
 
@@ -18,20 +25,17 @@ title: http://www.moviescapital.com/?hop=cozden72
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 60
-*  Total Request Bytes: 5203
+*  Total Request Bytes: 5210
 
 ### Response data
 
-*  HTML Response Bytes: 31413
+*  HTML Response Bytes: 31412
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 25995
-*  Image Response Bytes: 1303909
-*  JS Response Bytes: 110559
+*  CSS Response Bytes: 25994
+*  Image Response Bytes: 1303872
+*  JS Response Bytes: 110558
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2070
-
-### Performance issues
-
+*  Other Response Bytes: 2072
 
 ### Performance issues
 

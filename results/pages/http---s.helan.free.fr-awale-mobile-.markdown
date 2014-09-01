@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://s.helan.free.fr/awale/mobile/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Awale - jeu, règles, conseils...](http://s.helan.free.fr/awale/mobile/)
 
@@ -29,9 +32,6 @@ title: http://s.helan.free.fr/awale/mobile/
 *  JS Response Bytes: 41349
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

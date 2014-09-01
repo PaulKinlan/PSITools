@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://3000gaming.com/game/angry-birds-hd-official-game/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nothing found for Game Angry-birds-hd-official-game](http://3000gaming.com/game/angry-birds-hd-official-game/)
 
@@ -29,9 +32,6 @@ title: http://3000gaming.com/game/angry-birds-hd-official-game/
 *  JS Response Bytes: 164474
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8745
-
-### Performance issues
-
 
 ### Performance issues
 

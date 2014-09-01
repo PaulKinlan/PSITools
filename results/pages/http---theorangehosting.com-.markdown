@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://theorangehosting.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Orange Hosting - Fastest Hosting on Cloud with SSD](http://theorangehosting.com/)
 
@@ -29,9 +32,6 @@ title: http://theorangehosting.com/
 *  JS Response Bytes: 364629
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 69215
-
-### Performance issues
-
 
 ### Performance issues
 

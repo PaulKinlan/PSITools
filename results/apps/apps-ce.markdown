@@ -124,6 +124,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Use legible font sizes
 <hr>
 
@@ -159,6 +160,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -303,6 +305,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 <hr>
 
 
@@ -337,6 +340,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Use legible font sizes
 <hr>
 
@@ -372,6 +376,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 <hr>
 
@@ -444,6 +449,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -481,6 +487,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -518,6 +525,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -554,6 +562,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -591,6 +600,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -629,6 +639,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -666,6 +677,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -740,6 +752,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -886,6 +899,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -959,6 +973,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1035,6 +1050,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1184,6 +1200,7 @@ Error parsing line: 0
 ### Mobile UX issues
 
 *  Avoid plugins
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1328,6 +1345,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1365,6 +1383,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 <hr>
 
 
@@ -1437,6 +1456,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -1475,6 +1495,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1512,6 +1533,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1549,6 +1571,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1623,6 +1646,7 @@ Error parsing line: 0
 ### Mobile UX issues
 
 *  Avoid plugins
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -1661,6 +1685,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1700,6 +1725,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1738,6 +1764,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1775,6 +1802,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 <hr>
 
 
@@ -1848,6 +1876,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1923,6 +1952,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -2184,6 +2214,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -2299,6 +2330,7 @@ Error parsing line: 0
 ### Mobile UX issues
 
 *  Avoid plugins
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -2413,6 +2445,7 @@ Error parsing line: 0
 ### Mobile UX issues
 
 *  Avoid plugins
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -2487,6 +2520,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -2527,6 +2561,7 @@ Error parsing line: 0
 ### Mobile UX issues
 
 *  Avoid plugins
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -2566,6 +2601,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -2905,6 +2941,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -2944,6 +2981,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -3021,6 +3059,7 @@ Error parsing line: 0
 ### Mobile UX issues
 
 *  Avoid plugins
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -3098,6 +3137,7 @@ Error parsing line: 0
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>

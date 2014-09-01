@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://flash5games.com/?=404;http://www.flash5games.com:80/sombiez.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [flash5games.com](http://flash5games.com/?=404;http://www.flash5games.com:80/sombiez.html&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://flash5games.com/?=404;http://www.flash5games.com:80/sombiez.html&r
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105
-
-### Performance issues
-
 
 ### Performance issues
 

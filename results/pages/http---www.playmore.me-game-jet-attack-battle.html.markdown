@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.playmore.me/game/jet-attack-battle.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jet Attack Battle Two Player Games, 2 player games, online multiplayer games.](http://www.playmore.me/game/jet-attack-battle.html)
 
@@ -29,9 +34,6 @@ title: http://www.playmore.me/game/jet-attack-battle.html
 *  JS Response Bytes: 1025902
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97113
-
-### Performance issues
-
 
 ### Performance issues
 

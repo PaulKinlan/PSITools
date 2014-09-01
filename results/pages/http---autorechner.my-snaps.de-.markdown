@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://autorechner.my-snaps.de/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Was kostet mich mein Auto?](http://autorechner.my-snaps.de/)
 
@@ -29,9 +32,6 @@ title: http://autorechner.my-snaps.de/
 *  JS Response Bytes: 1084872
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43187
-
-### Performance issues
-
 
 ### Performance issues
 

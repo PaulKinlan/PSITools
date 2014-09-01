@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.surgery-games.org/the-pharmacist-2/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Pharmacist game](http://www.surgery-games.org/the-pharmacist-2/)
 
@@ -29,9 +36,6 @@ title: http://www.surgery-games.org/the-pharmacist-2/
 *  JS Response Bytes: 2429261
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 133121
-
-### Performance issues
-
 
 ### Performance issues
 

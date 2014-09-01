@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.miniclip.cc/minecraft.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Miniclip Minecraft Platform | Miniclip - Play Free Online Games and Miniclip](http://www.miniclip.cc/minecraft.html)
 
@@ -29,9 +33,6 @@ title: http://www.miniclip.cc/minecraft.html
 *  JS Response Bytes: 2011523
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112721
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.associon.com/?view=gadget&gadget=g_finance_chn_indices
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ASSOCION | GADGET : G.Finance - China Stock Market Indices (Real-time)](http://www.associon.com/?view=gadget&gadget=g_finance_chn_indices)
 
@@ -29,9 +33,6 @@ title: http://www.associon.com/?view=gadget&gadget=g_finance_chn_indices
 *  JS Response Bytes: 2873744
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 212595
-
-### Performance issues
-
 
 ### Performance issues
 

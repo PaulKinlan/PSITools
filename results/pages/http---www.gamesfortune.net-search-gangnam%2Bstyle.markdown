@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gamesfortune.net/search/gangnam+style
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Search results for "gangnam style" - Free Online Games | GamesFortune.net](http://www.gamesfortune.net/search/gangnam+style)
 
@@ -29,9 +36,6 @@ title: http://www.gamesfortune.net/search/gangnam+style
 *  JS Response Bytes: 1314237
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2746
-
-### Performance issues
-
 
 ### Performance issues
 

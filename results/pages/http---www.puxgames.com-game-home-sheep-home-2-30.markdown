@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.puxgames.com/game/home-sheep-home-2-30
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Home Sheep Home 2 Game - Pux Games](http://www.puxgames.com/game/home-sheep-home-2-30)
 
@@ -29,9 +34,6 @@ title: http://www.puxgames.com/game/home-sheep-home-2-30
 *  JS Response Bytes: 688754
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3637
-
-### Performance issues
-
 
 ### Performance issues
 

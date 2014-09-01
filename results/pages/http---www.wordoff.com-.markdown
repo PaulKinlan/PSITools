@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.wordoff.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Word Off! - A Fun Free Word Game get your Word On with Word Off!](http://www.wordoff.com/)
 
@@ -29,9 +34,6 @@ title: http://www.wordoff.com/
 *  JS Response Bytes: 2293584
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40246
-
-### Performance issues
-
 
 ### Performance issues
 

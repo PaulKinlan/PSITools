@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://fiddlesalad.com/coffeescript/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+UseLegibleFontSizes: true
 ---
 ## [Live CoffeeScript IDE | Fiddle Salad](http://fiddlesalad.com/coffeescript/)
 
@@ -29,9 +32,6 @@ title: http://fiddlesalad.com/coffeescript/
 *  JS Response Bytes: 2494040
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49012
-
-### Performance issues
-
 
 ### Performance issues
 

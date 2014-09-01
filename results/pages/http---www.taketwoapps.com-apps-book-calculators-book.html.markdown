@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.taketwoapps.com/apps/book/calculators/book.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Multi Calculator Tool](http://www.taketwoapps.com/apps/book/calculators/book.html)
 
@@ -29,9 +32,6 @@ title: http://www.taketwoapps.com/apps/book/calculators/book.html
 *  JS Response Bytes: 554598
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

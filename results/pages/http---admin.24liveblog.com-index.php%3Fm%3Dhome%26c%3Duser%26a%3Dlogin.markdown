@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://admin.24liveblog.com/index.php?m=home&c=user&a=login
+MinimizeRenderBlockingResources: true
 ---
 ## [24Liveblog - Dashboard](http://admin.24liveblog.com/index.php?m=home&c=user&a=login)
 
@@ -29,9 +30,6 @@ title: http://admin.24liveblog.com/index.php?m=home&c=user&a=login
 *  JS Response Bytes: 298048
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 570
-
-### Performance issues
-
 
 ### Performance issues
 

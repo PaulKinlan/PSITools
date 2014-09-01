@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fullcargame.com/default-category/raptor-safari
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Raptor Safari - Full Car Games - All Free Car Games](http://www.fullcargame.com/default-category/raptor-safari)
 
@@ -29,9 +34,6 @@ title: http://www.fullcargame.com/default-category/raptor-safari
 *  JS Response Bytes: 2675391
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 107609
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://deerproofing.com/app/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [American Deer Proofing Mobile App](http://deerproofing.com/app/)
 
@@ -29,9 +31,6 @@ title: http://deerproofing.com/app/
 *  JS Response Bytes: 656639
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

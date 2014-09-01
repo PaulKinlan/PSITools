@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://jbartdrive.appspot.com/jbart.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [jBart](https://jbartdrive.appspot.com/jbart.html)
 
@@ -29,9 +33,6 @@ title: https://jbartdrive.appspot.com/jbart.html
 *  JS Response Bytes: 4424892
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5678
-
-### Performance issues
-
 
 ### Performance issues
 

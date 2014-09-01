@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.orkutfans.in/opensocial/chrome/googlepluslite/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Site Map](http://www.orkutfans.in/opensocial/chrome/googlepluslite/)
 
@@ -29,9 +31,6 @@ title: http://www.orkutfans.in/opensocial/chrome/googlepluslite/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 157830
-
-### Performance issues
-
 
 ### Performance issues
 

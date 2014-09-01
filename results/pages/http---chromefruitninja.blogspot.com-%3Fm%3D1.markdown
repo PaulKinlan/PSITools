@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromefruitninja.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Fruit Ninja](http://chromefruitninja.blogspot.com/?m=1)
 
@@ -22,16 +24,13 @@ title: http://chromefruitninja.blogspot.com/?m=1
 
 ### Response data
 
-*  HTML Response Bytes: 73411
+*  HTML Response Bytes: 73426
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 66778
-*  Image Response Bytes: 95044
-*  JS Response Bytes: 788562
+*  CSS Response Bytes: 66775
+*  Image Response Bytes: 95042
+*  JS Response Bytes: 789044
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 292893
-
-### Performance issues
-
+*  Other Response Bytes: 292891
 
 ### Performance issues
 

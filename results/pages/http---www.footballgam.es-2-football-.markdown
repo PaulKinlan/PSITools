@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/2-football/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [2Football Soccer Game](http://www.footballgam.es/2-football/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/2-football/
 *  JS Response Bytes: 2296903
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 154241
-
-### Performance issues
-
 
 ### Performance issues
 

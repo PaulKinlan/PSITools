@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://kitchenfriend.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online recipe costing - Kitchen Friend](http://kitchenfriend.com/)
 
@@ -29,9 +32,6 @@ title: http://kitchenfriend.com/
 *  JS Response Bytes: 686015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://kanbanflow.com/m
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mobile - KanbanFlow](https://kanbanflow.com/m)
 
@@ -29,9 +32,6 @@ title: https://kanbanflow.com/m
 *  JS Response Bytes: 442526
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45
-
-### Performance issues
-
 
 ### Performance issues
 

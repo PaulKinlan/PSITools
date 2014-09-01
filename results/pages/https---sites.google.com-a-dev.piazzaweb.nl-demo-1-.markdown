@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://sites.google.com/a/dev.piazzaweb.nl/demo-1/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [redirects](https://sites.google.com/a/dev.piazzaweb.nl/demo-1/)
 
@@ -29,9 +31,6 @@ title: https://sites.google.com/a/dev.piazzaweb.nl/demo-1/
 *  JS Response Bytes: 412692
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49929
-
-### Performance issues
-
 
 ### Performance issues
 

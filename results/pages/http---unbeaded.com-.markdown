@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://unbeaded.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Unbeaded](http://unbeaded.com/)
 
@@ -29,9 +33,6 @@ title: http://unbeaded.com/
 *  JS Response Bytes: 552479
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

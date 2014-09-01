@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesofaddicts.com/popular-games/sticky-blobs
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | Gamesogaddicts.com | Play Most Popular Games Free](http://www.gamesofaddicts.com/popular-games/sticky-blobs)
 
@@ -29,9 +35,6 @@ title: http://www.gamesofaddicts.com/popular-games/sticky-blobs
 *  JS Response Bytes: 1220896
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3702
-
-### Performance issues
-
 
 ### Performance issues
 

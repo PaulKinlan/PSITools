@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.iouninja.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Awesome IOUs - IOU Ninja](http://www.iouninja.com/)
 
@@ -29,9 +33,6 @@ title: http://www.iouninja.com/
 *  JS Response Bytes: 247606
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 547
-
-### Performance issues
-
 
 ### Performance issues
 

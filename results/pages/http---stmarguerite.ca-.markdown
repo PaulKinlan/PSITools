@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://stmarguerite.ca/
+MinimizeRenderBlockingResources: true
 ---
 ## [Home | St. Marguerite Bourgeoys School](http://stmarguerite.ca/)
 
@@ -29,9 +30,6 @@ title: http://stmarguerite.ca/
 *  JS Response Bytes: 556838
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 413
-
-### Performance issues
-
 
 ### Performance issues
 

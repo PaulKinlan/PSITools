@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://get.webgl.org/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [](http://get.webgl.org/)
 
@@ -29,9 +31,6 @@ title: http://get.webgl.org/
 *  JS Response Bytes: 104224
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42
-
-### Performance issues
-
 
 ### Performance issues
 

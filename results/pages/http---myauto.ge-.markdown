@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://myauto.ge/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ახალი და მეორადი ავტომობილები საიტზე myauto.ge](http://myauto.ge/)
 
@@ -29,9 +34,6 @@ title: http://myauto.ge/
 *  JS Response Bytes: 987015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40294
-
-### Performance issues
-
 
 ### Performance issues
 

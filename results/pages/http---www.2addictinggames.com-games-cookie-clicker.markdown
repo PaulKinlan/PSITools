@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/cookie-clicker
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Addicting Games](http://www.2addictinggames.com/games/cookie-clicker)
 
@@ -29,9 +35,6 @@ title: http://www.2addictinggames.com/games/cookie-clicker
 *  JS Response Bytes: 1143249
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14535
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.geni.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Family Tree & Family History at Geni.com](http://www.geni.com/)
 
@@ -29,9 +34,6 @@ title: http://www.geni.com/
 *  JS Response Bytes: 1190542
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 594
-
-### Performance issues
-
 
 ### Performance issues
 

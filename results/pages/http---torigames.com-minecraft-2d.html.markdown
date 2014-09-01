@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://torigames.com/minecraft-2d.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ToriGames.Com | Flash Game | Flash Games | – MineCraft 2D](http://torigames.com/minecraft-2d.html)
 
@@ -29,9 +35,6 @@ title: http://torigames.com/minecraft-2d.html
 *  JS Response Bytes: 412732
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1194
-
-### Performance issues
-
 
 ### Performance issues
 

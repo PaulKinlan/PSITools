@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.dropbox.com/at/cws
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dropbox - You're invited to join Dropbox!](https://www.dropbox.com/at/cws)
 
@@ -29,9 +33,6 @@ title: https://www.dropbox.com/at/cws
 *  JS Response Bytes: 2654882
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 346
-
-### Performance issues
-
 
 ### Performance issues
 

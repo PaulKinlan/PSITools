@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://dotthinker.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Personal Blog Of Peter » Dot Thinker](http://dotthinker.com/)
 
@@ -29,9 +33,6 @@ title: http://dotthinker.com/
 *  JS Response Bytes: 1269314
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6748
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.radiouniverso.it/elencofilmwp.asp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.radiouniverso.it/elencofilmwp.asp)
 
@@ -29,9 +33,6 @@ title: http://www.radiouniverso.it/elencofilmwp.asp
 *  JS Response Bytes: 458362
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

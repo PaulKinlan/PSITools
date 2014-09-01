@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.techshu.com/mail
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [404 | Digital Marketing Agency India](http://www.techshu.com/mail)
 
@@ -29,9 +33,6 @@ title: http://www.techshu.com/mail
 *  JS Response Bytes: 1504138
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102983
-
-### Performance issues
-
 
 ### Performance issues
 

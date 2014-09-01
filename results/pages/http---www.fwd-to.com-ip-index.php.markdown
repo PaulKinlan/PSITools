@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.fwd-to.com/ip/index.php
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Show My IP Address](http://www.fwd-to.com/ip/index.php)
 
@@ -29,9 +31,6 @@ title: http://www.fwd-to.com/ip/index.php
 *  JS Response Bytes: 396526
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

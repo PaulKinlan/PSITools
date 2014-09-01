@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://apps.fupa.com/fashionbattle/create/login.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fashion Battle](http://apps.fupa.com/fashionbattle/create/login.php)
 
@@ -29,9 +34,6 @@ title: http://apps.fupa.com/fashionbattle/create/login.php
 *  JS Response Bytes: 732867
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 72
-
-### Performance issues
-
 
 ### Performance issues
 

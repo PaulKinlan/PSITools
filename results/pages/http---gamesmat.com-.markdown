@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gamesmat.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gamesmat.com](http://gamesmat.com/)
 
@@ -29,9 +31,6 @@ title: http://gamesmat.com/
 *  JS Response Bytes: 167612
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

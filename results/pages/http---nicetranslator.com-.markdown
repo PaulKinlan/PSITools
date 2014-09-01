@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://nicetranslator.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nice Translator - The Fast, Easy Online Translator](http://nicetranslator.com/)
 
@@ -29,9 +34,6 @@ title: http://nicetranslator.com/
 *  JS Response Bytes: 707020
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1745
-
-### Performance issues
-
 
 ### Performance issues
 

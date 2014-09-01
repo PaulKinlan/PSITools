@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.i-gamer.net/play/1286.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [楓之傳說遊戲](http://www.i-gamer.net/play/1286.html)
 
@@ -29,9 +35,6 @@ title: http://www.i-gamer.net/play/1286.html
 *  JS Response Bytes: 1327896
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2618
-
-### Performance issues
-
 
 ### Performance issues
 

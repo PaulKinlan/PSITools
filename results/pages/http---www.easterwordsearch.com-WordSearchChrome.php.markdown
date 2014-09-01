@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.easterwordsearch.com/WordSearchChrome.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Word Search for Chrome](http://www.easterwordsearch.com/WordSearchChrome.php)
 
@@ -29,9 +35,6 @@ title: http://www.easterwordsearch.com/WordSearchChrome.php
 *  JS Response Bytes: 865158
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1745
-
-### Performance issues
-
 
 ### Performance issues
 

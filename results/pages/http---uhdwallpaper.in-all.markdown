@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://uhdwallpaper.in/all
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [All wallpapers - Ultra HD wallpapers 4K Wallpapers](http://uhdwallpaper.in/all)
 
@@ -29,9 +33,6 @@ title: http://uhdwallpaper.in/all
 *  JS Response Bytes: 1448922
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97145
-
-### Performance issues
-
 
 ### Performance issues
 

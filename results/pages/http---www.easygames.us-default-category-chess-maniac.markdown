@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.easygames.us/default-category/chess-maniac
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chess Maniac - Easy Games](http://www.easygames.us/default-category/chess-maniac)
 
@@ -29,9 +35,6 @@ title: http://www.easygames.us/default-category/chess-maniac
 *  JS Response Bytes: 1878703
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114238
-
-### Performance issues
-
 
 ### Performance issues
 

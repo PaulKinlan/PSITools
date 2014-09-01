@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.friv-game.org/games/game/name/my-new-room-3
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [my-new-room-3 Friv Games](http://www.friv-game.org/games/game/name/my-new-room-3)
 
@@ -29,9 +33,6 @@ title: http://www.friv-game.org/games/game/name/my-new-room-3
 *  JS Response Bytes: 1717860
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111520
-
-### Performance issues
-
 
 ### Performance issues
 

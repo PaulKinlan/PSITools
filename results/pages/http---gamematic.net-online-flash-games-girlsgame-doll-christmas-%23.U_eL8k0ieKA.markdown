@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/girlsgame/doll-christmas/#.U_eL8k0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Doll Christmas « Online Flash Game Doll Christmas](http://gamematic.net/online-flash-games/girlsgame/doll-christmas/#.U_eL8k0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/girlsgame/doll-christmas/#.U_eL8k
 *  JS Response Bytes: 1269230
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43973
-
-### Performance issues
-
 
 ### Performance issues
 

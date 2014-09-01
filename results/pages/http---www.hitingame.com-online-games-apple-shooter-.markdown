@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.hitingame.com/online-games/apple-shooter/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Apple Shooter « Online Flash Games – Popular Flash Games](http://www.hitingame.com/online-games/apple-shooter/)
 
@@ -29,9 +37,6 @@ title: http://www.hitingame.com/online-games/apple-shooter/
 *  JS Response Bytes: 1145331
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57693
-
-### Performance issues
-
 
 ### Performance issues
 

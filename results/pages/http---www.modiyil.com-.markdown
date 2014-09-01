@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.modiyil.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Christian Web Site Directory Modiyil](http://www.modiyil.com/)
 
@@ -29,9 +32,6 @@ title: http://www.modiyil.com/
 *  JS Response Bytes: 2474511
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163709
-
-### Performance issues
-
 
 ### Performance issues
 

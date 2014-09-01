@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesgirlsgames.com/Girls-Games/dress-up-game-for-girls
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dress Up Games | Girls Games and Play Girl Games More Games Games](http://www.gamesgirlsgames.com/Girls-Games/dress-up-game-for-girls)
 
@@ -29,9 +34,6 @@ title: http://www.gamesgirlsgames.com/Girls-Games/dress-up-game-for-girls
 *  JS Response Bytes: 1224092
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17207
-
-### Performance issues
-
 
 ### Performance issues
 

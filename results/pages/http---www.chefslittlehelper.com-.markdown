@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.chefslittlehelper.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chef's Little Helper](http://www.chefslittlehelper.com/)
 
@@ -29,9 +33,6 @@ title: http://www.chefslittlehelper.com/
 *  JS Response Bytes: 58119
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

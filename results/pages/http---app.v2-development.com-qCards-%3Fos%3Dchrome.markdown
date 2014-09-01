@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://app.v2-development.com/qCards/?os=chrome
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [qCards](http://app.v2-development.com/qCards/?os=chrome)
 
@@ -29,9 +32,6 @@ title: http://app.v2-development.com/qCards/?os=chrome
 *  JS Response Bytes: 164959
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 381
-
-### Performance issues
-
 
 ### Performance issues
 

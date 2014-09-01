@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/pumpkins/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Halloween Pumpkins](http://www.fupa.com/apps/pumpkins/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/pumpkins/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://m.funnygames.biz/?gameid=3661&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=flash_ludo
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funnygames.biz/?gameid=3661&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=flash_ludo)
 
@@ -29,9 +34,6 @@ title: http://m.funnygames.biz/?gameid=3661&utm_source=cws&utm_medium=app&utm_ca
 *  JS Response Bytes: 1265754
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28387
-
-### Performance issues
-
 
 ### Performance issues
 

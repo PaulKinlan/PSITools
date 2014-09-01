@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/737950/?autoAction=true&sId=Chrome_Webstore_Nov12_737950
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Vesuvia for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/737950/?autoAction=true&sId=Chrome_Webstore_Nov12_737950)
 
@@ -29,9 +34,6 @@ title: http://www.freeridegames.com/chrome/games/737950/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1673687
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35818
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://yay3d.com/graffiti/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Graffiti β](http://yay3d.com/graffiti/)
 
@@ -29,9 +32,6 @@ title: http://yay3d.com/graffiti/
 *  JS Response Bytes: 277011
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 526
-
-### Performance issues
-
 
 ### Performance issues
 

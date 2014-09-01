@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/other/obama-chess
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Obama Chess - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/other/obama-chess)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/other/obama-chess
 *  JS Response Bytes: 2275451
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 107048
-
-### Performance issues
-
 
 ### Performance issues
 

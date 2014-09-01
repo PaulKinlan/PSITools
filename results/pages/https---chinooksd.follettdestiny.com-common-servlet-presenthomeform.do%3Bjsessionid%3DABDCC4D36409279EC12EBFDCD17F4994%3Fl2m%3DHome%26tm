@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://chinooksd.follettdestiny.com/common/servlet/presenthomeform.do;jsessionid=ABDCC4D36409279EC12EBFDCD17F4994?l2m=Home&tm=Home&l2m=Home
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Wymark School - Home](https://chinooksd.follettdestiny.com/common/servlet/presenthomeform.do;jsessionid=ABDCC4D36409279EC12EBFDCD17F4994?l2m=Home&tm=Home&l2m=Home)
 
@@ -29,9 +35,6 @@ title: https://chinooksd.follettdestiny.com/common/servlet/presenthomeform.do;js
 *  JS Response Bytes: 25558
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 776
-
-### Performance issues
-
 
 ### Performance issues
 

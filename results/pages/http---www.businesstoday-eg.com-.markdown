@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.businesstoday-eg.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Business Today – Business, Market and Financial News](http://www.businesstoday-eg.com/)
 
@@ -29,9 +32,6 @@ title: http://www.businesstoday-eg.com/
 *  JS Response Bytes: 321891
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

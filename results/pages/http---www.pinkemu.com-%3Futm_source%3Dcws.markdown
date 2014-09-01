@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.pinkemu.com/?utm_source=cws
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pink Emu Games - Play the Best Chrome Games](http://www.pinkemu.com/?utm_source=cws)
 
@@ -29,9 +34,6 @@ title: http://www.pinkemu.com/?utm_source=cws
 *  JS Response Bytes: 2130055
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 60885
-
-### Performance issues
-
 
 ### Performance issues
 

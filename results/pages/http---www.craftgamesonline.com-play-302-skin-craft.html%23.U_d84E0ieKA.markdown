@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.craftgamesonline.com/play/302/skin-craft.html#.U_d84E0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Skin craft - Craft Games Online](http://www.craftgamesonline.com/play/302/skin-craft.html#.U_d84E0ieKA)
 
@@ -29,9 +36,6 @@ title: http://www.craftgamesonline.com/play/302/skin-craft.html#.U_d84E0ieKA
 *  JS Response Bytes: 1462838
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8865
-
-### Performance issues
-
 
 ### Performance issues
 

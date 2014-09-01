@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pdfprotect.net/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PDFProtect! - Add password protection to PDF files online for free.](http://www.pdfprotect.net/)
 
@@ -29,9 +33,6 @@ title: http://www.pdfprotect.net/
 *  JS Response Bytes: 1286753
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99717
-
-### Performance issues
-
 
 ### Performance issues
 

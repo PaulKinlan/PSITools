@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.reference-gaming.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Référence Gaming - Le Marketplace du jeu vidéo](https://www.reference-gaming.com/)
 
@@ -29,9 +33,6 @@ title: https://www.reference-gaming.com/
 *  JS Response Bytes: 649349
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 349
-
-### Performance issues
-
 
 ### Performance issues
 

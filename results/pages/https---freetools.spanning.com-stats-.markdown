@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://freetools.spanning.com/stats/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stats For Google Drive](https://freetools.spanning.com/stats/)
 
@@ -29,9 +33,6 @@ title: https://freetools.spanning.com/stats/
 *  JS Response Bytes: 1384512
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

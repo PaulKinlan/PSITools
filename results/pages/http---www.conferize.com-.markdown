@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.conferize.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Conferize - Never miss a Conference](http://www.conferize.com/)
 
@@ -29,9 +31,6 @@ title: http://www.conferize.com/
 *  JS Response Bytes: 1114200
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1687
-
-### Performance issues
-
 
 ### Performance issues
 

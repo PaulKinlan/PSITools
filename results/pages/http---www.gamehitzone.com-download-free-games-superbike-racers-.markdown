@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamehitzone.com/download-free-games/superbike-racers/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Superbike Racers Free Game Downloads](http://www.gamehitzone.com/download-free-games/superbike-racers/)
 
@@ -29,9 +34,6 @@ title: http://www.gamehitzone.com/download-free-games/superbike-racers/
 *  JS Response Bytes: 1807970
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124366
-
-### Performance issues
-
 
 ### Performance issues
 

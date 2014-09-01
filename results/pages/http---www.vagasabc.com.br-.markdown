@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.vagasabc.com.br/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [VagasABC - Vagas de emprego para o ABC e região](http://www.vagasabc.com.br/)
 
@@ -29,9 +33,6 @@ title: http://www.vagasabc.com.br/
 *  JS Response Bytes: 844849
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

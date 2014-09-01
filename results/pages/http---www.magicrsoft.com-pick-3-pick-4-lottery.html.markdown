@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.magicrsoft.com/pick-3-pick-4-lottery.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lottery Software - PowerPlayer For Pick 3 Pick 4 2014](http://www.magicrsoft.com/pick-3-pick-4-lottery.html)
 
@@ -29,9 +32,6 @@ title: http://www.magicrsoft.com/pick-3-pick-4-lottery.html
 *  JS Response Bytes: 522949
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95884
-
-### Performance issues
-
 
 ### Performance issues
 

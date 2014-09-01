@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://spritesapp.com/login?ReturnUrl=%2Fedit%2F
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Create infographics and online presentations | Sprites](https://spritesapp.com/login?ReturnUrl=%2Fedit%2F)
 
@@ -29,9 +33,6 @@ title: https://spritesapp.com/login?ReturnUrl=%2Fedit%2F
 *  JS Response Bytes: 136392
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 73238
-
-### Performance issues
-
 
 ### Performance issues
 

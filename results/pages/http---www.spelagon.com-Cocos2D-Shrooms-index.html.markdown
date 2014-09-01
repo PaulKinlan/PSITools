@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.spelagon.com/Cocos2D/Shrooms/index.html
+EnableGzipCompression: true
 ---
 ## [Shrooms](http://www.spelagon.com/Cocos2D/Shrooms/index.html)
 
@@ -29,9 +30,6 @@ title: http://www.spelagon.com/Cocos2D/Shrooms/index.html
 *  JS Response Bytes: 647104
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

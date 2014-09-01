@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://the-sims-14.blogspot.com.tr/2014/04/counter-strike.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [the sims 3 online game store: counter strike](http://the-sims-14.blogspot.com.tr/2014/04/counter-strike.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://the-sims-14.blogspot.com.tr/2014/04/counter-strike.html?m=1
 *  JS Response Bytes: 720909
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95585
-
-### Performance issues
-
 
 ### Performance issues
 

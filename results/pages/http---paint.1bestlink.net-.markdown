@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://paint.1bestlink.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Paint Instant](http://paint.1bestlink.net/)
 
@@ -29,9 +33,6 @@ title: http://paint.1bestlink.net/
 *  JS Response Bytes: 781981
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

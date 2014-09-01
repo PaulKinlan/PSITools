@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://script.google.com/a/macros/aoiths.org/s/AKfycbwJn0HWRvUnMJRhjnGA8DWfQyoj3vv3_YN-ua9k_Goe2lWajhk/exec
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Google Drive – Page Not Found](https://script.google.com/a/macros/aoiths.org/s/AKfycbwJn0HWRvUnMJRhjnGA8DWfQyoj3vv3_YN-ua9k_Goe2lWajhk/exec)
 
@@ -29,9 +32,6 @@ title: https://script.google.com/a/macros/aoiths.org/s/AKfycbwJn0HWRvUnMJRhjnGA8
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17566
-
-### Performance issues
-
 
 ### Performance issues
 

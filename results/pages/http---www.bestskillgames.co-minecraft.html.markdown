@@ -33,8 +33,5 @@ title: http://www.bestskillgames.co/minecraft.html
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

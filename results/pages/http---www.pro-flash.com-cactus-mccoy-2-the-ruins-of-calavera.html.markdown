@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.pro-flash.com/cactus-mccoy-2-the-ruins-of-calavera.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pro-Flash.Com – Cactus McCoy 2: The Ruins of Calavera](http://www.pro-flash.com/cactus-mccoy-2-the-ruins-of-calavera.html)
 
@@ -29,9 +35,6 @@ title: http://www.pro-flash.com/cactus-mccoy-2-the-ruins-of-calavera.html
 *  JS Response Bytes: 416416
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54180
-
-### Performance issues
-
 
 ### Performance issues
 

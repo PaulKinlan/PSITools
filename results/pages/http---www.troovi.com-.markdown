@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.troovi.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Troovi :: Exchanging photos made easy](http://www.troovi.com/)
 
@@ -29,9 +33,6 @@ title: http://www.troovi.com/
 *  JS Response Bytes: 391538
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.imsupporting.com/login/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Login to your live chat dashboard. Chat to your visitors.](http://www.imsupporting.com/login/)
 
@@ -29,9 +33,6 @@ title: http://www.imsupporting.com/login/
 *  JS Response Bytes: 1303700
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 65512
-
-### Performance issues
-
 
 ### Performance issues
 

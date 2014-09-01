@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ge.t3fun.com/Event/20140820/Event.asp
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gold Coin Rush Event - Granado Espada Online](http://ge.t3fun.com/Event/20140820/Event.asp)
 
@@ -29,9 +32,6 @@ title: http://ge.t3fun.com/Event/20140820/Event.asp
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 65
-
-### Performance issues
-
 
 ### Performance issues
 

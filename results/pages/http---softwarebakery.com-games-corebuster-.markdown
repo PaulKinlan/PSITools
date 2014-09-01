@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://softwarebakery.com/games/corebuster/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Core Buster](http://softwarebakery.com/games/corebuster/)
 
@@ -29,9 +34,6 @@ title: http://softwarebakery.com/games/corebuster/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

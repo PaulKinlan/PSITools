@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.hot-reviews.info/3dpageflip/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Page Flip App, Convert PDF to 3D Flash Flipping Book!](http://www.hot-reviews.info/3dpageflip/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.hot-reviews.info/3dpageflip/index.html
 *  JS Response Bytes: 1068575
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110420
-
-### Performance issues
-
 
 ### Performance issues
 

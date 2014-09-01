@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://test.sites.jsoft.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [test](http://test.sites.jsoft.com/)
 
@@ -29,9 +32,6 @@ title: http://test.sites.jsoft.com/
 *  JS Response Bytes: 2166977
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3853
-
-### Performance issues
-
 
 ### Performance issues
 

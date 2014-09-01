@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamoid.net/category/solitaire-games/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Solitaire](http://www.gamoid.net/category/solitaire-games/)
 
@@ -29,9 +34,6 @@ title: http://www.gamoid.net/category/solitaire-games/
 *  JS Response Bytes: 2209992
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 150314
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.lottorace.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome to Lottorace - The only way to play Lotto Online](http://www.lottorace.net/)
 
@@ -29,9 +35,6 @@ title: http://www.lottorace.net/
 *  JS Response Bytes: 288402
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

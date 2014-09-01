@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.centrumweb.co.uk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Website designers in ayrshire Centrum Web design Kilmarnock Ayrshire Glasgow](http://www.centrumweb.co.uk/)
 
@@ -29,9 +31,6 @@ title: http://www.centrumweb.co.uk/
 *  JS Response Bytes: 232964
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1365
-
-### Performance issues
-
 
 ### Performance issues
 

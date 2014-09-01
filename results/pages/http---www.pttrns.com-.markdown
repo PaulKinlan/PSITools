@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pttrns.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Pttrns - Mobile User Interface Patterns](http://www.pttrns.com/)
 
@@ -29,9 +33,6 @@ title: http://www.pttrns.com/
 *  JS Response Bytes: 675634
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1452
-
-### Performance issues
-
 
 ### Performance issues
 

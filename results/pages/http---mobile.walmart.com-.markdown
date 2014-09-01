@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mobile.walmart.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Walmart](http://mobile.walmart.com/)
 
@@ -29,9 +33,6 @@ title: http://mobile.walmart.com/
 *  JS Response Bytes: 435209
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2140
-
-### Performance issues
-
 
 ### Performance issues
 

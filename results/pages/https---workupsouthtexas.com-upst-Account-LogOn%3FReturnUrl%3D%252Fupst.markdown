@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://workupsouthtexas.com/upst/Account/LogOn?ReturnUrl=%2Fupst
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Log In - Work UP South Texas](https://workupsouthtexas.com/upst/Account/LogOn?ReturnUrl=%2Fupst)
 
@@ -29,9 +31,6 @@ title: https://workupsouthtexas.com/upst/Account/LogOn?ReturnUrl=%2Fupst
 *  JS Response Bytes: 1765748
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33508
-
-### Performance issues
-
 
 ### Performance issues
 

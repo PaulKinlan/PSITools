@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://vua.la/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [vua.la](http://vua.la/)
 
@@ -29,9 +33,6 @@ title: http://vua.la/
 *  JS Response Bytes: 209530
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

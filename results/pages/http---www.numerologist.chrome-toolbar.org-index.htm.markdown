@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.numerologist.chrome-toolbar.org/index.htm
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Numerologist](http://www.numerologist.chrome-toolbar.org/index.htm)
 
@@ -29,9 +33,6 @@ title: http://www.numerologist.chrome-toolbar.org/index.htm
 *  JS Response Bytes: 1694158
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 134053
-
-### Performance issues
-
 
 ### Performance issues
 

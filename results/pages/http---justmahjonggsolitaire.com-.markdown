@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://justmahjonggsolitaire.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Just Mah Jongg Solitaire: Play Mah Jongg Solitaire For Free](http://justmahjonggsolitaire.com/)
 
@@ -29,9 +34,6 @@ title: http://justmahjonggsolitaire.com/
 *  JS Response Bytes: 769250
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 734
-
-### Performance issues
-
 
 ### Performance issues
 

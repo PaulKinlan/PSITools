@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.topgamesplayer.com/game/snake-deluxe.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Snake Deluxe Games online](http://www.topgamesplayer.com/game/snake-deluxe.html)
 
@@ -29,9 +35,6 @@ title: http://www.topgamesplayer.com/game/snake-deluxe.html
 *  JS Response Bytes: 1236329
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97441
-
-### Performance issues
-
 
 ### Performance issues
 

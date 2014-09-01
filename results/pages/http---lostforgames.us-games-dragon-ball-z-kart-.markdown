@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://lostforgames.us/games/dragon-ball-z-kart/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dragon Ball Z Kart | Lost For Games](http://lostforgames.us/games/dragon-ball-z-kart/)
 
@@ -29,9 +34,6 @@ title: http://lostforgames.us/games/dragon-ball-z-kart/
 *  JS Response Bytes: 519352
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42313
-
-### Performance issues
-
 
 ### Performance issues
 

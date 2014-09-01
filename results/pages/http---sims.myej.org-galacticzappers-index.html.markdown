@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://sims.myej.org/galacticzappers/index.html
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [Marty Raygun's Galactic Zappers](http://sims.myej.org/galacticzappers/index.html)
 
@@ -29,9 +32,6 @@ title: http://sims.myej.org/galacticzappers/index.html
 *  JS Response Bytes: 8281
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

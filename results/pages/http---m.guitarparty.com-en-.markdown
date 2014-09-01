@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://m.guitarparty.com/en/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Guitarparty.com Mobile](http://m.guitarparty.com/en/)
 
@@ -29,9 +34,6 @@ title: http://m.guitarparty.com/en/
 *  JS Response Bytes: 869578
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1737
-
-### Performance issues
-
 
 ### Performance issues
 

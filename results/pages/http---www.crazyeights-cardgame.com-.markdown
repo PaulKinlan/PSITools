@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.crazyeights-cardgame.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crazy Eights Card Game](http://www.crazyeights-cardgame.com/)
 
@@ -29,9 +33,6 @@ title: http://www.crazyeights-cardgame.com/
 *  JS Response Bytes: 841504
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51450
-
-### Performance issues
-
 
 ### Performance issues
 

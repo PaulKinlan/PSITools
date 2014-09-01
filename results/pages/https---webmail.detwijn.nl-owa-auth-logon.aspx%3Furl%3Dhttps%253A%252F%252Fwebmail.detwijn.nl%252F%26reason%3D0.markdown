@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://webmail.detwijn.nl/owa/auth/logon.aspx?url=https%3A%2F%2Fwebmail.detwijn.nl%2F&reason=0
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [Outlook Web App](https://webmail.detwijn.nl/owa/auth/logon.aspx?url=https%3A%2F%2Fwebmail.detwijn.nl%2F&reason=0)
 
@@ -29,9 +34,6 @@ title: https://webmail.detwijn.nl/owa/auth/logon.aspx?url=https%3A%2F%2Fwebmail.
 *  JS Response Bytes: 19224
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 510
-
-### Performance issues
-
 
 ### Performance issues
 

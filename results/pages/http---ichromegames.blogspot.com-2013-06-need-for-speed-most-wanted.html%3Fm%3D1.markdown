@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ichromegames.blogspot.com/2013/06/need-for-speed-most-wanted.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [ichromegames: Need for Speed Most Wanted](http://ichromegames.blogspot.com/2013/06/need-for-speed-most-wanted.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://ichromegames.blogspot.com/2013/06/need-for-speed-most-wanted.html?
 *  JS Response Bytes: 1068581
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98007
-
-### Performance issues
-
 
 ### Performance issues
 

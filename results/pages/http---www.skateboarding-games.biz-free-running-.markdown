@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/free-running/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Running game](http://www.skateboarding-games.biz/free-running/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/free-running/
 *  JS Response Bytes: 2294573
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122285
-
-### Performance issues
-
 
 ### Performance issues
 

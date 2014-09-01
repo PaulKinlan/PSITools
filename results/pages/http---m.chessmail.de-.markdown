@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.chessmail.de/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Schach online spielen ~ chessmail.de](http://m.chessmail.de/)
 
@@ -29,9 +31,6 @@ title: http://m.chessmail.de/
 *  JS Response Bytes: 575355
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 216
-
-### Performance issues
-
 
 ### Performance issues
 

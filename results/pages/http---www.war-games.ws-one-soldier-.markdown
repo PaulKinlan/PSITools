@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.war-games.ws/one-soldier/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [One Soldier](http://www.war-games.ws/one-soldier/)
 
@@ -29,9 +36,6 @@ title: http://www.war-games.ws/one-soldier/
 *  JS Response Bytes: 2352820
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102432
-
-### Performance issues
-
 
 ### Performance issues
 

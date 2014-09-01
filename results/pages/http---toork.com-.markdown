@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://toork.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Toork - Social Network Engine](http://toork.com/)
 
@@ -29,9 +33,6 @@ title: http://toork.com/
 *  JS Response Bytes: 195937
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 251145
-
-### Performance issues
-
 
 ### Performance issues
 

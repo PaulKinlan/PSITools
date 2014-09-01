@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://around.io//
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Around.io social media tool for online sellers](http://around.io//)
 
@@ -29,9 +31,6 @@ title: http://around.io//
 *  JS Response Bytes: 519069
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 177031
-
-### Performance issues
-
 
 ### Performance issues
 

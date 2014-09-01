@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://minigolf.coolonlinegames.org/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mini Golf - Cool Online Games](http://minigolf.coolonlinegames.org/)
 
@@ -29,9 +36,6 @@ title: http://minigolf.coolonlinegames.org/
 *  JS Response Bytes: 923284
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19012
-
-### Performance issues
-
 
 ### Performance issues
 

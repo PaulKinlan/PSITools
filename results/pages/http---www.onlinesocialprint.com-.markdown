@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.onlinesocialprint.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Instagram Magnets - InstaPrint](http://www.onlinesocialprint.com/)
 
@@ -29,9 +32,6 @@ title: http://www.onlinesocialprint.com/
 *  JS Response Bytes: 1735280
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112961
-
-### Performance issues
-
 
 ### Performance issues
 

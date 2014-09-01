@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.easyscore.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Easyscore](http://www.easyscore.com/)
 
@@ -29,9 +33,6 @@ title: http://www.easyscore.com/
 *  JS Response Bytes: 475689
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

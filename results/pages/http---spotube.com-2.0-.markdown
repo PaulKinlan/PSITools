@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://spotube.com/2.0/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SpoTube - www.spotube.com](http://spotube.com/2.0/)
 
@@ -29,9 +34,6 @@ title: http://spotube.com/2.0/
 *  JS Response Bytes: 3414031
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104978
-
-### Performance issues
-
 
 ### Performance issues
 

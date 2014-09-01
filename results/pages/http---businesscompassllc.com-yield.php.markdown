@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://businesscompassllc.com/yield.php
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [US Yield Curve for 22-AUG-14](http://businesscompassllc.com/yield.php)
 
@@ -29,9 +34,6 @@ title: http://businesscompassllc.com/yield.php
 *  JS Response Bytes: 2883171
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10429
-
-### Performance issues
-
 
 ### Performance issues
 

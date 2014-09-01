@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.fedbidspeed.com/login
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Login to Bidspeed | Bidspeed](http://www.fedbidspeed.com/login)
 
@@ -29,9 +31,6 @@ title: http://www.fedbidspeed.com/login
 *  JS Response Bytes: 179929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104568
-
-### Performance issues
-
 
 ### Performance issues
 

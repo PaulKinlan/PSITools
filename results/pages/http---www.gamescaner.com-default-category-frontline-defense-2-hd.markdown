@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamescaner.com/default-category/frontline-defense-2-hd
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Frontline Defense 2 HD - Gamescaner.com](http://www.gamescaner.com/default-category/frontline-defense-2-hd)
 
@@ -29,9 +34,6 @@ title: http://www.gamescaner.com/default-category/frontline-defense-2-hd
 *  JS Response Bytes: 677227
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16673
-
-### Performance issues
-
 
 ### Performance issues
 

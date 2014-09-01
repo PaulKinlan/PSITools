@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://tool.iplaymid.com/ckd/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [查快递 - 快递查询助手](http://tool.iplaymid.com/ckd/)
 
@@ -29,9 +31,6 @@ title: http://tool.iplaymid.com/ckd/
 *  JS Response Bytes: 518571
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

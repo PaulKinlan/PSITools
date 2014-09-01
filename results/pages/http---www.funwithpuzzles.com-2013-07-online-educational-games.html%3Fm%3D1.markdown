@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.funwithpuzzles.com/2013/07/online-educational-games.html?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
 ---
 ## [Fun With Puzzles: Online Educational Games](http://www.funwithpuzzles.com/2013/07/online-educational-games.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://www.funwithpuzzles.com/2013/07/online-educational-games.html?m=1
 *  JS Response Bytes: 1103571
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98006
-
-### Performance issues
-
 
 ### Performance issues
 

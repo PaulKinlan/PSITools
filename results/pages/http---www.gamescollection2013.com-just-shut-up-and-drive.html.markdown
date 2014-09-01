@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamescollection2013.com/just-shut-up-and-drive.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Just Shut Up And Drive | Games Colleciton 2013](http://www.gamescollection2013.com/just-shut-up-and-drive.html)
 
@@ -29,9 +35,6 @@ title: http://www.gamescollection2013.com/just-shut-up-and-drive.html
 *  JS Response Bytes: 1015146
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1152
-
-### Performance issues
-
 
 ### Performance issues
 

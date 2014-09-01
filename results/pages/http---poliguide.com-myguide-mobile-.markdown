@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://poliguide.com/myguide/mobile/
+AvoidLandingPageRedirects: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [PoliGuide - Our Travel Experience is Now Yours | PoliGuide.com | Byblos - Paris - London - Cyprus - Kuwait - Turkey - Dubai City Guide](http://poliguide.com/myguide/mobile/)
 
@@ -29,9 +32,6 @@ title: http://poliguide.com/myguide/mobile/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 407
-
-### Performance issues
-
 
 ### Performance issues
 

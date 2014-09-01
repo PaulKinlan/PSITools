@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://spacehopper.connectphc.co.uk/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [You are not authorized to view this page](https://spacehopper.connectphc.co.uk/)
 
@@ -29,9 +31,6 @@ title: https://spacehopper.connectphc.co.uk/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1904
-
-### Performance issues
-
 
 ### Performance issues
 

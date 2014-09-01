@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.postbeta.com/app/pietify.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PostBeta - Pietify App for Android - Sinterklaas en Zwarte Piet](http://www.postbeta.com/app/pietify.php)
 
@@ -29,9 +33,6 @@ title: http://www.postbeta.com/app/pietify.php
 *  JS Response Bytes: 512105
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1426
-
-### Performance issues
-
 
 ### Performance issues
 

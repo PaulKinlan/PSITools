@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://doyoukiss.domainseasy.org/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DoYouKiss](http://doyoukiss.domainseasy.org/)
 
@@ -29,9 +32,6 @@ title: http://doyoukiss.domainseasy.org/
 *  JS Response Bytes: 430463
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1549
-
-### Performance issues
-
 
 ### Performance issues
 

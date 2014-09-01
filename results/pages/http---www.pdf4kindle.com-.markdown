@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.pdf4kindle.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pdf to Kindle format (mobi and azw) - Free eBook Converter](http://www.pdf4kindle.com/)
 
@@ -29,9 +34,6 @@ title: http://www.pdf4kindle.com/
 *  JS Response Bytes: 2024912
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 145484
-
-### Performance issues
-
 
 ### Performance issues
 

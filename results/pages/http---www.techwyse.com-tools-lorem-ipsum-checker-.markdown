@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.techwyse.com/tools/lorem-ipsum-checker/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lorem Ipsum Checker | Scan your site for dummy text](http://www.techwyse.com/tools/lorem-ipsum-checker/)
 
@@ -29,9 +35,6 @@ title: http://www.techwyse.com/tools/lorem-ipsum-checker/
 *  JS Response Bytes: 2040753
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 240026
-
-### Performance issues
-
 
 ### Performance issues
 

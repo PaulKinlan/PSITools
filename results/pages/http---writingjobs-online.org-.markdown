@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://writingjobs-online.org/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Writingjobs-online |](http://writingjobs-online.org/)
 
@@ -29,9 +35,6 @@ title: http://writingjobs-online.org/
 *  JS Response Bytes: 693667
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15240
-
-### Performance issues
-
 
 ### Performance issues
 

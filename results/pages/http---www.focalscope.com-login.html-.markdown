@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.focalscope.com/login.html/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Log in | Helpdesk Ticketing System | Customer Support Ticket System](http://www.focalscope.com/login.html/)
 
@@ -29,9 +32,6 @@ title: http://www.focalscope.com/login.html/
 *  JS Response Bytes: 295444
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

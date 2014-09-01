@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.miniportale.it/app_it/inglese/index.htm
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DIZIONARIO DI INGLESE](http://www.miniportale.it/app_it/inglese/index.htm)
 
@@ -29,9 +32,6 @@ title: http://www.miniportale.it/app_it/inglese/index.htm
 *  JS Response Bytes: 712058
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34612
-
-### Performance issues
-
 
 ### Performance issues
 

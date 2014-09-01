@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://freechromegame.com/earn-to-die-part2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Earn to die part2 - Driving - EARN TO DIE 2012, PART 2](http://freechromegame.com/earn-to-die-part2/)
 
@@ -29,9 +34,6 @@ title: http://freechromegame.com/earn-to-die-part2/
 *  JS Response Bytes: 1902623
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 167104
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://colorhits.com/?chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Album Art Search by Color - Colorhits](http://colorhits.com/?chrome)
 
@@ -29,9 +33,6 @@ title: http://colorhits.com/?chrome
 *  JS Response Bytes: 743933
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41632
-
-### Performance issues
-
 
 ### Performance issues
 

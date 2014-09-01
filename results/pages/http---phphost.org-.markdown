@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://phphost.org/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PHP Web Hosting - $1.99 Web Hosting Plans](http://phphost.org/)
 
@@ -29,9 +33,6 @@ title: http://phphost.org/
 *  JS Response Bytes: 41101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 454
-
-### Performance issues
-
 
 ### Performance issues
 

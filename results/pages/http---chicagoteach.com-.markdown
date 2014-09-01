@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chicagoteach.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IEP Helper](http://chicagoteach.com/)
 
@@ -29,9 +33,6 @@ title: http://chicagoteach.com/
 *  JS Response Bytes: 1249341
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1228
-
-### Performance issues
-
 
 ### Performance issues
 

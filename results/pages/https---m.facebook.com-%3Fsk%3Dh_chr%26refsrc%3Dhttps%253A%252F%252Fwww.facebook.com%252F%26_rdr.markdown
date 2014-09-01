@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://m.facebook.com/?sk=h_chr&refsrc=https%3A%2F%2Fwww.facebook.com%2F&_rdr
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Welcome to Facebook](https://m.facebook.com/?sk=h_chr&refsrc=https%3A%2F%2Fwww.facebook.com%2F&_rdr)
 
@@ -29,9 +31,6 @@ title: https://m.facebook.com/?sk=h_chr&refsrc=https%3A%2F%2Fwww.facebook.com%2F
 *  JS Response Bytes: 329390
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 759
-
-### Performance issues
-
 
 ### Performance issues
 

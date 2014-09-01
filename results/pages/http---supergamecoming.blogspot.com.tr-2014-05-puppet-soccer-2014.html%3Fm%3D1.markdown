@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://supergamecoming.blogspot.com.tr/2014/05/puppet-soccer-2014.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Super Game Coming: Puppet Soccer 2014](http://supergamecoming.blogspot.com.tr/2014/05/puppet-soccer-2014.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://supergamecoming.blogspot.com.tr/2014/05/puppet-soccer-2014.html?m=
 *  JS Response Bytes: 1113485
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109683
-
-### Performance issues
-
 
 ### Performance issues
 

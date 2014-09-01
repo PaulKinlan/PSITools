@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://newchromev1.blogspot.com/2013/06/temple-run-oz.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [Newchromev1: Temple Run: Oz](http://newchromev1.blogspot.com/2013/06/temple-run-oz.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://newchromev1.blogspot.com/2013/06/temple-run-oz.html?m=1
 *  JS Response Bytes: 1067700
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97981
-
-### Performance issues
-
 
 ### Performance issues
 

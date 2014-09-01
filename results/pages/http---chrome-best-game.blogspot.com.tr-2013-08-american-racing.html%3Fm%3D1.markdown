@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chrome-best-game.blogspot.com.tr/2013/08/american-racing.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [chrome store best game: American Racing](http://chrome-best-game.blogspot.com.tr/2013/08/american-racing.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://chrome-best-game.blogspot.com.tr/2013/08/american-racing.html?m=1
 *  JS Response Bytes: 720726
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97201
-
-### Performance issues
-
 
 ### Performance issues
 

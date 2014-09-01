@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesdragons.net/popular-games/ski-safari
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | www.gamesdragons.net | Play Most Popular Games Free](http://www.gamesdragons.net/popular-games/ski-safari)
 
@@ -29,9 +34,6 @@ title: http://www.gamesdragons.net/popular-games/ski-safari
 *  JS Response Bytes: 806355
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3000
-
-### Performance issues
-
 
 ### Performance issues
 

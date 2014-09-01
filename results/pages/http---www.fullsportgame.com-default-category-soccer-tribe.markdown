@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fullsportgame.com/default-category/soccer-tribe
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Soccer Tribe - Full Sport Game](http://www.fullsportgame.com/default-category/soccer-tribe)
 
@@ -29,9 +34,6 @@ title: http://www.fullsportgame.com/default-category/soccer-tribe
 *  JS Response Bytes: 2170865
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115081
-
-### Performance issues
-
 
 ### Performance issues
 

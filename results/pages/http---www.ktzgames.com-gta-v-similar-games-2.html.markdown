@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ktzgames.com/gta-v-similar-games-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gta V Similar Games « Best HD Games Play Now](http://www.ktzgames.com/gta-v-similar-games-2.html)
 
@@ -29,9 +33,6 @@ title: http://www.ktzgames.com/gta-v-similar-games-2.html
 *  JS Response Bytes: 524099
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

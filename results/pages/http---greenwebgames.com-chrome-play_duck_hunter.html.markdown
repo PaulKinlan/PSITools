@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://greenwebgames.com/chrome/play_duck_hunter.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Duck Hunter - This online game is so addictive -](http://greenwebgames.com/chrome/play_duck_hunter.html)
 
@@ -29,9 +34,6 @@ title: http://greenwebgames.com/chrome/play_duck_hunter.html
 *  JS Response Bytes: 733309
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11384
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.todaysonlinegames.com/where-is-my-water.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Where is My Water | Todays Online Games](http://www.todaysonlinegames.com/where-is-my-water.html)
 
@@ -29,9 +33,6 @@ title: http://www.todaysonlinegames.com/where-is-my-water.html
 *  JS Response Bytes: 1864843
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21680
-
-### Performance issues
-
 
 ### Performance issues
 

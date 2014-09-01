@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.taketwoapps.com/apps/other/details/app.php
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Who Am I? My IP and System Specs](http://www.taketwoapps.com/apps/other/details/app.php)
 
@@ -29,9 +32,6 @@ title: http://www.taketwoapps.com/apps/other/details/app.php
 *  JS Response Bytes: 429092
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 974
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sites.google.com/site/appearclub/interest/monkey-go-happy-marathon2
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [找不到頁面 - lineclub](https://sites.google.com/site/appearclub/interest/monkey-go-happy-marathon2)
 
@@ -29,9 +32,6 @@ title: https://sites.google.com/site/appearclub/interest/monkey-go-happy-maratho
 *  JS Response Bytes: 657869
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28112
-
-### Performance issues
-
 
 ### Performance issues
 

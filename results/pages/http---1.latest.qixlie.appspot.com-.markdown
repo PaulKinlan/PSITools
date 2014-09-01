@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://1.latest.qixlie.appspot.com/
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://1.latest.qixlie.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://1.latest.qixlie.appspot.com/
 *  JS Response Bytes: 2242190
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30981
-
-### Performance issues
-
 
 ### Performance issues
 

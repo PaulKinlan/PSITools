@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.signalstrading.net/content/autotrading-forex-signals-daily-forex-signal/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Autotrading forex signals | daily forex signal | Forex Signals](http://www.signalstrading.net/content/autotrading-forex-signals-daily-forex-signal/)
 
@@ -29,9 +33,6 @@ title: http://www.signalstrading.net/content/autotrading-forex-signals-daily-for
 *  JS Response Bytes: 3569171
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 150645
-
-### Performance issues
-
 
 ### Performance issues
 

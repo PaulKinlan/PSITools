@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://streamza.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Streamza - watch torrents on your mobile](https://streamza.com/)
 
@@ -29,9 +32,6 @@ title: https://streamza.com/
 *  JS Response Bytes: 196035
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

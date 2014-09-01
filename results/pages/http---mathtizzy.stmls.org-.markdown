@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://mathtizzy.stmls.org/
+MinimizeRenderBlockingResources: true
 ---
 ## [Math Tizzy Math Fact Learning System](http://mathtizzy.stmls.org/)
 
@@ -29,9 +30,6 @@ title: http://mathtizzy.stmls.org/
 *  JS Response Bytes: 118840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

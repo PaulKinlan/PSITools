@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://2014trendgames.blogspot.com/2014/04/minion-rush-play-game.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [2014 Trend games: Minion Rush play game](http://2014trendgames.blogspot.com/2014/04/minion-rush-play-game.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://2014trendgames.blogspot.com/2014/04/minion-rush-play-game.html?m=1
 *  JS Response Bytes: 762215
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95595
-
-### Performance issues
-
 
 ### Performance issues
 

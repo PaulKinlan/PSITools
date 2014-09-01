@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.bushokai.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Home - BUSHO KAI USA Martial Arts & Fitness](http://www.bushokai.com/)
 
@@ -29,9 +32,6 @@ title: http://www.bushokai.com/
 *  JS Response Bytes: 778799
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

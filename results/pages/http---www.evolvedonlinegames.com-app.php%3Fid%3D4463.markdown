@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.evolvedonlinegames.com/app.php?id=4463
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fatman Go!](http://www.evolvedonlinegames.com/app.php?id=4463)
 
@@ -29,9 +34,6 @@ title: http://www.evolvedonlinegames.com/app.php?id=4463
 *  JS Response Bytes: 1060859
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98059
-
-### Performance issues
-
 
 ### Performance issues
 

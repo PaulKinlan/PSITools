@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.saidaonline.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [صيدا أون لاين :: :: Online Lebanese News Source ::](http://www.saidaonline.com/)
 
@@ -29,9 +34,6 @@ title: http://www.saidaonline.com/
 *  JS Response Bytes: 1473979
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1880
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ausajocs.com/memoryquest/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Memory Quest](http://www.ausajocs.com/memoryquest/)
 
@@ -29,9 +33,6 @@ title: http://www.ausajocs.com/memoryquest/
 *  JS Response Bytes: 586980
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 820
-
-### Performance issues
-
 
 ### Performance issues
 

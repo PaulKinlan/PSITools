@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://m.creativesparkstudios.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Creative Spark Studios - Mobile Website](http://m.creativesparkstudios.com/)
 
@@ -18,20 +19,17 @@ title: http://m.creativesparkstudios.com/
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 2
-*  Total Request Bytes: 2265
+*  Total Request Bytes: 2266
 
 ### Response data
 
-*  HTML Response Bytes: 13053
-*  Text Response Bytes: 29671
-*  CSS Response Bytes: 38080
-*  Image Response Bytes: 313389
-*  JS Response Bytes: 160228
+*  HTML Response Bytes: 13041
+*  Text Response Bytes: 29659
+*  CSS Response Bytes: 38056
+*  Image Response Bytes: 313281
+*  JS Response Bytes: 160180
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43880
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://br.carbontechsoftware.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Braking Required](http://br.carbontechsoftware.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://br.carbontechsoftware.com/?m=1
 *  JS Response Bytes: 637559
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15723
-
-### Performance issues
-
 
 ### Performance issues
 

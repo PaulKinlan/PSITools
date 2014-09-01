@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2pg.com/game/the-impossible-quiz-2/play/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Impossible Quiz 2 | 2 Player Games](http://www.2pg.com/game/the-impossible-quiz-2/play/)
 
@@ -29,9 +34,6 @@ title: http://www.2pg.com/game/the-impossible-quiz-2/play/
 *  JS Response Bytes: 1224371
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23637
-
-### Performance issues
-
 
 ### Performance issues
 

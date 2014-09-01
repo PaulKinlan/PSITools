@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gameboysite.com/chrome/917.html#.U_eAj00ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Poppit Stress Buster - free flash game,flash game,small game,online flash game](http://www.gameboysite.com/chrome/917.html#.U_eAj00ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.gameboysite.com/chrome/917.html#.U_eAj00ieKA
 *  JS Response Bytes: 918486
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8552
-
-### Performance issues
-
 
 ### Performance issues
 

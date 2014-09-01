@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://cya.domanskination.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [](http://cya.domanskination.com/)
 
@@ -29,9 +32,6 @@ title: http://cya.domanskination.com/
 *  JS Response Bytes: 272511
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56077
-
-### Performance issues
-
 
 ### Performance issues
 

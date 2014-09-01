@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://sport223.com/dawn-of-the-dead-black-out.htm
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dawn of the Dead Black Out ~ This online game is so addictive~~](http://sport223.com/dawn-of-the-dead-black-out.htm)
 
@@ -29,9 +36,6 @@ title: http://sport223.com/dawn-of-the-dead-black-out.htm
 *  JS Response Bytes: 1007126
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22651
-
-### Performance issues
-
 
 ### Performance issues
 

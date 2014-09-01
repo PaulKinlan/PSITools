@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.douchegames.com/preload/strategy/cursed-treasure-2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Cursed Treasure 2 - Play Game Douchbag!!!](http://www.douchegames.com/preload/strategy/cursed-treasure-2)
 
@@ -29,9 +34,6 @@ title: http://www.douchegames.com/preload/strategy/cursed-treasure-2
 *  JS Response Bytes: 182799
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1277
-
-### Performance issues
-
 
 ### Performance issues
 

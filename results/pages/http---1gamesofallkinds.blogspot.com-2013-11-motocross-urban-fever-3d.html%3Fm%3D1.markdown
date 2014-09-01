@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://1gamesofallkinds.blogspot.com/2013/11/motocross-urban-fever-3d.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Games Of All Kinds: Motocross Urban Fever 3D](http://1gamesofallkinds.blogspot.com/2013/11/motocross-urban-fever-3d.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://1gamesofallkinds.blogspot.com/2013/11/motocross-urban-fever-3d.htm
 *  JS Response Bytes: 2228079
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148742
-
-### Performance issues
-
 
 ### Performance issues
 

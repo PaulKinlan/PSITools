@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://placeit.net/?utm_source=chromeApp
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Placeit: Free Screenshot App Marketing Tool & Templates](https://placeit.net/?utm_source=chromeApp)
 
@@ -29,9 +33,6 @@ title: https://placeit.net/?utm_source=chromeApp
 *  JS Response Bytes: 3513689
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 656
-
-### Performance issues
-
 
 ### Performance issues
 

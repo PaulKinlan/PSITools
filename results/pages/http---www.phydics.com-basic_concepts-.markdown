@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.phydics.com/basic_concepts/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Phydics (Basic Concepts)](http://www.phydics.com/basic_concepts/)
 
@@ -29,9 +32,6 @@ title: http://www.phydics.com/basic_concepts/
 *  JS Response Bytes: 370536
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

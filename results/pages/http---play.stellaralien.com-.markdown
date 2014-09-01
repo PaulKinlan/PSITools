@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://play.stellaralien.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stellar Alien](http://play.stellaralien.com/)
 
@@ -29,9 +33,6 @@ title: http://play.stellaralien.com/
 *  JS Response Bytes: 939392
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17757
-
-### Performance issues
-
 
 ### Performance issues
 

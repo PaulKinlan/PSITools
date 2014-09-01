@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.iwebslog.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Iwebslog Web Services | Web Tools, Domains, Hosting, Security, Emails, Google Apps and More Services for Your Business - Home](http://www.iwebslog.com/)
 
@@ -29,9 +32,6 @@ title: http://www.iwebslog.com/
 *  JS Response Bytes: 312881
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43670
-
-### Performance issues
-
 
 ### Performance issues
 

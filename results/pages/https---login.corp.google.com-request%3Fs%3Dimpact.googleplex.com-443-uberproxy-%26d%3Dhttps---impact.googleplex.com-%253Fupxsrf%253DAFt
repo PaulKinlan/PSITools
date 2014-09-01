@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://login.corp.google.com/request?s=impact.googleplex.com:443/uberproxy/&d=https://impact.googleplex.com/%3Fupxsrf%3DAFtq1EDSw-hcckjou6dG:1408731669316&maxAge=1200&authLevel=2000000&keyIds=LiJ
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [impact.googleplex.com - MOMA Single Sign On](https://login.corp.google.com/request?s=impact.googleplex.com:443/uberproxy/&d=https://impact.googleplex.com/%3Fupxsrf%3DAFtq1EDSw-hcckjou6dG:1408731669316&maxAge=1200&authLevel=2000000&keyIds=LiJ)
 
@@ -29,9 +33,6 @@ title: https://login.corp.google.com/request?s=impact.googleplex.com:443/uberpro
 *  JS Response Bytes: 68391
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1356
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.negane.com/super_mario_all_stars_emu/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.negane.com/super_mario_all_stars_emu/)
 
@@ -29,9 +35,6 @@ title: http://www.negane.com/super_mario_all_stars_emu/
 *  JS Response Bytes: 450628
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49681
-
-### Performance issues
-
 
 ### Performance issues
 

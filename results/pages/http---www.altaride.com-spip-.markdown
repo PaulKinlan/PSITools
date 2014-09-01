@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.altaride.com/spip/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [la guilde d'Altaride - Collectif ouvert d'écriture rôlistique](http://www.altaride.com/spip/)
 
@@ -29,9 +33,6 @@ title: http://www.altaride.com/spip/
 *  JS Response Bytes: 396047
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 540
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://5nake.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [5nake.com - Play Classic Snake in Your Browser with HTML5!](http://5nake.com/)
 
@@ -29,9 +32,6 @@ title: http://5nake.com/
 *  JS Response Bytes: 617812
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1368
-
-### Performance issues
-
 
 ### Performance issues
 

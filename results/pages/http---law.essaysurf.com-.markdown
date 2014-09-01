@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://law.essaysurf.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Law Essay Surf | Search more than 50,000 free example law essays](http://law.essaysurf.com/)
 
@@ -29,9 +31,6 @@ title: http://law.essaysurf.com/
 *  JS Response Bytes: 1206823
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15389
-
-### Performance issues
-
 
 ### Performance issues
 

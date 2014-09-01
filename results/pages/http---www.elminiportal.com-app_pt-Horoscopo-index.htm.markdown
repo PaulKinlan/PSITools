@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.elminiportal.com/app_pt/Horoscopo/index.htm
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Horóscopo Diário](http://www.elminiportal.com/app_pt/Horoscopo/index.htm)
 
@@ -29,9 +32,6 @@ title: http://www.elminiportal.com/app_pt/Horoscopo/index.htm
 *  JS Response Bytes: 547540
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.timetobuka.com/
+UseLegibleFontSizes: true
 ---
 ## [](http://www.timetobuka.com/)
 
@@ -29,9 +30,6 @@ title: http://www.timetobuka.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

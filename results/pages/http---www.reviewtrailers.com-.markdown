@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.reviewtrailers.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Review Trailers | Movie trailers on the go](http://www.reviewtrailers.com/)
 
@@ -29,9 +33,6 @@ title: http://www.reviewtrailers.com/
 *  JS Response Bytes: 1346948
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 77446
-
-### Performance issues
-
 
 ### Performance issues
 

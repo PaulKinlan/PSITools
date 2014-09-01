@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ww2.newnicegames.com/chrome-category/prison-bus-driver
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [newnicegames.com](http://ww2.newnicegames.com/chrome-category/prison-bus-driver)
 
@@ -29,9 +31,6 @@ title: http://ww2.newnicegames.com/chrome-category/prison-bus-driver
 *  JS Response Bytes: 229840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21059
-
-### Performance issues
-
 
 ### Performance issues
 

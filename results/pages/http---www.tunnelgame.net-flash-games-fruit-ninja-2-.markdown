@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.tunnelgame.net/flash-games/fruit-ninja-2/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fruit Ninja 2 « Flash Games, Online Games](http://www.tunnelgame.net/flash-games/fruit-ninja-2/)
 
@@ -29,9 +37,6 @@ title: http://www.tunnelgame.net/flash-games/fruit-ninja-2/
 *  JS Response Bytes: 982829
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15444
-
-### Performance issues
-
 
 ### Performance issues
 

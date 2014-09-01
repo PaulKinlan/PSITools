@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://app.logmycalls.com/users/login
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login](https://app.logmycalls.com/users/login)
 
@@ -29,9 +32,6 @@ title: https://app.logmycalls.com/users/login
 *  JS Response Bytes: 807294
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 431
-
-### Performance issues
-
 
 ### Performance issues
 

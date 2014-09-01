@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.weddingsavenue.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Weddings Avenue | Wedding Decorations | Wedding Accessories](http://www.weddingsavenue.com/)
 
@@ -29,9 +31,6 @@ title: http://www.weddingsavenue.com/
 *  JS Response Bytes: 1365136
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1037
-
-### Performance issues
-
 
 ### Performance issues
 

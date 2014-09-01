@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.onlineflashgames.us/play/283/where-is-my-water--duck.html#.U_uZgk0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Where Is My Water Duck - Online Flash Games](http://www.onlineflashgames.us/play/283/where-is-my-water--duck.html#.U_uZgk0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.onlineflashgames.us/play/283/where-is-my-water--duck.html#.U_u
 *  JS Response Bytes: 1480164
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31287
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://pavelnguyen.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Блог Нгуен Павла | О стартапах и саморазвитии](http://pavelnguyen.com/)
 
@@ -29,9 +33,6 @@ title: http://pavelnguyen.com/
 *  JS Response Bytes: 549253
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1415
-
-### Performance issues
-
 
 ### Performance issues
 

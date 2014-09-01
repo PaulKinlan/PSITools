@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.kazi.no/slots/soccer-safari/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [soccer safari @ Kazi.noKazi.no](http://www.kazi.no/slots/soccer-safari/)
 
@@ -29,9 +35,6 @@ title: http://www.kazi.no/slots/soccer-safari/
 *  JS Response Bytes: 1164873
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141322
-
-### Performance issues
-
 
 ### Performance issues
 

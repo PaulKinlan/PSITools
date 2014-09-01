@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://crisistimes.com/budget_planner.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Budget Planner](http://crisistimes.com/budget_planner.php)
 
@@ -29,9 +34,6 @@ title: http://crisistimes.com/budget_planner.php
 *  JS Response Bytes: 487123
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

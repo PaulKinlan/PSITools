@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chrome.nemexia.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+UseLegibleFontSizes: true
 ---
 ## [Nemexia - Online Space Strategy](http://chrome.nemexia.com/)
 
@@ -29,9 +32,6 @@ title: http://chrome.nemexia.com/
 *  JS Response Bytes: 117514
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46460
-
-### Performance issues
-
 
 ### Performance issues
 

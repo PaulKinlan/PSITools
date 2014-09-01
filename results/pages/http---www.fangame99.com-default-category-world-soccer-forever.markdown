@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.fangame99.com/default-category/world-soccer-forever
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [World Soccer Forever - Fangame99](http://www.fangame99.com/default-category/world-soccer-forever)
 
@@ -29,9 +33,6 @@ title: http://www.fangame99.com/default-category/world-soccer-forever
 *  JS Response Bytes: 1800861
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54196
-
-### Performance issues
-
 
 ### Performance issues
 

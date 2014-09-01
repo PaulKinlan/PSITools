@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.crossway.org/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Welcome | Crossway](http://www.crossway.org/)
 
@@ -29,9 +31,6 @@ title: http://www.crossway.org/
 *  JS Response Bytes: 638326
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8787
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.dumadu.com/games/stupid-birds-3d
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Stupid Birds 3D-Play online |Download Mobile Games at Dumadu Games](http://www.dumadu.com/games/stupid-birds-3d)
 
@@ -29,9 +32,6 @@ title: http://www.dumadu.com/games/stupid-birds-3d
 *  JS Response Bytes: 1129251
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31016
-
-### Performance issues
-
 
 ### Performance issues
 

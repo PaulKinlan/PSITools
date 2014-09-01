@@ -33,8 +33,5 @@ title: http://hdminigames.com/game/dragon_city-1058
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

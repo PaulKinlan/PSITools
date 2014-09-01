@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.apps123.info/ultraedit/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [UltraEdit Tour | Text Editor | Hex Editor | UltraEdit<](http://www.apps123.info/ultraedit/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.apps123.info/ultraedit/index.html
 *  JS Response Bytes: 1091515
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112088
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/actiongames/fruit-ninja/#.U_uebU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fruit Ninja « Online Flash Game Fruit Ninja](http://gamematic.net/online-flash-games/actiongames/fruit-ninja/#.U_uebU0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/actiongames/fruit-ninja/#.U_uebU0
 *  JS Response Bytes: 1261470
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46940
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://stefanvd.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Stefan vd Blog](http://stefanvd.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://stefanvd.blogspot.com/?m=1
 *  JS Response Bytes: 804169
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1149
-
-### Performance issues
-
 
 ### Performance issues
 

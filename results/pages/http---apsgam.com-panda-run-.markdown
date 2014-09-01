@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://apsgam.com/panda-run/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [APS GAME – Panda Run](http://apsgam.com/panda-run/)
 
@@ -29,9 +33,6 @@ title: http://apsgam.com/panda-run/
 *  JS Response Bytes: 886722
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16893
-
-### Performance issues
-
 
 ### Performance issues
 

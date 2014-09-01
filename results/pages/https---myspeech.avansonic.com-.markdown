@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://myspeech.avansonic.com/
+UseLegibleFontSizes: true
 ---
 ## [401 Authorization Required](https://myspeech.avansonic.com/)
 
@@ -29,9 +30,6 @@ title: https://myspeech.avansonic.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 395
-
-### Performance issues
-
 
 ### Performance issues
 

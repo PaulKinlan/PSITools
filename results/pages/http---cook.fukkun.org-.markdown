@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://cook.fukkun.org/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [クックパッドの人気レシピまとめ | レシピパッド](http://cook.fukkun.org/)
 
@@ -29,9 +34,6 @@ title: http://cook.fukkun.org/
 *  JS Response Bytes: 78798
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 392
-
-### Performance issues
-
 
 ### Performance issues
 

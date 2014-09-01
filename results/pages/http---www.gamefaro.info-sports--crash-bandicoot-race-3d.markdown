@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamefaro.info/sports-/crash-bandicoot-race-3d
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [play online games](http://www.gamefaro.info/sports-/crash-bandicoot-race-3d)
 
@@ -29,9 +33,6 @@ title: http://www.gamefaro.info/sports-/crash-bandicoot-race-3d
 *  JS Response Bytes: 282246
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2282
-
-### Performance issues
-
 
 ### Performance issues
 

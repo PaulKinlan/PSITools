@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://vision.vega9.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [՝ѺᐢѺ՜ (Beta)](http://vision.vega9.com/)
 
@@ -29,9 +33,6 @@ title: http://vision.vega9.com/
 *  JS Response Bytes: 877365
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15829
-
-### Performance issues
-
 
 ### Performance issues
 

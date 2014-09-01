@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.biz/spongebob-super-brawl-3-just-got-real/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SpongeBob Super Brawl 3: Just Got Real](http://www.gamesgator.biz/spongebob-super-brawl-3-just-got-real/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.biz/spongebob-super-brawl-3-just-got-real/
 *  JS Response Bytes: 1100152
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43714
-
-### Performance issues
-
 
 ### Performance issues
 

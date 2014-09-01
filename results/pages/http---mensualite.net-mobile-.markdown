@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://mensualite.net/mobile/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Calculer la mensualité d'un crédit sur votre mobile](http://mensualite.net/mobile/)
 
@@ -29,9 +31,6 @@ title: http://mensualite.net/mobile/
 *  JS Response Bytes: 555247
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 346
-
-### Performance issues
-
 
 ### Performance issues
 

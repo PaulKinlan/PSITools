@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://checkyourmemory.appspot.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Memory Test](http://checkyourmemory.appspot.com/)
 
@@ -29,9 +31,6 @@ title: http://checkyourmemory.appspot.com/
 *  JS Response Bytes: 90244
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 609
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://cdn.chrome.cubiez.com/games/template/game.html?app_id=enapaicicmcakmngdopeadgpddfocepb
+UseLegibleFontSizes: true
 ---
 ## [](http://cdn.chrome.cubiez.com/games/template/game.html?app_id=enapaicicmcakmngdopeadgpddfocepb)
 
@@ -29,9 +30,6 @@ title: http://cdn.chrome.cubiez.com/games/template/game.html?app_id=enapaicicmca
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 589
-
-### Performance issues
-
 
 ### Performance issues
 

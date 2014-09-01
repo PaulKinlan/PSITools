@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://mixd.tv/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mixd.tv](http://mixd.tv/)
 
@@ -29,9 +34,6 @@ title: http://mixd.tv/
 *  JS Response Bytes: 248231
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 152107
-
-### Performance issues
-
 
 ### Performance issues
 

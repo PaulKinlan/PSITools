@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.typingarena.com/typing
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Typing test](http://www.typingarena.com/typing)
 
@@ -29,9 +31,6 @@ title: http://www.typingarena.com/typing
 *  JS Response Bytes: 140365
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59816
-
-### Performance issues
-
 
 ### Performance issues
 

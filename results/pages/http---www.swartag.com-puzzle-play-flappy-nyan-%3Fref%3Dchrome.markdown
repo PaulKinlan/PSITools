@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.swartag.com/puzzle/play/flappy-nyan/?ref=chrome
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Flappy Nyan | Swartag](http://www.swartag.com/puzzle/play/flappy-nyan/?ref=chrome)
 
@@ -29,9 +34,6 @@ title: http://www.swartag.com/puzzle/play/flappy-nyan/?ref=chrome
 *  JS Response Bytes: 2325167
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 144932
-
-### Performance issues
-
 
 ### Performance issues
 

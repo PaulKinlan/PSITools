@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.embed.com/ChromeGolfSolitaire.php
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chrome Golf Solitaire](http://www.embed.com/ChromeGolfSolitaire.php)
 
@@ -29,9 +34,6 @@ title: http://www.embed.com/ChromeGolfSolitaire.php
 *  JS Response Bytes: 1411539
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98274
-
-### Performance issues
-
 
 ### Performance issues
 

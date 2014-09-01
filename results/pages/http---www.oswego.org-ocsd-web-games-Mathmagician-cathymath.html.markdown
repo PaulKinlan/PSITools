@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.oswego.org/ocsd-web/games/Mathmagician/cathymath.html
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Oswego City School District Math Games](http://www.oswego.org/ocsd-web/games/Mathmagician/cathymath.html)
 
@@ -29,9 +31,6 @@ title: http://www.oswego.org/ocsd-web/games/Mathmagician/cathymath.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

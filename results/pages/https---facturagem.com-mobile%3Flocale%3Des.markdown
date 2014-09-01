@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://facturagem.com/mobile?locale=es
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
 ---
 ## [invoicefu](https://facturagem.com/mobile?locale=es)
 
@@ -29,9 +33,6 @@ title: https://facturagem.com/mobile?locale=es
 *  JS Response Bytes: 469440
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2001
-
-### Performance issues
-
 
 ### Performance issues
 

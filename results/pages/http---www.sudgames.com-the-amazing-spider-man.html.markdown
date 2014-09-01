@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.sudgames.com/the-amazing-spider-man.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SuDGameS.Com | Flash Game | Flash Games | Top Games – The Amazing Spider-Man](http://www.sudgames.com/the-amazing-spider-man.html)
 
@@ -29,9 +36,6 @@ title: http://www.sudgames.com/the-amazing-spider-man.html
 *  JS Response Bytes: 412704
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1078
-
-### Performance issues
-
 
 ### Performance issues
 

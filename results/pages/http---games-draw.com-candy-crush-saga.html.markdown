@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://games-draw.com/candy-crush-saga.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games-Draw.Com – Candy Crush Saga](http://games-draw.com/candy-crush-saga.html)
 
@@ -29,9 +35,6 @@ title: http://games-draw.com/candy-crush-saga.html
 *  JS Response Bytes: 568940
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51152
-
-### Performance issues
-
 
 ### Performance issues
 

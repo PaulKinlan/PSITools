@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://norsk-oversetter.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Norsk Oversetter](http://norsk-oversetter.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://norsk-oversetter.herokuapp.com/
 *  JS Response Bytes: 1841593
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 172859
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://chrome.avecomics.com/comics/7/1880/400-bc.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AveComics](http://chrome.avecomics.com/comics/7/1880/400-bc.html)
 
@@ -29,9 +34,6 @@ title: http://chrome.avecomics.com/comics/7/1880/400-bc.html
 *  JS Response Bytes: 11523
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2263
-
-### Performance issues
-
 
 ### Performance issues
 

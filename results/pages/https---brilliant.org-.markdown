@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://brilliant.org/
+MinimizeRenderBlockingResources: true
 ---
 ## [Brilliant | Build Your Problem Solving Skills](https://brilliant.org/)
 
@@ -29,9 +30,6 @@ title: https://brilliant.org/
 *  JS Response Bytes: 804122
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

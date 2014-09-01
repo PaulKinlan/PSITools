@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://acoolair.com/mission-statement/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [The Mission Statement | A Cool Air, Inc.](http://acoolair.com/mission-statement/)
 
@@ -29,9 +31,6 @@ title: http://acoolair.com/mission-statement/
 *  JS Response Bytes: 286483
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94036
-
-### Performance issues
-
 
 ### Performance issues
 

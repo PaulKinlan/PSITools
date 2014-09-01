@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.eticaret.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IdeaSoft E-ticaret Yazılımları, Akıllı Eticaret Paketleri](http://www.eticaret.com/)
 
@@ -29,9 +35,6 @@ title: http://www.eticaret.com/
 *  JS Response Bytes: 1089854
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 101186
-
-### Performance issues
-
 
 ### Performance issues
 

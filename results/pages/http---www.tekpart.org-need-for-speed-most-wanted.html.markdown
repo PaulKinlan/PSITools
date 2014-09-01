@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.tekpart.org/need-for-speed-most-wanted.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tek Part Program Arşivi, Tek Part Program İndir, Ücretsiz Programlar – Need for Speed Most Wanted](http://www.tekpart.org/need-for-speed-most-wanted.html)
 
@@ -29,9 +33,6 @@ title: http://www.tekpart.org/need-for-speed-most-wanted.html
 *  JS Response Bytes: 1071077
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33491
-
-### Performance issues
-
 
 ### Performance issues
 

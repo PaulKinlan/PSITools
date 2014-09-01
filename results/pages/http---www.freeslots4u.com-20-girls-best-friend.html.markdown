@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeslots4u.com/20/girls-best-friend.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Girls Best Friend Slots Machine Game by Free Slots 4U](http://www.freeslots4u.com/20/girls-best-friend.html)
 
@@ -29,9 +34,6 @@ title: http://www.freeslots4u.com/20/girls-best-friend.html
 *  JS Response Bytes: 1129992
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96372
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/Forty-Thieves-Solitaire/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Forty Thieves Solitaire](http://www.fupa.com/apps/Forty-Thieves-Solitaire/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/Forty-Thieves-Solitaire/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

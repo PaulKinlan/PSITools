@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mirc4fun.org/android/index.php
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.mirc4fun.org/android/index.php)
 
@@ -29,9 +32,6 @@ title: http://www.mirc4fun.org/android/index.php
 *  JS Response Bytes: 794135
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16343
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2pg.com/game/neave-tetris/play/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Neave Tetris | 2 Player Games](http://www.2pg.com/game/neave-tetris/play/)
 
@@ -29,9 +34,6 @@ title: http://www.2pg.com/game/neave-tetris/play/
 *  JS Response Bytes: 1269189
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28636
-
-### Performance issues
-
 
 ### Performance issues
 

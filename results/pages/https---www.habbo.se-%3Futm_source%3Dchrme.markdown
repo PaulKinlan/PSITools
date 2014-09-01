@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.habbo.se/?utm_source=chrme
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Habbo: Skapa din egna Habbo, inred ditt rum, chatta och träffa nya kompisar.](https://www.habbo.se/?utm_source=chrme)
 
@@ -29,9 +34,6 @@ title: https://www.habbo.se/?utm_source=chrme
 *  JS Response Bytes: 572005
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117058
-
-### Performance issues
-
 
 ### Performance issues
 

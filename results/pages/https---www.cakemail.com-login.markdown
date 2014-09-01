@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.cakemail.com/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Login to your account and send some emails | CakeMail](https://www.cakemail.com/login)
 
@@ -29,9 +32,6 @@ title: https://www.cakemail.com/login
 *  JS Response Bytes: 588680
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47893
-
-### Performance issues
-
 
 ### Performance issues
 

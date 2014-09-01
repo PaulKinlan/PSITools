@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://web2.jaes.ntpc.edu.tw/emag2014/
+EnableGzipCompression: true
 ---
 ## [新北市仁愛國小電子校刊](http://web2.jaes.ntpc.edu.tw/emag2014/)
 
@@ -29,9 +30,6 @@ title: http://web2.jaes.ntpc.edu.tw/emag2014/
 *  JS Response Bytes: 125415
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 363
-
-### Performance issues
-
 
 ### Performance issues
 

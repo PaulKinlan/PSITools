@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.mynet.com/index.htm#home
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mynet Mobil](http://m.mynet.com/index.htm#home)
 
@@ -29,9 +33,6 @@ title: http://m.mynet.com/index.htm#home
 *  JS Response Bytes: 891300
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7743
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.postmodemart.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [PostModemArt | Efficiency is our currency](http://www.postmodemart.com/)
 
@@ -29,9 +31,6 @@ title: http://www.postmodemart.com/
 *  JS Response Bytes: 140884
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103520
-
-### Performance issues
-
 
 ### Performance issues
 

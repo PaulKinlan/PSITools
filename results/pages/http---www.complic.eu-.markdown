@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.complic.eu/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Software engineering desktop, web e mobile | Complic](http://www.complic.eu/)
 
@@ -29,9 +33,6 @@ title: http://www.complic.eu/
 *  JS Response Bytes: 340372
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

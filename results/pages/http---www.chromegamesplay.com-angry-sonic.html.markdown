@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chromegamesplay.com/angry-sonic.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Sonic | Chrome Games Play WebStore](http://www.chromegamesplay.com/angry-sonic.html)
 
@@ -29,9 +35,6 @@ title: http://www.chromegamesplay.com/angry-sonic.html
 *  JS Response Bytes: 290987
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14518
-
-### Performance issues
-
 
 ### Performance issues
 

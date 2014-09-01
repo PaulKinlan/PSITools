@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.dotcomwomen.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Dot Com Women - Online Women's Lifestyle Magazine](http://www.dotcomwomen.com/)
 
@@ -29,9 +32,6 @@ title: http://www.dotcomwomen.com/
 *  JS Response Bytes: 1044859
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46720
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.games-h.com/strategy-games/papas-burgeria.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Playing Papa's Burgeria - Play Free Online Games at Games-H.COM](http://www.games-h.com/strategy-games/papas-burgeria.html)
 
@@ -29,9 +35,6 @@ title: http://www.games-h.com/strategy-games/papas-burgeria.html
 *  JS Response Bytes: 3073055
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 178947
-
-### Performance issues
-
 
 ### Performance issues
 

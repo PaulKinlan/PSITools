@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamefilo.com/car-racing/tokyo-drift#.U_eAM00ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tokyo Drift - GaMeFiLo](http://www.gamefilo.com/car-racing/tokyo-drift#.U_eAM00ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.gamefilo.com/car-racing/tokyo-drift#.U_eAM00ieKA
 *  JS Response Bytes: 1601407
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26560
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.evolvedonlinegames.com/app.php?id=3275
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Snooping Mr. Clumsy](http://www.evolvedonlinegames.com/app.php?id=3275)
 
@@ -29,9 +35,6 @@ title: http://www.evolvedonlinegames.com/app.php?id=3275
 *  JS Response Bytes: 1059529
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98058
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamezaddict.com/zuma-revenge.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zuma Revenge | Gamez Addict](http://www.gamezaddict.com/zuma-revenge.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamezaddict.com/zuma-revenge.html
 *  JS Response Bytes: 894461
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15971
-
-### Performance issues
-
 
 ### Performance issues
 

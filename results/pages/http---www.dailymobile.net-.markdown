@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.dailymobile.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Daily Mobile](http://www.dailymobile.net/)
 
@@ -29,9 +34,6 @@ title: http://www.dailymobile.net/
 *  JS Response Bytes: 937437
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54277
-
-### Performance issues
-
 
 ### Performance issues
 

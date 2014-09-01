@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://black.kofola.net/site/w-apps.nsf/workbench.xsp
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](https://black.kofola.net/site/w-apps.nsf/workbench.xsp)
 
@@ -29,9 +30,6 @@ title: https://black.kofola.net/site/w-apps.nsf/workbench.xsp
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 461
-
-### Performance issues
-
 
 ### Performance issues
 

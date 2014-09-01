@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.auctionsensor.com/google-app.php
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Grab ebay deal with eBay deal search alert!](http://www.auctionsensor.com/google-app.php)
 
@@ -29,9 +33,6 @@ title: http://www.auctionsensor.com/google-app.php
 *  JS Response Bytes: 208581
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://supergamecoming.blogspot.com.tr/2014/03/flappy-nyan-cat.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Super Game Coming: Flappy Nyan Cat](http://supergamecoming.blogspot.com.tr/2014/03/flappy-nyan-cat.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://supergamecoming.blogspot.com.tr/2014/03/flappy-nyan-cat.html?m=1
 *  JS Response Bytes: 1423449
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111042
-
-### Performance issues
-
 
 ### Performance issues
 

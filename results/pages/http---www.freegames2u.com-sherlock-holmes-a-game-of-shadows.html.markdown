@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.freegames2u.com/sherlock-holmes-a-game-of-shadows.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sherlock Holmes: A Game of Shadows | Free Games 2U](http://www.freegames2u.com/sherlock-holmes-a-game-of-shadows.html)
 
@@ -29,9 +33,6 @@ title: http://www.freegames2u.com/sherlock-holmes-a-game-of-shadows.html
 *  JS Response Bytes: 2227087
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111105
-
-### Performance issues
-
 
 ### Performance issues
 

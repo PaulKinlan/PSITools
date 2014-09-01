@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.evgor.com.tr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Evgör Mobilya Türkiye'nin En Büyük Online Mobilya Alışveriş Sitesi](https://www.evgor.com.tr/)
 
@@ -29,9 +33,6 @@ title: https://www.evgor.com.tr/
 *  JS Response Bytes: 1882759
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35613
-
-### Performance issues
-
 
 ### Performance issues
 

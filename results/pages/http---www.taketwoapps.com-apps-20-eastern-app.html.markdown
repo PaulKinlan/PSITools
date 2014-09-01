@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.taketwoapps.com/apps/20/eastern/app.html
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Eastern Wisdom: Quotes from Buddha and Confucius](http://www.taketwoapps.com/apps/20/eastern/app.html)
 
@@ -29,9 +33,6 @@ title: http://www.taketwoapps.com/apps/20/eastern/app.html
 *  JS Response Bytes: 428388
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

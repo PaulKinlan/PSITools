@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ovk.farm-it.co.za/Account/Login
+MinimizeRenderBlockingResources: true
 ---
 ## [Teken in](http://ovk.farm-it.co.za/Account/Login)
 
@@ -29,9 +30,6 @@ title: http://ovk.farm-it.co.za/Account/Login
 *  JS Response Bytes: 304467
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59
-
-### Performance issues
-
 
 ### Performance issues
 

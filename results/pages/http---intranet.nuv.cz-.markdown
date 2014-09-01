@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://intranet.nuv.cz/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Intranet NÚV](http://intranet.nuv.cz/)
 
@@ -22,16 +25,13 @@ title: http://intranet.nuv.cz/
 
 ### Response data
 
-*  HTML Response Bytes: 61256
+*  HTML Response Bytes: 61339
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 86084
 *  Image Response Bytes: 32107
-*  JS Response Bytes: 503262
+*  JS Response Bytes: 503263
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

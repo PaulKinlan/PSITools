@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://sochi2014.fullstacks.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sochi 2014 Olympics of the Day](http://sochi2014.fullstacks.net/)
 
@@ -29,9 +34,6 @@ title: http://sochi2014.fullstacks.net/
 *  JS Response Bytes: 545532
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

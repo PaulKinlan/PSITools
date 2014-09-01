@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://servicing.capitalone.com/c1/login.aspx
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Manage Credit Card Accounts | Capital One Online Banking](https://servicing.capitalone.com/c1/login.aspx)
 
@@ -29,9 +34,6 @@ title: https://servicing.capitalone.com/c1/login.aspx
 *  JS Response Bytes: 1322606
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2852
-
-### Performance issues
-
 
 ### Performance issues
 

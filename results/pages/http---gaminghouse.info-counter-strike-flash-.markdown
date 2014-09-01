@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gaminghouse.info/counter-strike-flash/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://gaminghouse.info/counter-strike-flash/)
 
@@ -29,9 +30,6 @@ title: http://gaminghouse.info/counter-strike-flash/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 560
-
-### Performance issues
-
 
 ### Performance issues
 

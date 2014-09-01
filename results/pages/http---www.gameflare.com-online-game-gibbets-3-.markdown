@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameflare.com/online-game/gibbets-3/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gibbets 3 - online game | GameFlare.com](http://www.gameflare.com/online-game/gibbets-3/)
 
@@ -29,9 +34,6 @@ title: http://www.gameflare.com/online-game/gibbets-3/
 *  JS Response Bytes: 1997140
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 289547
-
-### Performance issues
-
 
 ### Performance issues
 

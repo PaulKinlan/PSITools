@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.vajehyab.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [لغت نامه دهخدا، معین، عمید و دیکشنری | واژه یاب](http://www.vajehyab.com/)
 
@@ -29,9 +31,6 @@ title: http://www.vajehyab.com/
 *  JS Response Bytes: 25557
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

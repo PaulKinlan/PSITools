@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.spielz.com/games/caillou
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [spiele](http://www.spielz.com/games/caillou)
 
@@ -29,9 +34,6 @@ title: http://www.spielz.com/games/caillou
 *  JS Response Bytes: 2609980
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18769
-
-### Performance issues
-
 
 ### Performance issues
 

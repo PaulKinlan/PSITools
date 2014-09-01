@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://talking-tom-cat-2.blogspot.com.tr/2014/04/fruit-ninja.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [talking tom hd online game: Fruit Ninja](http://talking-tom-cat-2.blogspot.com.tr/2014/04/fruit-ninja.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://talking-tom-cat-2.blogspot.com.tr/2014/04/fruit-ninja.html?m=1
 *  JS Response Bytes: 1440418
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98488
-
-### Performance issues
-
 
 ### Performance issues
 

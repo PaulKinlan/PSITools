@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://greenwebgames.com/chrome/sky_combat.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sky Combat - This online game is so addictive -](http://greenwebgames.com/chrome/sky_combat.html)
 
@@ -29,9 +35,6 @@ title: http://greenwebgames.com/chrome/sky_combat.html
 *  JS Response Bytes: 732889
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11688
-
-### Performance issues
-
 
 ### Performance issues
 

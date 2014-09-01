@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.neoneko.net/?utm_medium=chrome&utm_source=brandapp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Blog über Anime, Manga und Japan - NeoNeko.net](http://www.neoneko.net/?utm_medium=chrome&utm_source=brandapp)
 
@@ -29,9 +33,6 @@ title: http://www.neoneko.net/?utm_medium=chrome&utm_source=brandapp
 *  JS Response Bytes: 474134
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29008
-
-### Performance issues
-
 
 ### Performance issues
 

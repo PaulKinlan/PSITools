@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.someapps.info/ppt2pdf/index.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PPT to PDF Guide – How to Convert PPT to PDF](http://www.someapps.info/ppt2pdf/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.someapps.info/ppt2pdf/index.html
 *  JS Response Bytes: 400595
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16064
-
-### Performance issues
-
 
 ### Performance issues
 

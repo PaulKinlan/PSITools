@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://seasweb.net/login.aspx?cid=1652
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Special Education Automation Software - Login](https://seasweb.net/login.aspx?cid=1652)
 
@@ -29,9 +34,6 @@ title: https://seasweb.net/login.aspx?cid=1652
 *  JS Response Bytes: 131358
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 513
-
-### Performance issues
-
 
 ### Performance issues
 

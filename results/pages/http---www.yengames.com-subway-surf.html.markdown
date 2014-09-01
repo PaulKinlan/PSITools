@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.yengames.com/subway-surf.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [YenGames.Com | Flash Game Site – Subway Surf](http://www.yengames.com/subway-surf.html)
 
@@ -29,9 +35,6 @@ title: http://www.yengames.com/subway-surf.html
 *  JS Response Bytes: 413031
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1424
-
-### Performance issues
-
 
 ### Performance issues
 

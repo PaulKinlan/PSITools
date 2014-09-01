@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.racingmotorgames.com/mario-sonic-zombie-killer.html/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mario Sonic Zombie Killer | RACİNGMOTORGAMES](http://www.racingmotorgames.com/mario-sonic-zombie-killer.html/)
 
@@ -29,9 +34,6 @@ title: http://www.racingmotorgames.com/mario-sonic-zombie-killer.html/
 *  JS Response Bytes: 1415469
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110859
-
-### Performance issues
-
 
 ### Performance issues
 

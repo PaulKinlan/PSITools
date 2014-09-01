@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://vcsi.d321.k12.id.us/portal/webclient/views/index.html#/portal/webclient/views/index.html
+UseLegibleFontSizes: true
 ---
 ## [Oracle GlassFish Server 3.1.2.2 - Error report](https://vcsi.d321.k12.id.us/portal/webclient/views/index.html#/portal/webclient/views/index.html)
 
@@ -29,9 +30,6 @@ title: https://vcsi.d321.k12.id.us/portal/webclient/views/index.html#/portal/web
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1323
-
-### Performance issues
-
 
 ### Performance issues
 

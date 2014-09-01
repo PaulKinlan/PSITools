@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://app.hackeracademy.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Hacker Academy](https://app.hackeracademy.com/)
 
@@ -29,9 +33,6 @@ title: https://app.hackeracademy.com/
 *  JS Response Bytes: 207757
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29397
-
-### Performance issues
-
 
 ### Performance issues
 

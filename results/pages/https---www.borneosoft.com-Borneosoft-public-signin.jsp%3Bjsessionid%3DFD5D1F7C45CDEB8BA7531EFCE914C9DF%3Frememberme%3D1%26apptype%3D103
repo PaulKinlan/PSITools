@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.borneosoft.com/Borneosoft/public/signin.jsp;jsessionid=FD5D1F7C45CDEB8BA7531EFCE914C9DF?rememberme=1&apptype=103
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Borneosoft - User Sign in](https://www.borneosoft.com/Borneosoft/public/signin.jsp;jsessionid=FD5D1F7C45CDEB8BA7531EFCE914C9DF?rememberme=1&apptype=103)
 
@@ -29,9 +32,6 @@ title: https://www.borneosoft.com/Borneosoft/public/signin.jsp;jsessionid=FD5D1F
 *  JS Response Bytes: 849657
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 74412
-
-### Performance issues
-
 
 ### Performance issues
 

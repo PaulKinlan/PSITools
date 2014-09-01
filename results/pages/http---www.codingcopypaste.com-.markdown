@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.codingcopypaste.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CodingCopyPaste - Planet's top CodeBase & Port](http://www.codingcopypaste.com/)
 
@@ -29,9 +33,6 @@ title: http://www.codingcopypaste.com/
 *  JS Response Bytes: 1177294
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 237356
-
-### Performance issues
-
 
 ### Performance issues
 

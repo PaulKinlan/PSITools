@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://sog.topchromegames.info/games/talking-ginger/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Talking Ginger Game — Sultans of Game](http://sog.topchromegames.info/games/talking-ginger/)
 
@@ -29,9 +36,6 @@ title: http://sog.topchromegames.info/games/talking-ginger/
 *  JS Response Bytes: 1656784
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122119
-
-### Performance issues
-
 
 ### Performance issues
 

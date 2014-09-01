@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.onlineflashgames.us/play/284/where-is-my-way.html#.U_u0v00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Where Is My Way - Online Flash Games](http://www.onlineflashgames.us/play/284/where-is-my-way.html#.U_u0v00ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.onlineflashgames.us/play/284/where-is-my-way.html#.U_u0v00ieKA
 *  JS Response Bytes: 1448730
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9178
-
-### Performance issues
-
 
 ### Performance issues
 

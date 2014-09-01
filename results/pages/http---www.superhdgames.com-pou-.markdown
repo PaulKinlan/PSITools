@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.superhdgames.com/pou/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super HD Games – Pou](http://www.superhdgames.com/pou/)
 
@@ -29,9 +33,6 @@ title: http://www.superhdgames.com/pou/
 *  JS Response Bytes: 1033248
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15195
-
-### Performance issues
-
 
 ### Performance issues
 

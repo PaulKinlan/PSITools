@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://3dflashgame.net/flash_1374_Plants-vs-Zombie.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Plants vs Zombies flash game 3D unity 2013](http://3dflashgame.net/flash_1374_Plants-vs-Zombie.html)
 
@@ -29,9 +35,6 @@ title: http://3dflashgame.net/flash_1374_Plants-vs-Zombie.html
 *  JS Response Bytes: 615844
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14380
-
-### Performance issues
-
 
 ### Performance issues
 

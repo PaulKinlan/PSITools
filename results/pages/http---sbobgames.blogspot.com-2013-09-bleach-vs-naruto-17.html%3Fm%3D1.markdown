@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://sbobgames.blogspot.com/2013/09/bleach-vs-naruto-17.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SpongeBob Games: Bleach vs Naruto 1.7](http://sbobgames.blogspot.com/2013/09/bleach-vs-naruto-17.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://sbobgames.blogspot.com/2013/09/bleach-vs-naruto-17.html?m=1
 *  JS Response Bytes: 1641337
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95883
-
-### Performance issues
-
 
 ### Performance issues
 

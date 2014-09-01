@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.swordsaxe.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Buy Swords Online | Replica Swords for Sale | Swordsaxe](http://www.swordsaxe.com/)
 
@@ -29,9 +34,6 @@ title: http://www.swordsaxe.com/
 *  JS Response Bytes: 889531
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 794
-
-### Performance issues
-
 
 ### Performance issues
 

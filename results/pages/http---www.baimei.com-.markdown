@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.baimei.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [百媚网_化妆品品牌大全和所有化妆品排行榜](http://www.baimei.com/)
 
@@ -29,9 +34,6 @@ title: http://www.baimei.com/
 *  JS Response Bytes: 665180
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

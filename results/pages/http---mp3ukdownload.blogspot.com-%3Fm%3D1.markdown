@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mp3ukdownload.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MP3 Downloads](http://mp3ukdownload.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://mp3ukdownload.blogspot.com/?m=1
 *  JS Response Bytes: 1603522
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98288
-
-### Performance issues
-
 
 ### Performance issues
 

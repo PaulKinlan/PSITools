@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.paginadenavidad.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Página de Navidad](http://www.paginadenavidad.com/)
 
@@ -29,9 +33,6 @@ title: http://www.paginadenavidad.com/
 *  JS Response Bytes: 291326
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5081
-
-### Performance issues
-
 
 ### Performance issues
 

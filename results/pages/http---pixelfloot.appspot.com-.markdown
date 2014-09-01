@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://pixelfloot.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Pixel Floot Free](http://pixelfloot.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://pixelfloot.appspot.com/
 *  JS Response Bytes: 42949
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5515
-
-### Performance issues
-
 
 ### Performance issues
 

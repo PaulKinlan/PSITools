@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://forum.celtictalk.org/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [Over and Over - Forum - The Modern Celtic FC Forum](http://forum.celtictalk.org/)
 
@@ -29,9 +32,6 @@ title: http://forum.celtictalk.org/
 *  JS Response Bytes: 237396
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 413
-
-### Performance issues
-
 
 ### Performance issues
 

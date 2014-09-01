@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://storypress.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [StoryPress](https://storypress.com/)
 
@@ -29,9 +34,6 @@ title: https://storypress.com/
 *  JS Response Bytes: 1454204
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1940
-
-### Performance issues
-
 
 ### Performance issues
 

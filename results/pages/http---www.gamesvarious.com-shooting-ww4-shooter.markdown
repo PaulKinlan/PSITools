@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/shooting/ww4-shooter
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WW4 Shooter - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/shooting/ww4-shooter)
 
@@ -29,9 +35,6 @@ title: http://www.gamesvarious.com/shooting/ww4-shooter
 *  JS Response Bytes: 2066194
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 157304
-
-### Performance issues
-
 
 ### Performance issues
 

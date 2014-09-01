@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://dragonball.sullca.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Dragon Ball, Dragon Ball Z y GT, Capítulos online y en Latino](http://dragonball.sullca.com/)
 
@@ -29,9 +34,6 @@ title: http://dragonball.sullca.com/
 *  JS Response Bytes: 1908000
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 101190
-
-### Performance issues
-
 
 ### Performance issues
 

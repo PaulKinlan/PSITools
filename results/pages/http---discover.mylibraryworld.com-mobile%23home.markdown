@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://discover.mylibraryworld.com/mobile#home
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Brevard County Libraries](http://discover.mylibraryworld.com/mobile#home)
 
@@ -29,9 +32,6 @@ title: http://discover.mylibraryworld.com/mobile#home
 *  JS Response Bytes: 801328
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 404
-
-### Performance issues
-
 
 ### Performance issues
 

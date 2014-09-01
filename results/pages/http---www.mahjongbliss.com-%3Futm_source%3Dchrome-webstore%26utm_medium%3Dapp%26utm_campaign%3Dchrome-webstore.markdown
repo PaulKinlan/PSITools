@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mahjongbliss.com/?utm_source=chrome-webstore&utm_medium=app&utm_campaign=chrome-webstore
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MahjongBliss.com - Free Mahjong Games](http://www.mahjongbliss.com/?utm_source=chrome-webstore&utm_medium=app&utm_campaign=chrome-webstore)
 
@@ -29,9 +34,6 @@ title: http://www.mahjongbliss.com/?utm_source=chrome-webstore&utm_medium=app&ut
 *  JS Response Bytes: 547503
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1970
-
-### Performance issues
-
 
 ### Performance issues
 

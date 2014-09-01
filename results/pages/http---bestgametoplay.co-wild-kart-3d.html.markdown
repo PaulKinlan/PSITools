@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://bestgametoplay.co/wild-kart-3d.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Best Game To Play – Wild Kart 3D](http://bestgametoplay.co/wild-kart-3d.html)
 
@@ -29,9 +34,6 @@ title: http://bestgametoplay.co/wild-kart-3d.html
 *  JS Response Bytes: 1849247
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112081
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://volumetv.net/gtv/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [VolumeTV Chrome Page](http://volumetv.net/gtv/)
 
@@ -29,9 +32,6 @@ title: http://volumetv.net/gtv/
 *  JS Response Bytes: 1645581
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52000
-
-### Performance issues
-
 
 ### Performance issues
 

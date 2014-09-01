@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://accounts.zoho.com/login?&servicename=ZohoPC&serviceurl=%2Fshow%2Fnew
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Zoho Accounts](https://accounts.zoho.com/login?&servicename=ZohoPC&serviceurl=%2Fshow%2Fnew)
 
@@ -29,9 +32,6 @@ title: https://accounts.zoho.com/login?&servicename=ZohoPC&serviceurl=%2Fshow%2F
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1402
-
-### Performance issues
-
 
 ### Performance issues
 

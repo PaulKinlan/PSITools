@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.jaguargame.com/advanture/fruit-slasher
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fruit Slasher - jaguargame](http://www.jaguargame.com/advanture/fruit-slasher)
 
@@ -29,9 +35,6 @@ title: http://www.jaguargame.com/advanture/fruit-slasher
 *  JS Response Bytes: 3138159
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 134591
-
-### Performance issues
-
 
 ### Performance issues
 

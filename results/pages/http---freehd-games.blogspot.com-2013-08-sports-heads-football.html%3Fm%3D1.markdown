@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://freehd-games.blogspot.com/2013/08/sports-heads-football.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free online web games: Sports Heads Football](http://freehd-games.blogspot.com/2013/08/sports-heads-football.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://freehd-games.blogspot.com/2013/08/sports-heads-football.html?m=1
 *  JS Response Bytes: 1723795
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109985
-
-### Performance issues
-
 
 ### Performance issues
 

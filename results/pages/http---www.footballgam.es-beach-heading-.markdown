@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/beach-heading/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Beach Heading Game](http://www.footballgam.es/beach-heading/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/beach-heading/
 *  JS Response Bytes: 2297451
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156811
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://touch.uk.match.com/?module=home&action=landing&tpl=20130326landing_hpv_m_3stepsignupusernamelastUK&fsid=100&mtcmk=087500&CJAID=10407416&CJPID=3257948&CJCID=1522858&ktid=0&klid=2122&tckka=140822193138519816&tckvs=140822193138514494
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [match.com UK](http://touch.uk.match.com/?module=home&action=landing&tpl=20130326landing_hpv_m_3stepsignupusernamelastUK&fsid=100&mtcmk=087500&CJAID=10407416&CJPID=3257948&CJCID=1522858&ktid=0&klid=2122&tckka=140822193138519816&tckvs=140822193138514494)
 
@@ -29,9 +32,6 @@ title: http://touch.uk.match.com/?module=home&action=landing&tpl=20130326landing
 *  JS Response Bytes: 591621
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23131
-
-### Performance issues
-
 
 ### Performance issues
 

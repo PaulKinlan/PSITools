@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://emptyblack.com/play.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Empty Black - Play the game](http://emptyblack.com/play.html)
 
@@ -29,9 +32,6 @@ title: http://emptyblack.com/play.html
 *  JS Response Bytes: 3698377
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

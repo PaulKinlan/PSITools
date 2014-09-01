@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.bollybreak.in/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bollybreak](http://m.bollybreak.in/)
 
@@ -29,9 +33,6 @@ title: http://m.bollybreak.in/
 *  JS Response Bytes: 922211
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16021
-
-### Performance issues
-
 
 ### Performance issues
 

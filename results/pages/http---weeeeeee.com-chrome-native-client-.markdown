@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://weeeeeee.com/chrome-native-client/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Wee Weee Weeee - Play to Play on Weeeeeee](http://weeeeeee.com/chrome-native-client/)
 
@@ -29,9 +37,6 @@ title: http://weeeeeee.com/chrome-native-client/
 *  JS Response Bytes: 771391
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2017
-
-### Performance issues
-
 
 ### Performance issues
 

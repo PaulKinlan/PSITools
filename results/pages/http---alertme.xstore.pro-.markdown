@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://alertme.xstore.pro/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
 ---
 ## [Log in](http://alertme.xstore.pro/)
 
@@ -29,9 +32,6 @@ title: http://alertme.xstore.pro/
 *  JS Response Bytes: 248725
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

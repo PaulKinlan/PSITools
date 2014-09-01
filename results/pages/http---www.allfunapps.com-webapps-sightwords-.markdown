@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.allfunapps.com/webapps/sightwords/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn Dolch Sight Words](http://www.allfunapps.com/webapps/sightwords/)
 
@@ -29,9 +33,6 @@ title: http://www.allfunapps.com/webapps/sightwords/
 *  JS Response Bytes: 1136423
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96609
-
-### Performance issues
-
 
 ### Performance issues
 

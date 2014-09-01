@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://dictionary.beamappzone.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free English Dictionary](http://dictionary.beamappzone.com/)
 
@@ -29,9 +35,6 @@ title: http://dictionary.beamappzone.com/
 *  JS Response Bytes: 560321
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

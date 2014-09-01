@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.chrome-games-new-99.blogspot.com/2014/01/bastion.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Games: Bastion](http://www.chrome-games-new-99.blogspot.com/2014/01/bastion.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://www.chrome-games-new-99.blogspot.com/2014/01/bastion.html?m=1
 *  JS Response Bytes: 2127760
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97515
-
-### Performance issues
-
 
 ### Performance issues
 

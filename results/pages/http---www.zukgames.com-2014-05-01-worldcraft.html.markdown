@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.zukgames.com/2014/05/01/worldcraft.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Worldcraft – Best HD Games Play Now](http://www.zukgames.com/2014/05/01/worldcraft.html)
 
@@ -29,9 +34,6 @@ title: http://www.zukgames.com/2014/05/01/worldcraft.html
 *  JS Response Bytes: 1154236
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17534
-
-### Performance issues
-
 
 ### Performance issues
 

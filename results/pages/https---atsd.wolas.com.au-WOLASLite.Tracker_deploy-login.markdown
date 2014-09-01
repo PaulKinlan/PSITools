@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://atsd.wolas.com.au/WOLASLite.Tracker_deploy/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sign in to WOLAS Revolution Tracker | WOLAS Revolution Tracker](https://atsd.wolas.com.au/WOLASLite.Tracker_deploy/login)
 
@@ -29,9 +32,6 @@ title: https://atsd.wolas.com.au/WOLASLite.Tracker_deploy/login
 *  JS Response Bytes: 498624
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1929
-
-### Performance issues
-
 
 ### Performance issues
 

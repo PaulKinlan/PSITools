@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.scriptito.com/ui/user/login.html?successUrl=%2Fui%2Fuser%2Fhome.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Scriptito - Login](https://www.scriptito.com/ui/user/login.html?successUrl=%2Fui%2Fuser%2Fhome.html)
 
@@ -29,9 +31,6 @@ title: https://www.scriptito.com/ui/user/login.html?successUrl=%2Fui%2Fuser%2Fho
 *  JS Response Bytes: 846182
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 413
-
-### Performance issues
-
 
 ### Performance issues
 

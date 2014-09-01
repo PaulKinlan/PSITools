@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://captainwebstore.com/242245/5.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CaptainWebstore Play » Angry Birds](http://captainwebstore.com/242245/5.html)
 
@@ -29,9 +33,6 @@ title: http://captainwebstore.com/242245/5.html
 *  JS Response Bytes: 1858859
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 37153
-
-### Performance issues
-
 
 ### Performance issues
 

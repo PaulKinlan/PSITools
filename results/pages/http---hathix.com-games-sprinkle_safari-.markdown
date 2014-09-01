@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://hathix.com/games/sprinkle_safari/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sprinkle Safari - a web adventure game by hathix.com](http://hathix.com/games/sprinkle_safari/)
 
@@ -29,9 +33,6 @@ title: http://hathix.com/games/sprinkle_safari/
 *  JS Response Bytes: 778841
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1091
-
-### Performance issues
-
 
 ### Performance issues
 

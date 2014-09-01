@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://m.facebook.com/login.php?skip_api_login=1&api_key=218792704868983&signed_next=1&next=https%3A%2F%2Fm.facebook.com%2Fv1.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttp%253A%252F%252Fbattleblocks.hitgrab.com%252F%253Fkt_type%253Dad%2526kt_st1%253Dgooglestore%2526kt_st2%253Dgooglestore%2526kt_st3%253Dgooglestore%26state%3Dcb3469cce42964305cc670fc851e32e7%26scope%3Demail%252Cuser_birthday%252Cpublish_actions%26client_id%3D218792704868983%26ret%3Dlogin&cancel_uri=http%3A%2F%2Fbattleblocks.hitgrab.com%2F%3Fkt_type%3Dad%26kt_st1%3Dgooglestore%26kt_st2%3Dgooglestore%26kt_st3%3Dgooglestore%26error%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3Dcb3469cce42964305cc670fc851e32e7%23_%3D_&display=touch&_rdr
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Welcome to Facebook](https://m.facebook.com/login.php?skip_api_login=1&api_key=218792704868983&signed_next=1&next=https%3A%2F%2Fm.facebook.com%2Fv1.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttp%253A%252F%252Fbattleblocks.hitgrab.com%252F%253Fkt_type%253Dad%2526kt_st1%253Dgooglestore%2526kt_st2%253Dgooglestore%2526kt_st3%253Dgooglestore%26state%3Dcb3469cce42964305cc670fc851e32e7%26scope%3Demail%252Cuser_birthday%252Cpublish_actions%26client_id%3D218792704868983%26ret%3Dlogin&cancel_uri=http%3A%2F%2Fbattleblocks.hitgrab.com%2F%3Fkt_type%3Dad%26kt_st1%3Dgooglestore%26kt_st2%3Dgooglestore%26kt_st3%3Dgooglestore%26error%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3Dcb3469cce42964305cc670fc851e32e7%23_%3D_&display=touch&_rdr)
 
@@ -29,9 +31,6 @@ title: https://m.facebook.com/login.php?skip_api_login=1&api_key=218792704868983
 *  JS Response Bytes: 329390
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3372
-
-### Performance issues
-
 
 ### Performance issues
 

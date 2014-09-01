@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.e5baria.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [الاخبارية نيوز](http://www.e5baria.com/)
 
@@ -29,9 +33,6 @@ title: http://www.e5baria.com/
 *  JS Response Bytes: 1333555
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58334
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://ibanking.stgeorge.com.au/ibank/loginPage.action
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [St.George Internet Banking - Logon](https://ibanking.stgeorge.com.au/ibank/loginPage.action)
 
@@ -29,9 +34,6 @@ title: https://ibanking.stgeorge.com.au/ibank/loginPage.action
 *  JS Response Bytes: 364277
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.eissa.mx/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Especialidades Industriales del Sureste](http://www.eissa.mx/)
 
@@ -29,9 +32,6 @@ title: http://www.eissa.mx/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

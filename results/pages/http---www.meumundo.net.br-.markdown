@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.meumundo.net.br/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Meu Mundo](http://www.meumundo.net.br/)
 
@@ -29,9 +33,6 @@ title: http://www.meumundo.net.br/
 *  JS Response Bytes: 233741
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13662
-
-### Performance issues
-
 
 ### Performance issues
 

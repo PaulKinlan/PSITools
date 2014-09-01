@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://playbattlecards.com/?from=chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Battle Cards | card-based strategy game for your browser.](http://playbattlecards.com/?from=chrome)
 
@@ -29,9 +32,6 @@ title: http://playbattlecards.com/?from=chrome
 *  JS Response Bytes: 789309
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1377
-
-### Performance issues
-
 
 ### Performance issues
 

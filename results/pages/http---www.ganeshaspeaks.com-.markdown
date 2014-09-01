@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.ganeshaspeaks.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Astrology - Horoscopes, Free Online Astrology, Online Astrologers](http://www.ganeshaspeaks.com/)
 
@@ -29,9 +31,6 @@ title: http://www.ganeshaspeaks.com/
 *  JS Response Bytes: 301357
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

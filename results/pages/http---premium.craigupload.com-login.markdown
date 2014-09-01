@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://premium.craigupload.com/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Login | Craigupload.com - The easy image hosting website](http://premium.craigupload.com/login)
 
@@ -29,9 +33,6 @@ title: http://premium.craigupload.com/login
 *  JS Response Bytes: 118139
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 511
-
-### Performance issues
-
 
 ### Performance issues
 

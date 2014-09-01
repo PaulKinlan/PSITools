@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/racinggames/formula-racer-2012/#.U_uYRU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Formula Racer 2012 « Online Flash Game Formula Racer 2012](http://gamematic.net/online-flash-games/racinggames/formula-racer-2012/#.U_uYRU0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/racinggames/formula-racer-2012/#.
 *  JS Response Bytes: 1266824
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 62616
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://minigames.mail.ru/igra_slova_viselica
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [Мини-игры@Mail.Ru](http://minigames.mail.ru/igra_slova_viselica)
 
@@ -29,9 +31,6 @@ title: http://minigames.mail.ru/igra_slova_viselica
 *  JS Response Bytes: 103992
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

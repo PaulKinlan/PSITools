@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://kidogames.info/minecraft/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tic Games Flash Games – Minecraft](http://kidogames.info/minecraft/)
 
@@ -29,9 +34,6 @@ title: http://kidogames.info/minecraft/
 *  JS Response Bytes: 873033
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15952
-
-### Performance issues
-
 
 ### Performance issues
 

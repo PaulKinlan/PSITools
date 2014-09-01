@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://guidemate.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [guidemate - Audioguide-Stadtführungen mit iPhone und Android Apps](http://guidemate.com/)
 
@@ -29,9 +31,6 @@ title: http://guidemate.com/
 *  JS Response Bytes: 738604
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14586
-
-### Performance issues
-
 
 ### Performance issues
 

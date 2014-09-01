@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.tesla-games.com/driving---racing/alias-runner-apocalypse
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Playing Alias Runner Apocalypse - Games - Play Free Online Games at Tesla Games](http://www.tesla-games.com/driving---racing/alias-runner-apocalypse)
 
@@ -29,9 +35,6 @@ title: http://www.tesla-games.com/driving---racing/alias-runner-apocalypse
 *  JS Response Bytes: 1312010
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1687
-
-### Performance issues
-
 
 ### Performance issues
 

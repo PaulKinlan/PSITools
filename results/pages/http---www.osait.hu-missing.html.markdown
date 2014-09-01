@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.osait.hu/missing.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404 Error: requested page missing in action - OSA IT Solutions Kft.](http://www.osait.hu/missing.html)
 
@@ -29,9 +32,6 @@ title: http://www.osait.hu/missing.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 439
-
-### Performance issues
-
 
 ### Performance issues
 

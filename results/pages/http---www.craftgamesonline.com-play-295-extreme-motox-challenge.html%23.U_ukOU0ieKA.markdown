@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.craftgamesonline.com/play/295/extreme-motox-challenge.html#.U_ukOU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Extreme MotoX Challenge - Craft Games Online](http://www.craftgamesonline.com/play/295/extreme-motox-challenge.html#.U_ukOU0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.craftgamesonline.com/play/295/extreme-motox-challenge.html#.U_
 *  JS Response Bytes: 1463425
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15835
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://wb8.lssd.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Winfree Bryant 8th Grade](http://wb8.lssd.net/)
 
@@ -29,9 +32,6 @@ title: http://wb8.lssd.net/
 *  JS Response Bytes: 123179
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103516
-
-### Performance issues
-
 
 ### Performance issues
 

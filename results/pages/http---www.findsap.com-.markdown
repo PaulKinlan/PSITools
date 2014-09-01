@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.findsap.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Search What Is and All Things SAP | Find SAP](http://www.findsap.com/)
 
@@ -29,9 +33,6 @@ title: http://www.findsap.com/
 *  JS Response Bytes: 1630741
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16173
-
-### Performance issues
-
 
 ### Performance issues
 

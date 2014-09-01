@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gadgetstore.rchoauthtest.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
 ---
 ## [Gadget Store](http://gadgetstore.rchoauthtest.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://gadgetstore.rchoauthtest.appspot.com/
 *  JS Response Bytes: 636872
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4524
-
-### Performance issues
-
 
 ### Performance issues
 

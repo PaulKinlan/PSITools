@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.alivefootball.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Live stream football , live matches, live games](http://www.alivefootball.com/)
 
@@ -29,9 +35,6 @@ title: http://www.alivefootball.com/
 *  JS Response Bytes: 451150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1964927
-
-### Performance issues
-
 
 ### Performance issues
 

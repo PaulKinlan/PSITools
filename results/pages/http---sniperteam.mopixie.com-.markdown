@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://sniperteam.mopixie.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sniper Team | Hacked Play Best Free Online Games, Flash Games Directory, Funtoosh Games](http://sniperteam.mopixie.com/)
 
@@ -29,9 +36,6 @@ title: http://sniperteam.mopixie.com/
 *  JS Response Bytes: 1257370
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3409
-
-### Performance issues
-
 
 ### Performance issues
 

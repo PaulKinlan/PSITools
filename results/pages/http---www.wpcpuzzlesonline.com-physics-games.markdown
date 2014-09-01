@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.wpcpuzzlesonline.com/physics-games
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Physics Games - Fun With Logic](http://www.wpcpuzzlesonline.com/physics-games)
 
@@ -29,9 +33,6 @@ title: http://www.wpcpuzzlesonline.com/physics-games
 *  JS Response Bytes: 1837964
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 309746
-
-### Performance issues
-
 
 ### Performance issues
 

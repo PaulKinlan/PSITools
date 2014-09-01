@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ganttic.com/welcome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [welcome | Resource planning and project scheduling program by Ganttic](http://www.ganttic.com/welcome)
 
@@ -29,9 +34,6 @@ title: http://www.ganttic.com/welcome
 *  JS Response Bytes: 716786
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22963
-
-### Performance issues
-
 
 ### Performance issues
 

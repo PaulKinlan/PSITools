@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.stationofgames.com/earn-to-die-2012-zombie-hunting/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Earn to Die 2012 – Zombie Hunting](http://www.stationofgames.com/earn-to-die-2012-zombie-hunting/)
 
@@ -29,9 +35,6 @@ title: http://www.stationofgames.com/earn-to-die-2012-zombie-hunting/
 *  JS Response Bytes: 1292314
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118753
-
-### Performance issues
-
 
 ### Performance issues
 

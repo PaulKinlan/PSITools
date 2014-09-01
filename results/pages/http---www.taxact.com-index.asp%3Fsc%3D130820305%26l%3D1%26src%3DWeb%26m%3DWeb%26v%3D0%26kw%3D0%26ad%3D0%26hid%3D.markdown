@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.taxact.com/index.asp?sc=130820305&l=1&src=Web&m=Web&v=0&kw=0&ad=0&hid=
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [TaxACT | Free Tax Preparation Software, File Taxes Online, Free E-filing](http://www.taxact.com/index.asp?sc=130820305&l=1&src=Web&m=Web&v=0&kw=0&ad=0&hid=)
 
@@ -29,9 +33,6 @@ title: http://www.taxact.com/index.asp?sc=130820305&l=1&src=Web&m=Web&v=0&kw=0&a
 *  JS Response Bytes: 938229
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 134342
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.dpgames.com/onlinegames/truck/?my
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Truck Games - Play Truck Games Online](http://www.dpgames.com/onlinegames/truck/?my)
 
@@ -29,9 +35,6 @@ title: http://www.dpgames.com/onlinegames/truck/?my
 *  JS Response Bytes: 426358
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1255
-
-### Performance issues
-
 
 ### Performance issues
 

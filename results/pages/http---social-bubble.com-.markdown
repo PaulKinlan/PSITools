@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://social-bubble.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Social Bubble](http://social-bubble.com/)
 
@@ -29,9 +32,6 @@ title: http://social-bubble.com/
 *  JS Response Bytes: 120995
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 241
-
-### Performance issues
-
 
 ### Performance issues
 

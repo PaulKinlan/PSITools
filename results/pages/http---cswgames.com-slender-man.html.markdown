@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://cswgames.com/slender-man.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CSWGames.Com – Slender Man!](http://cswgames.com/slender-man.html)
 
@@ -29,9 +36,6 @@ title: http://cswgames.com/slender-man.html
 *  JS Response Bytes: 468845
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3961
-
-### Performance issues
-
 
 ### Performance issues
 

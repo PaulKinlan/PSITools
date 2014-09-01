@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bestreports.info/skyperecorder/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MSN/Skype Webcam Recorder, Skype/Msn Messenger, Recording Both Audio and Video Chats](http://www.bestreports.info/skyperecorder/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.bestreports.info/skyperecorder/index.html
 *  JS Response Bytes: 1010398
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117772
-
-### Performance issues
-
 
 ### Performance issues
 

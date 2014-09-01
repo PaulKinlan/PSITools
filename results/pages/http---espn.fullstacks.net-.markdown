@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://espn.fullstacks.net/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ESPN of the Day](http://espn.fullstacks.net/)
 
@@ -29,9 +35,6 @@ title: http://espn.fullstacks.net/
 *  JS Response Bytes: 594596
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16691
-
-### Performance issues
-
 
 ### Performance issues
 

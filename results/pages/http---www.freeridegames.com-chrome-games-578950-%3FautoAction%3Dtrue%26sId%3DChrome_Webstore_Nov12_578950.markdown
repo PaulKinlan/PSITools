@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/578950/?autoAction=true&sId=Chrome_Webstore_Nov12_578950
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Mystery Cookbook for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/578950/?autoAction=true&sId=Chrome_Webstore_Nov12_578950)
 
@@ -29,9 +34,6 @@ title: http://www.freeridegames.com/chrome/games/578950/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1797920
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11653
-
-### Performance issues
-
 
 ### Performance issues
 

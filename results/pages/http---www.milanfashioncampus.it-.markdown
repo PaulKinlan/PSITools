@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.milanfashioncampus.it/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Italian Fashion School - Study Fashion in Italy](http://www.milanfashioncampus.it/)
 
@@ -29,9 +35,6 @@ title: http://www.milanfashioncampus.it/
 *  JS Response Bytes: 389182
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2122
-
-### Performance issues
-
 
 ### Performance issues
 

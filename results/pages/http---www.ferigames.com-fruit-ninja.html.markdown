@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ferigames.com/fruit-ninja.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ferigames.Com | Flash Games – Fruit Ninja](http://www.ferigames.com/fruit-ninja.html)
 
@@ -29,9 +35,6 @@ title: http://www.ferigames.com/fruit-ninja.html
 *  JS Response Bytes: 412234
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1061
-
-### Performance issues
-
 
 ### Performance issues
 

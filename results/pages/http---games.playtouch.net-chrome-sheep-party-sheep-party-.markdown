@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://games.playtouch.net/chrome/sheep-party/sheep-party/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sheep Party](http://games.playtouch.net/chrome/sheep-party/sheep-party/)
 
@@ -29,9 +32,6 @@ title: http://games.playtouch.net/chrome/sheep-party/sheep-party/
 *  JS Response Bytes: 1852373
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1047
-
-### Performance issues
-
 
 ### Performance issues
 

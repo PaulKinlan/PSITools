@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://shinobicorp.com/retro-soccer
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
 ---
 ## [Retro Soccer](https://shinobicorp.com/retro-soccer)
 
@@ -29,9 +32,6 @@ title: https://shinobicorp.com/retro-soccer
 *  JS Response Bytes: 1896413
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 248147
-
-### Performance issues
-
 
 ### Performance issues
 

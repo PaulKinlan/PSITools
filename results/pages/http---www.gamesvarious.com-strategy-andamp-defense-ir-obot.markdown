@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/strategy-andamp-defense/ir-obot
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [iR obot - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/strategy-andamp-defense/ir-obot)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/strategy-andamp-defense/ir-obot
 *  JS Response Bytes: 2212054
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 158409
-
-### Performance issues
-
 
 ### Performance issues
 

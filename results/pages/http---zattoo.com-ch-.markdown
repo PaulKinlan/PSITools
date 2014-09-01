@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://zattoo.com/ch/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Live stream TV – Überall kostenlos Fernsehen. Internet Fernsehen mit Zattoo.](http://zattoo.com/ch/)
 
@@ -29,9 +32,6 @@ title: http://zattoo.com/ch/
 *  JS Response Bytes: 188678
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1955
-
-### Performance issues
-
 
 ### Performance issues
 

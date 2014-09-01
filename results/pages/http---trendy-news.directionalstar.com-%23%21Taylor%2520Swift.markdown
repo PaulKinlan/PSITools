@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://trendy-news.directionalstar.com/#!Taylor%20Swift
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DS Trendy News](http://trendy-news.directionalstar.com/#!Taylor%20Swift)
 
@@ -29,9 +34,6 @@ title: http://trendy-news.directionalstar.com/#!Taylor%20Swift
 *  JS Response Bytes: 415575
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1593
-
-### Performance issues
-
 
 ### Performance issues
 

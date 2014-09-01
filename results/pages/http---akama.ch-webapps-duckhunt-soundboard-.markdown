@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://akama.ch/webapps/duckhunt-soundboard/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [duck hunt html5 soundboard audio](http://akama.ch/webapps/duckhunt-soundboard/)
 
@@ -29,9 +32,6 @@ title: http://akama.ch/webapps/duckhunt-soundboard/
 *  JS Response Bytes: 551360
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15512
-
-### Performance issues
-
 
 ### Performance issues
 

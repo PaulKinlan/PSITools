@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://itest.interactiveachievement.net/VA_CHARLOTTESVILLE/v7/secure/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [iTest 7](http://itest.interactiveachievement.net/VA_CHARLOTTESVILLE/v7/secure/)
 
@@ -29,9 +32,6 @@ title: http://itest.interactiveachievement.net/VA_CHARLOTTESVILLE/v7/secure/
 *  JS Response Bytes: 25825
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3505
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://e-vibe.net/?c=it
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Radio stations from Italy [Free Internet Radio] / Listen Live](http://e-vibe.net/?c=it)
 
@@ -29,9 +33,6 @@ title: http://e-vibe.net/?c=it
 *  JS Response Bytes: 915663
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 85471
-
-### Performance issues
-
 
 ### Performance issues
 

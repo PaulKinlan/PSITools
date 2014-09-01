@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://getcu3er.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CU3ER - 3D image slider!](http://getcu3er.com/)
 
@@ -29,9 +33,6 @@ title: http://getcu3er.com/
 *  JS Response Bytes: 951497
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8589
-
-### Performance issues
-
 
 ### Performance issues
 

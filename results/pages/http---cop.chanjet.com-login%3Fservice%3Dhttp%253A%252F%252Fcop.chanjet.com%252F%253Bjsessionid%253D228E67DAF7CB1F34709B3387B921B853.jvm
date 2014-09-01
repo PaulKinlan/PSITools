@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://cop.chanjet.com/login?service=http%3A%2F%2Fcop.chanjet.com%2F%3Bjsessionid%3D228E67DAF7CB1F34709B3387B921B853.jvm_cop
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [登陆页面](http://cop.chanjet.com/login?service=http%3A%2F%2Fcop.chanjet.com%2F%3Bjsessionid%3D228E67DAF7CB1F34709B3387B921B853.jvm_cop)
 
@@ -29,9 +34,6 @@ title: http://cop.chanjet.com/login?service=http%3A%2F%2Fcop.chanjet.com%2F%3Bjs
 *  JS Response Bytes: 292367
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9155
-
-### Performance issues
-
 
 ### Performance issues
 

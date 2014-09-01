@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.amazon.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [](http://www.amazon.com/)
 
@@ -29,9 +31,6 @@ title: http://www.amazon.com/
 *  JS Response Bytes: 254348
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9849
-
-### Performance issues
-
 
 ### Performance issues
 

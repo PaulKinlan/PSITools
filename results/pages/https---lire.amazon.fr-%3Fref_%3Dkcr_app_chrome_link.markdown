@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://lire.amazon.fr/?ref_=kcr_app_chrome_link
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [Kindle Cloud Reader](https://lire.amazon.fr/?ref_=kcr_app_chrome_link)
 
@@ -29,9 +33,6 @@ title: https://lire.amazon.fr/?ref_=kcr_app_chrome_link
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

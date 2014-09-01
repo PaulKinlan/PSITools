@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://burberry-tiepin.x0.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [最新ニュース情報!! -Sight- | 最新の政治ニュース・地震関連ニュース・原発や放射能関連ニュース・都市伝説や深刻な大気汚染情報にPM2.5の対策法などなど旬ニュースをお届け致します。](http://burberry-tiepin.x0.com/)
 
@@ -29,9 +31,6 @@ title: http://burberry-tiepin.x0.com/
 *  JS Response Bytes: 828380
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54668
-
-### Performance issues
-
 
 ### Performance issues
 

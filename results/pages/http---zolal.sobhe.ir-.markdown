@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://zolal.sobhe.ir/
+MinimizeRenderBlockingResources: true
 ---
 ## [زلال](http://zolal.sobhe.ir/)
 
@@ -29,9 +30,6 @@ title: http://zolal.sobhe.ir/
 *  JS Response Bytes: 373880
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 212
-
-### Performance issues
-
 
 ### Performance issues
 

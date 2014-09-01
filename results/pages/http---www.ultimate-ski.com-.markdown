@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ultimate-ski.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ultimate Ski - Ski Resorts, Ski Holidays, Ski Accommodation, Snow Reports, Ski Extras, Ski Features, Ski Deals, Ski News](http://www.ultimate-ski.com/)
 
@@ -29,9 +34,6 @@ title: http://www.ultimate-ski.com/
 *  JS Response Bytes: 2689066
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50486
-
-### Performance issues
-
 
 ### Performance issues
 

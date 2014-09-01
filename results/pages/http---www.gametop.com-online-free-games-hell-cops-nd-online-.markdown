@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gametop.com/online-free-games/hell-cops-nd-online/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hell Cops: New Dimension Free Online Game](http://www.gametop.com/online-free-games/hell-cops-nd-online/)
 
@@ -29,9 +34,6 @@ title: http://www.gametop.com/online-free-games/hell-cops-nd-online/
 *  JS Response Bytes: 586222
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

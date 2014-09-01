@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://realtimemarketindices.funkywidgets.info/realtimemarketindices.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [World Markets Real-Time Indices](http://realtimemarketindices.funkywidgets.info/realtimemarketindices.htm)
 
@@ -29,9 +34,6 @@ title: http://realtimemarketindices.funkywidgets.info/realtimemarketindices.htm
 *  JS Response Bytes: 1093398
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96986
-
-### Performance issues
-
 
 ### Performance issues
 

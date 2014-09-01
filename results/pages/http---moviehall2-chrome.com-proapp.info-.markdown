@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://moviehall2-chrome.com-proapp.info/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Movie Hall](http://moviehall2-chrome.com-proapp.info/)
 
@@ -29,9 +32,6 @@ title: http://moviehall2-chrome.com-proapp.info/
 *  JS Response Bytes: 627820
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30465
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://displaygame.com/?=404;http://displaygame.com:80/big-head-football.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [displaygame.com](http://displaygame.com/?=404;http://displaygame.com:80/big-head-football.html&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://displaygame.com/?=404;http://displaygame.com:80/big-head-football.
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 320
-
-### Performance issues
-
 
 ### Performance issues
 

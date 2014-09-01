@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.alex-berlin.de/tv/livestream/popup.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+UseLegibleFontSizes: true
 ---
 ## [Popup - ALEX BERLIN](http://www.alex-berlin.de/tv/livestream/popup.html)
 
@@ -29,9 +32,6 @@ title: http://www.alex-berlin.de/tv/livestream/popup.html
 *  JS Response Bytes: 519328
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

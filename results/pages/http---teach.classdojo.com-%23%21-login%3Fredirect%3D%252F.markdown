@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://teach.classdojo.com/#!/login?redirect=%2F
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ClassDojo for Teachers](http://teach.classdojo.com/#!/login?redirect=%2F)
 
@@ -29,9 +34,6 @@ title: http://teach.classdojo.com/#!/login?redirect=%2F
 *  JS Response Bytes: 2160993
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3565
-
-### Performance issues
-
 
 ### Performance issues
 

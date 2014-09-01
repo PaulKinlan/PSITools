@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://m.chabad.org/dailystudy/default_cdo/jewish/Daily-Study.htm
+MinimizeRenderBlockingResources: true
 ---
 ## [Daily Torah Study](http://m.chabad.org/dailystudy/default_cdo/jewish/Daily-Study.htm)
 
@@ -29,9 +30,6 @@ title: http://m.chabad.org/dailystudy/default_cdo/jewish/Daily-Study.htm
 *  JS Response Bytes: 1676832
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96381
-
-### Performance issues
-
 
 ### Performance issues
 

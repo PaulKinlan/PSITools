@@ -18,15 +18,15 @@ title: https://www.okcupid.com/
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 1384
+*  Total Request Bytes: 1386
 
 ### Response data
 
 *  HTML Response Bytes: 4050
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 43834
-*  Image Response Bytes: 12020
-*  JS Response Bytes: 91201
+*  Image Response Bytes: 12021
+*  JS Response Bytes: 91274
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 998
 
@@ -37,7 +37,6 @@ title: https://www.okcupid.com/
 
 *  Avoid landing page redirects
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
-*  Inline render-blocking CSS
 
 ### Mobile UX issues
 

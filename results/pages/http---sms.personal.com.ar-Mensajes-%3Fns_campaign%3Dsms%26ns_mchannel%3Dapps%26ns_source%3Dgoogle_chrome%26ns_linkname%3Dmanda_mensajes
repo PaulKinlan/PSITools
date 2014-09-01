@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://sms.personal.com.ar/Mensajes/?ns_campaign=sms&ns_mchannel=apps&ns_source=google_chrome&ns_linkname=manda_mensajes&ns_fee=0
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Personal SMS Online - Enviá mensajes SMS online Gratis - Personal.com.ar](http://sms.personal.com.ar/Mensajes/?ns_campaign=sms&ns_mchannel=apps&ns_source=google_chrome&ns_linkname=manda_mensajes&ns_fee=0)
 
@@ -29,9 +32,6 @@ title: http://sms.personal.com.ar/Mensajes/?ns_campaign=sms&ns_mchannel=apps&ns_
 *  JS Response Bytes: 1019573
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3181
-
-### Performance issues
-
 
 ### Performance issues
 

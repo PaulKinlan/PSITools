@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://bpig21.yunusemreaktas.com/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Index of /](http://bpig21.yunusemreaktas.com/)
 
@@ -29,9 +31,6 @@ title: http://bpig21.yunusemreaktas.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

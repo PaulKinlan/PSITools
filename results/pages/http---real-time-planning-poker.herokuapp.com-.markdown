@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://real-time-planning-poker.herokuapp.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Planning Poker](http://real-time-planning-poker.herokuapp.com/)
 
@@ -29,9 +32,6 @@ title: http://real-time-planning-poker.herokuapp.com/
 *  JS Response Bytes: 231443
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 75779
-
-### Performance issues
-
 
 ### Performance issues
 

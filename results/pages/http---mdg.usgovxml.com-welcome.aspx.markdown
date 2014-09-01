@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://mdg.usgovxml.com/welcome.aspx
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mobile Drug Guide](http://mdg.usgovxml.com/welcome.aspx)
 
@@ -29,9 +34,6 @@ title: http://mdg.usgovxml.com/welcome.aspx
 *  JS Response Bytes: 556894
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

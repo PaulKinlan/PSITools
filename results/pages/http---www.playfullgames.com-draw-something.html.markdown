@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.playfullgames.com/draw-something.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Draw Something : Play Full Games](http://www.playfullgames.com/draw-something.html)
 
@@ -29,9 +37,6 @@ title: http://www.playfullgames.com/draw-something.html
 *  JS Response Bytes: 1529544
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98574
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.publishyourdesign.com/modeler
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Publish Your Design - Design Something](http://www.publishyourdesign.com/modeler)
 
@@ -29,9 +32,6 @@ title: http://www.publishyourdesign.com/modeler
 *  JS Response Bytes: 1303338
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

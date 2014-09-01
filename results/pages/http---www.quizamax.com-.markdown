@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.quizamax.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Quizamax : Quizz pour gagner des cadeaux](http://www.quizamax.com/)
 
@@ -29,9 +33,6 @@ title: http://www.quizamax.com/
 *  JS Response Bytes: 1668192
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2265
-
-### Performance issues
-
 
 ### Performance issues
 

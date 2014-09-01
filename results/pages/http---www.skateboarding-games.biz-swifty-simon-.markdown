@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/swifty-simon/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Swifty Simon game](http://www.skateboarding-games.biz/swifty-simon/)
 
@@ -29,9 +35,6 @@ title: http://www.skateboarding-games.biz/swifty-simon/
 *  JS Response Bytes: 2279924
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124544
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.xgenstudios.com/game.php?keyword=territory-war-online-3
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [XGen Studios - Online Flash Games - Territory War 3](http://www.xgenstudios.com/game.php?keyword=territory-war-online-3)
 
@@ -29,9 +35,6 @@ title: http://www.xgenstudios.com/game.php?keyword=territory-war-online-3
 *  JS Response Bytes: 609298
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

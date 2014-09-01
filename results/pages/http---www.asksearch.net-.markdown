@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.asksearch.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [asksearch.net](http://www.asksearch.net/)
 
@@ -29,9 +33,6 @@ title: http://www.asksearch.net/
 *  JS Response Bytes: 173156
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

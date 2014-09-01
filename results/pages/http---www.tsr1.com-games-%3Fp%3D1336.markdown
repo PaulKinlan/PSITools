@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tsr1.com/games/?p=1336
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games to Addict » Blog Archive » SNIPER OMOH](http://www.tsr1.com/games/?p=1336)
 
@@ -29,9 +34,6 @@ title: http://www.tsr1.com/games/?p=1336
 *  JS Response Bytes: 508734
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

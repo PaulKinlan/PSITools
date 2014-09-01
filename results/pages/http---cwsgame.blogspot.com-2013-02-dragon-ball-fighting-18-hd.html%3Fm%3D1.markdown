@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://cwsgame.blogspot.com/2013/02/dragon-ball-fighting-18-hd.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
 ---
 ## [Chrome Web Store Games: Dragon Ball Fighting 1.8](http://cwsgame.blogspot.com/2013/02/dragon-ball-fighting-18-hd.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://cwsgame.blogspot.com/2013/02/dragon-ball-fighting-18-hd.html?m=1
 *  JS Response Bytes: 2394217
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 302617
-
-### Performance issues
-
 
 ### Performance issues
 

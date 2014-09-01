@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://shakygames.com/angry-gran-run-cairo-game/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [shakygames.com-the best free online flash gamesAngry Gran Run Cairo Game | www.shakygames.com](http://shakygames.com/angry-gran-run-cairo-game/)
 
@@ -29,9 +34,6 @@ title: http://shakygames.com/angry-gran-run-cairo-game/
 *  JS Response Bytes: 1605979
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17630
-
-### Performance issues
-
 
 ### Performance issues
 

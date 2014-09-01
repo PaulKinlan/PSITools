@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.fengkuanglaowai.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [《疯狂老外》 外国人在中国的喜剧短片, 放松一下，幽默一下！](http://www.fengkuanglaowai.com/)
 
@@ -29,9 +33,6 @@ title: http://www.fengkuanglaowai.com/
 *  JS Response Bytes: 476851
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1768
-
-### Performance issues
-
 
 ### Performance issues
 

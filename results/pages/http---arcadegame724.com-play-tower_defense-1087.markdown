@@ -33,8 +33,5 @@ title: http://arcadegame724.com/play/tower_defense-1087
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

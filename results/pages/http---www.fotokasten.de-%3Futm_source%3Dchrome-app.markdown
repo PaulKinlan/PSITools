@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fotokasten.de/?utm_source=chrome-app
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fotokasten - Ihr Fotoservice im Internet](http://www.fotokasten.de/?utm_source=chrome-app)
 
@@ -29,9 +34,6 @@ title: http://www.fotokasten.de/?utm_source=chrome-app
 *  JS Response Bytes: 1324710
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3160
-
-### Performance issues
-
 
 ### Performance issues
 

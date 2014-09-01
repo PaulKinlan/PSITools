@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://wildstar-mmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Wildstar Online](http://wildstar-mmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://wildstar-mmo.appspot.com/
 *  JS Response Bytes: 1177909
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163930
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://batman-news.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Batman-News.com - Batman v Superman: Dawn of Justice News, Rumors, Photos & More](http://batman-news.com/)
 
@@ -29,9 +30,6 @@ title: http://batman-news.com/
 *  JS Response Bytes: 1261004
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 89646
-
-### Performance issues
-
 
 ### Performance issues
 

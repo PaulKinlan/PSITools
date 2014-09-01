@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.caves-explorer.com/fr/identification/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Caves Explorer - Connexion à votre gestion de cave à vin gratuite en ligne](http://www.caves-explorer.com/fr/identification/)
 
@@ -29,9 +32,6 @@ title: http://www.caves-explorer.com/fr/identification/
 *  JS Response Bytes: 157080
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

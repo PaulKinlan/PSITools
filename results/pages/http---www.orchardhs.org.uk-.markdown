@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.orchardhs.org.uk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [OHS | Orchard House School](http://www.orchardhs.org.uk/)
 
@@ -29,9 +33,6 @@ title: http://www.orchardhs.org.uk/
 *  JS Response Bytes: 414745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 822
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.playdreamcreate.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PDC](http://www.playdreamcreate.com/)
 
@@ -29,9 +33,6 @@ title: http://www.playdreamcreate.com/
 *  JS Response Bytes: 582678
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43187
-
-### Performance issues
-
 
 ### Performance issues
 

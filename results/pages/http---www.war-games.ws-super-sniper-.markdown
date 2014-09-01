@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/super-sniper/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Sniper](http://www.war-games.ws/super-sniper/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/super-sniper/
 *  JS Response Bytes: 2232448
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116992
-
-### Performance issues
-
 
 ### Performance issues
 

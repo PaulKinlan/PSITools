@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mapdango.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Official National Park Maps on Google Maps](http://www.mapdango.com/)
 
@@ -29,9 +32,6 @@ title: http://www.mapdango.com/
 *  JS Response Bytes: 560292
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43184
-
-### Performance issues
-
 
 ### Performance issues
 

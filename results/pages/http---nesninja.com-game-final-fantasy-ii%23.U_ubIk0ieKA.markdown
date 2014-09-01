@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://nesninja.com/game/final-fantasy-ii#.U_ubIk0ieKA
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Final Fantasy IV » NES Ninja](http://nesninja.com/game/final-fantasy-ii#.U_ubIk0ieKA)
 
@@ -29,9 +32,6 @@ title: http://nesninja.com/game/final-fantasy-ii#.U_ubIk0ieKA
 *  JS Response Bytes: 2388442
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 182830
-
-### Performance issues
-
 
 ### Performance issues
 

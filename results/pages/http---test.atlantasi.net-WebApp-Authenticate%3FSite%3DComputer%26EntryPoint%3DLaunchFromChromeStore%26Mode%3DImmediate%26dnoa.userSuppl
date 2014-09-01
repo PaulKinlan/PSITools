@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://test.atlantasi.net/WebApp/Authenticate?Site=Computer&EntryPoint=LaunchFromChromeStore&Mode=Immediate&dnoa.userSuppliedIdentifier=https://www.google.com/accounts/o8/id&openid.mode=setup_needed&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.ext1=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fui%2F1.0
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MoneyTrail.net - Log On to Your MoneyTrail Account](http://test.atlantasi.net/WebApp/Authenticate?Site=Computer&EntryPoint=LaunchFromChromeStore&Mode=Immediate&dnoa.userSuppliedIdentifier=https://www.google.com/accounts/o8/id&openid.mode=setup_needed&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.ext1=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fui%2F1.0)
 
@@ -29,9 +36,6 @@ title: http://test.atlantasi.net/WebApp/Authenticate?Site=Computer&EntryPoint=La
 *  JS Response Bytes: 41741
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9108
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://freesms.appzend.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free SMS, Text Messaging](http://freesms.appzend.net/)
 
@@ -29,9 +33,6 @@ title: http://freesms.appzend.net/
 *  JS Response Bytes: 823213
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14603
-
-### Performance issues
-
 
 ### Performance issues
 

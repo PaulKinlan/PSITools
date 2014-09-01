@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://endo.dxy.cn/
+MinimizeRenderBlockingResources: true
 ---
 ## [内分泌_丁香园](http://endo.dxy.cn/)
 
@@ -29,9 +30,6 @@ title: http://endo.dxy.cn/
 *  JS Response Bytes: 224851
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

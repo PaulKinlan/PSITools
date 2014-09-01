@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.hungryfeed.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [HungryFeed | Read the best content](http://www.hungryfeed.com/)
 
@@ -29,9 +34,6 @@ title: http://www.hungryfeed.com/
 *  JS Response Bytes: 153495
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 222478
-
-### Performance issues
-
 
 ### Performance issues
 

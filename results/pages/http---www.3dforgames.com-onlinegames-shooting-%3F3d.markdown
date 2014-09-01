@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.3dforgames.com/onlinegames/shooting/?3d
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Shooting Games - Free Online Unity3D Shooting Games](http://www.3dforgames.com/onlinegames/shooting/?3d)
 
@@ -29,9 +33,6 @@ title: http://www.3dforgames.com/onlinegames/shooting/?3d
 *  JS Response Bytes: 400586
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.sindhsalamat.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SindhSalamat](http://www.sindhsalamat.com/)
 
@@ -29,9 +32,6 @@ title: http://www.sindhsalamat.com/
 *  JS Response Bytes: 1388905
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99103
-
-### Performance issues
-
 
 ### Performance issues
 

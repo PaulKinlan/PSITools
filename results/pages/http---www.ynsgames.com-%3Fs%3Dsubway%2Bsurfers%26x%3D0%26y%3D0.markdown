@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ynsgames.com/?s=subway+surfers&x=0&y=0
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [subway surfers « Search Results « Online free hd games play game](http://www.ynsgames.com/?s=subway+surfers&x=0&y=0)
 
@@ -29,9 +33,6 @@ title: http://www.ynsgames.com/?s=subway+surfers&x=0&y=0
 *  JS Response Bytes: 398593
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

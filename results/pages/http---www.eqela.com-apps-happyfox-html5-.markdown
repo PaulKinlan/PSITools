@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.eqela.com/apps/happyfox/html5/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Happy Fox](http://www.eqela.com/apps/happyfox/html5/)
 
@@ -29,9 +32,6 @@ title: http://www.eqela.com/apps/happyfox/html5/
 *  JS Response Bytes: 701917
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

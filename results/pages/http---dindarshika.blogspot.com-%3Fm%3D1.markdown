@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://dindarshika.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [मराठी दिनदर्शिका - Marathi Calendar](http://dindarshika.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://dindarshika.blogspot.com/?m=1
 *  JS Response Bytes: 248929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 563
-
-### Performance issues
-
 
 ### Performance issues
 

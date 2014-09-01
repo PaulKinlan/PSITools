@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://umpako.com/chrome_radio.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [IDM Netlabel, experimental music - Umpako Radio](http://umpako.com/chrome_radio.php)
 
@@ -29,9 +33,6 @@ title: http://umpako.com/chrome_radio.php
 *  JS Response Bytes: 206505
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

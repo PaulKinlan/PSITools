@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://collectapi.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [CollectShop | コレクトショップ](http://collectapi.appspot.com/)
 
@@ -29,9 +31,6 @@ title: http://collectapi.appspot.com/
 *  JS Response Bytes: 226506
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.thelastzombie.net/zombiecraft/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ZombieCraft](http://www.thelastzombie.net/zombiecraft/)
 
@@ -29,9 +35,6 @@ title: http://www.thelastzombie.net/zombiecraft/
 *  JS Response Bytes: 2829225
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148281
-
-### Performance issues
-
 
 ### Performance issues
 

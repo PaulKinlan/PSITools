@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mareiguanahostel.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hostel Bocas del Toro - Mare Iguana Hostel](http://www.mareiguanahostel.com/)
 
@@ -29,9 +33,6 @@ title: http://www.mareiguanahostel.com/
 *  JS Response Bytes: 240965
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46458
-
-### Performance issues
-
 
 ### Performance issues
 

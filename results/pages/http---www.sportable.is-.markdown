@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.sportable.is/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [sportable.is - Sports at a Glance](http://www.sportable.is/)
 
@@ -29,9 +32,6 @@ title: http://www.sportable.is/
 *  JS Response Bytes: 193363
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2304
-
-### Performance issues
-
 
 ### Performance issues
 

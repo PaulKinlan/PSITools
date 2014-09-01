@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamegreat.us/default-category/uphill-rush-6-2
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Uphill Rush 6 - Game Great](http://www.gamegreat.us/default-category/uphill-rush-6-2)
 
@@ -29,9 +34,6 @@ title: http://www.gamegreat.us/default-category/uphill-rush-6-2
 *  JS Response Bytes: 1880745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113102
-
-### Performance issues
-
 
 ### Performance issues
 

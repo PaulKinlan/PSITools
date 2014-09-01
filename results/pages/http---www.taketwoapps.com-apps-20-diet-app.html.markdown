@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.taketwoapps.com/apps/20/diet/app.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Diet and Weight Loss Advice](http://www.taketwoapps.com/apps/20/diet/app.html)
 
@@ -29,9 +32,6 @@ title: http://www.taketwoapps.com/apps/20/diet/app.html
 *  JS Response Bytes: 429091
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

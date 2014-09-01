@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/striker-run/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Striker Run Game](http://www.footballgam.es/striker-run/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/striker-run/
 *  JS Response Bytes: 2265168
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 142271
-
-### Performance issues
-
 
 ### Performance issues
 

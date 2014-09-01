@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mathsisfun.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Math is Fun - Maths Resources](http://www.mathsisfun.com/)
 
@@ -29,9 +32,6 @@ title: http://www.mathsisfun.com/
 *  JS Response Bytes: 762601
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17175
-
-### Performance issues
-
 
 ### Performance issues
 

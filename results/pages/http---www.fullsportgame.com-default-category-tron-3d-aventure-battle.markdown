@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.fullsportgame.com/default-category/tron-3d-aventure-battle
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tron 3D Aventure Battle - Full Sport Game](http://www.fullsportgame.com/default-category/tron-3d-aventure-battle)
 
@@ -29,9 +33,6 @@ title: http://www.fullsportgame.com/default-category/tron-3d-aventure-battle
 *  JS Response Bytes: 2381019
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114509
-
-### Performance issues
-
 
 ### Performance issues
 

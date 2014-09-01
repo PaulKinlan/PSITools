@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://flashflappybird.blogspot.com.tr/2014/02/adventure-bike.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Flappy Bird: Adventure Bike](http://flashflappybird.blogspot.com.tr/2014/02/adventure-bike.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://flashflappybird.blogspot.com.tr/2014/02/adventure-bike.html?m=1
 *  JS Response Bytes: 1269455
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109974
-
-### Performance issues
-
 
 ### Performance issues
 

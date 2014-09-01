@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://torigames.com/papas-cupcakeria.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ToriGames.Com | Flash Game | Flash Games | – Papa’s Cupcakeria](http://torigames.com/papas-cupcakeria.html)
 
@@ -29,9 +35,6 @@ title: http://torigames.com/papas-cupcakeria.html
 *  JS Response Bytes: 420456
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1083
-
-### Performance issues
-
 
 ### Performance issues
 

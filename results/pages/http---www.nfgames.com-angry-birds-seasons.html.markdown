@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.nfgames.com/angry-birds-seasons.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Seasons | NF Games](http://www.nfgames.com/angry-birds-seasons.html)
 
@@ -29,9 +33,6 @@ title: http://www.nfgames.com/angry-birds-seasons.html
 *  JS Response Bytes: 1693905
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103920
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gamesareachrome.blogspot.com/2013/05/subway-surfers.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [call dufty](http://gamesareachrome.blogspot.com/2013/05/subway-surfers.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://gamesareachrome.blogspot.com/2013/05/subway-surfers.html?m=1
 *  JS Response Bytes: 791002
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 330875
-
-### Performance issues
-
 
 ### Performance issues
 

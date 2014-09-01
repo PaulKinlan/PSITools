@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.eqela.com/apps/barelypinoy/html/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Barely Pinoy](http://www.eqela.com/apps/barelypinoy/html/)
 
@@ -29,9 +32,6 @@ title: http://www.eqela.com/apps/barelypinoy/html/
 *  JS Response Bytes: 1619425
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

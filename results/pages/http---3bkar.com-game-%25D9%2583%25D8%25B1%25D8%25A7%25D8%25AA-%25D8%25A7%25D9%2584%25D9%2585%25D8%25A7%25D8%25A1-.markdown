@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://3bkar.com/game/%D9%83%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A7%D8%A1/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [كرات الماء](http://3bkar.com/game/%D9%83%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A7%D8%A1/)
 
@@ -29,9 +36,6 @@ title: http://3bkar.com/game/%D9%83%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A7%D
 *  JS Response Bytes: 544332
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2650
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://phagewars.perfectgames.info/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Perfectgames.info](http://phagewars.perfectgames.info/)
 
@@ -29,9 +33,6 @@ title: http://phagewars.perfectgames.info/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

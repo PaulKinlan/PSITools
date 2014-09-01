@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.appshore.com/?&op=customerlogin.base.start
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AppShore - Online Customer Relationship Management for Small Business](http://www.appshore.com/?&op=customerlogin.base.start)
 
@@ -29,9 +35,6 @@ title: http://www.appshore.com/?&op=customerlogin.base.start
 *  JS Response Bytes: 299500
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

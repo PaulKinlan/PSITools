@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.paginainizio.com/sogni.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Significato Sogni per Mobile](http://m.paginainizio.com/sogni.php)
 
@@ -29,9 +32,6 @@ title: http://m.paginainizio.com/sogni.php
 *  JS Response Bytes: 573139
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 648
-
-### Performance issues
-
 
 ### Performance issues
 

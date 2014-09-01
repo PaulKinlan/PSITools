@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ilike888.com/bookkeeper/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bookkeeper 2014 -- Accounting Softweare for Windows](http://www.ilike888.com/bookkeeper/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.ilike888.com/bookkeeper/index.html
 *  JS Response Bytes: 935597
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109057
-
-### Performance issues
-
 
 ### Performance issues
 

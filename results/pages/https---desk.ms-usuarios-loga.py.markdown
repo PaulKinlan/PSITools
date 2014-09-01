@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://desk.ms/usuarios/loga.py
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Desk Manager - Informe o Nome do Cliente](https://desk.ms/usuarios/loga.py)
 
@@ -29,9 +33,6 @@ title: https://desk.ms/usuarios/loga.py
 *  JS Response Bytes: 80948
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14862
-
-### Performance issues
-
 
 ### Performance issues
 

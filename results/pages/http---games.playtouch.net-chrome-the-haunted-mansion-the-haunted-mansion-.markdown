@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://games.playtouch.net/chrome/the-haunted-mansion/the-haunted-mansion/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Haunted Mansion](http://games.playtouch.net/chrome/the-haunted-mansion/the-haunted-mansion/)
 
@@ -29,9 +31,6 @@ title: http://games.playtouch.net/chrome/the-haunted-mansion/the-haunted-mansion
 *  JS Response Bytes: 1635774
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1055
-
-### Performance issues
-
 
 ### Performance issues
 

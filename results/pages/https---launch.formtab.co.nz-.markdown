@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://launch.formtab.co.nz/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FormTab](https://launch.formtab.co.nz/)
 
@@ -29,9 +32,6 @@ title: https://launch.formtab.co.nz/
 *  JS Response Bytes: 138262
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

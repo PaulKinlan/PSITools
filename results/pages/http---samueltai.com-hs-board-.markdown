@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://samueltai.com/hs/board/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [留言板 - 邰正宵～心弦網](http://samueltai.com/hs/board/)
 
@@ -29,9 +32,6 @@ title: http://samueltai.com/hs/board/
 *  JS Response Bytes: 145929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29010
-
-### Performance issues
-
 
 ### Performance issues
 

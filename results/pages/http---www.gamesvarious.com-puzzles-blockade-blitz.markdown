@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/puzzles/blockade-blitz
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blockade Blitz - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/puzzles/blockade-blitz)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/puzzles/blockade-blitz
 *  JS Response Bytes: 2181131
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 107133
-
-### Performance issues
-
 
 ### Performance issues
 

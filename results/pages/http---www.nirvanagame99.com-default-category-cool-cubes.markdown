@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.nirvanagame99.com/default-category/cool-cubes
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cool Cubes - Nirvanegame99.com](http://www.nirvanagame99.com/default-category/cool-cubes)
 
@@ -29,9 +34,6 @@ title: http://www.nirvanagame99.com/default-category/cool-cubes
 *  JS Response Bytes: 1175357
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15529
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.chromegame.biz/uncategorized/minecraft-2d/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chrome Store Game – Minecraft 2D](http://www.chromegame.biz/uncategorized/minecraft-2d/)
 
@@ -29,9 +34,6 @@ title: http://www.chromegame.biz/uncategorized/minecraft-2d/
 *  JS Response Bytes: 845736
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5714
-
-### Performance issues
-
 
 ### Performance issues
 

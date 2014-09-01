@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.downloadhelper.info/utorrent-bittorrent.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [utorrent bittorrent | Download Helper](http://www.downloadhelper.info/utorrent-bittorrent.html)
 
@@ -29,9 +32,6 @@ title: http://www.downloadhelper.info/utorrent-bittorrent.html
 *  JS Response Bytes: 553896
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 71603
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://queville.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [QUEVILLE: Multiplayer RPG Game](http://queville.com/)
 
@@ -29,9 +35,6 @@ title: http://queville.com/
 *  JS Response Bytes: 635535
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15699
-
-### Performance issues
-
 
 ### Performance issues
 

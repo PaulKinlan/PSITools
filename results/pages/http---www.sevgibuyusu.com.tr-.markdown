@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.sevgibuyusu.com.tr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sevgi Büyüsü](http://www.sevgibuyusu.com.tr/)
 
@@ -18,20 +22,17 @@ title: http://www.sevgibuyusu.com.tr/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 24
-*  Total Request Bytes: 2641
+*  Total Request Bytes: 2640
 
 ### Response data
 
 *  HTML Response Bytes: 21668
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 24625
-*  Image Response Bytes: 91399
-*  JS Response Bytes: 591534
+*  Image Response Bytes: 91398
+*  JS Response Bytes: 591612
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11152
-
-### Performance issues
-
 
 ### Performance issues
 

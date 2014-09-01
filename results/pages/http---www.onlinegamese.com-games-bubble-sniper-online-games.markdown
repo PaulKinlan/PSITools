@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.onlinegamese.com/games/bubble-sniper/online-games
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bubble Sniper | Online Games | Free Online Games Play Now](http://www.onlinegamese.com/games/bubble-sniper/online-games)
 
@@ -29,9 +35,6 @@ title: http://www.onlinegamese.com/games/bubble-sniper/online-games
 *  JS Response Bytes: 1866719
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 154798
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://facebookfootprint-photoc.rhcloud.com/
+UseLegibleFontSizes: true
 ---
 ## [503 Service Temporarily Unavailable](http://facebookfootprint-photoc.rhcloud.com/)
 
@@ -29,9 +30,6 @@ title: http://facebookfootprint-photoc.rhcloud.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 554
-
-### Performance issues
-
 
 ### Performance issues
 

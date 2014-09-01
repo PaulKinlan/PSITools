@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.theinquirer.net/?utm_source=chrome&utm_medium=webapp&utm_campaign=chrome_webstore
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [THE INQUIRER - News, reviews and opinion for tech buffs - The Inquirer](http://m.theinquirer.net/?utm_source=chrome&utm_medium=webapp&utm_campaign=chrome_webstore)
 
@@ -29,9 +33,6 @@ title: http://m.theinquirer.net/?utm_source=chrome&utm_medium=webapp&utm_campaig
 *  JS Response Bytes: 1332478
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16311
-
-### Performance issues
-
 
 ### Performance issues
 

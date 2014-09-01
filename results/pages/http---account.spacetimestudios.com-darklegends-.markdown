@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://account.spacetimestudios.com/darklegends/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [Dark Legends](http://account.spacetimestudios.com/darklegends/)
 
@@ -29,9 +32,6 @@ title: http://account.spacetimestudios.com/darklegends/
 *  JS Response Bytes: 240754
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1890
-
-### Performance issues
-
 
 ### Performance issues
 

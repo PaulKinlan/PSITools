@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamoid.net/rollercoaster-creator-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rollercoaster Creator 2](http://www.gamoid.net/rollercoaster-creator-2/)
 
@@ -29,9 +35,6 @@ title: http://www.gamoid.net/rollercoaster-creator-2/
 *  JS Response Bytes: 2915581
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 151610
-
-### Performance issues
-
 
 ### Performance issues
 

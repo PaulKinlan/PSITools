@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.winweb.com/blog-hosting/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WinWeb | Blog - Engage With Your Expertise](https://www.winweb.com/blog-hosting/)
 
@@ -29,9 +33,6 @@ title: https://www.winweb.com/blog-hosting/
 *  JS Response Bytes: 1156437
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296525
-
-### Performance issues
-
 
 ### Performance issues
 

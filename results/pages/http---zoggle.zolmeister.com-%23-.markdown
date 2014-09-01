@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://zoggle.zolmeister.com/#/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Zoggle](http://zoggle.zolmeister.com/#/)
 
@@ -29,9 +33,6 @@ title: http://zoggle.zolmeister.com/#/
 *  JS Response Bytes: 608465
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27006
-
-### Performance issues
-
 
 ### Performance issues
 

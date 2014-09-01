@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://whois.domaintools.com/?utm_source=chromewebstore&utm_medium=chromewebstore&utm_campaign=chromewebstore
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Security Notice](http://whois.domaintools.com/?utm_source=chromewebstore&utm_medium=chromewebstore&utm_campaign=chromewebstore)
 
@@ -29,9 +33,6 @@ title: http://whois.domaintools.com/?utm_source=chromewebstore&utm_medium=chrome
 *  JS Response Bytes: 924954
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120907
-
-### Performance issues
-
 
 ### Performance issues
 

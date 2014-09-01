@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://bologames.com/papas-pizzeria.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BoloGames.Com | Flash Games – Papa’s Pizzeria](http://bologames.com/papas-pizzeria.html)
 
@@ -29,9 +36,6 @@ title: http://bologames.com/papas-pizzeria.html
 *  JS Response Bytes: 412704
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 805
-
-### Performance issues
-
 
 ### Performance issues
 

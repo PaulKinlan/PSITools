@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://funkyquotes.info/game/atlantisf.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Rise of Atlantis](http://funkyquotes.info/game/atlantisf.htm)
 
@@ -29,9 +35,6 @@ title: http://funkyquotes.info/game/atlantisf.htm
 *  JS Response Bytes: 604774
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99692
-
-### Performance issues
-
 
 ### Performance issues
 

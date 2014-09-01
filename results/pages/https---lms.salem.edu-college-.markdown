@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://lms.salem.edu/college/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Salem College Moodle](https://lms.salem.edu/college/)
 
@@ -29,9 +33,6 @@ title: https://lms.salem.edu/college/
 *  JS Response Bytes: 418525
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 981
-
-### Performance issues
-
 
 ### Performance issues
 

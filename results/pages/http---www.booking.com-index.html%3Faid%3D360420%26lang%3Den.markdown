@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.booking.com/index.html?aid=360420&lang=en
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Booking.com: 532,363 hotels worldwide. 35+ million hotel reviews.](http://www.booking.com/index.html?aid=360420&lang=en)
 
@@ -29,9 +32,6 @@ title: http://www.booking.com/index.html?aid=360420&lang=en
 *  JS Response Bytes: 780764
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 709
-
-### Performance issues
-
 
 ### Performance issues
 

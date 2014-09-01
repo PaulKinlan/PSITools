@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://converter.appb.in/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [converter](http://converter.appb.in/)
 
@@ -29,9 +33,6 @@ title: http://converter.appb.in/
 *  JS Response Bytes: 138973
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22275
-
-### Performance issues
-
 
 ### Performance issues
 

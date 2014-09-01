@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://multi-sudoku.appspot.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Multi-Sudoku](https://multi-sudoku.appspot.com/)
 
@@ -29,9 +34,6 @@ title: https://multi-sudoku.appspot.com/
 *  JS Response Bytes: 1017782
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3942
-
-### Performance issues
-
 
 ### Performance issues
 

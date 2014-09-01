@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://joomla6teen.com/blog/category/joomla-tutorials/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Joomla Tutorials](http://joomla6teen.com/blog/category/joomla-tutorials/)
 
@@ -29,9 +31,6 @@ title: http://joomla6teen.com/blog/category/joomla-tutorials/
 *  JS Response Bytes: 1468918
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 305251
-
-### Performance issues
-
 
 ### Performance issues
 

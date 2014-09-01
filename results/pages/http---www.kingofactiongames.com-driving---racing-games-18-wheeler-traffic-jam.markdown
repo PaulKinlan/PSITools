@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.kingofactiongames.com/driving---racing-games/18-wheeler-traffic-jam
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [18 Wheeler Traffic Jam - Games - Play Free Online King of Action Games](http://www.kingofactiongames.com/driving---racing-games/18-wheeler-traffic-jam)
 
@@ -29,9 +35,6 @@ title: http://www.kingofactiongames.com/driving---racing-games/18-wheeler-traffi
 *  JS Response Bytes: 526073
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

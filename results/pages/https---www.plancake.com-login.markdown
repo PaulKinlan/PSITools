@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.plancake.com/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Plancake - Online project manager and todo list with GTD](https://www.plancake.com/login)
 
@@ -29,9 +34,6 @@ title: https://www.plancake.com/login
 *  JS Response Bytes: 172002
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 993
-
-### Performance issues
-
 
 ### Performance issues
 

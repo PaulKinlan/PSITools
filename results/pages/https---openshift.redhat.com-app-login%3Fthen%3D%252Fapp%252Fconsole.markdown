@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://openshift.redhat.com/app/login?then=%2Fapp%2Fconsole
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sign in to OpenShift Online | OpenShift Online by Red Hat](https://openshift.redhat.com/app/login?then=%2Fapp%2Fconsole)
 
@@ -29,9 +32,6 @@ title: https://openshift.redhat.com/app/login?then=%2Fapp%2Fconsole
 *  JS Response Bytes: 350907
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6253
-
-### Performance issues
-
 
 ### Performance issues
 

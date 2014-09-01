@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.absgames.info/?s=ski+safari
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online free best games – Search Results – ski safari](http://www.absgames.info/?s=ski+safari)
 
@@ -29,9 +33,6 @@ title: http://www.absgames.info/?s=ski+safari
 *  JS Response Bytes: 566560
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

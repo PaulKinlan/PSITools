@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mallshop777.com/legitimateonlinejobs/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Legitimate Online Jobs](http://www.mallshop777.com/legitimateonlinejobs/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.mallshop777.com/legitimateonlinejobs/index.html
 *  JS Response Bytes: 555263
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

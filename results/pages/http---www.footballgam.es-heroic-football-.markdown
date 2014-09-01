@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/heroic-football/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Heroic Football Game](http://www.footballgam.es/heroic-football/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/heroic-football/
 *  JS Response Bytes: 2296906
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156811
-
-### Performance issues
-
 
 ### Performance issues
 

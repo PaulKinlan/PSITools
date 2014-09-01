@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.justas.biz/lines/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Lines](http://www.justas.biz/lines/)
 
@@ -29,9 +33,6 @@ title: http://www.justas.biz/lines/
 *  JS Response Bytes: 952734
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15941
-
-### Performance issues
-
 
 ### Performance issues
 

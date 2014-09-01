@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.tunnelgame.net/flash-games/rollercoaster-rush/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rollercoaster Rush « Flash Games, Online Games](http://www.tunnelgame.net/flash-games/rollercoaster-rush/)
 
@@ -29,9 +37,6 @@ title: http://www.tunnelgame.net/flash-games/rollercoaster-rush/
 *  JS Response Bytes: 1045372
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15447
-
-### Performance issues
-
 
 ### Performance issues
 

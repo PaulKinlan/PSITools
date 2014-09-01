@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.castleknightgames.com/tbc/
+EnableGzipCompression: true
 ---
 ## [Tizzie's Bubble Chase](http://www.castleknightgames.com/tbc/)
 
@@ -29,9 +30,6 @@ title: http://www.castleknightgames.com/tbc/
 *  JS Response Bytes: 1869897
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 521
-
-### Performance issues
-
 
 ### Performance issues
 

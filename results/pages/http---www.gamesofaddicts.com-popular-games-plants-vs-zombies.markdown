@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesofaddicts.com/popular-games/plants-vs-zombies
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | Gamesogaddicts.com | Play Most Popular Games Free](http://www.gamesofaddicts.com/popular-games/plants-vs-zombies)
 
@@ -29,9 +35,6 @@ title: http://www.gamesofaddicts.com/popular-games/plants-vs-zombies
 *  JS Response Bytes: 1283070
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3719
-
-### Performance issues
-
 
 ### Performance issues
 

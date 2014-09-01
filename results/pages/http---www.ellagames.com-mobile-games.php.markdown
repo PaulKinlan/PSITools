@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ellagames.com/mobile/games.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free HTML5 Mobile games at EllaGames.com](http://www.ellagames.com/mobile/games.php)
 
@@ -29,9 +32,6 @@ title: http://www.ellagames.com/mobile/games.php
 *  JS Response Bytes: 1180227
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 159583
-
-### Performance issues
-
 
 ### Performance issues
 

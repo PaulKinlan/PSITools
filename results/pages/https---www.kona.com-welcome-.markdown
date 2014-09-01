@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://www.kona.com/welcome/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Social Collaboration for Projects and Teams | Kona.com](https://www.kona.com/welcome/)
 
@@ -29,9 +35,6 @@ title: https://www.kona.com/welcome/
 *  JS Response Bytes: 477511
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2057
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://spiritualaffairs.blogspot.in/search/label/Full%20Page%20Photo/?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Spirituality & Divinity: Full Page Photo](http://spiritualaffairs.blogspot.in/search/label/Full%20Page%20Photo/?m=1)
 
@@ -29,9 +34,6 @@ title: http://spiritualaffairs.blogspot.in/search/label/Full%20Page%20Photo/?m=1
 *  JS Response Bytes: 4101470
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111273
-
-### Performance issues
-
 
 ### Performance issues
 

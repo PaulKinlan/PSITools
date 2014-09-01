@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://thesims-3-play.blogspot.com.tr/2014/04/cut-rope.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [the sims 3 pc play: cut the rope](http://thesims-3-play.blogspot.com.tr/2014/04/cut-rope.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://thesims-3-play.blogspot.com.tr/2014/04/cut-rope.html?m=1
 *  JS Response Bytes: 1441201
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98478
-
-### Performance issues
-
 
 ### Performance issues
 

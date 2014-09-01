@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://formulavirtual.wordpress.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Formula Virtual Brasil | Mais um site WordPress.com](http://formulavirtual.wordpress.com/)
 
@@ -29,9 +31,6 @@ title: http://formulavirtual.wordpress.com/
 *  JS Response Bytes: 282138
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

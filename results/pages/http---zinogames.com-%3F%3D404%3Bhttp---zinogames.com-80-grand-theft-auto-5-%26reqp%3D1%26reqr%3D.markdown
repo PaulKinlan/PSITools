@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://zinogames.com/?=404;http://zinogames.com:80/grand-theft-auto-5/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [zinogames.com](http://zinogames.com/?=404;http://zinogames.com:80/grand-theft-auto-5/&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://zinogames.com/?=404;http://zinogames.com:80/grand-theft-auto-5/&re
 *  JS Response Bytes: 219744
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104
-
-### Performance issues
-
 
 ### Performance issues
 

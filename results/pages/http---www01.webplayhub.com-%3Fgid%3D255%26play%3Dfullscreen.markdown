@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www01.webplayhub.com/?gid=255&play=fullscreen
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WebPlayHub - Playing game: -](http://www01.webplayhub.com/?gid=255&play=fullscreen)
 
@@ -29,9 +34,6 @@ title: http://www01.webplayhub.com/?gid=255&play=fullscreen
 *  JS Response Bytes: 1209420
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3281
-
-### Performance issues
-
 
 ### Performance issues
 

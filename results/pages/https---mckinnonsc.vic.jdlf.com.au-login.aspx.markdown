@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://mckinnonsc.vic.jdlf.com.au/login.aspx
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
 ---
 ## [Compass School Manager](https://mckinnonsc.vic.jdlf.com.au/login.aspx)
 
@@ -29,9 +33,6 @@ title: https://mckinnonsc.vic.jdlf.com.au/login.aspx
 *  JS Response Bytes: 2482281
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2055
-
-### Performance issues
-
 
 ### Performance issues
 

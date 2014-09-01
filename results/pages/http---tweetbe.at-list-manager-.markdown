@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://tweetbe.at/list-manager/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TweetBe.at List Manager](http://tweetbe.at/list-manager/)
 
@@ -29,9 +32,6 @@ title: http://tweetbe.at/list-manager/
 *  JS Response Bytes: 437090
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

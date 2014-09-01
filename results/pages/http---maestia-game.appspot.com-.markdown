@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://maestia-game.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Maestia Online](http://maestia-game.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://maestia-game.appspot.com/
 *  JS Response Bytes: 633260
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35234
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/farmer-games/youda-farmer/#.U_ua900ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Youda Farmer « Online Flash Game Youda Farmer](http://gamematic.net/online-flash-games/farmer-games/youda-farmer/#.U_ua900ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/farmer-games/youda-farmer/#.U_ua9
 *  JS Response Bytes: 1267549
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47768
-
-### Performance issues
-
 
 ### Performance issues
 

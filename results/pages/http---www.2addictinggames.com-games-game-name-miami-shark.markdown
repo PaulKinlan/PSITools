@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/game/name/miami-shark
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [miami-shark Addicting Games](http://www.2addictinggames.com/games/game/name/miami-shark)
 
@@ -29,9 +36,6 @@ title: http://www.2addictinggames.com/games/game/name/miami-shark
 *  JS Response Bytes: 1828482
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97043
-
-### Performance issues
-
 
 ### Performance issues
 

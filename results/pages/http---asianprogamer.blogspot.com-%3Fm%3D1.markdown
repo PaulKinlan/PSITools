@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://asianprogamer.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AsianProGamer](http://asianprogamer.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://asianprogamer.blogspot.com/?m=1
 *  JS Response Bytes: 1738532
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16592
-
-### Performance issues
-
 
 ### Performance issues
 

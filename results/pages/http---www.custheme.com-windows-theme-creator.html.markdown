@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.custheme.com/windows-theme-creator.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Windows Theme Creator | Custheme.com](http://www.custheme.com/windows-theme-creator.html)
 
@@ -29,9 +32,6 @@ title: http://www.custheme.com/windows-theme-creator.html
 *  JS Response Bytes: 331515
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

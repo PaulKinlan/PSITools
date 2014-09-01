@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.sparkflashgames.com/kamikazerace/index.html
+SizeTapTargetsAppropriately: true
 ---
 ## [sparkflashgames.com](http://ww2.sparkflashgames.com/kamikazerace/index.html)
 
@@ -29,9 +30,6 @@ title: http://ww2.sparkflashgames.com/kamikazerace/index.html
 *  JS Response Bytes: 229920
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21051
-
-### Performance issues
-
 
 ### Performance issues
 

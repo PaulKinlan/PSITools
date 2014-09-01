@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://h5game.6677g.com/FrozenYogurtMaker/?ref=chromewebstore
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Frozen Yogurt Maker - Cooking games - 6677g.com](http://h5game.6677g.com/FrozenYogurtMaker/?ref=chromewebstore)
 
@@ -29,9 +31,6 @@ title: http://h5game.6677g.com/FrozenYogurtMaker/?ref=chromewebstore
 *  JS Response Bytes: 1803242
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2145
-
-### Performance issues
-
 
 ### Performance issues
 

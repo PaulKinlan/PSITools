@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://light.oknosoft.ru/
+EnableGzipCompression: true
 ---
 ## [Окнософт: Заказ дилера](https://light.oknosoft.ru/)
 
@@ -29,9 +30,6 @@ title: https://light.oknosoft.ru/
 *  JS Response Bytes: 1654315
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 346
-
-### Performance issues
-
 
 ### Performance issues
 

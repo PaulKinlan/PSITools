@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://curpee.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tees](http://curpee.com/)
 
@@ -29,9 +34,6 @@ title: http://curpee.com/
 *  JS Response Bytes: 1598890
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98350
-
-### Performance issues
-
 
 ### Performance issues
 

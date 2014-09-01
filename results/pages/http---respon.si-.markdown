@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://respon.si/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Responsi](http://respon.si/)
 
@@ -29,9 +31,6 @@ title: http://respon.si/
 *  JS Response Bytes: 213947
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8769
-
-### Performance issues
-
 
 ### Performance issues
 

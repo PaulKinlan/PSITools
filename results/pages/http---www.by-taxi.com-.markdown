@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.by-taxi.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [By-Taxi | ¡La mejor app del mercado para pedir un taxi!](http://www.by-taxi.com/)
 
@@ -29,9 +31,6 @@ title: http://www.by-taxi.com/
 *  JS Response Bytes: 1323743
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56971
-
-### Performance issues
-
 
 ### Performance issues
 

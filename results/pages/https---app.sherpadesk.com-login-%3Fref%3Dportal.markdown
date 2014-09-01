@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://app.sherpadesk.com/login/?ref=portal
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Log In](https://app.sherpadesk.com/login/?ref=portal)
 
@@ -29,9 +31,6 @@ title: https://app.sherpadesk.com/login/?ref=portal
 *  JS Response Bytes: 194964
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 441
-
-### Performance issues
-
 
 ### Performance issues
 

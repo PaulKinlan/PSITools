@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://bestmusicenter.blogspot.com/2012/01/drums.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Virtual Music Instruments: Drums](http://bestmusicenter.blogspot.com/2012/01/drums.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://bestmusicenter.blogspot.com/2012/01/drums.html?m=1
 *  JS Response Bytes: 1402714
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97566
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/iron-shinobi/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Iron Shinobi](http://www.war-games.ws/iron-shinobi/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/iron-shinobi/
 *  JS Response Bytes: 2292990
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122122
-
-### Performance issues
-
 
 ### Performance issues
 

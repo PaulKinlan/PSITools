@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://app.apps-builder.com//448417#bmb=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [The PE Geek](http://app.apps-builder.com//448417#bmb=1)
 
@@ -29,9 +32,6 @@ title: http://app.apps-builder.com//448417#bmb=1
 *  JS Response Bytes: 1184749
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2733
-
-### Performance issues
-
 
 ### Performance issues
 

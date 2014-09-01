@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://positiveproxy.com/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Apache HTTP Server Test Page powered by CentOS](http://positiveproxy.com/)
 
@@ -29,9 +31,6 @@ title: http://positiveproxy.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5597
-
-### Performance issues
-
 
 ### Performance issues
 

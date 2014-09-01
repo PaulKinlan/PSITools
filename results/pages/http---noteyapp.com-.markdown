@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://noteyapp.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome to Notey.](http://noteyapp.com/)
 
@@ -29,9 +35,6 @@ title: http://noteyapp.com/
 *  JS Response Bytes: 224837
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1224
-
-### Performance issues
-
 
 ### Performance issues
 

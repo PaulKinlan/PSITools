@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chrome113.blogspot.com.tr/2014/03/jetpack.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://chrome113.blogspot.com.tr/2014/03/jetpack.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chrome113.blogspot.com.tr/2014/03/jetpack.html?m=1
 *  JS Response Bytes: 41100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19264
-
-### Performance issues
-
 
 ### Performance issues
 

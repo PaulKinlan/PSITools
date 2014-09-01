@@ -33,8 +33,5 @@ title: http://hylafax.hq.zoomcare.net/index.php
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

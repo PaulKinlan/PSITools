@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/action/maho-vs-zombies.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Maho VS Zombies Play Maho VS Zombies on Gamesk12.com Free Online Games](http://www.gamesk12.com/online/action/maho-vs-zombies.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamesk12.com/online/action/maho-vs-zombies.html
 *  JS Response Bytes: 1836811
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 101030
-
-### Performance issues
-
 
 ### Performance issues
 

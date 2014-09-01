@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://evilrix.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [evilrix | Mostly Coding](http://evilrix.com/)
 
@@ -29,9 +32,6 @@ title: http://evilrix.com/
 *  JS Response Bytes: 1049314
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15865
-
-### Performance issues
-
 
 ### Performance issues
 

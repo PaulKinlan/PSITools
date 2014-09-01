@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.easypasswordgenerator.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [easy Password Generator - no fuss, no mess, create a new one now](http://www.easypasswordgenerator.com/)
 
@@ -29,9 +34,6 @@ title: http://www.easypasswordgenerator.com/
 *  JS Response Bytes: 585945
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43568
-
-### Performance issues
-
 
 ### Performance issues
 

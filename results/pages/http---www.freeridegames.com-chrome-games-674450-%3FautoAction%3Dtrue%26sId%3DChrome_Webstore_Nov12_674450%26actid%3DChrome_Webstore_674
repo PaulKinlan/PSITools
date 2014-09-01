@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/674450/?autoAction=true&sId=Chrome_Webstore_Nov12_674450&actid=Chrome_Webstore_674450
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download The Enchanted Kingdom - Elisa's Adventures for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/674450/?autoAction=true&sId=Chrome_Webstore_Nov12_674450&actid=Chrome_Webstore_674450)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/674450/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1559756
 *  Flash Response Bytes: 32783
 *  Other Response Bytes: 25392
-
-### Performance issues
-
 
 ### Performance issues
 

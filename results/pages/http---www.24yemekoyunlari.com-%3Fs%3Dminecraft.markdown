@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.24yemekoyunlari.com/?s=minecraft
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [minecraft – Search Results – Online Best Games](http://www.24yemekoyunlari.com/?s=minecraft)
 
@@ -29,9 +33,6 @@ title: http://www.24yemekoyunlari.com/?s=minecraft
 *  JS Response Bytes: 554280
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

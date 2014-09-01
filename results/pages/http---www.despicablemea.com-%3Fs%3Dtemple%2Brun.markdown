@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.despicablemea.com/?s=temple+run
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Despicable me play game Minion – Search Results – temple run](http://www.despicablemea.com/?s=temple+run)
 
@@ -29,9 +33,6 @@ title: http://www.despicablemea.com/?s=temple+run
 *  JS Response Bytes: 664423
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

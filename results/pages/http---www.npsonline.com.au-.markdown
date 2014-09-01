@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.npsonline.com.au/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Newcastle Pro Sound & Communications | Newcastle Pro Sound](http://www.npsonline.com.au/)
 
@@ -29,9 +33,6 @@ title: http://www.npsonline.com.au/
 *  JS Response Bytes: 178559
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

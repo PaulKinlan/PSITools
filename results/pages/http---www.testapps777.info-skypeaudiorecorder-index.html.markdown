@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.testapps777.info/skypeaudiorecorder/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [How to Record Skype Call and Voice Conversation - Skype Audio Recorder](http://www.testapps777.info/skypeaudiorecorder/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.testapps777.info/skypeaudiorecorder/index.html
 *  JS Response Bytes: 935597
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110124
-
-### Performance issues
-
 
 ### Performance issues
 

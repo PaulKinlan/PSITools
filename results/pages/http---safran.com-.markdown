@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://safran.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Safran - Home](http://safran.com/)
 
@@ -29,9 +34,6 @@ title: http://safran.com/
 *  JS Response Bytes: 245076
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

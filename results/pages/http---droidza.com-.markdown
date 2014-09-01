@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://droidza.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Droidza - Android App l Games l Widget l Theme l News l Tips l Application l 3G](http://droidza.com/)
 
@@ -29,9 +33,6 @@ title: http://droidza.com/
 *  JS Response Bytes: 2066191
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 418017
-
-### Performance issues
-
 
 ### Performance issues
 

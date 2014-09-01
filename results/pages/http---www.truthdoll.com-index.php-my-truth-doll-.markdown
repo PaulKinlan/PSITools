@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.truthdoll.com/index.php/my-truth-doll/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [My TruthDoll: Self Awareness for Self Improvement](http://www.truthdoll.com/index.php/my-truth-doll/)
 
@@ -29,9 +34,6 @@ title: http://www.truthdoll.com/index.php/my-truth-doll/
 *  JS Response Bytes: 189578
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

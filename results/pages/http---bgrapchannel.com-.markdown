@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://bgrapchannel.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [BGRap Channel - Рап каналът, който управляваш сам !](http://bgrapchannel.com/)
 
@@ -29,9 +33,6 @@ title: http://bgrapchannel.com/
 *  JS Response Bytes: 1218322
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1362
-
-### Performance issues
-
 
 ### Performance issues
 

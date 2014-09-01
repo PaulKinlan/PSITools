@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://sitoiaussi.waluu.com/?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Liste des contributions](http://sitoiaussi.waluu.com/?m=1)
 
@@ -29,9 +34,6 @@ title: http://sitoiaussi.waluu.com/?m=1
 *  JS Response Bytes: 904770
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5756
-
-### Performance issues
-
 
 ### Performance issues
 

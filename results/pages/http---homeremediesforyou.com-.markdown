@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://homeremediesforyou.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Home Remedies and Natural Cures for Common Ailments](http://homeremediesforyou.com/)
 
@@ -29,9 +33,6 @@ title: http://homeremediesforyou.com/
 *  JS Response Bytes: 1078754
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3389
-
-### Performance issues
-
 
 ### Performance issues
 

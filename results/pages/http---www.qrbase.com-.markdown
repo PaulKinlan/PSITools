@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.qrbase.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
 ---
 ## [QR generátor | QRgen.cz](http://www.qrbase.com/)
 
@@ -29,9 +33,6 @@ title: http://www.qrbase.com/
 *  JS Response Bytes: 1766545
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156592
-
-### Performance issues
-
 
 ### Performance issues
 

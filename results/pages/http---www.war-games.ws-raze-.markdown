@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/raze/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Raze](http://www.war-games.ws/raze/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/raze/
 *  JS Response Bytes: 2293284
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122123
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://echizen.cloudgate.jp/sso/core.cloudgate.jp/login.xhtml
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [シングルサインオン](https://echizen.cloudgate.jp/sso/core.cloudgate.jp/login.xhtml)
 
@@ -29,9 +33,6 @@ title: https://echizen.cloudgate.jp/sso/core.cloudgate.jp/login.xhtml
 *  JS Response Bytes: 287251
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 83
-
-### Performance issues
-
 
 ### Performance issues
 

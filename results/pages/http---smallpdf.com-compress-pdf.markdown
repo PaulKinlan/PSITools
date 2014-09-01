@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://smallpdf.com/compress-pdf
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Compress PDF – Reduce your PDF Online for Free](http://smallpdf.com/compress-pdf)
 
@@ -29,9 +32,6 @@ title: http://smallpdf.com/compress-pdf
 *  JS Response Bytes: 1656712
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 158960
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://bazqux.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BazQux Reader](https://bazqux.com/)
 
@@ -29,9 +33,6 @@ title: https://bazqux.com/
 *  JS Response Bytes: 41023
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

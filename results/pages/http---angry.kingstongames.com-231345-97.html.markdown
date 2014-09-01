@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://angry.kingstongames.com/231345/97.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Games Play » Angry Birds Space](http://angry.kingstongames.com/231345/97.html)
 
@@ -29,9 +34,6 @@ title: http://angry.kingstongames.com/231345/97.html
 *  JS Response Bytes: 403678
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16219
-
-### Performance issues
-
 
 ### Performance issues
 

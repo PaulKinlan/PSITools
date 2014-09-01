@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.wisestamp.com/webstore/pinterest
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pinterest Chrome App](http://www.wisestamp.com/webstore/pinterest)
 
@@ -29,9 +34,6 @@ title: http://www.wisestamp.com/webstore/pinterest
 *  JS Response Bytes: 1093763
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 171337
-
-### Performance issues
-
 
 ### Performance issues
 

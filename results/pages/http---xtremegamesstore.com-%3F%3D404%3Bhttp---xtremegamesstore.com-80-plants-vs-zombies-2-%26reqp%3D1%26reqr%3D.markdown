@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://xtremegamesstore.com/?=404;http://xtremegamesstore.com:80/plants-vs-zombies-2/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [xtremegamesstore.com](http://xtremegamesstore.com/?=404;http://xtremegamesstore.com:80/plants-vs-zombies-2/&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://xtremegamesstore.com/?=404;http://xtremegamesstore.com:80/plants-v
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://herd.solidworksheard.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [THE HEaRD - Sunset](http://herd.solidworksheard.com/)
 
@@ -29,9 +31,6 @@ title: http://herd.solidworksheard.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

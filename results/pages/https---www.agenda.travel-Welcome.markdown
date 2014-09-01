@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.agenda.travel/Welcome
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AGENDA - Планировщик Ваших путешествий](https://www.agenda.travel/Welcome)
 
@@ -29,9 +33,6 @@ title: https://www.agenda.travel/Welcome
 *  JS Response Bytes: 653032
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1109
-
-### Performance issues
-
 
 ### Performance issues
 

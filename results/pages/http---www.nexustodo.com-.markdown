@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.nexustodo.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [NexusToDo](http://www.nexustodo.com/)
 
@@ -29,9 +33,6 @@ title: http://www.nexustodo.com/
 *  JS Response Bytes: 126915
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1720
-
-### Performance issues
-
 
 ### Performance issues
 

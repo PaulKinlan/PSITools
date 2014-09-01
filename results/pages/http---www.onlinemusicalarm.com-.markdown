@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.onlinemusicalarm.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [14:33 - Online Music Alarm - Your music just when you want it](http://www.onlinemusicalarm.com/)
 
@@ -29,9 +34,6 @@ title: http://www.onlinemusicalarm.com/
 *  JS Response Bytes: 2372836
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18717
-
-### Performance issues
-
 
 ### Performance issues
 

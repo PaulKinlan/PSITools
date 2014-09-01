@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://star.txwy.tw/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [《星座變》官網 - 《星座變》是一款以十二星座為背景，清新、可愛的魔幻網遊，超Q的畫面、獨特的神格、多變的魔寵、特色的地圖副本，還有獨特的星座配對、星座運勢系統，讓你擁有全新的遊戲體驗，趕快邀請你的好友一來來體驗吧！](http://star.txwy.tw/)
 
@@ -29,9 +33,6 @@ title: http://star.txwy.tw/
 *  JS Response Bytes: 369340
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 654
-
-### Performance issues
-
 
 ### Performance issues
 

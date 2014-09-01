@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.wiblishauser-seminare.de/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ausbildungen und Seminare für Gesundheit, Entwicklung, Erfolg - Wiblishauser-Seminare](http://www.wiblishauser-seminare.de/)
 
@@ -29,9 +34,6 @@ title: http://www.wiblishauser-seminare.de/
 *  JS Response Bytes: 660079
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6688
-
-### Performance issues
-
 
 ### Performance issues
 

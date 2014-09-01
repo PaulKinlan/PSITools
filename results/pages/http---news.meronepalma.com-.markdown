@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://news.meronepalma.com/
+UseLegibleFontSizes: true
 ---
 ## [](http://news.meronepalma.com/)
 
@@ -29,9 +30,6 @@ title: http://news.meronepalma.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

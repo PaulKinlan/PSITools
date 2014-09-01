@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.hardestgame.us/index.php?task=view&id=908
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [www.hardestgame.us](http://www.hardestgame.us/index.php?task=view&id=908)
 
@@ -29,9 +31,6 @@ title: http://www.hardestgame.us/index.php?task=view&id=908
 *  JS Response Bytes: 407337
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1704
-
-### Performance issues
-
 
 ### Performance issues
 

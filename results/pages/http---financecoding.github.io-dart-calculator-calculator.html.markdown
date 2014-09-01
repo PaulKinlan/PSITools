@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://financecoding.github.io/dart-calculator/calculator.html
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Page not found · GitHub Pages](http://financecoding.github.io/dart-calculator/calculator.html)
 
@@ -29,9 +31,6 @@ title: http://financecoding.github.io/dart-calculator/calculator.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10321
-
-### Performance issues
-
 
 ### Performance issues
 

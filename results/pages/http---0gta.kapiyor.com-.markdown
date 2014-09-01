@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://0gta.kapiyor.com/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Index of /](http://0gta.kapiyor.com/)
 
@@ -29,9 +31,6 @@ title: http://0gta.kapiyor.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

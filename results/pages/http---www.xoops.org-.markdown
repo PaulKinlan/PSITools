@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.xoops.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Powered by You! :: XOOPS Web Application System](http://www.xoops.org/)
 
@@ -29,9 +34,6 @@ title: http://www.xoops.org/
 *  JS Response Bytes: 808371
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44380
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://aco4u.biz/CookBook/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login](http://aco4u.biz/CookBook/)
 
@@ -29,9 +34,6 @@ title: http://aco4u.biz/CookBook/
 *  JS Response Bytes: 474054
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2565
-
-### Performance issues
-
 
 ### Performance issues
 

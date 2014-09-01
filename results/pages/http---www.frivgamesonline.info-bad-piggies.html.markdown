@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.frivgamesonline.info/bad-piggies.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bad Piggies : Friv Games Online](http://www.frivgamesonline.info/bad-piggies.html)
 
@@ -29,9 +37,6 @@ title: http://www.frivgamesonline.info/bad-piggies.html
 *  JS Response Bytes: 1900534
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102009
-
-### Performance issues
-
 
 ### Performance issues
 

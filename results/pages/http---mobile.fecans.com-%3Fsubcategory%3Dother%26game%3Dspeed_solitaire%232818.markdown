@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://mobile.fecans.com/?subcategory=other&game=speed_solitaire#2818
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [wWw.FeCans.Com - Your Flash Game World - Home](http://mobile.fecans.com/?subcategory=other&game=speed_solitaire#2818)
 
@@ -29,9 +31,6 @@ title: http://mobile.fecans.com/?subcategory=other&game=speed_solitaire#2818
 *  JS Response Bytes: 684308
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 566
-
-### Performance issues
-
 
 ### Performance issues
 

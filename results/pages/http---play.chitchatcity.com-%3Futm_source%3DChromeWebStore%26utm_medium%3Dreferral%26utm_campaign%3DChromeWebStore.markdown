@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://play.chitchatcity.com/?utm_source=ChromeWebStore&utm_medium=referral&utm_campaign=ChromeWebStore
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Play Game - Chit Chat City | Virtual World Game](http://play.chitchatcity.com/?utm_source=ChromeWebStore&utm_medium=referral&utm_campaign=ChromeWebStore)
 
@@ -29,9 +32,6 @@ title: http://play.chitchatcity.com/?utm_source=ChromeWebStore&utm_medium=referr
 *  JS Response Bytes: 679649
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1547
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.real-backlinks.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Get free high backlinks for free within minute ! Instant free backlinks generator](http://www.real-backlinks.com/)
 
@@ -29,9 +32,6 @@ title: http://www.real-backlinks.com/
 *  JS Response Bytes: 560342
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15926
-
-### Performance issues
-
 
 ### Performance issues
 

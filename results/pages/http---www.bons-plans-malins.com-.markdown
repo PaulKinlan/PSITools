@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.bons-plans-malins.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Les Bons Plans Malins : Bons plans & Bonnes Affaires](http://www.bons-plans-malins.com/)
 
@@ -29,9 +32,6 @@ title: http://www.bons-plans-malins.com/
 *  JS Response Bytes: 1038934
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4112
-
-### Performance issues
-
 
 ### Performance issues
 

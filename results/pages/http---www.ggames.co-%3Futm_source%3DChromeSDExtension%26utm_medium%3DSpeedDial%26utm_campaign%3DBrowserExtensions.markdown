@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ggames.co/?utm_source=ChromeSDExtension&utm_medium=SpeedDial&utm_campaign=BrowserExtensions
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GGames.co](http://www.ggames.co/?utm_source=ChromeSDExtension&utm_medium=SpeedDial&utm_campaign=BrowserExtensions)
 
@@ -29,9 +35,6 @@ title: http://www.ggames.co/?utm_source=ChromeSDExtension&utm_medium=SpeedDial&u
 *  JS Response Bytes: 847339
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9949
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://combat-arms.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Combat Arms Online](http://combat-arms.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://combat-arms.appspot.com/
 *  JS Response Bytes: 924710
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48773
-
-### Performance issues
-
 
 ### Performance issues
 

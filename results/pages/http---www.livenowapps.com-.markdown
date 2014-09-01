@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.livenowapps.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LiveNowTv](http://www.livenowapps.com/)
 
@@ -29,9 +32,6 @@ title: http://www.livenowapps.com/
 *  JS Response Bytes: 6446018
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26309
-
-### Performance issues
-
 
 ### Performance issues
 

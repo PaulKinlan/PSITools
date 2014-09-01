@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gospelprime.com.br/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gospel Prime - notícias, música, vídeos, estudos e mais!](http://www.gospelprime.com.br/)
 
@@ -29,9 +33,6 @@ title: http://www.gospelprime.com.br/
 *  JS Response Bytes: 587680
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15744
-
-### Performance issues
-
 
 ### Performance issues
 

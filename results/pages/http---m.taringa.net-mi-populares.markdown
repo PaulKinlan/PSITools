@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.taringa.net/mi/populares
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Taringa!](http://m.taringa.net/mi/populares)
 
@@ -29,9 +31,6 @@ title: http://m.taringa.net/mi/populares
 *  JS Response Bytes: 482537
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20312
-
-### Performance issues
-
 
 ### Performance issues
 

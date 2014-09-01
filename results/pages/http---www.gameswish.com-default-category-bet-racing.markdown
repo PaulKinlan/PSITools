@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gameswish.com/default-category/bet-racing
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bet Racing - Game Wish](http://www.gameswish.com/default-category/bet-racing)
 
@@ -29,9 +35,6 @@ title: http://www.gameswish.com/default-category/bet-racing
 *  JS Response Bytes: 971697
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17525
-
-### Performance issues
-
 
 ### Performance issues
 

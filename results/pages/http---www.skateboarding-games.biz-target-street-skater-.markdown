@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/target-street-skater/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Target Street Skater game](http://www.skateboarding-games.biz/target-street-skater/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/target-street-skater/
 *  JS Response Bytes: 2123757
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121344
-
-### Performance issues
-
 
 ### Performance issues
 

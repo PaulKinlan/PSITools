@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://cancanit.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CancanIT - Website Analysis Tools for Webmasters and SEO Analytics](http://cancanit.com/)
 
@@ -29,9 +32,6 @@ title: http://cancanit.com/
 *  JS Response Bytes: 143989
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

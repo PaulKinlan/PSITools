@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.openhardwarehub.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Open Hardware Hub - Open-Source Hardware Project Hosting](http://www.openhardwarehub.com/)
 
@@ -29,9 +34,6 @@ title: http://www.openhardwarehub.com/
 *  JS Response Bytes: 511099
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.sicilyintheworld.com/mobile/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
 ---
 ## [Sicily in the World](http://www.sicilyintheworld.com/mobile/)
 
@@ -29,9 +33,6 @@ title: http://www.sicilyintheworld.com/mobile/
 *  JS Response Bytes: 409743
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1096
-
-### Performance issues
-
 
 ### Performance issues
 

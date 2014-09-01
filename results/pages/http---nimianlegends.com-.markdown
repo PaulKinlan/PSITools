@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://nimianlegends.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nimian Legends - HTML5 RPG](http://nimianlegends.com/)
 
@@ -29,9 +33,6 @@ title: http://nimianlegends.com/
 *  JS Response Bytes: 1181649
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33163
-
-### Performance issues
-
 
 ### Performance issues
 

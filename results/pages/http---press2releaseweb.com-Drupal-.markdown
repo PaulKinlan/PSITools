@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://press2releaseweb.com/Drupal/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Comunicados de Imprensa Online | Press2ReleaseWeb.com](http://press2releaseweb.com/Drupal/)
 
@@ -29,9 +34,6 @@ title: http://press2releaseweb.com/Drupal/
 *  JS Response Bytes: 728482
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1921
-
-### Performance issues
-
 
 ### Performance issues
 

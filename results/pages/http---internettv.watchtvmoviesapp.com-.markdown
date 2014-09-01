@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://internettv.watchtvmoviesapp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [watchtvmoviesapp.com](http://internettv.watchtvmoviesapp.com/)
 
@@ -29,9 +33,6 @@ title: http://internettv.watchtvmoviesapp.com/
 *  JS Response Bytes: 244204
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gat5code.blogspot.in/2014/02/wheres-my-water-2.html?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [GTA 5 Cheats: Where’s My Water 2](http://gat5code.blogspot.in/2014/02/wheres-my-water-2.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://gat5code.blogspot.in/2014/02/wheres-my-water-2.html?m=1
 *  JS Response Bytes: 721595
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95581
-
-### Performance issues
-
 
 ### Performance issues
 

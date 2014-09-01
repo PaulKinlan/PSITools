@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.pomegame.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Pomegame Flash Games Unity 3D Games](http://www.pomegame.com/)
 
@@ -29,9 +32,6 @@ title: http://www.pomegame.com/
 *  JS Response Bytes: 270547
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15567
-
-### Performance issues
-
 
 ### Performance issues
 

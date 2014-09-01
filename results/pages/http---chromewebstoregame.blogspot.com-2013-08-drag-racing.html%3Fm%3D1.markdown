@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromewebstoregame.blogspot.com/2013/08/drag-racing.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [buzz blog](http://chromewebstoregame.blogspot.com/2013/08/drag-racing.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromewebstoregame.blogspot.com/2013/08/drag-racing.html?m=1
 *  JS Response Bytes: 789598
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331067
-
-### Performance issues
-
 
 ### Performance issues
 

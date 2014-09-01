@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.onescene.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [One Scene - Gay and Lesbian Dating](http://www.onescene.com/)
 
@@ -29,9 +33,6 @@ title: http://www.onescene.com/
 *  JS Response Bytes: 557839
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50535
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gameseternal.com/default-category/teenage-mutant-ninja-turtles
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TEENAGE MUTANT NINJA TURTLES - Games EternaL](http://www.gameseternal.com/default-category/teenage-mutant-ninja-turtles)
 
@@ -29,9 +33,6 @@ title: http://www.gameseternal.com/default-category/teenage-mutant-ninja-turtles
 *  JS Response Bytes: 601702
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31109
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.history.com/topics
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [History Topics - History.com](http://www.history.com/topics)
 
@@ -29,9 +34,6 @@ title: http://www.history.com/topics
 *  JS Response Bytes: 2153354
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155098
-
-### Performance issues
-
 
 ### Performance issues
 

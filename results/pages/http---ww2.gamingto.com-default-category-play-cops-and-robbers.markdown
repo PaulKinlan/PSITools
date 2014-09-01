@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ww2.gamingto.com/default-category/play-cops-and-robbers
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [gamingto.com](http://ww2.gamingto.com/default-category/play-cops-and-robbers)
 
@@ -29,9 +31,6 @@ title: http://ww2.gamingto.com/default-category/play-cops-and-robbers
 *  JS Response Bytes: 229840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21058
-
-### Performance issues
-
 
 ### Performance issues
 

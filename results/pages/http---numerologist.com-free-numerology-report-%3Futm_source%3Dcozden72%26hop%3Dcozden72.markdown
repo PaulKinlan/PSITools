@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://numerologist.com/free-numerology-report/?utm_source=cozden72&hop=cozden72
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://numerologist.com/free-numerology-report/?utm_source=cozden72&hop=cozden72)
 
@@ -29,9 +34,6 @@ title: http://numerologist.com/free-numerology-report/?utm_source=cozden72&hop=c
 *  JS Response Bytes: 1694555
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 136332
-
-### Performance issues
-
 
 ### Performance issues
 

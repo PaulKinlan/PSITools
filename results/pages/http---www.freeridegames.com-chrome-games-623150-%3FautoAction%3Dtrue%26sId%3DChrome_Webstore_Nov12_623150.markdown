@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/623150/?autoAction=true&sId=Chrome_Webstore_Nov12_623150
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Hidden World Of Art for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/623150/?autoAction=true&sId=Chrome_Webstore_Nov12_623150)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/623150/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1548132
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30330
-
-### Performance issues
-
 
 ### Performance issues
 

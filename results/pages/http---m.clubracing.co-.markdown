@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.clubracing.co/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Racing Apps](http://m.clubracing.co/)
 
@@ -29,9 +32,6 @@ title: http://m.clubracing.co/
 *  JS Response Bytes: 190339
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 320804
-
-### Performance issues
-
 
 ### Performance issues
 

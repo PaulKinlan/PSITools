@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.6funny.com/mmzs/start?sr=chromeShortcut
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [諸神世界 | 6Funny 遊戲平台](http://www.6funny.com/mmzs/start?sr=chromeShortcut)
 
@@ -29,9 +34,6 @@ title: http://www.6funny.com/mmzs/start?sr=chromeShortcut
 *  JS Response Bytes: 420752
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 598
-
-### Performance issues
-
 
 ### Performance issues
 

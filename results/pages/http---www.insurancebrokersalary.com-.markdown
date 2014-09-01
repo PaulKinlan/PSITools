@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.insurancebrokersalary.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Secrets Average Insurance Broker Salary](http://www.insurancebrokersalary.com/)
 
@@ -29,9 +34,6 @@ title: http://www.insurancebrokersalary.com/
 *  JS Response Bytes: 602913
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48139
-
-### Performance issues
-
 
 ### Performance issues
 

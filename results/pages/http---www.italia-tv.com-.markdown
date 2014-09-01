@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.italia-tv.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Italy | Online TV](http://www.italia-tv.com/)
 
@@ -29,9 +33,6 @@ title: http://www.italia-tv.com/
 *  JS Response Bytes: 227565
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

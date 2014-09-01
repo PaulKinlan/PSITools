@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.jogatina.com/jogatrix-online.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tetrix Online Grátis e mais jogos no Jogatina](http://www.jogatina.com/jogatrix-online.html)
 
@@ -29,9 +33,6 @@ title: http://www.jogatina.com/jogatrix-online.html
 *  JS Response Bytes: 2196793
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 430036
-
-### Performance issues
-
 
 ### Performance issues
 

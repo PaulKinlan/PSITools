@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://joyfulgames.net/action/rail-rush.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rail Rush - Best Free Online Games | JoyfulGames.net - http://joyfulgames.net](http://joyfulgames.net/action/rail-rush.html)
 
@@ -29,9 +33,6 @@ title: http://joyfulgames.net/action/rail-rush.html
 *  JS Response Bytes: 3176902
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 144156
-
-### Performance issues
-
 
 ### Performance issues
 

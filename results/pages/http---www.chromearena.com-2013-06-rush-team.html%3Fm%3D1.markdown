@@ -33,8 +33,5 @@ title: http://www.chromearena.com/2013/06/rush-team.html?m=1
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

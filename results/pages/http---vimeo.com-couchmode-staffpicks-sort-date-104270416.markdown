@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://vimeo.com/couchmode/staffpicks/sort:date/104270416
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [▶ Hopkins & Delaney LLP on Vimeo: Couch Mode](http://vimeo.com/couchmode/staffpicks/sort:date/104270416)
 
@@ -29,9 +33,6 @@ title: http://vimeo.com/couchmode/staffpicks/sort:date/104270416
 *  JS Response Bytes: 364160
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 920
-
-### Performance issues
-
 
 ### Performance issues
 

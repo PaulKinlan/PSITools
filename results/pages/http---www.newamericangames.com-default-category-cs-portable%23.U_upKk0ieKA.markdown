@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.newamericangames.com/default-category/cs-portable#.U_upKk0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CS Portable - New American Games](http://www.newamericangames.com/default-category/cs-portable#.U_upKk0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.newamericangames.com/default-category/cs-portable#.U_upKk0ieKA
 *  JS Response Bytes: 1840988
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 134445
-
-### Performance issues
-
 
 ### Performance issues
 

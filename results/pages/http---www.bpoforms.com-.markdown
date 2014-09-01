@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bpoforms.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BPO Forms - Broker Price Opinions Online](http://www.bpoforms.com/)
 
@@ -29,9 +33,6 @@ title: http://www.bpoforms.com/
 *  JS Response Bytes: 283960
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 153403
-
-### Performance issues
-
 
 ### Performance issues
 

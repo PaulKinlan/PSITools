@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://zlatime.com/en/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ZlaTime](http://zlatime.com/en/)
 
@@ -29,9 +33,6 @@ title: http://zlatime.com/en/
 *  JS Response Bytes: 2778265
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 560
-
-### Performance issues
-
 
 ### Performance issues
 

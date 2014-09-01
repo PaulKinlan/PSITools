@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://shaycarl.tumblr.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SHAYTARDS Blog](http://shaycarl.tumblr.com/)
 
@@ -29,9 +32,6 @@ title: http://shaycarl.tumblr.com/
 *  JS Response Bytes: 1801452
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 981
-
-### Performance issues
-
 
 ### Performance issues
 

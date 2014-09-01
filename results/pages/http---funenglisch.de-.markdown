@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://funenglisch.de/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FunEnglisch.de - Englisch für Kinder online, Englisch für Kinder von 6 - 12 Jahre, Englisch-Schule für Kinder on-line](http://funenglisch.de/)
 
@@ -29,9 +33,6 @@ title: http://funenglisch.de/
 *  JS Response Bytes: 708567
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2472
-
-### Performance issues
-
 
 ### Performance issues
 

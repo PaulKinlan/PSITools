@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.oldmapsonline.org/#bbox=-110.039062,-51.835778,119.882813,72.073911&q=&datefrom=1000&dateto=2010
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Old Maps Online](http://www.oldmapsonline.org/#bbox=-110.039062,-51.835778,119.882813,72.073911&q=&datefrom=1000&dateto=2010)
 
@@ -29,9 +36,6 @@ title: http://www.oldmapsonline.org/#bbox=-110.039062,-51.835778,119.882813,72.0
 *  JS Response Bytes: 963285
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124806
-
-### Performance issues
-
 
 ### Performance issues
 

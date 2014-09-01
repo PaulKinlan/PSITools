@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.chatsports.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Chat Sports | America's Sports Page](http://www.chatsports.com/)
 
@@ -29,9 +33,6 @@ title: http://www.chatsports.com/
 *  JS Response Bytes: 838191
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 606
-
-### Performance issues
-
 
 ### Performance issues
 

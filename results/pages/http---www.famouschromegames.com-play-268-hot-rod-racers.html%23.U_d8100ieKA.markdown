@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.famouschromegames.com/play/268/hot-rod-racers.html#.U_d8100ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hot Rod Racers - famouschromegames](http://www.famouschromegames.com/play/268/hot-rod-racers.html#.U_d8100ieKA)
 
@@ -29,9 +36,6 @@ title: http://www.famouschromegames.com/play/268/hot-rod-racers.html#.U_d8100ieK
 *  JS Response Bytes: 2761813
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 62739
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.onlinegameforfree.org/puzzle/sketch.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sketch | FOG Park | Play Best Online Game For Free ! Enjoy Top Free Online Games !](http://www.onlinegameforfree.org/puzzle/sketch.html)
 
@@ -29,9 +33,6 @@ title: http://www.onlinegameforfree.org/puzzle/sketch.html
 *  JS Response Bytes: 1385137
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17645
-
-### Performance issues
-
 
 ### Performance issues
 

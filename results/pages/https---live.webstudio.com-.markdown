@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://live.webstudio.com/
+UseLegibleFontSizes: true
 ---
 ## [Service Unavailable](https://live.webstudio.com/)
 
@@ -29,9 +30,6 @@ title: https://live.webstudio.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 482
-
-### Performance issues
-
 
 ### Performance issues
 

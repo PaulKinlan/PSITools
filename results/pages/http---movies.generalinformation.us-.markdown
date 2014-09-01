@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://movies.generalinformation.us/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://movies.generalinformation.us/)
 
@@ -29,9 +31,6 @@ title: http://movies.generalinformation.us/
 *  JS Response Bytes: 443372
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.vetapps.com.br/ClientsAppointemntsChrome/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Clients and Appointments](http://www.vetapps.com.br/ClientsAppointemntsChrome/)
 
@@ -29,9 +32,6 @@ title: http://www.vetapps.com.br/ClientsAppointemntsChrome/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5437
-
-### Performance issues
-
 
 ### Performance issues
 

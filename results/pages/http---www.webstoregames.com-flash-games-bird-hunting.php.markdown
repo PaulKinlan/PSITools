@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.webstoregames.com/flash-games/bird-hunting.php
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bird Hunting - Free Games Online, Free Online Games, Flash Games!](http://www.webstoregames.com/flash-games/bird-hunting.php)
 
@@ -29,9 +35,6 @@ title: http://www.webstoregames.com/flash-games/bird-hunting.php
 *  JS Response Bytes: 1472866
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118604
-
-### Performance issues
-
 
 ### Performance issues
 

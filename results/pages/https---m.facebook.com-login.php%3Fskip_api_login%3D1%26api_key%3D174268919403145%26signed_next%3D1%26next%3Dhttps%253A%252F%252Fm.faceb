@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://m.facebook.com/login.php?skip_api_login=1&api_key=174268919403145&signed_next=1&next=https%3A%2F%2Fm.facebook.com%2Fv1.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttp%253A%252F%252Fbeonpop.com%252Fapp%26state%3Dad5d07ab17cb4a4e43255fbcd876d61c%26scope%3Dread_stream%252Cemail%252Cuser_likes%26client_id%3D174268919403145%26ret%3Dlogin%26sdk%3Dphp-sdk-3.2.3&cancel_uri=http%3A%2F%2Fbeonpop.com%2Fapp%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3Dad5d07ab17cb4a4e43255fbcd876d61c%23_%3D_&display=touch&_rdr
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Welcome to Facebook](https://m.facebook.com/login.php?skip_api_login=1&api_key=174268919403145&signed_next=1&next=https%3A%2F%2Fm.facebook.com%2Fv1.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttp%253A%252F%252Fbeonpop.com%252Fapp%26state%3Dad5d07ab17cb4a4e43255fbcd876d61c%26scope%3Dread_stream%252Cemail%252Cuser_likes%26client_id%3D174268919403145%26ret%3Dlogin%26sdk%3Dphp-sdk-3.2.3&cancel_uri=http%3A%2F%2Fbeonpop.com%2Fapp%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3Dad5d07ab17cb4a4e43255fbcd876d61c%23_%3D_&display=touch&_rdr)
 
@@ -29,9 +31,6 @@ title: https://m.facebook.com/login.php?skip_api_login=1&api_key=174268919403145
 *  JS Response Bytes: 329389
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2827
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://verifyapp.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Design Surveys with Verify](http://verifyapp.com/)
 
@@ -29,9 +32,6 @@ title: http://verifyapp.com/
 *  JS Response Bytes: 563745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 396
-
-### Performance issues
-
 
 ### Performance issues
 

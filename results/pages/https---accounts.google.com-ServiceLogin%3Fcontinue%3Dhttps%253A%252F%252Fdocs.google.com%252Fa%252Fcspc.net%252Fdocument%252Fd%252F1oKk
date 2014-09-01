@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fdocs.google.com%2Fa%2Fcspc.net%2Fdocument%2Fd%2F1oKkR436F8WmHQ1tzN4Q5u_tiiVPE8TOH8S0c9W_M4WE%2Fedit%3Fusp%3Dsharing&ltmpl=docs&service=wise&sacu=1&hd=cspc.net
+AvoidLandingPageRedirects: true
+ServerResponseTime: true
 ---
 ## [Google Docs - create and edit documents online, for free.](https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fdocs.google.com%2Fa%2Fcspc.net%2Fdocument%2Fd%2F1oKkR436F8WmHQ1tzN4Q5u_tiiVPE8TOH8S0c9W_M4WE%2Fedit%3Fusp%3Dsharing&ltmpl=docs&service=wise&sacu=1&hd=cspc.net)
 
@@ -29,9 +31,6 @@ title: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fdocs.goog
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54183
-
-### Performance issues
-
 
 ### Performance issues
 

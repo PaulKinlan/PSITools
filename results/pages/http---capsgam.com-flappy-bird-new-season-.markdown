@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://capsgam.com/flappy-bird-new-season/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Caps Games – Flappy Bird New Season](http://capsgam.com/flappy-bird-new-season/)
 
@@ -29,9 +34,6 @@ title: http://capsgam.com/flappy-bird-new-season/
 *  JS Response Bytes: 1003969
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1100
-
-### Performance issues
-
 
 ### Performance issues
 

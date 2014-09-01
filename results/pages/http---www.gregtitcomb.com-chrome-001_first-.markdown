@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gregtitcomb.com/chrome/001_first/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [jQuery Math Game](http://www.gregtitcomb.com/chrome/001_first/)
 
@@ -29,9 +32,6 @@ title: http://www.gregtitcomb.com/chrome/001_first/
 *  JS Response Bytes: 277261
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 368
-
-### Performance issues
-
 
 ### Performance issues
 

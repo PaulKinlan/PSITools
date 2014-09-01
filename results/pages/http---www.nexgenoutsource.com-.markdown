@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.nexgenoutsource.com/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nexgen Outsource- Software Development, Web and Windows application development, Online Shopping Cart, Content Management System.](http://www.nexgenoutsource.com/)
 
@@ -29,9 +33,6 @@ title: http://www.nexgenoutsource.com/
 *  JS Response Bytes: 49634
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

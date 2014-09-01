@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://television.streamdownloaderapp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [streamdownloaderapp.com](http://television.streamdownloaderapp.com/)
 
@@ -29,9 +33,6 @@ title: http://television.streamdownloaderapp.com/
 *  JS Response Bytes: 209184
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

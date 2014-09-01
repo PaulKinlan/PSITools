@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://twtpoll.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Twtpoll | Social Survey Platform](http://twtpoll.com/)
 
@@ -29,9 +32,6 @@ title: http://twtpoll.com/
 *  JS Response Bytes: 162936
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12779
-
-### Performance issues
-
 
 ### Performance issues
 

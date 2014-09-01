@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.negane.com/rally/?task=view&id=2066&name=3D-Rally-Point-
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rallypoint](http://www.negane.com/rally/?task=view&id=2066&name=3D-Rally-Point-)
 
@@ -29,9 +34,6 @@ title: http://www.negane.com/rally/?task=view&id=2066&name=3D-Rally-Point-
 *  JS Response Bytes: 449843
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48614
-
-### Performance issues
-
 
 ### Performance issues
 

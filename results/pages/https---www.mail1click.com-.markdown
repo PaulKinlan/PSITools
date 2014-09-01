@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.mail1click.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mail1Click - Free Secure Email](https://www.mail1click.com/)
 
@@ -29,9 +32,6 @@ title: https://www.mail1click.com/
 *  JS Response Bytes: 329242
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

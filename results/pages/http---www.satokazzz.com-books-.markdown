@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.satokazzz.com/books/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [えあ草紙・青空図書館 ◀ 青空文庫](http://www.satokazzz.com/books/)
 
@@ -29,9 +33,6 @@ title: http://www.satokazzz.com/books/
 *  JS Response Bytes: 1801003
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287995
-
-### Performance issues
-
 
 ### Performance issues
 

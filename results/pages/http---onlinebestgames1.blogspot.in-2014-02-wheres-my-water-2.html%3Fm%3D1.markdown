@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://onlinebestgames1.blogspot.in/2014/02/wheres-my-water-2.html?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Online Best Games: Where’s My Water 2](http://onlinebestgames1.blogspot.in/2014/02/wheres-my-water-2.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://onlinebestgames1.blogspot.in/2014/02/wheres-my-water-2.html?m=1
 *  JS Response Bytes: 609884
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95592
-
-### Performance issues
-
 
 ### Performance issues
 

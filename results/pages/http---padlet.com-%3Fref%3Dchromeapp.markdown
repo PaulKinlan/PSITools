@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://padlet.com/?ref=chromeapp
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Padlet is the easiest way to create and collaborate in the world](http://padlet.com/?ref=chromeapp)
 
@@ -29,9 +32,6 @@ title: http://padlet.com/?ref=chromeapp
 *  JS Response Bytes: 354820
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

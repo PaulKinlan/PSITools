@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.braingamess.com/bloc-game.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bloc Game | Brain Games Brain Games,Math games,Puzzle Games,Adult Brain Games,Brain Games For Adults](http://www.braingamess.com/bloc-game.html)
 
@@ -29,9 +34,6 @@ title: http://www.braingamess.com/bloc-game.html
 *  JS Response Bytes: 1861865
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110718
-
-### Performance issues
-
 
 ### Performance issues
 

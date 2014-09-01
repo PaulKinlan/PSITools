@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.thanknow.info/advancedemailverifier/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Check Email Validity with Email Verification Software](http://www.thanknow.info/advancedemailverifier/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.thanknow.info/advancedemailverifier/index.html
 *  JS Response Bytes: 935599
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110124
-
-### Performance issues
-
 
 ### Performance issues
 

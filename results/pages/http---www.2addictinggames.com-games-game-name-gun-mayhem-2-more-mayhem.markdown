@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/game/name/gun-mayhem-2-more-mayhem
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [gun-mayhem-2-more-mayhem Addicting Games](http://www.2addictinggames.com/games/game/name/gun-mayhem-2-more-mayhem)
 
@@ -29,9 +34,6 @@ title: http://www.2addictinggames.com/games/game/name/gun-mayhem-2-more-mayhem
 *  JS Response Bytes: 1862041
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112221
-
-### Performance issues
-
 
 ### Performance issues
 

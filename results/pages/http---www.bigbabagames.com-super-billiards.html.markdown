@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.bigbabagames.com/super-billiards.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Billiards | Big Baba Games](http://www.bigbabagames.com/super-billiards.html)
 
@@ -29,9 +34,6 @@ title: http://www.bigbabagames.com/super-billiards.html
 *  JS Response Bytes: 1051770
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15209
-
-### Performance issues
-
 
 ### Performance issues
 

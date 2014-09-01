@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gadgetstore.gene.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
 ---
 ## [Gadget Store](http://gadgetstore.gene.com/)
 
@@ -29,9 +32,6 @@ title: http://gadgetstore.gene.com/
 *  JS Response Bytes: 636117
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4456
-
-### Performance issues
-
 
 ### Performance issues
 

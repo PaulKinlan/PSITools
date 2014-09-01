@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.friv-game.org/games/game/name/spiderman-racing-3d
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [spiderman-racing-3d Friv Games](http://www.friv-game.org/games/game/name/spiderman-racing-3d)
 
@@ -29,9 +33,6 @@ title: http://www.friv-game.org/games/game/name/spiderman-racing-3d
 *  JS Response Bytes: 1717722
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112062
-
-### Performance issues
-
 
 ### Performance issues
 

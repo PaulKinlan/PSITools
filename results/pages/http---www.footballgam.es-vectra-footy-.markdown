@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/vectra-footy/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Vectra Footy Game](http://www.footballgam.es/vectra-footy/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/vectra-footy/
 *  JS Response Bytes: 2295694
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156078
-
-### Performance issues
-
 
 ### Performance issues
 

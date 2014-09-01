@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bestimmtspiele.blogspot.com/2014/01/army-sharpshooter.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [Bestimmt Spiele: Army Sharpshooter](http://bestimmtspiele.blogspot.com/2014/01/army-sharpshooter.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://bestimmtspiele.blogspot.com/2014/01/army-sharpshooter.html?m=1
 *  JS Response Bytes: 1114107
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110742
-
-### Performance issues
-
 
 ### Performance issues
 

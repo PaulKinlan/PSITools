@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mendozaopina.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mendoza Opina | Noticias de Mendoza](http://mendozaopina.com/)
 
@@ -29,9 +32,6 @@ title: http://mendozaopina.com/
 *  JS Response Bytes: 574872
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7248
-
-### Performance issues
-
 
 ### Performance issues
 

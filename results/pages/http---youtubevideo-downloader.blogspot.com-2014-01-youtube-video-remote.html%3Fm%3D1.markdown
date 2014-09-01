@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://youtubevideo-downloader.blogspot.com/2014/01/youtube-video-remote.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Youtube video remote: Youtube video remote](http://youtubevideo-downloader.blogspot.com/2014/01/youtube-video-remote.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://youtubevideo-downloader.blogspot.com/2014/01/youtube-video-remote.
 *  JS Response Bytes: 958864
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98007
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://sbobgames.blogspot.com/2013/09/rodeo-3.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [SpongeBob Games: Rodeo Girl 3](http://sbobgames.blogspot.com/2013/09/rodeo-3.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://sbobgames.blogspot.com/2013/09/rodeo-3.html?m=1
 *  JS Response Bytes: 1290354
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95863
-
-### Performance issues
-
 
 ### Performance issues
 

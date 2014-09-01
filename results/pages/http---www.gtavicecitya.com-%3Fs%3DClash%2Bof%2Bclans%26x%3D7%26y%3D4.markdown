@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gtavicecitya.com/?s=Clash+of+clans&x=7&y=4
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Clash of clans « Search Results « free gta game vice city](http://www.gtavicecitya.com/?s=Clash+of+clans&x=7&y=4)
 
@@ -29,9 +34,6 @@ title: http://www.gtavicecitya.com/?s=Clash+of+clans&x=7&y=4
 *  JS Response Bytes: 954751
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

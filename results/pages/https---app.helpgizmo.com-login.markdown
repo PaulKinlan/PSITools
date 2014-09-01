@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://app.helpgizmo.com/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HelpGizmo](https://app.helpgizmo.com/login)
 
@@ -29,9 +33,6 @@ title: https://app.helpgizmo.com/login
 *  JS Response Bytes: 769178
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1132
-
-### Performance issues
-
 
 ### Performance issues
 

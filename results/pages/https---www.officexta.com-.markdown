@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.officexta.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [OfficeXta-Social Enterprise Collaboration Platform](https://www.officexta.com/)
 
@@ -29,9 +34,6 @@ title: https://www.officexta.com/
 *  JS Response Bytes: 941530
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 542
-
-### Performance issues
-
 
 ### Performance issues
 

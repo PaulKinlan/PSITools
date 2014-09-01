@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ww41.downloads.theultimateutilities.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [theultimateutilities.com](http://ww41.downloads.theultimateutilities.com/)
 
@@ -22,16 +26,13 @@ title: http://ww41.downloads.theultimateutilities.com/
 
 ### Response data
 
-*  HTML Response Bytes: 21041
+*  HTML Response Bytes: 20967
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 2098
+*  Image Response Bytes: 2099
 *  JS Response Bytes: 173157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 230
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.wordgamesusa.com/pirates-tides-of-fortune/index.html
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [www.wordgamesusa.com [6]](http://www.wordgamesusa.com/pirates-tides-of-fortune/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.wordgamesusa.com/pirates-tides-of-fortune/index.html
 *  JS Response Bytes: 11226
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 874
-
-### Performance issues
-
 
 ### Performance issues
 

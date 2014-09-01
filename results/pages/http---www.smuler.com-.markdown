@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.smuler.com/
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [www.smuler.com](http://www.smuler.com/)
 
@@ -29,9 +31,6 @@ title: http://www.smuler.com/
 *  JS Response Bytes: 2968
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

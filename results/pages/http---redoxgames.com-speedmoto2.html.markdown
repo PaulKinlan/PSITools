@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://redoxgames.com/speedmoto2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [RedoXgames.com – SpeedMoto2](http://redoxgames.com/speedmoto2.html)
 
@@ -29,9 +35,6 @@ title: http://redoxgames.com/speedmoto2.html
 *  JS Response Bytes: 392528
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 62512
-
-### Performance issues
-
 
 ### Performance issues
 

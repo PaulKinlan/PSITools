@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://maxiang.info/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [欢迎使用马克飞象 - 马克飞象 - 专为印象笔记打造的Markdown编辑器](http://maxiang.info/)
 
@@ -29,9 +32,6 @@ title: http://maxiang.info/
 *  JS Response Bytes: 1293907
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

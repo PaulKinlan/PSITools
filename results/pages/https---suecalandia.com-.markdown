@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://suecalandia.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SUECALANDIA - Jogar Sueca Online, Bisca Online e Copas Online](https://suecalandia.com/)
 
@@ -29,9 +32,6 @@ title: https://suecalandia.com/
 *  JS Response Bytes: 1166722
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1199
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://chrome.funhost.net/futuristpuzzle/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Futurist puzzle - Game on Fun Host Games!](http://chrome.funhost.net/futuristpuzzle/)
 
@@ -29,9 +34,6 @@ title: http://chrome.funhost.net/futuristpuzzle/
 *  JS Response Bytes: 1187986
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5189
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://usound.mobi/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
 ---
 ## [uSound](http://usound.mobi/)
 
@@ -29,9 +32,6 @@ title: http://usound.mobi/
 *  JS Response Bytes: 1931533
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125785
-
-### Performance issues
-
 
 ### Performance issues
 

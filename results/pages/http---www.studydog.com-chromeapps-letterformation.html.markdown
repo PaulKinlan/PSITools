@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.studydog.com/chromeapps/letterformation.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.studydog.com/chromeapps/letterformation.html)
 
@@ -29,9 +33,6 @@ title: http://www.studydog.com/chromeapps/letterformation.html
 *  JS Response Bytes: 33205
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

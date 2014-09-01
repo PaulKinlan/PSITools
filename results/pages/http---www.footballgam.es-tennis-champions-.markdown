@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/tennis-champions/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tennis Champions Game](http://www.footballgam.es/tennis-champions/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/tennis-champions/
 *  JS Response Bytes: 2296846
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 154236
-
-### Performance issues
-
 
 ### Performance issues
 

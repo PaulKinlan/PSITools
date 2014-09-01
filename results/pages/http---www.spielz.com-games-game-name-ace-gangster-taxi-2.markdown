@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.spielz.com/games/game/name/ace-gangster-taxi-2
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ace-gangster-taxi-2 spiele](http://www.spielz.com/games/game/name/ace-gangster-taxi-2)
 
@@ -29,9 +34,6 @@ title: http://www.spielz.com/games/game/name/ace-gangster-taxi-2
 *  JS Response Bytes: 1862566
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111126
-
-### Performance issues
-
 
 ### Performance issues
 

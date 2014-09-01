@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.animal-jigsaw-puzzles.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Animal Puzzles](http://www.animal-jigsaw-puzzles.com/)
 
@@ -29,9 +33,6 @@ title: http://www.animal-jigsaw-puzzles.com/
 *  JS Response Bytes: 616289
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15192
-
-### Performance issues
-
 
 ### Performance issues
 

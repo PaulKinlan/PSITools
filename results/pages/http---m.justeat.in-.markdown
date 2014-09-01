@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.justeat.in/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Order Food Online on Mobile | Justeat India](http://m.justeat.in/)
 
@@ -29,9 +32,6 @@ title: http://m.justeat.in/
 *  JS Response Bytes: 613001
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3484
-
-### Performance issues
-
 
 ### Performance issues
 

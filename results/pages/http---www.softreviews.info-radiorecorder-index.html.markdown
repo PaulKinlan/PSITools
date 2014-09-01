@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.softreviews.info/radiorecorder/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Streaming Audio Recorder - Record Online Site & Radio Streaming Audio](http://www.softreviews.info/radiorecorder/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.softreviews.info/radiorecorder/index.html
 *  JS Response Bytes: 397313
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

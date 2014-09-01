@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chromestoreonline.com/yodo-memory-game.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Yodo Memory Game | CHROMESTOREONLİNE](http://www.chromestoreonline.com/yodo-memory-game.html)
 
@@ -29,9 +35,6 @@ title: http://www.chromestoreonline.com/yodo-memory-game.html
 *  JS Response Bytes: 950975
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15994
-
-### Performance issues
-
 
 ### Performance issues
 

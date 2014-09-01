@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.esurance.com/home?cfsession_id=978559787
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Esurance Mobile - Get a Quote or Manage Your Policy](http://m.esurance.com/home?cfsession_id=978559787)
 
@@ -29,9 +33,6 @@ title: http://m.esurance.com/home?cfsession_id=978559787
 *  JS Response Bytes: 380255
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1515
-
-### Performance issues
-
 
 ### Performance issues
 

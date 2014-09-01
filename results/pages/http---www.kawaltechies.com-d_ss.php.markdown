@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.kawaltechies.com/d_ss.php
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kawal Techies (Tutorials, Blogs, Apps )](http://www.kawaltechies.com/d_ss.php)
 
@@ -29,9 +32,6 @@ title: http://www.kawaltechies.com/d_ss.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

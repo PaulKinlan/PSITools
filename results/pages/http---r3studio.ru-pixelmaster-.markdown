@@ -33,8 +33,5 @@ title: http://r3studio.ru/pixelmaster/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

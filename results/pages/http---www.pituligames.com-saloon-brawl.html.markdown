@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.pituligames.com/saloon-brawl.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Saloon Brawl in the Wild West! - Pituli★Games.com](http://www.pituligames.com/saloon-brawl.html)
 
@@ -29,9 +34,6 @@ title: http://www.pituligames.com/saloon-brawl.html
 *  JS Response Bytes: 2246666
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 168989
-
-### Performance issues
-
 
 ### Performance issues
 

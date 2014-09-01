@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ebhasin.com/games/FashionistaDiaries/index.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fashionista Diaries -::- Bhasinsoft](http://www.ebhasin.com/games/FashionistaDiaries/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.ebhasin.com/games/FashionistaDiaries/index.html
 *  JS Response Bytes: 1373543
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110942
-
-### Performance issues
-
 
 ### Performance issues
 

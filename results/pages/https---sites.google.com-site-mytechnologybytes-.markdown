@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sites.google.com/site/mytechnologybytes/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Technology Bytes](https://sites.google.com/site/mytechnologybytes/)
 
@@ -29,9 +32,6 @@ title: https://sites.google.com/site/mytechnologybytes/
 *  JS Response Bytes: 412691
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9168
-
-### Performance issues
-
 
 ### Performance issues
 

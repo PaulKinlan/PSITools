@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.newnicegames.com/chrome-category/freeway-fury-2
+SizeTapTargetsAppropriately: true
 ---
 ## [newnicegames.com](http://ww2.newnicegames.com/chrome-category/freeway-fury-2)
 
@@ -29,9 +30,6 @@ title: http://ww2.newnicegames.com/chrome-category/freeway-fury-2
 *  JS Response Bytes: 229919
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21055
-
-### Performance issues
-
 
 ### Performance issues
 

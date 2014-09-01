@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://streamline.mitori.co.jp/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [クラウド型ワークフローシステムは「Streamline」](http://streamline.mitori.co.jp/)
 
@@ -29,9 +34,6 @@ title: http://streamline.mitori.co.jp/
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

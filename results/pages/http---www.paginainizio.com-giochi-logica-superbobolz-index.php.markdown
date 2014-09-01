@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.paginainizio.com/giochi/logica/superbobolz/index.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gioco Colpisci le sfere](http://www.paginainizio.com/giochi/logica/superbobolz/index.php)
 
@@ -29,9 +34,6 @@ title: http://www.paginainizio.com/giochi/logica/superbobolz/index.php
 *  JS Response Bytes: 1912980
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99802
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/action/karayip-korsanlar%C4%B1-lanetli-ma%C4%9Fara
+UseLegibleFontSizes: true
 ---
 ## [404 - Page not found](http://www.gamesvarious.com/action/karayip-korsanlar%C4%B1-lanetli-ma%C4%9Fara)
 
@@ -29,9 +30,6 @@ title: http://www.gamesvarious.com/action/karayip-korsanlar%C4%B1-lanetli-ma%C4%
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 949
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://game-class.com/worms-2-armageddon.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Game-Class.Com – Worms 2 Armageddon](http://game-class.com/worms-2-armageddon.html)
 
@@ -29,9 +36,6 @@ title: http://game-class.com/worms-2-armageddon.html
 *  JS Response Bytes: 489237
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8600
-
-### Performance issues
-
 
 ### Performance issues
 

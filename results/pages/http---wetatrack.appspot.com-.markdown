@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://wetatrack.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WetaTrack](http://wetatrack.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://wetatrack.appspot.com/
 *  JS Response Bytes: 92973
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

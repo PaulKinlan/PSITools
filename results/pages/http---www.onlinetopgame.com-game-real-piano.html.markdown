@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.onlinetopgame.com/game/real-piano.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Real Piano - Skill Games - Play Free Online Games](http://www.onlinetopgame.com/game/real-piano.html)
 
@@ -29,9 +35,6 @@ title: http://www.onlinetopgame.com/game/real-piano.html
 *  JS Response Bytes: 514136
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 592
-
-### Performance issues
-
 
 ### Performance issues
 

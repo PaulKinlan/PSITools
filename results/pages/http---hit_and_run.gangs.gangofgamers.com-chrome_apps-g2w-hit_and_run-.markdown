@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://hit_and_run.gangs.gangofgamers.com/chrome_apps/g2w/hit_and_run/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The page cannot be found](http://hit_and_run.gangs.gangofgamers.com/chrome_apps/g2w/hit_and_run/)
 
@@ -29,9 +31,6 @@ title: http://hit_and_run.gangs.gangofgamers.com/chrome_apps/g2w/hit_and_run/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1774
-
-### Performance issues
-
 
 ### Performance issues
 

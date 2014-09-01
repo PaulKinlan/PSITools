@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.wapsms.in/sms/lang/A/type/latest
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Latest SMS :: m.WapSMS.in](http://m.wapsms.in/sms/lang/A/type/latest)
 
@@ -29,9 +32,6 @@ title: http://m.wapsms.in/sms/lang/A/type/latest
 *  JS Response Bytes: 540302
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10232
-
-### Performance issues
-
 
 ### Performance issues
 

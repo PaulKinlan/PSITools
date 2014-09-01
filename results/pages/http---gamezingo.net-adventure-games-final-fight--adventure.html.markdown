@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://gamezingo.net/adventure-games/final-fight--adventure.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Final Fight Adventure - Free Online Games | Gamezingo - http://gamezingo.net](http://gamezingo.net/adventure-games/final-fight--adventure.html)
 
@@ -29,9 +36,6 @@ title: http://gamezingo.net/adventure-games/final-fight--adventure.html
 *  JS Response Bytes: 1265115
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2191
-
-### Performance issues
-
 
 ### Performance issues
 

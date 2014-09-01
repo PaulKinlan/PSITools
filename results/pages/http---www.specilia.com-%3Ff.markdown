@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.specilia.com/?f
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [specilia.com: The Leading Spec Ilia Site on the Net](http://www.specilia.com/?f)
 
@@ -18,7 +20,7 @@ title: http://www.specilia.com/?f
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 19
-*  Total Request Bytes: 2394
+*  Total Request Bytes: 2400
 
 ### Response data
 
@@ -29,9 +31,6 @@ title: http://www.specilia.com/?f
 *  JS Response Bytes: 88146
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 359
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.triportalwar.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [TriPortalWar - Juego de Rol Web Online Gratis](http://www.triportalwar.com/)
 
@@ -29,9 +31,6 @@ title: http://www.triportalwar.com/
 *  JS Response Bytes: 479741
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

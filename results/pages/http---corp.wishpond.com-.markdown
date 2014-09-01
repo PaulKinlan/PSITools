@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://corp.wishpond.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Wishpond | Easy Marketing apps -](http://corp.wishpond.com/)
 
@@ -29,9 +33,6 @@ title: http://corp.wishpond.com/
 *  JS Response Bytes: 1104411
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 129009
-
-### Performance issues
-
 
 ### Performance issues
 

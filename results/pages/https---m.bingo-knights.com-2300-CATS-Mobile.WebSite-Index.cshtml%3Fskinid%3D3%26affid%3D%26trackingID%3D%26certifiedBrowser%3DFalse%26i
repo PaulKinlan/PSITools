@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://m.bingo-knights.com:2300/CATS/Mobile.WebSite/Index.cshtml?skinid=3&affid=&trackingID=&certifiedBrowser=False&isDeviceReqSatisfied=False#/home
+AvoidLandingPageRedirects: true
+EnableGzipCompression: true
 ---
 ## [Mobile Responsive Lobby](https://m.bingo-knights.com:2300/CATS/Mobile.WebSite/Index.cshtml?skinid=3&affid=&trackingID=&certifiedBrowser=False&isDeviceReqSatisfied=False#/home)
 
@@ -29,9 +31,6 @@ title: https://m.bingo-knights.com:2300/CATS/Mobile.WebSite/Index.cshtml?skinid=
 *  JS Response Bytes: 504175
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8251
-
-### Performance issues
-
 
 ### Performance issues
 

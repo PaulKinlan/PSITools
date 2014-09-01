@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://12horasnotciassobreaviacao.blogspot.com/view/timeslide?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
 ---
 ## [Portal 12Aérea News Aviation](http://12horasnotciassobreaviacao.blogspot.com/view/timeslide?m=1)
 
@@ -29,9 +32,6 @@ title: http://12horasnotciassobreaviacao.blogspot.com/view/timeslide?m=1
 *  JS Response Bytes: 1219636
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24271
-
-### Performance issues
-
 
 ### Performance issues
 

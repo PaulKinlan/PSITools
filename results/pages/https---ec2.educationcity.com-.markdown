@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://ec2.educationcity.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Home](https://ec2.educationcity.com/)
 
@@ -29,9 +34,6 @@ title: https://ec2.educationcity.com/
 *  JS Response Bytes: 1022975
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1147
-
-### Performance issues
-
 
 ### Performance issues
 

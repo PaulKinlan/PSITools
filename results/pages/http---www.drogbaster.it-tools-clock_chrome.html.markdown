@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.drogbaster.it/tools/clock_chrome.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Orologio gratis per il tuo google chrome](http://www.drogbaster.it/tools/clock_chrome.html)
 
@@ -29,9 +33,6 @@ title: http://www.drogbaster.it/tools/clock_chrome.html
 *  JS Response Bytes: 1814169
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 128361
-
-### Performance issues
-
 
 ### Performance issues
 

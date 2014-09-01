@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.flashchromegames.com/pinball-football.html
+SizeTapTargetsAppropriately: true
 ---
 ## [flashchromegames.com](http://ww2.flashchromegames.com/pinball-football.html)
 
@@ -29,9 +30,6 @@ title: http://ww2.flashchromegames.com/pinball-football.html
 *  JS Response Bytes: 229919
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21051
-
-### Performance issues
-
 
 ### Performance issues
 

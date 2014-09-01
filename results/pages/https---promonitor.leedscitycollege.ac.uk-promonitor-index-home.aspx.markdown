@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://promonitor.leedscitycollege.ac.uk/promonitor/index/home.aspx
+UseLegibleFontSizes: true
 ---
 ## [401 - Unauthorized: Access is denied due to invalid credentials.](https://promonitor.leedscitycollege.ac.uk/promonitor/index/home.aspx)
 
@@ -29,9 +30,6 @@ title: https://promonitor.leedscitycollege.ac.uk/promonitor/index/home.aspx
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1465
-
-### Performance issues
-
 
 ### Performance issues
 

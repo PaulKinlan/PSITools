@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.androidwallpaper.me/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Best Android Wallpaper! Best Android Themes and Background! - Android Park](http://www.androidwallpaper.me/)
 
@@ -29,9 +34,6 @@ title: http://www.androidwallpaper.me/
 *  JS Response Bytes: 1207687
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19508
-
-### Performance issues
-
 
 ### Performance issues
 

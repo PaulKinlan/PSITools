@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://fullofgames.net/game/war2-glory/103/cpvid=caw2g&ts=ca
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://fullofgames.net/game/war2-glory/103/cpvid=caw2g&ts=ca)
 
@@ -29,9 +31,6 @@ title: http://fullofgames.net/game/war2-glory/103/cpvid=caw2g&ts=ca
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.wealthlift.com/web-login/?p=brokerages&utm_source=chrome&utm_medium=chrome&utm_campaign=chrome_store_brokerage
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WealthLift Chrome App Login](http://www.wealthlift.com/web-login/?p=brokerages&utm_source=chrome&utm_medium=chrome&utm_campaign=chrome_store_brokerage)
 
@@ -29,9 +33,6 @@ title: http://www.wealthlift.com/web-login/?p=brokerages&utm_source=chrome&utm_m
 *  JS Response Bytes: 1242698
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3480
-
-### Performance issues
-
 
 ### Performance issues
 

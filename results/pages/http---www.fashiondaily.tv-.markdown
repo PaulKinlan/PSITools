@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.fashiondaily.tv/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FashionDaily.TV, Fashion Videos, News und Bilder - FashionDaily.TV](http://www.fashiondaily.tv/)
 
@@ -29,9 +35,6 @@ title: http://www.fashiondaily.tv/
 *  JS Response Bytes: 806936
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 449
-
-### Performance issues
-
 
 ### Performance issues
 

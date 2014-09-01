@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/CowgirlCindyDressup/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Cowgirl Cindy DressUp](http://www.fupa.com/apps/CowgirlCindyDressup/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/CowgirlCindyDressup/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

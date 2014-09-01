@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://shiftpop.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SHIFTPOP](http://shiftpop.com/)
 
@@ -29,9 +34,6 @@ title: http://shiftpop.com/
 *  JS Response Bytes: 575395
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

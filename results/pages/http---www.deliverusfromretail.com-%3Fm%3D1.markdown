@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.deliverusfromretail.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DeliverUsFromRetail!](http://www.deliverusfromretail.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://www.deliverusfromretail.com/?m=1
 *  JS Response Bytes: 835916
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16023
-
-### Performance issues
-
 
 ### Performance issues
 

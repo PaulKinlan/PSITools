@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://tplus.me/?chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [tplus.me](http://tplus.me/?chrome)
 
@@ -29,9 +33,6 @@ title: http://tplus.me/?chrome
 *  JS Response Bytes: 209531
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

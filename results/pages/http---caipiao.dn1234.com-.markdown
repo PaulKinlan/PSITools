@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://caipiao.dn1234.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [彩票开奖|竞彩足球|彩票365|bet365](http://caipiao.dn1234.com/)
 
@@ -29,9 +33,6 @@ title: http://caipiao.dn1234.com/
 *  JS Response Bytes: 125322
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1512
-
-### Performance issues
-
 
 ### Performance issues
 

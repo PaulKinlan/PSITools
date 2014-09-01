@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.bookedbyclick.de/backend.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [booked by click - Vermieterbereich](https://www.bookedbyclick.de/backend.php)
 
@@ -29,9 +34,6 @@ title: https://www.bookedbyclick.de/backend.php
 *  JS Response Bytes: 129945
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 506
-
-### Performance issues
-
 
 ### Performance issues
 

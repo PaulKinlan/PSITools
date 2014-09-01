@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.jogosdecirurgia.co/aventura-dental/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Aventura Dental Jogo](http://www.jogosdecirurgia.co/aventura-dental/)
 
@@ -29,9 +35,6 @@ title: http://www.jogosdecirurgia.co/aventura-dental/
 *  JS Response Bytes: 2634002
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118231
-
-### Performance issues
-
 
 ### Performance issues
 

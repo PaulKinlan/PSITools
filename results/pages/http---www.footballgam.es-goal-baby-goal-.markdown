@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/goal-baby-goal/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Goal Baby Goal Game](http://www.footballgam.es/goal-baby-goal/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/goal-baby-goal/
 *  JS Response Bytes: 2413451
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163633
-
-### Performance issues
-
 
 ### Performance issues
 

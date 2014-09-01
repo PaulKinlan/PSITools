@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://recipecookbook.herokuapp.com/
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Recipe Cookbook ·](http://recipecookbook.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://recipecookbook.herokuapp.com/
 *  JS Response Bytes: 1659973
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 123862
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://developersland.my.phpcloud.com/increase-twitter-followers/connect.php#sthash.Ti2EtY7C.dpbs
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Increase Twitter Followers](http://developersland.my.phpcloud.com/increase-twitter-followers/connect.php#sthash.Ti2EtY7C.dpbs)
 
@@ -29,9 +33,6 @@ title: http://developersland.my.phpcloud.com/increase-twitter-followers/connect.
 *  JS Response Bytes: 718841
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5144
-
-### Performance issues
-
 
 ### Performance issues
 

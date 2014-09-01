@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ynsgames.com/2014/07/clash-of-clans-flash-version.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Clash of Clans Flash Version « Online free hd games play game](http://www.ynsgames.com/2014/07/clash-of-clans-flash-version.html)
 
@@ -29,9 +33,6 @@ title: http://www.ynsgames.com/2014/07/clash-of-clans-flash-version.html
 *  JS Response Bytes: 398590
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://h5game.6677g.com/PetSalon/?ref=chromewebstore
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Pet Salon - 6677G.COM](http://h5game.6677g.com/PetSalon/?ref=chromewebstore)
 
@@ -29,9 +31,6 @@ title: http://h5game.6677g.com/PetSalon/?ref=chromewebstore
 *  JS Response Bytes: 1664090
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31323
-
-### Performance issues
-
 
 ### Performance issues
 

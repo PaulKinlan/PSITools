@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/lord-of-war/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lord of War](http://www.war-games.ws/lord-of-war/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/lord-of-war/
 *  JS Response Bytes: 2356355
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115221
-
-### Performance issues
-
 
 ### Performance issues
 

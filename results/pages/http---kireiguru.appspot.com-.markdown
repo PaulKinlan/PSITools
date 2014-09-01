@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://kireiguru.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [きれいなぐるなび](http://kireiguru.appspot.com/)
 
@@ -29,9 +31,6 @@ title: http://kireiguru.appspot.com/
 *  JS Response Bytes: 621245
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 798
-
-### Performance issues
-
 
 ### Performance issues
 

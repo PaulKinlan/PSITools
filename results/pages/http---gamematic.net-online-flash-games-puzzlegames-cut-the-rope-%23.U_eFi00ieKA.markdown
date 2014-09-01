@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/puzzlegames/cut-the-rope/#.U_eFi00ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cut the Rope « Online Flash Game Cut the Rope](http://gamematic.net/online-flash-games/puzzlegames/cut-the-rope/#.U_eFi00ieKA)
 
@@ -29,9 +36,6 @@ title: http://gamematic.net/online-flash-games/puzzlegames/cut-the-rope/#.U_eFi0
 *  JS Response Bytes: 1994392
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27825
-
-### Performance issues
-
 
 ### Performance issues
 

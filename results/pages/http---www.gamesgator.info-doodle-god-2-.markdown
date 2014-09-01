@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gamesgator.info/doodle-god-2/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Doodle God 2](http://www.gamesgator.info/doodle-god-2/)
 
@@ -29,9 +36,6 @@ title: http://www.gamesgator.info/doodle-god-2/
 *  JS Response Bytes: 1098468
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 91217
-
-### Performance issues
-
 
 ### Performance issues
 

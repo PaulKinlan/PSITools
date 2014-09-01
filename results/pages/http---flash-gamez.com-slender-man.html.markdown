@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://flash-gamez.com/slender-man.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flash-GameZ.Com | Flash Games WorldS – Slender Man!](http://flash-gamez.com/slender-man.html)
 
@@ -29,9 +35,6 @@ title: http://flash-gamez.com/slender-man.html
 *  JS Response Bytes: 538879
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27397
-
-### Performance issues
-
 
 ### Performance issues
 

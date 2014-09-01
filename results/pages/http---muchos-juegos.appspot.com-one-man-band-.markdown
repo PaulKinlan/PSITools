@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://muchos-juegos.appspot.com/one-man-band/
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [One Man Band - Muchos Juegos](http://muchos-juegos.appspot.com/one-man-band/)
 
@@ -29,9 +33,6 @@ title: http://muchos-juegos.appspot.com/one-man-band/
 *  JS Response Bytes: 1469148
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112945
-
-### Performance issues
-
 
 ### Performance issues
 

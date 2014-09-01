@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.bestofactiongames.com/racing-games/delivery-steam-train
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Delivery Steam Train - Games - Play Free Online Best of Action Games](http://www.bestofactiongames.com/racing-games/delivery-steam-train)
 
@@ -29,9 +35,6 @@ title: http://www.bestofactiongames.com/racing-games/delivery-steam-train
 *  JS Response Bytes: 1712224
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21418
-
-### Performance issues
-
 
 ### Performance issues
 

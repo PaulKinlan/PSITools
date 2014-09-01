@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ww38.poodlegames.com/adventure-games/angry-birds-space-online.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [poodlegames.com](http://ww38.poodlegames.com/adventure-games/angry-birds-space-online.html)
 
@@ -29,9 +32,6 @@ title: http://ww38.poodlegames.com/adventure-games/angry-birds-space-online.html
 *  JS Response Bytes: 209105
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 256
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.loveitsomuch.com/clothes/shorts.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Shorts: Discover Fashion Shorts](http://m.loveitsomuch.com/clothes/shorts.html)
 
@@ -29,9 +31,6 @@ title: http://m.loveitsomuch.com/clothes/shorts.html
 *  JS Response Bytes: 740595
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1636
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.hipchat.com/sign_in?d=%2Fchat
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [HipChat - Sign in](https://www.hipchat.com/sign_in?d=%2Fchat)
 
@@ -29,9 +32,6 @@ title: https://www.hipchat.com/sign_in?d=%2Fchat
 *  JS Response Bytes: 895561
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10093
-
-### Performance issues
-
 
 ### Performance issues
 

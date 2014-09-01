@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://apps.apps-builder.com/661654#bmb=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [RecruitU](http://apps.apps-builder.com/661654#bmb=1)
 
@@ -29,9 +32,6 @@ title: http://apps.apps-builder.com/661654#bmb=1
 *  JS Response Bytes: 1117408
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8783
-
-### Performance issues
-
 
 ### Performance issues
 

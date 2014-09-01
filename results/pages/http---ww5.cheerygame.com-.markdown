@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ww5.cheerygame.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [cheerygame.com](http://ww5.cheerygame.com/)
 
@@ -29,9 +32,6 @@ title: http://ww5.cheerygame.com/
 *  JS Response Bytes: 209531
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47
-
-### Performance issues
-
 
 ### Performance issues
 

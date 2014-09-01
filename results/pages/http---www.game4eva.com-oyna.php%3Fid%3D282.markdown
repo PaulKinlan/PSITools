@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.game4eva.com/oyna.php?id=282
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games – Flash Game World – Basketball Heroes](http://www.game4eva.com/oyna.php?id=282)
 
@@ -29,9 +35,6 @@ title: http://www.game4eva.com/oyna.php?id=282
 *  JS Response Bytes: 1192663
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28563
-
-### Performance issues
-
 
 ### Performance issues
 

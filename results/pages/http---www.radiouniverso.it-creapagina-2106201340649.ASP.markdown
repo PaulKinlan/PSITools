@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.radiouniverso.it/creapagina/2106201340649.ASP
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.radiouniverso.it/creapagina/2106201340649.ASP)
 
@@ -29,9 +35,6 @@ title: http://www.radiouniverso.it/creapagina/2106201340649.ASP
 *  JS Response Bytes: 2216262
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17822
-
-### Performance issues
-
 
 ### Performance issues
 

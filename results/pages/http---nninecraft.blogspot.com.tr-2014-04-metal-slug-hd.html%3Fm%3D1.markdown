@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://nninecraft.blogspot.com.tr/2014/04/metal-slug-hd.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Game store hd free game: metal slug HD](http://nninecraft.blogspot.com.tr/2014/04/metal-slug-hd.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://nninecraft.blogspot.com.tr/2014/04/metal-slug-hd.html?m=1
 *  JS Response Bytes: 1244508
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117062
-
-### Performance issues
-
 
 ### Performance issues
 

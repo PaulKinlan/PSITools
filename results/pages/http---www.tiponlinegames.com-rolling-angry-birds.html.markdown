@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tiponlinegames.com/rolling-angry-birds.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rolling Angry Birds | TIP ONLINE GAMES](http://www.tiponlinegames.com/rolling-angry-birds.html)
 
@@ -29,9 +34,6 @@ title: http://www.tiponlinegames.com/rolling-angry-birds.html
 *  JS Response Bytes: 1051732
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16286
-
-### Performance issues
-
 
 ### Performance issues
 

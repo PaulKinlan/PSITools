@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://smokingcalculator.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Smoking Cost Calculator ·](http://smokingcalculator.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://smokingcalculator.herokuapp.com/
 *  JS Response Bytes: 1621351
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 162184
-
-### Performance issues
-
 
 ### Performance issues
 

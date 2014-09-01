@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/extreme-kick/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Extreme Kick Game](http://www.footballgam.es/extreme-kick/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/extreme-kick/
 *  JS Response Bytes: 2138936
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155103
-
-### Performance issues
-
 
 ### Performance issues
 

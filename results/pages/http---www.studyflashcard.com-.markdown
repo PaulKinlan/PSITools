@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.studyflashcard.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [StudyFlashcard: Study tools for busy students.](http://www.studyflashcard.com/)
 
@@ -29,9 +30,6 @@ title: http://www.studyflashcard.com/
 *  JS Response Bytes: 169479
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58110
-
-### Performance issues
-
 
 ### Performance issues
 

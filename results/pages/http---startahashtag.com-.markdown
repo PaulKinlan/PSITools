@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://startahashtag.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [startahashtag.com](http://startahashtag.com/)
 
@@ -29,9 +32,6 @@ title: http://startahashtag.com/
 *  JS Response Bytes: 149358
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26466
-
-### Performance issues
-
 
 ### Performance issues
 

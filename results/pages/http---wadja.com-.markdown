@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://wadja.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Wadja beta, βήτα](http://wadja.com/)
 
@@ -29,9 +32,6 @@ title: http://wadja.com/
 *  JS Response Bytes: 375832
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 182
-
-### Performance issues
-
 
 ### Performance issues
 

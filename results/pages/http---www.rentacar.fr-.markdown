@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.rentacar.fr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Location de voiture pas cher – Rent A Car](http://www.rentacar.fr/)
 
@@ -29,9 +34,6 @@ title: http://www.rentacar.fr/
 *  JS Response Bytes: 673684
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19806
-
-### Performance issues
-
 
 ### Performance issues
 

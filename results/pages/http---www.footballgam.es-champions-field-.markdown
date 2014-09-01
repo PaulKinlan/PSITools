@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/champions-field/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Champions Field Game](http://www.footballgam.es/champions-field/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/champions-field/
 *  JS Response Bytes: 2296717
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 149932
-
-### Performance issues
-
 
 ### Performance issues
 

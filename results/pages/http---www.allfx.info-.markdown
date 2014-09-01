@@ -33,8 +33,5 @@ title: http://www.allfx.info/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

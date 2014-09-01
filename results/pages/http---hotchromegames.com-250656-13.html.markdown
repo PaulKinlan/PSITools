@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://hotchromegames.com/250656/13.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HotChromeGames Play » Angry Birds Rio](http://hotchromegames.com/250656/13.html)
 
@@ -29,9 +37,6 @@ title: http://hotchromegames.com/250656/13.html
 *  JS Response Bytes: 553957
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16514
-
-### Performance issues
-
 
 ### Performance issues
 

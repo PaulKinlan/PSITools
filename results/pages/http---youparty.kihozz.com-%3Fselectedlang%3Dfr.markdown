@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://youparty.kihozz.com/?selectedlang=fr
+EnableGzipCompression: true
 ---
 ## [](http://youparty.kihozz.com/?selectedlang=fr)
 
@@ -29,9 +30,6 @@ title: http://youparty.kihozz.com/?selectedlang=fr
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

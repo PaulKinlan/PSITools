@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pinoyentertainmentnews.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [pinoyentertainmentnews.com](http://www.pinoyentertainmentnews.com/)
 
@@ -29,9 +33,6 @@ title: http://www.pinoyentertainmentnews.com/
 *  JS Response Bytes: 173157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

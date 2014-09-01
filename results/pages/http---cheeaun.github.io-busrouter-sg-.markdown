@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://cheeaun.github.io/busrouter-sg/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Singapore Bus Routes Explorer](http://cheeaun.github.io/busrouter-sg/)
 
@@ -29,9 +33,6 @@ title: http://cheeaun.github.io/busrouter-sg/
 *  JS Response Bytes: 1522887
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42413
-
-### Performance issues
-
 
 ### Performance issues
 

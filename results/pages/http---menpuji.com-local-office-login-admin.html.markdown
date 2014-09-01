@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://menpuji.com/local/office/login-admin.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Office业务管理登录](http://menpuji.com/local/office/login-admin.html)
 
@@ -29,9 +32,6 @@ title: http://menpuji.com/local/office/login-admin.html
 *  JS Response Bytes: 905894
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 79388
-
-### Performance issues
-
 
 ### Performance issues
 

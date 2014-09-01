@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://photos-share.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Photos Share Avatar Generator](http://photos-share.com/)
 
@@ -29,9 +34,6 @@ title: http://photos-share.com/
 *  JS Response Bytes: 960658
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 229624
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamesforgirls3.com/games/makeover-game-for-girls
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Makeover Games | Games for Girls - Play Dress Up, Cooking and Decorating Games](http://www.gamesforgirls3.com/games/makeover-game-for-girls)
 
@@ -29,9 +33,6 @@ title: http://www.gamesforgirls3.com/games/makeover-game-for-girls
 *  JS Response Bytes: 1753936
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119775
-
-### Performance issues
-
 
 ### Performance issues
 

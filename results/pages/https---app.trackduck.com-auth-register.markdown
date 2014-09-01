@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://app.trackduck.com/auth/register
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TrackDuck](https://app.trackduck.com/auth/register)
 
@@ -29,9 +33,6 @@ title: https://app.trackduck.com/auth/register
 *  JS Response Bytes: 105997
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 611
-
-### Performance issues
-
 
 ### Performance issues
 

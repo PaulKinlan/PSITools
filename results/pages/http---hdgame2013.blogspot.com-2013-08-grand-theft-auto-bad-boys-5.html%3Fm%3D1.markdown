@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://hdgame2013.blogspot.com/2013/08/grand-theft-auto-bad-boys-5.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Hd games free: Grand Theft Auto Bad Boys 5](http://hdgame2013.blogspot.com/2013/08/grand-theft-auto-bad-boys-5.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://hdgame2013.blogspot.com/2013/08/grand-theft-auto-bad-boys-5.html?m
 *  JS Response Bytes: 1149600
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99264
-
-### Performance issues
-
 
 ### Performance issues
 

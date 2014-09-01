@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://my.sevdesk.de/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](https://my.sevdesk.de/)
 
@@ -29,9 +32,6 @@ title: https://my.sevdesk.de/
 *  JS Response Bytes: 157086
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29730
-
-### Performance issues
-
 
 ### Performance issues
 

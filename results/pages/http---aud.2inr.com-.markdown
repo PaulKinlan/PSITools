@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://aud.2inr.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Australian Dollar to Rupee Exchange Rates - Live](http://aud.2inr.com/)
 
@@ -29,9 +32,6 @@ title: http://aud.2inr.com/
 *  JS Response Bytes: 1062973
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

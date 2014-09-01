@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://papasgaming.com/papas-taco-mia.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PapasGaming.Com – Papa’s Taco Mia!](http://papasgaming.com/papas-taco-mia.html)
 
@@ -29,9 +35,6 @@ title: http://papasgaming.com/papas-taco-mia.html
 *  JS Response Bytes: 400294
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58745
-
-### Performance issues
-
 
 ### Performance issues
 

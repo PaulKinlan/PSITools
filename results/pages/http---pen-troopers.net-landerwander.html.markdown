@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://pen-troopers.net/landerwander.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lander Wander](http://pen-troopers.net/landerwander.html)
 
@@ -29,9 +34,6 @@ title: http://pen-troopers.net/landerwander.html
 *  JS Response Bytes: 90244
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

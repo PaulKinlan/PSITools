@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://mobile.games4future.com/?p=193
+MinimizeRenderBlockingResources: true
 ---
 ## [](http://mobile.games4future.com/?p=193)
 
@@ -29,9 +30,6 @@ title: http://mobile.games4future.com/?p=193
 *  JS Response Bytes: 311736
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6418
-
-### Performance issues
-
 
 ### Performance issues
 

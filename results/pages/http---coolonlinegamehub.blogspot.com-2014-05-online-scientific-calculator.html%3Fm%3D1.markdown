@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://coolonlinegamehub.blogspot.com/2014/05/online-scientific-calculator.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Chrome App Blog: Online Scientific Calculator](http://coolonlinegamehub.blogspot.com/2014/05/online-scientific-calculator.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://coolonlinegamehub.blogspot.com/2014/05/online-scientific-calculato
 *  JS Response Bytes: 1418861
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122933
-
-### Performance issues
-
 
 ### Performance issues
 

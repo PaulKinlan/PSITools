@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mymeteo.net/show.php?id=5128581
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [New York City Weather Forecast](http://www.mymeteo.net/show.php?id=5128581)
 
@@ -29,9 +33,6 @@ title: http://www.mymeteo.net/show.php?id=5128581
 *  JS Response Bytes: 1206043
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2889
-
-### Performance issues
-
 
 ### Performance issues
 

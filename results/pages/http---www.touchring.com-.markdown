@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.touchring.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [touchring.com 요금 미납으로 인한 DNS서비스 정지](http://www.touchring.com/)
 
@@ -29,9 +32,6 @@ title: http://www.touchring.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4506
-
-### Performance issues
-
 
 ### Performance issues
 

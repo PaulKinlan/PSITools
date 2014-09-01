@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.tunnelgame.net/flash-games/monkey-go-happy-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Monkey GO Happy 2 « Flash Games, Online Games](http://www.tunnelgame.net/flash-games/monkey-go-happy-2/)
 
@@ -29,9 +35,6 @@ title: http://www.tunnelgame.net/flash-games/monkey-go-happy-2/
 *  JS Response Bytes: 1190115
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15447
-
-### Performance issues
-
 
 ### Performance issues
 

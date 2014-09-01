@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://eu.fotolia.com/?&utm_source=203936681&utm_medium=affiliation&utm_content=203936681&tmad=c&tmcampid=8&tmplaceref=203936681
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fotolia, Europe's Number 1 Royalty-Free Image Bank +20 Million Images](http://eu.fotolia.com/?&utm_source=203936681&utm_medium=affiliation&utm_content=203936681&tmad=c&tmcampid=8&tmplaceref=203936681)
 
@@ -29,9 +34,6 @@ title: http://eu.fotolia.com/?&utm_source=203936681&utm_medium=affiliation&utm_c
 *  JS Response Bytes: 1426571
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 101571
-
-### Performance issues
-
 
 ### Performance issues
 

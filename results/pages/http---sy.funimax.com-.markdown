@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://sy.funimax.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [神印 | 神印 官方網站](http://sy.funimax.com/)
 
@@ -29,9 +33,6 @@ title: http://sy.funimax.com/
 *  JS Response Bytes: 1054156
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 286548
-
-### Performance issues
-
 
 ### Performance issues
 

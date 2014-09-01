@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kleurplaatkleurplaten.nl/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [gratis kleurplaten , kleurboek , kleurplaten printen](http://www.kleurplaatkleurplaten.nl/)
 
@@ -29,9 +34,6 @@ title: http://www.kleurplaatkleurplaten.nl/
 *  JS Response Bytes: 1609641
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111302
-
-### Performance issues
-
 
 ### Performance issues
 

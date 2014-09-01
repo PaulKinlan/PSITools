@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.enricotabacchi.it/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Enrico Tabacchi | Milan-based photographer.](http://www.enricotabacchi.it/)
 
@@ -29,9 +33,6 @@ title: http://www.enricotabacchi.it/
 *  JS Response Bytes: 544549
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1031
-
-### Performance issues
-
 
 ### Performance issues
 

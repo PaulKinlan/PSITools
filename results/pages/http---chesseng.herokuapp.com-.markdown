@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chesseng.herokuapp.com/
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [StockfishApp](http://chesseng.herokuapp.com/)
 
@@ -29,9 +32,6 @@ title: http://chesseng.herokuapp.com/
 *  JS Response Bytes: 200520
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

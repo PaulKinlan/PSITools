@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bestreports.info/hidemyip/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Quick Hide Your IP Address - Best Hide Your IP Address App - Download FREE](http://www.bestreports.info/hidemyip/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.bestreports.info/hidemyip/index.html
 *  JS Response Bytes: 911322
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115596
-
-### Performance issues
-
 
 ### Performance issues
 

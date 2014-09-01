@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://quadra.do/eupreciso/
+MinimizeRenderBlockingResources: true
 ---
 ## [Eu preciso?!?](http://quadra.do/eupreciso/)
 
@@ -29,9 +30,6 @@ title: http://quadra.do/eupreciso/
 *  JS Response Bytes: 345445
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

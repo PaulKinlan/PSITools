@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.drogbaster.it/spider.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Virtual Pet Games gioca con un simpatico ragno](http://www.drogbaster.it/spider.htm)
 
@@ -29,9 +34,6 @@ title: http://www.drogbaster.it/spider.htm
 *  JS Response Bytes: 1972003
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125537
-
-### Performance issues
-
 
 ### Performance issues
 

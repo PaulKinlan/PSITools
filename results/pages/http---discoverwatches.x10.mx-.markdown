@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://discoverwatches.x10.mx/
+UseLegibleFontSizes: true
 ---
 ## [](http://discoverwatches.x10.mx/)
 
@@ -29,9 +30,6 @@ title: http://discoverwatches.x10.mx/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

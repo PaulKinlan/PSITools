@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.123knots.com/?chromestore=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [123 Knots - Learn the Ropes with Knot Tying Tutorials](http://www.123knots.com/?chromestore=1)
 
@@ -29,9 +34,6 @@ title: http://www.123knots.com/?chromestore=1
 *  JS Response Bytes: 726270
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17471
-
-### Performance issues
-
 
 ### Performance issues
 

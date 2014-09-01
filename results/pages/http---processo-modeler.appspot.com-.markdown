@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://processo-modeler.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Processo Modeler by EmDev Limited](http://processo-modeler.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://processo-modeler.appspot.com/
 *  JS Response Bytes: 1091303
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 874
-
-### Performance issues
-
 
 ### Performance issues
 

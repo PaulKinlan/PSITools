@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameelle.com/default-category/gym-love
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gym Love - Gameelle](http://www.gameelle.com/default-category/gym-love)
 
@@ -29,9 +34,6 @@ title: http://www.gameelle.com/default-category/gym-love
 *  JS Response Bytes: 673190
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

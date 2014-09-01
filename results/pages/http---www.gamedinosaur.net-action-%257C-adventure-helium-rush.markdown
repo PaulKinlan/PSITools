@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamedinosaur.net/action-%7C-adventure/helium-rush
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | Gamedinosaur.net | Play Most Popular Games Free](http://www.gamedinosaur.net/action-%7C-adventure/helium-rush)
 
@@ -29,9 +35,6 @@ title: http://www.gamedinosaur.net/action-%7C-adventure/helium-rush
 *  JS Response Bytes: 1243519
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2563
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://perfectmusicmaker.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://perfectmusicmaker.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://perfectmusicmaker.blogspot.com/?m=1
 *  JS Response Bytes: 41101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18785
-
-### Performance issues
-
 
 ### Performance issues
 

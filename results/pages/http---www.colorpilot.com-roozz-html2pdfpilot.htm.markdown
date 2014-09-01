@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.colorpilot.com/roozz/html2pdfpilot.htm
+AvoidPlugins: true
 ---
 ## [HTML2PDF Pilot via Roozz Plugin](http://www.colorpilot.com/roozz/html2pdfpilot.htm)
 
@@ -29,9 +30,6 @@ title: http://www.colorpilot.com/roozz/html2pdfpilot.htm
 *  JS Response Bytes: 35079
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 483
-
-### Performance issues
-
 
 ### Performance issues
 

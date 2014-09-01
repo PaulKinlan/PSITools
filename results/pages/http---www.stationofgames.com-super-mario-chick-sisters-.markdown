@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.stationofgames.com/super-mario-chick-sisters/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Mario Chick Sisters](http://www.stationofgames.com/super-mario-chick-sisters/)
 
@@ -29,9 +35,6 @@ title: http://www.stationofgames.com/super-mario-chick-sisters/
 *  JS Response Bytes: 1299351
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119251
-
-### Performance issues
-
 
 ### Performance issues
 

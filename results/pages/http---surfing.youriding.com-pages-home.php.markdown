@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://surfing.youriding.com/pages/home.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [YouRiding SURFING IV](http://surfing.youriding.com/pages/home.php)
 
@@ -29,9 +34,6 @@ title: http://surfing.youriding.com/pages/home.php
 *  JS Response Bytes: 780999
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1984
-
-### Performance issues
-
 
 ### Performance issues
 

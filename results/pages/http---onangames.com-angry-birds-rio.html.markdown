@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://onangames.com/angry-birds-rio.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [OnanGames.Com | Flash Game | Flash Games – Angry Birds Rio](http://onangames.com/angry-birds-rio.html)
 
@@ -29,9 +35,6 @@ title: http://onangames.com/angry-birds-rio.html
 *  JS Response Bytes: 412220
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 806
-
-### Performance issues
-
 
 ### Performance issues
 

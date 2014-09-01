@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.coolmathgamesall.com/games/papa%C2%92s-burgeria.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Papas Burgeria | Cool Math Games and cool math more run cool math](http://www.coolmathgamesall.com/games/papa%C2%92s-burgeria.html)
 
@@ -29,9 +37,6 @@ title: http://www.coolmathgamesall.com/games/papa%C2%92s-burgeria.html
 *  JS Response Bytes: 2065645
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 138278
-
-### Performance issues
-
 
 ### Performance issues
 

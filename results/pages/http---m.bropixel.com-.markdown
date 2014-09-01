@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.bropixel.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
 ---
 ## [BroPixel - Bitmap Rendered Observable Pixels](http://m.bropixel.com/)
 
@@ -29,9 +32,6 @@ title: http://m.bropixel.com/
 *  JS Response Bytes: 42473
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3169
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.chowder.net.au/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Chowder Reviews](http://www.chowder.net.au/)
 
@@ -29,9 +32,6 @@ title: http://www.chowder.net.au/
 *  JS Response Bytes: 1626638
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95531
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bestreports.info/TuneGetmini/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TuneGet - Finds and downloads any music and music video from the web in 2 clicks.](http://www.bestreports.info/TuneGetmini/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.bestreports.info/TuneGetmini/index.html
 *  JS Response Bytes: 1010480
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112298
-
-### Performance issues
-
 
 ### Performance issues
 

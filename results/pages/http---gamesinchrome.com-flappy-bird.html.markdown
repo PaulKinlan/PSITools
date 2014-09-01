@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamesinchrome.com/flappy-bird.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flappy Bird game](http://gamesinchrome.com/flappy-bird.html)
 
@@ -29,9 +35,6 @@ title: http://gamesinchrome.com/flappy-bird.html
 *  JS Response Bytes: 610584
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15540
-
-### Performance issues
-
 
 ### Performance issues
 

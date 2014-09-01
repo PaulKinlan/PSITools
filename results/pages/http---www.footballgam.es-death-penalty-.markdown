@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/death-penalty/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Death Penalty Game](http://www.footballgam.es/death-penalty/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/death-penalty/
 *  JS Response Bytes: 2265160
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141671
-
-### Performance issues
-
 
 ### Performance issues
 

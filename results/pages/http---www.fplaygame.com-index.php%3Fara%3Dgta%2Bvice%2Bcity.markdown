@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.fplaygame.com/index.php?ara=gta+vice+city
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [gta vice city | Free play best game](http://www.fplaygame.com/index.php?ara=gta+vice+city)
 
@@ -29,9 +33,6 @@ title: http://www.fplaygame.com/index.php?ara=gta+vice+city
 *  JS Response Bytes: 503669
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

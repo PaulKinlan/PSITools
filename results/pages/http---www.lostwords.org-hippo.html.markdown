@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.lostwords.org/hippo.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [H I P P O C A M P U S](http://www.lostwords.org/hippo.html)
 
@@ -29,9 +33,6 @@ title: http://www.lostwords.org/hippo.html
 *  JS Response Bytes: 378264
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56
-
-### Performance issues
-
 
 ### Performance issues
 

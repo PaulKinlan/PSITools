@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://dispensaryweed.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Dispensary Weed](http://dispensaryweed.com/)
 
@@ -29,9 +31,6 @@ title: http://dispensaryweed.com/
 *  JS Response Bytes: 729162
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59291
-
-### Performance issues
-
 
 ### Performance issues
 

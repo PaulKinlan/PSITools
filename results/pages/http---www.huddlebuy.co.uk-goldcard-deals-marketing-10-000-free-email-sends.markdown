@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.huddlebuy.co.uk/goldcard/deals/marketing/10-000-free-email-sends
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Send Unlimited Emails](http://www.huddlebuy.co.uk/goldcard/deals/marketing/10-000-free-email-sends)
 
@@ -29,9 +31,6 @@ title: http://www.huddlebuy.co.uk/goldcard/deals/marketing/10-000-free-email-sen
 *  JS Response Bytes: 1797173
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 195563
-
-### Performance issues
-
 
 ### Performance issues
 

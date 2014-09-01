@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://alexd.googlecode.com/hg/translate.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://alexd.googlecode.com/hg/translate.html)
 
@@ -29,9 +32,6 @@ title: http://alexd.googlecode.com/hg/translate.html
 *  JS Response Bytes: 2867
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

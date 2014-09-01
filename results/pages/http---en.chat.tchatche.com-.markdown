@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://en.chat.tchatche.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Chat & Dating - Connect to talk with and meet new people](http://en.chat.tchatche.com/)
 
@@ -29,9 +32,6 @@ title: http://en.chat.tchatche.com/
 *  JS Response Bytes: 997737
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4307
-
-### Performance issues
-
 
 ### Performance issues
 

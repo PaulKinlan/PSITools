@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://english-french-translator.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [English French Translator](http://english-french-translator.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://english-french-translator.herokuapp.com/
 *  JS Response Bytes: 1315171
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110122
-
-### Performance issues
-
 
 ### Performance issues
 

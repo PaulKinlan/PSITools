@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww38.angrygamezone.com/gangster/
+EnableGzipCompression: true
 ---
 ## [angrygamezone.com](http://ww38.angrygamezone.com/gangster/)
 
@@ -29,9 +30,6 @@ title: http://ww38.angrygamezone.com/gangster/
 *  JS Response Bytes: 209105
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 222
-
-### Performance issues
-
 
 ### Performance issues
 

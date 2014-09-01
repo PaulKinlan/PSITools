@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://www.cirrosecure.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [CirroSecure](https://www.cirrosecure.com/)
 
@@ -29,9 +30,6 @@ title: https://www.cirrosecure.com/
 *  JS Response Bytes: 187770
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

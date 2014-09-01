@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://todo.appflop.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The cleanest todo list ever](http://todo.appflop.com/)
 
@@ -29,9 +34,6 @@ title: http://todo.appflop.com/
 *  JS Response Bytes: 390503
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

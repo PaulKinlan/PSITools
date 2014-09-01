@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://minecrafttonline-hd.blogspot.com.tr/2014/04/gta-san-andreas.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [minecraft new game: gta san andreas](http://minecrafttonline-hd.blogspot.com.tr/2014/04/gta-san-andreas.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://minecrafttonline-hd.blogspot.com.tr/2014/04/gta-san-andreas.html?m
 *  JS Response Bytes: 1148291
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99262
-
-### Performance issues
-
 
 ### Performance issues
 

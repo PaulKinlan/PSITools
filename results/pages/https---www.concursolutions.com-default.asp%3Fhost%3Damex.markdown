@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.concursolutions.com/default.asp?host=amex
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Log in to Concur | Concur Solutions](https://www.concursolutions.com/default.asp?host=amex)
 
@@ -29,9 +33,6 @@ title: https://www.concursolutions.com/default.asp?host=amex
 *  JS Response Bytes: 205065
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

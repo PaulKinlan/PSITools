@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://nationalzoo.si.edu/default.cfm
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Smithsonian's National Zoo](http://nationalzoo.si.edu/default.cfm)
 
@@ -29,9 +35,6 @@ title: http://nationalzoo.si.edu/default.cfm
 *  JS Response Bytes: 231826
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

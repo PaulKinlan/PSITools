@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://vnovel.info/flowershop/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Flower Shop: Summer in Fairbrook - vNovel Interactive](http://vnovel.info/flowershop/)
 
@@ -29,9 +33,6 @@ title: http://vnovel.info/flowershop/
 *  JS Response Bytes: 17384
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

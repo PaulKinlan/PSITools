@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://realtimeplayground.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Google Drive Realtime API Playground](https://realtimeplayground.appspot.com/)
 
@@ -29,9 +32,6 @@ title: https://realtimeplayground.appspot.com/
 *  JS Response Bytes: 1139232
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4519
-
-### Performance issues
-
 
 ### Performance issues
 

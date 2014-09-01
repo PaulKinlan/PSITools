@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://minecraft-online-hd.blogspot.com.tr/2014/04/jetpack.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [minecraft online game store: jetpack](http://minecraft-online-hd.blogspot.com.tr/2014/04/jetpack.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://minecraft-online-hd.blogspot.com.tr/2014/04/jetpack.html?m=1
 *  JS Response Bytes: 1120414
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95588
-
-### Performance issues
-
 
 ### Performance issues
 

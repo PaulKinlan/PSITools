@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.software12345.com/mobisaverforandroid/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [>EaseUS MobiSaver for Android - Data Recovery for Android Devices](http://www.software12345.com/mobisaverforandroid/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.software12345.com/mobisaverforandroid/index.html
 *  JS Response Bytes: 935599
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109057
-
-### Performance issues
-
 
 ### Performance issues
 

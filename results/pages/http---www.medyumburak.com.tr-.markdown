@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.medyumburak.com.tr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Medyum Burak – Medyum Burak Resmi Sitesi | Medyum Burak Konya Medyum Burak Resmi Sitesi](http://www.medyumburak.com.tr/)
 
@@ -29,9 +34,6 @@ title: http://www.medyumburak.com.tr/
 *  JS Response Bytes: 328223
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 822
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://gamestrainer.info/fifa-2014/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tic Games Flash Games – Fifa 2014](http://gamestrainer.info/fifa-2014/)
 
@@ -29,9 +36,6 @@ title: http://gamestrainer.info/fifa-2014/
 *  JS Response Bytes: 1146648
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1108
-
-### Performance issues
-
 
 ### Performance issues
 

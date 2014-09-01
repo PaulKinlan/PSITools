@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/sportsgames/heads-football/#.U_d6800ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Heads Football « Online Flash Game Heads Football](http://gamematic.net/online-flash-games/sportsgames/heads-football/#.U_d6800ieKA)
 
@@ -29,9 +37,6 @@ title: http://gamematic.net/online-flash-games/sportsgames/heads-football/#.U_d6
 *  JS Response Bytes: 1265473
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41754
-
-### Performance issues
-
 
 ### Performance issues
 

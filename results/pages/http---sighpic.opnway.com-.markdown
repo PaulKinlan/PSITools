@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://sighpic.opnway.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Sighpic Opnway](http://sighpic.opnway.com/)
 
@@ -29,9 +31,6 @@ title: http://sighpic.opnway.com/
 *  JS Response Bytes: 494074
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 75886
-
-### Performance issues
-
 
 ### Performance issues
 

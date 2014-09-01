@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.shootemall.net/category/fps-games/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fps Games](http://www.shootemall.net/category/fps-games/)
 
@@ -29,9 +35,6 @@ title: http://www.shootemall.net/category/fps-games/
 *  JS Response Bytes: 2150756
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 147364
-
-### Performance issues
-
 
 ### Performance issues
 

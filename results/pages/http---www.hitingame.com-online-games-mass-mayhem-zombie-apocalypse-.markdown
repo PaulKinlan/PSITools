@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.hitingame.com/online-games/mass-mayhem-zombie-apocalypse/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mass Mayhem Zombie Apocalypse « Online Flash Games – Popular Flash Games](http://www.hitingame.com/online-games/mass-mayhem-zombie-apocalypse/)
 
@@ -29,9 +35,6 @@ title: http://www.hitingame.com/online-games/mass-mayhem-zombie-apocalypse/
 *  JS Response Bytes: 1133765
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57394
-
-### Performance issues
-
 
 ### Performance issues
 

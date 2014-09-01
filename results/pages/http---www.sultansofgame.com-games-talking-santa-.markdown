@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/talking-santa/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Talking Santa Game — Sultans of Game](http://www.sultansofgame.com/games/talking-santa/)
 
@@ -29,9 +35,6 @@ title: http://www.sultansofgame.com/games/talking-santa/
 *  JS Response Bytes: 1576886
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 136149
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.thebestofflash.com/demos/supaslots/supaslotspreview.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Supa Slots Flash Slot Game Preview](http://www.thebestofflash.com/demos/supaslots/supaslotspreview.html)
 
@@ -29,9 +37,6 @@ title: http://www.thebestofflash.com/demos/supaslots/supaslotspreview.html
 *  JS Response Bytes: 1571698
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96270
-
-### Performance issues
-
 
 ### Performance issues
 

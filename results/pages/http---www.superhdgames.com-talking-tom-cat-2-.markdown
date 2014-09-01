@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.superhdgames.com/talking-tom-cat-2/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super HD Games – Talking Tom Cat 2](http://www.superhdgames.com/talking-tom-cat-2/)
 
@@ -29,9 +33,6 @@ title: http://www.superhdgames.com/talking-tom-cat-2/
 *  JS Response Bytes: 1033239
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16276
-
-### Performance issues
-
 
 ### Performance issues
 

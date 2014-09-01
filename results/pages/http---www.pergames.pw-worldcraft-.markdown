@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.pergames.pw/worldcraft/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Worldcraft – Online Best Games](http://www.pergames.pw/worldcraft/)
 
@@ -29,9 +34,6 @@ title: http://www.pergames.pw/worldcraft/
 *  JS Response Bytes: 1144303
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24433
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.footballtricksgame.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Football Tricks](http://www.footballtricksgame.com/)
 
@@ -29,9 +33,6 @@ title: http://www.footballtricksgame.com/
 *  JS Response Bytes: 1545578
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1062
-
-### Performance issues
-
 
 ### Performance issues
 

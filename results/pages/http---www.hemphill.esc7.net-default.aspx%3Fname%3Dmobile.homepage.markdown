@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.hemphill.esc7.net/default.aspx?name=mobile.homepage
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [Hemphill Independent School District](http://www.hemphill.esc7.net/default.aspx?name=mobile.homepage)
 
@@ -29,9 +32,6 @@ title: http://www.hemphill.esc7.net/default.aspx?name=mobile.homepage
 *  JS Response Bytes: 33548
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 343
-
-### Performance issues
-
 
 ### Performance issues
 

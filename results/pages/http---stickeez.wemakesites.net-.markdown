@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://stickeez.wemakesites.net/
+EnableGzipCompression: true
 ---
 ## [HTML5, CSS3 and JavaScript Sticky Notes by Martin Ivanov (@wemakesitesnet)](http://stickeez.wemakesites.net/)
 
@@ -29,9 +30,6 @@ title: http://stickeez.wemakesites.net/
 *  JS Response Bytes: 227439
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

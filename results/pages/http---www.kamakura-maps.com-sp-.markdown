@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.kamakura-maps.com/sp/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [鎌倉観光マップス](http://www.kamakura-maps.com/sp/)
 
@@ -29,9 +31,6 @@ title: http://www.kamakura-maps.com/sp/
 *  JS Response Bytes: 2758964
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2633
-
-### Performance issues
-
 
 ### Performance issues
 

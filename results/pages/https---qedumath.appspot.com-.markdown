@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://qedumath.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Qedumath App](https://qedumath.appspot.com/)
 
@@ -29,9 +32,6 @@ title: https://qedumath.appspot.com/
 *  JS Response Bytes: 2018766
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

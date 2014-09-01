@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/585550/?autoAction=true&sId=Chrome_Webstore_Nov12_585550
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Alex Gordon for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/585550/?autoAction=true&sId=Chrome_Webstore_Nov12_585550)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/585550/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1513313
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28838
-
-### Performance issues
-
 
 ### Performance issues
 

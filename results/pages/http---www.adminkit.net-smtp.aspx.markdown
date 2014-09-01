@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.adminkit.net/smtp.aspx
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SMTP Test Tool | adminkit.net](http://www.adminkit.net/smtp.aspx)
 
@@ -29,9 +33,6 @@ title: http://www.adminkit.net/smtp.aspx
 *  JS Response Bytes: 1570206
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117823
-
-### Performance issues
-
 
 ### Performance issues
 

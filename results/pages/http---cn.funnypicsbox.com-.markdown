@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://cn.funnypicsbox.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [搞笑图片盒子 - 收集海量搞笑图片。](http://cn.funnypicsbox.com/)
 
@@ -29,9 +33,6 @@ title: http://cn.funnypicsbox.com/
 *  JS Response Bytes: 646010
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 947
-
-### Performance issues
-
 
 ### Performance issues
 

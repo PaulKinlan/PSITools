@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.finechromegames.com/play/270/sniper-team-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [500 - INTERNAL SERVER ERROR](http://www.finechromegames.com/play/270/sniper-team-2.html)
 
@@ -29,9 +34,6 @@ title: http://www.finechromegames.com/play/270/sniper-team-2.html
 *  JS Response Bytes: 271851
 *  Flash Response Bytes: 43671
 *  Other Response Bytes: 19430
-
-### Performance issues
-
 
 ### Performance issues
 

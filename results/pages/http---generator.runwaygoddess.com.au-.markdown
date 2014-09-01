@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://generator.runwaygoddess.com.au/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Runway Goddess listing generator](http://generator.runwaygoddess.com.au/)
 
@@ -29,9 +34,6 @@ title: http://generator.runwaygoddess.com.au/
 *  JS Response Bytes: 173265
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

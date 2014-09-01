@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.zamzar.com/?s=cwa
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zamzar - video converter, audio converter, image converter, eBook converter](http://www.zamzar.com/?s=cwa)
 
@@ -29,9 +34,6 @@ title: http://www.zamzar.com/?s=cwa
 *  JS Response Bytes: 1810479
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99352
-
-### Performance issues
-
 
 ### Performance issues
 

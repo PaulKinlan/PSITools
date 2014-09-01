@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.friv-game.org/games/game/name/tetrix-2-egyptian
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [tetrix-2-egyptian Friv Games](http://www.friv-game.org/games/game/name/tetrix-2-egyptian)
 
@@ -29,9 +33,6 @@ title: http://www.friv-game.org/games/game/name/tetrix-2-egyptian
 *  JS Response Bytes: 1717699
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110457
-
-### Performance issues
-
 
 ### Performance issues
 

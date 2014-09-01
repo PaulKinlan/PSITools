@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://saschaschroeder.eu/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [saschaschroeder.eu | (サシャ·シュローダー.eu)](http://saschaschroeder.eu/)
 
@@ -29,9 +32,6 @@ title: http://saschaschroeder.eu/
 *  JS Response Bytes: 213373
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://app.waiverforever.com/signin
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WaiverForever Sign In](https://app.waiverforever.com/signin)
 
@@ -29,9 +34,6 @@ title: https://app.waiverforever.com/signin
 *  JS Response Bytes: 106178
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 215
-
-### Performance issues
-
 
 ### Performance issues
 

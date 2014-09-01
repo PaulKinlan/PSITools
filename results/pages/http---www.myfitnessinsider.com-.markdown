@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.myfitnessinsider.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MyFitnessInsider.com | Your Link to Fitness & Health](http://www.myfitnessinsider.com/)
 
@@ -29,9 +34,6 @@ title: http://www.myfitnessinsider.com/
 *  JS Response Bytes: 694401
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31192
-
-### Performance issues
-
 
 ### Performance issues
 

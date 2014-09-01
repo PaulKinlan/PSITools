@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/street-football/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Street Football Game](http://www.footballgam.es/street-football/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/street-football/
 *  JS Response Bytes: 2407030
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 161330
-
-### Performance issues
-
 
 ### Performance issues
 

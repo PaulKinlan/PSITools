@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bestlimoapp.com/demo/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [The Limo App](http://bestlimoapp.com/demo/index.html)
 
@@ -18,7 +21,7 @@ title: http://bestlimoapp.com/demo/index.html
 *  Number of JS Resources: 8
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 25
-*  Total Request Bytes: 2226
+*  Total Request Bytes: 2224
 
 ### Response data
 
@@ -29,9 +32,6 @@ title: http://bestlimoapp.com/demo/index.html
 *  JS Response Bytes: 268806
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59
-
-### Performance issues
-
 
 ### Performance issues
 

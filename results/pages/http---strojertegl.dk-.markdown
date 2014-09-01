@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://strojertegl.dk/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Strøjer Tegl - mursten, gulvtegl, tegloverliggere og teglbjælker fra Vedstaarup Teglværk](http://strojertegl.dk/)
 
@@ -29,9 +32,6 @@ title: http://strojertegl.dk/
 *  JS Response Bytes: 193346
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

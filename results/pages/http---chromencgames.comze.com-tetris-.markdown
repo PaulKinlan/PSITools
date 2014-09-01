@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://chromencgames.comze.com/tetris/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tetris Classic!](http://chromencgames.comze.com/tetris/)
 
@@ -29,9 +34,6 @@ title: http://chromencgames.comze.com/tetris/
 *  JS Response Bytes: 446528
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3211
-
-### Performance issues
-
 
 ### Performance issues
 

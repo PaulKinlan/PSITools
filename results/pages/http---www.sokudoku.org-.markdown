@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.sokudoku.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [速読トレーニング無料サイト速トレ | 速読術の訓練をネットで！](http://www.sokudoku.org/)
 
@@ -29,9 +33,6 @@ title: http://www.sokudoku.org/
 *  JS Response Bytes: 1420960
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97463
-
-### Performance issues
-
 
 ### Performance issues
 

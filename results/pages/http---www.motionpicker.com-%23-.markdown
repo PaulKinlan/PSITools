@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.motionpicker.com/#/
+MinimizeRenderBlockingResources: true
 ---
 ## [MotionPicker](http://www.motionpicker.com/#/)
 
@@ -29,9 +30,6 @@ title: http://www.motionpicker.com/#/
 *  JS Response Bytes: 981892
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13135
-
-### Performance issues
-
 
 ### Performance issues
 

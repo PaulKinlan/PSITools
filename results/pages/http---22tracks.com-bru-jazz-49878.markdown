@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://22tracks.com/bru/jazz/49878
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Liberation Music Orchestra - Els Segadors RIP Charlie Haden | 22tracks](http://22tracks.com/bru/jazz/49878)
 
@@ -29,9 +34,6 @@ title: http://22tracks.com/bru/jazz/49878
 *  JS Response Bytes: 1131434
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 821
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gentlemint.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gentlemint - a mint of manly things](http://gentlemint.com/)
 
@@ -29,9 +32,6 @@ title: http://gentlemint.com/
 *  JS Response Bytes: 139177
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30226
-
-### Performance issues
-
 
 ### Performance issues
 

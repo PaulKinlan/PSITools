@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.hangman.no/chrome.html
+AvoidPlugins: true
 ---
 ## [Hangman](http://www.hangman.no/chrome.html)
 
@@ -29,9 +30,6 @@ title: http://www.hangman.no/chrome.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

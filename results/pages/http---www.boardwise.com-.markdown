@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.boardwise.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Snowboards, Surfboards, Skateboards, Skate Shoes, Wetsuits | Edinburgh Scotland](http://www.boardwise.com/)
 
@@ -29,9 +35,6 @@ title: http://www.boardwise.com/
 *  JS Response Bytes: 654072
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7096
-
-### Performance issues
-
 
 ### Performance issues
 

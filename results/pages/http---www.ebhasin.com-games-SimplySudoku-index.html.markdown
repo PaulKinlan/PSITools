@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ebhasin.com/games/SimplySudoku/index.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sudoku puzzle game (javascript, html5)](http://www.ebhasin.com/games/SimplySudoku/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.ebhasin.com/games/SimplySudoku/index.html
 *  JS Response Bytes: 737413
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

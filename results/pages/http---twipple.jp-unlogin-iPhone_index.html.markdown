@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://twipple.jp/unlogin/iPhone_index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ついっぷる｜Twitterがもっとたのしくなる専用アプリ](http://twipple.jp/unlogin/iPhone_index.html)
 
@@ -29,9 +32,6 @@ title: http://twipple.jp/unlogin/iPhone_index.html
 *  JS Response Bytes: 599256
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1055
-
-### Performance issues
-
 
 ### Performance issues
 

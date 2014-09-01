@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://flashgoodgames.com/action/flappy-bird-online
+UseLegibleFontSizes: true
 ---
 ## [](http://flashgoodgames.com/action/flappy-bird-online)
 
@@ -29,9 +30,6 @@ title: http://flashgoodgames.com/action/flappy-bird-online
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

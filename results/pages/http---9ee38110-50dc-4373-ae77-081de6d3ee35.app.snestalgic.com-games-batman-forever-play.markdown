@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://9ee38110-50dc-4373-ae77-081de6d3ee35.app.snestalgic.com/games/batman-forever/play
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Snestalgic.com](http://9ee38110-50dc-4373-ae77-081de6d3ee35.app.snestalgic.com/games/batman-forever/play)
 
@@ -29,9 +32,6 @@ title: http://9ee38110-50dc-4373-ae77-081de6d3ee35.app.snestalgic.com/games/batm
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

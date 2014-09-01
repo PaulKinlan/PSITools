@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.coolmathgamesall.com/girls-games/old-stars-dress-up-game.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Old Stars Dress Up Game | Cool Math Games and cool math more run cool math](http://www.coolmathgamesall.com/girls-games/old-stars-dress-up-game.html)
 
@@ -29,9 +34,6 @@ title: http://www.coolmathgamesall.com/girls-games/old-stars-dress-up-game.html
 *  JS Response Bytes: 2066222
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120695
-
-### Performance issues
-
 
 ### Performance issues
 

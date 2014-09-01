@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.onbip.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Post Free Classifieds Ads and Place Listings. Sell or Buy on Onbip](http://www.onbip.com/)
 
@@ -29,9 +34,6 @@ title: http://www.onbip.com/
 *  JS Response Bytes: 626090
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30384
-
-### Performance issues
-
 
 ### Performance issues
 

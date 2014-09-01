@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playgame45.com/?=404;http://playgame45.com:80/grand-theft-auto-vice-city/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [playgame45.com](http://playgame45.com/?=404;http://playgame45.com:80/grand-theft-auto-vice-city/&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://playgame45.com/?=404;http://playgame45.com:80/grand-theft-auto-vic
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114
-
-### Performance issues
-
 
 ### Performance issues
 

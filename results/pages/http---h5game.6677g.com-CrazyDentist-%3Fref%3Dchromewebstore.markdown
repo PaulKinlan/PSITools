@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://h5game.6677g.com/CrazyDentist/?ref=chromewebstore
+MinimizeRenderBlockingResources: true
 ---
 ## [Crazy Dentist - 6677G.COM](http://h5game.6677g.com/CrazyDentist/?ref=chromewebstore)
 
@@ -29,9 +30,6 @@ title: http://h5game.6677g.com/CrazyDentist/?ref=chromewebstore
 *  JS Response Bytes: 1665091
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2146
-
-### Performance issues
-
 
 ### Performance issues
 

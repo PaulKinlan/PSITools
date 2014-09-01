@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.galaksigame.com/default-category/lego-star-wars-iii
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lego-Star-Wars III - Galaksigame](http://www.galaksigame.com/default-category/lego-star-wars-iii)
 
@@ -29,9 +36,6 @@ title: http://www.galaksigame.com/default-category/lego-star-wars-iii
 *  JS Response Bytes: 2316366
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 130695
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://lionsapp.com/webapp/decibel_watt/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LionsApp | Web App [Decibel Watt]](http://lionsapp.com/webapp/decibel_watt/)
 
@@ -29,9 +36,6 @@ title: http://lionsapp.com/webapp/decibel_watt/
 *  JS Response Bytes: 1569706
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110555
-
-### Performance issues
-
 
 ### Performance issues
 

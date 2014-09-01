@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://freeplay99.blogspot.com/2013/11/temple-run-2.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free online card puzzle casino games: Temple Run 2](http://freeplay99.blogspot.com/2013/11/temple-run-2.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://freeplay99.blogspot.com/2013/11/temple-run-2.html?m=1
 *  JS Response Bytes: 971701
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287152
-
-### Performance issues
-
 
 ### Performance issues
 

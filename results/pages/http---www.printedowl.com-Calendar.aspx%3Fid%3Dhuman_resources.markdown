@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.printedowl.com/Calendar.aspx?id=human_resources
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Daily Quote | Human Resources | Suggested Gifts and Search | August 25](http://www.printedowl.com/Calendar.aspx?id=human_resources)
 
@@ -29,9 +33,6 @@ title: http://www.printedowl.com/Calendar.aspx?id=human_resources
 *  JS Response Bytes: 808946
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29664
-
-### Performance issues
-
 
 ### Performance issues
 

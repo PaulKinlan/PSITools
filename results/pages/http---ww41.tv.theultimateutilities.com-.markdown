@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://ww41.tv.theultimateutilities.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [theultimateutilities.com](http://ww41.tv.theultimateutilities.com/)
 
@@ -29,9 +34,6 @@ title: http://ww41.tv.theultimateutilities.com/
 *  JS Response Bytes: 173157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 223
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.simplifyd.io/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Simplifyd - Client management, invoicing and sales pipeline tracking simplified.](http://www.simplifyd.io/)
 
@@ -29,9 +33,6 @@ title: http://www.simplifyd.io/
 *  JS Response Bytes: 458694
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 460
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.drogbaster.it/giraffe.htm
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Virtual Pets Giraffa, gioco interattivo con utilizzo del mouse.](http://www.drogbaster.it/giraffe.htm)
 
@@ -29,9 +33,6 @@ title: http://www.drogbaster.it/giraffe.htm
 *  JS Response Bytes: 1813619
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 130738
-
-### Performance issues
-
 
 ### Performance issues
 

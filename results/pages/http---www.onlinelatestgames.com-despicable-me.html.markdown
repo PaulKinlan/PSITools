@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.onlinelatestgames.com/despicable-me.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Despicable Me | Online Latest Games](http://www.onlinelatestgames.com/despicable-me.html)
 
@@ -29,9 +34,6 @@ title: http://www.onlinelatestgames.com/despicable-me.html
 *  JS Response Bytes: 1529538
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98597
-
-### Performance issues
-
 
 ### Performance issues
 

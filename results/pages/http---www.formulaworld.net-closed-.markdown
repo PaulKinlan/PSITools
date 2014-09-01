@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.formulaworld.net/closed/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Formula World has been discontinued - Formula World - Jeu Gratuit et Multijoueurs de F1](http://www.formulaworld.net/closed/)
 
@@ -29,9 +34,6 @@ title: http://www.formulaworld.net/closed/
 *  JS Response Bytes: 210347
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15170
-
-### Performance issues
-
 
 ### Performance issues
 

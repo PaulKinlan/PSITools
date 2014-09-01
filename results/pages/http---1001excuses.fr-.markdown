@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://1001excuses.fr/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Les dernières excuses - 1001Excuses - Des centaines d'excuses bidons ou pas.](http://1001excuses.fr/)
 
@@ -29,9 +35,6 @@ title: http://1001excuses.fr/
 *  JS Response Bytes: 363965
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 92125
-
-### Performance issues
-
 
 ### Performance issues
 

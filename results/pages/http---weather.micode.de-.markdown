@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://weather.micode.de/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Simple Weather](http://weather.micode.de/)
 
@@ -29,9 +35,6 @@ title: http://weather.micode.de/
 *  JS Response Bytes: 651704
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94971
-
-### Performance issues
-
 
 ### Performance issues
 

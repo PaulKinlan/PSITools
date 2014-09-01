@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.zzaa.net/action-games/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Action Games on Zzaa.net](http://www.zzaa.net/action-games/)
 
@@ -29,9 +32,6 @@ title: http://www.zzaa.net/action-games/
 *  JS Response Bytes: 318712
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

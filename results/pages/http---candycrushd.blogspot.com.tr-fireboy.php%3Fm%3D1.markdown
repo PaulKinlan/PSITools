@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://candycrushd.blogspot.com.tr/fireboy.php?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Candy Crush Saga](http://candycrushd.blogspot.com.tr/fireboy.php?m=1)
 
@@ -29,9 +31,6 @@ title: http://candycrushd.blogspot.com.tr/fireboy.php?m=1
 *  JS Response Bytes: 248907
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44814
-
-### Performance issues
-
 
 ### Performance issues
 

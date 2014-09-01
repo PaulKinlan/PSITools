@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://euro2012bet.appspot.com/compatible-with-chrome.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Euro2012Bet - Jeu gratuit de pronostiques sur l'Euro 2012](http://euro2012bet.appspot.com/compatible-with-chrome.html)
 
@@ -29,9 +33,6 @@ title: http://euro2012bet.appspot.com/compatible-with-chrome.html
 *  JS Response Bytes: 135161
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 79
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://ar.grandville.k12.mi.us/RenaissanceServer/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome to Renaissance Place](https://ar.grandville.k12.mi.us/RenaissanceServer/)
 
@@ -29,9 +35,6 @@ title: https://ar.grandville.k12.mi.us/RenaissanceServer/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 429
-
-### Performance issues
-
 
 ### Performance issues
 

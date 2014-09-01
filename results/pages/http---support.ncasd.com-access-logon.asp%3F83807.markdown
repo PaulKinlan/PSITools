@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://support.ncasd.com/access/logon.asp?83807
+AvoidLandingPageRedirects: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Virtual System Administrator Logon](http://support.ncasd.com/access/logon.asp?83807)
 
@@ -29,9 +32,6 @@ title: http://support.ncasd.com/access/logon.asp?83807
 *  JS Response Bytes: 1435628
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 143
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://canvasina.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome to canvasina | HTML5 canvas art scripting gallery](http://canvasina.com/)
 
@@ -29,9 +35,6 @@ title: http://canvasina.com/
 *  JS Response Bytes: 693869
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57936
-
-### Performance issues
-
 
 ### Performance issues
 

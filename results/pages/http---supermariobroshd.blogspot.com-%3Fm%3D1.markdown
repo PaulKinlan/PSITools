@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://supermariobroshd.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Mario Bros](http://supermariobroshd.blogspot.com/?m=1)
 
@@ -29,9 +35,6 @@ title: http://supermariobroshd.blogspot.com/?m=1
 *  JS Response Bytes: 1365902
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 139357
-
-### Performance issues
-
 
 ### Performance issues
 

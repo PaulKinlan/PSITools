@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.cslpod.com/LearnMandarin/Lesson/Latest.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn Chinese with CSLPOD](http://www.cslpod.com/LearnMandarin/Lesson/Latest.aspx)
 
@@ -29,9 +33,6 @@ title: http://www.cslpod.com/LearnMandarin/Lesson/Latest.aspx
 *  JS Response Bytes: 248956
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1198
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.greenville.k12.sc.us/index.asp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Welcome to Greenville County Schools Online](http://www.greenville.k12.sc.us/index.asp)
 
@@ -29,9 +32,6 @@ title: http://www.greenville.k12.sc.us/index.asp
 *  JS Response Bytes: 642057
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 181
-
-### Performance issues
-
 
 ### Performance issues
 

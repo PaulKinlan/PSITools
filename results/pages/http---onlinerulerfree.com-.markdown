@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://onlinerulerfree.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free Online Ruler - A Virtual Tape To Measure Anything](http://onlinerulerfree.com/)
 
@@ -29,9 +32,6 @@ title: http://onlinerulerfree.com/
 *  JS Response Bytes: 550937
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14943
-
-### Performance issues
-
 
 ### Performance issues
 

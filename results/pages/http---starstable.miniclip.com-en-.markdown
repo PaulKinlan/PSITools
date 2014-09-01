@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://starstable.miniclip.com/en/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Star Stable - the Amazing Online Horse Game - Play for Free up to level 4 | Star Stable](http://starstable.miniclip.com/en/)
 
@@ -29,9 +33,6 @@ title: http://starstable.miniclip.com/en/
 *  JS Response Bytes: 625671
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1537
-
-### Performance issues
-
 
 ### Performance issues
 

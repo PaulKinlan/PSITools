@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://oceans.s57.xrea.com/game/favcola/index.html
+UseLegibleFontSizes: true
 ---
 ## [](http://oceans.s57.xrea.com/game/favcola/index.html)
 
@@ -29,9 +30,6 @@ title: http://oceans.s57.xrea.com/game/favcola/index.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

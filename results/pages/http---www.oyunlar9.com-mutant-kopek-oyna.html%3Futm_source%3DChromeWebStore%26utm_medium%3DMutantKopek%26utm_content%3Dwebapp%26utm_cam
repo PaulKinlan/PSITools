@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.oyunlar9.com/mutant-kopek-oyna.html?utm_source=ChromeWebStore&utm_medium=MutantKopek&utm_content=webapp&utm_campaign=kisayol
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mutant Köpek Oyna - Oyunlar 9](http://www.oyunlar9.com/mutant-kopek-oyna.html?utm_source=ChromeWebStore&utm_medium=MutantKopek&utm_content=webapp&utm_campaign=kisayol)
 
@@ -29,9 +34,6 @@ title: http://www.oyunlar9.com/mutant-kopek-oyna.html?utm_source=ChromeWebStore&
 *  JS Response Bytes: 2338005
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 303480
-
-### Performance issues
-
 
 ### Performance issues
 

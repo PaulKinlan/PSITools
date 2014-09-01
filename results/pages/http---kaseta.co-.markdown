@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://kaseta.co/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Home - kaseta.co](http://kaseta.co/)
 
@@ -29,9 +32,6 @@ title: http://kaseta.co/
 *  JS Response Bytes: 789960
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9589
-
-### Performance issues
-
 
 ### Performance issues
 

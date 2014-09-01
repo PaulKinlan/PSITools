@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://app.lexoffice.de/home
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login Rechnungsprogramm|Lexware lexoffice](https://app.lexoffice.de/home)
 
@@ -29,9 +32,6 @@ title: https://app.lexoffice.de/home
 *  JS Response Bytes: 216424
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 73311
-
-### Performance issues
-
 
 ### Performance issues
 

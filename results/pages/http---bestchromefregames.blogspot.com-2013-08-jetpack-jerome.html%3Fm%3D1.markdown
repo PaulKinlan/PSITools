@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://bestchromefregames.blogspot.com/2013/08/jetpack-jerome.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Free games, online card games, casino games, flash games: Jetpack Jerome](http://bestchromefregames.blogspot.com/2013/08/jetpack-jerome.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://bestchromefregames.blogspot.com/2013/08/jetpack-jerome.html?m=1
 *  JS Response Bytes: 762105
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95593
-
-### Performance issues
-
 
 ### Performance issues
 

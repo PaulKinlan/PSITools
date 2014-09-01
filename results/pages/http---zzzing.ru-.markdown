@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://zzzing.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ZZZing — твой интернет | Главная](http://zzzing.ru/)
 
@@ -29,9 +34,6 @@ title: http://zzzing.ru/
 *  JS Response Bytes: 261432
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 510
-
-### Performance issues
-
 
 ### Performance issues
 

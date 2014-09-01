@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://online.dreambooksworld.com/index.html?idEmp=500
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://online.dreambooksworld.com/index.html?idEmp=500)
 
@@ -29,9 +30,6 @@ title: http://online.dreambooksworld.com/index.html?idEmp=500
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 508
-
-### Performance issues
-
 
 ### Performance issues
 

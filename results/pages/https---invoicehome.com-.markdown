@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://invoicehome.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Invoice Home - Create an Invoice - Email it - Get paid](https://invoicehome.com/)
 
@@ -29,9 +32,6 @@ title: https://invoicehome.com/
 *  JS Response Bytes: 377397
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 819
-
-### Performance issues
-
 
 ### Performance issues
 

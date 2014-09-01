@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.icloud.com/photostream/#A7GqkRUiJOXHZ6
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Mohamed Photos - Photo Stream](https://www.icloud.com/photostream/#A7GqkRUiJOXHZ6)
 
@@ -29,9 +31,6 @@ title: https://www.icloud.com/photostream/#A7GqkRUiJOXHZ6
 *  JS Response Bytes: 547767
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 466
-
-### Performance issues
-
 
 ### Performance issues
 

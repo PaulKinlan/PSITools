@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromegames.appsengine.us/metal-slug/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Megal Slug Free Online Game](http://chromegames.appsengine.us/metal-slug/)
 
@@ -29,9 +32,6 @@ title: http://chromegames.appsengine.us/metal-slug/
 *  JS Response Bytes: 375283
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1138
-
-### Performance issues
-
 
 ### Performance issues
 

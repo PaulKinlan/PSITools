@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://feedyourchickens.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Feed Your Chickens | 1001 Farming Games](http://feedyourchickens.com/)
 
@@ -29,9 +34,6 @@ title: http://feedyourchickens.com/
 *  JS Response Bytes: 1119486
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44426
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://whatsupgames.com/run-or-your-done.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Run or your done | Whats Up Games](http://whatsupgames.com/run-or-your-done.html)
 
@@ -29,9 +34,6 @@ title: http://whatsupgames.com/run-or-your-done.html
 *  JS Response Bytes: 1407790
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110323
-
-### Performance issues
-
 
 ### Performance issues
 

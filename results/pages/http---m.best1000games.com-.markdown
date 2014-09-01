@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.best1000games.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Best Free Games IOS](http://m.best1000games.com/)
 
@@ -18,20 +20,17 @@ title: http://m.best1000games.com/
 *  Number of JS Resources: 22
 *  Number of CSS Resources: 12
 *  Nubmer of Static Resources: 25
-*  Total Request Bytes: 7446
+*  Total Request Bytes: 7453
 
 ### Response data
 
-*  HTML Response Bytes: 93319
+*  HTML Response Bytes: 93296
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 190628
-*  Image Response Bytes: 2014921
-*  JS Response Bytes: 580531
+*  Image Response Bytes: 2014926
+*  JS Response Bytes: 580527
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 334876
-
-### Performance issues
-
 
 ### Performance issues
 

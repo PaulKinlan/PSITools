@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://spanish.yabla.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Yabla Spanish Video Immersion - The Authentic Way to Learn Spanish](https://spanish.yabla.com/)
 
@@ -29,9 +32,6 @@ title: https://spanish.yabla.com/
 *  JS Response Bytes: 138928
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 847
-
-### Performance issues
-
 
 ### Performance issues
 

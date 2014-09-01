@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://search.creativesurfaces.com/webclient2/?&tpl=Creative
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [404 (Page Not Found) Error - Ever feel like you're in the wrong place?](http://search.creativesurfaces.com/webclient2/?&tpl=Creative)
 
@@ -29,9 +32,6 @@ title: http://search.creativesurfaces.com/webclient2/?&tpl=Creative
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1688
-
-### Performance issues
-
 
 ### Performance issues
 

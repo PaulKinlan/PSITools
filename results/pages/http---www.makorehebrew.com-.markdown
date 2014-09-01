@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.makorehebrew.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn how to speak Hebrew - Ma Kore Hebrew](http://www.makorehebrew.com/)
 
@@ -29,9 +33,6 @@ title: http://www.makorehebrew.com/
 *  JS Response Bytes: 1355805
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 231672
-
-### Performance issues
-
 
 ### Performance issues
 

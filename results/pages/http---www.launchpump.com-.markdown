@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.launchpump.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Launchpump comming soon](http://www.launchpump.com/)
 
@@ -29,9 +31,6 @@ title: http://www.launchpump.com/
 *  JS Response Bytes: 227587
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 132609
-
-### Performance issues
-
 
 ### Performance issues
 

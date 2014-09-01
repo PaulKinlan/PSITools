@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://skwibl.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Skwibl](http://skwibl.com/)
 
@@ -29,9 +34,6 @@ title: http://skwibl.com/
 *  JS Response Bytes: 2332869
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96927
-
-### Performance issues
-
 
 ### Performance issues
 

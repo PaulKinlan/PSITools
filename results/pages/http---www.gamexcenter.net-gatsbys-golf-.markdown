@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamexcenter.net/gatsbys-golf/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gatsby’s Golf | GameXcenter](http://www.gamexcenter.net/gatsbys-golf/)
 
@@ -29,9 +33,6 @@ title: http://www.gamexcenter.net/gatsbys-golf/
 *  JS Response Bytes: 1106568
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 165093
-
-### Performance issues
-
 
 ### Performance issues
 

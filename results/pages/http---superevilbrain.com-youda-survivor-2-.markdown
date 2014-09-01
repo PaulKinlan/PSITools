@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://superevilbrain.com/youda-survivor-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Youda Survivor 2 | Super Evil Brain](http://superevilbrain.com/youda-survivor-2/)
 
@@ -29,9 +33,6 @@ title: http://superevilbrain.com/youda-survivor-2/
 *  JS Response Bytes: 1047580
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18224
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://play.riftforge.com/?gcs
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Riftforge](http://play.riftforge.com/?gcs)
 
@@ -29,9 +31,6 @@ title: http://play.riftforge.com/?gcs
 *  JS Response Bytes: 628342
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1414
-
-### Performance issues
-
 
 ### Performance issues
 

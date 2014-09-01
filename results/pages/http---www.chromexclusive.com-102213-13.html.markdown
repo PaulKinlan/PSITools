@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.chromexclusive.com/102213/13.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [chromExclusive Play » Angry Birds Space](http://www.chromexclusive.com/102213/13.html)
 
@@ -29,9 +34,6 @@ title: http://www.chromexclusive.com/102213/13.html
 *  JS Response Bytes: 429527
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16219
-
-### Performance issues
-
 
 ### Performance issues
 

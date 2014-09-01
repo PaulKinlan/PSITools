@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://finanzblick.de/webapp/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [finanzblick.de](https://finanzblick.de/webapp/)
 
@@ -29,9 +34,6 @@ title: https://finanzblick.de/webapp/
 *  JS Response Bytes: 1785360
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15025
-
-### Performance issues
-
 
 ### Performance issues
 

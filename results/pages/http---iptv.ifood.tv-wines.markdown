@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://iptv.ifood.tv/wines
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [iFood.tv Channels](http://iptv.ifood.tv/wines)
 
@@ -29,9 +34,6 @@ title: http://iptv.ifood.tv/wines
 *  JS Response Bytes: 133610
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 937
-
-### Performance issues
-
 
 ### Performance issues
 

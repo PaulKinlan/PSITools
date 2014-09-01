@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.funny-games.co.uk/?gameid=18909&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=shopaholic_milan
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funny-games.co.uk/?gameid=18909&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=shopaholic_milan)
 
@@ -29,9 +33,6 @@ title: http://m.funny-games.co.uk/?gameid=18909&utm_source=cws&utm_medium=app&ut
 *  JS Response Bytes: 1266602
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28426
-
-### Performance issues
-
 
 ### Performance issues
 

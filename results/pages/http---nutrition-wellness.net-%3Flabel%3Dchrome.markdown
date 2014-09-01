@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://nutrition-wellness.net/?label=chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Nutrition Wellness | The #1 Source for Nutrition Wellness on the Web](http://nutrition-wellness.net/?label=chrome)
 
@@ -29,9 +33,6 @@ title: http://nutrition-wellness.net/?label=chrome
 *  JS Response Bytes: 104880
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104837
-
-### Performance issues
-
 
 ### Performance issues
 

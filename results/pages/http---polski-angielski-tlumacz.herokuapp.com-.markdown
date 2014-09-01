@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://polski-angielski-tlumacz.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Polski Angielski Tłumacz](http://polski-angielski-tlumacz.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://polski-angielski-tlumacz.herokuapp.com/
 *  JS Response Bytes: 1471806
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110420
-
-### Performance issues
-
 
 ### Performance issues
 

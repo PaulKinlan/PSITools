@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.puzzlingideas.com.ar/bloodyasteroids/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bloody Asteroids! game by Puzzling Ideas](http://www.puzzlingideas.com.ar/bloodyasteroids/)
 
@@ -29,9 +33,6 @@ title: http://www.puzzlingideas.com.ar/bloodyasteroids/
 *  JS Response Bytes: 601645
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 594
-
-### Performance issues
-
 
 ### Performance issues
 

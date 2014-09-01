@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.free3dchromegames.com/subway-surfers.html
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [www.free3dchromegames.com [6]](http://www.free3dchromegames.com/subway-surfers.html)
 
@@ -29,9 +33,6 @@ title: http://www.free3dchromegames.com/subway-surfers.html
 *  JS Response Bytes: 11217
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 874
-
-### Performance issues
-
 
 ### Performance issues
 

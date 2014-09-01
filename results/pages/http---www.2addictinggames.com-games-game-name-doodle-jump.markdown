@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/game/name/doodle-jump
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [doodle-jump Addicting Games](http://www.2addictinggames.com/games/game/name/doodle-jump)
 
@@ -29,9 +35,6 @@ title: http://www.2addictinggames.com/games/game/name/doodle-jump
 *  JS Response Bytes: 1862742
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110832
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://portalweb.iofacturo.mx/Account/Logon/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IoPortal](https://portalweb.iofacturo.mx/Account/Logon/)
 
@@ -29,9 +32,6 @@ title: https://portalweb.iofacturo.mx/Account/Logon/
 *  JS Response Bytes: 386756
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

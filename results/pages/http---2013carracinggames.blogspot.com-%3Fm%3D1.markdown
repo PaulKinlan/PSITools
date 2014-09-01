@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://2013carracinggames.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Play car racing games](http://2013carracinggames.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://2013carracinggames.blogspot.com/?m=1
 *  JS Response Bytes: 314319
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6349
-
-### Performance issues
-
 
 ### Performance issues
 

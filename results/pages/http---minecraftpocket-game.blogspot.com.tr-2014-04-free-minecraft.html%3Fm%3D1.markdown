@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://minecraftpocket-game.blogspot.com.tr/2014/04/free-minecraft.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://minecraftpocket-game.blogspot.com.tr/2014/04/free-minecraft.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://minecraftpocket-game.blogspot.com.tr/2014/04/free-minecraft.html?m
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19303
-
-### Performance issues
-
 
 ### Performance issues
 

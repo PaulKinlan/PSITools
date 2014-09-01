@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://sudoku.appsdepot.co/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Sudoku](http://sudoku.appsdepot.co/)
 
@@ -29,9 +33,6 @@ title: http://sudoku.appsdepot.co/
 *  JS Response Bytes: 578754
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

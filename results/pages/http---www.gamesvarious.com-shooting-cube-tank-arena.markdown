@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/shooting/cube-tank-arena
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cube Tank Arena - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/shooting/cube-tank-arena)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/shooting/cube-tank-arena
 *  JS Response Bytes: 2212626
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 150162
-
-### Performance issues
-
 
 ### Performance issues
 

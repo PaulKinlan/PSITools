@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://proximoferiado.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Qual é o próximo feriado? Feriados Nacionais do Brasil](http://proximoferiado.com/)
 
@@ -29,9 +34,6 @@ title: http://proximoferiado.com/
 *  JS Response Bytes: 1934197
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115602
-
-### Performance issues
-
 
 ### Performance issues
 

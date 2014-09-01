@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ww35.playgame9.com/cursed.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [playgame9.com](http://ww35.playgame9.com/cursed.html)
 
@@ -29,9 +33,6 @@ title: http://ww35.playgame9.com/cursed.html
 *  JS Response Bytes: 173157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 220
-
-### Performance issues
-
 
 ### Performance issues
 

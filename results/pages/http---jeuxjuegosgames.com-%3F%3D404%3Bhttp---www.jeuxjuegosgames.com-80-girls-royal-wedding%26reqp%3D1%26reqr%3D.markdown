@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://jeuxjuegosgames.com/?=404;http://www.jeuxjuegosgames.com:80/girls/royal-wedding&reqp=1&reqr=
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [jeuxjuegosgames.com](http://jeuxjuegosgames.com/?=404;http://www.jeuxjuegosgames.com:80/girls/royal-wedding&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://jeuxjuegosgames.com/?=404;http://www.jeuxjuegosgames.com:80/girls/
 *  JS Response Bytes: 304181
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 191
-
-### Performance issues
-
 
 ### Performance issues
 

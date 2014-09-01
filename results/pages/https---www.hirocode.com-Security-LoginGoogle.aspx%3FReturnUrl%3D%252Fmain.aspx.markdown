@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.hirocode.com/Security/LoginGoogle.aspx?ReturnUrl=%2Fmain.aspx
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [Hirocode - Login](https://www.hirocode.com/Security/LoginGoogle.aspx?ReturnUrl=%2Fmain.aspx)
 
@@ -29,9 +32,6 @@ title: https://www.hirocode.com/Security/LoginGoogle.aspx?ReturnUrl=%2Fmain.aspx
 *  JS Response Bytes: 368767
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 430
-
-### Performance issues
-
 
 ### Performance issues
 

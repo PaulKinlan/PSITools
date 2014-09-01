@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://tetrisfree.net/?chromeapp
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Online Tetris Free](http://tetrisfree.net/?chromeapp)
 
@@ -29,9 +31,6 @@ title: http://tetrisfree.net/?chromeapp
 *  JS Response Bytes: 1399760
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

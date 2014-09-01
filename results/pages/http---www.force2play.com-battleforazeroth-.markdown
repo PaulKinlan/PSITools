@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.force2play.com/battleforazeroth/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Battle for Azeroth - MMORPG Browser Game - Force2Play](http://www.force2play.com/battleforazeroth/)
 
@@ -29,9 +34,6 @@ title: http://www.force2play.com/battleforazeroth/
 *  JS Response Bytes: 515086
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1421
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://sso.pacificoseguros.com/?SAMLRequest=fZJPTxsxEMXvlfodLN%2F3X8QhtbKLAgg1EoUVWThwc7yTxMX2uB5v0n77ejcg4ABHj5%2Fn9954Fud%2FrWEHCKTR1bzKS87AKey129X8obvO5vy8%2Bf5tQdIaL5ZD3Lt7%2BDMARZZeOhLTRc2H4ARK0iSctEAiKrFe%2FroRs7wUPmBEhYaz1VXN0fUOtN9Zi%2F63cdr02Ceids%2Bb3li%2F1xurPDxvOXt8tTUbba2IBlg5itLFVCqrs6ycZ7NZV81F%2BUOclU%2BctS%2BkC%2B1OCb6ytTmJSPzsujZr79bd1OCgewi3SV3zHeLOQK7QjvhWEulDKm%2BlIeBsSQQhJoOX6GiwENYQDlrBw%2F1NzfcxehJFcTwe87c2hSy8VHqrFY7H3EMhFfFmGq%2BYEoZ3c%2F3av3zl8%2BaNsCjetWpevm1Ms7pq0Wj1jy2NweNlABlTlBiGlOQag5Xxc1qVV1NF99l2korBkYcxCPScFc2J%2BnE%2F0tb8Bw%3D%3D&RelayState=https%3A%2F%2Fwww.google.com%2Fa%2Fpacifico.com.pe%2FServiceLogin%3Fservice%3Dwise%26passive%3Dtrue%26continue%3Dhttps%253A%252F%252Fscript.google.com%252Fa%252Fmacros%252Fpacifico.com.pe%252Fs%252FAKfycbwc3xXoXwP9v8hK2ik4GqJVgY2A5YozbVevq6mHjrmjwHZfo0c%252Fexec%26followup%3Dhttps%253A%252F%252Fscript.google.com%252Fa%252Fmacros%252Fpacifico.com.pe%252Fs%252FAKfycbwc3xXoXwP9v8hK2ik4GqJVgY2A5YozbVevq6mHjrmjwHZfo0c%252Fexec
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pacífico Seguros](https://sso.pacificoseguros.com/?SAMLRequest=fZJPTxsxEMXvlfodLN%2F3X8QhtbKLAgg1EoUVWThwc7yTxMX2uB5v0n77ejcg4ABHj5%2Fn9954Fud%2FrWEHCKTR1bzKS87AKey129X8obvO5vy8%2Bf5tQdIaL5ZD3Lt7%2BDMARZZeOhLTRc2H4ARK0iSctEAiKrFe%2FroRs7wUPmBEhYaz1VXN0fUOtN9Zi%2F63cdr02Ceids%2Bb3li%2F1xurPDxvOXt8tTUbba2IBlg5itLFVCqrs6ycZ7NZV81F%2BUOclU%2BctS%2BkC%2B1OCb6ytTmJSPzsujZr79bd1OCgewi3SV3zHeLOQK7QjvhWEulDKm%2BlIeBsSQQhJoOX6GiwENYQDlrBw%2F1NzfcxehJFcTwe87c2hSy8VHqrFY7H3EMhFfFmGq%2BYEoZ3c%2F3av3zl8%2BaNsCjetWpevm1Ms7pq0Wj1jy2NweNlABlTlBiGlOQag5Xxc1qVV1NF99l2korBkYcxCPScFc2J%2BnE%2F0tb8Bw%3D%3D&RelayState=https%3A%2F%2Fwww.google.com%2Fa%2Fpacifico.com.pe%2FServiceLogin%3Fservice%3Dwise%26passive%3Dtrue%26continue%3Dhttps%253A%252F%252Fscript.google.com%252Fa%252Fmacros%252Fpacifico.com.pe%252Fs%252FAKfycbwc3xXoXwP9v8hK2ik4GqJVgY2A5YozbVevq6mHjrmjwHZfo0c%252Fexec%26followup%3Dhttps%253A%252F%252Fscript.google.com%252Fa%252Fmacros%252Fpacifico.com.pe%252Fs%252FAKfycbwc3xXoXwP9v8hK2ik4GqJVgY2A5YozbVevq6mHjrmjwHZfo0c%252Fexec)
 
@@ -29,9 +35,6 @@ title: https://sso.pacificoseguros.com/?SAMLRequest=fZJPTxsxEMXvlfodLN%2F3X8Qhtb
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3626
-
-### Performance issues
-
 
 ### Performance issues
 

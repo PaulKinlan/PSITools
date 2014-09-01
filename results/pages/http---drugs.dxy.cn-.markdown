@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://drugs.dxy.cn/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://drugs.dxy.cn/)
 
@@ -29,9 +31,6 @@ title: http://drugs.dxy.cn/
 *  JS Response Bytes: 24387
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

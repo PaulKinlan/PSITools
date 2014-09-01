@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.cyberesa.info/tn/index_fr.aspx?user=741&ilng=1&curr=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [::: cyberesa.info :::](http://www.cyberesa.info/tn/index_fr.aspx?user=741&ilng=1&curr=1)
 
@@ -29,9 +35,6 @@ title: http://www.cyberesa.info/tn/index_fr.aspx?user=741&ilng=1&curr=1
 *  JS Response Bytes: 1010564
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4762
-
-### Performance issues
-
 
 ### Performance issues
 

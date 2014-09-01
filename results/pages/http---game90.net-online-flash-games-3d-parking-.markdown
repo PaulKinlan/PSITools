@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://game90.net/online-flash-games/3d-parking/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Parking « Online Flash Games](http://game90.net/online-flash-games/3d-parking/)
 
@@ -29,9 +34,6 @@ title: http://game90.net/online-flash-games/3d-parking/
 *  JS Response Bytes: 1323577
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2232
-
-### Performance issues
-
 
 ### Performance issues
 

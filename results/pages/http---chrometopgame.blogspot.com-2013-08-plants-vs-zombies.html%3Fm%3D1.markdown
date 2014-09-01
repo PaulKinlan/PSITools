@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chrometopgame.blogspot.com/2013/08/plants-vs-zombies.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [chrometopgame: Plants vs. Zombies](http://chrometopgame.blogspot.com/2013/08/plants-vs-zombies.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chrometopgame.blogspot.com/2013/08/plants-vs-zombies.html?m=1
 *  JS Response Bytes: 1068025
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97991
-
-### Performance issues
-
 
 ### Performance issues
 

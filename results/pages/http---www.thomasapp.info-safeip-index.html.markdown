@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.thomasapp.info/safeip/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SafeIP - Free Anonymous Surfing](http://www.thomasapp.info/safeip/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.thomasapp.info/safeip/index.html
 *  JS Response Bytes: 1010483
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114542
-
-### Performance issues
-
 
 ### Performance issues
 

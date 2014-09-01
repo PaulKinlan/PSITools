@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.xyz-softs.com/legitwritingjobs/index.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Writing Jobs](http://www.xyz-softs.com/legitwritingjobs/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.xyz-softs.com/legitwritingjobs/index.html
 *  JS Response Bytes: 451356
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

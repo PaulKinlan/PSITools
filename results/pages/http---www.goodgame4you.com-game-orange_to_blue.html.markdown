@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.goodgame4you.com/game/orange_to_blue.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Orange to Blue - Skill Games - Play Free Online Games](http://www.goodgame4you.com/game/orange_to_blue.html)
 
@@ -29,9 +35,6 @@ title: http://www.goodgame4you.com/game/orange_to_blue.html
 *  JS Response Bytes: 786726
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2931
-
-### Performance issues
-
 
 ### Performance issues
 

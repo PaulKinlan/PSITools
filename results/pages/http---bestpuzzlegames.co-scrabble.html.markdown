@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://bestpuzzlegames.co/scrabble.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Puzzle Games – Scrabble](http://bestpuzzlegames.co/scrabble.html)
 
@@ -29,9 +35,6 @@ title: http://bestpuzzlegames.co/scrabble.html
 *  JS Response Bytes: 901107
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15146
-
-### Performance issues
-
 
 ### Performance issues
 

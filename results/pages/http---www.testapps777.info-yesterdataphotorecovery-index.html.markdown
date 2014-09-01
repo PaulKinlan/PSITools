@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.testapps777.info/yesterdataphotorecovery/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Recover Digital Photos | Pictures Recovery | Photo Recovery Program Download | Lost Photos Recovery Software | Photo Recovery Software - Free Pictures Recovery](http://www.testapps777.info/yesterdataphotorecovery/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.testapps777.info/yesterdataphotorecovery/index.html
 *  JS Response Bytes: 934183
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109055
-
-### Performance issues
-
 
 ### Performance issues
 

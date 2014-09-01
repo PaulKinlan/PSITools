@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://mail.starbucks.com/uniquesig49b8c9696d1cd158062445997a72cc59/uniquesig0/InternalSite/OWA/Login.asp?resource_id=C028DE00D064437D9B869A68585E91EA&login_type=2&site_name=chdcomm1&secure=1&orig_url=https%3A%2F%2Fmail.starbucks.com%2Fowa%2F
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Microsoft Exchange - Outlook Web Access](https://mail.starbucks.com/uniquesig49b8c9696d1cd158062445997a72cc59/uniquesig0/InternalSite/OWA/Login.asp?resource_id=C028DE00D064437D9B869A68585E91EA&login_type=2&site_name=chdcomm1&secure=1&orig_url=https%3A%2F%2Fmail.starbucks.com%2Fowa%2F)
 
@@ -29,9 +34,6 @@ title: https://mail.starbucks.com/uniquesig49b8c9696d1cd158062445997a72cc59/uniq
 *  JS Response Bytes: 12523
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2893
-
-### Performance issues
-
 
 ### Performance issues
 

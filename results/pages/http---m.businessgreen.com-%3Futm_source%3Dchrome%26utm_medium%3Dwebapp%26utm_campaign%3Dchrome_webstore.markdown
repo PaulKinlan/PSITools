@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.businessgreen.com/?utm_source=chrome&utm_medium=webapp&utm_campaign=chrome_webstore
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [BusinessGreen - news, comment and analysis for the low carbon economy - BusinessGreen](http://m.businessgreen.com/?utm_source=chrome&utm_medium=webapp&utm_campaign=chrome_webstore)
 
@@ -29,9 +33,6 @@ title: http://m.businessgreen.com/?utm_source=chrome&utm_medium=webapp&utm_campa
 *  JS Response Bytes: 847459
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26158
-
-### Performance issues
-
 
 ### Performance issues
 

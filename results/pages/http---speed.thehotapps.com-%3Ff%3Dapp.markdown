@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://speed.thehotapps.com/?f=app
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Speed Test - Check your internet speed instantly](http://speed.thehotapps.com/?f=app)
 
@@ -29,9 +35,6 @@ title: http://speed.thehotapps.com/?f=app
 *  JS Response Bytes: 855820
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15388
-
-### Performance issues
-
 
 ### Performance issues
 

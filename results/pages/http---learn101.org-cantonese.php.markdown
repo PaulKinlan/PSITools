@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://learn101.org/cantonese.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn Cantonese | learn101.org](http://learn101.org/cantonese.php)
 
@@ -29,9 +33,6 @@ title: http://learn101.org/cantonese.php
 *  JS Response Bytes: 487788
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15640
-
-### Performance issues
-
 
 ### Performance issues
 

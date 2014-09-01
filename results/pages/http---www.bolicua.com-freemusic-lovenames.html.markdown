@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.bolicua.com/freemusic/lovenames.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Love Names](http://www.bolicua.com/freemusic/lovenames.html)
 
@@ -29,9 +32,6 @@ title: http://www.bolicua.com/freemusic/lovenames.html
 *  JS Response Bytes: 429731
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44254
-
-### Performance issues
-
 
 ### Performance issues
 

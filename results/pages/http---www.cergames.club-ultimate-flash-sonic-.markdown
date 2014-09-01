@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.cergames.club/ultimate-flash-sonic/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ultimate flash sonic – Online Best Games](http://www.cergames.club/ultimate-flash-sonic/)
 
@@ -29,9 +34,6 @@ title: http://www.cergames.club/ultimate-flash-sonic/
 *  JS Response Bytes: 1144243
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18603
-
-### Performance issues
-
 
 ### Performance issues
 

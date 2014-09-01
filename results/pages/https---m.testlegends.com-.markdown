@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://m.testlegends.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [TestLegends](https://m.testlegends.com/)
 
@@ -29,9 +30,6 @@ title: https://m.testlegends.com/
 *  JS Response Bytes: 225790
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122174
-
-### Performance issues
-
 
 ### Performance issues
 

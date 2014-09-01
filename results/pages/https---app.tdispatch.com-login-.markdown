@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://app.tdispatch.com/login/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [T| Dispatch - Log in](https://app.tdispatch.com/login/)
 
@@ -29,9 +34,6 @@ title: https://app.tdispatch.com/login/
 *  JS Response Bytes: 135344
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44488
-
-### Performance issues
-
 
 ### Performance issues
 

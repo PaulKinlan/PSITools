@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.appsuccess.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AppSuccess](http://www.appsuccess.org/)
 
@@ -29,9 +34,6 @@ title: http://www.appsuccess.org/
 *  JS Response Bytes: 1633589
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

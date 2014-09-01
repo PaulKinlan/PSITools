@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.ptvguide.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [PtvGuide - Philippines TV Listings](http://www.ptvguide.com/)
 
@@ -29,9 +31,6 @@ title: http://www.ptvguide.com/
 *  JS Response Bytes: 70620
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

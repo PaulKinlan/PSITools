@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/racinggames/truck-wars/#.U_uhTE0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Truck Wars « Online Flash Game Truck Wars](http://gamematic.net/online-flash-games/racinggames/truck-wars/#.U_uhTE0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/racinggames/truck-wars/#.U_uhTE0i
 *  JS Response Bytes: 1453096
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57537
-
-### Performance issues
-
 
 ### Performance issues
 

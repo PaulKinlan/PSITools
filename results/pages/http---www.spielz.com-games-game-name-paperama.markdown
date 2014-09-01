@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.spielz.com/games/game/name/paperama
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [paperama spiele](http://www.spielz.com/games/game/name/paperama)
 
@@ -29,9 +35,6 @@ title: http://www.spielz.com/games/game/name/paperama
 *  JS Response Bytes: 1862015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97495
-
-### Performance issues
-
 
 ### Performance issues
 

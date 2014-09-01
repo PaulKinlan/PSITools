@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.hepgames.com/dead-trigger-2/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dead Trigger 2 : Hep Games](http://www.hepgames.com/dead-trigger-2/)
 
@@ -29,9 +33,6 @@ title: http://www.hepgames.com/dead-trigger-2/
 *  JS Response Bytes: 2077489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120049
-
-### Performance issues
-
 
 ### Performance issues
 

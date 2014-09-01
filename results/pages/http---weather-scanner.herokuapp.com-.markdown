@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://weather-scanner.herokuapp.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Weather Scanner - be in the know of the weather today](http://weather-scanner.herokuapp.com/)
 
@@ -29,9 +34,6 @@ title: http://weather-scanner.herokuapp.com/
 *  JS Response Bytes: 1458381
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 187772
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://tetris.coolonlinegames.org/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tetris | Tetris Game | Online Game | Game - Cool Online Games](http://tetris.coolonlinegames.org/index.html)
 
@@ -29,9 +36,6 @@ title: http://tetris.coolonlinegames.org/index.html
 *  JS Response Bytes: 766594
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17028
-
-### Performance issues
-
 
 ### Performance issues
 

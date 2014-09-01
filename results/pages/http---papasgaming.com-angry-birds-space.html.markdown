@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://papasgaming.com/angry-birds-space.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PapasGaming.Com – Angry Birds Space](http://papasgaming.com/angry-birds-space.html)
 
@@ -29,9 +35,6 @@ title: http://papasgaming.com/angry-birds-space.html
 *  JS Response Bytes: 510413
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22506
-
-### Performance issues
-
 
 ### Performance issues
 

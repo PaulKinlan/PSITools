@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromebrowsergames.blogspot.com/2013/08/temple-run-oz.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://chromebrowsergames.blogspot.com/2013/08/temple-run-oz.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromebrowsergames.blogspot.com/2013/08/temple-run-oz.html?m=1
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19316
-
-### Performance issues
-
 
 ### Performance issues
 

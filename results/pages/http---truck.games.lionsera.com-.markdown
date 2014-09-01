@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://truck.games.lionsera.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Truck loader 4 | puzzle game| Lionsera](http://truck.games.lionsera.com/)
 
@@ -29,9 +35,6 @@ title: http://truck.games.lionsera.com/
 *  JS Response Bytes: 219636
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

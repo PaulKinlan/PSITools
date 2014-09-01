@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://1ga.me/#cars-2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [1GA.ME Just Perfect Games 1game](http://1ga.me/#cars-2)
 
@@ -29,9 +32,6 @@ title: http://1ga.me/#cars-2
 *  JS Response Bytes: 793141
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16912
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.pituligames.com/offroad-4x4.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Offroad 4x4 for Free! - Pituli★Games.com](http://www.pituligames.com/offroad-4x4.html)
 
@@ -29,9 +34,6 @@ title: http://www.pituligames.com/offroad-4x4.html
 *  JS Response Bytes: 2214393
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124872
-
-### Performance issues
-
 
 ### Performance issues
 

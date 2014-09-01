@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gameflare.com/online-game/traffic-slam-arena/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Traffic Slam Arena - online game | GameFlare.com](http://www.gameflare.com/online-game/traffic-slam-arena/)
 
@@ -29,9 +35,6 @@ title: http://www.gameflare.com/online-game/traffic-slam-arena/
 *  JS Response Bytes: 2138354
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 304707
-
-### Performance issues
-
 
 ### Performance issues
 

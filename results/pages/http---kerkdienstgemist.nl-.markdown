@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://kerkdienstgemist.nl/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kerkdienstgemist.nl - 1176 kerken in Nederland](http://kerkdienstgemist.nl/)
 
@@ -29,9 +33,6 @@ title: http://kerkdienstgemist.nl/
 *  JS Response Bytes: 520741
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8781
-
-### Performance issues
-
 
 ### Performance issues
 

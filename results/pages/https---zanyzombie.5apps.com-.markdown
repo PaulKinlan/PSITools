@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://zanyzombie.5apps.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Zany Zombie](https://zanyzombie.5apps.com/)
 
@@ -29,9 +34,6 @@ title: https://zanyzombie.5apps.com/
 *  JS Response Bytes: 427782
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26318
-
-### Performance issues
-
 
 ### Performance issues
 

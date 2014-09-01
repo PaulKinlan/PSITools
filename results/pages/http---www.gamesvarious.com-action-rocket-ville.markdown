@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/action/rocket-ville
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rocket Ville - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/action/rocket-ville)
 
@@ -29,9 +35,6 @@ title: http://www.gamesvarious.com/action/rocket-ville
 *  JS Response Bytes: 2220383
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 147912
-
-### Performance issues
-
 
 ### Performance issues
 

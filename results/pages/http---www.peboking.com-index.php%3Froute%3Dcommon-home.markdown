@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.peboking.com/index.php?route=common/home
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [撇步王 | 數位教學網站](http://www.peboking.com/index.php?route=common/home)
 
@@ -29,9 +35,6 @@ title: http://www.peboking.com/index.php?route=common/home
 *  JS Response Bytes: 707910
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24646
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.hot-reviews.info/imageconverter/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Images Convert App- JPEG Converter and Digital Photo Compression](http://www.hot-reviews.info/imageconverter/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.hot-reviews.info/imageconverter/index.html
 *  JS Response Bytes: 1010409
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112301
-
-### Performance issues
-
 
 ### Performance issues
 

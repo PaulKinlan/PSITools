@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.brentwoodscareers.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [www.brentwoodscareers.com](http://www.brentwoodscareers.com/)
 
@@ -29,9 +32,6 @@ title: http://www.brentwoodscareers.com/
 *  JS Response Bytes: 183032
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

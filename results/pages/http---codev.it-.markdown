@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://codev.it/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [codev.it](http://codev.it/)
 
@@ -29,9 +32,6 @@ title: http://codev.it/
 *  JS Response Bytes: 140689
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31829
-
-### Performance issues
-
 
 ### Performance issues
 

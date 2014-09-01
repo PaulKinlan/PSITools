@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.egnyte.com/login/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Egnyte Customer Login](https://www.egnyte.com/login/)
 
@@ -29,9 +34,6 @@ title: https://www.egnyte.com/login/
 *  JS Response Bytes: 830553
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 73866
-
-### Performance issues
-
 
 ### Performance issues
 

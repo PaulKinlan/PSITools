@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://yasgame.com/pou/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [YasGame.Com Free Flash Game – POU](http://yasgame.com/pou/)
 
@@ -29,9 +34,6 @@ title: http://yasgame.com/pou/
 *  JS Response Bytes: 729186
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14561
-
-### Performance issues
-
 
 ### Performance issues
 

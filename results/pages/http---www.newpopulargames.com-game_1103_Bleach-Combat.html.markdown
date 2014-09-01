@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_1103_Bleach-Combat.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bleach Combat Flash Games](http://www.newpopulargames.com/game_1103_Bleach-Combat.html)
 
@@ -29,9 +34,6 @@ title: http://www.newpopulargames.com/game_1103_Bleach-Combat.html
 *  JS Response Bytes: 1679808
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112880
-
-### Performance issues
-
 
 ### Performance issues
 

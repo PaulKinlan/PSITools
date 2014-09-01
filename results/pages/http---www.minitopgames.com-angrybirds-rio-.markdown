@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.minitopgames.com/angrybirds-rio/
+UseLegibleFontSizes: true
 ---
 ## [500 Internal Server Error](http://www.minitopgames.com/angrybirds-rio/)
 
@@ -29,9 +30,6 @@ title: http://www.minitopgames.com/angrybirds-rio/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 721
-
-### Performance issues
-
 
 ### Performance issues
 

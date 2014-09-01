@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.nonsoloaerei.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Non Solo Aerei - Viaggi lowcost, Compagnie aeree, Aerei](http://www.nonsoloaerei.net/)
 
@@ -29,9 +32,6 @@ title: http://www.nonsoloaerei.net/
 *  JS Response Bytes: 241478
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2150
-
-### Performance issues
-
 
 ### Performance issues
 

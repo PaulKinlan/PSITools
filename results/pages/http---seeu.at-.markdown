@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://seeu.at/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Plan, Share, Save - find local offers, places and events « Seeu.at](http://seeu.at/)
 
@@ -29,9 +31,6 @@ title: http://seeu.at/
 *  JS Response Bytes: 523239
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29767
-
-### Performance issues
-
 
 ### Performance issues
 

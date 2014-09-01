@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://portalapps.pap.state.ga.us/papportal/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pardons and Paroles Web Portal](https://portalapps.pap.state.ga.us/papportal/)
 
@@ -29,9 +34,6 @@ title: https://portalapps.pap.state.ga.us/papportal/
 *  JS Response Bytes: 820127
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

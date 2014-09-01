@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.adioscelulitis.com/?hop=gadis
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Adios Celulitis™ | La Solucion Natural Para La Celulitis](http://www.adioscelulitis.com/?hop=gadis)
 
@@ -29,9 +33,6 @@ title: http://www.adioscelulitis.com/?hop=gadis
 *  JS Response Bytes: 496018
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1807
-
-### Performance issues
-
 
 ### Performance issues
 

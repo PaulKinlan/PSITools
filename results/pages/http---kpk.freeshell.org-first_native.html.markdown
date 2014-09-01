@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://kpk.freeshell.org/first_native.html
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://kpk.freeshell.org/first_native.html)
 
@@ -29,9 +30,6 @@ title: http://kpk.freeshell.org/first_native.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 490
-
-### Performance issues
-
 
 ### Performance issues
 

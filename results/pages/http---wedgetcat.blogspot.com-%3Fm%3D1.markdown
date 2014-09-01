@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://wedgetcat.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Maukie - the virtual cat](http://wedgetcat.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://wedgetcat.blogspot.com/?m=1
 *  JS Response Bytes: 631822
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15710
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.rocketfist.org/?app=true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ROCKET FIST .ORG - the most epic game!!!!](http://www.rocketfist.org/?app=true)
 
@@ -29,9 +37,6 @@ title: http://www.rocketfist.org/?app=true
 *  JS Response Bytes: 2391535
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97689
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://smen.ro/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Șmen.ro - știri, noutăți, poze, clipuri, articole](http://smen.ro/)
 
@@ -29,9 +33,6 @@ title: http://smen.ro/
 *  JS Response Bytes: 999394
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1293
-
-### Performance issues
-
 
 ### Performance issues
 

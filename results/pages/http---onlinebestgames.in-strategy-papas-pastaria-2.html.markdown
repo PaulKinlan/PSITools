@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://onlinebestgames.in/strategy/papas-pastaria-2.html
+UseLegibleFontSizes: true
 ---
 ## [404 - Page not found](http://onlinebestgames.in/strategy/papas-pastaria-2.html)
 
@@ -29,9 +30,6 @@ title: http://onlinebestgames.in/strategy/papas-pastaria-2.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1025
-
-### Performance issues
-
 
 ### Performance issues
 

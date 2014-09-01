@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://newflashgameto.blogspot.com.tr/2014/07/deneme.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [NewflashgameTo: Masked Shooters FPS](http://newflashgameto.blogspot.com.tr/2014/07/deneme.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://newflashgameto.blogspot.com.tr/2014/07/deneme.html?m=1
 *  JS Response Bytes: 1497398
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111786
-
-### Performance issues
-
 
 ### Performance issues
 

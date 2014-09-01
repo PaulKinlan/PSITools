@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.onlinegamese.com/games/strike-force-heroes-2/online-games
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Strike Force Heroes 2 | Online Games | Free Online Games Play Now](http://www.onlinegamese.com/games/strike-force-heroes-2/online-games)
 
@@ -29,9 +35,6 @@ title: http://www.onlinegamese.com/games/strike-force-heroes-2/online-games
 *  JS Response Bytes: 1964232
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 153739
-
-### Performance issues
-
 
 ### Performance issues
 

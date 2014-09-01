@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.chrome-games.com/play-gravity-guy-online
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gravity Guy Online | Chrome-Games.Com](http://www.chrome-games.com/play-gravity-guy-online)
 
@@ -29,9 +32,6 @@ title: http://www.chrome-games.com/play-gravity-guy-online
 *  JS Response Bytes: 2200297
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 252254
-
-### Performance issues
-
 
 ### Performance issues
 

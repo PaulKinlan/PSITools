@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://sport223.com/8ball.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Quick 8 Billiards ~ This online game is so addictive~~](http://sport223.com/8ball.htm)
 
@@ -29,9 +35,6 @@ title: http://sport223.com/8ball.htm
 *  JS Response Bytes: 863481
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5265
-
-### Performance issues
-
 
 ### Performance issues
 

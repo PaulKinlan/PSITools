@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.flickandshare.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flick and Share - Share your Flickr sets with your friends!](https://www.flickandshare.com/)
 
@@ -29,9 +34,6 @@ title: https://www.flickandshare.com/
 *  JS Response Bytes: 1695271
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 186490
-
-### Performance issues
-
 
 ### Performance issues
 

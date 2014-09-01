@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://sbobgames.blogspot.com/2013/05/iron-man-3-hd.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SpongeBob Games: SpongeBob Party Panic](http://sbobgames.blogspot.com/2013/05/iron-man-3-hd.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://sbobgames.blogspot.com/2013/05/iron-man-3-hd.html?m=1
 *  JS Response Bytes: 1515290
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109663
-
-### Performance issues
-
 
 ### Performance issues
 

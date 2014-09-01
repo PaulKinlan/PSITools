@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesyz.com/angry-birds-star-wars.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Star Wars : Games YZ](http://www.gamesyz.com/angry-birds-star-wars.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamesyz.com/angry-birds-star-wars.html
 *  JS Response Bytes: 1529563
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98553
-
-### Performance issues
-
 
 ### Performance issues
 

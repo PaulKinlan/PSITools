@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playonl9.blogspot.com/2013/09/move-detective-mouse-to-aim-or-shoot.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Online: Gangstar Rio: City of Saints Online for PC](http://playonl9.blogspot.com/2013/09/move-detective-mouse-to-aim-or-shoot.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playonl9.blogspot.com/2013/09/move-detective-mouse-to-aim-or-shoot
 *  JS Response Bytes: 2355137
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 288158
-
-### Performance issues
-
 
 ### Performance issues
 

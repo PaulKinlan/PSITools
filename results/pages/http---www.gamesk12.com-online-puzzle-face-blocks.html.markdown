@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/puzzle/face-blocks.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Face Blocks Play Face Blocks on Gamesk12.com Free Online Games](http://www.gamesk12.com/online/puzzle/face-blocks.html)
 
@@ -29,9 +35,6 @@ title: http://www.gamesk12.com/online/puzzle/face-blocks.html
 *  JS Response Bytes: 1843911
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106657
-
-### Performance issues
-
 
 ### Performance issues
 

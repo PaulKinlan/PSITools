@@ -1,6 +1,13 @@
 ---
 layout: result
 title: https://www.peanutgalleryfilms.com/error
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Peanut Gallery](https://www.peanutgalleryfilms.com/error)
 
@@ -29,9 +36,6 @@ title: https://www.peanutgalleryfilms.com/error
 *  JS Response Bytes: 626679
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51871
-
-### Performance issues
-
 
 ### Performance issues
 

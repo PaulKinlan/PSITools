@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.oyunkaptani.com/3d-hayalet-surucu-oyna.html?utm_source=ChromeWebStore&utm_medium=3DHayaletSurucu&utm_content=webapp&utm_campaign=kisayol
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Hayalet Sürücü Oyna - Oyun Kaptanı](http://www.oyunkaptani.com/3d-hayalet-surucu-oyna.html?utm_source=ChromeWebStore&utm_medium=3DHayaletSurucu&utm_content=webapp&utm_campaign=kisayol)
 
@@ -29,9 +36,6 @@ title: http://www.oyunkaptani.com/3d-hayalet-surucu-oyna.html?utm_source=ChromeW
 *  JS Response Bytes: 2206707
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 302303
-
-### Performance issues
-
 
 ### Performance issues
 

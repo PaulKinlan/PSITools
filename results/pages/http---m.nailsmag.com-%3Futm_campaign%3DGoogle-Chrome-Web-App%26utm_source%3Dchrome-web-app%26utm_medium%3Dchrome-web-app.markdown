@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.nailsmag.com/?utm_campaign=Google-Chrome-Web-App&utm_source=chrome-web-app&utm_medium=chrome-web-app
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
 ---
 ## [Nails Magazine - Dedicated To The Success Of Nail Professionals](http://m.nailsmag.com/?utm_campaign=Google-Chrome-Web-App&utm_source=chrome-web-app&utm_medium=chrome-web-app)
 
@@ -29,9 +32,6 @@ title: http://m.nailsmag.com/?utm_campaign=Google-Chrome-Web-App&utm_source=chro
 *  JS Response Bytes: 404605
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 629
-
-### Performance issues
-
 
 ### Performance issues
 

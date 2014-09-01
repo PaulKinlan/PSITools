@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://m.juegosxgratis.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Juegos gratis para celular](http://m.juegosxgratis.com/)
 
@@ -29,9 +30,6 @@ title: http://m.juegosxgratis.com/
 *  JS Response Bytes: 568167
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 936
-
-### Performance issues
-
 
 ### Performance issues
 

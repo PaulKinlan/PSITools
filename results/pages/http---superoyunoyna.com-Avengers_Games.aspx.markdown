@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://superoyunoyna.com/Avengers_Games.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Avengers Games free flash online 3D oyun oyna | Super oyun oyna](http://superoyunoyna.com/Avengers_Games.aspx)
 
@@ -29,9 +34,6 @@ title: http://superoyunoyna.com/Avengers_Games.aspx
 *  JS Response Bytes: 335737
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12884
-
-### Performance issues
-
 
 ### Performance issues
 

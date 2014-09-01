@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://my.whentomanage.com/login.php
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WhenToManage](https://my.whentomanage.com/login.php)
 
@@ -29,9 +32,6 @@ title: https://my.whentomanage.com/login.php
 *  JS Response Bytes: 174113
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1490
-
-### Performance issues
-
 
 ### Performance issues
 

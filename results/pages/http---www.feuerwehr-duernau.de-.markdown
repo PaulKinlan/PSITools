@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.feuerwehr-duernau.de/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Feuerwehr Dürnau - Willkommen auf der Internetseite der freiwilligen Feuerwehr Dürnau](http://www.feuerwehr-duernau.de/)
 
@@ -29,9 +33,6 @@ title: http://www.feuerwehr-duernau.de/
 *  JS Response Bytes: 1933219
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 586421
-
-### Performance issues
-
 
 ### Performance issues
 

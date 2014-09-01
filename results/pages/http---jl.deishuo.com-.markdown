@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://jl.deishuo.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [飞点精灵 云集最热优质的网页应用，游戏、音乐、导航、工具、搜索，让网络生活更加轻松快捷](http://jl.deishuo.com/)
 
@@ -29,9 +32,6 @@ title: http://jl.deishuo.com/
 *  JS Response Bytes: 712266
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 651
-
-### Performance issues
-
 
 ### Performance issues
 

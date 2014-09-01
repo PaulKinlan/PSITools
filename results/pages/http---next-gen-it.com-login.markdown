@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://next-gen-it.com/login
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [NextGen-IT Technology Solutions for the Future.](http://next-gen-it.com/login)
 
@@ -29,9 +35,6 @@ title: http://next-gen-it.com/login
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5935
-
-### Performance issues
-
 
 ### Performance issues
 

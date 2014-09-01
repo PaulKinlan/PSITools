@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bingocardcreator.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Make Custom Printable Bingo Cards | Bingo Card Creator](http://www.bingocardcreator.com/)
 
@@ -29,9 +33,6 @@ title: http://www.bingocardcreator.com/
 *  JS Response Bytes: 384125
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13946
-
-### Performance issues
-
 
 ### Performance issues
 

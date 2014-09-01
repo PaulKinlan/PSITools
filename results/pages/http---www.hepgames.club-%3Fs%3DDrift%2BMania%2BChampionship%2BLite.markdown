@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.hepgames.club/?s=Drift+Mania+Championship+Lite
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Drift Mania Championship Lite – Search Results – Online Best Games](http://www.hepgames.club/?s=Drift+Mania+Championship+Lite)
 
@@ -29,9 +36,6 @@ title: http://www.hepgames.club/?s=Drift+Mania+Championship+Lite
 *  JS Response Bytes: 560379
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

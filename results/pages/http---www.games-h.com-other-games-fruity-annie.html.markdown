@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.games-h.com/other-games/fruity-annie.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Playing Fruity Annie - Play Free Online Games at Games-H.COM](http://www.games-h.com/other-games/fruity-annie.html)
 
@@ -29,9 +35,6 @@ title: http://www.games-h.com/other-games/fruity-annie.html
 *  JS Response Bytes: 2692599
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 154262
-
-### Performance issues
-
 
 ### Performance issues
 

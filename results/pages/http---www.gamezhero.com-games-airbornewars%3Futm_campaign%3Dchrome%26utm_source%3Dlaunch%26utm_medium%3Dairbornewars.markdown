@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamezhero.com/games/airbornewars?utm_campaign=chrome&utm_source=launch&utm_medium=airbornewars
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Airborne Wars | Games | Free Online Games @ Gamezhero.com](http://www.gamezhero.com/games/airbornewars?utm_campaign=chrome&utm_source=launch&utm_medium=airbornewars)
 
@@ -29,9 +33,6 @@ title: http://www.gamezhero.com/games/airbornewars?utm_campaign=chrome&utm_sourc
 *  JS Response Bytes: 2297407
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109152
-
-### Performance issues
-
 
 ### Performance issues
 

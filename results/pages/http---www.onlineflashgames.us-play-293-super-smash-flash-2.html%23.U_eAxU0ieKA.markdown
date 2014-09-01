@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.onlineflashgames.us/play/293/super-smash-flash-2.html#.U_eAxU0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Smash Flash 2 - Online Flash Games](http://www.onlineflashgames.us/play/293/super-smash-flash-2.html#.U_eAxU0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.onlineflashgames.us/play/293/super-smash-flash-2.html#.U_eAxU0
 *  JS Response Bytes: 1478916
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23278
-
-### Performance issues
-
 
 ### Performance issues
 

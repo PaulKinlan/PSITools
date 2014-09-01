@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mathstools.com/section/main/simplex_online_calculator#.U_uogE0ieKA
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Simplex Calculator - The on line Simplex Algoritm](http://www.mathstools.com/section/main/simplex_online_calculator#.U_uogE0ieKA)
 
@@ -29,9 +33,6 @@ title: http://www.mathstools.com/section/main/simplex_online_calculator#.U_uogE0
 *  JS Response Bytes: 4375386
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117770
-
-### Performance issues
-
 
 ### Performance issues
 

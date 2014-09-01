@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gamegut.blogspot.com.tr/2014/04/soliter-all-version.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [Chrome Store Best Online Game: Soliter all version](http://gamegut.blogspot.com.tr/2014/04/soliter-all-version.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://gamegut.blogspot.com.tr/2014/04/soliter-all-version.html?m=1
 *  JS Response Bytes: 720888
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95588
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://weatherbyteapp.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [WeatherByte](http://weatherbyteapp.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://weatherbyteapp.appspot.com/
 *  JS Response Bytes: 50200
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mygamesapps.com/sub_action/sub201378780526.html#.U_uqRk0ieKA
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cave Run_mygamesapps](http://www.mygamesapps.com/sub_action/sub201378780526.html#.U_uqRk0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.mygamesapps.com/sub_action/sub201378780526.html#.U_uqRk0ieKA
 *  JS Response Bytes: 734452
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10363
-
-### Performance issues
-
 
 ### Performance issues
 

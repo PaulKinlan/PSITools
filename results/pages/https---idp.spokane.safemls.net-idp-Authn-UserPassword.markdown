@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://idp.spokane.safemls.net/idp/Authn/UserPassword
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [SafeMLS® Mobile Login](https://idp.spokane.safemls.net/idp/Authn/UserPassword)
 
@@ -29,9 +33,6 @@ title: https://idp.spokane.safemls.net/idp/Authn/UserPassword
 *  JS Response Bytes: 129185
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2817
-
-### Performance issues
-
 
 ### Performance issues
 

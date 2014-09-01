@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.flashgames101.com/fullscreen.php?id=117
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Page not found | My Blog](http://www.flashgames101.com/fullscreen.php?id=117)
 
@@ -29,9 +32,6 @@ title: http://www.flashgames101.com/fullscreen.php?id=117
 *  JS Response Bytes: 108814
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 170449
-
-### Performance issues
-
 
 ### Performance issues
 

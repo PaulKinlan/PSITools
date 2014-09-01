@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesmild.com/chrome-category/undead-end-2
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Undead End 2 - Games Mild](http://www.gamesmild.com/chrome-category/undead-end-2)
 
@@ -29,9 +34,6 @@ title: http://www.gamesmild.com/chrome-category/undead-end-2
 *  JS Response Bytes: 758953
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30034
-
-### Performance issues
-
 
 ### Performance issues
 

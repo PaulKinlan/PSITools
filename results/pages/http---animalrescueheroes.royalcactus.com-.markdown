@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://animalrescueheroes.royalcactus.com/
+UseLegibleFontSizes: true
 ---
 ## [403 Forbidden](http://animalrescueheroes.royalcactus.com/)
 
@@ -29,9 +30,6 @@ title: http://animalrescueheroes.royalcactus.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 379
-
-### Performance issues
-
 
 ### Performance issues
 

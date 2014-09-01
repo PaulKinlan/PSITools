@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.entryless.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Entryless Home Page](https://www.entryless.com/)
 
@@ -29,9 +33,6 @@ title: https://www.entryless.com/
 *  JS Response Bytes: 567647
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2185
-
-### Performance issues
-
 
 ### Performance issues
 

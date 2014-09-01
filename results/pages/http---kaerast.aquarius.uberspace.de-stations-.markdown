@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://kaerast.aquarius.uberspace.de/stations/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Let's visit Sturry!](http://kaerast.aquarius.uberspace.de/stations/)
 
@@ -29,9 +35,6 @@ title: http://kaerast.aquarius.uberspace.de/stations/
 *  JS Response Bytes: 246077
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2664
-
-### Performance issues
-
 
 ### Performance issues
 

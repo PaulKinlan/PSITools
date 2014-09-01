@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.zombiepandemic.com/free-zombie-mmorpg/windowsMobileLandingPage.aspx
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Sign up to play Zombie Pandemic - a free browser based survival horror MMORPG](http://www.zombiepandemic.com/free-zombie-mmorpg/windowsMobileLandingPage.aspx)
 
@@ -29,9 +33,6 @@ title: http://www.zombiepandemic.com/free-zombie-mmorpg/windowsMobileLandingPage
 *  JS Response Bytes: 848966
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17116
-
-### Performance issues
-
 
 ### Performance issues
 

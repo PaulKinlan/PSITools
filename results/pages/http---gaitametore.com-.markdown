@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://gaitametore.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [米ドル/円[USD/JPY]の為替予想レンジと売買戦略](http://gaitametore.com/)
 
@@ -29,9 +36,6 @@ title: http://gaitametore.com/
 *  JS Response Bytes: 499329
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

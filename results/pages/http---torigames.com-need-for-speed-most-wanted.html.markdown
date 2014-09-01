@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://torigames.com/need-for-speed-most-wanted.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ToriGames.Com | Flash Game | Flash Games | – Need for Speed Most Wanted](http://torigames.com/need-for-speed-most-wanted.html)
 
@@ -29,9 +35,6 @@ title: http://torigames.com/need-for-speed-most-wanted.html
 *  JS Response Bytes: 413987
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 817
-
-### Performance issues
-
 
 ### Performance issues
 

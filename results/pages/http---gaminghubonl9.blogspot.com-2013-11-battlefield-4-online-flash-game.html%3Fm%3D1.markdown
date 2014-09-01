@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gaminghubonl9.blogspot.com/2013/11/battlefield-4-online-flash-game.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://gaminghubonl9.blogspot.com/2013/11/battlefield-4-online-flash-game.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://gaminghubonl9.blogspot.com/2013/11/battlefield-4-online-flash-game
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19333
-
-### Performance issues
-
 
 ### Performance issues
 

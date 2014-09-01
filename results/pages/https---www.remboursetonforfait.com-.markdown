@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.remboursetonforfait.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Rembourse Ton Forfait - Convertis ton forfait mobile en euros](https://www.remboursetonforfait.com/)
 
@@ -29,9 +31,6 @@ title: https://www.remboursetonforfait.com/
 *  JS Response Bytes: 513572
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29349
-
-### Performance issues
-
 
 ### Performance issues
 

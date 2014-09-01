@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameseternal.com/default-category/woobies
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WOOBIES - Games EternaL](http://www.gameseternal.com/default-category/woobies)
 
@@ -29,9 +34,6 @@ title: http://www.gameseternal.com/default-category/woobies
 *  JS Response Bytes: 758954
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16650
-
-### Performance issues
-
 
 ### Performance issues
 

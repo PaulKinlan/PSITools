@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://mapdownloader.finite-field.com/index_ja.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Map Downloader 地図一括ダウンロード](http://mapdownloader.finite-field.com/index_ja.html)
 
@@ -29,9 +35,6 @@ title: http://mapdownloader.finite-field.com/index_ja.html
 *  JS Response Bytes: 720229
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43443
-
-### Performance issues
-
 
 ### Performance issues
 

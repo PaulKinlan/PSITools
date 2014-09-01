@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://joshuatree.euram.eu/JoshuaTree/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [EurAm - Creative Packaging](https://joshuatree.euram.eu/JoshuaTree/)
 
@@ -29,9 +31,6 @@ title: https://joshuatree.euram.eu/JoshuaTree/
 *  JS Response Bytes: 471989
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

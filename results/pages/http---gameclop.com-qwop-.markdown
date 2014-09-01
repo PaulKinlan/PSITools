@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gameclop.com/qwop/
+MinimizeRenderBlockingResources: true
 ---
 ## [Gameclop.com](http://gameclop.com/qwop/)
 
@@ -29,9 +30,6 @@ title: http://gameclop.com/qwop/
 *  JS Response Bytes: 9100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

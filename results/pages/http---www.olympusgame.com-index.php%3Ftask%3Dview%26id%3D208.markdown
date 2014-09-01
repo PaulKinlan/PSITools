@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.olympusgame.com/index.php?task=view&id=208
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Accurate Boy - OlympusGaMe - just Challange! And Play Free! Play Online!](http://www.olympusgame.com/index.php?task=view&id=208)
 
@@ -29,9 +34,6 @@ title: http://www.olympusgame.com/index.php?task=view&id=208
 *  JS Response Bytes: 912304
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15934
-
-### Performance issues
-
 
 ### Performance issues
 

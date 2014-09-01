@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.celebrations.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Invitations, eCards, Party Ideas, Party Planning Tips | Celebrations.com](http://www.celebrations.com/)
 
@@ -29,9 +35,6 @@ title: http://www.celebrations.com/
 *  JS Response Bytes: 1110370
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33322
-
-### Performance issues
-
 
 ### Performance issues
 

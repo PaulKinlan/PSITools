@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://checkinyap.com/mobile.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Checkinyap.com - En Ucuz Oteller, Uçak Bileti ve Araç Kiralama.](http://checkinyap.com/mobile.html)
 
@@ -29,9 +33,6 @@ title: http://checkinyap.com/mobile.html
 *  JS Response Bytes: 985301
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287151
-
-### Performance issues
-
 
 ### Performance issues
 

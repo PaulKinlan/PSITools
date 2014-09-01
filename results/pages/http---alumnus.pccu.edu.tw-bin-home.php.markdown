@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://alumnus.pccu.edu.tw/bin/home.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [華岡校友網](http://alumnus.pccu.edu.tw/bin/home.php)
 
@@ -29,9 +35,6 @@ title: http://alumnus.pccu.edu.tw/bin/home.php
 *  JS Response Bytes: 540438
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1681
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.funny-gamess.com/games/game/name/the-adventures-of-red
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [the-adventures-of-red Funny Games](http://www.funny-gamess.com/games/game/name/the-adventures-of-red)
 
@@ -29,9 +33,6 @@ title: http://www.funny-gamess.com/games/game/name/the-adventures-of-red
 *  JS Response Bytes: 1992479
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113095
-
-### Performance issues
-
 
 ### Performance issues
 

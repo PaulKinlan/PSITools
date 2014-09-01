@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gamejoyment.com/sports/bow-master-japan.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bow Master Japan - Best Free Online Games | GameJoyment.com - http://gamejoyment.com](http://gamejoyment.com/sports/bow-master-japan.html)
 
@@ -29,9 +34,6 @@ title: http://gamejoyment.com/sports/bow-master-japan.html
 *  JS Response Bytes: 3499281
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 149818
-
-### Performance issues
-
 
 ### Performance issues
 

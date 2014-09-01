@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gamejoyment.com/puzzle/truck-loader-4.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Truck Loader 4 - Best Free Online Games | GameJoyment.com - http://gamejoyment.com](http://gamejoyment.com/puzzle/truck-loader-4.html)
 
@@ -29,9 +34,6 @@ title: http://gamejoyment.com/puzzle/truck-loader-4.html
 *  JS Response Bytes: 2604196
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 101006
-
-### Performance issues
-
 
 ### Performance issues
 

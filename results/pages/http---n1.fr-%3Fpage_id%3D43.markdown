@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://n1.fr/?page_id=43
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Concert Caritatif contre la maladie de Parkinson | Le blog d'Alexis](http://n1.fr/?page_id=43)
 
@@ -29,9 +32,6 @@ title: http://n1.fr/?page_id=43
 *  JS Response Bytes: 1452057
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112945
-
-### Performance issues
-
 
 ### Performance issues
 

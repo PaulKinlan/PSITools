@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://pocktgames.com/play/dogpuppies/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dog Puppies 3D - Play Online](http://pocktgames.com/play/dogpuppies/)
 
@@ -29,9 +35,6 @@ title: http://pocktgames.com/play/dogpuppies/
 *  JS Response Bytes: 1885841
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111150
-
-### Performance issues
-
 
 ### Performance issues
 

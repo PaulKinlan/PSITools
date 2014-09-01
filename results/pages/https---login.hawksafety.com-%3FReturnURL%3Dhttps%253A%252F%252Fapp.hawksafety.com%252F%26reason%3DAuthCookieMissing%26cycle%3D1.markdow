@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://login.hawksafety.com/?ReturnURL=https%3A%2F%2Fapp.hawksafety.com%2F&reason=AuthCookieMissing&cycle=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
 ---
 ## [HAWK Login](https://login.hawksafety.com/?ReturnURL=https%3A%2F%2Fapp.hawksafety.com%2F&reason=AuthCookieMissing&cycle=1)
 
@@ -29,9 +32,6 @@ title: https://login.hawksafety.com/?ReturnURL=https%3A%2F%2Fapp.hawksafety.com%
 *  JS Response Bytes: 126139
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 528
-
-### Performance issues
-
 
 ### Performance issues
 

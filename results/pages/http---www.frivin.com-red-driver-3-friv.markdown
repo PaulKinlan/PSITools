@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.frivin.com/red-driver-3/friv
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Red Driver 3 | Friv And Friv Games More Online Friv Game](http://www.frivin.com/red-driver-3/friv)
 
@@ -29,9 +34,6 @@ title: http://www.frivin.com/red-driver-3/friv
 *  JS Response Bytes: 1837501
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112004
-
-### Performance issues
-
 
 ### Performance issues
 

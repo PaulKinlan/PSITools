@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://insomniakdev.com/sp/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [](http://insomniakdev.com/sp/)
 
@@ -29,9 +31,6 @@ title: http://insomniakdev.com/sp/
 *  JS Response Bytes: 414057
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 577
-
-### Performance issues
-
 
 ### Performance issues
 

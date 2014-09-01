@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.feedbackpls.com/about
+MinimizeRenderBlockingResources: true
 ---
 ## [Feedback Pls](http://www.feedbackpls.com/about)
 
@@ -29,9 +30,6 @@ title: http://www.feedbackpls.com/about
 *  JS Response Bytes: 1405778
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43424
-
-### Performance issues
-
 
 ### Performance issues
 

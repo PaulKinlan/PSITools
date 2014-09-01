@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://chrome.topwaynet.com.br/app/
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://chrome.topwaynet.com.br/app/)
 
@@ -29,9 +30,6 @@ title: http://chrome.topwaynet.com.br/app/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1415
-
-### Performance issues
-
 
 ### Performance issues
 

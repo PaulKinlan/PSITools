@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://abaris.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [abaris.net | Mental And Physical Well Being For Men](http://abaris.net/)
 
@@ -29,9 +33,6 @@ title: http://abaris.net/
 *  JS Response Bytes: 104009
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 948
-
-### Performance issues
-
 
 ### Performance issues
 

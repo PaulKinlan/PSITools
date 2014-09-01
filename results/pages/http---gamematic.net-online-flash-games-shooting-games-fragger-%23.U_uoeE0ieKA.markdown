@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/shooting-games/fragger/#.U_uoeE0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fragger « Online Flash Game Fragger](http://gamematic.net/online-flash-games/shooting-games/fragger/#.U_uoeE0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/shooting-games/fragger/#.U_uoeE0i
 *  JS Response Bytes: 1748839
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 38483
-
-### Performance issues
-
 
 ### Performance issues
 

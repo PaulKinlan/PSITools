@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.pituligames.com/counter-strike-online-2.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Counter Strike Online 2! - Pituli★Games.com](http://www.pituligames.com/counter-strike-online-2.html)
 
@@ -29,9 +34,6 @@ title: http://www.pituligames.com/counter-strike-online-2.html
 *  JS Response Bytes: 1288191
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 87855
-
-### Performance issues
-
 
 ### Performance issues
 

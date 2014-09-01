@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://app.apps-builder.com//569563#bmb=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [il nutrizionista](http://app.apps-builder.com//569563#bmb=1)
 
@@ -29,9 +33,6 @@ title: http://app.apps-builder.com//569563#bmb=1
 *  JS Response Bytes: 1294071
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9644
-
-### Performance issues
-
 
 ### Performance issues
 

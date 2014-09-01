@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://191games.com/angry-birds-halloween-boxes.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404 - PAGE NOT FOUND](http://191games.com/angry-birds-halloween-boxes.html)
 
@@ -29,9 +33,6 @@ title: http://191games.com/angry-birds-halloween-boxes.html
 *  JS Response Bytes: 268763
 *  Flash Response Bytes: 43671
 *  Other Response Bytes: 13047
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.deployanddestroy.com.au/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Expendables 3 - Deploy & Destroy Reloaded](http://www.deployanddestroy.com.au/)
 
@@ -29,9 +33,6 @@ title: http://www.deployanddestroy.com.au/
 *  JS Response Bytes: 51492
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://hil001.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Hillside](http://hil001.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://hil001.blogspot.com/?m=1
 *  JS Response Bytes: 803249
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 850
-
-### Performance issues
-
 
 ### Performance issues
 

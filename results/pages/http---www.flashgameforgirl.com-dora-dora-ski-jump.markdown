@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.flashgameforgirl.com/dora/dora-ski-jump
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dora Ski Jump - Flash Game For Girl](http://www.flashgameforgirl.com/dora/dora-ski-jump)
 
@@ -29,9 +35,6 @@ title: http://www.flashgameforgirl.com/dora/dora-ski-jump
 *  JS Response Bytes: 2031857
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 144693
-
-### Performance issues
-
 
 ### Performance issues
 

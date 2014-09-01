@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.lettrecomptetriple.fr/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Scrabble | Club de scrabble Lettre Compte Triple](http://www.lettrecomptetriple.fr/)
 
@@ -29,9 +32,6 @@ title: http://www.lettrecomptetriple.fr/
 *  JS Response Bytes: 1995205
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112348
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.belocal.de/deutschland
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Deutschland Veranstaltungen Sehenswürdigkeiten Events Freizeit Touren Cityguide Tipps](http://m.belocal.de/deutschland)
 
@@ -29,9 +31,6 @@ title: http://m.belocal.de/deutschland
 *  JS Response Bytes: 203558
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 778
-
-### Performance issues
-
 
 ### Performance issues
 

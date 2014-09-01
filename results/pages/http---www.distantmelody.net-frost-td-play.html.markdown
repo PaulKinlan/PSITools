@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.distantmelody.net/frost-td/play.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Frost TD](http://www.distantmelody.net/frost-td/play.html)
 
@@ -29,9 +33,6 @@ title: http://www.distantmelody.net/frost-td/play.html
 *  JS Response Bytes: 1469945
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110170
-
-### Performance issues
-
 
 ### Performance issues
 

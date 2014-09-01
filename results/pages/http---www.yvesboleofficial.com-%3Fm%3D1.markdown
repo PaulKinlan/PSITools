@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.yvesboleofficial.com/?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Yves Bole - Photo News](http://www.yvesboleofficial.com/?m=1)
 
@@ -29,9 +34,6 @@ title: http://www.yvesboleofficial.com/?m=1
 *  JS Response Bytes: 434721
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 327974
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://cms.wialon.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CMS Manager](http://cms.wialon.com/)
 
@@ -29,9 +33,6 @@ title: http://cms.wialon.com/
 *  JS Response Bytes: 500324
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

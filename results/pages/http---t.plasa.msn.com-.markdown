@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://t.plasa.msn.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [PlasaMSN](http://t.plasa.msn.com/)
 
@@ -29,9 +34,6 @@ title: http://t.plasa.msn.com/
 *  JS Response Bytes: 391820
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3780
-
-### Performance issues
-
 
 ### Performance issues
 

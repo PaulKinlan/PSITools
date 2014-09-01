@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://amy.murastudio.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Amy Monster Fashion - O Primeiro Beijo](http://amy.murastudio.com/)
 
@@ -29,9 +34,6 @@ title: http://amy.murastudio.com/
 *  JS Response Bytes: 1225785
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2156
-
-### Performance issues
-
 
 ### Performance issues
 

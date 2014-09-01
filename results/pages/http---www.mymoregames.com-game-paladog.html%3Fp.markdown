@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mymoregames.com/game/paladog.html?p
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Paladog Games on MyMoreGames.com](http://www.mymoregames.com/game/paladog.html?p)
 
@@ -29,9 +33,6 @@ title: http://www.mymoregames.com/game/paladog.html?p
 *  JS Response Bytes: 315007
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

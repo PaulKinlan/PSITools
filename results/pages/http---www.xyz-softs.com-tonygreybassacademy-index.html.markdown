@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.xyz-softs.com/tonygreybassacademy/index.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Tony Grey Bass Academy](http://www.xyz-softs.com/tonygreybassacademy/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.xyz-softs.com/tonygreybassacademy/index.html
 *  JS Response Bytes: 526094
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

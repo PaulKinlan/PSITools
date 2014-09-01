@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.freegamesdownload.com/online/fishtales.html
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fish Tales Online Game. Play free online game.](http://www.freegamesdownload.com/online/fishtales.html)
 
@@ -29,9 +32,6 @@ title: http://www.freegamesdownload.com/online/fishtales.html
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 603
-
-### Performance issues
-
 
 ### Performance issues
 

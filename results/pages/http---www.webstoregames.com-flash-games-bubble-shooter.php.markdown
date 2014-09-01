@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.webstoregames.com/flash-games/bubble-shooter.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bubble Shooter - Free Games Online, Free Online Games, Flash Games!](http://www.webstoregames.com/flash-games/bubble-shooter.php)
 
@@ -29,9 +35,6 @@ title: http://www.webstoregames.com/flash-games/bubble-shooter.php
 *  JS Response Bytes: 1329562
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95564
-
-### Performance issues
-
 
 ### Performance issues
 

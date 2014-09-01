@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.flashtogame.com/view/1196/nba-pro-hoops
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [NBA Pro Hoops - Flash to GaMe - Free Online Flash Games](http://www.flashtogame.com/view/1196/nba-pro-hoops)
 
@@ -29,9 +34,6 @@ title: http://www.flashtogame.com/view/1196/nba-pro-hoops
 *  JS Response Bytes: 2281484
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 138217
-
-### Performance issues
-
 
 ### Performance issues
 

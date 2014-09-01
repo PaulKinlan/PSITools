@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.hiveage.com/curdbee/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Hiveage | Successor to CurdBee - Online Invoicing for Small Businesses](http://www.hiveage.com/curdbee/)
 
@@ -29,9 +35,6 @@ title: http://www.hiveage.com/curdbee/
 *  JS Response Bytes: 516697
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32702
-
-### Performance issues
-
 
 ### Performance issues
 

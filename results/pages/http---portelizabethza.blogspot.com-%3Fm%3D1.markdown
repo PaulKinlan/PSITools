@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://portelizabethza.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Port Elizabeth South Africa](http://portelizabethza.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://portelizabethza.blogspot.com/?m=1
 *  JS Response Bytes: 672279
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15721
-
-### Performance issues
-
 
 ### Performance issues
 

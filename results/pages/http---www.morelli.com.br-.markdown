@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.morelli.com.br/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Portal Morelli de Ortodontia - Seja Bem-Vindo ao Compra On-Line - A Loja Virtual Morelli para compra de produtos Ortodônticos](http://www.morelli.com.br/)
 
@@ -29,9 +33,6 @@ title: http://www.morelli.com.br/
 *  JS Response Bytes: 652861
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

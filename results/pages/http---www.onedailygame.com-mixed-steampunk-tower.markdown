@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.onedailygame.com/mixed/steampunk-tower
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Steampunk Tower - OneDailyGame](http://www.onedailygame.com/mixed/steampunk-tower)
 
@@ -29,9 +33,6 @@ title: http://www.onedailygame.com/mixed/steampunk-tower
 *  JS Response Bytes: 572733
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2151
-
-### Performance issues
-
 
 ### Performance issues
 

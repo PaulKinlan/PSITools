@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://dyk.cheghamwassim.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Did You Know](http://dyk.cheghamwassim.com/)
 
@@ -29,9 +33,6 @@ title: http://dyk.cheghamwassim.com/
 *  JS Response Bytes: 904517
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118495
-
-### Performance issues
-
 
 ### Performance issues
 

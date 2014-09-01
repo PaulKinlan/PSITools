@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://todomd.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TODOmd](http://todomd.com/)
 
@@ -29,9 +34,6 @@ title: http://todomd.com/
 *  JS Response Bytes: 1549818
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110252
-
-### Performance issues
-
 
 ### Performance issues
 

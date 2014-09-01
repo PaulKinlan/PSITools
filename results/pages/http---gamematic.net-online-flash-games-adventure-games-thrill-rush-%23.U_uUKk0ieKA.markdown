@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/adventure-games/thrill-rush/#.U_uUKk0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Thrill Rush « Online Flash Game Thrill Rush](http://gamematic.net/online-flash-games/adventure-games/thrill-rush/#.U_uUKk0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/adventure-games/thrill-rush/#.U_u
 *  JS Response Bytes: 1741837
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29647
-
-### Performance issues
-
 
 ### Performance issues
 

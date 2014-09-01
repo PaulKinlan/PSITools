@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromemariogames.blogspot.com/2013/08/max-payne.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://chromemariogames.blogspot.com/2013/08/max-payne.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromemariogames.blogspot.com/2013/08/max-payne.html?m=1
 *  JS Response Bytes: 41101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19282
-
-### Performance issues
-
 
 ### Performance issues
 

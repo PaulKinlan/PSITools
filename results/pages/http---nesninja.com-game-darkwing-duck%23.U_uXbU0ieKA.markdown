@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://nesninja.com/game/darkwing-duck#.U_uXbU0ieKA
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Darkwing Duck » NES Ninja](http://nesninja.com/game/darkwing-duck#.U_uXbU0ieKA)
 
@@ -29,9 +32,6 @@ title: http://nesninja.com/game/darkwing-duck#.U_uXbU0ieKA
 *  JS Response Bytes: 2389156
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 181851
-
-### Performance issues
-
 
 ### Performance issues
 

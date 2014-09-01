@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.communifire.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
 ---
 ## [Enterprise Collaboration Software - Communifire](http://www.communifire.com/)
 
@@ -29,9 +32,6 @@ title: http://www.communifire.com/
 *  JS Response Bytes: 200505
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

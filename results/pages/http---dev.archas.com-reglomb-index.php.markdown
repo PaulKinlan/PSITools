@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://dev.archas.com/reglomb/index.php
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ARCHAS admin](http://dev.archas.com/reglomb/index.php)
 
@@ -29,9 +31,6 @@ title: http://dev.archas.com/reglomb/index.php
 *  JS Response Bytes: 163009
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 60
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromeflashgames.blogspot.com/2013/08/iron-man-3.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [chromeflashgames: Iron Man 3](http://chromeflashgames.blogspot.com/2013/08/iron-man-3.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chromeflashgames.blogspot.com/2013/08/iron-man-3.html?m=1
 *  JS Response Bytes: 1068009
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97986
-
-### Performance issues
-
 
 ### Performance issues
 

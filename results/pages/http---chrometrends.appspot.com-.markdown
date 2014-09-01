@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chrometrends.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [App Trends for Chrome](http://chrometrends.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://chrometrends.appspot.com/
 *  JS Response Bytes: 118120
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 711
-
-### Performance issues
-
 
 ### Performance issues
 

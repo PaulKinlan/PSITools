@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.onlinetopgame.com/game/8-ball-pool.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [8 Ball Pool - Sports Games - Play Free Online Games](http://www.onlinetopgame.com/game/8-ball-pool.html)
 
@@ -29,9 +36,6 @@ title: http://www.onlinetopgame.com/game/8-ball-pool.html
 *  JS Response Bytes: 503573
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29772
-
-### Performance issues
-
 
 ### Performance issues
 

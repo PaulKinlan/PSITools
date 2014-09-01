@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://bpig2.funnygames12.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Funnygames12.com](http://bpig2.funnygames12.com/)
 
@@ -29,9 +30,6 @@ title: http://bpig2.funnygames12.com/
 *  JS Response Bytes: 9100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

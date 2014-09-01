@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://soft123.vn/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Phần mềm bản quyền chính hãng giá tốt nhất - Techlink Store](http://soft123.vn/)
 
@@ -29,9 +32,6 @@ title: http://soft123.vn/
 *  JS Response Bytes: 296352
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://cms.9x9.tv/signin.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [9x9.tv - Sign In](http://cms.9x9.tv/signin.html)
 
@@ -29,9 +34,6 @@ title: http://cms.9x9.tv/signin.html
 *  JS Response Bytes: 652864
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50
-
-### Performance issues
-
 
 ### Performance issues
 

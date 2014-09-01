@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.lia.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Laser Institute of America (LIA) - International Society for Laser Applications and Laser Safety](http://www.lia.org/)
 
@@ -29,9 +33,6 @@ title: http://www.lia.org/
 *  JS Response Bytes: 1804670
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 179810
-
-### Performance issues
-
 
 ### Performance issues
 

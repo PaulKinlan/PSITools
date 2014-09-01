@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww1.chrome.folqoop.com/mg/
+MinimizeRenderBlockingResources: true
 ---
 ## [folqoop.com - folqoop Resources and Information.](http://ww1.chrome.folqoop.com/mg/)
 
@@ -29,9 +30,6 @@ title: http://ww1.chrome.folqoop.com/mg/
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 216
-
-### Performance issues
-
 
 ### Performance issues
 

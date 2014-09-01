@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.troc-velo.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Troc-Velo mobile](http://m.troc-velo.com/)
 
@@ -29,9 +31,6 @@ title: http://m.troc-velo.com/
 *  JS Response Bytes: 856108
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19639
-
-### Performance issues
-
 
 ### Performance issues
 

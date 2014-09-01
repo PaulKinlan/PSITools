@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bestreports.info/wonderDrFone/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dr.Fone: iPhone Data Recovery](http://www.bestreports.info/wonderDrFone/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.bestreports.info/wonderDrFone/index.html
 *  JS Response Bytes: 911323
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110124
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://contacts.tailormadecrm.com/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](https://contacts.tailormadecrm.com/)
 
@@ -29,9 +30,6 @@ title: https://contacts.tailormadecrm.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 406
-
-### Performance issues
-
 
 ### Performance issues
 

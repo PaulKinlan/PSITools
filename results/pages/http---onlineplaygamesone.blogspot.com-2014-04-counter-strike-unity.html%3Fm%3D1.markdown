@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://onlineplaygamesone.blogspot.com/2014/04/counter-strike-unity.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Onlineplaygamesone: Counter Strike Unity](http://onlineplaygamesone.blogspot.com/2014/04/counter-strike-unity.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://onlineplaygamesone.blogspot.com/2014/04/counter-strike-unity.html?
 *  JS Response Bytes: 2045209
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287499
-
-### Performance issues
-
 
 ### Performance issues
 

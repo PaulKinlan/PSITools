@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mikanse.com/PacMan/pacman.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HTML5 Pacman](http://www.mikanse.com/PacMan/pacman.html)
 
@@ -29,9 +34,6 @@ title: http://www.mikanse.com/PacMan/pacman.html
 *  JS Response Bytes: 1853024
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110923
-
-### Performance issues
-
 
 ### Performance issues
 

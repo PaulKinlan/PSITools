@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.kamedy.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Best Comedy TV online - ever. Have a heartful smile on us for FREE](http://www.kamedy.com/)
 
@@ -29,9 +33,6 @@ title: http://www.kamedy.com/
 *  JS Response Bytes: 1061865
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115011
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://rapidcall.com.br/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [RapidCall - Controle de demandas de forma simples e segura!](http://rapidcall.com.br/)
 
@@ -29,9 +32,6 @@ title: http://rapidcall.com.br/
 *  JS Response Bytes: 141108
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

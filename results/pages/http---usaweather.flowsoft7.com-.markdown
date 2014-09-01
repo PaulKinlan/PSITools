@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://usaweather.flowsoft7.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [US Weather Live TV](http://usaweather.flowsoft7.com/)
 
@@ -29,9 +36,6 @@ title: http://usaweather.flowsoft7.com/
 *  JS Response Bytes: 819646
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55661
-
-### Performance issues
-
 
 ### Performance issues
 

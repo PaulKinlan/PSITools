@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.jogosapps.com.br/portal/jogos-classicos/sexy-billiards
+UseLegibleFontSizes: true
 ---
 ## [404 - Page not found](http://www.jogosapps.com.br/portal/jogos-classicos/sexy-billiards)
 
@@ -29,9 +30,6 @@ title: http://www.jogosapps.com.br/portal/jogos-classicos/sexy-billiards
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1194
-
-### Performance issues
-
 
 ### Performance issues
 

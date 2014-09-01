@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.thinkapps01.info/pdfcontentsplitter/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Split PDF files based on content](http://www.thinkapps01.info/pdfcontentsplitter/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.thinkapps01.info/pdfcontentsplitter/index.html
 *  JS Response Bytes: 935601
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109057
-
-### Performance issues
-
 
 ### Performance issues
 

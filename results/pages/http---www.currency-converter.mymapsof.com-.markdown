@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.currency-converter.mymapsof.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [My Currency Converter : Mymapsof.com](http://www.currency-converter.mymapsof.com/)
 
@@ -29,9 +32,6 @@ title: http://www.currency-converter.mymapsof.com/
 *  JS Response Bytes: 134990
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

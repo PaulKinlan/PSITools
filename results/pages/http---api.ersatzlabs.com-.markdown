@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://api.ersatzlabs.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ersatz](http://api.ersatzlabs.com/)
 
@@ -29,9 +32,6 @@ title: http://api.ersatzlabs.com/
 *  JS Response Bytes: 160098
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.negane.com/final_fight/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.negane.com/final_fight/)
 
@@ -29,9 +32,6 @@ title: http://www.negane.com/final_fight/
 *  JS Response Bytes: 429730
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50111
-
-### Performance issues
-
 
 ### Performance issues
 

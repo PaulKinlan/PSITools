@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.youtips777.com/callofatlantis/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Call of Atlantis Premium Site - Playrix Games](http://www.youtips777.com/callofatlantis/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.youtips777.com/callofatlantis/index.html
 *  JS Response Bytes: 523513
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

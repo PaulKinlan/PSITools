@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://flip-o-matic.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flip-O-Matic - Flip any text Upside down](http://flip-o-matic.net/)
 
@@ -29,9 +33,6 @@ title: http://flip-o-matic.net/
 *  JS Response Bytes: 511743
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 128098
-
-### Performance issues
-
 
 ### Performance issues
 

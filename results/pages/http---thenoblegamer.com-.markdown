@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://thenoblegamer.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [借り入れ入門 - 誕生から未来へ](http://thenoblegamer.com/)
 
@@ -29,9 +33,6 @@ title: http://thenoblegamer.com/
 *  JS Response Bytes: 3530
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1722
-
-### Performance issues
-
 
 ### Performance issues
 

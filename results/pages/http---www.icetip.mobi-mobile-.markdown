@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.icetip.mobi/mobile/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Icetip.mobi - Create a mobile app in 5 minutes!](http://www.icetip.mobi/mobile/)
 
@@ -29,9 +32,6 @@ title: http://www.icetip.mobi/mobile/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 75858
-
-### Performance issues
-
 
 ### Performance issues
 

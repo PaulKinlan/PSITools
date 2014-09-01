@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://literably.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Literably: the easiest reading assessment](https://literably.com/)
 
@@ -29,9 +33,6 @@ title: https://literably.com/
 *  JS Response Bytes: 894065
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50004
-
-### Performance issues
-
 
 ### Performance issues
 

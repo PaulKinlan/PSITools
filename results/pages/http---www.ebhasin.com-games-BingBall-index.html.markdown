@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ebhasin.com/games/BingBall/index.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bing-Ball](http://www.ebhasin.com/games/BingBall/index.html)
 
@@ -29,9 +34,6 @@ title: http://www.ebhasin.com/games/BingBall/index.html
 *  JS Response Bytes: 1371955
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113048
-
-### Performance issues
-
 
 ### Performance issues
 

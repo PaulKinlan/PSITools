@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://show.sodao.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [美女秀场 – 分享我的生活乐趣](http://show.sodao.com/)
 
@@ -29,9 +34,6 @@ title: http://show.sodao.com/
 *  JS Response Bytes: 618392
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1501
-
-### Performance issues
-
 
 ### Performance issues
 

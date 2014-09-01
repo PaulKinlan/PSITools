@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tienlen.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Thirteen Cards - Tien Len - Thirteen Card Games](http://www.tienlen.net/)
 
@@ -29,9 +34,6 @@ title: http://www.tienlen.net/
 *  JS Response Bytes: 347697
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 408
-
-### Performance issues
-
 
 ### Performance issues
 

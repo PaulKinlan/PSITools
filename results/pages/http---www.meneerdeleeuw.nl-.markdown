@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.meneerdeleeuw.nl/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Meneer de Leeuw, werkplaats voor innovatie en maatschappelijke verandering](http://www.meneerdeleeuw.nl/)
 
@@ -29,9 +33,6 @@ title: http://www.meneerdeleeuw.nl/
 *  JS Response Bytes: 509916
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1129
-
-### Performance issues
-
 
 ### Performance issues
 

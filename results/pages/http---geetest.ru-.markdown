@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://geetest.ru/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gee Test - тесты онлайн](http://geetest.ru/)
 
@@ -29,9 +32,6 @@ title: http://geetest.ru/
 *  JS Response Bytes: 1233173
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31556
-
-### Performance issues
-
 
 ### Performance issues
 

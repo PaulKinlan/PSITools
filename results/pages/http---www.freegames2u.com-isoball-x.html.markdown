@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freegames2u.com/isoball-x.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Isoball X | Free Games 2U](http://www.freegames2u.com/isoball-x.html)
 
@@ -29,9 +34,6 @@ title: http://www.freegames2u.com/isoball-x.html
 *  JS Response Bytes: 1529131
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105437
-
-### Performance issues
-
 
 ### Performance issues
 

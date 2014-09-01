@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.barbie-games.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Barbie Games for Girls](http://www.barbie-games.com/)
 
@@ -18,7 +20,7 @@ title: http://www.barbie-games.com/
 *  Number of JS Resources: 8
 *  Number of CSS Resources: 9
 *  Nubmer of Static Resources: 29
-*  Total Request Bytes: 3943
+*  Total Request Bytes: 3944
 
 ### Response data
 
@@ -26,12 +28,9 @@ title: http://www.barbie-games.com/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 143875
 *  Image Response Bytes: 797368
-*  JS Response Bytes: 223169
+*  JS Response Bytes: 223167
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 104682
-
-### Performance issues
-
+*  Other Response Bytes: 104679
 
 ### Performance issues
 

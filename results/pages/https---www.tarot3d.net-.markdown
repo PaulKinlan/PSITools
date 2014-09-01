@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.tarot3d.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tarot3d Live Orakel / Tarot Studio](https://www.tarot3d.net/)
 
@@ -29,9 +33,6 @@ title: https://www.tarot3d.net/
 *  JS Response Bytes: 599234
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 385
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.aroggame.com/default-category/counter-strike-online-cs
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Counter-Strike-Online CS - Aroggame.com](http://www.aroggame.com/default-category/counter-strike-online-cs)
 
@@ -29,9 +34,6 @@ title: http://www.aroggame.com/default-category/counter-strike-online-cs
 *  JS Response Bytes: 2243281
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 126120
-
-### Performance issues
-
 
 ### Performance issues
 

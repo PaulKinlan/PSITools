@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://app.rapid-invoice.biz/Pages/Login/UserLogin.aspx?pLang=S_DE
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rapid Invoice - Login](https://app.rapid-invoice.biz/Pages/Login/UserLogin.aspx?pLang=S_DE)
 
@@ -29,9 +34,6 @@ title: https://app.rapid-invoice.biz/Pages/Login/UserLogin.aspx?pLang=S_DE
 *  JS Response Bytes: 307604
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

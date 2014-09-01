@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.chefsatwork.net/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hotel Consultant | Restaurant Consultant | Food Court Consultant | Resort and Mall Consultant| Chefs](http://www.chefsatwork.net/)
 
@@ -29,9 +33,6 @@ title: http://www.chefsatwork.net/
 *  JS Response Bytes: 409769
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 601
-
-### Performance issues
-
 
 ### Performance issues
 

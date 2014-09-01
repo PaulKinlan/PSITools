@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://pad.msxf.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [陌上香坊-PAD版](http://pad.msxf.net/)
 
@@ -29,9 +33,6 @@ title: http://pad.msxf.net/
 *  JS Response Bytes: 72129
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 651
-
-### Performance issues
-
 
 ### Performance issues
 

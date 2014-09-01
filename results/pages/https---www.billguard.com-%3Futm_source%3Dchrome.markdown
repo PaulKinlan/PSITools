@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://www.billguard.com/?utm_source=chrome
+MinimizeRenderBlockingResources: true
 ---
 ## [BillGuard - Personal Finance | Budget | Money Management | Money App](https://www.billguard.com/?utm_source=chrome)
 
@@ -29,9 +30,6 @@ title: https://www.billguard.com/?utm_source=chrome
 *  JS Response Bytes: 152896
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 74761
-
-### Performance issues
-
 
 ### Performance issues
 

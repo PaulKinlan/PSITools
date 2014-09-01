@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sites.google.com/site/appearclub/Interest/PaintWorld-2
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [找不到頁面 - lineclub](https://sites.google.com/site/appearclub/Interest/PaintWorld-2)
 
@@ -29,9 +32,6 @@ title: https://sites.google.com/site/appearclub/Interest/PaintWorld-2
 *  JS Response Bytes: 657574
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28294
-
-### Performance issues
-
 
 ### Performance issues
 

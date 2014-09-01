@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.onlinegameseek.com/fruit-ninja.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fruit Ninja | Online Game Seek](http://www.onlinegameseek.com/fruit-ninja.html)
 
@@ -29,9 +37,6 @@ title: http://www.onlinegameseek.com/fruit-ninja.html
 *  JS Response Bytes: 1918112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119682
-
-### Performance issues
-
 
 ### Performance issues
 

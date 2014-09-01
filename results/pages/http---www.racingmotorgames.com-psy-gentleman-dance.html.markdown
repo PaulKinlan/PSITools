@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.racingmotorgames.com/psy-gentleman-dance.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PSY Gentleman Dance | RACİNGMOTORGAMES](http://www.racingmotorgames.com/psy-gentleman-dance.html)
 
@@ -29,9 +34,6 @@ title: http://www.racingmotorgames.com/psy-gentleman-dance.html
 *  JS Response Bytes: 1533650
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96113
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.chminigames.com/funnyfaces/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://www.chminigames.com/funnyfaces/)
 
@@ -29,9 +31,6 @@ title: http://www.chminigames.com/funnyfaces/
 *  JS Response Bytes: 680526
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15638
-
-### Performance issues
-
 
 ### Performance issues
 

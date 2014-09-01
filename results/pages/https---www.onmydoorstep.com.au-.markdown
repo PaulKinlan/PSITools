@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://www.onmydoorstep.com.au/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Everything That's Happening Nearby : On My Doorstep](https://www.onmydoorstep.com.au/)
 
@@ -29,9 +35,6 @@ title: https://www.onmydoorstep.com.au/
 *  JS Response Bytes: 391356
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 378
-
-### Performance issues
-
 
 ### Performance issues
 

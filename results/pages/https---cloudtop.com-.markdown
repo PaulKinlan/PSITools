@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://cloudtop.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [CloudTop - Cloud Web Desktop](https://cloudtop.com/)
 
@@ -29,9 +34,6 @@ title: https://cloudtop.com/
 *  JS Response Bytes: 6935953
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

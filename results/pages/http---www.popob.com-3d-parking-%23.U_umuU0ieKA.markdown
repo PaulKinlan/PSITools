@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.popob.com/3d-parking/#.U_umuU0ieKA
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Parking – PoPoB Game Area](http://www.popob.com/3d-parking/#.U_umuU0ieKA)
 
@@ -29,9 +33,6 @@ title: http://www.popob.com/3d-parking/#.U_umuU0ieKA
 *  JS Response Bytes: 1280954
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156457
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.mutantzombiemonsters.com/index.php
+MinimizeRenderBlockingResources: true
 ---
 ## [Mutant Zombie Monsters - Free Mobile Game](http://www.mutantzombiemonsters.com/index.php)
 
@@ -29,9 +30,6 @@ title: http://www.mutantzombiemonsters.com/index.php
 *  JS Response Bytes: 1727492
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

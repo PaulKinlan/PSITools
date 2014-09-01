@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://tottepost.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [tottepost - Single Tap Camera for Sharing Photo&Video -](http://tottepost.com/)
 
@@ -29,9 +34,6 @@ title: http://tottepost.com/
 *  JS Response Bytes: 2697552
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3536
-
-### Performance issues
-
 
 ### Performance issues
 

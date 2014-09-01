@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fitnessbliss.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FitnessBliss | Take Control of your Workout Routines](http://www.fitnessbliss.com/)
 
@@ -29,9 +34,6 @@ title: http://www.fitnessbliss.com/
 *  JS Response Bytes: 959115
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95547
-
-### Performance issues
-
 
 ### Performance issues
 

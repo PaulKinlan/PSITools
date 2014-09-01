@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.apetrov.org/lions/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Andrey Petrov](http://www.apetrov.org/lions/)
 
@@ -29,9 +33,6 @@ title: http://www.apetrov.org/lions/
 *  JS Response Bytes: 219553
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

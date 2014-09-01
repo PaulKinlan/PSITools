@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.ivigames.com/minion-rush.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [iviGames.Com | Flash Game – Minion Rush](http://www.ivigames.com/minion-rush.html)
 
@@ -29,9 +36,6 @@ title: http://www.ivigames.com/minion-rush.html
 *  JS Response Bytes: 1160287
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27518
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/618950/?autoAction=true&sId=Chrome_Webstore_Nov12_618950
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Natalie Brooks The Treasure of the Lost Kingdom for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/618950/?autoAction=true&sId=Chrome_Webstore_Nov12_618950)
 
@@ -29,9 +34,6 @@ title: http://www.freeridegames.com/chrome/games/618950/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1470094
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54532
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://mezclaconfusa.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [@fmbalvarez](http://mezclaconfusa.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://mezclaconfusa.blogspot.com/?m=1
 *  JS Response Bytes: 255780
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 928
-
-### Performance issues
-
 
 ### Performance issues
 

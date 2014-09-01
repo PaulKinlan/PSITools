@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.busrapirlanta.com.tr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Büşra Pırlanta](http://www.busrapirlanta.com.tr/)
 
@@ -29,9 +32,6 @@ title: http://www.busrapirlanta.com.tr/
 *  JS Response Bytes: 1099489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45835
-
-### Performance issues
-
 
 ### Performance issues
 

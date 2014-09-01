@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://clovercast.com/demo/index.php
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://clovercast.com/demo/index.php)
 
@@ -29,9 +30,6 @@ title: http://clovercast.com/demo/index.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1214
-
-### Performance issues
-
 
 ### Performance issues
 

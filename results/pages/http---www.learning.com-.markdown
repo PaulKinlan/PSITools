@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.learning.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learning.com - Learning.com | Digital Curriculum & Assessments, EasyTech, Inquiry](http://www.learning.com/)
 
@@ -29,9 +35,6 @@ title: http://www.learning.com/
 *  JS Response Bytes: 650069
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

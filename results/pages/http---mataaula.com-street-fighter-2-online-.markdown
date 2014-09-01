@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://mataaula.com/street-fighter-2-online/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Street Fighter 2 Online Game](http://mataaula.com/street-fighter-2-online/)
 
@@ -29,9 +34,6 @@ title: http://mataaula.com/street-fighter-2-online/
 *  JS Response Bytes: 2052196
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 158935
-
-### Performance issues
-
 
 ### Performance issues
 

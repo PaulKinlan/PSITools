@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://cloudygame.com/#play/super-mario-bros-2-flash/50
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Cloudy games | play fun games ;)](http://cloudygame.com/#play/super-mario-bros-2-flash/50)
 
@@ -29,9 +34,6 @@ title: http://cloudygame.com/#play/super-mario-bros-2-flash/50
 *  JS Response Bytes: 1676260
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 473376
-
-### Performance issues
-
 
 ### Performance issues
 

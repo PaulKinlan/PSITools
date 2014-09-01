@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://about.me/egermano
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Bruno Germano - São Paulo, Brazil | about.me](http://about.me/egermano)
 
@@ -29,9 +33,6 @@ title: http://about.me/egermano
 *  JS Response Bytes: 943526
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 89
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://picturethis.rftphoto.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Remi Federico Tobar](http://picturethis.rftphoto.com/)
 
@@ -29,9 +32,6 @@ title: http://picturethis.rftphoto.com/
 *  JS Response Bytes: 164740
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 67393
-
-### Performance issues
-
 
 ### Performance issues
 

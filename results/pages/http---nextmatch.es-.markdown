@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://nextmatch.es/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Next Matches | What time´s the game?](http://nextmatch.es/)
 
@@ -29,9 +31,6 @@ title: http://nextmatch.es/
 *  JS Response Bytes: 1073801
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15400
-
-### Performance issues
-
 
 ### Performance issues
 

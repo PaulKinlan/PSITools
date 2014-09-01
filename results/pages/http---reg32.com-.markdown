@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://reg32.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mobile Phone News, Reviews and Specifications - Mobile Apps News](http://reg32.com/)
 
@@ -29,9 +34,6 @@ title: http://reg32.com/
 *  JS Response Bytes: 168228
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17239
-
-### Performance issues
-
 
 ### Performance issues
 

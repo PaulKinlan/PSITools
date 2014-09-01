@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://segovianos.es/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Segovianos.es](http://segovianos.es/)
 
@@ -29,9 +31,6 @@ title: http://segovianos.es/
 *  JS Response Bytes: 27632
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

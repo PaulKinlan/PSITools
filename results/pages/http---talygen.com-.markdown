@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://talygen.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Time Tracking Tool | Time Tracking Software – Talygen](http://talygen.com/)
 
@@ -29,9 +34,6 @@ title: http://talygen.com/
 *  JS Response Bytes: 419793
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2874
-
-### Performance issues
-
 
 ### Performance issues
 

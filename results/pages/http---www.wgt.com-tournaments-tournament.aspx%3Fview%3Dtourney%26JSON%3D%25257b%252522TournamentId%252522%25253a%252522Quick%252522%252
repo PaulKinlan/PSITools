@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.wgt.com/tournaments/tournament.aspx?view=tourney&JSON=%257b%2522TournamentId%2522%253a%2522Quick%2522%252c%2522GameType%2522%253a%25222%2522%252c%2522GameCourseId%2522%253a%2522STA_09_SC_02%2522%252c%2522TournamentDefinitionUrl%2522%253a%2522assets%252ftournament%252fall%2522%257d&utm_source=chrome&utm_medium=app&utm_campaign=challenge&ch_app=ctth&ch_ver=45.0.0
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [World Golf Tour - Free Online Golf Game - Play Famous Golf Courses](http://www.wgt.com/tournaments/tournament.aspx?view=tourney&JSON=%257b%2522TournamentId%2522%253a%2522Quick%2522%252c%2522GameType%2522%253a%25222%2522%252c%2522GameCourseId%2522%253a%2522STA_09_SC_02%2522%252c%2522TournamentDefinitionUrl%2522%253a%2522assets%252ftournament%252fall%2522%257d&utm_source=chrome&utm_medium=app&utm_campaign=challenge&ch_app=ctth&ch_ver=45.0.0)
 
@@ -29,9 +34,6 @@ title: http://www.wgt.com/tournaments/tournament.aspx?view=tourney&JSON=%257b%25
 *  JS Response Bytes: 436558
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6752
-
-### Performance issues
-
 
 ### Performance issues
 

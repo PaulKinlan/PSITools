@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.learningcomputing.co.uk/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [learningcomputing](http://www.learningcomputing.co.uk/)
 
@@ -29,9 +34,6 @@ title: http://www.learningcomputing.co.uk/
 *  JS Response Bytes: 453414
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

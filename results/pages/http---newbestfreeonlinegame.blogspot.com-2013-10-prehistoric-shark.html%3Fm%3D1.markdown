@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://newbestfreeonlinegame.blogspot.com/2013/10/prehistoric-shark.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [New Best Free Online Game](http://newbestfreeonlinegame.blogspot.com/2013/10/prehistoric-shark.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://newbestfreeonlinegame.blogspot.com/2013/10/prehistoric-shark.html?
 *  JS Response Bytes: 1291120
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110279
-
-### Performance issues
-
 
 ### Performance issues
 

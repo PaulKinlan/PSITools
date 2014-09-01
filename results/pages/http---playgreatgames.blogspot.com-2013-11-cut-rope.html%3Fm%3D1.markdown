@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://playgreatgames.blogspot.com/2013/11/cut-rope.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play great games: Cut The Rope](http://playgreatgames.blogspot.com/2013/11/cut-rope.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://playgreatgames.blogspot.com/2013/11/cut-rope.html?m=1
 *  JS Response Bytes: 971675
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287152
-
-### Performance issues
-
 
 ### Performance issues
 

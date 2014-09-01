@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.techlifeblog.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tech Life Blog](http://www.techlifeblog.com/)
 
@@ -29,9 +32,6 @@ title: http://www.techlifeblog.com/
 *  JS Response Bytes: 248587
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8284
-
-### Performance issues
-
 
 ### Performance issues
 

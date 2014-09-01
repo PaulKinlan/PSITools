@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.burrp.com/express
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [404 - page not found](http://m.burrp.com/express)
 
@@ -29,9 +33,6 @@ title: http://m.burrp.com/express
 *  JS Response Bytes: 435067
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41971
-
-### Performance issues
-
 
 ### Performance issues
 

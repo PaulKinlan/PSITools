@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.flashchromegames.com/blackjack.html
+SizeTapTargetsAppropriately: true
 ---
 ## [flashchromegames.com](http://ww2.flashchromegames.com/blackjack.html)
 
@@ -29,9 +30,6 @@ title: http://ww2.flashchromegames.com/blackjack.html
 *  JS Response Bytes: 229920
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21043
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.childroad.com/s/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [ChildRoad Read-N-Listen Chinese Digital Library](https://www.childroad.com/s/)
 
@@ -29,9 +34,6 @@ title: https://www.childroad.com/s/
 *  JS Response Bytes: 93099
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1216
-
-### Performance issues
-
 
 ### Performance issues
 

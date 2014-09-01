@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://collectionofcricketgamess.blogspot.in/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Cricket Games](http://collectionofcricketgamess.blogspot.in/?m=1)
 
@@ -29,9 +31,6 @@ title: http://collectionofcricketgamess.blogspot.in/?m=1
 *  JS Response Bytes: 789625
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287132
-
-### Performance issues
-
 
 ### Performance issues
 

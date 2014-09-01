@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pxlpnt.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [pxlpnt.com](http://www.pxlpnt.com/)
 
@@ -29,9 +33,6 @@ title: http://www.pxlpnt.com/
 *  JS Response Bytes: 173157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 209
-
-### Performance issues
-
 
 ### Performance issues
 

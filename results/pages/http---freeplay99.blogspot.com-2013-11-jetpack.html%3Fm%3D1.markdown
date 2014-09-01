@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://freeplay99.blogspot.com/2013/11/jetpack.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free online card puzzle casino games: Jetpack](http://freeplay99.blogspot.com/2013/11/jetpack.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://freeplay99.blogspot.com/2013/11/jetpack.html?m=1
 *  JS Response Bytes: 971679
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287144
-
-### Performance issues
-
 
 ### Performance issues
 

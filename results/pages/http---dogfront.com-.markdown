@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://dogfront.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dogfront - Dog licking screen!](http://dogfront.com/)
 
@@ -29,9 +34,6 @@ title: http://dogfront.com/
 *  JS Response Bytes: 1025831
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95743
-
-### Performance issues
-
 
 ### Performance issues
 

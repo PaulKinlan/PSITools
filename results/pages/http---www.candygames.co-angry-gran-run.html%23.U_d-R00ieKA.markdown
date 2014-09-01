@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.candygames.co/angry-gran-run.html#.U_d-R00ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Angry Gran Run, a free online game at Candy Games - Candy Games](http://www.candygames.co/angry-gran-run.html#.U_d-R00ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.candygames.co/angry-gran-run.html#.U_d-R00ieKA
 *  JS Response Bytes: 1359667
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 135555
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.rpgobjects.com/tiamat/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tiamat the Tile Mapper (v15)](http://www.rpgobjects.com/tiamat/)
 
@@ -29,9 +33,6 @@ title: http://www.rpgobjects.com/tiamat/
 *  JS Response Bytes: 362111
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

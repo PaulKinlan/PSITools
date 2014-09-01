@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.bergames.club/?s=asphalt+8
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [asphalt 8 – Search Results – Online Best Games](http://www.bergames.club/?s=asphalt+8)
 
@@ -29,9 +34,6 @@ title: http://www.bergames.club/?s=asphalt+8
 *  JS Response Bytes: 718335
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

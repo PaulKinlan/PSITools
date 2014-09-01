@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.rakuten.co.jp/?scid=af_sp_afb_003557&sc2id=317495012
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [楽天市場](http://www.rakuten.co.jp/?scid=af_sp_afb_003557&sc2id=317495012)
 
@@ -29,9 +33,6 @@ title: http://www.rakuten.co.jp/?scid=af_sp_afb_003557&sc2id=317495012
 *  JS Response Bytes: 721627
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5552
-
-### Performance issues
-
 
 ### Performance issues
 

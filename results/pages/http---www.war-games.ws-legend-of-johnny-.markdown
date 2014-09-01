@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/legend-of-johnny/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Legend Of Johnny](http://www.war-games.ws/legend-of-johnny/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/legend-of-johnny/
 *  JS Response Bytes: 2196051
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115919
-
-### Performance issues
-
 
 ### Performance issues
 

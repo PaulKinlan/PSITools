@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://worldcountries.beamappzone.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [World Countries (Countries Of The World)](http://worldcountries.beamappzone.com/)
 
@@ -29,9 +33,6 @@ title: http://worldcountries.beamappzone.com/
 *  JS Response Bytes: 975132
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14587
-
-### Performance issues
-
 
 ### Performance issues
 

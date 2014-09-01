@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gdgt.io/tools/imageconverter
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Online Image Converter - gdgt.io](http://www.gdgt.io/tools/imageconverter)
 
@@ -29,9 +32,6 @@ title: http://www.gdgt.io/tools/imageconverter
 *  JS Response Bytes: 1621274
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121068
-
-### Performance issues
-
 
 ### Performance issues
 

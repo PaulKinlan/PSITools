@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/648250/?autoAction=true&sId=Chrome_Webstore_Nov12_648250&actid=Chrome_Webstore_648250
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Build-a-lot 4: Power Source for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/648250/?autoAction=true&sId=Chrome_Webstore_Nov12_648250&actid=Chrome_Webstore_648250)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/648250/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1434780
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21979
-
-### Performance issues
-
 
 ### Performance issues
 

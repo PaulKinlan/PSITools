@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.bestgameplays.com/angry-birds-star-wars.html
+SizeTapTargetsAppropriately: true
 ---
 ## [bestgameplays.com](http://ww2.bestgameplays.com/angry-birds-star-wars.html)
 
@@ -29,9 +30,6 @@ title: http://ww2.bestgameplays.com/angry-birds-star-wars.html
 *  JS Response Bytes: 229839
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21077
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.aegame.in/candy-crush/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Candy Crush saga online play game - A online game online](http://www.aegame.in/candy-crush/)
 
@@ -29,9 +34,6 @@ title: http://www.aegame.in/candy-crush/
 *  JS Response Bytes: 1736362
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 178256
-
-### Performance issues
-
 
 ### Performance issues
 

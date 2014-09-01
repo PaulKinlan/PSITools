@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://e-pao.org/subsite/mobile/index.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [E-Pao :: Complete e-platform for Manipuris](http://e-pao.org/subsite/mobile/index.php)
 
@@ -29,9 +33,6 @@ title: http://e-pao.org/subsite/mobile/index.php
 *  JS Response Bytes: 223470
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15962
-
-### Performance issues
-
 
 ### Performance issues
 

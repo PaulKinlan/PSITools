@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.3orodegy.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [عروض ايجى - ..من غير مشاوير .. عروض التوفير](http://www.3orodegy.com/)
 
@@ -29,9 +32,6 @@ title: http://www.3orodegy.com/
 *  JS Response Bytes: 2576496
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 306651
-
-### Performance issues
-
 
 ### Performance issues
 

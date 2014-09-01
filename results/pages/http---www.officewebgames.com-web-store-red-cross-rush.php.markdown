@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.officewebgames.com/web-store/red-cross-rush.php
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [- Free Games Online, Free Online Games, Flash Games!](http://www.officewebgames.com/web-store/red-cross-rush.php)
 
@@ -29,9 +35,6 @@ title: http://www.officewebgames.com/web-store/red-cross-rush.php
 *  JS Response Bytes: 1328889
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109929
-
-### Performance issues
-
 
 ### Performance issues
 

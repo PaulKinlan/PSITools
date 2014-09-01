@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww1.chromegameplay.com/counter-strike/
+MinimizeRenderBlockingResources: true
 ---
 ## [chromegameplay.com - chromegameplay Resources and Information. This website is for sale!](http://ww1.chromegameplay.com/counter-strike/)
 
@@ -29,9 +30,6 @@ title: http://ww1.chromegameplay.com/counter-strike/
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 228
-
-### Performance issues
-
 
 ### Performance issues
 

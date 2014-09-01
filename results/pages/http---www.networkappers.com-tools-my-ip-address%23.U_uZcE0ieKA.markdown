@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.networkappers.com/tools/my-ip-address#.U_uZcE0ieKA
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [My IP Address :: Tools :: NetworkAppers](http://www.networkappers.com/tools/my-ip-address#.U_uZcE0ieKA)
 
@@ -29,9 +32,6 @@ title: http://www.networkappers.com/tools/my-ip-address#.U_uZcE0ieKA
 *  JS Response Bytes: 1711853
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 62852
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://playmychromev1.blogspot.com/2013/06/temple-run-2.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [Play My Chrome v1: Temple Run 2](http://playmychromev1.blogspot.com/2013/06/temple-run-2.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://playmychromev1.blogspot.com/2013/06/temple-run-2.html?m=1
 *  JS Response Bytes: 1067960
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97985
-
-### Performance issues
-
 
 ### Performance issues
 

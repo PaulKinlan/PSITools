@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.lovesdata.com/blog/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Marketing and Digital Analytics Blog – Loves Data](http://www.lovesdata.com/blog/)
 
@@ -29,9 +34,6 @@ title: http://www.lovesdata.com/blog/
 *  JS Response Bytes: 1353462
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 288032
-
-### Performance issues
-
 
 ### Performance issues
 

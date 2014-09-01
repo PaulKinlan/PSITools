@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/game/name/clear-vision-5
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [clear-vision-5 Addicting Games](http://www.2addictinggames.com/games/game/name/clear-vision-5)
 
@@ -29,9 +36,6 @@ title: http://www.2addictinggames.com/games/game/name/clear-vision-5
 *  JS Response Bytes: 1828026
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96753
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://kawairun2.jeddahbikers.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kawairun 2 - JeddahBikers Games](http://kawairun2.jeddahbikers.com/)
 
@@ -29,9 +33,6 @@ title: http://kawairun2.jeddahbikers.com/
 *  JS Response Bytes: 1888385
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46761
-
-### Performance issues
-
 
 ### Performance issues
 

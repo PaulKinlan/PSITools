@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.lawteacher.net/oscola-referencing/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [OSCOLA Referencing Generator | Law Teacher](http://www.lawteacher.net/oscola-referencing/)
 
@@ -29,9 +33,6 @@ title: http://www.lawteacher.net/oscola-referencing/
 *  JS Response Bytes: 530750
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13414
-
-### Performance issues
-
 
 ### Performance issues
 

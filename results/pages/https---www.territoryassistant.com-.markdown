@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.territoryassistant.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Territory Management Software for Jehovah's Witnesses JW](https://www.territoryassistant.com/)
 
@@ -29,9 +33,6 @@ title: https://www.territoryassistant.com/
 *  JS Response Bytes: 835285
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1384
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.exgor.com/quick-start/
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.exgor.com/quick-start/)
 
@@ -29,9 +32,6 @@ title: http://www.exgor.com/quick-start/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

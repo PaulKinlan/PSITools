@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://geological-supplies.com/nlife/control.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Worship Slide Control | Newlife Church Toronto](http://geological-supplies.com/nlife/control.html)
 
@@ -29,9 +32,6 @@ title: http://geological-supplies.com/nlife/control.html
 *  JS Response Bytes: 210513
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

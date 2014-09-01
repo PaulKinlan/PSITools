@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ww38.angrygamezone.com/draw-something/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [angrygamezone.com](http://ww38.angrygamezone.com/draw-something/)
 
@@ -29,9 +33,6 @@ title: http://ww38.angrygamezone.com/draw-something/
 *  JS Response Bytes: 209105
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 228
-
-### Performance issues
-
 
 ### Performance issues
 

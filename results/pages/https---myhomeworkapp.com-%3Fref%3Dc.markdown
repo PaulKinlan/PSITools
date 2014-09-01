@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://myhomeworkapp.com/?ref=c
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [myHomework Student Planner App](https://myhomeworkapp.com/?ref=c)
 
@@ -29,9 +32,6 @@ title: https://myhomeworkapp.com/?ref=c
 *  JS Response Bytes: 444892
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 348
-
-### Performance issues
-
 
 ### Performance issues
 

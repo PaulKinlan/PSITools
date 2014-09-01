@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://sharebox.tools.pixelowner.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Sharebox](http://sharebox.tools.pixelowner.com/)
 
@@ -29,9 +31,6 @@ title: http://sharebox.tools.pixelowner.com/
 *  JS Response Bytes: 154891
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

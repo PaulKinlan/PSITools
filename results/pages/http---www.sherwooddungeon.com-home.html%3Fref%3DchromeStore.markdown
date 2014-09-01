@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.sherwooddungeon.com/home.html?ref=chromeStore
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free MMORPG at SherwoodDungeon.com - Free Massive Multiplayer Online Role Playing Game](http://www.sherwooddungeon.com/home.html?ref=chromeStore)
 
@@ -29,9 +36,6 @@ title: http://www.sherwooddungeon.com/home.html?ref=chromeStore
 *  JS Response Bytes: 1050414
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15768
-
-### Performance issues
-
 
 ### Performance issues
 

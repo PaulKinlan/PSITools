@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://drive3d.hermanbergwerf.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
 ---
 ## [Drive3D](http://drive3d.hermanbergwerf.com/)
 
@@ -29,9 +32,6 @@ title: http://drive3d.hermanbergwerf.com/
 *  JS Response Bytes: 929895
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33834
-
-### Performance issues
-
 
 ### Performance issues
 

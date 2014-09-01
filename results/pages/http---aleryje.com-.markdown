@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://aleryje.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ale Ryje | Fun day for you](http://aleryje.com/)
 
@@ -29,9 +35,6 @@ title: http://aleryje.com/
 *  JS Response Bytes: 3321539
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105688
-
-### Performance issues
-
 
 ### Performance issues
 

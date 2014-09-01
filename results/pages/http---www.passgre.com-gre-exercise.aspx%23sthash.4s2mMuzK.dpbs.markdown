@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.passgre.com/gre/exercise.aspx#sthash.4s2mMuzK.dpbs
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GRE Exercise: Verbal Reasoning, Reading Comprehension - 1](http://www.passgre.com/gre/exercise.aspx#sthash.4s2mMuzK.dpbs)
 
@@ -29,9 +34,6 @@ title: http://www.passgre.com/gre/exercise.aspx#sthash.4s2mMuzK.dpbs
 *  JS Response Bytes: 1063018
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15714
-
-### Performance issues
-
 
 ### Performance issues
 

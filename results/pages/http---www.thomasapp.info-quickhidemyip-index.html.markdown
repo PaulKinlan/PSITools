@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.thomasapp.info/quickhidemyip/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Quick Hide My IP - Best Hide Your IP Address App - Download FREE](http://www.thomasapp.info/quickhidemyip/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.thomasapp.info/quickhidemyip/index.html
 *  JS Response Bytes: 1066600
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112087
-
-### Performance issues
-
 
 ### Performance issues
 

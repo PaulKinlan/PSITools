@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gametoplay.info/action-2/minecraft-tower-defense-game/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Minecraft Tower Defense Game](http://gametoplay.info/action-2/minecraft-tower-defense-game/)
 
@@ -29,9 +35,6 @@ title: http://gametoplay.info/action-2/minecraft-tower-defense-game/
 *  JS Response Bytes: 1950379
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4979
-
-### Performance issues
-
 
 ### Performance issues
 

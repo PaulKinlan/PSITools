@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://rounding.hcscsupport.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rounding Tools](https://rounding.hcscsupport.com/)
 
@@ -29,9 +33,6 @@ title: https://rounding.hcscsupport.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33627
-
-### Performance issues
-
 
 ### Performance issues
 

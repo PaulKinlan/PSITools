@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://tarotbak.batcave.net/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tarot(Cihangir Cagatay)](http://tarotbak.batcave.net/)
 
@@ -29,9 +32,6 @@ title: http://tarotbak.batcave.net/
 *  JS Response Bytes: 539165
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94972
-
-### Performance issues
-
 
 ### Performance issues
 

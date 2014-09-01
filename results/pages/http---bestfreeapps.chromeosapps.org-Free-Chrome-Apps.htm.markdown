@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://bestfreeapps.chromeosapps.org/Free-Chrome-Apps.htm
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Apps](http://bestfreeapps.chromeosapps.org/Free-Chrome-Apps.htm)
 
@@ -29,9 +34,6 @@ title: http://bestfreeapps.chromeosapps.org/Free-Chrome-Apps.htm
 *  JS Response Bytes: 548745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14996
-
-### Performance issues
-
 
 ### Performance issues
 

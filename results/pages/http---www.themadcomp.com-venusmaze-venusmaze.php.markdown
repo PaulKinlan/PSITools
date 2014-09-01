@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.themadcomp.com/venusmaze/venusmaze.php
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Venus Maze](http://www.themadcomp.com/venusmaze/venusmaze.php)
 
@@ -29,9 +35,6 @@ title: http://www.themadcomp.com/venusmaze/venusmaze.php
 *  JS Response Bytes: 246331
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

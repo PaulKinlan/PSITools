@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://monbudget.hamelintechnologie.ca/index.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mon budget v1](http://monbudget.hamelintechnologie.ca/index.php)
 
@@ -29,9 +34,6 @@ title: http://monbudget.hamelintechnologie.ca/index.php
 *  JS Response Bytes: 1386
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48258
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://socialcash.co/?c
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SocialCash.co](http://socialcash.co/?c)
 
@@ -29,9 +33,6 @@ title: http://socialcash.co/?c
 *  JS Response Bytes: 199468
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1514
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://bestweb-apps.co.uk/Packman/index.asp
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Packman Free Games](http://bestweb-apps.co.uk/Packman/index.asp)
 
@@ -29,9 +33,6 @@ title: http://bestweb-apps.co.uk/Packman/index.asp
 *  JS Response Bytes: 388632
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1745
-
-### Performance issues
-
 
 ### Performance issues
 

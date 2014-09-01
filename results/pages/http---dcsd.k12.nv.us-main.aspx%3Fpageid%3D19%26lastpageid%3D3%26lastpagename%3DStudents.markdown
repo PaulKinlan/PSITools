@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://dcsd.k12.nv.us/main.aspx?pageid=19&lastpageid=3&lastpagename=Students
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Douglas County School District](http://dcsd.k12.nv.us/main.aspx?pageid=19&lastpageid=3&lastpagename=Students)
 
@@ -29,9 +33,6 @@ title: http://dcsd.k12.nv.us/main.aspx?pageid=19&lastpageid=3&lastpagename=Stude
 *  JS Response Bytes: 347620
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4152
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamefaro.info/index.php?task=view&id=508
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [play online games](http://www.gamefaro.info/index.php?task=view&id=508)
 
@@ -29,9 +33,6 @@ title: http://www.gamefaro.info/index.php?task=view&id=508
 *  JS Response Bytes: 282246
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2274
-
-### Performance issues
-
 
 ### Performance issues
 

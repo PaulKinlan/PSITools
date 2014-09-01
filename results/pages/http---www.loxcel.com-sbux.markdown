@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.loxcel.com/sbux
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Loxcel Geomatics — Canadian Cellular & Retail Sales Analysis](http://www.loxcel.com/sbux)
 
@@ -29,9 +33,6 @@ title: http://www.loxcel.com/sbux
 *  JS Response Bytes: 403921
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 88124
-
-### Performance issues
-
 
 ### Performance issues
 

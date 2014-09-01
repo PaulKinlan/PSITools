@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.onlinestorecanada.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [onlinestorecanada.com](http://www.onlinestorecanada.com/)
 
@@ -29,9 +30,6 @@ title: http://www.onlinestorecanada.com/
 *  JS Response Bytes: 229920
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20813
-
-### Performance issues
-
 
 ### Performance issues
 

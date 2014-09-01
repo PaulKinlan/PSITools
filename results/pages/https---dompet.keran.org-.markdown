@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://dompet.keran.org/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dompet KERaN | RealPOINT eWallet System](https://dompet.keran.org/)
 
@@ -29,9 +31,6 @@ title: https://dompet.keran.org/
 *  JS Response Bytes: 88341
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2589
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.catalogmachine.com/Account/SignIn?ReturnUrl=%2Fapp
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sign In | Catalog Machine](https://www.catalogmachine.com/Account/SignIn?ReturnUrl=%2Fapp)
 
@@ -29,9 +32,6 @@ title: https://www.catalogmachine.com/Account/SignIn?ReturnUrl=%2Fapp
 *  JS Response Bytes: 440679
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 241954
-
-### Performance issues
-
 
 ### Performance issues
 

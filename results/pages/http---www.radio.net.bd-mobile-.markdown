@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.radio.net.bd/mobile/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Radio from Bangladesh](http://www.radio.net.bd/mobile/)
 
@@ -29,9 +33,6 @@ title: http://www.radio.net.bd/mobile/
 *  JS Response Bytes: 1535084
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110611
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://e-vibe.net/?c=sp
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Radio stations from Spain [Free Internet Radio] / Listen Live](http://e-vibe.net/?c=sp)
 
@@ -29,9 +32,6 @@ title: http://e-vibe.net/?c=sp
 *  JS Response Bytes: 894606
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 81527
-
-### Performance issues
-
 
 ### Performance issues
 

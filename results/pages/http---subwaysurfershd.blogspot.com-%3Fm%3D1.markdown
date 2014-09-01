@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://subwaysurfershd.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [subwaysurfers](http://subwaysurfershd.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://subwaysurfershd.blogspot.com/?m=1
 *  JS Response Bytes: 790883
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287118
-
-### Performance issues
-
 
 ### Performance issues
 

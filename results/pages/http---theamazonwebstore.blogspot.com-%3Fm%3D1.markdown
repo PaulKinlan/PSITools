@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://theamazonwebstore.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [AMAZON](http://theamazonwebstore.blogspot.com/?m=1)
 
@@ -18,20 +21,17 @@ title: http://theamazonwebstore.blogspot.com/?m=1
 *  Number of JS Resources: 14
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 18
-*  Total Request Bytes: 4837
+*  Total Request Bytes: 4861
 
 ### Response data
 
-*  HTML Response Bytes: 130217
+*  HTML Response Bytes: 129154
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 29536
+*  CSS Response Bytes: 29535
 *  Image Response Bytes: 13404
-*  JS Response Bytes: 1604845
+*  JS Response Bytes: 1612041
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 98325
-
-### Performance issues
-
+*  Other Response Bytes: 98209
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.minijuegosenlinea.com/juegos-de-habilidad/ekobasket/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ekobasket en MinijuegosEnLinea.com](http://www.minijuegosenlinea.com/juegos-de-habilidad/ekobasket/)
 
@@ -29,9 +33,6 @@ title: http://www.minijuegosenlinea.com/juegos-de-habilidad/ekobasket/
 *  JS Response Bytes: 2118698
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 173499
-
-### Performance issues
-
 
 ### Performance issues
 

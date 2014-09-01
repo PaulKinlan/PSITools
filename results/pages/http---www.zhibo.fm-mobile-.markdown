@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.zhibo.fm/mobile/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Zhibo.fm | 网络电台 中国网络电台](http://www.zhibo.fm/mobile/)
 
@@ -29,9 +32,6 @@ title: http://www.zhibo.fm/mobile/
 *  JS Response Bytes: 1526777
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96710
-
-### Performance issues
-
 
 ### Performance issues
 

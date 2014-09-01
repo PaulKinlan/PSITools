@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://freechromegame.com/crash-drive-2-3d/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Crash drive 2 3D - Sports - 3d game, Car, Crash drive 2, Desert, Drive, Monster truck, Monstercar, Race, Unity 3d](http://freechromegame.com/crash-drive-2-3d/)
 
@@ -29,9 +33,6 @@ title: http://freechromegame.com/crash-drive-2-3d/
 *  JS Response Bytes: 1920096
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 153315
-
-### Performance issues
-
 
 ### Performance issues
 

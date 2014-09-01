@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://filmreviews.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Film Reviews ·](http://filmreviews.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://filmreviews.herokuapp.com/
 *  JS Response Bytes: 1599137
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 216878
-
-### Performance issues
-
 
 ### Performance issues
 

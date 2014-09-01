@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.mc2.sancaktepemt2.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [sancaktepemt2.com](http://ww2.mc2.sancaktepemt2.com/)
 
@@ -29,9 +30,6 @@ title: http://ww2.mc2.sancaktepemt2.com/
 *  JS Response Bytes: 229919
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21031
-
-### Performance issues
-
 
 ### Performance issues
 

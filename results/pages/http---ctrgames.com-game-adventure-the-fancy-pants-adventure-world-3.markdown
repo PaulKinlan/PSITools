@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ctrgames.com/game/adventure/the-fancy-pants-adventure-world-3
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ctrgames.com](http://ctrgames.com/game/adventure/the-fancy-pants-adventure-world-3)
 
@@ -29,9 +32,6 @@ title: http://ctrgames.com/game/adventure/the-fancy-pants-adventure-world-3
 *  JS Response Bytes: 209184
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

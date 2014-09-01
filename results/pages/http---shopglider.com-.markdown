@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://shopglider.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ShopGlider - grocery shopping lists, recipes and coupons online](http://shopglider.com/)
 
@@ -29,9 +33,6 @@ title: http://shopglider.com/
 *  JS Response Bytes: 991498
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2290
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.games2live.net/news/wheres-my-perry-guideline-and-tips
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Where's My Perry? Guideline and Tips - Free Online Games | Games2Live](http://www.games2live.net/news/wheres-my-perry-guideline-and-tips)
 
@@ -29,9 +34,6 @@ title: http://www.games2live.net/news/wheres-my-perry-guideline-and-tips
 *  JS Response Bytes: 2804024
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48898
-
-### Performance issues
-
 
 ### Performance issues
 

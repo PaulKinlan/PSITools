@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://article.fullstacks.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Daily, English vocabulary & Intellectual articles](http://article.fullstacks.net/)
 
@@ -29,9 +34,6 @@ title: http://article.fullstacks.net/
 *  JS Response Bytes: 1298530
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109913
-
-### Performance issues
-
 
 ### Performance issues
 

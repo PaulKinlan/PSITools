@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.smartlittlegames.com/reversi.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Smart Little Games - Online Strategy Games](http://www.smartlittlegames.com/reversi.html)
 
@@ -29,9 +34,6 @@ title: http://www.smartlittlegames.com/reversi.html
 *  JS Response Bytes: 505899
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1310
-
-### Performance issues
-
 
 ### Performance issues
 

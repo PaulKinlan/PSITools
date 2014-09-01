@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://jb-letmesee.appspot.com/letmesee_gdrive.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Let Me See](https://jb-letmesee.appspot.com/letmesee_gdrive.html)
 
@@ -29,9 +34,6 @@ title: https://jb-letmesee.appspot.com/letmesee_gdrive.html
 *  JS Response Bytes: 2539818
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7041
-
-### Performance issues
-
 
 ### Performance issues
 

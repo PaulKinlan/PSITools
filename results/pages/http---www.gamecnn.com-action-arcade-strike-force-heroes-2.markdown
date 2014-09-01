@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamecnn.com/action-arcade/strike-force-heroes-2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Strike Force Heroes 2 - GameCnn - Play Free! Play Online!](http://www.gamecnn.com/action-arcade/strike-force-heroes-2)
 
@@ -29,9 +35,6 @@ title: http://www.gamecnn.com/action-arcade/strike-force-heroes-2
 *  JS Response Bytes: 2567113
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114801
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://intern.seniorenheim-kronenhof.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [intern.seniorenheim-kronenhof.com](http://intern.seniorenheim-kronenhof.com/)
 
@@ -29,9 +33,6 @@ title: http://intern.seniorenheim-kronenhof.com/
 *  JS Response Bytes: 409250
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

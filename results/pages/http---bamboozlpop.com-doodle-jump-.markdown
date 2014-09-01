@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://bamboozlpop.com/doodle-jump/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Doodle Jump](http://bamboozlpop.com/doodle-jump/)
 
@@ -29,9 +34,6 @@ title: http://bamboozlpop.com/doodle-jump/
 *  JS Response Bytes: 2018861
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111532
-
-### Performance issues
-
 
 ### Performance issues
 

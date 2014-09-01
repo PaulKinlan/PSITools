@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://goalfinch.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [東京！性感エステを推す理由。](http://goalfinch.com/)
 
@@ -29,9 +33,6 @@ title: http://goalfinch.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

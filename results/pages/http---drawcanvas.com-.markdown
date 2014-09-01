@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://drawcanvas.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DrawCanvas - Collaborative Online Drawing](http://drawcanvas.com/)
 
@@ -29,9 +33,6 @@ title: http://drawcanvas.com/
 *  JS Response Bytes: 1338332
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102456
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/necrorun-2-0/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Necrorun 2.0](http://www.war-games.ws/necrorun-2-0/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/necrorun-2-0/
 *  JS Response Bytes: 2292979
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121053
-
-### Performance issues
-
 
 ### Performance issues
 

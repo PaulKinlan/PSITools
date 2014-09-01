@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://cupon.c0l.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Раздача бесплатных купонов на скидки! Налетай!](http://cupon.c0l.ru/)
 
@@ -29,9 +34,6 @@ title: http://cupon.c0l.ru/
 *  JS Response Bytes: 212936
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2196
-
-### Performance issues
-
 
 ### Performance issues
 

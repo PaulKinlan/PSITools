@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.djpod.fr/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Créer un podcast, hébergement podcast DJ, héberger podcasts créer podcast mix audio et video](http://www.djpod.fr/)
 
@@ -29,9 +32,6 @@ title: http://www.djpod.fr/
 *  JS Response Bytes: 1335165
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1236
-
-### Performance issues
-
 
 ### Performance issues
 

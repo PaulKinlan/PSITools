@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://occidentalfoods.webs.com/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [This website is frozen.](http://occidentalfoods.webs.com/)
 
@@ -29,9 +31,6 @@ title: http://occidentalfoods.webs.com/
 *  JS Response Bytes: 49906
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19385
-
-### Performance issues
-
 
 ### Performance issues
 

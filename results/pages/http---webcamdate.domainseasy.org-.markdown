@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://webcamdate.domainseasy.org/
+UseLegibleFontSizes: true
 ---
 ## [WebCamDate](http://webcamdate.domainseasy.org/)
 
@@ -29,9 +30,6 @@ title: http://webcamdate.domainseasy.org/
 *  JS Response Bytes: 343473
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111695
-
-### Performance issues
-
 
 ### Performance issues
 

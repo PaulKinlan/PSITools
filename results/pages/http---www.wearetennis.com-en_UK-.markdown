@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.wearetennis.com/en_UK/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [We Are Tennis - We Are Tennis: Get all the news of tennis, players & players, tournaments. ATP & WTA Ranking. Follow the games and the results of tennis live.](http://www.wearetennis.com/en_UK/)
 
@@ -29,9 +34,6 @@ title: http://www.wearetennis.com/en_UK/
 *  JS Response Bytes: 1458450
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98307
-
-### Performance issues
-
 
 ### Performance issues
 

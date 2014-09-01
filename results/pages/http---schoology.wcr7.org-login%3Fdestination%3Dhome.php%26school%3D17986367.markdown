@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://schoology.wcr7.org/login?destination=home.php&school=17986367
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login to Schoology](http://schoology.wcr7.org/login?destination=home.php&school=17986367)
 
@@ -29,9 +32,6 @@ title: http://schoology.wcr7.org/login?destination=home.php&school=17986367
 *  JS Response Bytes: 340596
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9048
-
-### Performance issues
-
 
 ### Performance issues
 

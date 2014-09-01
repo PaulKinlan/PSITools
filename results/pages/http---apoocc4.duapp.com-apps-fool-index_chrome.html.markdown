@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://apoocc4.duapp.com/apps/fool/index_chrome.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [阿普创新制造](http://apoocc4.duapp.com/apps/fool/index_chrome.html)
 
@@ -29,9 +32,6 @@ title: http://apoocc4.duapp.com/apps/fool/index_chrome.html
 *  JS Response Bytes: 123247
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

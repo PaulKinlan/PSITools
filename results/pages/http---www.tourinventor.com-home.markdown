@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.tourinventor.com/home
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [TourInventor: Build Memorable Experiences](http://www.tourinventor.com/home)
 
@@ -29,9 +31,6 @@ title: http://www.tourinventor.com/home
 *  JS Response Bytes: 702719
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 90558
-
-### Performance issues
-
 
 ### Performance issues
 

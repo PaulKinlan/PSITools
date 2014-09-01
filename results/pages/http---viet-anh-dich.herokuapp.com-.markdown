@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://viet-anh-dich.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Việt Anh Dịch](http://viet-anh-dich.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://viet-anh-dich.herokuapp.com/
 *  JS Response Bytes: 1472143
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110420
-
-### Performance issues
-
 
 ### Performance issues
 

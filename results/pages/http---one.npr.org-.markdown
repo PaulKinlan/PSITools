@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://one.npr.org/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [NPR One](http://one.npr.org/)
 
@@ -29,9 +31,6 @@ title: http://one.npr.org/
 *  JS Response Bytes: 827829
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1389
-
-### Performance issues
-
 
 ### Performance issues
 

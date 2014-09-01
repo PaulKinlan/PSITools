@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mingdao.com/m/default.htm
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [手机首页 明道 mingdao.com,新一代企业协作软件 企业2.0](http://www.mingdao.com/m/default.htm)
 
@@ -29,9 +32,6 @@ title: http://www.mingdao.com/m/default.htm
 *  JS Response Bytes: 213917
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 828
-
-### Performance issues
-
 
 ### Performance issues
 

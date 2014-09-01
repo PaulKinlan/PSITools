@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.newyearssolitaire.com/?chromestore=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [New Year's Solitaire](http://www.newyearssolitaire.com/?chromestore=1)
 
@@ -29,9 +31,6 @@ title: http://www.newyearssolitaire.com/?chromestore=1
 *  JS Response Bytes: 206911
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27540
-
-### Performance issues
-
 
 ### Performance issues
 

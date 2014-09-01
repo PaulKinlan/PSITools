@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://amc.pixtas.com/console.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [App management console](http://amc.pixtas.com/console.html)
 
@@ -29,9 +32,6 @@ title: http://amc.pixtas.com/console.html
 *  JS Response Bytes: 489410
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

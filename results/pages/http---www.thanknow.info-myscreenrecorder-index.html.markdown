@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.thanknow.info/myscreenrecorder/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [My Screen Recorder Pro - Capture PC Screen and Create Demos](http://www.thanknow.info/myscreenrecorder/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.thanknow.info/myscreenrecorder/index.html
 *  JS Response Bytes: 936243
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109057
-
-### Performance issues
-
 
 ### Performance issues
 

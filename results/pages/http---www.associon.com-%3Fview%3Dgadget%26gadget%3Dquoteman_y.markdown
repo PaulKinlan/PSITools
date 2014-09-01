@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.associon.com/?view=gadget&gadget=quoteman_y
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ASSOCION | GADGET : Quoteman (Y)](http://www.associon.com/?view=gadget&gadget=quoteman_y)
 
@@ -29,9 +32,6 @@ title: http://www.associon.com/?view=gadget&gadget=quoteman_y
 *  JS Response Bytes: 2814089
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 210408
-
-### Performance issues
-
 
 ### Performance issues
 

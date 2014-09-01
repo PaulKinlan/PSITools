@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.limundo.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Limundo - kupoprodaja preko Internet aukcija](http://www.limundo.com/)
 
@@ -29,9 +32,6 @@ title: http://www.limundo.com/
 *  JS Response Bytes: 163910
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1602
-
-### Performance issues
-
 
 ### Performance issues
 

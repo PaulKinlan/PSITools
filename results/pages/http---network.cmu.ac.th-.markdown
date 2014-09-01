@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://network.cmu.ac.th/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ฝ่ายระบบเครือข่ายคอมพิวเตอร์ | สำนักบริการเทคโนโลสารสนเทศ มหาวิทยาลัยเชียงใหม่](http://network.cmu.ac.th/)
 
@@ -29,9 +33,6 @@ title: http://network.cmu.ac.th/
 *  JS Response Bytes: 525308
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 181697
-
-### Performance issues
-
 
 ### Performance issues
 

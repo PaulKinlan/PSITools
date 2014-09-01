@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://damemory.nikhazy-dizajn.hu/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ákos Nikházy Things and Stuff](http://damemory.nikhazy-dizajn.hu/)
 
@@ -29,9 +34,6 @@ title: http://damemory.nikhazy-dizajn.hu/
 *  JS Response Bytes: 1201372
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 822
-
-### Performance issues
-
 
 ### Performance issues
 

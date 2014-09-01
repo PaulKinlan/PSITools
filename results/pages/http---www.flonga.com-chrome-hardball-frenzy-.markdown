@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.flonga.com/chrome/hardball-frenzy/
+UseLegibleFontSizes: true
 ---
 ## [404 - Flonga](http://www.flonga.com/chrome/hardball-frenzy/)
 
@@ -29,9 +30,6 @@ title: http://www.flonga.com/chrome/hardball-frenzy/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1193
-
-### Performance issues
-
 
 ### Performance issues
 

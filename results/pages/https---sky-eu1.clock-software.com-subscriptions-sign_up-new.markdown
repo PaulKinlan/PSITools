@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sky-eu1.clock-software.com/subscriptions/sign_up/new
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Clock PMS / Sign up / New](https://sky-eu1.clock-software.com/subscriptions/sign_up/new)
 
@@ -29,9 +32,6 @@ title: https://sky-eu1.clock-software.com/subscriptions/sign_up/new
 *  JS Response Bytes: 372312
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1300
-
-### Performance issues
-
 
 ### Performance issues
 

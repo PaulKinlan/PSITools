@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.douchegames.com/preload/sport/motocross-nitro
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Motocross Nitro - Play Game Douchbag!!!](http://www.douchegames.com/preload/sport/motocross-nitro)
 
@@ -29,9 +33,6 @@ title: http://www.douchegames.com/preload/sport/motocross-nitro
 *  JS Response Bytes: 182232
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1851
-
-### Performance issues
-
 
 ### Performance issues
 

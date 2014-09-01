@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.christopherdanielgifts.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [We've Moved!](http://www.christopherdanielgifts.com/)
 
@@ -22,16 +25,13 @@ title: http://www.christopherdanielgifts.com/
 
 ### Response data
 
-*  HTML Response Bytes: 3183
+*  HTML Response Bytes: 3170
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 149178
 *  Image Response Bytes: 9501
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 988
-
-### Performance issues
-
 
 ### Performance issues
 

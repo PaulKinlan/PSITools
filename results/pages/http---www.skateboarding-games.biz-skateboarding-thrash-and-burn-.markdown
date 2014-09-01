@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/skateboarding-thrash-and-burn/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Skateboarding Thrash And Burn game](http://www.skateboarding-games.biz/skateboarding-thrash-and-burn/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/skateboarding-thrash-and-burn/
 *  JS Response Bytes: 2280950
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 123750
-
-### Performance issues
-
 
 ### Performance issues
 

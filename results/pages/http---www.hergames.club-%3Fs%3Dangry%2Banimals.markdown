@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.hergames.club/?s=angry+animals
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [angry animals – Search Results – Online Best Games](http://www.hergames.club/?s=angry+animals)
 
@@ -29,9 +36,6 @@ title: http://www.hergames.club/?s=angry+animals
 *  JS Response Bytes: 621582
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

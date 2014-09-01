@@ -33,8 +33,5 @@ title: http://www.cinogames.com/game/running_fred-1040
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

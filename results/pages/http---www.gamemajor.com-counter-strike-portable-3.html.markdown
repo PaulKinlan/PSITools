@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamemajor.com/counter-strike-portable-3.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Counter-Strike Portable 3 Play Online | Game Major](http://www.gamemajor.com/counter-strike-portable-3.html)
 
@@ -29,9 +35,6 @@ title: http://www.gamemajor.com/counter-strike-portable-3.html
 *  JS Response Bytes: 1216815
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14949
-
-### Performance issues
-
 
 ### Performance issues
 

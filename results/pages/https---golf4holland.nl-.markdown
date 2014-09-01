@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://golf4holland.nl/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Golf4Holland: Online golfvereniging voor NGF handicap registratie, NGF regelexamen, golfnieuws, golflessen, en golfwedstrijden](https://golf4holland.nl/)
 
@@ -29,9 +31,6 @@ title: https://golf4holland.nl/
 *  JS Response Bytes: 1814929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1125
-
-### Performance issues
-
 
 ### Performance issues
 

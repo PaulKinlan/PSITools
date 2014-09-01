@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://emojistwitter.com/?ref=cws&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [emojistwitter.com](http://emojistwitter.com/?ref=cws&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://emojistwitter.com/?ref=cws&reqp=1&reqr=
 *  JS Response Bytes: 304181
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 67
-
-### Performance issues
-
 
 ### Performance issues
 

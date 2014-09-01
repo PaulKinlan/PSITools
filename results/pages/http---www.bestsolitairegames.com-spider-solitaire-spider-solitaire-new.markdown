@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.bestsolitairegames.com/spider-solitaire/spider-solitaire-new
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Spider Solitaire New - Games - Play Free Online Best Solitaire Games](http://www.bestsolitairegames.com/spider-solitaire/spider-solitaire-new)
 
@@ -29,9 +36,6 @@ title: http://www.bestsolitairegames.com/spider-solitaire/spider-solitaire-new
 *  JS Response Bytes: 1135708
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16292
-
-### Performance issues
-
 
 ### Performance issues
 

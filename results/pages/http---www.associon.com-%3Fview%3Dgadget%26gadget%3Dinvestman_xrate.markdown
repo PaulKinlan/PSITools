@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.associon.com/?view=gadget&gadget=investman_xrate
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ASSOCION | GADGET : Investman - Exchange Rates](http://www.associon.com/?view=gadget&gadget=investman_xrate)
 
@@ -29,9 +33,6 @@ title: http://www.associon.com/?view=gadget&gadget=investman_xrate
 *  JS Response Bytes: 2689684
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 211203
-
-### Performance issues
-
 
 ### Performance issues
 

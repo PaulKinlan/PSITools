@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.doricdictionary.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Doric Dictionary](http://www.doricdictionary.com/)
 
@@ -29,9 +32,6 @@ title: http://www.doricdictionary.com/
 *  JS Response Bytes: 800018
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 868
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.candygames.co/papa-louie-2-when-burgers-attack.html#.U_urr00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Pappa Louie 2 : When burgers Attack, a free online game at Candy Games - Candy Games](http://www.candygames.co/papa-louie-2-when-burgers-attack.html#.U_urr00ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.candygames.co/papa-louie-2-when-burgers-attack.html#.U_urr00ie
 *  JS Response Bytes: 1271382
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 133331
-
-### Performance issues
-
 
 ### Performance issues
 

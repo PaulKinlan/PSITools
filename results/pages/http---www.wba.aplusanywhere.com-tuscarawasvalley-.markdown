@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.wba.aplusanywhere.com/tuscarawasvalley/
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [A+LS](http://www.wba.aplusanywhere.com/tuscarawasvalley/)
 
@@ -29,9 +31,6 @@ title: http://www.wba.aplusanywhere.com/tuscarawasvalley/
 *  JS Response Bytes: 99233
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1592
-
-### Performance issues
-
 
 ### Performance issues
 

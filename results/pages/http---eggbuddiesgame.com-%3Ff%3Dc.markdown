@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://eggbuddiesgame.com/?f=c
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Egg Buddies](http://eggbuddiesgame.com/?f=c)
 
@@ -29,9 +32,6 @@ title: http://eggbuddiesgame.com/?f=c
 *  JS Response Bytes: 904089
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17575
-
-### Performance issues
-
 
 ### Performance issues
 

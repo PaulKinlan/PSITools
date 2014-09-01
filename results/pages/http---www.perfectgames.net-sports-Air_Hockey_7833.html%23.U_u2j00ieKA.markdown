@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.perfectgames.net/sports/Air_Hockey_7833.html#.U_u2j00ieKA
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Air Hockey_Perfectgames](http://www.perfectgames.net/sports/Air_Hockey_7833.html#.U_u2j00ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.perfectgames.net/sports/Air_Hockey_7833.html#.U_u2j00ieKA
 *  JS Response Bytes: 219884
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2003
-
-### Performance issues
-
 
 ### Performance issues
 

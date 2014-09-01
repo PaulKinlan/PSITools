@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.thresholdrpg.com/client-test/client.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Threshold RPG Flash Client](http://www.thresholdrpg.com/client-test/client.php)
 
@@ -29,9 +32,6 @@ title: http://www.thresholdrpg.com/client-test/client.php
 *  JS Response Bytes: 9358
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

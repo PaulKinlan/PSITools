@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://caloriesinaday.com/?app
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Caloriesinaday: Your Online Calories Calculator](http://caloriesinaday.com/?app)
 
@@ -29,9 +31,6 @@ title: http://caloriesinaday.com/?app
 *  JS Response Bytes: 697173
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31162
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.maddogcomics.de/index_mobile.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Mad Dog Comics - Comics online lesen | Dein E-Comic Shop](https://www.maddogcomics.de/index_mobile.php)
 
@@ -29,9 +31,6 @@ title: https://www.maddogcomics.de/index_mobile.php
 *  JS Response Bytes: 141036
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9345
-
-### Performance issues
-
 
 ### Performance issues
 

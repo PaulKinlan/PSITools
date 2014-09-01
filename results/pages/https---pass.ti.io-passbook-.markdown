@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://pass.ti.io/passbook/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Passbook](https://pass.ti.io/passbook/)
 
@@ -29,9 +31,6 @@ title: https://pass.ti.io/passbook/
 *  JS Response Bytes: 342094
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

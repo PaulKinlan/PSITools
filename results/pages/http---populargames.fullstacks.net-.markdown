@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://populargames.fullstacks.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Popular Games - Play Popular Games](http://populargames.fullstacks.net/)
 
@@ -29,9 +33,6 @@ title: http://populargames.fullstacks.net/
 *  JS Response Bytes: 366840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 382
-
-### Performance issues
-
 
 ### Performance issues
 

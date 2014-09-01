@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://freegamechrome.blogspot.com/2014/02/monster-town.html?m=1
+UseLegibleFontSizes: true
 ---
 ## [Service Unavailable](http://freegamechrome.blogspot.com/2014/02/monster-town.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://freegamechrome.blogspot.com/2014/02/monster-town.html?m=1
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1105
-
-### Performance issues
-
 
 ### Performance issues
 

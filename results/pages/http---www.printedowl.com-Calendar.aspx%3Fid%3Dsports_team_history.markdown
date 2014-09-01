@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.printedowl.com/Calendar.aspx?id=sports_team_history
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Daily Quote | PRO Sports Team a Day | Suggested Gifts and Search | August 25](http://www.printedowl.com/Calendar.aspx?id=sports_team_history)
 
@@ -29,9 +33,6 @@ title: http://www.printedowl.com/Calendar.aspx?id=sports_team_history
 *  JS Response Bytes: 794317
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29665
-
-### Performance issues
-
 
 ### Performance issues
 

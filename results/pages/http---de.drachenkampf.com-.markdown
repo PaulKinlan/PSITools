@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://de.drachenkampf.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Drachenkampf](http://de.drachenkampf.com/)
 
@@ -29,9 +32,6 @@ title: http://de.drachenkampf.com/
 *  JS Response Bytes: 268252
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5892
-
-### Performance issues
-
 
 ### Performance issues
 

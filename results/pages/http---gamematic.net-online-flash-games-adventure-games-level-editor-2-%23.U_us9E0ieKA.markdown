@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/adventure-games/level-editor-2/#.U_us9E0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Level Editor 2 « Online Flash Game Level Editor 2](http://gamematic.net/online-flash-games/adventure-games/level-editor-2/#.U_us9E0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/adventure-games/level-editor-2/#.
 *  JS Response Bytes: 1734462
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53640
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.funny-games.co.uk/?gameid=13399&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=mahjong_connect_2
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funny-games.co.uk/?gameid=13399&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=mahjong_connect_2)
 
@@ -29,9 +33,6 @@ title: http://m.funny-games.co.uk/?gameid=13399&utm_source=cws&utm_medium=app&ut
 *  JS Response Bytes: 1266601
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28429
-
-### Performance issues
-
 
 ### Performance issues
 

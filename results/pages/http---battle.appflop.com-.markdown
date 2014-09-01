@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://battle.appflop.com/
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Battle Robot](http://battle.appflop.com/)
 
@@ -29,9 +32,6 @@ title: http://battle.appflop.com/
 *  JS Response Bytes: 517548
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://blastingpixels.com/?target=HydroHydra2Chrome
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BlastingPixels.com](http://blastingpixels.com/?target=HydroHydra2Chrome)
 
@@ -29,9 +34,6 @@ title: http://blastingpixels.com/?target=HydroHydra2Chrome
 *  JS Response Bytes: 153500
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

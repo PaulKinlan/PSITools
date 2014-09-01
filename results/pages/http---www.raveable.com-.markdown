@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.raveable.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Raveable.com - hotel reviews without extra baggage](http://www.raveable.com/)
 
@@ -29,9 +33,6 @@ title: http://www.raveable.com/
 *  JS Response Bytes: 1549487
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 126610
-
-### Performance issues
-
 
 ### Performance issues
 

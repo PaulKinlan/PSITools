@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://play-games24.blogspot.com/2013/11/siegius-arena.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play free casino online games: Siegius Arena](http://play-games24.blogspot.com/2013/11/siegius-arena.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://play-games24.blogspot.com/2013/11/siegius-arena.html?m=1
 *  JS Response Bytes: 971591
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287157
-
-### Performance issues
-
 
 ### Performance issues
 

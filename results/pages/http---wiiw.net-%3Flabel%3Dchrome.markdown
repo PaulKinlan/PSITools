@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://wiiw.net/?label=chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WiiW.net | Best Nintendo Wii Games](http://wiiw.net/?label=chrome)
 
@@ -29,9 +33,6 @@ title: http://wiiw.net/?label=chrome
 *  JS Response Bytes: 3086212
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16007
-
-### Performance issues
-
 
 ### Performance issues
 

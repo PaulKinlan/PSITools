@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.dino10.com/surgery/arm-surgery-2
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Arm Surgery 2 - Addictive Games On Dino10](http://www.dino10.com/surgery/arm-surgery-2)
 
@@ -29,9 +34,6 @@ title: http://www.dino10.com/surgery/arm-surgery-2
 *  JS Response Bytes: 1782878
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103941
-
-### Performance issues
-
 
 ### Performance issues
 

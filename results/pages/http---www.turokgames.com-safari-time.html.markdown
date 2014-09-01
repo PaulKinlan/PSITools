@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.turokgames.com/safari-time.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Safari Time | TUROK GAMES](http://www.turokgames.com/safari-time.html)
 
@@ -29,9 +34,6 @@ title: http://www.turokgames.com/safari-time.html
 *  JS Response Bytes: 894171
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15971
-
-### Performance issues
-
 
 ### Performance issues
 

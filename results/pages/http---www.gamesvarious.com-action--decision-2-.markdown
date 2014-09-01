@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/action/-decision-2-
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Decision 2 - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/action/-decision-2-)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/action/-decision-2-
 *  JS Response Bytes: 2180971
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100544
-
-### Performance issues
-
 
 ### Performance issues
 

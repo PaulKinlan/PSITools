@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.rubbishbooks.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [RubbishBooks](http://www.rubbishbooks.com/)
 
@@ -29,9 +33,6 @@ title: http://www.rubbishbooks.com/
 *  JS Response Bytes: 368808
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104704
-
-### Performance issues
-
 
 ### Performance issues
 

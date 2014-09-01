@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.rashka.ru/index.html?r=140070&utm_source=vs_google&utm_medium=web_store&utm_content=link&utm_campaign=promo_1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Главная - Рашка - бесплатная экономическая онлайн игра. Лучшая стратегия года!](http://www.rashka.ru/index.html?r=140070&utm_source=vs_google&utm_medium=web_store&utm_content=link&utm_campaign=promo_1)
 
@@ -29,9 +33,6 @@ title: http://www.rashka.ru/index.html?r=140070&utm_source=vs_google&utm_medium=
 *  JS Response Bytes: 712856
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2802
-
-### Performance issues
-
 
 ### Performance issues
 

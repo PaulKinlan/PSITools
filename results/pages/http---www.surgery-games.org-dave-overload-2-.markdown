@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/dave-overload-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dave Overload game](http://www.surgery-games.org/dave-overload-2/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/dave-overload-2/
 *  JS Response Bytes: 2636854
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121623
-
-### Performance issues
-
 
 ### Performance issues
 

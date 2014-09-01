@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.billiardgameslist.com/pool-sharks/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pool Sharks](http://www.billiardgameslist.com/pool-sharks/)
 
@@ -29,9 +35,6 @@ title: http://www.billiardgameslist.com/pool-sharks/
 *  JS Response Bytes: 3082845
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 305707
-
-### Performance issues
-
 
 ### Performance issues
 

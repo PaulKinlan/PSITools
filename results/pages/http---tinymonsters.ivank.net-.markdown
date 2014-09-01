@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://tinymonsters.ivank.net/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tiny Monsters](http://tinymonsters.ivank.net/)
 
@@ -29,9 +31,6 @@ title: http://tinymonsters.ivank.net/
 *  JS Response Bytes: 1298845
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109649
-
-### Performance issues
-
 
 ### Performance issues
 

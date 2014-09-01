@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.bestofactiongames.com/solitaire-games/mahjong-solitaire
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mahjong Solitaire - Games - Play Free Online Best of Action Games](http://www.bestofactiongames.com/solitaire-games/mahjong-solitaire)
 
@@ -29,9 +35,6 @@ title: http://www.bestofactiongames.com/solitaire-games/mahjong-solitaire
 *  JS Response Bytes: 1554970
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21419
-
-### Performance issues
-
 
 ### Performance issues
 

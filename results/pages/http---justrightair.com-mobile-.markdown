@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://justrightair.com/mobile/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [mobile | Just Right Air](http://justrightair.com/mobile/)
 
@@ -29,9 +31,6 @@ title: http://justrightair.com/mobile/
 *  JS Response Bytes: 253230
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 560
-
-### Performance issues
-
 
 ### Performance issues
 

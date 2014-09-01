@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://whats-my-ip-address.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Whats my IP Address ·](http://whats-my-ip-address.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://whats-my-ip-address.herokuapp.com/
 *  JS Response Bytes: 1368874
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 205638
-
-### Performance issues
-
 
 ### Performance issues
 

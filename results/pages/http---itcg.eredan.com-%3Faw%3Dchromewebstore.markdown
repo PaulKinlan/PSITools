@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://itcg.eredan.com/?aw=chromewebstore
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Eredan iTCG: Trading card Game - Free Registration](http://itcg.eredan.com/?aw=chromewebstore)
 
@@ -29,9 +31,6 @@ title: http://itcg.eredan.com/?aw=chromewebstore
 *  JS Response Bytes: 988596
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1497
-
-### Performance issues
-
 
 ### Performance issues
 

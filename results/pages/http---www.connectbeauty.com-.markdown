@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.connectbeauty.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Cloud POS software for health & beauty professionals](http://www.connectbeauty.com/)
 
@@ -29,9 +32,6 @@ title: http://www.connectbeauty.com/
 *  JS Response Bytes: 672523
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 506785
-
-### Performance issues
-
 
 ### Performance issues
 

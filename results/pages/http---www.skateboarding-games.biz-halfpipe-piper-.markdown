@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/halfpipe-piper/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Halfpipe Piper game](http://www.skateboarding-games.biz/halfpipe-piper/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/halfpipe-piper/
 *  JS Response Bytes: 2281006
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120088
-
-### Performance issues
-
 
 ### Performance issues
 

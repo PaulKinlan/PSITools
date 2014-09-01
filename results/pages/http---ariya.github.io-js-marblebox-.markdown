@@ -33,8 +33,5 @@ title: http://ariya.github.io/js/marblebox/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

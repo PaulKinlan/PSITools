@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.cs-networks.net/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CS Networks SMS Gateway](https://www.cs-networks.net/)
 
@@ -29,9 +34,6 @@ title: https://www.cs-networks.net/
 *  JS Response Bytes: 990374
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95389
-
-### Performance issues
-
 
 ### Performance issues
 

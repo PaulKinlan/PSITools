@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://lovecalculator.com-facts.info/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+UseLegibleFontSizes: true
 ---
 ## [Best Lover Calculator](http://lovecalculator.com-facts.info/)
 
@@ -29,9 +32,6 @@ title: http://lovecalculator.com-facts.info/
 *  JS Response Bytes: 25557
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58
-
-### Performance issues
-
 
 ### Performance issues
 

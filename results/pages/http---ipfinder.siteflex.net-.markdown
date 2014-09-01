@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ipfinder.siteflex.net/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Locate IP Address](http://ipfinder.siteflex.net/)
 
@@ -29,9 +32,6 @@ title: http://ipfinder.siteflex.net/
 *  JS Response Bytes: 391105
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

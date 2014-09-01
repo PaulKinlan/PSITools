@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://isonline.brillout.com/
+UseLegibleFontSizes: true
 ---
 ## [online](http://isonline.brillout.com/)
 
@@ -29,9 +30,6 @@ title: http://isonline.brillout.com/
 *  JS Response Bytes: 111171
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.negane.com/LUCHA/2058/King-of-Fighters-Wing.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [King of Fighters Wing - NeGaNe.com](http://www.negane.com/LUCHA/2058/King-of-Fighters-Wing.html)
 
@@ -29,9 +35,6 @@ title: http://www.negane.com/LUCHA/2058/King-of-Fighters-Wing.html
 *  JS Response Bytes: 1496042
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113580
-
-### Performance issues
-
 
 ### Performance issues
 

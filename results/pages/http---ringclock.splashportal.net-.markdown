@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ringclock.splashportal.net/
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [](http://ringclock.splashportal.net/)
 
@@ -29,9 +31,6 @@ title: http://ringclock.splashportal.net/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 24346
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

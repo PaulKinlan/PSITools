@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.buttonbass.com/junglePiano/index.html
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Untitled Document](http://www.buttonbass.com/junglePiano/index.html)
 
@@ -29,9 +31,6 @@ title: http://www.buttonbass.com/junglePiano/index.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 921
-
-### Performance issues
-
 
 ### Performance issues
 

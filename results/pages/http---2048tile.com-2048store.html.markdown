@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://2048tile.com/2048store.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [2048](http://2048tile.com/2048store.html)
 
@@ -29,9 +33,6 @@ title: http://2048tile.com/2048store.html
 *  JS Response Bytes: 1269893
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19489
-
-### Performance issues
-
 
 ### Performance issues
 

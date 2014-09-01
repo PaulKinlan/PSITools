@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://coolonlinegamehub.blogspot.com/2014/06/subway-surfers-guide.html?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Chrome App Blog: Subway Surfers Guide](http://coolonlinegamehub.blogspot.com/2014/06/subway-surfers-guide.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://coolonlinegamehub.blogspot.com/2014/06/subway-surfers-guide.html?m
 *  JS Response Bytes: 763484
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96753
-
-### Performance issues
-
 
 ### Performance issues
 

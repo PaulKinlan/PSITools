@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_666_Street-Fighter-II-Champion-Edition.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Street Fighter II Champion Edition Flash Games](http://www.newpopulargames.com/game_666_Street-Fighter-II-Champion-Edition.html)
 
@@ -29,9 +34,6 @@ title: http://www.newpopulargames.com/game_666_Street-Fighter-II-Champion-Editio
 *  JS Response Bytes: 1522832
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112883
-
-### Performance issues
-
 
 ### Performance issues
 

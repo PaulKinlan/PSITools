@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://finance.fullstacks.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Interest Rates - Finance and Investing Tools](http://finance.fullstacks.net/)
 
@@ -29,9 +35,6 @@ title: http://finance.fullstacks.net/
 *  JS Response Bytes: 657582
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57715
-
-### Performance issues
-
 
 ### Performance issues
 

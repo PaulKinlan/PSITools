@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.games27.com/grand-theft-auto-5.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Grand Theft Auto 5 | Games 27](http://www.games27.com/grand-theft-auto-5.html)
 
@@ -29,9 +34,6 @@ title: http://www.games27.com/grand-theft-auto-5.html
 *  JS Response Bytes: 1529133
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103917
-
-### Performance issues
-
 
 ### Performance issues
 

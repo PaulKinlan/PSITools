@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/game/name/mr-flap
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [mr-flap Addicting Games](http://www.2addictinggames.com/games/game/name/mr-flap)
 
@@ -29,9 +36,6 @@ title: http://www.2addictinggames.com/games/game/name/mr-flap
 *  JS Response Bytes: 1828016
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96738
-
-### Performance issues
-
 
 ### Performance issues
 

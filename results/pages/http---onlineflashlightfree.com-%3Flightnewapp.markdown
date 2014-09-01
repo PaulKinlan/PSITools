@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://onlineflashlightfree.com/?lightnewapp
+MinimizeRenderBlockingResources: true
 ---
 ## [Free Online Flashlight with virtual disco strobe light](http://onlineflashlightfree.com/?lightnewapp)
 
@@ -29,9 +30,6 @@ title: http://onlineflashlightfree.com/?lightnewapp
 *  JS Response Bytes: 685455
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

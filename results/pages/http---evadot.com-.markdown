@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://evadot.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Evadot | The future. Soon.](http://evadot.com/)
 
@@ -29,9 +32,6 @@ title: http://evadot.com/
 *  JS Response Bytes: 545740
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30432
-
-### Performance issues
-
 
 ### Performance issues
 

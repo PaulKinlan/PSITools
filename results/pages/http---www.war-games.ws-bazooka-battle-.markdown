@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/bazooka-battle/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Box10 Brawl](http://www.war-games.ws/bazooka-battle/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/bazooka-battle/
 *  JS Response Bytes: 2292863
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120588
-
-### Performance issues
-
 
 ### Performance issues
 

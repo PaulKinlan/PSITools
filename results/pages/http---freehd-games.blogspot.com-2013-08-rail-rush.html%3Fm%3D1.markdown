@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://freehd-games.blogspot.com/2013/08/rail-rush.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free online web games: Rail Rush](http://freehd-games.blogspot.com/2013/08/rail-rush.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://freehd-games.blogspot.com/2013/08/rail-rush.html?m=1
 *  JS Response Bytes: 1471452
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116764
-
-### Performance issues
-
 
 ### Performance issues
 

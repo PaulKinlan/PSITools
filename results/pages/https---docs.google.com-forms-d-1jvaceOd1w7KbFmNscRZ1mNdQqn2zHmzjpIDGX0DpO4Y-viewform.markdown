@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://docs.google.com/forms/d/1jvaceOd1w7KbFmNscRZ1mNdQqn2zHmzjpIDGX0DpO4Y/viewform
+MinimizeRenderBlockingResources: true
 ---
 ## [United Way of Portage County Presentation Tracker](https://docs.google.com/forms/d/1jvaceOd1w7KbFmNscRZ1mNdQqn2zHmzjpIDGX0DpO4Y/viewform)
 
@@ -29,9 +30,6 @@ title: https://docs.google.com/forms/d/1jvaceOd1w7KbFmNscRZ1mNdQqn2zHmzjpIDGX0Dp
 *  JS Response Bytes: 95514
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 699
-
-### Performance issues
-
 
 ### Performance issues
 

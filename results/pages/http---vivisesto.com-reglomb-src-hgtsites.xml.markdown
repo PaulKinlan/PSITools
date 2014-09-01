@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://vivisesto.com/reglomb/src/hgtsites.xml
+UseLegibleFontSizes: true
 ---
 ## [](http://vivisesto.com/reglomb/src/hgtsites.xml)
 
@@ -29,9 +30,6 @@ title: http://vivisesto.com/reglomb/src/hgtsites.xml
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

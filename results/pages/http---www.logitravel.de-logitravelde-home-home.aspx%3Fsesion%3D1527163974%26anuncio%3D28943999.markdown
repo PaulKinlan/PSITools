@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.logitravel.de/logitravelde/home/home.aspx?sesion=1527163974&anuncio=28943999
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Reisen günstig buchen, Urlaub, Hotels, Flüge, Kreuzfahrten und Last Minute - Logitravel.de](http://www.logitravel.de/logitravelde/home/home.aspx?sesion=1527163974&anuncio=28943999)
 
@@ -29,9 +32,6 @@ title: http://www.logitravel.de/logitravelde/home/home.aspx?sesion=1527163974&an
 *  JS Response Bytes: 1551519
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2291
-
-### Performance issues
-
 
 ### Performance issues
 

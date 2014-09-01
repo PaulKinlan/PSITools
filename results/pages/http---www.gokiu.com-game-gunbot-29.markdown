@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gokiu.com/game/gunbot-29
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gunbot Game - Gokiu](http://www.gokiu.com/game/gunbot-29)
 
@@ -29,9 +34,6 @@ title: http://www.gokiu.com/game/gunbot-29
 *  JS Response Bytes: 606633
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16641
-
-### Performance issues
-
 
 ### Performance issues
 

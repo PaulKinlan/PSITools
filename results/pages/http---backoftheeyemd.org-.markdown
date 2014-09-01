@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://backoftheeyemd.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Saralyn Notaro Rietz, MD | Ophthalmologist / Retina Specialist / Surgeon](http://backoftheeyemd.org/)
 
@@ -29,9 +32,6 @@ title: http://backoftheeyemd.org/
 *  JS Response Bytes: 593287
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 160147
-
-### Performance issues
-
 
 ### Performance issues
 

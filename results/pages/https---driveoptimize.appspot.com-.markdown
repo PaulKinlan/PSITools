@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://driveoptimize.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Web Application Starter Project](https://driveoptimize.appspot.com/)
 
@@ -29,9 +33,6 @@ title: https://driveoptimize.appspot.com/
 *  JS Response Bytes: 6304
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

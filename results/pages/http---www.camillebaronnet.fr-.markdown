@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.camillebaronnet.fr/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Camille Baronnet : Développeur, Entrepreneur et Snowboarder passionné](http://www.camillebaronnet.fr/)
 
@@ -29,9 +33,6 @@ title: http://www.camillebaronnet.fr/
 *  JS Response Bytes: 942022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39427
-
-### Performance issues
-
 
 ### Performance issues
 

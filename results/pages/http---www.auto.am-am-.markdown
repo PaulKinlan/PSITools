@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.auto.am/am/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ավտոմեքենաների վաճառք Հայաստանում, ավտոդիլերներ, ավտոկրեդիտ, ապպա, ավտոլուրեր,ավտոդպրոցներ](http://www.auto.am/am/)
 
@@ -29,9 +35,6 @@ title: http://www.auto.am/am/
 *  JS Response Bytes: 1054381
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4480
-
-### Performance issues
-
 
 ### Performance issues
 

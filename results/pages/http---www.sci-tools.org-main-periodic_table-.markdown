@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.sci-tools.org/main/periodic_table/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SciTools | Periodic Table of the Elements](http://www.sci-tools.org/main/periodic_table/)
 
@@ -29,9 +32,6 @@ title: http://www.sci-tools.org/main/periodic_table/
 *  JS Response Bytes: 1093915
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 152806
-
-### Performance issues
-
 
 ### Performance issues
 

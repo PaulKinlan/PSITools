@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.gamerspirit.com/goodgame-empire-app/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Goodgame Empire App | GamerSpirit](http://www.gamerspirit.com/goodgame-empire-app/)
 
@@ -29,9 +31,6 @@ title: http://www.gamerspirit.com/goodgame-empire-app/
 *  JS Response Bytes: 302574
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

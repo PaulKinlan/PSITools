@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.prot-on.com/tryIt.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Prot-On, Protect What You Share](https://www.prot-on.com/tryIt.html)
 
@@ -29,9 +32,6 @@ title: https://www.prot-on.com/tryIt.html
 *  JS Response Bytes: 205003
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 926
-
-### Performance issues
-
 
 ### Performance issues
 

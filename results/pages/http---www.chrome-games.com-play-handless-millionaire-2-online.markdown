@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.chrome-games.com/play-handless-millionaire-2-online
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Handless Millionaire 2 Online | Chrome-Games.Com](http://www.chrome-games.com/play-handless-millionaire-2-online)
 
@@ -29,9 +33,6 @@ title: http://www.chrome-games.com/play-handless-millionaire-2-online
 *  JS Response Bytes: 2267787
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 194771
-
-### Performance issues
-
 
 ### Performance issues
 

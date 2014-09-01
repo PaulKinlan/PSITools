@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://knoji.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Consumer Knowledge Network: Coupons, Forums & Website Reviews](http://knoji.com/)
 
@@ -29,9 +33,6 @@ title: http://knoji.com/
 *  JS Response Bytes: 2242384
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 236812
-
-### Performance issues
-
 
 ### Performance issues
 

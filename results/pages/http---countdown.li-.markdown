@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://countdown.li/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Countdown.li - simple online countdown timer](http://countdown.li/)
 
@@ -29,9 +32,6 @@ title: http://countdown.li/
 *  JS Response Bytes: 338737
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 557
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chromegamebox.com/action/action_201202288619.html#.U_uleU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crazy Soldier_chromegamebox](http://www.chromegamebox.com/action/action_201202288619.html#.U_uleU0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.chromegamebox.com/action/action_201202288619.html#.U_uleU0ieKA
 *  JS Response Bytes: 462674
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12556
-
-### Performance issues
-
 
 ### Performance issues
 

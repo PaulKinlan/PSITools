@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.ttagt.com/clash-of-clans/
+EnableGzipCompression: true
 ---
 ## [](http://www.ttagt.com/clash-of-clans/)
 
@@ -29,9 +30,6 @@ title: http://www.ttagt.com/clash-of-clans/
 *  JS Response Bytes: 164368
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

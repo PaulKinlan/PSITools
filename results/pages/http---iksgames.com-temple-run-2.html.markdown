@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://iksgames.com/temple-run-2.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IKSgameS.Com | Flash Games. – Temple Run 2](http://iksgames.com/temple-run-2.html)
 
@@ -29,9 +36,6 @@ title: http://iksgames.com/temple-run-2.html
 *  JS Response Bytes: 411421
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 802
-
-### Performance issues
-
 
 ### Performance issues
 

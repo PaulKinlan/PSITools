@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chrome.atari.com/battlezone/
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Battlezone - Atari Video Games](http://chrome.atari.com/battlezone/)
 
@@ -29,9 +32,6 @@ title: http://chrome.atari.com/battlezone/
 *  JS Response Bytes: 82124
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

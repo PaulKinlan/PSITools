@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ww41.downloadfullmovies.biz/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [downloadfullmovies.biz](http://ww41.downloadfullmovies.biz/)
 
@@ -22,16 +26,13 @@ title: http://ww41.downloadfullmovies.biz/
 
 ### Response data
 
-*  HTML Response Bytes: 20206
+*  HTML Response Bytes: 20071
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 2098
 *  JS Response Bytes: 173157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 218
-
-### Performance issues
-
 
 ### Performance issues
 

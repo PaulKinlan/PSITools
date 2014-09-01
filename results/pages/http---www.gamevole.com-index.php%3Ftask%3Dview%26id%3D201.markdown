@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamevole.com/index.php?task=view&id=201
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Express Way - GaMeVole - just Challange! And Play Free! Play Online!](http://www.gamevole.com/index.php?task=view&id=201)
 
@@ -29,9 +34,6 @@ title: http://www.gamevole.com/index.php?task=view&id=201
 *  JS Response Bytes: 912304
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16995
-
-### Performance issues
-
 
 ### Performance issues
 

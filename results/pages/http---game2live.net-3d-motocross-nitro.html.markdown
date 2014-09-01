@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://game2live.net/3d/motocross-nitro.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Motocross Nitro - Best Free Online Games | game2live.net - http://game2live.net](http://game2live.net/3d/motocross-nitro.html)
 
@@ -29,9 +37,6 @@ title: http://game2live.net/3d/motocross-nitro.html
 *  JS Response Bytes: 3155276
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 138516
-
-### Performance issues
-
 
 ### Performance issues
 

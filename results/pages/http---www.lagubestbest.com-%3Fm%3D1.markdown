@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.lagubestbest.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Lagubestbest.Com](http://www.lagubestbest.com/?m=1)
 
@@ -29,9 +33,6 @@ title: http://www.lagubestbest.com/?m=1
 *  JS Response Bytes: 2198287
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 73869
-
-### Performance issues
-
 
 ### Performance issues
 

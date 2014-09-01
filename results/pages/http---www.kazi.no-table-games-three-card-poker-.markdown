@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kazi.no/table-games/three-card-poker/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Three card poker @ Kazi.noKazi.no](http://www.kazi.no/table-games/three-card-poker/)
 
@@ -29,9 +34,6 @@ title: http://www.kazi.no/table-games/three-card-poker/
 *  JS Response Bytes: 845037
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 151414
-
-### Performance issues
-
 
 ### Performance issues
 

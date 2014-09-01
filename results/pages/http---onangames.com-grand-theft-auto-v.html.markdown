@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://onangames.com/grand-theft-auto-v.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [OnanGames.Com | Flash Game | Flash Games – Grand Theft Auto V](http://onangames.com/grand-theft-auto-v.html)
 
@@ -29,9 +35,6 @@ title: http://onangames.com/grand-theft-auto-v.html
 *  JS Response Bytes: 412219
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 811
-
-### Performance issues
-
 
 ### Performance issues
 

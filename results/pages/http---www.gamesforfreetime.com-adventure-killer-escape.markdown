@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gamesforfreetime.com/adventure/killer-escape
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Killer Escape - Games For Free Time](http://www.gamesforfreetime.com/adventure/killer-escape)
 
@@ -29,9 +36,6 @@ title: http://www.gamesforfreetime.com/adventure/killer-escape
 *  JS Response Bytes: 2545532
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98117
-
-### Performance issues
-
 
 ### Performance issues
 

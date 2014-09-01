@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.label59.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Label 59 : Label . Explain . Present interactively ... in minutes](http://www.label59.com/)
 
@@ -29,9 +34,6 @@ title: http://www.label59.com/
 *  JS Response Bytes: 437113
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5085
-
-### Performance issues
-
 
 ### Performance issues
 

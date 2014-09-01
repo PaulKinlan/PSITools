@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://4wheelonline.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Truck Accessories, Ford, Chevy, Dodge, and more Aftermarket Truck Parts | 4WheelOnline.com](http://4wheelonline.com/)
 
@@ -29,9 +33,6 @@ title: http://4wheelonline.com/
 *  JS Response Bytes: 2979497
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 289440
-
-### Performance issues
-
 
 ### Performance issues
 

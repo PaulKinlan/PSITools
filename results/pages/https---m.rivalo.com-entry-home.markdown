@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://m.rivalo.com/entry/home
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Rivalo](https://m.rivalo.com/entry/home)
 
@@ -29,9 +31,6 @@ title: https://m.rivalo.com/entry/home
 *  JS Response Bytes: 1929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 985
-
-### Performance issues
-
 
 ### Performance issues
 

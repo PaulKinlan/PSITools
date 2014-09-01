@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.123guitartuner.com/guitarTunerChords.php
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [Guitar Chords](http://www.123guitartuner.com/guitarTunerChords.php)
 
@@ -29,9 +31,6 @@ title: http://www.123guitartuner.com/guitarTunerChords.php
 *  JS Response Bytes: 8746
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

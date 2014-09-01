@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://num.ved.bz/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ведическая нумерология NUM.VED.BZ -- Интернет-сайт для расчётов по Ведической нумерологии и рекомендации благоприятных цифр, чисел, дней, партнёров, цвета, металла](http://num.ved.bz/)
 
@@ -29,9 +33,6 @@ title: http://num.ved.bz/
 *  JS Response Bytes: 573167
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96638
-
-### Performance issues
-
 
 ### Performance issues
 

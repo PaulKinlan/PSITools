@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.3dtin.com/_mobile
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [3DTin](http://www.3dtin.com/_mobile)
 
@@ -29,9 +32,6 @@ title: http://www.3dtin.com/_mobile
 *  JS Response Bytes: 260105
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 188
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://romana-engleza-traducator.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Română Engleză Traducător](http://romana-engleza-traducator.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://romana-engleza-traducator.herokuapp.com/
 *  JS Response Bytes: 1314889
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111191
-
-### Performance issues
-
 
 ### Performance issues
 

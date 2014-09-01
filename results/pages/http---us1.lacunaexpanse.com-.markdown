@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://us1.lacunaexpanse.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lacuna Expanse](http://us1.lacunaexpanse.com/)
 
@@ -29,9 +33,6 @@ title: http://us1.lacunaexpanse.com/
 *  JS Response Bytes: 1716781
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58032
-
-### Performance issues
-
 
 ### Performance issues
 

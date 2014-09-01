@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.game-servers-lists.com/index.php
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Game Servers Lists » Home](http://www.game-servers-lists.com/index.php)
 
@@ -29,9 +31,6 @@ title: http://www.game-servers-lists.com/index.php
 *  JS Response Bytes: 714180
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

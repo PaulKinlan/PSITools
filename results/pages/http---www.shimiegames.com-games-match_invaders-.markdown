@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.shimiegames.com/games/match_invaders/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shimiegames - Match Invaders](http://www.shimiegames.com/games/match_invaders/)
 
@@ -29,9 +34,6 @@ title: http://www.shimiegames.com/games/match_invaders/
 *  JS Response Bytes: 1380579
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95861
-
-### Performance issues
-
 
 ### Performance issues
 

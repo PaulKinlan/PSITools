@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://hostmyportfolio.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Host My Portfolio](http://hostmyportfolio.com/)
 
@@ -29,9 +31,6 @@ title: http://hostmyportfolio.com/
 *  JS Response Bytes: 412716
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

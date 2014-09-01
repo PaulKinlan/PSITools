@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.taketwoapps.com/apps/20/speed/app.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Speed Tool](http://www.taketwoapps.com/apps/20/speed/app.html)
 
@@ -29,9 +33,6 @@ title: http://www.taketwoapps.com/apps/20/speed/app.html
 *  JS Response Bytes: 463430
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

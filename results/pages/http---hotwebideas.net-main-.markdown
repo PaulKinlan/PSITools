@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://hotwebideas.net/main/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Hot Web Ideas, Inc. | Website Profitability Analysis](http://hotwebideas.net/main/)
 
@@ -29,9 +32,6 @@ title: http://hotwebideas.net/main/
 *  JS Response Bytes: 1366551
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17349
-
-### Performance issues
-
 
 ### Performance issues
 

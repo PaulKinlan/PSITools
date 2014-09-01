@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://m.funnygames.biz/?gameid=454&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=street_sesh
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funnygames.biz/?gameid=454&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=street_sesh)
 
@@ -29,9 +34,6 @@ title: http://m.funnygames.biz/?gameid=454&utm_source=cws&utm_medium=app&utm_cam
 *  JS Response Bytes: 1265759
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28382
-
-### Performance issues
-
 
 ### Performance issues
 

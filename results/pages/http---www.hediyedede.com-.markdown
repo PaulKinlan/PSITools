@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.hediyedede.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hediye Dede - Türkiye'nin en ilginç hediyeleri](http://www.hediyedede.com/)
 
@@ -29,9 +33,6 @@ title: http://www.hediyedede.com/
 *  JS Response Bytes: 1451699
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1963
-
-### Performance issues
-
 
 ### Performance issues
 

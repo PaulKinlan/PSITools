@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.virtualarenas.com/binality/beta/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [binality](http://www.virtualarenas.com/binality/beta/)
 
@@ -29,9 +34,6 @@ title: http://www.virtualarenas.com/binality/beta/
 *  JS Response Bytes: 343525
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

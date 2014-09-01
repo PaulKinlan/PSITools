@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.flashgirlgames.us/play_game/284/rachels-kitchen-grand-prix-seafood-3.html#.U_uoyU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rachels Kitchen Grand Prix: Seafood - Flash Game For Girl](http://www.flashgirlgames.us/play_game/284/rachels-kitchen-grand-prix-seafood-3.html#.U_uoyU0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.flashgirlgames.us/play_game/284/rachels-kitchen-grand-prix-sea
 *  JS Response Bytes: 1504275
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24751
-
-### Performance issues
-
 
 ### Performance issues
 

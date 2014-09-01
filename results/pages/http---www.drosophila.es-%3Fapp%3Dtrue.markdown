@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.drosophila.es/?app=true
+MinimizeRenderBlockingResources: true
 ---
 ## [Boletin drosophila | Divulgando la vida](http://www.drosophila.es/?app=true)
 
@@ -29,9 +30,6 @@ title: http://www.drosophila.es/?app=true
 *  JS Response Bytes: 324480
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43832
-
-### Performance issues
-
 
 ### Performance issues
 

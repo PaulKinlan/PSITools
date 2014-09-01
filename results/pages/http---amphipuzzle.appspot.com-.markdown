@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://amphipuzzle.appspot.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Surprise Me - Social Puzzle](http://amphipuzzle.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://amphipuzzle.appspot.com/
 *  JS Response Bytes: 92398
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 609
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://m.bgames.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bgames -](http://m.bgames.com/)
 
@@ -29,9 +35,6 @@ title: http://m.bgames.com/
 *  JS Response Bytes: 739635
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 883
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.hotmixradio.fr/player/playerhtm/play-80.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hotmixradio 80 - La Radio Années 80 du bouquet de webradios Hotmixradio.fr](http://www.hotmixradio.fr/player/playerhtm/play-80.html)
 
@@ -29,9 +34,6 @@ title: http://www.hotmixradio.fr/player/playerhtm/play-80.html
 *  JS Response Bytes: 1667846
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11685
-
-### Performance issues
-
 
 ### Performance issues
 

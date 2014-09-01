@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.weworked.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free timesheet software and invoicing software for small business | WeWorked](http://www.weworked.com/)
 
@@ -29,9 +32,6 @@ title: http://www.weworked.com/
 *  JS Response Bytes: 370926
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

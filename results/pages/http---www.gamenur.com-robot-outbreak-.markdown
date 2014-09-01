@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamenur.com/robot-outbreak/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Robot outbreak | Gamenur](http://www.gamenur.com/robot-outbreak/)
 
@@ -29,9 +35,6 @@ title: http://www.gamenur.com/robot-outbreak/
 *  JS Response Bytes: 1257613
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 147601
-
-### Performance issues
-
 
 ### Performance issues
 

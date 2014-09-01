@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://counterstrike-portable.blogspot.com/?m=1
+UseLegibleFontSizes: true
 ---
 ## [Service Unavailable](http://counterstrike-portable.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://counterstrike-portable.blogspot.com/?m=1
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1075
-
-### Performance issues
-
 
 ### Performance issues
 

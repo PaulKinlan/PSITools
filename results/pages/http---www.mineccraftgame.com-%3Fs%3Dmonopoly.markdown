@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mineccraftgame.com/?s=monopoly
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Minecraft free play – Search Results – monopoly](http://www.mineccraftgame.com/?s=monopoly)
 
@@ -29,9 +33,6 @@ title: http://www.mineccraftgame.com/?s=monopoly
 *  JS Response Bytes: 632673
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

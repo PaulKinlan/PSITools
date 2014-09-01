@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.e-chords.com/?utm_source=google-chrome&utm_medium=image&utm_content=echords&utm_campaign=google-chrome-app
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [E-CHORDS.COM over 1 million chords, tabs, guitar chord](http://www.e-chords.com/?utm_source=google-chrome&utm_medium=image&utm_content=echords&utm_campaign=google-chrome-app)
 
@@ -29,9 +34,6 @@ title: http://www.e-chords.com/?utm_source=google-chrome&utm_medium=image&utm_co
 *  JS Response Bytes: 1501824
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35986
-
-### Performance issues
-
 
 ### Performance issues
 

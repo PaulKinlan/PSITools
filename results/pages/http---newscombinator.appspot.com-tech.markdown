@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://newscombinator.appspot.com/tech
+UseLegibleFontSizes: true
 ---
 ## [500 Server Error](http://newscombinator.appspot.com/tech)
 
@@ -29,9 +30,6 @@ title: http://newscombinator.appspot.com/tech
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 480
-
-### Performance issues
-
 
 ### Performance issues
 

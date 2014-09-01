@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.spielz.com/games/game/name/doodle-god-2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [doodle-god-2 spiele](http://www.spielz.com/games/game/name/doodle-god-2)
 
@@ -29,9 +35,6 @@ title: http://www.spielz.com/games/game/name/doodle-god-2
 *  JS Response Bytes: 1862477
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112108
-
-### Performance issues
-
 
 ### Performance issues
 

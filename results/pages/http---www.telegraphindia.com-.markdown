@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.telegraphindia.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Telegraph - Calcutta](http://www.telegraphindia.com/)
 
@@ -29,9 +33,6 @@ title: http://www.telegraphindia.com/
 *  JS Response Bytes: 2709627
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27490
-
-### Performance issues
-
 
 ### Performance issues
 

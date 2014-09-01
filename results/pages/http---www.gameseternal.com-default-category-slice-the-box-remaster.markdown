@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameseternal.com/default-category/slice-the-box-remaster
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Slice the Box Remaster - Games EternaL](http://www.gameseternal.com/default-category/slice-the-box-remaster)
 
@@ -29,9 +34,6 @@ title: http://www.gameseternal.com/default-category/slice-the-box-remaster
 *  JS Response Bytes: 601701
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29958
-
-### Performance issues
-
 
 ### Performance issues
 

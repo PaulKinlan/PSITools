@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.techtunes.com.bd/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Techtunes | World's First, The Largest and Most Popular Bangla Technology Social Network, Blogging Platform & Online Community | টেকটিউনস | মেতে উঠুন প্রযুক্তির সুরে](http://www.techtunes.com.bd/)
 
@@ -29,9 +33,6 @@ title: http://www.techtunes.com.bd/
 *  JS Response Bytes: 393645
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5216
-
-### Performance issues
-
 
 ### Performance issues
 

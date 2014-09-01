@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://door2games.com/action/medieval-shark
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Medieval Shark - Free Online Games | Door 2 Games](http://door2games.com/action/medieval-shark)
 
@@ -29,9 +36,6 @@ title: http://door2games.com/action/medieval-shark
 *  JS Response Bytes: 744685
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141050
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.us/snail-bob-5-love-story/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Snail Bob 5 Love Story](http://www.gamesgator.us/snail-bob-5-love-story/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.us/snail-bob-5-love-story/
 *  JS Response Bytes: 1090776
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40273
-
-### Performance issues
-
 
 ### Performance issues
 

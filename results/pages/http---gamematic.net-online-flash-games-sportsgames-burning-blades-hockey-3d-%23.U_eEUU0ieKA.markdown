@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/sportsgames/burning-blades-hockey-3d/#.U_eEUU0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Burning Blades Hockey 3D « Online Flash Game Burning Blades Hockey 3D](http://gamematic.net/online-flash-games/sportsgames/burning-blades-hockey-3d/#.U_eEUU0ieKA)
 
@@ -29,9 +36,6 @@ title: http://gamematic.net/online-flash-games/sportsgames/burning-blades-hockey
 *  JS Response Bytes: 1954659
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31394
-
-### Performance issues
-
 
 ### Performance issues
 

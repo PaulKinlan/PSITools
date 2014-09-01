@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.calculator888.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Калькулятор онлайн - лучший и бесплатный](http://www.calculator888.ru/)
 
@@ -29,9 +34,6 @@ title: http://www.calculator888.ru/
 *  JS Response Bytes: 3487763
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 294947
-
-### Performance issues
-
 
 ### Performance issues
 

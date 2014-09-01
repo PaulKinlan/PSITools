@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.taxi-rechner.de/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Taxi-Rechner.de - Berechnen Sie jetzt Ihre Taxikosten!](http://www.taxi-rechner.de/)
 
@@ -29,9 +32,6 @@ title: http://www.taxi-rechner.de/
 *  JS Response Bytes: 1060087
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100337
-
-### Performance issues
-
 
 ### Performance issues
 

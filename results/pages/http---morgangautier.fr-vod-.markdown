@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://morgangautier.fr/vod/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [](http://morgangautier.fr/vod/)
 
@@ -29,9 +31,6 @@ title: http://morgangautier.fr/vod/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61117
-
-### Performance issues
-
 
 ### Performance issues
 

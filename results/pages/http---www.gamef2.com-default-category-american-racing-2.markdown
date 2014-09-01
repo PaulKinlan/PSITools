@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamef2.com/default-category/american-racing-2
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [American Racing 2 - GaMeF2](http://www.gamef2.com/default-category/american-racing-2)
 
@@ -29,9 +34,6 @@ title: http://www.gamef2.com/default-category/american-racing-2
 *  JS Response Bytes: 2096256
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105072
-
-### Performance issues
-
 
 ### Performance issues
 

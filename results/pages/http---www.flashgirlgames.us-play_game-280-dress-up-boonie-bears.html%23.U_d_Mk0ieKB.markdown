@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.flashgirlgames.us/play_game/280/dress-up-boonie-bears.html#.U_d_Mk0ieKB
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dress up Boonie Bears - Flash Game For Girl](http://www.flashgirlgames.us/play_game/280/dress-up-boonie-bears.html#.U_d_Mk0ieKB)
 
@@ -29,9 +36,6 @@ title: http://www.flashgirlgames.us/play_game/280/dress-up-boonie-bears.html#.U_
 *  JS Response Bytes: 1503518
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 36578
-
-### Performance issues
-
 
 ### Performance issues
 

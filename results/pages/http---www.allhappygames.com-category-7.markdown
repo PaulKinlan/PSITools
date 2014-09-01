@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.allhappygames.com/category/7
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rocket - All Happy Games](http://www.allhappygames.com/category/7)
 
@@ -29,9 +33,6 @@ title: http://www.allhappygames.com/category/7
 *  JS Response Bytes: 645376
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15447
-
-### Performance issues
-
 
 ### Performance issues
 

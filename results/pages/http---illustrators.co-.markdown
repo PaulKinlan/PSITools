@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://illustrators.co/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Illustrators | Buy original art and prints, direct from the artist](http://illustrators.co/)
 
@@ -29,9 +32,6 @@ title: http://illustrators.co/
 *  JS Response Bytes: 439750
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 520
-
-### Performance issues
-
 
 ### Performance issues
 

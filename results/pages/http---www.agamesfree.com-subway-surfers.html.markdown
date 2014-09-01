@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.agamesfree.com/subway-surfers.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Subway Surfers | A Games Free](http://www.agamesfree.com/subway-surfers.html)
 
@@ -29,9 +34,6 @@ title: http://www.agamesfree.com/subway-surfers.html
 *  JS Response Bytes: 1529613
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105460
-
-### Performance issues
-
 
 ### Performance issues
 

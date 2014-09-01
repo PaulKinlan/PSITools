@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/fat-trick-boarder/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fat Trick Boarder game](http://www.skateboarding-games.biz/fat-trick-boarder/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/fat-trick-boarder/
 *  JS Response Bytes: 2281020
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120095
-
-### Performance issues
-
 
 ### Performance issues
 

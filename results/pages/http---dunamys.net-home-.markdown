@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://dunamys.net/home/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Dunamys](http://dunamys.net/home/)
 
@@ -29,9 +33,6 @@ title: http://dunamys.net/home/
 *  JS Response Bytes: 813989
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17441
-
-### Performance issues
-
 
 ### Performance issues
 

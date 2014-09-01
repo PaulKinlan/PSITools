@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.phirmash.com/mymaps/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [MyMaps | Home](https://www.phirmash.com/mymaps/)
 
@@ -29,9 +32,6 @@ title: https://www.phirmash.com/mymaps/
 *  JS Response Bytes: 589150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 991
-
-### Performance issues
-
 
 ### Performance issues
 

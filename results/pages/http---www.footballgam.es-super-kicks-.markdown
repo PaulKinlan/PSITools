@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/super-kicks/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Kicks Game](http://www.footballgam.es/super-kicks/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/super-kicks/
 *  JS Response Bytes: 2202927
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 150202
-
-### Performance issues
-
 
 ### Performance issues
 

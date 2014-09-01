@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://stwp.iamondemand.com/
+UseLegibleFontSizes: true
 ---
 ## [Send to WordPress](http://stwp.iamondemand.com/)
 
@@ -29,9 +30,6 @@ title: http://stwp.iamondemand.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

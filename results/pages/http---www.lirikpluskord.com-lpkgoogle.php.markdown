@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.lirikpluskord.com/lpkgoogle.php
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lirik plus Kord Gitar Lagu-lagu Pilihan](http://www.lirikpluskord.com/lpkgoogle.php)
 
@@ -29,9 +32,6 @@ title: http://www.lirikpluskord.com/lpkgoogle.php
 *  JS Response Bytes: 633500
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1605
-
-### Performance issues
-
 
 ### Performance issues
 

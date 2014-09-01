@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.myscenicdrives.com/road-trip-planner
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Build your custom road trip | myscenicdrives.com Road Trip Planner](https://www.myscenicdrives.com/road-trip-planner)
 
@@ -29,9 +33,6 @@ title: https://www.myscenicdrives.com/road-trip-planner
 *  JS Response Bytes: 399363
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chromeflashgames.blogspot.com/2013/08/draw-something.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [chromeflashgames: Draw Something](http://chromeflashgames.blogspot.com/2013/08/draw-something.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://chromeflashgames.blogspot.com/2013/08/draw-something.html?m=1
 *  JS Response Bytes: 1067652
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97991
-
-### Performance issues
-
 
 ### Performance issues
 

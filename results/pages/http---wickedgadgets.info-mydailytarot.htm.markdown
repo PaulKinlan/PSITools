@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://wickedgadgets.info/mydailytarot.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [My Daily Tarot (Free)](http://wickedgadgets.info/mydailytarot.htm)
 
@@ -29,9 +35,6 @@ title: http://wickedgadgets.info/mydailytarot.htm
 *  JS Response Bytes: 921873
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98636
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.smartplace.fr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CRM, Facturation & Emailing Ultra Simple](http://www.smartplace.fr/)
 
@@ -29,9 +33,6 @@ title: http://www.smartplace.fr/
 *  JS Response Bytes: 1569527
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

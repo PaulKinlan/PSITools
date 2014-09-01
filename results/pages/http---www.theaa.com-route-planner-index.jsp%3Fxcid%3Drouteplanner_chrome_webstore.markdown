@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.theaa.com/route-planner/index.jsp?xcid=routeplanner_chrome_webstore
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Route Planner | Directions, traffic and maps | AA](http://www.theaa.com/route-planner/index.jsp?xcid=routeplanner_chrome_webstore)
 
@@ -29,9 +32,6 @@ title: http://www.theaa.com/route-planner/index.jsp?xcid=routeplanner_chrome_web
 *  JS Response Bytes: 1350416
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54262
-
-### Performance issues
-
 
 ### Performance issues
 

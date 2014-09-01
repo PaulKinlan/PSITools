@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.evolvedonlinegames.com/app.php?id=5465
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Elements and Physics](http://www.evolvedonlinegames.com/app.php?id=5465)
 
@@ -29,9 +34,6 @@ title: http://www.evolvedonlinegames.com/app.php?id=5465
 *  JS Response Bytes: 903607
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99897
-
-### Performance issues
-
 
 ### Performance issues
 

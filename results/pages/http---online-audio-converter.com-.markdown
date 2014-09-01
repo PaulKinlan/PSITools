@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://online-audio-converter.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Audio Converter - Сonvert Sound to MP3, WAV, MP4, M4A, OGG or iPhone Ringtones](http://online-audio-converter.com/)
 
@@ -29,9 +33,6 @@ title: http://online-audio-converter.com/
 *  JS Response Bytes: 1858764
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111400
-
-### Performance issues
-
 
 ### Performance issues
 

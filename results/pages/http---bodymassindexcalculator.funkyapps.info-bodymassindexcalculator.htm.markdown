@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://bodymassindexcalculator.funkyapps.info/bodymassindexcalculator.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Body Mass Index (BMI) Calculator App](http://bodymassindexcalculator.funkyapps.info/bodymassindexcalculator.htm)
 
@@ -29,9 +35,6 @@ title: http://bodymassindexcalculator.funkyapps.info/bodymassindexcalculator.htm
 *  JS Response Bytes: 587912
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97615
-
-### Performance issues
-
 
 ### Performance issues
 

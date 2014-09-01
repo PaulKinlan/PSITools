@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pixelvesuviano.com/qo/mobile/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [qo - quotidiani online](http://www.pixelvesuviano.com/qo/mobile/)
 
@@ -29,9 +33,6 @@ title: http://www.pixelvesuviano.com/qo/mobile/
 *  JS Response Bytes: 1087030
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2417
-
-### Performance issues
-
 
 ### Performance issues
 

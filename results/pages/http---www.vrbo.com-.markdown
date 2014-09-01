@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.vrbo.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [VRBO - The Most Popular Vacation Rental Site in the US](http://www.vrbo.com/)
 
@@ -29,9 +32,6 @@ title: http://www.vrbo.com/
 *  JS Response Bytes: 1034085
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12916
-
-### Performance issues
-
 
 ### Performance issues
 

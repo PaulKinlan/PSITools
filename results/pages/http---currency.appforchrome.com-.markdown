@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://currency.appforchrome.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Currency Rates & Converter](http://currency.appforchrome.com/)
 
@@ -29,9 +34,6 @@ title: http://currency.appforchrome.com/
 *  JS Response Bytes: 887192
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 60509
-
-### Performance issues
-
 
 ### Performance issues
 

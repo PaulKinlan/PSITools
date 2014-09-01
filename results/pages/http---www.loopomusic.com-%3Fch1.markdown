@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.loopomusic.com/?ch1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [Loop O Music](http://www.loopomusic.com/?ch1)
 
@@ -29,9 +31,6 @@ title: http://www.loopomusic.com/?ch1
 *  JS Response Bytes: 133746
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40978
-
-### Performance issues
-
 
 ### Performance issues
 

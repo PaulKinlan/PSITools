@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.tesla-games.com/physics/break-the-lamp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Playing Break the Lamp - Games - Play Free Online Games at Tesla Games](http://www.tesla-games.com/physics/break-the-lamp)
 
@@ -29,9 +35,6 @@ title: http://www.tesla-games.com/physics/break-the-lamp
 *  JS Response Bytes: 1312556
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2869
-
-### Performance issues
-
 
 ### Performance issues
 

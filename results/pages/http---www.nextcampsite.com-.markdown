@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.nextcampsite.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Find The Best Campsites on the West Coast - NextCampsite](http://www.nextcampsite.com/)
 
@@ -29,9 +32,6 @@ title: http://www.nextcampsite.com/
 *  JS Response Bytes: 2127720
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 79535
-
-### Performance issues
-
 
 ### Performance issues
 

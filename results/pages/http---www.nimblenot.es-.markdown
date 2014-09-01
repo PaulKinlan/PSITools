@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.nimblenot.es/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nimblenotes](http://www.nimblenot.es/)
 
@@ -29,9 +34,6 @@ title: http://www.nimblenot.es/
 *  JS Response Bytes: 220387
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

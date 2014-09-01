@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://behance-portafolio.blogspot.com.es/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [behance.net](http://behance-portafolio.blogspot.com.es/?m=1)
 
@@ -29,9 +32,6 @@ title: http://behance-portafolio.blogspot.com.es/?m=1
 *  JS Response Bytes: 1611970
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97652
-
-### Performance issues
-
 
 ### Performance issues
 

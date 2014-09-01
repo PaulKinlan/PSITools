@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.playplatformgames.com/one-up-lemonade-rush/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [One Up – Lemonade Rush!](http://www.playplatformgames.com/one-up-lemonade-rush/)
 
@@ -29,9 +35,6 @@ title: http://www.playplatformgames.com/one-up-lemonade-rush/
 *  JS Response Bytes: 3371033
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155315
-
-### Performance issues
-
 
 ### Performance issues
 

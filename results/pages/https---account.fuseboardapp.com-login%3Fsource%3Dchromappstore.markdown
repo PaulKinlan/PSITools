@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://account.fuseboardapp.com/login?source=chromappstore
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](https://account.fuseboardapp.com/login?source=chromappstore)
 
@@ -25,13 +28,10 @@ title: https://account.fuseboardapp.com/login?source=chromappstore
 *  HTML Response Bytes: 5485
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 4249
-*  Image Response Bytes: 18861
-*  JS Response Bytes: 382316
+*  Image Response Bytes: 18859
+*  JS Response Bytes: 382315
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

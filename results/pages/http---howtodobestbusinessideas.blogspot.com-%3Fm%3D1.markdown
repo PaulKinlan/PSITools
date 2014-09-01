@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://howtodobestbusinessideas.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Top Business Ideas](http://howtodobestbusinessideas.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://howtodobestbusinessideas.blogspot.com/?m=1
 *  JS Response Bytes: 788563
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287132
-
-### Performance issues
-
 
 ### Performance issues
 

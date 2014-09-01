@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://success.projecthawk.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BusinessSuccess™ Blueprint: The Blueprint to Your Successful Business](http://success.projecthawk.com/)
 
@@ -29,9 +32,6 @@ title: http://success.projecthawk.com/
 *  JS Response Bytes: 1525158
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 91207
-
-### Performance issues
-
 
 ### Performance issues
 

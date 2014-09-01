@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://traduccion-del-espanol-ingles.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Traducción del Español al Inglés](http://traduccion-del-espanol-ingles.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://traduccion-del-espanol-ingles.herokuapp.com/
 *  JS Response Bytes: 1591893
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95268
-
-### Performance issues
-
 
 ### Performance issues
 

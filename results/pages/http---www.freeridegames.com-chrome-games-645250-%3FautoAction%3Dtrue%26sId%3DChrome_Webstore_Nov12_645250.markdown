@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/645250/?autoAction=true&sId=Chrome_Webstore_Nov12_645250
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Magic Farm: Ultimate Flower for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/645250/?autoAction=true&sId=Chrome_Webstore_Nov12_645250)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/645250/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1378914
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31335
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://temple-run-online2.blogspot.com.tr/2014/04/temple-run.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [temple run hd: Temple Run](http://temple-run-online2.blogspot.com.tr/2014/04/temple-run.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://temple-run-online2.blogspot.com.tr/2014/04/temple-run.html?m=1
 *  JS Response Bytes: 720908
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95586
-
-### Performance issues
-
 
 ### Performance issues
 

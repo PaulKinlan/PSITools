@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.agoravale.com.br/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Agoravale - Portal regional](http://www.agoravale.com.br/)
 
@@ -29,9 +35,6 @@ title: http://www.agoravale.com.br/
 *  JS Response Bytes: 2126053
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19421
-
-### Performance issues
-
 
 ### Performance issues
 

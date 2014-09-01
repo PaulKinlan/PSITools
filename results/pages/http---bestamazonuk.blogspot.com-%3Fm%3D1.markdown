@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bestamazonuk.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://bestamazonuk.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://bestamazonuk.blogspot.com/?m=1
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18763
-
-### Performance issues
-
 
 ### Performance issues
 

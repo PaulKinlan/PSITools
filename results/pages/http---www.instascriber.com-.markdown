@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.instascriber.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [www.instascriber.com | 522: Connection timed out](http://www.instascriber.com/)
 
@@ -29,9 +31,6 @@ title: http://www.instascriber.com/
 *  JS Response Bytes: 32931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5819
-
-### Performance issues
-
 
 ### Performance issues
 

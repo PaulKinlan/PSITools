@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://royaltech.csod.com/client/royaltech/default.aspx
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Royal Technologies University](https://royaltech.csod.com/client/royaltech/default.aspx)
 
@@ -29,9 +34,6 @@ title: https://royaltech.csod.com/client/royaltech/default.aspx
 *  JS Response Bytes: 43806
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1506
-
-### Performance issues
-
 
 ### Performance issues
 

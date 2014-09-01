@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.eludi.net/pong/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [return!](http://www.eludi.net/pong/)
 
@@ -29,9 +33,6 @@ title: http://www.eludi.net/pong/
 *  JS Response Bytes: 434529
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

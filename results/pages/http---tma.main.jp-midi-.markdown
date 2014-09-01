@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://tma.main.jp/midi/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MIDI, con con, Converter.](http://tma.main.jp/midi/)
 
@@ -29,9 +31,6 @@ title: http://tma.main.jp/midi/
 *  JS Response Bytes: 492161
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

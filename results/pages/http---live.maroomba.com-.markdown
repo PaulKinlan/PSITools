@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://live.maroomba.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Maroomba Live](http://live.maroomba.com/)
 
@@ -29,9 +33,6 @@ title: http://live.maroomba.com/
 *  JS Response Bytes: 519519
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2189
-
-### Performance issues
-
 
 ### Performance issues
 

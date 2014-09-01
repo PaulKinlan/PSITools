@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://minecraft-gaame.blogspot.com.tr/2014/04/soliter-game.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [minecraft game chrome store: Soliter Game](http://minecraft-gaame.blogspot.com.tr/2014/04/soliter-game.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://minecraft-gaame.blogspot.com.tr/2014/04/soliter-game.html?m=1
 *  JS Response Bytes: 720867
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95589
-
-### Performance issues
-
 
 ### Performance issues
 

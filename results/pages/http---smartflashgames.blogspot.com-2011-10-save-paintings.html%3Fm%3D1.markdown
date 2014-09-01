@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://smartflashgames.blogspot.com/2011/10/save-paintings.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Smart Flash Games: Save the Paintings](http://smartflashgames.blogspot.com/2011/10/save-paintings.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://smartflashgames.blogspot.com/2011/10/save-paintings.html?m=1
 *  JS Response Bytes: 1509794
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110537
-
-### Performance issues
-
 
 ### Performance issues
 

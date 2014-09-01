@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://fabcam.net/fabcam.html#.U_eIG00ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FabCam - Cool pics from your webcam](http://fabcam.net/fabcam.html#.U_eIG00ieKA)
 
@@ -29,9 +36,6 @@ title: http://fabcam.net/fabcam.html#.U_eIG00ieKA
 *  JS Response Bytes: 1752489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4401
-
-### Performance issues
-
 
 ### Performance issues
 

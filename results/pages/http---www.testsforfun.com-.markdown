@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.testsforfun.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tests for fun](http://www.testsforfun.com/)
 
@@ -29,9 +32,6 @@ title: http://www.testsforfun.com/
 *  JS Response Bytes: 830316
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 608
-
-### Performance issues
-
 
 ### Performance issues
 

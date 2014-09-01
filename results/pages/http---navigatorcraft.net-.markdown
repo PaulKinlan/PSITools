@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://navigatorcraft.net/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [NavigatorCraft](http://navigatorcraft.net/)
 
@@ -29,9 +32,6 @@ title: http://navigatorcraft.net/
 *  JS Response Bytes: 744988
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

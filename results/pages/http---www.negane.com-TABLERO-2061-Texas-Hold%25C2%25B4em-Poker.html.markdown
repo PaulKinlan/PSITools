@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.negane.com/TABLERO/2061/Texas-Hold%C2%B4em-Poker.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Texas Hold´em Poker - NeGaNe.com](http://www.negane.com/TABLERO/2061/Texas-Hold%C2%B4em-Poker.html)
 
@@ -29,9 +35,6 @@ title: http://www.negane.com/TABLERO/2061/Texas-Hold%C2%B4em-Poker.html
 *  JS Response Bytes: 1496078
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113282
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://todo.kwebpia.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Todo List](http://todo.kwebpia.net/)
 
@@ -29,9 +34,6 @@ title: http://todo.kwebpia.net/
 *  JS Response Bytes: 732840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

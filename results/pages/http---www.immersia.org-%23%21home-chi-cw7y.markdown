@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.immersia.org/#!home-chi/cw7y
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [学习英语 - Immersia](http://www.immersia.org/#!home-chi/cw7y)
 
@@ -29,9 +34,6 @@ title: http://www.immersia.org/#!home-chi/cw7y
 *  JS Response Bytes: 4999061
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 221
-
-### Performance issues
-
 
 ### Performance issues
 

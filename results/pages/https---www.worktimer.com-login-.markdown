@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.worktimer.com/login/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WorkTimer | Login](https://www.worktimer.com/login/)
 
@@ -29,9 +32,6 @@ title: https://www.worktimer.com/login/
 *  JS Response Bytes: 146115
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1856
-
-### Performance issues
-
 
 ### Performance issues
 

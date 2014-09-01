@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://sotd.spot24.tv/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## ["Spot Of The Day" for Google Chrome™](http://sotd.spot24.tv/)
 
@@ -29,9 +32,6 @@ title: http://sotd.spot24.tv/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

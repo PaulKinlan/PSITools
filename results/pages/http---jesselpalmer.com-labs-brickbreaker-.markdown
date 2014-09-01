@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://jesselpalmer.com/labs/brickbreaker/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Brick Breaker](http://jesselpalmer.com/labs/brickbreaker/)
 
@@ -29,9 +32,6 @@ title: http://jesselpalmer.com/labs/brickbreaker/
 *  JS Response Bytes: 126425
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

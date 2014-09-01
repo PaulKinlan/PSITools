@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://m.imarcas.com/?url=http%3A%2F%2Fwww.imarcas.com%2F#2890
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [iMARCAS. Registro de Marcas. Protección Industrial.](http://m.imarcas.com/?url=http%3A%2F%2Fwww.imarcas.com%2F#2890)
 
@@ -29,9 +34,6 @@ title: http://m.imarcas.com/?url=http%3A%2F%2Fwww.imarcas.com%2F#2890
 *  JS Response Bytes: 866386
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 78
-
-### Performance issues
-
 
 ### Performance issues
 

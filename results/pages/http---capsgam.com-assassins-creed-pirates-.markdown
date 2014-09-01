@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://capsgam.com/assassins-creed-pirates/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Caps Games – Assassin’s Creed Pirates](http://capsgam.com/assassins-creed-pirates/)
 
@@ -29,9 +33,6 @@ title: http://capsgam.com/assassins-creed-pirates/
 *  JS Response Bytes: 879300
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15959
-
-### Performance issues
-
 
 ### Performance issues
 

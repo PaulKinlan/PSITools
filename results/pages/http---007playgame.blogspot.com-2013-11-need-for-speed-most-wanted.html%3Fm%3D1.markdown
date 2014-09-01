@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://007playgame.blogspot.com/2013/11/need-for-speed-most-wanted.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Online games, card games, casino games, free games: Need for Speed™ Most Wanted](http://007playgame.blogspot.com/2013/11/need-for-speed-most-wanted.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://007playgame.blogspot.com/2013/11/need-for-speed-most-wanted.html?m
 *  JS Response Bytes: 722309
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95602
-
-### Performance issues
-
 
 ### Performance issues
 

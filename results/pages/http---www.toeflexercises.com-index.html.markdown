@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.toeflexercises.com/index.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Toefl Exercises - Practice For Your Toefl Exam For Free](http://www.toeflexercises.com/index.html)
 
@@ -29,9 +31,6 @@ title: http://www.toeflexercises.com/index.html
 *  JS Response Bytes: 2344937
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4080
-
-### Performance issues
-
 
 ### Performance issues
 

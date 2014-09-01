@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://mail.formulists.com/cgi-sys/defaultwebpage.cgi
+EnableGzipCompression: true
 ---
 ## [Default Web Site Page](http://mail.formulists.com/cgi-sys/defaultwebpage.cgi)
 
@@ -29,9 +30,6 @@ title: http://mail.formulists.com/cgi-sys/defaultwebpage.cgi
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 74
-
-### Performance issues
-
 
 ### Performance issues
 

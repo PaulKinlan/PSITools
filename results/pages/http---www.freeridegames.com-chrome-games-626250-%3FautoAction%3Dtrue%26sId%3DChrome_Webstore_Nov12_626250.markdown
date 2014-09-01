@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/626250/?autoAction=true&sId=Chrome_Webstore_Nov12_626250
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Insider Tales: The Stolen Venus for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/626250/?autoAction=true&sId=Chrome_Webstore_Nov12_626250)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/626250/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1401376
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22930
-
-### Performance issues
-
 
 ### Performance issues
 

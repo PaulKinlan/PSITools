@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.solitairehalloween.com/?chromestore=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Solitaire Halloween](http://www.solitairehalloween.com/?chromestore=1)
 
@@ -29,9 +31,6 @@ title: http://www.solitairehalloween.com/?chromestore=1
 *  JS Response Bytes: 206912
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27541
-
-### Performance issues
-
 
 ### Performance issues
 

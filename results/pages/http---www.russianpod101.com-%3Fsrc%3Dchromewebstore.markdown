@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.russianpod101.com/?src=chromewebstore
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn Russian online. With our podcast, learning Russian is easy. | RussianPod101.com](http://www.russianpod101.com/?src=chromewebstore)
 
@@ -29,9 +33,6 @@ title: http://www.russianpod101.com/?src=chromewebstore
 *  JS Response Bytes: 599112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8757
-
-### Performance issues
-
 
 ### Performance issues
 

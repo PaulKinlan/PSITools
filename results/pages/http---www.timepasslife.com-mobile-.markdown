@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.timepasslife.com/mobile/
+MinimizeRenderBlockingResources: true
 ---
 ## [TimePassLife - It’s time to go social. We’ll make it simple.](http://www.timepasslife.com/mobile/)
 
@@ -29,9 +30,6 @@ title: http://www.timepasslife.com/mobile/
 *  JS Response Bytes: 471995
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 469
-
-### Performance issues
-
 
 ### Performance issues
 

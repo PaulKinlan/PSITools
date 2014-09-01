@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.invoicesonline.co.za/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Invoices Online - Online Invoicing | Web Based Invoice Application | South African Invoicing for Small Businesses](https://www.invoicesonline.co.za/)
 
@@ -29,9 +32,6 @@ title: https://www.invoicesonline.co.za/
 *  JS Response Bytes: 631853
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28554
-
-### Performance issues
-
 
 ### Performance issues
 

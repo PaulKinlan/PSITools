@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromebadpiggies.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Chrome Bad Piggies](http://chromebadpiggies.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://chromebadpiggies.blogspot.com/?m=1
 *  JS Response Bytes: 788562
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 292893
-
-### Performance issues
-
 
 ### Performance issues
 

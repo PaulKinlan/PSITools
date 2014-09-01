@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chrome-games.com/play-crash-bandicoot-online
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Crash Bandicoot Online | Chrome-Games.Com](http://www.chrome-games.com/play-crash-bandicoot-online)
 
@@ -29,9 +35,6 @@ title: http://www.chrome-games.com/play-crash-bandicoot-online
 *  JS Response Bytes: 2324927
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 194723
-
-### Performance issues
-
 
 ### Performance issues
 

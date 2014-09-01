@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://sprite-web-viewer.herokuapp.com/#/gallery
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [](http://sprite-web-viewer.herokuapp.com/#/gallery)
 
@@ -29,9 +32,6 @@ title: http://sprite-web-viewer.herokuapp.com/#/gallery
 *  JS Response Bytes: 1542762
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4102
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.playchrome.com/131417/5.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Chrome Play » Minecraft](http://www.playchrome.com/131417/5.html)
 
@@ -29,9 +34,6 @@ title: http://www.playchrome.com/131417/5.html
 *  JS Response Bytes: 719588
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15532
-
-### Performance issues
-
 
 ### Performance issues
 

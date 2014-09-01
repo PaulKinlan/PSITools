@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://cloudygame.com/#play/angry-birds-star-wars/25
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Cloudy games | play fun games ;)](http://cloudygame.com/#play/angry-birds-star-wars/25)
 
@@ -29,9 +33,6 @@ title: http://cloudygame.com/#play/angry-birds-star-wars/25
 *  JS Response Bytes: 1676141
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 473846
-
-### Performance issues
-
 
 ### Performance issues
 

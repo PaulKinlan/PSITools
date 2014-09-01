@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://learn101.org/chinese.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn Chinese | learn101.org](http://learn101.org/chinese.php)
 
@@ -29,9 +33,6 @@ title: http://learn101.org/chinese.php
 *  JS Response Bytes: 487709
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15638
-
-### Performance issues
-
 
 ### Performance issues
 

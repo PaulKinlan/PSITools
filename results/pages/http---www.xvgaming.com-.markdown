@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.xvgaming.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Forums - XvGaming Forum](http://www.xvgaming.com/)
 
@@ -29,9 +32,6 @@ title: http://www.xvgaming.com/
 *  JS Response Bytes: 987229
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 769
-
-### Performance issues
-
 
 ### Performance issues
 

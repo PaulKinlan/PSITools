@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.surgery-games.org/virtual-dentist-2/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Virtual Dentist game](http://www.surgery-games.org/virtual-dentist-2/)
 
@@ -29,9 +36,6 @@ title: http://www.surgery-games.org/virtual-dentist-2/
 *  JS Response Bytes: 2429054
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 123864
-
-### Performance issues
-
 
 ### Performance issues
 

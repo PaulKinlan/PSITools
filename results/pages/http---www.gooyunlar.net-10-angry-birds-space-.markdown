@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gooyunlar.net/10/angry-birds-space/
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gooyunlar.net](http://www.gooyunlar.net/10/angry-birds-space/)
 
@@ -29,9 +32,6 @@ title: http://www.gooyunlar.net/10/angry-birds-space/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

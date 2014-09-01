@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://howifeelrightnow.appspot.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [How I Feel Right Now](http://howifeelrightnow.appspot.com/)
 
@@ -29,9 +31,6 @@ title: http://howifeelrightnow.appspot.com/
 *  JS Response Bytes: 97067
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://melomi.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Поздравления, пожелания, сценарий праздников, конкурсы для праздника и открытки с днем рождения](http://melomi.ru/)
 
@@ -29,9 +34,6 @@ title: http://melomi.ru/
 *  JS Response Bytes: 423645
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30266
-
-### Performance issues
-
 
 ### Performance issues
 

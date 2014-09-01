@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://japanradio.flowsoft7.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Japan Radio](http://japanradio.flowsoft7.com/)
 
@@ -29,9 +33,6 @@ title: http://japanradio.flowsoft7.com/
 *  JS Response Bytes: 399106
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

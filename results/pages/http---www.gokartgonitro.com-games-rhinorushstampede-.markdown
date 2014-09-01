@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gokartgonitro.com/games/rhinorushstampede/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [XformGames.com | Rhino Rush Stampede](http://www.gokartgonitro.com/games/rhinorushstampede/)
 
@@ -29,9 +35,6 @@ title: http://www.gokartgonitro.com/games/rhinorushstampede/
 *  JS Response Bytes: 534395
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4151
-
-### Performance issues
-
 
 ### Performance issues
 

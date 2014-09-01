@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://efpgames.com/temple-run-oz.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [EFPgames.Com | Flash Games – Temple Run OZ](http://efpgames.com/temple-run-oz.html)
 
@@ -29,9 +35,6 @@ title: http://efpgames.com/temple-run-oz.html
 *  JS Response Bytes: 412514
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 803
-
-### Performance issues
-
 
 ### Performance issues
 

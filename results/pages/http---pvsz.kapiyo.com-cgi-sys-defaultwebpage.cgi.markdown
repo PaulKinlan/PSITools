@@ -33,8 +33,5 @@ title: http://pvsz.kapiyo.com/cgi-sys/defaultwebpage.cgi
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

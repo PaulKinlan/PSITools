@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.darpan.me/darpan/home/index.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Darpan---- A simplified PC experience for India](http://www.darpan.me/darpan/home/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.darpan.me/darpan/home/index.html
 *  JS Response Bytes: 249449
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7378
-
-### Performance issues
-
 
 ### Performance issues
 

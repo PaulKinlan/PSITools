@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://1453allgames.blogspot.com/2013/02/sonic-gem-collector.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Chrome Browser Games: Sonic Gem Collector](http://1453allgames.blogspot.com/2013/02/sonic-gem-collector.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://1453allgames.blogspot.com/2013/02/sonic-gem-collector.html?m=1
 *  JS Response Bytes: 2394175
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 303220
-
-### Performance issues
-
 
 ### Performance issues
 

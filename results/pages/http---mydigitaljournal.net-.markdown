@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://mydigitaljournal.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [My Digital Journal](http://mydigitaljournal.net/)
 
@@ -29,9 +31,6 @@ title: http://mydigitaljournal.net/
 *  JS Response Bytes: 179249
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 177
-
-### Performance issues
-
 
 ### Performance issues
 

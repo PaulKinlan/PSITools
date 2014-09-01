@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://newflashgameto.blogspot.com.tr/2014/07/highway-race.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [NewflashgameTo: HIGHWAY RACE](http://newflashgameto.blogspot.com.tr/2014/07/highway-race.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://newflashgameto.blogspot.com.tr/2014/07/highway-race.html?m=1
 *  JS Response Bytes: 1308452
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110741
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gamesangel.net/?=404;http://www.gamesangel.net:80/ultimate-flash-sonic.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [gamesangel.net](http://gamesangel.net/?=404;http://www.gamesangel.net:80/ultimate-flash-sonic.html&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://gamesangel.net/?=404;http://www.gamesangel.net:80/ultimate-flash-s
 *  JS Response Bytes: 219744
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116
-
-### Performance issues
-
 
 ### Performance issues
 

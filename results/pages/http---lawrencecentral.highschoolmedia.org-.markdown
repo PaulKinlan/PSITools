@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://lawrencecentral.highschoolmedia.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cub Online](http://lawrencecentral.highschoolmedia.org/)
 
@@ -29,9 +35,6 @@ title: http://lawrencecentral.highschoolmedia.org/
 *  JS Response Bytes: 504371
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 443
-
-### Performance issues
-
 
 ### Performance issues
 

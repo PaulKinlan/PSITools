@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.powerlaptop.ro/nput/excel/gdocs.php
+EnableGzipCompression: true
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.powerlaptop.ro/nput/excel/gdocs.php)
 
@@ -29,9 +32,6 @@ title: http://www.powerlaptop.ro/nput/excel/gdocs.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

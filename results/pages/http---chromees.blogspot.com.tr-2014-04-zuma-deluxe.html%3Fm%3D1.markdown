@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromees.blogspot.com.tr/2014/04/zuma-deluxe.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [chrome store full hd game: zuma deluxe](http://chromees.blogspot.com.tr/2014/04/zuma-deluxe.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chromees.blogspot.com.tr/2014/04/zuma-deluxe.html?m=1
 *  JS Response Bytes: 720883
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95577
-
-### Performance issues
-
 
 ### Performance issues
 

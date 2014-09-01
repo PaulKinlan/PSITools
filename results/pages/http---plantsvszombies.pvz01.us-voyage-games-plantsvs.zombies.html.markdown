@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://plantsvszombies.pvz01.us/voyage/games/plantsvs.zombies.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Plants VS. Zombies](http://plantsvszombies.pvz01.us/voyage/games/plantsvs.zombies.html)
 
@@ -29,9 +35,6 @@ title: http://plantsvszombies.pvz01.us/voyage/games/plantsvs.zombies.html
 *  JS Response Bytes: 730897
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16519
-
-### Performance issues
-
 
 ### Performance issues
 

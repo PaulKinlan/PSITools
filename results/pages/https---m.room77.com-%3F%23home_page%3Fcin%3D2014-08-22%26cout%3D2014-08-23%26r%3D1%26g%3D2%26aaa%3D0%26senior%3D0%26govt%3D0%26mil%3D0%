@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://m.room77.com/?#home_page?cin=2014-08-22&cout=2014-08-23&r=1&g=2&aaa=0&senior=0&govt=0&mil=0&lat=0&lon=0&serp_hid=0&key=&sgst_id=&sgst_type=0&curr=USD&hid=0&sid=0&source=&htok=&rtok=&c=0&b=0&ian=32388420&dialog=&page_modes=%7B%7D
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Room 77 - Find a Place to Stay](https://m.room77.com/?#home_page?cin=2014-08-22&cout=2014-08-23&r=1&g=2&aaa=0&senior=0&govt=0&mil=0&lat=0&lon=0&serp_hid=0&key=&sgst_id=&sgst_type=0&curr=USD&hid=0&sid=0&source=&htok=&rtok=&c=0&b=0&ian=32388420&dialog=&page_modes=%7B%7D)
 
@@ -29,9 +33,6 @@ title: https://m.room77.com/?#home_page?cin=2014-08-22&cout=2014-08-23&r=1&g=2&a
 *  JS Response Bytes: 439713
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1955
-
-### Performance issues
-
 
 ### Performance issues
 

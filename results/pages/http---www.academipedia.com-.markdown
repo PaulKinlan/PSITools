@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.academipedia.com/
+ServerResponseTime: true
 ---
 ## [](http://www.academipedia.com/)
 
@@ -29,9 +30,6 @@ title: http://www.academipedia.com/
 *  JS Response Bytes: 9100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49
-
-### Performance issues
-
 
 ### Performance issues
 

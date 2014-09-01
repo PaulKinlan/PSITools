@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://visiondemo.wordpress.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Vision | A Photographers Dream](http://visiondemo.wordpress.com/)
 
@@ -13,32 +17,28 @@ title: http://visiondemo.wordpress.com/
 
 ### Request information
 
-*  Number of Resources: 37
+*  Number of Resources: 36
 *  Number of Hosts: 12
-*  Number of JS Resources: 6
+*  Number of JS Resources: 5
 *  Number of CSS Resources: 5
-*  Nubmer of Static Resources: 31
-*  Total Request Bytes: 4509
+*  Nubmer of Static Resources: 30
+*  Total Request Bytes: 4430
 
 ### Response data
 
-*  HTML Response Bytes: 39923
+*  HTML Response Bytes: 40190
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 195162
-*  Image Response Bytes: 999030
-*  JS Response Bytes: 613158
+*  CSS Response Bytes: 195608
+*  Image Response Bytes: 1004606
+*  JS Response Bytes: 512019
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28430
-
-### Performance issues
-
 
 ### Performance issues
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Prioritize visible content
 *  Enable compression
-*  Improve server response time
 
 ### Mobile UX issues
 

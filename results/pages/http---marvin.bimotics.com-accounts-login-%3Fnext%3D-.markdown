@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://marvin.bimotics.com/accounts/login/?next=/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bimotics - log in](http://marvin.bimotics.com/accounts/login/?next=/)
 
@@ -29,9 +31,6 @@ title: http://marvin.bimotics.com/accounts/login/?next=/
 *  JS Response Bytes: 681428
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 139004
-
-### Performance issues
-
 
 ### Performance issues
 

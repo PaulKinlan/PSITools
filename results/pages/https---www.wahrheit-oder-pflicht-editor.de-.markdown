@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://www.wahrheit-oder-pflicht-editor.de/
+MinimizeRenderBlockingResources: true
 ---
 ## [Wahrheit oder Pflicht Editor](https://www.wahrheit-oder-pflicht-editor.de/)
 
@@ -29,9 +30,6 @@ title: https://www.wahrheit-oder-pflicht-editor.de/
 *  JS Response Bytes: 513730
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 203
-
-### Performance issues
-
 
 ### Performance issues
 

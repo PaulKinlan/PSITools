@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mytweetplace.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [A Twitter Web Client | My Tweet Place](http://www.mytweetplace.com/)
 
@@ -29,9 +32,6 @@ title: http://www.mytweetplace.com/
 *  JS Response Bytes: 629609
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 90830
-
-### Performance issues
-
 
 ### Performance issues
 

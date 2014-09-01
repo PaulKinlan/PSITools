@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.drogbaster.it/editor_fotografico_online.htm
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Editor online per migliorare le vostre foto personali](http://www.drogbaster.it/editor_fotografico_online.htm)
 
@@ -29,9 +32,6 @@ title: http://www.drogbaster.it/editor_fotografico_online.htm
 *  JS Response Bytes: 1971717
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 130305
-
-### Performance issues
-
 
 ### Performance issues
 

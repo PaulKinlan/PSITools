@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://empire-legends.herokuapp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Empire Legends](http://empire-legends.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://empire-legends.herokuapp.com/
 *  JS Response Bytes: 181843
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

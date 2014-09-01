@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gamelivegames.com/?=404;http://www.gamelivegames.com:80/ice-cream-lover-ii.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [gamelivegames.com](http://gamelivegames.com/?=404;http://www.gamelivegames.com:80/ice-cream-lover-ii.html&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://gamelivegames.com/?=404;http://www.gamelivegames.com:80/ice-cream-
 *  JS Response Bytes: 219744
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120
-
-### Performance issues
-
 
 ### Performance issues
 

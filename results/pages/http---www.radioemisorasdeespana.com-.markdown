@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.radioemisorasdeespana.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Radio Emisoras de Espana](http://www.radioemisorasdeespana.com/)
 
@@ -29,9 +34,6 @@ title: http://www.radioemisorasdeespana.com/
 *  JS Response Bytes: 1568206
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98161
-
-### Performance issues
-
 
 ### Performance issues
 

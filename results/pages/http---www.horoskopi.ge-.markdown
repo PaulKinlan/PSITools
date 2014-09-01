@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.horoskopi.ge/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Horoskopi.ge - ყოველდღიური ჰოროსკოპი](http://www.horoskopi.ge/)
 
@@ -29,9 +35,6 @@ title: http://www.horoskopi.ge/
 *  JS Response Bytes: 356611
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3710
-
-### Performance issues
-
 
 ### Performance issues
 

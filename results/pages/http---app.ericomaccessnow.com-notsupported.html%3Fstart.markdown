@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://app.ericomaccessnow.com/notsupported.html?start
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://app.ericomaccessnow.com/notsupported.html?start)
 
@@ -29,9 +32,6 @@ title: http://app.ericomaccessnow.com/notsupported.html?start
 *  JS Response Bytes: 244681
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 75
-
-### Performance issues
-
 
 ### Performance issues
 

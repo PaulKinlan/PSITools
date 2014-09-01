@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://shoe.sizeconversion.net/shoe
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Shoe Size Conversion](http://shoe.sizeconversion.net/shoe)
 
@@ -29,9 +32,6 @@ title: http://shoe.sizeconversion.net/shoe
 *  JS Response Bytes: 265694
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

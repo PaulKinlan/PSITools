@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.i-speechwriter.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [i-Speechwriter](https://www.i-speechwriter.com/)
 
@@ -29,9 +34,6 @@ title: https://www.i-speechwriter.com/
 *  JS Response Bytes: 1521051
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4091
-
-### Performance issues
-
 
 ### Performance issues
 

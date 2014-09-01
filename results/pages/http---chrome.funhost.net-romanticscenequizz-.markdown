@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://chrome.funhost.net/romanticscenequizz/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Valentine Scene Quizz - Game on Fun Host Games!](http://chrome.funhost.net/romanticscenequizz/)
 
@@ -29,9 +34,6 @@ title: http://chrome.funhost.net/romanticscenequizz/
 *  JS Response Bytes: 1826373
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19619
-
-### Performance issues
-
 
 ### Performance issues
 

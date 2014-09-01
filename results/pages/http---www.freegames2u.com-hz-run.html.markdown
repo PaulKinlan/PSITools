@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.freegames2u.com/hz-run.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HZ RUN | Free Games 2U](http://www.freegames2u.com/hz-run.html)
 
@@ -29,9 +37,6 @@ title: http://www.freegames2u.com/hz-run.html
 *  JS Response Bytes: 1529363
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109929
-
-### Performance issues
-
 
 ### Performance issues
 

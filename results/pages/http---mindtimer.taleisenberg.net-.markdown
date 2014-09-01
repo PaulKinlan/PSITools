@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://mindtimer.taleisenberg.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Mindtimer](http://mindtimer.taleisenberg.net/)
 
@@ -29,9 +31,6 @@ title: http://mindtimer.taleisenberg.net/
 *  JS Response Bytes: 1190446
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 202022
-
-### Performance issues
-
 
 ### Performance issues
 

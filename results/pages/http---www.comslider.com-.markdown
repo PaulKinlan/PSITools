@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.comslider.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [comSlider : Free Online Slideshow Creator](http://www.comslider.com/)
 
@@ -29,9 +35,6 @@ title: http://www.comslider.com/
 *  JS Response Bytes: 4701009
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 346632
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://coolonlinegamehub.blogspot.com/2014/05/gta-5-cheats.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Chrome App Blog: GTA 5 cheats](http://coolonlinegamehub.blogspot.com/2014/05/gta-5-cheats.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://coolonlinegamehub.blogspot.com/2014/05/gta-5-cheats.html?m=1
 *  JS Response Bytes: 762846
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95588
-
-### Performance issues
-
 
 ### Performance issues
 

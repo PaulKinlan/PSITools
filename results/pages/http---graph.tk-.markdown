@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://graph.tk/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
 ---
 ## [graph.tk](http://graph.tk/)
 
@@ -29,9 +32,6 @@ title: http://graph.tk/
 *  JS Response Bytes: 351206
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

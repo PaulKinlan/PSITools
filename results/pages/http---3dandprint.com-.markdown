@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://3dandprint.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free 3D Ads, News And Forum On 3D And Print](http://3dandprint.com/)
 
@@ -29,9 +33,6 @@ title: http://3dandprint.com/
 *  JS Response Bytes: 1142456
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 36716
-
-### Performance issues
-
 
 ### Performance issues
 

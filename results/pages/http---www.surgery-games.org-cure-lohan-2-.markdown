@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/cure-lohan-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cure Lohan game](http://www.surgery-games.org/cure-lohan-2/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/cure-lohan-2/
 *  JS Response Bytes: 2636899
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122104
-
-### Performance issues
-
 
 ### Performance issues
 

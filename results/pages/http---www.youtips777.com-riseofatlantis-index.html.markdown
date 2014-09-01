@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.youtips777.com/riseofatlantis/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [he Rise of Atlantis Premium Site - Playrix Games](http://www.youtips777.com/riseofatlantis/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.youtips777.com/riseofatlantis/index.html
 *  JS Response Bytes: 553998
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15447
-
-### Performance issues
-
 
 ### Performance issues
 

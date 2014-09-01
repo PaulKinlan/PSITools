@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.heuxasoftware.com/app/solitire/index.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Solitaire](http://www.heuxasoftware.com/app/solitire/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.heuxasoftware.com/app/solitire/index.html
 *  JS Response Bytes: 1282147
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27675
-
-### Performance issues
-
 
 ### Performance issues
 

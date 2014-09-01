@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://moh97.us/flow/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flow Colors](http://moh97.us/flow/)
 
@@ -29,9 +34,6 @@ title: http://moh97.us/flow/
 *  JS Response Bytes: 2568351
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28116
-
-### Performance issues
-
 
 ### Performance issues
 

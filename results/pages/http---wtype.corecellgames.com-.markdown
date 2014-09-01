@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://wtype.corecellgames.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Wicked Monsters Typing: Ultimate typing game to dominate the world!!](http://wtype.corecellgames.com/)
 
@@ -29,9 +34,6 @@ title: http://wtype.corecellgames.com/
 *  JS Response Bytes: 615170
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94971
-
-### Performance issues
-
 
 ### Performance issues
 

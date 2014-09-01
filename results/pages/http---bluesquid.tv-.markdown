@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://bluesquid.tv/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [Blue Squid TV](http://bluesquid.tv/)
 
@@ -29,9 +34,6 @@ title: http://bluesquid.tv/
 *  JS Response Bytes: 8615
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

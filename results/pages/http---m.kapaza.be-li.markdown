@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.kapaza.be/li
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [](http://m.kapaza.be/li)
 
@@ -29,9 +32,6 @@ title: http://m.kapaza.be/li
 *  JS Response Bytes: 133651
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 908
-
-### Performance issues
-
 
 ### Performance issues
 

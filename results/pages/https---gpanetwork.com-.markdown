@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://gpanetwork.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Student Information System School Management System | GPA Network SIS SMS - Student Information System School Management App System Students Parents Teachers Administrators Web 2.0](https://gpanetwork.com/)
 
@@ -29,9 +34,6 @@ title: https://gpanetwork.com/
 *  JS Response Bytes: 169667
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 440
-
-### Performance issues
-
 
 ### Performance issues
 

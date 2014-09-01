@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.optionretraite.fr/btoc_new/newindex.do?domain=optionretraite.fr&OKXYS
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Option Retraite: l'outil gratuit d'audit et bilan retraite](http://www.optionretraite.fr/btoc_new/newindex.do?domain=optionretraite.fr&OKXYS)
 
@@ -29,9 +31,6 @@ title: http://www.optionretraite.fr/btoc_new/newindex.do?domain=optionretraite.f
 *  JS Response Bytes: 1259462
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23384
-
-### Performance issues
-
 
 ### Performance issues
 

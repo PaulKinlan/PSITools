@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pulado.com/apps/nywwh/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Raider Squadron](http://www.pulado.com/apps/nywwh/)
 
@@ -29,9 +33,6 @@ title: http://www.pulado.com/apps/nywwh/
 *  JS Response Bytes: 21833
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

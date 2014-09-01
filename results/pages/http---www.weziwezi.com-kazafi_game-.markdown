@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.weziwezi.com/kazafi_game/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WeZi WeZi | مجتمع وزي وزي العربي](http://www.weziwezi.com/kazafi_game/)
 
@@ -29,9 +34,6 @@ title: http://www.weziwezi.com/kazafi_game/
 *  JS Response Bytes: 768768
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 839
-
-### Performance issues
-
 
 ### Performance issues
 

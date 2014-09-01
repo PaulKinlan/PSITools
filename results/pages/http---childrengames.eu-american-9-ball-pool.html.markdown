@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://childrengames.eu/american-9-ball-pool.html
+EnableGzipCompression: true
 ---
 ## [ChildrenGames.EU](http://childrengames.eu/american-9-ball-pool.html)
 
@@ -29,9 +30,6 @@ title: http://childrengames.eu/american-9-ball-pool.html
 *  JS Response Bytes: 303541
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

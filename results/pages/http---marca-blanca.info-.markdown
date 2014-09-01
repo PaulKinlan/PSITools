@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://marca-blanca.info/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MarcaBlanca](http://marca-blanca.info/)
 
@@ -29,9 +32,6 @@ title: http://marca-blanca.info/
 *  JS Response Bytes: 287554
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

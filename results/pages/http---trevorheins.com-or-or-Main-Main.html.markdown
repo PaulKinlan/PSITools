@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://trevorheins.com/or/or/Main/Main.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Main](http://trevorheins.com/or/or/Main/Main.html)
 
@@ -29,9 +34,6 @@ title: http://trevorheins.com/or/or/Main/Main.html
 *  JS Response Bytes: 1197111
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96453
-
-### Performance issues
-
 
 ### Performance issues
 

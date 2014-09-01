@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://taux-de-change.monnaie.me/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Taux de change](http://taux-de-change.monnaie.me/)
 
@@ -29,9 +32,6 @@ title: http://taux-de-change.monnaie.me/
 *  JS Response Bytes: 558152
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 925
-
-### Performance issues
-
 
 ### Performance issues
 

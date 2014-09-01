@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.sunrisevr.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [S U N R I S E](http://www.sunrisevr.com/)
 
@@ -29,9 +33,6 @@ title: http://www.sunrisevr.com/
 *  JS Response Bytes: 1289852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21909
-
-### Performance issues
-
 
 ### Performance issues
 

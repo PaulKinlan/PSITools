@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.chromegameszone.com/category/10
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bounce - Chrome Games Zone](http://www.chromegameszone.com/category/10)
 
@@ -29,9 +32,6 @@ title: http://www.chromegameszone.com/category/10
 *  JS Response Bytes: 740460
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1180
-
-### Performance issues
-
 
 ### Performance issues
 

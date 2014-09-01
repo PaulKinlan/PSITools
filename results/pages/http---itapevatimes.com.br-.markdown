@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://itapevatimes.com.br/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jornal Itapeva Times Jornal Itapeva Times - Seu portal de notícias de Itapeva e região](http://itapevatimes.com.br/)
 
@@ -29,9 +34,6 @@ title: http://itapevatimes.com.br/
 *  JS Response Bytes: 2715058
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14606
-
-### Performance issues
-
 
 ### Performance issues
 

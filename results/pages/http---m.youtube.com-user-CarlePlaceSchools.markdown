@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.youtube.com/user/CarlePlaceSchools
+AvoidLandingPageRedirects: true
+PrioritizeVisibleContent: true
 ---
 ## [CarlePlaceSchools - YouTube](http://m.youtube.com/user/CarlePlaceSchools)
 
@@ -29,9 +31,6 @@ title: http://m.youtube.com/user/CarlePlaceSchools
 *  JS Response Bytes: 97175
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2634
-
-### Performance issues
-
 
 ### Performance issues
 

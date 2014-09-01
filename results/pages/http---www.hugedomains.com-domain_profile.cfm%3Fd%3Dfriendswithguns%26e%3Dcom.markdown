@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.hugedomains.com/domain_profile.cfm?d=friendswithguns&e=com
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HugeDomains.com - FriendsWithGuns.com is for Sale (Friends With Guns)](http://www.hugedomains.com/domain_profile.cfm?d=friendswithguns&e=com)
 
@@ -29,9 +33,6 @@ title: http://www.hugedomains.com/domain_profile.cfm?d=friendswithguns&e=com
 *  JS Response Bytes: 300754
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 446
-
-### Performance issues
-
 
 ### Performance issues
 

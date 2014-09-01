@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://skysearch.sksapps.org/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SkySearch Beta - Search for OneDrive™ (formerly SkyDrive™)- Instantly find files, folders and albums among your private and shared folders](http://skysearch.sksapps.org/)
 
@@ -29,9 +34,6 @@ title: http://skysearch.sksapps.org/
 *  JS Response Bytes: 466865
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29802
-
-### Performance issues
-
 
 ### Performance issues
 

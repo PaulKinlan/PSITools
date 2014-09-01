@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.nergames.pw/?s=Farm+Heroes
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Farm Heroes – Search Results – Online Best Games](http://www.nergames.pw/?s=Farm+Heroes)
 
@@ -29,9 +36,6 @@ title: http://www.nergames.pw/?s=Farm+Heroes
 *  JS Response Bytes: 560379
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

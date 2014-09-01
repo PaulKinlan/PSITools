@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.edicy.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Edicy — Create a Website — Easy to use Website Builder](http://www.edicy.com/)
 
@@ -29,9 +32,6 @@ title: http://www.edicy.com/
 *  JS Response Bytes: 165783
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

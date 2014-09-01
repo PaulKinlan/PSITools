@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://tracqlist.com/?c
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [tracqlist.com · you know, for music](http://tracqlist.com/?c)
 
@@ -29,9 +32,6 @@ title: http://tracqlist.com/?c
 *  JS Response Bytes: 843649
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18769
-
-### Performance issues
-
 
 ### Performance issues
 

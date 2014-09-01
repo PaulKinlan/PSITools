@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://beta.birdhousehq.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Birdhouse](https://beta.birdhousehq.com/)
 
@@ -29,9 +34,6 @@ title: https://beta.birdhousehq.com/
 *  JS Response Bytes: 1232768
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

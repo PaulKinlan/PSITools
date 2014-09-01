@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.radios.com.pe/mobile/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Radios en vivo - emisoras de Peru, radios en linea](http://www.radios.com.pe/mobile/)
 
@@ -29,9 +31,6 @@ title: http://www.radios.com.pe/mobile/
 *  JS Response Bytes: 1536075
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110137
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.paulselearning.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Paul's E-Learning Resources](http://www.paulselearning.com/)
 
@@ -29,9 +33,6 @@ title: http://www.paulselearning.com/
 *  JS Response Bytes: 453790
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61860
-
-### Performance issues
-
 
 ### Performance issues
 

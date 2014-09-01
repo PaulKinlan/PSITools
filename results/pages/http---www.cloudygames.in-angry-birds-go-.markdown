@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.cloudygames.in/angry-birds-go/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds go](http://www.cloudygames.in/angry-birds-go/)
 
@@ -29,9 +34,6 @@ title: http://www.cloudygames.in/angry-birds-go/
 *  JS Response Bytes: 1854639
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 176396
-
-### Performance issues
-
 
 ### Performance issues
 

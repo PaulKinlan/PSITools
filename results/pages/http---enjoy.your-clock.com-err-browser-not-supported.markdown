@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://enjoy.your-clock.com/err/browser-not-supported
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Browser Not Supported](http://enjoy.your-clock.com/err/browser-not-supported)
 
@@ -29,9 +31,6 @@ title: http://enjoy.your-clock.com/err/browser-not-supported
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 413
-
-### Performance issues
-
 
 ### Performance issues
 

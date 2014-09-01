@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.3d-game.co/cargo-bridge/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Cargo Bridge game](http://www.3d-game.co/cargo-bridge/)
 
@@ -29,9 +34,6 @@ title: http://www.3d-game.co/cargo-bridge/
 *  JS Response Bytes: 2676533
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 153904
-
-### Performance issues
-
 
 ### Performance issues
 

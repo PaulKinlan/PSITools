@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://blit.li/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [blit.li -- The web done lite.](http://blit.li/)
 
@@ -29,9 +31,6 @@ title: http://blit.li/
 *  JS Response Bytes: 14956
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

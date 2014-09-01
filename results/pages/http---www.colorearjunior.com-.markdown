@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.colorearjunior.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dibujos para colorear, dibujos para Imprimir, dibujos para pintar](http://www.colorearjunior.com/)
 
@@ -29,9 +32,6 @@ title: http://www.colorearjunior.com/
 *  JS Response Bytes: 1619399
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110251
-
-### Performance issues
-
 
 ### Performance issues
 

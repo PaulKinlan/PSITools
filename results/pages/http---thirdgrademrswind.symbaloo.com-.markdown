@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://thirdgrademrswind.symbaloo.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Symbaloo - Your Bookmarks and favorites in the cloud](http://thirdgrademrswind.symbaloo.com/)
 
@@ -29,9 +33,6 @@ title: http://thirdgrademrswind.symbaloo.com/
 *  JS Response Bytes: 891544
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2229
-
-### Performance issues
-
 
 ### Performance issues
 

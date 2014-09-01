@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.oodle.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Oodle](http://www.oodle.com/)
 
@@ -29,9 +31,6 @@ title: http://www.oodle.com/
 *  JS Response Bytes: 174791
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

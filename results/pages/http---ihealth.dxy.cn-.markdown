@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ihealth.dxy.cn/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [健康互联_丁香园](http://ihealth.dxy.cn/)
 
@@ -29,9 +31,6 @@ title: http://ihealth.dxy.cn/
 *  JS Response Bytes: 439056
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 455
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.smartamp.com/upgrade
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [Unsupported Browser](https://www.smartamp.com/upgrade)
 
@@ -29,9 +31,6 @@ title: https://www.smartamp.com/upgrade
 *  JS Response Bytes: 2594957
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53
-
-### Performance issues
-
 
 ### Performance issues
 

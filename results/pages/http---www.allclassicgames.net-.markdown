@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.allclassicgames.net/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [All Classic Games](http://www.allclassicgames.net/)
 
@@ -29,9 +35,6 @@ title: http://www.allclassicgames.net/
 *  JS Response Bytes: 5065381
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14709
-
-### Performance issues
-
 
 ### Performance issues
 

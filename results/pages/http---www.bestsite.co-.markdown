@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.bestsite.co/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Easy Internet Surfing from BestSite.co](http://www.bestsite.co/)
 
@@ -29,9 +32,6 @@ title: http://www.bestsite.co/
 *  JS Response Bytes: 1109023
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 238
-
-### Performance issues
-
 
 ### Performance issues
 

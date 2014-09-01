@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromegames2.blogspot.com/2013/06/manuganu.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [chrome games 2: MANUGANU](http://chromegames2.blogspot.com/2013/06/manuganu.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chromegames2.blogspot.com/2013/06/manuganu.html?m=1
 *  JS Response Bytes: 1067976
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97974
-
-### Performance issues
-
 
 ### Performance issues
 

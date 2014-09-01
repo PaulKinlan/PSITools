@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://nkonnect.com/technology-solutions/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Internet of Things | Mobile and Cloud | Embedded Mobile | Human Machine Interface – Nkonnect](http://nkonnect.com/technology-solutions/)
 
@@ -29,9 +34,6 @@ title: http://nkonnect.com/technology-solutions/
 *  JS Response Bytes: 260129
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 69754
-
-### Performance issues
-
 
 ### Performance issues
 

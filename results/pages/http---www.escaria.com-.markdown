@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.escaria.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Escaria - The free to play strategy game!](http://www.escaria.com/)
 
@@ -29,9 +35,6 @@ title: http://www.escaria.com/
 *  JS Response Bytes: 1091229
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95769
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.youidraw.com/#logocreatorapp
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [YouiDraw, Online Vector Graphic Design, Drawing Online Logo Maker.](http://www.youidraw.com/#logocreatorapp)
 
@@ -29,9 +33,6 @@ title: http://www.youidraw.com/#logocreatorapp
 *  JS Response Bytes: 1911128
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2640
-
-### Performance issues
-
 
 ### Performance issues
 

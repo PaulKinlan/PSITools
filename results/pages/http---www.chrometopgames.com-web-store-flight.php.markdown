@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chrometopgames.com/web-store/flight.php
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flight - Free Games Online, Free Online Games, Flash Games!](http://www.chrometopgames.com/web-store/flight.php)
 
@@ -29,9 +35,6 @@ title: http://www.chrometopgames.com/web-store/flight.php
 *  JS Response Bytes: 1409885
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112913
-
-### Performance issues
-
 
 ### Performance issues
 

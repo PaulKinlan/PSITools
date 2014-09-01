@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://usm.github.io/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [USM](http://usm.github.io/)
 
@@ -29,9 +32,6 @@ title: http://usm.github.io/
 *  JS Response Bytes: 163359
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 573
-
-### Performance issues
-
 
 ### Performance issues
 

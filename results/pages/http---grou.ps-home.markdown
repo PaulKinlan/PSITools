@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://grou.ps/home
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [GROU.PS | Powerful Groups for the New Social Era](http://grou.ps/home)
 
@@ -29,9 +31,6 @@ title: http://grou.ps/home
 *  JS Response Bytes: 2226843
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 336585
-
-### Performance issues
-
 
 ### Performance issues
 

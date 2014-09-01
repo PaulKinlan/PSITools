@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tomshw.it/mobile/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tom's Hardware Mobile](http://www.tomshw.it/mobile/)
 
@@ -29,9 +32,6 @@ title: http://www.tomshw.it/mobile/
 *  JS Response Bytes: 1291213
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 90216
-
-### Performance issues
-
 
 ### Performance issues
 

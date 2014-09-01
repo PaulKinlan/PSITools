@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://flashflappybird.blogspot.com.tr/2014/03/basketball-jam-shots.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Flappy Bird: Basketball Jam Shots](http://flashflappybird.blogspot.com.tr/2014/03/basketball-jam-shots.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://flashflappybird.blogspot.com.tr/2014/03/basketball-jam-shots.html?
 *  JS Response Bytes: 2231794
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148745
-
-### Performance issues
-
 
 ### Performance issues
 

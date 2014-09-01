@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.box10games.info/play/380/space-platform.html#.U_uaxk0ieKB
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SPACE PLATFORM - Box10 Games - Online Free Flash Games](http://www.box10games.info/play/380/space-platform.html#.U_uaxk0ieKB)
 
@@ -29,9 +34,6 @@ title: http://www.box10games.info/play/380/space-platform.html#.U_uaxk0ieKB
 *  JS Response Bytes: 1516674
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15741
-
-### Performance issues
-
 
 ### Performance issues
 

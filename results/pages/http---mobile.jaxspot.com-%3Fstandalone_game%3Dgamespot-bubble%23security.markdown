@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mobile.jaxspot.com/?standalone_game=gamespot-bubble#security
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Jaxspot](http://mobile.jaxspot.com/?standalone_game=gamespot-bubble#security)
 
@@ -29,9 +33,6 @@ title: http://mobile.jaxspot.com/?standalone_game=gamespot-bubble#security
 *  JS Response Bytes: 1140705
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 981
-
-### Performance issues
-
 
 ### Performance issues
 

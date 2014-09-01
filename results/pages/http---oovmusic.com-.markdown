@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://oovmusic.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [OOVMUSIC - Play Free Music You Love](http://oovmusic.com/)
 
@@ -29,9 +33,6 @@ title: http://oovmusic.com/
 *  JS Response Bytes: 725196
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58130
-
-### Performance issues
-
 
 ### Performance issues
 

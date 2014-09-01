@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://pickerin.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Pickerin](http://pickerin.com/)
 
@@ -29,9 +31,6 @@ title: http://pickerin.com/
 *  JS Response Bytes: 196502
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

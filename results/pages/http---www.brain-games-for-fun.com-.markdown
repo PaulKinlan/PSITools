@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.brain-games-for-fun.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [BRAIN-GAMES-FOR-FUN.COM](http://www.brain-games-for-fun.com/)
 
@@ -29,9 +31,6 @@ title: http://www.brain-games-for-fun.com/
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

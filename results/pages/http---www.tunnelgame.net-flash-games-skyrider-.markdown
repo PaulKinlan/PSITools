@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.tunnelgame.net/flash-games/skyrider/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Skyrider « Flash Games, Online Games](http://www.tunnelgame.net/flash-games/skyrider/)
 
@@ -29,9 +35,6 @@ title: http://www.tunnelgame.net/flash-games/skyrider/
 *  JS Response Bytes: 1190167
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15445
-
-### Performance issues
-
 
 ### Performance issues
 

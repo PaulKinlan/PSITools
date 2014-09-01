@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://tamarikipoerani.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tamariki Poerani](http://tamarikipoerani.com/)
 
@@ -29,9 +35,6 @@ title: http://tamarikipoerani.com/
 *  JS Response Bytes: 661666
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12309
-
-### Performance issues
-
 
 ### Performance issues
 

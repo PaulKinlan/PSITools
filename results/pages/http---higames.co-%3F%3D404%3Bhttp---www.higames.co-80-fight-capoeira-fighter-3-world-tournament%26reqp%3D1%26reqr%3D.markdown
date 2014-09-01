@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://higames.co/?=404;http://www.higames.co:80/fight/capoeira-fighter-3-world-tournament&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [higames.co](http://higames.co/?=404;http://www.higames.co:80/fight/capoeira-fighter-3-world-tournament&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://higames.co/?=404;http://www.higames.co:80/fight/capoeira-fighter-3
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124
-
-### Performance issues
-
 
 ### Performance issues
 

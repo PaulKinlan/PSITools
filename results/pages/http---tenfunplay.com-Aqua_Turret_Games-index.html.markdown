@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://tenfunplay.com/Aqua_Turret_Games/index.html
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [500 Internal Server Error](http://tenfunplay.com/Aqua_Turret_Games/index.html)
 
@@ -29,9 +31,6 @@ title: http://tenfunplay.com/Aqua_Turret_Games/index.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 715
-
-### Performance issues
-
 
 ### Performance issues
 

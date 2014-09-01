@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://md5.jrham.es/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [md5sum - online md5summer](http://md5.jrham.es/)
 
@@ -29,9 +34,6 @@ title: http://md5.jrham.es/
 *  JS Response Bytes: 1392094
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 36725
-
-### Performance issues
-
 
 ### Performance issues
 

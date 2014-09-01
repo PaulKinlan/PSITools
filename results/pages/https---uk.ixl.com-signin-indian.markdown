@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://uk.ixl.com/signin/indian
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IXL - Sign In](https://uk.ixl.com/signin/indian)
 
@@ -29,9 +33,6 @@ title: https://uk.ixl.com/signin/indian
 *  JS Response Bytes: 908994
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14467
-
-### Performance issues
-
 
 ### Performance issues
 

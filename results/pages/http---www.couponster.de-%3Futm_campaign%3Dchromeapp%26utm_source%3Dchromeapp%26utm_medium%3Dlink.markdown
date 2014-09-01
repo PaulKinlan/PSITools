@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.couponster.de/?utm_campaign=chromeapp&utm_source=chromeapp&utm_medium=link
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gutscheine, Gutschein Codes und Gratis-Artikel bei couponster.de schnappen](http://www.couponster.de/?utm_campaign=chromeapp&utm_source=chromeapp&utm_medium=link)
 
@@ -29,9 +33,6 @@ title: http://www.couponster.de/?utm_campaign=chromeapp&utm_source=chromeapp&utm
 *  JS Response Bytes: 659305
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3371
-
-### Performance issues
-
 
 ### Performance issues
 

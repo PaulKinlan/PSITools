@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://email.handxpark.com/owa/auth/logon.aspx?url=https://email.handxpark.com/owa/&reason=0
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Outlook Web App](https://email.handxpark.com/owa/auth/logon.aspx?url=https://email.handxpark.com/owa/&reason=0)
 
@@ -29,9 +32,6 @@ title: https://email.handxpark.com/owa/auth/logon.aspx?url=https://email.handxpa
 *  JS Response Bytes: 4598
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 293
-
-### Performance issues
-
 
 ### Performance issues
 

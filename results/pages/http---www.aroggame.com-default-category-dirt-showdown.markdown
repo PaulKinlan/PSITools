@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.aroggame.com/default-category/dirt-showdown
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dirt Showdown - Aroggame.com](http://www.aroggame.com/default-category/dirt-showdown)
 
@@ -29,9 +34,6 @@ title: http://www.aroggame.com/default-category/dirt-showdown
 *  JS Response Bytes: 2163368
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99772
-
-### Performance issues
-
 
 ### Performance issues
 

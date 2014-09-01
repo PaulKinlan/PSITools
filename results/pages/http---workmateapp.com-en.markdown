@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://workmateapp.com/en
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WorkMate | Simple Agile Project Management and Team Collaboration Platform](http://workmateapp.com/en)
 
@@ -29,9 +32,6 @@ title: http://workmateapp.com/en
 *  JS Response Bytes: 497464
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 199166
-
-### Performance issues
-
 
 ### Performance issues
 

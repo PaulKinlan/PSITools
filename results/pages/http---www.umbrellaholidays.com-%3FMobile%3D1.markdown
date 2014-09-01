@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.umbrellaholidays.com/?Mobile=1
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Umbrella Holidays - Best Price Guaranteed](http://www.umbrellaholidays.com/?Mobile=1)
 
@@ -29,9 +32,6 @@ title: http://www.umbrellaholidays.com/?Mobile=1
 *  JS Response Bytes: 294716
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1123
-
-### Performance issues
-
 
 ### Performance issues
 

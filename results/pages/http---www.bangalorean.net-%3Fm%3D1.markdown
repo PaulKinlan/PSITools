@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bangalorean.net/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bangalorean Mag](http://www.bangalorean.net/?m=1)
 
@@ -29,9 +33,6 @@ title: http://www.bangalorean.net/?m=1
 *  JS Response Bytes: 5182656
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 457855
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.extraportale.com/app/en/testadsl/index.htm
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [APP SPEED TEST ADSL EN](http://www.extraportale.com/app/en/testadsl/index.htm)
 
@@ -29,9 +32,6 @@ title: http://www.extraportale.com/app/en/testadsl/index.htm
 *  JS Response Bytes: 1224990
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110793
-
-### Performance issues
-
 
 ### Performance issues
 

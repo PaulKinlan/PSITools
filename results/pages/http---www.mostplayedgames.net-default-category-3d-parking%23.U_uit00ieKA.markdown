@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mostplayedgames.net/default-category/3d-parking#.U_uit00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Parking - Most Played GaMeS - Free Online Flash Games](http://www.mostplayedgames.net/default-category/3d-parking#.U_uit00ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.mostplayedgames.net/default-category/3d-parking#.U_uit00ieKA
 *  JS Response Bytes: 1475802
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32778
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://javascript.editey.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Editey](http://javascript.editey.com/)
 
@@ -29,9 +34,6 @@ title: http://javascript.editey.com/
 *  JS Response Bytes: 554519
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163920
-
-### Performance issues
-
 
 ### Performance issues
 

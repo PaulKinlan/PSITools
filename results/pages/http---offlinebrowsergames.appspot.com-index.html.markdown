@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://offlinebrowsergames.appspot.com/index.html
+MinimizeRenderBlockingResources: true
 ---
 ## [Offline Solitaire by Jim Blackler](http://offlinebrowsergames.appspot.com/index.html)
 
@@ -29,9 +30,6 @@ title: http://offlinebrowsergames.appspot.com/index.html
 *  JS Response Bytes: 11577
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

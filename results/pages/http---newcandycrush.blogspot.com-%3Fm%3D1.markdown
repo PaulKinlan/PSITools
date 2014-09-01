@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://newcandycrush.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [New candy crush saga](http://newcandycrush.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://newcandycrush.blogspot.com/?m=1
 *  JS Response Bytes: 788538
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 292886
-
-### Performance issues
-
 
 ### Performance issues
 

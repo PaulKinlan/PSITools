@@ -33,8 +33,5 @@ title: http://www.cinogames.com/game/subway_surfers-1060
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

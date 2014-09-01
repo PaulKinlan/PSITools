@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.rememberthemilk.com/login/app/?launch=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Remember The Milk - Login](http://www.rememberthemilk.com/login/app/?launch=1)
 
@@ -29,9 +32,6 @@ title: http://www.rememberthemilk.com/login/app/?launch=1
 *  JS Response Bytes: 82023
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24649
-
-### Performance issues
-
 
 ### Performance issues
 

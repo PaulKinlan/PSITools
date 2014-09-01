@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bubbajunk.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Truck Driving Jobs - Trucking Companies - CDL & Driver Jobs - BubbaJunk](http://www.bubbajunk.com/)
 
@@ -29,9 +33,6 @@ title: http://www.bubbajunk.com/
 *  JS Response Bytes: 739804
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 72304
-
-### Performance issues
-
 
 ### Performance issues
 

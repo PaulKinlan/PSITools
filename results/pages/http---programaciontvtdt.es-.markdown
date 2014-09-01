@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://programaciontvtdt.es/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Programacion TV | Guia de la TV TDT](http://programaciontvtdt.es/)
 
@@ -29,9 +33,6 @@ title: http://programaciontvtdt.es/
 *  JS Response Bytes: 1514219
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56973
-
-### Performance issues
-
 
 ### Performance issues
 

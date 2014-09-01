@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.myteachersdiary.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MyTeachers Diary - Welcome](http://www.myteachersdiary.com/)
 
@@ -29,9 +34,6 @@ title: http://www.myteachersdiary.com/
 *  JS Response Bytes: 250932
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://sheetexchange.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sheet Music Exchange - Latest Sheets](http://sheetexchange.com/)
 
@@ -29,9 +32,6 @@ title: http://sheetexchange.com/
 *  JS Response Bytes: 870987
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 592
-
-### Performance issues
-
 
 ### Performance issues
 

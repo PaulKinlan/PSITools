@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://cloud.jackdb.com/login
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [JackDB](https://cloud.jackdb.com/login)
 
@@ -29,9 +32,6 @@ title: https://cloud.jackdb.com/login
 *  JS Response Bytes: 165681
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 589
-
-### Performance issues
-
 
 ### Performance issues
 

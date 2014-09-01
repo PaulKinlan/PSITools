@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.extremis.com/?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Steven Mautone (extremis)](http://www.extremis.com/?m=1)
 
@@ -29,9 +34,6 @@ title: http://www.extremis.com/?m=1
 *  JS Response Bytes: 1212996
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96233
-
-### Performance issues
-
 
 ### Performance issues
 

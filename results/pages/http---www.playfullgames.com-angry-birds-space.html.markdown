@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.playfullgames.com/angry-birds-space.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Space : Play Full Games](http://www.playfullgames.com/angry-birds-space.html)
 
@@ -29,9 +34,6 @@ title: http://www.playfullgames.com/angry-birds-space.html
 *  JS Response Bytes: 1543439
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98350
-
-### Performance issues
-
 
 ### Performance issues
 

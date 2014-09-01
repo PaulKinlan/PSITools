@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gaminghouse.info/play-travian
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://gaminghouse.info/play-travian)
 
@@ -29,9 +30,6 @@ title: http://gaminghouse.info/play-travian
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 551
-
-### Performance issues
-
 
 ### Performance issues
 

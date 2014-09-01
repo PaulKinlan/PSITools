@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://fi.cardfed.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Postikortteja - Lähetä oikea, painettu, postikortti, postitse perille - CardFed](http://fi.cardfed.com/)
 
@@ -29,9 +32,6 @@ title: http://fi.cardfed.com/
 *  JS Response Bytes: 1311370
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1266
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://anywhere.xambox.com/login
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Xamobile](https://anywhere.xambox.com/login)
 
@@ -29,9 +31,6 @@ title: https://anywhere.xambox.com/login
 *  JS Response Bytes: 414066
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

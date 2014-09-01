@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.eptro.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Eptro - Enjoy Endless Entertainment](http://www.eptro.com/)
 
@@ -29,9 +34,6 @@ title: http://www.eptro.com/
 *  JS Response Bytes: 1014152
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 236741
-
-### Performance issues
-
 
 ### Performance issues
 

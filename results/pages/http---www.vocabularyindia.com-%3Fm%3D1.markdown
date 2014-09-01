@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.vocabularyindia.com/?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
 ---
 ## [English Vocabulary](http://www.vocabularyindia.com/?m=1)
 
@@ -29,9 +33,6 @@ title: http://www.vocabularyindia.com/?m=1
 *  JS Response Bytes: 834566
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15479
-
-### Performance issues
-
 
 ### Performance issues
 

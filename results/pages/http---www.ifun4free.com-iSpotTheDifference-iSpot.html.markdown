@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ifun4free.com/iSpotTheDifference/iSpot.html
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [iSpot the Difference](http://www.ifun4free.com/iSpotTheDifference/iSpot.html)
 
@@ -29,9 +32,6 @@ title: http://www.ifun4free.com/iSpotTheDifference/iSpot.html
 *  JS Response Bytes: 432127
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

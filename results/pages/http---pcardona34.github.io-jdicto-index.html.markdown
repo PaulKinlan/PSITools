@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://pcardona34.github.io/jdicto/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Générateur de JDicto](http://pcardona34.github.io/jdicto/index.html)
 
@@ -29,9 +33,6 @@ title: http://pcardona34.github.io/jdicto/index.html
 *  JS Response Bytes: 167916
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

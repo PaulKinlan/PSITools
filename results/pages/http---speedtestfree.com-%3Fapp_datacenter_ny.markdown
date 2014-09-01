@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://speedtestfree.com/?app_datacenter_ny
+MinimizeRenderBlockingResources: true
 ---
 ## [Speed Test Free: Check How Fast My internet Connection?](http://speedtestfree.com/?app_datacenter_ny)
 
@@ -29,9 +30,6 @@ title: http://speedtestfree.com/?app_datacenter_ny
 *  JS Response Bytes: 719254
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 107499
-
-### Performance issues
-
 
 ### Performance issues
 

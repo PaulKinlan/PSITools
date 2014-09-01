@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.latterdayconservative.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Latter-day Conservative - LDS Prophets, America, Freedom, Liberty, Constitution, Mormon Politics](http://www.latterdayconservative.com/)
 
@@ -29,9 +31,6 @@ title: http://www.latterdayconservative.com/
 *  JS Response Bytes: 1304877
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1099
-
-### Performance issues
-
 
 ### Performance issues
 

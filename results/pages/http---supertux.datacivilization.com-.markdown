@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://supertux.datacivilization.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://supertux.datacivilization.com/)
 
@@ -29,9 +34,6 @@ title: http://supertux.datacivilization.com/
 *  JS Response Bytes: 272925
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

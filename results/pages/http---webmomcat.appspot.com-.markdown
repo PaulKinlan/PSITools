@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://webmomcat.appspot.com/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Web Momcat Monitor](http://webmomcat.appspot.com/)
 
@@ -29,9 +31,6 @@ title: http://webmomcat.appspot.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

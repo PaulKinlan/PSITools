@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://adultfriendfinder.com/go/page/landing_page_72?theme=white&rating=adult&pid=p2008906.sub436497&tpa=955400a2bf7e97b0345371f87900f4fc
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Adult FriendFinder Mobile](http://adultfriendfinder.com/go/page/landing_page_72?theme=white&rating=adult&pid=p2008906.sub436497&tpa=955400a2bf7e97b0345371f87900f4fc)
 
@@ -29,9 +31,6 @@ title: http://adultfriendfinder.com/go/page/landing_page_72?theme=white&rating=a
 *  JS Response Bytes: 1428215
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 680
-
-### Performance issues
-
 
 ### Performance issues
 

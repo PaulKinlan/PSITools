@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.tekpart.org/euro-truck-simulator.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tek Part Program Arşivi, Tek Part Program İndir, Ücretsiz Programlar – Euro Truck Simulator](http://www.tekpart.org/euro-truck-simulator.html)
 
@@ -29,9 +35,6 @@ title: http://www.tekpart.org/euro-truck-simulator.html
 *  JS Response Bytes: 1070085
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

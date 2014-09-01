@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://vdesktop.dcds.edu/portal/webclient/views/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [VMware Horizon View](https://vdesktop.dcds.edu/portal/webclient/views/index.html)
 
@@ -29,9 +31,6 @@ title: https://vdesktop.dcds.edu/portal/webclient/views/index.html
 *  JS Response Bytes: 497843
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

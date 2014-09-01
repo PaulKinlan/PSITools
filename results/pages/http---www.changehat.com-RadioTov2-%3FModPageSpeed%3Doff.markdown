@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.changehat.com/RadioTov2/?ModPageSpeed=off
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.changehat.com/RadioTov2/?ModPageSpeed=off)
 
@@ -29,9 +34,6 @@ title: http://www.changehat.com/RadioTov2/?ModPageSpeed=off
 *  JS Response Bytes: 1165633
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

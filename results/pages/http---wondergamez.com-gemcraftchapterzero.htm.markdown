@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://wondergamez.com/gemcraftchapterzero.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gemcraft Chapter Zero](http://wondergamez.com/gemcraftchapterzero.htm)
 
@@ -29,9 +35,6 @@ title: http://wondergamez.com/gemcraftchapterzero.htm
 *  JS Response Bytes: 921149
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98636
-
-### Performance issues
-
 
 ### Performance issues
 

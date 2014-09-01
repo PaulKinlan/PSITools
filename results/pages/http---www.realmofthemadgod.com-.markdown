@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.realmofthemadgod.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Realm of the Mad God](http://www.realmofthemadgod.com/)
 
@@ -29,9 +33,6 @@ title: http://www.realmofthemadgod.com/
 *  JS Response Bytes: 260968
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

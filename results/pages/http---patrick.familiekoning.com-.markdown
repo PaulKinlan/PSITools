@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://patrick.familiekoning.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Leren Ontrafeld » Het weblog dat leren en doceren ontrafelt in pedagogiek, didactiek en technologie](http://patrick.familiekoning.com/)
 
@@ -29,9 +34,6 @@ title: http://patrick.familiekoning.com/
 *  JS Response Bytes: 2066020
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14914
-
-### Performance issues
-
 
 ### Performance issues
 

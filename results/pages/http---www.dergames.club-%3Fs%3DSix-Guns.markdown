@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.dergames.club/?s=Six-Guns
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Six-Guns – Search Results – Online Best Games](http://www.dergames.club/?s=Six-Guns)
 
@@ -29,9 +34,6 @@ title: http://www.dergames.club/?s=Six-Guns
 *  JS Response Bytes: 718337
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

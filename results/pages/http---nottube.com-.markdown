@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://nottube.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [NotTube.com - Video Finder](http://nottube.com/)
 
@@ -29,9 +34,6 @@ title: http://nottube.com/
 *  JS Response Bytes: 1907455
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110374
-
-### Performance issues
-
 
 ### Performance issues
 

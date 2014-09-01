@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://bp-chart.com/en
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blood Pressure Chart](http://bp-chart.com/en)
 
@@ -29,9 +33,6 @@ title: http://bp-chart.com/en
 *  JS Response Bytes: 128176
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 361
-
-### Performance issues
-
 
 ### Performance issues
 

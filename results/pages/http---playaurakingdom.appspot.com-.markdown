@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://playaurakingdom.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Aura Kingdom](http://playaurakingdom.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://playaurakingdom.appspot.com/
 *  JS Response Bytes: 843274
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 83633
-
-### Performance issues
-
 
 ### Performance issues
 

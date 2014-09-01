@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://tauriworld-mmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play TauriWorld Online](http://tauriworld-mmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://tauriworld-mmo.appspot.com/
 *  JS Response Bytes: 2010245
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 38592
-
-### Performance issues
-
 
 ### Performance issues
 

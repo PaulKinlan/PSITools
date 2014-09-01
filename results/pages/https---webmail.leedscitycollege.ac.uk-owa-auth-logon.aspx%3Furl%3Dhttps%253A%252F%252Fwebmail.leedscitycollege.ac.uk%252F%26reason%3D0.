@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://webmail.leedscitycollege.ac.uk/owa/auth/logon.aspx?url=https%3A%2F%2Fwebmail.leedscitycollege.ac.uk%2F&reason=0
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Outlook Web App](https://webmail.leedscitycollege.ac.uk/owa/auth/logon.aspx?url=https%3A%2F%2Fwebmail.leedscitycollege.ac.uk%2F&reason=0)
 
@@ -29,9 +32,6 @@ title: https://webmail.leedscitycollege.ac.uk/owa/auth/logon.aspx?url=https%3A%2
 *  JS Response Bytes: 19228
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 568
-
-### Performance issues
-
 
 ### Performance issues
 

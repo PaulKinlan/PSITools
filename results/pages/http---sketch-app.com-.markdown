@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://sketch-app.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://sketch-app.com/)
 
@@ -29,9 +33,6 @@ title: http://sketch-app.com/
 *  JS Response Bytes: 455169
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2596010
-
-### Performance issues
-
 
 ### Performance issues
 

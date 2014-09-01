@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://radio-iminternet.de/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Webradio | die besten Internet Radio Stations](http://radio-iminternet.de/)
 
@@ -29,9 +35,6 @@ title: http://radio-iminternet.de/
 *  JS Response Bytes: 781227
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15949
-
-### Performance issues
-
 
 ### Performance issues
 

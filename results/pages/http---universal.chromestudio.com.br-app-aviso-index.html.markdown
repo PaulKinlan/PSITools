@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://universal.chromestudio.com.br/app/aviso/index.html
+UseLegibleFontSizes: true
 ---
 ## [Documento sem título](http://universal.chromestudio.com.br/app/aviso/index.html)
 
@@ -29,9 +30,6 @@ title: http://universal.chromestudio.com.br/app/aviso/index.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 78
-
-### Performance issues
-
 
 ### Performance issues
 

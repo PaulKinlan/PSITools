@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tiki-toki.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Beautiful web-based timeline software](http://www.tiki-toki.com/)
 
@@ -29,9 +32,6 @@ title: http://www.tiki-toki.com/
 *  JS Response Bytes: 244815
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

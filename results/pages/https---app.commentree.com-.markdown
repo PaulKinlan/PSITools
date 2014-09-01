@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://app.commentree.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [Commentree](https://app.commentree.com/)
 
@@ -29,9 +32,6 @@ title: https://app.commentree.com/
 *  JS Response Bytes: 530218
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

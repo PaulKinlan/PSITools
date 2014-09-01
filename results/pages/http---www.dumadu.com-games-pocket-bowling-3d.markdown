@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.dumadu.com/games/pocket-bowling-3d
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Pocket Bowling 3D ?.. Get the Best Bowling Action. Play Pocket Bowling Online at Dumadu Games](http://www.dumadu.com/games/pocket-bowling-3d)
 
@@ -29,9 +33,6 @@ title: http://www.dumadu.com/games/pocket-bowling-3d
 *  JS Response Bytes: 1128875
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31016
-
-### Performance issues
-
 
 ### Performance issues
 

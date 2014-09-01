@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://vida.io/pages/google-charts
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Data Visualization with D3.js](https://vida.io/pages/google-charts)
 
@@ -29,9 +33,6 @@ title: https://vida.io/pages/google-charts
 *  JS Response Bytes: 2981288
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52358
-
-### Performance issues
-
 
 ### Performance issues
 

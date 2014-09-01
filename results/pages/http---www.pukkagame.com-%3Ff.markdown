@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.pukkagame.com/?f
+SizeTapTargetsAppropriately: true
 ---
 ## [pukkagame.com: The Leading Pucca Game Site on the Net](http://www.pukkagame.com/?f)
 
@@ -18,20 +19,17 @@ title: http://www.pukkagame.com/?f
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 9
-*  Total Request Bytes: 3634
+*  Total Request Bytes: 3636
 
 ### Response data
 
-*  HTML Response Bytes: 27600
+*  HTML Response Bytes: 27599
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 13506
-*  Image Response Bytes: 32519
+*  Image Response Bytes: 32508
 *  JS Response Bytes: 259015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 791
-
-### Performance issues
-
 
 ### Performance issues
 

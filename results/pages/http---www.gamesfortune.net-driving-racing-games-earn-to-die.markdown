@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesfortune.net/driving-racing-games/earn-to-die
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Earn to Die - Free Online Games | GamesFortune.net](http://www.gamesfortune.net/driving-racing-games/earn-to-die)
 
@@ -29,9 +35,6 @@ title: http://www.gamesfortune.net/driving-racing-games/earn-to-die
 *  JS Response Bytes: 2341413
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114700
-
-### Performance issues
-
 
 ### Performance issues
 

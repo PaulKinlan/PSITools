@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/downhill-snowboard/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Downhill Snowboard game](http://www.skateboarding-games.biz/downhill-snowboard/)
 
@@ -29,9 +36,6 @@ title: http://www.skateboarding-games.biz/downhill-snowboard/
 *  JS Response Bytes: 2123326
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 128137
-
-### Performance issues
-
 
 ### Performance issues
 

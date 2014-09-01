@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.checkfront.com/login?app=chrome
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Account Login](https://www.checkfront.com/login?app=chrome)
 
@@ -29,9 +31,6 @@ title: https://www.checkfront.com/login?app=chrome
 *  JS Response Bytes: 558471
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 444
-
-### Performance issues
-
 
 ### Performance issues
 

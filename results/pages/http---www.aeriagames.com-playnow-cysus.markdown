@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.aeriagames.com/playnow/cysus
+AvoidLandingPageRedirects: true
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [Crystal Saga - Free Browser-Based MMO Strategy Game at Aeria Games](http://www.aeriagames.com/playnow/cysus)
 
@@ -29,9 +32,6 @@ title: http://www.aeriagames.com/playnow/cysus
 *  JS Response Bytes: 565247
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2937
-
-### Performance issues
-
 
 ### Performance issues
 

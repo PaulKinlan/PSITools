@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://zombiemassacre.coolonlinegames.org/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombie Massacre | Zombie Massacre Online Game | Zombie Massacre Game | Zombies | Online Game | Video Game | Game](http://zombiemassacre.coolonlinegames.org/index.html)
 
@@ -29,9 +34,6 @@ title: http://zombiemassacre.coolonlinegames.org/index.html
 *  JS Response Bytes: 943355
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17325
-
-### Performance issues
-
 
 ### Performance issues
 

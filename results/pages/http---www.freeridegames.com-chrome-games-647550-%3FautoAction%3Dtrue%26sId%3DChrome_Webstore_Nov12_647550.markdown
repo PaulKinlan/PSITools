@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/647550/?autoAction=true&sId=Chrome_Webstore_Nov12_647550
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Passport to Perfume for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/647550/?autoAction=true&sId=Chrome_Webstore_Nov12_647550)
 
@@ -29,9 +34,6 @@ title: http://www.freeridegames.com/chrome/games/647550/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1323326
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31892
-
-### Performance issues
-
 
 ### Performance issues
 

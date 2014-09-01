@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/ice-hockey-heroes/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Ice Hockey Heroes Game — Sultans of Game](http://www.sultansofgame.com/games/ice-hockey-heroes/)
 
@@ -29,9 +33,6 @@ title: http://www.sultansofgame.com/games/ice-hockey-heroes/
 *  JS Response Bytes: 1723937
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 136982
-
-### Performance issues
-
 
 ### Performance issues
 

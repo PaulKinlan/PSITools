@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.mathpapa.com/fraction-puzzle-game.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Fraction Puzzle Game by MathPapa.com](http://www.mathpapa.com/fraction-puzzle-game.html)
 
@@ -29,9 +31,6 @@ title: http://www.mathpapa.com/fraction-puzzle-game.html
 *  JS Response Bytes: 168118
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

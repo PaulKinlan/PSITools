@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://heroes-generals-mmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Heroes & Generals Online](http://heroes-generals-mmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://heroes-generals-mmo.appspot.com/
 *  JS Response Bytes: 1932684
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45311
-
-### Performance issues
-
 
 ### Performance issues
 

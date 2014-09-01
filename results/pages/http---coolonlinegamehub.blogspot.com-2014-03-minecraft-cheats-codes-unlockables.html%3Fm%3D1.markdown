@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://coolonlinegamehub.blogspot.com/2014/03/minecraft-cheats-codes-unlockables.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Chrome App Blog: Minecraft Cheats Codes, unlockables, hints, easter eggs and achievements](http://coolonlinegamehub.blogspot.com/2014/03/minecraft-cheats-codes-unlockables.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://coolonlinegamehub.blogspot.com/2014/03/minecraft-cheats-codes-unlo
 *  JS Response Bytes: 1162577
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95629
-
-### Performance issues
-
 
 ### Performance issues
 

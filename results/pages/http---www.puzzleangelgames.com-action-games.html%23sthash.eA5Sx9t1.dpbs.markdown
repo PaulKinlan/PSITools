@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.puzzleangelgames.com/action-games.html#sthash.eA5Sx9t1.dpbs
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Action Games Online For Free at Angel Games - Angel Games](http://www.puzzleangelgames.com/action-games.html#sthash.eA5Sx9t1.dpbs)
 
@@ -29,9 +34,6 @@ title: http://www.puzzleangelgames.com/action-games.html#sthash.eA5Sx9t1.dpbs
 *  JS Response Bytes: 1487087
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 308989
-
-### Performance issues
-
 
 ### Performance issues
 

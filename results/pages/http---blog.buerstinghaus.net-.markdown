@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://blog.buerstinghaus.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bjoerns Windows Blog](http://blog.buerstinghaus.net/)
 
@@ -29,9 +32,6 @@ title: http://blog.buerstinghaus.net/
 *  JS Response Bytes: 232011
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.turokgames.com/iron-man-battle-city.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Iron Man Battle City | TUROK GAMES](http://www.turokgames.com/iron-man-battle-city.html)
 
@@ -29,9 +34,6 @@ title: http://www.turokgames.com/iron-man-battle-city.html
 *  JS Response Bytes: 894475
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15978
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ichromegames.blogspot.com/2013/06/subway-surfers.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [ichromegames: Subway Surfers](http://ichromegames.blogspot.com/2013/06/subway-surfers.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://ichromegames.blogspot.com/2013/06/subway-surfers.html?m=1
 *  JS Response Bytes: 1067617
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97986
-
-### Performance issues
-
 
 ### Performance issues
 

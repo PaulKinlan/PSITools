@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://livetvnl.gadgetgear.nl/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Live TV NL](http://livetvnl.gadgetgear.nl/index.html)
 
@@ -29,9 +33,6 @@ title: http://livetvnl.gadgetgear.nl/index.html
 *  JS Response Bytes: 371707
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1456
-
-### Performance issues
-
 
 ### Performance issues
 

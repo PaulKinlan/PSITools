@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://amaz.in/g/browser/google/chrome/apps/hosted/losung-des-tages/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Losung des Tages - amaz.in/g](http://amaz.in/g/browser/google/chrome/apps/hosted/losung-des-tages/)
 
@@ -29,9 +33,6 @@ title: http://amaz.in/g/browser/google/chrome/apps/hosted/losung-des-tages/
 *  JS Response Bytes: 524813
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

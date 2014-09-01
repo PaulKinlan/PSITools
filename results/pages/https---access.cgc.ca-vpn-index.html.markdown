@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://access.cgc.ca/vpn/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Citrix Access Gateway](https://access.cgc.ca/vpn/index.html)
 
@@ -29,9 +35,6 @@ title: https://access.cgc.ca/vpn/index.html
 *  JS Response Bytes: 36118
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 766
-
-### Performance issues
-
 
 ### Performance issues
 

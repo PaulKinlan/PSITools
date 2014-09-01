@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://kusii.com/live/
+EnableGzipCompression: true
 ---
 ## [](http://kusii.com/live/)
 
@@ -29,9 +30,6 @@ title: http://kusii.com/live/
 *  JS Response Bytes: 93552
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 388
-
-### Performance issues
-
 
 ### Performance issues
 

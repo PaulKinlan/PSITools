@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.chromegamesbox.com/category/9
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [War - Chrome Games Box](http://www.chromegamesbox.com/category/9)
 
@@ -29,9 +34,6 @@ title: http://www.chromegamesbox.com/category/9
 *  JS Response Bytes: 619820
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14380
-
-### Performance issues
-
 
 ### Performance issues
 

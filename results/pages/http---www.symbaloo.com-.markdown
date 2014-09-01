@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.symbaloo.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Symbaloo - Your Bookmarks and favorites in the cloud](http://www.symbaloo.com/)
 
@@ -29,9 +33,6 @@ title: http://www.symbaloo.com/
 *  JS Response Bytes: 437534
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

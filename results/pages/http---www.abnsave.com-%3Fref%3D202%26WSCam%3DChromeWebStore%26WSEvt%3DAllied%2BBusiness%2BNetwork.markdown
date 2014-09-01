@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.abnsave.com/?ref=202&WSCam=ChromeWebStore&WSEvt=Allied+Business+Network
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Coupons and Promo Codes – Business Discounts | ABN Save](http://www.abnsave.com/?ref=202&WSCam=ChromeWebStore&WSEvt=Allied+Business+Network)
 
@@ -29,9 +33,6 @@ title: http://www.abnsave.com/?ref=202&WSCam=ChromeWebStore&WSEvt=Allied+Busines
 *  JS Response Bytes: 1659190
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29754
-
-### Performance issues
-
 
 ### Performance issues
 

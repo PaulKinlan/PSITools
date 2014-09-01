@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chromegames.appsengine.us/aventura-hora/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Juegos de Hora de Aventura](http://chromegames.appsengine.us/aventura-hora/)
 
@@ -29,9 +33,6 @@ title: http://chromegames.appsengine.us/aventura-hora/
 *  JS Response Bytes: 375008
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1138
-
-### Performance issues
-
 
 ### Performance issues
 

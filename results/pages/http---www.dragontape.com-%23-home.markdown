@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.dragontape.com/#/home
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [This is Dragontape](http://www.dragontape.com/#/home)
 
@@ -29,9 +34,6 @@ title: http://www.dragontape.com/#/home
 *  JS Response Bytes: 1643356
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4218
-
-### Performance issues
-
 
 ### Performance issues
 

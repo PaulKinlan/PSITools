@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/605450/?autoAction=true&sId=Chrome_Webstore_Nov12_605450
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Jewelleria for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/605450/?autoAction=true&sId=Chrome_Webstore_Nov12_605450)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/605450/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1430330
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32062
-
-### Performance issues
-
 
 ### Performance issues
 

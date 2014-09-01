@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.meecook.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [meecook](https://www.meecook.com/)
 
@@ -29,9 +33,6 @@ title: https://www.meecook.com/
 *  JS Response Bytes: 1540623
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 83994
-
-### Performance issues
-
 
 ### Performance issues
 

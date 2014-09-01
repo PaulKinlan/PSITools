@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://wfirma.pl/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [wFirma.pl: samodzielna księgowość internetowa](https://wfirma.pl/)
 
@@ -29,9 +31,6 @@ title: https://wfirma.pl/
 *  JS Response Bytes: 300194
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98978
-
-### Performance issues
-
 
 ### Performance issues
 

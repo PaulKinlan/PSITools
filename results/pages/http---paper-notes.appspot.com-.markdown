@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://paper-notes.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Paper Notes](http://paper-notes.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://paper-notes.appspot.com/
 *  JS Response Bytes: 435511
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

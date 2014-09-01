@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://dmbgames.com/the-amazing-spider-man.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DMBGames.Com – The Amazing Spider-Man](http://dmbgames.com/the-amazing-spider-man.html)
 
@@ -29,9 +36,6 @@ title: http://dmbgames.com/the-amazing-spider-man.html
 *  JS Response Bytes: 483301
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9753
-
-### Performance issues
-
 
 ### Performance issues
 

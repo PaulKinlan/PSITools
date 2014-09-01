@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://socialiqapp.com/app/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Social IQ](https://socialiqapp.com/app/)
 
@@ -29,9 +34,6 @@ title: https://socialiqapp.com/app/
 *  JS Response Bytes: 2894032
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 940
-
-### Performance issues
-
 
 ### Performance issues
 

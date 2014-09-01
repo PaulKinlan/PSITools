@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.friv-game.org/games/game/name/whats-for-dinner-second-serving
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [whats-for-dinner-second-serving Friv Games](http://www.friv-game.org/games/game/name/whats-for-dinner-second-serving)
 
@@ -29,9 +33,6 @@ title: http://www.friv-game.org/games/game/name/whats-for-dinner-second-serving
 *  JS Response Bytes: 1843127
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96978
-
-### Performance issues
-
 
 ### Performance issues
 

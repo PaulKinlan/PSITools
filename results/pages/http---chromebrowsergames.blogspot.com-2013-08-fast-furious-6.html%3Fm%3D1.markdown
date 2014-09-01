@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromebrowsergames.blogspot.com/2013/08/fast-furious-6.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://chromebrowsergames.blogspot.com/2013/08/fast-furious-6.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromebrowsergames.blogspot.com/2013/08/fast-furious-6.html?m=1
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19296
-
-### Performance issues
-
 
 ### Performance issues
 

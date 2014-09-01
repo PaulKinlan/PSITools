@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://my.smartbiller.co.nz/Login.aspx?ReturnUrl=%2F
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SmartBiller Admin](https://my.smartbiller.co.nz/Login.aspx?ReturnUrl=%2F)
 
@@ -29,9 +34,6 @@ title: https://my.smartbiller.co.nz/Login.aspx?ReturnUrl=%2F
 *  JS Response Bytes: 616196
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 382
-
-### Performance issues
-
 
 ### Performance issues
 

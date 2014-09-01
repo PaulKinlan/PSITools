@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://eduportal.dev.seriousgames.net/bin/ph-slavetrade/game/Web.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Unity Web Player | Web](http://eduportal.dev.seriousgames.net/bin/ph-slavetrade/game/Web.html)
 
@@ -29,9 +33,6 @@ title: http://eduportal.dev.seriousgames.net/bin/ph-slavetrade/game/Web.html
 *  JS Response Bytes: 49222
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

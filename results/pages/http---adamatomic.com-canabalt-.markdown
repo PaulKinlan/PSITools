@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://adamatomic.com/canabalt/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CANABALT](http://adamatomic.com/canabalt/)
 
@@ -29,9 +33,6 @@ title: http://adamatomic.com/canabalt/
 *  JS Response Bytes: 49282
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1054
-
-### Performance issues
-
 
 ### Performance issues
 

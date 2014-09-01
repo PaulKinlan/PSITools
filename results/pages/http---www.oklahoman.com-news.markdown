@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.oklahoman.com/news
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Oklahoman](http://www.oklahoman.com/news)
 
@@ -29,9 +35,6 @@ title: http://www.oklahoman.com/news
 *  JS Response Bytes: 1077978
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3753
-
-### Performance issues
-
 
 ### Performance issues
 

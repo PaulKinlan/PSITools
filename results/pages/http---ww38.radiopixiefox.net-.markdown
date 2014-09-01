@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ww38.radiopixiefox.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [radiopixiefox.net](http://ww38.radiopixiefox.net/)
 
@@ -29,9 +32,6 @@ title: http://ww38.radiopixiefox.net/
 *  JS Response Bytes: 209531
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 213
-
-### Performance issues
-
 
 ### Performance issues
 

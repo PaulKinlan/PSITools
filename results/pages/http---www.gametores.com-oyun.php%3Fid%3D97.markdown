@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gametores.com/oyun.php?id=97
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ace Trucker](http://www.gametores.com/oyun.php?id=97)
 
@@ -29,9 +35,6 @@ title: http://www.gametores.com/oyun.php?id=97
 *  JS Response Bytes: 1457278
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97476
-
-### Performance issues
-
 
 ### Performance issues
 

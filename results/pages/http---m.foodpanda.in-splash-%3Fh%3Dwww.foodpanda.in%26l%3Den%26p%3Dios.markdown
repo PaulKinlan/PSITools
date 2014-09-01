@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.foodpanda.in/splash/?h=www.foodpanda.in&l=en&p=ios
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Title](http://m.foodpanda.in/splash/?h=www.foodpanda.in&l=en&p=ios)
 
@@ -29,9 +31,6 @@ title: http://m.foodpanda.in/splash/?h=www.foodpanda.in&l=en&p=ios
 *  JS Response Bytes: 43144
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3350
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.amato.com.br/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Amato](http://www.amato.com.br/)
 
@@ -29,9 +33,6 @@ title: http://www.amato.com.br/
 *  JS Response Bytes: 898730
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 379506
-
-### Performance issues
-
 
 ### Performance issues
 

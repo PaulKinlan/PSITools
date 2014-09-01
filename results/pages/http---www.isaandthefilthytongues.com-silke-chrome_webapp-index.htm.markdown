@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.isaandthefilthytongues.com/silke/chrome_webapp/index.htm
+UseLegibleFontSizes: true
 ---
 ## [404 - File or directory not found.](http://www.isaandthefilthytongues.com/silke/chrome_webapp/index.htm)
 
@@ -29,9 +30,6 @@ title: http://www.isaandthefilthytongues.com/silke/chrome_webapp/index.htm
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1384
-
-### Performance issues
-
 
 ### Performance issues
 

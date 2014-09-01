@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ienglishtest.com/software/webapps.aspx?cu=g#.U_uWLU0ieKA
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [English Test Practice and Prepare: GRE Vocabulary In 30 Days](http://www.ienglishtest.com/software/webapps.aspx?cu=g#.U_uWLU0ieKA)
 
@@ -29,9 +33,6 @@ title: http://www.ienglishtest.com/software/webapps.aspx?cu=g#.U_uWLU0ieKA
 *  JS Response Bytes: 665023
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21308
-
-### Performance issues
-
 
 ### Performance issues
 

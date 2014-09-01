@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://yahoo-mbga.jp/stdgame/300001?_ref=aff%3Dyws001
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [麻雀 - ゲームならYahoo!モバゲー](http://yahoo-mbga.jp/stdgame/300001?_ref=aff%3Dyws001)
 
@@ -29,9 +33,6 @@ title: http://yahoo-mbga.jp/stdgame/300001?_ref=aff%3Dyws001
 *  JS Response Bytes: 205150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

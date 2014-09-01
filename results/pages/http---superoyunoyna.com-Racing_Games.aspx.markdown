@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://superoyunoyna.com/Racing_Games.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Racing Games free flash game online 3D oyun oyna | Super oyun oyna](http://superoyunoyna.com/Racing_Games.aspx)
 
@@ -29,9 +34,6 @@ title: http://superoyunoyna.com/Racing_Games.aspx
 *  JS Response Bytes: 275032
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1877
-
-### Performance issues
-
 
 ### Performance issues
 

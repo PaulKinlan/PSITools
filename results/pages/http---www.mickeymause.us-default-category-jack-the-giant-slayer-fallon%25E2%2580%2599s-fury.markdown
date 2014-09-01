@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mickeymause.us/default-category/jack-the-giant-slayer-fallon%E2%80%99s-fury
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jack The Giant Slayer: Fallon’s Fury - Mickey Mause](http://www.mickeymause.us/default-category/jack-the-giant-slayer-fallon%E2%80%99s-fury)
 
@@ -29,9 +34,6 @@ title: http://www.mickeymause.us/default-category/jack-the-giant-slayer-fallon%E
 *  JS Response Bytes: 2269157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119065
-
-### Performance issues
-
 
 ### Performance issues
 

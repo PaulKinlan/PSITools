@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.devon.riceball.net/bubblelinez/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bubble Linez 連線泡泡球](http://www.devon.riceball.net/bubblelinez/)
 
@@ -29,9 +34,6 @@ title: http://www.devon.riceball.net/bubblelinez/
 *  JS Response Bytes: 444397
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

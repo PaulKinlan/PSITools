@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.bizzeebeedesigns.com/bbupload/m/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bizzee Bee Designs](http://www.bizzeebeedesigns.com/bbupload/m/)
 
@@ -29,9 +34,6 @@ title: http://www.bizzeebeedesigns.com/bbupload/m/
 *  JS Response Bytes: 156168
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1245
-
-### Performance issues
-
 
 ### Performance issues
 

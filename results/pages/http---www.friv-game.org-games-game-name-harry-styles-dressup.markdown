@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.friv-game.org/games/game/name/harry-styles-dressup
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [harry-styles-dressup Friv Games](http://www.friv-game.org/games/game/name/harry-styles-dressup)
 
@@ -29,9 +35,6 @@ title: http://www.friv-game.org/games/game/name/harry-styles-dressup
 *  JS Response Bytes: 1872891
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112117
-
-### Performance issues
-
 
 ### Performance issues
 

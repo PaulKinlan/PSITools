@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.paperclipplus.com/app/login
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PaperClipPlus.com -- Welcome](http://www.paperclipplus.com/app/login)
 
@@ -29,9 +34,6 @@ title: http://www.paperclipplus.com/app/login
 *  JS Response Bytes: 375964
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 203
-
-### Performance issues
-
 
 ### Performance issues
 

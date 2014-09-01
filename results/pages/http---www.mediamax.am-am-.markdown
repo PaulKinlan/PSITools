@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mediamax.am/am/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mediamax.am – Լուրեր Հայաստանից , հեղինակային սյունակներ, հատուկ նախագծեր, հարցազրույցներ - mediamax.am](http://www.mediamax.am/am/)
 
@@ -29,9 +34,6 @@ title: http://www.mediamax.am/am/
 *  JS Response Bytes: 719310
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13792
-
-### Performance issues
-
 
 ### Performance issues
 

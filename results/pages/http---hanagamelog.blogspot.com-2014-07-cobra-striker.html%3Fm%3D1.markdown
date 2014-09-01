@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://hanagamelog.blogspot.com/2014/07/cobra-striker.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hana GameLog: Cobra Striker](http://hanagamelog.blogspot.com/2014/07/cobra-striker.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://hanagamelog.blogspot.com/2014/07/cobra-striker.html?m=1
 *  JS Response Bytes: 681575
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3019
-
-### Performance issues
-
 
 ### Performance issues
 

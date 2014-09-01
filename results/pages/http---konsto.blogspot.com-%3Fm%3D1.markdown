@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://konsto.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [konsto blog](http://konsto.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://konsto.blogspot.com/?m=1
 *  JS Response Bytes: 314307
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 553
-
-### Performance issues
-
 
 ### Performance issues
 

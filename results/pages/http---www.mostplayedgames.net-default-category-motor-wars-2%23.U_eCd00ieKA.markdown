@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.mostplayedgames.net/default-category/motor-wars-2#.U_eCd00ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Motor Wars 2 - Most Played GaMeS - Free Online Flash Games](http://www.mostplayedgames.net/default-category/motor-wars-2#.U_eCd00ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.mostplayedgames.net/default-category/motor-wars-2#.U_eCd00ieKA
 *  JS Response Bytes: 1632494
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24336
-
-### Performance issues
-
 
 ### Performance issues
 

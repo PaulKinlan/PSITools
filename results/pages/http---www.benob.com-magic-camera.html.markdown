@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.benob.com/magic-camera.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Benob App Center – Magic Camera](http://www.benob.com/magic-camera.html)
 
@@ -29,9 +35,6 @@ title: http://www.benob.com/magic-camera.html
 *  JS Response Bytes: 1034580
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59193
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gooddaygame.us/default-category/3d-la-supercars-2
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D LA Supercars 2 - Good Day Game](http://www.gooddaygame.us/default-category/3d-la-supercars-2)
 
@@ -29,9 +35,6 @@ title: http://www.gooddaygame.us/default-category/3d-la-supercars-2
 *  JS Response Bytes: 1996400
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113181
-
-### Performance issues
-
 
 ### Performance issues
 

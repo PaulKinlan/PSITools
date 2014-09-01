@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.calodiet.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Calodiet | La référence francophone en nutrition](http://www.calodiet.com/)
 
@@ -29,9 +33,6 @@ title: http://www.calodiet.com/
 *  JS Response Bytes: 1061994
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 91937
-
-### Performance issues
-
 
 ### Performance issues
 

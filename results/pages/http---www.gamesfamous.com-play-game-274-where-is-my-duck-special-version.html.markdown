@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesfamous.com/play-game/274/where-is-my-duck-special-version.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Where Is My Duck? Special Version - Games Famous - Online Flash Games](http://www.gamesfamous.com/play-game/274/where-is-my-duck-special-version.html)
 
@@ -29,9 +35,6 @@ title: http://www.gamesfamous.com/play-game/274/where-is-my-duck-special-version
 *  JS Response Bytes: 2620715
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105361
-
-### Performance issues
-
 
 ### Performance issues
 

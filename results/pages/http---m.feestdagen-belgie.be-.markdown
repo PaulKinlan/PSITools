@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.feestdagen-belgie.be/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Feestdagen Belgie](http://m.feestdagen-belgie.be/)
 
@@ -29,9 +32,6 @@ title: http://m.feestdagen-belgie.be/
 *  JS Response Bytes: 906459
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 795
-
-### Performance issues
-
 
 ### Performance issues
 

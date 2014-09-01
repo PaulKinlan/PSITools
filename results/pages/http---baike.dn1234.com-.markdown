@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://baike.dn1234.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [网址百科 - 致力于做综合的网站目录平台](http://baike.dn1234.com/)
 
@@ -29,9 +33,6 @@ title: http://baike.dn1234.com/
 *  JS Response Bytes: 628893
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44198
-
-### Performance issues
-
 
 ### Performance issues
 

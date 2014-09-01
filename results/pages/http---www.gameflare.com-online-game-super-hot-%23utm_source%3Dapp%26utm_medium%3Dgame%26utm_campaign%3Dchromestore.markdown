@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gameflare.com/online-game/super-hot/#utm_source=app&utm_medium=game&utm_campaign=chromestore
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Hot - online game | GameFlare.com](http://www.gameflare.com/online-game/super-hot/#utm_source=app&utm_medium=game&utm_campaign=chromestore)
 
@@ -29,9 +35,6 @@ title: http://www.gameflare.com/online-game/super-hot/#utm_source=app&utm_medium
 *  JS Response Bytes: 2045847
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 304697
-
-### Performance issues
-
 
 ### Performance issues
 

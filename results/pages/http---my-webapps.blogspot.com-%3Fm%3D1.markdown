@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://my-webapps.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [My Web Apps](http://my-webapps.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://my-webapps.blogspot.com/?m=1
 *  JS Response Bytes: 242546
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 561
-
-### Performance issues
-
 
 ### Performance issues
 

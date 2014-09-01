@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://redovisa.timeapp.se/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Logga in, P&K TimeApp](https://redovisa.timeapp.se/login)
 
@@ -29,9 +34,6 @@ title: https://redovisa.timeapp.se/login
 *  JS Response Bytes: 710945
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1030
-
-### Performance issues
-
 
 ### Performance issues
 

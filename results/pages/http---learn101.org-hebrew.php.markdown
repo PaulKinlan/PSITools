@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://learn101.org/hebrew.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn Hebrew | learn101.org](http://learn101.org/hebrew.php)
 
@@ -29,9 +33,6 @@ title: http://learn101.org/hebrew.php
 *  JS Response Bytes: 485714
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14569
-
-### Performance issues
-
 
 ### Performance issues
 

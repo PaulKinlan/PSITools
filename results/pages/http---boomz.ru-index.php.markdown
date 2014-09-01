@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://boomz.ru/index.php
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Интернет-журнал БУМЗ | Интересные и полезные советы](http://boomz.ru/index.php)
 
@@ -29,9 +33,6 @@ title: http://boomz.ru/index.php
 *  JS Response Bytes: 177421
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

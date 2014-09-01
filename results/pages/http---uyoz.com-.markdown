@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://uyoz.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [uyoz - aradığınız bilgiye ulaşın](http://uyoz.com/)
 
@@ -29,9 +31,6 @@ title: http://uyoz.com/
 *  JS Response Bytes: 725035
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://norcalbots.com/mobiquo/smartbanner/welcome.php?referer=http%3A%2F%2Fnorcalbots.com%2F&code=6f0fc7d0362e70548bf9bc663cdf2852&board_url=http%3A%2F%2Fnorcalbots.com&lang=en
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Stay in touch with us via Tapatalk app](http://norcalbots.com/mobiquo/smartbanner/welcome.php?referer=http%3A%2F%2Fnorcalbots.com%2F&code=6f0fc7d0362e70548bf9bc663cdf2852&board_url=http%3A%2F%2Fnorcalbots.com&lang=en)
 
@@ -29,9 +32,6 @@ title: http://norcalbots.com/mobiquo/smartbanner/welcome.php?referer=http%3A%2F%
 *  JS Response Bytes: 93553
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1226
-
-### Performance issues
-
 
 ### Performance issues
 

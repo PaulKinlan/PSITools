@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://office.live.com/start/Excel.aspx?WT.mc_id=016_Chrome_Web_Store_App_Excel_1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Microsoft Excel Online - Work together on Excel spreadsheets](https://office.live.com/start/Excel.aspx?WT.mc_id=016_Chrome_Web_Store_App_Excel_1)
 
@@ -29,9 +33,6 @@ title: https://office.live.com/start/Excel.aspx?WT.mc_id=016_Chrome_Web_Store_Ap
 *  JS Response Bytes: 122698
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://captainwebstore.com/242323/13.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CaptainWebstore Play » Angry Birds Halloween](http://captainwebstore.com/242323/13.html)
 
@@ -29,9 +34,6 @@ title: http://captainwebstore.com/242323/13.html
 *  JS Response Bytes: 555232
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16515
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://g.gd/ip/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://g.gd/ip/)
 
@@ -29,9 +30,6 @@ title: http://g.gd/ip/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331
-
-### Performance issues
-
 
 ### Performance issues
 

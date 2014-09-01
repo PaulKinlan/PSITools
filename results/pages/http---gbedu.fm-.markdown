@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gbedu.fm/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gbedu - Home](http://gbedu.fm/)
 
@@ -29,9 +33,6 @@ title: http://gbedu.fm/
 *  JS Response Bytes: 423058
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

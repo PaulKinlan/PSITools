@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://go.squallstar.it/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Go•SquallStar](http://go.squallstar.it/login)
 
@@ -29,9 +34,6 @@ title: http://go.squallstar.it/login
 *  JS Response Bytes: 313238
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1553
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://alltrails.com/?utm_source=chrome
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Discover Camping, Hiking, Mountain Biking & Other Outdoor Trails | AllTrails.com](http://alltrails.com/?utm_source=chrome)
 
@@ -29,9 +33,6 @@ title: http://alltrails.com/?utm_source=chrome
 *  JS Response Bytes: 2326406
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3402
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://lostforgames.com/games/burning-blades-hockey/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Burning Blades Hockey | Lost For Games](http://lostforgames.com/games/burning-blades-hockey/)
 
@@ -29,9 +34,6 @@ title: http://lostforgames.com/games/burning-blades-hockey/
 *  JS Response Bytes: 529579
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42312
-
-### Performance issues
-
 
 ### Performance issues
 

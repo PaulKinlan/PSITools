@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://super-nintendo-emulator.com/fighting/Street_Fighter_II_Turbo_-_Hyper_Fighting
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Street Fighter II Turbo Hyper Fighting - Super Nintendo Emulator](http://super-nintendo-emulator.com/fighting/Street_Fighter_II_Turbo_-_Hyper_Fighting)
 
@@ -29,9 +34,6 @@ title: http://super-nintendo-emulator.com/fighting/Street_Fighter_II_Turbo_-_Hyp
 *  JS Response Bytes: 1213313
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53394
-
-### Performance issues
-
 
 ### Performance issues
 

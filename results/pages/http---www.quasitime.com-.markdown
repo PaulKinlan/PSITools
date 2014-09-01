@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.quasitime.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Quasitime - Home](http://www.quasitime.com/)
 
@@ -29,9 +33,6 @@ title: http://www.quasitime.com/
 *  JS Response Bytes: 135235
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 472
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://truegeekradio.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [True Geek Radio](http://truegeekradio.com/)
 
@@ -29,9 +33,6 @@ title: http://truegeekradio.com/
 *  JS Response Bytes: 677108
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44890
-
-### Performance issues
-
 
 ### Performance issues
 

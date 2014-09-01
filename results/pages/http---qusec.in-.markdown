@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://qusec.in/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Best Online Grocery Store and Supermarket,Buy fresh vegetables - Bangalore.](http://qusec.in/)
 
@@ -29,9 +32,6 @@ title: http://qusec.in/
 *  JS Response Bytes: 620115
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20493
-
-### Performance issues
-
 
 ### Performance issues
 

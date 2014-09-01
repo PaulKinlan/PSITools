@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.centpage.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Centpage.com - Your all-in-one customizable homepage.](http://www.centpage.com/)
 
@@ -29,9 +35,6 @@ title: http://www.centpage.com/
 *  JS Response Bytes: 537277
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2443
-
-### Performance issues
-
 
 ### Performance issues
 

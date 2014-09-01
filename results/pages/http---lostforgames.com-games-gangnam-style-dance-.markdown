@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://lostforgames.com/games/gangnam-style-dance/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gangnam Style Dance | Lost For Games](http://lostforgames.com/games/gangnam-style-dance/)
 
@@ -29,9 +34,6 @@ title: http://lostforgames.com/games/gangnam-style-dance/
 *  JS Response Bytes: 529574
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42717
-
-### Performance issues
-
 
 ### Performance issues
 

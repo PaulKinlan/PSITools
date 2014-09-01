@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://en.lichess.org/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [lichess.org • Free Online Chess](http://en.lichess.org/)
 
@@ -29,9 +33,6 @@ title: http://en.lichess.org/
 *  JS Response Bytes: 305511
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 65963
-
-### Performance issues
-
 
 ### Performance issues
 

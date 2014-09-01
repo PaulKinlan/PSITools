@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.shoppinnet.com/index.php/page/home
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [$18 full-blown Online Store / eCommerce Solution - Try free](http://www.shoppinnet.com/index.php/page/home)
 
@@ -29,9 +32,6 @@ title: http://www.shoppinnet.com/index.php/page/home
 *  JS Response Bytes: 167747
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 568
-
-### Performance issues
-
 
 ### Performance issues
 

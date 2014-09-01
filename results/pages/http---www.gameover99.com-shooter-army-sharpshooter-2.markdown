@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gameover99.com/shooter/army-sharpshooter-2
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Army Sharpshooter 2 - Gameover99](http://www.gameover99.com/shooter/army-sharpshooter-2)
 
@@ -29,9 +35,6 @@ title: http://www.gameover99.com/shooter/army-sharpshooter-2
 *  JS Response Bytes: 1998630
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112109
-
-### Performance issues
-
 
 ### Performance issues
 

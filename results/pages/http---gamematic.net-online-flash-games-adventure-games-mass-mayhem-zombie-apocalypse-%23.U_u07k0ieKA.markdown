@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/adventure-games/mass-mayhem-zombie-apocalypse/#.U_u07k0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mass Mayhem Zombie Apocalypse « Online Flash Game Mass Mayhem Zombie Apocalypse](http://gamematic.net/online-flash-games/adventure-games/mass-mayhem-zombie-apocalypse/#.U_u07k0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/adventure-games/mass-mayhem-zombi
 *  JS Response Bytes: 1273685
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46239
-
-### Performance issues
-
 
 ### Performance issues
 

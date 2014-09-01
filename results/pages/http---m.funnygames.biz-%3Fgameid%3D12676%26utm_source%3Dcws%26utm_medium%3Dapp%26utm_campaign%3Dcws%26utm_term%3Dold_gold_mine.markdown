@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.funnygames.biz/?gameid=12676&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=old_gold_mine
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funnygames.biz/?gameid=12676&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=old_gold_mine)
 
@@ -29,9 +33,6 @@ title: http://m.funnygames.biz/?gameid=12676&utm_source=cws&utm_medium=app&utm_c
 *  JS Response Bytes: 1265753
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28402
-
-### Performance issues
-
 
 ### Performance issues
 

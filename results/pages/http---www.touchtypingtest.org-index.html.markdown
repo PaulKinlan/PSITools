@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.touchtypingtest.org/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Touch Typing Test](http://www.touchtypingtest.org/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.touchtypingtest.org/index.html
 *  JS Response Bytes: 792887
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24278
-
-### Performance issues
-
 
 ### Performance issues
 

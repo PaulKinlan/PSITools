@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://dralvaro.com/zombie-dress-up-zombie-game/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombie Dress Up - Zombie Game](http://dralvaro.com/zombie-dress-up-zombie-game/)
 
@@ -29,9 +34,6 @@ title: http://dralvaro.com/zombie-dress-up-zombie-game/
 *  JS Response Bytes: 1846094
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99007
-
-### Performance issues
-
 
 ### Performance issues
 

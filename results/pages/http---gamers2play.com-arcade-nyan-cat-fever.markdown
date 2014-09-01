@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamers2play.com/arcade/nyan-cat-fever
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nyan Cat Fever - Games, Gamers 2 Play | gamers2play.com](http://gamers2play.com/arcade/nyan-cat-fever)
 
@@ -29,9 +35,6 @@ title: http://gamers2play.com/arcade/nyan-cat-fever
 *  JS Response Bytes: 2770870
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116612
-
-### Performance issues
-
 
 ### Performance issues
 

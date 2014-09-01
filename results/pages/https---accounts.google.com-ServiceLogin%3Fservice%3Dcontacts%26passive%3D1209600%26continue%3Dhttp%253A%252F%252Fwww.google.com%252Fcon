@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://accounts.google.com/ServiceLogin?service=contacts&passive=1209600&continue=http%3A%2F%2Fwww.google.com%2Fcontacts%2F%23&followup=http%3A%2F%2Fwww.google.com%2Fcontacts%2F
+AvoidLandingPageRedirects: true
 ---
 ## [Google Contacts](https://accounts.google.com/ServiceLogin?service=contacts&passive=1209600&continue=http%3A%2F%2Fwww.google.com%2Fcontacts%2F%23&followup=http%3A%2F%2Fwww.google.com%2Fcontacts%2F)
 
@@ -29,9 +30,6 @@ title: https://accounts.google.com/ServiceLogin?service=contacts&passive=1209600
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50917
-
-### Performance issues
-
 
 ### Performance issues
 

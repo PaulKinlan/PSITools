@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://webcamtoy.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [chrome store webcam toy pc](http://webcamtoy.blogspot.com/?m=1)
 
@@ -18,20 +19,17 @@ title: http://webcamtoy.blogspot.com/?m=1
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 8
-*  Total Request Bytes: 1221
+*  Total Request Bytes: 1222
 
 ### Response data
 
-*  HTML Response Bytes: 45616
+*  HTML Response Bytes: 45617
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 21448
-*  Image Response Bytes: 3975
-*  JS Response Bytes: 248931
+*  Image Response Bytes: 3974
+*  JS Response Bytes: 249155
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 559
-
-### Performance issues
-
 
 ### Performance issues
 

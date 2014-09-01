@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://socialspirit.com.br/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Spirit Rede Social de Fãs de Animes, Mangás, Doramas, Músicas, Livros e muito mais](http://socialspirit.com.br/)
 
@@ -29,9 +31,6 @@ title: http://socialspirit.com.br/
 *  JS Response Bytes: 777609
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14925
-
-### Performance issues
-
 
 ### Performance issues
 

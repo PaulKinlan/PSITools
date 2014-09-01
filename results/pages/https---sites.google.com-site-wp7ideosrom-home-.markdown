@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sites.google.com/site/wp7ideosrom/home/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [WP7 Ideos U8150](https://sites.google.com/site/wp7ideosrom/home/)
 
@@ -29,9 +32,6 @@ title: https://sites.google.com/site/wp7ideosrom/home/
 *  JS Response Bytes: 1061076
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3555
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.a1autotransport.com/mobi/?status=Apple&refuri=/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [A-1 Auto Transport, Auto Shipping, Car Moving Company](http://www.a1autotransport.com/mobi/?status=Apple&refuri=/)
 
@@ -29,9 +33,6 @@ title: http://www.a1autotransport.com/mobi/?status=Apple&refuri=/
 *  JS Response Bytes: 238169
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1104
-
-### Performance issues
-
 
 ### Performance issues
 

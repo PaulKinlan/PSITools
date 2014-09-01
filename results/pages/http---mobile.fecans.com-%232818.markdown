@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://mobile.fecans.com/#2818
+MinimizeRenderBlockingResources: true
 ---
 ## [wWw.FeCans.Com - Your Flash Game World - Home](http://mobile.fecans.com/#2818)
 
@@ -18,20 +19,17 @@ title: http://mobile.fecans.com/#2818
 *  Number of JS Resources: 12
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 50
-*  Total Request Bytes: 7026
+*  Total Request Bytes: 7079
 
 ### Response data
 
-*  HTML Response Bytes: 117284
+*  HTML Response Bytes: 117367
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 319915
+*  CSS Response Bytes: 319974
 *  Image Response Bytes: 163146
-*  JS Response Bytes: 684325
+*  JS Response Bytes: 686935
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 488
-
-### Performance issues
-
 
 ### Performance issues
 

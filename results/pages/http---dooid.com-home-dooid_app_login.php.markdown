@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://dooid.com/home/dooid_app_login.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [dooid - social media business cards](http://dooid.com/home/dooid_app_login.php)
 
@@ -29,9 +33,6 @@ title: http://dooid.com/home/dooid_app_login.php
 *  JS Response Bytes: 247398
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5619
-
-### Performance issues
-
 
 ### Performance issues
 

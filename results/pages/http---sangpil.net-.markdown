@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://sangpil.net/
+UseLegibleFontSizes: true
 ---
 ## [403 Forbidden](http://sangpil.net/)
 
@@ -29,9 +30,6 @@ title: http://sangpil.net/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 398
-
-### Performance issues
-
 
 ### Performance issues
 

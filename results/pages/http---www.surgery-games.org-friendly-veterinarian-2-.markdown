@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/friendly-veterinarian-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Friendly Veterinarian game](http://www.surgery-games.org/friendly-veterinarian-2/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/friendly-veterinarian-2/
 *  JS Response Bytes: 2636882
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124237
-
-### Performance issues
-
 
 ### Performance issues
 

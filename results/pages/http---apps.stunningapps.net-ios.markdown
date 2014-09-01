@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://apps.stunningapps.net/ios
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Discover iOS Apps](http://apps.stunningapps.net/ios)
 
@@ -29,9 +31,6 @@ title: http://apps.stunningapps.net/ios
 *  JS Response Bytes: 590569
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1222
-
-### Performance issues
-
 
 ### Performance issues
 

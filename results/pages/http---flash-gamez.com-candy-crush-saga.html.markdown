@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://flash-gamez.com/candy-crush-saga.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flash-GameZ.Com | Flash Games WorldS – Page not found](http://flash-gamez.com/candy-crush-saga.html)
 
@@ -29,9 +35,6 @@ title: http://flash-gamez.com/candy-crush-saga.html
 *  JS Response Bytes: 251178
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 70181
-
-### Performance issues
-
 
 ### Performance issues
 

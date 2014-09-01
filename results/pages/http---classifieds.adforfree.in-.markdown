@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://classifieds.adforfree.in/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Free Classifieds | Post Free Online Classifieds Ads](http://classifieds.adforfree.in/)
 
@@ -29,9 +31,6 @@ title: http://classifieds.adforfree.in/
 *  JS Response Bytes: 331175
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53
-
-### Performance issues
-
 
 ### Performance issues
 

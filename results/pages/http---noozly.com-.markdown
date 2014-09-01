@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://noozly.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [NOOZLY.COM](http://noozly.com/)
 
@@ -29,9 +31,6 @@ title: http://noozly.com/
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

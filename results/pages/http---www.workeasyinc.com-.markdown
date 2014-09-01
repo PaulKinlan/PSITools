@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.workeasyinc.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Work Easy: Your Online Enterprise Management Platform](http://www.workeasyinc.com/)
 
@@ -29,9 +31,6 @@ title: http://www.workeasyinc.com/
 *  JS Response Bytes: 1091521
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

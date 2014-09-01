@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.247texasholdem.org/?chromestore=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Texas Holdem](http://www.247texasholdem.org/?chromestore=1)
 
@@ -29,9 +34,6 @@ title: http://www.247texasholdem.org/?chromestore=1
 *  JS Response Bytes: 1164170
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113876
-
-### Performance issues
-
 
 ### Performance issues
 

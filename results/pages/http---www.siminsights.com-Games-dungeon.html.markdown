@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.siminsights.com/Games/dungeon.html
+AvoidPlugins: true
 ---
 ## [Dungeon Game](http://www.siminsights.com/Games/dungeon.html)
 
@@ -29,9 +30,6 @@ title: http://www.siminsights.com/Games/dungeon.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

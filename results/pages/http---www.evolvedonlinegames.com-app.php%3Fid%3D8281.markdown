@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.evolvedonlinegames.com/app.php?id=8281
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Toast Snatcher](http://www.evolvedonlinegames.com/app.php?id=8281)
 
@@ -29,9 +35,6 @@ title: http://www.evolvedonlinegames.com/app.php?id=8281
 *  JS Response Bytes: 902841
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98828
-
-### Performance issues
-
 
 ### Performance issues
 

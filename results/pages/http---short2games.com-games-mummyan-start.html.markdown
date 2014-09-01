@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://short2games.com/games/mummyan/start.html
+EnableGzipCompression: true
 ---
 ## [MUMMYAN](http://short2games.com/games/mummyan/start.html)
 
@@ -29,9 +30,6 @@ title: http://short2games.com/games/mummyan/start.html
 *  JS Response Bytes: 120508
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mmogoodgames.blogspot.com.tr/2014/05/formula-track-racing.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MMO Good Games: Formula Track Racing](http://mmogoodgames.blogspot.com.tr/2014/05/formula-track-racing.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://mmogoodgames.blogspot.com.tr/2014/05/formula-track-racing.html?m=1
 *  JS Response Bytes: 1270778
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111050
-
-### Performance issues
-
 
 ### Performance issues
 

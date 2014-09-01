@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://lexigon.herokuapp.com/
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Lexigon](http://lexigon.herokuapp.com/)
 
@@ -29,9 +32,6 @@ title: http://lexigon.herokuapp.com/
 *  JS Response Bytes: 2750125
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 792
-
-### Performance issues
-
 
 ### Performance issues
 

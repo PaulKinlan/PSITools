@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://sleepdebt.rockettools.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
 ---
 ## [Sleep Debt](http://sleepdebt.rockettools.com/)
 
@@ -29,9 +33,6 @@ title: http://sleepdebt.rockettools.com/
 *  JS Response Bytes: 638012
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 197083
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.aihaitun.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [idolBrain - Brain Games & Brain Trainer](http://www.aihaitun.com/)
 
@@ -29,9 +35,6 @@ title: http://www.aihaitun.com/
 *  JS Response Bytes: 625745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

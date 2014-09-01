@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://clipper.pada-x.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
 ---
 ## [Creative Image Clipper](http://clipper.pada-x.com/)
 
@@ -29,9 +32,6 @@ title: http://clipper.pada-x.com/
 *  JS Response Bytes: 1518157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114779
-
-### Performance issues
-
 
 ### Performance issues
 

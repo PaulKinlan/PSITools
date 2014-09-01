@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://user.hoiio.com/auth/?redirectUrl=https%3A%2F%2Fuser.hoiio.com%2Fportal%2F#login
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Hoiio](https://user.hoiio.com/auth/?redirectUrl=https%3A%2F%2Fuser.hoiio.com%2Fportal%2F#login)
 
@@ -29,9 +32,6 @@ title: https://user.hoiio.com/auth/?redirectUrl=https%3A%2F%2Fuser.hoiio.com%2Fp
 *  JS Response Bytes: 459050
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42901
-
-### Performance issues
-
 
 ### Performance issues
 

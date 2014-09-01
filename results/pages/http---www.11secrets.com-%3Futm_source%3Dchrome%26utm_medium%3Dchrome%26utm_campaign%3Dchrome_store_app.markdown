@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.11secrets.com/?utm_source=chrome&utm_medium=chrome&utm_campaign=chrome_store_app
+SizeTapTargetsAppropriately: true
 ---
 ## [11secrets.com: The Leading Secret Site on the Net](http://www.11secrets.com/?utm_source=chrome&utm_medium=chrome&utm_campaign=chrome_store_app)
 
@@ -29,9 +30,6 @@ title: http://www.11secrets.com/?utm_source=chrome&utm_medium=chrome&utm_campaig
 *  JS Response Bytes: 259015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 431
-
-### Performance issues
-
 
 ### Performance issues
 

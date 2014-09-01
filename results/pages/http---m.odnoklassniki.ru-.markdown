@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://m.odnoklassniki.ru/
+MinimizeRenderBlockingResources: true
 ---
 ## [Добро пожаловать в Одноклассники!](http://m.odnoklassniki.ru/)
 
@@ -29,9 +30,6 @@ title: http://m.odnoklassniki.ru/
 *  JS Response Bytes: 137495
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 552
-
-### Performance issues
-
 
 ### Performance issues
 

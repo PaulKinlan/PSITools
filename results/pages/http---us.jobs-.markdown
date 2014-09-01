@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://us.jobs/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [US.jobs - National Labor Exchange - USA Jobs Search Engine](http://us.jobs/)
 
@@ -29,9 +31,6 @@ title: http://us.jobs/
 *  JS Response Bytes: 815949
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

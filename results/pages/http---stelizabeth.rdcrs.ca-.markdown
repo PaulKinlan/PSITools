@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://stelizabeth.rdcrs.ca/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [St. Elizabeth Seton School](http://stelizabeth.rdcrs.ca/)
 
@@ -29,9 +33,6 @@ title: http://stelizabeth.rdcrs.ca/
 *  JS Response Bytes: 329380
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

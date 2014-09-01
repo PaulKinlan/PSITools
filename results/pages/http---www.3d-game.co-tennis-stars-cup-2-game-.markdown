@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.3d-game.co/tennis-stars-cup-2/game/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Tennis stars cup game](http://www.3d-game.co/tennis-stars-cup-2/game/)
 
@@ -29,9 +37,6 @@ title: http://www.3d-game.co/tennis-stars-cup-2/game/
 *  JS Response Bytes: 1790751
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48012
-
-### Performance issues
-
 
 ### Performance issues
 

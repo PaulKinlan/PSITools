@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://games-cdn.stemfuse.com/porkchop_the_pig_chromeapp/index.html
+EnableGzipCompression: true
 ---
 ## [PorkChop](http://games-cdn.stemfuse.com/porkchop_the_pig_chromeapp/index.html)
 
@@ -29,9 +30,6 @@ title: http://games-cdn.stemfuse.com/porkchop_the_pig_chromeapp/index.html
 *  JS Response Bytes: 348845
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

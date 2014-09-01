@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamestask.net/board-card/uno3-3d
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [UNO3 3D - GamesTask.net | Free Online Games](http://www.gamestask.net/board-card/uno3-3d)
 
@@ -29,9 +35,6 @@ title: http://www.gamestask.net/board-card/uno3-3d
 *  JS Response Bytes: 1673924
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114881
-
-### Performance issues
-
 
 ### Performance issues
 

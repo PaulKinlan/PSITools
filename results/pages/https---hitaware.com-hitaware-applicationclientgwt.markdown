@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://hitaware.com/hitaware/applicationclientgwt
+EnableGzipCompression: true
 ---
 ## [HitAware Operator](https://hitaware.com/hitaware/applicationclientgwt)
 
@@ -29,9 +30,6 @@ title: https://hitaware.com/hitaware/applicationclientgwt
 *  JS Response Bytes: 3751671
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

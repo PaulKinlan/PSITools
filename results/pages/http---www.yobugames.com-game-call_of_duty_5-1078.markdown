@@ -33,8 +33,5 @@ title: http://www.yobugames.com/game/call_of_duty_5-1078
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

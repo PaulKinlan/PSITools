@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://structure.tinkercreek.co/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://structure.tinkercreek.co/)
 
@@ -29,9 +30,6 @@ title: http://structure.tinkercreek.co/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 580
-
-### Performance issues
-
 
 ### Performance issues
 

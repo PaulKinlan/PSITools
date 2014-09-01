@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://system.business365.ru/Account/Login?ReturnUrl=%2F
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Добро пожаловать](https://system.business365.ru/Account/Login?ReturnUrl=%2F)
 
@@ -29,9 +34,6 @@ title: https://system.business365.ru/Account/Login?ReturnUrl=%2F
 *  JS Response Bytes: 2678783
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 164587
-
-### Performance issues
-
 
 ### Performance issues
 

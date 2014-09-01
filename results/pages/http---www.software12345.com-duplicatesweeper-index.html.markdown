@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.software12345.com/duplicatesweeper/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Duplicate Sweeper | Find duplicate files on your computer.](http://www.software12345.com/duplicatesweeper/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.software12345.com/duplicatesweeper/index.html
 *  JS Response Bytes: 935600
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109057
-
-### Performance issues
-
 
 ### Performance issues
 

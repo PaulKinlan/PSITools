@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://incident-map-scanner.kwebpia.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [National Incident Map & Police, Fire Scanner](http://incident-map-scanner.kwebpia.net/)
 
@@ -29,9 +33,6 @@ title: http://incident-map-scanner.kwebpia.net/
 *  JS Response Bytes: 1050735
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54894
-
-### Performance issues
-
 
 ### Performance issues
 

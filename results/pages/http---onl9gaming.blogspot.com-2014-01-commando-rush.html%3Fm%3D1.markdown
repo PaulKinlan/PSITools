@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://onl9gaming.blogspot.com/2014/01/commando-rush.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Gaming: Commando Rush](http://onl9gaming.blogspot.com/2014/01/commando-rush.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://onl9gaming.blogspot.com/2014/01/commando-rush.html?m=1
 *  JS Response Bytes: 762990
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95578
-
-### Performance issues
-
 
 ### Performance issues
 

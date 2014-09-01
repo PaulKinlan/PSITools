@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://play.vambracesoftware.com/rgs-elite-raiders/#.U_uXG00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [RGS: Elite Raiders - Vambrace Software](http://play.vambracesoftware.com/rgs-elite-raiders/#.U_uXG00ieKA)
 
@@ -29,9 +34,6 @@ title: http://play.vambracesoftware.com/rgs-elite-raiders/#.U_uXG00ieKA
 *  JS Response Bytes: 499738
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42486
-
-### Performance issues
-
 
 ### Performance issues
 

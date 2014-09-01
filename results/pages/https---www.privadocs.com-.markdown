@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.privadocs.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Privadocs - Todas tus nubes en un mismo sitio.](https://www.privadocs.com/)
 
@@ -29,9 +32,6 @@ title: https://www.privadocs.com/
 *  JS Response Bytes: 2690801
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 361942
-
-### Performance issues
-
 
 ### Performance issues
 

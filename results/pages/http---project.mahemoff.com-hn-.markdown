@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://project.mahemoff.com/hn/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://project.mahemoff.com/hn/)
 
@@ -29,9 +33,6 @@ title: http://project.mahemoff.com/hn/
 *  JS Response Bytes: 486838
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15901
-
-### Performance issues
-
 
 ### Performance issues
 

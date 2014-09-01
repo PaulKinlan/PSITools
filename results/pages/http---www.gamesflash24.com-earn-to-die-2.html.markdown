@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesflash24.com/earn-to-die-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Earn to Die : Games Flash 24](http://www.gamesflash24.com/earn-to-die-2.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamesflash24.com/earn-to-die-2.html
 *  JS Response Bytes: 1935319
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120714
-
-### Performance issues
-
 
 ### Performance issues
 

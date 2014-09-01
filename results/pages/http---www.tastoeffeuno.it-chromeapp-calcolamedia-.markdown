@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tastoeffeuno.it/chromeapp/calcolamedia/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [CALCOLAMEDIA, la calcolatrice per gli insegnanti.](http://www.tastoeffeuno.it/chromeapp/calcolamedia/)
 
@@ -29,9 +32,6 @@ title: http://www.tastoeffeuno.it/chromeapp/calcolamedia/
 *  JS Response Bytes: 416763
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

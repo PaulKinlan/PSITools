@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.isolitairegames.com/ChromeFreecellSolitaire.php
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chrome Freecell Solitaire](http://www.isolitairegames.com/ChromeFreecellSolitaire.php)
 
@@ -29,9 +34,6 @@ title: http://www.isolitairegames.com/ChromeFreecellSolitaire.php
 *  JS Response Bytes: 1489263
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97018
-
-### Performance issues
-
 
 ### Performance issues
 

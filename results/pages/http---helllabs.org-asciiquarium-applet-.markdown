@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://helllabs.org/asciiquarium-applet/
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ASCIIQuarium](http://helllabs.org/asciiquarium-applet/)
 
@@ -29,9 +32,6 @@ title: http://helllabs.org/asciiquarium-applet/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://lycans.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [lycans.net](http://lycans.net/)
 
@@ -29,9 +33,6 @@ title: http://lycans.net/
 *  JS Response Bytes: 173157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/711450/?autoAction=true&sId=Chrome_Webstore_Nov12_711450
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Marooned 2: Secrets of the Akoni for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/711450/?autoAction=true&sId=Chrome_Webstore_Nov12_711450)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/711450/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1504891
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22605
-
-### Performance issues
-
 
 ### Performance issues
 

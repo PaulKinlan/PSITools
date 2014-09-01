@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://dnt.abine.com/#register
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DoNotTrackMe](https://dnt.abine.com/#register)
 
@@ -29,9 +33,6 @@ title: https://dnt.abine.com/#register
 *  JS Response Bytes: 933325
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.funny-games.co.uk/?gameid=14898&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=city_siege_3_jungle_siege
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funny-games.co.uk/?gameid=14898&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=city_siege_3_jungle_siege)
 
@@ -29,9 +33,6 @@ title: http://m.funny-games.co.uk/?gameid=14898&utm_source=cws&utm_medium=app&ut
 *  JS Response Bytes: 1266599
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28463
-
-### Performance issues
-
 
 ### Performance issues
 

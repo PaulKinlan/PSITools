@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://spidermannews.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Spider-Man News | The Amazing Spider-Man 2 News, Rumors, Photos & More](http://spidermannews.com/)
 
@@ -29,9 +30,6 @@ title: http://spidermannews.com/
 *  JS Response Bytes: 772976
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 90984
-
-### Performance issues
-
 
 ### Performance issues
 

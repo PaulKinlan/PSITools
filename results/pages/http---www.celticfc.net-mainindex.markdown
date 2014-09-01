@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.celticfc.net/mainindex
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome to Paradise | CelticFC](http://www.celticfc.net/mainindex)
 
@@ -29,9 +36,6 @@ title: http://www.celticfc.net/mainindex
 *  JS Response Bytes: 1039177
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39967
-
-### Performance issues
-
 
 ### Performance issues
 

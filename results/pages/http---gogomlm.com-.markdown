@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gogomlm.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Go Go MLM](http://gogomlm.com/)
 
@@ -29,9 +33,6 @@ title: http://gogomlm.com/
 *  JS Response Bytes: 2477971
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4987
-
-### Performance issues
-
 
 ### Performance issues
 

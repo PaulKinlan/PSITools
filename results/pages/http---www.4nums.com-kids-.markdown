@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.4nums.com/kids/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [For kids (no divisions) - 4 Numbers! game](http://www.4nums.com/kids/)
 
@@ -29,9 +33,6 @@ title: http://www.4nums.com/kids/
 *  JS Response Bytes: 1002090
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15935
-
-### Performance issues
-
 
 ### Performance issues
 

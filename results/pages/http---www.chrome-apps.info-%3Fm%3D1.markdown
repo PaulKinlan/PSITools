@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.chrome-apps.info/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Chrome Apps Info](http://www.chrome-apps.info/?m=1)
 
@@ -29,9 +32,6 @@ title: http://www.chrome-apps.info/?m=1
 *  JS Response Bytes: 920131
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 860
-
-### Performance issues
-
 
 ### Performance issues
 

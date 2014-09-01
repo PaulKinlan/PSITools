@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pituligames.com/karate-king.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play this game and become the Karate King! - Pituli★Games.com](http://www.pituligames.com/karate-king.html)
 
@@ -29,9 +33,6 @@ title: http://www.pituligames.com/karate-king.html
 *  JS Response Bytes: 2089416
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 182202
-
-### Performance issues
-
 
 ### Performance issues
 

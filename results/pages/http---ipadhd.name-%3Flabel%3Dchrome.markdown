@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ipadhd.name/?label=chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [iPadHD.name | iPad HD Reviews, News and Apps](http://ipadhd.name/?label=chrome)
 
@@ -29,9 +33,6 @@ title: http://ipadhd.name/?label=chrome
 *  JS Response Bytes: 1521710
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1274
-
-### Performance issues
-
 
 ### Performance issues
 

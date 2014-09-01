@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.flashgamesonline.org/tag/match-3
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [match 3 Games on FlashGamesOnline.Org](http://www.flashgamesonline.org/tag/match-3)
 
@@ -29,9 +33,6 @@ title: http://www.flashgamesonline.org/tag/match-3
 *  JS Response Bytes: 1616341
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119913
-
-### Performance issues
-
 
 ### Performance issues
 

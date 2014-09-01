@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://freeplayonlinegame.ru/zlye-pticy-protiv-svinejj_online-game_1228976190.html?chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Игра Злые птицы против свиней онлайн](http://freeplayonlinegame.ru/zlye-pticy-protiv-svinejj_online-game_1228976190.html?chrome)
 
@@ -29,9 +35,6 @@ title: http://freeplayonlinegame.ru/zlye-pticy-protiv-svinejj_online-game_122897
 *  JS Response Bytes: 349658
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 93209
-
-### Performance issues
-
 
 ### Performance issues
 

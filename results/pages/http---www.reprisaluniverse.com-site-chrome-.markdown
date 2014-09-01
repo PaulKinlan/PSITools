@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.reprisaluniverse.com/site/chrome/
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Reprisal - reclaim your history](http://www.reprisaluniverse.com/site/chrome/)
 
@@ -29,9 +33,6 @@ title: http://www.reprisaluniverse.com/site/chrome/
 *  JS Response Bytes: 255102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1128
-
-### Performance issues
-
 
 ### Performance issues
 

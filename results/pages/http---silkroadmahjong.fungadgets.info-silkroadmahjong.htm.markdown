@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://silkroadmahjong.fungadgets.info/silkroadmahjong.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Silkroad Mahjong Puzzle Game](http://silkroadmahjong.fungadgets.info/silkroadmahjong.htm)
 
@@ -29,9 +35,6 @@ title: http://silkroadmahjong.fungadgets.info/silkroadmahjong.htm
 *  JS Response Bytes: 682393
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96985
-
-### Performance issues
-
 
 ### Performance issues
 

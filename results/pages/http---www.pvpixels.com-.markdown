@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pvpixels.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [PV Pixels - Entertainment and humor BlogPV PIXELS](http://www.pvpixels.com/)
 
@@ -29,9 +33,6 @@ title: http://www.pvpixels.com/
 *  JS Response Bytes: 1283776
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98428
-
-### Performance issues
-
 
 ### Performance issues
 

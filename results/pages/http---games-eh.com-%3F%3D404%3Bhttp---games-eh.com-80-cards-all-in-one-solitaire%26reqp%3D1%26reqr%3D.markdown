@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://games-eh.com/?=404;http://games-eh.com:80/cards/all-in-one-solitaire&reqp=1&reqr=
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [games-eh.com](http://games-eh.com/?=404;http://games-eh.com:80/cards/all-in-one-solitaire&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://games-eh.com/?=404;http://games-eh.com:80/cards/all-in-one-solitai
 *  JS Response Bytes: 304181
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 387
-
-### Performance issues
-
 
 ### Performance issues
 

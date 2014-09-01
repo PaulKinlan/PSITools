@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamexcenter.net/hot-rod-racers/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [hot rod racers | GameXcenter](http://www.gamexcenter.net/hot-rod-racers/)
 
@@ -29,9 +34,6 @@ title: http://www.gamexcenter.net/hot-rod-racers/
 *  JS Response Bytes: 1057713
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 165088
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gametores.com/oyun.php?id=64
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bad Piggies HD 2.0](http://www.gametores.com/oyun.php?id=64)
 
@@ -29,9 +35,6 @@ title: http://www.gametores.com/oyun.php?id=64
 *  JS Response Bytes: 1456918
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97493
-
-### Performance issues
-
 
 ### Performance issues
 

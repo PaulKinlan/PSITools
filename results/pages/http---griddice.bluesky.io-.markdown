@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://griddice.bluesky.io/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [homePage](http://griddice.bluesky.io/)
 
@@ -29,9 +31,6 @@ title: http://griddice.bluesky.io/
 *  JS Response Bytes: 1055294
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

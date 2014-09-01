@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.novebrno.cz/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kultura v Brně | NovéBrno.cz](http://www.novebrno.cz/)
 
@@ -29,9 +34,6 @@ title: http://www.novebrno.cz/
 *  JS Response Bytes: 59856
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1364
-
-### Performance issues
-
 
 ### Performance issues
 

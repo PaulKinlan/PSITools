@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://arcadechrome.com/gch/?g=274
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Monster Milk Truck](http://arcadechrome.com/gch/?g=274)
 
@@ -29,9 +34,6 @@ title: http://arcadechrome.com/gch/?g=274
 *  JS Response Bytes: 780795
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1768
-
-### Performance issues
-
 
 ### Performance issues
 

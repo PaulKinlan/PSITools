@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.oyunkaptani.com/3d-araba-surme-oyna.html?utm_source=ChromeWebStore&utm_medium=3DArabaSurme&utm_content=webapp&utm_campaign=kisayol
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Araba Sürme Oyna - Oyun Kaptanı](http://www.oyunkaptani.com/3d-araba-surme-oyna.html?utm_source=ChromeWebStore&utm_medium=3DArabaSurme&utm_content=webapp&utm_campaign=kisayol)
 
@@ -29,9 +34,6 @@ title: http://www.oyunkaptani.com/3d-araba-surme-oyna.html?utm_source=ChromeWebS
 *  JS Response Bytes: 2190977
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 303055
-
-### Performance issues
-
 
 ### Performance issues
 

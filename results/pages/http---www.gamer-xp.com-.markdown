@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gamer-xp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [GamerXP | Roleplaying is For Everyone](http://www.gamer-xp.com/)
 
@@ -29,9 +32,6 @@ title: http://www.gamer-xp.com/
 *  JS Response Bytes: 728406
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56545
-
-### Performance issues
-
 
 ### Performance issues
 

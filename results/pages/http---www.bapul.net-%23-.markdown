@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bapul.net/#/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [[바풀]학습 Q&A 바로풀기](http://www.bapul.net/#/)
 
@@ -29,9 +33,6 @@ title: http://www.bapul.net/#/
 *  JS Response Bytes: 548128
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 201
-
-### Performance issues
-
 
 ### Performance issues
 

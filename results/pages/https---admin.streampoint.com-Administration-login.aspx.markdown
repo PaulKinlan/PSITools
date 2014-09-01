@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://admin.streampoint.com/Administration/login.aspx
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Streampoint Solutions - Client Login](https://admin.streampoint.com/Administration/login.aspx)
 
@@ -29,9 +33,6 @@ title: https://admin.streampoint.com/Administration/login.aspx
 *  JS Response Bytes: 724665
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61691
-
-### Performance issues
-
 
 ### Performance issues
 

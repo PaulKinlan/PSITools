@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://tibia-mmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Tibia Online](http://tibia-mmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://tibia-mmo.appspot.com/
 *  JS Response Bytes: 935708
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42481
-
-### Performance issues
-
 
 ### Performance issues
 

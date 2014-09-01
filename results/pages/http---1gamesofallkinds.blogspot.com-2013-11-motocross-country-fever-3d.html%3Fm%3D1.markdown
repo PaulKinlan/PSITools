@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://1gamesofallkinds.blogspot.com/2013/11/motocross-country-fever-3d.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Games Of All Kinds: Motocross Country Fever 3D](http://1gamesofallkinds.blogspot.com/2013/11/motocross-country-fever-3d.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://1gamesofallkinds.blogspot.com/2013/11/motocross-country-fever-3d.h
 *  JS Response Bytes: 2228443
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 149642
-
-### Performance issues
-
 
 ### Performance issues
 

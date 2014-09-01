@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.joyfort.com/portal.php
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Joyfort.com-Your Best Community of Browser Games and MMOs! Free to Play Now!](http://www.joyfort.com/portal.php)
 
@@ -29,9 +33,6 @@ title: http://www.joyfort.com/portal.php
 *  JS Response Bytes: 339152
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2815
-
-### Performance issues
-
 
 ### Performance issues
 

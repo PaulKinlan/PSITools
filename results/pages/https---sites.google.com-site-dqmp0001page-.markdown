@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sites.google.com/site/dqmp0001page/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [dqmp0001page](https://sites.google.com/site/dqmp0001page/)
 
@@ -29,9 +32,6 @@ title: https://sites.google.com/site/dqmp0001page/
 *  JS Response Bytes: 658904
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1264
-
-### Performance issues
-
 
 ### Performance issues
 

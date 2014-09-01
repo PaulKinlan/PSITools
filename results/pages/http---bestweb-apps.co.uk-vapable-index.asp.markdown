@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bestweb-apps.co.uk/vapable/index.asp
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Untitled Document](http://bestweb-apps.co.uk/vapable/index.asp)
 
@@ -29,9 +32,6 @@ title: http://bestweb-apps.co.uk/vapable/index.asp
 *  JS Response Bytes: 1082567
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 173570
-
-### Performance issues
-
 
 ### Performance issues
 

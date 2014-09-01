@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.music4musicians.info/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Music 4 Musicians - Featured Videos](http://www.music4musicians.info/)
 
@@ -29,9 +36,6 @@ title: http://www.music4musicians.info/
 *  JS Response Bytes: 2438037
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 153753
-
-### Performance issues
-
 
 ### Performance issues
 

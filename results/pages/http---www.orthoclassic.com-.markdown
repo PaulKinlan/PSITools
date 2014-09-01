@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.orthoclassic.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ortho Classic - Orthodontic Supplies and Orthodontic Products](http://www.orthoclassic.com/)
 
@@ -29,9 +32,6 @@ title: http://www.orthoclassic.com/
 *  JS Response Bytes: 607291
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 868
-
-### Performance issues
-
 
 ### Performance issues
 

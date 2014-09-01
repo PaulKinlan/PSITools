@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/687750/?autoAction=true&sId=Chrome_Webstore_Nov12_687750
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Magic Encyclopedia: Illusions for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/687750/?autoAction=true&sId=Chrome_Webstore_Nov12_687750)
 
@@ -29,9 +34,6 @@ title: http://www.freeridegames.com/chrome/games/687750/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1655477
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41388
-
-### Performance issues
-
 
 ### Performance issues
 

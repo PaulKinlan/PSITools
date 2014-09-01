@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://yaks.co.nz/reversi/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free Reversi App - Software Christchurch](http://yaks.co.nz/reversi/)
 
@@ -29,9 +35,6 @@ title: http://yaks.co.nz/reversi/
 *  JS Response Bytes: 282179
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32564
-
-### Performance issues
-
 
 ### Performance issues
 

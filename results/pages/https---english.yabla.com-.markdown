@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://english.yabla.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Yabla English Video Immersion - The Authentic Way to Learn English](https://english.yabla.com/)
 
@@ -29,9 +33,6 @@ title: https://english.yabla.com/
 *  JS Response Bytes: 128666
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

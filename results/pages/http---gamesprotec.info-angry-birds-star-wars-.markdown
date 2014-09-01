@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://gamesprotec.info/angry-birds-star-wars/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tic Games Flash Games – Angry birds star wars](http://gamesprotec.info/angry-birds-star-wars/)
 
@@ -29,9 +37,6 @@ title: http://gamesprotec.info/angry-birds-star-wars/
 *  JS Response Bytes: 1190480
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1317
-
-### Performance issues
-
 
 ### Performance issues
 

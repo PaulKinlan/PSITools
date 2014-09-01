@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://7minworkoutapp.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [7MinWorkout](http://7minworkoutapp.com/)
 
@@ -29,9 +33,6 @@ title: http://7minworkoutapp.com/
 *  JS Response Bytes: 1169071
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 37404
-
-### Performance issues
-
 
 ### Performance issues
 

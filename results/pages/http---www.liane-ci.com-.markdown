@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.liane-ci.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Projet Liane en Cote d Ivoire | Projet Liane en Cote d Ivoire](http://www.liane-ci.com/)
 
@@ -29,9 +33,6 @@ title: http://www.liane-ci.com/
 *  JS Response Bytes: 1248305
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121670
-
-### Performance issues
-
 
 ### Performance issues
 

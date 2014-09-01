@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.tripomatic.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Trip Planner | Tripomatic](http://www.tripomatic.com/)
 
@@ -29,9 +30,6 @@ title: http://www.tripomatic.com/
 *  JS Response Bytes: 1678028
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 82083
-
-### Performance issues
-
 
 ### Performance issues
 

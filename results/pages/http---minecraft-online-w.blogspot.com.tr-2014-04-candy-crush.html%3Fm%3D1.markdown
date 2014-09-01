@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://minecraft-online-w.blogspot.com.tr/2014/04/candy-crush.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [minecraft game HD: candy crush](http://minecraft-online-w.blogspot.com.tr/2014/04/candy-crush.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://minecraft-online-w.blogspot.com.tr/2014/04/candy-crush.html?m=1
 *  JS Response Bytes: 721624
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95593
-
-### Performance issues
-
 
 ### Performance issues
 

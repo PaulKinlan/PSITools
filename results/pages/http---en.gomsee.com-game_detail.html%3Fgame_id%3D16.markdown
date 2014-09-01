@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://en.gomsee.com/game_detail.html?game_id=16
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Luna’s Ice cream Joint Free Online Games, Flash Games & Play Free Online Games | Gomsee](http://en.gomsee.com/game_detail.html?game_id=16)
 
@@ -29,9 +35,6 @@ title: http://en.gomsee.com/game_detail.html?game_id=16
 *  JS Response Bytes: 681486
 *  Flash Response Bytes: 830615
 *  Other Response Bytes: 974
-
-### Performance issues
-
 
 ### Performance issues
 

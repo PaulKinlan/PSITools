@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.onlinemarketgames.com/surviving-mars.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Surviving Mars | Online Market Games](http://www.onlinemarketgames.com/surviving-mars.html)
 
@@ -29,9 +34,6 @@ title: http://www.onlinemarketgames.com/surviving-mars.html
 *  JS Response Bytes: 894476
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16332
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/kick-off/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kick Off Game](http://www.footballgam.es/kick-off/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/kick-off/
 *  JS Response Bytes: 2421802
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141974
-
-### Performance issues
-
 
 ### Performance issues
 

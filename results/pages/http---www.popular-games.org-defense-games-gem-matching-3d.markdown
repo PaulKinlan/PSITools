@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.popular-games.org/defense-games/gem-matching-3d
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | www.popular-games.org | Play Most Popular Games Free](http://www.popular-games.org/defense-games/gem-matching-3d)
 
@@ -29,9 +35,6 @@ title: http://www.popular-games.org/defense-games/gem-matching-3d
 *  JS Response Bytes: 522988
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2838
-
-### Performance issues
-
 
 ### Performance issues
 

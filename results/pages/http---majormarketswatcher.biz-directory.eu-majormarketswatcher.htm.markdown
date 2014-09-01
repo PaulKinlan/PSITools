@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://majormarketswatcher.biz-directory.eu/majormarketswatcher.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Major Markets Watcher](http://majormarketswatcher.biz-directory.eu/majormarketswatcher.htm)
 
@@ -29,9 +34,6 @@ title: http://majormarketswatcher.biz-directory.eu/majormarketswatcher.htm
 *  JS Response Bytes: 1129464
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97613
-
-### Performance issues
-
 
 ### Performance issues
 

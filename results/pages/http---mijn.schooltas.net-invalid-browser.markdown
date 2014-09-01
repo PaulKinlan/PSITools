@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mijn.schooltas.net/invalid-browser
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Schooltas werkt niet in deze browser](http://mijn.schooltas.net/invalid-browser)
 
@@ -29,9 +32,6 @@ title: http://mijn.schooltas.net/invalid-browser
 *  JS Response Bytes: 99898
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 62
-
-### Performance issues
-
 
 ### Performance issues
 

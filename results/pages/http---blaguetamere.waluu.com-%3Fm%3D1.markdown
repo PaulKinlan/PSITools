@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://blaguetamere.waluu.com/?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Liste des contributions](http://blaguetamere.waluu.com/?m=1)
 
@@ -29,9 +34,6 @@ title: http://blaguetamere.waluu.com/?m=1
 *  JS Response Bytes: 904740
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5760
-
-### Performance issues
-
 
 ### Performance issues
 

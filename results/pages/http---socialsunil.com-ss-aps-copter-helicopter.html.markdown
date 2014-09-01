@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://socialsunil.com/ss/aps/copter/helicopter.html
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Classic Heli Copter Game](http://socialsunil.com/ss/aps/copter/helicopter.html)
 
@@ -29,9 +33,6 @@ title: http://socialsunil.com/ss/aps/copter/helicopter.html
 *  JS Response Bytes: 529887
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16218
-
-### Performance issues
-
 
 ### Performance issues
 

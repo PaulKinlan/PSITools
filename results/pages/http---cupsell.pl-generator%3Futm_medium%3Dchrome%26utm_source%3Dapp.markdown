@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://cupsell.pl/generator?utm_medium=chrome&utm_source=app
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Koszulki z własnym nadrukiem - bluzy, kubki, vlepki, przypinki](http://cupsell.pl/generator?utm_medium=chrome&utm_source=app)
 
@@ -29,9 +33,6 @@ title: http://cupsell.pl/generator?utm_medium=chrome&utm_source=app
 *  JS Response Bytes: 1869771
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 984758
-
-### Performance issues
-
 
 ### Performance issues
 

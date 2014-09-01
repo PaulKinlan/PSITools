@@ -33,8 +33,5 @@ title: http://hdpopulargames.com/game/pou-1042
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.rosariolinks.com.ar/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rosario Links - Guia de sitios web, directorio y buscador de Rosario. Turismo, Hoteles, Clasificados Online Gratis!](http://www.rosariolinks.com.ar/)
 
@@ -29,9 +33,6 @@ title: http://www.rosariolinks.com.ar/
 *  JS Response Bytes: 921772
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1882
-
-### Performance issues
-
 
 ### Performance issues
 

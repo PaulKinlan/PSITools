@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.clashofclanss.biz/uncategorized/subway-surfers.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Clash Of Clans – Subway Surfers](http://www.clashofclanss.biz/uncategorized/subway-surfers.html)
 
@@ -29,9 +34,6 @@ title: http://www.clashofclanss.biz/uncategorized/subway-surfers.html
 *  JS Response Bytes: 850959
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5611
-
-### Performance issues
-
 
 ### Performance issues
 

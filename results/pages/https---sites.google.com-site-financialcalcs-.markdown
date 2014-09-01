@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://sites.google.com/site/financialcalcs/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Finance Calculators](https://sites.google.com/site/financialcalcs/)
 
@@ -29,9 +34,6 @@ title: https://sites.google.com/site/financialcalcs/
 *  JS Response Bytes: 453419
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28764
-
-### Performance issues
-
 
 ### Performance issues
 

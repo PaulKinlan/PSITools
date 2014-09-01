@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.googulator.com/home
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Googulator](http://www.googulator.com/home)
 
@@ -29,9 +34,6 @@ title: http://www.googulator.com/home
 *  JS Response Bytes: 2611966
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 289454
-
-### Performance issues
-
 
 ### Performance issues
 

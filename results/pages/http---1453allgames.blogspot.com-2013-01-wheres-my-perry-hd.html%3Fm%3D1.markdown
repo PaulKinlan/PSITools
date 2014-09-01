@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://1453allgames.blogspot.com/2013/01/wheres-my-perry-hd.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Chrome Browser Games: Where's My Perry ? HD](http://1453allgames.blogspot.com/2013/01/wheres-my-perry-hd.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://1453allgames.blogspot.com/2013/01/wheres-my-perry-hd.html?m=1
 *  JS Response Bytes: 2392494
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 302150
-
-### Performance issues
-
 
 ### Performance issues
 

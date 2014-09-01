@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://platform.cloudlock.com/gate/login
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [Sign in](https://platform.cloudlock.com/gate/login)
 
@@ -29,9 +31,6 @@ title: https://platform.cloudlock.com/gate/login
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 73784
-
-### Performance issues
-
 
 ### Performance issues
 

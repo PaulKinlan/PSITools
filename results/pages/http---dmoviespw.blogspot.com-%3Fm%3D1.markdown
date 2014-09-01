@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://dmoviespw.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://dmoviespw.blogspot.com/?m=1)
 
@@ -29,9 +33,6 @@ title: http://dmoviespw.blogspot.com/?m=1
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18756
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.createsurvey.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Surveys - Create Survey™](http://www.createsurvey.com/)
 
@@ -29,9 +33,6 @@ title: http://www.createsurvey.com/
 *  JS Response Bytes: 1027627
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 785
-
-### Performance issues
-
 
 ### Performance issues
 

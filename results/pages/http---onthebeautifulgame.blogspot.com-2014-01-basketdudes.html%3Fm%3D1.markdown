@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://onthebeautifulgame.blogspot.com/2014/01/basketdudes.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [ON the Beautiful Game: BasketDudes](http://onthebeautifulgame.blogspot.com/2014/01/basketdudes.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://onthebeautifulgame.blogspot.com/2014/01/basketdudes.html?m=1
 *  JS Response Bytes: 1805874
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113416
-
-### Performance issues
-
 
 ### Performance issues
 

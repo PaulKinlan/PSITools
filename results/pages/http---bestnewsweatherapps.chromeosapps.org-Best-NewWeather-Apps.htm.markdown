@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bestnewsweatherapps.chromeosapps.org/Best-NewWeather-Apps.htm
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Best News & Weather Apps](http://bestnewsweatherapps.chromeosapps.org/Best-NewWeather-Apps.htm)
 
@@ -29,9 +32,6 @@ title: http://bestnewsweatherapps.chromeosapps.org/Best-NewWeather-Apps.htm
 *  JS Response Bytes: 429730
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15011
-
-### Performance issues
-
 
 ### Performance issues
 

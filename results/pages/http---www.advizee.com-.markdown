@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.advizee.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [advizee | conseils via un appel vidéo](http://www.advizee.com/)
 
@@ -29,9 +32,6 @@ title: http://www.advizee.com/
 *  JS Response Bytes: 423062
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96286
-
-### Performance issues
-
 
 ### Performance issues
 

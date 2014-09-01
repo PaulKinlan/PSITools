@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://bluenod.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Bluenod | Visualize communities](http://bluenod.com/)
 
@@ -29,9 +30,6 @@ title: http://bluenod.com/
 *  JS Response Bytes: 317308
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13703
-
-### Performance issues
-
 
 ### Performance issues
 

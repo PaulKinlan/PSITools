@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://rookiegames.com/2048-multiplayer-battle/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [2048 Multiplayer Battle](http://rookiegames.com/2048-multiplayer-battle/)
 
@@ -29,9 +36,6 @@ title: http://rookiegames.com/2048-multiplayer-battle/
 *  JS Response Bytes: 1278832
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98293
-
-### Performance issues
-
 
 ### Performance issues
 

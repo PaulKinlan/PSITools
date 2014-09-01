@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://brandcoder.com/realtv/tvos/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [BrandCoder - RealTV](http://brandcoder.com/realtv/tvos/)
 
@@ -29,9 +33,6 @@ title: http://brandcoder.com/realtv/tvos/
 *  JS Response Bytes: 326102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 494
-
-### Performance issues
-
 
 ### Performance issues
 

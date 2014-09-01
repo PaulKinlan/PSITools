@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.psngamesdigitais.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [- PSN GAMES DIGITAIS](http://www.psngamesdigitais.com/)
 
@@ -29,9 +32,6 @@ title: http://www.psngamesdigitais.com/
 *  JS Response Bytes: 520941
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 207923
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.plimoth.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Plimoth Plantation |](http://www.plimoth.org/)
 
@@ -29,9 +33,6 @@ title: http://www.plimoth.org/
 *  JS Response Bytes: 117362
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 609
-
-### Performance issues
-
 
 ### Performance issues
 

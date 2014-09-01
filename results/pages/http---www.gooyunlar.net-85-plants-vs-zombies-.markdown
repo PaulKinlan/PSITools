@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.gooyunlar.net/85/plants-vs-zombies/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gooyunlar.net](http://www.gooyunlar.net/85/plants-vs-zombies/)
 
@@ -29,9 +31,6 @@ title: http://www.gooyunlar.net/85/plants-vs-zombies/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamedinosaur.net/shooting-games/balloons-vs-zombies-2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | Gamedinosaur.net | Play Most Popular Games Free](http://www.gamedinosaur.net/shooting-games/balloons-vs-zombies-2)
 
@@ -29,9 +35,6 @@ title: http://www.gamedinosaur.net/shooting-games/balloons-vs-zombies-2
 *  JS Response Bytes: 1274963
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 60402
-
-### Performance issues
-
 
 ### Performance issues
 

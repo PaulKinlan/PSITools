@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.voyance-az.com/horoscope-vierge
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Voyance-AZ.com - Horoscope Vierge](http://www.voyance-az.com/horoscope-vierge)
 
@@ -29,9 +32,6 @@ title: http://www.voyance-az.com/horoscope-vierge
 *  JS Response Bytes: 2414503
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 347299
-
-### Performance issues
-
 
 ### Performance issues
 

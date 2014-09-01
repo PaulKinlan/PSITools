@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.zenconomy.se/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Fakturering och bokföring på nätet – Zenconomy](https://www.zenconomy.se/)
 
@@ -29,9 +32,6 @@ title: https://www.zenconomy.se/
 *  JS Response Bytes: 132075
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 85955
-
-### Performance issues
-
 
 ### Performance issues
 

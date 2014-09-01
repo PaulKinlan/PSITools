@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Skateboarding Games skateboard arcade](http://www.skateboarding-games.biz/)
 
@@ -29,9 +36,6 @@ title: http://www.skateboarding-games.biz/
 *  JS Response Bytes: 1650965
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98515
-
-### Performance issues
-
 
 ### Performance issues
 

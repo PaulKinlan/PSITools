@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gameboss123.com/tilt.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tilt 3D ~ This online game is so addictive](http://gameboss123.com/tilt.html)
 
@@ -29,9 +35,6 @@ title: http://gameboss123.com/tilt.html
 *  JS Response Bytes: 1012250
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33911
-
-### Performance issues
-
 
 ### Performance issues
 

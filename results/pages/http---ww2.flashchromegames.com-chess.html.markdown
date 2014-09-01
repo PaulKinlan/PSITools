@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.flashchromegames.com/chess.html
+SizeTapTargetsAppropriately: true
 ---
 ## [flashchromegames.com](http://ww2.flashchromegames.com/chess.html)
 
@@ -29,9 +30,6 @@ title: http://ww2.flashchromegames.com/chess.html
 *  JS Response Bytes: 229920
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21039
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.tepte.net/Play/Play-You-Are-The-Road-353.html
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play You Are The Road Affect The Cars - Play Games on Tepte.Net](http://www.tepte.net/Play/Play-You-Are-The-Road-353.html)
 
@@ -29,9 +31,6 @@ title: http://www.tepte.net/Play/Play-You-Are-The-Road-353.html
 *  JS Response Bytes: 3117344
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 205552
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/angrybirds/angry-cat/#.U_umNE0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Cat « Online Flash Game Angry Cat](http://gamematic.net/online-flash-games/angrybirds/angry-cat/#.U_umNE0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/angrybirds/angry-cat/#.U_umNE0ieK
 *  JS Response Bytes: 1264627
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51276
-
-### Performance issues
-
 
 ### Performance issues
 

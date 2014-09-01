@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.petrogallimoto.com/shop/it/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Petrogalli Moto - Petrogalli Moto](http://www.petrogallimoto.com/shop/it/)
 
@@ -29,9 +35,6 @@ title: http://www.petrogallimoto.com/shop/it/
 *  JS Response Bytes: 1235170
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2827
-
-### Performance issues
-
 
 ### Performance issues
 

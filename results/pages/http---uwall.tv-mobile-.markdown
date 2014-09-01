@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://uwall.tv/mobile/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Uwall Mobile Version - I listen a wall of music!](http://uwall.tv/mobile/)
 
@@ -29,9 +32,6 @@ title: http://uwall.tv/mobile/
 *  JS Response Bytes: 133474
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44
-
-### Performance issues
-
 
 ### Performance issues
 

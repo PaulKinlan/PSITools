@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://pizigames.com/vehicles-parking-3d/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [pizigames.com-the best free online flash gamesVehicles Parking 3D](http://pizigames.com/vehicles-parking-3d/)
 
@@ -29,9 +37,6 @@ title: http://pizigames.com/vehicles-parking-3d/
 *  JS Response Bytes: 820167
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14380
-
-### Performance issues
-
 
 ### Performance issues
 

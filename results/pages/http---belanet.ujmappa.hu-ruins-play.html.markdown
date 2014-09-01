@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://belanet.ujmappa.hu/ruins/play.html
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Ruins](http://belanet.ujmappa.hu/ruins/play.html)
 
@@ -29,9 +31,6 @@ title: http://belanet.ujmappa.hu/ruins/play.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 439
-
-### Performance issues
-
 
 ### Performance issues
 

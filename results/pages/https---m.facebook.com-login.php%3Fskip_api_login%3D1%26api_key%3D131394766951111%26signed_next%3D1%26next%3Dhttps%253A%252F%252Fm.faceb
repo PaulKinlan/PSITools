@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://m.facebook.com/login.php?skip_api_login=1&api_key=131394766951111&signed_next=1&next=https%3A%2F%2Fm.facebook.com%2Fv1.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttp%253A%252F%252Fapps.facebook.com%252Fd-slots%253Fpromotion%253DChromeApp%2526ref%253Dchrome%26scope%3Duser_likes%252Cpublish_actions%252Cuser_birthday%252Cemail%26client_id%3D131394766951111%26ret%3Dlogin&cancel_uri=http%3A%2F%2Fapps.facebook.com%2Fd-slots%3Fpromotion%3DChromeApp%26ref%3Dchrome%26error%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%23_%3D_&display=touch&_rdr
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Welcome to Facebook](https://m.facebook.com/login.php?skip_api_login=1&api_key=131394766951111&signed_next=1&next=https%3A%2F%2Fm.facebook.com%2Fv1.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttp%253A%252F%252Fapps.facebook.com%252Fd-slots%253Fpromotion%253DChromeApp%2526ref%253Dchrome%26scope%3Duser_likes%252Cpublish_actions%252Cuser_birthday%252Cemail%26client_id%3D131394766951111%26ret%3Dlogin&cancel_uri=http%3A%2F%2Fapps.facebook.com%2Fd-slots%3Fpromotion%3DChromeApp%26ref%3Dchrome%26error%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%23_%3D_&display=touch&_rdr)
 
@@ -29,9 +31,6 @@ title: https://m.facebook.com/login.php?skip_api_login=1&api_key=131394766951111
 *  JS Response Bytes: 335595
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2893
-
-### Performance issues
-
 
 ### Performance issues
 

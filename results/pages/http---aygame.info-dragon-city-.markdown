@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://aygame.info/dragon-city/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AyGame.INFO Full HD Flash Game – Dragon City](http://aygame.info/dragon-city/)
 
@@ -29,9 +35,6 @@ title: http://aygame.info/dragon-city/
 *  JS Response Bytes: 571229
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15331
-
-### Performance issues
-
 
 ### Performance issues
 

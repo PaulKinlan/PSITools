@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://account.app.net/login/?n=AICOwr4_tDDpI9f2WRvDPuZGHkav5aWQ4KINMAwY6QrWIlX6teqqAr3HeYN6zFfb4MhFgh5_9XYCdnmNsqyOwF6D1SWhYWZ9Bl-TyEfN4NIJZ6B4XhPdFOtOSpYHZ9-z-mbXMsZLBgIN2bHmf10BQbAECundJf1wDZatWZIPrJ3B5qWla_q-JMCGdJx49hRgMD4t1x8Aq5OjYOgbnz5OcCl8ITmgjO9291P2L2uhK3IlA5KZK-C31IQz0f8PcEq43JB1v4L9PibEJIu2PQCL9_a2PiCMGnzhdOXav95KQ7BugaWRd9L9Ldltdk84HECjsjuckaPEcP1cSHjas_vnZhAYEStmHQ_RQbSvYN1nUHCTWSuk3aCxkzfApmciT595GbGx10-sAOZ5TMGaBhjfn0qhdxE
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Log in to App.net](https://account.app.net/login/?n=AICOwr4_tDDpI9f2WRvDPuZGHkav5aWQ4KINMAwY6QrWIlX6teqqAr3HeYN6zFfb4MhFgh5_9XYCdnmNsqyOwF6D1SWhYWZ9Bl-TyEfN4NIJZ6B4XhPdFOtOSpYHZ9-z-mbXMsZLBgIN2bHmf10BQbAECundJf1wDZatWZIPrJ3B5qWla_q-JMCGdJx49hRgMD4t1x8Aq5OjYOgbnz5OcCl8ITmgjO9291P2L2uhK3IlA5KZK-C31IQz0f8PcEq43JB1v4L9PibEJIu2PQCL9_a2PiCMGnzhdOXav95KQ7BugaWRd9L9Ldltdk84HECjsjuckaPEcP1cSHjas_vnZhAYEStmHQ_RQbSvYN1nUHCTWSuk3aCxkzfApmciT595GbGx10-sAOZ5TMGaBhjfn0qhdxE)
 
@@ -29,9 +32,6 @@ title: https://account.app.net/login/?n=AICOwr4_tDDpI9f2WRvDPuZGHkav5aWQ4KINMAwY
 *  JS Response Bytes: 660209
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16097
-
-### Performance issues
-
 
 ### Performance issues
 

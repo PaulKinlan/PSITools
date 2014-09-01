@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.aroggame.com/default-category/running-ink
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Running Ink - Aroggame.com](http://www.aroggame.com/default-category/running-ink)
 
@@ -29,9 +34,6 @@ title: http://www.aroggame.com/default-category/running-ink
 *  JS Response Bytes: 2194026
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 126537
-
-### Performance issues
-
 
 ### Performance issues
 

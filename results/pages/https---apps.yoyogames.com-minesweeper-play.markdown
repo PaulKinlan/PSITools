@@ -1,6 +1,13 @@
 ---
 layout: result
 title: https://apps.yoyogames.com/minesweeper/play
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Simply Minesweeper | YoYo Games Ltd](https://apps.yoyogames.com/minesweeper/play)
 
@@ -29,9 +36,6 @@ title: https://apps.yoyogames.com/minesweeper/play
 *  JS Response Bytes: 2143955
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99481
-
-### Performance issues
-
 
 ### Performance issues
 

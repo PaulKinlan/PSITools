@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/battlefield/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Battlefield](http://www.war-games.ws/battlefield/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/battlefield/
 *  JS Response Bytes: 2292944
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122127
-
-### Performance issues
-
 
 ### Performance issues
 

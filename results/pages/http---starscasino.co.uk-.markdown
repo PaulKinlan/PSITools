@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://starscasino.co.uk/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Casino Sites For UK Players | Stars Casino](http://starscasino.co.uk/)
 
@@ -29,9 +31,6 @@ title: http://starscasino.co.uk/
 *  JS Response Bytes: 530566
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 185044
-
-### Performance issues
-
 
 ### Performance issues
 

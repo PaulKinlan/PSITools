@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.arcadeangel.com/puzzles/super-mega-balance-party/#play
+MinimizeRenderBlockingResources: true
 ---
 ## [Arcadeangel.com](http://www.arcadeangel.com/puzzles/super-mega-balance-party/#play)
 
@@ -29,9 +30,6 @@ title: http://www.arcadeangel.com/puzzles/super-mega-balance-party/#play
 *  JS Response Bytes: 9100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

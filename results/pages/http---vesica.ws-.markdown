@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://vesica.ws/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Art Collector / Museum / Collection Management Software | Vesica](http://vesica.ws/)
 
@@ -29,9 +33,6 @@ title: http://vesica.ws/
 *  JS Response Bytes: 348343
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

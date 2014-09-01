@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.allfunapps.com/webapps/countmoney/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn to Count Money](http://www.allfunapps.com/webapps/countmoney/)
 
@@ -29,9 +33,6 @@ title: http://www.allfunapps.com/webapps/countmoney/
 *  JS Response Bytes: 1135749
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96608
-
-### Performance issues
-
 
 ### Performance issues
 

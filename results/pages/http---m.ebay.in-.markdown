@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.ebay.in/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Electronics, Fashion, Collectibles, Coupons and More Online Shopping | eBay Mobile](http://m.ebay.in/)
 
@@ -29,9 +31,6 @@ title: http://m.ebay.in/
 *  JS Response Bytes: 252296
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13349
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.abolitionistapproach.com/category/vegan-fm/ivegan#.U_eI1U0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Page Not Found - Animal Rights: The Abolitionist Approach](http://www.abolitionistapproach.com/category/vegan-fm/ivegan#.U_eI1U0ieKA)
 
@@ -29,9 +33,6 @@ title: http://www.abolitionistapproach.com/category/vegan-fm/ivegan#.U_eI1U0ieKA
 *  JS Response Bytes: 698881
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25691
-
-### Performance issues
-
 
 ### Performance issues
 

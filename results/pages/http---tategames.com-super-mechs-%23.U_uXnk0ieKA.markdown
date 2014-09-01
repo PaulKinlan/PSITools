@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://tategames.com/super-mechs/#.U_uXnk0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Mechs | Tate Games](http://tategames.com/super-mechs/#.U_uXnk0ieKA)
 
@@ -29,9 +34,6 @@ title: http://tategames.com/super-mechs/#.U_uXnk0ieKA
 *  JS Response Bytes: 2135275
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 151133
-
-### Performance issues
-
 
 ### Performance issues
 

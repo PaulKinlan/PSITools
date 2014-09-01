@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.bolicua.com/movies/preview.html
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Movie Preview](http://www.bolicua.com/movies/preview.html)
 
@@ -29,9 +34,6 @@ title: http://www.bolicua.com/movies/preview.html
 *  JS Response Bytes: 1433401
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17616
-
-### Performance issues
-
 
 ### Performance issues
 

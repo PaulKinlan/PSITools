@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ape-apps.com/webapps/my_land/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [My Land](http://www.ape-apps.com/webapps/my_land/)
 
@@ -29,9 +32,6 @@ title: http://www.ape-apps.com/webapps/my_land/
 *  JS Response Bytes: 1342930
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109619
-
-### Performance issues
-
 
 ### Performance issues
 

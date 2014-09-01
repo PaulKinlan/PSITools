@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://wordpolis.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Wordpolis - Convert Word documents into PDF files](http://wordpolis.com/)
 
@@ -29,9 +31,6 @@ title: http://wordpolis.com/
 *  JS Response Bytes: 110479
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18715
-
-### Performance issues
-
 
 ### Performance issues
 

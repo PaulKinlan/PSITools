@@ -33,8 +33,5 @@ title: http://kanji.saiohgama.com/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

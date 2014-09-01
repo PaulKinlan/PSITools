@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://zeekoo.dk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Zeekoo | We make websites](http://zeekoo.dk/)
 
@@ -29,9 +32,6 @@ title: http://zeekoo.dk/
 *  JS Response Bytes: 351003
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 130831
-
-### Performance issues
-
 
 ### Performance issues
 

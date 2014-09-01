@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://es.funnypicsbox.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Caja de fotos divertidas - Colección de fotos divertidas.](http://es.funnypicsbox.com/)
 
@@ -29,9 +36,6 @@ title: http://es.funnypicsbox.com/
 *  JS Response Bytes: 783234
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104106
-
-### Performance issues
-
 
 ### Performance issues
 

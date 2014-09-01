@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://stratus.chaoscollective.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Chaos Collective](http://stratus.chaoscollective.org/)
 
@@ -29,9 +32,6 @@ title: http://stratus.chaoscollective.org/
 *  JS Response Bytes: 1386982
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 38501
-
-### Performance issues
-
 
 ### Performance issues
 

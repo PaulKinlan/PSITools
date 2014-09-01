@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://learn.nndsonline.org/PublicWelcome.aspx
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](https://learn.nndsonline.org/PublicWelcome.aspx)
 
@@ -18,7 +22,7 @@ title: https://learn.nndsonline.org/PublicWelcome.aspx
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 8
-*  Total Request Bytes: 1194
+*  Total Request Bytes: 1160
 
 ### Response data
 
@@ -29,9 +33,6 @@ title: https://learn.nndsonline.org/PublicWelcome.aspx
 *  JS Response Bytes: 24466
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4705
-
-### Performance issues
-
 
 ### Performance issues
 

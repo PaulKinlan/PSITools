@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.chundertoons.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Home](http://www.chundertoons.com/)
 
@@ -29,9 +32,6 @@ title: http://www.chundertoons.com/
 *  JS Response Bytes: 141633
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14647
-
-### Performance issues
-
 
 ### Performance issues
 

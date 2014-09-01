@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromepes2013.blogspot.com/2013/07/pes-2013.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Pes 2013 Play Game](http://chromepes2013.blogspot.com/2013/07/pes-2013.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chromepes2013.blogspot.com/2013/07/pes-2013.html?m=1
 *  JS Response Bytes: 248928
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43005
-
-### Performance issues
-
 
 ### Performance issues
 

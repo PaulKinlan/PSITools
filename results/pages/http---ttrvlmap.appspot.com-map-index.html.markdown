@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ttrvlmap.appspot.com/map/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [國旅卡特約商店地圖](http://ttrvlmap.appspot.com/map/index.html)
 
@@ -29,9 +33,6 @@ title: http://ttrvlmap.appspot.com/map/index.html
 *  JS Response Bytes: 1996977
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 164009
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.pro-flash.com/free-running-3d.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pro-Flash.Com – Free Running 3D](http://www.pro-flash.com/free-running-3d.html)
 
@@ -29,9 +34,6 @@ title: http://www.pro-flash.com/free-running-3d.html
 *  JS Response Bytes: 1512771
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 73806
-
-### Performance issues
-
 
 ### Performance issues
 

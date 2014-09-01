@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.cucharonypasoatras.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Cucharón y Paso Atrás](http://www.cucharonypasoatras.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://www.cucharonypasoatras.com/?m=1
 *  JS Response Bytes: 248929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 573
-
-### Performance issues
-
 
 ### Performance issues
 

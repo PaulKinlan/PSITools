@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/fupafaces/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Fupa Faces](http://www.fupa.com/apps/fupafaces/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/fupafaces/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

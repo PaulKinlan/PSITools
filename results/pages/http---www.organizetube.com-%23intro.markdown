@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.organizetube.com/#intro
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [OrganizeTube - keep your online videos organized](http://www.organizetube.com/#intro)
 
@@ -29,9 +32,6 @@ title: http://www.organizetube.com/#intro
 *  JS Response Bytes: 1094928
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 66386
-
-### Performance issues
-
 
 ### Performance issues
 

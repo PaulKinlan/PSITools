@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.fupa.com/channels/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fupa Games](http://www.fupa.com/channels/)
 
@@ -29,9 +35,6 @@ title: http://www.fupa.com/channels/
 *  JS Response Bytes: 62128
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1490
-
-### Performance issues
-
 
 ### Performance issues
 

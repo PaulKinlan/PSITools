@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://buildapps.biz/members/secure-login/login.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [iPhone & Android Apps for small businesses](http://buildapps.biz/members/secure-login/login.php)
 
@@ -29,9 +33,6 @@ title: http://buildapps.biz/members/secure-login/login.php
 *  JS Response Bytes: 969021
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17556
-
-### Performance issues
-
 
 ### Performance issues
 

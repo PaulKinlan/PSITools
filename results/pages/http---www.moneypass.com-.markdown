@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.moneypass.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Surcharge Free ATM | No Surcharge ATM | Surcharge Free ATM Locations](http://www.moneypass.com/)
 
@@ -29,9 +31,6 @@ title: http://www.moneypass.com/
 *  JS Response Bytes: 159749
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

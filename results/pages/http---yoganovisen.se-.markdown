@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://yoganovisen.se/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Yoganovisen - Alla kan må bättre!](http://yoganovisen.se/)
 
@@ -29,9 +32,6 @@ title: http://yoganovisen.se/
 *  JS Response Bytes: 52405
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 383
-
-### Performance issues
-
 
 ### Performance issues
 

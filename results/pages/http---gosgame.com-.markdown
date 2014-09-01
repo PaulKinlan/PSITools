@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gosgame.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gosgame.com](http://gosgame.com/)
 
@@ -29,9 +31,6 @@ title: http://gosgame.com/
 *  JS Response Bytes: 167605
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

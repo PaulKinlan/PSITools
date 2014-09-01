@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://apps.facebook.com/mytoystore/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [My Toy Store on Facebook](https://apps.facebook.com/mytoystore/)
 
@@ -29,9 +33,6 @@ title: https://apps.facebook.com/mytoystore/
 *  JS Response Bytes: 784989
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1237
-
-### Performance issues
-
 
 ### Performance issues
 

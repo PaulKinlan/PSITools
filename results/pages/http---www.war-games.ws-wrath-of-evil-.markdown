@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/wrath-of-evil/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Wrath Of Evil](http://www.war-games.ws/wrath-of-evil/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/wrath-of-evil/
 *  JS Response Bytes: 2292936
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120586
-
-### Performance issues
-
 
 ### Performance issues
 

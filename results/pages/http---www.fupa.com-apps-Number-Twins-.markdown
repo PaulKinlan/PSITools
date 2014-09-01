@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/Number-Twins/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Number Twins](http://www.fupa.com/apps/Number-Twins/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/Number-Twins/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

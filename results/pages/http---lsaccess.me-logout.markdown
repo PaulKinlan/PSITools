@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://lsaccess.me/logout
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://lsaccess.me/logout)
 
@@ -29,9 +30,6 @@ title: http://lsaccess.me/logout
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 714
-
-### Performance issues
-
 
 ### Performance issues
 

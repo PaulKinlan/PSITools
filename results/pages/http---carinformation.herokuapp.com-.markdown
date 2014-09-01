@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://carinformation.herokuapp.com/
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Car Information ·](http://carinformation.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://carinformation.herokuapp.com/
 *  JS Response Bytes: 1441035
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110957
-
-### Performance issues
-
 
 ### Performance issues
 

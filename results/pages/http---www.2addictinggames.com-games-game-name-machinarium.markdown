@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/game/name/machinarium
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [machinarium Addicting Games](http://www.2addictinggames.com/games/game/name/machinarium)
 
@@ -29,9 +35,6 @@ title: http://www.2addictinggames.com/games/game/name/machinarium
 *  JS Response Bytes: 1828179
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97578
-
-### Performance issues
-
 
 ### Performance issues
 

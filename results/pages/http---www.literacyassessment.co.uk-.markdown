@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.literacyassessment.co.uk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Literacy Assessment Online](http://www.literacyassessment.co.uk/)
 
@@ -29,9 +32,6 @@ title: http://www.literacyassessment.co.uk/
 *  JS Response Bytes: 595280
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42360
-
-### Performance issues
-
 
 ### Performance issues
 

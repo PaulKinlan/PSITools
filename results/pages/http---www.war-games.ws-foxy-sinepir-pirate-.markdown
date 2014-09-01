@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.war-games.ws/foxy-sinepir-pirate/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Foxy Sinepir Pirate](http://www.war-games.ws/foxy-sinepir-pirate/)
 
@@ -29,9 +36,6 @@ title: http://www.war-games.ws/foxy-sinepir-pirate/
 *  JS Response Bytes: 2135439
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121880
-
-### Performance issues
-
 
 ### Performance issues
 

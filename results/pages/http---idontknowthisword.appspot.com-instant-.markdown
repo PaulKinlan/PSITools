@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://idontknowthisword.appspot.com/instant/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Very simple autocomplete](http://idontknowthisword.appspot.com/instant/)
 
@@ -29,9 +31,6 @@ title: http://idontknowthisword.appspot.com/instant/
 *  JS Response Bytes: 85486
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113330
-
-### Performance issues
-
 
 ### Performance issues
 

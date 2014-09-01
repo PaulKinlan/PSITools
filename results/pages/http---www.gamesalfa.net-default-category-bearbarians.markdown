@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesalfa.net/default-category/bearbarians
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bearbarians - Gamesalfa](http://www.gamesalfa.net/default-category/bearbarians)
 
@@ -29,9 +34,6 @@ title: http://www.gamesalfa.net/default-category/bearbarians
 *  JS Response Bytes: 2195260
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121204
-
-### Performance issues
-
 
 ### Performance issues
 

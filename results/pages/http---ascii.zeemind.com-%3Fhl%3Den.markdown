@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ascii.zeemind.com/?hl=en
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ASCII Table](http://ascii.zeemind.com/?hl=en)
 
@@ -29,9 +31,6 @@ title: http://ascii.zeemind.com/?hl=en
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 333
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://optiqal.com/CA-CDL/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://optiqal.com/CA-CDL/)
 
@@ -29,9 +35,6 @@ title: http://optiqal.com/CA-CDL/
 *  JS Response Bytes: 730649
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15198
-
-### Performance issues
-
 
 ### Performance issues
 

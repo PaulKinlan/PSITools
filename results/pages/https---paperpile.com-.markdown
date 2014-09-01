@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://paperpile.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Paperpile | No-fuss reference management for the web](https://paperpile.com/)
 
@@ -29,9 +32,6 @@ title: https://paperpile.com/
 *  JS Response Bytes: 299200
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47499
-
-### Performance issues
-
 
 ### Performance issues
 

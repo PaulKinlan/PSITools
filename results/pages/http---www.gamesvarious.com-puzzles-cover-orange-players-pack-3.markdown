@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/puzzles/cover-orange-players-pack-3
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cover Orange Players Pack 3 - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/puzzles/cover-orange-players-pack-3)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/puzzles/cover-orange-players-pack-3
 *  JS Response Bytes: 2180416
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 126002
-
-### Performance issues
-
 
 ### Performance issues
 

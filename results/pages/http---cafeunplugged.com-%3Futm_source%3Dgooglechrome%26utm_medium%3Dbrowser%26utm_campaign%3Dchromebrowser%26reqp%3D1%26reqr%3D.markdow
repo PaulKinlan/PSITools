@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://cafeunplugged.com/?utm_source=googlechrome&utm_medium=browser&utm_campaign=chromebrowser&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [cafeunplugged.com](http://cafeunplugged.com/?utm_source=googlechrome&utm_medium=browser&utm_campaign=chromebrowser&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://cafeunplugged.com/?utm_source=googlechrome&utm_medium=browser&utm_
 *  JS Response Bytes: 304181
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 129
-
-### Performance issues
-
 
 ### Performance issues
 

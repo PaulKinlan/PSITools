@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.websiteprotection.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WEBSITE PROTECTION](https://www.websiteprotection.com/)
 
@@ -29,9 +32,6 @@ title: https://www.websiteprotection.com/
 *  JS Response Bytes: 96443
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 265
-
-### Performance issues
-
 
 ### Performance issues
 

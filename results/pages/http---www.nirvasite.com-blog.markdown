@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.nirvasite.com/blog
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Nirvasite - Blog](http://www.nirvasite.com/blog)
 
@@ -29,9 +34,6 @@ title: http://www.nirvasite.com/blog
 *  JS Response Bytes: 2187284
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 175060
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.hgfl.org.uk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hillingdon Grid for Learning](http://www.hgfl.org.uk/)
 
@@ -29,9 +33,6 @@ title: http://www.hgfl.org.uk/
 *  JS Response Bytes: 284797
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 436
-
-### Performance issues
-
 
 ### Performance issues
 

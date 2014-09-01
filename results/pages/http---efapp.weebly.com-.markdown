@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://efapp.weebly.com/
+UseLegibleFontSizes: true
 ---
 ## [404 - Page Not Found](http://efapp.weebly.com/)
 
@@ -29,9 +30,6 @@ title: http://efapp.weebly.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1819
-
-### Performance issues
-
 
 ### Performance issues
 

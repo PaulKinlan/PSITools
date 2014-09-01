@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gameover99.com/action/guerra
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Guerra - Gameover99](http://www.gameover99.com/action/guerra)
 
@@ -29,9 +35,6 @@ title: http://www.gameover99.com/action/guerra
 *  JS Response Bytes: 1980682
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119955
-
-### Performance issues
-
 
 ### Performance issues
 

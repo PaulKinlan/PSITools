@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://downloadsongsapp.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Download Songs](http://downloadsongsapp.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://downloadsongsapp.blogspot.com/?m=1
 *  JS Response Bytes: 248909
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 571
-
-### Performance issues
-
 
 ### Performance issues
 

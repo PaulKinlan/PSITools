@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.faqoverflow.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [FAQoverflow - Great Answers to Questions About Everything](http://www.faqoverflow.com/)
 
@@ -29,9 +31,6 @@ title: http://www.faqoverflow.com/
 *  JS Response Bytes: 393716
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.booking.com/index.html?aid=342609
+MinimizeRenderBlockingResources: true
 ---
 ## [Booking.com: 531,750 hotels worldwide. 35+ million hotel reviews.](http://www.booking.com/index.html?aid=342609)
 
@@ -29,9 +30,6 @@ title: http://www.booking.com/index.html?aid=342609
 *  JS Response Bytes: 395561
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://sport223.com/autosmash.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Street skating ~ This online game is so addictive~~](http://sport223.com/autosmash.htm)
 
@@ -29,9 +35,6 @@ title: http://sport223.com/autosmash.htm
 *  JS Response Bytes: 863545
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12175
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.fbpurity.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [F.B. Purity - Clean up and Customize Facebook](http://www.fbpurity.com/)
 
@@ -29,9 +35,6 @@ title: http://www.fbpurity.com/
 *  JS Response Bytes: 1753995
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 301150
-
-### Performance issues
-
 
 ### Performance issues
 

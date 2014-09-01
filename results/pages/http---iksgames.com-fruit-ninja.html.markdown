@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://iksgames.com/fruit-ninja.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IKSgameS.Com | Flash Games. – Fruit Ninja](http://iksgames.com/fruit-ninja.html)
 
@@ -29,9 +35,6 @@ title: http://iksgames.com/fruit-ninja.html
 *  JS Response Bytes: 416264
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 801
-
-### Performance issues
-
 
 ### Performance issues
 

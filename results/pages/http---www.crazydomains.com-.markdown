@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.crazydomains.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Domain Names | Cheap Domain Names World](http://www.crazydomains.com/)
 
@@ -13,25 +19,22 @@ title: http://www.crazydomains.com/
 
 ### Request information
 
-*  Number of Resources: 89
+*  Number of Resources: 88
 *  Number of Hosts: 9
 *  Number of JS Resources: 19
-*  Number of CSS Resources: 6
-*  Nubmer of Static Resources: 49
-*  Total Request Bytes: 8475
+*  Number of CSS Resources: 7
+*  Nubmer of Static Resources: 47
+*  Total Request Bytes: 8368
 
 ### Response data
 
-*  HTML Response Bytes: 55416
+*  HTML Response Bytes: 53835
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 587959
-*  Image Response Bytes: 2413671
-*  JS Response Bytes: 318040
+*  CSS Response Bytes: 588864
+*  Image Response Bytes: 2411493
+*  JS Response Bytes: 318041
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 493
-
-### Performance issues
-
+*  Other Response Bytes: 607
 
 ### Performance issues
 

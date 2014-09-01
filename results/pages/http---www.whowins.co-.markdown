@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.whowins.co/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Who Will Win?](http://www.whowins.co/)
 
@@ -29,9 +32,6 @@ title: http://www.whowins.co/
 *  JS Response Bytes: 1557394
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112333
-
-### Performance issues
-
 
 ### Performance issues
 

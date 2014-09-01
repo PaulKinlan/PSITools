@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.tradingview.com/e/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [New Chart - TradingView](https://www.tradingview.com/e/)
 
@@ -29,9 +34,6 @@ title: https://www.tradingview.com/e/
 *  JS Response Bytes: 5455877
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 346
-
-### Performance issues
-
 
 ### Performance issues
 

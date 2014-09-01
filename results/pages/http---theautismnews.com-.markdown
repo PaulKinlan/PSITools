@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://theautismnews.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Autism News | The latest news, headlines & open discussions about the Autism Spectrum](http://theautismnews.com/)
 
@@ -29,9 +32,6 @@ title: http://theautismnews.com/
 *  JS Response Bytes: 860716
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 88246
-
-### Performance issues
-
 
 ### Performance issues
 

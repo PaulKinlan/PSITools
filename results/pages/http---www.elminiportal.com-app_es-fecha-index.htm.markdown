@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.elminiportal.com/app_es/fecha/index.htm
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FECHA DE NACIMIENTO - EL MINIPORTAL](http://www.elminiportal.com/app_es/fecha/index.htm)
 
@@ -29,9 +33,6 @@ title: http://www.elminiportal.com/app_es/fecha/index.htm
 *  JS Response Bytes: 708681
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19996
-
-### Performance issues
-
 
 ### Performance issues
 

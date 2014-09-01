@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamelustudios.com/web/games/mapleseed/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gamelu :: Tilt Maple Seed](http://www.gamelustudios.com/web/games/mapleseed/)
 
@@ -29,9 +34,6 @@ title: http://www.gamelustudios.com/web/games/mapleseed/
 *  JS Response Bytes: 1454107
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58688
-
-### Performance issues
-
 
 ### Performance issues
 

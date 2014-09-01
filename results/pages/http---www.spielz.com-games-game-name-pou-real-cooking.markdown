@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.spielz.com/games/game/name/pou-real-cooking
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [pou-real-cooking spiele](http://www.spielz.com/games/game/name/pou-real-cooking)
 
@@ -29,9 +36,6 @@ title: http://www.spielz.com/games/game/name/pou-real-cooking
 *  JS Response Bytes: 1828327
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96738
-
-### Performance issues
-
 
 ### Performance issues
 

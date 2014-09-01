@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.jayanthchennamangalam.com/sidereal.shtml
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sidereal](http://www.jayanthchennamangalam.com/sidereal.shtml)
 
@@ -29,9 +33,6 @@ title: http://www.jayanthchennamangalam.com/sidereal.shtml
 *  JS Response Bytes: 694382
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 129203
-
-### Performance issues
-
 
 ### Performance issues
 

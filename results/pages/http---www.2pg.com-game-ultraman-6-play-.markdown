@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2pg.com/game/ultraman-6/play/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ultraman 6 | 2 Player Games](http://www.2pg.com/game/ultraman-6/play/)
 
@@ -29,9 +34,6 @@ title: http://www.2pg.com/game/ultraman-6/play/
 *  JS Response Bytes: 1380186
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22263
-
-### Performance issues
-
 
 ### Performance issues
 

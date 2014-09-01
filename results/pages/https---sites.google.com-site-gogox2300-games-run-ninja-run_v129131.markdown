@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://sites.google.com/site/gogox2300/games/run-ninja-run_v129131
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [+Run-ninja-run_v129131 - Gogox2300](https://sites.google.com/site/gogox2300/games/run-ninja-run_v129131)
 
@@ -29,9 +34,6 @@ title: https://sites.google.com/site/gogox2300/games/run-ninja-run_v129131
 *  JS Response Bytes: 1107900
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16363
-
-### Performance issues
-
 
 ### Performance issues
 

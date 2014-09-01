@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.zspacesystems.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Home - zspacesystems](http://www.zspacesystems.com/)
 
@@ -29,9 +31,6 @@ title: http://www.zspacesystems.com/
 *  JS Response Bytes: 515840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

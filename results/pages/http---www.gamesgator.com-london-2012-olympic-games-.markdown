@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.com/london-2012-olympic-games/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [London 2012 Olympic Games](http://www.gamesgator.com/london-2012-olympic-games/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.com/london-2012-olympic-games/
 *  JS Response Bytes: 2206436
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 73272
-
-### Performance issues
-
 
 ### Performance issues
 

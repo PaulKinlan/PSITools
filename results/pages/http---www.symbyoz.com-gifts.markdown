@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.symbyoz.com/gifts
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gift Ideas & Price Alerts](http://www.symbyoz.com/gifts)
 
@@ -29,9 +34,6 @@ title: http://www.symbyoz.com/gifts
 *  JS Response Bytes: 2571749
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 314437
-
-### Performance issues
-
 
 ### Performance issues
 

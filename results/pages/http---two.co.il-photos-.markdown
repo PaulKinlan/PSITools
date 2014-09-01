@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://two.co.il/photos/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Facebook Photos & Albums Manager](http://two.co.il/photos/)
 
@@ -29,9 +35,6 @@ title: http://two.co.il/photos/
 *  JS Response Bytes: 1519346
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112013
-
-### Performance issues
-
 
 ### Performance issues
 

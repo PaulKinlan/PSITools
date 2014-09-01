@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ttkgames.com/2014/07/candy-crush-saga-2014-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [All free games play now, free hd games. » Candy crush saga 2014](http://www.ttkgames.com/2014/07/candy-crush-saga-2014-2.html)
 
@@ -29,9 +34,6 @@ title: http://www.ttkgames.com/2014/07/candy-crush-saga-2014-2.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16578
-
-### Performance issues
-
 
 ### Performance issues
 

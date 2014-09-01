@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/abilitygames/spengebob-big-adventures/#.U_uVRk0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Spongebob Big Adventures « Online Flash Game Spongebob Big Adventures](http://gamematic.net/online-flash-games/abilitygames/spengebob-big-adventures/#.U_uVRk0ieKA)
 
@@ -29,9 +34,6 @@ title: http://gamematic.net/online-flash-games/abilitygames/spengebob-big-advent
 *  JS Response Bytes: 1256519
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49228
-
-### Performance issues
-
 
 ### Performance issues
 

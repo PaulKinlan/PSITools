@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://fiddlesalad.com/haml/
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [HAML & CSS Editor | Fiddle Salad](http://fiddlesalad.com/haml/)
 
@@ -29,9 +31,6 @@ title: http://fiddlesalad.com/haml/
 *  JS Response Bytes: 2494120
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48986
-
-### Performance issues
-
 
 ### Performance issues
 

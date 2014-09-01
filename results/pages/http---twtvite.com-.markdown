@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://twtvite.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Twtvite | Social Event Platform](http://twtvite.com/)
 
@@ -29,9 +33,6 @@ title: http://twtvite.com/
 *  JS Response Bytes: 176482
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

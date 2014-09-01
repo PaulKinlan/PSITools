@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.travagliante.com/en/?app=chrome-wordpress-dalla-a-alla-w
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Roberto Travagliante - My personal blog and my hobbies: computer and... computer](http://www.travagliante.com/en/?app=chrome-wordpress-dalla-a-alla-w)
 
@@ -29,9 +33,6 @@ title: http://www.travagliante.com/en/?app=chrome-wordpress-dalla-a-alla-w
 *  JS Response Bytes: 200001
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 224
-
-### Performance issues
-
 
 ### Performance issues
 

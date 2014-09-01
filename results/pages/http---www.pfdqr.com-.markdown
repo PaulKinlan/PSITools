@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pfdqr.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome to Dynamic QR - A ProgramFreaks Initiative](http://www.pfdqr.com/)
 
@@ -29,9 +33,6 @@ title: http://www.pfdqr.com/
 *  JS Response Bytes: 1683057
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 360657
-
-### Performance issues
-
 
 ### Performance issues
 

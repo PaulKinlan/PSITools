@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.italki.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [italki: Learn a language online](http://www.italki.com/)
 
@@ -29,9 +31,6 @@ title: http://www.italki.com/
 *  JS Response Bytes: 967341
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 599
-
-### Performance issues
-
 
 ### Performance issues
 

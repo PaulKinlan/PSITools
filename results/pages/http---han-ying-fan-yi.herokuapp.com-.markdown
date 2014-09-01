@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://han-ying-fan-yi.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [汉英翻译](http://han-ying-fan-yi.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://han-ying-fan-yi.herokuapp.com/
 *  JS Response Bytes: 1841491
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 160526
-
-### Performance issues
-
 
 ### Performance issues
 

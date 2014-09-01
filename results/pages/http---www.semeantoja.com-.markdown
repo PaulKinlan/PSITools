@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.semeantoja.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Comida a domicilio, restaurantes en Mexico | SeMeAntoja.com](http://www.semeantoja.com/)
 
@@ -29,9 +30,6 @@ title: http://www.semeantoja.com/
 *  JS Response Bytes: 990071
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9616
-
-### Performance issues
-
 
 ### Performance issues
 

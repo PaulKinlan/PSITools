@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://app.cooladata.com/drive/closed/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Drive integration closed - Cooladata.com](https://app.cooladata.com/drive/closed/)
 
@@ -29,9 +31,6 @@ title: https://app.cooladata.com/drive/closed/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 820
-
-### Performance issues
-
 
 ### Performance issues
 

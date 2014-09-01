@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://jcgames.de/spacepirates/app/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SpacePirates: App wird geladen](https://jcgames.de/spacepirates/app/)
 
@@ -29,9 +32,6 @@ title: https://jcgames.de/spacepirates/app/
 *  JS Response Bytes: 503210
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

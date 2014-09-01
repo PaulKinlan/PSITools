@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.mesterchrome.info/index.php?task=view&id=1086
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [play good online games](http://www.mesterchrome.info/index.php?task=view&id=1086)
 
@@ -29,9 +31,6 @@ title: http://www.mesterchrome.info/index.php?task=view&id=1086
 *  JS Response Bytes: 334177
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2272
-
-### Performance issues
-
 
 ### Performance issues
 

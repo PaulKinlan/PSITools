@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.attachmore.com:8078/Chrome/WelcomeUpload.aspx
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.attachmore.com:8078/Chrome/WelcomeUpload.aspx)
 
@@ -29,9 +35,6 @@ title: http://www.attachmore.com:8078/Chrome/WelcomeUpload.aspx
 *  JS Response Bytes: 1539442
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10431
-
-### Performance issues
-
 
 ### Performance issues
 

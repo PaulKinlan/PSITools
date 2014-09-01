@@ -33,8 +33,5 @@ title: http://hdminigames.com/game/minecraft_demo-1046
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

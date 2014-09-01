@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/upipe-skateboard/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Upipe Skateboard game](http://www.skateboarding-games.biz/upipe-skateboard/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/upipe-skateboard/
 *  JS Response Bytes: 2281005
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121172
-
-### Performance issues
-
 
 ### Performance issues
 

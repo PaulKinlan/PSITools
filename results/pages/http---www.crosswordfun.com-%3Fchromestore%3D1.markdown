@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.crosswordfun.com/?chromestore=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Crossword Fun](http://www.crosswordfun.com/?chromestore=1)
 
@@ -29,9 +33,6 @@ title: http://www.crosswordfun.com/?chromestore=1
 *  JS Response Bytes: 571735
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16042
-
-### Performance issues
-
 
 ### Performance issues
 

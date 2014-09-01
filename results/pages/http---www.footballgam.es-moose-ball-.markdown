@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/moose-ball/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Moose Ball Game](http://www.footballgam.es/moose-ball/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/moose-ball/
 *  JS Response Bytes: 2265154
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 140447
-
-### Performance issues
-
 
 ### Performance issues
 

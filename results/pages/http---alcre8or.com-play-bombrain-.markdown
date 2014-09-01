@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://alcre8or.com/play/bombrain/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bomb Rain](http://alcre8or.com/play/bombrain/)
 
@@ -29,9 +33,6 @@ title: http://alcre8or.com/play/bombrain/
 *  JS Response Bytes: 541208
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57834
-
-### Performance issues
-
 
 ### Performance issues
 

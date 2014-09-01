@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://pursued.nemesys.hu/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
 ---
 ## [Pursued - Street view game](http://pursued.nemesys.hu/)
 
@@ -29,9 +32,6 @@ title: http://pursued.nemesys.hu/
 *  JS Response Bytes: 1937184
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 166655
-
-### Performance issues
-
 
 ### Performance issues
 

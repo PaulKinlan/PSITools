@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://taxworry.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [taxworry.com :Income Tax Made Simple](http://taxworry.com/)
 
@@ -29,9 +33,6 @@ title: http://taxworry.com/
 *  JS Response Bytes: 2217745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47081
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/smurphin-for-brooklyn/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Smurphin For Brooklyn](http://www.war-games.ws/smurphin-for-brooklyn/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/smurphin-for-brooklyn/
 *  JS Response Bytes: 2148536
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122327
-
-### Performance issues
-
 
 ### Performance issues
 

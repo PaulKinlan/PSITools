@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.2kisilik.com/cadde-yarisi/game/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [2 kişilik Cadde Yarışı oyunu](http://www.2kisilik.com/cadde-yarisi/game/)
 
@@ -29,9 +35,6 @@ title: http://www.2kisilik.com/cadde-yarisi/game/
 *  JS Response Bytes: 2209456
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49612
-
-### Performance issues
-
 
 ### Performance issues
 

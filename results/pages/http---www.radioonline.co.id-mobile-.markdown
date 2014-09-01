@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.radioonline.co.id/mobile/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [radio online Indonesia, radio streaming, internet radio](http://www.radioonline.co.id/mobile/)
 
@@ -29,9 +31,6 @@ title: http://www.radioonline.co.id/mobile/
 *  JS Response Bytes: 1692389
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110450
-
-### Performance issues
-
 
 ### Performance issues
 

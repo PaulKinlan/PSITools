@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.war-games.ws/droid-wars/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Droid Wars](http://www.war-games.ws/droid-wars/)
 
@@ -29,9 +36,6 @@ title: http://www.war-games.ws/droid-wars/
 *  JS Response Bytes: 2135328
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 127846
-
-### Performance issues
-
 
 ### Performance issues
 

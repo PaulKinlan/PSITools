@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromegames3.blogspot.com/2013/09/rush-team.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Flash Games: Rush Team](http://chromegames3.blogspot.com/2013/09/rush-team.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chromegames3.blogspot.com/2013/09/rush-team.html?m=1
 *  JS Response Bytes: 764284
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95575
-
-### Performance issues
-
 
 ### Performance issues
 

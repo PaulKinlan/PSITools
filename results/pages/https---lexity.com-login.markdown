@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://lexity.com/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Log In or Sign Up](https://lexity.com/login)
 
@@ -29,9 +35,6 @@ title: https://lexity.com/login
 *  JS Response Bytes: 952599
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4118
-
-### Performance issues
-
 
 ### Performance issues
 

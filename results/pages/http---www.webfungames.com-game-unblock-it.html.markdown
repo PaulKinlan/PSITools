@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.webfungames.com/game/unblock-it.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Unblock It Two Player Games, 2 player games, online multiplayer games.](http://www.webfungames.com/game/unblock-it.html)
 
@@ -29,9 +36,6 @@ title: http://www.webfungames.com/game/unblock-it.html
 *  JS Response Bytes: 1775200
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 133757
-
-### Performance issues
-
 
 ### Performance issues
 

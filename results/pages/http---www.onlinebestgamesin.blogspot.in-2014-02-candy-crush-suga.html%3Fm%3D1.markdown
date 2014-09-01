@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.onlinebestgamesin.blogspot.in/2014/02/candy-crush-suga.html?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Online Best Games: Candy Crush suga](http://www.onlinebestgamesin.blogspot.in/2014/02/candy-crush-suga.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://www.onlinebestgamesin.blogspot.in/2014/02/candy-crush-suga.html?m=
 *  JS Response Bytes: 610804
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95602
-
-### Performance issues
-
 
 ### Performance issues
 

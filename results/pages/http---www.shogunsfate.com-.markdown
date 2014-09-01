@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.shogunsfate.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shogun's Fate](http://www.shogunsfate.com/)
 
@@ -29,9 +33,6 @@ title: http://www.shogunsfate.com/
 *  JS Response Bytes: 504702
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1110
-
-### Performance issues
-
 
 ### Performance issues
 

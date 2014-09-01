@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.tonsreviews.info/radiorecorder/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Streaming Audio Recorder](http://www.tonsreviews.info/radiorecorder/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.tonsreviews.info/radiorecorder/index.html
 *  JS Response Bytes: 555262
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

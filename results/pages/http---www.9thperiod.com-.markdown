@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.9thperiod.com/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.9thperiod.com/)
 
@@ -29,9 +31,6 @@ title: http://www.9thperiod.com/
 *  JS Response Bytes: 229919
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

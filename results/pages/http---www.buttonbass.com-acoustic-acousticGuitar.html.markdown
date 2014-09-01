@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.buttonbass.com/acoustic/acousticGuitar.html
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Untitled Document](http://www.buttonbass.com/acoustic/acousticGuitar.html)
 
@@ -29,9 +32,6 @@ title: http://www.buttonbass.com/acoustic/acousticGuitar.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1496
-
-### Performance issues
-
 
 ### Performance issues
 

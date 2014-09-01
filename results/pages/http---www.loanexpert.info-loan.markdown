@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.loanexpert.info/loan
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Loan Expert](http://www.loanexpert.info/loan)
 
@@ -29,9 +33,6 @@ title: http://www.loanexpert.info/loan
 *  JS Response Bytes: 499766
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 190
-
-### Performance issues
-
 
 ### Performance issues
 

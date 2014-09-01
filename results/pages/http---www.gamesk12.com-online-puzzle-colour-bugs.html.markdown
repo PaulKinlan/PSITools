@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/puzzle/colour-bugs.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Colour Bugs Play Colour Bugs on Gamesk12.com Free Online Games](http://www.gamesk12.com/online/puzzle/colour-bugs.html)
 
@@ -29,9 +35,6 @@ title: http://www.gamesk12.com/online/puzzle/colour-bugs.html
 *  JS Response Bytes: 1843926
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106643
-
-### Performance issues
-
 
 ### Performance issues
 

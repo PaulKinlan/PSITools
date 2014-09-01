@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.eoxysgames.com/metrocircus.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Eoxys Games](http://www.eoxysgames.com/metrocircus.html)
 
@@ -29,9 +33,6 @@ title: http://www.eoxysgames.com/metrocircus.html
 *  JS Response Bytes: 772055
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3289
-
-### Performance issues
-
 
 ### Performance issues
 

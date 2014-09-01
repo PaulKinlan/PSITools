@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://pregnancycalculator.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Pregnancy Calculator ·](http://pregnancycalculator.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://pregnancycalculator.herokuapp.com/
 *  JS Response Bytes: 1659265
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110215
-
-### Performance issues
-
 
 ### Performance issues
 

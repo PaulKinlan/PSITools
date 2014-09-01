@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://kidsrhymesandstories.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Kids Rhymes and Stories](http://kidsrhymesandstories.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://kidsrhymesandstories.blogspot.com/?m=1
 *  JS Response Bytes: 314320
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 577
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.popob.com/talking-tom-cat-valentine/#.U_upg00ieKA
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Talking Tom Cat Valentine – PoPoB Game Area](http://www.popob.com/talking-tom-cat-valentine/#.U_upg00ieKA)
 
@@ -29,9 +33,6 @@ title: http://www.popob.com/talking-tom-cat-valentine/#.U_upg00ieKA
 *  JS Response Bytes: 1123699
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 164180
-
-### Performance issues
-
 
 ### Performance issues
 

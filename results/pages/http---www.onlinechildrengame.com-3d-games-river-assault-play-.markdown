@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.onlinechildrengame.com/3d-games/river-assault/play/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [River Assault](http://www.onlinechildrengame.com/3d-games/river-assault/play/)
 
@@ -29,9 +34,6 @@ title: http://www.onlinechildrengame.com/3d-games/river-assault/play/
 *  JS Response Bytes: 2021404
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53192
-
-### Performance issues
-
 
 ### Performance issues
 

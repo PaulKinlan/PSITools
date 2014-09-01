@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mineccraftgame.com/?s=block
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Minecraft free play – Search Results – block](http://www.mineccraftgame.com/?s=block)
 
@@ -29,9 +34,6 @@ title: http://www.mineccraftgame.com/?s=block
 *  JS Response Bytes: 506463
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

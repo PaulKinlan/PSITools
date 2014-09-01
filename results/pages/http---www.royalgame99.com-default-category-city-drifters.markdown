@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.royalgame99.com/default-category/city-drifters
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CITY DRIFTERS - Royalgame99](http://www.royalgame99.com/default-category/city-drifters)
 
@@ -29,9 +34,6 @@ title: http://www.royalgame99.com/default-category/city-drifters
 *  JS Response Bytes: 671936
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15743
-
-### Performance issues
-
 
 ### Performance issues
 

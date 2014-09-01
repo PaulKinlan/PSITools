@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.webstoregames.com/flash-games/to-trap.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [To Trap - Free Games Online, Free Online Games, Flash Games!](http://www.webstoregames.com/flash-games/to-trap.php)
 
@@ -29,9 +35,6 @@ title: http://www.webstoregames.com/flash-games/to-trap.php
 *  JS Response Bytes: 1330467
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100115
-
-### Performance issues
-
 
 ### Performance issues
 

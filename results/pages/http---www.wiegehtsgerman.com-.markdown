@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.wiegehtsgerman.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn how to speak German - Wie Geht's German](http://www.wiegehtsgerman.com/)
 
@@ -29,9 +33,6 @@ title: http://www.wiegehtsgerman.com/
 *  JS Response Bytes: 1355882
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 231681
-
-### Performance issues
-
 
 ### Performance issues
 

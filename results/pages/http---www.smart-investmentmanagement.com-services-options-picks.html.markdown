@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.smart-investmentmanagement.com/services/options-picks.html
+MinimizeRenderBlockingResources: true
 ---
 ## [Options Picks - Smart Investment Management Los Angeles Investment Adviser Firm LA Investment Advisor Company](http://www.smart-investmentmanagement.com/services/options-picks.html)
 
@@ -29,9 +30,6 @@ title: http://www.smart-investmentmanagement.com/services/options-picks.html
 *  JS Response Bytes: 589238
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

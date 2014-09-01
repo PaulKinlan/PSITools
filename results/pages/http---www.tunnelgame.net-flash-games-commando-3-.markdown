@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.tunnelgame.net/flash-games/commando-3/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Commando 3 « Flash Games, Online Games](http://www.tunnelgame.net/flash-games/commando-3/)
 
@@ -29,9 +36,6 @@ title: http://www.tunnelgame.net/flash-games/commando-3/
 *  JS Response Bytes: 2264293
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53644
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://chrome111.blogspot.com.tr/2014/03/fruit-ninja.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [chrome Best Game Store: Fruit Ninja](http://chrome111.blogspot.com.tr/2014/03/fruit-ninja.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://chrome111.blogspot.com.tr/2014/03/fruit-ninja.html?m=1
 *  JS Response Bytes: 1531800
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 145564
-
-### Performance issues
-
 
 ### Performance issues
 

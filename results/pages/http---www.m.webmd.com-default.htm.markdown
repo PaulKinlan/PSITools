@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.m.webmd.com/default.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [WebMD - Better information. Better health.](http://www.m.webmd.com/default.htm)
 
@@ -29,9 +31,6 @@ title: http://www.m.webmd.com/default.htm
 *  JS Response Bytes: 349518
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2667
-
-### Performance issues
-
 
 ### Performance issues
 

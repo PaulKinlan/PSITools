@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.networkpanda.com/apps/web/unitconverter/unitconverter.php
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Unit Converter](http://www.networkpanda.com/apps/web/unitconverter/unitconverter.php)
 
@@ -29,9 +32,6 @@ title: http://www.networkpanda.com/apps/web/unitconverter/unitconverter.php
 *  JS Response Bytes: 388629
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1745
-
-### Performance issues
-
 
 ### Performance issues
 

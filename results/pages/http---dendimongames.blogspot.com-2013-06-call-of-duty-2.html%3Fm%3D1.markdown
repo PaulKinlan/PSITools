@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://dendimongames.blogspot.com/2013/06/call-of-duty-2.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Isultun games: Call of Duty 2](http://dendimongames.blogspot.com/2013/06/call-of-duty-2.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://dendimongames.blogspot.com/2013/06/call-of-duty-2.html?m=1
 *  JS Response Bytes: 2394173
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 302609
-
-### Performance issues
-
 
 ### Performance issues
 

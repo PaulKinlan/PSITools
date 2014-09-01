@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.247bubble.com/?chromestore=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [24/7 Bubble](http://www.247bubble.com/?chromestore=1)
 
@@ -29,9 +33,6 @@ title: http://www.247bubble.com/?chromestore=1
 *  JS Response Bytes: 1430380
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 37388
-
-### Performance issues
-
 
 ### Performance issues
 

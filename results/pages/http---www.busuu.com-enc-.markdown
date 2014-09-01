@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.busuu.com/enc/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [busuu | Learn Spanish, French, English and other languages for free](http://www.busuu.com/enc/)
 
@@ -29,9 +31,6 @@ title: http://www.busuu.com/enc/
 *  JS Response Bytes: 1437971
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96720
-
-### Performance issues
-
 
 ### Performance issues
 

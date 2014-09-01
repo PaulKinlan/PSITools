@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/demon-hunter/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Demon Hunter](http://www.war-games.ws/demon-hunter/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/demon-hunter/
 *  JS Response Bytes: 2292903
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122100
-
-### Performance issues
-
 
 ### Performance issues
 

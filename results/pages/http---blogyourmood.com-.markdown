@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://blogyourmood.com/
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://blogyourmood.com/)
 
@@ -29,9 +33,6 @@ title: http://blogyourmood.com/
 *  JS Response Bytes: 552023
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4627
-
-### Performance issues
-
 
 ### Performance issues
 

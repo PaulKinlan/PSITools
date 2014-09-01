@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.amilova.com/fr/BD-manga.html?book_type=manga&book_genre=1&book_language=&book_order=fans&book_sec_order=magicDefault&apply_filters=Go/?tracker=22826
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Liste des BDs - manga - Action](http://www.amilova.com/fr/BD-manga.html?book_type=manga&book_genre=1&book_language=&book_order=fans&book_sec_order=magicDefault&apply_filters=Go/?tracker=22826)
 
@@ -29,9 +33,6 @@ title: http://www.amilova.com/fr/BD-manga.html?book_type=manga&book_genre=1&book
 *  JS Response Bytes: 1032292
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 966
-
-### Performance issues
-
 
 ### Performance issues
 

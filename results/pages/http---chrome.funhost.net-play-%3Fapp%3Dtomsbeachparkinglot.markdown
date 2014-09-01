@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://chrome.funhost.net/play/?app=tomsbeachparkinglot
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Toms Beach Parking Lot - Game on Fun Host Games!](http://chrome.funhost.net/play/?app=tomsbeachparkinglot)
 
@@ -29,9 +37,6 @@ title: http://chrome.funhost.net/play/?app=tomsbeachparkinglot
 *  JS Response Bytes: 2236432
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42662
-
-### Performance issues
-
 
 ### Performance issues
 

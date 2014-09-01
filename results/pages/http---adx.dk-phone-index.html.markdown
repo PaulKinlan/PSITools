@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://adx.dk/phone/index.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [adx](http://adx.dk/phone/index.html)
 
@@ -29,9 +31,6 @@ title: http://adx.dk/phone/index.html
 *  JS Response Bytes: 149827
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51
-
-### Performance issues
-
 
 ### Performance issues
 

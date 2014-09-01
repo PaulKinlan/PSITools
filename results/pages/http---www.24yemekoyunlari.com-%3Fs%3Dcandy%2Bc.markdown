@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.24yemekoyunlari.com/?s=candy+c
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [candy c – Search Results – Online Best Games](http://www.24yemekoyunlari.com/?s=candy+c)
 
@@ -29,9 +33,6 @@ title: http://www.24yemekoyunlari.com/?s=candy+c
 *  JS Response Bytes: 711537
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

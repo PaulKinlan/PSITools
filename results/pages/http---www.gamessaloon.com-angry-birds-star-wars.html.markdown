@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamessaloon.com/angry-birds-star-wars.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Star Wars : Games Saloon](http://www.gamessaloon.com/angry-birds-star-wars.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamessaloon.com/angry-birds-star-wars.html
 *  JS Response Bytes: 1529202
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103945
-
-### Performance issues
-
 
 ### Performance issues
 

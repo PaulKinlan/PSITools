@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.verygaming.com/action/mass-mayhem-zombie-apocalypse-2
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mass Mayhem Zombie Apocalypse - Best Games - VeryGaming - Play Free Online Games](http://www.verygaming.com/action/mass-mayhem-zombie-apocalypse-2)
 
@@ -29,9 +34,6 @@ title: http://www.verygaming.com/action/mass-mayhem-zombie-apocalypse-2
 *  JS Response Bytes: 571571
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26826
-
-### Performance issues
-
 
 ### Performance issues
 

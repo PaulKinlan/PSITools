@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.easygames.us/default-category/circus-lp
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Circus LP - Easy Games](http://www.easygames.us/default-category/circus-lp)
 
@@ -29,9 +34,6 @@ title: http://www.easygames.us/default-category/circus-lp
 *  JS Response Bytes: 1722260
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120820
-
-### Performance issues
-
 
 ### Performance issues
 

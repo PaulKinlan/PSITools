@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://endpermian.com/flight_simulator/flight_theory.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flight Theory - Flight Simulator](http://endpermian.com/flight_simulator/flight_theory.html)
 
@@ -29,9 +34,6 @@ title: http://endpermian.com/flight_simulator/flight_theory.html
 *  JS Response Bytes: 540730
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

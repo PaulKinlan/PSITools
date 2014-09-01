@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.hot-reviews.info/pdfconverterpro/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [6-in-1 PDF Converter Software – Convert PDF to Office](http://www.hot-reviews.info/pdfconverterpro/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.hot-reviews.info/pdfconverterpro/index.html
 *  JS Response Bytes: 961060
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97708
-
-### Performance issues
-
 
 ### Performance issues
 

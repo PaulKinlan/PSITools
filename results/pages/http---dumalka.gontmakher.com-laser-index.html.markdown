@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://dumalka.gontmakher.com/laser/index.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Laser shooting](http://dumalka.gontmakher.com/laser/index.html)
 
@@ -29,9 +32,6 @@ title: http://dumalka.gontmakher.com/laser/index.html
 *  JS Response Bytes: 1018566
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95847
-
-### Performance issues
-
 
 ### Performance issues
 

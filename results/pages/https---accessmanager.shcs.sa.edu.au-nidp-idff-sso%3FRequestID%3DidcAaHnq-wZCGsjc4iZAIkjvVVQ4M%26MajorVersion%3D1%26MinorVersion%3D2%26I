@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://accessmanager.shcs.sa.edu.au/nidp/idff/sso?RequestID=idcAaHnq-wZCGsjc4iZAIkjvVVQ4M&MajorVersion=1&MinorVersion=2&IssueInstant=2014-08-25T21%3A24%3A40Z&ProviderID=https%3A%2F%2Faccessmanager.shcs.sa.edu.au%3A443%2Fnesp%2Fidff%2Fmetadata&RelayState=MA%3D%3D&consent=urn%3Aliberty%3Aconsent%3Aunavailable&ForceAuthn=false&IsPassive=false&NameIDPolicy=onetime&ProtocolProfile=http%3A%2F%2Fprojectliberty.org%2Fprofiles%2Fbrws-art&target=https%3A%2F%2Fpassword.shcs.sa.edu.au%2Fsspr%2Fprivate&AuthnContextStatementRef=%2Furi%2Fanyauthentication
+AvoidLandingPageRedirects: true
+EnableGzipCompression: true
 ---
 ## [Sacred Heart College Senior](https://accessmanager.shcs.sa.edu.au/nidp/idff/sso?RequestID=idcAaHnq-wZCGsjc4iZAIkjvVVQ4M&MajorVersion=1&MinorVersion=2&IssueInstant=2014-08-25T21%3A24%3A40Z&ProviderID=https%3A%2F%2Faccessmanager.shcs.sa.edu.au%3A443%2Fnesp%2Fidff%2Fmetadata&RelayState=MA%3D%3D&consent=urn%3Aliberty%3Aconsent%3Aunavailable&ForceAuthn=false&IsPassive=false&NameIDPolicy=onetime&ProtocolProfile=http%3A%2F%2Fprojectliberty.org%2Fprofiles%2Fbrws-art&target=https%3A%2F%2Fpassword.shcs.sa.edu.au%2Fsspr%2Fprivate&AuthnContextStatementRef=%2Furi%2Fanyauthentication)
 
@@ -29,9 +31,6 @@ title: https://accessmanager.shcs.sa.edu.au/nidp/idff/sso?RequestID=idcAaHnq-wZC
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3094
-
-### Performance issues
-
 
 ### Performance issues
 

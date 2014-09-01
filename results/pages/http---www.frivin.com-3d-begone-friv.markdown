@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.frivin.com/3d-begone/friv
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Begone | Friv And Friv Games More Online Friv Game](http://www.frivin.com/3d-begone/friv)
 
@@ -29,9 +34,6 @@ title: http://www.frivin.com/3d-begone/friv
 *  JS Response Bytes: 1850422
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111886
-
-### Performance issues
-
 
 ### Performance issues
 

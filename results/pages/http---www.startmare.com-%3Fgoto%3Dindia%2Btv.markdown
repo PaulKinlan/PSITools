@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.startmare.com/?goto=india+tv
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [india tv](http://www.startmare.com/?goto=india+tv)
 
@@ -29,9 +32,6 @@ title: http://www.startmare.com/?goto=india+tv
 *  JS Response Bytes: 677533
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1745
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://populartests.com/en/eq/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Daniel Goleman's EQ Test - Online Emotional Intelligence Test -- No registration, absolutely free.](http://populartests.com/en/eq/)
 
@@ -29,9 +31,6 @@ title: http://populartests.com/en/eq/
 *  JS Response Bytes: 1560194
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 207342
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://sites.google.com/site/farmadrugstoreturbigo/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Farma Drugstore Prenota Farmaco](https://sites.google.com/site/farmadrugstoreturbigo/)
 
@@ -29,9 +34,6 @@ title: https://sites.google.com/site/farmadrugstoreturbigo/
 *  JS Response Bytes: 453967
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7114
-
-### Performance issues
-
 
 ### Performance issues
 

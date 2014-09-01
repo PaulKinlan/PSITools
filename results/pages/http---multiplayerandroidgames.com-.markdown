@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://multiplayerandroidgames.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Multiplayerandroidgames.com](http://multiplayerandroidgames.com/)
 
@@ -18,20 +20,17 @@ title: http://multiplayerandroidgames.com/
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 1350
+*  Total Request Bytes: 1351
 
 ### Response data
 
-*  HTML Response Bytes: 10892
+*  HTML Response Bytes: 10723
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 1329
+*  Image Response Bytes: 1330
 *  JS Response Bytes: 167717
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

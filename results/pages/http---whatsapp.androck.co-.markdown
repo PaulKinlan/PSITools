@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://whatsapp.androck.co/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Whatsapp - How to Whatsapp](http://whatsapp.androck.co/)
 
@@ -29,9 +32,6 @@ title: http://whatsapp.androck.co/
 *  JS Response Bytes: 1336978
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 82300
-
-### Performance issues
-
 
 ### Performance issues
 

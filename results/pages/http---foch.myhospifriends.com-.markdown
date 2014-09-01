@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://foch.myhospifriends.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bienvenue sur Hôpital Foch - My Hospi Friends](http://foch.myhospifriends.com/)
 
@@ -29,9 +32,6 @@ title: http://foch.myhospifriends.com/
 *  JS Response Bytes: 1245420
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43784
-
-### Performance issues
-
 
 ### Performance issues
 

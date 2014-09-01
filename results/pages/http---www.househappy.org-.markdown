@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.househappy.org/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Househappy - Real Estate, Homes For Sale, Photo-Driven Search](http://www.househappy.org/)
 
@@ -29,9 +34,6 @@ title: http://www.househappy.org/
 *  JS Response Bytes: 1337279
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

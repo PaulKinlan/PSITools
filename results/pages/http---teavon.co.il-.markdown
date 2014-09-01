@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://teavon.co.il/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [תיאבון בריא - כל המתכונים הטבעוניים ברשת](http://teavon.co.il/)
 
@@ -29,9 +32,6 @@ title: http://teavon.co.il/
 *  JS Response Bytes: 3218469
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 493909
-
-### Performance issues
-
 
 ### Performance issues
 

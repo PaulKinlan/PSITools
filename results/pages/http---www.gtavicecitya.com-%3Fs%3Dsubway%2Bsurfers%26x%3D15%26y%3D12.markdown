@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gtavicecitya.com/?s=subway+surfers&x=15&y=12
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [subway surfers « Search Results « free gta game vice city](http://www.gtavicecitya.com/?s=subway+surfers&x=15&y=12)
 
@@ -29,9 +32,6 @@ title: http://www.gtavicecitya.com/?s=subway+surfers&x=15&y=12
 *  JS Response Bytes: 955455
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

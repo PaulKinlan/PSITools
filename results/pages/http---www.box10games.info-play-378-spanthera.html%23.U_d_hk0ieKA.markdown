@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.box10games.info/play/378/spanthera.html#.U_d_hk0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Spanthera - Box10 Games - Online Free Flash Games](http://www.box10games.info/play/378/spanthera.html#.U_d_hk0ieKA)
 
@@ -29,9 +36,6 @@ title: http://www.box10games.info/play/378/spanthera.html#.U_d_hk0ieKA
 *  JS Response Bytes: 1494141
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22598
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ilperlaio.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Le parole portano dove non immagini - Il Perlaio: frasi, aforismi, battute dalla Rete.](http://www.ilperlaio.com/)
 
@@ -29,9 +33,6 @@ title: http://www.ilperlaio.com/
 *  JS Response Bytes: 1225797
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 258175
-
-### Performance issues
-
 
 ### Performance issues
 

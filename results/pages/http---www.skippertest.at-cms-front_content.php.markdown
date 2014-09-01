@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.skippertest.at/cms/front_content.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SkipperTest | Online für den Bootsschein lernen](http://www.skippertest.at/cms/front_content.php)
 
@@ -29,9 +32,6 @@ title: http://www.skippertest.at/cms/front_content.php
 *  JS Response Bytes: 459956
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46014
-
-### Performance issues
-
 
 ### Performance issues
 

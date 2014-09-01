@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ideachess.com/chess_tactics_puzzles/checkmate_n/75633
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Checkmate puzzles](http://www.ideachess.com/chess_tactics_puzzles/checkmate_n/75633)
 
@@ -29,9 +33,6 @@ title: http://www.ideachess.com/chess_tactics_puzzles/checkmate_n/75633
 *  JS Response Bytes: 899204
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 70232
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.caseieponto.com.br/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Início - Casei & Ponto | Sites de Casamento](http://www.caseieponto.com.br/)
 
@@ -29,9 +31,6 @@ title: http://www.caseieponto.com.br/
 *  JS Response Bytes: 294486
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35076
-
-### Performance issues
-
 
 ### Performance issues
 

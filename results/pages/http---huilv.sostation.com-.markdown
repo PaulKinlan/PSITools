@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://huilv.sostation.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [现汇当日牌价](http://huilv.sostation.com/)
 
@@ -29,9 +32,6 @@ title: http://huilv.sostation.com/
 *  JS Response Bytes: 159699
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

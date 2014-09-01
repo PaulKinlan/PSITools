@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.photosofafrica.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Photos of Africa|Film Maker|Wildlife and Travel Photographer|HD Stock Footage|Internet TV|Photo Safaris|Mobile APP](http://www.photosofafrica.com/)
 
@@ -29,9 +34,6 @@ title: http://www.photosofafrica.com/
 *  JS Response Bytes: 555421
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11785
-
-### Performance issues
-
 
 ### Performance issues
 

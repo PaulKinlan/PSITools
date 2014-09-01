@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.permis-construire-mairie.fr/?utm_source=application-google-chrome&utm_medium=application-google-chrome&utm_campaign=application-google-chrome
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Votre spécialiste des Permis de Construire](http://www.permis-construire-mairie.fr/?utm_source=application-google-chrome&utm_medium=application-google-chrome&utm_campaign=application-google-chrome)
 
@@ -29,9 +32,6 @@ title: http://www.permis-construire-mairie.fr/?utm_source=application-google-chr
 *  JS Response Bytes: 1270503
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95938
-
-### Performance issues
-
 
 ### Performance issues
 

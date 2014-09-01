@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.sketchswap.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sketch Swap](http://www.sketchswap.com/)
 
@@ -29,9 +35,6 @@ title: http://www.sketchswap.com/
 *  JS Response Bytes: 417308
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

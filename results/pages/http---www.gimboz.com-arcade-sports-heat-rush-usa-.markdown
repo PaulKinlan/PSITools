@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gimboz.com/arcade/sports/heat-rush-usa/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gimboz.com](http://www.gimboz.com/arcade/sports/heat-rush-usa/)
 
@@ -29,9 +33,6 @@ title: http://www.gimboz.com/arcade/sports/heat-rush-usa/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

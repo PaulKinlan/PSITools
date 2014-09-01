@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://smartmoneytime.com/uk3/ukmobiltesco2.php?a=428625575
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [You have a chance to win a £500 Voucher to TESCO!](http://smartmoneytime.com/uk3/ukmobiltesco2.php?a=428625575)
 
@@ -29,9 +32,6 @@ title: http://smartmoneytime.com/uk3/ukmobiltesco2.php?a=428625575
 *  JS Response Bytes: 95299
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2014
-
-### Performance issues
-
 
 ### Performance issues
 

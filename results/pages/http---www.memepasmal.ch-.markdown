@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.memepasmal.ch/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Même pas mal! | La vie à Genève et aux alentours](http://www.memepasmal.ch/)
 
@@ -29,9 +33,6 @@ title: http://www.memepasmal.ch/
 *  JS Response Bytes: 179554
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

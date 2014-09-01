@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://hon.voue.com.br/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HoN Stats](http://hon.voue.com.br/)
 
@@ -29,9 +33,6 @@ title: http://hon.voue.com.br/
 *  JS Response Bytes: 138718
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

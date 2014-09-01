@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.24yemekoyunlari.com/?s=angry+birds
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [angry birds – Search Results – Online Best Games](http://www.24yemekoyunlari.com/?s=angry+birds)
 
@@ -29,9 +34,6 @@ title: http://www.24yemekoyunlari.com/?s=angry+birds
 *  JS Response Bytes: 553576
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

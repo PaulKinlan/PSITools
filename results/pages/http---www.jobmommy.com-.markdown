@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.jobmommy.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Innovative Methodologies LLC](http://www.jobmommy.com/)
 
@@ -29,9 +31,6 @@ title: http://www.jobmommy.com/
 *  JS Response Bytes: 975252
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 216897
-
-### Performance issues
-
 
 ### Performance issues
 

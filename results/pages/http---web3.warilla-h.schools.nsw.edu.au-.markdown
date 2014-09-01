@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://web3.warilla-h.schools.nsw.edu.au/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Moodle](http://web3.warilla-h.schools.nsw.edu.au/)
 
@@ -29,9 +35,6 @@ title: http://web3.warilla-h.schools.nsw.edu.au/
 *  JS Response Bytes: 554663
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51452
-
-### Performance issues
-
 
 ### Performance issues
 

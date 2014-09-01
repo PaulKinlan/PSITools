@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://ap1.pccu.edu.tw/index.asp?user=parent
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [校園資訊服務網](https://ap1.pccu.edu.tw/index.asp?user=parent)
 
@@ -29,9 +35,6 @@ title: https://ap1.pccu.edu.tw/index.asp?user=parent
 *  JS Response Bytes: 133535
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3524
-
-### Performance issues
-
 
 ### Performance issues
 

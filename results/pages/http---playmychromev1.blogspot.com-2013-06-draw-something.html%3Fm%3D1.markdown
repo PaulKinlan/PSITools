@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playmychromev1.blogspot.com/2013/06/draw-something.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [Play My Chrome v1: Draw Something](http://playmychromev1.blogspot.com/2013/06/draw-something.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playmychromev1.blogspot.com/2013/06/draw-something.html?m=1
 *  JS Response Bytes: 1067595
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97988
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/haters-war/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Haters War](http://www.war-games.ws/haters-war/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/haters-war/
 *  JS Response Bytes: 2293624
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120591
-
-### Performance issues
-
 
 ### Performance issues
 

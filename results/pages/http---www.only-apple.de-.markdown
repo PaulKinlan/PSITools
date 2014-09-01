@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.only-apple.de/
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [Fränd](http://www.only-apple.de/)
 
@@ -29,9 +31,6 @@ title: http://www.only-apple.de/
 *  JS Response Bytes: 256317
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

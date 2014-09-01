@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mytravelwebs.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Share your Travel Experience, Road Trip Map Maker/Trip Maker, Plan your Trip and Create your Travel Map, MyTravelWebs](http://www.mytravelwebs.com/)
 
@@ -29,9 +34,6 @@ title: http://www.mytravelwebs.com/
 *  JS Response Bytes: 211364
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

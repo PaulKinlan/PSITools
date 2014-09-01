@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://freehd-games.blogspot.com/2013/08/bad-boys-2.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free online web games: Bad Boys 2](http://freehd-games.blogspot.com/2013/08/bad-boys-2.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://freehd-games.blogspot.com/2013/08/bad-boys-2.html?m=1
 *  JS Response Bytes: 1548576
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99193
-
-### Performance issues
-
 
 ### Performance issues
 

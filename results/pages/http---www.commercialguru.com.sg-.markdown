@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.commercialguru.com.sg/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Singapore Commercial Property | Office, Retail, Industrial Properties for Sale and Rent | CommercialGuru Singapore](http://www.commercialguru.com.sg/)
 
@@ -29,9 +32,6 @@ title: http://www.commercialguru.com.sg/
 *  JS Response Bytes: 751237
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7067
-
-### Performance issues
-
 
 ### Performance issues
 

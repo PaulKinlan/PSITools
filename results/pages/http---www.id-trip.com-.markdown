@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.id-trip.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Voyage sur-mesure : organisation de voyage - id-trip.com](http://www.id-trip.com/)
 
@@ -29,9 +34,6 @@ title: http://www.id-trip.com/
 *  JS Response Bytes: 1459744
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 237666
-
-### Performance issues
-
 
 ### Performance issues
 

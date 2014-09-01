@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gat5code.blogspot.in/2014/02/angry-birds-go-2.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [GTA 5 Cheats: Angry Birds go 2](http://gat5code.blogspot.in/2014/02/angry-birds-go-2.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://gat5code.blogspot.in/2014/02/angry-birds-go-2.html?m=1
 *  JS Response Bytes: 721550
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95579
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://game.zylom.com/servlet/Entry?g=2150&s=6837&nocache=1409004431724
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Island - Castaway](http://game.zylom.com/servlet/Entry?g=2150&s=6837&nocache=1409004431724)
 
@@ -29,9 +35,6 @@ title: http://game.zylom.com/servlet/Entry?g=2150&s=6837&nocache=1409004431724
 *  JS Response Bytes: 295629
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8091
-
-### Performance issues
-
 
 ### Performance issues
 

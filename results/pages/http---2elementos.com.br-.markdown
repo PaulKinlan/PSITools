@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://2elementos.com.br/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Home](http://2elementos.com.br/)
 
@@ -29,9 +34,6 @@ title: http://2elementos.com.br/
 *  JS Response Bytes: 521283
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1419
-
-### Performance issues
-
 
 ### Performance issues
 

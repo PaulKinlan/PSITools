@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gofish-cardgame.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Go Fish Card Game](http://www.gofish-cardgame.com/)
 
@@ -29,9 +33,6 @@ title: http://www.gofish-cardgame.com/
 *  JS Response Bytes: 733719
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50688
-
-### Performance issues
-
 
 ### Performance issues
 

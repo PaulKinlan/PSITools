@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://girls-games.trzn.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Girls Games - Play the best free games for girls online, choose from dress up games, make up games makeover games and cooking games](http://girls-games.trzn.com/)
 
@@ -29,9 +32,6 @@ title: http://girls-games.trzn.com/
 *  JS Response Bytes: 1955965
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116299
-
-### Performance issues
-
 
 ### Performance issues
 

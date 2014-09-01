@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mooreswebservices.com/shopbasic/index.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shop Basic](http://www.mooreswebservices.com/shopbasic/index.php)
 
@@ -29,9 +33,6 @@ title: http://www.mooreswebservices.com/shopbasic/index.php
 *  JS Response Bytes: 545026
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

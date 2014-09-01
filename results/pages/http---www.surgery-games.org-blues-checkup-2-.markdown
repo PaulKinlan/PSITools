@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/blues-checkup-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blues Checkup game](http://www.surgery-games.org/blues-checkup-2/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/blues-checkup-2/
 *  JS Response Bytes: 2479573
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122400
-
-### Performance issues
-
 
 ### Performance issues
 

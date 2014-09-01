@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.oko-lab.com/Okolab.page
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Okolab](http://www.oko-lab.com/Okolab.page)
 
@@ -29,9 +35,6 @@ title: http://www.oko-lab.com/Okolab.page
 *  JS Response Bytes: 1021146
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28281
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://soundreview.org/audio-equipment/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Audio Equipment - Headphones, Amps, Speakers and more - SoundReview](http://soundreview.org/audio-equipment/)
 
@@ -29,9 +33,6 @@ title: http://soundreview.org/audio-equipment/
 *  JS Response Bytes: 1798224
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 190670
-
-### Performance issues
-
 
 ### Performance issues
 

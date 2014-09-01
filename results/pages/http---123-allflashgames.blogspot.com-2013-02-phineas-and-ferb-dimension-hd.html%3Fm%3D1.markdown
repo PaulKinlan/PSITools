@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://123-allflashgames.blogspot.com/2013/02/phineas-and-ferb-dimension-hd.html?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [All Flash Games: Phineas and Ferb Dimension HD](http://123-allflashgames.blogspot.com/2013/02/phineas-and-ferb-dimension-hd.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://123-allflashgames.blogspot.com/2013/02/phineas-and-ferb-dimension-
 *  JS Response Bytes: 2394945
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 302328
-
-### Performance issues
-
 
 ### Performance issues
 

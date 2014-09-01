@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://quizlet.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Simple free learning tools for students and teachers | Quizlet](http://quizlet.com/)
 
@@ -29,9 +31,6 @@ title: http://quizlet.com/
 *  JS Response Bytes: 306657
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 882
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://aliyaaziz.co.uk/abiNew/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ABI Maps](http://aliyaaziz.co.uk/abiNew/)
 
@@ -29,9 +34,6 @@ title: http://aliyaaziz.co.uk/abiNew/
 *  JS Response Bytes: 1639034
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53927
-
-### Performance issues
-
 
 ### Performance issues
 

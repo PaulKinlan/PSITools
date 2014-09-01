@@ -33,8 +33,5 @@ title: http://www.vidishare.nl/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

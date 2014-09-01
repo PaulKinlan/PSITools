@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://sites.google.com/site/stkvojnaposta/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [СТК Велики Парк](https://sites.google.com/site/stkvojnaposta/)
 
@@ -29,9 +34,6 @@ title: https://sites.google.com/site/stkvojnaposta/
 *  JS Response Bytes: 1278047
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97690
-
-### Performance issues
-
 
 ### Performance issues
 

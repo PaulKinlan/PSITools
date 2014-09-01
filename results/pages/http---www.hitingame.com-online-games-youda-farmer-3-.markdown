@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.hitingame.com/online-games/youda-farmer-3/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Youda Farmer 3 « Online Flash Games – Popular Flash Games](http://www.hitingame.com/online-games/youda-farmer-3/)
 
@@ -29,9 +35,6 @@ title: http://www.hitingame.com/online-games/youda-farmer-3/
 *  JS Response Bytes: 1094870
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34915
-
-### Performance issues
-
 
 ### Performance issues
 

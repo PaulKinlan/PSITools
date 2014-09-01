@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://job.rikunabi.com/2013/media/rikutore_gc/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [【就活ならリクナビ2013】新卒・既卒の就職活動・採用情報サイト](http://job.rikunabi.com/2013/media/rikutore_gc/)
 
@@ -29,9 +32,6 @@ title: http://job.rikunabi.com/2013/media/rikutore_gc/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

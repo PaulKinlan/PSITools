@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://casagou.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Joachim Agou](http://casagou.com/)
 
@@ -29,9 +34,6 @@ title: http://casagou.com/
 *  JS Response Bytes: 1293016
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 388
-
-### Performance issues
-
 
 ### Performance issues
 

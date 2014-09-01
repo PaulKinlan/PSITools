@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://paydirtapp.com/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome Back](https://paydirtapp.com/login)
 
@@ -29,9 +33,6 @@ title: https://paydirtapp.com/login
 *  JS Response Bytes: 217469
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3714
-
-### Performance issues
-
 
 ### Performance issues
 

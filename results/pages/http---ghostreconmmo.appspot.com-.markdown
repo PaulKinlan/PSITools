@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://ghostreconmmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Ghost Recon Online](http://ghostreconmmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://ghostreconmmo.appspot.com/
 *  JS Response Bytes: 2018526
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52349
-
-### Performance issues
-
 
 ### Performance issues
 

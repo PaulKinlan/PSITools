@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.nirvanagame99.com/default-category/frozen-games--block-party
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Frozen Games Block Party - Nirvanegame99.com](http://www.nirvanagame99.com/default-category/frozen-games--block-party)
 
@@ -29,9 +34,6 @@ title: http://www.nirvanagame99.com/default-category/frozen-games--block-party
 *  JS Response Bytes: 1772377
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19180
-
-### Performance issues
-
 
 ### Performance issues
 

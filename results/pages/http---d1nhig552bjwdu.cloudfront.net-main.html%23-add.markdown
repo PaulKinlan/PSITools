@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://d1nhig552bjwdu.cloudfront.net/main.html#/add
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Pandacoin PND Balance](http://d1nhig552bjwdu.cloudfront.net/main.html#/add)
 
@@ -29,9 +32,6 @@ title: http://d1nhig552bjwdu.cloudfront.net/main.html#/add
 *  JS Response Bytes: 272240
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

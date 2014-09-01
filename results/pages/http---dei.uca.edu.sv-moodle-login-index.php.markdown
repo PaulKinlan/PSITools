@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://dei.uca.edu.sv/moodle/login/index.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Educación a Distancia DEI: Entrar al sitio](http://dei.uca.edu.sv/moodle/login/index.php)
 
@@ -29,9 +34,6 @@ title: http://dei.uca.edu.sv/moodle/login/index.php
 *  JS Response Bytes: 136217
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 593
-
-### Performance issues
-
 
 ### Performance issues
 

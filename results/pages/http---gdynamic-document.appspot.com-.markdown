@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gdynamic-document.appspot.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [.:: GDynamic Document ::. Google Drive Mailing](http://gdynamic-document.appspot.com/)
 
@@ -29,9 +35,6 @@ title: http://gdynamic-document.appspot.com/
 *  JS Response Bytes: 1880898
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 286546
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesyz.com/bad-piggies.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bad Piggies : Games YZ](http://www.gamesyz.com/bad-piggies.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamesyz.com/bad-piggies.html
 *  JS Response Bytes: 1529569
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105440
-
-### Performance issues
-
 
 ### Performance issues
 

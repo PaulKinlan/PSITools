@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playgamesonchrome.blogspot.com/2013/08/marvel-comics-characters-which-is-one.html?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://playgamesonchrome.blogspot.com/2013/08/marvel-comics-characters-which-is-one.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playgamesonchrome.blogspot.com/2013/08/marvel-comics-characters-wh
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18884
-
-### Performance issues
-
 
 ### Performance issues
 

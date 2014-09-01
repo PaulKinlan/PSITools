@@ -33,8 +33,5 @@ title: http://www.365scores.com/launcher.html
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

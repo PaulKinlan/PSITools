@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/actiongames/truck-racing/#.U_2OR00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Truck Racing « Online Flash Game Truck Racing](http://gamematic.net/online-flash-games/actiongames/truck-racing/#.U_2OR00ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/actiongames/truck-racing/#.U_2OR0
 *  JS Response Bytes: 1273380
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44828
-
-### Performance issues
-
 
 ### Performance issues
 

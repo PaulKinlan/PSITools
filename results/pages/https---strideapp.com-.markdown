@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://strideapp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sales Tracking Software and Simple CRM · Stride](https://strideapp.com/)
 
@@ -29,9 +32,6 @@ title: https://strideapp.com/
 *  JS Response Bytes: 787983
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57926
-
-### Performance issues
-
 
 ### Performance issues
 

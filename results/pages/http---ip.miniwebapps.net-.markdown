@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ip.miniwebapps.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [What Is My IP Address?](http://ip.miniwebapps.net/)
 
@@ -29,9 +33,6 @@ title: http://ip.miniwebapps.net/
 *  JS Response Bytes: 41100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

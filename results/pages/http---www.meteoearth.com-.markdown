@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.meteoearth.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MeteoEarth](http://www.meteoearth.com/)
 
@@ -29,9 +33,6 @@ title: http://www.meteoearth.com/
 *  JS Response Bytes: 302322
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

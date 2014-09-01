@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ramenparados.blogspot.com/?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Ramen Para Dos - Noticias Manga | Noticias Anime | Cultura Japonesa](http://ramenparados.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://ramenparados.blogspot.com/?m=1
 *  JS Response Bytes: 248907
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1003
-
-### Performance issues
-
 
 ### Performance issues
 

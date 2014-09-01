@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://starthq.com/signup
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [StartHQ - find the right web app for the job](https://starthq.com/signup)
 
@@ -29,9 +32,6 @@ title: https://starthq.com/signup
 *  JS Response Bytes: 581954
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 933
-
-### Performance issues
-
 
 ### Performance issues
 

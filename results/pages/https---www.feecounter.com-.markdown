@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.feecounter.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Feecounter | Online education fee payment](https://www.feecounter.com/)
 
@@ -29,9 +32,6 @@ title: https://www.feecounter.com/
 *  JS Response Bytes: 274413
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16184
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://jfrecordcamera.sourceforge.net/applet.php
+AvoidPlugins: true
 ---
 ## [jfRecordCamera](http://jfrecordcamera.sourceforge.net/applet.php)
 
@@ -29,9 +30,6 @@ title: http://jfrecordcamera.sourceforge.net/applet.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

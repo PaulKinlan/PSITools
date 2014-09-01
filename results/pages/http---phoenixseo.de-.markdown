@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://phoenixseo.de/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [PHOENIXSEO | Internet-/Online Marketingberatung für Unternehmen](http://phoenixseo.de/)
 
@@ -29,9 +33,6 @@ title: http://phoenixseo.de/
 *  JS Response Bytes: 226264
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43238
-
-### Performance issues
-
 
 ### Performance issues
 

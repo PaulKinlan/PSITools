@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.solopostres.com/mobile.index.php
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Recetas de postres](http://www.solopostres.com/mobile.index.php)
 
@@ -29,9 +34,6 @@ title: http://www.solopostres.com/mobile.index.php
 *  JS Response Bytes: 1178832
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30305
-
-### Performance issues
-
 
 ### Performance issues
 

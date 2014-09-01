@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://pdfaid.com/watermark.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Watermark Pdf Files Online - Watermark Now](http://pdfaid.com/watermark.aspx)
 
@@ -29,9 +34,6 @@ title: http://pdfaid.com/watermark.aspx
 *  JS Response Bytes: 2060275
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16475
-
-### Performance issues
-
 
 ### Performance issues
 

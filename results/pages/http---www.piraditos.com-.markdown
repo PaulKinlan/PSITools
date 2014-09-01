@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.piraditos.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Juegos gratis - Juegos online - Piraditos.Com](http://www.piraditos.com/)
 
@@ -29,9 +34,6 @@ title: http://www.piraditos.com/
 *  JS Response Bytes: 428948
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

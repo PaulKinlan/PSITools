@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://lynnylens.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Lynny Lens Systems // Creative Effects SLR / DSLR Camera Lenses](https://lynnylens.com/)
 
@@ -29,9 +33,6 @@ title: https://lynnylens.com/
 *  JS Response Bytes: 398727
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 232738
-
-### Performance issues
-
 
 ### Performance issues
 

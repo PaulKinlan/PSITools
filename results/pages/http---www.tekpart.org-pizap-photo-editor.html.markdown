@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.tekpart.org/pizap-photo-editor.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tek Part Program Arşivi, Tek Part Program İndir, Ücretsiz Programlar – piZap Photo Editor](http://www.tekpart.org/pizap-photo-editor.html)
 
@@ -29,9 +35,6 @@ title: http://www.tekpart.org/pizap-photo-editor.html
 *  JS Response Bytes: 1226780
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15447
-
-### Performance issues
-
 
 ### Performance issues
 

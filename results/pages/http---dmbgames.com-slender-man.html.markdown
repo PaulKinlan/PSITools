@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://dmbgames.com/slender-man.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DMBGames.Com – Slender Man!](http://dmbgames.com/slender-man.html)
 
@@ -29,9 +36,6 @@ title: http://dmbgames.com/slender-man.html
 *  JS Response Bytes: 407005
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 60106
-
-### Performance issues
-
 
 ### Performance issues
 

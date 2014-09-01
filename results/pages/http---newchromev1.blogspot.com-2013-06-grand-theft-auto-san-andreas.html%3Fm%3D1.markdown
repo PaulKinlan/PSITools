@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://newchromev1.blogspot.com/2013/06/grand-theft-auto-san-andreas.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [Newchromev1: Grand Theft Auto: San Andreas](http://newchromev1.blogspot.com/2013/06/grand-theft-auto-san-andreas.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://newchromev1.blogspot.com/2013/06/grand-theft-auto-san-andreas.html
 *  JS Response Bytes: 1068310
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98006
-
-### Performance issues
-
 
 ### Performance issues
 

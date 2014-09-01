@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.hotsoftwares.info/pdftoexcel/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [All-in-1 PDF to Excel App](http://www.hotsoftwares.info/pdftoexcel/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.hotsoftwares.info/pdftoexcel/index.html
 *  JS Response Bytes: 1060203
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95267
-
-### Performance issues
-
 
 ### Performance issues
 

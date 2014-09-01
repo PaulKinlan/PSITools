@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://trend.ehubsoft.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Trend Topics & News with Searches](http://trend.ehubsoft.net/)
 
@@ -29,9 +33,6 @@ title: http://trend.ehubsoft.net/
 *  JS Response Bytes: 676826
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

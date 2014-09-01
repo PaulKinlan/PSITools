@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.onlinechildrengame.com/3d-games/robot-rage/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Robot Rage](http://www.onlinechildrengame.com/3d-games/robot-rage/)
 
@@ -29,9 +34,6 @@ title: http://www.onlinechildrengame.com/3d-games/robot-rage/
 *  JS Response Bytes: 861829
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1118
-
-### Performance issues
-
 
 ### Performance issues
 

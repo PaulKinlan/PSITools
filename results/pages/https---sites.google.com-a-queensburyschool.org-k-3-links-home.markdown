@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://sites.google.com/a/queensburyschool.org/k-3-links/home
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [K-3 Links](https://sites.google.com/a/queensburyschool.org/k-3-links/home)
 
@@ -29,9 +33,6 @@ title: https://sites.google.com/a/queensburyschool.org/k-3-links/home
 *  JS Response Bytes: 1059763
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3094
-
-### Performance issues
-
 
 ### Performance issues
 

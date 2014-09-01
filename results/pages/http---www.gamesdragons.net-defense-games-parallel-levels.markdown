@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesdragons.net/defense-games/parallel-levels
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | www.gamesdragons.net | Play Most Popular Games Free](http://www.gamesdragons.net/defense-games/parallel-levels)
 
@@ -29,9 +35,6 @@ title: http://www.gamesdragons.net/defense-games/parallel-levels
 *  JS Response Bytes: 729375
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2258
-
-### Performance issues
-
 
 ### Performance issues
 

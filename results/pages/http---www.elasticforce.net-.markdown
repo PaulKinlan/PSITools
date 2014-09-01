@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.elasticforce.net/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ElasticForce Network – Removing Barriers to Business](http://www.elasticforce.net/)
 
@@ -29,9 +31,6 @@ title: http://www.elasticforce.net/
 *  JS Response Bytes: 510442
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 609
-
-### Performance issues
-
 
 ### Performance issues
 

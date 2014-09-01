@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.typingarena.com/games
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Learn typing with our typing games](http://www.typingarena.com/games)
 
@@ -29,9 +31,6 @@ title: http://www.typingarena.com/games
 *  JS Response Bytes: 154303
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59812
-
-### Performance issues
-
 
 ### Performance issues
 

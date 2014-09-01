@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamenur.com/clicksinuca-menu-b151/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Click sinuca | Gamenur](http://www.gamenur.com/clicksinuca-menu-b151/)
 
@@ -29,9 +34,6 @@ title: http://www.gamenur.com/clicksinuca-menu-b151/
 *  JS Response Bytes: 1414410
 *  Flash Response Bytes: 3075947
 *  Other Response Bytes: 146836
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://tv.generalinformation.us/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://tv.generalinformation.us/)
 
@@ -29,9 +31,6 @@ title: http://tv.generalinformation.us/
 *  JS Response Bytes: 443372
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

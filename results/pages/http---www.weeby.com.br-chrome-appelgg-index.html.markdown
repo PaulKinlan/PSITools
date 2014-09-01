@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.weeby.com.br/chrome/appelgg/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Weeby!Player - Aprenda a Criar Sua Rede Social - Elgg](http://www.weeby.com.br/chrome/appelgg/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.weeby.com.br/chrome/appelgg/index.html
 *  JS Response Bytes: 437438
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1379
-
-### Performance issues
-
 
 ### Performance issues
 

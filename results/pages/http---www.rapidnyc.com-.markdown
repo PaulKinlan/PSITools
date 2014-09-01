@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.rapidnyc.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Rapid Realty NYC | New York Apartments, Brooklyn Apartments, No Broker Fee](http://www.rapidnyc.com/)
 
@@ -29,9 +33,6 @@ title: http://www.rapidnyc.com/
 *  JS Response Bytes: 1871211
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11594
-
-### Performance issues
-
 
 ### Performance issues
 

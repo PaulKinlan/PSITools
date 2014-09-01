@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.dsmeletro.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DSM - Qualidade em tecnologia | (55) 3535-3427 | 8132-2600](http://www.dsmeletro.com/)
 
@@ -29,9 +33,6 @@ title: http://www.dsmeletro.com/
 *  JS Response Bytes: 180029
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24442
-
-### Performance issues
-
 
 ### Performance issues
 

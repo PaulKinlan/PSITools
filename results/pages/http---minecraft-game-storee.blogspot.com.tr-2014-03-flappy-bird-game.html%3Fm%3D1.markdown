@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://minecraft-game-storee.blogspot.com.tr/2014/03/flappy-bird-game.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [minecraft games store: flappy bird game](http://minecraft-game-storee.blogspot.com.tr/2014/03/flappy-bird-game.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://minecraft-game-storee.blogspot.com.tr/2014/03/flappy-bird-game.htm
 *  JS Response Bytes: 814844
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97211
-
-### Performance issues
-
 
 ### Performance issues
 

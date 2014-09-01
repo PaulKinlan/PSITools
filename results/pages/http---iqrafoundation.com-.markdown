@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://iqrafoundation.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IQRA’](http://iqrafoundation.com/)
 
@@ -29,9 +33,6 @@ title: http://iqrafoundation.com/
 *  JS Response Bytes: 471682
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 243667
-
-### Performance issues
-
 
 ### Performance issues
 

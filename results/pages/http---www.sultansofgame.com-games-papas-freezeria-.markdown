@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/papas-freezeria/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Papa’s Freezeria Game — Sultans of Game](http://www.sultansofgame.com/games/papas-freezeria/)
 
@@ -29,9 +35,6 @@ title: http://www.sultansofgame.com/games/papas-freezeria/
 *  JS Response Bytes: 1718871
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 127096
-
-### Performance issues
-
 
 ### Performance issues
 

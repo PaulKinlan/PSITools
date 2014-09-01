@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ringseis.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Michael Ringseis Interactive Advertising](http://ringseis.com/)
 
@@ -29,9 +31,6 @@ title: http://ringseis.com/
 *  JS Response Bytes: 207983
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 246
-
-### Performance issues
-
 
 ### Performance issues
 

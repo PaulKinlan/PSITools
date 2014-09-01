@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://hypem.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Latest songs from music blogs worldwide / Hype Machine](http://hypem.com/)
 
@@ -29,9 +34,6 @@ title: http://hypem.com/
 *  JS Response Bytes: 660392
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1460
-
-### Performance issues
-
 
 ### Performance issues
 

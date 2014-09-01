@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.vibefm.ro/mobile-live/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [Vibe Fm Live - Mobile](http://www.vibefm.ro/mobile-live/)
 
@@ -29,9 +33,6 @@ title: http://www.vibefm.ro/mobile-live/
 *  JS Response Bytes: 249021
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 505
-
-### Performance issues
-
 
 ### Performance issues
 

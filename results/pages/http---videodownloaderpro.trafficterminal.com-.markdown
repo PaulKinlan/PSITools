@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://videodownloaderpro.trafficterminal.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Video downloader pro](http://videodownloaderpro.trafficterminal.com/)
 
@@ -29,9 +33,6 @@ title: http://videodownloaderpro.trafficterminal.com/
 *  JS Response Bytes: 96902
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

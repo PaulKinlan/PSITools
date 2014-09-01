@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://uinvest.ulogical.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [uInvest is a web app to determine investment outcomes.](http://uinvest.ulogical.com/)
 
@@ -29,9 +34,6 @@ title: http://uinvest.ulogical.com/
 *  JS Response Bytes: 761104
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

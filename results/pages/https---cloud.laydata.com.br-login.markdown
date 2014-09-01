@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://cloud.laydata.com.br/login
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Laydata - Gerenciador de Empresas de Informática](https://cloud.laydata.com.br/login)
 
@@ -29,9 +32,6 @@ title: https://cloud.laydata.com.br/login
 *  JS Response Bytes: 360315
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23272
-
-### Performance issues
-
 
 ### Performance issues
 

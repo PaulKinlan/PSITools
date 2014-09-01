@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://capsgam.com/clash-of-clans/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Caps Games – Clash Of Clans](http://capsgam.com/clash-of-clans/)
 
@@ -29,9 +34,6 @@ title: http://capsgam.com/clash-of-clans/
 *  JS Response Bytes: 1035287
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15178
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/game/name/talking-robot
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [talking-robot Addicting Games](http://www.2addictinggames.com/games/game/name/talking-robot)
 
@@ -29,9 +34,6 @@ title: http://www.2addictinggames.com/games/game/name/talking-robot
 *  JS Response Bytes: 1859845
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111906
-
-### Performance issues
-
 
 ### Performance issues
 

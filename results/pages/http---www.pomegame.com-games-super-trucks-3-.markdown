@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.pomegame.com/games/super-trucks-3/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Super Trucks Game](http://www.pomegame.com/games/super-trucks-3/)
 
@@ -29,9 +34,6 @@ title: http://www.pomegame.com/games/super-trucks-3/
 *  JS Response Bytes: 1903278
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20173
-
-### Performance issues
-
 
 ### Performance issues
 

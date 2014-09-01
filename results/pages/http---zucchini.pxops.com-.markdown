@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://zucchini.pxops.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Zucchini Timer](http://zucchini.pxops.com/)
 
@@ -29,9 +31,6 @@ title: http://zucchini.pxops.com/
 *  JS Response Bytes: 155461
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18492
-
-### Performance issues
-
 
 ### Performance issues
 

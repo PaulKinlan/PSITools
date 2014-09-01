@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://magic-assemble.herokuapp.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Magic Assemble](http://magic-assemble.herokuapp.com/)
 
@@ -29,9 +34,6 @@ title: http://magic-assemble.herokuapp.com/
 *  JS Response Bytes: 151834
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 37093
-
-### Performance issues
-
 
 ### Performance issues
 

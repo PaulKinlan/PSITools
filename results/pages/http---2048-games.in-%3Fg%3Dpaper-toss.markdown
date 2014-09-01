@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://2048-games.in/?g=paper-toss
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [2048-Games.in](http://2048-games.in/?g=paper-toss)
 
@@ -29,9 +33,6 @@ title: http://2048-games.in/?g=paper-toss
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

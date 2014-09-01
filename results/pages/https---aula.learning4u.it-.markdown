@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://aula.learning4u.it/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Aula Backend](https://aula.learning4u.it/)
 
@@ -29,9 +33,6 @@ title: https://aula.learning4u.it/
 *  JS Response Bytes: 130048
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102127
-
-### Performance issues
-
 
 ### Performance issues
 

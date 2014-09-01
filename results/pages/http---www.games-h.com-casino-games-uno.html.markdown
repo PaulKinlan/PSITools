@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.games-h.com/casino-games/uno.html
+UseLegibleFontSizes: true
 ---
 ## [404 - Page not found](http://www.games-h.com/casino-games/uno.html)
 
@@ -29,9 +30,6 @@ title: http://www.games-h.com/casino-games/uno.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1755
-
-### Performance issues
-
 
 ### Performance issues
 

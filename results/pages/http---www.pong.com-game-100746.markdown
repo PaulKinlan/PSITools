@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.pong.com/game/100746
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Warzone tower defense - Strategy & Defense - Pong | Play Online Network Games](http://www.pong.com/game/100746)
 
@@ -29,9 +35,6 @@ title: http://www.pong.com/game/100746
 *  JS Response Bytes: 1649262
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124124
-
-### Performance issues
-
 
 ### Performance issues
 

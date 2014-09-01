@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.onlinelatestgames.com/wheres-my-water-2.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Where’s My Water? 2 | Online Latest Games](http://www.onlinelatestgames.com/wheres-my-water-2.html)
 
@@ -29,9 +37,6 @@ title: http://www.onlinelatestgames.com/wheres-my-water-2.html
 *  JS Response Bytes: 1529935
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104564
-
-### Performance issues
-
 
 ### Performance issues
 

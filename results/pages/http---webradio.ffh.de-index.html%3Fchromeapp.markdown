@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://webradio.ffh.de/index.html?chromeapp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FFH Webradio](http://webradio.ffh.de/index.html?chromeapp)
 
@@ -29,9 +33,6 @@ title: http://webradio.ffh.de/index.html?chromeapp
 *  JS Response Bytes: 1526974
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19873
-
-### Performance issues
-
 
 ### Performance issues
 

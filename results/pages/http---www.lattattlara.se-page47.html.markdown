@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.lattattlara.se/page47.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LÄTT ATT LÄRA! En sida med massor av länkar till animationer, spel, filmer och självtester! Gör skolarbetet både lättare och roligare! - Barnsidan. Matte, klockan, svenska och engelska.](http://www.lattattlara.se/page47.html)
 
@@ -29,9 +36,6 @@ title: http://www.lattattlara.se/page47.html
 *  JS Response Bytes: 387926
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14142
-
-### Performance issues
-
 
 ### Performance issues
 

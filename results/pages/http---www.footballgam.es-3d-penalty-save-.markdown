@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/3d-penalty-save/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Penalty Save Game](http://www.footballgam.es/3d-penalty-save/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/3d-penalty-save/
 *  JS Response Bytes: 2460264
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 151110
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://20ez.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome to 20EZ - Log In, Sign Up, Buy, or Sell | 20ez](http://20ez.com/)
 
@@ -29,9 +34,6 @@ title: http://20ez.com/
 *  JS Response Bytes: 1676963
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110058
-
-### Performance issues
-
 
 ### Performance issues
 

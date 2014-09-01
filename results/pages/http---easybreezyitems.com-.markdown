@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://easybreezyitems.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Easy Breezy Items | London, Ontario](http://easybreezyitems.com/)
 
@@ -29,9 +33,6 @@ title: http://easybreezyitems.com/
 *  JS Response Bytes: 384256
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

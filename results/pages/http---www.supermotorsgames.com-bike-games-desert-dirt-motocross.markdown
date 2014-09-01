@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.supermotorsgames.com/bike-games/desert-dirt-motocross
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Desert Dirt Motocross - Games - Play Free Online Bike Games](http://www.supermotorsgames.com/bike-games/desert-dirt-motocross)
 
@@ -29,9 +36,6 @@ title: http://www.supermotorsgames.com/bike-games/desert-dirt-motocross
 *  JS Response Bytes: 1135706
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16287
-
-### Performance issues
-
 
 ### Performance issues
 

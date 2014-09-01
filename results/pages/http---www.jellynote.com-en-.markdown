@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.jellynote.com/en/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Jellynote - sheet music, tabs, chords & covers](http://www.jellynote.com/en/)
 
@@ -29,9 +31,6 @@ title: http://www.jellynote.com/en/
 *  JS Response Bytes: 1162422
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 84888
-
-### Performance issues
-
 
 ### Performance issues
 

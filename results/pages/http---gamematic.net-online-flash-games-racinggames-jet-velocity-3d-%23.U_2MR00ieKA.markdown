@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/racinggames/jet-velocity-3d/#.U_2MR00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jet Velocity 3D « Online Flash Game Jet Velocity 3D](http://gamematic.net/online-flash-games/racinggames/jet-velocity-3d/#.U_2MR00ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/racinggames/jet-velocity-3d/#.U_2
 *  JS Response Bytes: 1608194
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94198
-
-### Performance issues
-
 
 ### Performance issues
 

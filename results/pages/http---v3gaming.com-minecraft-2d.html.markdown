@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://v3gaming.com/minecraft-2d.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [V3Gaming.Com – MineCraft 2D](http://v3gaming.com/minecraft-2d.html)
 
@@ -29,9 +35,6 @@ title: http://v3gaming.com/minecraft-2d.html
 *  JS Response Bytes: 769402
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1901
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.fevtutor.com/login.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FEV Tutor Inc | Login](http://www.fevtutor.com/login.aspx)
 
@@ -29,9 +33,6 @@ title: http://www.fevtutor.com/login.aspx
 *  JS Response Bytes: 1160737
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1384
-
-### Performance issues
-
 
 ### Performance issues
 

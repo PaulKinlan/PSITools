@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://hexxagon.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
 ---
 ## [Hexxagon - Play the addictive game of rubies vs. pearls](http://hexxagon.com/)
 
@@ -29,9 +34,6 @@ title: http://hexxagon.com/
 *  JS Response Bytes: 550481
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

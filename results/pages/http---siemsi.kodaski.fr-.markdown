@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://siemsi.kodaski.fr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Simple e-mail signature](http://siemsi.kodaski.fr/)
 
@@ -29,9 +33,6 @@ title: http://siemsi.kodaski.fr/
 *  JS Response Bytes: 902837
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14833
-
-### Performance issues
-
 
 ### Performance issues
 

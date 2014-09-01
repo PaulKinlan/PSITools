@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://ww35.playgame9.com/candy.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [playgame9.com](http://ww35.playgame9.com/candy.html)
 
@@ -29,9 +34,6 @@ title: http://ww35.playgame9.com/candy.html
 *  JS Response Bytes: 173157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 219
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://driveddoc.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Welcome to Drive DigiDoc](https://driveddoc.appspot.com/)
 
@@ -29,9 +32,6 @@ title: https://driveddoc.appspot.com/
 *  JS Response Bytes: 1119263
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

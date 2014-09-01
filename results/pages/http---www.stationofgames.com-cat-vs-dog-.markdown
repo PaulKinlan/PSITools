@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.stationofgames.com/cat-vs-dog/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cat vs Dog](http://www.stationofgames.com/cat-vs-dog/)
 
@@ -29,9 +36,6 @@ title: http://www.stationofgames.com/cat-vs-dog/
 *  JS Response Bytes: 1273915
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125644
-
-### Performance issues
-
 
 ### Performance issues
 

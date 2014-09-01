@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://secure.mobiscope.com/mobiweb/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](https://secure.mobiscope.com/mobiweb/)
 
@@ -29,9 +31,6 @@ title: https://secure.mobiscope.com/mobiweb/
 *  JS Response Bytes: 172493
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 75278
-
-### Performance issues
-
 
 ### Performance issues
 

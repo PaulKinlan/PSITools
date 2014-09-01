@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.armorgamesz.com/games/game/name/obama-jurassic-park
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [obama-jurassic-park Armor Games](http://www.armorgamesz.com/games/game/name/obama-jurassic-park)
 
@@ -29,9 +34,6 @@ title: http://www.armorgamesz.com/games/game/name/obama-jurassic-park
 *  JS Response Bytes: 2007685
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111484
-
-### Performance issues
-
 
 ### Performance issues
 

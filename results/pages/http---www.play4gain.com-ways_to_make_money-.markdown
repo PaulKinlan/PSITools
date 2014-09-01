@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.play4gain.com/ways_to_make_money/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ways to make money](http://www.play4gain.com/ways_to_make_money/)
 
@@ -29,9 +37,6 @@ title: http://www.play4gain.com/ways_to_make_money/
 *  JS Response Bytes: 585938
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19337
-
-### Performance issues
-
 
 ### Performance issues
 

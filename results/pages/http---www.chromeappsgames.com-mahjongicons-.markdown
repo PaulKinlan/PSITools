@@ -33,8 +33,5 @@ title: http://www.chromeappsgames.com/mahjongicons/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

@@ -33,8 +33,5 @@ title: http://buildercss.wemakesites.net/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

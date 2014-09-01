@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://tools.knovel.com/uc/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Unit Converter - Knovel](http://tools.knovel.com/uc/)
 
@@ -29,9 +33,6 @@ title: http://tools.knovel.com/uc/
 *  JS Response Bytes: 1182022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 108
-
-### Performance issues
-
 
 ### Performance issues
 

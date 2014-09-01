@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/bricks2/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Bricks Breaking II](http://www.fupa.com/apps/bricks2/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/bricks2/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

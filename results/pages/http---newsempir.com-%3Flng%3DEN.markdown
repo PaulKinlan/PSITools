@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://newsempir.com/?lng=EN
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [NewsEmpiR: your favorites news sources and the best iGoogle alternative](http://newsempir.com/?lng=EN)
 
@@ -29,9 +32,6 @@ title: http://newsempir.com/?lng=EN
 *  JS Response Bytes: 3983837
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112628
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.kenesto.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Kenesto | Project and Workflow Management Software](http://www.kenesto.com/)
 
@@ -29,9 +33,6 @@ title: http://www.kenesto.com/
 *  JS Response Bytes: 461011
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1877
-
-### Performance issues
-
 
 ### Performance issues
 

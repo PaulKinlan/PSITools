@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://ap2.gigglestick.com/grampa/skeetmm.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Grampa Grumble(TM) Skeet Shoot Challenge](http://ap2.gigglestick.com/grampa/skeetmm.html)
 
@@ -29,9 +36,6 @@ title: http://ap2.gigglestick.com/grampa/skeetmm.html
 *  JS Response Bytes: 1329073
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22614
-
-### Performance issues
-
 
 ### Performance issues
 

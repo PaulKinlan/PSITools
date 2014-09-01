@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ivfgreece.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IVF Greece - fertility institute, surrogacy, egg donation, ICSI, PGD](http://www.ivfgreece.com/)
 
@@ -29,9 +35,6 @@ title: http://www.ivfgreece.com/
 *  JS Response Bytes: 1043285
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 224
-
-### Performance issues
-
 
 ### Performance issues
 

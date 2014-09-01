@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://clone.gs/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Clone Games](http://clone.gs/)
 
@@ -29,9 +31,6 @@ title: http://clone.gs/
 *  JS Response Bytes: 473931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97879
-
-### Performance issues
-
 
 ### Performance issues
 

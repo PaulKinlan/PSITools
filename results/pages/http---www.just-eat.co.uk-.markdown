@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.just-eat.co.uk/
+MinimizeRenderBlockingResources: true
 ---
 ## [Order Takeaway Online - Fast Food Delivery & Menus - Just-Eat](http://www.just-eat.co.uk/)
 
@@ -29,9 +30,6 @@ title: http://www.just-eat.co.uk/
 *  JS Response Bytes: 537088
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2835
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/puzzles/nutty-boom-2
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nutty Boom - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/puzzles/nutty-boom-2)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/puzzles/nutty-boom-2
 *  JS Response Bytes: 2211621
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113557
-
-### Performance issues
-
 
 ### Performance issues
 

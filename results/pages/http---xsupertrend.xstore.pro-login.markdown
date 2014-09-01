@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://xsupertrend.xstore.pro/login
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [xSuperTrend](http://xsupertrend.xstore.pro/login)
 
@@ -29,9 +32,6 @@ title: http://xsupertrend.xstore.pro/login
 *  JS Response Bytes: 153558
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 368
-
-### Performance issues
-
 
 ### Performance issues
 

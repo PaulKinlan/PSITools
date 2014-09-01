@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://arcadechrome.com/gc/?g=671
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [The Wizard's Notebook](http://arcadechrome.com/gc/?g=671)
 
@@ -29,9 +32,6 @@ title: http://arcadechrome.com/gc/?g=671
 *  JS Response Bytes: 388170
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1471
-
-### Performance issues
-
 
 ### Performance issues
 

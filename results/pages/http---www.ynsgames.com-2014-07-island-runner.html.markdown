@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ynsgames.com/2014/07/island-runner.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Island Runner « Online free hd games play game](http://www.ynsgames.com/2014/07/island-runner.html)
 
@@ -29,9 +35,6 @@ title: http://www.ynsgames.com/2014/07/island-runner.html
 *  JS Response Bytes: 397891
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

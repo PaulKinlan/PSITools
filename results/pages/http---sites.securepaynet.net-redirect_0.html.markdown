@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://sites.securepaynet.net/redirect_0.html
+UseLegibleFontSizes: true
 ---
 ## [Web Site Unavailable](http://sites.securepaynet.net/redirect_0.html)
 
@@ -18,7 +19,7 @@ title: http://sites.securepaynet.net/redirect_0.html
 *  Number of JS Resources: 0
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 1
-*  Total Request Bytes: 189
+*  Total Request Bytes: 205
 
 ### Response data
 
@@ -29,9 +30,6 @@ title: http://sites.securepaynet.net/redirect_0.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 533
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://unfair-mario.net/tank-trouble/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://unfair-mario.net/tank-trouble/)
 
@@ -29,9 +32,6 @@ title: http://unfair-mario.net/tank-trouble/
 *  JS Response Bytes: 904982
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 38989
-
-### Performance issues
-
 
 ### Performance issues
 

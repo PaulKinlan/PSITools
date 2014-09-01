@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://glassesofwater.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Glasses of Water](http://glassesofwater.com/)
 
@@ -29,9 +33,6 @@ title: http://glassesofwater.com/
 *  JS Response Bytes: 320256
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

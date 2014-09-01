@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chaos-rage.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Chaos Rage Online](http://chaos-rage.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://chaos-rage.appspot.com/
 *  JS Response Bytes: 1121069
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34770
-
-### Performance issues
-
 
 ### Performance issues
 

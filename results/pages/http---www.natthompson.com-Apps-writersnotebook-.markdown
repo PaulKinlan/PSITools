@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.natthompson.com/Apps/writersnotebook/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Writer's Notebook](http://www.natthompson.com/Apps/writersnotebook/)
 
@@ -29,9 +32,6 @@ title: http://www.natthompson.com/Apps/writersnotebook/
 *  JS Response Bytes: 942289
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 679
-
-### Performance issues
-
 
 ### Performance issues
 

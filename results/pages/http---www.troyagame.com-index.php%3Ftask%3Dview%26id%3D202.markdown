@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.troyagame.com/index.php?task=view&id=202
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bobbing - TroYaGaMe - just Challange! And Play Free! Play Online!](http://www.troyagame.com/index.php?task=view&id=202)
 
@@ -29,9 +34,6 @@ title: http://www.troyagame.com/index.php?task=view&id=202
 *  JS Response Bytes: 2177218
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119923
-
-### Performance issues
-
 
 ### Performance issues
 

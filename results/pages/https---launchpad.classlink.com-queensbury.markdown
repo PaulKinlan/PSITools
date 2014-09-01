@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://launchpad.classlink.com/queensbury
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Login ClassLink](https://launchpad.classlink.com/queensbury)
 
@@ -29,9 +33,6 @@ title: https://launchpad.classlink.com/queensbury
 *  JS Response Bytes: 648063
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30436
-
-### Performance issues
-
 
 ### Performance issues
 

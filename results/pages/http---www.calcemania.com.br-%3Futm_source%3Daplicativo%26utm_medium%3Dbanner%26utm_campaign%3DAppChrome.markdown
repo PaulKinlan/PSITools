@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.calcemania.com.br/?utm_source=aplicativo&utm_medium=banner&utm_campaign=AppChrome
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Estamos em Manutenção](http://www.calcemania.com.br/?utm_source=aplicativo&utm_medium=banner&utm_campaign=AppChrome)
 
@@ -29,9 +32,6 @@ title: http://www.calcemania.com.br/?utm_source=aplicativo&utm_medium=banner&utm
 *  JS Response Bytes: 15648
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

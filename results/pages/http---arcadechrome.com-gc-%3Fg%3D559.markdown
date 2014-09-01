@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://arcadechrome.com/gc/?g=559
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [Tetris](http://arcadechrome.com/gc/?g=559)
 
@@ -29,9 +33,6 @@ title: http://arcadechrome.com/gc/?g=559
 *  JS Response Bytes: 387897
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1471
-
-### Performance issues
-
 
 ### Performance issues
 

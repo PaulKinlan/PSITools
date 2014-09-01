@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://rollbar.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Rollbar - Real-time Error Tracking for Ruby, Python, PHP, Node.js, JavaScript, and Flash.](https://rollbar.com/)
 
@@ -29,9 +32,6 @@ title: https://rollbar.com/
 *  JS Response Bytes: 728526
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13266
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/platform/dino-shift
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dino Shift - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/platform/dino-shift)
 
@@ -29,9 +35,6 @@ title: http://www.gamesvarious.com/platform/dino-shift
 *  JS Response Bytes: 2212833
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 149560
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://espana.inmoflex.com/espana/admin/index.jsp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [InmoFLEX](http://espana.inmoflex.com/espana/admin/index.jsp)
 
@@ -29,9 +31,6 @@ title: http://espana.inmoflex.com/espana/admin/index.jsp
 *  JS Response Bytes: 15707
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 563
-
-### Performance issues
-
 
 ### Performance issues
 

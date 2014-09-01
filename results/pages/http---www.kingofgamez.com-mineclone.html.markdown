@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kingofgamez.com/mineclone.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MineClone | King of Gamez](http://www.kingofgamez.com/mineclone.html)
 
@@ -29,9 +34,6 @@ title: http://www.kingofgamez.com/mineclone.html
 *  JS Response Bytes: 1055182
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15200
-
-### Performance issues
-
 
 ### Performance issues
 

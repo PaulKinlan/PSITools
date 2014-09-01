@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.bestsolitairegames.com/tripeaks-solitaire/tripeak-solitaire
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tripeak Solitaire - Games - Play Free Online Best Solitaire Games](http://www.bestsolitairegames.com/tripeaks-solitaire/tripeak-solitaire)
 
@@ -29,9 +35,6 @@ title: http://www.bestsolitairegames.com/tripeaks-solitaire/tripeak-solitaire
 *  JS Response Bytes: 980065
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15997
-
-### Performance issues
-
 
 ### Performance issues
 

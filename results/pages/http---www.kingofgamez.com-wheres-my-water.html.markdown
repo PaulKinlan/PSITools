@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.kingofgamez.com/wheres-my-water.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Wheres My Water | King of Gamez](http://www.kingofgamez.com/wheres-my-water.html)
 
@@ -29,9 +33,6 @@ title: http://www.kingofgamez.com/wheres-my-water.html
 *  JS Response Bytes: 2289329
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21342
-
-### Performance issues
-
 
 ### Performance issues
 

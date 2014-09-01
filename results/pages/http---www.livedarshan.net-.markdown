@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.livedarshan.net/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Live Darshan - Watch Live Darshan of Temples 24/7 Free](http://www.livedarshan.net/)
 
@@ -29,9 +35,6 @@ title: http://www.livedarshan.net/
 *  JS Response Bytes: 1475598
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 370326
-
-### Performance issues
-
 
 ### Performance issues
 

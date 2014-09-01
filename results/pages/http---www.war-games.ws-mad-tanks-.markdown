@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/mad-tanks/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mad Tanks](http://www.war-games.ws/mad-tanks/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/mad-tanks/
 *  JS Response Bytes: 2291775
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124673
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.getonic.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GETONIC | Bringing stores to customers](https://www.getonic.com/)
 
@@ -29,9 +34,6 @@ title: https://www.getonic.com/
 *  JS Response Bytes: 630800
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30005
-
-### Performance issues
-
 
 ### Performance issues
 

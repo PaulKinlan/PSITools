@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.adloopz.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [adloopz.com](http://www.adloopz.com/)
 
@@ -29,9 +30,6 @@ title: http://www.adloopz.com/
 *  JS Response Bytes: 229920
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20813
-
-### Performance issues
-
 
 ### Performance issues
 

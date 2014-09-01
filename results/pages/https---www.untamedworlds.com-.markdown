@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.untamedworlds.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Untamed Worlds - Homepage](https://www.untamedworlds.com/)
 
@@ -29,9 +32,6 @@ title: https://www.untamedworlds.com/
 *  JS Response Bytes: 286096
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

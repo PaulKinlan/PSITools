@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://wn.dn1234.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [万年历_万年历查询|万年历农历查询](http://wn.dn1234.com/)
 
@@ -29,9 +33,6 @@ title: http://wn.dn1234.com/
 *  JS Response Bytes: 1194310
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2554
-
-### Performance issues
-
 
 ### Performance issues
 

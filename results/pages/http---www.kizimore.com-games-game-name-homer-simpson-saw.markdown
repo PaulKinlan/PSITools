@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.kizimore.com/games/game/name/homer-simpson-saw
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [homer-simpson-saw Kizi - Online Games - Life is fun!](http://www.kizimore.com/games/game/name/homer-simpson-saw)
 
@@ -29,9 +33,6 @@ title: http://www.kizimore.com/games/game/name/homer-simpson-saw
 *  JS Response Bytes: 1762976
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112810
-
-### Performance issues
-
 
 ### Performance issues
 

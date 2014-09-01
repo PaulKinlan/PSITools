@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.macmaster.se/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MacMaster](http://www.macmaster.se/)
 
@@ -29,9 +31,6 @@ title: http://www.macmaster.se/
 *  JS Response Bytes: 345733
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

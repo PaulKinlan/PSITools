@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.dannyhendrix.com/teamx/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TeamX webgame](http://www.dannyhendrix.com/teamx/)
 
@@ -29,9 +34,6 @@ title: http://www.dannyhendrix.com/teamx/
 *  JS Response Bytes: 1460770
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96645
-
-### Performance issues
-
 
 ### Performance issues
 

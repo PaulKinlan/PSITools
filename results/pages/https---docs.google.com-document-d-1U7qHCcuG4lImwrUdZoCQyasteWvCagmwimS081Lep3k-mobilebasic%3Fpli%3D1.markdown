@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://docs.google.com/document/d/1U7qHCcuG4lImwrUdZoCQyasteWvCagmwimS081Lep3k/mobilebasic?pli=1
+AvoidLandingPageRedirects: true
 ---
 ## [High School Student Handbook](https://docs.google.com/document/d/1U7qHCcuG4lImwrUdZoCQyasteWvCagmwimS081Lep3k/mobilebasic?pli=1)
 
@@ -29,9 +30,6 @@ title: https://docs.google.com/document/d/1U7qHCcuG4lImwrUdZoCQyasteWvCagmwimS08
 *  JS Response Bytes: 137629
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6296
-
-### Performance issues
-
 
 ### Performance issues
 

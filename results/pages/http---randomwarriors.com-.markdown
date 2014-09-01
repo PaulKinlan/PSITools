@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://randomwarriors.com/
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Random Warriors](http://randomwarriors.com/)
 
@@ -29,9 +33,6 @@ title: http://randomwarriors.com/
 *  JS Response Bytes: 902768
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

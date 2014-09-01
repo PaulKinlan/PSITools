@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://capsgam.com/asphalt-8-airborne/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Caps Games – Asphalt 8: Airborne](http://capsgam.com/asphalt-8-airborne/)
 
@@ -29,9 +34,6 @@ title: http://capsgam.com/asphalt-8-airborne/
 *  JS Response Bytes: 878599
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14886
-
-### Performance issues
-
 
 ### Performance issues
 

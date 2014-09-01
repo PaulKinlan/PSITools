@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.newbody.co/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [newbody.co - domain expired](http://www.newbody.co/)
 
@@ -29,9 +34,6 @@ title: http://www.newbody.co/
 *  JS Response Bytes: 142948
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58468
-
-### Performance issues
-
 
 ### Performance issues
 

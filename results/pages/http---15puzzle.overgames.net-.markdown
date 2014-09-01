@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://15puzzle.overgames.net/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [15 Puzzle | OverGames.net - Fifteen Puzzle](http://15puzzle.overgames.net/)
 
@@ -29,9 +35,6 @@ title: http://15puzzle.overgames.net/
 *  JS Response Bytes: 1822234
 *  Flash Response Bytes: 207601
 *  Other Response Bytes: 141914
-
-### Performance issues
-
 
 ### Performance issues
 

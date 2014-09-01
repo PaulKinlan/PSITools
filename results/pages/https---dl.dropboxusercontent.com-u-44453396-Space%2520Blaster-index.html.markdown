@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://dl.dropboxusercontent.com/u/44453396/Space%20Blaster/index.html
+AvoidLandingPageRedirects: true
+EnableGzipCompression: true
 ---
 ## [Space Blaster](https://dl.dropboxusercontent.com/u/44453396/Space%20Blaster/index.html)
 
@@ -29,9 +31,6 @@ title: https://dl.dropboxusercontent.com/u/44453396/Space%20Blaster/index.html
 *  JS Response Bytes: 373001
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1658
-
-### Performance issues
-
 
 ### Performance issues
 

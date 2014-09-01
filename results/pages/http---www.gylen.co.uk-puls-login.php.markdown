@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gylen.co.uk/puls/login.php
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login Page](http://www.gylen.co.uk/puls/login.php)
 
@@ -29,9 +34,6 @@ title: http://www.gylen.co.uk/puls/login.php
 *  JS Response Bytes: 8266
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3412
-
-### Performance issues
-
 
 ### Performance issues
 

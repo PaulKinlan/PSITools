@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.nihongonoki.com/study/words/ko/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [単語帳メニュー](http://www.nihongonoki.com/study/words/ko/)
 
@@ -29,9 +36,6 @@ title: http://www.nihongonoki.com/study/words/ko/
 *  JS Response Bytes: 1265390
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5187
-
-### Performance issues
-
 
 ### Performance issues
 

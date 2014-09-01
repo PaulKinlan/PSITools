@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://motivarandi.appspot.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Varandi Moti](http://motivarandi.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://motivarandi.appspot.com/
 *  JS Response Bytes: 239156
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

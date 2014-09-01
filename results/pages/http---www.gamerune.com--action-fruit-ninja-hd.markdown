@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamerune.com/-action/fruit-ninja-hd
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fruit Ninja HD - Free Online Games | GameRune](http://www.gamerune.com/-action/fruit-ninja-hd)
 
@@ -29,9 +35,6 @@ title: http://www.gamerune.com/-action/fruit-ninja-hd
 *  JS Response Bytes: 1588310
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112385
-
-### Performance issues
-
 
 ### Performance issues
 

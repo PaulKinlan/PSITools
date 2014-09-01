@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.ferigames.com/candy-crush-saga.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ferigames.Com | Flash Games – Candy Crush Saga](http://www.ferigames.com/candy-crush-saga.html)
 
@@ -29,9 +36,6 @@ title: http://www.ferigames.com/candy-crush-saga.html
 *  JS Response Bytes: 416760
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1071
-
-### Performance issues
-
 
 ### Performance issues
 

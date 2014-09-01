@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://superevilbrain.com/pet-party-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pet Party | Super Evil Brain](http://superevilbrain.com/pet-party-2/)
 
@@ -29,9 +33,6 @@ title: http://superevilbrain.com/pet-party-2/
 *  JS Response Bytes: 1408688
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 176721
-
-### Performance issues
-
 
 ### Performance issues
 

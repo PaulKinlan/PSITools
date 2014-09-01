@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://jump.cx/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [短縮URLならjump.cx | 無料でURLを短縮して転送](http://jump.cx/)
 
@@ -29,9 +33,6 @@ title: http://jump.cx/
 *  JS Response Bytes: 148375
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.chamihost.com/signUp/index?planCode=3a09c67a7a8f12bf8c273d46760c80b611
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sign Up](https://www.chamihost.com/signUp/index?planCode=3a09c67a7a8f12bf8c273d46760c80b611)
 
@@ -29,9 +32,6 @@ title: https://www.chamihost.com/signUp/index?planCode=3a09c67a7a8f12bf8c273d467
 *  JS Response Bytes: 200013
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 350
-
-### Performance issues
-
 
 ### Performance issues
 

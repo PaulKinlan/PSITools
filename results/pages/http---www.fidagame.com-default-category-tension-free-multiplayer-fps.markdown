@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fidagame.com/default-category/tension-free-multiplayer-fps
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TENSION - Free Multiplayer FPS - Fidagame.com](http://www.fidagame.com/default-category/tension-free-multiplayer-fps)
 
@@ -29,9 +34,6 @@ title: http://www.fidagame.com/default-category/tension-free-multiplayer-fps
 *  JS Response Bytes: 2547142
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 107149
-
-### Performance issues
-
 
 ### Performance issues
 

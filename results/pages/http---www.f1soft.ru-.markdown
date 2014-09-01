@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.f1soft.ru/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Программы 1С (1C CRM, Бухгалтерия 8, Управление торговлей). Курсы обучения 1С в Москве, обновление и сопровождение программ 1C от Ф1СОФТ.РУ](http://www.f1soft.ru/)
 
@@ -29,9 +34,6 @@ title: http://www.f1soft.ru/
 *  JS Response Bytes: 927294
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 91859
-
-### Performance issues
-
 
 ### Performance issues
 

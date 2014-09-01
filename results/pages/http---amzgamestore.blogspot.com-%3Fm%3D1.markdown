@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://amzgamestore.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Download Games](http://amzgamestore.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://amzgamestore.blogspot.com/?m=1
 *  JS Response Bytes: 1603529
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98278
-
-### Performance issues
-
 
 ### Performance issues
 

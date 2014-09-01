@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.officewebgames.com/web-store/galactic-tennis.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [- Free Games Online, Free Online Games, Flash Games!](http://www.officewebgames.com/web-store/galactic-tennis.php)
 
@@ -29,9 +35,6 @@ title: http://www.officewebgames.com/web-store/galactic-tennis.php
 *  JS Response Bytes: 1329818
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104892
-
-### Performance issues
-
 
 ### Performance issues
 

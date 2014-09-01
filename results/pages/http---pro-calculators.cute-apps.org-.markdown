@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://pro-calculators.cute-apps.org/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Pro Calculators - More than 350 calculators you'll need](http://pro-calculators.cute-apps.org/)
 
@@ -29,9 +32,6 @@ title: http://pro-calculators.cute-apps.org/
 *  JS Response Bytes: 1826876
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115659
-
-### Performance issues
-
 
 ### Performance issues
 

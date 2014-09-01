@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.myappgames.com/cs-portable.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CS Portable : My APP Games](http://www.myappgames.com/cs-portable.html)
 
@@ -29,9 +37,6 @@ title: http://www.myappgames.com/cs-portable.html
 *  JS Response Bytes: 2077101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125262
-
-### Performance issues
-
 
 ### Performance issues
 

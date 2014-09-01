@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://videochatus.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ChatRoulette - free webcam videochat, anonymous, without registration](http://videochatus.com/)
 
@@ -29,9 +34,6 @@ title: http://videochatus.com/
 *  JS Response Bytes: 1132271
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95753
-
-### Performance issues
-
 
 ### Performance issues
 

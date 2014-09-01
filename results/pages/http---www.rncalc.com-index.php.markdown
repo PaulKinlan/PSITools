@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.rncalc.com/index.php
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nursing Math - Medical Dosage Equations Formulas Calculators Examples Solutions For Nurses](http://www.rncalc.com/index.php)
 
@@ -29,9 +34,6 @@ title: http://www.rncalc.com/index.php
 *  JS Response Bytes: 1110254
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21838
-
-### Performance issues
-
 
 ### Performance issues
 

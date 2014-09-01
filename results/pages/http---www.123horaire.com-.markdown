@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.123horaire.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Horaires des magasins ¤ 123horaires](http://www.123horaire.com/)
 
@@ -29,9 +31,6 @@ title: http://www.123horaire.com/
 *  JS Response Bytes: 841920
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1200
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.newnicegames.com/chrome-category/air-warriors
+SizeTapTargetsAppropriately: true
 ---
 ## [newnicegames.com](http://ww2.newnicegames.com/chrome-category/air-warriors)
 
@@ -29,9 +30,6 @@ title: http://ww2.newnicegames.com/chrome-category/air-warriors
 *  JS Response Bytes: 229920
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21077
-
-### Performance issues
-
 
 ### Performance issues
 

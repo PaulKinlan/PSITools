@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.fnkr.net/tools/ip/?utm_source=chrome-addon&utm_medium=chrome-app&utm_campaign=appstart
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [65.57.245.11](https://www.fnkr.net/tools/ip/?utm_source=chrome-addon&utm_medium=chrome-app&utm_campaign=appstart)
 
@@ -29,9 +32,6 @@ title: https://www.fnkr.net/tools/ip/?utm_source=chrome-addon&utm_medium=chrome-
 *  JS Response Bytes: 134121
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14311
-
-### Performance issues
-
 
 ### Performance issues
 

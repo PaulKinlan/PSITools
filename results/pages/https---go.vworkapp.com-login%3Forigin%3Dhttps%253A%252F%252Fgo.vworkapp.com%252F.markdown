@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://go.vworkapp.com/login?origin=https%3A%2F%2Fgo.vworkapp.com%2F
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [vWorkApp | Painless Job Dispatch Login](https://go.vworkapp.com/login?origin=https%3A%2F%2Fgo.vworkapp.com%2F)
 
@@ -29,9 +32,6 @@ title: https://go.vworkapp.com/login?origin=https%3A%2F%2Fgo.vworkapp.com%2F
 *  JS Response Bytes: 1073407
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 655
-
-### Performance issues
-
 
 ### Performance issues
 

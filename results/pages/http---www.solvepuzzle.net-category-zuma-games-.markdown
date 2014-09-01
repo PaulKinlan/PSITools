@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.solvepuzzle.net/category/zuma-games/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zuma Games](http://www.solvepuzzle.net/category/zuma-games/)
 
@@ -29,9 +35,6 @@ title: http://www.solvepuzzle.net/category/zuma-games/
 *  JS Response Bytes: 2071597
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 152697
-
-### Performance issues
-
 
 ### Performance issues
 

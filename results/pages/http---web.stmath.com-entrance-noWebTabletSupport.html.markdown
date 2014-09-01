@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://web.stmath.com/entrance/noWebTabletSupport.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Mobile Tablets on Browser Not Supported](http://web.stmath.com/entrance/noWebTabletSupport.html)
 
@@ -18,7 +20,7 @@ title: http://web.stmath.com/entrance/noWebTabletSupport.html
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 5
-*  Total Request Bytes: 589
+*  Total Request Bytes: 597
 
 ### Response data
 
@@ -29,9 +31,6 @@ title: http://web.stmath.com/entrance/noWebTabletSupport.html
 *  JS Response Bytes: 29228
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 75
-
-### Performance issues
-
 
 ### Performance issues
 

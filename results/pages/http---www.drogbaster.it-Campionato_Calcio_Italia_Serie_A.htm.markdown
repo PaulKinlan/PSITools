@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.drogbaster.it/Campionato_Calcio_Italia_Serie_A.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [▷ Campionato Italiano di Calcio di Serie A](http://www.drogbaster.it/Campionato_Calcio_Italia_Serie_A.htm)
 
@@ -29,9 +33,6 @@ title: http://www.drogbaster.it/Campionato_Calcio_Italia_Serie_A.htm
 *  JS Response Bytes: 2727853
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125862
-
-### Performance issues
-
 
 ### Performance issues
 

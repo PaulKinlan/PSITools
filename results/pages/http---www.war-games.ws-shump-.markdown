@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.war-games.ws/shump/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shump](http://www.war-games.ws/shump/)
 
@@ -29,9 +36,6 @@ title: http://www.war-games.ws/shump/
 *  JS Response Bytes: 2260245
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102136
-
-### Performance issues
-
 
 ### Performance issues
 

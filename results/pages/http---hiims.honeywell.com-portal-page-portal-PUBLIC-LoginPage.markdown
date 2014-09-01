@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://hiims.honeywell.com/portal/page/portal/PUBLIC/LoginPage
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome - Honeywell Portal](http://hiims.honeywell.com/portal/page/portal/PUBLIC/LoginPage)
 
@@ -29,9 +34,6 @@ title: http://hiims.honeywell.com/portal/page/portal/PUBLIC/LoginPage
 *  JS Response Bytes: 75473
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3385
-
-### Performance issues
-
 
 ### Performance issues
 

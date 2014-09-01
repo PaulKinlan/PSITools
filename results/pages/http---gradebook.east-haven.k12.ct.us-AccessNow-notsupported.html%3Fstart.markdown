@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gradebook.east-haven.k12.ct.us/AccessNow/notsupported.html?start
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [](http://gradebook.east-haven.k12.ct.us/AccessNow/notsupported.html?start)
 
@@ -29,9 +33,6 @@ title: http://gradebook.east-haven.k12.ct.us/AccessNow/notsupported.html?start
 *  JS Response Bytes: 236984
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 493
-
-### Performance issues
-
 
 ### Performance issues
 

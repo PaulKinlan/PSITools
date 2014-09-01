@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.3ppp3.ch/admin/login.php?url=%2Fadmin%2FPIDA%2Fwarehouse
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login Page](http://www.3ppp3.ch/admin/login.php?url=%2Fadmin%2FPIDA%2Fwarehouse)
 
@@ -29,9 +32,6 @@ title: http://www.3ppp3.ch/admin/login.php?url=%2Fadmin%2FPIDA%2Fwarehouse
 *  JS Response Bytes: 1122800
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5155
-
-### Performance issues
-
 
 ### Performance issues
 

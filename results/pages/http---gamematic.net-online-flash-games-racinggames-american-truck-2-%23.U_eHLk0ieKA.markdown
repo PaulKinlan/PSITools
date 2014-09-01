@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/racinggames/american-truck-2/#.U_eHLk0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [American Truck 2 « Online Flash Game American Truck 2](http://gamematic.net/online-flash-games/racinggames/american-truck-2/#.U_eHLk0ieKA)
 
@@ -29,9 +37,6 @@ title: http://gamematic.net/online-flash-games/racinggames/american-truck-2/#.U_
 *  JS Response Bytes: 1271480
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 62908
-
-### Performance issues
-
 
 ### Performance issues
 

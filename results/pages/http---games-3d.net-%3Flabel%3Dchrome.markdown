@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://games-3d.net/?label=chrome
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games-3D.net | Games 3D](http://games-3d.net/?label=chrome)
 
@@ -29,9 +35,6 @@ title: http://games-3d.net/?label=chrome
 *  JS Response Bytes: 2062852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 139331
-
-### Performance issues
-
 
 ### Performance issues
 

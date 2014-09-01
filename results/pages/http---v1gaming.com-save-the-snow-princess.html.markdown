@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://v1gaming.com/save-the-snow-princess.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [V1Gaming.Com – Save The Snow Princess](http://v1gaming.com/save-the-snow-princess.html)
 
@@ -29,9 +35,6 @@ title: http://v1gaming.com/save-the-snow-princess.html
 *  JS Response Bytes: 511674
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35039
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.levisgame.com/default-category/sniper-omoh
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sniper OMOH - LeViSGaMe](http://www.levisgame.com/default-category/sniper-omoh)
 
@@ -29,9 +34,6 @@ title: http://www.levisgame.com/default-category/sniper-omoh
 *  JS Response Bytes: 2096100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99704
-
-### Performance issues
-
 
 ### Performance issues
 

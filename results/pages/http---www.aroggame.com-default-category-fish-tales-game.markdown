@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.aroggame.com/default-category/fish-tales-game
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fish Tales Game - Aroggame.com](http://www.aroggame.com/default-category/fish-tales-game)
 
@@ -29,9 +34,6 @@ title: http://www.aroggame.com/default-category/fish-tales-game
 *  JS Response Bytes: 2194820
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118942
-
-### Performance issues
-
 
 ### Performance issues
 

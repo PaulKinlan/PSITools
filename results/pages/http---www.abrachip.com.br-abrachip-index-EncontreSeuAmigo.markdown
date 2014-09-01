@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.abrachip.com.br/abrachip/index/EncontreSeuAmigo
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [#EncontreSeuAmigo](http://www.abrachip.com.br/abrachip/index/EncontreSeuAmigo)
 
@@ -29,9 +35,6 @@ title: http://www.abrachip.com.br/abrachip/index/EncontreSeuAmigo
 *  JS Response Bytes: 1009384
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26200
-
-### Performance issues
-
 
 ### Performance issues
 

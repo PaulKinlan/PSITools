@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://packaging-central.com/shop/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Packaging Central - Stretch Wrap, Tape, 3M, Poly Strapping](http://packaging-central.com/shop/)
 
@@ -29,9 +32,6 @@ title: http://packaging-central.com/shop/
 *  JS Response Bytes: 492729
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2616
-
-### Performance issues
-
 
 ### Performance issues
 

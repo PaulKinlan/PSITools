@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://iphoneandroiddeveloper.com/demo/coconut/
+EnableGzipCompression: true
 ---
 ## [](http://iphoneandroiddeveloper.com/demo/coconut/)
 
@@ -29,9 +30,6 @@ title: http://iphoneandroiddeveloper.com/demo/coconut/
 *  JS Response Bytes: 464613
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7158
-
-### Performance issues
-
 
 ### Performance issues
 

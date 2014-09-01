@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.nexus-wallpaper.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Nexus Wallpapers - Wallpapers for the Nexus 4, Nexus 5, Nexus 7 and Nexus 10](http://www.nexus-wallpaper.com/)
 
@@ -29,9 +33,6 @@ title: http://www.nexus-wallpaper.com/
 *  JS Response Bytes: 628823
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

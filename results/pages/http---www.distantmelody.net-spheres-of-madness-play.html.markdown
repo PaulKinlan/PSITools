@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.distantmelody.net/spheres-of-madness/play.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Spheres of Madness](http://www.distantmelody.net/spheres-of-madness/play.html)
 
@@ -29,9 +33,6 @@ title: http://www.distantmelody.net/spheres-of-madness/play.html
 *  JS Response Bytes: 1312689
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110182
-
-### Performance issues
-
 
 ### Performance issues
 

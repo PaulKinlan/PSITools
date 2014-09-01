@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.drogbaster.it/tiger.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Virtual Pets Tigre animazione flash interattiva](http://www.drogbaster.it/tiger.htm)
 
@@ -29,9 +34,6 @@ title: http://www.drogbaster.it/tiger.htm
 *  JS Response Bytes: 1971944
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 129841
-
-### Performance issues
-
 
 ### Performance issues
 

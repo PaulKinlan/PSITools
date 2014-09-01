@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://hanagamelog.blogspot.com/2014/07/carrot-fantasy-extreme-2.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hana GameLog: Carrot Fantasy Extreme 2](http://hanagamelog.blogspot.com/2014/07/carrot-fantasy-extreme-2.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://hanagamelog.blogspot.com/2014/07/carrot-fantasy-extreme-2.html?m=1
 *  JS Response Bytes: 681289
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3037
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.chinatravelpro.com/?referer=chrome
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [China Travel and Tour Affiliate, Travel affiliate program](http://www.chinatravelpro.com/?referer=chrome)
 
@@ -29,9 +32,6 @@ title: http://www.chinatravelpro.com/?referer=chrome
 *  JS Response Bytes: 165035
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

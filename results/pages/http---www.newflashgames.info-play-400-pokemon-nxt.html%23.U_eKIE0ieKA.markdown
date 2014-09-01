@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.newflashgames.info/play/400/pokemon-nxt.html#.U_eKIE0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pokemon NXT - New Flash Games - Best Free Online Flash Games](http://www.newflashgames.info/play/400/pokemon-nxt.html#.U_eKIE0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.newflashgames.info/play/400/pokemon-nxt.html#.U_eKIE0ieKA
 *  JS Response Bytes: 1512479
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21373
-
-### Performance issues
-
 
 ### Performance issues
 

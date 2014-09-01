@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.fi-magazine.com/?utm_campaign=Google-Chrome-Web-App&utm_source=chrome-web-app&utm_medium=chrome-web-app
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [F&I Magazine - The Industry's Leading Source For F&I, Sales, And Technology](http://m.fi-magazine.com/?utm_campaign=Google-Chrome-Web-App&utm_source=chrome-web-app&utm_medium=chrome-web-app)
 
@@ -29,9 +31,6 @@ title: http://m.fi-magazine.com/?utm_campaign=Google-Chrome-Web-App&utm_source=c
 *  JS Response Bytes: 402075
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 562
-
-### Performance issues
-
 
 ### Performance issues
 

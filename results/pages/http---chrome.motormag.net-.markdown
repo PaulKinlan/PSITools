@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chrome.motormag.net/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Motor Magazine about Driving, Automotive, Cars, Motorcycles Motor Mag](http://chrome.motormag.net/)
 
@@ -29,9 +33,6 @@ title: http://chrome.motormag.net/
 *  JS Response Bytes: 167429
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 933
-
-### Performance issues
-
 
 ### Performance issues
 

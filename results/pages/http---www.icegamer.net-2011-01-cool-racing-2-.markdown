@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.icegamer.net/2011/01/cool-racing-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Cool Racing 2 Game on IceGamer](http://www.icegamer.net/2011/01/cool-racing-2/)
 
@@ -29,9 +33,6 @@ title: http://www.icegamer.net/2011/01/cool-racing-2/
 *  JS Response Bytes: 2198743
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 152520
-
-### Performance issues
-
 
 ### Performance issues
 

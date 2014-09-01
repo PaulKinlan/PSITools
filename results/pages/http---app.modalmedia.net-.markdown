@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://app.modalmedia.net/
+UseLegibleFontSizes: true
 ---
 ## [](http://app.modalmedia.net/)
 
@@ -29,9 +30,6 @@ title: http://app.modalmedia.net/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

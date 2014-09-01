@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/celebrity-match/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Celebrity Match game](http://www.surgery-games.org/celebrity-match/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/celebrity-match/
 *  JS Response Bytes: 2499899
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124930
-
-### Performance issues
-
 
 ### Performance issues
 

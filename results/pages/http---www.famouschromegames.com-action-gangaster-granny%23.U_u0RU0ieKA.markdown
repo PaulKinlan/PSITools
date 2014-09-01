@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.famouschromegames.com/action/gangaster-granny#.U_u0RU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gangaster Granny - famouschromegames](http://www.famouschromegames.com/action/gangaster-granny#.U_u0RU0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.famouschromegames.com/action/gangaster-granny#.U_u0RU0ieKA
 *  JS Response Bytes: 1529234
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30152
-
-### Performance issues
-
 
 ### Performance issues
 

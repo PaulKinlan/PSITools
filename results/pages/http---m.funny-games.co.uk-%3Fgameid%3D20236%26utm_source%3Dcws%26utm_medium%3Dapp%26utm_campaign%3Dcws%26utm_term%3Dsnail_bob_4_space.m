@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.funny-games.co.uk/?gameid=20236&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=snail_bob_4_space
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funny-games.co.uk/?gameid=20236&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=snail_bob_4_space)
 
@@ -29,9 +33,6 @@ title: http://m.funny-games.co.uk/?gameid=20236&utm_source=cws&utm_medium=app&ut
 *  JS Response Bytes: 1266600
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28433
-
-### Performance issues
-
 
 ### Performance issues
 

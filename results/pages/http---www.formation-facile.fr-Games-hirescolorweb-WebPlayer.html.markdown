@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.formation-facile.fr/Games/hirescolorweb/WebPlayer.html
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.formation-facile.fr/Games/hirescolorweb/WebPlayer.html)
 
@@ -29,9 +31,6 @@ title: http://www.formation-facile.fr/Games/hirescolorweb/WebPlayer.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1100
-
-### Performance issues
-
 
 ### Performance issues
 

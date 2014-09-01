@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://quarinos.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [Quarinos | Creativity nebulae](http://quarinos.com/)
 
@@ -29,9 +32,6 @@ title: http://quarinos.com/
 *  JS Response Bytes: 862752
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

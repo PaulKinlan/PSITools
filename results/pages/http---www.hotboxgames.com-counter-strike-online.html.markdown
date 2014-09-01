@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.hotboxgames.com/counter-strike-online.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Counter Strike Online | Hot Box Games](http://www.hotboxgames.com/counter-strike-online.html)
 
@@ -29,9 +37,6 @@ title: http://www.hotboxgames.com/counter-strike-online.html
 *  JS Response Bytes: 1530077
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115961
-
-### Performance issues
-
 
 ### Performance issues
 

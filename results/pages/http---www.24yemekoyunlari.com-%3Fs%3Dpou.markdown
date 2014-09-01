@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.24yemekoyunlari.com/?s=pou
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [pou – Search Results – Online Best Games](http://www.24yemekoyunlari.com/?s=pou)
 
@@ -29,9 +33,6 @@ title: http://www.24yemekoyunlari.com/?s=pou
 *  JS Response Bytes: 554280
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

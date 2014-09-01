@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.livemans.com/bubble/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bubble World](http://www.livemans.com/bubble/)
 
@@ -29,9 +32,6 @@ title: http://www.livemans.com/bubble/
 *  JS Response Bytes: 605223
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 37041
-
-### Performance issues
-
 
 ### Performance issues
 

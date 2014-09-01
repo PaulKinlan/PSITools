@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/earth-defender/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Earth defender](http://www.war-games.ws/earth-defender/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/earth-defender/
 *  JS Response Bytes: 2292888
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120594
-
-### Performance issues
-
 
 ### Performance issues
 

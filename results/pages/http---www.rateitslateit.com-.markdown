@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.rateitslateit.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Discover &amp; Discuss the latest trends | Rate it Slate it](http://www.rateitslateit.com/)
 
@@ -29,9 +31,6 @@ title: http://www.rateitslateit.com/
 *  JS Response Bytes: 605183
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1703
-
-### Performance issues
-
 
 ### Performance issues
 

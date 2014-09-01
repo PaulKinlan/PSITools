@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://tvnewsstreams.com/?chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TV News Streams](http://tvnewsstreams.com/?chrome)
 
@@ -29,9 +34,6 @@ title: http://tvnewsstreams.com/?chrome
 *  JS Response Bytes: 146503
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 458
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.enjoysudoku.com/webplay/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Web Enjoy Sudoku](http://www.enjoysudoku.com/webplay/)
 
@@ -29,9 +33,6 @@ title: http://www.enjoysudoku.com/webplay/
 *  JS Response Bytes: 79094
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

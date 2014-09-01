@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://speedtest.chromeapps.info/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Chromeapps.info](http://speedtest.chromeapps.info/)
 
@@ -29,9 +34,6 @@ title: http://speedtest.chromeapps.info/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

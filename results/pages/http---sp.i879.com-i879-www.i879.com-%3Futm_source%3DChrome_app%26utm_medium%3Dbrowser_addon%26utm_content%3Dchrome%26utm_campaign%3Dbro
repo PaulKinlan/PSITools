@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://sp.i879.com/i879/www.i879.com/?utm_source=Chrome_app&utm_medium=browser_addon&utm_content=chrome&utm_campaign=browser_addon&x%2Bxcookie=on
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ケータイde花キューピット フラワーギフトの通販・宅配は花キューピット。贈り物・プレゼントで花を贈ろう](http://sp.i879.com/i879/www.i879.com/?utm_source=Chrome_app&utm_medium=browser_addon&utm_content=chrome&utm_campaign=browser_addon&x%2Bxcookie=on)
 
@@ -29,9 +35,6 @@ title: http://sp.i879.com/i879/www.i879.com/?utm_source=Chrome_app&utm_medium=br
 *  JS Response Bytes: 518110
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3586
-
-### Performance issues
-
 
 ### Performance issues
 

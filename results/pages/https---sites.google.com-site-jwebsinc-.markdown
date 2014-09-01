@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sites.google.com/site/jwebsinc/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [JWebs, Inc.](https://sites.google.com/site/jwebsinc/)
 
@@ -29,9 +32,6 @@ title: https://sites.google.com/site/jwebsinc/
 *  JS Response Bytes: 412694
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50494
-
-### Performance issues
-
 
 ### Performance issues
 

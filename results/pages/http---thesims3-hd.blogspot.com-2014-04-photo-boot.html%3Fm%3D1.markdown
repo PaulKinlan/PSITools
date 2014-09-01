@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://thesims3-hd.blogspot.com/2014/04/photo-boot.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [the sims game: photo boot](http://thesims3-hd.blogspot.com/2014/04/photo-boot.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://thesims3-hd.blogspot.com/2014/04/photo-boot.html?m=1
 *  JS Response Bytes: 720899
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96759
-
-### Performance issues
-
 
 ### Performance issues
 

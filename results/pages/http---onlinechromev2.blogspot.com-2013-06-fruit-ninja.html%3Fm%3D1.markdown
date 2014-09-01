@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://onlinechromev2.blogspot.com/2013/06/fruit-ninja.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [Online Chrome v2: Fruit Ninja](http://onlinechromev2.blogspot.com/2013/06/fruit-ninja.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://onlinechromev2.blogspot.com/2013/06/fruit-ninja.html?m=1
 *  JS Response Bytes: 1067945
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97985
-
-### Performance issues
-
 
 ### Performance issues
 

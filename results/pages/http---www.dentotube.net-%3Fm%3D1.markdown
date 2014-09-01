@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.dentotube.net/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DENTO TUBE](http://www.dentotube.net/?m=1)
 
@@ -29,9 +32,6 @@ title: http://www.dentotube.net/?m=1
 *  JS Response Bytes: 1333100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 302850
-
-### Performance issues
-
 
 ### Performance issues
 

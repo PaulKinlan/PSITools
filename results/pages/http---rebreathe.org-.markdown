@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://rebreathe.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Rebreathe.org | A Blog By Joshua Nicholson](http://rebreathe.org/)
 
@@ -29,9 +32,6 @@ title: http://rebreathe.org/
 *  JS Response Bytes: 1068719
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 162338
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameflare.com/online-game/epic-battle-fantasy-4/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Epic Battle Fantasy 4 - online game | GameFlare.com](http://www.gameflare.com/online-game/epic-battle-fantasy-4/)
 
@@ -29,9 +34,6 @@ title: http://www.gameflare.com/online-game/epic-battle-fantasy-4/
 *  JS Response Bytes: 2139470
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 291164
-
-### Performance issues
-
 
 ### Performance issues
 

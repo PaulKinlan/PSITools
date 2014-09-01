@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.thefacefits.com/index.php
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Face Fits - Can you see the real me?](http://www.thefacefits.com/index.php)
 
@@ -29,9 +33,6 @@ title: http://www.thefacefits.com/index.php
 *  JS Response Bytes: 1175131
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44503
-
-### Performance issues
-
 
 ### Performance issues
 

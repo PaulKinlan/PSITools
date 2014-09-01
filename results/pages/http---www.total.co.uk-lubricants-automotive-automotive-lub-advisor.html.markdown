@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.total.co.uk/lubricants-automotive/automotive/lub-advisor.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lub Advisor - Total UK](http://www.total.co.uk/lubricants-automotive/automotive/lub-advisor.html)
 
@@ -29,9 +34,6 @@ title: http://www.total.co.uk/lubricants-automotive/automotive/lub-advisor.html
 *  JS Response Bytes: 584762
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 639
-
-### Performance issues
-
 
 ### Performance issues
 

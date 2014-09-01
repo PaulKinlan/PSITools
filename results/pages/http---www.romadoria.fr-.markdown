@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.romadoria.fr/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Romadoria - Jeu de stratégie - Guerres Romaines](http://www.romadoria.fr/)
 
@@ -29,9 +34,6 @@ title: http://www.romadoria.fr/
 *  JS Response Bytes: 275447
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1399
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://transport.mylab.fr/csp/accueil/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Accueil MPL Colis](https://transport.mylab.fr/csp/accueil/index.html)
 
@@ -29,9 +33,6 @@ title: https://transport.mylab.fr/csp/accueil/index.html
 *  JS Response Bytes: 93862
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.dice2d.com/ten-thousand.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dice2D.com - Ten Thousand Free Online Dice Game](http://www.dice2d.com/ten-thousand.html)
 
@@ -29,9 +34,6 @@ title: http://www.dice2d.com/ten-thousand.html
 *  JS Response Bytes: 425667
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

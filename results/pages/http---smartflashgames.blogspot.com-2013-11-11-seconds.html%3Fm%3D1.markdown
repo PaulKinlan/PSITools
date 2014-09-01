@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://smartflashgames.blogspot.com/2013/11/11-seconds.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Smart Flash Games: 11 Seconds](http://smartflashgames.blogspot.com/2013/11/11-seconds.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://smartflashgames.blogspot.com/2013/11/11-seconds.html?m=1
 *  JS Response Bytes: 1509115
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111591
-
-### Performance issues
-
 
 ### Performance issues
 

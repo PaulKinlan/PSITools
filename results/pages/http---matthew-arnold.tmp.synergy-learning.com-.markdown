@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://matthew-arnold.tmp.synergy-learning.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Matthew Arnold School](http://matthew-arnold.tmp.synergy-learning.com/)
 
@@ -29,9 +32,6 @@ title: http://matthew-arnold.tmp.synergy-learning.com/
 *  JS Response Bytes: 343920
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 456
-
-### Performance issues
-
 
 ### Performance issues
 

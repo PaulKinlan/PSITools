@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.cloze.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cloze - Apps to connect with the people that matter most](https://www.cloze.com/)
 
@@ -29,9 +33,6 @@ title: https://www.cloze.com/
 *  JS Response Bytes: 253918
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 817
-
-### Performance issues
-
 
 ### Performance issues
 

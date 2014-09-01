@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/epic-defense-battles/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Epic Tower Defense](http://www.war-games.ws/epic-defense-battles/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/epic-defense-battles/
 *  JS Response Bytes: 2148573
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121520
-
-### Performance issues
-
 
 ### Performance issues
 

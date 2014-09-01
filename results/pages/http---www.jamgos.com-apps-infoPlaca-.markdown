@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.jamgos.com/apps/infoPlaca/
+UseLegibleFontSizes: true
 ---
 ## [500 Internal Server Error](http://www.jamgos.com/apps/infoPlaca/)
 
@@ -29,9 +30,6 @@ title: http://www.jamgos.com/apps/infoPlaca/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 838
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://godinallthings.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [God In All Things | Discernment. Attention. Ignatian.](http://godinallthings.com/)
 
@@ -29,9 +32,6 @@ title: http://godinallthings.com/
 *  JS Response Bytes: 886276
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29389
-
-### Performance issues
-
 
 ### Performance issues
 

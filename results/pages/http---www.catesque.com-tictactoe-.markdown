@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.catesque.com/tictactoe/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://www.catesque.com/tictactoe/)
 
@@ -29,9 +30,6 @@ title: http://www.catesque.com/tictactoe/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 576
-
-### Performance issues
-
 
 ### Performance issues
 

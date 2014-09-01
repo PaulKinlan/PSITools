@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.gamefoks.com/cut-the-rope-2/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://www.gamefoks.com/cut-the-rope-2/)
 
@@ -29,9 +31,6 @@ title: http://www.gamefoks.com/cut-the-rope-2/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1399
-
-### Performance issues
-
 
 ### Performance issues
 

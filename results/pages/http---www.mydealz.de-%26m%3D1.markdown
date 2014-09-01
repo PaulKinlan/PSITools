@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mydealz.de/&m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Seite nicht gefunden - myDealZ.de](http://www.mydealz.de/&m=1)
 
@@ -29,9 +32,6 @@ title: http://www.mydealz.de/&m=1
 *  JS Response Bytes: 541355
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61037
-
-### Performance issues
-
 
 ### Performance issues
 

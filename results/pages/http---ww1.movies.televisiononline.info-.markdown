@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww1.movies.televisiononline.info/
+MinimizeRenderBlockingResources: true
 ---
 ## [televisiononline.info - televisiononline Resources and Information.](http://ww1.movies.televisiononline.info/)
 
@@ -29,9 +30,6 @@ title: http://ww1.movies.televisiononline.info/
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 223
-
-### Performance issues
-
 
 ### Performance issues
 

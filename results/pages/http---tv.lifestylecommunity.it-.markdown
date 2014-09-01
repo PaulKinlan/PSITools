@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://tv.lifestylecommunity.it/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Life Style TV](http://tv.lifestylecommunity.it/)
 
@@ -29,9 +31,6 @@ title: http://tv.lifestylecommunity.it/
 *  JS Response Bytes: 153436
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 130534
-
-### Performance issues
-
 
 ### Performance issues
 

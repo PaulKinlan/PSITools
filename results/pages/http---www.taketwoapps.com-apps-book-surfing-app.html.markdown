@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.taketwoapps.com/apps/book/surfing/app.html
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Waves and Babes](http://www.taketwoapps.com/apps/book/surfing/app.html)
 
@@ -29,9 +31,6 @@ title: http://www.taketwoapps.com/apps/book/surfing/app.html
 *  JS Response Bytes: 40462
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

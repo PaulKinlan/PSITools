@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.eqela.com/apps/moneyrush/html/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Money Rush](http://www.eqela.com/apps/moneyrush/html/)
 
@@ -29,9 +32,6 @@ title: http://www.eqela.com/apps/moneyrush/html/
 *  JS Response Bytes: 1422896
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

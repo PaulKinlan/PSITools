@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://win.ly/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Win Prizes - Sweepstakes and Instant Wins with the best odds to win](http://win.ly/)
 
@@ -29,9 +34,6 @@ title: http://win.ly/
 *  JS Response Bytes: 1576661
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23674
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.dirama.eu/camera_upload/webapp/login.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [DiRAMa Survey Web Login](http://www.dirama.eu/camera_upload/webapp/login.html)
 
@@ -29,9 +31,6 @@ title: http://www.dirama.eu/camera_upload/webapp/login.html
 *  JS Response Bytes: 115963
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 455
-
-### Performance issues
-
 
 ### Performance issues
 

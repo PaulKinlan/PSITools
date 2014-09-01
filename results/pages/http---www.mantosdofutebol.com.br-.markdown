@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mantosdofutebol.com.br/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mantos do Futebol - Paixão por camisas de futebolMantos do Futebol | Paixão por camisas de futebol](http://www.mantosdofutebol.com.br/)
 
@@ -29,9 +32,6 @@ title: http://www.mantosdofutebol.com.br/
 *  JS Response Bytes: 123229
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

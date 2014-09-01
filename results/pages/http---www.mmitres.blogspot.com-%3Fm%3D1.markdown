@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.mmitres.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Myanmar IT Resources](http://www.mmitres.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://www.mmitres.blogspot.com/?m=1
 *  JS Response Bytes: 243194
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 562
-
-### Performance issues
-
 
 ### Performance issues
 

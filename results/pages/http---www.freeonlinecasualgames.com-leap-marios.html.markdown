@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeonlinecasualgames.com/leap-marios.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Leap Marios | Free Online Casual Games](http://www.freeonlinecasualgames.com/leap-marios.html)
 
@@ -29,9 +34,6 @@ title: http://www.freeonlinecasualgames.com/leap-marios.html
 *  JS Response Bytes: 1051730
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16635
-
-### Performance issues
-
 
 ### Performance issues
 

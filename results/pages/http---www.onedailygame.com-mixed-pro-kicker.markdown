@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.onedailygame.com/mixed/pro-kicker
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pro Kicker - OneDailyGame](http://www.onedailygame.com/mixed/pro-kicker)
 
@@ -29,9 +33,6 @@ title: http://www.onedailygame.com/mixed/pro-kicker
 *  JS Response Bytes: 1697056
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 37701
-
-### Performance issues
-
 
 ### Performance issues
 

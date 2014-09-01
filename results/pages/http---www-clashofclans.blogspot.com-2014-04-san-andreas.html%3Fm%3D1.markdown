@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www-clashofclans.blogspot.com/2014/04/san-andreas.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Online games: San Andreas](http://www-clashofclans.blogspot.com/2014/04/san-andreas.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://www-clashofclans.blogspot.com/2014/04/san-andreas.html?m=1
 *  JS Response Bytes: 1190415
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99214
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -33,8 +33,5 @@ title: http://apps.mcr2.k12.mo.us/apps.html
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.whiskyapp.nl/mobile/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Whisky App](http://www.whiskyapp.nl/mobile/)
 
@@ -29,9 +32,6 @@ title: http://www.whiskyapp.nl/mobile/
 *  JS Response Bytes: 627039
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 602
-
-### Performance issues
-
 
 ### Performance issues
 

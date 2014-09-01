@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.brainpop.com/about/mobile/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://www.brainpop.com/about/mobile/)
 
@@ -29,9 +31,6 @@ title: http://www.brainpop.com/about/mobile/
 *  JS Response Bytes: 307024
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 539
-
-### Performance issues
-
 
 ### Performance issues
 

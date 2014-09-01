@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.daypo.fr/creer.php
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Creer Test](http://www.daypo.fr/creer.php)
 
@@ -29,9 +32,6 @@ title: http://www.daypo.fr/creer.php
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 639
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://onangames.com/subway-surfers.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [OnanGames.Com | Flash Game | Flash Games – Subway Surfers](http://onangames.com/subway-surfers.html)
 
@@ -29,9 +36,6 @@ title: http://onangames.com/subway-surfers.html
 *  JS Response Bytes: 412704
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1155
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://ravenmarch-mmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play RavenMarch Online](http://ravenmarch-mmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://ravenmarch-mmo.appspot.com/
 *  JS Response Bytes: 921658
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47123
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://go.appsforcommoncore.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://go.appsforcommoncore.com/)
 
@@ -29,9 +32,6 @@ title: http://go.appsforcommoncore.com/
 *  JS Response Bytes: 486328
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

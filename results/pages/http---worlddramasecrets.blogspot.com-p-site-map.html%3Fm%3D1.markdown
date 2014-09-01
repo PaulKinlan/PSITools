@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://worlddramasecrets.blogspot.com/p/site-map.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [A Spiritual Journey: Site Map](http://worlddramasecrets.blogspot.com/p/site-map.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://worlddramasecrets.blogspot.com/p/site-map.html?m=1
 *  JS Response Bytes: 762264
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95570
-
-### Performance issues
-
 
 ### Performance issues
 

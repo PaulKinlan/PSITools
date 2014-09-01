@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://tiltview.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Watch current news - TiltView.com](http://tiltview.com/)
 
@@ -29,9 +34,6 @@ title: http://tiltview.com/
 *  JS Response Bytes: 571845
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 555
-
-### Performance issues
-
 
 ### Performance issues
 

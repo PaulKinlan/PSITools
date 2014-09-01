@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://wan.renren.com/web/lstx/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [乱世天下|次世代三国|IOS乱世天下|乱世天下官方网站--人人游戏](http://wan.renren.com/web/lstx/)
 
@@ -29,9 +36,6 @@ title: http://wan.renren.com/web/lstx/
 *  JS Response Bytes: 173500
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1479
-
-### Performance issues
-
 
 ### Performance issues
 

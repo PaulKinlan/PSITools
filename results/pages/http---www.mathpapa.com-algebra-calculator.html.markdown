@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mathpapa.com/algebra-calculator.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Algebra Calculator - MathPapa](http://www.mathpapa.com/algebra-calculator.html)
 
@@ -29,9 +32,6 @@ title: http://www.mathpapa.com/algebra-calculator.html
 *  JS Response Bytes: 2002164
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105157
-
-### Performance issues
-
 
 ### Performance issues
 

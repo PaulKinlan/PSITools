@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://webs.fm/kladblok?chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Webs.fm || Homepage || The internet starts here](http://webs.fm/kladblok?chrome)
 
@@ -29,9 +33,6 @@ title: http://webs.fm/kladblok?chrome
 *  JS Response Bytes: 106919
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 64881
-
-### Performance issues
-
 
 ### Performance issues
 

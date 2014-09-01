@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.humourtop.com/accueil/index.html#.U_u1DE0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HumourTop site humour. Photos humour insolites, images comiques bizarres, gifs animés drôles gratuits, photographies rigolotes inédites, gags rigolos idiots, blagues débiles, humour noir méchant, diaporamas humour, buzz humour](http://www.humourtop.com/accueil/index.html#.U_u1DE0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.humourtop.com/accueil/index.html#.U_u1DE0ieKA
 *  JS Response Bytes: 3205388
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 314197
-
-### Performance issues
-
 
 ### Performance issues
 

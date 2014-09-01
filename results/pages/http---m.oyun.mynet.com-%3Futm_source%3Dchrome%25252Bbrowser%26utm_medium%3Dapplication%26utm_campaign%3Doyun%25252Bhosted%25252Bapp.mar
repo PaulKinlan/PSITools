@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://m.oyun.mynet.com/?utm_source=chrome%252Bbrowser&utm_medium=application&utm_campaign=oyun%252Bhosted%252Bapp
+MinimizeRenderBlockingResources: true
 ---
 ## [MYNET MOBİL OYUN](http://m.oyun.mynet.com/?utm_source=chrome%252Bbrowser&utm_medium=application&utm_campaign=oyun%252Bhosted%252Bapp)
 
@@ -29,9 +30,6 @@ title: http://m.oyun.mynet.com/?utm_source=chrome%252Bbrowser&utm_medium=applica
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 711
-
-### Performance issues
-
 
 ### Performance issues
 

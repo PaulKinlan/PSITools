@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.middiamonds.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Wholesale EGL, GIA & HRD Certified Loose & Fancy Colored Diamonds](http://www.middiamonds.com/)
 
@@ -29,9 +33,6 @@ title: http://www.middiamonds.com/
 *  JS Response Bytes: 2552069
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1375
-
-### Performance issues
-
 
 ### Performance issues
 

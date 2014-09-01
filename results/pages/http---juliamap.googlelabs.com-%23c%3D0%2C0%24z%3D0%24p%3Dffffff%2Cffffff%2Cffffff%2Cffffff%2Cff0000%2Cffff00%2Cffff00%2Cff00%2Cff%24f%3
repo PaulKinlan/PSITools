@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://juliamap.googlelabs.com/#c=0,0$z=0$p=ffffff,ffffff,ffffff,ffffff,ff0000,ffff00,ffff00,ff00,ff$f=mandelbrot
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Julia Map](http://juliamap.googlelabs.com/#c=0,0$z=0$p=ffffff,ffffff,ffffff,ffffff,ff0000,ffff00,ffff00,ff00,ff$f=mandelbrot)
 
@@ -29,9 +31,6 @@ title: http://juliamap.googlelabs.com/#c=0,0$z=0$p=ffffff,ffffff,ffffff,ffffff,f
 *  JS Response Bytes: 399506
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53052
-
-### Performance issues
-
 
 ### Performance issues
 

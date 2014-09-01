@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://launchlist.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Launchlist Pro - The ultimate website checklist application.](http://launchlist.net/)
 
@@ -29,9 +34,6 @@ title: http://launchlist.net/
 *  JS Response Bytes: 160643
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

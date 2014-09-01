@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.showwall.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Showwall：桌布下載、歌詞及 MV 集中營](http://www.showwall.com/)
 
@@ -29,9 +34,6 @@ title: http://www.showwall.com/
 *  JS Response Bytes: 1096948
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97620
-
-### Performance issues
-
 
 ### Performance issues
 

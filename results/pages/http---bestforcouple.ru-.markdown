@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://bestforcouple.ru/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Свадебное агентство | Организация свадеб в Москве под ключ](http://bestforcouple.ru/)
 
@@ -29,9 +33,6 @@ title: http://bestforcouple.ru/
 *  JS Response Bytes: 318256
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1172
-
-### Performance issues
-
 
 ### Performance issues
 

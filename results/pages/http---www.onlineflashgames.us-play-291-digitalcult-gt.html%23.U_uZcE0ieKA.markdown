@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.onlineflashgames.us/play/291/digitalcult-gt.html#.U_uZcE0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DigitalCult GT - Online Flash Games](http://www.onlineflashgames.us/play/291/digitalcult-gt.html#.U_uZcE0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.onlineflashgames.us/play/291/digitalcult-gt.html#.U_uZcE0ieKA
 *  JS Response Bytes: 1497399
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14842
-
-### Performance issues
-
 
 ### Performance issues
 

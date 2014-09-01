@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.meetale.com/google_chrome_app/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Oggetto non trovato!](http://www.meetale.com/google_chrome_app/)
 
@@ -29,9 +31,6 @@ title: http://www.meetale.com/google_chrome_app/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1376
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://kpirek.pl/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Księgowość internetowa / online. Biuro rachunkowe za darmo!](https://kpirek.pl/)
 
@@ -29,9 +32,6 @@ title: https://kpirek.pl/
 *  JS Response Bytes: 439986
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

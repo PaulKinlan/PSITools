@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/actiongames/stickman-rush/#.U_eK8k0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stickman Rush « Online Flash Game Stickman Rush](http://gamematic.net/online-flash-games/actiongames/stickman-rush/#.U_eK8k0ieKA)
 
@@ -29,9 +37,6 @@ title: http://gamematic.net/online-flash-games/actiongames/stickman-rush/#.U_eK8
 *  JS Response Bytes: 1265724
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43144
-
-### Performance issues
-
 
 ### Performance issues
 

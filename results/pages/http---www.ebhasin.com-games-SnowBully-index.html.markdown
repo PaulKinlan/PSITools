@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ebhasin.com/games/SnowBully/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Snow Bully](http://www.ebhasin.com/games/SnowBully/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.ebhasin.com/games/SnowBully/index.html
 *  JS Response Bytes: 4042530
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110928
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesfortune.net/puzzle-games/qube-2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Qube 2 - Free Online Games | GamesFortune.net](http://www.gamesfortune.net/puzzle-games/qube-2)
 
@@ -29,9 +35,6 @@ title: http://www.gamesfortune.net/puzzle-games/qube-2
 *  JS Response Bytes: 2340643
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114687
-
-### Performance issues
-
 
 ### Performance issues
 

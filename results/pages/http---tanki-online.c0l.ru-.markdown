@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://tanki-online.c0l.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Танки Онлайн – трехмерный браузерный боевик](http://tanki-online.c0l.ru/)
 
@@ -29,9 +33,6 @@ title: http://tanki-online.c0l.ru/
 *  JS Response Bytes: 966261
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111628
-
-### Performance issues
-
 
 ### Performance issues
 

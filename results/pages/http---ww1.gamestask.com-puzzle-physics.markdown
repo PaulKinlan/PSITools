@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww1.gamestask.com/puzzle-physics
+MinimizeRenderBlockingResources: true
 ---
 ## [gamestask.com - gamestask Resources and Information. This website is for sale!](http://ww1.gamestask.com/puzzle-physics)
 
@@ -29,9 +30,6 @@ title: http://ww1.gamestask.com/puzzle-physics
 *  JS Response Bytes: 113649
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 222
-
-### Performance issues
-
 
 ### Performance issues
 

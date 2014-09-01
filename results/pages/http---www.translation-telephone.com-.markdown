@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.translation-telephone.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Translation Telephone](http://www.translation-telephone.com/)
 
@@ -29,9 +32,6 @@ title: http://www.translation-telephone.com/
 *  JS Response Bytes: 136354
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20024
-
-### Performance issues
-
 
 ### Performance issues
 

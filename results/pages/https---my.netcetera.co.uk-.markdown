@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://my.netcetera.co.uk/
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [Client Area - Netcetera Ltd](https://my.netcetera.co.uk/)
 
@@ -29,9 +31,6 @@ title: https://my.netcetera.co.uk/
 *  JS Response Bytes: 368134
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 108618
-
-### Performance issues
-
 
 ### Performance issues
 

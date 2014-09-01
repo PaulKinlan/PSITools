@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.organizze.com.br/login
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Escolha sua versão | Organizze](https://www.organizze.com.br/login)
 
@@ -29,9 +32,6 @@ title: https://www.organizze.com.br/login
 *  JS Response Bytes: 347049
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

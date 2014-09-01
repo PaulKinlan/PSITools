@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://m.flocations.com/?utm_source=chrome&utm_medium=app&utm_campaign=ca
+MinimizeRenderBlockingResources: true
 ---
 ## [Tour Packages from Singapore Travel Agencies](http://m.flocations.com/?utm_source=chrome&utm_medium=app&utm_campaign=ca)
 
@@ -29,9 +30,6 @@ title: http://m.flocations.com/?utm_source=chrome&utm_medium=app&utm_campaign=ca
 *  JS Response Bytes: 1105164
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11560
-
-### Performance issues
-
 
 ### Performance issues
 

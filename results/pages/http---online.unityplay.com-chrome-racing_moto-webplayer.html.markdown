@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://online.unityplay.com/chrome/racing_moto/webplayer.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Racing Moto | UnityPlay.com-Flash-Android-Chrome Games](http://online.unityplay.com/chrome/racing_moto/webplayer.html)
 
@@ -29,9 +34,6 @@ title: http://online.unityplay.com/chrome/racing_moto/webplayer.html
 *  JS Response Bytes: 845390
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2938
-
-### Performance issues
-
 
 ### Performance issues
 

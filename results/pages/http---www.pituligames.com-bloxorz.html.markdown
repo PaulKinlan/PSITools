@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.pituligames.com/bloxorz.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Bloxorz! - Pituli★Games.com](http://www.pituligames.com/bloxorz.html)
 
@@ -29,9 +34,6 @@ title: http://www.pituligames.com/bloxorz.html
 *  JS Response Bytes: 1089347
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 86675
-
-### Performance issues
-
 
 ### Performance issues
 

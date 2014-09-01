@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.downloadbox.us/skype-smileys/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [skype smileys | Download Box](http://www.downloadbox.us/skype-smileys/)
 
@@ -29,9 +32,6 @@ title: http://www.downloadbox.us/skype-smileys/
 *  JS Response Bytes: 781615
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 224723
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.nsgonline.org.uk/login/index.php
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [NSG Online: Log in to the site](http://www.nsgonline.org.uk/login/index.php)
 
@@ -29,9 +31,6 @@ title: http://www.nsgonline.org.uk/login/index.php
 *  JS Response Bytes: 471263
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 918
-
-### Performance issues
-
 
 ### Performance issues
 

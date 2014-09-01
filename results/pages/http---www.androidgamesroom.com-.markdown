@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.androidgamesroom.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Android Games Room - Best android games download for free!](http://www.androidgamesroom.com/)
 
@@ -29,9 +33,6 @@ title: http://www.androidgamesroom.com/
 *  JS Response Bytes: 560288
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16870
-
-### Performance issues
-
 
 ### Performance issues
 

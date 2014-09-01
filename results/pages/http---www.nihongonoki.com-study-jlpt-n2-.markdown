@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.nihongonoki.com/study/jlpt/n2/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [JAPANESE 4](http://www.nihongonoki.com/study/jlpt/n2/)
 
@@ -29,9 +32,6 @@ title: http://www.nihongonoki.com/study/jlpt/n2/
 *  JS Response Bytes: 731311
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 716
-
-### Performance issues
-
 
 ### Performance issues
 

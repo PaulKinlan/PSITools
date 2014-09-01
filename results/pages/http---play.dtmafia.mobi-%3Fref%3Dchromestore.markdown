@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://play.dtmafia.mobi/?ref=chromestore
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [DOWNTOWN MAFIA (RPG)](http://play.dtmafia.mobi/?ref=chromestore)
 
@@ -29,9 +31,6 @@ title: http://play.dtmafia.mobi/?ref=chromestore
 *  JS Response Bytes: 1744102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

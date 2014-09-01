@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://123-games.in/link.php?g=facemoi
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [123-Games.in](http://123-games.in/link.php?g=facemoi)
 
@@ -29,9 +34,6 @@ title: http://123-games.in/link.php?g=facemoi
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

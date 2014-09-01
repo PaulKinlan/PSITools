@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.kamyonparketme.com/temple-run-2/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Temple Run 2 – Online Best Games](http://www.kamyonparketme.com/temple-run-2/)
 
@@ -29,9 +33,6 @@ title: http://www.kamyonparketme.com/temple-run-2/
 *  JS Response Bytes: 1137507
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25517
-
-### Performance issues
-
 
 ### Performance issues
 

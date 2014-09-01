@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gameforgirls.ca/beauty-games
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [gameforgirls.ca](http://www.gameforgirls.ca/beauty-games)
 
@@ -29,9 +33,6 @@ title: http://www.gameforgirls.ca/beauty-games
 *  JS Response Bytes: 209104
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

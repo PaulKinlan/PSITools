@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.homegamespoker.com/Default.aspx?from=chromewebstore
+UseLegibleFontSizes: true
 ---
 ## [The resource cannot be found.](http://www.homegamespoker.com/Default.aspx?from=chromewebstore)
 
@@ -29,9 +30,6 @@ title: http://www.homegamespoker.com/Default.aspx?from=chromewebstore
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1712
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.maxmon.co.uk/test
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Error: 404 Article not found](http://www.maxmon.co.uk/test)
 
@@ -29,9 +32,6 @@ title: http://www.maxmon.co.uk/test
 *  JS Response Bytes: 66315
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10170
-
-### Performance issues
-
 
 ### Performance issues
 

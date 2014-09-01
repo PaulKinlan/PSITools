@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gameplayone.blogspot.com/2014/01/candy-crush-saga-3.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Candy crush: Candy Crush Saga 3](http://gameplayone.blogspot.com/2014/01/candy-crush-saga-3.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://gameplayone.blogspot.com/2014/01/candy-crush-saga-3.html?m=1
 *  JS Response Bytes: 959216
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97989
-
-### Performance issues
-
 
 ### Performance issues
 

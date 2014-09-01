@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gogirlgamesgo.com/girl-games/dress-up-games
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dress Up Games | Girls go Games and Girl Games More Games For Girls](http://www.gogirlgamesgo.com/girl-games/dress-up-games)
 
@@ -29,9 +32,6 @@ title: http://www.gogirlgamesgo.com/girl-games/dress-up-games
 *  JS Response Bytes: 1787326
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119145
-
-### Performance issues
-
 
 ### Performance issues
 

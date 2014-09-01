@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/soccer-cup-2012-football/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Soccer Cup 2012 Football Game](http://www.footballgam.es/soccer-cup-2012-football/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/soccer-cup-2012-football/
 *  JS Response Bytes: 2296940
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156836
-
-### Performance issues
-
 
 ### Performance issues
 

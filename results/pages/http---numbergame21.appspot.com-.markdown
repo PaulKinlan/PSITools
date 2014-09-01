@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://numbergame21.appspot.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Number Game](http://numbergame21.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://numbergame21.appspot.com/
 *  JS Response Bytes: 6212
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

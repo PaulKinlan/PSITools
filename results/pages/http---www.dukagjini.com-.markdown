@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.dukagjini.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Radio Dukagjini](http://www.dukagjini.com/)
 
@@ -29,9 +33,6 @@ title: http://www.dukagjini.com/
 *  JS Response Bytes: 443398
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

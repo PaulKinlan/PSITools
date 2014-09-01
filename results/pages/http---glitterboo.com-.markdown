@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://glitterboo.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Glitterboo - Create sparkling photo effects and animations](http://glitterboo.com/)
 
@@ -29,9 +33,6 @@ title: http://glitterboo.com/
 *  JS Response Bytes: 836090
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 593
-
-### Performance issues
-
 
 ### Performance issues
 

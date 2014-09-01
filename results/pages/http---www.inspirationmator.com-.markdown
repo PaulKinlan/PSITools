@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.inspirationmator.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+UseLegibleFontSizes: true
 ---
 ## [Inspirationmator](http://www.inspirationmator.com/)
 
@@ -29,9 +33,6 @@ title: http://www.inspirationmator.com/
 *  JS Response Bytes: 183044
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://fooplot.com/#W3sidHlwZSI6MCwiZXEiOiJ4XjIiLCJjb2xvciI6IiMwMDAwMDAifSx7InR5cGUiOjEwMDB9XQ--
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FooPlot | Online graphing calculator and function plotter](http://fooplot.com/#W3sidHlwZSI6MCwiZXEiOiJ4XjIiLCJjb2xvciI6IiMwMDAwMDAifSx7InR5cGUiOjEwMDB9XQ--)
 
@@ -29,9 +32,6 @@ title: http://fooplot.com/#W3sidHlwZSI6MCwiZXEiOiJ4XjIiLCJjb2xvciI6IiMwMDAwMDAif
 *  JS Response Bytes: 1096851
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1289
-
-### Performance issues
-
 
 ### Performance issues
 

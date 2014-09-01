@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.simoncartwrightphotography.co.nz/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Simon Cartwright | Photography](http://www.simoncartwrightphotography.co.nz/)
 
@@ -29,9 +33,6 @@ title: http://www.simoncartwrightphotography.co.nz/
 *  JS Response Bytes: 1096205
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

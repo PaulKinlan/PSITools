@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mym00d.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [m00d](http://mym00d.com/)
 
@@ -29,9 +32,6 @@ title: http://mym00d.com/
 *  JS Response Bytes: 443881
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120
-
-### Performance issues
-
 
 ### Performance issues
 

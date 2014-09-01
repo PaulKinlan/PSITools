@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.thejunglephoto.pw/store/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Home - The Jungle Photo - Store](http://www.thejunglephoto.pw/store/)
 
@@ -29,9 +33,6 @@ title: http://www.thejunglephoto.pw/store/
 *  JS Response Bytes: 707742
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3146
-
-### Performance issues
-
 
 ### Performance issues
 

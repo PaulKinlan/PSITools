@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://battlestar-galactica.bigpoint.com/cws?aid=3306
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Battlestar Galactica Online | Sci Fi MMORPG Space Shooter](http://battlestar-galactica.bigpoint.com/cws?aid=3306)
 
@@ -29,9 +34,6 @@ title: http://battlestar-galactica.bigpoint.com/cws?aid=3306
 *  JS Response Bytes: 373374
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

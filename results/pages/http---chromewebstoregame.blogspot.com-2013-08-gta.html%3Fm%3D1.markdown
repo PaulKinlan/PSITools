@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromewebstoregame.blogspot.com/2013/08/gta.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [buzz blog](http://chromewebstoregame.blogspot.com/2013/08/gta.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromewebstoregame.blogspot.com/2013/08/gta.html?m=1
 *  JS Response Bytes: 789607
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331013
-
-### Performance issues
-
 
 ### Performance issues
 

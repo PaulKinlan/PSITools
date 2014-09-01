@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://jotagames.com/asphalt-8-airborne.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [JOTAGameS.Com | Flash Games – Asphalt 8: Airborne](http://jotagames.com/asphalt-8-airborne.html)
 
@@ -29,9 +35,6 @@ title: http://jotagames.com/asphalt-8-airborne.html
 *  JS Response Bytes: 412514
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 811
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fscript.google.com%2Fa%2Fmacros%2Fappventive.com%2Fs%2FAKfycbw8xyLAhb7yKHAdcLdOIoXWDTuIsvSsVJxlPXo9jsFH4xgtCtQ%2Fexec&service=wise&sacu=1&hd=appventive.com
+AvoidLandingPageRedirects: true
+ServerResponseTime: true
 ---
 ## [Meet Google Drive – One place for all your files](https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fscript.google.com%2Fa%2Fmacros%2Fappventive.com%2Fs%2FAKfycbw8xyLAhb7yKHAdcLdOIoXWDTuIsvSsVJxlPXo9jsFH4xgtCtQ%2Fexec&service=wise&sacu=1&hd=appventive.com)
 
@@ -29,9 +31,6 @@ title: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fscript.go
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53195
-
-### Performance issues
-
 
 ### Performance issues
 

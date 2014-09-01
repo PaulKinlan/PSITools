@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ww38.neurocard.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [neurocard.net](http://ww38.neurocard.net/)
 
@@ -29,9 +32,6 @@ title: http://ww38.neurocard.net/
 *  JS Response Bytes: 209185
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 209
-
-### Performance issues
-
 
 ### Performance issues
 

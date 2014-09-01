@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.easyprompter.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [EasyPrompter - The free, web-based, plugin-free, browser independent, online and offline teleprompter and auto-cue software](http://www.easyprompter.com/)
 
@@ -29,9 +33,6 @@ title: http://www.easyprompter.com/
 *  JS Response Bytes: 457816
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28372
-
-### Performance issues
-
 
 ### Performance issues
 

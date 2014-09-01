@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://warface-mmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Warface Online](http://warface-mmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://warface-mmo.appspot.com/
 *  JS Response Bytes: 905384
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41811
-
-### Performance issues
-
 
 ### Performance issues
 

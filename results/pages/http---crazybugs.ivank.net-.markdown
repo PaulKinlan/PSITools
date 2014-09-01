@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://crazybugs.ivank.net/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crazy Bugs](http://crazybugs.ivank.net/)
 
@@ -29,9 +31,6 @@ title: http://crazybugs.ivank.net/
 *  JS Response Bytes: 1424515
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121806
-
-### Performance issues
-
 
 ### Performance issues
 

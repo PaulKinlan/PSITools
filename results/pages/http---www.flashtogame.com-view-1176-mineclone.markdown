@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.flashtogame.com/view/1176/mineclone
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MineClone - Flash to GaMe - Free Online Flash Games](http://www.flashtogame.com/view/1176/mineclone)
 
@@ -29,9 +34,6 @@ title: http://www.flashtogame.com/view/1176/mineclone
 *  JS Response Bytes: 2285122
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 137967
-
-### Performance issues
-
 
 ### Performance issues
 

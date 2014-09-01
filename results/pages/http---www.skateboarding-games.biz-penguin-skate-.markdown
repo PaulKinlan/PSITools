@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/penguin-skate/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Penguin Skate game](http://www.skateboarding-games.biz/penguin-skate/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/penguin-skate/
 *  JS Response Bytes: 2123730
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122391
-
-### Performance issues
-
 
 ### Performance issues
 

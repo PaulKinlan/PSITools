@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/bad-cowboys/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bad Cowboys](http://www.war-games.ws/bad-cowboys/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/bad-cowboys/
 *  JS Response Bytes: 2292908
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115209
-
-### Performance issues
-
 
 ### Performance issues
 

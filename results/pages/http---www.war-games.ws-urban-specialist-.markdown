@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/urban-specialist/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Urban Specialist](http://www.war-games.ws/urban-specialist/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/urban-specialist/
 *  JS Response Bytes: 2292952
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121060
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.raaga.com/chrome/install.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Raaga.com - A World of Music](http://www.raaga.com/chrome/install.html)
 
@@ -29,9 +33,6 @@ title: http://www.raaga.com/chrome/install.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61
-
-### Performance issues
-
 
 ### Performance issues
 

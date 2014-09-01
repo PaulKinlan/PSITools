@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.staragora.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Staragora](http://m.staragora.com/)
 
@@ -29,9 +33,6 @@ title: http://m.staragora.com/
 *  JS Response Bytes: 715113
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16883
-
-### Performance issues
-
 
 ### Performance issues
 

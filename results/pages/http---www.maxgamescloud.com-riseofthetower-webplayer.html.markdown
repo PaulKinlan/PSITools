@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.maxgamescloud.com/riseofthetower/webplayer.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rise Of the Tower | MaxGamesCloud.com-Flash-Android-Chrome Games](http://www.maxgamescloud.com/riseofthetower/webplayer.html)
 
@@ -29,9 +34,6 @@ title: http://www.maxgamescloud.com/riseofthetower/webplayer.html
 *  JS Response Bytes: 383377
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40379
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamezhero.com/games/boomtherock?utm_campaign=chrome&utm_source=launch&utm_medium=boomtherock
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Boom the Rock! | Games | Free Online Games @ Gamezhero.com](http://www.gamezhero.com/games/boomtherock?utm_campaign=chrome&utm_source=launch&utm_medium=boomtherock)
 
@@ -29,9 +33,6 @@ title: http://www.gamezhero.com/games/boomtherock?utm_campaign=chrome&utm_source
 *  JS Response Bytes: 2282259
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 107964
-
-### Performance issues
-
 
 ### Performance issues
 

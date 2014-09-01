@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/zuma-revenge/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Zuma Revenge Game — Sultans of Game](http://www.sultansofgame.com/games/zuma-revenge/)
 
@@ -29,9 +34,6 @@ title: http://www.sultansofgame.com/games/zuma-revenge/
 *  JS Response Bytes: 1665727
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 107784
-
-### Performance issues
-
 
 ### Performance issues
 

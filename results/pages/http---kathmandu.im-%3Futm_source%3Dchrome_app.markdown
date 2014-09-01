@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://kathmandu.im/?utm_source=chrome_app
+MinimizeRenderBlockingResources: true
 ---
 ## [I am Kathmandu](http://kathmandu.im/?utm_source=chrome_app)
 
@@ -29,9 +30,6 @@ title: http://kathmandu.im/?utm_source=chrome_app
 *  JS Response Bytes: 645277
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

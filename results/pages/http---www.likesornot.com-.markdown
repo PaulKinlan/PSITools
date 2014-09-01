@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.likesornot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Likes or Not - Find out who likes you back](http://www.likesornot.com/)
 
@@ -29,9 +34,6 @@ title: http://www.likesornot.com/
 *  JS Response Bytes: 402120
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 202009
-
-### Performance issues
-
 
 ### Performance issues
 

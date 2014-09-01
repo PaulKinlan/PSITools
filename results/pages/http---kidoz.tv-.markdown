@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://kidoz.tv/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [KIDO'Z TV | Videos for kids](http://kidoz.tv/)
 
@@ -29,9 +33,6 @@ title: http://kidoz.tv/
 *  JS Response Bytes: 763084
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2475
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://soldierfront-mmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Soldier Front 2 Online](http://soldierfront-mmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://soldierfront-mmo.appspot.com/
 *  JS Response Bytes: 632760
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49357
-
-### Performance issues
-
 
 ### Performance issues
 

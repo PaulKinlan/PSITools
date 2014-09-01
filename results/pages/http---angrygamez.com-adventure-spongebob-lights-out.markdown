@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://angrygamez.com/adventure/spongebob-lights-out
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Spongebob Lights Out - Angry Gamez Best Games](http://angrygamez.com/adventure/spongebob-lights-out)
 
@@ -29,9 +36,6 @@ title: http://angrygamez.com/adventure/spongebob-lights-out
 *  JS Response Bytes: 3095255
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 346948
-
-### Performance issues
-
 
 ### Performance issues
 

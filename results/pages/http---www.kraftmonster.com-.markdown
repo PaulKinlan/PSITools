@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.kraftmonster.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Kraft Monster : Bhasinsoft](http://www.kraftmonster.com/)
 
@@ -29,9 +33,6 @@ title: http://www.kraftmonster.com/
 *  JS Response Bytes: 441041
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1970
-
-### Performance issues
-
 
 ### Performance issues
 

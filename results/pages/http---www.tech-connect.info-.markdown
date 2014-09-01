@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tech-connect.info/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tech-Connect - Site d'actualités technologiques addictif et pas comme les autres.](http://www.tech-connect.info/)
 
@@ -29,9 +32,6 @@ title: http://www.tech-connect.info/
 *  JS Response Bytes: 2203391
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 339804
-
-### Performance issues
-
 
 ### Performance issues
 

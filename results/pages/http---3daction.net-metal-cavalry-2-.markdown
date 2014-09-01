@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://3daction.net/metal-cavalry-2/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Metal Cavalry](http://3daction.net/metal-cavalry-2/)
 
@@ -29,9 +36,6 @@ title: http://3daction.net/metal-cavalry-2/
 *  JS Response Bytes: 2686584
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 149672
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://my.appgap.co.uk/709442#bmb=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Teritex](http://my.appgap.co.uk/709442#bmb=1)
 
@@ -29,9 +33,6 @@ title: http://my.appgap.co.uk/709442#bmb=1
 *  JS Response Bytes: 1105545
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1877
-
-### Performance issues
-
 
 ### Performance issues
 

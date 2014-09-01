@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.firstreelcinemas.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Home - FirstReel Cinemas](http://www.firstreelcinemas.com/)
 
@@ -29,9 +34,6 @@ title: http://www.firstreelcinemas.com/
 *  JS Response Bytes: 1010383
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2446
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.ciufcia.pl/?utm_source=chrome_extension&utm_medium=chrome_extension&utm_campaign=chrome_extension
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gry dla dzieci - Mobile - ciufcia.pl](http://m.ciufcia.pl/?utm_source=chrome_extension&utm_medium=chrome_extension&utm_campaign=chrome_extension)
 
@@ -29,9 +32,6 @@ title: http://m.ciufcia.pl/?utm_source=chrome_extension&utm_medium=chrome_extens
 *  JS Response Bytes: 1193877
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2336
-
-### Performance issues
-
 
 ### Performance issues
 

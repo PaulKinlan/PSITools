@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/gothic-surgery-4/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gothic Surgery game](http://www.surgery-games.org/gothic-surgery-4/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/gothic-surgery-4/
 *  JS Response Bytes: 2636494
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115453
-
-### Performance issues
-
 
 ### Performance issues
 

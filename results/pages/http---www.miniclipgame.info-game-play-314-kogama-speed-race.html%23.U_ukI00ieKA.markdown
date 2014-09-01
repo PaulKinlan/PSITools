@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.miniclipgame.info/game-play/314/kogama-speed-race.html#.U_ukI00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kogama Speed Race - Miniclip Game - Free Online Flash Games](http://www.miniclipgame.info/game-play/314/kogama-speed-race.html#.U_ukI00ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.miniclipgame.info/game-play/314/kogama-speed-race.html#.U_ukI0
 *  JS Response Bytes: 2772679
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22784
-
-### Performance issues
-
 
 ### Performance issues
 

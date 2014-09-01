@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://my-mobilewebamerica.com/m/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Mobile Website Builder: Convert your Website and Blog to Mobile Easily!](http://my-mobilewebamerica.com/m/)
 
@@ -29,9 +34,6 @@ title: http://my-mobilewebamerica.com/m/
 *  JS Response Bytes: 289270
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 850
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.racinggames2.com/oyun.php?id=67
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Steeplechase](http://www.racinggames2.com/oyun.php?id=67)
 
@@ -29,9 +35,6 @@ title: http://www.racinggames2.com/oyun.php?id=67
 *  JS Response Bytes: 2769667
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 211341
-
-### Performance issues
-
 
 ### Performance issues
 

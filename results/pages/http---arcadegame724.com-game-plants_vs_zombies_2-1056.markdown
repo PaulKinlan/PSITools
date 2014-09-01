@@ -33,8 +33,5 @@ title: http://arcadegame724.com/game/plants_vs_zombies_2-1056
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

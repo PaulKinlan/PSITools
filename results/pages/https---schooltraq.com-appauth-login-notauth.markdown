@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://schooltraq.com/appauth/login/notauth
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sign in • Schooltraq](https://schooltraq.com/appauth/login/notauth)
 
@@ -29,9 +33,6 @@ title: https://schooltraq.com/appauth/login/notauth
 *  JS Response Bytes: 135439
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 72323
-
-### Performance issues
-
 
 ### Performance issues
 

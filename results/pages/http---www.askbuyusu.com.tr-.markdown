@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.askbuyusu.com.tr/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Aşk Büyüsü ve Aşk Büyüsü Nasıl Yapılır](http://www.askbuyusu.com.tr/)
 
@@ -29,9 +34,6 @@ title: http://www.askbuyusu.com.tr/
 *  JS Response Bytes: 284532
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

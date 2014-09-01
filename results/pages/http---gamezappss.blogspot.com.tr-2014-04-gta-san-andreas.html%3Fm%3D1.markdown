@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gamezappss.blogspot.com.tr/2014/04/gta-san-andreas.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [chrome collection of the best games store: gta san andreas](http://gamezappss.blogspot.com.tr/2014/04/gta-san-andreas.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://gamezappss.blogspot.com.tr/2014/04/gta-san-andreas.html?m=1
 *  JS Response Bytes: 1548871
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99220
-
-### Performance issues
-
 
 ### Performance issues
 

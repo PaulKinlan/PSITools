@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_358_Surf-Mania.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Surf Mania Flash Games](http://www.newpopulargames.com/game_358_Surf-Mania.html)
 
@@ -29,9 +35,6 @@ title: http://www.newpopulargames.com/game_358_Surf-Mania.html
 *  JS Response Bytes: 1680663
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112883
-
-### Performance issues
-
 
 ### Performance issues
 

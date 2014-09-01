@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.coolflashcards.com/apps/statecapitals
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [States and Capitals Online Flashcards](http://www.coolflashcards.com/apps/statecapitals)
 
@@ -29,9 +34,6 @@ title: http://www.coolflashcards.com/apps/statecapitals
 *  JS Response Bytes: 2154177
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14322
-
-### Performance issues
-
 
 ### Performance issues
 

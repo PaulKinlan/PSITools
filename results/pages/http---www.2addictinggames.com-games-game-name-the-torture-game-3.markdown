@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/game/name/the-torture-game-3
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [the-torture-game-3 Addicting Games](http://www.2addictinggames.com/games/game/name/the-torture-game-3)
 
@@ -29,9 +34,6 @@ title: http://www.2addictinggames.com/games/game/name/the-torture-game-3
 *  JS Response Bytes: 1830082
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97353
-
-### Performance issues
-
 
 ### Performance issues
 

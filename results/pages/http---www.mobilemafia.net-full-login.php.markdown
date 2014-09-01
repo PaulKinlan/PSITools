@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mobilemafia.net/full/login.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mobile Mafia](http://www.mobilemafia.net/full/login.php)
 
@@ -29,9 +33,6 @@ title: http://www.mobilemafia.net/full/login.php
 *  JS Response Bytes: 40463
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 665
-
-### Performance issues
-
 
 ### Performance issues
 

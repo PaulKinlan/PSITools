@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.gamecorsa.com/cgi-sys/suspendedpage.cgi
+UseLegibleFontSizes: true
 ---
 ## [Account Suspended](http://www.gamecorsa.com/cgi-sys/suspendedpage.cgi)
 
@@ -18,7 +19,7 @@ title: http://www.gamecorsa.com/cgi-sys/suspendedpage.cgi
 *  Number of JS Resources: 0
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 291
+*  Total Request Bytes: 295
 
 ### Response data
 
@@ -29,9 +30,6 @@ title: http://www.gamecorsa.com/cgi-sys/suspendedpage.cgi
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 515
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://dntgames.com/temple-run-oz.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DNTgames.Com | Flash Game Center | Flash Games. – Temple Run OZ](http://dntgames.com/temple-run-oz.html)
 
@@ -29,9 +36,6 @@ title: http://dntgames.com/temple-run-oz.html
 *  JS Response Bytes: 412485
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1191
-
-### Performance issues
-
 
 ### Performance issues
 

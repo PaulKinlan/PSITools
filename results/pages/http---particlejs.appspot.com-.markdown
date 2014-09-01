@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://particlejs.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://particlejs.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://particlejs.appspot.com/
 *  JS Response Bytes: 347046
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

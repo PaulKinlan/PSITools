@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://coolmetronome.appspot.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [Cool Metronome](http://coolmetronome.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://coolmetronome.appspot.com/
 *  JS Response Bytes: 290174
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11299
-
-### Performance issues
-
 
 ### Performance issues
 

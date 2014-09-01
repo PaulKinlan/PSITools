@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gestionprojet.hamelintechnologie.ca/index.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://gestionprojet.hamelintechnologie.ca/index.php)
 
@@ -29,9 +34,6 @@ title: http://gestionprojet.hamelintechnologie.ca/index.php
 *  JS Response Bytes: 703518
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 473
-
-### Performance issues
-
 
 ### Performance issues
 

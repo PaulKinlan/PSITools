@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.wpcpuzzlesonline.com/word-puzzles
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Word Puzzles - Fun With Logic](http://www.wpcpuzzlesonline.com/word-puzzles)
 
@@ -29,9 +32,6 @@ title: http://www.wpcpuzzlesonline.com/word-puzzles
 *  JS Response Bytes: 2308300
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 294296
-
-### Performance issues
-
 
 ### Performance issues
 

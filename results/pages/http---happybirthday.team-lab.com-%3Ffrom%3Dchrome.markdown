@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://happybirthday.team-lab.com/?from=chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [teamLabMusic](http://happybirthday.team-lab.com/?from=chrome)
 
@@ -29,9 +31,6 @@ title: http://happybirthday.team-lab.com/?from=chrome
 *  JS Response Bytes: 101027
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

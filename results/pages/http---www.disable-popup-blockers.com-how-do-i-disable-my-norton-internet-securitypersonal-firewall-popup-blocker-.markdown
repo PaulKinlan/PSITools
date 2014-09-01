@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.disable-popup-blockers.com/how-do-i-disable-my-norton-internet-securitypersonal-firewall-popup-blocker/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [How do I disable my Norton Internet Security/Personal Firewall popup blocker? | Popup Blockkers](http://www.disable-popup-blockers.com/how-do-i-disable-my-norton-internet-securitypersonal-firewall-popup-blocker/)
 
@@ -29,9 +32,6 @@ title: http://www.disable-popup-blockers.com/how-do-i-disable-my-norton-internet
 *  JS Response Bytes: 512832
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 89491
-
-### Performance issues
-
 
 ### Performance issues
 

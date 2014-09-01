@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://appsmoment.com/
+AvoidLandingPageRedirects: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [AppsMoment: Builder Application | Develop Iphone App | Ipad Publishing | App Maker android](http://appsmoment.com/)
 
@@ -29,9 +33,6 @@ title: http://appsmoment.com/
 *  JS Response Bytes: 834169
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39429
-
-### Performance issues
-
 
 ### Performance issues
 

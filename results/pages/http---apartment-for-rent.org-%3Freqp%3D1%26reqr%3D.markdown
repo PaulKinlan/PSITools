@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://apartment-for-rent.org/?reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [apartment-for-rent.org](http://apartment-for-rent.org/?reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://apartment-for-rent.org/?reqp=1&reqr=
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 64
-
-### Performance issues
-
 
 ### Performance issues
 

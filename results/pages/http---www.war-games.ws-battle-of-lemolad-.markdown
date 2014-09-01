@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.war-games.ws/battle-of-lemolad/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Battle Of Lemolad](http://www.war-games.ws/battle-of-lemolad/)
 
@@ -29,9 +36,6 @@ title: http://www.war-games.ws/battle-of-lemolad/
 *  JS Response Bytes: 2257116
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115920
-
-### Performance issues
-
 
 ### Performance issues
 

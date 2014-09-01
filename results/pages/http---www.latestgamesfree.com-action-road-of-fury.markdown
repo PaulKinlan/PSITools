@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.latestgamesfree.com/action/road-of-fury
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [road of fury - Latest Games Free](http://www.latestgamesfree.com/action/road-of-fury)
 
@@ -29,9 +35,6 @@ title: http://www.latestgamesfree.com/action/road-of-fury
 *  JS Response Bytes: 2129974
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118769
-
-### Performance issues
-
 
 ### Performance issues
 

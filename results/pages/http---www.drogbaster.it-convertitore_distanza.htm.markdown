@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.drogbaster.it/convertitore_distanza.htm
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [▷ App per Convertitore la distanza in metri, centimetri](http://www.drogbaster.it/convertitore_distanza.htm)
 
@@ -29,9 +32,6 @@ title: http://www.drogbaster.it/convertitore_distanza.htm
 *  JS Response Bytes: 1806224
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 129543
-
-### Performance issues
-
 
 ### Performance issues
 

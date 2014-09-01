@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://e-chromegames.blogspot.com/2013/06/need-for-speed-world.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [e-chromegames: Need for Speed World](http://e-chromegames.blogspot.com/2013/06/need-for-speed-world.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://e-chromegames.blogspot.com/2013/06/need-for-speed-world.html?m=1
 *  JS Response Bytes: 1067577
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97995
-
-### Performance issues
-
 
 ### Performance issues
 

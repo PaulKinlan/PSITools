@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ww41.forex.theultimateutilities.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [theultimateutilities.com](http://ww41.forex.theultimateutilities.com/)
 
@@ -29,9 +33,6 @@ title: http://ww41.forex.theultimateutilities.com/
 *  JS Response Bytes: 173157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 226
-
-### Performance issues
-
 
 ### Performance issues
 

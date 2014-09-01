@@ -33,8 +33,5 @@ title: http://www.playhdgamesonline.com/play/raptor_safari-1067
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

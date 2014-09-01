@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.alwasatnews.com/mobile/index.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [الرئيسية | الوسط موبايل](http://www.alwasatnews.com/mobile/index.html)
 
@@ -29,9 +31,6 @@ title: http://www.alwasatnews.com/mobile/index.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58553
-
-### Performance issues
-
 
 ### Performance issues
 

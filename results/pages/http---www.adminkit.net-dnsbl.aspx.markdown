@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.adminkit.net/dnsbl.aspx
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IP Blacklist Check and Monitor | adminkit.net](http://www.adminkit.net/dnsbl.aspx)
 
@@ -29,9 +33,6 @@ title: http://www.adminkit.net/dnsbl.aspx
 *  JS Response Bytes: 1570856
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117842
-
-### Performance issues
-
 
 ### Performance issues
 

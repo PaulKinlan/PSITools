@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://steelsoftlab.com/sociality/webcam++.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [webcamera](http://steelsoftlab.com/sociality/webcam++.htm)
 
@@ -29,9 +33,6 @@ title: http://steelsoftlab.com/sociality/webcam++.htm
 *  JS Response Bytes: 388629
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

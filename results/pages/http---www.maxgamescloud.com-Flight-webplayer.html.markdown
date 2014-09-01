@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.maxgamescloud.com/Flight/webplayer.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flight | MaxGamesCloud.com-Flash-Android-Chrome Games](http://www.maxgamescloud.com/Flight/webplayer.html)
 
@@ -29,9 +34,6 @@ title: http://www.maxgamescloud.com/Flight/webplayer.html
 *  JS Response Bytes: 359098
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 37902
-
-### Performance issues
-
 
 ### Performance issues
 

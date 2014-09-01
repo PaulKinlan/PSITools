@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://chrome.appstores.eu/wolverine/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Wolverine Tokyo Fury](http://chrome.appstores.eu/wolverine/)
 
@@ -29,9 +34,6 @@ title: http://chrome.appstores.eu/wolverine/
 *  JS Response Bytes: 515772
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

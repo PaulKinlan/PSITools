@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://amazondeshop.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Amazon DE](http://amazondeshop.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://amazondeshop.blogspot.com/?m=1
 *  JS Response Bytes: 1604165
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98278
-
-### Performance issues
-
 
 ### Performance issues
 

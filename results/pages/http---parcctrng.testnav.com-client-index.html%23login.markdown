@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://parcctrng.testnav.com/client/index.html#login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [TestNav](http://parcctrng.testnav.com/client/index.html#login)
 
@@ -29,9 +33,6 @@ title: http://parcctrng.testnav.com/client/index.html#login
 *  JS Response Bytes: 1483308
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 185
-
-### Performance issues
-
 
 ### Performance issues
 

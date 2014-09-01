@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://aitnews.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [البوابة العربية للأخبار التقنية - مصدرك الأول للأخبار التقنية باللغة العربية](http://aitnews.com/)
 
@@ -29,9 +32,6 @@ title: http://aitnews.com/
 *  JS Response Bytes: 217069
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

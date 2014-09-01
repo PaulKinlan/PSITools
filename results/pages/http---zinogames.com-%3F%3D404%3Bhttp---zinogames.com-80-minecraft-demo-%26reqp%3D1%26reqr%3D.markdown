@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://zinogames.com/?=404;http://zinogames.com:80/minecraft-demo/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [zinogames.com](http://zinogames.com/?=404;http://zinogames.com:80/minecraft-demo/&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://zinogames.com/?=404;http://zinogames.com:80/minecraft-demo/&reqp=1
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100
-
-### Performance issues
-
 
 ### Performance issues
 

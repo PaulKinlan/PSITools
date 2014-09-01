@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://nfsgamedia.blogspot.com.tr/2014/04/gta-san-andreas.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [NFS racing chrome game: gta san andreas](http://nfsgamedia.blogspot.com.tr/2014/04/gta-san-andreas.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://nfsgamedia.blogspot.com.tr/2014/04/gta-san-andreas.html?m=1
 *  JS Response Bytes: 1148254
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99222
-
-### Performance issues
-
 
 ### Performance issues
 

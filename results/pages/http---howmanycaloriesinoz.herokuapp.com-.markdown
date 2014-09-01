@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://howmanycaloriesinoz.herokuapp.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [How Many Calories in Oz ·](http://howmanycaloriesinoz.herokuapp.com/)
 
@@ -29,9 +30,6 @@ title: http://howmanycaloriesinoz.herokuapp.com/
 *  JS Response Bytes: 1440414
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110974
-
-### Performance issues
-
 
 ### Performance issues
 

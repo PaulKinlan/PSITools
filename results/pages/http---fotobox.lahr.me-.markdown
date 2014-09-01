@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://fotobox.lahr.me/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Fotobox](http://fotobox.lahr.me/)
 
@@ -29,9 +31,6 @@ title: http://fotobox.lahr.me/
 *  JS Response Bytes: 1542115
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 449486
-
-### Performance issues
-
 
 ### Performance issues
 

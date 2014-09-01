@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.ilovebasketball.co/nba-pro-hoops/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [NBA Pro Hoops](http://www.ilovebasketball.co/nba-pro-hoops/)
 
@@ -29,9 +36,6 @@ title: http://www.ilovebasketball.co/nba-pro-hoops/
 *  JS Response Bytes: 2801532
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155395
-
-### Performance issues
-
 
 ### Performance issues
 

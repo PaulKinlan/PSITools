@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://onangames.com/candy-crush-saga-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [OnanGames.Com | Flash Game | Flash Games – Candy Crush Saga](http://onangames.com/candy-crush-saga-2.html)
 
@@ -29,9 +35,6 @@ title: http://onangames.com/candy-crush-saga-2.html
 *  JS Response Bytes: 412219
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1163
-
-### Performance issues
-
 
 ### Performance issues
 

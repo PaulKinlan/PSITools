@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.chromegamez.com/game/1001/Frontline_Defense_2_HD.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Frontline Defense 2 HD - Chrome Games Play Flash Browser games for Chrome](http://www.chromegamez.com/game/1001/Frontline_Defense_2_HD.html)
 
@@ -29,9 +36,6 @@ title: http://www.chromegamez.com/game/1001/Frontline_Defense_2_HD.html
 *  JS Response Bytes: 1552554
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 301992
-
-### Performance issues
-
 
 ### Performance issues
 

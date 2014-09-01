@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.bestgameforgirl.com/index.php?task=view&id=153
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Seaside Beauty - The BEST Flash Game For Girl](http://www.bestgameforgirl.com/index.php?task=view&id=153)
 
@@ -29,9 +34,6 @@ title: http://www.bestgameforgirl.com/index.php?task=view&id=153
 *  JS Response Bytes: 2264573
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120963
-
-### Performance issues
-
 
 ### Performance issues
 

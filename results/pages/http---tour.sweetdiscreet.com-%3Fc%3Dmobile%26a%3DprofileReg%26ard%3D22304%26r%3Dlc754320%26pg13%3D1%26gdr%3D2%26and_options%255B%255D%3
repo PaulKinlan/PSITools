@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://tour.sweetdiscreet.com/?c=mobile&a=profileReg&ard=22304&r=lc754320&pg13=1&gdr=2&and_options%5B%5D=763&toid=209398&toi=403200&tor=36919&lpid=363
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [SweetDiscreet Mobile](http://tour.sweetdiscreet.com/?c=mobile&a=profileReg&ard=22304&r=lc754320&pg13=1&gdr=2&and_options%5B%5D=763&toid=209398&toi=403200&tor=36919&lpid=363)
 
@@ -29,9 +34,6 @@ title: http://tour.sweetdiscreet.com/?c=mobile&a=profileReg&ard=22304&r=lc754320
 *  JS Response Bytes: 281577
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1101
-
-### Performance issues
-
 
 ### Performance issues
 

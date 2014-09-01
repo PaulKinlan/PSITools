@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://bobajet.roostrjs.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Boba Jet](http://bobajet.roostrjs.com/)
 
@@ -29,9 +34,6 @@ title: http://bobajet.roostrjs.com/
 *  JS Response Bytes: 617408
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

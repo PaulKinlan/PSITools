@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://forsaken_world.c0l.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Forsaken World – современная, красивая, динамичная ММО нового поколения, с качественно созданным миром и интересной и необычной игровой механикой.](http://forsaken_world.c0l.ru/)
 
@@ -18,20 +23,17 @@ title: http://forsaken_world.c0l.ru/
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 14
-*  Total Request Bytes: 4917
+*  Total Request Bytes: 4916
 
 ### Response data
 
-*  HTML Response Bytes: 28160
+*  HTML Response Bytes: 28182
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 4374
 *  Image Response Bytes: 444576
-*  JS Response Bytes: 575049
+*  JS Response Bytes: 575346
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 96979
-
-### Performance issues
-
+*  Other Response Bytes: 96978
 
 ### Performance issues
 

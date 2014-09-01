@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.stationofgames.com/big-fish/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Big Fish](http://www.stationofgames.com/big-fish/)
 
@@ -29,9 +36,6 @@ title: http://www.stationofgames.com/big-fish/
 *  JS Response Bytes: 2082871
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 90616
-
-### Performance issues
-
 
 ### Performance issues
 

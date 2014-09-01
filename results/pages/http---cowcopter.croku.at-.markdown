@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://cowcopter.croku.at/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CowCopter Lite](http://cowcopter.croku.at/)
 
@@ -29,9 +34,6 @@ title: http://cowcopter.croku.at/
 *  JS Response Bytes: 1032380
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

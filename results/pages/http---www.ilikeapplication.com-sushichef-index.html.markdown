@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ilikeapplication.com/sushichef/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Youda Sushi Chef - A fun time management game](http://www.ilikeapplication.com/sushichef/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.ilikeapplication.com/sushichef/index.html
 *  JS Response Bytes: 522683
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

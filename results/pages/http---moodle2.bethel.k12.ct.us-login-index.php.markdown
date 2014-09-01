@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://moodle2.bethel.k12.ct.us/login/index.php
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bethel Public Schools - Moodle v2: Login to the site](http://moodle2.bethel.k12.ct.us/login/index.php)
 
@@ -29,9 +32,6 @@ title: http://moodle2.bethel.k12.ct.us/login/index.php
 *  JS Response Bytes: 699810
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 845
-
-### Performance issues
-
 
 ### Performance issues
 

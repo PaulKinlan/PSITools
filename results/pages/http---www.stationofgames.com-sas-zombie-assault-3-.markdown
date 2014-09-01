@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.stationofgames.com/sas-zombie-assault-3/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SAS: Zombie Assault 3](http://www.stationofgames.com/sas-zombie-assault-3/)
 
@@ -29,9 +35,6 @@ title: http://www.stationofgames.com/sas-zombie-assault-3/
 *  JS Response Bytes: 1357465
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124328
-
-### Performance issues
-
 
 ### Performance issues
 

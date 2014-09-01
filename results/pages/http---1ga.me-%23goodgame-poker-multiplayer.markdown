@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://1ga.me/#goodgame-poker-multiplayer
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [1GA.ME Just Perfect Games 1game](http://1ga.me/#goodgame-poker-multiplayer)
 
@@ -29,9 +32,6 @@ title: http://1ga.me/#goodgame-poker-multiplayer
 *  JS Response Bytes: 793224
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16914
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.hotsoftwares.info/pdftoword/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PDF to Word Converter App](http://www.hotsoftwares.info/pdftoword/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.hotsoftwares.info/pdftoword/index.html
 *  JS Response Bytes: 935604
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110124
-
-### Performance issues
-
 
 ### Performance issues
 

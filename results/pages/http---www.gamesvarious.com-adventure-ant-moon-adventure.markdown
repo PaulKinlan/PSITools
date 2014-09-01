@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/adventure/ant-moon-adventure
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ant moon adventure - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/adventure/ant-moon-adventure)
 
@@ -29,9 +36,6 @@ title: http://www.gamesvarious.com/adventure/ant-moon-adventure
 *  JS Response Bytes: 2199037
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124846
-
-### Performance issues
-
 
 ### Performance issues
 

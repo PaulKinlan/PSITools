@@ -33,8 +33,5 @@ title: http://www.cigigames.com/game/fifa_2014-1059
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

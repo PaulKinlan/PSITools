@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://tawk.com/incompatibility.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Incompatible browser](https://tawk.com/incompatibility.html)
 
@@ -29,9 +33,6 @@ title: https://tawk.com/incompatibility.html
 *  JS Response Bytes: 84466
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58
-
-### Performance issues
-
 
 ### Performance issues
 

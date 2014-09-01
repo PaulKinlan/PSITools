@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.weclapp.com/de/login/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Registrieren, Anmelden und Login in der weclapp Cloud](http://www.weclapp.com/de/login/)
 
@@ -29,9 +34,6 @@ title: http://www.weclapp.com/de/login/
 *  JS Response Bytes: 499253
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106349
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromegames.appsengine.us/minecraft/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Play Free Online Minecraft](http://chromegames.appsengine.us/minecraft/)
 
@@ -29,9 +32,6 @@ title: http://chromegames.appsengine.us/minecraft/
 *  JS Response Bytes: 538641
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2401
-
-### Performance issues
-
 
 ### Performance issues
 

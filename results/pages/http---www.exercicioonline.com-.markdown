@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.exercicioonline.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [O melhor site de exercícios para concurso Publido do Brasil - Exercício Online](http://www.exercicioonline.com/)
 
@@ -29,9 +34,6 @@ title: http://www.exercicioonline.com/
 *  JS Response Bytes: 513518
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 785
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.vm-play.com/flashgames/strategy/ambush/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [vm-play.com](http://www.vm-play.com/flashgames/strategy/ambush/)
 
@@ -29,9 +34,6 @@ title: http://www.vm-play.com/flashgames/strategy/ambush/
 *  JS Response Bytes: 187038
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

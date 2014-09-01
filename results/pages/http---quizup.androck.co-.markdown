@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://quizup.androck.co/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Quizup for Desktop - Quizup](http://quizup.androck.co/)
 
@@ -29,9 +31,6 @@ title: http://quizup.androck.co/
 *  JS Response Bytes: 271528
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43749
-
-### Performance issues
-
 
 ### Performance issues
 

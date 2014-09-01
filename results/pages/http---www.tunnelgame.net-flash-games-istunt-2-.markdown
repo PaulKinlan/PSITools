@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tunnelgame.net/flash-games/istunt-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [iStunt 2 « Flash Games, Online Games](http://www.tunnelgame.net/flash-games/istunt-2/)
 
@@ -29,9 +34,6 @@ title: http://www.tunnelgame.net/flash-games/istunt-2/
 *  JS Response Bytes: 2471695
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53733
-
-### Performance issues
-
 
 ### Performance issues
 

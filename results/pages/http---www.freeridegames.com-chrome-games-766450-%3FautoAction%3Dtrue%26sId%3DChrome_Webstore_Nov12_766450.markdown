@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/766450/?autoAction=true&sId=Chrome_Webstore_Nov12_766450
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Nightmare on the Pacific for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/766450/?autoAction=true&sId=Chrome_Webstore_Nov12_766450)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/766450/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1723790
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22866
-
-### Performance issues
-
 
 ### Performance issues
 

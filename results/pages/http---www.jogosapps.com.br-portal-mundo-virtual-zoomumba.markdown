@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.jogosapps.com.br/portal/mundo-virtual/zoomumba
+UseLegibleFontSizes: true
 ---
 ## [404 - Page not found](http://www.jogosapps.com.br/portal/mundo-virtual/zoomumba)
 
@@ -29,9 +30,6 @@ title: http://www.jogosapps.com.br/portal/mundo-virtual/zoomumba
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1186
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ikikisilikoyunlar.co/3d-new-york-taksi-lisans/game/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [iki kişilik 3D New York Taksi Lisans oyunu](http://www.ikikisilikoyunlar.co/3d-new-york-taksi-lisans/game/)
 
@@ -29,9 +35,6 @@ title: http://www.ikikisilikoyunlar.co/3d-new-york-taksi-lisans/game/
 *  JS Response Bytes: 2935642
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156550
-
-### Performance issues
-
 
 ### Performance issues
 

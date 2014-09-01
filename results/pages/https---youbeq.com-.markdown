@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://youbeq.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [youbeQ - Free Multiplayer Driving and Flight Simulator](https://youbeq.com/)
 
@@ -29,9 +30,6 @@ title: https://youbeq.com/
 *  JS Response Bytes: 445728
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40206
-
-### Performance issues
-
 
 ### Performance issues
 

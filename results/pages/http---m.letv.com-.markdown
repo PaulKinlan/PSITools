@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.letv.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [手机乐视_乐视手机门户网站](http://m.letv.com/)
 
@@ -29,9 +32,6 @@ title: http://m.letv.com/
 *  JS Response Bytes: 146881
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 327
-
-### Performance issues
-
 
 ### Performance issues
 

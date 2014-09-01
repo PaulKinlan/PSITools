@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.galaksigame.com/default-category/ultimate-flash-sonic
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ultimate Flash Sonic - Galaksigame](http://www.galaksigame.com/default-category/ultimate-flash-sonic)
 
@@ -29,9 +34,6 @@ title: http://www.galaksigame.com/default-category/ultimate-flash-sonic
 *  JS Response Bytes: 2094950
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 126633
-
-### Performance issues
-
 
 ### Performance issues
 

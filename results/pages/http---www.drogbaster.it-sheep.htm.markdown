@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.drogbaster.it/sheep.htm
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Animali virtuali - Virtual Pets: La pecorella](http://www.drogbaster.it/sheep.htm)
 
@@ -29,9 +33,6 @@ title: http://www.drogbaster.it/sheep.htm
 *  JS Response Bytes: 1964377
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 131470
-
-### Performance issues
-
 
 ### Performance issues
 

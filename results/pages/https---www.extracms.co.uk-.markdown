@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.extracms.co.uk/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ExtraDigital Content Management System](https://www.extracms.co.uk/)
 
@@ -29,9 +32,6 @@ title: https://www.extracms.co.uk/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://blog.sancho.hu/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [blog.sancho.hu](http://blog.sancho.hu/?m=1)
 
@@ -29,9 +31,6 @@ title: http://blog.sancho.hu/?m=1
 *  JS Response Bytes: 804086
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1145
-
-### Performance issues
-
 
 ### Performance issues
 

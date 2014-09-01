@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://1ga.me/#voodoo-friends
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [1GA.ME Just Perfect Games 1game](http://1ga.me/#voodoo-friends)
 
@@ -29,9 +32,6 @@ title: http://1ga.me/#voodoo-friends
 *  JS Response Bytes: 793144
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16911
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.exergen.sampladoc.com/profile.php
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Exergen](http://www.exergen.sampladoc.com/profile.php)
 
@@ -29,9 +36,6 @@ title: http://www.exergen.sampladoc.com/profile.php
 *  JS Response Bytes: 563980
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2541
-
-### Performance issues
-
 
 ### Performance issues
 

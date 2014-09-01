@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://games.playtouch.net/chrome/genius-memory/genius-memory/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Genius Memory](http://games.playtouch.net/chrome/genius-memory/genius-memory/)
 
@@ -29,9 +32,6 @@ title: http://games.playtouch.net/chrome/genius-memory/genius-memory/
 *  JS Response Bytes: 1467401
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1049
-
-### Performance issues
-
 
 ### Performance issues
 

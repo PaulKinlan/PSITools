@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.war-games.ws/warlords-call-to-arms/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Warlords Call to Arms](http://www.war-games.ws/warlords-call-to-arms/)
 
@@ -29,9 +36,6 @@ title: http://www.war-games.ws/warlords-call-to-arms/
 *  JS Response Bytes: 2196151
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116988
-
-### Performance issues
-
 
 ### Performance issues
 

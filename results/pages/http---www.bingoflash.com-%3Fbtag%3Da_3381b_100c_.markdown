@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.bingoflash.com/?btag=a_3381b_100c_
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Bingo Games: Get $ 20 Free to Play Online Bingo at BingoFlash](http://www.bingoflash.com/?btag=a_3381b_100c_)
 
@@ -29,9 +36,6 @@ title: http://www.bingoflash.com/?btag=a_3381b_100c_
 *  JS Response Bytes: 315428
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 607
-
-### Performance issues
-
 
 ### Performance issues
 

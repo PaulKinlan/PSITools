@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.bahiaco.com/?utm_source=appChrome&utm_medium=chrome
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bahiaço — Paixão de primeira](http://www.bahiaco.com/?utm_source=appChrome&utm_medium=chrome)
 
@@ -29,9 +31,6 @@ title: http://www.bahiaco.com/?utm_source=appChrome&utm_medium=chrome
 *  JS Response Bytes: 947904
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 60777
-
-### Performance issues
-
 
 ### Performance issues
 

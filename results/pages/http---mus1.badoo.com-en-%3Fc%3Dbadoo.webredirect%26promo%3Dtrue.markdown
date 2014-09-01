@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://mus1.badoo.com/en/?c=badoo.webredirect&promo=true
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Mobile Badoo: see who's near you now!](http://mus1.badoo.com/en/?c=badoo.webredirect&promo=true)
 
@@ -29,9 +31,6 @@ title: http://mus1.badoo.com/en/?c=badoo.webredirect&promo=true
 *  JS Response Bytes: 33473
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1353
-
-### Performance issues
-
 
 ### Performance issues
 

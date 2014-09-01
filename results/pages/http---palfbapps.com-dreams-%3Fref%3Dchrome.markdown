@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://palfbapps.com/dreams/?ref=chrome
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [تفسير الاحلام ابن سيرين محرك بحث البراق لتفسير الاحلام](http://palfbapps.com/dreams/?ref=chrome)
 
@@ -29,9 +33,6 @@ title: http://palfbapps.com/dreams/?ref=chrome
 *  JS Response Bytes: 551071
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.angelgames.gr/#!games-for-girls-flash-world/c1ogc
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games for girls at Angel Games](http://www.angelgames.gr/#!games-for-girls-flash-world/c1ogc)
 
@@ -29,9 +34,6 @@ title: http://www.angelgames.gr/#!games-for-girls-flash-world/c1ogc
 *  JS Response Bytes: 4511453
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.number1games.us/play/281/jack-the-giant-slayer.html#.U_ugG00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jack The Giant Slayer - Number One Games](http://www.number1games.us/play/281/jack-the-giant-slayer.html#.U_ugG00ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.number1games.us/play/281/jack-the-giant-slayer.html#.U_ugG00ie
 *  JS Response Bytes: 1575902
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16717
-
-### Performance issues
-
 
 ### Performance issues
 

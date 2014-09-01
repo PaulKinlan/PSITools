@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ww2.revisionquizzes.com/?folio=7POJ4E717
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [revisionquizzes.com](http://ww2.revisionquizzes.com/?folio=7POJ4E717)
 
@@ -29,9 +32,6 @@ title: http://ww2.revisionquizzes.com/?folio=7POJ4E717
 *  JS Response Bytes: 173157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 68
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.hitingame.com/online-games/city-drifters-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [City Drifters 2 « Online Flash Games – Popular Flash Games](http://www.hitingame.com/online-games/city-drifters-2/)
 
@@ -29,9 +35,6 @@ title: http://www.hitingame.com/online-games/city-drifters-2/
 *  JS Response Bytes: 1042687
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23820
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.betyourbits.com/#home
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BetYourBits.com - Premiere bitcoin prediction market - Provably fair raffles up to 500BTC](http://www.betyourbits.com/#home)
 
@@ -29,9 +34,6 @@ title: http://www.betyourbits.com/#home
 *  JS Response Bytes: 433527
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55209
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gota.disruptorbeam.com/users/login
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Game of Thrones Ascent Free](http://gota.disruptorbeam.com/users/login)
 
@@ -29,9 +32,6 @@ title: http://gota.disruptorbeam.com/users/login
 *  JS Response Bytes: 461884
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16898
-
-### Performance issues
-
 
 ### Performance issues
 

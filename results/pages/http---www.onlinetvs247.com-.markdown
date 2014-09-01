@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.onlinetvs247.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [OnlineTvs -:- Online TVs -:- Online TVs 24*7 -:- OnlineTvs -:- Live Tvs 24/7,Live Tvs 24*7 Free Tvs -::- Online TVs 24/7](http://www.onlinetvs247.com/)
 
@@ -29,9 +34,6 @@ title: http://www.onlinetvs247.com/
 *  JS Response Bytes: 569071
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1098
-
-### Performance issues
-
 
 ### Performance issues
 

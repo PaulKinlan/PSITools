@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.arcaderush.net/ArcadeRushApp/cwoobies.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Arcade Rush Games - Woobies](http://www.arcaderush.net/ArcadeRushApp/cwoobies.php)
 
@@ -29,9 +34,6 @@ title: http://www.arcaderush.net/ArcadeRushApp/cwoobies.php
 *  JS Response Bytes: 589739
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41516
-
-### Performance issues
-
 
 ### Performance issues
 

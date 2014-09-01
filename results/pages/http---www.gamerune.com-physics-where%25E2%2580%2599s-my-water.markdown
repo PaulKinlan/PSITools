@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gamerune.com/physics/where%E2%80%99s-my-water
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Where’s My Water? - Free Online Games | GameRune](http://www.gamerune.com/physics/where%E2%80%99s-my-water)
 
@@ -29,9 +36,6 @@ title: http://www.gamerune.com/physics/where%E2%80%99s-my-water
 *  JS Response Bytes: 2988519
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117110
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.uberconference.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free Conference Calls | Try UberConference, the Best in Conferencing](https://www.uberconference.com/)
 
@@ -29,9 +33,6 @@ title: https://www.uberconference.com/
 *  JS Response Bytes: 804359
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5052
-
-### Performance issues
-
 
 ### Performance issues
 

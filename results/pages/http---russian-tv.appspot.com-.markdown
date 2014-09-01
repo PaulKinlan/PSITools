@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://russian-tv.appspot.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Russian TV](http://russian-tv.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://russian-tv.appspot.com/
 *  JS Response Bytes: 555807
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

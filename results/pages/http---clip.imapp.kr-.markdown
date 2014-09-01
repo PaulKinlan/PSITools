@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://clip.imapp.kr/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Clip Anywhere](http://clip.imapp.kr/)
 
@@ -29,9 +31,6 @@ title: http://clip.imapp.kr/
 *  JS Response Bytes: 1855551
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15117
-
-### Performance issues
-
 
 ### Performance issues
 

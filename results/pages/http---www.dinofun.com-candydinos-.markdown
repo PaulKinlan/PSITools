@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.dinofun.com/candydinos/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Dinosaurs Candy | Dinosaur Candy Molds | Dinosaur Games Online Free](http://www.dinofun.com/candydinos/)
 
@@ -29,9 +32,6 @@ title: http://www.dinofun.com/candydinos/
 *  JS Response Bytes: 1327632
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110597
-
-### Performance issues
-
 
 ### Performance issues
 

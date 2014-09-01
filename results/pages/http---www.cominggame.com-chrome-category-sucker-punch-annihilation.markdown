@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.cominggame.com/chrome-category/sucker-punch-annihilation
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sucker Punch Annihilation - Coming Game](http://www.cominggame.com/chrome-category/sucker-punch-annihilation)
 
@@ -29,9 +33,6 @@ title: http://www.cominggame.com/chrome-category/sucker-punch-annihilation
 *  JS Response Bytes: 1227202
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31504
-
-### Performance issues
-
 
 ### Performance issues
 

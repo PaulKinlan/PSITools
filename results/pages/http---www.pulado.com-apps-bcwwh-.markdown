@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pulado.com/apps/bcwwh/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Love Wars](http://www.pulado.com/apps/bcwwh/)
 
@@ -29,9 +33,6 @@ title: http://www.pulado.com/apps/bcwwh/
 *  JS Response Bytes: 21808
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

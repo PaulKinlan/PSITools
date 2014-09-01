@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.myintranet.de/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Intranet in der Cloud](http://www.myintranet.de/)
 
@@ -29,9 +32,6 @@ title: http://www.myintranet.de/
 *  JS Response Bytes: 150245
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52511
-
-### Performance issues
-
 
 ### Performance issues
 

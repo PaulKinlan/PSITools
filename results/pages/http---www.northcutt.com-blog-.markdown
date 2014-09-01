@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.northcutt.com/blog/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SEO Blog | Inbound Marketing News | @northcuttHQ](http://www.northcutt.com/blog/)
 
@@ -29,9 +33,6 @@ title: http://www.northcutt.com/blog/
 *  JS Response Bytes: 1360720
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287763
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://secure.waroflegends.com/m=weblogin/g=waroflegends/loginform.ws?mod=wol-bridge&ssl=1&expired=0&dest=serverSelect.ws
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Multiplayer Strategy Game War of Legends - by Jagex Publishing](https://secure.waroflegends.com/m=weblogin/g=waroflegends/loginform.ws?mod=wol-bridge&ssl=1&expired=0&dest=serverSelect.ws)
 
@@ -29,9 +34,6 @@ title: https://secure.waroflegends.com/m=weblogin/g=waroflegends/loginform.ws?mo
 *  JS Response Bytes: 344086
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1356
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.icegamer.net/2009/11/cool-racing-gamersafe-version/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Cool Racing – Enhanced Game on IceGamer](http://www.icegamer.net/2009/11/cool-racing-gamersafe-version/)
 
@@ -29,9 +34,6 @@ title: http://www.icegamer.net/2009/11/cool-racing-gamersafe-version/
 *  JS Response Bytes: 2230042
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 149292
-
-### Performance issues
-
 
 ### Performance issues
 

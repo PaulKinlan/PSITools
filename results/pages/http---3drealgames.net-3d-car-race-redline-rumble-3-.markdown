@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://3drealgames.net/3d-car-race/redline-rumble-3/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Redline Rumble 3](http://3drealgames.net/3d-car-race/redline-rumble-3/)
 
@@ -29,9 +34,6 @@ title: http://3drealgames.net/3d-car-race/redline-rumble-3/
 *  JS Response Bytes: 813235
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16392
-
-### Performance issues
-
 
 ### Performance issues
 

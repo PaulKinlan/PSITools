@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.itestu.com/24/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [24 Points](http://www.itestu.com/24/)
 
@@ -29,9 +33,6 @@ title: http://www.itestu.com/24/
 *  JS Response Bytes: 132817
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52700
-
-### Performance issues
-
 
 ### Performance issues
 

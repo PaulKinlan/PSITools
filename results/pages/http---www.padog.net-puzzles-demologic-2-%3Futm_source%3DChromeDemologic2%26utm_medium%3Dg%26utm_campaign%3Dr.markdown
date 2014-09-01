@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.padog.net/puzzles/demologic-2/?utm_source=ChromeDemologic2&utm_medium=g&utm_campaign=r
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Demologic 2 Download & Play Online](http://www.padog.net/puzzles/demologic-2/?utm_source=ChromeDemologic2&utm_medium=g&utm_campaign=r)
 
@@ -29,9 +34,6 @@ title: http://www.padog.net/puzzles/demologic-2/?utm_source=ChromeDemologic2&utm
 *  JS Response Bytes: 451043
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2654
-
-### Performance issues
-
 
 ### Performance issues
 

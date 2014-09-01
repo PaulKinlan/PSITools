@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.wewriteastory.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [We Write A Story: Collaborative writing game](http://www.wewriteastory.com/)
 
@@ -29,9 +33,6 @@ title: http://www.wewriteastory.com/
 *  JS Response Bytes: 1249765
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122607
-
-### Performance issues
-
 
 ### Performance issues
 

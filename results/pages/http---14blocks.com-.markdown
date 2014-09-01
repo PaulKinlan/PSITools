@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://14blocks.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [14 Blocks | Schedule Tweet at the Right Time](http://14blocks.com/)
 
@@ -29,9 +32,6 @@ title: http://14blocks.com/
 *  JS Response Bytes: 161335
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12778
-
-### Performance issues
-
 
 ### Performance issues
 

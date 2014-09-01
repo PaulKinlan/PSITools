@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://games.playtouch.net/chrome/save-me/save-me/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Save Me](http://games.playtouch.net/chrome/save-me/save-me/)
 
@@ -29,9 +32,6 @@ title: http://games.playtouch.net/chrome/save-me/save-me/
 *  JS Response Bytes: 711116
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1043
-
-### Performance issues
-
 
 ### Performance issues
 

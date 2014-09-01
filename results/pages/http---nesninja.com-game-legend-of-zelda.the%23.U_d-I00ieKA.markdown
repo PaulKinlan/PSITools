@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://nesninja.com/game/legend-of-zelda.the#.U_d-I00ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Legend of Zelda, The » NES Ninja](http://nesninja.com/game/legend-of-zelda.the#.U_d-I00ieKA)
 
@@ -29,9 +32,6 @@ title: http://nesninja.com/game/legend-of-zelda.the#.U_d-I00ieKA
 *  JS Response Bytes: 2316004
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 174970
-
-### Performance issues
-
 
 ### Performance issues
 

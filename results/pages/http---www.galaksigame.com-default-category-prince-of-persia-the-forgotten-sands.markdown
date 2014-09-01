@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.galaksigame.com/default-category/prince-of-persia-the-forgotten-sands
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Prince of Persia The Forgotten Sands - Galaksigame](http://www.galaksigame.com/default-category/prince-of-persia-the-forgotten-sands)
 
@@ -29,9 +34,6 @@ title: http://www.galaksigame.com/default-category/prince-of-persia-the-forgotte
 *  JS Response Bytes: 2094094
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118151
-
-### Performance issues
-
 
 ### Performance issues
 

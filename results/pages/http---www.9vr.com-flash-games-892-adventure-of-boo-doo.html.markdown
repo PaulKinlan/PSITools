@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.9vr.com/flash-games/892/adventure-of-boo-doo.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Adventure of Boo Doo on 9vr - Games Power Play](http://www.9vr.com/flash-games/892/adventure-of-boo-doo.html)
 
@@ -29,9 +35,6 @@ title: http://www.9vr.com/flash-games/892/adventure-of-boo-doo.html
 *  JS Response Bytes: 1995885
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99104
-
-### Performance issues
-
 
 ### Performance issues
 

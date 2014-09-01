@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://newyearscountdown.org/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [New Year's Countdown](http://newyearscountdown.org/)
 
@@ -29,9 +35,6 @@ title: http://newyearscountdown.org/
 *  JS Response Bytes: 1808220
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 191789
-
-### Performance issues
-
 
 ### Performance issues
 

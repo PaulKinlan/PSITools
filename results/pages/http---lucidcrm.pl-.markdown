@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://lucidcrm.pl/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LucidCRM | CRM Online - Zarządzanie relacjami z klientami oraz komunikacja w firmie](http://lucidcrm.pl/)
 
@@ -29,9 +34,6 @@ title: http://lucidcrm.pl/
 *  JS Response Bytes: 177970
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

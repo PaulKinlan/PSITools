@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.haikudeck.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Presentation Software that Inspires | Haiku Deck](https://www.haikudeck.com/)
 
@@ -29,9 +33,6 @@ title: https://www.haikudeck.com/
 *  JS Response Bytes: 1871056
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 37068
-
-### Performance issues
-
 
 ### Performance issues
 

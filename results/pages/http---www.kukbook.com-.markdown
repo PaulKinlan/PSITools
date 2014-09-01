@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.kukbook.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kukbook - Living Recipes](http://www.kukbook.com/)
 
@@ -29,9 +32,6 @@ title: http://www.kukbook.com/
 *  JS Response Bytes: 946699
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1332
-
-### Performance issues
-
 
 ### Performance issues
 

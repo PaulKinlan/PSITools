@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://sites.google.com/site/qoranelkarim/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [القرآن الكريم](https://sites.google.com/site/qoranelkarim/)
 
@@ -29,9 +34,6 @@ title: https://sites.google.com/site/qoranelkarim/
 *  JS Response Bytes: 1908986
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97256
-
-### Performance issues
-
 
 ### Performance issues
 

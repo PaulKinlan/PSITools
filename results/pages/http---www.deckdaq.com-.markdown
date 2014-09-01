@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.deckdaq.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DeckDAQ](http://www.deckdaq.com/)
 
@@ -29,9 +32,6 @@ title: http://www.deckdaq.com/
 *  JS Response Bytes: 1227882
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22102
-
-### Performance issues
-
 
 ### Performance issues
 

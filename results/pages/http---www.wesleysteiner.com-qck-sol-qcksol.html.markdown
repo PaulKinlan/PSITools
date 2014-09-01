@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.wesleysteiner.com/qck/sol/qcksol.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Quick Solitaire](http://www.wesleysteiner.com/qck/sol/qcksol.html)
 
@@ -29,9 +32,6 @@ title: http://www.wesleysteiner.com/qck/sol/qcksol.html
 *  JS Response Bytes: 697795
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

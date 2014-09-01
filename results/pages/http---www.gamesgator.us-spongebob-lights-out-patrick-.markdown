@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.us/spongebob-lights-out-patrick/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SpongeBob Lights Out Patrick](http://www.gamesgator.us/spongebob-lights-out-patrick/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.us/spongebob-lights-out-patrick/
 *  JS Response Bytes: 961281
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 65648
-
-### Performance issues
-
 
 ### Performance issues
 

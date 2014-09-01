@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.spielz.com/games/game/name/papa-s-freezeria-to-go
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [papa-s-freezeria-to-go spiele](http://www.spielz.com/games/game/name/papa-s-freezeria-to-go)
 
@@ -29,9 +35,6 @@ title: http://www.spielz.com/games/game/name/papa-s-freezeria-to-go
 *  JS Response Bytes: 1830287
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97047
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://web.seavusprojectviewer.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Seavus Project Viewer](https://web.seavusprojectviewer.com/)
 
@@ -29,9 +33,6 @@ title: https://web.seavusprojectviewer.com/
 *  JS Response Bytes: 566854
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5622
-
-### Performance issues
-
 
 ### Performance issues
 

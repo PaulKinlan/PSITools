@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://smart.idigital.fr/laboeuris-corp/Front/App/
+MinimizeRenderBlockingResources: true
 ---
 ## [](https://smart.idigital.fr/laboeuris-corp/Front/App/)
 
@@ -29,9 +30,6 @@ title: https://smart.idigital.fr/laboeuris-corp/Front/App/
 *  JS Response Bytes: 740151
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

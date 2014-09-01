@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://alefteris.github.io/timerx3/
+SizeTapTargetsAppropriately: true
 ---
 ## [TimerX3](http://alefteris.github.io/timerx3/)
 
@@ -29,9 +30,6 @@ title: http://alefteris.github.io/timerx3/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

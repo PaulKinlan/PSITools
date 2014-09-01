@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.johnrouda.com/google/apps/bandwidth/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Test My Speed!](http://www.johnrouda.com/google/apps/bandwidth/)
 
@@ -29,9 +33,6 @@ title: http://www.johnrouda.com/google/apps/bandwidth/
 *  JS Response Bytes: 680888
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2041
-
-### Performance issues
-
 
 ### Performance issues
 

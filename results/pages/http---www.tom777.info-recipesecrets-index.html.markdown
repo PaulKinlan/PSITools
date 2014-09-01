@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tom777.info/recipesecrets/index.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [America's Restaurant Recipes](http://www.tom777.info/recipesecrets/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.tom777.info/recipesecrets/index.html
 *  JS Response Bytes: 557841
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

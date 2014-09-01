@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://soundcloud-picker.ponyho.st/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [](http://soundcloud-picker.ponyho.st/)
 
@@ -29,9 +31,6 @@ title: http://soundcloud-picker.ponyho.st/
 *  JS Response Bytes: 133341
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

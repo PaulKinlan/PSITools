@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://disctract.mellisdesigns.com/
+EnableGzipCompression: true
 ---
 ## [Disctract - Your Music Exploration Tool](http://disctract.mellisdesigns.com/)
 
@@ -29,9 +30,6 @@ title: http://disctract.mellisdesigns.com/
 *  JS Response Bytes: 48255
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

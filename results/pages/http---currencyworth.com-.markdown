@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://currencyworth.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Currency Converter Online Calculator - Free Widget For Your Website](http://currencyworth.com/)
 
@@ -29,9 +31,6 @@ title: http://currencyworth.com/
 *  JS Response Bytes: 679440
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59060
-
-### Performance issues
-
 
 ### Performance issues
 

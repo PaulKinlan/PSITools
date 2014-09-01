@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://script.google.com/macros/s/AKfycbzlZymEXTgHy_Hb7VIWpRYtlhB40-ShWfWMrziFVWa8A0VOZ-Yf/exec
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [RWL Tech App](https://script.google.com/macros/s/AKfycbzlZymEXTgHy_Hb7VIWpRYtlhB40-ShWfWMrziFVWa8A0VOZ-Yf/exec)
 
@@ -29,9 +34,6 @@ title: https://script.google.com/macros/s/AKfycbzlZymEXTgHy_Hb7VIWpRYtlhB40-ShWf
 *  JS Response Bytes: 1292921
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

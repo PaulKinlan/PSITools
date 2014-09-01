@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.iradeo.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Radio Hosting, Internet Radio Hosting, Audio Streaming Software — iRadeo](http://www.iradeo.com/)
 
@@ -29,9 +33,6 @@ title: http://www.iradeo.com/
 *  JS Response Bytes: 251687
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

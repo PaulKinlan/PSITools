@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://en.bcnevents.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [BCN Events | Listings for Upcoming Events in Barcelona](http://en.bcnevents.net/)
 
@@ -29,9 +32,6 @@ title: http://en.bcnevents.net/
 *  JS Response Bytes: 529683
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30308
-
-### Performance issues
-
 
 ### Performance issues
 

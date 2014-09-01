@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://favibox.com/headlines
+UseLegibleFontSizes: true
 ---
 ## [](http://favibox.com/headlines)
 
@@ -29,9 +30,6 @@ title: http://favibox.com/headlines
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 344
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.palabraprofeticadeldia.com/?ref=cws
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Palabra Profetica](http://www.palabraprofeticadeldia.com/?ref=cws)
 
@@ -29,9 +31,6 @@ title: http://www.palabraprofeticadeldia.com/?ref=cws
 *  JS Response Bytes: 516984
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 832
-
-### Performance issues
-
 
 ### Performance issues
 

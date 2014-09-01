@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.brunozene.com.br/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BRUNO ZENE](http://www.brunozene.com.br/)
 
@@ -29,9 +35,6 @@ title: http://www.brunozene.com.br/
 *  JS Response Bytes: 83317
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

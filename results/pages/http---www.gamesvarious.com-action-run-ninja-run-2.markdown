@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/action/run-ninja-run-2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Run Ninja Run 2 - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/action/run-ninja-run-2)
 
@@ -29,9 +35,6 @@ title: http://www.gamesvarious.com/action/run-ninja-run-2
 *  JS Response Bytes: 2212237
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148337
-
-### Performance issues
-
 
 ### Performance issues
 

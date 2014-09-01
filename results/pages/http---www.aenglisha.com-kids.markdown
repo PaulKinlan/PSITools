@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.aenglisha.com/kids
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Children Kids online educational fun learning games activities](http://www.aenglisha.com/kids)
 
@@ -29,9 +31,6 @@ title: http://www.aenglisha.com/kids
 *  JS Response Bytes: 899260
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54468
-
-### Performance issues
-
 
 ### Performance issues
 

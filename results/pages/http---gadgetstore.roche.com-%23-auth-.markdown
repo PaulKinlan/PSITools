@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gadgetstore.roche.com/#/auth/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Gadget Store](http://gadgetstore.roche.com/#/auth/)
 
@@ -18,20 +22,17 @@ title: http://gadgetstore.roche.com/#/auth/
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 13
-*  Total Request Bytes: 4192
+*  Total Request Bytes: 4194
 
 ### Response data
 
-*  HTML Response Bytes: 11322
+*  HTML Response Bytes: 11313
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 29068
 *  Image Response Bytes: 2110
-*  JS Response Bytes: 679080
+*  JS Response Bytes: 678551
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 4002
-
-### Performance issues
-
+*  Other Response Bytes: 4006
 
 ### Performance issues
 

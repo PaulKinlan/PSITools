@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.downloadhelper.info/instamessage.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [InstaMessage | Download Helper](http://www.downloadhelper.info/instamessage.html)
 
@@ -29,9 +32,6 @@ title: http://www.downloadhelper.info/instamessage.html
 *  JS Response Bytes: 504116
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 76535
-
-### Performance issues
-
 
 ### Performance issues
 

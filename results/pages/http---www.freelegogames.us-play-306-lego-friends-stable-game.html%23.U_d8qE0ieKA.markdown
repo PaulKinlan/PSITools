@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freelegogames.us/play/306/lego-friends-stable-game.html#.U_d8qE0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lego Friends Stable Game - Free Logo Games](http://www.freelegogames.us/play/306/lego-friends-stable-game.html#.U_d8qE0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.freelegogames.us/play/306/lego-friends-stable-game.html#.U_d8q
 *  JS Response Bytes: 1646854
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 36300
-
-### Performance issues
-
 
 ### Performance issues
 

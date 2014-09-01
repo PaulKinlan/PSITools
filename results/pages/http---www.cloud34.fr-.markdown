@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.cloud34.fr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Actualités Google Apps for business par Cloud34.fr](http://www.cloud34.fr/)
 
@@ -29,9 +33,6 @@ title: http://www.cloud34.fr/
 *  JS Response Bytes: 1893430
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 330510
-
-### Performance issues
-
 
 ### Performance issues
 

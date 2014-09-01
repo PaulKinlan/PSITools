@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.urionlinejudge.com.br/judge/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [URI Online Judge](https://www.urionlinejudge.com.br/judge/login)
 
@@ -29,9 +33,6 @@ title: https://www.urionlinejudge.com.br/judge/login
 *  JS Response Bytes: 138252
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1328
-
-### Performance issues
-
 
 ### Performance issues
 

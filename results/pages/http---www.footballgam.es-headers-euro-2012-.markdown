@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/headers-euro-2012/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Headers Euro 2012 Game](http://www.footballgam.es/headers-euro-2012/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/headers-euro-2012/
 *  JS Response Bytes: 2578367
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 154348
-
-### Performance issues
-
 
 ### Performance issues
 

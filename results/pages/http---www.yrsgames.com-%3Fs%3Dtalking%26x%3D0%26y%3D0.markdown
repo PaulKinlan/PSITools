@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.yrsgames.com/?s=talking&x=0&y=0
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [talking « Search Results « Free Best HD Games Play Now](http://www.yrsgames.com/?s=talking&x=0&y=0)
 
@@ -29,9 +35,6 @@ title: http://www.yrsgames.com/?s=talking&x=0&y=0
 *  JS Response Bytes: 506235
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

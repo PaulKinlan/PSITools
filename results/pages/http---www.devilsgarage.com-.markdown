@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.devilsgarage.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Devils Garage | Creative outlet of Ajay Karat](http://www.devilsgarage.com/)
 
@@ -29,9 +33,6 @@ title: http://www.devilsgarage.com/
 *  JS Response Bytes: 230301
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 862
-
-### Performance issues
-
 
 ### Performance issues
 

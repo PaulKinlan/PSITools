@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/adventure/hired-heroes
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hired Heroes - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/adventure/hired-heroes)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/adventure/hired-heroes
 *  JS Response Bytes: 2211659
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 157309
-
-### Performance issues
-
 
 ### Performance issues
 

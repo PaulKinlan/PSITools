@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pixelway.ch/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [PiXELWAY](http://www.pixelway.ch/)
 
@@ -29,9 +33,6 @@ title: http://www.pixelway.ch/
 *  JS Response Bytes: 939417
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7553
-
-### Performance issues
-
 
 ### Performance issues
 

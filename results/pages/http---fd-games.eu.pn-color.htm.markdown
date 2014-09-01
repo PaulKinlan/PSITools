@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://fd-games.eu.pn/color.htm
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Choose The Color Of The Word](http://fd-games.eu.pn/color.htm)
 
@@ -29,9 +34,6 @@ title: http://fd-games.eu.pn/color.htm
 *  JS Response Bytes: 247699
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1062
-
-### Performance issues
-
 
 ### Performance issues
 

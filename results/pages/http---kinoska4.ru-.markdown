@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://kinoska4.ru/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [4 бюджетный кодекс м 2013 количество страниц виздании](http://kinoska4.ru/)
 
@@ -29,9 +33,6 @@ title: http://kinoska4.ru/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

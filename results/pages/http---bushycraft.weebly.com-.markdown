@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bushycraft.weebly.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [BushyCraft - BushMiner's Minecraft Guide - Home](http://bushycraft.weebly.com/)
 
@@ -29,9 +32,6 @@ title: http://bushycraft.weebly.com/
 *  JS Response Bytes: 910875
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 86850
-
-### Performance issues
-
 
 ### Performance issues
 

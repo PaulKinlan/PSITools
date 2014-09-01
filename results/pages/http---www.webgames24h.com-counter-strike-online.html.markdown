@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.webgames24h.com/counter-strike-online.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Counter Strike Online | Web Games 24H](http://www.webgames24h.com/counter-strike-online.html)
 
@@ -29,9 +34,6 @@ title: http://www.webgames24h.com/counter-strike-online.html
 *  JS Response Bytes: 1529792
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116915
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.playbestpuzzlegames.com/sports-games/bowling-game
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bowling Game - Games - Free Online Play Best Puzzle Games](http://www.playbestpuzzlegames.com/sports-games/bowling-game)
 
@@ -29,9 +35,6 @@ title: http://www.playbestpuzzlegames.com/sports-games/bowling-game
 *  JS Response Bytes: 979720
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17066
-
-### Performance issues
-
 
 ### Performance issues
 

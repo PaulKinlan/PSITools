@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.flashgames24.in/app/Temple/index.html#.U_eDwk0ieKA
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Temple Run](http://www.flashgames24.in/app/Temple/index.html#.U_eDwk0ieKA)
 
@@ -29,9 +32,6 @@ title: http://www.flashgames24.in/app/Temple/index.html#.U_eDwk0ieKA
 *  JS Response Bytes: 2055369
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110246
-
-### Performance issues
-
 
 ### Performance issues
 

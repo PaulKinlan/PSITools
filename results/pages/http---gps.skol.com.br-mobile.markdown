@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gps.skol.com.br/mobile
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [GPS Skol](http://gps.skol.com.br/mobile)
 
@@ -29,9 +31,6 @@ title: http://gps.skol.com.br/mobile
 *  JS Response Bytes: 135787
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4924
-
-### Performance issues
-
 
 ### Performance issues
 

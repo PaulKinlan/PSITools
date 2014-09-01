@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://steelsoftlab.com/games/StreetFighter/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Street Fighter](http://steelsoftlab.com/games/StreetFighter/index.html)
 
@@ -29,9 +35,6 @@ title: http://steelsoftlab.com/games/StreetFighter/index.html
 *  JS Response Bytes: 549191
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://playgametemplerun2.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Temple Run 2](http://playgametemplerun2.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://playgametemplerun2.blogspot.com/?m=1
 *  JS Response Bytes: 314952
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6348
-
-### Performance issues
-
 
 ### Performance issues
 

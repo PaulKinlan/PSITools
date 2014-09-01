@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gamehdportal.blogspot.com/2013/11/gta-5.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Best of game Portal: gta 5](http://gamehdportal.blogspot.com/2013/11/gta-5.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://gamehdportal.blogspot.com/2013/11/gta-5.html?m=1
 *  JS Response Bytes: 2037071
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 288282
-
-### Performance issues
-
 
 ### Performance issues
 

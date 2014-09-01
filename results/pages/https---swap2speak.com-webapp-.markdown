@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://swap2speak.com/webapp/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Photo App swap and speaking - swap2speak](https://swap2speak.com/webapp/)
 
@@ -29,9 +31,6 @@ title: https://swap2speak.com/webapp/
 *  JS Response Bytes: 115840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

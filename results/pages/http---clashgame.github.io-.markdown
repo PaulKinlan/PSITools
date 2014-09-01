@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://clashgame.github.io/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Clash - a mini strategy game](http://clashgame.github.io/)
 
@@ -29,9 +31,6 @@ title: http://clashgame.github.io/
 *  JS Response Bytes: 1001548
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32748
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://portal.fabricadeaplicativos.com.br/mobile_form/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Fábrica de Aplicativos](http://portal.fabricadeaplicativos.com.br/mobile_form/)
 
@@ -29,9 +31,6 @@ title: http://portal.fabricadeaplicativos.com.br/mobile_form/
 *  JS Response Bytes: 92780
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 66663
-
-### Performance issues
-
 
 ### Performance issues
 

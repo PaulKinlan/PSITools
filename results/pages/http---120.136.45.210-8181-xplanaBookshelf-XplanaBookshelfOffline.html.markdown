@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://120.136.45.210:8181/xplanaBookshelf/XplanaBookshelfOffline.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Offline Bookshelf](http://120.136.45.210:8181/xplanaBookshelf/XplanaBookshelfOffline.html)
 
@@ -29,9 +32,6 @@ title: http://120.136.45.210:8181/xplanaBookshelf/XplanaBookshelfOffline.html
 *  JS Response Bytes: 378676
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

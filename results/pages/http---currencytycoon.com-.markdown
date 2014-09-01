@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://currencytycoon.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Currency Tycoon - Foreign Currency Trading Simulator, includes Bitcoin](http://currencytycoon.com/)
 
@@ -29,9 +33,6 @@ title: http://currencytycoon.com/
 *  JS Response Bytes: 1512647
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25883
-
-### Performance issues
-
 
 ### Performance issues
 

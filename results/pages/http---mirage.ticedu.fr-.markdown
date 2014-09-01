@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mirage.ticedu.fr/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mirage – réalité augmentée | L'enseignement… autrement](http://mirage.ticedu.fr/)
 
@@ -29,9 +32,6 @@ title: http://mirage.ticedu.fr/
 *  JS Response Bytes: 266869
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50916
-
-### Performance issues
-
 
 ### Performance issues
 

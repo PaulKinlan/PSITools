@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.777flashgames.com/minecraft.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MineCraft | 777 Flash Games](http://www.777flashgames.com/minecraft.html)
 
@@ -29,9 +37,6 @@ title: http://www.777flashgames.com/minecraft.html
 *  JS Response Bytes: 1529280
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110057
-
-### Performance issues
-
 
 ### Performance issues
 

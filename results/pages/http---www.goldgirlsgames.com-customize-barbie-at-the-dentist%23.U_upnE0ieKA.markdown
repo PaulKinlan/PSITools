@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.goldgirlsgames.com/customize/barbie-at-the-dentist#.U_upnE0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Barbie At The Dentist - Flash Game For Girl](http://www.goldgirlsgames.com/customize/barbie-at-the-dentist#.U_upnE0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.goldgirlsgames.com/customize/barbie-at-the-dentist#.U_upnE0ieK
 *  JS Response Bytes: 1722490
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47186
-
-### Performance issues
-
 
 ### Performance issues
 

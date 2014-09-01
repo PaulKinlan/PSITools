@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://barbiemakeovergames.net/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Barbie Games](http://barbiemakeovergames.net/)
 
@@ -29,9 +33,6 @@ title: http://barbiemakeovergames.net/
 *  JS Response Bytes: 1901253
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113852
-
-### Performance issues
-
 
 ### Performance issues
 

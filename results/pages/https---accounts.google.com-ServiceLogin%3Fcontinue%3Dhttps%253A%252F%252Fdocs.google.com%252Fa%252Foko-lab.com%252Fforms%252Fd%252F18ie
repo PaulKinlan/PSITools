@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fdocs.google.com%2Fa%2Foko-lab.com%2Fforms%2Fd%2F18ieaNZwNE4dZ7x8EAE_qlrmbhInxeH-ERwqu8AlPG6o%2Fviewform&ltmpl=forms&service=wise&sacu=1&hd=oko-lab.com
+AvoidLandingPageRedirects: true
+ServerResponseTime: true
 ---
 ## [Google Forms - create and analyze surveys, for free.](https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fdocs.google.com%2Fa%2Foko-lab.com%2Fforms%2Fd%2F18ieaNZwNE4dZ7x8EAE_qlrmbhInxeH-ERwqu8AlPG6o%2Fviewform&ltmpl=forms&service=wise&sacu=1&hd=oko-lab.com)
 
@@ -29,9 +31,6 @@ title: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fdocs.goog
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53103
-
-### Performance issues
-
 
 ### Performance issues
 

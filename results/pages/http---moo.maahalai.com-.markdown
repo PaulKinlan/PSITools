@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://moo.maahalai.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [หมูมหาลัย : รวมเทคนิควิธีเล่น แฮปปี้คนเลี้ยงหมู สูตรหมู ตารางผสมพันธ์หมูพิเศษ](http://moo.maahalai.com/)
 
@@ -29,9 +34,6 @@ title: http://moo.maahalai.com/
 *  JS Response Bytes: 35027
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 717
-
-### Performance issues
-
 
 ### Performance issues
 

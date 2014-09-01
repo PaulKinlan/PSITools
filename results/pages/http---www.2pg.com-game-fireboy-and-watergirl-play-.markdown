@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2pg.com/game/fireboy-and-watergirl/play/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fireboy and Watergirl | 2 Player Games](http://www.2pg.com/game/fireboy-and-watergirl/play/)
 
@@ -29,9 +34,6 @@ title: http://www.2pg.com/game/fireboy-and-watergirl/play/
 *  JS Response Bytes: 1419101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25920
-
-### Performance issues
-
 
 ### Performance issues
 

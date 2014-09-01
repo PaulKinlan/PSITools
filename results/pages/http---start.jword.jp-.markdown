@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://start.jword.jp/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [スタートページ - E START インターネットの検索とアクセスをシンプルに](http://start.jword.jp/)
 
@@ -29,9 +33,6 @@ title: http://start.jword.jp/
 *  JS Response Bytes: 182216
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

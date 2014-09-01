@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://apps.gn-soft.net/webapps/flapchicken/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flappy Chichen](http://apps.gn-soft.net/webapps/flapchicken/)
 
@@ -29,9 +34,6 @@ title: http://apps.gn-soft.net/webapps/flapchicken/
 *  JS Response Bytes: 1412289
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95779
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.samstore.info/TuneGet/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TuneGet - Finds and downloads any music and music video from the web in 2 clicks.](http://www.samstore.info/TuneGet/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.samstore.info/TuneGet/index.html
 *  JS Response Bytes: 1135909
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98502
-
-### Performance issues
-
 
 ### Performance issues
 

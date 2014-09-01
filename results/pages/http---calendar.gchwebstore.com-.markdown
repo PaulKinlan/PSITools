@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://calendar.gchwebstore.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GCH Calendar](http://calendar.gchwebstore.com/)
 
@@ -29,9 +32,6 @@ title: http://calendar.gchwebstore.com/
 *  JS Response Bytes: 524613
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

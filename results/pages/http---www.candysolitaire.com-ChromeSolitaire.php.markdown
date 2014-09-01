@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.candysolitaire.com/ChromeSolitaire.php
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Candy Solitaire for Chrome](http://www.candysolitaire.com/ChromeSolitaire.php)
 
@@ -29,9 +34,6 @@ title: http://www.candysolitaire.com/ChromeSolitaire.php
 *  JS Response Bytes: 1408964
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97515
-
-### Performance issues
-
 
 ### Performance issues
 

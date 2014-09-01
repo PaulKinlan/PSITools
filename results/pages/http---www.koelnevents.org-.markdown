@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.koelnevents.org/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Veranstaltungen & EVENTS in KÖLN und Umgebung - Veranstaltungskalender Heute - KÖLN EVENTS](http://www.koelnevents.org/)
 
@@ -29,9 +33,6 @@ title: http://www.koelnevents.org/
 *  JS Response Bytes: 665286
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 80384
-
-### Performance issues
-
 
 ### Performance issues
 

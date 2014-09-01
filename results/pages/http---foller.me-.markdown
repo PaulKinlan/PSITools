@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://foller.me/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Foller.me Analytics for Twitter](http://foller.me/)
 
@@ -29,9 +32,6 @@ title: http://foller.me/
 *  JS Response Bytes: 1141916
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96033
-
-### Performance issues
-
 
 ### Performance issues
 

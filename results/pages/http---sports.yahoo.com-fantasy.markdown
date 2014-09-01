@@ -33,8 +33,5 @@ title: http://sports.yahoo.com/fantasy
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

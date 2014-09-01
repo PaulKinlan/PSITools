@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://www.e3english.com/academic
+UseLegibleFontSizes: true
 ---
 ## [Not Found](https://www.e3english.com/academic)
 
@@ -29,9 +30,6 @@ title: https://www.e3english.com/academic
 *  JS Response Bytes: 49792
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8615
-
-### Performance issues
-
 
 ### Performance issues
 

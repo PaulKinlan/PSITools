@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://thebestandthenewestonlinegames.blogspot.com/2013/11/the-keeper-of-4-elements.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The best and the newest online games: The Keeper Of 4 Elements](http://thebestandthenewestonlinegames.blogspot.com/2013/11/the-keeper-of-4-elements.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://thebestandthenewestonlinegames.blogspot.com/2013/11/the-keeper-of-
 *  JS Response Bytes: 1291173
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110306
-
-### Performance issues
-
 
 ### Performance issues
 

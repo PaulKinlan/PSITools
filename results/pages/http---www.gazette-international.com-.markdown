@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gazette-international.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Art Market Magazine](http://www.gazette-international.com/)
 
@@ -29,9 +32,6 @@ title: http://www.gazette-international.com/
 *  JS Response Bytes: 139921
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11299
-
-### Performance issues
-
 
 ### Performance issues
 

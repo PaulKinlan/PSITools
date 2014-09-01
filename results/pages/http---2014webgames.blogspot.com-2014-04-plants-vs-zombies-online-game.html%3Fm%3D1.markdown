@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://2014webgames.blogspot.com/2014/04/plants-vs-zombies-online-game.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Online games: Plants vs Zombies Online game](http://2014webgames.blogspot.com/2014/04/plants-vs-zombies-online-game.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://2014webgames.blogspot.com/2014/04/plants-vs-zombies-online-game.ht
 *  JS Response Bytes: 762222
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95606
-
-### Performance issues
-
 
 ### Performance issues
 

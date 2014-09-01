@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/speedy-ball/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Speedy Ball Game — Sultans of Game](http://www.sultansofgame.com/games/speedy-ball/)
 
@@ -29,9 +34,6 @@ title: http://www.sultansofgame.com/games/speedy-ball/
 *  JS Response Bytes: 1558092
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 135599
-
-### Performance issues
-
 
 ### Performance issues
 

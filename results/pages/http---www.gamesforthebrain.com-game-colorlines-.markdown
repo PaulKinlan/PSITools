@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesforthebrain.com/game/colorlines/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Colored Lines - Games for the Brain](http://www.gamesforthebrain.com/game/colorlines/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesforthebrain.com/game/colorlines/
 *  JS Response Bytes: 427935
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

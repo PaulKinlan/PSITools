@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://my.iqtell.com/iqtell/user/login
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Log In to IQTELL](https://my.iqtell.com/iqtell/user/login)
 
@@ -22,16 +27,13 @@ title: https://my.iqtell.com/iqtell/user/login
 
 ### Response data
 
-*  HTML Response Bytes: 13462
+*  HTML Response Bytes: 13468
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 174437
 *  Image Response Bytes: 381796
-*  JS Response Bytes: 1703433
+*  JS Response Bytes: 1703443
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 58930
-
-### Performance issues
-
+*  Other Response Bytes: 58928
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://pcplaygamez.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [PC Play Game](http://pcplaygamez.blogspot.com/?m=1)
 
@@ -18,20 +19,17 @@ title: http://pcplaygamez.blogspot.com/?m=1
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 13
-*  Total Request Bytes: 3625
+*  Total Request Bytes: 3623
 
 ### Response data
 
-*  HTML Response Bytes: 60775
+*  HTML Response Bytes: 60776
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 21448
-*  Image Response Bytes: 19271
-*  JS Response Bytes: 596723
+*  CSS Response Bytes: 21447
+*  Image Response Bytes: 19270
+*  JS Response Bytes: 596078
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2964
-
-### Performance issues
-
 
 ### Performance issues
 

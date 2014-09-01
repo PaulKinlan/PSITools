@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.wrike.com/mobile/download.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Download Wrike App](https://www.wrike.com/mobile/download.html)
 
@@ -29,9 +31,6 @@ title: https://www.wrike.com/mobile/download.html
 *  JS Response Bytes: 95158
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 763
-
-### Performance issues
-
 
 ### Performance issues
 

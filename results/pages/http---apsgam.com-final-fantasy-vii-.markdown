@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://apsgam.com/final-fantasy-vii/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [APS GAME – Final Fantasy VII](http://apsgam.com/final-fantasy-vii/)
 
@@ -29,9 +33,6 @@ title: http://apsgam.com/final-fantasy-vii/
 *  JS Response Bytes: 879302
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15950
-
-### Performance issues
-
 
 ### Performance issues
 

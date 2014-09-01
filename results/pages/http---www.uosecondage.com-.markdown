@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.uosecondage.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [UO T2A The Way It Was | UO Free Shard | Ultima Online Free Server | Free MMORPG](http://www.uosecondage.com/)
 
@@ -29,9 +33,6 @@ title: http://www.uosecondage.com/
 *  JS Response Bytes: 1755150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 128650
-
-### Performance issues
-
 
 ### Performance issues
 

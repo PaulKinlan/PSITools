@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://norsk-engelsk-oversetter.herokuapp.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [Norsk Engelsk Oversetter](http://norsk-engelsk-oversetter.herokuapp.com/)
 
@@ -29,9 +30,6 @@ title: http://norsk-engelsk-oversetter.herokuapp.com/
 *  JS Response Bytes: 1313183
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110122
-
-### Performance issues
-
 
 ### Performance issues
 

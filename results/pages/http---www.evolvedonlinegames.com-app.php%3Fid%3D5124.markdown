@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.evolvedonlinegames.com/app.php?id=5124
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gravity Duck](http://www.evolvedonlinegames.com/app.php?id=5124)
 
@@ -29,9 +34,6 @@ title: http://www.evolvedonlinegames.com/app.php?id=5124
 *  JS Response Bytes: 1060859
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99126
-
-### Performance issues
-
 
 ### Performance issues
 

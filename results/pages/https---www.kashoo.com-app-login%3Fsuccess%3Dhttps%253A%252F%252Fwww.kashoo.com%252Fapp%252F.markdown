@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://www.kashoo.com/app/login?success=https%3A%2F%2Fwww.kashoo.com%2Fapp%2F
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Log In | Kashoo](https://www.kashoo.com/app/login?success=https%3A%2F%2Fwww.kashoo.com%2Fapp%2F)
 
@@ -29,9 +35,6 @@ title: https://www.kashoo.com/app/login?success=https%3A%2F%2Fwww.kashoo.com%2Fa
 *  JS Response Bytes: 542946
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1107
-
-### Performance issues
-
 
 ### Performance issues
 

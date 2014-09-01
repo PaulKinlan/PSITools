@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://android7.app-search.jp/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [無料アプリ(Android) | Androidアプリ検索 アプリサーチ](http://android7.app-search.jp/)
 
@@ -29,9 +31,6 @@ title: http://android7.app-search.jp/
 *  JS Response Bytes: 923753
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

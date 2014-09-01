@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://kattankudi.info/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [காத்தான்குடி.இன்போ | www.kattankudi.info](http://kattankudi.info/)
 
@@ -29,9 +31,6 @@ title: http://kattankudi.info/
 *  JS Response Bytes: 552392
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 339
-
-### Performance issues
-
 
 ### Performance issues
 

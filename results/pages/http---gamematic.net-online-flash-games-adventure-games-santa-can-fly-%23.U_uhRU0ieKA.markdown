@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/adventure-games/santa-can-fly/#.U_uhRU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Santa Can Fly « Online Flash Game Santa Can Fly](http://gamematic.net/online-flash-games/adventure-games/santa-can-fly/#.U_uhRU0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/adventure-games/santa-can-fly/#.U
 *  JS Response Bytes: 1267230
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 62738
-
-### Performance issues
-
 
 ### Performance issues
 

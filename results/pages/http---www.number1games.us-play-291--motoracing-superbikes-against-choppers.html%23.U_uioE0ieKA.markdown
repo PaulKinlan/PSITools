@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.number1games.us/play/291/-motoracing-superbikes-against-choppers.html#.U_uioE0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Motoracing Superbikes Against Choppers - Number One Games](http://www.number1games.us/play/291/-motoracing-superbikes-against-choppers.html#.U_uioE0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.number1games.us/play/291/-motoracing-superbikes-against-choppe
 *  JS Response Bytes: 2262981
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30265
-
-### Performance issues
-
 
 ### Performance issues
 

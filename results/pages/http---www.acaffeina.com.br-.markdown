@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.acaffeina.com.br/
+UseLegibleFontSizes: true
 ---
 ## [](http://www.acaffeina.com.br/)
 
@@ -29,9 +30,6 @@ title: http://www.acaffeina.com.br/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

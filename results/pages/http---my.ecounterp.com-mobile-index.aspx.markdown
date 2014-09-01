@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://my.ecounterp.com/mobile/index.aspx
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ecount ERP](http://my.ecounterp.com/mobile/index.aspx)
 
@@ -29,9 +31,6 @@ title: http://my.ecounterp.com/mobile/index.aspx
 *  JS Response Bytes: 317226
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 62
-
-### Performance issues
-
 
 ### Performance issues
 

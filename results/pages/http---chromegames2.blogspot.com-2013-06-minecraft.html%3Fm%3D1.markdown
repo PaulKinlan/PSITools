@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromegames2.blogspot.com/2013/06/minecraft.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
 ---
 ## [chrome games 2: Minecraft](http://chromegames2.blogspot.com/2013/06/minecraft.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromegames2.blogspot.com/2013/06/minecraft.html?m=1
 *  JS Response Bytes: 1067692
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97976
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/a-r-c-s-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [A.r.c.s](http://www.war-games.ws/a-r-c-s-2/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/a-r-c-s-2/
 *  JS Response Bytes: 2292935
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122121
-
-### Performance issues
-
 
 ### Performance issues
 

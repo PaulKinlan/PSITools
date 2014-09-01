@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://sbobgames.blogspot.com/2013/09/downtown-drift.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [SpongeBob Games: Downtown Drift](http://sbobgames.blogspot.com/2013/09/downtown-drift.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://sbobgames.blogspot.com/2013/09/downtown-drift.html?m=1
 *  JS Response Bytes: 1291013
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95876
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.gutegutscheine.de/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [GuteGutscheine.de: Gutscheine & Rabatte für über 4.600 Shops](http://www.gutegutscheine.de/)
 
@@ -29,9 +31,6 @@ title: http://www.gutegutscheine.de/
 *  JS Response Bytes: 403695
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 997
-
-### Performance issues
-
 
 ### Performance issues
 

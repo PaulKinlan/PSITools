@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.leoncole.com/duffmiverchrome/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Duff Miver](http://www.leoncole.com/duffmiverchrome/)
 
@@ -29,9 +33,6 @@ title: http://www.leoncole.com/duffmiverchrome/
 *  JS Response Bytes: 1410947
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 129616
-
-### Performance issues
-
 
 ### Performance issues
 

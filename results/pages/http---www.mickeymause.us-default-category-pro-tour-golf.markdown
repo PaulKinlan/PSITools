@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.mickeymause.us/default-category/pro-tour-golf
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pro Tour Golf - Mickey Mause](http://www.mickeymause.us/default-category/pro-tour-golf)
 
@@ -29,9 +36,6 @@ title: http://www.mickeymause.us/default-category/pro-tour-golf
 *  JS Response Bytes: 2552074
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98655
-
-### Performance issues
-
 
 ### Performance issues
 

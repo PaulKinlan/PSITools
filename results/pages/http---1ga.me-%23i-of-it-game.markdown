@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://1ga.me/#i-of-it-game
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [1GA.ME Just Perfect Games 1game](http://1ga.me/#i-of-it-game)
 
@@ -29,9 +32,6 @@ title: http://1ga.me/#i-of-it-game
 *  JS Response Bytes: 793144
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16911
-
-### Performance issues
-
 
 ### Performance issues
 

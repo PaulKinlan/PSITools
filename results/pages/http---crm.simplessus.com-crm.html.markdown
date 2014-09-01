@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://crm.simplessus.com/crm.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CRM](http://crm.simplessus.com/crm.html)
 
@@ -29,9 +33,6 @@ title: http://crm.simplessus.com/crm.html
 *  JS Response Bytes: 452652
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25381
-
-### Performance issues
-
 
 ### Performance issues
 

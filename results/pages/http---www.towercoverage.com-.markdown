@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.towercoverage.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TowerCoverage.com |Homepage](http://www.towercoverage.com/)
 
@@ -29,9 +33,6 @@ title: http://www.towercoverage.com/
 *  JS Response Bytes: 1586557
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6906
-
-### Performance issues
-
 
 ### Performance issues
 

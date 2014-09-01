@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://activities.macmillanmh.com/reading/treasures/stories/teachcls.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Macmillan McGraw-Hill](http://activities.macmillanmh.com/reading/treasures/stories/teachcls.html)
 
@@ -29,9 +33,6 @@ title: http://activities.macmillanmh.com/reading/treasures/stories/teachcls.html
 *  JS Response Bytes: 500
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

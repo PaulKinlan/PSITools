@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.visaoinf.com.br/alpha/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IIS 7.5 Detailed Error - 404.0 - Not Found](http://www.visaoinf.com.br/alpha/)
 
@@ -29,9 +31,6 @@ title: http://www.visaoinf.com.br/alpha/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5347
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.guituner.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Guituner.com - Free Guitar Tuner](http://www.guituner.com/)
 
@@ -29,9 +35,6 @@ title: http://www.guituner.com/
 *  JS Response Bytes: 530578
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 791
-
-### Performance issues
-
 
 ### Performance issues
 

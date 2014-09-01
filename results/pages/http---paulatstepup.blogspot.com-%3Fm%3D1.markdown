@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://paulatstepup.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mobile App Development Blog](http://paulatstepup.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://paulatstepup.blogspot.com/?m=1
 *  JS Response Bytes: 788563
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287112
-
-### Performance issues
-
 
 ### Performance issues
 

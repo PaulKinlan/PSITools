@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://eroticajobs.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Eroticajobs for al your erotic jobs and fantasies](http://eroticajobs.com/)
 
@@ -29,9 +31,6 @@ title: http://eroticajobs.com/
 *  JS Response Bytes: 1613316
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2127
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://pdfaid.com/html2pdf.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Html to Pdf Online | Save Webpage as Pdf](http://pdfaid.com/html2pdf.aspx)
 
@@ -29,9 +34,6 @@ title: http://pdfaid.com/html2pdf.aspx
 *  JS Response Bytes: 2023483
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16520
-
-### Performance issues
-
 
 ### Performance issues
 

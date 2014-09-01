@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.4cargames.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Car Games | Play Free Online Car Games](http://www.4cargames.com/)
 
@@ -29,9 +32,6 @@ title: http://www.4cargames.com/
 *  JS Response Bytes: 1634293
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115198
-
-### Performance issues
-
 
 ### Performance issues
 

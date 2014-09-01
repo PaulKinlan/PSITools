@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://77gamesun.com/the-dark-knight-rises.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [77GamesUN.Com | Flash Game Site| Play Game | – The Dark Knight Rises](http://77gamesun.com/the-dark-knight-rises.html)
 
@@ -29,9 +35,6 @@ title: http://77gamesun.com/the-dark-knight-rises.html
 *  JS Response Bytes: 416802
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1188
-
-### Performance issues
-
 
 ### Performance issues
 

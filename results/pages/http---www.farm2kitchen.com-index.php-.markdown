@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.farm2kitchen.com/index.php/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online organic food store in India | Food Shopping Online | Organic grocery | Farm2Kitchen](http://www.farm2kitchen.com/index.php/)
 
@@ -29,9 +34,6 @@ title: http://www.farm2kitchen.com/index.php/
 *  JS Response Bytes: 1377524
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12892
-
-### Performance issues
-
 
 ### Performance issues
 

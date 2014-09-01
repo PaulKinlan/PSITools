@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://yegames.info/subway-surfers/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tic Games Flash Games – Subway Surfers](http://yegames.info/subway-surfers/)
 
@@ -29,9 +35,6 @@ title: http://yegames.info/subway-surfers/
 *  JS Response Bytes: 1134627
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1097
-
-### Performance issues
-
 
 ### Performance issues
 

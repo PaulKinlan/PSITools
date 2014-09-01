@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.simulationgames.ws/summer-fruit-salad/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Summer Fruit Salad game](http://www.simulationgames.ws/summer-fruit-salad/)
 
@@ -29,9 +36,6 @@ title: http://www.simulationgames.ws/summer-fruit-salad/
 *  JS Response Bytes: 2543166
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 154678
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://360burst.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [360burst.com](http://360burst.com/)
 
@@ -29,9 +30,6 @@ title: http://360burst.com/
 *  JS Response Bytes: 9100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

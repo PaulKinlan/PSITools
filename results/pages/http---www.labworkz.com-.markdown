@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.labworkz.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Home | Website Design | Internet Marketing Service | LabWorkz](http://www.labworkz.com/)
 
@@ -29,9 +32,6 @@ title: http://www.labworkz.com/
 *  JS Response Bytes: 566735
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43749
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://atomicbrawl.com/login
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Atomic Brawl](http://atomicbrawl.com/login)
 
@@ -29,9 +32,6 @@ title: http://atomicbrawl.com/login
 *  JS Response Bytes: 162921
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 60244
-
-### Performance issues
-
 
 ### Performance issues
 

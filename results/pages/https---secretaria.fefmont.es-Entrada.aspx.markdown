@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://secretaria.fefmont.es/Entrada.aspx
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Acceso - Secretaría en Línea](https://secretaria.fefmont.es/Entrada.aspx)
 
@@ -29,9 +33,6 @@ title: https://secretaria.fefmont.es/Entrada.aspx
 *  JS Response Bytes: 463469
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 690
-
-### Performance issues
-
 
 ### Performance issues
 

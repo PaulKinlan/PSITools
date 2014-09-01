@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.berlinevents.org/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Veranstaltungen & EVENTS in BERLIN und Umgebung - Veranstaltungskalender Heute - BERLIN EVENTS](http://www.berlinevents.org/)
 
@@ -29,9 +33,6 @@ title: http://www.berlinevents.org/
 *  JS Response Bytes: 665604
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 80384
-
-### Performance issues
-
 
 ### Performance issues
 

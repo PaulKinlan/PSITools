@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.hotboxgames.com/subway-surfers.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Subway Surfers | Hot Box Games](http://www.hotboxgames.com/subway-surfers.html)
 
@@ -29,9 +34,6 @@ title: http://www.hotboxgames.com/subway-surfers.html
 *  JS Response Bytes: 1528772
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96685
-
-### Performance issues
-
 
 ### Performance issues
 

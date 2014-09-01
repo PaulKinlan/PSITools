@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://heavymural.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Heavy Mural by Heavy Robot](http://heavymural.com/)
 
@@ -29,9 +33,6 @@ title: http://heavymural.com/
 *  JS Response Bytes: 1387250
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95826
-
-### Performance issues
-
 
 ### Performance issues
 

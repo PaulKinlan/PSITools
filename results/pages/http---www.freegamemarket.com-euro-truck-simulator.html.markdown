@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freegamemarket.com/euro-truck-simulator.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [freegamemarket, App, Win, Android, Store – Euro Truck Simulator](http://www.freegamemarket.com/euro-truck-simulator.html)
 
@@ -29,9 +34,6 @@ title: http://www.freegamemarket.com/euro-truck-simulator.html
 *  JS Response Bytes: 542649
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15744
-
-### Performance issues
-
 
 ### Performance issues
 

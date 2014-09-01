@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://fb.asura.in.th/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://fb.asura.in.th/)
 
@@ -29,9 +30,6 @@ title: http://fb.asura.in.th/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 349
-
-### Performance issues
-
 
 ### Performance issues
 

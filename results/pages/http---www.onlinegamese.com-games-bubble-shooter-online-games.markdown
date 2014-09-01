@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.onlinegamese.com/games/bubble-shooter/online-games
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bubble Shooter | Online Games | Free Online Games Play Now](http://www.onlinegamese.com/games/bubble-shooter/online-games)
 
@@ -29,9 +33,6 @@ title: http://www.onlinegamese.com/games/bubble-shooter/online-games
 *  JS Response Bytes: 1868616
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 153247
-
-### Performance issues
-
 
 ### Performance issues
 

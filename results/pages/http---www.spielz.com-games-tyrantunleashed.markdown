@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.spielz.com/games/tyrantunleashed
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [spiele](http://www.spielz.com/games/tyrantunleashed)
 
@@ -29,9 +33,6 @@ title: http://www.spielz.com/games/tyrantunleashed
 *  JS Response Bytes: 1493081
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18262
-
-### Performance issues
-
 
 ### Performance issues
 

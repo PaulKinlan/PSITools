@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://sourceenergyservices.info/wolverines/ST6/chart.php
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://sourceenergyservices.info/wolverines/ST6/chart.php)
 
@@ -29,9 +30,6 @@ title: http://sourceenergyservices.info/wolverines/ST6/chart.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 520
-
-### Performance issues
-
 
 ### Performance issues
 

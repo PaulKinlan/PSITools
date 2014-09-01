@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://webgeek.ph/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [WebGeek Philippines](http://webgeek.ph/)
 
@@ -29,9 +33,6 @@ title: http://webgeek.ph/
 *  JS Response Bytes: 1879741
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

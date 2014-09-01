@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://argungame.blogspot.com.tr/2014/01/swat-team-overkill.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Argun Game: Swat Team Overkill](http://argungame.blogspot.com.tr/2014/01/swat-team-overkill.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://argungame.blogspot.com.tr/2014/01/swat-team-overkill.html?m=1
 *  JS Response Bytes: 1113509
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110743
-
-### Performance issues
-
 
 ### Performance issues
 

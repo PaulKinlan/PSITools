@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/action/ascaris-rush.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ascaris Rush - Play Ascaris Rush on Gamesk12.com Free Online](http://www.gamesk12.com/online/action/ascaris-rush.html)
 
@@ -29,9 +35,6 @@ title: http://www.gamesk12.com/online/action/ascaris-rush.html
 *  JS Response Bytes: 1474390
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105849
-
-### Performance issues
-
 
 ### Performance issues
 

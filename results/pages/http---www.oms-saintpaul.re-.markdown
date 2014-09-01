@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.oms-saintpaul.re/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Office Municipal des Sports de Saint Paul - La Réunion](http://www.oms-saintpaul.re/)
 
@@ -29,9 +33,6 @@ title: http://www.oms-saintpaul.re/
 *  JS Response Bytes: 942486
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2656
-
-### Performance issues
-
 
 ### Performance issues
 

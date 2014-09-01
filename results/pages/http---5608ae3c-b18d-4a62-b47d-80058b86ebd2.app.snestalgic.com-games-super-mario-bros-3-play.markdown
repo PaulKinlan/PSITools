@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://5608ae3c-b18d-4a62-b47d-80058b86ebd2.app.snestalgic.com/games/super-mario-bros-3/play
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Snestalgic.com](http://5608ae3c-b18d-4a62-b47d-80058b86ebd2.app.snestalgic.com/games/super-mario-bros-3/play)
 
@@ -29,9 +32,6 @@ title: http://5608ae3c-b18d-4a62-b47d-80058b86ebd2.app.snestalgic.com/games/supe
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

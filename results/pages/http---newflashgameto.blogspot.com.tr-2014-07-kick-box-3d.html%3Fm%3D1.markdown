@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://newflashgameto.blogspot.com.tr/2014/07/kick-box-3d.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [NewflashgameTo: Kick Box 3D](http://newflashgameto.blogspot.com.tr/2014/07/kick-box-3d.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://newflashgameto.blogspot.com.tr/2014/07/kick-box-3d.html?m=1
 *  JS Response Bytes: 1796212
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116636
-
-### Performance issues
-
 
 ### Performance issues
 

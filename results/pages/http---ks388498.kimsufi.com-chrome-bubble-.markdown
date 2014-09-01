@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ks388498.kimsufi.com/chrome/bubble/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bubble](http://ks388498.kimsufi.com/chrome/bubble/)
 
@@ -29,9 +32,6 @@ title: http://ks388498.kimsufi.com/chrome/bubble/
 *  JS Response Bytes: 816604
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15433
-
-### Performance issues
-
 
 ### Performance issues
 

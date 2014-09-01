@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tiponlinegames.com/super-atv-ride.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super ATV Ride | TIP ONLINE GAMES](http://www.tiponlinegames.com/super-atv-ride.html)
 
@@ -29,9 +34,6 @@ title: http://www.tiponlinegames.com/super-atv-ride.html
 *  JS Response Bytes: 1059156
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15098
-
-### Performance issues
-
 
 ### Performance issues
 

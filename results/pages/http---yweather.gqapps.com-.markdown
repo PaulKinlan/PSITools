@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://yweather.gqapps.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [zWeatherFeed - Basic Weather Feed Example](http://yweather.gqapps.com/)
 
@@ -29,9 +34,6 @@ title: http://yweather.gqapps.com/
 *  JS Response Bytes: 210839
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

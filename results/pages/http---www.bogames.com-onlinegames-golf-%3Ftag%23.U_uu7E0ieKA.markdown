@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bogames.com/onlinegames/golf/?tag#.U_uu7E0ieKA
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Golf Games - Play Golf Games Online](http://www.bogames.com/onlinegames/golf/?tag#.U_uu7E0ieKA)
 
@@ -29,9 +33,6 @@ title: http://www.bogames.com/onlinegames/golf/?tag#.U_uu7E0ieKA
 *  JS Response Bytes: 989388
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24866
-
-### Performance issues
-
 
 ### Performance issues
 

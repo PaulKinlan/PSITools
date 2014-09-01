@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.fortune-suisse.com/en/about-us/country-sign-up/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Country sign up: fortune-suisse](http://www.fortune-suisse.com/en/about-us/country-sign-up/)
 
@@ -29,9 +33,6 @@ title: http://www.fortune-suisse.com/en/about-us/country-sign-up/
 *  JS Response Bytes: 532550
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 852
-
-### Performance issues
-
 
 ### Performance issues
 

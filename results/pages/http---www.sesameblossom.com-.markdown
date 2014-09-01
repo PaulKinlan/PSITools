@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.sesameblossom.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Learn Chinese](http://www.sesameblossom.com/)
 
@@ -29,9 +33,6 @@ title: http://www.sesameblossom.com/
 *  JS Response Bytes: 604370
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43184
-
-### Performance issues
-
 
 ### Performance issues
 

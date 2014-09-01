@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://prochildgame.blogspot.com/2013/02/mutant-ninja-turtles-hd.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Forelska](http://prochildgame.blogspot.com/2013/02/mutant-ninja-turtles-hd.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://prochildgame.blogspot.com/2013/02/mutant-ninja-turtles-hd.html?m=1
 *  JS Response Bytes: 790448
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 338790
-
-### Performance issues
-
 
 ### Performance issues
 

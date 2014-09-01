@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://minecraft-online-hd.blogspot.com.tr/2014/04/subway-surfers.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [minecraft online game store: Subway Surfers](http://minecraft-online-hd.blogspot.com.tr/2014/04/subway-surfers.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://minecraft-online-hd.blogspot.com.tr/2014/04/subway-surfers.html?m=
 *  JS Response Bytes: 721106
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95601
-
-### Performance issues
-
 
 ### Performance issues
 

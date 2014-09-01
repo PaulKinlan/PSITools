@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.onlinegamese.com/games/3d-bowling/online-games
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Bowling | Online Games | Free Online Games Play Now](http://www.onlinegamese.com/games/3d-bowling/online-games)
 
@@ -29,9 +33,6 @@ title: http://www.onlinegamese.com/games/3d-bowling/online-games
 *  JS Response Bytes: 1867872
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 152663
-
-### Performance issues
-
 
 ### Performance issues
 

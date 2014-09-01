@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://psokim.co.il/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [פסוקים, תנך, תהילים : חיפוש : אפדתו](http://psokim.co.il/)
 
@@ -29,9 +34,6 @@ title: http://psokim.co.il/
 *  JS Response Bytes: 963943
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32318
-
-### Performance issues
-
 
 ### Performance issues
 

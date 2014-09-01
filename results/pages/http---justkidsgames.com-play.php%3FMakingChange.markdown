@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://justkidsgames.com/play.php?MakingChange
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Just Kids Games: Making Change](http://justkidsgames.com/play.php?MakingChange)
 
@@ -29,9 +35,6 @@ title: http://justkidsgames.com/play.php?MakingChange
 *  JS Response Bytes: 428948
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -33,8 +33,5 @@ title: https://www.southtyrolgame.com/games/quizmachine/game_eng.aspx
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

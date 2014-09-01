@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.yellowbook.com/yellowpages/
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [yellowbook](http://m.yellowbook.com/yellowpages/)
 
@@ -29,9 +31,6 @@ title: http://m.yellowbook.com/yellowpages/
 *  JS Response Bytes: 285170
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3308
-
-### Performance issues
-
 
 ### Performance issues
 

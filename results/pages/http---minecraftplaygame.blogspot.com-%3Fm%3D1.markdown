@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://minecraftplaygame.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [minecraft](http://minecraftplaygame.blogspot.com/?m=1)
 
@@ -26,12 +27,9 @@ title: http://minecraftplaygame.blogspot.com/?m=1
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 21448
 *  Image Response Bytes: 2317
-*  JS Response Bytes: 314373
+*  JS Response Bytes: 314381
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 573
-
-### Performance issues
-
 
 ### Performance issues
 

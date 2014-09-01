@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://games80.com/?=404;http://www.games80.com:80/sniper-team.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [games80.com](http://games80.com/?=404;http://www.games80.com:80/sniper-team.html&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://games80.com/?=404;http://www.games80.com:80/sniper-team.html&reqp=
 *  JS Response Bytes: 304181
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 101
-
-### Performance issues
-
 
 ### Performance issues
 

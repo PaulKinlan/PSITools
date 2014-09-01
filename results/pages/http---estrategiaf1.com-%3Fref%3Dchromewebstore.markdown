@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://estrategiaf1.com/?ref=chromewebstore
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [EF1 :: Estrategia F1 - Take control - your F1 online management game](http://estrategiaf1.com/?ref=chromewebstore)
 
@@ -29,9 +33,6 @@ title: http://estrategiaf1.com/?ref=chromewebstore
 *  JS Response Bytes: 299803
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

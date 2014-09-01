@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromewebstoregame.blogspot.com/2013/07/subway-surfers-paris.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [buzz blog](http://chromewebstoregame.blogspot.com/2013/07/subway-surfers-paris.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromewebstoregame.blogspot.com/2013/07/subway-surfers-paris.html?
 *  JS Response Bytes: 789598
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331129
-
-### Performance issues
-
 
 ### Performance issues
 

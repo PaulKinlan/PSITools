@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://groups.google.com/forum/m/#!overview
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
 ---
 ## [Google Groups](https://groups.google.com/forum/m/#!overview)
 
@@ -29,9 +32,6 @@ title: https://groups.google.com/forum/m/#!overview
 *  JS Response Bytes: 889310
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 352
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.qvivo.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [QVIVO. The Media Cloud API.](http://www.qvivo.com/)
 
@@ -29,9 +32,6 @@ title: http://www.qvivo.com/
 *  JS Response Bytes: 1063848
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52999
-
-### Performance issues
-
 
 ### Performance issues
 

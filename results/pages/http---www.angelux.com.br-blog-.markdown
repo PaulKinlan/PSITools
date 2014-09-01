@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.angelux.com.br/blog/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
 ---
 ## [Website is offline | 522: Connection timed out](http://www.angelux.com.br/blog/)
 
@@ -29,9 +33,6 @@ title: http://www.angelux.com.br/blog/
 *  JS Response Bytes: 32931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6048
-
-### Performance issues
-
 
 ### Performance issues
 

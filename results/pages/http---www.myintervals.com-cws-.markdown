@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.myintervals.com/cws/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Intervals :: Online time tracking, task management and project management](http://www.myintervals.com/cws/)
 
@@ -29,9 +33,6 @@ title: http://www.myintervals.com/cws/
 *  JS Response Bytes: 658951
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23045
-
-### Performance issues
-
 
 ### Performance issues
 

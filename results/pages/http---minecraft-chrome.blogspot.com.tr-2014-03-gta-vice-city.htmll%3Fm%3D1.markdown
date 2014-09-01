@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://minecraft-chrome.blogspot.com.tr/2014/03/gta-vice-city.htmll?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://minecraft-chrome.blogspot.com.tr/2014/03/gta-vice-city.htmll?m=1)
 
@@ -29,9 +32,6 @@ title: http://minecraft-chrome.blogspot.com.tr/2014/03/gta-vice-city.htmll?m=1
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19295
-
-### Performance issues
-
 
 ### Performance issues
 

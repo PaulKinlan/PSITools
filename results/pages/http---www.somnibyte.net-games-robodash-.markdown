@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.somnibyte.net/games/robodash/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Robo DASH!](http://www.somnibyte.net/games/robodash/)
 
@@ -29,9 +32,6 @@ title: http://www.somnibyte.net/games/robodash/
 *  JS Response Bytes: 553355
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

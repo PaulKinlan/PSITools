@@ -33,8 +33,5 @@ title: http://afitness.ca/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

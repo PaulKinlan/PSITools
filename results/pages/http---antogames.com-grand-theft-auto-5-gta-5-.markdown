@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://antogames.com/grand-theft-auto-5-gta-5/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AntoGames.Com Full Free Flash Game – Grand Theft Auto 5 GTA 5](http://antogames.com/grand-theft-auto-5-gta-5/)
 
@@ -29,9 +33,6 @@ title: http://antogames.com/grand-theft-auto-5-gta-5/
 *  JS Response Bytes: 729520
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15813
-
-### Performance issues
-
 
 ### Performance issues
 

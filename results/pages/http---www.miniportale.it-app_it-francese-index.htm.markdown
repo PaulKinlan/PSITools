@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.miniportale.it/app_it/francese/index.htm
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DIZIONARIO DI Francese](http://www.miniportale.it/app_it/francese/index.htm)
 
@@ -29,9 +32,6 @@ title: http://www.miniportale.it/app_it/francese/index.htm
 *  JS Response Bytes: 715733
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27417
-
-### Performance issues
-
 
 ### Performance issues
 

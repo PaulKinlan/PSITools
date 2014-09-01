@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://a.best1000games.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Best Free Games](http://a.best1000games.com/)
 
@@ -29,9 +32,6 @@ title: http://a.best1000games.com/
 *  JS Response Bytes: 580521
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 363213
-
-### Performance issues
-
 
 ### Performance issues
 

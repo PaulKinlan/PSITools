@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.wizarddefender.com/index.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Wizard Defender](http://www.wizarddefender.com/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.wizarddefender.com/index.html
 *  JS Response Bytes: 471485
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2482
-
-### Performance issues
-
 
 ### Performance issues
 

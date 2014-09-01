@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.wlsdestiny.org/common/welcome.jsp?context=bainbridge
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome to BISD Libraries](http://www.wlsdestiny.org/common/welcome.jsp?context=bainbridge)
 
@@ -29,9 +32,6 @@ title: http://www.wlsdestiny.org/common/welcome.jsp?context=bainbridge
 *  JS Response Bytes: 25852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

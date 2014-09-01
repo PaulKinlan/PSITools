@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://pronos2012.herokuapp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pronostics Euro 2012](http://pronos2012.herokuapp.com/)
 
@@ -29,9 +33,6 @@ title: http://pronos2012.herokuapp.com/
 *  JS Response Bytes: 183093
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3894
-
-### Performance issues
-
 
 ### Performance issues
 

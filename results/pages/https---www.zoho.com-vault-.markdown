@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.zoho.com/vault/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Password Manager, Password Management Software - Zoho Vault](https://www.zoho.com/vault/)
 
@@ -29,9 +33,6 @@ title: https://www.zoho.com/vault/
 *  JS Response Bytes: 132395
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1353
-
-### Performance issues
-
 
 ### Performance issues
 

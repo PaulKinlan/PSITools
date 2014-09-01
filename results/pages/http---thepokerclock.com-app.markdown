@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://thepokerclock.com/app
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [The Poker Clock - Poker timer webapp](http://thepokerclock.com/app)
 
@@ -29,9 +31,6 @@ title: http://thepokerclock.com/app
 *  JS Response Bytes: 427268
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50540
-
-### Performance issues
-
 
 ### Performance issues
 

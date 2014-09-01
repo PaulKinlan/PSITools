@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.mobilewebsitesubmit.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [Mobile Websites](http://m.mobilewebsitesubmit.com/)
 
@@ -29,9 +32,6 @@ title: http://m.mobilewebsitesubmit.com/
 *  JS Response Bytes: 205211
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2052
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://login.papyrs.com/?redirect_domain
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login |](https://login.papyrs.com/?redirect_domain)
 
@@ -29,9 +34,6 @@ title: https://login.papyrs.com/?redirect_domain
 *  JS Response Bytes: 267491
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 357
-
-### Performance issues
-
 
 ### Performance issues
 

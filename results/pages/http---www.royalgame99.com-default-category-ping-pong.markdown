@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.royalgame99.com/default-category/ping-pong
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ping Pong - Royalgame99](http://www.royalgame99.com/default-category/ping-pong)
 
@@ -29,9 +34,6 @@ title: http://www.royalgame99.com/default-category/ping-pong
 *  JS Response Bytes: 641443
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

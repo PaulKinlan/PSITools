@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ivigames.com/fruit-ninja.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [iviGames.Com | Flash Game – Fruit Ninja](http://www.ivigames.com/fruit-ninja.html)
 
@@ -29,9 +35,6 @@ title: http://www.ivigames.com/fruit-ninja.html
 *  JS Response Bytes: 412515
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1057
-
-### Performance issues
-
 
 ### Performance issues
 

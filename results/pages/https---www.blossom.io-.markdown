@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.blossom.io/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blossom: Agile Project Management by @blossom_io](https://www.blossom.io/)
 
@@ -29,9 +34,6 @@ title: https://www.blossom.io/
 *  JS Response Bytes: 1958406
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94971
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.therapynotes.com/app/login/PetraPlace/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [TherapyNotes](https://www.therapynotes.com/app/login/PetraPlace/)
 
@@ -29,9 +31,6 @@ title: https://www.therapynotes.com/app/login/PetraPlace/
 *  JS Response Bytes: 68155
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 92671
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://drremote.mypension.ca/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [VMware Horizon View](https://drremote.mypension.ca/)
 
@@ -29,9 +33,6 @@ title: https://drremote.mypension.ca/
 *  JS Response Bytes: 95045
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

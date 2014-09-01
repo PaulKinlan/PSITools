@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.frivfriv.us/games/game/name/run-bolt-run/yepi
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [run-bolt-run Friv Games](http://www.frivfriv.us/games/game/name/run-bolt-run/yepi)
 
@@ -29,9 +35,6 @@ title: http://www.frivfriv.us/games/game/name/run-bolt-run/yepi
 *  JS Response Bytes: 1716206
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112268
-
-### Performance issues
-
 
 ### Performance issues
 

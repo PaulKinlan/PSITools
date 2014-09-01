@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www-clashofclans.blogspot.com/2014/04/free-jetpack-games-play-now.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Online games: Free Jetpack Games Play Now](http://www-clashofclans.blogspot.com/2014/04/free-jetpack-games-play-now.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://www-clashofclans.blogspot.com/2014/04/free-jetpack-games-play-now.
 *  JS Response Bytes: 762883
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95615
-
-### Performance issues
-
 
 ### Performance issues
 

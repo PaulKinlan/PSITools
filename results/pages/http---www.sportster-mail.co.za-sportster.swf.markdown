@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.sportster-mail.co.za/sportster.swf
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.sportster-mail.co.za/sportster.swf)
 
@@ -29,9 +31,6 @@ title: http://www.sportster-mail.co.za/sportster.swf
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 333094
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

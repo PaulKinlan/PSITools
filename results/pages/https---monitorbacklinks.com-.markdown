@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://monitorbacklinks.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Discover your bad Backlinks & Disavow them - Monitor Backlinks](https://monitorbacklinks.com/)
 
@@ -29,9 +32,6 @@ title: https://monitorbacklinks.com/
 *  JS Response Bytes: 1282392
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 277066
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.hiringthing.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HiringThing](http://www.hiringthing.com/)
 
@@ -29,9 +33,6 @@ title: http://www.hiringthing.com/
 *  JS Response Bytes: 786752
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17205
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.clickplayer.tv/m/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Clickplayer](http://www.clickplayer.tv/m/)
 
@@ -29,9 +32,6 @@ title: http://www.clickplayer.tv/m/
 *  JS Response Bytes: 811418
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41624
-
-### Performance issues
-
 
 ### Performance issues
 

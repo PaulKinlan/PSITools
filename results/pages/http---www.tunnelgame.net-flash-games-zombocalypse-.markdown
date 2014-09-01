@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tunnelgame.net/flash-games/zombocalypse/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombocalypse « Flash Games, Online Games](http://www.tunnelgame.net/flash-games/zombocalypse/)
 
@@ -29,9 +34,6 @@ title: http://www.tunnelgame.net/flash-games/zombocalypse/
 *  JS Response Bytes: 2148349
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29177
-
-### Performance issues
-
 
 ### Performance issues
 

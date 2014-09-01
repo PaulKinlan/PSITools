@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.mygies.com/play.php?id=1873
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mygies - Play Free Online Games](http://www.mygies.com/play.php?id=1873)
 
@@ -29,9 +36,6 @@ title: http://www.mygies.com/play.php?id=1873
 *  JS Response Bytes: 1031109
 *  Flash Response Bytes: 32019
 *  Other Response Bytes: 48224
-
-### Performance issues
-
 
 ### Performance issues
 

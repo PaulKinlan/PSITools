@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://cut-the-ropes.blogspot.com.tr/2014/04/cut-rope-2-game.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [cut the rope hd full games: cut the rope 2 game](http://cut-the-ropes.blogspot.com.tr/2014/04/cut-rope-2-game.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://cut-the-ropes.blogspot.com.tr/2014/04/cut-rope-2-game.html?m=1
 *  JS Response Bytes: 1532612
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 140109
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.gqueues.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [GQueues - Manage tasks & to-do lists with your Google Account](https://www.gqueues.com/)
 
@@ -29,9 +31,6 @@ title: https://www.gqueues.com/
 *  JS Response Bytes: 186989
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26926
-
-### Performance issues
-
 
 ### Performance issues
 

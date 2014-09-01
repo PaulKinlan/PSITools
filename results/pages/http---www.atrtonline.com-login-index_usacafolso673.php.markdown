@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.atrtonline.com/login/index_usacafolso673.php
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://www.atrtonline.com/login/index_usacafolso673.php)
 
@@ -29,9 +34,6 @@ title: http://www.atrtonline.com/login/index_usacafolso673.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

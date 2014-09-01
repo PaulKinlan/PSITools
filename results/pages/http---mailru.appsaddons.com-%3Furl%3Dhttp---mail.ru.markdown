@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://mailru.appsaddons.com/?url=http://mail.ru
+UseLegibleFontSizes: true
 ---
 ## [](http://mailru.appsaddons.com/?url=http://mail.ru)
 
@@ -29,9 +30,6 @@ title: http://mailru.appsaddons.com/?url=http://mail.ru
 *  JS Response Bytes: 97340
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 859
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://losjuegosdehoradeaventura.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Juegos de Hora de Aventura | Juega con Finn y Jake online](http://losjuegosdehoradeaventura.com/)
 
@@ -29,9 +34,6 @@ title: http://losjuegosdehoradeaventura.com/
 *  JS Response Bytes: 1779800
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97466
-
-### Performance issues
-
 
 ### Performance issues
 

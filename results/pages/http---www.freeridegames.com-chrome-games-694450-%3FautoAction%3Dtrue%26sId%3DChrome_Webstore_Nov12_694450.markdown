@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/694450/?autoAction=true&sId=Chrome_Webstore_Nov12_694450
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download The Fifth Gate for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/694450/?autoAction=true&sId=Chrome_Webstore_Nov12_694450)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/694450/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1632001
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27590
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.travelmath.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [Travelmath](http://www.travelmath.com/)
 
@@ -29,9 +30,6 @@ title: http://www.travelmath.com/
 *  JS Response Bytes: 640211
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3611
-
-### Performance issues
-
 
 ### Performance issues
 

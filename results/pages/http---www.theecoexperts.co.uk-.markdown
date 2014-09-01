@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.theecoexperts.co.uk/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Eco Experts | Solar Panels | Find Installers & Compare UK Prices](http://www.theecoexperts.co.uk/)
 
@@ -29,9 +34,6 @@ title: http://www.theecoexperts.co.uk/
 *  JS Response Bytes: 1597680
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20819
-
-### Performance issues
-
 
 ### Performance issues
 

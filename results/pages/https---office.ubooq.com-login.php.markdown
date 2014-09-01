@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://office.ubooq.com/login.php
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ubooq - login](https://office.ubooq.com/login.php)
 
@@ -29,9 +32,6 @@ title: https://office.ubooq.com/login.php
 *  JS Response Bytes: 185493
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 487
-
-### Performance issues
-
 
 ### Performance issues
 

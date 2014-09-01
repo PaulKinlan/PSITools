@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.toolea.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Toolea, Simplify your professional life](http://www.toolea.com/)
 
@@ -18,20 +21,17 @@ title: http://www.toolea.com/
 *  Number of JS Resources: 21
 *  Number of CSS Resources: 11
 *  Nubmer of Static Resources: 52
-*  Total Request Bytes: 5150
+*  Total Request Bytes: 5149
 
 ### Response data
 
 *  HTML Response Bytes: 23503
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 114569
-*  Image Response Bytes: 491406
-*  JS Response Bytes: 501885
+*  Image Response Bytes: 491404
+*  JS Response Bytes: 502171
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45966
-
-### Performance issues
-
 
 ### Performance issues
 

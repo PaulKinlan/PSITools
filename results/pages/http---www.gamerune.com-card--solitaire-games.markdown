@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.gamerune.com/card-/solitaire-games
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Solitaire Games - Free Online Games | GameRune](http://www.gamerune.com/card-/solitaire-games)
 
@@ -29,9 +37,6 @@ title: http://www.gamerune.com/card-/solitaire-games
 *  JS Response Bytes: 1429316
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111306
-
-### Performance issues
-
 
 ### Performance issues
 

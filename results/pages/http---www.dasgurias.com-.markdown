@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.dasgurias.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Blog das Gurias | Blog de moda feminina, beleza, decoração, receitas e feminices em geral!](http://www.dasgurias.com/)
 
@@ -29,9 +32,6 @@ title: http://www.dasgurias.com/
 *  JS Response Bytes: 1556712
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 260200
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://app.blueridgeanalytics.com/topolite/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SITEOPS Topo Lite](https://app.blueridgeanalytics.com/topolite/)
 
@@ -29,9 +33,6 @@ title: https://app.blueridgeanalytics.com/topolite/
 *  JS Response Bytes: 417238
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54320
-
-### Performance issues
-
 
 ### Performance issues
 

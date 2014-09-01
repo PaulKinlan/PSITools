@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ixigo.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [India Travel Guide - Tourist Destinations, Places to Visit, Eat & Stay, Hotels, Trains, Buses @ ixigo.com](http://www.ixigo.com/)
 
@@ -29,9 +32,6 @@ title: http://www.ixigo.com/
 *  JS Response Bytes: 116098
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29102
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://lensman-gops.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tamil Short Films](http://lensman-gops.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://lensman-gops.blogspot.com/?m=1
 *  JS Response Bytes: 2467947
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4562
-
-### Performance issues
-
 
 ### Performance issues
 

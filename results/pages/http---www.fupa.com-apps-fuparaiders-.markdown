@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/fuparaiders/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Fupa Raiders](http://www.fupa.com/apps/fuparaiders/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/fuparaiders/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

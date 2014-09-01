@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://twistedwave.com/online/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TwistedWave Online](https://twistedwave.com/online/)
 
@@ -29,9 +33,6 @@ title: https://twistedwave.com/online/
 *  JS Response Bytes: 1109594
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

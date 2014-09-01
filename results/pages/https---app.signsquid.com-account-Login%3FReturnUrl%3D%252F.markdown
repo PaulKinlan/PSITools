@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://app.signsquid.com/account/Login?ReturnUrl=%2F
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Login - Signsquid](https://app.signsquid.com/account/Login?ReturnUrl=%2F)
 
@@ -29,9 +33,6 @@ title: https://app.signsquid.com/account/Login?ReturnUrl=%2F
 *  JS Response Bytes: 479468
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6777
-
-### Performance issues
-
 
 ### Performance issues
 

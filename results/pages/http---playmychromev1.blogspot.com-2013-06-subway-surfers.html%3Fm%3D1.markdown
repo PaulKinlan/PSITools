@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://playmychromev1.blogspot.com/2013/06/subway-surfers.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [Play My Chrome v1: Subway Surfers](http://playmychromev1.blogspot.com/2013/06/subway-surfers.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://playmychromev1.blogspot.com/2013/06/subway-surfers.html?m=1
 *  JS Response Bytes: 1068539
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97989
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.myappgames.com/free-running-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Running 2 : My APP Games](http://www.myappgames.com/free-running-2.html)
 
@@ -29,9 +33,6 @@ title: http://www.myappgames.com/free-running-2.html
 *  JS Response Bytes: 3047766
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 157730
-
-### Performance issues
-
 
 ### Performance issues
 

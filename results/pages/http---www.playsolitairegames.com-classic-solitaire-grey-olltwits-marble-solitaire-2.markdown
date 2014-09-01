@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.playsolitairegames.com/classic-solitaire/grey-olltwits-marble-solitaire-2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Grey Olltwit's Marble Solitaire - Games - Play Free Online Solitaire Games](http://www.playsolitairegames.com/classic-solitaire/grey-olltwits-marble-solitaire-2)
 
@@ -29,9 +35,6 @@ title: http://www.playsolitairegames.com/classic-solitaire/grey-olltwits-marble-
 *  JS Response Bytes: 980012
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17064
-
-### Performance issues
-
 
 ### Performance issues
 

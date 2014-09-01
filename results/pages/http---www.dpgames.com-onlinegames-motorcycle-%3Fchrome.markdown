@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.dpgames.com/onlinegames/motorcycle/?chrome
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Motorcycle Games - Play Motorcycle Games Online](http://www.dpgames.com/onlinegames/motorcycle/?chrome)
 
@@ -29,9 +35,6 @@ title: http://www.dpgames.com/onlinegames/motorcycle/?chrome
 *  JS Response Bytes: 553993
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14380
-
-### Performance issues
-
 
 ### Performance issues
 

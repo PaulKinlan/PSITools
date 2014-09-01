@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.tonsreviews.info/recipesecrets/index.html
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [www.tonsreviews.info](http://www.tonsreviews.info/recipesecrets/index.html)
 
@@ -29,9 +31,6 @@ title: http://www.tonsreviews.info/recipesecrets/index.html
 *  JS Response Bytes: 240865
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21726
-
-### Performance issues
-
 
 ### Performance issues
 

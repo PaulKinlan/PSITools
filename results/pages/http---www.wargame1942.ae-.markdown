@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.wargame1942.ae/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [دروب النصر](http://www.wargame1942.ae/)
 
@@ -29,9 +32,6 @@ title: http://www.wargame1942.ae/
 *  JS Response Bytes: 369370
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2827
-
-### Performance issues
-
 
 ### Performance issues
 

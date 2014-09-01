@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://iijo.org/
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chinese flashcards:](http://iijo.org/)
 
@@ -29,9 +32,6 @@ title: http://iijo.org/
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.onlinegamese.com/Free/car-games
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Car Games | Online Games | Free Online Games Play Now](http://www.onlinegamese.com/Free/car-games)
 
@@ -29,9 +32,6 @@ title: http://www.onlinegamese.com/Free/car-games
 *  JS Response Bytes: 533160
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56845
-
-### Performance issues
-
 
 ### Performance issues
 

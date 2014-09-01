@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.wordcounter.in/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Word Counter tool](http://www.wordcounter.in/)
 
@@ -29,9 +33,6 @@ title: http://www.wordcounter.in/
 *  JS Response Bytes: 1127312
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95758
-
-### Performance issues
-
 
 ### Performance issues
 

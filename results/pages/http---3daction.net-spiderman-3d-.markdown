@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://3daction.net/spiderman-3d/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Spiderman 3D ](http://3daction.net/spiderman-3d/)
 
@@ -29,9 +35,6 @@ title: http://3daction.net/spiderman-3d/
 *  JS Response Bytes: 2740485
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 149674
-
-### Performance issues
-
 
 ### Performance issues
 

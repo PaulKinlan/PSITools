@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.justchromegames.com/category/12
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [- Just Chrome Games](http://www.justchromegames.com/category/12)
 
@@ -29,9 +34,6 @@ title: http://www.justchromegames.com/category/12
 *  JS Response Bytes: 679235
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15253
-
-### Performance issues
-
 
 ### Performance issues
 

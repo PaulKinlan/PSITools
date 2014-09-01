@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://x3gaming.com/transmorpher-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [– Transmorpher 2](http://x3gaming.com/transmorpher-2.html)
 
@@ -29,9 +35,6 @@ title: http://x3gaming.com/transmorpher-2.html
 *  JS Response Bytes: 400214
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 66373
-
-### Performance issues
-
 
 ### Performance issues
 

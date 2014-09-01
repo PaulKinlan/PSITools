@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://retelly.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [Retelly - A video magazine](http://retelly.com/)
 
@@ -29,9 +32,6 @@ title: http://retelly.com/
 *  JS Response Bytes: 1304764
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

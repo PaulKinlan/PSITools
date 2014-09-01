@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.puzzlewarehouse.com/daily-puzzle/?caid=96
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free Online Jigsaw Puzzles | PuzzleWarehouse.com](http://www.puzzlewarehouse.com/daily-puzzle/?caid=96)
 
@@ -29,9 +33,6 @@ title: http://www.puzzlewarehouse.com/daily-puzzle/?caid=96
 *  JS Response Bytes: 973748
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1996
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://iwebscan.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Web Stats Analysis](http://iwebscan.com/)
 
@@ -29,9 +34,6 @@ title: http://iwebscan.com/
 *  JS Response Bytes: 691147
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 203167
-
-### Performance issues
-
 
 ### Performance issues
 

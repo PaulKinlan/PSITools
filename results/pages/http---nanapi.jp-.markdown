@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://nanapi.jp/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [nanapi [ナナピ] | 生活の知恵があつまる情報サイト](http://nanapi.jp/)
 
@@ -29,9 +32,6 @@ title: http://nanapi.jp/
 *  JS Response Bytes: 473353
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.pinkdar.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Pinkdar - The Lesbian Dating Community](http://www.pinkdar.com/)
 
@@ -29,9 +31,6 @@ title: http://www.pinkdar.com/
 *  JS Response Bytes: 558614
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51601
-
-### Performance issues
-
 
 ### Performance issues
 

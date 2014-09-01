@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.olympusgame.com/index.php?task=view&id=210
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Epic Soccer - OlympusGaMe - just Challange! And Play Free! Play Online!](http://www.olympusgame.com/index.php?task=view&id=210)
 
@@ -29,9 +36,6 @@ title: http://www.olympusgame.com/index.php?task=view&id=210
 *  JS Response Bytes: 879733
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1849
-
-### Performance issues
-
 
 ### Performance issues
 

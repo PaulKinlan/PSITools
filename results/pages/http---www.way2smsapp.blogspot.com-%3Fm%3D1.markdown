@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.way2smsapp.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://www.way2smsapp.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://www.way2smsapp.blogspot.com/?m=1
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19234
-
-### Performance issues
-
 
 ### Performance issues
 

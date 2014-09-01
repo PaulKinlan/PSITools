@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://fabcam.net/fabgen/mobile/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [FabGen](http://fabcam.net/fabgen/mobile/)
 
@@ -29,9 +31,6 @@ title: http://fabcam.net/fabgen/mobile/
 *  JS Response Bytes: 210320
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53
-
-### Performance issues
-
 
 ### Performance issues
 

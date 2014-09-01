@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bestbuy-audio.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [BestBuy-Audio Super Store - Car Audio & Accessories](http://bestbuy-audio.com/)
 
@@ -29,9 +32,6 @@ title: http://bestbuy-audio.com/
 *  JS Response Bytes: 393790
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23344
-
-### Performance issues
-
 
 ### Performance issues
 

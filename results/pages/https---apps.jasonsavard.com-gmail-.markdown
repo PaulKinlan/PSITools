@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://apps.jasonsavard.com/gmail/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Multiple Account Checker for Gmail](https://apps.jasonsavard.com/gmail/)
 
@@ -29,9 +34,6 @@ title: https://apps.jasonsavard.com/gmail/
 *  JS Response Bytes: 726466
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14086
-
-### Performance issues
-
 
 ### Performance issues
 

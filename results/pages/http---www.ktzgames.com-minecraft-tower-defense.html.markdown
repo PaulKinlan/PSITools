@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.ktzgames.com/minecraft-tower-defense.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Minecraft: Tower Defense « Best HD Games Play Now](http://www.ktzgames.com/minecraft-tower-defense.html)
 
@@ -29,9 +36,6 @@ title: http://www.ktzgames.com/minecraft-tower-defense.html
 *  JS Response Bytes: 523262
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

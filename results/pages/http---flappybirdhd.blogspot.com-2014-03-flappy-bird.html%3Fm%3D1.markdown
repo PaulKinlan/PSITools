@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://flappybirdhd.blogspot.com/2014/03/flappy-bird.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Flappy Bird Game: Flappy Bird](http://flappybirdhd.blogspot.com/2014/03/flappy-bird.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://flappybirdhd.blogspot.com/2014/03/flappy-bird.html?m=1
 *  JS Response Bytes: 1236421
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95871
-
-### Performance issues
-
 
 ### Performance issues
 

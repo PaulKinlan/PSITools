@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://reinspirit.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [ReInSpirit - Desarrollo web y soluciones técnicas en Sevilla](http://reinspirit.com/)
 
@@ -29,9 +30,6 @@ title: http://reinspirit.com/
 *  JS Response Bytes: 179975
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

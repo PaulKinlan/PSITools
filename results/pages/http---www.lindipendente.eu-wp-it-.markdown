@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.lindipendente.eu/wp/it/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [L'Indipendente - Tutto quello che gli altri non vi diconoL'Indipendente](http://www.lindipendente.eu/wp/it/)
 
@@ -29,9 +32,6 @@ title: http://www.lindipendente.eu/wp/it/
 *  JS Response Bytes: 105942
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -18,15 +18,15 @@ title: https://m.tagged.com/index.html
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 18
-*  Total Request Bytes: 3226
+*  Total Request Bytes: 3227
 
 ### Response data
 
 *  HTML Response Bytes: 6808
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 152119
-*  Image Response Bytes: 66072
-*  JS Response Bytes: 605884
+*  Image Response Bytes: 66073
+*  JS Response Bytes: 605964
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54235
 
@@ -37,7 +37,6 @@ title: https://m.tagged.com/index.html
 
 *  Avoid landing page redirects
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
-*  Prefer asynchronous resources
 
 ### Mobile UX issues
 

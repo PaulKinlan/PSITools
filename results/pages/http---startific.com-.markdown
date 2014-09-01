@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://startific.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Startific | Your Cloud Homepage](http://startific.com/)
 
@@ -29,9 +34,6 @@ title: http://startific.com/
 *  JS Response Bytes: 1423328
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 700376
-
-### Performance issues
-
 
 ### Performance issues
 

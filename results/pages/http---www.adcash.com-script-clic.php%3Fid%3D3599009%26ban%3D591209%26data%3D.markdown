@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.adcash.com/script/clic.php?id=3599009&ban=591209&data=
+UseLegibleFontSizes: true
 ---
 ## [](http://www.adcash.com/script/clic.php?id=3599009&ban=591209&data=)
 
@@ -29,9 +30,6 @@ title: http://www.adcash.com/script/clic.php?id=3599009&ban=591209&data=
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 366
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://scarletblademmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Scarlet Blade Online](http://scarletblademmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://scarletblademmo.appspot.com/
 *  JS Response Bytes: 2239177
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97825
-
-### Performance issues
-
 
 ### Performance issues
 

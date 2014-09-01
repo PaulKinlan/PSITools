@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.frivangel.info/bloxorz.html#.U_d6W00ieKB
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
 ---
 ## [Play Bloxrz, a free online game - Friv Angel - Friv  Angel](http://www.frivangel.info/bloxorz.html#.U_d6W00ieKB)
 
@@ -29,9 +34,6 @@ title: http://www.frivangel.info/bloxorz.html#.U_d6W00ieKB
 *  JS Response Bytes: 1008018
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50504
-
-### Performance issues
-
 
 ### Performance issues
 

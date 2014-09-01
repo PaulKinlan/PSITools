@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesfamous.com/play/270/terminator-car.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Terminator Car - Games Famous - Online Flash Games](http://www.gamesfamous.com/play/270/terminator-car.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamesfamous.com/play/270/terminator-car.html
 *  JS Response Bytes: 2669990
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103516
-
-### Performance issues
-
 
 ### Performance issues
 

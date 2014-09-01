@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.anglais-conjugaison.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [La conjugaison des verbes anglais irréguliers et réguliers | anglaisconjugaison.com](http://www.anglais-conjugaison.com/)
 
@@ -29,9 +34,6 @@ title: http://www.anglais-conjugaison.com/
 *  JS Response Bytes: 1302088
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1006
-
-### Performance issues
-
 
 ### Performance issues
 

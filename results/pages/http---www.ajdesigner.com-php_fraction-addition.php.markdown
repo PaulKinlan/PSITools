@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ajdesigner.com/php_fraction/addition.php
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Addition Fraction Calculator - Add Two Fractions](http://www.ajdesigner.com/php_fraction/addition.php)
 
@@ -29,9 +32,6 @@ title: http://www.ajdesigner.com/php_fraction/addition.php
 *  JS Response Bytes: 1695150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1877
-
-### Performance issues
-
 
 ### Performance issues
 

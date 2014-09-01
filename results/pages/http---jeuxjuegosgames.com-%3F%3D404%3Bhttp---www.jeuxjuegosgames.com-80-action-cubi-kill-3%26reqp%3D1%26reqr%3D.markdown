@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://jeuxjuegosgames.com/?=404;http://www.jeuxjuegosgames.com:80/action/cubi-kill-3&reqp=1&reqr=
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [jeuxjuegosgames.com](http://jeuxjuegosgames.com/?=404;http://www.jeuxjuegosgames.com:80/action/cubi-kill-3&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://jeuxjuegosgames.com/?=404;http://www.jeuxjuegosgames.com:80/action
 *  JS Response Bytes: 304181
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 189
-
-### Performance issues
-
 
 ### Performance issues
 

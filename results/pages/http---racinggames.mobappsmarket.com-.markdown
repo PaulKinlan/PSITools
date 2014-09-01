@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://racinggames.mobappsmarket.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://racinggames.mobappsmarket.com/)
 
@@ -29,9 +33,6 @@ title: http://racinggames.mobappsmarket.com/
 *  JS Response Bytes: 589482
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

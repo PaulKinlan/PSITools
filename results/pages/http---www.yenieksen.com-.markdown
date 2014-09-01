@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.yenieksen.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Yenieksen Bursa Güncel Haber Ekonomi Politika Spor](http://www.yenieksen.com/)
 
@@ -29,9 +35,6 @@ title: http://www.yenieksen.com/
 *  JS Response Bytes: 931026
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 281671
-
-### Performance issues
-
 
 ### Performance issues
 

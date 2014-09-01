@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fungamesnetwork.com/lord-of-ultima/index.htlm
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lord Of Ultima | Fungamesnetwork](http://www.fungamesnetwork.com/lord-of-ultima/index.htlm)
 
@@ -29,9 +34,6 @@ title: http://www.fungamesnetwork.com/lord-of-ultima/index.htlm
 *  JS Response Bytes: 1025951
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1437
-
-### Performance issues
-
 
 ### Performance issues
 

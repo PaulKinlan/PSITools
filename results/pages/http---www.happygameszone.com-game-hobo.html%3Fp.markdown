@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.happygameszone.com/game/hobo.html?p
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Hobo Games - HappyGamesZone.com](http://www.happygameszone.com/game/hobo.html?p)
 
@@ -29,9 +35,6 @@ title: http://www.happygameszone.com/game/hobo.html?p
 *  JS Response Bytes: 656907
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96398
-
-### Performance issues
-
 
 ### Performance issues
 

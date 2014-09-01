@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.navigamer.com/super_mario_all_stars_emu/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Mario All Stars Emulator - NaViGaMeR](http://www.navigamer.com/super_mario_all_stars_emu/)
 
@@ -29,9 +36,6 @@ title: http://www.navigamer.com/super_mario_all_stars_emu/
 *  JS Response Bytes: 449845
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49681
-
-### Performance issues
-
 
 ### Performance issues
 

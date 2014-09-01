@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mylover365.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online dating with www.mylover365.com - Front page](http://www.mylover365.com/)
 
@@ -29,9 +33,6 @@ title: http://www.mylover365.com/
 *  JS Response Bytes: 344319
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

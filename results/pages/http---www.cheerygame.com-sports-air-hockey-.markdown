@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.cheerygame.com/sports/air-hockey-
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [cheerygame.com](http://www.cheerygame.com/sports/air-hockey-)
 
@@ -29,9 +33,6 @@ title: http://www.cheerygame.com/sports/air-hockey-
 *  JS Response Bytes: 174187
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

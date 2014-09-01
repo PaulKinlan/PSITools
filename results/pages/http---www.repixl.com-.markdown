@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.repixl.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Photo Editing, Restoration, Repair, Retouching and Printing](http://www.repixl.com/)
 
@@ -29,9 +31,6 @@ title: http://www.repixl.com/
 *  JS Response Bytes: 280637
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 60188
-
-### Performance issues
-
 
 ### Performance issues
 

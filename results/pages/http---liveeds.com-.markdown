@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://liveeds.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Liveeds - Free Video Chat](http://liveeds.com/)
 
@@ -29,9 +34,6 @@ title: http://liveeds.com/
 *  JS Response Bytes: 1148586
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2299
-
-### Performance issues
-
 
 ### Performance issues
 

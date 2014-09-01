@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://hupshu.com/?page_id=529
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Hupshu.com](http://hupshu.com/?page_id=529)
 
@@ -29,9 +31,6 @@ title: http://hupshu.com/?page_id=529
 *  JS Response Bytes: 97672
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

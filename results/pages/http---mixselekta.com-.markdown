@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://mixselekta.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [mixselekta.com :: The DJ mix search engine](http://mixselekta.com/)
 
@@ -29,9 +34,6 @@ title: http://mixselekta.com/
 *  JS Response Bytes: 847149
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4190
-
-### Performance issues
-
 
 ### Performance issues
 

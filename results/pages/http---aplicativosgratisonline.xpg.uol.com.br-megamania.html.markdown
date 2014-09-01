@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://aplicativosgratisonline.xpg.uol.com.br/megamania.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Megamania](http://aplicativosgratisonline.xpg.uol.com.br/megamania.html)
 
@@ -29,9 +34,6 @@ title: http://aplicativosgratisonline.xpg.uol.com.br/megamania.html
 *  JS Response Bytes: 761177
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19006
-
-### Performance issues
-
 
 ### Performance issues
 

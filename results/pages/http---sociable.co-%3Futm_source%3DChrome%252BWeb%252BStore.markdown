@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://sociable.co/?utm_source=Chrome%2BWeb%2BStore
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Sociable - Technology and media blog based in Ireland](http://sociable.co/?utm_source=Chrome%2BWeb%2BStore)
 
@@ -29,9 +31,6 @@ title: http://sociable.co/?utm_source=Chrome%2BWeb%2BStore
 *  JS Response Bytes: 1228685
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 286548
-
-### Performance issues
-
 
 ### Performance issues
 

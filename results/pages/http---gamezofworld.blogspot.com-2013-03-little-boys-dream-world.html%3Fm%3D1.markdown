@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gamezofworld.blogspot.com/2013/03/little-boys-dream-world.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
 ---
 ## [Best Free Games: Little Boy's Dream World](http://gamezofworld.blogspot.com/2013/03/little-boys-dream-world.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://gamezofworld.blogspot.com/2013/03/little-boys-dream-world.html?m=1
 *  JS Response Bytes: 1847924
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287779
-
-### Performance issues
-
 
 ### Performance issues
 

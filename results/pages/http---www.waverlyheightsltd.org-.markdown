@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.waverlyheightsltd.org/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Senior Life Care & Residential Living Options Bryn Mawr, PA | Waverly Heights](http://www.waverlyheightsltd.org/)
 
@@ -29,9 +33,6 @@ title: http://www.waverlyheightsltd.org/
 *  JS Response Bytes: 296981
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9519
-
-### Performance issues
-
 
 ### Performance issues
 

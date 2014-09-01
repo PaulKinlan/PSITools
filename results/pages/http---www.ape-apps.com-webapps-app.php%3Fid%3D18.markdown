@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ape-apps.com/webapps/app.php?id=18
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Age Scanner](http://www.ape-apps.com/webapps/app.php?id=18)
 
@@ -29,9 +33,6 @@ title: http://www.ape-apps.com/webapps/app.php?id=18
 *  JS Response Bytes: 1570932
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110737
-
-### Performance issues
-
 
 ### Performance issues
 

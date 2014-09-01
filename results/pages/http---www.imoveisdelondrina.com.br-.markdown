@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.imoveisdelondrina.com.br/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Imóveis De Londrina - Todos os imóveis de Londrina e região em um só lugar para você encontrar o que quer comprar ou alugar. Imobiliária em Londrina é aqui! Esse é o Lugar Certo para você encontar os Imóveis em Londrina que você procura!](http://www.imoveisdelondrina.com.br/)
 
@@ -29,9 +33,6 @@ title: http://www.imoveisdelondrina.com.br/
 *  JS Response Bytes: 400565
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 579
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gardenbuddy.org/en/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [GardenBuddy Seeds and Plants - Vegetable Garden, Heirloom Seeds, Organic Gardening](http://gardenbuddy.org/en/)
 
@@ -29,9 +33,6 @@ title: http://gardenbuddy.org/en/
 *  JS Response Bytes: 159233
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 377
-
-### Performance issues
-
 
 ### Performance issues
 

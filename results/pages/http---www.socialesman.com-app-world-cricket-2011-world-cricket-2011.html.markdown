@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.socialesman.com/app/world-cricket-2011/world-cricket-2011.html
+MinimizeRenderBlockingResources: true
 ---
 ## [Clone doesnt have this page](http://www.socialesman.com/app/world-cricket-2011/world-cricket-2011.html)
 
@@ -29,9 +30,6 @@ title: http://www.socialesman.com/app/world-cricket-2011/world-cricket-2011.html
 *  JS Response Bytes: 824764
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97406
-
-### Performance issues
-
 
 ### Performance issues
 

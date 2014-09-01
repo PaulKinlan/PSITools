@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://en.start.gamigo.com/jaggedalliance/002/?affiliateID=778
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jagged Alliance Online | Turn-Based MMOG | Free-to-play | gamigo](http://en.start.gamigo.com/jaggedalliance/002/?affiliateID=778)
 
@@ -29,9 +34,6 @@ title: http://en.start.gamigo.com/jaggedalliance/002/?affiliateID=778
 *  JS Response Bytes: 542721
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3269
-
-### Performance issues
-
 
 ### Performance issues
 

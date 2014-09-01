@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.yengames.com/angry-birds-space-hd.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [YenGames.Com | Flash Game Site – Angry Birds Space HD](http://www.yengames.com/angry-birds-space-hd.html)
 
@@ -29,9 +36,6 @@ title: http://www.yengames.com/angry-birds-space-hd.html
 *  JS Response Bytes: 414175
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1073
-
-### Performance issues
-
 
 ### Performance issues
 

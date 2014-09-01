@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.6funny.com/mmdc2/start?sr=chromeShortcut
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [龍之召喚 2 | 6Funny 遊戲平台](http://www.6funny.com/mmdc2/start?sr=chromeShortcut)
 
@@ -29,9 +33,6 @@ title: http://www.6funny.com/mmdc2/start?sr=chromeShortcut
 *  JS Response Bytes: 420832
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 597
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://4hdgame.blogspot.com/2013/02/gta-similar.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [4hdgame: Gta 4](http://4hdgame.blogspot.com/2013/02/gta-similar.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://4hdgame.blogspot.com/2013/02/gta-similar.html?m=1
 *  JS Response Bytes: 2364547
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287442
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.stationofgames.com/gravity-guy/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gravity Guy](http://www.stationofgames.com/gravity-guy/)
 
@@ -29,9 +35,6 @@ title: http://www.stationofgames.com/gravity-guy/
 *  JS Response Bytes: 2018374
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100977
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.solonschools.org/printers.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Untitled Document](http://www.solonschools.org/printers.html)
 
@@ -29,9 +32,6 @@ title: http://www.solonschools.org/printers.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

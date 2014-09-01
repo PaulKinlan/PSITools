@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://displaygame.com/?=404;http://displaygame.com:80/home-run-hitter.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [displaygame.com](http://displaygame.com/?=404;http://displaygame.com:80/home-run-hitter.html&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://displaygame.com/?=404;http://displaygame.com:80/home-run-hitter.ht
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109
-
-### Performance issues
-
 
 ### Performance issues
 

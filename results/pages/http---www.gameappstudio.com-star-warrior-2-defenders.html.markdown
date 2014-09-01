@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameappstudio.com/star-warrior-2-defenders.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Star Warrior 2 – Defenders | gameappstudio](http://www.gameappstudio.com/star-warrior-2-defenders.html)
 
@@ -29,9 +34,6 @@ title: http://www.gameappstudio.com/star-warrior-2-defenders.html
 *  JS Response Bytes: 993774
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

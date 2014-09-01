@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://seoner.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Web Design | SEO | Digital Marketing](http://seoner.com/)
 
@@ -29,9 +31,6 @@ title: http://seoner.com/
 *  JS Response Bytes: 567804
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 449341
-
-### Performance issues
-
 
 ### Performance issues
 

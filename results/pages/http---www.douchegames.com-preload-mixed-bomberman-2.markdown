@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.douchegames.com/preload/mixed/bomberman-2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Bomberman 2 - Play Game Douchbag!!!](http://www.douchegames.com/preload/mixed/bomberman-2)
 
@@ -29,9 +34,6 @@ title: http://www.douchegames.com/preload/mixed/bomberman-2
 *  JS Response Bytes: 182833
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1277
-
-### Performance issues
-
 
 ### Performance issues
 

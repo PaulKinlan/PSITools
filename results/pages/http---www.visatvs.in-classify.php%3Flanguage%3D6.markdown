@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.visatvs.in/classify.php?language=6
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Visatvs.in](http://www.visatvs.in/classify.php?language=6)
 
@@ -29,9 +31,6 @@ title: http://www.visatvs.in/classify.php?language=6
 *  JS Response Bytes: 167657
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

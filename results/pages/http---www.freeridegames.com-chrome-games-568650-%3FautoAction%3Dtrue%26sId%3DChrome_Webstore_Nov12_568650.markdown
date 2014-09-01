@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/568650/?autoAction=true&sId=Chrome_Webstore_Nov12_568650
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Aquitania for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/568650/?autoAction=true&sId=Chrome_Webstore_Nov12_568650)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/568650/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1428570
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8459
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.johnrouda.com/google/apps/tools/
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Networking Tools :: JohnRouda.com :: John Rouda, IT, Networking, Security, Windows, Microsoft, Cisco, CCNA, MCSE, MCDBA, BCSD, SQL, Server, Linux](http://www.johnrouda.com/google/apps/tools/)
 
@@ -29,9 +33,6 @@ title: http://www.johnrouda.com/google/apps/tools/
 *  JS Response Bytes: 490154
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1745
-
-### Performance issues
-
 
 ### Performance issues
 

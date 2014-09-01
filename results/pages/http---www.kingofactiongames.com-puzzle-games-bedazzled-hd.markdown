@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.kingofactiongames.com/puzzle-games/bedazzled-hd
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bedazzled HD - Games - Play Free Online King of Action Games](http://www.kingofactiongames.com/puzzle-games/bedazzled-hd)
 
@@ -29,9 +35,6 @@ title: http://www.kingofactiongames.com/puzzle-games/bedazzled-hd
 *  JS Response Bytes: 819547
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16314
-
-### Performance issues
-
 
 ### Performance issues
 

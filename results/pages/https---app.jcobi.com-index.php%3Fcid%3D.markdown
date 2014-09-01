@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://app.jcobi.com/index.php?cid=
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jcobi Campus](https://app.jcobi.com/index.php?cid=)
 
@@ -29,9 +34,6 @@ title: https://app.jcobi.com/index.php?cid=
 *  JS Response Bytes: 152486
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57
-
-### Performance issues
-
 
 ### Performance issues
 

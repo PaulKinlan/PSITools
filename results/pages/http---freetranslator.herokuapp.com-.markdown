@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://freetranslator.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free Translator](http://freetranslator.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://freetranslator.herokuapp.com/
 *  JS Response Bytes: 1332047
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111191
-
-### Performance issues
-
 
 ### Performance issues
 

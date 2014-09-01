@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://subpedia.org/translate/?sl=ja&tl=it
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [イタリア語翻訳](http://subpedia.org/translate/?sl=ja&tl=it)
 
@@ -29,9 +32,6 @@ title: http://subpedia.org/translate/?sl=ja&tl=it
 *  JS Response Bytes: 318267
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 831
-
-### Performance issues
-
 
 ### Performance issues
 

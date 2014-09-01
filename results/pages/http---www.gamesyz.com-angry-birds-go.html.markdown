@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamesyz.com/angry-birds-go.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Go : Games YZ](http://www.gamesyz.com/angry-birds-go.html)
 
@@ -29,9 +33,6 @@ title: http://www.gamesyz.com/angry-birds-go.html
 *  JS Response Bytes: 1693285
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103884
-
-### Performance issues
-
 
 ### Performance issues
 

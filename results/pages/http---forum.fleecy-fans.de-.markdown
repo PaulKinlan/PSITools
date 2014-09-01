@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://forum.fleecy-fans.de/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Fehlermeldung - WoltLab Burning Board 4.0](http://forum.fleecy-fans.de/)
 
@@ -29,9 +32,6 @@ title: http://forum.fleecy-fans.de/
 *  JS Response Bytes: 663142
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61477
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://spotrecord.haykranen.nl/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Spotrecord - get Spotify album recommendations using your last.fm account](http://spotrecord.haykranen.nl/)
 
@@ -29,9 +32,6 @@ title: http://spotrecord.haykranen.nl/
 *  JS Response Bytes: 470416
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 551
-
-### Performance issues
-
 
 ### Performance issues
 

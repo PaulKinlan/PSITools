@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://3d3games.com/plants-vs-zombies/3d
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Plants vs Zombies | 3D Games More 3d Free Games And 3D Games Online](http://3d3games.com/plants-vs-zombies/3d)
 
@@ -29,9 +33,6 @@ title: http://3d3games.com/plants-vs-zombies/3d
 *  JS Response Bytes: 2132944
 *  Flash Response Bytes: 363098
 *  Other Response Bytes: 154201
-
-### Performance issues
-
 
 ### Performance issues
 

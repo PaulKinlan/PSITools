@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.surgery-games.org/bitter-the-pill-2/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bitter the Pill game](http://www.surgery-games.org/bitter-the-pill-2/)
 
@@ -29,9 +36,6 @@ title: http://www.surgery-games.org/bitter-the-pill-2/
 *  JS Response Bytes: 2546644
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115776
-
-### Performance issues
-
 
 ### Performance issues
 

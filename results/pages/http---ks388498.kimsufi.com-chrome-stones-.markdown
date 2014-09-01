@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ks388498.kimsufi.com/chrome/stones/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Jurassic Stones](http://ks388498.kimsufi.com/chrome/stones/)
 
@@ -29,9 +31,6 @@ title: http://ks388498.kimsufi.com/chrome/stones/
 *  JS Response Bytes: 809106
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14932
-
-### Performance issues
-
 
 ### Performance issues
 

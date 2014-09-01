@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.hasznaltautokereso.hu/kindex.php
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [használtautó kereső használtautók ★ hasznaltautokereso.hu](http://www.hasznaltautokereso.hu/kindex.php)
 
@@ -29,9 +32,6 @@ title: http://www.hasznaltautokereso.hu/kindex.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

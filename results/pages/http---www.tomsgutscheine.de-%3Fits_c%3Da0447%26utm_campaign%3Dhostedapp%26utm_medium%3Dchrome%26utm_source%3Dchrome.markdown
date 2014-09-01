@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tomsgutscheine.de/?its_c=a0447&utm_campaign=hostedapp&utm_medium=chrome&utm_source=chrome
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gutscheine, Gutscheincodes & Coupons (August 2014) - Tom's Gutscheine](http://www.tomsgutscheine.de/?its_c=a0447&utm_campaign=hostedapp&utm_medium=chrome&utm_source=chrome)
 
@@ -29,9 +32,6 @@ title: http://www.tomsgutscheine.de/?its_c=a0447&utm_campaign=hostedapp&utm_medi
 *  JS Response Bytes: 338747
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11325
-
-### Performance issues
-
 
 ### Performance issues
 

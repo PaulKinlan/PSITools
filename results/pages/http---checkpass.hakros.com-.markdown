@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://checkpass.hakros.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hakros CheckPass](http://checkpass.hakros.com/)
 
@@ -29,9 +33,6 @@ title: http://checkpass.hakros.com/
 *  JS Response Bytes: 17148
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.londonviralmarket.com/demos/pembridge_flooring/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Pembridge Flooring | Skilled Craftsmen](http://www.londonviralmarket.com/demos/pembridge_flooring/)
 
@@ -29,9 +31,6 @@ title: http://www.londonviralmarket.com/demos/pembridge_flooring/
 *  JS Response Bytes: 491748
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98062
-
-### Performance issues
-
 
 ### Performance issues
 

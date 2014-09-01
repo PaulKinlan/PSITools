@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.gamezheros.com/games/happy-wheels
+UseLegibleFontSizes: true
 ---
 ## [500 Internal Server Error](http://www.gamezheros.com/games/happy-wheels)
 
@@ -29,9 +30,6 @@ title: http://www.gamezheros.com/games/happy-wheels
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 958
-
-### Performance issues
-
 
 ### Performance issues
 

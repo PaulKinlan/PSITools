@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://sviluppo.servizimultimediali.net/net2ftp/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [net2ftp - a web based FTP client](http://sviluppo.servizimultimediali.net/net2ftp/)
 
@@ -29,9 +32,6 @@ title: http://sviluppo.servizimultimediali.net/net2ftp/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://m.betclic.fr/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+UseLegibleFontSizes: true
 ---
 ## [Sports](https://m.betclic.fr/)
 
@@ -29,9 +33,6 @@ title: https://m.betclic.fr/
 *  JS Response Bytes: 523071
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3279
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://mncis.intocareers.org/materials/portal/home.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Minnesota CIS](https://mncis.intocareers.org/materials/portal/home.html)
 
@@ -29,9 +32,6 @@ title: https://mncis.intocareers.org/materials/portal/home.html
 *  JS Response Bytes: 138882
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1484
-
-### Performance issues
-
 
 ### Performance issues
 

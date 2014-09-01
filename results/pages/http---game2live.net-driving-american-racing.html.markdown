@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://game2live.net/driving/american-racing.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [American Racing - Best Free Online Games | game2live.net - http://game2live.net](http://game2live.net/driving/american-racing.html)
 
@@ -29,9 +35,6 @@ title: http://game2live.net/driving/american-racing.html
 *  JS Response Bytes: 3394742
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 196375
-
-### Performance issues
-
 
 ### Performance issues
 

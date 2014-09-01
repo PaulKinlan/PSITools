@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chrome.atari.com/tempest/
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tempest - Atari Video Games](http://chrome.atari.com/tempest/)
 
@@ -29,9 +32,6 @@ title: http://chrome.atari.com/tempest/
 *  JS Response Bytes: 82205
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

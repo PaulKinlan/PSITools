@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.footballeleven.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [TapFantasy | Malaysia Mobile Apps and Games Development Company | iOS and Android](http://www.footballeleven.com/)
 
@@ -29,9 +31,6 @@ title: http://www.footballeleven.com/
 *  JS Response Bytes: 154368
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 75409
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://saurabhsh.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [My Site](http://saurabhsh.com/)
 
@@ -29,9 +32,6 @@ title: http://saurabhsh.com/
 *  JS Response Bytes: 437784
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 360
-
-### Performance issues
-
 
 ### Performance issues
 

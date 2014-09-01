@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://response.smarttech.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SMART Response VE](http://response.smarttech.com/)
 
@@ -29,9 +31,6 @@ title: http://response.smarttech.com/
 *  JS Response Bytes: 136802
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

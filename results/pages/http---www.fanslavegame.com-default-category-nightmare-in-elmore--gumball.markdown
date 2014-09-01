@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fanslavegame.com/default-category/nightmare-in-elmore--gumball
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nightmare in Elmore Gumball - Fanslavegame](http://www.fanslavegame.com/default-category/nightmare-in-elmore--gumball)
 
@@ -29,9 +34,6 @@ title: http://www.fanslavegame.com/default-category/nightmare-in-elmore--gumball
 *  JS Response Bytes: 520229
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15319
-
-### Performance issues
-
 
 ### Performance issues
 

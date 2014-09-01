@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bekaloot.co.il/default.aspx
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [בקלות - מדריכים לכל צורך](http://www.bekaloot.co.il/default.aspx)
 
@@ -29,9 +33,6 @@ title: http://www.bekaloot.co.il/default.aspx
 *  JS Response Bytes: 2566565
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44301
-
-### Performance issues
-
 
 ### Performance issues
 

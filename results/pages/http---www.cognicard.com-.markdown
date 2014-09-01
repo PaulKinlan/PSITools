@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.cognicard.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [CogniCard - Online Business Card Scanner](http://www.cognicard.com/)
 
@@ -29,9 +33,6 @@ title: http://www.cognicard.com/
 *  JS Response Bytes: 791291
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 81672
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://foodberry.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Foodberry - Create and share recipes with friends](http://foodberry.com/)
 
@@ -29,9 +31,6 @@ title: http://foodberry.com/
 *  JS Response Bytes: 645898
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2662
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://games.ws-net.net/SpaceShooter/webgame.php
+EnableGzipCompression: true
 ---
 ## [Space Shooter 3D](http://games.ws-net.net/SpaceShooter/webgame.php)
 
@@ -29,9 +30,6 @@ title: http://games.ws-net.net/SpaceShooter/webgame.php
 *  JS Response Bytes: 154314
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

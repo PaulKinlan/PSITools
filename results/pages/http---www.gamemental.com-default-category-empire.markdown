@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamemental.com/default-category/empire
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Empire - Gamemental](http://www.gamemental.com/default-category/empire)
 
@@ -29,9 +33,6 @@ title: http://www.gamemental.com/default-category/empire
 *  JS Response Bytes: 672644
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14779
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.zyqued.com/playCasey.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Zyqued Games : The art of gaming](http://www.zyqued.com/playCasey.aspx)
 
@@ -29,9 +32,6 @@ title: http://www.zyqued.com/playCasey.aspx
 *  JS Response Bytes: 352249
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57
-
-### Performance issues
-
 
 ### Performance issues
 

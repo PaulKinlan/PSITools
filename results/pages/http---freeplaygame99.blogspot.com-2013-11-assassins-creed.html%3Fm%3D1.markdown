@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://freeplaygame99.blogspot.com/2013/11/assassins-creed.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free play games, card games, casino games online games: Assassins Creed](http://freeplaygame99.blogspot.com/2013/11/assassins-creed.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://freeplaygame99.blogspot.com/2013/11/assassins-creed.html?m=1
 *  JS Response Bytes: 971654
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 289350
-
-### Performance issues
-
 
 ### Performance issues
 

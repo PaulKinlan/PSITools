@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://angrygamez.com/action/adventure-time-finn-and-bones
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Adventure Time Finn and Bones - Angry Gamez Best Games](http://angrygamez.com/action/adventure-time-finn-and-bones)
 
@@ -29,9 +35,6 @@ title: http://angrygamez.com/action/adventure-time-finn-and-bones
 *  JS Response Bytes: 2686435
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 330368
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://games4chrome.info/index.php?task=view&id=375
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games for Chrome](http://games4chrome.info/index.php?task=view&id=375)
 
@@ -29,9 +32,6 @@ title: http://games4chrome.info/index.php?task=view&id=375
 *  JS Response Bytes: 813562
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46966
-
-### Performance issues
-
 
 ### Performance issues
 

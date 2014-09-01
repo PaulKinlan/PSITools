@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.ongolf.com/
+UseLegibleFontSizes: true
 ---
 ## [onGOLF.com - Currently updating](http://www.ongolf.com/)
 
@@ -29,9 +30,6 @@ title: http://www.ongolf.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 625
-
-### Performance issues
-
 
 ### Performance issues
 

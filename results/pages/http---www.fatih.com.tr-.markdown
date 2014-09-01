@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fatih.com.tr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fatih Ferforje - Wrought Iron Company](http://www.fatih.com.tr/)
 
@@ -29,9 +34,6 @@ title: http://www.fatih.com.tr/
 *  JS Response Bytes: 920455
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2793
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://hero.joyfort.com/?source=gws
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [X-Hero | Next Gen City Hero Strategy Online Game – Free to Play!](http://hero.joyfort.com/?source=gws)
 
@@ -29,9 +32,6 @@ title: http://hero.joyfort.com/?source=gws
 *  JS Response Bytes: 348794
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2496
-
-### Performance issues
-
 
 ### Performance issues
 

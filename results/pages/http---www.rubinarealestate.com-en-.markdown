@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.rubinarealestate.com/en/
+MinimizeRenderBlockingResources: true
 ---
 ## [Berlin Real Estate: Your Full-Service Berlin Real Estate Agency](http://www.rubinarealestate.com/en/)
 
@@ -29,9 +30,6 @@ title: http://www.rubinarealestate.com/en/
 *  JS Response Bytes: 431300
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4321
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mobile.raagangal.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Raagangal](http://mobile.raagangal.com/)
 
@@ -29,9 +33,6 @@ title: http://mobile.raagangal.com/
 *  JS Response Bytes: 362572
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

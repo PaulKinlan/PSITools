@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.leggere-i-tarocchi-per-crescere.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Come leggere i Tarocchi: significato e interpretazione](http://www.leggere-i-tarocchi-per-crescere.com/)
 
@@ -29,9 +34,6 @@ title: http://www.leggere-i-tarocchi-per-crescere.com/
 *  JS Response Bytes: 811200
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95565
-
-### Performance issues
-
 
 ### Performance issues
 

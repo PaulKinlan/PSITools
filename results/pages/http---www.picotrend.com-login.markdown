@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.picotrend.com/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [PicoTrend](http://www.picotrend.com/login)
 
@@ -29,9 +33,6 @@ title: http://www.picotrend.com/login
 *  JS Response Bytes: 1183967
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1060
-
-### Performance issues
-
 
 ### Performance issues
 

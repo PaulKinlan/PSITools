@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://mamma.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Mamma](https://mamma.com/)
 
@@ -18,20 +21,17 @@ title: https://mamma.com/
 *  Number of JS Resources: 20
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 29
-*  Total Request Bytes: 7962
+*  Total Request Bytes: 7971
 
 ### Response data
 
-*  HTML Response Bytes: 182837
+*  HTML Response Bytes: 183006
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 164609
-*  Image Response Bytes: 67800
-*  JS Response Bytes: 1158279
+*  CSS Response Bytes: 164622
+*  Image Response Bytes: 67857
+*  JS Response Bytes: 1158294
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 60661
-
-### Performance issues
-
+*  Other Response Bytes: 60659
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://toygames.info/minecraft/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tic Games Flash Games – Minecraft](http://toygames.info/minecraft/)
 
@@ -29,9 +34,6 @@ title: http://toygames.info/minecraft/
 *  JS Response Bytes: 1032867
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17315
-
-### Performance issues
-
 
 ### Performance issues
 

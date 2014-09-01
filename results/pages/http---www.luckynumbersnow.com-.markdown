@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.luckynumbersnow.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Lucky Numbers](http://www.luckynumbersnow.com/)
 
@@ -29,9 +33,6 @@ title: http://www.luckynumbersnow.com/
 *  JS Response Bytes: 665775
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19012
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.appbrain.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Top Android Apps and Games in the Android Market | AppBrain.com](http://www.appbrain.com/)
 
@@ -29,9 +32,6 @@ title: http://www.appbrain.com/
 *  JS Response Bytes: 2004957
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141234
-
-### Performance issues
-
 
 ### Performance issues
 

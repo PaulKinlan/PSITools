@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/671350/?autoAction=true&sId=Chrome_Webstore_Nov12_671350&actid=Chrome_Webstore_671350
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Alice's Tea Cup Madness for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/671350/?autoAction=true&sId=Chrome_Webstore_Nov12_671350&actid=Chrome_Webstore_671350)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/671350/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1431994
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49094
-
-### Performance issues
-
 
 ### Performance issues
 

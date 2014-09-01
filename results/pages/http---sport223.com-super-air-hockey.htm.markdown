@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://sport223.com/super-air-hockey.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Air Hockey ~ This online game is so addictive~~](http://sport223.com/super-air-hockey.htm)
 
@@ -29,9 +35,6 @@ title: http://sport223.com/super-air-hockey.htm
 *  JS Response Bytes: 863534
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12173
-
-### Performance issues
-
 
 ### Performance issues
 

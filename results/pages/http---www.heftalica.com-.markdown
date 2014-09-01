@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.heftalica.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HEFTALICA - stapler (noun) - 定番](http://www.heftalica.com/)
 
@@ -29,9 +34,6 @@ title: http://www.heftalica.com/
 *  JS Response Bytes: 769419
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 757
-
-### Performance issues
-
 
 ### Performance issues
 

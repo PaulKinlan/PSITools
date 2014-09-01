@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://apaebrasil.org.br/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Federação Nacional das Apaes - Inclusão da pessoa com deficiência](http://apaebrasil.org.br/)
 
@@ -29,9 +35,6 @@ title: http://apaebrasil.org.br/
 *  JS Response Bytes: 1312510
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45507
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.coolflashcards.com/home/subjects
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flash Cards List of Sujects](http://www.coolflashcards.com/home/subjects)
 
@@ -29,9 +34,6 @@ title: http://www.coolflashcards.com/home/subjects
 *  JS Response Bytes: 1540911
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 238
-
-### Performance issues
-
 
 ### Performance issues
 

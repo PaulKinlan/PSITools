@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.friv-game.org/games/game/name/pro-racing-gt
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [pro-racing-gt Friv Games](http://www.friv-game.org/games/game/name/pro-racing-gt)
 
@@ -29,9 +33,6 @@ title: http://www.friv-game.org/games/game/name/pro-racing-gt
 *  JS Response Bytes: 2616557
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111816
-
-### Performance issues
-
 
 ### Performance issues
 

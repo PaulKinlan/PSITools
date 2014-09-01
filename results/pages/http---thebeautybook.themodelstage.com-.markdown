@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://thebeautybook.themodelstage.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Beauty Book](http://thebeautybook.themodelstage.com/)
 
@@ -29,9 +32,6 @@ title: http://thebeautybook.themodelstage.com/
 *  JS Response Bytes: 555238
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14683
-
-### Performance issues
-
 
 ### Performance issues
 

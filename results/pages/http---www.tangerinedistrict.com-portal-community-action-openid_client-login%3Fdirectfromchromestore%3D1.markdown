@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.tangerinedistrict.com/portal/community/action/openid_client/login?directfromchromestore=1
+UseLegibleFontSizes: true
 ---
 ## [Heroku | No such app](http://www.tangerinedistrict.com/portal/community/action/openid_client/login?directfromchromestore=1)
 
@@ -29,9 +30,6 @@ title: http://www.tangerinedistrict.com/portal/community/action/openid_client/lo
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3177
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://online.unityplay.com/chrome/3d_real_bowling/webplayer.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Real Bowling | UnityPlay.com-Flash-Android-Chrome Games](http://online.unityplay.com/chrome/3d_real_bowling/webplayer.html)
 
@@ -29,9 +35,6 @@ title: http://online.unityplay.com/chrome/3d_real_bowling/webplayer.html
 *  JS Response Bytes: 867760
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10990
-
-### Performance issues
-
 
 ### Performance issues
 

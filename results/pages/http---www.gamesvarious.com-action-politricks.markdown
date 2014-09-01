@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/action/politricks
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Politricks - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/action/politricks)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/action/politricks
 *  JS Response Bytes: 2036243
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105677
-
-### Performance issues
-
 
 ### Performance issues
 

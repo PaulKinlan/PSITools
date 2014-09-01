@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamedinosaur.net/action-%7C-adventure/earn-to-die
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | Gamedinosaur.net | Play Most Popular Games Free](http://www.gamedinosaur.net/action-%7C-adventure/earn-to-die)
 
@@ -29,9 +35,6 @@ title: http://www.gamedinosaur.net/action-%7C-adventure/earn-to-die
 *  JS Response Bytes: 1274964
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 60398
-
-### Performance issues
-
 
 ### Performance issues
 

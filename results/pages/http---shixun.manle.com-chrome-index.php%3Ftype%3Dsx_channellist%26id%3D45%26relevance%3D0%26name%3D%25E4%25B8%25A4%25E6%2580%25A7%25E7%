@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://shixun.manle.com/chrome/index.php?type=sx_channellist&id=45&relevance=0&name=%E4%B8%A4%E6%80%A7%E7%9F%A5%E8%AF%86
+MinimizeRenderBlockingResources: true
 ---
 ## [健康时讯](http://shixun.manle.com/chrome/index.php?type=sx_channellist&id=45&relevance=0&name=%E4%B8%A4%E6%80%A7%E7%9F%A5%E8%AF%86)
 
@@ -29,9 +30,6 @@ title: http://shixun.manle.com/chrome/index.php?type=sx_channellist&id=45&releva
 *  JS Response Bytes: 106014
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

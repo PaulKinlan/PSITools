@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://davidgoemans.com/WordsExtreme/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Word Shuffle - by David Goemans](http://davidgoemans.com/WordsExtreme/)
 
@@ -29,9 +34,6 @@ title: http://davidgoemans.com/WordsExtreme/
 *  JS Response Bytes: 1213704
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2831
-
-### Performance issues
-
 
 ### Performance issues
 

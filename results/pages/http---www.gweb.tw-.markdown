@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gweb.tw/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [::: 最新最好玩的遊戲都在 G Web :::](http://www.gweb.tw/)
 
@@ -29,9 +33,6 @@ title: http://www.gweb.tw/
 *  JS Response Bytes: 366507
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 505
-
-### Performance issues
-
 
 ### Performance issues
 

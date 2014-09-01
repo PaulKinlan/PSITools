@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://htmlplayer.digitalview.com/index.php
+UseLegibleFontSizes: true
 ---
 ## [](http://htmlplayer.digitalview.com/index.php)
 
@@ -29,9 +30,6 @@ title: http://htmlplayer.digitalview.com/index.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 788
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://freegamesapplication.blogspot.com.tr/2014/02/flappy-bird-2.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free Game And Application: Flappy Bird 2](http://freegamesapplication.blogspot.com.tr/2014/02/flappy-bird-2.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://freegamesapplication.blogspot.com.tr/2014/02/flappy-bird-2.html?m=
 *  JS Response Bytes: 1667854
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114723
-
-### Performance issues
-
 
 ### Performance issues
 

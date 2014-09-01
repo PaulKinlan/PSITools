@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://games.user00.com/EndlessRoad/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Endless Road](http://games.user00.com/EndlessRoad/index.html)
 
@@ -29,9 +34,6 @@ title: http://games.user00.com/EndlessRoad/index.html
 *  JS Response Bytes: 1830216
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109864
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ultimateastrologyguide.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://ultimateastrologyguide.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://ultimateastrologyguide.blogspot.com/?m=1
 *  JS Response Bytes: 41100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18807
-
-### Performance issues
-
 
 ### Performance issues
 

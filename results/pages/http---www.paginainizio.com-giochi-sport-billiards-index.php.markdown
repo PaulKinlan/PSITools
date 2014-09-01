@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.paginainizio.com/giochi/sport/billiards/index.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gioco Il Biliardo](http://www.paginainizio.com/giochi/sport/billiards/index.php)
 
@@ -29,9 +34,6 @@ title: http://www.paginainizio.com/giochi/sport/billiards/index.php
 *  JS Response Bytes: 1875487
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96696
-
-### Performance issues
-
 
 ### Performance issues
 

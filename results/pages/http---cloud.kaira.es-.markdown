@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://cloud.kaira.es/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Acceso a Kaira](http://cloud.kaira.es/)
 
@@ -29,9 +32,6 @@ title: http://cloud.kaira.es/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

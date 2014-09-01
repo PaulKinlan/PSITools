@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://mahjongtoychest.fungadgets.info/mahjongtoychest.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mahjong Toy Chest Puzzle Game](http://mahjongtoychest.fungadgets.info/mahjongtoychest.htm)
 
@@ -29,9 +35,6 @@ title: http://mahjongtoychest.fungadgets.info/mahjongtoychest.htm
 *  JS Response Bytes: 587620
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96756
-
-### Performance issues
-
 
 ### Performance issues
 

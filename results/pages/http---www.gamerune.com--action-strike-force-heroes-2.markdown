@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gamerune.com/-action/strike-force-heroes-2
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Strike Force Heroes 2 - Free Online Games | GameRune](http://www.gamerune.com/-action/strike-force-heroes-2)
 
@@ -29,9 +36,6 @@ title: http://www.gamerune.com/-action/strike-force-heroes-2
 *  JS Response Bytes: 1787115
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98147
-
-### Performance issues
-
 
 ### Performance issues
 

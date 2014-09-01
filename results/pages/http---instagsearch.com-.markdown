@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://instagsearch.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Instagsearch](http://instagsearch.com/)
 
@@ -29,9 +34,6 @@ title: http://instagsearch.com/
 *  JS Response Bytes: 487604
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 72552
-
-### Performance issues
-
 
 ### Performance issues
 

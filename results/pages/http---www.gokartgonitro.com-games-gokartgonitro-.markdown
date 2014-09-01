@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gokartgonitro.com/games/gokartgonitro/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [XformGames.com | Go Kart Go! Nitro!](http://www.gokartgonitro.com/games/gokartgonitro/)
 
@@ -29,9 +34,6 @@ title: http://www.gokartgonitro.com/games/gokartgonitro/
 *  JS Response Bytes: 381498
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3424
-
-### Performance issues
-
 
 ### Performance issues
 

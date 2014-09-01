@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.kinderjet.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [KinderJet.com: Family Travel - Family Travel Video](http://www.kinderjet.com/)
 
@@ -29,9 +32,6 @@ title: http://www.kinderjet.com/
 *  JS Response Bytes: 2976806
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102030
-
-### Performance issues
-
 
 ### Performance issues
 

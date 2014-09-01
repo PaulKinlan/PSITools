@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ape-apps.com/webapps/internet_speed_booster_2/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Internet Speed Booster 2](http://www.ape-apps.com/webapps/internet_speed_booster_2/)
 
@@ -29,9 +33,6 @@ title: http://www.ape-apps.com/webapps/internet_speed_booster_2/
 *  JS Response Bytes: 1544501
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110746
-
-### Performance issues
-
 
 ### Performance issues
 

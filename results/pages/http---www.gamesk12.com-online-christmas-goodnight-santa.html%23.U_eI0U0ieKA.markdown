@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/christmas/goodnight-santa.html#.U_eI0U0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Goodnight Santa on Gamesk12.com Play for free](http://www.gamesk12.com/online/christmas/goodnight-santa.html#.U_eI0U0ieKA)
 
@@ -29,9 +37,6 @@ title: http://www.gamesk12.com/online/christmas/goodnight-santa.html#.U_eI0U0ieK
 *  JS Response Bytes: 1871667
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120991
-
-### Performance issues
-
 
 ### Performance issues
 

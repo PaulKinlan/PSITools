@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://rhinoschooltracker.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rhino SchoolTracker -- Track student attendance, grades, and more!](https://rhinoschooltracker.com/)
 
@@ -29,9 +33,6 @@ title: https://rhinoschooltracker.com/
 *  JS Response Bytes: 469901
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

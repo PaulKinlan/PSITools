@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://gamers2play.com/zombie/plants-vs-zombies
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Plants vs. Zombies - Games, Gamers 2 Play | gamers2play.com](http://gamers2play.com/zombie/plants-vs-zombies)
 
@@ -29,9 +36,6 @@ title: http://gamers2play.com/zombie/plants-vs-zombies
 *  JS Response Bytes: 2806803
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 130227
-
-### Performance issues
-
 
 ### Performance issues
 

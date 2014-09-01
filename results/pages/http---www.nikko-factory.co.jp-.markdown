@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.nikko-factory.co.jp/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [親爺が焼いて　息子が売る店　日光陶器店](http://www.nikko-factory.co.jp/)
 
@@ -29,9 +33,6 @@ title: http://www.nikko-factory.co.jp/
 *  JS Response Bytes: 174074
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3012
-
-### Performance issues
-
 
 ### Performance issues
 

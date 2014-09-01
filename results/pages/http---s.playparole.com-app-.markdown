@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://s.playparole.com/app/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Parole: Jogo de Caça palavras online grátis](http://s.playparole.com/app/)
 
@@ -29,9 +32,6 @@ title: http://s.playparole.com/app/
 *  JS Response Bytes: 349900
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 38607
-
-### Performance issues
-
 
 ### Performance issues
 

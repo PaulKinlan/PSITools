@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://herbalifedistributorsleave.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Herbalife Distributors leaving in droves - Your Downline is safe with me](http://herbalifedistributorsleave.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://herbalifedistributorsleave.blogspot.com/?m=1
 *  JS Response Bytes: 788566
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287136
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.unitygamesfree.com/sports/despicable-me-2-minion-golf
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Despicable Me 2 Minion Golf - Unity Games Free](http://www.unitygamesfree.com/sports/despicable-me-2-minion-golf)
 
@@ -29,9 +35,6 @@ title: http://www.unitygamesfree.com/sports/despicable-me-2-minion-golf
 *  JS Response Bytes: 2130624
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113999
-
-### Performance issues
-
 
 ### Performance issues
 

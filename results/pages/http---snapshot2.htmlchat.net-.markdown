@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://snapshot2.htmlchat.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Take A Picture Online With Webcam Effects - Free Photo Hosting - Instantly Save With This Online PhotoBooth - Upto 10 Seconds Time Delay. With Many Other Webcam Toys.](http://snapshot2.htmlchat.net/)
 
@@ -29,9 +34,6 @@ title: http://snapshot2.htmlchat.net/
 *  JS Response Bytes: 2323053
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112988
-
-### Performance issues
-
 
 ### Performance issues
 

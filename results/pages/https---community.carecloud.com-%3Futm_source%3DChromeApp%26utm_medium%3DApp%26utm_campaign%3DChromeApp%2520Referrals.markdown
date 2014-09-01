@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://community.carecloud.com/?utm_source=ChromeApp&utm_medium=App&utm_campaign=ChromeApp%20Referrals
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [CareCloud Community](https://community.carecloud.com/?utm_source=ChromeApp&utm_medium=App&utm_campaign=ChromeApp%20Referrals)
 
@@ -29,9 +31,6 @@ title: https://community.carecloud.com/?utm_source=ChromeApp&utm_medium=App&utm_
 *  JS Response Bytes: 185298
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 889
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://clonerbox.com/software_list.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ClonerBox | 3D Printers](http://clonerbox.com/software_list.php)
 
@@ -29,9 +34,6 @@ title: http://clonerbox.com/software_list.php
 *  JS Response Bytes: 25852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 507
-
-### Performance issues
-
 
 ### Performance issues
 

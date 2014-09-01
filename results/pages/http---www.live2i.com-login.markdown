@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.live2i.com/login
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Sign-in](http://www.live2i.com/login)
 
@@ -29,9 +32,6 @@ title: http://www.live2i.com/login
 *  JS Response Bytes: 1308926
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 698083
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://lostforgames.info/games/nyan-cat-3d/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nyan Cat 3D | Lost For Games](http://lostforgames.info/games/nyan-cat-3d/)
 
@@ -29,9 +34,6 @@ title: http://lostforgames.info/games/nyan-cat-3d/
 *  JS Response Bytes: 519546
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42311
-
-### Performance issues
-
 
 ### Performance issues
 

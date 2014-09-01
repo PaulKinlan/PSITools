@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://calcal.net/popular_sites/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [定番サイト一覧](http://calcal.net/popular_sites/)
 
@@ -29,9 +33,6 @@ title: http://calcal.net/popular_sites/
 *  JS Response Bytes: 124011
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

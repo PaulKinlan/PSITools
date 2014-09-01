@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://listhings.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Listhings - take sticky notes online](http://listhings.com/)
 
@@ -29,9 +33,6 @@ title: http://listhings.com/
 *  JS Response Bytes: 624047
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13747
-
-### Performance issues
-
 
 ### Performance issues
 

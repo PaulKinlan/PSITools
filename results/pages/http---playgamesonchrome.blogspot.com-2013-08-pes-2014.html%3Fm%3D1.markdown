@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playgamesonchrome.blogspot.com/2013/08/pes-2014.html?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://playgamesonchrome.blogspot.com/2013/08/pes-2014.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playgamesonchrome.blogspot.com/2013/08/pes-2014.html?m=1
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18831
-
-### Performance issues
-
 
 ### Performance issues
 

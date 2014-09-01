@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.swogo.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Automated Bundles | Boost Margin and AOV | Swogo](http://www.swogo.com/)
 
@@ -29,9 +30,6 @@ title: http://www.swogo.com/
 *  JS Response Bytes: 95517
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 79134
-
-### Performance issues
-
 
 ### Performance issues
 

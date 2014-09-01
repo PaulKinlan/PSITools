@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://m.tuyaxiuxiu.com/
+UseLegibleFontSizes: true
 ---
 ## [LuManager(LUM)虚拟主机管理面板,Linux/Unix免费虚拟主机控制面板,PHP+MySQL网站服务器管理面板](http://m.tuyaxiuxiu.com/)
 
@@ -29,9 +30,6 @@ title: http://m.tuyaxiuxiu.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

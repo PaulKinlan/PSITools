@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://games-b.com/?=404;http://games-b.com:80/running-fred/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [games-b.com](http://games-b.com/?=404;http://games-b.com:80/running-fred/&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://games-b.com/?=404;http://games-b.com:80/running-fred/&reqp=1&reqr=
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94
-
-### Performance issues
-
 
 ### Performance issues
 

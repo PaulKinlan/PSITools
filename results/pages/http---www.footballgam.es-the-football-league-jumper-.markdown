@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/the-football-league-jumper/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Football League Jumper Game](http://www.footballgam.es/the-football-league-jumper/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/the-football-league-jumper/
 *  JS Response Bytes: 2406960
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 158315
-
-### Performance issues
-
 
 ### Performance issues
 

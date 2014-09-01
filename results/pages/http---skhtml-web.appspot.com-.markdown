@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://skhtml-web.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SkHTML - Test HTML in real time.](http://skhtml-web.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://skhtml-web.appspot.com/
 *  JS Response Bytes: 1781
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

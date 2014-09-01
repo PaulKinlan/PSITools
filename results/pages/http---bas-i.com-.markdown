@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://bas-i.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Basic global Free and easy accounting for sole traders, small, micro and home based business.](http://bas-i.com/)
 
@@ -29,9 +34,6 @@ title: http://bas-i.com/
 *  JS Response Bytes: 241937
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

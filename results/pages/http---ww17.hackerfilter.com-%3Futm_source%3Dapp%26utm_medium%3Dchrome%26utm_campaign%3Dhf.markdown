@@ -33,8 +33,5 @@ title: http://ww17.hackerfilter.com/?utm_source=app&utm_medium=chrome&utm_campai
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

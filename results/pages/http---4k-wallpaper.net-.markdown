@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://4k-wallpaper.net/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [4k Wallpaper - Finest collection of 4k ultra hd wallpapers](http://4k-wallpaper.net/)
 
@@ -29,9 +31,6 @@ title: http://4k-wallpaper.net/
 *  JS Response Bytes: 669662
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1271
-
-### Performance issues
-
 
 ### Performance issues
 

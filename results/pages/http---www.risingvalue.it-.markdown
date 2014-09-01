@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.risingvalue.it/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [risingvalue.it](http://www.risingvalue.it/)
 
@@ -29,9 +32,6 @@ title: http://www.risingvalue.it/
 *  JS Response Bytes: 209184
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

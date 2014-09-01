@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.mangahigh.com/en-gb/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Maths Games - from Mangahigh.com](https://www.mangahigh.com/en-gb/)
 
@@ -29,9 +33,6 @@ title: https://www.mangahigh.com/en-gb/
 *  JS Response Bytes: 1064819
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2051
-
-### Performance issues
-
 
 ### Performance issues
 

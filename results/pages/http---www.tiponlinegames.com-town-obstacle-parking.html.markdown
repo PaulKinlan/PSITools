@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.tiponlinegames.com/town-obstacle-parking.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Town Obstacle Parking | TIP ONLINE GAMES](http://www.tiponlinegames.com/town-obstacle-parking.html)
 
@@ -29,9 +35,6 @@ title: http://www.tiponlinegames.com/town-obstacle-parking.html
 *  JS Response Bytes: 893487
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15519
-
-### Performance issues
-
 
 ### Performance issues
 

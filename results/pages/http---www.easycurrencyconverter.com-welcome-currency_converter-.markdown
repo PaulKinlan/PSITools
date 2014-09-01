@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.easycurrencyconverter.com/welcome/currency_converter/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Easy Currency Converter - easycurrencyconverter.com](http://www.easycurrencyconverter.com/welcome/currency_converter/)
 
@@ -29,9 +33,6 @@ title: http://www.easycurrencyconverter.com/welcome/currency_converter/
 *  JS Response Bytes: 1441178
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 140302
-
-### Performance issues
-
 
 ### Performance issues
 

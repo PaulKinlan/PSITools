@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mysomethingyellow.com/apps/LeagueAnalysis/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LeagueAnalysis - Your Personal League of Legends Statistics App](http://www.mysomethingyellow.com/apps/LeagueAnalysis/)
 
@@ -29,9 +34,6 @@ title: http://www.mysomethingyellow.com/apps/LeagueAnalysis/
 *  JS Response Bytes: 360884
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55580
-
-### Performance issues
-
 
 ### Performance issues
 

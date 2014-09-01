@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://troy.labs.daum.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [TROY - Responsive web test](http://troy.labs.daum.net/)
 
@@ -29,9 +33,6 @@ title: http://troy.labs.daum.net/
 *  JS Response Bytes: 491103
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

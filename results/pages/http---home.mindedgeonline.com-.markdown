@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://home.mindedgeonline.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MindEdge Internal Home Page](http://home.mindedgeonline.com/)
 
@@ -29,9 +32,6 @@ title: http://home.mindedgeonline.com/
 *  JS Response Bytes: 1016049
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1060
-
-### Performance issues
-
 
 ### Performance issues
 

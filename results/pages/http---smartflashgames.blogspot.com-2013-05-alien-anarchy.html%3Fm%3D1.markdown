@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://smartflashgames.blogspot.com/2013/05/alien-anarchy.html?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Smart Flash Games: Alien Anarchy](http://smartflashgames.blogspot.com/2013/05/alien-anarchy.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://smartflashgames.blogspot.com/2013/05/alien-anarchy.html?m=1
 *  JS Response Bytes: 1634629
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96746
-
-### Performance issues
-
 
 ### Performance issues
 

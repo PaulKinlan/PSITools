@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.playstationblast.com.br/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [PlayStation Blast](http://www.playstationblast.com.br/?m=1)
 
@@ -29,9 +30,6 @@ title: http://www.playstationblast.com.br/?m=1
 *  JS Response Bytes: 284296
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 575
-
-### Performance issues
-
 
 ### Performance issues
 

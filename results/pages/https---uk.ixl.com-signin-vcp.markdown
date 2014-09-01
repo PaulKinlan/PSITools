@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://uk.ixl.com/signin/vcp
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IXL - Sign In](https://uk.ixl.com/signin/vcp)
 
@@ -29,9 +33,6 @@ title: https://uk.ixl.com/signin/vcp
 *  JS Response Bytes: 907362
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15270
-
-### Performance issues
-
 
 ### Performance issues
 

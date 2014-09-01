@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://azartcasinos.net/?341fbaf2f83ef418ee296515a1160bd7
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Azartmania - игровые автоматы онлайн, резидент, crazy monkey, пирамиды.](http://azartcasinos.net/?341fbaf2f83ef418ee296515a1160bd7)
 
@@ -29,9 +35,6 @@ title: http://azartcasinos.net/?341fbaf2f83ef418ee296515a1160bd7
 *  JS Response Bytes: 611063
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4672
-
-### Performance issues
-
 
 ### Performance issues
 

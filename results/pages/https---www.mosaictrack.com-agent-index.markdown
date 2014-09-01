@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.mosaictrack.com/agent/index
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Find Your Dream Career with MosaicTrack's Career Agent!](https://www.mosaictrack.com/agent/index)
 
@@ -29,9 +33,6 @@ title: https://www.mosaictrack.com/agent/index
 *  JS Response Bytes: 1603321
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 609
-
-### Performance issues
-
 
 ### Performance issues
 

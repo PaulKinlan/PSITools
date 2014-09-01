@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://q42.nl/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Q42](http://q42.nl/)
 
@@ -29,9 +33,6 @@ title: http://q42.nl/
 *  JS Response Bytes: 846546
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61207
-
-### Performance issues
-
 
 ### Performance issues
 

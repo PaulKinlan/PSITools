@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ww38.cirqq.us/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [cirqq.us](http://ww38.cirqq.us/)
 
@@ -29,9 +32,6 @@ title: http://ww38.cirqq.us/
 *  JS Response Bytes: 209611
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 204
-
-### Performance issues
-
 
 ### Performance issues
 

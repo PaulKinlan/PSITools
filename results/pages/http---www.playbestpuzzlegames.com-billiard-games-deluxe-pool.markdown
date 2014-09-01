@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.playbestpuzzlegames.com/billiard-games/deluxe-pool
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Deluxe Pool - Games - Free Online Play Best Puzzle Games](http://www.playbestpuzzlegames.com/billiard-games/deluxe-pool)
 
@@ -29,9 +36,6 @@ title: http://www.playbestpuzzlegames.com/billiard-games/deluxe-pool
 *  JS Response Bytes: 979016
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17066
-
-### Performance issues
-
 
 ### Performance issues
 

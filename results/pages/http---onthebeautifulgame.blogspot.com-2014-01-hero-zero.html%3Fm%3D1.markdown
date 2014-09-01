@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://onthebeautifulgame.blogspot.com/2014/01/hero-zero.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [ON the Beautiful Game: Hero Zero](http://onthebeautifulgame.blogspot.com/2014/01/hero-zero.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://onthebeautifulgame.blogspot.com/2014/01/hero-zero.html?m=1
 *  JS Response Bytes: 1807171
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112912
-
-### Performance issues
-
 
 ### Performance issues
 

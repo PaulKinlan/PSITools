@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://app.eztexting.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Refreshingly Simple & Surprisingly Affordable - Ez Texting](https://app.eztexting.com/)
 
@@ -29,9 +35,6 @@ title: https://app.eztexting.com/
 *  JS Response Bytes: 304507
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12460
-
-### Performance issues
-
 
 ### Performance issues
 

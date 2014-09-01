@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.kenny.co/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kenny Goodman - Digital Entrepreneur & Publisher](http://www.kenny.co/)
 
@@ -29,9 +35,6 @@ title: http://www.kenny.co/
 *  JS Response Bytes: 1331530
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15162
-
-### Performance issues
-
 
 ### Performance issues
 

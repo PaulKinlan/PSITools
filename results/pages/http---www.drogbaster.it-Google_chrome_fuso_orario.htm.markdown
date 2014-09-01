@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.drogbaster.it/Google_chrome_fuso_orario.htm
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [▷ Applicazione fuso orario nelle zone della Terra](http://www.drogbaster.it/Google_chrome_fuso_orario.htm)
 
@@ -29,9 +31,6 @@ title: http://www.drogbaster.it/Google_chrome_fuso_orario.htm
 *  JS Response Bytes: 1037994
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110124
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mckinnonsc.vic.edu.au/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [McKinnon Secondary College](http://www.mckinnonsc.vic.edu.au/)
 
@@ -29,9 +32,6 @@ title: http://www.mckinnonsc.vic.edu.au/
 *  JS Response Bytes: 423518
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 524141
-
-### Performance issues
-
 
 ### Performance issues
 

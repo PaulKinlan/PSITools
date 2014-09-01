@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamechrome.biz/uncategorized/candy-crush-saga/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Candy crush saga | Game Chrome](http://www.gamechrome.biz/uncategorized/candy-crush-saga/)
 
@@ -29,9 +34,6 @@ title: http://www.gamechrome.biz/uncategorized/candy-crush-saga/
 *  JS Response Bytes: 833576
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5717
-
-### Performance issues
-
 
 ### Performance issues
 

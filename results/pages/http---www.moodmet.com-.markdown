@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.moodmet.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Moodmet](http://www.moodmet.com/)
 
@@ -29,9 +31,6 @@ title: http://www.moodmet.com/
 *  JS Response Bytes: 247611
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

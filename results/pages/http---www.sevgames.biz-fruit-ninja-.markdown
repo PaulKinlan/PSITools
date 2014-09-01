@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.sevgames.biz/fruit-ninja/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fruit Ninja – Online Best Games](http://www.sevgames.biz/fruit-ninja/)
 
@@ -29,9 +36,6 @@ title: http://www.sevgames.biz/fruit-ninja/
 *  JS Response Bytes: 1097411
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18007
-
-### Performance issues
-
 
 ### Performance issues
 

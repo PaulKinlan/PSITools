@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.suekichi.org/blog/google-calendar-color-extension/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Google Calendar Color 拡張機能 | SUEKICHI.org](http://www.suekichi.org/blog/google-calendar-color-extension/)
 
@@ -18,26 +21,22 @@ title: http://www.suekichi.org/blog/google-calendar-color-extension/
 *  Number of JS Resources: 6
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 12
-*  Total Request Bytes: 2648
+*  Total Request Bytes: 2696
 
 ### Response data
 
-*  HTML Response Bytes: 19924
+*  HTML Response Bytes: 19972
 *  Text Response Bytes: 43902
 *  CSS Response Bytes: 75661
 *  Image Response Bytes: 35019
-*  JS Response Bytes: 193582
+*  JS Response Bytes: 193583
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 54101
-
-### Performance issues
-
+*  Other Response Bytes: 54102
 
 ### Performance issues
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Enable compression
-*  Improve server response time
 
 ### Mobile UX issues
 

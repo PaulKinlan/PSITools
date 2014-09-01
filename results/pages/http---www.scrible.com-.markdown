@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.scrible.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [scrible | smarter online research - annotate, organize & collaborate on web pages](http://www.scrible.com/)
 
@@ -29,9 +32,6 @@ title: http://www.scrible.com/
 *  JS Response Bytes: 1236010
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13963
-
-### Performance issues
-
 
 ### Performance issues
 

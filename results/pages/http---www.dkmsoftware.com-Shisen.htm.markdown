@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.dkmsoftware.com/Shisen.htm
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DKM Shisen](http://www.dkmsoftware.com/Shisen.htm)
 
@@ -29,9 +35,6 @@ title: http://www.dkmsoftware.com/Shisen.htm
 *  JS Response Bytes: 566806
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

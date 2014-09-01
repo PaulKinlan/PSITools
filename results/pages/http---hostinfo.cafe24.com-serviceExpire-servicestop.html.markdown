@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://hostinfo.cafe24.com/serviceExpire/servicestop.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [카페24 :: 대한민국 No.1 카페24 호스팅](http://hostinfo.cafe24.com/serviceExpire/servicestop.html)
 
@@ -29,9 +34,6 @@ title: http://hostinfo.cafe24.com/serviceExpire/servicestop.html
 *  JS Response Bytes: 23043
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 78
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromefulldownload.blogspot.com/2014/01/vlc-media-player.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://chromefulldownload.blogspot.com/2014/01/vlc-media-player.html?m=1)
 
@@ -18,20 +21,17 @@ title: http://chromefulldownload.blogspot.com/2014/01/vlc-media-player.html?m=1
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 1099
+*  Total Request Bytes: 1098
 
 ### Response data
 
 *  HTML Response Bytes: 0
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 46653
-*  Image Response Bytes: 2951
-*  JS Response Bytes: 41102
+*  Image Response Bytes: 2950
+*  JS Response Bytes: 41101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18840
-
-### Performance issues
-
 
 ### Performance issues
 

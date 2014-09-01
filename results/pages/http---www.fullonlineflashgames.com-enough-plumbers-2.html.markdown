@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fullonlineflashgames.com/enough-plumbers-2.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Enough Plumbers 2 | Fullonlineflashgames](http://www.fullonlineflashgames.com/enough-plumbers-2.html)
 
@@ -29,9 +34,6 @@ title: http://www.fullonlineflashgames.com/enough-plumbers-2.html
 *  JS Response Bytes: 983605
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16006
-
-### Performance issues
-
 
 ### Performance issues
 

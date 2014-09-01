@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.nkodt.com/adblock/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.nkodt.com/adblock/)
 
@@ -29,9 +31,6 @@ title: http://www.nkodt.com/adblock/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

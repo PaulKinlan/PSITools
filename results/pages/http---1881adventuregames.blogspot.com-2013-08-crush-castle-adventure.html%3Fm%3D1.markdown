@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://1881adventuregames.blogspot.com/2013/08/crush-castle-adventure.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
 ---
 ## [](http://1881adventuregames.blogspot.com/2013/08/crush-castle-adventure.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://1881adventuregames.blogspot.com/2013/08/crush-castle-adventure.htm
 *  JS Response Bytes: 1107827
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119206
-
-### Performance issues
-
 
 ### Performance issues
 

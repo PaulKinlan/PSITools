@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.stillgames.com/marvel-avengers-alliance/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Still Games – Marvel Avengers Alliance](http://www.stillgames.com/marvel-avengers-alliance/)
 
@@ -29,9 +33,6 @@ title: http://www.stillgames.com/marvel-avengers-alliance/
 *  JS Response Bytes: 1036565
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15210
-
-### Performance issues
-
 
 ### Performance issues
 

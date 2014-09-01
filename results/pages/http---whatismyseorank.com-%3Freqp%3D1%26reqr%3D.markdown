@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://whatismyseorank.com/?reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [whatismyseorank.com](http://whatismyseorank.com/?reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://whatismyseorank.com/?reqp=1&reqr=
 *  JS Response Bytes: 304181
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 270
-
-### Performance issues
-
 
 ### Performance issues
 

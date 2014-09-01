@@ -33,8 +33,5 @@ title: http://www.alquranbook.com/TafseerBooks/jbkreader.aspx
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

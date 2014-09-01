@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freegames123.com/subway-surfers.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Subway Surfers | Free Games 123](http://www.freegames123.com/subway-surfers.html)
 
@@ -29,9 +34,6 @@ title: http://www.freegames123.com/subway-surfers.html
 *  JS Response Bytes: 1529772
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103920
-
-### Performance issues
-
 
 ### Performance issues
 

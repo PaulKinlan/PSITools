@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://housage.com/map/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Зарубежная недвижимость на карте](http://housage.com/map/)
 
@@ -29,9 +35,6 @@ title: http://housage.com/map/
 *  JS Response Bytes: 1336147
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54666
-
-### Performance issues
-
 
 ### Performance issues
 

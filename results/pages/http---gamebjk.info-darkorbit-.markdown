@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gamebjk.info/darkorbit/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games – Darkorbit](http://gamebjk.info/darkorbit/)
 
@@ -29,9 +33,6 @@ title: http://gamebjk.info/darkorbit/
 *  JS Response Bytes: 521252
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1651
-
-### Performance issues
-
 
 ### Performance issues
 

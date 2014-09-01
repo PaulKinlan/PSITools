@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://vosfactures.fr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [VosFactures - Logiciel de facturation, comment créer une facture avec TVA en ligne - vosfactures.fr](http://vosfactures.fr/)
 
@@ -29,9 +32,6 @@ title: http://vosfactures.fr/
 *  JS Response Bytes: 529188
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 85477
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.justhappygames.com/category/19
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Soccer - Just Happy Games](http://www.justhappygames.com/category/19)
 
@@ -29,9 +34,6 @@ title: http://www.justhappygames.com/category/19
 *  JS Response Bytes: 709079
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2971
-
-### Performance issues
-
 
 ### Performance issues
 

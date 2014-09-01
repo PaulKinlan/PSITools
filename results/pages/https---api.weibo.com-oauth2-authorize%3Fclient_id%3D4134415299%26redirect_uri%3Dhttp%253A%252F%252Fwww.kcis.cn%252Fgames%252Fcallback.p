@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://api.weibo.com/oauth2/authorize?client_id=4134415299&redirect_uri=http%3A%2F%2Fwww.kcis.cn%2Fgames%2Fcallback.php&response_type=code
+MinimizeRenderBlockingResources: true
 ---
 ## [应用授权 - 好友复习机](https://api.weibo.com/oauth2/authorize?client_id=4134415299&redirect_uri=http%3A%2F%2Fwww.kcis.cn%2Fgames%2Fcallback.php&response_type=code)
 
@@ -29,9 +30,6 @@ title: https://api.weibo.com/oauth2/authorize?client_id=4134415299&redirect_uri=
 *  JS Response Bytes: 41918
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 520
-
-### Performance issues
-
 
 ### Performance issues
 

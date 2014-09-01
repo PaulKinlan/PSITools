@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://keeptrackofmygames.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Keep Track of My Games](http://keeptrackofmygames.com/)
 
@@ -29,9 +33,6 @@ title: http://keeptrackofmygames.com/
 *  JS Response Bytes: 393470
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14973
-
-### Performance issues
-
 
 ### Performance issues
 

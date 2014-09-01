@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://apsgam.com/sonic-dash/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [APS GAME – Sonic Dash](http://apsgam.com/sonic-dash/)
 
@@ -29,9 +33,6 @@ title: http://apsgam.com/sonic-dash/
 *  JS Response Bytes: 1036565
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15172
-
-### Performance issues
-
 
 ### Performance issues
 

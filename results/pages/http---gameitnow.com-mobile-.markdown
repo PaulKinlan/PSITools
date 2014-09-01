@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gameitnow.com/mobile/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [GameItNow.com - Free games for your iPhone, Smartphone, iPod, iPad and Tablet.](http://gameitnow.com/mobile/)
 
@@ -18,20 +22,17 @@ title: http://gameitnow.com/mobile/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 10
-*  Total Request Bytes: 22837
+*  Total Request Bytes: 22900
 
 ### Response data
 
-*  HTML Response Bytes: 2664367
+*  HTML Response Bytes: 2664219
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 1829
-*  Image Response Bytes: 96243
+*  Image Response Bytes: 96241
 *  JS Response Bytes: 180856
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 88825
-
-### Performance issues
-
+*  Other Response Bytes: 88835
 
 ### Performance issues
 

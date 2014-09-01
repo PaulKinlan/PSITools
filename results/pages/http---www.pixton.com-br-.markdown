@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pixton.com/br/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pixton | Quadrinhos | Criar um quadrinho](http://www.pixton.com/br/)
 
@@ -29,9 +33,6 @@ title: http://www.pixton.com/br/
 *  JS Response Bytes: 499981
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46462
-
-### Performance issues
-
 
 ### Performance issues
 

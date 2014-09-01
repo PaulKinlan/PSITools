@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://cloudygame.com/redirect.php?u=/super-mario-bros-hd/&t=Super%20Mario%20Bros%20HD
+AvoidLandingPageRedirects: true
+UseLegibleFontSizes: true
 ---
 ## [Redirecting to the game](http://cloudygame.com/redirect.php?u=/super-mario-bros-hd/&t=Super%20Mario%20Bros%20HD)
 
@@ -29,9 +31,6 @@ title: http://cloudygame.com/redirect.php?u=/super-mario-bros-hd/&t=Super%20Mari
 *  JS Response Bytes: 27131
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8033
-
-### Performance issues
-
 
 ### Performance issues
 

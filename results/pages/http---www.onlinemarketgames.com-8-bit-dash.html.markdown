@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.onlinemarketgames.com/8-bit-dash.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [8 Bit Dash | Online Market Games](http://www.onlinemarketgames.com/8-bit-dash.html)
 
@@ -29,9 +34,6 @@ title: http://www.onlinemarketgames.com/8-bit-dash.html
 *  JS Response Bytes: 1051730
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16624
-
-### Performance issues
-
 
 ### Performance issues
 

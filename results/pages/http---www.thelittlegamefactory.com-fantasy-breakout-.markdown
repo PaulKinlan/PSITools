@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.thelittlegamefactory.com/fantasy-breakout/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Fantasy Breakout | The Little Game Factory](http://www.thelittlegamefactory.com/fantasy-breakout/)
 
@@ -29,9 +32,6 @@ title: http://www.thelittlegamefactory.com/fantasy-breakout/
 *  JS Response Bytes: 888588
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 66683
-
-### Performance issues
-
 
 ### Performance issues
 

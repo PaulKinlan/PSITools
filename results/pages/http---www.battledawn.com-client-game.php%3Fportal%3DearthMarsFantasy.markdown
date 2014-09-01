@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.battledawn.com/client/game.php?portal=earthMarsFantasy
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
 ---
 ## [Battle Dawn :: Massive Multiplayer Online Strategy Game](http://www.battledawn.com/client/game.php?portal=earthMarsFantasy)
 
@@ -29,9 +32,6 @@ title: http://www.battledawn.com/client/game.php?portal=earthMarsFantasy
 *  JS Response Bytes: 279826
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14723
-
-### Performance issues
-
 
 ### Performance issues
 

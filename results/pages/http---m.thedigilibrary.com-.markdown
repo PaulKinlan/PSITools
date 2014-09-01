@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.thedigilibrary.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [IIT JEE Main & Advanced | AIPMT | CAT | CA CPT | - Free Videos, E-Books, Syllabus, Study Material](http://m.thedigilibrary.com/)
 
@@ -29,9 +32,6 @@ title: http://m.thedigilibrary.com/
 *  JS Response Bytes: 163893
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29857
-
-### Performance issues
-
 
 ### Performance issues
 

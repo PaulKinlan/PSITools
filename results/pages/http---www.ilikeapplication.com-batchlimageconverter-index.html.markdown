@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ilikeapplication.com/batchlimageconverter/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Total Image Converter - Photo Converter App](http://www.ilikeapplication.com/batchlimageconverter/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.ilikeapplication.com/batchlimageconverter/index.html
 *  JS Response Bytes: 398007
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

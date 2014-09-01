@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://centrodesoporte.grupoamper.com/MRcgi/MRentrancePage.pl
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [FootPrints Service Core Login](https://centrodesoporte.grupoamper.com/MRcgi/MRentrancePage.pl)
 
@@ -29,9 +32,6 @@ title: https://centrodesoporte.grupoamper.com/MRcgi/MRentrancePage.pl
 *  JS Response Bytes: 119909
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 426
-
-### Performance issues
-
 
 ### Performance issues
 

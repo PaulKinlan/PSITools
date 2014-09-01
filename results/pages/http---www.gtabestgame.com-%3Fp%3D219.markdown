@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gtabestgame.com/?p=219
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [minecraft pocket edition « free game play](http://www.gtabestgame.com/?p=219)
 
@@ -29,9 +33,6 @@ title: http://www.gtabestgame.com/?p=219
 *  JS Response Bytes: 1051909
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24095
-
-### Performance issues
-
 
 ### Performance issues
 

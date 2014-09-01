@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/ragdoll-goalkeeper/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ragdoll Goalkeeper Game](http://www.footballgam.es/ragdoll-goalkeeper/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/ragdoll-goalkeeper/
 *  JS Response Bytes: 2296800
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148858
-
-### Performance issues
-
 
 ### Performance issues
 

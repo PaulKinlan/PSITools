@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://3000gaming.com/game/angry-birds-heikki/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nothing found for Game Angry-birds-heikki](http://3000gaming.com/game/angry-birds-heikki/)
 
@@ -18,20 +21,17 @@ title: http://3000gaming.com/game/angry-birds-heikki/
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 16
-*  Total Request Bytes: 3210
+*  Total Request Bytes: 3213
 
 ### Response data
 
 *  HTML Response Bytes: 0
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 28074
-*  Image Response Bytes: 44065
-*  JS Response Bytes: 164475
+*  CSS Response Bytes: 28076
+*  Image Response Bytes: 44063
+*  JS Response Bytes: 164477
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8735
-
-### Performance issues
-
 
 ### Performance issues
 

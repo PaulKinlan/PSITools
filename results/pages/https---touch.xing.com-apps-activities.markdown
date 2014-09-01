@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://touch.xing.com/apps/activities
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [XING Mobile Web App](https://touch.xing.com/apps/activities)
 
@@ -25,19 +27,15 @@ title: https://touch.xing.com/apps/activities
 *  HTML Response Bytes: 5079
 *  Text Response Bytes: 5669
 *  CSS Response Bytes: 15500
-*  Image Response Bytes: 58903
+*  Image Response Bytes: 58902
 *  JS Response Bytes: 100599
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2374
-
-### Performance issues
-
+*  Other Response Bytes: 2373
 
 ### Performance issues
 
 *  Avoid landing page redirects
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
-*  Inline render-blocking CSS
 
 ### Mobile UX issues
 

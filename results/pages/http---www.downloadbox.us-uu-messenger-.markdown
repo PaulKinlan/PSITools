@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.downloadbox.us/uu-messenger/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [UU Messenger | Download Box](http://www.downloadbox.us/uu-messenger/)
 
@@ -29,9 +32,6 @@ title: http://www.downloadbox.us/uu-messenger/
 *  JS Response Bytes: 939574
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 223399
-
-### Performance issues
-
 
 ### Performance issues
 

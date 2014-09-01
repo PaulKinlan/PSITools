@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.mobiflip.de/
+MinimizeRenderBlockingResources: true
 ---
 ## [mobiFlip.de » News & Testberichte aus der mobilen Welt](http://www.mobiflip.de/)
 
@@ -29,9 +30,6 @@ title: http://www.mobiflip.de/
 *  JS Response Bytes: 1307378
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 85290
-
-### Performance issues
-
 
 ### Performance issues
 

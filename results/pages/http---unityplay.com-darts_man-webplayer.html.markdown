@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://unityplay.com/darts_man/webplayer.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Darts Man | UnityPlay.com-Flash-Android-Chrome Games](http://unityplay.com/darts_man/webplayer.html)
 
@@ -29,9 +34,6 @@ title: http://unityplay.com/darts_man/webplayer.html
 *  JS Response Bytes: 720440
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23166
-
-### Performance issues
-
 
 ### Performance issues
 

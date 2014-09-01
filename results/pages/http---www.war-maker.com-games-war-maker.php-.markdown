@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-maker.com/games/war-maker.php/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [War-Maker : Free Online Multiplayer Deathmatch Games](http://www.war-maker.com/games/war-maker.php/)
 
@@ -29,9 +34,6 @@ title: http://www.war-maker.com/games/war-maker.php/
 *  JS Response Bytes: 799377
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16337
-
-### Performance issues
-
 
 ### Performance issues
 

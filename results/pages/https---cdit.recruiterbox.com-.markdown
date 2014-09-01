@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://cdit.recruiterbox.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [CDIT jobs | CDIT openings | CDIT careers](https://cdit.recruiterbox.com/)
 
@@ -29,9 +31,6 @@ title: https://cdit.recruiterbox.com/
 *  JS Response Bytes: 78319
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

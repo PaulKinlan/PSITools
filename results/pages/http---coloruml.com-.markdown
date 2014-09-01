@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://coloruml.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Simple Sequence](http://coloruml.com/)
 
@@ -29,9 +33,6 @@ title: http://coloruml.com/
 *  JS Response Bytes: 169111
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

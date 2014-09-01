@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesmild.com/chrome-category/animator-vs-animation
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Animator vs. Animation - Games Mild](http://www.gamesmild.com/chrome-category/animator-vs-animation)
 
@@ -29,9 +34,6 @@ title: http://www.gamesmild.com/chrome-category/animator-vs-animation
 *  JS Response Bytes: 758950
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31220
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://latisia.pl/tarot/game.php
+UseLegibleFontSizes: true
 ---
 ## [](http://latisia.pl/tarot/game.php)
 
@@ -29,9 +30,6 @@ title: http://latisia.pl/tarot/game.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 160
-
-### Performance issues
-
 
 ### Performance issues
 

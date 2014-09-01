@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.war-games.ws/foxy-sniper/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Foxy Sniper](http://www.war-games.ws/foxy-sniper/)
 
@@ -29,9 +36,6 @@ title: http://www.war-games.ws/foxy-sniper/
 *  JS Response Bytes: 2291695
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116519
-
-### Performance issues
-
 
 ### Performance issues
 

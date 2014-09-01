@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://desktop.jaxspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Jaxspot](http://desktop.jaxspot.com/)
 
@@ -29,9 +34,6 @@ title: http://desktop.jaxspot.com/
 *  JS Response Bytes: 1373982
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 37368
-
-### Performance issues
-
 
 ### Performance issues
 

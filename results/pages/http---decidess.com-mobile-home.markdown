@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://decidess.com/mobile/home
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Home mobile | Decidess](http://decidess.com/mobile/home)
 
@@ -29,9 +33,6 @@ title: http://decidess.com/mobile/home
 *  JS Response Bytes: 316227
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 594
-
-### Performance issues
-
 
 ### Performance issues
 

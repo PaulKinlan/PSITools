@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://thinkygames.com/prom-shop/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [thinkygames.com-the best free online flash gamesProm shop » thinkygames.com-the best free online flash games](http://thinkygames.com/prom-shop/)
 
@@ -29,9 +34,6 @@ title: http://thinkygames.com/prom-shop/
 *  JS Response Bytes: 667400
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19420
-
-### Performance issues
-
 
 ### Performance issues
 

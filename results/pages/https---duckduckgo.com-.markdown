@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://duckduckgo.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [DuckDuckGo](https://duckduckgo.com/)
 
@@ -29,9 +31,6 @@ title: https://duckduckgo.com/
 *  JS Response Bytes: 464108
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

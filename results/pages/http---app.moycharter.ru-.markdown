@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://app.moycharter.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Мой чартер (версия: 0.11)](http://app.moycharter.ru/)
 
@@ -29,9 +31,6 @@ title: http://app.moycharter.ru/
 *  JS Response Bytes: 602499
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 425
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://student.typingraces.com/#
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Typing Races](http://student.typingraces.com/#)
 
@@ -29,9 +32,6 @@ title: http://student.typingraces.com/#
 *  JS Response Bytes: 719583
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13216
-
-### Performance issues
-
 
 ### Performance issues
 

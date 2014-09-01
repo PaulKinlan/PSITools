@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.kamyonparketme.com/?s=clash+of
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [clash of – Search Results – Online Best Games](http://www.kamyonparketme.com/?s=clash+of)
 
@@ -29,9 +33,6 @@ title: http://www.kamyonparketme.com/?s=clash+of
 *  JS Response Bytes: 554325
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://datracks.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DaTracks](http://datracks.com/)
 
@@ -29,9 +34,6 @@ title: http://datracks.com/
 *  JS Response Bytes: 2065440
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98694
-
-### Performance issues
-
 
 ### Performance issues
 

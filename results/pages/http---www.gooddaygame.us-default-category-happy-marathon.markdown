@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gooddaygame.us/default-category/happy-marathon
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HAPPY MARATHON - Good Day Game](http://www.gooddaygame.us/default-category/happy-marathon)
 
@@ -29,9 +34,6 @@ title: http://www.gooddaygame.us/default-category/happy-marathon
 *  JS Response Bytes: 1879319
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96683
-
-### Performance issues
-
 
 ### Performance issues
 

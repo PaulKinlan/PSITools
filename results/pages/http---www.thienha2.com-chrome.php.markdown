@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.thienha2.com/chrome.php
+UseLegibleFontSizes: true
 ---
 ## [](http://www.thienha2.com/chrome.php)
 
@@ -29,9 +30,6 @@ title: http://www.thienha2.com/chrome.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 183
-
-### Performance issues
-
 
 ### Performance issues
 

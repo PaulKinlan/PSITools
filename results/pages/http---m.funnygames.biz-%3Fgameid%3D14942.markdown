@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://m.funnygames.biz/?gameid=14942
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funnygames.biz/?gameid=14942)
 
@@ -29,9 +35,6 @@ title: http://m.funnygames.biz/?gameid=14942
 *  JS Response Bytes: 1265761
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28041
-
-### Performance issues
-
 
 ### Performance issues
 

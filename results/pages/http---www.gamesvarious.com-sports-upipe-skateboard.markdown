@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/sports/upipe-skateboard
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Upipe Skateboard - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/sports/upipe-skateboard)
 
@@ -29,9 +33,6 @@ title: http://www.gamesvarious.com/sports/upipe-skateboard
 *  JS Response Bytes: 3337670
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 179778
-
-### Performance issues
-
 
 ### Performance issues
 

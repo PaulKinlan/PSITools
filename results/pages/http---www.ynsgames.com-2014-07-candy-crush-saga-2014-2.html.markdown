@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ynsgames.com/2014/07/candy-crush-saga-2014-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Candy crush saga 2014 « Online free hd games play game](http://www.ynsgames.com/2014/07/candy-crush-saga-2014-2.html)
 
@@ -29,9 +33,6 @@ title: http://www.ynsgames.com/2014/07/candy-crush-saga-2014-2.html
 *  JS Response Bytes: 398592
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

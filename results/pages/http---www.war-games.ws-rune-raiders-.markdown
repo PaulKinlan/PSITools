@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/rune-raiders/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rune Raiders](http://www.war-games.ws/rune-raiders/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/rune-raiders/
 *  JS Response Bytes: 2292865
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115220
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://russkiy.translate.ninja/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Английский Русский Переводчик](http://russkiy.translate.ninja/)
 
@@ -29,9 +31,6 @@ title: http://russkiy.translate.ninja/
 *  JS Response Bytes: 1841299
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 161270
-
-### Performance issues
-
 
 ### Performance issues
 

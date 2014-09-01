@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://internet-marketing-muscle.com/backlink-search-tool/?utm_medium=chrome&utm_source=app
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Backlink Search Tool](http://internet-marketing-muscle.com/backlink-search-tool/?utm_medium=chrome&utm_source=app)
 
@@ -29,9 +34,6 @@ title: http://internet-marketing-muscle.com/backlink-search-tool/?utm_medium=chr
 *  JS Response Bytes: 1408813
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 85041
-
-### Performance issues
-
 
 ### Performance issues
 

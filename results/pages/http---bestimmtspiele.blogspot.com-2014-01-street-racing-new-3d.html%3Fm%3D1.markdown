@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bestimmtspiele.blogspot.com/2014/01/street-racing-new-3d.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bestimmt Spiele: Street Racing New 3D](http://bestimmtspiele.blogspot.com/2014/01/street-racing-new-3d.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://bestimmtspiele.blogspot.com/2014/01/street-racing-new-3d.html?m=1
 *  JS Response Bytes: 1270835
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111671
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.frivangel.info/hidden-objects-anniversary.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
 ---
 ## [Play Hidden objects anniversary surprise, a free online Game at Friv Angel - Friv  Angel](http://www.frivangel.info/hidden-objects-anniversary.html)
 
@@ -29,9 +32,6 @@ title: http://www.frivangel.info/hidden-objects-anniversary.html
 *  JS Response Bytes: 787866
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44045
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.vakantiehuis.in/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Vakantiehuisjes in Nederland - Vakantiehuis.in](http://www.vakantiehuis.in/)
 
@@ -29,9 +34,6 @@ title: http://www.vakantiehuis.in/
 *  JS Response Bytes: 874841
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54761
-
-### Performance issues
-
 
 ### Performance issues
 

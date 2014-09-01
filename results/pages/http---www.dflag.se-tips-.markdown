@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.dflag.se/tips/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Tips @ dflag.se](http://www.dflag.se/tips/)
 
@@ -29,9 +31,6 @@ title: http://www.dflag.se/tips/
 *  JS Response Bytes: 244048
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 560
-
-### Performance issues
-
 
 ### Performance issues
 

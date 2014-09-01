@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gamevii.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gamevii.com](http://gamevii.com/)
 
@@ -29,9 +31,6 @@ title: http://gamevii.com/
 *  JS Response Bytes: 167627
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://arcadechrome.com/gch/?g=49
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Freecell Solitaire](http://arcadechrome.com/gch/?g=49)
 
@@ -29,9 +37,6 @@ title: http://arcadechrome.com/gch/?g=49
 *  JS Response Bytes: 409869
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1471
-
-### Performance issues
-
 
 ### Performance issues
 

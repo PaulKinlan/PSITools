@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://kitchenking.ebhasin.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Kitchen King -::- Bhasinsoft](http://kitchenking.ebhasin.com/)
 
@@ -29,9 +32,6 @@ title: http://kitchenking.ebhasin.com/
 *  JS Response Bytes: 626312
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.notsocasual.com/dillo-hills-2/?utm_source=ChromeWebstore&utm_medium=g&utm_campaign=r
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Dillo Hills 2 | Online Multiplayer Game](http://www.notsocasual.com/dillo-hills-2/?utm_source=ChromeWebstore&utm_medium=g&utm_campaign=r)
 
@@ -29,9 +34,6 @@ title: http://www.notsocasual.com/dillo-hills-2/?utm_source=ChromeWebstore&utm_m
 *  JS Response Bytes: 1750815
 *  Flash Response Bytes: 618257
 *  Other Response Bytes: 97144
-
-### Performance issues
-
 
 ### Performance issues
 

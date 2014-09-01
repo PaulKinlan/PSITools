@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fetchnotes.com/#/download
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Fetchnotes](http://www.fetchnotes.com/#/download)
 
@@ -29,9 +32,6 @@ title: http://www.fetchnotes.com/#/download
 *  JS Response Bytes: 918751
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 395
-
-### Performance issues
-
 
 ### Performance issues
 

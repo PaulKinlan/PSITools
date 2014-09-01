@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.begin2game.com/default-category/river-assault-3d
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [River Assault 3d - BeGiN2GaMe - just Challange! And Play Free! Play Online!](http://www.begin2game.com/default-category/river-assault-3d)
 
@@ -29,9 +33,6 @@ title: http://www.begin2game.com/default-category/river-assault-3d
 *  JS Response Bytes: 3365678
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 137702
-
-### Performance issues
-
 
 ### Performance issues
 

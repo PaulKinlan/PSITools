@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.jeux-gratuits.com/jeu-rami-multijoueur.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jeu Rami Multijoueur sur Jeux-Gratuits.com : jouez à Rami Multijoueur](http://www.jeux-gratuits.com/jeu-rami-multijoueur.html)
 
@@ -29,9 +34,6 @@ title: http://www.jeux-gratuits.com/jeu-rami-multijoueur.html
 *  JS Response Bytes: 1961356
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112864
-
-### Performance issues
-
 
 ### Performance issues
 

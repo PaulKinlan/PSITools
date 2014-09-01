@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gooyunlar.net/77/cute-the-rope/
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gooyunlar.net](http://www.gooyunlar.net/77/cute-the-rope/)
 
@@ -29,9 +32,6 @@ title: http://www.gooyunlar.net/77/cute-the-rope/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

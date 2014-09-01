@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://happygames2.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Online Games](http://happygames2.blogspot.com/?m=1)
 
@@ -13,25 +14,22 @@ title: http://happygames2.blogspot.com/?m=1
 
 ### Request information
 
-*  Number of Resources: 20
-*  Number of Hosts: 9
+*  Number of Resources: 22
+*  Number of Hosts: 10
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 13
-*  Total Request Bytes: 3624
+*  Total Request Bytes: 4165
 
 ### Response data
 
-*  HTML Response Bytes: 60204
+*  HTML Response Bytes: 60203
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 21448
-*  Image Response Bytes: 19271
-*  JS Response Bytes: 596080
+*  CSS Response Bytes: 21447
+*  Image Response Bytes: 19270
+*  JS Response Bytes: 596725
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2964
-
-### Performance issues
-
+*  Other Response Bytes: 3556
 
 ### Performance issues
 

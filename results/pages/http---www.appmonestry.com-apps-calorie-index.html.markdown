@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.appmonestry.com/apps/calorie/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Food Recipe Calorie Counter - Nutrition Calculator](http://www.appmonestry.com/apps/calorie/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.appmonestry.com/apps/calorie/index.html
 *  JS Response Bytes: 601464
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16050
-
-### Performance issues
-
 
 ### Performance issues
 

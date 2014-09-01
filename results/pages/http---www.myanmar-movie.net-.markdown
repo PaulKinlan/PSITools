@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.myanmar-movie.net/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [myanmar movie | Myanmar Movies](http://www.myanmar-movie.net/)
 
@@ -29,9 +32,6 @@ title: http://www.myanmar-movie.net/
 *  JS Response Bytes: 158148
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 399
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.agendize.com/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Login | Agendize](https://www.agendize.com/login)
 
@@ -29,9 +32,6 @@ title: https://www.agendize.com/login
 *  JS Response Bytes: 164040
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23297
-
-### Performance issues
-
 
 ### Performance issues
 

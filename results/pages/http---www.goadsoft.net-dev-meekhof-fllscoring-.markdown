@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.goadsoft.net/dev/meekhof/fllscoring/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FLL Senior Solutions Scoring](http://www.goadsoft.net/dev/meekhof/fllscoring/)
 
@@ -29,9 +33,6 @@ title: http://www.goadsoft.net/dev/meekhof/fllscoring/
 *  JS Response Bytes: 94018
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

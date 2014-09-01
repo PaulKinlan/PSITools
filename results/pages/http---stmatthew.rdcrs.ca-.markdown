@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://stmatthew.rdcrs.ca/
+UseLegibleFontSizes: true
 ---
 ## [Error](http://stmatthew.rdcrs.ca/)
 
@@ -29,9 +30,6 @@ title: http://stmatthew.rdcrs.ca/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1747
-
-### Performance issues
-
 
 ### Performance issues
 

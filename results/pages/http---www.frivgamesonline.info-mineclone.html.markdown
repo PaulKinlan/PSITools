@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.frivgamesonline.info/mineclone.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MineClone : Friv Games Online](http://www.frivgamesonline.info/mineclone.html)
 
@@ -29,9 +34,6 @@ title: http://www.frivgamesonline.info/mineclone.html
 *  JS Response Bytes: 1900463
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117972
-
-### Performance issues
-
 
 ### Performance issues
 

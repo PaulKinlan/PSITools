@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://diagramo.com/demo/common/controller.php?action=loginExe&password=admin&email=admin@example.com
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Object not found!](http://diagramo.com/demo/common/controller.php?action=loginExe&password=admin&email=admin@example.com)
 
@@ -29,9 +31,6 @@ title: http://diagramo.com/demo/common/controller.php?action=loginExe&password=a
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1331
-
-### Performance issues
-
 
 ### Performance issues
 

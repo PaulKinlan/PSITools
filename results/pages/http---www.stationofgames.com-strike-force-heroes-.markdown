@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.stationofgames.com/strike-force-heroes/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Strike Force Heroes](http://www.stationofgames.com/strike-force-heroes/)
 
@@ -29,9 +36,6 @@ title: http://www.stationofgames.com/strike-force-heroes/
 *  JS Response Bytes: 1476280
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106826
-
-### Performance issues
-
 
 ### Performance issues
 

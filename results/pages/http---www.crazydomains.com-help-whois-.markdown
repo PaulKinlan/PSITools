@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.crazydomains.com/help/whois/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WhoIs Domain Search](http://www.crazydomains.com/help/whois/)
 
@@ -29,9 +34,6 @@ title: http://www.crazydomains.com/help/whois/
 *  JS Response Bytes: 312664
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45938
-
-### Performance issues
-
 
 ### Performance issues
 

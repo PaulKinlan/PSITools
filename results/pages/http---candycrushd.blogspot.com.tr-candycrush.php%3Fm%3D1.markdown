@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://candycrushd.blogspot.com.tr/candycrush.php?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Candy Crush Saga](http://candycrushd.blogspot.com.tr/candycrush.php?m=1)
 
@@ -22,16 +23,13 @@ title: http://candycrushd.blogspot.com.tr/candycrush.php?m=1
 
 ### Response data
 
-*  HTML Response Bytes: 574
+*  HTML Response Bytes: 575
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 21448
-*  Image Response Bytes: 804
+*  CSS Response Bytes: 21446
+*  Image Response Bytes: 802
 *  JS Response Bytes: 248930
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44832
-
-### Performance issues
-
 
 ### Performance issues
 

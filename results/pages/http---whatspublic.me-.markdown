@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://whatspublic.me/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [WHATSPUBLIC.ME](http://whatspublic.me/)
 
@@ -29,9 +31,6 @@ title: http://whatspublic.me/
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

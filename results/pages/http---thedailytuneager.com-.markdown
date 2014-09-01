@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://thedailytuneager.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [thedailytuneager.com](http://thedailytuneager.com/)
 
@@ -29,9 +30,6 @@ title: http://thedailytuneager.com/
 *  JS Response Bytes: 229920
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20814
-
-### Performance issues
-
 
 ### Performance issues
 

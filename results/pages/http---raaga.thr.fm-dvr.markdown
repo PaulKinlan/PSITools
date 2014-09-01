@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://raaga.thr.fm/dvr
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [THR Raaga - Aaha Siranta Isai!](http://raaga.thr.fm/dvr)
 
@@ -29,9 +32,6 @@ title: http://raaga.thr.fm/dvr
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19040
-
-### Performance issues
-
 
 ### Performance issues
 

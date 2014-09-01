@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.sweetware.ch/sj/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.sweetware.ch/sj/)
 
@@ -29,9 +33,6 @@ title: http://www.sweetware.ch/sj/
 *  JS Response Bytes: 990537
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 901
-
-### Performance issues
-
 
 ### Performance issues
 

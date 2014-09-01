@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bestfreechromegames.co/game/super-merio-rampage-562
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Mario Rampage Game - Best Free Chrome Games](http://www.bestfreechromegames.co/game/super-merio-rampage-562)
 
@@ -29,9 +33,6 @@ title: http://www.bestfreechromegames.co/game/super-merio-rampage-562
 *  JS Response Bytes: 463834
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

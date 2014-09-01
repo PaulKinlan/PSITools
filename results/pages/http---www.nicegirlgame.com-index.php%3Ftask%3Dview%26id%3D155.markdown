@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.nicegirlgame.com/index.php?task=view&id=155
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bratz Makeover - Nice Girl Game](http://www.nicegirlgame.com/index.php?task=view&id=155)
 
@@ -29,9 +34,6 @@ title: http://www.nicegirlgame.com/index.php?task=view&id=155
 *  JS Response Bytes: 912301
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2529
-
-### Performance issues
-
 
 ### Performance issues
 

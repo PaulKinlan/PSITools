@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://languagetranslation.herokuapp.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Language Translator](http://languagetranslation.herokuapp.com/)
 
@@ -29,9 +32,6 @@ title: http://languagetranslation.herokuapp.com/
 *  JS Response Bytes: 1821942
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 203843
-
-### Performance issues
-
 
 ### Performance issues
 

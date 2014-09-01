@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://pay.myplatfon.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ПЛАТфон —  система мобильных платежей. Пополнение мобильного телефона, оплата коммунальных услуг (ЖКУ, ЖКХ). Погажение кредитов и оплата штрафов ГИБДД'](https://pay.myplatfon.ru/)
 
@@ -29,9 +32,6 @@ title: https://pay.myplatfon.ru/
 *  JS Response Bytes: 256313
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

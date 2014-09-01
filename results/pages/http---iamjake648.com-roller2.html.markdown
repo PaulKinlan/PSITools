@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://iamjake648.com/roller2.html
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://iamjake648.com/roller2.html)
 
@@ -29,9 +31,6 @@ title: http://iamjake648.com/roller2.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

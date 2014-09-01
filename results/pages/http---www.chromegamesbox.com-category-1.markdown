@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.chromegamesbox.com/category/1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sniper - Chrome Games Box](http://www.chromegamesbox.com/category/1)
 
@@ -29,9 +32,6 @@ title: http://www.chromegamesbox.com/category/1
 *  JS Response Bytes: 621087
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16515
-
-### Performance issues
-
 
 ### Performance issues
 

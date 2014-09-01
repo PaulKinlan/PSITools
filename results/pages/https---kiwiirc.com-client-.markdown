@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://kiwiirc.com/client/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Kiwi IRC](https://kiwiirc.com/client/)
 
@@ -29,9 +34,6 @@ title: https://kiwiirc.com/client/
 *  JS Response Bytes: 442461
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

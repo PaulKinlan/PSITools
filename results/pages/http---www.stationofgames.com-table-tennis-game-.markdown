@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.stationofgames.com/table-tennis-game/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Table Tennis Game](http://www.stationofgames.com/table-tennis-game/)
 
@@ -29,9 +36,6 @@ title: http://www.stationofgames.com/table-tennis-game/
 *  JS Response Bytes: 1475728
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109795
-
-### Performance issues
-
 
 ### Performance issues
 

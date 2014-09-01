@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.formation-facile.fr/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tutos vidéo programmation, Unity3D, web - formation-facile](http://www.formation-facile.fr/)
 
@@ -29,9 +31,6 @@ title: http://www.formation-facile.fr/
 *  JS Response Bytes: 887828
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16729
-
-### Performance issues
-
 
 ### Performance issues
 

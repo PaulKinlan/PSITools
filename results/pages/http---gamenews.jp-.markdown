@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gamenews.jp/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ゲームニュースまとめ](http://gamenews.jp/)
 
@@ -29,9 +33,6 @@ title: http://gamenews.jp/
 *  JS Response Bytes: 155757
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 655
-
-### Performance issues
-
 
 ### Performance issues
 

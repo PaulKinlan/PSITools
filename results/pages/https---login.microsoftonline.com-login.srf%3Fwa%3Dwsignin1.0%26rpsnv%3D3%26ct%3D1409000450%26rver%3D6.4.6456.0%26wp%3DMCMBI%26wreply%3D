@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://login.microsoftonline.com/login.srf?wa=wsignin1.0&rpsnv=3&ct=1409000450&rver=6.4.6456.0&wp=MCMBI&wreply=https:%2F%2Fportal.office.com%2Flanding.aspx%3Ftarget%3D%252fdefault.aspx&lc=1033&id=501392
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
 ---
 ## [Sign in to Office 365](https://login.microsoftonline.com/login.srf?wa=wsignin1.0&rpsnv=3&ct=1409000450&rver=6.4.6456.0&wp=MCMBI&wreply=https:%2F%2Fportal.office.com%2Flanding.aspx%3Ftarget%3D%252fdefault.aspx&lc=1033&id=501392)
 
@@ -29,9 +33,6 @@ title: https://login.microsoftonline.com/login.srf?wa=wsignin1.0&rpsnv=3&ct=1409
 *  JS Response Bytes: 226059
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1528
-
-### Performance issues
-
 
 ### Performance issues
 

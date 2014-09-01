@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://cigames.info/plants-vs-zombies-2/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tic Games Flash Games – Plants vs Zombies 2](http://cigames.info/plants-vs-zombies-2/)
 
@@ -29,9 +35,6 @@ title: http://cigames.info/plants-vs-zombies-2/
 *  JS Response Bytes: 997704
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1103
-
-### Performance issues
-
 
 ### Performance issues
 

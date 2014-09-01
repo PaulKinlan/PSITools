@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromegameworld.blogspot.com/2013/07/counter-strike-single.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [playclashofclans](http://chromegameworld.blogspot.com/2013/07/counter-strike-single.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chromegameworld.blogspot.com/2013/07/counter-strike-single.html?m=
 *  JS Response Bytes: 789204
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331153
-
-### Performance issues
-
 
 ### Performance issues
 

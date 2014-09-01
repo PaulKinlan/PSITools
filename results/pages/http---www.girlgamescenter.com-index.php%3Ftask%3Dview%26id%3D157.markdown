@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.girlgamescenter.com/index.php?task=view&id=157
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FISH TACOS SARA COOKING CLASS - Girl Games Center](http://www.girlgamescenter.com/index.php?task=view&id=157)
 
@@ -29,9 +33,6 @@ title: http://www.girlgamescenter.com/index.php?task=view&id=157
 *  JS Response Bytes: 812473
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28782
-
-### Performance issues
-
 
 ### Performance issues
 

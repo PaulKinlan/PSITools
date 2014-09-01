@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ordinem.com/Start.action
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Deed](http://www.ordinem.com/Start.action)
 
@@ -29,9 +34,6 @@ title: http://www.ordinem.com/Start.action
 *  JS Response Bytes: 586240
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 272
-
-### Performance issues
-
 
 ### Performance issues
 

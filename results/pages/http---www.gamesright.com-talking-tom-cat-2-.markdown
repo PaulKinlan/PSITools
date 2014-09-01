@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamesright.com/talking-tom-cat-2/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games Right – Talking Tom Cat 2](http://www.gamesright.com/talking-tom-cat-2/)
 
@@ -29,9 +33,6 @@ title: http://www.gamesright.com/talking-tom-cat-2/
 *  JS Response Bytes: 875985
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15972
-
-### Performance issues
-
 
 ### Performance issues
 

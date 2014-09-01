@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chistesyfrases.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bienvenido :: Frases & chistes](http://chistesyfrases.com/)
 
@@ -29,9 +33,6 @@ title: http://chistesyfrases.com/
 *  JS Response Bytes: 758356
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

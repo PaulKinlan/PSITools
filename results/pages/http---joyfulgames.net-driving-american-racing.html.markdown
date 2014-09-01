@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://joyfulgames.net/driving/american-racing.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [American Racing - Best Free Online Games | JoyfulGames.net - http://joyfulgames.net](http://joyfulgames.net/driving/american-racing.html)
 
@@ -29,9 +34,6 @@ title: http://joyfulgames.net/driving/american-racing.html
 *  JS Response Bytes: 2798200
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 142325
-
-### Performance issues
-
 
 ### Performance issues
 

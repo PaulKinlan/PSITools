@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://hcsc.consoloservices.com/sessions/new
+MinimizeRenderBlockingResources: true
 ---
 ## [Consolo Login](https://hcsc.consoloservices.com/sessions/new)
 
@@ -29,9 +30,6 @@ title: https://hcsc.consoloservices.com/sessions/new
 *  JS Response Bytes: 452210
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

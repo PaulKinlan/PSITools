@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.latestholidayweather.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Latest Holiday Weather - holiday weather - travel weather - international weather - vacation holiday-weather](http://www.latestholidayweather.com/)
 
@@ -29,9 +33,6 @@ title: http://www.latestholidayweather.com/
 *  JS Response Bytes: 1233491
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2308
-
-### Performance issues
-
 
 ### Performance issues
 

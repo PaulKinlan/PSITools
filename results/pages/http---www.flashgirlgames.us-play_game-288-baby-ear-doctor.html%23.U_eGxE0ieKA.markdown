@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.flashgirlgames.us/play_game/288/baby-ear-doctor.html#.U_eGxE0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Baby Ear Doctor - Flash Game For Girl](http://www.flashgirlgames.us/play_game/288/baby-ear-doctor.html#.U_eGxE0ieKA)
 
@@ -29,9 +36,6 @@ title: http://www.flashgirlgames.us/play_game/288/baby-ear-doctor.html#.U_eGxE0i
 *  JS Response Bytes: 1465160
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 37019
-
-### Performance issues
-
 
 ### Performance issues
 

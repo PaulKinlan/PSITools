@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.ntfusion.net/casual-games/pocket-creature-shakespeare.html?utm_campaign=pocket-creature-shakespeare&utm_medium=app&utm_source=cws
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pocket Creature Shakespeare - NTFusion](http://www.ntfusion.net/casual-games/pocket-creature-shakespeare.html?utm_campaign=pocket-creature-shakespeare&utm_medium=app&utm_source=cws)
 
@@ -29,9 +37,6 @@ title: http://www.ntfusion.net/casual-games/pocket-creature-shakespeare.html?utm
 *  JS Response Bytes: 2555727
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106901
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.niftyquoter.com/?utm_source=chrome.google.com&utm_medium=referral&utm_campaign=chrome-webstore
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Proposal software | NiftyQuoter](https://www.niftyquoter.com/?utm_source=chrome.google.com&utm_medium=referral&utm_campaign=chrome-webstore)
 
@@ -29,9 +32,6 @@ title: https://www.niftyquoter.com/?utm_source=chrome.google.com&utm_medium=refe
 *  JS Response Bytes: 526836
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46603
-
-### Performance issues
-
 
 ### Performance issues
 

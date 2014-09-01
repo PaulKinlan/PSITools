@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.itusozluk.com/m/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [itü sözlük mobil](https://www.itusozluk.com/m/)
 
@@ -29,9 +32,6 @@ title: https://www.itusozluk.com/m/
 *  JS Response Bytes: 631620
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2806
-
-### Performance issues
-
 
 ### Performance issues
 

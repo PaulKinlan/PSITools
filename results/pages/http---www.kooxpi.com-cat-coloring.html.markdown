@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.kooxpi.com/cat/coloring.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Coloring | Kooxpi Games: Play free online games](http://www.kooxpi.com/cat/coloring.html)
 
@@ -29,9 +33,6 @@ title: http://www.kooxpi.com/cat/coloring.html
 *  JS Response Bytes: 575050
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

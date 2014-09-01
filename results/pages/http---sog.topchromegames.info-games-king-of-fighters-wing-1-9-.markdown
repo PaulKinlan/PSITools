@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://sog.topchromegames.info/games/king-of-fighters-wing-1-9/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play King Of Fighters Wing 1.9 Game — Sultans of Game](http://sog.topchromegames.info/games/king-of-fighters-wing-1-9/)
 
@@ -29,9 +36,6 @@ title: http://sog.topchromegames.info/games/king-of-fighters-wing-1-9/
 *  JS Response Bytes: 1660661
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106042
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.surgery-games.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Surgery Games Doctor Games Hospital Games](http://www.surgery-games.org/)
 
@@ -29,9 +34,6 @@ title: http://www.surgery-games.org/
 *  JS Response Bytes: 1653122
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97491
-
-### Performance issues
-
 
 ### Performance issues
 

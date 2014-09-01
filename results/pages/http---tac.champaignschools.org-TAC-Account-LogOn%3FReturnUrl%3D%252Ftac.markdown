@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://tac.champaignschools.org/TAC/Account/LogOn?ReturnUrl=%2Ftac
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login](http://tac.champaignschools.org/TAC/Account/LogOn?ReturnUrl=%2Ftac)
 
@@ -29,9 +32,6 @@ title: http://tac.champaignschools.org/TAC/Account/LogOn?ReturnUrl=%2Ftac
 *  JS Response Bytes: 777844
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 525
-
-### Performance issues
-
 
 ### Performance issues
 

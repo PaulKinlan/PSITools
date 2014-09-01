@@ -33,8 +33,5 @@ title: http://www.dressupwhois.com/baby/zombaby-bouncer
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

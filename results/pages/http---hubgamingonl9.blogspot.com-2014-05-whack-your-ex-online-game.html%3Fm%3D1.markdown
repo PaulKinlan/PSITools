@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://hubgamingonl9.blogspot.com/2014/05/whack-your-ex-online-game.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gaming Hub: Whack Your Ex Online Game](http://hubgamingonl9.blogspot.com/2014/05/whack-your-ex-online-game.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://hubgamingonl9.blogspot.com/2014/05/whack-your-ex-online-game.html?
 *  JS Response Bytes: 973384
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 289594
-
-### Performance issues
-
 
 ### Performance issues
 

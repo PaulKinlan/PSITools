@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.playook.info/shooting/cute-birds-forest/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cute Birds Forest » Playook](http://www.playook.info/shooting/cute-birds-forest/)
 
@@ -29,9 +34,6 @@ title: http://www.playook.info/shooting/cute-birds-forest/
 *  JS Response Bytes: 1393296
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97787
-
-### Performance issues
-
 
 ### Performance issues
 

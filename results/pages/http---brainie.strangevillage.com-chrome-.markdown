@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://brainie.strangevillage.com/chrome/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+UseLegibleFontSizes: true
 ---
 ## [Brainie - Strange Village](http://brainie.strangevillage.com/chrome/)
 
@@ -29,9 +32,6 @@ title: http://brainie.strangevillage.com/chrome/
 *  JS Response Bytes: 51766
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

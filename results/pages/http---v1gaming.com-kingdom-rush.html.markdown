@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://v1gaming.com/kingdom-rush.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [V1Gaming.Com – Kingdom Rush](http://v1gaming.com/kingdom-rush.html)
 
@@ -29,9 +35,6 @@ title: http://v1gaming.com/kingdom-rush.html
 *  JS Response Bytes: 506990
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22522
-
-### Performance issues
-
 
 ### Performance issues
 

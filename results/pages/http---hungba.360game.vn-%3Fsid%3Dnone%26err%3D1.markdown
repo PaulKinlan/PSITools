@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://hungba.360game.vn/?sid=none&err=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hùng Bá Thiên Hạ | Cùng Chơi Webgame Nhập Vai Online Hay Nhất](http://hungba.360game.vn/?sid=none&err=1)
 
@@ -29,9 +36,6 @@ title: http://hungba.360game.vn/?sid=none&err=1
 *  JS Response Bytes: 1128176
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18061
-
-### Performance issues
-
 
 ### Performance issues
 

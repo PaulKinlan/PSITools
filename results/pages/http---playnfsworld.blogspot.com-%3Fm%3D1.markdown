@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://playnfsworld.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play need for speed world](http://playnfsworld.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://playnfsworld.blogspot.com/?m=1
 *  JS Response Bytes: 788540
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 292885
-
-### Performance issues
-
 
 ### Performance issues
 

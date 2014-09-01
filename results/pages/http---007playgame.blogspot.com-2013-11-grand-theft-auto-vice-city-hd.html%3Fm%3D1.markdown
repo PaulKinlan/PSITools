@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://007playgame.blogspot.com/2013/11/grand-theft-auto-vice-city-hd.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [Online games, card games, casino games, free games: Grand Theft Auto: Vice City hd](http://007playgame.blogspot.com/2013/11/grand-theft-auto-vice-city-hd.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://007playgame.blogspot.com/2013/11/grand-theft-auto-vice-city-hd.htm
 *  JS Response Bytes: 1778418
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97536
-
-### Performance issues
-
 
 ### Performance issues
 

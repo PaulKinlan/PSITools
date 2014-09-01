@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://h5game.6677g.com/CelebrityHospital/?ref=chromewebstore
+MinimizeRenderBlockingResources: true
 ---
 ## [Celebrity Hospital - www.6677g.com](http://h5game.6677g.com/CelebrityHospital/?ref=chromewebstore)
 
@@ -29,9 +30,6 @@ title: http://h5game.6677g.com/CelebrityHospital/?ref=chromewebstore
 *  JS Response Bytes: 1510989
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1850
-
-### Performance issues
-
 
 ### Performance issues
 

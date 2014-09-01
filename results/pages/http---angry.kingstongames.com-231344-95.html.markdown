@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://angry.kingstongames.com/231344/95.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Games Play » Angry Birds Rio](http://angry.kingstongames.com/231344/95.html)
 
@@ -29,9 +34,6 @@ title: http://angry.kingstongames.com/231344/95.html
 *  JS Response Bytes: 403678
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

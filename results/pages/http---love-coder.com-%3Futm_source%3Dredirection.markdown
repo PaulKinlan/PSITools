@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://love-coder.com/?utm_source=redirection
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Love Coder | Free romantic gift](http://love-coder.com/?utm_source=redirection)
 
@@ -29,9 +33,6 @@ title: http://love-coder.com/?utm_source=redirection
 *  JS Response Bytes: 2028879
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105620
-
-### Performance issues
-
 
 ### Performance issues
 

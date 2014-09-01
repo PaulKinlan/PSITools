@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.nergames.pw/?s=Marvel+War+of+Heroes
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Marvel War of Heroes – Search Results – Online Best Games](http://www.nergames.pw/?s=Marvel+War+of+Heroes)
 
@@ -29,9 +36,6 @@ title: http://www.nergames.pw/?s=Marvel+War+of+Heroes
 *  JS Response Bytes: 685748
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

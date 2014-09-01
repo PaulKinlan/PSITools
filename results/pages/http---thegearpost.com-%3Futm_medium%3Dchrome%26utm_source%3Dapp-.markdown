@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://thegearpost.com/?utm_medium=chrome&utm_source=app/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [TheGearPost — The online gadget, gear and gift guide for men.](http://thegearpost.com/?utm_medium=chrome&utm_source=app/)
 
@@ -29,9 +32,6 @@ title: http://thegearpost.com/?utm_medium=chrome&utm_source=app/
 *  JS Response Bytes: 628927
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1990
-
-### Performance issues
-
 
 ### Performance issues
 

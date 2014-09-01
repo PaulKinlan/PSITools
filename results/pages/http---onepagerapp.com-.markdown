@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://onepagerapp.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Make a professional small business website | Onepager - Build a simple website for your small business](http://onepagerapp.com/)
 
@@ -29,9 +33,6 @@ title: http://onepagerapp.com/
 *  JS Response Bytes: 639601
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58472
-
-### Performance issues
-
 
 ### Performance issues
 

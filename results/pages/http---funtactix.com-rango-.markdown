@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://funtactix.com/rango/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Funtactix Game Production for blockbuster media properties](http://funtactix.com/rango/)
 
@@ -29,9 +32,6 @@ title: http://funtactix.com/rango/
 *  JS Response Bytes: 389769
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51183
-
-### Performance issues
-
 
 ### Performance issues
 

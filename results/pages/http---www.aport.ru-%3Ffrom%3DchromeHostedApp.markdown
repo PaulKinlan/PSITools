@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.aport.ru/?from=chromeHostedApp
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Aport.ru® Цены на товары и услуги в России. Aport - найдем лучшие цены!](http://www.aport.ru/?from=chromeHostedApp)
 
@@ -29,9 +33,6 @@ title: http://www.aport.ru/?from=chromeHostedApp
 *  JS Response Bytes: 1581755
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96722
-
-### Performance issues
-
 
 ### Performance issues
 

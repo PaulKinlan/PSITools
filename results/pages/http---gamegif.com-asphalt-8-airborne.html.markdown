@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamegif.com/asphalt-8-airborne.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GameGIF.Com – Asphalt 8: Airborne](http://gamegif.com/asphalt-8-airborne.html)
 
@@ -29,9 +35,6 @@ title: http://gamegif.com/asphalt-8-airborne.html
 *  JS Response Bytes: 613079
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51770
-
-### Performance issues
-
 
 ### Performance issues
 

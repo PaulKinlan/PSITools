@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.bakadetsu.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Bakadetsu.net - Close website service.](http://www.bakadetsu.net/)
 
@@ -29,9 +31,6 @@ title: http://www.bakadetsu.net/
 *  JS Response Bytes: 617786
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 77143
-
-### Performance issues
-
 
 ### Performance issues
 

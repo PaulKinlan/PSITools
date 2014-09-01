@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://word-fun-games.blogspot.in/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Word Fun Games](http://word-fun-games.blogspot.in/?m=1)
 
@@ -29,9 +36,6 @@ title: http://word-fun-games.blogspot.in/?m=1
 *  JS Response Bytes: 792172
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14947
-
-### Performance issues
-
 
 ### Performance issues
 

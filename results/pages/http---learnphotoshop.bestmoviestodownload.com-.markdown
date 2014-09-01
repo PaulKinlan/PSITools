@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://learnphotoshop.bestmoviestodownload.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [Bestmoviestodownload.com](http://learnphotoshop.bestmoviestodownload.com/)
 
@@ -29,9 +30,6 @@ title: http://learnphotoshop.bestmoviestodownload.com/
 *  JS Response Bytes: 259014
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 443
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.borovetsskiexperience.eu/en/webcams.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404 - Error: 404](http://www.borovetsskiexperience.eu/en/webcams.html)
 
@@ -29,9 +34,6 @@ title: http://www.borovetsskiexperience.eu/en/webcams.html
 *  JS Response Bytes: 90814
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4008
-
-### Performance issues
-
 
 ### Performance issues
 

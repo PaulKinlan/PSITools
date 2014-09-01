@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gaminghubonl9.blogspot.com/2013/11/free-running-2-hd.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://gaminghubonl9.blogspot.com/2013/11/free-running-2-hd.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://gaminghubonl9.blogspot.com/2013/11/free-running-2-hd.html?m=1
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19288
-
-### Performance issues
-
 
 ### Performance issues
 

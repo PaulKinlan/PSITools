@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.galaksigame.com/default-category/cs-online
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CS Online - Galaksigame](http://www.galaksigame.com/default-category/cs-online)
 
@@ -29,9 +34,6 @@ title: http://www.galaksigame.com/default-category/cs-online
 *  JS Response Bytes: 2144167
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121935
-
-### Performance issues
-
 
 ### Performance issues
 

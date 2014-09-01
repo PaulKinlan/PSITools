@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sites.google.com/site/helpdeskmainsusd/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HelpDesk_Main](https://sites.google.com/site/helpdeskmainsusd/)
 
@@ -29,9 +32,6 @@ title: https://sites.google.com/site/helpdeskmainsusd/
 *  JS Response Bytes: 412691
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 644
-
-### Performance issues
-
 
 ### Performance issues
 

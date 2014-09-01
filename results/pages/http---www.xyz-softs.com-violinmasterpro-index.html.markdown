@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.xyz-softs.com/violinmasterpro/index.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Study with Eric Lewis Risk Free! Get in NOW before Eric is Booked!](http://www.xyz-softs.com/violinmasterpro/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.xyz-softs.com/violinmasterpro/index.html
 *  JS Response Bytes: 400587
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

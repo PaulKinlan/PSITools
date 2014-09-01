@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://wiki.wintonwoods.org/m/view-home.action
+MinimizeRenderBlockingResources: true
 ---
 ## [Home - Dashboard](http://wiki.wintonwoods.org/m/view-home.action)
 
@@ -29,9 +30,6 @@ title: http://wiki.wintonwoods.org/m/view-home.action
 *  JS Response Bytes: 85187
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 239
-
-### Performance issues
-
 
 ### Performance issues
 

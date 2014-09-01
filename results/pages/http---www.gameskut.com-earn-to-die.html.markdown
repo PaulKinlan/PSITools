@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameskut.com/earn-to-die.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Earn to Die | GamesKut](http://www.gameskut.com/earn-to-die.html)
 
@@ -29,9 +34,6 @@ title: http://www.gameskut.com/earn-to-die.html
 *  JS Response Bytes: 484324
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1170
-
-### Performance issues
-
 
 ### Performance issues
 

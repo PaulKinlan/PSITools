@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playgamesonchrome.blogspot.com/2013/08/need-for-speed-rivals-3d.html?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://playgamesonchrome.blogspot.com/2013/08/need-for-speed-rivals-3d.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playgamesonchrome.blogspot.com/2013/08/need-for-speed-rivals-3d.ht
 *  JS Response Bytes: 41021
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18862
-
-### Performance issues
-
 
 ### Performance issues
 

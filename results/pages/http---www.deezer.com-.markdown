@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.deezer.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Deezer - Discover music you’ll love](http://www.deezer.com/)
 
@@ -29,9 +30,6 @@ title: http://www.deezer.com/
 *  JS Response Bytes: 1405054
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1616
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.xdownloadforpc.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Download For Pc](http://www.xdownloadforpc.com/)
 
@@ -13,25 +16,22 @@ title: http://www.xdownloadforpc.com/
 
 ### Request information
 
-*  Number of Resources: 29
-*  Number of Hosts: 8
+*  Number of Resources: 31
+*  Number of Hosts: 9
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 5
-*  Nubmer of Static Resources: 15
-*  Total Request Bytes: 5359
+*  Nubmer of Static Resources: 17
+*  Total Request Bytes: 5607
 
 ### Response data
 
-*  HTML Response Bytes: 219818
+*  HTML Response Bytes: 232899
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 58996
-*  Image Response Bytes: 1126
-*  JS Response Bytes: 393497
+*  Image Response Bytes: 2621
+*  JS Response Bytes: 393494
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 65085
-
-### Performance issues
-
+*  Other Response Bytes: 65094
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://playfreegames11.blogspot.com/2013/10/fifa-14-by-ea-sports.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://playfreegames11.blogspot.com/2013/10/fifa-14-by-ea-sports.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://playfreegames11.blogspot.com/2013/10/fifa-14-by-ea-sports.html?m=1
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18833
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.justclassicgames.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Classic Games](http://www.justclassicgames.com/)
 
@@ -29,9 +32,6 @@ title: http://www.justclassicgames.com/
 *  JS Response Bytes: 608325
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16321
-
-### Performance issues
-
 
 ### Performance issues
 

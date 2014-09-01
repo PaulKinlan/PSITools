@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://hyvesgames.nl/Bingo/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bingo spelletjes - De leukste online gratis bingo spelletjes - Hyves Games](http://hyvesgames.nl/Bingo/)
 
@@ -29,9 +33,6 @@ title: http://hyvesgames.nl/Bingo/
 *  JS Response Bytes: 1727852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9657
-
-### Performance issues
-
 
 ### Performance issues
 

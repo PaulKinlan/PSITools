@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://v1gaming.com/monster-arena.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [V1Gaming.Com – Monster Arena](http://v1gaming.com/monster-arena.html)
 
@@ -29,9 +36,6 @@ title: http://v1gaming.com/monster-arena.html
 *  JS Response Bytes: 468636
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5399
-
-### Performance issues
-
 
 ### Performance issues
 

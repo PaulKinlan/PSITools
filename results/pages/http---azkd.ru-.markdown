@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://azkd.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Завод Каркасного Домостроения "ХакасТрестСтрой" - Абаканский Завод Каркасного Домостроения ООО ХакасТрестСтрой ( ООО ХТС ) - Хакасия, Казахстан, Абакан, Черногорск, Саяногорск, Минусинск, Красноярск, Новосибирск, Кызыл, Алматы, Астана, Павлодар, Караганда, Семипалатинск, Каркасное, Каркасно-панельное, sip, сип, строительство](http://azkd.ru/)
 
@@ -29,9 +33,6 @@ title: http://azkd.ru/
 *  JS Response Bytes: 3052562
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96641
-
-### Performance issues
-
 
 ### Performance issues
 

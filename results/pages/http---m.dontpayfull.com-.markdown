@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.dontpayfull.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DontPayFull: Coupon Codes, Coupons, Promo Codes, Free Shipping and Discounts](http://m.dontpayfull.com/)
 
@@ -29,9 +32,6 @@ title: http://m.dontpayfull.com/
 *  JS Response Bytes: 220140
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 445
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.evolvedonlinegames.com/app.php?id=1729
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Prizma Puzzle 2](http://www.evolvedonlinegames.com/app.php?id=1729)
 
@@ -29,9 +34,6 @@ title: http://www.evolvedonlinegames.com/app.php?id=1729
 *  JS Response Bytes: 903604
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98829
-
-### Performance issues
-
 
 ### Performance issues
 

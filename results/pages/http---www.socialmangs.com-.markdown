@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.socialmangs.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Socialmangs.com](http://www.socialmangs.com/)
 
@@ -29,9 +32,6 @@ title: http://www.socialmangs.com/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

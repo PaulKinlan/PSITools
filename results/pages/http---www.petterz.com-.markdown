@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.petterz.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Petterz](http://www.petterz.com/)
 
@@ -29,9 +33,6 @@ title: http://www.petterz.com/
 *  JS Response Bytes: 1814317
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97648
-
-### Performance issues
-
 
 ### Performance issues
 

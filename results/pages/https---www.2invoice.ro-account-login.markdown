@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://www.2invoice.ro/account/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Autentificare cont 2invoice - Program de facturare online](https://www.2invoice.ro/account/login)
 
@@ -29,9 +35,6 @@ title: https://www.2invoice.ro/account/login
 *  JS Response Bytes: 40464
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1242
-
-### Performance issues
-
 
 ### Performance issues
 

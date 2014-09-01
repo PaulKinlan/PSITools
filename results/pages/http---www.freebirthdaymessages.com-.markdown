@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.freebirthdaymessages.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Birthday Messages, Greetings & Sayings. FreeBirthdayMessages.com](http://www.freebirthdaymessages.com/)
 
@@ -29,9 +33,6 @@ title: http://www.freebirthdaymessages.com/
 *  JS Response Bytes: 341195
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.nwea.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Educational Assessment Solutions | NWEA NWEA](https://www.nwea.org/)
 
@@ -29,9 +32,6 @@ title: https://www.nwea.org/
 *  JS Response Bytes: 1416744
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 309040
-
-### Performance issues
-
 
 ### Performance issues
 

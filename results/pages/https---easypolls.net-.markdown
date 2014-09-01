@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://easypolls.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free online polls - Easypolls](https://easypolls.net/)
 
@@ -29,9 +34,6 @@ title: https://easypolls.net/
 *  JS Response Bytes: 1356918
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43
-
-### Performance issues
-
 
 ### Performance issues
 

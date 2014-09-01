@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.royalgame99.com/default-category/goodgame-fashion
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Goodgame Fashion - Royalgame99](http://www.royalgame99.com/default-category/goodgame-fashion)
 
@@ -29,9 +34,6 @@ title: http://www.royalgame99.com/default-category/goodgame-fashion
 *  JS Response Bytes: 677232
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

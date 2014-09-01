@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.pythonanywhere.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Host, run, and code Python in the cloud: PythonAnywhere](https://www.pythonanywhere.com/)
 
@@ -29,9 +31,6 @@ title: https://www.pythonanywhere.com/
 *  JS Response Bytes: 669477
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1201
-
-### Performance issues
-
 
 ### Performance issues
 

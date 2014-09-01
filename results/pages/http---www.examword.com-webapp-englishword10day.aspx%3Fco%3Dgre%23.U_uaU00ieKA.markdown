@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.examword.com/webapp/englishword10day.aspx?co=gre#.U_uaU00ieKA
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GRE Words in 10 Days ---- Letter](http://www.examword.com/webapp/englishword10day.aspx?co=gre#.U_uaU00ieKA)
 
@@ -29,9 +33,6 @@ title: http://www.examword.com/webapp/englishword10day.aspx?co=gre#.U_uaU00ieKA
 *  JS Response Bytes: 837649
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23164
-
-### Performance issues
-
 
 ### Performance issues
 

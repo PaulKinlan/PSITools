@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://dnsimple.com/signup
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sign Up - DNSimple](https://dnsimple.com/signup)
 
@@ -29,9 +33,6 @@ title: https://dnsimple.com/signup
 *  JS Response Bytes: 588898
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 338
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://playbubblegame.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bubble Games](http://playbubblegame.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://playbubblegame.blogspot.com/?m=1
 *  JS Response Bytes: 637560
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14652
-
-### Performance issues
-
 
 ### Performance issues
 

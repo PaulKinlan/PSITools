@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://searchstone.net/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Search Stone&Tiles](http://searchstone.net/)
 
@@ -29,9 +33,6 @@ title: http://searchstone.net/
 *  JS Response Bytes: 846646
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1208
-
-### Performance issues
-
 
 ### Performance issues
 

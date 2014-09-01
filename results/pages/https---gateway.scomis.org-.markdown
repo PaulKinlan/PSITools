@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://gateway.scomis.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Scomis - Hosted Application Service](https://gateway.scomis.org/)
 
@@ -29,9 +33,6 @@ title: https://gateway.scomis.org/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

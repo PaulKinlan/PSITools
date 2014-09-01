@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://girsociety.com/mobile
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [Gir-Society - Mobile - Community Website](http://girsociety.com/mobile)
 
@@ -29,9 +33,6 @@ title: http://girsociety.com/mobile
 *  JS Response Bytes: 133024
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 64260
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mobile.ola.vn/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ola - Ola Me Mobile Wap](http://mobile.ola.vn/)
 
@@ -29,9 +32,6 @@ title: http://mobile.ola.vn/
 *  JS Response Bytes: 351043
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 267
-
-### Performance issues
-
 
 ### Performance issues
 

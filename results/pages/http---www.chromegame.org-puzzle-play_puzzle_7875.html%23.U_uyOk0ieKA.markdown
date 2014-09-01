@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chromegame.org/puzzle/play_puzzle_7875.html#.U_uyOk0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [US Traffic_Chromegame - Play the best free online games.](http://www.chromegame.org/puzzle/play_puzzle_7875.html#.U_uyOk0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.chromegame.org/puzzle/play_puzzle_7875.html#.U_uyOk0ieKA
 *  JS Response Bytes: 734852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2595
-
-### Performance issues
-
 
 ### Performance issues
 

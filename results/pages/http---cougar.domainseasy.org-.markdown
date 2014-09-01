@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://cougar.domainseasy.org/
+UseLegibleFontSizes: true
 ---
 ## [So Cougar](http://cougar.domainseasy.org/)
 
@@ -29,9 +30,6 @@ title: http://cougar.domainseasy.org/
 *  JS Response Bytes: 85506
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 460
-
-### Performance issues
-
 
 ### Performance issues
 

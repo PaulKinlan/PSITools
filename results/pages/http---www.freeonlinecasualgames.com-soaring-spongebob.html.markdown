@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeonlinecasualgames.com/soaring-spongebob.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Soaring SpongeBob | Free Online Casual Games](http://www.freeonlinecasualgames.com/soaring-spongebob.html)
 
@@ -29,9 +34,6 @@ title: http://www.freeonlinecasualgames.com/soaring-spongebob.html
 *  JS Response Bytes: 894476
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17412
-
-### Performance issues
-
 
 ### Performance issues
 

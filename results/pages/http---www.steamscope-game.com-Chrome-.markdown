@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.steamscope-game.com/Chrome/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SteamScope-Lite SD](http://www.steamscope-game.com/Chrome/)
 
@@ -29,9 +34,6 @@ title: http://www.steamscope-game.com/Chrome/
 *  JS Response Bytes: 725945
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95810
-
-### Performance issues
-
 
 ### Performance issues
 

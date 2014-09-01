@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://mobilesecurity.norton.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Norton Mobile Security](https://mobilesecurity.norton.com/)
 
@@ -29,9 +32,6 @@ title: https://mobilesecurity.norton.com/
 *  JS Response Bytes: 330673
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1304
-
-### Performance issues
-
 
 ### Performance issues
 

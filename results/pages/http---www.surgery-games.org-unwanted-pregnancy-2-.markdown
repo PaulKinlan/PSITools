@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/unwanted-pregnancy-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Unwanted Pregnancy game](http://www.surgery-games.org/unwanted-pregnancy-2/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/unwanted-pregnancy-2/
 *  JS Response Bytes: 2636750
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115195
-
-### Performance issues
-
 
 ### Performance issues
 

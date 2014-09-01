@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/blondes-vs-dinos/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blondes VS Dinos Game](http://www.footballgam.es/blondes-vs-dinos/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/blondes-vs-dinos/
 *  JS Response Bytes: 2310479
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156799
-
-### Performance issues
-
 
 ### Performance issues
 

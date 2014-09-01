@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.olegovpohod.com/index.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Приглашаем Вас в увлекательные походы по Крыму с Олегом](http://www.olegovpohod.com/index.php)
 
@@ -29,9 +33,6 @@ title: http://www.olegovpohod.com/index.php
 *  JS Response Bytes: 2434574
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97476
-
-### Performance issues
-
 
 ### Performance issues
 

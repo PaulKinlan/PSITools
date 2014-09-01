@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.miniclipgame.info/game-play/311/lamborghini.html#.U_ucg00ieKB
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lamborghini - Miniclip Game - Free Online Flash Games](http://www.miniclipgame.info/game-play/311/lamborghini.html#.U_ucg00ieKB)
 
@@ -29,9 +34,6 @@ title: http://www.miniclipgame.info/game-play/311/lamborghini.html#.U_ucg00ieKB
 *  JS Response Bytes: 1919248
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13117
-
-### Performance issues
-
 
 ### Performance issues
 

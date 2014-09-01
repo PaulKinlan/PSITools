@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://app.cloudability.com/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sign In | Cloudability](https://app.cloudability.com/login)
 
@@ -29,9 +32,6 @@ title: https://app.cloudability.com/login
 *  JS Response Bytes: 805609
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1325
-
-### Performance issues
-
 
 ### Performance issues
 

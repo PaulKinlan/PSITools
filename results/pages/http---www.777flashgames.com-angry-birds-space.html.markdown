@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.777flashgames.com/angry-birds-space.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Space | 777 Flash Games](http://www.777flashgames.com/angry-birds-space.html)
 
@@ -29,9 +37,6 @@ title: http://www.777flashgames.com/angry-birds-space.html
 *  JS Response Bytes: 1530640
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98578
-
-### Performance issues
-
 
 ### Performance issues
 

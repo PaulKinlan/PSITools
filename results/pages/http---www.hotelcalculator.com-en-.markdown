@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.hotelcalculator.com/en/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HotelCalculator.com - Hotel search engine. Compare hotel deals](http://www.hotelcalculator.com/en/)
 
@@ -29,9 +32,6 @@ title: http://www.hotelcalculator.com/en/
 *  JS Response Bytes: 1585644
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100182
-
-### Performance issues
-
 
 ### Performance issues
 

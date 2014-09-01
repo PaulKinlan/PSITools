@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.prettynicegames.com/category/8
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Decoration Games - Pretty Nice Games](http://www.prettynicegames.com/category/8)
 
@@ -29,9 +32,6 @@ title: http://www.prettynicegames.com/category/8
 *  JS Response Bytes: 649192
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1192
-
-### Performance issues
-
 
 ### Performance issues
 

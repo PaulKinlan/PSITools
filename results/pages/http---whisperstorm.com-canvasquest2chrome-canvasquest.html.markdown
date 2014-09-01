@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://whisperstorm.com/canvasquest2chrome/canvasquest.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [{Canvas Quest 2} - v 2.1 March 31, 2011](http://whisperstorm.com/canvasquest2chrome/canvasquest.html)
 
@@ -29,9 +36,6 @@ title: http://whisperstorm.com/canvasquest2chrome/canvasquest.html
 *  JS Response Bytes: 581796
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

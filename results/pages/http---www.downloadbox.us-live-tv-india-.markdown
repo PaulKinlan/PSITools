@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.downloadbox.us/live-tv-india/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Live TV India | Download Box](http://www.downloadbox.us/live-tv-india/)
 
@@ -29,9 +32,6 @@ title: http://www.downloadbox.us/live-tv-india/
 *  JS Response Bytes: 939573
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 224466
-
-### Performance issues
-
 
 ### Performance issues
 

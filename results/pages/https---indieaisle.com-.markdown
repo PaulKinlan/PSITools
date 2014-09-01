@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://indieaisle.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Independently published ebooks](https://indieaisle.com/)
 
@@ -29,9 +34,6 @@ title: https://indieaisle.com/
 *  JS Response Bytes: 350695
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 603
-
-### Performance issues
-
 
 ### Performance issues
 

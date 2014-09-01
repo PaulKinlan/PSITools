@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.miniclipgame.info/game-play/319/kogama-central-city-2.html#.U_d8Bk0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kogama Central City - Miniclip Game - Free Online Flash Games](http://www.miniclipgame.info/game-play/319/kogama-central-city-2.html#.U_d8Bk0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.miniclipgame.info/game-play/319/kogama-central-city-2.html#.U_
 *  JS Response Bytes: 2610103
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21906
-
-### Performance issues
-
 
 ### Performance issues
 

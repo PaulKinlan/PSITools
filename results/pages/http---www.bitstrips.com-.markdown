@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.bitstrips.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bitstrips - Comics starring YOU and your Friends](http://www.bitstrips.com/)
 
@@ -29,9 +31,6 @@ title: http://www.bitstrips.com/
 *  JS Response Bytes: 93553
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 78838
-
-### Performance issues
-
 
 ### Performance issues
 

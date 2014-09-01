@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.open.ac.uk/choose/inspiringlearning/widgets/masterpiece/chromemasterpiece.html?LKCAMP=onl04m&MEDIA=onl04md_lkcampaign89
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [OU MasterPiece Me](http://www.open.ac.uk/choose/inspiringlearning/widgets/masterpiece/chromemasterpiece.html?LKCAMP=onl04m&MEDIA=onl04md_lkcampaign89)
 
@@ -29,9 +35,6 @@ title: http://www.open.ac.uk/choose/inspiringlearning/widgets/masterpiece/chrome
 *  JS Response Bytes: 481456
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 649
-
-### Performance issues
-
 
 ### Performance issues
 

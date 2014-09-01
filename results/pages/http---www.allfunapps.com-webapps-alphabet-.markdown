@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.allfunapps.com/webapps/alphabet/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn Alphabet and Numbers](http://www.allfunapps.com/webapps/alphabet/)
 
@@ -29,9 +33,6 @@ title: http://www.allfunapps.com/webapps/alphabet/
 *  JS Response Bytes: 1135746
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96607
-
-### Performance issues
-
 
 ### Performance issues
 

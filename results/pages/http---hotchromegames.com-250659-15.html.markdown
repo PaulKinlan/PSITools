@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://hotchromegames.com/250659/15.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HotChromeGames Play » Angry Birds Space](http://hotchromegames.com/250659/15.html)
 
@@ -29,9 +37,6 @@ title: http://hotchromegames.com/250659/15.html
 *  JS Response Bytes: 518274
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

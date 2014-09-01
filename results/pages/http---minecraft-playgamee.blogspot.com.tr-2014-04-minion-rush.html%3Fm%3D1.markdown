@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://minecraft-playgamee.blogspot.com.tr/2014/04/minion-rush.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [minecraft hd play game](http://minecraft-playgamee.blogspot.com.tr/2014/04/minion-rush.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://minecraft-playgamee.blogspot.com.tr/2014/04/minion-rush.html?m=1
 *  JS Response Bytes: 788563
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331240
-
-### Performance issues
-
 
 ### Performance issues
 

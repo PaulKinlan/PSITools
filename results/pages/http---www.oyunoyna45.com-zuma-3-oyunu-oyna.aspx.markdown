@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.oyunoyna45.com/zuma-3-oyunu-oyna.aspx
+UseLegibleFontSizes: true
 ---
 ## [Service Unavailable](http://www.oyunoyna45.com/zuma-3-oyunu-oyna.aspx)
 
@@ -29,9 +30,6 @@ title: http://www.oyunoyna45.com/zuma-3-oyunu-oyna.aspx
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 482
-
-### Performance issues
-
 
 ### Performance issues
 

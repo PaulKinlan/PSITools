@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://www.mpress.me/
+MinimizeRenderBlockingResources: true
 ---
 ## [mPress | Create Beautiful Mobile Websites](https://www.mpress.me/)
 
@@ -29,9 +30,6 @@ title: https://www.mpress.me/
 *  JS Response Bytes: 389920
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124545
-
-### Performance issues
-
 
 ### Performance issues
 

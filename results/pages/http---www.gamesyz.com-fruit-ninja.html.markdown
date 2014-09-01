@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesyz.com/fruit-ninja.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fruit Ninja : Games YZ](http://www.gamesyz.com/fruit-ninja.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamesyz.com/fruit-ninja.html
 *  JS Response Bytes: 1529605
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105438
-
-### Performance issues
-
 
 ### Performance issues
 

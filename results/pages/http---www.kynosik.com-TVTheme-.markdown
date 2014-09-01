@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kynosik.com/TVTheme/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TV Theme Song Game](http://www.kynosik.com/TVTheme/)
 
@@ -29,9 +34,6 @@ title: http://www.kynosik.com/TVTheme/
 *  JS Response Bytes: 1607230
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111420
-
-### Performance issues
-
 
 ### Performance issues
 

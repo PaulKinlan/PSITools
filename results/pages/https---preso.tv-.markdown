@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://preso.tv/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Preso.tv](https://preso.tv/)
 
@@ -29,9 +33,6 @@ title: https://preso.tv/
 *  JS Response Bytes: 963867
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 126905
-
-### Performance issues
-
 
 ### Performance issues
 

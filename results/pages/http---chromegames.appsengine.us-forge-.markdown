@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromegames.appsengine.us/forge/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Play Free Online Forge of Empires](http://chromegames.appsengine.us/forge/)
 
@@ -29,9 +32,6 @@ title: http://chromegames.appsengine.us/forge/
 *  JS Response Bytes: 538643
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2401
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ichromegames.blogspot.com/2013/06/grand-theft-auto-iv.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [ichromegames: Grand Theft Auto IV](http://ichromegames.blogspot.com/2013/06/grand-theft-auto-iv.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://ichromegames.blogspot.com/2013/06/grand-theft-auto-iv.html?m=1
 *  JS Response Bytes: 1068186
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97993
-
-### Performance issues
-
 
 ### Performance issues
 

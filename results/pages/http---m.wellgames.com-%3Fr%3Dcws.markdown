@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.wellgames.com/?r=cws
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Wellgames -](http://m.wellgames.com/?r=cws)
 
@@ -13,25 +15,22 @@ title: http://m.wellgames.com/?r=cws
 
 ### Request information
 
-*  Number of Resources: 66
-*  Number of Hosts: 8
-*  Number of JS Resources: 17
-*  Number of CSS Resources: 4
-*  Nubmer of Static Resources: 58
-*  Total Request Bytes: 8485
+*  Number of Resources: 76
+*  Number of Hosts: 12
+*  Number of JS Resources: 18
+*  Number of CSS Resources: 5
+*  Nubmer of Static Resources: 63
+*  Total Request Bytes: 9478
 
 ### Response data
 
-*  HTML Response Bytes: 86102
+*  HTML Response Bytes: 134763
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 36308
-*  Image Response Bytes: 218671
-*  JS Response Bytes: 701469
+*  CSS Response Bytes: 36872
+*  Image Response Bytes: 220590
+*  JS Response Bytes: 733219
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 791
-
-### Performance issues
-
+*  Other Response Bytes: 15943
 
 ### Performance issues
 

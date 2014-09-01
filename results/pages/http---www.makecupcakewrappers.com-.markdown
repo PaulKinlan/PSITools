@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.makecupcakewrappers.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Custom Printable Cupcake Wrappers | Cupcake Wrapper Creator](http://www.makecupcakewrappers.com/)
 
@@ -29,9 +33,6 @@ title: http://www.makecupcakewrappers.com/
 *  JS Response Bytes: 577847
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1042
-
-### Performance issues
-
 
 ### Performance issues
 

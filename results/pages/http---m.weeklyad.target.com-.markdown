@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://m.weeklyad.target.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Minneapolis Weekly Deals In Stores Now : Target Weekly Ad](http://m.weeklyad.target.com/)
 
@@ -29,9 +34,6 @@ title: http://m.weeklyad.target.com/
 *  JS Response Bytes: 646967
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2073
-
-### Performance issues
-
 
 ### Performance issues
 

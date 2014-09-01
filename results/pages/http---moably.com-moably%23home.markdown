@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://moably.com/moably#home
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Moably](http://moably.com/moably#home)
 
@@ -29,9 +31,6 @@ title: http://moably.com/moably#home
 *  JS Response Bytes: 410057
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45
-
-### Performance issues
-
 
 ### Performance issues
 

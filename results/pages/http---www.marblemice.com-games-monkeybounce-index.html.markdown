@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.marblemice.com/games/monkeybounce/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fire Bounce](http://www.marblemice.com/games/monkeybounce/index.html)
 
@@ -29,9 +34,6 @@ title: http://www.marblemice.com/games/monkeybounce/index.html
 *  JS Response Bytes: 162000
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://masterfail.waluu.com/?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Liste des contributions](http://masterfail.waluu.com/?m=1)
 
@@ -29,9 +34,6 @@ title: http://masterfail.waluu.com/?m=1
 *  JS Response Bytes: 902561
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4493
-
-### Performance issues
-
 
 ### Performance issues
 

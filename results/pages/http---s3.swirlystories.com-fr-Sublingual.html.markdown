@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://s3.swirlystories.com/fr/Sublingual.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [](http://s3.swirlystories.com/fr/Sublingual.html)
 
@@ -29,9 +33,6 @@ title: http://s3.swirlystories.com/fr/Sublingual.html
 *  JS Response Bytes: 26673
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1737
-
-### Performance issues
-
 
 ### Performance issues
 

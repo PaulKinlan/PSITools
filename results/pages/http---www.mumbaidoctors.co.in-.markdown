@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mumbaidoctors.co.in/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Doctors in Mumbai (Bombay) - Top Mumbai Doctors - Famous Doctors in Mumbai](http://www.mumbaidoctors.co.in/)
 
@@ -29,9 +34,6 @@ title: http://www.mumbaidoctors.co.in/
 *  JS Response Bytes: 1816110
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34240
-
-### Performance issues
-
 
 ### Performance issues
 

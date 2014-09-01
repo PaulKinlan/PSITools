@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://flashgame3d.blogspot.com/2014/01/flash-world.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Flash Game 2014: Flash World](http://flashgame3d.blogspot.com/2014/01/flash-world.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://flashgame3d.blogspot.com/2014/01/flash-world.html?m=1
 *  JS Response Bytes: 1241960
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 147301
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/672750/?autoAction=true&sId=Chrome_Webstore_Nov12_672750
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Aqua Pearls for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/672750/?autoAction=true&sId=Chrome_Webstore_Nov12_672750)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/672750/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1450488
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12997
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://arcadechrome.com/gch/?g=104
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Bike](http://arcadechrome.com/gch/?g=104)
 
@@ -29,9 +35,6 @@ title: http://arcadechrome.com/gch/?g=104
 *  JS Response Bytes: 1512682
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39371
-
-### Performance issues
-
 
 ### Performance issues
 

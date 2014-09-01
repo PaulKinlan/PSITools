@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://mahjongdeluxe.fungadgets.info/mahjongdeluxe.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mahjong Deluxe Puzzle Game](http://mahjongdeluxe.fungadgets.info/mahjongdeluxe.htm)
 
@@ -29,9 +34,6 @@ title: http://mahjongdeluxe.fungadgets.info/mahjongdeluxe.htm
 *  JS Response Bytes: 681819
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95576
-
-### Performance issues
-
 
 ### Performance issues
 

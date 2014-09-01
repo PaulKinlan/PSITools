@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.sciencebase.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Dave Bradley's Sciencebase | Freelance science journalist, photographer, musician](http://www.sciencebase.com/)
 
@@ -29,9 +31,6 @@ title: http://www.sciencebase.com/
 *  JS Response Bytes: 238304
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17213
-
-### Performance issues
-
 
 ### Performance issues
 

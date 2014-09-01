@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://oyunlar9.com/3d-mafya-nine-oyna.html?utm_source=ChromeWebStore&utm_medium=3DMafyaNine&utm_content=webapp&utm_campaign=kisayol
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Mafya Nine Oyna - Oyunlar 9](http://oyunlar9.com/3d-mafya-nine-oyna.html?utm_source=ChromeWebStore&utm_medium=3DMafyaNine&utm_content=webapp&utm_campaign=kisayol)
 
@@ -29,9 +34,6 @@ title: http://oyunlar9.com/3d-mafya-nine-oyna.html?utm_source=ChromeWebStore&utm
 *  JS Response Bytes: 2493358
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 305751
-
-### Performance issues
-
 
 ### Performance issues
 

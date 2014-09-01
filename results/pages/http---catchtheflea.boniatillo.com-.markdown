@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://catchtheflea.boniatillo.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [Catch The Flea](http://catchtheflea.boniatillo.com/)
 
@@ -29,9 +31,6 @@ title: http://catchtheflea.boniatillo.com/
 *  JS Response Bytes: 284701
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35855
-
-### Performance issues
-
 
 ### Performance issues
 

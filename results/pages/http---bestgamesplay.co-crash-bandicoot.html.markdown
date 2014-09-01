@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://bestgamesplay.co/crash-bandicoot.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crash Bandicoot | Best Games PlayGames, Online Games, Play, Free](http://bestgamesplay.co/crash-bandicoot.html)
 
@@ -29,9 +35,6 @@ title: http://bestgamesplay.co/crash-bandicoot.html
 *  JS Response Bytes: 1865076
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111425
-
-### Performance issues
-
 
 ### Performance issues
 

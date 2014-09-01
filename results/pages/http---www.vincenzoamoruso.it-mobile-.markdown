@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.vincenzoamoruso.it/mobile/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Interpreter](http://www.vincenzoamoruso.it/mobile/)
 
@@ -29,9 +33,6 @@ title: http://www.vincenzoamoruso.it/mobile/
 *  JS Response Bytes: 841110
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20632
-
-### Performance issues
-
 
 ### Performance issues
 

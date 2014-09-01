@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/shooting/zombus
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombus - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/shooting/zombus)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/shooting/zombus
 *  JS Response Bytes: 2180463
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109587
-
-### Performance issues
-
 
 ### Performance issues
 

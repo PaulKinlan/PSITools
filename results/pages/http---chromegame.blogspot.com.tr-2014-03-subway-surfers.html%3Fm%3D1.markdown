@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromegame.blogspot.com.tr/2014/03/subway-surfers.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [chrome Best Game Store: Subway Surfers](http://chromegame.blogspot.com.tr/2014/03/subway-surfers.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chromegame.blogspot.com.tr/2014/03/subway-surfers.html?m=1
 *  JS Response Bytes: 720890
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97191
-
-### Performance issues
-
 
 ### Performance issues
 

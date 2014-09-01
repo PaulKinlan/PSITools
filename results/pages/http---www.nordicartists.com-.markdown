@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.nordicartists.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [-Nordic Artists | Modern Art from Scandinavia](http://www.nordicartists.com/)
 
@@ -29,9 +31,6 @@ title: http://www.nordicartists.com/
 *  JS Response Bytes: 1806275
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25125
-
-### Performance issues
-
 
 ### Performance issues
 

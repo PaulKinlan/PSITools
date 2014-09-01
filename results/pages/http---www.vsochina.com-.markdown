@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.vsochina.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [创意云,在线创作平台,全球首创云端文化创意产业园](http://www.vsochina.com/)
 
@@ -29,9 +34,6 @@ title: http://www.vsochina.com/
 *  JS Response Bytes: 558600
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.3d-juegos.co/maldark-conqueror-of-all-worlds/game/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Maldark: Conqueror of all Worlds juego](http://www.3d-juegos.co/maldark-conqueror-of-all-worlds/game/)
 
@@ -29,9 +35,6 @@ title: http://www.3d-juegos.co/maldark-conqueror-of-all-worlds/game/
 *  JS Response Bytes: 2038849
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48713
-
-### Performance issues
-
 
 ### Performance issues
 

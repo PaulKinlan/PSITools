@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://cellphe.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Cell Phone Number Search](http://cellphe.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://cellphe.blogspot.com/?m=1
 *  JS Response Bytes: 1603398
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98324
-
-### Performance issues
-
 
 ### Performance issues
 

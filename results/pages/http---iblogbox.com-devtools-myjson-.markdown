@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://iblogbox.com/devtools/myjson/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [JSON Formatter](http://iblogbox.com/devtools/myjson/)
 
@@ -29,9 +35,6 @@ title: http://iblogbox.com/devtools/myjson/
 *  JS Response Bytes: 505864
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15750
-
-### Performance issues
-
 
 ### Performance issues
 

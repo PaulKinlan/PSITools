@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gametako.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [مجتمع تاكو لمطوري الألعاب](http://www.gametako.com/)
 
@@ -29,9 +33,6 @@ title: http://www.gametako.com/
 *  JS Response Bytes: 1407813
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124854
-
-### Performance issues
-
 
 ### Performance issues
 

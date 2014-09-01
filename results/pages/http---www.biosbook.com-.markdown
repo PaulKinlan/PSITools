@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.biosbook.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Biosbook](http://www.biosbook.com/)
 
@@ -29,9 +33,6 @@ title: http://www.biosbook.com/
 *  JS Response Bytes: 308660
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 219
-
-### Performance issues
-
 
 ### Performance issues
 

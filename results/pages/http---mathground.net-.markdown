@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mathground.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Everything about mathematics.](http://mathground.net/)
 
@@ -29,9 +32,6 @@ title: http://mathground.net/
 *  JS Response Bytes: 665752
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 322948
-
-### Performance issues
-
 
 ### Performance issues
 

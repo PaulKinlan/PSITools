@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.rawshorts.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [RawShorts - Explainer Video Software](http://www.rawshorts.com/)
 
@@ -29,9 +33,6 @@ title: http://www.rawshorts.com/
 *  JS Response Bytes: 1346916
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7715
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tate.org.uk/art/content/pages/slideshow-app.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Art & Artists: Slideshow | Tate](http://www.tate.org.uk/art/content/pages/slideshow-app.html)
 
@@ -29,9 +32,6 @@ title: http://www.tate.org.uk/art/content/pages/slideshow-app.html
 *  JS Response Bytes: 135343
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

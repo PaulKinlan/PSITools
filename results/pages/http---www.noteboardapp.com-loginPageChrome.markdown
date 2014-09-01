@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.noteboardapp.com/loginPageChrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Note Board App Login](http://www.noteboardapp.com/loginPageChrome)
 
@@ -29,9 +33,6 @@ title: http://www.noteboardapp.com/loginPageChrome
 *  JS Response Bytes: 732980
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58469
-
-### Performance issues
-
 
 ### Performance issues
 

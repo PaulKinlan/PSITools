@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chromegamesmaniac.blogspot.com/2013/08/fast-furious-6.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [chromegamesmaniac: Fast & Furious 6](http://chromegamesmaniac.blogspot.com/2013/08/fast-furious-6.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://chromegamesmaniac.blogspot.com/2013/08/fast-furious-6.html?m=1
 *  JS Response Bytes: 1068322
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97992
-
-### Performance issues
-
 
 ### Performance issues
 

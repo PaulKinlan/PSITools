@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://beststrategygames.co/counter-strike-online.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Strategy Games – Counter Strike Online](http://beststrategygames.co/counter-strike-online.html)
 
@@ -29,9 +35,6 @@ title: http://beststrategygames.co/counter-strike-online.html
 *  JS Response Bytes: 1055642
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15477
-
-### Performance issues
-
 
 ### Performance issues
 

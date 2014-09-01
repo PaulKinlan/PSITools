@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://2014webgames.blogspot.com/2014/04/minion-rush-play-game.html?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Online games](http://2014webgames.blogspot.com/2014/04/minion-rush-play-game.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://2014webgames.blogspot.com/2014/04/minion-rush-play-game.html?m=1
 *  JS Response Bytes: 314320
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44190
-
-### Performance issues
-
 
 ### Performance issues
 

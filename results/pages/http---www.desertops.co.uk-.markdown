@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.desertops.co.uk/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Desert Operations](http://www.desertops.co.uk/)
 
@@ -29,9 +34,6 @@ title: http://www.desertops.co.uk/
 *  JS Response Bytes: 491747
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2255
-
-### Performance issues
-
 
 ### Performance issues
 

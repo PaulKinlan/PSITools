@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.evolvedonlinegames.com/app.php?id=4285
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crusader Tank](http://www.evolvedonlinegames.com/app.php?id=4285)
 
@@ -29,9 +34,6 @@ title: http://www.evolvedonlinegames.com/app.php?id=4285
 *  JS Response Bytes: 904208
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97763
-
-### Performance issues
-
 
 ### Performance issues
 

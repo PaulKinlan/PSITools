@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://isp.agema.it/project/intesa/script/login.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Intesa - Area Login](https://isp.agema.it/project/intesa/script/login.php)
 
@@ -29,9 +34,6 @@ title: https://isp.agema.it/project/intesa/script/login.php
 *  JS Response Bytes: 45220
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1003
-
-### Performance issues
-
 
 ### Performance issues
 

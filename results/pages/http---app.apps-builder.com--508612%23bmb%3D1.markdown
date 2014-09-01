@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://app.apps-builder.com//508612#bmb=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Innamorati di Te](http://app.apps-builder.com//508612#bmb=1)
 
@@ -29,9 +33,6 @@ title: http://app.apps-builder.com//508612#bmb=1
 *  JS Response Bytes: 1099144
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2769
-
-### Performance issues
-
 
 ### Performance issues
 

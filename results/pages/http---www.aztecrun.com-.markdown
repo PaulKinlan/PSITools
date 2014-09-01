@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.aztecrun.com/
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Aztec Run : Escape from the Tomb: Mobile, iOS, Android, Chrome, Web Game](http://www.aztecrun.com/)
 
@@ -29,9 +32,6 @@ title: http://www.aztecrun.com/
 *  JS Response Bytes: 1740771
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2177
-
-### Performance issues
-
 
 ### Performance issues
 

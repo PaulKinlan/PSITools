@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.tsr1.com/games/?p=864
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games to Addict » Blog Archive » The Pacific – Battle of Iwo Jima](http://www.tsr1.com/games/?p=864)
 
@@ -29,9 +37,6 @@ title: http://www.tsr1.com/games/?p=864
 *  JS Response Bytes: 505940
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

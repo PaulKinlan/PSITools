@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ebhasin.com/games/TumbleBee/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tumble Bee | Bhasinsoft](http://www.ebhasin.com/games/TumbleBee/index.html)
 
@@ -29,9 +34,6 @@ title: http://www.ebhasin.com/games/TumbleBee/index.html
 *  JS Response Bytes: 1542220
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109864
-
-### Performance issues
-
 
 ### Performance issues
 

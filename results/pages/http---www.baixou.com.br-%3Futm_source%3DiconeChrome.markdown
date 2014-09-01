@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.baixou.com.br/?utm_source=iconeChrome
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Baixou - Monitore preços, baixas de preço, compare preços, alertas de preços e gráfico de preço](http://www.baixou.com.br/?utm_source=iconeChrome)
 
@@ -29,9 +31,6 @@ title: http://www.baixou.com.br/?utm_source=iconeChrome
 *  JS Response Bytes: 641300
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 93037
-
-### Performance issues
-
 
 ### Performance issues
 

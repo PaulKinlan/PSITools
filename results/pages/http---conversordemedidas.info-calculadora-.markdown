@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://conversordemedidas.info/calculadora/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Calculadora](http://conversordemedidas.info/calculadora/)
 
@@ -29,9 +31,6 @@ title: http://conversordemedidas.info/calculadora/
 *  JS Response Bytes: 31138
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 466
-
-### Performance issues
-
 
 ### Performance issues
 

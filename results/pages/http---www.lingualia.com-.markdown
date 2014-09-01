@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.lingualia.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Learn languages online with Lingualia](http://www.lingualia.com/)
 
@@ -29,9 +33,6 @@ title: http://www.lingualia.com/
 *  JS Response Bytes: 1649587
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 482811
-
-### Performance issues
-
 
 ### Performance issues
 

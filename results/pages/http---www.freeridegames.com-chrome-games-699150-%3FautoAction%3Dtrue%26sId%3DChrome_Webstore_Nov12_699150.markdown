@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/699150/?autoAction=true&sId=Chrome_Webstore_Nov12_699150
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Wedding Dash 4 - Ever for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/699150/?autoAction=true&sId=Chrome_Webstore_Nov12_699150)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/699150/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1493896
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43107
-
-### Performance issues
-
 
 ### Performance issues
 

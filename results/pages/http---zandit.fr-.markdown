@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://zandit.fr/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gollumelite mythe ou réalité ? | Zandit.fr nouveau-né de la gollumelite , un conflit d’une double personnalité sur un chemin déjà amorcé .](http://zandit.fr/)
 
@@ -29,9 +33,6 @@ title: http://zandit.fr/
 *  JS Response Bytes: 2767363
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 80883
-
-### Performance issues
-
 
 ### Performance issues
 

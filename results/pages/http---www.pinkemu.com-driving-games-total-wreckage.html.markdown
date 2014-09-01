@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.pinkemu.com/driving-games/total-wreckage.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TOTAL WRECKAGE | DRIVING GAMES](http://www.pinkemu.com/driving-games/total-wreckage.html)
 
@@ -29,9 +34,6 @@ title: http://www.pinkemu.com/driving-games/total-wreckage.html
 *  JS Response Bytes: 4052469
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 194638
-
-### Performance issues
-
 
 ### Performance issues
 

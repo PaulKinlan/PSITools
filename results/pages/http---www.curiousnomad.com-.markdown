@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.curiousnomad.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Curious Nomad](http://www.curiousnomad.com/)
 
@@ -29,9 +33,6 @@ title: http://www.curiousnomad.com/
 *  JS Response Bytes: 2167423
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54512
-
-### Performance issues
-
 
 ### Performance issues
 

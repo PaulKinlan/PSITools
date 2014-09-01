@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://invaders.hub09.it/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [HUB09 - HUBBLE Invaders](http://invaders.hub09.it/)
 
@@ -29,9 +33,6 @@ title: http://invaders.hub09.it/
 *  JS Response Bytes: 25821
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 639
-
-### Performance issues
-
 
 ### Performance issues
 

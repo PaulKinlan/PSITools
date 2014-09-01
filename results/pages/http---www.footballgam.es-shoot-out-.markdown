@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/shoot-out/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shoot Out Game](http://www.footballgam.es/shoot-out/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/shoot-out/
 *  JS Response Bytes: 2460542
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 149208
-
-### Performance issues
-
 
 ### Performance issues
 

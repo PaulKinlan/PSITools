@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/641750/?autoAction=true&sId=Chrome_Webstore_Nov12_641750
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Paradise Quest for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/641750/?autoAction=true&sId=Chrome_Webstore_Nov12_641750)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/641750/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1757306
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18791
-
-### Performance issues
-
 
 ### Performance issues
 

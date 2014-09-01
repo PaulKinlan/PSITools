@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/world-domination-1/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [World Domination 1](http://www.war-games.ws/world-domination-1/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/world-domination-1/
 *  JS Response Bytes: 2292851
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121658
-
-### Performance issues
-
 
 ### Performance issues
 

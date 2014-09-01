@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://nl1.bulletstar.com/home.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Bulletstar - Gratis Online Maffia Game](http://nl1.bulletstar.com/home.php)
 
@@ -29,9 +32,6 @@ title: http://nl1.bulletstar.com/home.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1140
-
-### Performance issues
-
 
 ### Performance issues
 

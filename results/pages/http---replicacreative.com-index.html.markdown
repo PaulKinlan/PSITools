@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://replicacreative.com/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [REPLICA CREATIVE](http://replicacreative.com/index.html)
 
@@ -29,9 +32,6 @@ title: http://replicacreative.com/index.html
 *  JS Response Bytes: 1248863
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33311
-
-### Performance issues
-
 
 ### Performance issues
 

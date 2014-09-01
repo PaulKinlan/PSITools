@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://app.apps-builder.com//562249#bmb=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [My Film Works](http://app.apps-builder.com//562249#bmb=1)
 
@@ -29,9 +33,6 @@ title: http://app.apps-builder.com//562249#bmb=1
 *  JS Response Bytes: 1107696
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2757
-
-### Performance issues
-
 
 ### Performance issues
 

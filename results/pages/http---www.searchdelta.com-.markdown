@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.searchdelta.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [SearchDelta - Web Research](http://www.searchdelta.com/)
 
@@ -29,9 +32,6 @@ title: http://www.searchdelta.com/
 *  JS Response Bytes: 735788
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1276
-
-### Performance issues
-
 
 ### Performance issues
 

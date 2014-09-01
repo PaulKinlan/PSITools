@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://weather.fullstacks.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [World Weather](http://weather.fullstacks.net/)
 
@@ -29,9 +36,6 @@ title: http://weather.fullstacks.net/
 *  JS Response Bytes: 873487
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54594
-
-### Performance issues
-
 
 ### Performance issues
 

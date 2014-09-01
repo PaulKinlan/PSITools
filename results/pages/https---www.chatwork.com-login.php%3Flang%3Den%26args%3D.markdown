@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.chatwork.com/login.php?lang=en&args=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ChatWork](https://www.chatwork.com/login.php?lang=en&args=)
 
@@ -29,9 +32,6 @@ title: https://www.chatwork.com/login.php?lang=en&args=
 *  JS Response Bytes: 220445
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 878
-
-### Performance issues
-
 
 ### Performance issues
 

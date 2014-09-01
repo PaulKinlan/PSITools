@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.risingcities.com/cws?aid=3306
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rising Cities: Free game fun for urban developers! Build your very own city.](http://www.risingcities.com/cws?aid=3306)
 
@@ -29,9 +34,6 @@ title: http://www.risingcities.com/cws?aid=3306
 *  JS Response Bytes: 1303562
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

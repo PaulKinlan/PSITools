@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.unionwebgames.com/game/drag-paper.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Drag Paper Games online](http://www.unionwebgames.com/game/drag-paper.html)
 
@@ -29,9 +35,6 @@ title: http://www.unionwebgames.com/game/drag-paper.html
 *  JS Response Bytes: 514136
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 592
-
-### Performance issues
-
 
 ### Performance issues
 

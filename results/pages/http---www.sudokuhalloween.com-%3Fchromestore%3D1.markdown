@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sudokuhalloween.com/?chromestore=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Halloween Sudoku](http://www.sudokuhalloween.com/?chromestore=1)
 
@@ -29,9 +34,6 @@ title: http://www.sudokuhalloween.com/?chromestore=1
 *  JS Response Bytes: 206832
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27536
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ntfusion.net/casual-games/save-papa.html?utm_campaign=save-papa&utm_medium=app&utm_source=cws
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
 ---
 ## [Save PAPA - NTFusion](http://www.ntfusion.net/casual-games/save-papa.html?utm_campaign=save-papa&utm_medium=app&utm_source=cws)
 
@@ -29,9 +32,6 @@ title: http://www.ntfusion.net/casual-games/save-papa.html?utm_campaign=save-pap
 *  JS Response Bytes: 1445240
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8732
-
-### Performance issues
-
 
 ### Performance issues
 

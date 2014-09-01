@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://guardianesdelapalabra.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Guardianes de la Palabra](http://guardianesdelapalabra.blogspot.com/?m=1)
 
@@ -29,9 +34,6 @@ title: http://guardianesdelapalabra.blogspot.com/?m=1
 *  JS Response Bytes: 2675896
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 294333
-
-### Performance issues
-
 
 ### Performance issues
 

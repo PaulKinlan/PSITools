@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://kfcdelivery.com.ph/downtime.php
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [](https://kfcdelivery.com.ph/downtime.php)
 
@@ -29,9 +31,6 @@ title: https://kfcdelivery.com.ph/downtime.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3888
-
-### Performance issues
-
 
 ### Performance issues
 

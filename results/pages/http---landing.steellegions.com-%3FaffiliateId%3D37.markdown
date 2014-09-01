@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://landing.steellegions.com/?affiliateId=37
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [STEEL LEGIONS - The 3D Action Multiplayer Game With Tanks](http://landing.steellegions.com/?affiliateId=37)
 
@@ -29,9 +34,6 @@ title: http://landing.steellegions.com/?affiliateId=37
 *  JS Response Bytes: 1455628
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1516
-
-### Performance issues
-
 
 ### Performance issues
 

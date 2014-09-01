@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://bbs.chatpad.jp/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ChatPad伝言掲示板](http://bbs.chatpad.jp/)
 
@@ -29,9 +33,6 @@ title: http://bbs.chatpad.jp/
 *  JS Response Bytes: 179740
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19737
-
-### Performance issues
-
 
 ### Performance issues
 

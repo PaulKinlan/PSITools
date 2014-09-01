@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://mafiastreetwars.com/login.php?pk_campaign=ChromeApp&pk_kwd=MainApp
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mafia Street Wars - Massive Multiplayer Online Role Playing Game - Login](http://mafiastreetwars.com/login.php?pk_campaign=ChromeApp&pk_kwd=MainApp)
 
@@ -29,9 +35,6 @@ title: http://mafiastreetwars.com/login.php?pk_campaign=ChromeApp&pk_kwd=MainApp
 *  JS Response Bytes: 1544765
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17270
-
-### Performance issues
-
 
 ### Performance issues
 

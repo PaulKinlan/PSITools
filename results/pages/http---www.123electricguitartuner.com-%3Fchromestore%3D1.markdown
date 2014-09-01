@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.123electricguitartuner.com/?chromestore=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Electric Guitar Tuner](http://www.123electricguitartuner.com/?chromestore=1)
 
@@ -29,9 +30,6 @@ title: http://www.123electricguitartuner.com/?chromestore=1
 *  JS Response Bytes: 161048
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

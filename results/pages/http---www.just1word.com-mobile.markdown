@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.just1word.com/mobile
+MinimizeRenderBlockingResources: true
 ---
 ## [The Holy Bible online | Free reading mobile Bible Verses | Mobile Bible Reader | Just1word](http://www.just1word.com/mobile)
 
@@ -29,9 +30,6 @@ title: http://www.just1word.com/mobile
 *  JS Response Bytes: 287042
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 546
-
-### Performance issues
-
 
 ### Performance issues
 

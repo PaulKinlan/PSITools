@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://placeblip.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Placeblip.com](http://placeblip.com/)
 
@@ -29,9 +31,6 @@ title: http://placeblip.com/
 *  JS Response Bytes: 97672
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://passport.sina.cn/signin/welcome?entry=mweibo&r=http%3A%2F%2Fm.weibo.cn%2F&wm=3349&vt=4
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
 ---
 ## [欢迎登录 - 新浪微博](https://passport.sina.cn/signin/welcome?entry=mweibo&r=http%3A%2F%2Fm.weibo.cn%2F&wm=3349&vt=4)
 
@@ -29,9 +33,6 @@ title: https://passport.sina.cn/signin/welcome?entry=mweibo&r=http%3A%2F%2Fm.wei
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2027
-
-### Performance issues
-
 
 ### Performance issues
 

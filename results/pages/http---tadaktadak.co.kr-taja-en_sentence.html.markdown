@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://tadaktadak.co.kr/taja/en_sentence.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [타닥타닥 타자연습 영어문장 연습](http://tadaktadak.co.kr/taja/en_sentence.html)
 
@@ -29,9 +35,6 @@ title: http://tadaktadak.co.kr/taja/en_sentence.html
 *  JS Response Bytes: 989162
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 66
-
-### Performance issues
-
 
 ### Performance issues
 

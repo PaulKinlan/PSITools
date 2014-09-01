@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/puzzles/rolly-stone-age
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rolly Stone Age - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/puzzles/rolly-stone-age)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/puzzles/rolly-stone-age
 *  JS Response Bytes: 2272397
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113567
-
-### Performance issues
-
 
 ### Performance issues
 

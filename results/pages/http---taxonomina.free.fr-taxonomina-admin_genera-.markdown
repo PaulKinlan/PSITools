@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://taxonomina.free.fr/taxonomina/admin_genera/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Taxonomina](http://taxonomina.free.fr/taxonomina/admin_genera/)
 
@@ -29,9 +34,6 @@ title: http://taxonomina.free.fr/taxonomina/admin_genera/
 *  JS Response Bytes: 4857109
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2310
-
-### Performance issues
-
 
 ### Performance issues
 

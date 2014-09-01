@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.xehon.com/app
+MinimizeRenderBlockingResources: true
 ---
 ## [Xehon](http://www.xehon.com/app)
 
@@ -29,9 +30,6 @@ title: http://www.xehon.com/app
 *  JS Response Bytes: 25832
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

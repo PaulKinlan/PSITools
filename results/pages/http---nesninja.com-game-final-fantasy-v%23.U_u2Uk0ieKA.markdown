@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://nesninja.com/game/final-fantasy-v#.U_u2Uk0ieKA
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Final Fantasy V » NES Ninja](http://nesninja.com/game/final-fantasy-v#.U_u2Uk0ieKA)
 
@@ -29,9 +32,6 @@ title: http://nesninja.com/game/final-fantasy-v#.U_u2Uk0ieKA
 *  JS Response Bytes: 2065483
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 183004
-
-### Performance issues
-
 
 ### Performance issues
 

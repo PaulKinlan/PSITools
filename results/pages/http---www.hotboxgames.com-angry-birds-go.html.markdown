@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.hotboxgames.com/angry-birds-go.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Go | Hot Box Games](http://www.hotboxgames.com/angry-birds-go.html)
 
@@ -29,9 +33,6 @@ title: http://www.hotboxgames.com/angry-birds-go.html
 *  JS Response Bytes: 1693784
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103905
-
-### Performance issues
-
 
 ### Performance issues
 

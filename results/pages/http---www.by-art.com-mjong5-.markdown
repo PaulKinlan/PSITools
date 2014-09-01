@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.by-art.com/mjong5/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mahjong solitaire](http://www.by-art.com/mjong5/)
 
@@ -29,9 +36,6 @@ title: http://www.by-art.com/mjong5/
 *  JS Response Bytes: 1465049
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 135330
-
-### Performance issues
-
 
 ### Performance issues
 

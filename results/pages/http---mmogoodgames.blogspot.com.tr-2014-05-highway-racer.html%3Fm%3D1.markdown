@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mmogoodgames.blogspot.com.tr/2014/05/highway-racer.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [MMO Good Games: Highway Racer](http://mmogoodgames.blogspot.com.tr/2014/05/highway-racer.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://mmogoodgames.blogspot.com.tr/2014/05/highway-racer.html?m=1
 *  JS Response Bytes: 1269407
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109966
-
-### Performance issues
-
 
 ### Performance issues
 

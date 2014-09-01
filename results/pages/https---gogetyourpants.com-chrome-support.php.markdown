@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://gogetyourpants.com/chrome/support.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Where to Play - Legend of Equip > Pants](https://gogetyourpants.com/chrome/support.php)
 
@@ -29,9 +33,6 @@ title: https://gogetyourpants.com/chrome/support.php
 *  JS Response Bytes: 41023
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 179
-
-### Performance issues
-
 
 ### Performance issues
 

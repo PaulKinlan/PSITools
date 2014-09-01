@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://newflashgameto.blogspot.com.tr/2014/07/sniper-sim-3d.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [NewflashgameTo: Sniper Sim 3D](http://newflashgameto.blogspot.com.tr/2014/07/sniper-sim-3d.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://newflashgameto.blogspot.com.tr/2014/07/sniper-sim-3d.html?m=1
 *  JS Response Bytes: 1162731
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110743
-
-### Performance issues
-
 
 ### Performance issues
 

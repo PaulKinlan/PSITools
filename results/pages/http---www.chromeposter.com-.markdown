@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.chromeposter.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ChromePoster.com - Google Chrome Themes](http://www.chromeposter.com/)
 
@@ -29,9 +32,6 @@ title: http://www.chromeposter.com/
 *  JS Response Bytes: 2473624
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331070
-
-### Performance issues
-
 
 ### Performance issues
 

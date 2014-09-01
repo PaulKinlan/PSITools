@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.hitingame.com/online-games/8-ball-quick-fire-pool/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [8 Ball Quick Fire Pool « Online Flash Games – Popular Flash Games](http://www.hitingame.com/online-games/8-ball-quick-fire-pool/)
 
@@ -29,9 +34,6 @@ title: http://www.hitingame.com/online-games/8-ball-quick-fire-pool/
 *  JS Response Bytes: 2152886
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58325
-
-### Performance issues
-
 
 ### Performance issues
 

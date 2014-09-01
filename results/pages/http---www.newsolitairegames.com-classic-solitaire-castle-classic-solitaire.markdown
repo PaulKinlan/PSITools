@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.newsolitairegames.com/classic-solitaire/castle-classic-solitaire
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Castle Classic Solitaire - Games - Play Free Online New Solitaire Games](http://www.newsolitairegames.com/classic-solitaire/castle-classic-solitaire)
 
@@ -29,9 +35,6 @@ title: http://www.newsolitairegames.com/classic-solitaire/castle-classic-solitai
 *  JS Response Bytes: 1169273
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16175
-
-### Performance issues
-
 
 ### Performance issues
 

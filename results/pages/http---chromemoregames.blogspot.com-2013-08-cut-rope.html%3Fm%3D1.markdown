@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromemoregames.blogspot.com/2013/08/cut-rope.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://chromemoregames.blogspot.com/2013/08/cut-rope.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromemoregames.blogspot.com/2013/08/cut-rope.html?m=1
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19277
-
-### Performance issues
-
 
 ### Performance issues
 

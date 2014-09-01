@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://papasfreezeriaonline.blogspot.com/2013/11/papas-freezeria-online.html?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Papa's freezeria online | Papa’s Freezeria Online](http://papasfreezeriaonline.blogspot.com/2013/11/papas-freezeria-online.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://papasfreezeriaonline.blogspot.com/2013/11/papas-freezeria-online.h
 *  JS Response Bytes: 2143307
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103001
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesol99.com/default-category/frozen-double-trouble
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Frozen Double Trouble - Gamesol99](http://www.gamesol99.com/default-category/frozen-double-trouble)
 
@@ -29,9 +34,6 @@ title: http://www.gamesol99.com/default-category/frozen-double-trouble
 *  JS Response Bytes: 1703052
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15614
-
-### Performance issues
-
 
 ### Performance issues
 

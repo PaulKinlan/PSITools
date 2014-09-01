@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://deepolismmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Deepolis](http://deepolismmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://deepolismmo.appspot.com/
 *  JS Response Bytes: 1032872
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 76914
-
-### Performance issues
-
 
 ### Performance issues
 

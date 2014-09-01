@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.metrico.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Metrico - la dashboard edile](https://www.metrico.org/)
 
@@ -29,9 +33,6 @@ title: https://www.metrico.org/
 *  JS Response Bytes: 114046
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21727
-
-### Performance issues
-
 
 ### Performance issues
 

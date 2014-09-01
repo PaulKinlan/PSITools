@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://papasgame.com/angry-birds-space.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404 - PAGE NOT FOUND](http://papasgame.com/angry-birds-space.html)
 
@@ -29,9 +35,6 @@ title: http://papasgame.com/angry-birds-space.html
 *  JS Response Bytes: 271851
 *  Flash Response Bytes: 43671
 *  Other Response Bytes: 13047
-
-### Performance issues
-
 
 ### Performance issues
 

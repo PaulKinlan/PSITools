@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.pygg.co/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Pygg](https://www.pygg.co/)
 
@@ -29,9 +31,6 @@ title: https://www.pygg.co/
 *  JS Response Bytes: 654053
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 659
-
-### Performance issues
-
 
 ### Performance issues
 

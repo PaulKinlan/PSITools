@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://wordgrid.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Wordgrid - A Free Scrambled Words Game](http://wordgrid.com/)
 
@@ -29,9 +34,6 @@ title: http://wordgrid.com/
 *  JS Response Bytes: 1243741
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14679
-
-### Performance issues
-
 
 ### Performance issues
 

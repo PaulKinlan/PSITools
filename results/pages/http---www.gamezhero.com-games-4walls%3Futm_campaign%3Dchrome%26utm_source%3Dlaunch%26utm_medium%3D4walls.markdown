@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamezhero.com/games/4walls?utm_campaign=chrome&utm_source=launch&utm_medium=4walls
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [4 Walls | Games | Free Online Games @ Gamezhero.com](http://www.gamezhero.com/games/4walls?utm_campaign=chrome&utm_source=launch&utm_medium=4walls)
 
@@ -29,9 +33,6 @@ title: http://www.gamezhero.com/games/4walls?utm_campaign=chrome&utm_source=laun
 *  JS Response Bytes: 2281626
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109406
-
-### Performance issues
-
 
 ### Performance issues
 

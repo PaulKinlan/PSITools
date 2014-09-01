@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.getonic.com/landingpages/shopify/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GETONIC | Sell your Shopify items on social networks](https://www.getonic.com/landingpages/shopify/)
 
@@ -29,9 +34,6 @@ title: https://www.getonic.com/landingpages/shopify/
 *  JS Response Bytes: 920753
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 69549
-
-### Performance issues
-
 
 ### Performance issues
 

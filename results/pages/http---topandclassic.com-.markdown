@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://topandclassic.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Top n' Classic](http://topandclassic.com/)
 
@@ -29,9 +33,6 @@ title: http://topandclassic.com/
 *  JS Response Bytes: 146117
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 77116
-
-### Performance issues
-
 
 ### Performance issues
 

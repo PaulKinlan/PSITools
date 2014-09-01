@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://xn--80aeahg6bm2a7b.xn--p1ai/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ЧатВдвоем.РФ | Анонимные знакомства рунета](http://xn--80aeahg6bm2a7b.xn--p1ai/)
 
@@ -29,9 +34,6 @@ title: http://xn--80aeahg6bm2a7b.xn--p1ai/
 *  JS Response Bytes: 344717
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1072
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.khanacademy.org/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Khan Academy](http://www.khanacademy.org/)
 
@@ -29,9 +31,6 @@ title: http://www.khanacademy.org/
 *  JS Response Bytes: 1466356
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 764
-
-### Performance issues
-
 
 ### Performance issues
 

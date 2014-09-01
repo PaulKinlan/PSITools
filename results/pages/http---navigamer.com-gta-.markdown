@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://navigamer.com/gta/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Grand Theft Auto V - GTA V](http://navigamer.com/gta/)
 
@@ -29,9 +32,6 @@ title: http://navigamer.com/gta/
 *  JS Response Bytes: 429651
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49035
-
-### Performance issues
-
 
 ### Performance issues
 

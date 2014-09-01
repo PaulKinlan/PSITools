@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://dagamingblog4u.blogspot.com/2013/11/diner-dash-4.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Gaming Blog: Diner Dash 4](http://dagamingblog4u.blogspot.com/2013/11/diner-dash-4.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://dagamingblog4u.blogspot.com/2013/11/diner-dash-4.html?m=1
 *  JS Response Bytes: 1121223
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96222
-
-### Performance issues
-
 
 ### Performance issues
 

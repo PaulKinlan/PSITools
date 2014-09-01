@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://oyunlar9.com/3d-motocross-nitro-yarisi-oyna.html?utm_source=ChromeWebStore&utm_medium=3DMotocrossNitroYarisi&utm_content=webapp&utm_campaign=kisayol
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Motocross Nitro Yarışı Oyna - Oyunlar 9](http://oyunlar9.com/3d-motocross-nitro-yarisi-oyna.html?utm_source=ChromeWebStore&utm_medium=3DMotocrossNitroYarisi&utm_content=webapp&utm_campaign=kisayol)
 
@@ -29,9 +35,6 @@ title: http://oyunlar9.com/3d-motocross-nitro-yarisi-oyna.html?utm_source=Chrome
 *  JS Response Bytes: 3464280
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 343022
-
-### Performance issues
-
 
 ### Performance issues
 

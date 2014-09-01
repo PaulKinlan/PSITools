@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://arcadechrome.com/gc/?g=677
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [Maths Frenzy](http://arcadechrome.com/gc/?g=677)
 
@@ -29,9 +34,6 @@ title: http://arcadechrome.com/gc/?g=677
 *  JS Response Bytes: 387898
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1471
-
-### Performance issues
-
 
 ### Performance issues
 

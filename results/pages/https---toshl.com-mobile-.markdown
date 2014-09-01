@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://toshl.com/mobile/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Toshl Finance](https://toshl.com/mobile/)
 
@@ -29,9 +31,6 @@ title: https://toshl.com/mobile/
 *  JS Response Bytes: 129343
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 539
-
-### Performance issues
-
 
 ### Performance issues
 

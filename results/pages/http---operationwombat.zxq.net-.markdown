@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://operationwombat.zxq.net/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Operation: Wombat](http://operationwombat.zxq.net/)
 
@@ -29,9 +32,6 @@ title: http://operationwombat.zxq.net/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

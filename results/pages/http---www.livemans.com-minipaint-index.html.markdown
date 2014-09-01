@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.livemans.com/minipaint/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [miniPaint](http://www.livemans.com/minipaint/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.livemans.com/minipaint/index.html
 *  JS Response Bytes: 806812
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3526
-
-### Performance issues
-
 
 ### Performance issues
 

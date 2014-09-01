@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.epuzzle.info/games.php?r=ca
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jigsaw puzzles - join the multiplayer game](http://www.epuzzle.info/games.php?r=ca)
 
@@ -29,9 +32,6 @@ title: http://www.epuzzle.info/games.php?r=ca
 *  JS Response Bytes: 834222
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 132498
-
-### Performance issues
-
 
 ### Performance issues
 

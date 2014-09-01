@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.bestgamesfree.co/Category/mario/
+UseLegibleFontSizes: true
 ---
 ## [](http://www.bestgamesfree.co/Category/mario/)
 
@@ -29,9 +30,6 @@ title: http://www.bestgamesfree.co/Category/mario/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

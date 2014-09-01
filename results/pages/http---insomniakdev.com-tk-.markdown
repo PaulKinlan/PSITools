@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://insomniakdev.com/tk/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tank War](http://insomniakdev.com/tk/)
 
@@ -29,9 +32,6 @@ title: http://insomniakdev.com/tk/
 *  JS Response Bytes: 449478
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 577
-
-### Performance issues
-
 
 ### Performance issues
 

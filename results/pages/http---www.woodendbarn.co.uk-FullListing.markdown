@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.woodendbarn.co.uk/FullListing
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Woodend Barn Banchory » Page not found](http://www.woodendbarn.co.uk/FullListing)
 
@@ -29,9 +32,6 @@ title: http://www.woodendbarn.co.uk/FullListing
 *  JS Response Bytes: 76912
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 67467
-
-### Performance issues
-
 
 ### Performance issues
 

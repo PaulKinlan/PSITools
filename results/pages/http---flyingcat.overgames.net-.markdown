@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://flyingcat.overgames.net/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flying Cat | by OverGames.net](http://flyingcat.overgames.net/)
 
@@ -29,9 +36,6 @@ title: http://flyingcat.overgames.net/
 *  JS Response Bytes: 1843761
 *  Flash Response Bytes: 237643
 *  Other Response Bytes: 98732
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.dovvnload-prg.blogspot.com/2014/01/proxomitron-adblock.html?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Download Prg: Proxomitron adblock](http://www.dovvnload-prg.blogspot.com/2014/01/proxomitron-adblock.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://www.dovvnload-prg.blogspot.com/2014/01/proxomitron-adblock.html?m=
 *  JS Response Bytes: 1146224
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95603
-
-### Performance issues
-
 
 ### Performance issues
 

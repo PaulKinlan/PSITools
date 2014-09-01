@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.atericom.com/airport-madness-4.html
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [atericom.com](http://www.atericom.com/airport-madness-4.html)
 
@@ -29,9 +31,6 @@ title: http://www.atericom.com/airport-madness-4.html
 *  JS Response Bytes: 229840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20813
-
-### Performance issues
-
 
 ### Performance issues
 

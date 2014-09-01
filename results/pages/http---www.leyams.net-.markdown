@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.leyams.net/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Jeu de Yams en ligne | Le YamS.net](http://www.leyams.net/)
 
@@ -29,9 +31,6 @@ title: http://www.leyams.net/
 *  JS Response Bytes: 991802
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95518
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://the-sims-fre.blogspot.com.tr/2014/04/cut-rope.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://the-sims-fre.blogspot.com.tr/2014/04/cut-rope.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://the-sims-fre.blogspot.com.tr/2014/04/cut-rope.html?m=1
 *  JS Response Bytes: 41101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19274
-
-### Performance issues
-
 
 ### Performance issues
 

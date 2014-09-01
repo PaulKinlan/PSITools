@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://amazingsgames.blogspot.com.tr/2014/06/lamborghini-3d.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Amazing Game: Lamborghini 3D](http://amazingsgames.blogspot.com.tr/2014/06/lamborghini-3d.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://amazingsgames.blogspot.com.tr/2014/06/lamborghini-3d.html?m=1
 *  JS Response Bytes: 1591002
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111037
-
-### Performance issues
-
 
 ### Performance issues
 

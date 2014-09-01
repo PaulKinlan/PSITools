@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gtasanandreaschrome.blogspot.com.tr/2014/03/gta-san-andreas.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [GTA SAN ANDREAS GAME: gta san andreas](http://gtasanandreaschrome.blogspot.com.tr/2014/03/gta-san-andreas.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://gtasanandreaschrome.blogspot.com.tr/2014/03/gta-san-andreas.html?m
 *  JS Response Bytes: 1549701
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99259
-
-### Performance issues
-
 
 ### Performance issues
 

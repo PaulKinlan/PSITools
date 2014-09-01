@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.myblobbox.com/en/epg/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
 ---
 ## [myBLOBbox Mobile](http://www.myblobbox.com/en/epg/)
 
@@ -29,9 +32,6 @@ title: http://www.myblobbox.com/en/epg/
 *  JS Response Bytes: 502638
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 319
-
-### Performance issues
-
 
 ### Performance issues
 

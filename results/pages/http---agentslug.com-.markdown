@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://agentslug.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Agent Slug - Website Monitoring Agent to your service](http://agentslug.com/)
 
@@ -29,9 +33,6 @@ title: http://agentslug.com/
 *  JS Response Bytes: 1226260
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.calvaryccm.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CCM - Welcome to Calvary Chapel Melbourne](http://www.calvaryccm.com/)
 
@@ -29,9 +35,6 @@ title: http://www.calvaryccm.com/
 *  JS Response Bytes: 1437643
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 224760
-
-### Performance issues
-
 
 ### Performance issues
 

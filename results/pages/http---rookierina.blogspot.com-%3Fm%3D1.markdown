@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://rookierina.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [菜鸟Rina](http://rookierina.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://rookierina.blogspot.com/?m=1
 *  JS Response Bytes: 314319
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 561
-
-### Performance issues
-
 
 ### Performance issues
 

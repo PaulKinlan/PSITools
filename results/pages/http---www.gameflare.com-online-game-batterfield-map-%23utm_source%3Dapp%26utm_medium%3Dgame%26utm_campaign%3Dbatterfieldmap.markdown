@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gameflare.com/online-game/batterfield-map/#utm_source=app&utm_medium=game&utm_campaign=batterfieldmap
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Batterfield Map - online game | GameFlare.com](http://www.gameflare.com/online-game/batterfield-map/#utm_source=app&utm_medium=game&utm_campaign=batterfieldmap)
 
@@ -29,9 +35,6 @@ title: http://www.gameflare.com/online-game/batterfield-map/#utm_source=app&utm_
 *  JS Response Bytes: 3031902
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 305653
-
-### Performance issues
-
 
 ### Performance issues
 

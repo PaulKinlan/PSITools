@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://playonl9.blogspot.com/2013/09/online-currency-converter-tool.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Online: Online Currency Converter Tool](http://playonl9.blogspot.com/2013/09/online-currency-converter-tool.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://playonl9.blogspot.com/2013/09/online-currency-converter-tool.html?
 *  JS Response Bytes: 2416211
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 289572
-
-### Performance issues
-
 
 ### Performance issues
 

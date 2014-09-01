@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.braingamess.com/pro-billiards.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pro Billiards | Brain Games Brain Games,Math games,Puzzle Games,Adult Brain Games,Brain Games For Adults](http://www.braingamess.com/pro-billiards.html)
 
@@ -29,9 +34,6 @@ title: http://www.braingamess.com/pro-billiards.html
 *  JS Response Bytes: 2030739
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112085
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.latestoffcampus.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Latest Jobs for Freshers | 2014 2013 2012 Passouts | Freshers IT Job Openings in India | Latest Off Campus Jobs Recruitment Drives | Walk-ins Job Fairs Pool Campus Drives for Freshers & Experienced Candidates | All India Government Job Openings Vacancies Notifications | Campus Placement Updates Placement Papers | Latestoffcampus.com | Campus Interviews Updates | Latest Jobs Software IT Jobs | Openings in BPO | Recruitments HR posts Technical Jobs | Banglore Hyderabad Chennai Pune Mumbai Delhi Gurgoan Mysore](http://www.latestoffcampus.com/)
 
@@ -29,9 +35,6 @@ title: http://www.latestoffcampus.com/
 *  JS Response Bytes: 1330983
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 129260
-
-### Performance issues
-
 
 ### Performance issues
 

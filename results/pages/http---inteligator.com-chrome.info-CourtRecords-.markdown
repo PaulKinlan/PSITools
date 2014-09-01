@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://inteligator.com-chrome.info/CourtRecords/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Court Records Search Court Records Search Court Records Search](http://inteligator.com-chrome.info/CourtRecords/)
 
@@ -29,9 +32,6 @@ title: http://inteligator.com-chrome.info/CourtRecords/
 *  JS Response Bytes: 68749
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2842
-
-### Performance issues
-
 
 ### Performance issues
 

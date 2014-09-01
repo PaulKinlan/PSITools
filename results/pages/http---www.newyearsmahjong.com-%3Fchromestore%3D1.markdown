@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.newyearsmahjong.com/?chromestore=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [New Years Mahjong](http://www.newyearsmahjong.com/?chromestore=1)
 
@@ -29,9 +32,6 @@ title: http://www.newyearsmahjong.com/?chromestore=1
 *  JS Response Bytes: 208253
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

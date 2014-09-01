@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.chronotasks.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ChronoTasks | Free task timer tool](http://www.chronotasks.com/)
 
@@ -29,9 +34,6 @@ title: http://www.chronotasks.com/
 *  JS Response Bytes: 1403946
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 91288
-
-### Performance issues
-
 
 ### Performance issues
 

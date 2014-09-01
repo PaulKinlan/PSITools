@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.thelastzombie.net/zombie-survival-3d/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombie Survival 3D](http://www.thelastzombie.net/zombie-survival-3d/)
 
@@ -29,9 +35,6 @@ title: http://www.thelastzombie.net/zombie-survival-3d/
 *  JS Response Bytes: 2535760
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 149350
-
-### Performance issues
-
 
 ### Performance issues
 

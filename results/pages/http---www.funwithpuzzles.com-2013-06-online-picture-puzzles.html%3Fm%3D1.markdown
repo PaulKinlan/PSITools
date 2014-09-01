@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.funwithpuzzles.com/2013/06/online-picture-puzzles.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Fun With Puzzles: Online Picture Puzzles](http://www.funwithpuzzles.com/2013/06/online-picture-puzzles.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://www.funwithpuzzles.com/2013/06/online-picture-puzzles.html?m=1
 *  JS Response Bytes: 1104216
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97998
-
-### Performance issues
-
 
 ### Performance issues
 

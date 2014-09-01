@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.todayvyesterday.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.todayvyesterday.com/)
 
@@ -29,9 +34,6 @@ title: http://www.todayvyesterday.com/
 *  JS Response Bytes: 387257
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

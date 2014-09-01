@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.taketwoapps.com/apps/book/lotto/book.html
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lottery Number Generator](http://www.taketwoapps.com/apps/book/lotto/book.html)
 
@@ -29,9 +33,6 @@ title: http://www.taketwoapps.com/apps/book/lotto/book.html
 *  JS Response Bytes: 553761
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

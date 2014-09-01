@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://notepad.funkywidgets.info/notepad.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Simple Notepad](http://notepad.funkywidgets.info/notepad.htm)
 
@@ -29,9 +35,6 @@ title: http://notepad.funkywidgets.info/notepad.htm
 *  JS Response Bytes: 589576
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97561
-
-### Performance issues
-
 
 ### Performance issues
 

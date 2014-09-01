@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gatakanasong.khjlab.com/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [KHJ어학연구소 히라가나 따라쓰기](http://gatakanasong.khjlab.com/)
 
@@ -29,9 +31,6 @@ title: http://gatakanasong.khjlab.com/
 *  JS Response Bytes: 1065900
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1449
-
-### Performance issues
-
 
 ### Performance issues
 

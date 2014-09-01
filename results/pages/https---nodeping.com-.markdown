@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://nodeping.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [NodePing Server Monitoring & Website Monitoring](https://nodeping.com/)
 
@@ -29,9 +33,6 @@ title: https://nodeping.com/
 *  JS Response Bytes: 2068052
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://sites.google.com/site/appearclub/italian-pizza-recipe
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Italian pizza Recipe - lineclub](https://sites.google.com/site/appearclub/italian-pizza-recipe)
 
@@ -29,9 +35,6 @@ title: https://sites.google.com/site/appearclub/italian-pizza-recipe
 *  JS Response Bytes: 1679160
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111320
-
-### Performance issues
-
 
 ### Performance issues
 

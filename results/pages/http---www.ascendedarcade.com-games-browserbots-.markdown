@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ascendedarcade.com/games/browserbots/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bionic Battle Browser Bots - A Free HTML5 Game](http://www.ascendedarcade.com/games/browserbots/)
 
@@ -29,9 +35,6 @@ title: http://www.ascendedarcade.com/games/browserbots/
 *  JS Response Bytes: 2162644
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 101767
-
-### Performance issues
-
 
 ### Performance issues
 

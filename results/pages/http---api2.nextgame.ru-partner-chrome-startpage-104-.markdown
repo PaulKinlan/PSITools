@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://api2.nextgame.ru/partner/chrome/startpage/104/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Покер с реальными соперниками](http://api2.nextgame.ru/partner/chrome/startpage/104/)
 
@@ -29,9 +31,6 @@ title: http://api2.nextgame.ru/partner/chrome/startpage/104/
 *  JS Response Bytes: 372815
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3357
-
-### Performance issues
-
 
 ### Performance issues
 

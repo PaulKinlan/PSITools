@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://rugby.popuz.com/home
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fantasy Rugby](http://rugby.popuz.com/home)
 
@@ -29,9 +34,6 @@ title: http://rugby.popuz.com/home
 *  JS Response Bytes: 736758
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20273
-
-### Performance issues
-
 
 ### Performance issues
 

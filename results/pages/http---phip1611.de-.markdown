@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://phip1611.de/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Phips Blog - phip1611](http://phip1611.de/)
 
@@ -29,9 +31,6 @@ title: http://phip1611.de/
 *  JS Response Bytes: 233015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 78370
-
-### Performance issues
-
 
 ### Performance issues
 

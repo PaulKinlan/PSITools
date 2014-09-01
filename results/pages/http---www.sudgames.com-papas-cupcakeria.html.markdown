@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.sudgames.com/papas-cupcakeria.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SuDGameS.Com | Flash Game | Flash Games | Top Games – Papa’s Cupcakeria](http://www.sudgames.com/papas-cupcakeria.html)
 
@@ -29,9 +35,6 @@ title: http://www.sudgames.com/papas-cupcakeria.html
 *  JS Response Bytes: 412515
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1065
-
-### Performance issues
-
 
 ### Performance issues
 

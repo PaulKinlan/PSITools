@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.simply-land.com/index_game.html
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [Simply-Land.com](http://www.simply-land.com/index_game.html)
 
@@ -29,9 +31,6 @@ title: http://www.simply-land.com/index_game.html
 *  JS Response Bytes: 238122
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 639
-
-### Performance issues
-
 
 ### Performance issues
 

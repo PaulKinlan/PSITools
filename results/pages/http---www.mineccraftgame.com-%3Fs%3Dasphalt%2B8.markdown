@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mineccraftgame.com/?s=asphalt+8
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Minecraft free play – Search Results – asphalt 8](http://www.mineccraftgame.com/?s=asphalt+8)
 
@@ -29,9 +34,6 @@ title: http://www.mineccraftgame.com/?s=asphalt+8
 *  JS Response Bytes: 663151
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14380
-
-### Performance issues
-
 
 ### Performance issues
 

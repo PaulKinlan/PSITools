@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.ujam.com/jamagram
+MinimizeRenderBlockingResources: true
 ---
 ## [Create – Send musical greetings – UJAM – Make your music.](http://www.ujam.com/jamagram)
 
@@ -29,9 +30,6 @@ title: http://www.ujam.com/jamagram
 *  JS Response Bytes: 1446760
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97063
-
-### Performance issues
-
 
 ### Performance issues
 

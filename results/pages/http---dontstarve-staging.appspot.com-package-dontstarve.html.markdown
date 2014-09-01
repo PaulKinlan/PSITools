@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://dontstarve-staging.appspot.com/package/dontstarve.html
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://dontstarve-staging.appspot.com/package/dontstarve.html)
 
@@ -29,9 +30,6 @@ title: http://dontstarve-staging.appspot.com/package/dontstarve.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 457
-
-### Performance issues
-
 
 ### Performance issues
 

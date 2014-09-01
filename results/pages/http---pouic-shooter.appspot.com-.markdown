@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://pouic-shooter.appspot.com/
+ServerResponseTime: true
 ---
 ## [Pouic Shooter](http://pouic-shooter.appspot.com/)
 
@@ -29,9 +30,6 @@ title: http://pouic-shooter.appspot.com/
 *  JS Response Bytes: 6268
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

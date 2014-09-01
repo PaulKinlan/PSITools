@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.bestgameplays.com/back-to-bed.html
+SizeTapTargetsAppropriately: true
 ---
 ## [bestgameplays.com](http://ww2.bestgameplays.com/back-to-bed.html)
 
@@ -29,9 +30,6 @@ title: http://ww2.bestgameplays.com/back-to-bed.html
 *  JS Response Bytes: 229837
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21043
-
-### Performance issues
-
 
 ### Performance issues
 

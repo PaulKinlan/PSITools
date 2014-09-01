@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://carboncopygames.com/games/index.php/acroblast/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Acroblast | Best acrophobia game online](http://carboncopygames.com/games/index.php/acroblast/)
 
@@ -29,9 +34,6 @@ title: http://carboncopygames.com/games/index.php/acroblast/
 *  JS Response Bytes: 1570050
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114208
-
-### Performance issues
-
 
 ### Performance issues
 

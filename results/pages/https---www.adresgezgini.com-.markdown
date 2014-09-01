@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.adresgezgini.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [AdresGezgini | Google AdWords Reklam Sertifikalı İş Ortağı 444 0 964](https://www.adresgezgini.com/)
 
@@ -29,9 +32,6 @@ title: https://www.adresgezgini.com/
 *  JS Response Bytes: 723802
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5521
-
-### Performance issues
-
 
 ### Performance issues
 

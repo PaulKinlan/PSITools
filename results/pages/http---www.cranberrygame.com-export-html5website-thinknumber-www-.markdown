@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.cranberrygame.com/export/html5website/thinknumber/www/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Think number](http://www.cranberrygame.com/export/html5website/thinknumber/www/)
 
@@ -29,9 +33,6 @@ title: http://www.cranberrygame.com/export/html5website/thinknumber/www/
 *  JS Response Bytes: 500746
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110677
-
-### Performance issues
-
 
 ### Performance issues
 

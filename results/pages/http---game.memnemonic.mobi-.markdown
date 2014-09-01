@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://game.memnemonic.mobi/
+MinimizeRenderBlockingResources: true
 ---
 ## [Me Mnemonic - action memory game](http://game.memnemonic.mobi/)
 
@@ -29,9 +30,6 @@ title: http://game.memnemonic.mobi/
 *  JS Response Bytes: 122863
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

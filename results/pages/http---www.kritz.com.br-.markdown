@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.kritz.com.br/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kritz | Encontre críticas, trailers e notícias dos filmes nos cinemas, locadoras e TV](http://www.kritz.com.br/)
 
@@ -29,9 +35,6 @@ title: http://www.kritz.com.br/
 *  JS Response Bytes: 1629487
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 62294
-
-### Performance issues
-
 
 ### Performance issues
 

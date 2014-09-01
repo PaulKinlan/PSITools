@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://notetab.co/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [notetab.co](http://notetab.co/)
 
@@ -29,9 +31,6 @@ title: http://notetab.co/
 *  JS Response Bytes: 704540
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

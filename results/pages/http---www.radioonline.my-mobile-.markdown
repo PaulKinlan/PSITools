@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.radioonline.my/mobile/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online radio Malaysia, live internet radio](http://www.radioonline.my/mobile/)
 
@@ -29,9 +32,6 @@ title: http://www.radioonline.my/mobile/
 *  JS Response Bytes: 1168198
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97722
-
-### Performance issues
-
 
 ### Performance issues
 

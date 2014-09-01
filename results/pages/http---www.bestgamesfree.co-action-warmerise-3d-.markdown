@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.bestgamesfree.co/action/warmerise-3d/
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.bestgamesfree.co/action/warmerise-3d/)
 
@@ -29,9 +31,6 @@ title: http://www.bestgamesfree.co/action/warmerise-3d/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

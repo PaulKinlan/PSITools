@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.sharedesk.net/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shared Office Space and Coworking | ShareDesk](http://www.sharedesk.net/)
 
@@ -29,9 +32,6 @@ title: http://www.sharedesk.net/
 *  JS Response Bytes: 998222
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 614
-
-### Performance issues
-
 
 ### Performance issues
 

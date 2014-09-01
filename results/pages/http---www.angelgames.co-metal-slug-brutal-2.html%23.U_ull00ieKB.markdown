@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.angelgames.co/metal-slug-brutal-2.html#.U_ull00ieKB
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Metal Slug Brutal 2, a free online game at Angel Games - Angel Games](http://www.angelgames.co/metal-slug-brutal-2.html#.U_ull00ieKB)
 
@@ -29,9 +36,6 @@ title: http://www.angelgames.co/metal-slug-brutal-2.html#.U_ull00ieKB
 *  JS Response Bytes: 1225960
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 80599
-
-### Performance issues
-
 
 ### Performance issues
 

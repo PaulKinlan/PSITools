@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://aygame.info/clash-of-clans/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AyGame.INFO Full HD Flash Game – Clash Of Clans](http://aygame.info/clash-of-clans/)
 
@@ -29,9 +34,6 @@ title: http://aygame.info/clash-of-clans/
 *  JS Response Bytes: 571936
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16399
-
-### Performance issues
-
 
 ### Performance issues
 

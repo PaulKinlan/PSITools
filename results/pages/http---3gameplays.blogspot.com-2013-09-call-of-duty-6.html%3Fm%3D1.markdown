@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://3gameplays.blogspot.com/2013/09/call-of-duty-6.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Free Games Play: call of duty 6](http://3gameplays.blogspot.com/2013/09/call-of-duty-6.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://3gameplays.blogspot.com/2013/09/call-of-duty-6.html?m=1
 *  JS Response Bytes: 1164798
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97327
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mobspyapp.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://mobspyapp.blogspot.com/?m=1)
 
@@ -29,9 +33,6 @@ title: http://mobspyapp.blogspot.com/?m=1
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18757
-
-### Performance issues
-
 
 ### Performance issues
 

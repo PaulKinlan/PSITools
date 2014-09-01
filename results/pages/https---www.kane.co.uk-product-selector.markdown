@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.kane.co.uk/product-selector
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Product Selector | Kane International Ltd](https://www.kane.co.uk/product-selector)
 
@@ -29,9 +32,6 @@ title: https://www.kane.co.uk/product-selector
 *  JS Response Bytes: 277122
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 213
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://app.onelogin.com/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [OneLogin](https://app.onelogin.com/login)
 
@@ -29,9 +34,6 @@ title: https://app.onelogin.com/login
 *  JS Response Bytes: 320056
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4599
-
-### Performance issues
-
 
 ### Performance issues
 

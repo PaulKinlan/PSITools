@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.infoscoop4g.com/portal/m_login.jsp
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [infoScoop for Google Apps](https://www.infoscoop4g.com/portal/m_login.jsp)
 
@@ -29,9 +32,6 @@ title: https://www.infoscoop4g.com/portal/m_login.jsp
 *  JS Response Bytes: 11354
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2066
-
-### Performance issues
-
 
 ### Performance issues
 

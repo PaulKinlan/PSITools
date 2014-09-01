@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.puzzlepuzzles.net/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jeux de puzzles et casse-tête à imprimer](http://www.puzzlepuzzles.net/)
 
@@ -29,9 +32,6 @@ title: http://www.puzzlepuzzles.net/
 *  JS Response Bytes: 1652725
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110837
-
-### Performance issues
-
 
 ### Performance issues
 

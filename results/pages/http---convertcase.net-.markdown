@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://convertcase.net/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Convert Case - Convert upper case to lower case, lower case to upper case and more!](http://convertcase.net/)
 
@@ -29,9 +31,6 @@ title: http://convertcase.net/
 *  JS Response Bytes: 1749080
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96930
-
-### Performance issues
-
 
 ### Performance issues
 

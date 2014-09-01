@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ifaxapp.com/web/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [iFax web (0)](http://www.ifaxapp.com/web/)
 
@@ -29,9 +34,6 @@ title: http://www.ifaxapp.com/web/
 *  JS Response Bytes: 3610775
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1384
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.chromecamp.de/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [chromecamp - Das BarCamp zu Google Chrome, Chrome OS und alles was damit zu tun hat.](http://www.chromecamp.de/)
 
@@ -29,9 +34,6 @@ title: http://www.chromecamp.de/
 *  JS Response Bytes: 1316397
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96437
-
-### Performance issues
-
 
 ### Performance issues
 

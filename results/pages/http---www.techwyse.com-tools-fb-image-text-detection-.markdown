@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.techwyse.com/tools/fb-image-text-detection/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Facebook Image Text Detection Tool | TechWyse Internet Marketing, Toronto](http://www.techwyse.com/tools/fb-image-text-detection/)
 
@@ -29,9 +34,6 @@ title: http://www.techwyse.com/tools/fb-image-text-detection/
 *  JS Response Bytes: 1470462
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63229
-
-### Performance issues
-
 
 ### Performance issues
 

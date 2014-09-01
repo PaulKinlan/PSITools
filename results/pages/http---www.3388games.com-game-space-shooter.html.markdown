@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.3388games.com/game/space-shooter.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Space Shooter - Skill Games - Play Free Online Games](http://www.3388games.com/game/space-shooter.html)
 
@@ -29,9 +36,6 @@ title: http://www.3388games.com/game/space-shooter.html
 *  JS Response Bytes: 513305
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 592
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://refynr.com/?=404;http://refynr.com:80/secure/account&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [refynr.com](http://refynr.com/?=404;http://refynr.com:80/secure/account&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://refynr.com/?=404;http://refynr.com:80/secure/account&reqp=1&reqr=
 *  JS Response Bytes: 304181
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 93
-
-### Performance issues
-
 
 ### Performance issues
 

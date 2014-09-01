@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.adamsguitar.com/chromeguitar/index.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Adams Virtual Guitar - Play Guitar Online](http://www.adamsguitar.com/chromeguitar/index.html)
 
@@ -29,9 +34,6 @@ title: http://www.adamsguitar.com/chromeguitar/index.html
 *  JS Response Bytes: 977688
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17004
-
-### Performance issues
-
 
 ### Performance issues
 

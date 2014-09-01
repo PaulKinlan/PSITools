@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mallshop777.com/governorofpoker/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Governor of Poker 2 Premium Edition - Play on PC](http://www.mallshop777.com/governorofpoker/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.mallshop777.com/governorofpoker/index.html
 *  JS Response Bytes: 398009
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

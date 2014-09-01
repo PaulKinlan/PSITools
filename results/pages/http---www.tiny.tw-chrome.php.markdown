@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.tiny.tw/chrome.php
+UseLegibleFontSizes: true
 ---
 ## [403 Forbidden](http://www.tiny.tw/chrome.php)
 
@@ -29,9 +30,6 @@ title: http://www.tiny.tw/chrome.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 729
-
-### Performance issues
-
 
 ### Performance issues
 

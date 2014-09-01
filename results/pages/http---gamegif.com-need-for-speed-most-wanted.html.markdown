@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamegif.com/need-for-speed-most-wanted.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GameGIF.Com – Need for Speed Most Wanted](http://gamegif.com/need-for-speed-most-wanted.html)
 
@@ -29,9 +35,6 @@ title: http://gamegif.com/need-for-speed-most-wanted.html
 *  JS Response Bytes: 408870
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51643
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://rodologistica.com/subway-surfers-for-pc/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://rodologistica.com/subway-surfers-for-pc/)
 
@@ -29,9 +30,6 @@ title: http://rodologistica.com/subway-surfers-for-pc/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 615
-
-### Performance issues
-
 
 ### Performance issues
 

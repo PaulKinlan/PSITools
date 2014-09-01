@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.bloomee.com/recentes
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Récentes | Bloomee - Culture générale](http://www.bloomee.com/recentes)
 
@@ -29,9 +34,6 @@ title: http://www.bloomee.com/recentes
 *  JS Response Bytes: 741759
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 37093
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.onestophealthcalculators.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BMI](http://www.onestophealthcalculators.com/)
 
@@ -29,9 +32,6 @@ title: http://www.onestophealthcalculators.com/
 *  JS Response Bytes: 438232
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

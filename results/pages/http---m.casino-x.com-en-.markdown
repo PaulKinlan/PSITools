@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.casino-x.com/en/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Casino-x.com](http://m.casino-x.com/en/)
 
@@ -29,9 +32,6 @@ title: http://m.casino-x.com/en/
 *  JS Response Bytes: 428331
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1634
-
-### Performance issues
-
 
 ### Performance issues
 

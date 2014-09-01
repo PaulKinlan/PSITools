@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://vteial.github.io/browserconsole/src/main/webapp/index.html#/webSql
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Browser Console](http://vteial.github.io/browserconsole/src/main/webapp/index.html#/webSql)
 
@@ -29,9 +32,6 @@ title: http://vteial.github.io/browserconsole/src/main/webapp/index.html#/webSql
 *  JS Response Bytes: 379117
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

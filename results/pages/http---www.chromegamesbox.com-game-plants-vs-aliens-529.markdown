@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chromegamesbox.com/game/plants-vs-aliens-529
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Plants Vs Aliens Game - Chrome Games Box](http://www.chromegamesbox.com/game/plants-vs-aliens-529)
 
@@ -29,9 +35,6 @@ title: http://www.chromegamesbox.com/game/plants-vs-aliens-529
 *  JS Response Bytes: 619821
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15447
-
-### Performance issues
-
 
 ### Performance issues
 

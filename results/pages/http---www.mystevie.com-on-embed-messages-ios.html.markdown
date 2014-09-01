@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mystevie.com/on/embed/messages/ios.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome to Stevie](http://www.mystevie.com/on/embed/messages/ios.html)
 
@@ -29,9 +34,6 @@ title: http://www.mystevie.com/on/embed/messages/ios.html
 *  JS Response Bytes: 395247
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 72
-
-### Performance issues
-
 
 ### Performance issues
 

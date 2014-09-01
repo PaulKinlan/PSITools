@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://yinghan-fanyi.herokuapp.com/
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [英汉翻译](http://yinghan-fanyi.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://yinghan-fanyi.herokuapp.com/
 *  JS Response Bytes: 1315169
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96716
-
-### Performance issues
-
 
 ### Performance issues
 

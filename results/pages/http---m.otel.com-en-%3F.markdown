@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://m.otel.com/en/?
+MinimizeRenderBlockingResources: true
 ---
 ## [Otel](http://m.otel.com/en/?)
 
@@ -29,9 +30,6 @@ title: http://m.otel.com/en/?
 *  JS Response Bytes: 343661
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2007
-
-### Performance issues
-
 
 ### Performance issues
 

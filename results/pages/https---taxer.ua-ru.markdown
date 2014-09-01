@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://taxer.ua/ru
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Taxer.ua — Налоговый справочник и сдача отчетов в пенсионный фонд и налоговую инспекцию онлайн](https://taxer.ua/ru)
 
@@ -29,9 +33,6 @@ title: https://taxer.ua/ru
 *  JS Response Bytes: 680805
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 152384
-
-### Performance issues
-
 
 ### Performance issues
 

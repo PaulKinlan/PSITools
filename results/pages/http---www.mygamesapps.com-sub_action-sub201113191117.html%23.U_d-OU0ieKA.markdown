@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.mygamesapps.com/sub_action/sub201113191117.html#.U_d-OU0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Halloween Hocus-Pocus_mygamesapps](http://www.mygamesapps.com/sub_action/sub201113191117.html#.U_d-OU0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.mygamesapps.com/sub_action/sub201113191117.html#.U_d-OU0ieKA
 *  JS Response Bytes: 733868
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3166
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.petrey.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Home Page](http://www.petrey.com/)
 
@@ -29,9 +33,6 @@ title: http://www.petrey.com/
 *  JS Response Bytes: 25896
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

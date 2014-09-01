@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.youtips777.com/sushichef/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Youda Sushi Chef - A fun time management game](http://www.youtips777.com/sushichef/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.youtips777.com/sushichef/index.html
 *  JS Response Bytes: 555263
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

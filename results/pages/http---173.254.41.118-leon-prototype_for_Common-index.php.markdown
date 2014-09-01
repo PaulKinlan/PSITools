@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://173.254.41.118/leon/prototype_for_Common/index.php
+SizeTapTargetsAppropriately: true
 ---
 ## [php-sdk](http://173.254.41.118/leon/prototype_for_Common/index.php)
 
@@ -29,9 +30,6 @@ title: http://173.254.41.118/leon/prototype_for_Common/index.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

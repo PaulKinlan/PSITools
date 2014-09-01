@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.andreamoretto.com/games/sunny/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sunny](http://www.andreamoretto.com/games/sunny/)
 
@@ -29,9 +34,6 @@ title: http://www.andreamoretto.com/games/sunny/
 *  JS Response Bytes: 411504
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

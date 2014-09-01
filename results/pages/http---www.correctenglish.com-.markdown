@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.correctenglish.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome to CorrectEnglish](http://www.correctenglish.com/)
 
@@ -29,9 +33,6 @@ title: http://www.correctenglish.com/
 *  JS Response Bytes: 513599
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30730
-
-### Performance issues
-
 
 ### Performance issues
 

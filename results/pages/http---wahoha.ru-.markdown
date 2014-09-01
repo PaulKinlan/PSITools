@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://wahoha.ru/
+MinimizeRenderBlockingResources: true
 ---
 ## [wahoha.ru - wahoha Resources and Information. This website is for sale!](http://wahoha.ru/)
 
@@ -29,9 +30,6 @@ title: http://wahoha.ru/
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

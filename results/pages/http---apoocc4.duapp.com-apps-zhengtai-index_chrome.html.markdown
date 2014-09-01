@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://apoocc4.duapp.com/apps/zhengtai/index_chrome.html
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [阿普创新制造](http://apoocc4.duapp.com/apps/zhengtai/index_chrome.html)
 
@@ -29,9 +31,6 @@ title: http://apoocc4.duapp.com/apps/zhengtai/index_chrome.html
 *  JS Response Bytes: 98188
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

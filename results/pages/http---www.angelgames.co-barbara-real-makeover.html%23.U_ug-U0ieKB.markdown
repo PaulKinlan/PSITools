@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.angelgames.co/barbara-real-makeover.html#.U_ug-U0ieKB
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Barbara Real Makeover, a free online game at Angel Games - Angel Games](http://www.angelgames.co/barbara-real-makeover.html#.U_ug-U0ieKB)
 
@@ -29,9 +36,6 @@ title: http://www.angelgames.co/barbara-real-makeover.html#.U_ug-U0ieKB
 *  JS Response Bytes: 1147644
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 92217
-
-### Performance issues
-
 
 ### Performance issues
 

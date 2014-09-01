@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://clothing.sizeconversion.net/clothing
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Cloth Size Conversion](http://clothing.sizeconversion.net/clothing)
 
@@ -29,9 +32,6 @@ title: http://clothing.sizeconversion.net/clothing
 *  JS Response Bytes: 263244
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

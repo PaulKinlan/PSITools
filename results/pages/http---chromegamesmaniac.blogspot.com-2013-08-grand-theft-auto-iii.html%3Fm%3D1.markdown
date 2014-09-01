@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromegamesmaniac.blogspot.com/2013/08/grand-theft-auto-iii.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [chromegamesmaniac: Grand Theft Auto III](http://chromegamesmaniac.blogspot.com/2013/08/grand-theft-auto-iii.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chromegamesmaniac.blogspot.com/2013/08/grand-theft-auto-iii.html?m
 *  JS Response Bytes: 1068022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98007
-
-### Performance issues
-
 
 ### Performance issues
 

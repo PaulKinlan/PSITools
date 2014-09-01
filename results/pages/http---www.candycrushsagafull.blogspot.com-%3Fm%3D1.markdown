@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.candycrushsagafull.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [lisdjofdiiufwa](http://www.candycrushsagafull.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://www.candycrushsagafull.blogspot.com/?m=1
 *  JS Response Bytes: 788564
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287130
-
-### Performance issues
-
 
 ### Performance issues
 

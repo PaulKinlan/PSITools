@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://kickresume.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Create your original resume online for free. | Kickresume](http://kickresume.com/)
 
@@ -29,9 +33,6 @@ title: http://kickresume.com/
 *  JS Response Bytes: 972282
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 800
-
-### Performance issues
-
 
 ### Performance issues
 

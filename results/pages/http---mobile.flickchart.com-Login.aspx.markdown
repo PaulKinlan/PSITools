@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://mobile.flickchart.com/Login.aspx
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Flickchart Mobile - for iPhone, Android, Blackberry, Palm, & Handhelds](http://mobile.flickchart.com/Login.aspx)
 
@@ -29,9 +35,6 @@ title: http://mobile.flickchart.com/Login.aspx
 *  JS Response Bytes: 221239
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 873
-
-### Performance issues
-
 
 ### Performance issues
 

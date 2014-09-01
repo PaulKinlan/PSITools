@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://online-calculator-app.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Calculator](http://online-calculator-app.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://online-calculator-app.appspot.com/
 *  JS Response Bytes: 2165820
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111954
-
-### Performance issues
-
 
 ### Performance issues
 

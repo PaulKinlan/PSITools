@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamesatanic.com/default-category/8-ball-pool-multiplayer
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [8 Ball Pool Multiplayer - Gamesatanic](http://www.gamesatanic.com/default-category/8-ball-pool-multiplayer)
 
@@ -29,9 +33,6 @@ title: http://www.gamesatanic.com/default-category/8-ball-pool-multiplayer
 *  JS Response Bytes: 3612736
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 154741
-
-### Performance issues
-
 
 ### Performance issues
 

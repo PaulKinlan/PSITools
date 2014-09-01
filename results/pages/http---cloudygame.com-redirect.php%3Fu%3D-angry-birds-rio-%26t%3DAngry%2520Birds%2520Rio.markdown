@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://cloudygame.com/redirect.php?u=/angry-birds-rio/&t=Angry%20Birds%20Rio
+UseLegibleFontSizes: true
 ---
 ## [Redirecting to the game](http://cloudygame.com/redirect.php?u=/angry-birds-rio/&t=Angry%20Birds%20Rio)
 
@@ -29,9 +30,6 @@ title: http://cloudygame.com/redirect.php?u=/angry-birds-rio/&t=Angry%20Birds%20
 *  JS Response Bytes: 27117
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7445
-
-### Performance issues
-
 
 ### Performance issues
 

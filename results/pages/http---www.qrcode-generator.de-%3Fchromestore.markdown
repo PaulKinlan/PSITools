@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.qrcode-generator.de/?chromestore
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [QR Code Generator - Erstellen Sie hier kostenlos QR Codes](http://www.qrcode-generator.de/?chromestore)
 
@@ -29,9 +33,6 @@ title: http://www.qrcode-generator.de/?chromestore
 *  JS Response Bytes: 635930
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28513
-
-### Performance issues
-
 
 ### Performance issues
 

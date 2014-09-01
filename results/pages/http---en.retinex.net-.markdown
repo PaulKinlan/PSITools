@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://en.retinex.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Retinex.net - The online photo editor such as photoshop online](http://en.retinex.net/)
 
@@ -29,9 +34,6 @@ title: http://en.retinex.net/
 *  JS Response Bytes: 2023120
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19343
-
-### Performance issues
-
 
 ### Performance issues
 

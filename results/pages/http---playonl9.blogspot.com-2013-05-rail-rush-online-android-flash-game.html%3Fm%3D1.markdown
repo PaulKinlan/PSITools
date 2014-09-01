@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playonl9.blogspot.com/2013/05/rail-rush-online-android-flash-game.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Online: Rail rush Online Android Flash Game](http://playonl9.blogspot.com/2013/05/rail-rush-online-android-flash-game.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playonl9.blogspot.com/2013/05/rail-rush-online-android-flash-game.
 *  JS Response Bytes: 2357425
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 288826
-
-### Performance issues
-
 
 ### Performance issues
 

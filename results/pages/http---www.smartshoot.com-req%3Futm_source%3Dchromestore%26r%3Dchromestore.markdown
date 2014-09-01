@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.smartshoot.com/req?utm_source=chromestore&r=chromestore
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Get Started | SmartShoot | SmartShoot connects you with professional photographers and videographers who compete for your business. Let us help you find a pro](http://www.smartshoot.com/req?utm_source=chromestore&r=chromestore)
 
@@ -29,9 +32,6 @@ title: http://www.smartshoot.com/req?utm_source=chromestore&r=chromestore
 *  JS Response Bytes: 819555
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23263
-
-### Performance issues
-
 
 ### Performance issues
 

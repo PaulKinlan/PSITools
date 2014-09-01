@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://pdf-merger.egedsoft.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [PDF-Merger - Drag and Merge](http://pdf-merger.egedsoft.com/)
 
@@ -29,9 +31,6 @@ title: http://pdf-merger.egedsoft.com/
 *  JS Response Bytes: 1388693
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16257
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.schieb.de/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [schieb.de | Blog, Tipps, Ratgeber und mehr](http://www.schieb.de/)
 
@@ -29,9 +34,6 @@ title: http://www.schieb.de/
 *  JS Response Bytes: 1957956
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18480
-
-### Performance issues
-
 
 ### Performance issues
 

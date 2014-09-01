@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.drogbaster.it/prenota_voli_low_cost.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Prenota voli Low Cost e Last Minute](http://www.drogbaster.it/prenota_voli_low_cost.htm)
 
@@ -29,9 +33,6 @@ title: http://www.drogbaster.it/prenota_voli_low_cost.htm
 *  JS Response Bytes: 2502086
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 123403
-
-### Performance issues
-
 
 ### Performance issues
 

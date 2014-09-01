@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://angrygamez.com/adventure/bill-run-3d
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bill Run 3D - Angry Gamez Best Games](http://angrygamez.com/adventure/bill-run-3d)
 
@@ -29,9 +35,6 @@ title: http://angrygamez.com/adventure/bill-run-3d
 *  JS Response Bytes: 2017800
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 337237
-
-### Performance issues
-
 
 ### Performance issues
 

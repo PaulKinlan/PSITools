@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.iteryours.com/businessdocuments/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [6000 Professionally Written & Ready-To-Use Business Documents & Letters](http://www.iteryours.com/businessdocuments/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.iteryours.com/businessdocuments/index.html
 *  JS Response Bytes: 936204
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109057
-
-### Performance issues
-
 
 ### Performance issues
 

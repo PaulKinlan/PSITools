@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://hearthstats.net/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [HearthStats | Hearthstone Statistics and Tracking](http://hearthstats.net/)
 
@@ -29,9 +33,6 @@ title: http://hearthstats.net/
 *  JS Response Bytes: 1150461
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141066
-
-### Performance issues
-
 
 ### Performance issues
 

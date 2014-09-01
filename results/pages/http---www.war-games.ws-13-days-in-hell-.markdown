@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.war-games.ws/13-days-in-hell/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [13 Days in Hell](http://www.war-games.ws/13-days-in-hell/)
 
@@ -29,9 +36,6 @@ title: http://www.war-games.ws/13-days-in-hell/
 *  JS Response Bytes: 2357575
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102717
-
-### Performance issues
-
 
 ### Performance issues
 

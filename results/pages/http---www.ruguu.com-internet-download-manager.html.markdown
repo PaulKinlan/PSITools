@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ruguu.com/internet-download-manager.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ruguu APP Center – Internet Download Manager](http://www.ruguu.com/internet-download-manager.html)
 
@@ -29,9 +34,6 @@ title: http://www.ruguu.com/internet-download-manager.html
 *  JS Response Bytes: 878595
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17286
-
-### Performance issues
-
 
 ### Performance issues
 

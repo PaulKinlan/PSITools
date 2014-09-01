@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://games-eh.com/?=404;http://games-eh.com:80/action/splitman&reqp=1&reqr=
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [games-eh.com](http://games-eh.com/?=404;http://games-eh.com:80/action/splitman&reqp=1&reqr=)
 
@@ -29,9 +34,6 @@ title: http://games-eh.com/?=404;http://games-eh.com:80/action/splitman&reqp=1&r
 *  JS Response Bytes: 304181
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 365
-
-### Performance issues
-
 
 ### Performance issues
 

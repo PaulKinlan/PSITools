@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.spielz.com/games/game/name/pokemon-tower-defenses
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [pokemon-tower-defenses spiele](http://www.spielz.com/games/game/name/pokemon-tower-defenses)
 
@@ -29,9 +34,6 @@ title: http://www.spielz.com/games/game/name/pokemon-tower-defenses
 *  JS Response Bytes: 1862186
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97725
-
-### Performance issues
-
 
 ### Performance issues
 

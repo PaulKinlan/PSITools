@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://motorgate.jp/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ログイン | MOTORGATE](https://motorgate.jp/)
 
@@ -29,9 +34,6 @@ title: https://motorgate.jp/
 *  JS Response Bytes: 240522
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

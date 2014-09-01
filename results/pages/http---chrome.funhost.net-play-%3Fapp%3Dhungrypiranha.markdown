@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://chrome.funhost.net/play/?app=hungrypiranha
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Hungry Piranha - Game on Fun Host Games!](http://chrome.funhost.net/play/?app=hungrypiranha)
 
@@ -29,9 +34,6 @@ title: http://chrome.funhost.net/play/?app=hungrypiranha
 *  JS Response Bytes: 3439063
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41247
-
-### Performance issues
-
 
 ### Performance issues
 

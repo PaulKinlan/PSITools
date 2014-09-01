@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.girlgamescenter.com/index.php?task=view&id=155
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CLUELESS - Girl Games Center](http://www.girlgamescenter.com/index.php?task=view&id=155)
 
@@ -29,9 +34,6 @@ title: http://www.girlgamescenter.com/index.php?task=view&id=155
 *  JS Response Bytes: 829375
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27418
-
-### Performance issues
-
 
 ### Performance issues
 

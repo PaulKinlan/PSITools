@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.kingofgamez.com/poppit.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [POPPİT | King of Gamez](http://www.kingofgamez.com/poppit.html)
 
@@ -29,9 +33,6 @@ title: http://www.kingofgamez.com/poppit.html
 *  JS Response Bytes: 897930
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14902
-
-### Performance issues
-
 
 ### Performance issues
 

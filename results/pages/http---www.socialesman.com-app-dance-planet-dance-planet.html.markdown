@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.socialesman.com/app/dance-planet/dance-planet.html
+MinimizeRenderBlockingResources: true
 ---
 ## [Clone doesnt have this page](http://www.socialesman.com/app/dance-planet/dance-planet.html)
 
@@ -29,9 +30,6 @@ title: http://www.socialesman.com/app/dance-planet/dance-planet.html
 *  JS Response Bytes: 824763
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97412
-
-### Performance issues
-
 
 ### Performance issues
 

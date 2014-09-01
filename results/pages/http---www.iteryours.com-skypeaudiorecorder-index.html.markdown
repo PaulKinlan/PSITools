@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.iteryours.com/skypeaudiorecorder/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [How to Record Skype Call and Voice Conversation - Skype Audio Recorder](http://www.iteryours.com/skypeaudiorecorder/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.iteryours.com/skypeaudiorecorder/index.html
 *  JS Response Bytes: 934187
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109056
-
-### Performance issues
-
 
 ### Performance issues
 

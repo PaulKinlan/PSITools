@@ -33,8 +33,5 @@ title: http://ww17.tookieapp.net/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

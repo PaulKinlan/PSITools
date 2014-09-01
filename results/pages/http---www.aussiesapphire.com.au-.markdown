@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.aussiesapphire.com.au/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Aussie Sapphire, Specialists in Lapidary Supply](http://www.aussiesapphire.com.au/)
 
@@ -29,9 +34,6 @@ title: http://www.aussiesapphire.com.au/
 *  JS Response Bytes: 512247
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 809
-
-### Performance issues
-
 
 ### Performance issues
 

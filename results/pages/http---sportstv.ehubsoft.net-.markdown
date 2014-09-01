@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://sportstv.ehubsoft.net/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sports TV Live, Podcast](http://sportstv.ehubsoft.net/)
 
@@ -29,9 +35,6 @@ title: http://sportstv.ehubsoft.net/
 *  JS Response Bytes: 639710
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14832
-
-### Performance issues
-
 
 ### Performance issues
 

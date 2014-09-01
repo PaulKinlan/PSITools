@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://app.salesclic.com/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SalesClic](https://app.salesclic.com/login)
 
@@ -29,9 +33,6 @@ title: https://app.salesclic.com/login
 *  JS Response Bytes: 2297691
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96226
-
-### Performance issues
-
 
 ### Performance issues
 

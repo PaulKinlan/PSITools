@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ericstamps.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Eric Stamps New Media | Web Graphic Logo & Mobile Design](http://ericstamps.com/)
 
@@ -29,9 +32,6 @@ title: http://ericstamps.com/
 *  JS Response Bytes: 745752
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2843
-
-### Performance issues
-
 
 ### Performance issues
 

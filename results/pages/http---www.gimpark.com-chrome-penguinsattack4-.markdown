@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.gimpark.com/chrome/penguinsattack4/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gimpark.com](http://www.gimpark.com/chrome/penguinsattack4/)
 
@@ -29,9 +31,6 @@ title: http://www.gimpark.com/chrome/penguinsattack4/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

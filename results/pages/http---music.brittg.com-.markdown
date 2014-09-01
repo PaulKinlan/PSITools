@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://music.brittg.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Music Music Revolution](http://music.brittg.com/)
 
@@ -29,9 +34,6 @@ title: http://music.brittg.com/
 *  JS Response Bytes: 225693
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://nickpresta.ca/?referrer=chrome-web-store
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Nick Presta](http://nickpresta.ca/?referrer=chrome-web-store)
 
@@ -29,9 +31,6 @@ title: http://nickpresta.ca/?referrer=chrome-web-store
 *  JS Response Bytes: 25557
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

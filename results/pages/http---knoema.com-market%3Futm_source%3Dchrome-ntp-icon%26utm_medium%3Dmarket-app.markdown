@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://knoema.com/market?utm_source=chrome-ntp-icon&utm_medium=market-app
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Data projects, communication, earning money – Marketplace - knoema.com](http://knoema.com/market?utm_source=chrome-ntp-icon&utm_medium=market-app)
 
@@ -29,9 +34,6 @@ title: http://knoema.com/market?utm_source=chrome-ntp-icon&utm_medium=market-app
 *  JS Response Bytes: 3646248
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 145368
-
-### Performance issues
-
 
 ### Performance issues
 

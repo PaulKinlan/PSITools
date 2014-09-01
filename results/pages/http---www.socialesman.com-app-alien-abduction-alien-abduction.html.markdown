@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.socialesman.com/app/alien-abduction/alien-abduction.html
+MinimizeRenderBlockingResources: true
 ---
 ## [Clone doesnt have this page](http://www.socialesman.com/app/alien-abduction/alien-abduction.html)
 
@@ -29,9 +30,6 @@ title: http://www.socialesman.com/app/alien-abduction/alien-abduction.html
 *  JS Response Bytes: 824764
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97407
-
-### Performance issues
-
 
 ### Performance issues
 

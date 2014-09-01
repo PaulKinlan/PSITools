@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://apsgam.com/banana-kong/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [APS GAME – Banana Kong](http://apsgam.com/banana-kong/)
 
@@ -29,9 +34,6 @@ title: http://apsgam.com/banana-kong/
 *  JS Response Bytes: 1035286
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15172
-
-### Performance issues
-
 
 ### Performance issues
 

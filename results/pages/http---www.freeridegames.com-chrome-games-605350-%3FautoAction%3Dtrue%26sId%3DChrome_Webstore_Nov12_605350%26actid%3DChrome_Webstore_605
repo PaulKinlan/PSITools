@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/605350/?autoAction=true&sId=Chrome_Webstore_Nov12_605350&actid=Chrome_Webstore_605350
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Magic Encyclopedia for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/605350/?autoAction=true&sId=Chrome_Webstore_Nov12_605350&actid=Chrome_Webstore_605350)
 
@@ -29,9 +34,6 @@ title: http://www.freeridegames.com/chrome/games/605350/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1324987
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17528
-
-### Performance issues
-
 
 ### Performance issues
 

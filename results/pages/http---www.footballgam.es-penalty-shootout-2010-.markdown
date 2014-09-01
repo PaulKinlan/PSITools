@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/penalty-shootout-2010/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Penalty Shootout 2010 Game](http://www.footballgam.es/penalty-shootout-2010/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/penalty-shootout-2010/
 *  JS Response Bytes: 2296893
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156052
-
-### Performance issues
-
 
 ### Performance issues
 

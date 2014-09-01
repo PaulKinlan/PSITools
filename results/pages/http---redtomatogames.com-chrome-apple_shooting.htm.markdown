@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://redtomatogames.com/chrome/apple_shooting.htm
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Apple Shooting - This online game is so addictive -](http://redtomatogames.com/chrome/apple_shooting.htm)
 
@@ -29,9 +35,6 @@ title: http://redtomatogames.com/chrome/apple_shooting.htm
 *  JS Response Bytes: 733240
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22070
-
-### Performance issues
-
 
 ### Performance issues
 

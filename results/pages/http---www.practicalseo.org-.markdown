@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.practicalseo.org/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Practical SEO | Online Marketing & SEO Company](http://www.practicalseo.org/)
 
@@ -29,9 +33,6 @@ title: http://www.practicalseo.org/
 *  JS Response Bytes: 161122
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

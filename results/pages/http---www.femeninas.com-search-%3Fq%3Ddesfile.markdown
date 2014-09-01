@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.femeninas.com/search/?q=desfile
+MinimizeRenderBlockingResources: true
 ---
 ## [Page Not Found - femeninas.com](http://www.femeninas.com/search/?q=desfile)
 
@@ -29,9 +30,6 @@ title: http://www.femeninas.com/search/?q=desfile
 *  JS Response Bytes: 512381
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 93819
-
-### Performance issues
-
 
 ### Performance issues
 

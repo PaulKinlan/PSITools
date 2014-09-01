@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.freshjobadda.com/apps/Klondike/index.html
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://www.freshjobadda.com/apps/Klondike/index.html)
 
@@ -29,9 +30,6 @@ title: http://www.freshjobadda.com/apps/Klondike/index.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 603
-
-### Performance issues
-
 
 ### Performance issues
 

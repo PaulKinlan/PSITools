@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.absgames.info/?s=min&x=0&y=0
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online free best games – Search Results – min](http://www.absgames.info/?s=min&x=0&y=0)
 
@@ -29,9 +34,6 @@ title: http://www.absgames.info/?s=min&x=0&y=0
 *  JS Response Bytes: 676139
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15447
-
-### Performance issues
-
 
 ### Performance issues
 

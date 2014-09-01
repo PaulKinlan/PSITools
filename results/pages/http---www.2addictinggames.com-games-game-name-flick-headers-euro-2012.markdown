@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/game/name/flick-headers-euro-2012
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [flick-headers-euro-2012 Addicting Games](http://www.2addictinggames.com/games/game/name/flick-headers-euro-2012)
 
@@ -29,9 +36,6 @@ title: http://www.2addictinggames.com/games/game/name/flick-headers-euro-2012
 *  JS Response Bytes: 1970864
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97403
-
-### Performance issues
-
 
 ### Performance issues
 

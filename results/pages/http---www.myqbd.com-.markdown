@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.myqbd.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Home Page | Qatar Business Directory | Yellow Pages Qatar](http://www.myqbd.com/)
 
@@ -29,9 +33,6 @@ title: http://www.myqbd.com/
 *  JS Response Bytes: 299460
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

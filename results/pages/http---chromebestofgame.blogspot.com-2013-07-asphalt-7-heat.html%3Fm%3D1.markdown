@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromebestofgame.blogspot.com/2013/07/asphalt-7-heat.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://chromebestofgame.blogspot.com/2013/07/asphalt-7-heat.html?m=1)
 
@@ -18,20 +21,17 @@ title: http://chromebestofgame.blogspot.com/2013/07/asphalt-7-heat.html?m=1
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 1084
+*  Total Request Bytes: 1086
 
 ### Response data
 
 *  HTML Response Bytes: 0
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 46653
-*  Image Response Bytes: 2951
+*  Image Response Bytes: 2950
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 18827
-
-### Performance issues
-
+*  Other Response Bytes: 18826
 
 ### Performance issues
 

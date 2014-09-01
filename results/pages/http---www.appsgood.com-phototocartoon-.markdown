@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.appsgood.com/phototocartoon/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Photo Cartonizer](http://www.appsgood.com/phototocartoon/)
 
@@ -29,9 +32,6 @@ title: http://www.appsgood.com/phototocartoon/
 *  JS Response Bytes: 391206
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

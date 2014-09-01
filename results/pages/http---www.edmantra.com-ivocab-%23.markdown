@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.edmantra.com/ivocab/#
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [GRE edMantra - Practice unlimited GRE Quizzes for free](http://www.edmantra.com/ivocab/#)
 
@@ -29,9 +34,6 @@ title: http://www.edmantra.com/ivocab/#
 *  JS Response Bytes: 1714286
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20293
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.playbestpuzzlegames.com/mahjong-games/mahjong-ace
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mahjong Ace - Games - Free Online Play Best Puzzle Games](http://www.playbestpuzzlegames.com/mahjong-games/mahjong-ace)
 
@@ -29,9 +35,6 @@ title: http://www.playbestpuzzlegames.com/mahjong-games/mahjong-ace
 *  JS Response Bytes: 979721
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17067
-
-### Performance issues
-
 
 ### Performance issues
 

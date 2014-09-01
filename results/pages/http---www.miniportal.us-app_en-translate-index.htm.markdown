@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.miniportal.us/app_en/translate/index.htm
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TRANSLATE](http://www.miniportal.us/app_en/translate/index.htm)
 
@@ -29,9 +32,6 @@ title: http://www.miniportal.us/app_en/translate/index.htm
 *  JS Response Bytes: 545308
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14690
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://copan.mipymes.info/mobile/login.php
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Copan Login](http://copan.mipymes.info/mobile/login.php)
 
@@ -29,9 +32,6 @@ title: http://copan.mipymes.info/mobile/login.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63
-
-### Performance issues
-
 
 ### Performance issues
 

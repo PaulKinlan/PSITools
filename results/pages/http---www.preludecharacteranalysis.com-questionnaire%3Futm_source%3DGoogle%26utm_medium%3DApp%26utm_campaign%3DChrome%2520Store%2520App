@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.preludecharacteranalysis.com/questionnaire?utm_source=Google&utm_medium=App&utm_campaign=Chrome%20Store%20App
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Take the Character Analysis | Prelude Character Analysis](http://www.preludecharacteranalysis.com/questionnaire?utm_source=Google&utm_medium=App&utm_campaign=Chrome%20Store%20App)
 
@@ -29,9 +33,6 @@ title: http://www.preludecharacteranalysis.com/questionnaire?utm_source=Google&u
 *  JS Response Bytes: 208792
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52183
-
-### Performance issues
-
 
 ### Performance issues
 

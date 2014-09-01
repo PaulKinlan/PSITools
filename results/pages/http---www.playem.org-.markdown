@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.playem.org/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play'em](http://www.playem.org/)
 
@@ -29,9 +35,6 @@ title: http://www.playem.org/
 *  JS Response Bytes: 655510
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1163
-
-### Performance issues
-
 
 ### Performance issues
 

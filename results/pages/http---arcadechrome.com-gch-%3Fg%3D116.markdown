@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://arcadechrome.com/gch/?g=116
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [T.A.N.K.S.](http://arcadechrome.com/gch/?g=116)
 
@@ -29,9 +35,6 @@ title: http://arcadechrome.com/gch/?g=116
 *  JS Response Bytes: 1512652
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39371
-
-### Performance issues
-
 
 ### Performance issues
 

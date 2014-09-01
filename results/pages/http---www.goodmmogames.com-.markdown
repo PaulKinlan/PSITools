@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.goodmmogames.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Good MMORPG and MMO Games - GOODMMOGAMES.COM](http://www.goodmmogames.com/)
 
@@ -29,9 +34,6 @@ title: http://www.goodmmogames.com/
 *  JS Response Bytes: 1077931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106411
-
-### Performance issues
-
 
 ### Performance issues
 

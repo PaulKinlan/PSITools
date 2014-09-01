@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://livetvsapp.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://livetvsapp.blogspot.com/?m=1)
 
@@ -24,14 +27,11 @@ title: http://livetvsapp.blogspot.com/?m=1
 
 *  HTML Response Bytes: 0
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 46653
+*  CSS Response Bytes: 46652
 *  Image Response Bytes: 2951
-*  JS Response Bytes: 41102
+*  JS Response Bytes: 41101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18752
-
-### Performance issues
-
 
 ### Performance issues
 

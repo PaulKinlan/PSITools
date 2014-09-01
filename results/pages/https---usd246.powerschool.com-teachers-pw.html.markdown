@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://usd246.powerschool.com/teachers/pw.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [PowerTeacher](https://usd246.powerschool.com/teachers/pw.html)
 
@@ -29,9 +32,6 @@ title: https://usd246.powerschool.com/teachers/pw.html
 *  JS Response Bytes: 557747
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

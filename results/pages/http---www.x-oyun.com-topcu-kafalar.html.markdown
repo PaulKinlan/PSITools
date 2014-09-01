@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.x-oyun.com/topcu-kafalar.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nothing found for Topcu-Kafalar](http://www.x-oyun.com/topcu-kafalar.html)
 
@@ -29,9 +33,6 @@ title: http://www.x-oyun.com/topcu-kafalar.html
 *  JS Response Bytes: 187891
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7011
-
-### Performance issues
-
 
 ### Performance issues
 

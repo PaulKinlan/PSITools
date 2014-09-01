@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://ps.eagleschools.net/public/home.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Parent Sign In](https://ps.eagleschools.net/public/home.html)
 
@@ -29,9 +32,6 @@ title: https://ps.eagleschools.net/public/home.html
 *  JS Response Bytes: 112758
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 359
-
-### Performance issues
-
 
 ### Performance issues
 

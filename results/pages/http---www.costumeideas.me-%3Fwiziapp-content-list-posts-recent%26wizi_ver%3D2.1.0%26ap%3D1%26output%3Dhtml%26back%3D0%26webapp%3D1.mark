@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.costumeideas.me/?wiziapp/content/list/posts/recent&wizi_ver=2.1.0&ap=1&output=html&back=0&webapp=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Costume Ideas](http://www.costumeideas.me/?wiziapp/content/list/posts/recent&wizi_ver=2.1.0&ap=1&output=html&back=0&webapp=1)
 
@@ -29,9 +31,6 @@ title: http://www.costumeideas.me/?wiziapp/content/list/posts/recent&wizi_ver=2.
 *  JS Response Bytes: 995209
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 224
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gamefaro.info/popular-games/noodle-restaurant
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [play online games](http://www.gamefaro.info/popular-games/noodle-restaurant)
 
@@ -29,9 +32,6 @@ title: http://www.gamefaro.info/popular-games/noodle-restaurant
 *  JS Response Bytes: 407554
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1692
-
-### Performance issues
-
 
 ### Performance issues
 

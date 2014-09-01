@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://blight.ironhelmet.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blight of the Immortals. Strategy, Fantasy, Zombies!](http://blight.ironhelmet.com/)
 
@@ -29,9 +34,6 @@ title: http://blight.ironhelmet.com/
 *  JS Response Bytes: 853913
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98338
-
-### Performance issues
-
 
 ### Performance issues
 

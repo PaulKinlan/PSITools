@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.webkinz.com/mobile_apps.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Welcome to Webkinz™ - a Ganz website](http://www.webkinz.com/mobile_apps.html)
 
@@ -29,9 +31,6 @@ title: http://www.webkinz.com/mobile_apps.html
 *  JS Response Bytes: 134612
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331
-
-### Performance issues
-
 
 ### Performance issues
 

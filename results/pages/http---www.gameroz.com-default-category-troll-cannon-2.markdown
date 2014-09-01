@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameroz.com/default-category/troll-cannon-2
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Troll Cannon 2 - Gameroz.com](http://www.gameroz.com/default-category/troll-cannon-2)
 
@@ -29,9 +34,6 @@ title: http://www.gameroz.com/default-category/troll-cannon-2
 *  JS Response Bytes: 3250779
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100066
-
-### Performance issues
-
 
 ### Performance issues
 

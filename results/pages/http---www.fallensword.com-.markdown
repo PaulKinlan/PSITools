@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fallensword.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fallen Sword 2.49 - Massively Multiplayer Online RPG (MMORPG)](http://www.fallensword.com/)
 
@@ -29,9 +32,6 @@ title: http://www.fallensword.com/
 *  JS Response Bytes: 1201341
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

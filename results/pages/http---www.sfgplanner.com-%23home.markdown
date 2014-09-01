@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.sfgplanner.com/#home
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SFG Planner - Design Square Foot Garden online](http://www.sfgplanner.com/#home)
 
@@ -29,9 +32,6 @@ title: http://www.sfgplanner.com/#home
 *  JS Response Bytes: 1000445
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17199
-
-### Performance issues
-
 
 ### Performance issues
 

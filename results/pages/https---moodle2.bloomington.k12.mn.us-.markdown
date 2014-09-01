@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://moodle2.bloomington.k12.mn.us/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bloomington Public Schools](https://moodle2.bloomington.k12.mn.us/)
 
@@ -29,9 +31,6 @@ title: https://moodle2.bloomington.k12.mn.us/
 *  JS Response Bytes: 412451
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 538
-
-### Performance issues
-
 
 ### Performance issues
 

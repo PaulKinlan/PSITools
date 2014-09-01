@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://kidozgames.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [KIDO'Z Games | Great games for kids](http://kidozgames.com/)
 
@@ -29,9 +34,6 @@ title: http://kidozgames.com/
 *  JS Response Bytes: 760234
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1690
-
-### Performance issues
-
 
 ### Performance issues
 

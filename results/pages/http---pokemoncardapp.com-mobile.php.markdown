@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://pokemoncardapp.com/mobile.php
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Pokemon Card Maker App](http://pokemoncardapp.com/mobile.php)
 
@@ -29,9 +32,6 @@ title: http://pokemoncardapp.com/mobile.php
 *  JS Response Bytes: 411294
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 748
-
-### Performance issues
-
 
 ### Performance issues
 

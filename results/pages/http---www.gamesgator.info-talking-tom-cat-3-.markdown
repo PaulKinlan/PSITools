@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.info/talking-tom-cat-3/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Talking Tom Cat 3](http://www.gamesgator.info/talking-tom-cat-3/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.info/talking-tom-cat-3/
 *  JS Response Bytes: 1083562
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39928
-
-### Performance issues
-
 
 ### Performance issues
 

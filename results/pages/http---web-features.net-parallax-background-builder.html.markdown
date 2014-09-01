@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://web-features.net/parallax-background-builder.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Web Features - Parallax Background Builder](http://web-features.net/parallax-background-builder.html)
 
@@ -29,9 +34,6 @@ title: http://web-features.net/parallax-background-builder.html
 *  JS Response Bytes: 1434688
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95817
-
-### Performance issues
-
 
 ### Performance issues
 

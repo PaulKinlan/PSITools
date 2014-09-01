@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://m.rara.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [rara music](https://m.rara.com/)
 
@@ -29,9 +32,6 @@ title: https://m.rara.com/
 *  JS Response Bytes: 502278
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 79019
-
-### Performance issues
-
 
 ### Performance issues
 

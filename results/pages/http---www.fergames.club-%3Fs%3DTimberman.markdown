@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fergames.club/?s=Timberman
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Timberman – Search Results – Online Best Games](http://www.fergames.club/?s=Timberman)
 
@@ -29,9 +34,6 @@ title: http://www.fergames.club/?s=Timberman
 *  JS Response Bytes: 561080
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

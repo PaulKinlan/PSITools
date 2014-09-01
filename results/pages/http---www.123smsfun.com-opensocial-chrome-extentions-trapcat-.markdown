@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.123smsfun.com/opensocial/chrome/extentions/trapcat/
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Trap the cat on google Chrome](http://www.123smsfun.com/opensocial/chrome/extentions/trapcat/)
 
@@ -29,9 +32,6 @@ title: http://www.123smsfun.com/opensocial/chrome/extentions/trapcat/
 *  JS Response Bytes: 369646
 *  Flash Response Bytes: 13643
 *  Other Response Bytes: 2000
-
-### Performance issues
-
 
 ### Performance issues
 

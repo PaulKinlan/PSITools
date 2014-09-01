@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.flashnoticias.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Flashnoticias.net](http://www.flashnoticias.net/)
 
@@ -29,9 +32,6 @@ title: http://www.flashnoticias.net/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

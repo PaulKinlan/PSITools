@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://spydrwebz.be/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Spydr Webz |](http://spydrwebz.be/)
 
@@ -29,9 +32,6 @@ title: http://spydrwebz.be/
 *  JS Response Bytes: 1143998
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16615
-
-### Performance issues
-
 
 ### Performance issues
 

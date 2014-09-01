@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ilikeapplication.com/webcammax/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Web Cam Max - Add thousands of fantastic effects to webcam video for your live chats and recording.](http://www.ilikeapplication.com/webcammax/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.ilikeapplication.com/webcammax/index.html
 *  JS Response Bytes: 911323
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111793
-
-### Performance issues
-
 
 ### Performance issues
 

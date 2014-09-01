@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.allangrygames.com/angry-games
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [allangrygames.com](http://www.allangrygames.com/angry-games)
 
@@ -29,9 +31,6 @@ title: http://www.allangrygames.com/angry-games
 *  JS Response Bytes: 229840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20813
-
-### Performance issues
-
 
 ### Performance issues
 

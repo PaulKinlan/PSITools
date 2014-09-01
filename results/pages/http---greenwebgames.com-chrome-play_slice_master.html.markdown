@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://greenwebgames.com/chrome/play_slice_master.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Veggie Ninja - This online game is so addictive -](http://greenwebgames.com/chrome/play_slice_master.html)
 
@@ -29,9 +34,6 @@ title: http://greenwebgames.com/chrome/play_slice_master.html
 *  JS Response Bytes: 1036542
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11091
-
-### Performance issues
-
 
 ### Performance issues
 

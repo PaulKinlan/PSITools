@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.frivin.com/friv-game/stickman-games
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stickman Games | Friv And Friv Games More Online Friv Game](http://www.frivin.com/friv-game/stickman-games)
 
@@ -29,9 +33,6 @@ title: http://www.frivin.com/friv-game/stickman-games
 *  JS Response Bytes: 526848
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17286
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://thais-soft.com/options.html
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Thais-Hotel: Configuration](http://thais-soft.com/options.html)
 
@@ -29,9 +31,6 @@ title: http://thais-soft.com/options.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55
-
-### Performance issues
-
 
 ### Performance issues
 

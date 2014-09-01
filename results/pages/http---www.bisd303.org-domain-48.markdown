@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.bisd303.org/domain/48
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Staff Directory / Home](http://www.bisd303.org/domain/48)
 
@@ -29,9 +32,6 @@ title: http://www.bisd303.org/domain/48
 *  JS Response Bytes: 687927
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 174
-
-### Performance issues
-
 
 ### Performance issues
 

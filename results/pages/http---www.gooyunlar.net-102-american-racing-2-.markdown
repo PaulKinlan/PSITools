@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.gooyunlar.net/102/american-racing-2/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gooyunlar.net](http://www.gooyunlar.net/102/american-racing-2/)
 
@@ -29,9 +31,6 @@ title: http://www.gooyunlar.net/102/american-racing-2/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

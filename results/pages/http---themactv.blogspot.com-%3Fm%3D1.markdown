@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://themactv.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mac TV Watch Live TV On Macintosh Computer](http://themactv.blogspot.com/?m=1)
 
@@ -29,9 +33,6 @@ title: http://themactv.blogspot.com/?m=1
 *  JS Response Bytes: 1605079
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98220
-
-### Performance issues
-
 
 ### Performance issues
 

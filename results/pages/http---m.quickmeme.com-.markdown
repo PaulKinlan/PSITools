@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://m.quickmeme.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [quickmeme: the funniest page on the internet](http://m.quickmeme.com/)
 
@@ -29,9 +30,6 @@ title: http://m.quickmeme.com/
 *  JS Response Bytes: 895355
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15852
-
-### Performance issues
-
 
 ### Performance issues
 

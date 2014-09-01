@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://endpermian.com/football/football.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [League Star Football - A 3D football game with career mode!](http://endpermian.com/football/football.html)
 
@@ -29,9 +33,6 @@ title: http://endpermian.com/football/football.html
 *  JS Response Bytes: 152601
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

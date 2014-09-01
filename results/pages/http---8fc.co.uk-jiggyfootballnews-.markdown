@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://8fc.co.uk/jiggyfootballnews/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jiggy Football News](http://8fc.co.uk/jiggyfootballnews/)
 
@@ -29,9 +34,6 @@ title: http://8fc.co.uk/jiggyfootballnews/
 *  JS Response Bytes: 1151186
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29486
-
-### Performance issues
-
 
 ### Performance issues
 

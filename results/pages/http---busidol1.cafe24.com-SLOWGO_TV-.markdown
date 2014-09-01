@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://busidol1.cafe24.com/SLOWGO_TV/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [무궁화 꽃이 피었습니다.](http://busidol1.cafe24.com/SLOWGO_TV/)
 
@@ -29,9 +33,6 @@ title: http://busidol1.cafe24.com/SLOWGO_TV/
 *  JS Response Bytes: 255694
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1112
-
-### Performance issues
-
 
 ### Performance issues
 

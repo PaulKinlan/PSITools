@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://piece-or.monnaie.me/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Piece or](http://piece-or.monnaie.me/)
 
@@ -29,9 +34,6 @@ title: http://piece-or.monnaie.me/
 *  JS Response Bytes: 431862
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1745
-
-### Performance issues
-
 
 ### Performance issues
 

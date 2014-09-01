@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.testveda.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Papers | TestVeda](http://www.testveda.com/)
 
@@ -29,9 +32,6 @@ title: http://www.testveda.com/
 *  JS Response Bytes: 1253678
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 603
-
-### Performance issues
-
 
 ### Performance issues
 

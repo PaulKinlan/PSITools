@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.mzbox.com/onlinegames/action/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Action Games - Play Action Games Online](http://www.mzbox.com/onlinegames/action/)
 
@@ -29,9 +35,6 @@ title: http://www.mzbox.com/onlinegames/action/
 *  JS Response Bytes: 422863
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

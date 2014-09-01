@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://latexlab-sandbox.appspot.com/start
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://latexlab-sandbox.appspot.com/start)
 
@@ -29,9 +30,6 @@ title: http://latexlab-sandbox.appspot.com/start
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 439
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.fashiolista.com/my_style/
+SizeContentToViewport: true
 ---
 ## [FASHIOLISTA | Error 404](http://www.fashiolista.com/my_style/)
 
@@ -29,9 +30,6 @@ title: http://www.fashiolista.com/my_style/
 *  JS Response Bytes: 66954
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5523
-
-### Performance issues
-
 
 ### Performance issues
 

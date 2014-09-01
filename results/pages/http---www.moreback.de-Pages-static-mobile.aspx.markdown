@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.moreback.de/Pages/static/mobile.aspx
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [moreBACK](http://www.moreback.de/Pages/static/mobile.aspx)
 
@@ -29,9 +33,6 @@ title: http://www.moreback.de/Pages/static/mobile.aspx
 *  JS Response Bytes: 559833
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 618
-
-### Performance issues
-
 
 ### Performance issues
 

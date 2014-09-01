@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://numerics-calculator.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Numerics Calculator](http://numerics-calculator.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://numerics-calculator.appspot.com/
 *  JS Response Bytes: 691016
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16513
-
-### Performance issues
-
 
 ### Performance issues
 

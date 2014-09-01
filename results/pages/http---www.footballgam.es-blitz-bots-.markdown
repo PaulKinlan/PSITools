@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/blitz-bots/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blitz Bots Game](http://www.footballgam.es/blitz-bots/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/blitz-bots/
 *  JS Response Bytes: 2295642
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155393
-
-### Performance issues
-
 
 ### Performance issues
 

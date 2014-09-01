@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://h100000667.education.scholastic.com/src/loader/src_login.html?cb=1386782645787;0.794784558012388
+MinimizeRenderBlockingResources: true
 ---
 ## [Scholastic Reading Counts!](https://h100000667.education.scholastic.com/src/loader/src_login.html?cb=1386782645787;0.794784558012388)
 
@@ -29,9 +30,6 @@ title: https://h100000667.education.scholastic.com/src/loader/src_login.html?cb=
 *  JS Response Bytes: 11084
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

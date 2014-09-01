@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://nesninja.com/game/battle-city#.U_eD8k0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Battle City » NES Ninja](http://nesninja.com/game/battle-city#.U_eD8k0ieKA)
 
@@ -29,9 +34,6 @@ title: http://nesninja.com/game/battle-city#.U_eD8k0ieKA
 *  JS Response Bytes: 2323538
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 176343
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://grumpogames.com/tmp/GoogleDocs/
+ServerResponseTime: true
 ---
 ## [](http://grumpogames.com/tmp/GoogleDocs/)
 
@@ -29,9 +30,6 @@ title: http://grumpogames.com/tmp/GoogleDocs/
 *  JS Response Bytes: 11014
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

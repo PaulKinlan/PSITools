@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sesamehq.com/welcome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Welcome | Sesame](https://sesamehq.com/welcome)
 
@@ -29,9 +32,6 @@ title: https://sesamehq.com/welcome
 *  JS Response Bytes: 250656
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 328
-
-### Performance issues
-
 
 ### Performance issues
 

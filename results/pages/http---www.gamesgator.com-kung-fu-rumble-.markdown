@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.com/kung-fu-rumble/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kung Fu Rumble](http://www.gamesgator.com/kung-fu-rumble/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.com/kung-fu-rumble/
 *  JS Response Bytes: 1083702
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45804
-
-### Performance issues
-
 
 ### Performance issues
 

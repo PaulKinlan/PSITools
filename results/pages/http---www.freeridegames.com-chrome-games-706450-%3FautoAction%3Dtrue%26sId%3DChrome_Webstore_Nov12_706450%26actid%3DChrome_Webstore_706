@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/706450/?autoAction=true&sId=Chrome_Webstore_Nov12_706450&actid=Chrome_Webstore_706450
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Build It Green: Back to the Beach for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/706450/?autoAction=true&sId=Chrome_Webstore_Nov12_706450&actid=Chrome_Webstore_706450)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/706450/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1677194
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34714
-
-### Performance issues
-
 
 ### Performance issues
 

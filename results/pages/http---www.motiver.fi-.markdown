@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.motiver.fi/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Motiver](http://www.motiver.fi/)
 
@@ -29,9 +32,6 @@ title: http://www.motiver.fi/
 *  JS Response Bytes: 130617
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

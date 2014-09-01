@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.info/talking-angela/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Talking Angela](http://www.gamesgator.info/talking-angela/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.info/talking-angela/
 *  JS Response Bytes: 958900
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 67006
-
-### Performance issues
-
 
 ### Performance issues
 

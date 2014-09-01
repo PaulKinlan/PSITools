@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.physicsgames.tk/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Physics Games!](http://www.physicsgames.tk/?m=1)
 
@@ -29,9 +30,6 @@ title: http://www.physicsgames.tk/?m=1
 *  JS Response Bytes: 804168
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1154
-
-### Performance issues
-
 
 ### Performance issues
 

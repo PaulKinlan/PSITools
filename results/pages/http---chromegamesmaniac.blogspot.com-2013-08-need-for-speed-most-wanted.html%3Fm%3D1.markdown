@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chromegamesmaniac.blogspot.com/2013/08/need-for-speed-most-wanted.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [chromegamesmaniac: Need for Speed Most Wanted](http://chromegamesmaniac.blogspot.com/2013/08/need-for-speed-most-wanted.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://chromegamesmaniac.blogspot.com/2013/08/need-for-speed-most-wanted.
 *  JS Response Bytes: 1067667
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98015
-
-### Performance issues
-
 
 ### Performance issues
 

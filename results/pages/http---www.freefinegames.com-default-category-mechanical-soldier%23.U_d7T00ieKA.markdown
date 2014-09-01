@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.freefinegames.com/default-category/mechanical-soldier#.U_d7T00ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mechanical Soldier - Free Fine GaMeS - Free Online Flash Games](http://www.freefinegames.com/default-category/mechanical-soldier#.U_d7T00ieKA)
 
@@ -29,9 +36,6 @@ title: http://www.freefinegames.com/default-category/mechanical-soldier#.U_d7T00
 *  JS Response Bytes: 1164647
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34819
-
-### Performance issues
-
 
 ### Performance issues
 

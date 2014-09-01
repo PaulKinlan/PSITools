@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://newbestfreeonlinegame.blogspot.com/2013/11/extreme-road-trip-2.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [New Best Free Online Game: Extreme Road Trip 2](http://newbestfreeonlinegame.blogspot.com/2013/11/extreme-road-trip-2.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://newbestfreeonlinegame.blogspot.com/2013/11/extreme-road-trip-2.htm
 *  JS Response Bytes: 1259889
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96199
-
-### Performance issues
-
 
 ### Performance issues
 

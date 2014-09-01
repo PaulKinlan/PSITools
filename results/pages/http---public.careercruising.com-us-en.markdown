@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://public.careercruising.com/us/en
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Career Cruising](http://public.careercruising.com/us/en)
 
@@ -29,9 +33,6 @@ title: http://public.careercruising.com/us/en
 *  JS Response Bytes: 685979
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11596
-
-### Performance issues
-
 
 ### Performance issues
 

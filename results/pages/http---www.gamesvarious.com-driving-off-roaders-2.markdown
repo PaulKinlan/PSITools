@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/driving/off-roaders-2
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Off Roaders 2 - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/driving/off-roaders-2)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/driving/off-roaders-2
 *  JS Response Bytes: 2272353
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99475
-
-### Performance issues
-
 
 ### Performance issues
 

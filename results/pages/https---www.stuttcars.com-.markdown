@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.stuttcars.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stuttcars.com – all the Porsches of the world](https://www.stuttcars.com/)
 
@@ -29,9 +33,6 @@ title: https://www.stuttcars.com/
 *  JS Response Bytes: 846179
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 257
-
-### Performance issues
-
 
 ### Performance issues
 

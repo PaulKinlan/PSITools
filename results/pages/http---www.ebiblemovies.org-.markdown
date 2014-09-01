@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ebiblemovies.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bible Movies Online](http://www.ebiblemovies.org/)
 
@@ -29,9 +32,6 @@ title: http://www.ebiblemovies.org/
 *  JS Response Bytes: 1139607
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2178
-
-### Performance issues
-
 
 ### Performance issues
 

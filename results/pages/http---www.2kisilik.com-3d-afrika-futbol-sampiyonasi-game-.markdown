@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.2kisilik.com/3d-afrika-futbol-sampiyonasi/game/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [2 kişilik 3D Afrika Futbol Şampiyonası oyunu](http://www.2kisilik.com/3d-afrika-futbol-sampiyonasi/game/)
 
@@ -29,9 +35,6 @@ title: http://www.2kisilik.com/3d-afrika-futbol-sampiyonasi/game/
 *  JS Response Bytes: 3373378
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 164505
-
-### Performance issues
-
 
 ### Performance issues
 

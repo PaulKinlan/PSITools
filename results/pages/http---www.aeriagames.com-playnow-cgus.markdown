@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.aeriagames.com/playnow/cgus
+AvoidLandingPageRedirects: true
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [Call of Gods - Free Browser-Based MMO Strategy Game at Aeria Games](http://www.aeriagames.com/playnow/cgus)
 
@@ -29,9 +32,6 @@ title: http://www.aeriagames.com/playnow/cgus
 *  JS Response Bytes: 565247
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2933
-
-### Performance issues
-
 
 ### Performance issues
 

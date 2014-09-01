@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://app.orte-im-norden.de/#/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Orte im Norden App](http://app.orte-im-norden.de/#/)
 
@@ -29,9 +31,6 @@ title: http://app.orte-im-norden.de/#/
 *  JS Response Bytes: 260453
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

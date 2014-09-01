@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.365onlinegames.com/cs-portable.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [365 Online Games – CS Portable](http://www.365onlinegames.com/cs-portable.html)
 
@@ -29,9 +34,6 @@ title: http://www.365onlinegames.com/cs-portable.html
 *  JS Response Bytes: 834050
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4255
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://1newsupergames.blogspot.com.tr/2014/03/2014-soccer-world-cup-brazil.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [New Super Games: 2014 Soccer World Cup Brazil](http://1newsupergames.blogspot.com.tr/2014/03/2014-soccer-world-cup-brazil.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://1newsupergames.blogspot.com.tr/2014/03/2014-soccer-world-cup-brazi
 *  JS Response Bytes: 1523494
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111837
-
-### Performance issues
-
 
 ### Performance issues
 

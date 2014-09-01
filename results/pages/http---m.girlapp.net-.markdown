@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.girlapp.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Girl Game Apps](http://m.girlapp.net/)
 
@@ -18,7 +21,7 @@ title: http://m.girlapp.net/
 *  Number of JS Resources: 14
 *  Number of CSS Resources: 9
 *  Nubmer of Static Resources: 26
-*  Total Request Bytes: 4393
+*  Total Request Bytes: 4369
 
 ### Response data
 
@@ -29,9 +32,6 @@ title: http://m.girlapp.net/
 *  JS Response Bytes: 180004
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 320814
-
-### Performance issues
-
 
 ### Performance issues
 

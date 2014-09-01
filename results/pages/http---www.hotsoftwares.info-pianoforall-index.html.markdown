@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.hotsoftwares.info/pianoforall/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn Piano Keyboard Lessons](http://www.hotsoftwares.info/pianoforall/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.hotsoftwares.info/pianoforall/index.html
 *  JS Response Bytes: 935856
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110124
-
-### Performance issues
-
 
 ### Performance issues
 

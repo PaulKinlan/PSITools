@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://rawteq.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Rawteq tech source.](http://rawteq.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://rawteq.blogspot.com/?m=1
 *  JS Response Bytes: 789049
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287102
-
-### Performance issues
-
 
 ### Performance issues
 

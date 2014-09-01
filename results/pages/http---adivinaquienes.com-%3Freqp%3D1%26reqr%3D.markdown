@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://adivinaquienes.com/?reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [adivinaquienes.com](http://adivinaquienes.com/?reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://adivinaquienes.com/?reqp=1&reqr=
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 60
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.justchromegames.com/category/1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bubbles - Just Chrome Games](http://www.justchromegames.com/category/1)
 
@@ -29,9 +32,6 @@ title: http://www.justchromegames.com/category/1
 *  JS Response Bytes: 680936
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15263
-
-### Performance issues
-
 
 ### Performance issues
 

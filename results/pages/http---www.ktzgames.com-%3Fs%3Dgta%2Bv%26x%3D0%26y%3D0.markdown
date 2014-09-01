@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ktzgames.com/?s=gta+v&x=0&y=0
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [gta v « Search Results « Best HD Games Play Now](http://www.ktzgames.com/?s=gta+v&x=0&y=0)
 
@@ -29,9 +33,6 @@ title: http://www.ktzgames.com/?s=gta+v&x=0&y=0
 *  JS Response Bytes: 398592
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

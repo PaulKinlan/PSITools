@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://traduction-francais-anglais.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Traduction Français Anglais](http://traduction-francais-anglais.herokuapp.com/)
 
@@ -29,9 +32,6 @@ title: http://traduction-francais-anglais.herokuapp.com/
 *  JS Response Bytes: 1841595
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 165849
-
-### Performance issues
-
 
 ### Performance issues
 

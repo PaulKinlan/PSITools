@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.pricefish.com/?utm_source=pricefish_chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Pricefish - Pricing page and table generator. increase your online sales with a click](http://www.pricefish.com/?utm_source=pricefish_chrome)
 
@@ -29,9 +32,6 @@ title: http://www.pricefish.com/?utm_source=pricefish_chrome
 *  JS Response Bytes: 1046236
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 75267
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.baraboo.k12.wi.us/mobile/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
 ---
 ## [Baraboo School District | Home](http://www.baraboo.k12.wi.us/mobile/)
 
@@ -29,9 +33,6 @@ title: http://www.baraboo.k12.wi.us/mobile/
 *  JS Response Bytes: 286203
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1109
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.literautas.com/es/blog/taller-de-escritura-creativa-montame-una-escena/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Taller de escritura creativa “Móntame una Escena” | Literautas](http://www.literautas.com/es/blog/taller-de-escritura-creativa-montame-una-escena/)
 
@@ -29,9 +33,6 @@ title: http://www.literautas.com/es/blog/taller-de-escritura-creativa-montame-un
 *  JS Response Bytes: 904490
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1419
-
-### Performance issues
-
 
 ### Performance issues
 

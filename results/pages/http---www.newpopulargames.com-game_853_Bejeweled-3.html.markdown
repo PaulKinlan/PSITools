@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_853_Bejeweled-3.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bejeweled 3 Flash Games](http://www.newpopulargames.com/game_853_Bejeweled-3.html)
 
@@ -29,9 +34,6 @@ title: http://www.newpopulargames.com/game_853_Bejeweled-3.html
 *  JS Response Bytes: 2030401
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112766
-
-### Performance issues
-
 
 ### Performance issues
 

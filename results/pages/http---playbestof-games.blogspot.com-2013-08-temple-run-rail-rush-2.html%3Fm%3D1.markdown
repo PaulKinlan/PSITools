@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playbestof-games.blogspot.com/2013/08/temple-run-rail-rush-2.html?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://playbestof-games.blogspot.com/2013/08/temple-run-rail-rush-2.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playbestof-games.blogspot.com/2013/08/temple-run-rail-rush-2.html?
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18851
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.collabofied.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Collabofied The Entertainment Industry Social Networks](http://www.collabofied.com/)
 
@@ -29,9 +33,6 @@ title: http://www.collabofied.com/
 *  JS Response Bytes: 1382677
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 516
-
-### Performance issues
-
 
 ### Performance issues
 

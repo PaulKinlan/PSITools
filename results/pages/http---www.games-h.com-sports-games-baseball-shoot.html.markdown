@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.games-h.com/sports-games/baseball-shoot.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Playing Baseball Shoot - Play Free Online Games at Games-H.COM](http://www.games-h.com/sports-games/baseball-shoot.html)
 
@@ -29,9 +35,6 @@ title: http://www.games-h.com/sports-games/baseball-shoot.html
 *  JS Response Bytes: 3107951
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 174950
-
-### Performance issues
-
 
 ### Performance issues
 

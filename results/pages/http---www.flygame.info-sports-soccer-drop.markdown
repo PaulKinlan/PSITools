@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.flygame.info/sports/soccer-drop
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Soccer Drop - FLY GaMe - New Online Flash Games](http://www.flygame.info/sports/soccer-drop)
 
@@ -29,9 +34,6 @@ title: http://www.flygame.info/sports/soccer-drop
 *  JS Response Bytes: 2537396
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121634
-
-### Performance issues
-
 
 ### Performance issues
 

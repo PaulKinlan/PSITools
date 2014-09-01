@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://olimpiadashoy.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Olimpiadas 2012 | Olimpiadas Hoy](http://olimpiadashoy.com/)
 
@@ -29,9 +33,6 @@ title: http://olimpiadashoy.com/
 *  JS Response Bytes: 581582
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32158
-
-### Performance issues
-
 
 ### Performance issues
 

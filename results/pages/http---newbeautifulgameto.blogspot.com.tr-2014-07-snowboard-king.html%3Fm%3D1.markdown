@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://newbeautifulgameto.blogspot.com.tr/2014/07/snowboard-king.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [New Beautiful Game To: SNOWBOARD KING](http://newbeautifulgameto.blogspot.com.tr/2014/07/snowboard-king.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://newbeautifulgameto.blogspot.com.tr/2014/07/snowboard-king.html?m=1
 *  JS Response Bytes: 1114194
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112889
-
-### Performance issues
-
 
 ### Performance issues
 

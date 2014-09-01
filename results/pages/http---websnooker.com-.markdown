@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://websnooker.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Web Snooker](http://websnooker.com/)
 
@@ -29,9 +33,6 @@ title: http://websnooker.com/
 *  JS Response Bytes: 628278
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 817
-
-### Performance issues
-
 
 ### Performance issues
 

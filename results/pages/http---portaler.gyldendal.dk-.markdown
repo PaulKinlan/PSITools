@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://portaler.gyldendal.dk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gyldendals Fagportaler](http://portaler.gyldendal.dk/)
 
@@ -29,9 +33,6 @@ title: http://portaler.gyldendal.dk/
 *  JS Response Bytes: 1600848
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2768
-
-### Performance issues
-
 
 ### Performance issues
 

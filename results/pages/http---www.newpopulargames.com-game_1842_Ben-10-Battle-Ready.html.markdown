@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_1842_Ben-10-Battle-Ready.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ben 10 Battle Ready Flash Games](http://www.newpopulargames.com/game_1842_Ben-10-Battle-Ready.html)
 
@@ -29,9 +34,6 @@ title: http://www.newpopulargames.com/game_1842_Ben-10-Battle-Ready.html
 *  JS Response Bytes: 1679772
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113141
-
-### Performance issues
-
 
 ### Performance issues
 

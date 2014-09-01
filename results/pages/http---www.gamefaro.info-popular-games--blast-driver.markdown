@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gamefaro.info/popular-games/-blast-driver
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [play online games](http://www.gamefaro.info/popular-games/-blast-driver)
 
@@ -29,9 +32,6 @@ title: http://www.gamefaro.info/popular-games/-blast-driver
 *  JS Response Bytes: 407417
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1702
-
-### Performance issues
-
 
 ### Performance issues
 

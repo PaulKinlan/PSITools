@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://oyun.eklemelisin.com/oyna/roket-ucur.html
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://oyun.eklemelisin.com/oyna/roket-ucur.html)
 
@@ -29,9 +30,6 @@ title: http://oyun.eklemelisin.com/oyna/roket-ucur.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 406
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://play.games365.in//chrome.php?wid=3380057
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://play.games365.in//chrome.php?wid=3380057)
 
@@ -29,9 +32,6 @@ title: http://play.games365.in//chrome.php?wid=3380057
 *  JS Response Bytes: 241
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 494
-
-### Performance issues
-
 
 ### Performance issues
 

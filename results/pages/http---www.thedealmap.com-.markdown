@@ -33,8 +33,5 @@ title: http://www.thedealmap.com/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

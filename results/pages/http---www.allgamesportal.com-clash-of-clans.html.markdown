@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.allgamesportal.com/clash-of-clans.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Clash Of Clans | All Games Portal](http://www.allgamesportal.com/clash-of-clans.html)
 
@@ -29,9 +34,6 @@ title: http://www.allgamesportal.com/clash-of-clans.html
 *  JS Response Bytes: 1529231
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103948
-
-### Performance issues
-
 
 ### Performance issues
 

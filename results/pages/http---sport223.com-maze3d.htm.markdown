@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://sport223.com/maze3d.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D mazes ~ This online game is so addictive~~](http://sport223.com/maze3d.htm)
 
@@ -29,9 +35,6 @@ title: http://sport223.com/maze3d.htm
 *  JS Response Bytes: 863538
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10634
-
-### Performance issues
-
 
 ### Performance issues
 

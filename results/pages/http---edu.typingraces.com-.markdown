@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://edu.typingraces.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Typing Races for Education](http://edu.typingraces.com/)
 
@@ -29,9 +33,6 @@ title: http://edu.typingraces.com/
 *  JS Response Bytes: 155903
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

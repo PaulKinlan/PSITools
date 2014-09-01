@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.box10games.info/action/pac-man-dash#.U_uy9k0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pac man dash - Box10 Games - Online Free Flash Games](http://www.box10games.info/action/pac-man-dash#.U_uy9k0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.box10games.info/action/pac-man-dash#.U_uy9k0ieKA
 *  JS Response Bytes: 1463384
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14149
-
-### Performance issues
-
 
 ### Performance issues
 

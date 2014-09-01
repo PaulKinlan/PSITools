@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://cws.preflopper.com/cwom/85856043.php
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Preflopper OMAHA](http://cws.preflopper.com/cwom/85856043.php)
 
@@ -29,9 +31,6 @@ title: http://cws.preflopper.com/cwom/85856043.php
 *  JS Response Bytes: 22818
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

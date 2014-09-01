@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.pro-flash.com/papas-pancakeria.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pro-Flash.Com – Papa’s Pancakeria](http://www.pro-flash.com/papas-pancakeria.html)
 
@@ -29,9 +35,6 @@ title: http://www.pro-flash.com/papas-pancakeria.html
 *  JS Response Bytes: 402190
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 64855
-
-### Performance issues
-
 
 ### Performance issues
 

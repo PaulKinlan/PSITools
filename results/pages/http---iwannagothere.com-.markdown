@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://iwannagothere.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [This is travel, not tourism - I Wanna Go There](http://iwannagothere.com/)
 
@@ -29,9 +33,6 @@ title: http://iwannagothere.com/
 *  JS Response Bytes: 473787
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28537
-
-### Performance issues
-
 
 ### Performance issues
 

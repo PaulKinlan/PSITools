@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://mygolffriends.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Bienvenue sur My Golf Friends](http://mygolffriends.com/)
 
@@ -29,9 +30,6 @@ title: http://mygolffriends.com/
 *  JS Response Bytes: 945595
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56374
-
-### Performance issues
-
 
 ### Performance issues
 

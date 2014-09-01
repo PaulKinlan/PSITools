@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://loja.smartkids.com.br/products/jogo-dicas-de-viagem
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Jogos Educativos, Desenhos para colorir e pintar, Educação infantil - Smartkids](http://loja.smartkids.com.br/products/jogo-dicas-de-viagem)
 
@@ -29,9 +32,6 @@ title: http://loja.smartkids.com.br/products/jogo-dicas-de-viagem
 *  JS Response Bytes: 941504
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59413
-
-### Performance issues
-
 
 ### Performance issues
 

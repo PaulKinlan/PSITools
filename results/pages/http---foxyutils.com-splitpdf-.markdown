@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://foxyutils.com/splitpdf/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FoxyUtils SplitPDF - Split PDF Files Online for Free](http://foxyutils.com/splitpdf/)
 
@@ -29,9 +35,6 @@ title: http://foxyutils.com/splitpdf/
 *  JS Response Bytes: 2026256
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112177
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tmzns.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TMZNS ← timezones for humans](http://www.tmzns.com/)
 
@@ -29,9 +32,6 @@ title: http://www.tmzns.com/
 *  JS Response Bytes: 365969
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41786
-
-### Performance issues
-
 
 ### Performance issues
 

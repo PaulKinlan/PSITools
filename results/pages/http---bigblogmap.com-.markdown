@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://bigblogmap.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Home - Big Blog Map](http://bigblogmap.com/)
 
@@ -29,9 +33,6 @@ title: http://bigblogmap.com/
 *  JS Response Bytes: 919767
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 135012
-
-### Performance issues
-
 
 ### Performance issues
 

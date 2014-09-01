@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bullbear.ca/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BullBear, trading assistant for commodity traders](http://www.bullbear.ca/)
 
@@ -29,9 +33,6 @@ title: http://www.bullbear.ca/
 *  JS Response Bytes: 53535
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

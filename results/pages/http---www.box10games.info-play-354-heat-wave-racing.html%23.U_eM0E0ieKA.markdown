@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.box10games.info/play/354/heat-wave-racing.html#.U_eM0E0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Heat Wave Racing - Box10 Games - Online Free Flash Games](http://www.box10games.info/play/354/heat-wave-racing.html#.U_eM0E0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.box10games.info/play/354/heat-wave-racing.html#.U_eM0E0ieKA
 *  JS Response Bytes: 1337468
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24471
-
-### Performance issues
-
 
 ### Performance issues
 

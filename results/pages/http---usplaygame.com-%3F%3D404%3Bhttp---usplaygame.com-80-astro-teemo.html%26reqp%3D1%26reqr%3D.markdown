@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://usplaygame.com/?=404;http://usplaygame.com:80/astro-teemo.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [usplaygame.com](http://usplaygame.com/?=404;http://usplaygame.com:80/astro-teemo.html&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://usplaygame.com/?=404;http://usplaygame.com:80/astro-teemo.html&req
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103
-
-### Performance issues
-
 
 ### Performance issues
 

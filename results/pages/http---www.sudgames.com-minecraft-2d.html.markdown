@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.sudgames.com/minecraft-2d.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SuDGameS.Com | Flash Game | Flash Games | Top Games – MineCraft 2D](http://www.sudgames.com/minecraft-2d.html)
 
@@ -29,9 +35,6 @@ title: http://www.sudgames.com/minecraft-2d.html
 *  JS Response Bytes: 412703
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1058
-
-### Performance issues
-
 
 ### Performance issues
 

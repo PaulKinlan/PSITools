@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://unityplay.com/FeedMe/webplayer.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Feed Me | UnityPlay.com-Flash-Android-Chrome Games](http://unityplay.com/FeedMe/webplayer.html)
 
@@ -29,9 +34,6 @@ title: http://unityplay.com/FeedMe/webplayer.html
 *  JS Response Bytes: 895162
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10663
-
-### Performance issues
-
 
 ### Performance issues
 

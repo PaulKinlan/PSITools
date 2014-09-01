@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://cn.createpdfonline.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PDF文档在线生成](http://cn.createpdfonline.org/)
 
@@ -29,9 +34,6 @@ title: http://cn.createpdfonline.org/
 *  JS Response Bytes: 430670
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2396
-
-### Performance issues
-
 
 ### Performance issues
 

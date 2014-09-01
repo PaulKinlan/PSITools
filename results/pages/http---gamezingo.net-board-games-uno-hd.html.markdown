@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://gamezingo.net/board-games/uno-hd.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Uno HD - Free Online Games | Gamezingo - http://gamezingo.net](http://gamezingo.net/board-games/uno-hd.html)
 
@@ -29,9 +36,6 @@ title: http://gamezingo.net/board-games/uno-hd.html
 *  JS Response Bytes: 1296860
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59708
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.omsys.es/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Omsys beta](http://www.omsys.es/)
 
@@ -29,9 +32,6 @@ title: http://www.omsys.es/
 *  JS Response Bytes: 512458
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2365
-
-### Performance issues
-
 
 ### Performance issues
 

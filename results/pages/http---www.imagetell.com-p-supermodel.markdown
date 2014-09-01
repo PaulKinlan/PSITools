@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.imagetell.com/p/supermodel
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
 ---
 ## [IMAGETELL.COM -Welcome](http://www.imagetell.com/p/supermodel)
 
@@ -29,9 +32,6 @@ title: http://www.imagetell.com/p/supermodel
 *  JS Response Bytes: 298626
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

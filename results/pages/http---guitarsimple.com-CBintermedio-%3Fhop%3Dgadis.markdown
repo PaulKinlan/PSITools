@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://guitarsimple.com/CBintermedio/?hop=gadis
+AvoidLandingPageRedirects: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Curso de Guitarra Nivel Intermedio - Guitarsimple](http://guitarsimple.com/CBintermedio/?hop=gadis)
 
@@ -29,9 +33,6 @@ title: http://guitarsimple.com/CBintermedio/?hop=gadis
 *  JS Response Bytes: 1093752
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6422
-
-### Performance issues
-
 
 ### Performance issues
 

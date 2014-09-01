@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://infect.dxy.cn/
+MinimizeRenderBlockingResources: true
 ---
 ## [感染_丁香园](http://infect.dxy.cn/)
 
@@ -29,9 +30,6 @@ title: http://infect.dxy.cn/
 *  JS Response Bytes: 225317
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

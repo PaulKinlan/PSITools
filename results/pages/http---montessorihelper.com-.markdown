@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://montessorihelper.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Montessori Helper...Montessori Made Easy !](http://montessorihelper.com/)
 
@@ -29,9 +33,6 @@ title: http://montessorihelper.com/
 *  JS Response Bytes: 3182000
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 288224
-
-### Performance issues
-
 
 ### Performance issues
 

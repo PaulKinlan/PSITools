@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mathews.k12.oh.us/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MLSD](http://www.mathews.k12.oh.us/)
 
@@ -29,9 +34,6 @@ title: http://www.mathews.k12.oh.us/
 *  JS Response Bytes: 138070
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1774
-
-### Performance issues
-
 
 ### Performance issues
 

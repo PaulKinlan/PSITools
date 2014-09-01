@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.webgames24h.com/angry-birds.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds | Web Games 24H](http://www.webgames24h.com/angry-birds.html)
 
@@ -29,9 +33,6 @@ title: http://www.webgames24h.com/angry-birds.html
 *  JS Response Bytes: 1693775
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103900
-
-### Performance issues
-
 
 ### Performance issues
 

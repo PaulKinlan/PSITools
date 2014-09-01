@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://opnway.com/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Opnway](http://opnway.com/)
 
@@ -29,9 +31,6 @@ title: http://opnway.com/
 *  JS Response Bytes: 25557
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

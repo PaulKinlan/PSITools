@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gruponox.com/gss/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [404 (Page Not Found) Error - Ever feel like you're in the wrong place?](http://www.gruponox.com/gss/)
 
@@ -29,9 +32,6 @@ title: http://www.gruponox.com/gss/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1688
-
-### Performance issues
-
 
 ### Performance issues
 

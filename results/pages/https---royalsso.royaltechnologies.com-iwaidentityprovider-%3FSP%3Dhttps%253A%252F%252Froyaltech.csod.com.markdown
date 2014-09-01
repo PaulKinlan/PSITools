@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://royalsso.royaltechnologies.com/iwaidentityprovider/?SP=https%3A%2F%2Froyaltech.csod.com
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [401 - Unauthorized: Access is denied due to invalid credentials.](https://royalsso.royaltechnologies.com/iwaidentityprovider/?SP=https%3A%2F%2Froyaltech.csod.com)
 
@@ -29,9 +31,6 @@ title: https://royalsso.royaltechnologies.com/iwaidentityprovider/?SP=https%3A%2
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1516
-
-### Performance issues
-
 
 ### Performance issues
 

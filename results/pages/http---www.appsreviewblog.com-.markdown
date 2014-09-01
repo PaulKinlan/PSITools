@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.appsreviewblog.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Appsreviewblog.com](http://www.appsreviewblog.com/)
 
@@ -18,20 +21,17 @@ title: http://www.appsreviewblog.com/
 *  Number of JS Resources: 5
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 5
-*  Total Request Bytes: 2130
+*  Total Request Bytes: 2141
 
 ### Response data
 
-*  HTML Response Bytes: 13968
+*  HTML Response Bytes: 13972
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 6024
-*  Image Response Bytes: 1671
+*  Image Response Bytes: 1681
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

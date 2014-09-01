@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.oms-miramas.fr/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [OMS-Miramas - Office Municipal des Sports - Miramas](http://www.oms-miramas.fr/)
 
@@ -29,9 +33,6 @@ title: http://www.oms-miramas.fr/
 *  JS Response Bytes: 718512
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43937
-
-### Performance issues
-
 
 ### Performance issues
 

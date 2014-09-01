@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://fincalc.gitrdid.com/fincalc.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Free Financial Calculators - Time Value of Money, Auto Loan and Retirement Planning](http://fincalc.gitrdid.com/fincalc.aspx)
 
@@ -29,9 +31,6 @@ title: http://fincalc.gitrdid.com/fincalc.aspx
 *  JS Response Bytes: 274699
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

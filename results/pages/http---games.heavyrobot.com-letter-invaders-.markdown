@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://games.heavyrobot.com/letter-invaders/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Letter Invaders | Games by Heavy Robot](http://games.heavyrobot.com/letter-invaders/)
 
@@ -29,9 +33,6 @@ title: http://games.heavyrobot.com/letter-invaders/
 *  JS Response Bytes: 696687
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

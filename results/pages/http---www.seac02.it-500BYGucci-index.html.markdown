@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.seac02.it/500BYGucci/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.seac02.it/500BYGucci/index.html)
 
@@ -29,9 +34,6 @@ title: http://www.seac02.it/500BYGucci/index.html
 *  JS Response Bytes: 1233926
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

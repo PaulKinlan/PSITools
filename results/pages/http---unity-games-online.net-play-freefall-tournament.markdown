@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://unity-games-online.net/play-freefall-tournament
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Freefall Tournament Online | Unity-Games-Online.Net](http://unity-games-online.net/play-freefall-tournament)
 
@@ -29,9 +32,6 @@ title: http://unity-games-online.net/play-freefall-tournament
 *  JS Response Bytes: 2516801
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141477
-
-### Performance issues
-
 
 ### Performance issues
 

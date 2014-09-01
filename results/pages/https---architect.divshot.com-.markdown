@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://architect.divshot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Divshot](https://architect.divshot.com/)
 
@@ -29,9 +32,6 @@ title: https://architect.divshot.com/
 *  JS Response Bytes: 5687079
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 680
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://templatejoomla.com.br/1/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Template Joomla - Download Gratuito](http://templatejoomla.com.br/1/)
 
@@ -29,9 +34,6 @@ title: http://templatejoomla.com.br/1/
 *  JS Response Bytes: 1446341
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 288086
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.youversion.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [YouVersion](https://www.youversion.com/)
 
@@ -29,9 +31,6 @@ title: https://www.youversion.com/
 *  JS Response Bytes: 1491425
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 393
-
-### Performance issues
-
 
 ### Performance issues
 

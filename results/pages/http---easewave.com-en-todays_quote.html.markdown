@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://easewave.com/en/todays_quote.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [easeWave](http://easewave.com/en/todays_quote.html)
 
@@ -29,9 +31,6 @@ title: http://easewave.com/en/todays_quote.html
 *  JS Response Bytes: 1260829
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96417
-
-### Performance issues
-
 
 ### Performance issues
 

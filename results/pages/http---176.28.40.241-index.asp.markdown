@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://176.28.40.241/index.asp
+UseLegibleFontSizes: true
 ---
 ## [404 - Datei oder Verzeichnis wurde nicht gefunden.](http://176.28.40.241/index.asp)
 
@@ -29,9 +30,6 @@ title: http://176.28.40.241/index.asp
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1851
-
-### Performance issues
-
 
 ### Performance issues
 

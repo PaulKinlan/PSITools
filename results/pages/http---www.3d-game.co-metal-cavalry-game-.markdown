@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.3d-game.co/metal-cavalry/game/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Metal Cavalry game](http://www.3d-game.co/metal-cavalry/game/)
 
@@ -29,9 +35,6 @@ title: http://www.3d-game.co/metal-cavalry/game/
 *  JS Response Bytes: 1998593
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48017
-
-### Performance issues
-
 
 ### Performance issues
 

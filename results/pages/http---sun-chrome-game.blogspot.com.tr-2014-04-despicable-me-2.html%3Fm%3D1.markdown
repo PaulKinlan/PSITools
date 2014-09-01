@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://sun-chrome-game.blogspot.com.tr/2014/04/despicable-me-2.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [chrome store hd game: Despicable Me 2](http://sun-chrome-game.blogspot.com.tr/2014/04/despicable-me-2.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://sun-chrome-game.blogspot.com.tr/2014/04/despicable-me-2.html?m=1
 *  JS Response Bytes: 720946
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95596
-
-### Performance issues
-
 
 ### Performance issues
 

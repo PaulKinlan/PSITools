@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://flickr.onelife.fm/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## ["travel" from Flickr.com](http://flickr.onelife.fm/)
 
@@ -29,9 +33,6 @@ title: http://flickr.onelife.fm/
 *  JS Response Bytes: 247686
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4621
-
-### Performance issues
-
 
 ### Performance issues
 

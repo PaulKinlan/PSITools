@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gameshoop.com/popular-flash-games/infectonator-2
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [](http://www.gameshoop.com/popular-flash-games/infectonator-2)
 
@@ -29,9 +32,6 @@ title: http://www.gameshoop.com/popular-flash-games/infectonator-2
 *  JS Response Bytes: 165944
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

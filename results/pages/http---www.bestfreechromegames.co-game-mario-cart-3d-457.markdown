@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bestfreechromegames.co/game/mario-cart-3d-457
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mario Cart 3D Game - Best Free Chrome Games](http://www.bestfreechromegames.co/game/mario-cart-3d-457)
 
@@ -29,9 +33,6 @@ title: http://www.bestfreechromegames.co/game/mario-cart-3d-457
 *  JS Response Bytes: 422350
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

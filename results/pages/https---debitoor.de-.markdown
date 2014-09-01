@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://debitoor.de/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Rechnungs-und Buchhaltungsprogramm | Debitoor](https://debitoor.de/)
 
@@ -29,9 +33,6 @@ title: https://debitoor.de/
 *  JS Response Bytes: 291794
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 510
-
-### Performance issues
-
 
 ### Performance issues
 

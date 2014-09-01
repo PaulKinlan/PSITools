@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://bejeweledplaygame.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Bejeweled play game, game, online games](http://bejeweledplaygame.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://bejeweledplaygame.blogspot.com/?m=1
 *  JS Response Bytes: 248931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 572
-
-### Performance issues
-
 
 ### Performance issues
 

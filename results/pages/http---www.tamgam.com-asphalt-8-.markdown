@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tamgam.com/asphalt-8/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tam Games – Asphalt 8](http://www.tamgam.com/asphalt-8/)
 
@@ -29,9 +34,6 @@ title: http://www.tamgam.com/asphalt-8/
 *  JS Response Bytes: 878599
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14887
-
-### Performance issues
-
 
 ### Performance issues
 

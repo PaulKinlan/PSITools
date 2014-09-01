@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/penalty-kick-tournament/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Penalty Kick Tournament Game](http://www.footballgam.es/penalty-kick-tournament/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/penalty-kick-tournament/
 *  JS Response Bytes: 2489766
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 137654
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gameelle.com/default-category/battle-for-slugterra
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Battle for Slugterra - Gameelle](http://www.gameelle.com/default-category/battle-for-slugterra)
 
@@ -29,9 +33,6 @@ title: http://www.gameelle.com/default-category/battle-for-slugterra
 *  JS Response Bytes: 1109552
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1675
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gat5code.blogspot.in/2014/02/temple-run-2.html?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [GTA 5 Cheats: Temple Run 2](http://gat5code.blogspot.in/2014/02/temple-run-2.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://gat5code.blogspot.in/2014/02/temple-run-2.html?m=1
 *  JS Response Bytes: 721561
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95572
-
-### Performance issues
-
 
 ### Performance issues
 

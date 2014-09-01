@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://georemindme.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GeoRemindMe!](https://georemindme.appspot.com/)
 
@@ -29,9 +32,6 @@ title: https://georemindme.appspot.com/
 *  JS Response Bytes: 336292
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 183
-
-### Performance issues
-
 
 ### Performance issues
 

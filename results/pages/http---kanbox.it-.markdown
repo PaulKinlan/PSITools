@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://kanbox.it/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kanbox - Free Task Management Software](http://kanbox.it/)
 
@@ -29,9 +32,6 @@ title: http://kanbox.it/
 *  JS Response Bytes: 525500
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1347
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://engserver.com/teamspeak-3-servers-2/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Engserver.com](http://engserver.com/teamspeak-3-servers-2/)
 
@@ -29,9 +31,6 @@ title: http://engserver.com/teamspeak-3-servers-2/
 *  JS Response Bytes: 167674
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chromecoaster.com/simulation/talking-tom-cat-2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Talking Tom Cat 2 - Kill Your Boring Times](http://www.chromecoaster.com/simulation/talking-tom-cat-2)
 
@@ -29,9 +35,6 @@ title: http://www.chromecoaster.com/simulation/talking-tom-cat-2
 *  JS Response Bytes: 629570
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2021
-
-### Performance issues
-
 
 ### Performance issues
 

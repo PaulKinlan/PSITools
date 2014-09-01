@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.kikogames.com/temple-run.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Temple Run | Kiko Games](http://www.kikogames.com/temple-run.html)
 
@@ -29,9 +37,6 @@ title: http://www.kikogames.com/temple-run.html
 *  JS Response Bytes: 1529281
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98540
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://papasgame.com/papas-wingeria.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404 - PAGE NOT FOUND](http://papasgame.com/papas-wingeria.html)
 
@@ -29,9 +34,6 @@ title: http://papasgame.com/papas-wingeria.html
 *  JS Response Bytes: 271851
 *  Flash Response Bytes: 43671
 *  Other Response Bytes: 13047
-
-### Performance issues
-
 
 ### Performance issues
 

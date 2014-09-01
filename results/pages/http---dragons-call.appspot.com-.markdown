@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://dragons-call.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Dragon's Call Online](http://dragons-call.appspot.com/)
 
@@ -29,9 +35,6 @@ title: http://dragons-call.appspot.com/
 *  JS Response Bytes: 1082161
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41960
-
-### Performance issues
-
 
 ### Performance issues
 

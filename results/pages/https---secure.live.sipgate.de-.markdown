@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://secure.live.sipgate.de/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [sipgate - Willkommen!](https://secure.live.sipgate.de/)
 
@@ -29,9 +32,6 @@ title: https://secure.live.sipgate.de/
 *  JS Response Bytes: 561592
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

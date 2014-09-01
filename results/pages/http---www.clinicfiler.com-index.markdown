@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.clinicfiler.com/index
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ClinicFiler, gestion de cabinet médical 100% web](http://www.clinicfiler.com/index)
 
@@ -29,9 +34,6 @@ title: http://www.clinicfiler.com/index
 *  JS Response Bytes: 1073748
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 265
-
-### Performance issues
-
 
 ### Performance issues
 

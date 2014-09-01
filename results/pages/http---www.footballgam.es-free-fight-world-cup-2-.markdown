@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/free-fight-world-cup-2/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Fight World Cup Game](http://www.footballgam.es/free-fight-world-cup-2/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/free-fight-world-cup-2/
 *  JS Response Bytes: 2407150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 166814
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://kid2play.com/category/dressup/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dress-Up - Kid 2 Play](http://kid2play.com/category/dressup/)
 
@@ -29,9 +35,6 @@ title: http://kid2play.com/category/dressup/
 *  JS Response Bytes: 1699372
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110453
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://file.i-gamer.net/gamefile/flash/sango_slg/play.htm
+UseLegibleFontSizes: true
 ---
 ## [404 - File or directory not found.](http://file.i-gamer.net/gamefile/flash/sango_slg/play.htm)
 
@@ -29,9 +30,6 @@ title: http://file.i-gamer.net/gamefile/flash/sango_slg/play.htm
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1384
-
-### Performance issues
-
 
 ### Performance issues
 

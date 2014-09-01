@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.tipoyun.com/oyun/super-mario.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Süper Mario - Macera Oyunları](http://www.tipoyun.com/oyun/super-mario.html)
 
@@ -29,9 +33,6 @@ title: http://www.tipoyun.com/oyun/super-mario.html
 *  JS Response Bytes: 1659821
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2315
-
-### Performance issues
-
 
 ### Performance issues
 

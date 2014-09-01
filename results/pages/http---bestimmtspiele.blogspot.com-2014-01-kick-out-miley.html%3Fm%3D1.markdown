@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bestimmtspiele.blogspot.com/2014/01/kick-out-miley.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [Bestimmt Spiele: Kick Out Miley](http://bestimmtspiele.blogspot.com/2014/01/kick-out-miley.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://bestimmtspiele.blogspot.com/2014/01/kick-out-miley.html?m=1
 *  JS Response Bytes: 1513010
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111805
-
-### Performance issues
-
 
 ### Performance issues
 

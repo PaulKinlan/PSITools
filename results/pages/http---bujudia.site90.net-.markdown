@@ -33,8 +33,5 @@ title: http://bujudia.site90.net/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

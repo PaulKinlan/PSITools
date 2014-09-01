@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://door2games.com/arcade/ninja-miner
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ninja Miner - Free Online Games | Door 2 Games](http://door2games.com/arcade/ninja-miner)
 
@@ -29,9 +36,6 @@ title: http://door2games.com/arcade/ninja-miner
 *  JS Response Bytes: 743014
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 144063
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.valentinewordsearch.com/WordSearchChrome.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Word Search for Chrome](http://www.valentinewordsearch.com/WordSearchChrome.php)
 
@@ -29,9 +35,6 @@ title: http://www.valentinewordsearch.com/WordSearchChrome.php
 *  JS Response Bytes: 1432751
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97274
-
-### Performance issues
-
 
 ### Performance issues
 

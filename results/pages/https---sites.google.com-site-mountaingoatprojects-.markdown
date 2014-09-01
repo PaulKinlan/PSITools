@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sites.google.com/site/mountaingoatprojects/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mountain Goat Projects](https://sites.google.com/site/mountaingoatprojects/)
 
@@ -29,9 +32,6 @@ title: https://sites.google.com/site/mountaingoatprojects/
 *  JS Response Bytes: 412396
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 297
-
-### Performance issues
-
 
 ### Performance issues
 

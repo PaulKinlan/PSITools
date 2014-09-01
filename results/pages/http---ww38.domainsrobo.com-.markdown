@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ww38.domainsrobo.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [domainsrobo.com](http://ww38.domainsrobo.com/)
 
@@ -29,9 +32,6 @@ title: http://ww38.domainsrobo.com/
 *  JS Response Bytes: 209104
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 211
-
-### Performance issues
-
 
 ### Performance issues
 

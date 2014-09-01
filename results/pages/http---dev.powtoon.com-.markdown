@@ -33,8 +33,5 @@ title: http://dev.powtoon.com/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromegamedirectory.blogspot.com/2013/07/real-racing-3.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [hill climb racing](http://chromegamedirectory.blogspot.com/2013/07/real-racing-3.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chromegamedirectory.blogspot.com/2013/07/real-racing-3.html?m=1
 *  JS Response Bytes: 791767
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331011
-
-### Performance issues
-
 
 ### Performance issues
 

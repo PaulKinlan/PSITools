@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://topappfinder.chromeosapps.org/Top-App-Finder.htm
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Top App Finder](http://topappfinder.chromeosapps.org/Top-App-Finder.htm)
 
@@ -29,9 +32,6 @@ title: http://topappfinder.chromeosapps.org/Top-App-Finder.htm
 *  JS Response Bytes: 446925
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16064
-
-### Performance issues
-
 
 ### Performance issues
 

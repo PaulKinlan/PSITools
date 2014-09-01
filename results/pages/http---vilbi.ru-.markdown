@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://vilbi.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Вилби](http://vilbi.ru/)
 
@@ -29,9 +34,6 @@ title: http://vilbi.ru/
 *  JS Response Bytes: 872771
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 83531
-
-### Performance issues
-
 
 ### Performance issues
 

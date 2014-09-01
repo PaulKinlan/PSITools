@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.istacksoftware.com/apps/ttrack/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.istacksoftware.com/apps/ttrack/)
 
@@ -29,9 +32,6 @@ title: http://www.istacksoftware.com/apps/ttrack/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

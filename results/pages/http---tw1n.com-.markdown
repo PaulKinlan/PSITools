@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://tw1n.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [tw1n.com - Tout le monde a droit à un jumeau !](http://tw1n.com/)
 
@@ -29,9 +31,6 @@ title: http://tw1n.com/
 *  JS Response Bytes: 740217
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 93610
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://la-lu.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [screen shot sharing](http://la-lu.com/)
 
@@ -13,25 +17,22 @@ title: http://la-lu.com/
 
 ### Request information
 
-*  Number of Resources: 92
+*  Number of Resources: 93
 *  Number of Hosts: 27
-*  Number of JS Resources: 32
+*  Number of JS Resources: 33
 *  Number of CSS Resources: 10
-*  Nubmer of Static Resources: 72
-*  Total Request Bytes: 11635
+*  Nubmer of Static Resources: 73
+*  Total Request Bytes: 11713
 
 ### Response data
 
-*  HTML Response Bytes: 141372
+*  HTML Response Bytes: 141737
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 257233
-*  Image Response Bytes: 294525
-*  JS Response Bytes: 1931673
+*  CSS Response Bytes: 251243
+*  Image Response Bytes: 296157
+*  JS Response Bytes: 1945482
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 97583
-
-### Performance issues
-
+*  Other Response Bytes: 97467
 
 ### Performance issues
 

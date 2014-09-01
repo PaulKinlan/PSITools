@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/shoot-the-daltons/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shoot the Daltons](http://www.war-games.ws/shoot-the-daltons/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/shoot-the-daltons/
 *  JS Response Bytes: 2292921
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120587
-
-### Performance issues
-
 
 ### Performance issues
 

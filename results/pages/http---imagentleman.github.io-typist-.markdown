@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://imagentleman.github.io/typist/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [Typist](http://imagentleman.github.io/typist/)
 
@@ -29,9 +32,6 @@ title: http://imagentleman.github.io/typist/
 *  JS Response Bytes: 144184
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 66938
-
-### Performance issues
-
 
 ### Performance issues
 

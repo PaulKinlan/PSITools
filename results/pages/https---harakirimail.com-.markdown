@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://harakirimail.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Harakirimail - Your personal email samurai (beta)](https://harakirimail.com/)
 
@@ -29,9 +30,6 @@ title: https://harakirimail.com/
 *  JS Response Bytes: 172827
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17384
-
-### Performance issues
-
 
 ### Performance issues
 

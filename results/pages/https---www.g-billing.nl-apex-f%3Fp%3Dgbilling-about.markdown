@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.g-billing.nl/apex/f?p=gbilling:about
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Over G-billing](https://www.g-billing.nl/apex/f?p=gbilling:about)
 
@@ -29,9 +33,6 @@ title: https://www.g-billing.nl/apex/f?p=gbilling:about
 *  JS Response Bytes: 595755
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2602
-
-### Performance issues
-
 
 ### Performance issues
 

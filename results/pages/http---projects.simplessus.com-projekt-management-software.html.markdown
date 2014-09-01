@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://projects.simplessus.com/projekt-management-software.html
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Projekt-Management Software](http://projects.simplessus.com/projekt-management-software.html)
 
@@ -29,9 +33,6 @@ title: http://projects.simplessus.com/projekt-management-software.html
 *  JS Response Bytes: 430913
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25404
-
-### Performance issues
-
 
 ### Performance issues
 

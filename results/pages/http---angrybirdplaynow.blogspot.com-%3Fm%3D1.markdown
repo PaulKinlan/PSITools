@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://angrybirdplaynow.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [angry bird](http://angrybirdplaynow.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://angrybirdplaynow.blogspot.com/?m=1
 *  JS Response Bytes: 248931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 572
-
-### Performance issues
-
 
 ### Performance issues
 

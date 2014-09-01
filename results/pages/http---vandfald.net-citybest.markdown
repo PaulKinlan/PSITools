@@ -33,8 +33,5 @@ title: http://vandfald.net/citybest
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.habbo.com/?utm_source=chrme
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Habbo Hotel - Make friends, join the fun, get noticed!](https://www.habbo.com/?utm_source=chrme)
 
@@ -29,9 +33,6 @@ title: https://www.habbo.com/?utm_source=chrme
 *  JS Response Bytes: 740982
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117448
-
-### Performance issues
-
 
 ### Performance issues
 

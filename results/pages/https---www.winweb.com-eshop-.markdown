@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://www.winweb.com/eshop/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WinWeb | eShop App. eStore. Online Shop. Shopping Cart - eCommerce](https://www.winweb.com/eshop/)
 
@@ -29,9 +35,6 @@ title: https://www.winweb.com/eshop/
 *  JS Response Bytes: 1200516
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 301786
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://conquerx2mmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Conquer X2 Online](http://conquerx2mmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://conquerx2mmo.appspot.com/
 *  JS Response Bytes: 780285
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33936
-
-### Performance issues
-
 
 ### Performance issues
 

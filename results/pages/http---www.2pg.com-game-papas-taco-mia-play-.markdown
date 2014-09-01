@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2pg.com/game/papas-taco-mia/play/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Papas Taco Mia | 2 Player Games](http://www.2pg.com/game/papas-taco-mia/play/)
 
@@ -29,9 +34,6 @@ title: http://www.2pg.com/game/papas-taco-mia/play/
 *  JS Response Bytes: 1261475
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34608
-
-### Performance issues
-
 
 ### Performance issues
 

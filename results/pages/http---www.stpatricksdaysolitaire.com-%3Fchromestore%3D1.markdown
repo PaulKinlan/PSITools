@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.stpatricksdaysolitaire.com/?chromestore=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [St. Patrick's Day Solitaire](http://www.stpatricksdaysolitaire.com/?chromestore=1)
 
@@ -29,9 +33,6 @@ title: http://www.stpatricksdaysolitaire.com/?chromestore=1
 *  JS Response Bytes: 265984
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27541
-
-### Performance issues
-
 
 ### Performance issues
 

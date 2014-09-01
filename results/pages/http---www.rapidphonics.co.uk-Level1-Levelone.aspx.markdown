@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.rapidphonics.co.uk/Level1/Levelone.aspx
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Level 1](http://www.rapidphonics.co.uk/Level1/Levelone.aspx)
 
@@ -29,9 +35,6 @@ title: http://www.rapidphonics.co.uk/Level1/Levelone.aspx
 *  JS Response Bytes: 171745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 375
-
-### Performance issues
-
 
 ### Performance issues
 

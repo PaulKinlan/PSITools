@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/776950/?autoAction=true&sId=Chrome_Webstore_Nov12_776950
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Easter Eggstravaganza for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/776950/?autoAction=true&sId=Chrome_Webstore_Nov12_776950)
 
@@ -29,9 +36,6 @@ title: http://www.freeridegames.com/chrome/games/776950/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1805421
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35265
-
-### Performance issues
-
 
 ### Performance issues
 

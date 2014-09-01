@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://lastpass.com/index.php?ac=1&chromewebapp=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [LastPass - Sign In](https://lastpass.com/index.php?ac=1&chromewebapp=1)
 
@@ -29,9 +33,6 @@ title: https://lastpass.com/index.php?ac=1&chromewebapp=1
 *  JS Response Bytes: 2334741
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 533
-
-### Performance issues
-
 
 ### Performance issues
 

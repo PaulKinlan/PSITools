@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://suite.websecurify.com/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Login](https://suite.websecurify.com/login)
 
@@ -18,7 +20,7 @@ title: https://suite.websecurify.com/login
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 11
-*  Total Request Bytes: 1821
+*  Total Request Bytes: 1816
 
 ### Response data
 
@@ -26,12 +28,9 @@ title: https://suite.websecurify.com/login
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 19067
 *  Image Response Bytes: 7363
-*  JS Response Bytes: 135252
+*  JS Response Bytes: 135255
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1134
-
-### Performance issues
-
+*  Other Response Bytes: 1132
 
 ### Performance issues
 

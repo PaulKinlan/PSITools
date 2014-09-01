@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.zombiegames365.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombie Games - Play Online For Free](http://www.zombiegames365.com/)
 
@@ -29,9 +34,6 @@ title: http://www.zombiegames365.com/
 *  JS Response Bytes: 782687
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

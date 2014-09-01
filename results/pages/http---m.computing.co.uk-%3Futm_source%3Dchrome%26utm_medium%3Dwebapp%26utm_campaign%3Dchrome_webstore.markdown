@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.computing.co.uk/?utm_source=chrome&utm_medium=webapp&utm_campaign=chrome_webstore
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [News and analysis for UK IT directors, CTOs and CIOs - Computing](http://m.computing.co.uk/?utm_source=chrome&utm_medium=webapp&utm_campaign=chrome_webstore)
 
@@ -29,9 +32,6 @@ title: http://m.computing.co.uk/?utm_source=chrome&utm_medium=webapp&utm_campaig
 *  JS Response Bytes: 744582
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13428
-
-### Performance issues
-
 
 ### Performance issues
 

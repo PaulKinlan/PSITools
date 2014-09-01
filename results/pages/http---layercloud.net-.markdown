@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://layercloud.net/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [layercloud.net： コスプレ画像投稿SNS レイヤークラウド](http://layercloud.net/)
 
@@ -29,9 +33,6 @@ title: http://layercloud.net/
 *  JS Response Bytes: 761312
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3045
-
-### Performance issues
-
 
 ### Performance issues
 

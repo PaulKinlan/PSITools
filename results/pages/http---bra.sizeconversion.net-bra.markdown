@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bra.sizeconversion.net/bra
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bra Size Conversion](http://bra.sizeconversion.net/bra)
 
@@ -29,9 +32,6 @@ title: http://bra.sizeconversion.net/bra
 *  JS Response Bytes: 265285
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

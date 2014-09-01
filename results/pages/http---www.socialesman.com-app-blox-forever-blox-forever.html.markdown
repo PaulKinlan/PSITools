@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.socialesman.com/app/blox-forever/blox-forever.html
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Clone doesnt have this page](http://www.socialesman.com/app/blox-forever/blox-forever.html)
 
@@ -29,9 +31,6 @@ title: http://www.socialesman.com/app/blox-forever/blox-forever.html
 *  JS Response Bytes: 824331
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97408
-
-### Performance issues
-
 
 ### Performance issues
 

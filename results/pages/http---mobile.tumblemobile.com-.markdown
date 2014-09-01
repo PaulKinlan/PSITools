@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://mobile.tumblemobile.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [TumbleBooks - eBooks for eKids!](http://mobile.tumblemobile.com/)
 
@@ -29,9 +31,6 @@ title: http://mobile.tumblemobile.com/
 *  JS Response Bytes: 123994
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 419
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://junior.kinfish.com/#/0/login
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [KINFISH Junior](https://junior.kinfish.com/#/0/login)
 
@@ -29,9 +32,6 @@ title: https://junior.kinfish.com/#/0/login
 *  JS Response Bytes: 653353
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 288
-
-### Performance issues
-
 
 ### Performance issues
 

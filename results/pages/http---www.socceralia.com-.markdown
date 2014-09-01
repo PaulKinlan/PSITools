@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.socceralia.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
 ---
 ## [](http://www.socceralia.com/)
 
@@ -29,9 +32,6 @@ title: http://www.socceralia.com/
 *  JS Response Bytes: 104832
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

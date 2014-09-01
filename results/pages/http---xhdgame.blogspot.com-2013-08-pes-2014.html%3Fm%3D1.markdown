@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://xhdgame.blogspot.com/2013/08/pes-2014.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [XHDGAME: Pes 2014](http://xhdgame.blogspot.com/2013/08/pes-2014.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://xhdgame.blogspot.com/2013/08/pes-2014.html?m=1
 *  JS Response Bytes: 2235534
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 133466
-
-### Performance issues
-
 
 ### Performance issues
 

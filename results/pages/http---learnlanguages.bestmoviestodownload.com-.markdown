@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://learnlanguages.bestmoviestodownload.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [Bestmoviestodownload.com](http://learnlanguages.bestmoviestodownload.com/)
 
@@ -29,9 +30,6 @@ title: http://learnlanguages.bestmoviestodownload.com/
 *  JS Response Bytes: 259015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 447
-
-### Performance issues
-
 
 ### Performance issues
 

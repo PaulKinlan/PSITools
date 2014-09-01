@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/train-mania/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Train Mania Game — Sultans of Game](http://www.sultansofgame.com/games/train-mania/)
 
@@ -29,9 +36,6 @@ title: http://www.sultansofgame.com/games/train-mania/
 *  JS Response Bytes: 1758381
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125517
-
-### Performance issues
-
 
 ### Performance issues
 

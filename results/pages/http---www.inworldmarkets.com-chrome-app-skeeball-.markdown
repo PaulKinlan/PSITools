@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.inworldmarkets.com/chrome-app/skeeball/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ultimate Skeeball 3D for Google Chrome](http://www.inworldmarkets.com/chrome-app/skeeball/)
 
@@ -29,9 +33,6 @@ title: http://www.inworldmarkets.com/chrome-app/skeeball/
 *  JS Response Bytes: 408875
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/736050/?autoAction=true&sId=Chrome_Webstore_Nov12_736050
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Island Tribe 2 for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/736050/?autoAction=true&sId=Chrome_Webstore_Nov12_736050)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/736050/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1667745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34932
-
-### Performance issues
-
 
 ### Performance issues
 

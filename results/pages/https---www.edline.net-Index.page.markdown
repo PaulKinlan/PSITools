@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.edline.net/Index.page
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [My Edline Login](https://www.edline.net/Index.page)
 
@@ -29,9 +32,6 @@ title: https://www.edline.net/Index.page
 *  JS Response Bytes: 237981
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 589
-
-### Performance issues
-
 
 ### Performance issues
 

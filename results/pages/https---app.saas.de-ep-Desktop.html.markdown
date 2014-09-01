@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://app.saas.de/ep/Desktop.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SaaS.de Desktop](https://app.saas.de/ep/Desktop.html)
 
@@ -29,9 +33,6 @@ title: https://app.saas.de/ep/Desktop.html
 *  JS Response Bytes: 353408
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 752
-
-### Performance issues
-
 
 ### Performance issues
 

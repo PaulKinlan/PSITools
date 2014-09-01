@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://helpdesk.isd709.org/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Help Desk](http://helpdesk.isd709.org/)
 
@@ -29,9 +31,6 @@ title: http://helpdesk.isd709.org/
 *  JS Response Bytes: 1366879
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

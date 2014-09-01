@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gamejoyment.com/action/strike-force-heroes-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Strike Force Heroes 2 - Best Free Online Games | GameJoyment.com - http://gamejoyment.com](http://gamejoyment.com/action/strike-force-heroes-2.html)
 
@@ -29,9 +34,6 @@ title: http://gamejoyment.com/action/strike-force-heroes-2.html
 *  JS Response Bytes: 2604773
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109498
-
-### Performance issues
-
 
 ### Performance issues
 

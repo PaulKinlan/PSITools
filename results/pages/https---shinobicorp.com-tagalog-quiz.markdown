@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://shinobicorp.com/tagalog-quiz
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tagalog Quiz](https://shinobicorp.com/tagalog-quiz)
 
@@ -29,9 +33,6 @@ title: https://shinobicorp.com/tagalog-quiz
 *  JS Response Bytes: 1565973
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 205172
-
-### Performance issues
-
 
 ### Performance issues
 

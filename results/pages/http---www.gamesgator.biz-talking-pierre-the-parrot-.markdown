@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.biz/talking-pierre-the-parrot/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Talking Pierre The Parrot](http://www.gamesgator.biz/talking-pierre-the-parrot/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.biz/talking-pierre-the-parrot/
 *  JS Response Bytes: 1089193
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41346
-
-### Performance issues
-
 
 ### Performance issues
 

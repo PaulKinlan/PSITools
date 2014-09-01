@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.pong.com/game/100468
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Mario Bros Crossover - Retro - Pong | Play Online Network Games](http://www.pong.com/game/100468)
 
@@ -29,9 +34,6 @@ title: http://www.pong.com/game/100468
 *  JS Response Bytes: 1493778
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 130927
-
-### Performance issues
-
 
 ### Performance issues
 

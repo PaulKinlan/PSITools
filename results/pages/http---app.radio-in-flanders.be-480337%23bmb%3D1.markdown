@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://app.radio-in-flanders.be/480337#bmb=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Radio in Flanders](http://app.radio-in-flanders.be/480337#bmb=1)
 
@@ -29,9 +32,6 @@ title: http://app.radio-in-flanders.be/480337#bmb=1
 *  JS Response Bytes: 1466863
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8780
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gweb-awesomebook.appspot.com/mobile/index.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Read An Awesome Book, a little book about dreaming big.](http://gweb-awesomebook.appspot.com/mobile/index.html)
 
@@ -29,9 +34,6 @@ title: http://gweb-awesomebook.appspot.com/mobile/index.html
 *  JS Response Bytes: 156014
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 672
-
-### Performance issues
-
 
 ### Performance issues
 

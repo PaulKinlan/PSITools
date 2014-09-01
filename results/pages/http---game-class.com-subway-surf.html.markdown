@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://game-class.com/subway-surf.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Game-Class.Com – Subway Surf](http://game-class.com/subway-surf.html)
 
@@ -29,9 +35,6 @@ title: http://game-class.com/subway-surf.html
 *  JS Response Bytes: 609802
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 64573
-
-### Performance issues
-
 
 ### Performance issues
 

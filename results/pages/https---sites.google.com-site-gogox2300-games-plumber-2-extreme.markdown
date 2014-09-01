@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sites.google.com/site/gogox2300/games/plumber-2-extreme
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [找不到頁面 - Gogox2300](https://sites.google.com/site/gogox2300/games/plumber-2-extreme)
 
@@ -29,9 +32,6 @@ title: https://sites.google.com/site/gogox2300/games/plumber-2-extreme
 *  JS Response Bytes: 657868
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33003
-
-### Performance issues
-
 
 ### Performance issues
 

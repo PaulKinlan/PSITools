@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.thesslstore.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SSL Certificates Provider - Symantec VeriSign Thawte GeoTrust RapidSSL & Comodo](https://www.thesslstore.com/)
 
@@ -29,9 +31,6 @@ title: https://www.thesslstore.com/
 *  JS Response Bytes: 265499
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34963
-
-### Performance issues
-
 
 ### Performance issues
 

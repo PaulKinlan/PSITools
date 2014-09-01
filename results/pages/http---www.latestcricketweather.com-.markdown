@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.latestcricketweather.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Cricket Weather – Cricket Weather Forecast – Latest Cricket Weather - Cricket Weather Conditions](http://www.latestcricketweather.com/)
 
@@ -29,9 +33,6 @@ title: http://www.latestcricketweather.com/
 *  JS Response Bytes: 1488301
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18527
-
-### Performance issues
-
 
 ### Performance issues
 

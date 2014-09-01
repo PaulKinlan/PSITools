@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://1800gaming.com/earn-to-die-2013.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [1800Gaming.Com – Earn to Die 2013](http://1800gaming.com/earn-to-die-2013.html)
 
@@ -29,9 +35,6 @@ title: http://1800gaming.com/earn-to-die-2013.html
 *  JS Response Bytes: 623206
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53639
-
-### Performance issues
-
 
 ### Performance issues
 

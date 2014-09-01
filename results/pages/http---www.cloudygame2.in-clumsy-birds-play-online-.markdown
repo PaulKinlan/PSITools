@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.cloudygame2.in/clumsy-birds-play-online/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Clumsy Birds play online - Cloudy game](http://www.cloudygame2.in/clumsy-birds-play-online/)
 
@@ -29,9 +34,6 @@ title: http://www.cloudygame2.in/clumsy-birds-play-online/
 *  JS Response Bytes: 1853417
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 175937
-
-### Performance issues
-
 
 ### Performance issues
 

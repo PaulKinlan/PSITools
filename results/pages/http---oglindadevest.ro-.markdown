@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://oglindadevest.ro/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Oglinda De Vest .RO | Ziarul](http://oglindadevest.ro/)
 
@@ -29,9 +34,6 @@ title: http://oglindadevest.ro/
 *  JS Response Bytes: 575142
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32827
-
-### Performance issues
-
 
 ### Performance issues
 

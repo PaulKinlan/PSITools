@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://softwarereviewsbank.com/?=404;http://www.softwarereviewsbank.com:80/links2003golf/index.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [softwarereviewsbank.com](http://softwarereviewsbank.com/?=404;http://www.softwarereviewsbank.com:80/links2003golf/index.html&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://softwarereviewsbank.com/?=404;http://www.softwarereviewsbank.com:8
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 133
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.chip.de/&m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CHIP Online - Seite nicht gefunden](http://www.chip.de/&m=1)
 
@@ -29,9 +33,6 @@ title: http://www.chip.de/&m=1
 *  JS Response Bytes: 1176931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 71223
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://playbejeweledgame.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [bejeweled](http://playbejeweledgame.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://playbejeweledgame.blogspot.com/?m=1
 *  JS Response Bytes: 788542
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 292894
-
-### Performance issues
-
 
 ### Performance issues
 

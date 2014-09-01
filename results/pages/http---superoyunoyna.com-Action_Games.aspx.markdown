@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://superoyunoyna.com/Action_Games.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Action Games free flash online 3D aksiyon oyun oyna | Super oyun oyna](http://superoyunoyna.com/Action_Games.aspx)
 
@@ -29,9 +34,6 @@ title: http://superoyunoyna.com/Action_Games.aspx
 *  JS Response Bytes: 402623
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61142
-
-### Performance issues
-
 
 ### Performance issues
 

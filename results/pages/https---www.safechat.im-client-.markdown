@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.safechat.im/client/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Login](https://www.safechat.im/client/)
 
@@ -29,9 +31,6 @@ title: https://www.safechat.im/client/
 *  JS Response Bytes: 723966
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 605
-
-### Performance issues
-
 
 ### Performance issues
 

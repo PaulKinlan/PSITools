@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://games.falaana.com/nanobot/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
 ---
 ## [Cyber Chase | Action Game | Lionsera](http://games.falaana.com/nanobot/)
 
@@ -29,9 +32,6 @@ title: http://games.falaana.com/nanobot/
 *  JS Response Bytes: 34084
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 428
-
-### Performance issues
-
 
 ### Performance issues
 

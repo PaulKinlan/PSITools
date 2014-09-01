@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://aberturasmolfino.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [ABERTURAS MOLFINO](http://aberturasmolfino.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://aberturasmolfino.blogspot.com/?m=1
 *  JS Response Bytes: 248906
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 571
-
-### Performance issues
-
 
 ### Performance issues
 

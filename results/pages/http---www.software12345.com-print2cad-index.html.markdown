@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.software12345.com/print2cad/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [World Wide Best Seller! Print2CAD 2015 5th Generation](http://www.software12345.com/print2cad/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.software12345.com/print2cad/index.html
 *  JS Response Bytes: 1059559
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95267
-
-### Performance issues
-
 
 ### Performance issues
 

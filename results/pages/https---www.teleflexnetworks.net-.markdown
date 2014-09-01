@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.teleflexnetworks.net/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TeleFlex Management Portal](https://www.teleflexnetworks.net/)
 
@@ -29,9 +32,6 @@ title: https://www.teleflexnetworks.net/
 *  JS Response Bytes: 155283
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

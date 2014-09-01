@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://greenleafchurch.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Greenleaf Church](http://greenleafchurch.com/)
 
@@ -29,9 +30,6 @@ title: http://greenleafchurch.com/
 *  JS Response Bytes: 2099905
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103147
-
-### Performance issues
-
 
 ### Performance issues
 

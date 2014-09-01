@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://newflashgameto.blogspot.com.tr/2014/07/war-point-drachal.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [NewflashgameTo: War Point Drachal](http://newflashgameto.blogspot.com.tr/2014/07/war-point-drachal.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://newflashgameto.blogspot.com.tr/2014/07/war-point-drachal.html?m=1
 *  JS Response Bytes: 1162740
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112883
-
-### Performance issues
-
 
 ### Performance issues
 

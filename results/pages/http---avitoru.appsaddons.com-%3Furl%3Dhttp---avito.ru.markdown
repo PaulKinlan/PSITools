@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://avitoru.appsaddons.com/?url=http://avito.ru
+UseLegibleFontSizes: true
 ---
 ## [](http://avitoru.appsaddons.com/?url=http://avito.ru)
 
@@ -29,9 +30,6 @@ title: http://avitoru.appsaddons.com/?url=http://avito.ru
 *  JS Response Bytes: 97340
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 859
-
-### Performance issues
-
 
 ### Performance issues
 

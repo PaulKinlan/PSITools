@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.metabright.com/?ref=cw
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [Skill Tests | MetaBright](https://www.metabright.com/?ref=cw)
 
@@ -29,9 +32,6 @@ title: https://www.metabright.com/?ref=cw
 *  JS Response Bytes: 4516183
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1750
-
-### Performance issues
-
 
 ### Performance issues
 

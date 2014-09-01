@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.hotboxgames.com/angry-birds-space.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Space | Hot Box Games](http://www.hotboxgames.com/angry-birds-space.html)
 
@@ -29,9 +34,6 @@ title: http://www.hotboxgames.com/angry-birds-space.html
 *  JS Response Bytes: 1529508
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105475
-
-### Performance issues
-
 
 ### Performance issues
 

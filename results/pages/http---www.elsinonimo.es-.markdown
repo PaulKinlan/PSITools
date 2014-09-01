@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.elsinonimo.es/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [El Sinonimo](http://www.elsinonimo.es/)
 
@@ -29,9 +33,6 @@ title: http://www.elsinonimo.es/
 *  JS Response Bytes: 1129743
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 72472
-
-### Performance issues
-
 
 ### Performance issues
 

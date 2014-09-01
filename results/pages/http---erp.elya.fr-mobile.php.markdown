@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://erp.elya.fr/mobile.php
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Elya ERP Mobile](http://erp.elya.fr/mobile.php)
 
@@ -29,9 +31,6 @@ title: http://erp.elya.fr/mobile.php
 *  JS Response Bytes: 175807
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1335
-
-### Performance issues
-
 
 ### Performance issues
 

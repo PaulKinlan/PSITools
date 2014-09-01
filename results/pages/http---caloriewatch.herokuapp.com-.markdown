@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://caloriewatch.herokuapp.com/
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Calorie Watch ·](http://caloriewatch.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://caloriewatch.herokuapp.com/
 *  JS Response Bytes: 1471106
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110181
-
-### Performance issues
-
 
 ### Performance issues
 

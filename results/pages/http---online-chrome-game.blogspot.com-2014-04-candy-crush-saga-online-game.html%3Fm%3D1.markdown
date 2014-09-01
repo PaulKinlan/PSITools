@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://online-chrome-game.blogspot.com/2014/04/candy-crush-saga-online-game.html?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [online chrome game](http://online-chrome-game.blogspot.com/2014/04/candy-crush-saga-online-game.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://online-chrome-game.blogspot.com/2014/04/candy-crush-saga-online-ga
 *  JS Response Bytes: 314373
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44380
-
-### Performance issues
-
 
 ### Performance issues
 

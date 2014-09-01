@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://games-b0x.blogspot.com/2014/07/tank-mania-game.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [Game Book: Tank Mania Game](http://games-b0x.blogspot.com/2014/07/tank-mania-game.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://games-b0x.blogspot.com/2014/07/tank-mania-game.html?m=1
 *  JS Response Bytes: 721658
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95580
-
-### Performance issues
-
 
 ### Performance issues
 

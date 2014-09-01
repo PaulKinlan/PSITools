@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.nnbdc.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [牛牛背单词--让你坚持背单词的免费背单词软件_英语四级词汇_英语六级词汇_考研英语词汇_雅思词汇_托福词汇](http://www.nnbdc.com/)
 
@@ -29,9 +32,6 @@ title: http://www.nnbdc.com/
 *  JS Response Bytes: 310420
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 651
-
-### Performance issues
-
 
 ### Performance issues
 

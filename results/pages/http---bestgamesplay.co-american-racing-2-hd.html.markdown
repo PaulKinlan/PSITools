@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://bestgamesplay.co/american-racing-2-hd.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [American Racing 2 HD | Best Games PlayGames, Online Games, Play, Free](http://bestgamesplay.co/american-racing-2-hd.html)
 
@@ -29,9 +34,6 @@ title: http://bestgamesplay.co/american-racing-2-hd.html
 *  JS Response Bytes: 1869098
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111437
-
-### Performance issues
-
 
 ### Performance issues
 

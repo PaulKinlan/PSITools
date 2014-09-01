@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://washmeup.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Помой Меня - Android](http://washmeup.com/)
 
@@ -29,9 +31,6 @@ title: http://washmeup.com/
 *  JS Response Bytes: 329700
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

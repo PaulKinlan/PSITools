@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://daily.calorie.cc/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Daily Calorie Needs Calculator - BMI](http://daily.calorie.cc/)
 
@@ -29,9 +32,6 @@ title: http://daily.calorie.cc/
 *  JS Response Bytes: 971791
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

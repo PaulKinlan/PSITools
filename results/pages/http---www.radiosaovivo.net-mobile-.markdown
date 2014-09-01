@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.radiosaovivo.net/mobile/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Radios ao vivo, Radio ao vivo do Brasil, Radios online](http://www.radiosaovivo.net/mobile/)
 
@@ -29,9 +31,6 @@ title: http://www.radiosaovivo.net/mobile/
 *  JS Response Bytes: 1694100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110446
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://unfair-mario.net/category/super-mario-games/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://unfair-mario.net/category/super-mario-games/)
 
@@ -29,9 +34,6 @@ title: http://unfair-mario.net/category/super-mario-games/
 *  JS Response Bytes: 904074
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39003
-
-### Performance issues
-
 
 ### Performance issues
 

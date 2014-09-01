@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromemoregames.blogspot.com/2013/08/grand-theft-auto-vice-city.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://chromemoregames.blogspot.com/2013/08/grand-theft-auto-vice-city.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromemoregames.blogspot.com/2013/08/grand-theft-auto-vice-city.ht
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19333
-
-### Performance issues
-
 
 ### Performance issues
 

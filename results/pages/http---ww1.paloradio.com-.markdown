@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww1.paloradio.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [paloradio.com - paloradio Resources and Information. This website is for sale!](http://ww1.paloradio.com/)
 
@@ -29,9 +30,6 @@ title: http://ww1.paloradio.com/
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 208
-
-### Performance issues
-
 
 ### Performance issues
 

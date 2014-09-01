@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://jonathan-ewart.appspot.com/zombies_game/index.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombies - Order In Chaos](http://jonathan-ewart.appspot.com/zombies_game/index.html)
 
@@ -29,9 +33,6 @@ title: http://jonathan-ewart.appspot.com/zombies_game/index.html
 *  JS Response Bytes: 589261
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

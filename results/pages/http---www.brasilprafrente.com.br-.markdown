@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.brasilprafrente.com.br/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Brasil Pra Frente](http://www.brasilprafrente.com.br/)
 
@@ -29,9 +31,6 @@ title: http://www.brasilprafrente.com.br/
 *  JS Response Bytes: 472278
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

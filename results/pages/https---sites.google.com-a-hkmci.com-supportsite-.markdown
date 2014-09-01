@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sites.google.com/a/hkmci.com/supportsite/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [supportsite](https://sites.google.com/a/hkmci.com/supportsite/)
 
@@ -29,9 +32,6 @@ title: https://sites.google.com/a/hkmci.com/supportsite/
 *  JS Response Bytes: 412398
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3227
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://money-converter.org/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Currency Converter](http://money-converter.org/)
 
@@ -29,9 +32,6 @@ title: http://money-converter.org/
 *  JS Response Bytes: 1705552
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112409
-
-### Performance issues
-
 
 ### Performance issues
 

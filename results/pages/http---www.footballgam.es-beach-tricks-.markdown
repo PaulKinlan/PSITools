@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/beach-tricks/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Beach Tricks Game](http://www.footballgam.es/beach-tricks/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/beach-tricks/
 *  JS Response Bytes: 2303941
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 159750
-
-### Performance issues
-
 
 ### Performance issues
 

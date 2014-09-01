@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ilariamadiai.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Marketing Artistico Online](http://www.ilariamadiai.com/)
 
@@ -29,9 +33,6 @@ title: http://www.ilariamadiai.com/
 *  JS Response Bytes: 236127
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25082
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.armorgamesz.com/games/game/name/circus
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [circus Armor Games](http://www.armorgamesz.com/games/game/name/circus)
 
@@ -29,9 +33,6 @@ title: http://www.armorgamesz.com/games/game/name/circus
 *  JS Response Bytes: 2007668
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114677
-
-### Performance issues
-
 
 ### Performance issues
 

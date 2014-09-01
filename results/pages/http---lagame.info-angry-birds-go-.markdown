@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://lagame.info/angry-birds-go/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LaGame.Info Flash Games – Angry Birds Go](http://lagame.info/angry-birds-go/)
 
@@ -29,9 +34,6 @@ title: http://lagame.info/angry-birds-go/
 *  JS Response Bytes: 728255
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16694
-
-### Performance issues
-
 
 ### Performance issues
 

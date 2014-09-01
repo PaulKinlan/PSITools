@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.quantwolf.com/calculators/cointosser.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Coin Tosser by QuantWolf](http://www.quantwolf.com/calculators/cointosser.html)
 
@@ -29,9 +34,6 @@ title: http://www.quantwolf.com/calculators/cointosser.html
 *  JS Response Bytes: 689929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

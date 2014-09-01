@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.onlineradios.in/mobile/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online radio from India - FM radio stations live on internet](http://www.onlineradios.in/mobile/)
 
@@ -29,9 +32,6 @@ title: http://www.onlineradios.in/mobile/
 *  JS Response Bytes: 1693099
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111508
-
-### Performance issues
-
 
 ### Performance issues
 

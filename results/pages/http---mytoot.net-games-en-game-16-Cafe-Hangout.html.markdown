@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://mytoot.net/games/en/game/16/Cafe-Hangout.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games - Cafe Hangout](http://mytoot.net/games/en/game/16/Cafe-Hangout.html)
 
@@ -29,9 +36,6 @@ title: http://mytoot.net/games/en/game/16/Cafe-Hangout.html
 *  JS Response Bytes: 443965
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58897
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.drogbaster.it/tools/convertitore_chrome.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [▷ Convertitore di distanze, pesi e capacita, calcola con il tools gratis](http://www.drogbaster.it/tools/convertitore_chrome.html)
 
@@ -29,9 +32,6 @@ title: http://www.drogbaster.it/tools/convertitore_chrome.html
 *  JS Response Bytes: 1743721
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 129545
-
-### Performance issues
-
 
 ### Performance issues
 

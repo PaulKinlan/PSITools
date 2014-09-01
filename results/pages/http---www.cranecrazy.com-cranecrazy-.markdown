@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.cranecrazy.com/cranecrazy/
+AvoidPlugins: true
 ---
 ## [Crane Crazy](http://www.cranecrazy.com/cranecrazy/)
 
@@ -29,9 +30,6 @@ title: http://www.cranecrazy.com/cranecrazy/
 *  JS Response Bytes: 349626
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 514
-
-### Performance issues
-
 
 ### Performance issues
 

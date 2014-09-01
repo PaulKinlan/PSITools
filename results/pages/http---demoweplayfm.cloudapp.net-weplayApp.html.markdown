@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://demoweplayfm.cloudapp.net/weplayApp.html
+EnableGzipCompression: true
+AvoidPlugins: true
 ---
 ## [Weplay.fm](http://demoweplayfm.cloudapp.net/weplayApp.html)
 
@@ -29,9 +31,6 @@ title: http://demoweplayfm.cloudapp.net/weplayApp.html
 *  JS Response Bytes: 443027
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

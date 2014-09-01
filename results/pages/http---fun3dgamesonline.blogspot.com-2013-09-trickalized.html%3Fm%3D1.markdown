@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://fun3dgamesonline.blogspot.com/2013/09/trickalized.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Fun 3D Games Online: Trickalized](http://fun3dgamesonline.blogspot.com/2013/09/trickalized.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://fun3dgamesonline.blogspot.com/2013/09/trickalized.html?m=1
 *  JS Response Bytes: 873737
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95586
-
-### Performance issues
-
 
 ### Performance issues
 

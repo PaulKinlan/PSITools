@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://minigames.mail.ru/pazl
+MinimizeRenderBlockingResources: true
 ---
 ## [Мини-игры@Mail.Ru](http://minigames.mail.ru/pazl)
 
@@ -29,9 +30,6 @@ title: http://minigames.mail.ru/pazl
 *  JS Response Bytes: 103992
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

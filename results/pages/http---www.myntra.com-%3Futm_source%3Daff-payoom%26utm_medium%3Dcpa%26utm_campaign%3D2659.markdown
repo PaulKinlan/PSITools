@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.myntra.com/?utm_source=aff-payoom&utm_medium=cpa&utm_campaign=2659
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Shopping India - Shop Online for Branded Shoes, Clothing & Accessories in India | Myntra.com](http://www.myntra.com/?utm_source=aff-payoom&utm_medium=cpa&utm_campaign=2659)
 
@@ -29,9 +33,6 @@ title: http://www.myntra.com/?utm_source=aff-payoom&utm_medium=cpa&utm_campaign=
 *  JS Response Bytes: 517663
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25583
-
-### Performance issues
-
 
 ### Performance issues
 

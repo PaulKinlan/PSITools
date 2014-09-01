@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://letsgeddit.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [geddit](http://letsgeddit.com/)
 
@@ -29,9 +32,6 @@ title: http://letsgeddit.com/
 *  JS Response Bytes: 1468077
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 606
-
-### Performance issues
-
 
 ### Performance issues
 

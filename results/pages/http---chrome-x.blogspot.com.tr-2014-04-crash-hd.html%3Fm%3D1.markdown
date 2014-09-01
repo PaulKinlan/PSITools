@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chrome-x.blogspot.com.tr/2014/04/crash-hd.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Chrome Best Game And Aplication: crash HD](http://chrome-x.blogspot.com.tr/2014/04/crash-hd.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chrome-x.blogspot.com.tr/2014/04/crash-hd.html?m=1
 *  JS Response Bytes: 721003
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95572
-
-### Performance issues
-
 
 ### Performance issues
 

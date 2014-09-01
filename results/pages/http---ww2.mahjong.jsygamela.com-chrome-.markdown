@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.mahjong.jsygamela.com/chrome/
+SizeTapTargetsAppropriately: true
 ---
 ## [jsygamela.com](http://ww2.mahjong.jsygamela.com/chrome/)
 
@@ -29,9 +30,6 @@ title: http://ww2.mahjong.jsygamela.com/chrome/
 *  JS Response Bytes: 229919
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21038
-
-### Performance issues
-
 
 ### Performance issues
 

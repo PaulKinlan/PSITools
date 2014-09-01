@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/ultimate-football/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ultimate Football Game](http://www.footballgam.es/ultimate-football/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/ultimate-football/
 *  JS Response Bytes: 2296847
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155585
-
-### Performance issues
-
 
 ### Performance issues
 

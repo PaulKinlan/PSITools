@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chromegamesbox.com/game/miragine-war-563
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Miragine War Game - Chrome Games Box](http://www.chromegamesbox.com/game/miragine-war-563)
 
@@ -29,9 +35,6 @@ title: http://www.chromegamesbox.com/game/miragine-war-563
 *  JS Response Bytes: 1243782
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

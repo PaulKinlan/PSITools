@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.sonypictures.com/error/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Sony Pictures - Error](http://www.sonypictures.com/error/index.html)
 
@@ -29,9 +31,6 @@ title: http://www.sonypictures.com/error/index.html
 *  JS Response Bytes: 335123
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 75201
-
-### Performance issues
-
 
 ### Performance issues
 

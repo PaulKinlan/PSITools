@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mobile.vivacupom.com.br/home/sao-paulo-sp
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [São Paulo Cupons de Desconto](http://mobile.vivacupom.com.br/home/sao-paulo-sp)
 
@@ -29,9 +32,6 @@ title: http://mobile.vivacupom.com.br/home/sao-paulo-sp
 *  JS Response Bytes: 396191
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13588
-
-### Performance issues
-
 
 ### Performance issues
 

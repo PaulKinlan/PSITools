@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://presefy.com/#/login?redirectTo=%2Fdashboard
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Go Mobile with your Presentations - Presefy.com](https://presefy.com/#/login?redirectTo=%2Fdashboard)
 
@@ -29,9 +31,6 @@ title: https://presefy.com/#/login?redirectTo=%2Fdashboard
 *  JS Response Bytes: 675038
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13020
-
-### Performance issues
-
 
 ### Performance issues
 

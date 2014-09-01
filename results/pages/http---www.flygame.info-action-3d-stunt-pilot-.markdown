@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.flygame.info/action/3d-stunt-pilot-
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Stunt Pilot - FLY GaMe - New Online Flash Games](http://www.flygame.info/action/3d-stunt-pilot-)
 
@@ -29,9 +36,6 @@ title: http://www.flygame.info/action/3d-stunt-pilot-
 *  JS Response Bytes: 2322008
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 128901
-
-### Performance issues
-
 
 ### Performance issues
 

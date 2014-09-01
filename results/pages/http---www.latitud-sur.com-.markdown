@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.latitud-sur.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Latitud Online](http://www.latitud-sur.com/)
 
@@ -29,9 +33,6 @@ title: http://www.latitud-sur.com/
 *  JS Response Bytes: 1406257
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4051
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://joshuaklosterman.com/sdsu-pdc/ee-xvii
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Extreme Enigma XVII | Joshua Klosterman](http://joshuaklosterman.com/sdsu-pdc/ee-xvii)
 
@@ -29,9 +33,6 @@ title: http://joshuaklosterman.com/sdsu-pdc/ee-xvii
 *  JS Response Bytes: 261480
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 252
-
-### Performance issues
-
 
 ### Performance issues
 

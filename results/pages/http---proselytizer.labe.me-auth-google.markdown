@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://proselytizer.labe.me/auth/google
+UseLegibleFontSizes: true
 ---
 ## [502 Bad Gateway](http://proselytizer.labe.me/auth/google)
 
@@ -29,9 +30,6 @@ title: http://proselytizer.labe.me/auth/google
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 302
-
-### Performance issues
-
 
 ### Performance issues
 

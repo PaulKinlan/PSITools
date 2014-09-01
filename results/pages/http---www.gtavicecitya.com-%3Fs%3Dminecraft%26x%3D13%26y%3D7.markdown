@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gtavicecitya.com/?s=minecraft&x=13&y=7
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [minecraft « Search Results « free gta game vice city](http://www.gtavicecitya.com/?s=minecraft&x=13&y=7)
 
@@ -29,9 +34,6 @@ title: http://www.gtavicecitya.com/?s=minecraft&x=13&y=7
 *  JS Response Bytes: 1111439
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14380
-
-### Performance issues
-
 
 ### Performance issues
 

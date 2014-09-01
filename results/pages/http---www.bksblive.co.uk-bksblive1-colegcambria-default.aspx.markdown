@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bksblive.co.uk/bksblive1/colegcambria/default.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [bksbLive](http://www.bksblive.co.uk/bksblive1/colegcambria/default.aspx)
 
@@ -29,9 +33,6 @@ title: http://www.bksblive.co.uk/bksblive1/colegcambria/default.aspx
 *  JS Response Bytes: 353171
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6469
-
-### Performance issues
-
 
 ### Performance issues
 

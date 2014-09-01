@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gameflare.com/online-game/red-crucible-2/#utm_source=app&utm_medium=game&utm_campaign=Red
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Red Crucible 2 - online game | GameFlare.com](http://www.gameflare.com/online-game/red-crucible-2/#utm_source=app&utm_medium=game&utm_campaign=Red)
 
@@ -29,9 +35,6 @@ title: http://www.gameflare.com/online-game/red-crucible-2/#utm_source=app&utm_m
 *  JS Response Bytes: 2371701
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 305761
-
-### Performance issues
-
 
 ### Performance issues
 

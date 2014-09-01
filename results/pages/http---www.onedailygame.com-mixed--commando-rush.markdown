@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.onedailygame.com/mixed/-commando-rush
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Commando: Rush - OneDailyGame](http://www.onedailygame.com/mixed/-commando-rush)
 
@@ -29,9 +33,6 @@ title: http://www.onedailygame.com/mixed/-commando-rush
 *  JS Response Bytes: 1728883
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51489
-
-### Performance issues
-
 
 ### Performance issues
 

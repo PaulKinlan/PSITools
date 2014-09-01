@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://hummingbirdapp.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hummingbird - Collaborative Project Management](http://hummingbirdapp.com/)
 
@@ -29,9 +33,6 @@ title: http://hummingbirdapp.com/
 *  JS Response Bytes: 182169
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

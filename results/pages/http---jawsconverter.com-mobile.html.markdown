@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://jawsconverter.com/mobile.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [JAWS Converter](http://jawsconverter.com/mobile.html)
 
@@ -29,9 +31,6 @@ title: http://jawsconverter.com/mobile.html
 *  JS Response Bytes: 174524
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24148
-
-### Performance issues
-
 
 ### Performance issues
 

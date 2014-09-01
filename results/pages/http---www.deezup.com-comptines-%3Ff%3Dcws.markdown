@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.deezup.com/comptines/?f=cws
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
 ---
 ## [iComptines](http://www.deezup.com/comptines/?f=cws)
 
@@ -29,9 +32,6 @@ title: http://www.deezup.com/comptines/?f=cws
 *  JS Response Bytes: 122007
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 518
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://nesninja.com/game/teenage-mutant-ninja-turtles-iii-the-manhattan-project#.U_eHd00ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Teenage Mutant Ninja Turtles III - The Manhattan Project » NES Ninja](http://nesninja.com/game/teenage-mutant-ninja-turtles-iii-the-manhattan-project#.U_eHd00ieKA)
 
@@ -29,9 +32,6 @@ title: http://nesninja.com/game/teenage-mutant-ninja-turtles-iii-the-manhattan-p
 *  JS Response Bytes: 2316004
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 176872
-
-### Performance issues
-
 
 ### Performance issues
 

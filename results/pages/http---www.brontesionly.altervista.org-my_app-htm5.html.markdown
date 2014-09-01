@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.brontesionly.altervista.org/my_app/htm5.html
+UseLegibleFontSizes: true
 ---
 ## [HTML 5 Tags and Other](http://www.brontesionly.altervista.org/my_app/htm5.html)
 
@@ -29,9 +30,6 @@ title: http://www.brontesionly.altervista.org/my_app/htm5.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

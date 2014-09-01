@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.evolvedonlinegames.com/app.php?id=3222
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pink Archer](http://www.evolvedonlinegames.com/app.php?id=3222)
 
@@ -29,9 +34,6 @@ title: http://www.evolvedonlinegames.com/app.php?id=3222
 *  JS Response Bytes: 903606
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97763
-
-### Performance issues
-
 
 ### Performance issues
 

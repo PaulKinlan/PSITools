@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://dudak.khsarwen.sk/games/monkey_roll/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://dudak.khsarwen.sk/games/monkey_roll/)
 
@@ -29,9 +35,6 @@ title: http://dudak.khsarwen.sk/games/monkey_roll/
 *  JS Response Bytes: 644468
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

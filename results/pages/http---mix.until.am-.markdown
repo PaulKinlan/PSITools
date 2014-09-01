@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://mix.until.am/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Until AM - Virtual Turntables in Your Browser](http://mix.until.am/)
 
@@ -29,9 +35,6 @@ title: http://mix.until.am/
 *  JS Response Bytes: 51656
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

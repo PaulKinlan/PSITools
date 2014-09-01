@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/actiongames/hambo/#.U_ubEk0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hambo « Online Flash Game Hambo](http://gamematic.net/online-flash-games/actiongames/hambo/#.U_ubEk0ieKA)
 
@@ -29,9 +34,6 @@ title: http://gamematic.net/online-flash-games/actiongames/hambo/#.U_ubEk0ieKA
 *  JS Response Bytes: 2840617
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 72964
-
-### Performance issues
-
 
 ### Performance issues
 

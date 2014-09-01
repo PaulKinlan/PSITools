@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://testee2.internalinsider.info/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Internalinsider.info](http://testee2.internalinsider.info/)
 
@@ -29,9 +31,6 @@ title: http://testee2.internalinsider.info/
 *  JS Response Bytes: 97672
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.pacerfuels.net/mobile/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Pacer Fuels Mobile](https://www.pacerfuels.net/mobile/)
 
@@ -29,9 +32,6 @@ title: https://www.pacerfuels.net/mobile/
 *  JS Response Bytes: 4809
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5107
-
-### Performance issues
-
 
 ### Performance issues
 

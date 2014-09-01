@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.chanukahmahjong.com/ChromeChanukahMahjong.php
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chrome Chanukah Mahjong](http://www.chanukahmahjong.com/ChromeChanukahMahjong.php)
 
@@ -29,9 +32,6 @@ title: http://www.chanukahmahjong.com/ChromeChanukahMahjong.php
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

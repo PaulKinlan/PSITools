@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.hipage.me/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Hi澳門 - 一起走遍澳門](http://www.hipage.me/)
 
@@ -29,9 +31,6 @@ title: http://www.hipage.me/
 *  JS Response Bytes: 547729
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3835
-
-### Performance issues
-
 
 ### Performance issues
 

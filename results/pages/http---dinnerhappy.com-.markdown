@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://dinnerhappy.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Dinner Happy - Dinner Happy](http://dinnerhappy.com/)
 
@@ -29,9 +32,6 @@ title: http://dinnerhappy.com/
 *  JS Response Bytes: 340447
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23571
-
-### Performance issues
-
 
 ### Performance issues
 

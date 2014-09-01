@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tcpwave.com/dnstools.php
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
 ---
 ## [www.tcpwave.com | 404 - Page Cannot Be Found](http://www.tcpwave.com/dnstools.php)
 
@@ -29,9 +32,6 @@ title: http://www.tcpwave.com/dnstools.php
 *  JS Response Bytes: 57473
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 150850
-
-### Performance issues
-
 
 ### Performance issues
 

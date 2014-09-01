@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://howtoloseweightfasting.com/
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [How to lose weight Fasting](http://howtoloseweightfasting.com/)
 
@@ -29,9 +32,6 @@ title: http://howtoloseweightfasting.com/
 *  JS Response Bytes: 1065902
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1584
-
-### Performance issues
-
 
 ### Performance issues
 

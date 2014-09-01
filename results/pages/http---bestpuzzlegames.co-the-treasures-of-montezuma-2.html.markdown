@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://bestpuzzlegames.co/the-treasures-of-montezuma-2.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Puzzle Games – The Treasures Of Montezuma 2](http://bestpuzzlegames.co/the-treasures-of-montezuma-2.html)
 
@@ -29,9 +37,6 @@ title: http://bestpuzzlegames.co/the-treasures-of-montezuma-2.html
 *  JS Response Bytes: 1174469
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1395
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -33,8 +33,5 @@ title: http://bksb.deeside.ac.uk/bksb_portal/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

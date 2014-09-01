@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://unityplay.me/chrome/glow_hockey/webplayer.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Glow Hockey | UnityPlay.com-Flash-Android-Chrome Games](http://unityplay.me/chrome/glow_hockey/webplayer.html)
 
@@ -29,9 +35,6 @@ title: http://unityplay.me/chrome/glow_hockey/webplayer.html
 *  JS Response Bytes: 867176
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4392
-
-### Performance issues
-
 
 ### Performance issues
 

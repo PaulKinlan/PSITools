@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.priceabate.com/
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online shopping exclusive daily deals, coupons, vouchers and more.](http://www.priceabate.com/)
 
@@ -29,9 +31,6 @@ title: http://www.priceabate.com/
 *  JS Response Bytes: 443042
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13407
-
-### Performance issues
-
 
 ### Performance issues
 

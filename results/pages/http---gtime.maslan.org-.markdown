@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gtime.maslan.org/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [gTime](http://gtime.maslan.org/)
 
@@ -29,9 +32,6 @@ title: http://gtime.maslan.org/
 *  JS Response Bytes: 24683
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 891
-
-### Performance issues
-
 
 ### Performance issues
 

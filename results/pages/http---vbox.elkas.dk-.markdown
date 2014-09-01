@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://vbox.elkas.dk/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [phpVirtualBox - VirtualBox Web Console](http://vbox.elkas.dk/)
 
@@ -29,9 +34,6 @@ title: http://vbox.elkas.dk/
 *  JS Response Bytes: 797661
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

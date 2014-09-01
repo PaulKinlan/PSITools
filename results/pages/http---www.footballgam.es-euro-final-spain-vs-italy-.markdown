@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/euro-final-spain-vs-italy/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Euro final Spain vs Italy Game](http://www.footballgam.es/euro-final-spain-vs-italy/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/euro-final-spain-vs-italy/
 *  JS Response Bytes: 2296939
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156806
-
-### Performance issues
-
 
 ### Performance issues
 

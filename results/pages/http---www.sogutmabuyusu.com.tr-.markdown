@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.sogutmabuyusu.com.tr/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Soğutma Büyüsü ve Soğutma Büyüleri](http://www.sogutmabuyusu.com.tr/)
 
@@ -29,9 +33,6 @@ title: http://www.sogutmabuyusu.com.tr/
 *  JS Response Bytes: 137710
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

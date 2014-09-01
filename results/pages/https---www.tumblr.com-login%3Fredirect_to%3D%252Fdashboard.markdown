@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.tumblr.com/login?redirect_to=%2Fdashboard
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Log in | Tumblr](https://www.tumblr.com/login?redirect_to=%2Fdashboard)
 
@@ -29,9 +33,6 @@ title: https://www.tumblr.com/login?redirect_to=%2Fdashboard
 *  JS Response Bytes: 1115114
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1585
-
-### Performance issues
-
 
 ### Performance issues
 

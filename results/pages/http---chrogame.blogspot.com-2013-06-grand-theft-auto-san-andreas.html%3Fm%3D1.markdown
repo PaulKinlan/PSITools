@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chrogame.blogspot.com/2013/06/grand-theft-auto-san-andreas.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [chrogame: Grand Theft Auto: San Andreas](http://chrogame.blogspot.com/2013/06/grand-theft-auto-san-andreas.html?m=1)
 
@@ -18,20 +20,17 @@ title: http://chrogame.blogspot.com/2013/06/grand-theft-auto-san-andreas.html?m=
 *  Number of JS Resources: 19
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 26
-*  Total Request Bytes: 6147
+*  Total Request Bytes: 6145
 
 ### Response data
 
-*  HTML Response Bytes: 93117
+*  HTML Response Bytes: 93097
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 38388
-*  Image Response Bytes: 93316
-*  JS Response Bytes: 1068209
+*  CSS Response Bytes: 38387
+*  Image Response Bytes: 93315
+*  JS Response Bytes: 1068150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98002
-
-### Performance issues
-
 
 ### Performance issues
 

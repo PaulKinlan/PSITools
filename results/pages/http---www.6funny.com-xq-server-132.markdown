@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.6funny.com/xq/server/132
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [星曲 - 第 132 服 | 6Funny 遊戲平台](http://www.6funny.com/xq/server/132)
 
@@ -29,9 +33,6 @@ title: http://www.6funny.com/xq/server/132
 *  JS Response Bytes: 552585
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2849
-
-### Performance issues
-
 
 ### Performance issues
 

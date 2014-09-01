@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ovstatus.nl/chrome/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.ovstatus.nl/chrome/)
 
@@ -29,9 +33,6 @@ title: http://www.ovstatus.nl/chrome/
 *  JS Response Bytes: 290256
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4899
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.rankingcoach.com/en-us
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [rankingCoach – SEO software – Simple do-it-yourself SEO](https://www.rankingcoach.com/en-us)
 
@@ -29,9 +34,6 @@ title: https://www.rankingcoach.com/en-us
 *  JS Response Bytes: 552928
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8747
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.castlefight.de/?pid=1077
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crusaders Glory - Tempelberg](http://www.castlefight.de/?pid=1077)
 
@@ -29,9 +32,6 @@ title: http://www.castlefight.de/?pid=1077
 *  JS Response Bytes: 298053
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

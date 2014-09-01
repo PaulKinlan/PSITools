@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.quecocinohoy.com/app/index.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [¿Que Cocino Hoy? :: Buscador de recetas de cocina](http://www.quecocinohoy.com/app/index.php)
 
@@ -29,9 +32,6 @@ title: http://www.quecocinohoy.com/app/index.php
 *  JS Response Bytes: 91144
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://us.hardware.info/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Hardware.Info](http://us.hardware.info/)
 
@@ -29,9 +33,6 @@ title: http://us.hardware.info/
 *  JS Response Bytes: 468592
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 631
-
-### Performance issues
-
 
 ### Performance issues
 

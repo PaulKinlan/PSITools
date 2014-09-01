@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://e-chromegames.blogspot.com/2013/06/temple-run-oz.html?m=1
+UseLegibleFontSizes: true
 ---
 ## [Service Unavailable](http://e-chromegames.blogspot.com/2013/06/temple-run-oz.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://e-chromegames.blogspot.com/2013/06/temple-run-oz.html?m=1
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1106
-
-### Performance issues
-
 
 ### Performance issues
 

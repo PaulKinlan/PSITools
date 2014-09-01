@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://e.ggtimer.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [E.gg Timer - a simple countdown timer](http://e.ggtimer.com/)
 
@@ -29,9 +33,6 @@ title: http://e.ggtimer.com/
 *  JS Response Bytes: 147159
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

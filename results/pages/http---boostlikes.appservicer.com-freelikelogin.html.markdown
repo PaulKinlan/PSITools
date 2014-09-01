@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://boostlikes.appservicer.com/freelikelogin.html
+MinimizeRenderBlockingResources: true
 ---
 ## [Login - 100% REAL Likes! Buy Facebook, Tiwtter, Youtube and Instagram Likes!](http://boostlikes.appservicer.com/freelikelogin.html)
 
@@ -29,9 +30,6 @@ title: http://boostlikes.appservicer.com/freelikelogin.html
 *  JS Response Bytes: 122737
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 303
-
-### Performance issues
-
 
 ### Performance issues
 

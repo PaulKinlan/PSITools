@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://lannote.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [LanNote](http://lannote.com/)
 
@@ -29,9 +33,6 @@ title: http://lannote.com/
 *  JS Response Bytes: 207355
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29010
-
-### Performance issues
-
 
 ### Performance issues
 

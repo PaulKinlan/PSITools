@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.hernancattaneo.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hernan Cattaneo | DJ/Producer |](http://www.hernancattaneo.com/)
 
@@ -29,9 +34,6 @@ title: http://www.hernancattaneo.com/
 *  JS Response Bytes: 1902069
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4390
-
-### Performance issues
-
 
 ### Performance issues
 

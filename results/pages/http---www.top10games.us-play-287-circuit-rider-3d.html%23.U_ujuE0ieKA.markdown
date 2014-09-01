@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.top10games.us/play/287/circuit-rider-3d.html#.U_ujuE0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Circuit Rider 3D - Top Ten Games](http://www.top10games.us/play/287/circuit-rider-3d.html#.U_ujuE0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.top10games.us/play/287/circuit-rider-3d.html#.U_ujuE0ieKA
 *  JS Response Bytes: 1497359
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16287
-
-### Performance issues
-
 
 ### Performance issues
 

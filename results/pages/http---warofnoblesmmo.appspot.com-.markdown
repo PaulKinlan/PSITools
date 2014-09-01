@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://warofnoblesmmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [War of Nobles](http://warofnoblesmmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://warofnoblesmmo.appspot.com/
 *  JS Response Bytes: 729402
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28406
-
-### Performance issues
-
 
 ### Performance issues
 

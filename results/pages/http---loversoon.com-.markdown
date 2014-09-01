@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://loversoon.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Dating at lover soon](http://loversoon.com/)
 
@@ -29,9 +33,6 @@ title: http://loversoon.com/
 *  JS Response Bytes: 564758
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

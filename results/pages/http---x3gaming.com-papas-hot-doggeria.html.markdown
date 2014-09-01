@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://x3gaming.com/papas-hot-doggeria.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [– Papas Hot Doggeria](http://x3gaming.com/papas-hot-doggeria.html)
 
@@ -29,9 +36,6 @@ title: http://x3gaming.com/papas-hot-doggeria.html
 *  JS Response Bytes: 468493
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3967
-
-### Performance issues
-
 
 ### Performance issues
 

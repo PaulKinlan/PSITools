@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.bloodrights.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Blood Rights](http://www.bloodrights.net/)
 
@@ -29,9 +34,6 @@ title: http://www.bloodrights.net/
 *  JS Response Bytes: 291571
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

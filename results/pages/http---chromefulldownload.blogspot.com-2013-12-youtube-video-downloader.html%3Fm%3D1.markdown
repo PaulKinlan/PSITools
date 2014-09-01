@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromefulldownload.blogspot.com/2013/12/youtube-video-downloader.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://chromefulldownload.blogspot.com/2013/12/youtube-video-downloader.html?m=1)
 
@@ -18,20 +21,17 @@ title: http://chromefulldownload.blogspot.com/2013/12/youtube-video-downloader.h
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 1123
+*  Total Request Bytes: 1122
 
 ### Response data
 
 *  HTML Response Bytes: 0
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 46653
-*  Image Response Bytes: 2951
-*  JS Response Bytes: 41101
+*  CSS Response Bytes: 46651
+*  Image Response Bytes: 2949
+*  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18851
-
-### Performance issues
-
 
 ### Performance issues
 

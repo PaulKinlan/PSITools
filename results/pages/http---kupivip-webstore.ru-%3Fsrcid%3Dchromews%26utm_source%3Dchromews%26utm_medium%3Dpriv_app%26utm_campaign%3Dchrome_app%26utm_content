@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://kupivip-webstore.ru/?srcid=chromews&utm_source=chromews&utm_medium=priv_app&utm_campaign=chrome_app&utm_content=chrome_app
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Страница не найдена](http://kupivip-webstore.ru/?srcid=chromews&utm_source=chromews&utm_medium=priv_app&utm_campaign=chrome_app&utm_content=chrome_app)
 
@@ -29,9 +32,6 @@ title: http://kupivip-webstore.ru/?srcid=chromews&utm_source=chromews&utm_medium
 *  JS Response Bytes: 688769
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 70960
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.miniportail.eu/app_fr/Triviador.htm
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Triviador - Plinga - Miniportale](http://www.miniportail.eu/app_fr/Triviador.htm)
 
@@ -29,9 +34,6 @@ title: http://www.miniportail.eu/app_fr/Triviador.htm
 *  JS Response Bytes: 1379553
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 257290
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://retrieve.rguidelibrary.com/LoginForm.spr
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [](http://retrieve.rguidelibrary.com/LoginForm.spr)
 
@@ -29,9 +33,6 @@ title: http://retrieve.rguidelibrary.com/LoginForm.spr
 *  JS Response Bytes: 796551
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 752
-
-### Performance issues
-
 
 ### Performance issues
 

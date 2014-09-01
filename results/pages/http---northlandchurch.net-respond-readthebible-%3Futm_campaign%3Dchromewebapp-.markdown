@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://northlandchurch.net/respond/readthebible/?utm_campaign=chromewebapp/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Read the Bible at Northland, A Church Distributed](http://northlandchurch.net/respond/readthebible/?utm_campaign=chromewebapp/)
 
@@ -29,9 +32,6 @@ title: http://northlandchurch.net/respond/readthebible/?utm_campaign=chromewebap
 *  JS Response Bytes: 2019230
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1542
-
-### Performance issues
-
 
 ### Performance issues
 

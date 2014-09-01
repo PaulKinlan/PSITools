@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ruiserra.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [. . : Rui Serra Web Site : . .](http://www.ruiserra.com/)
 
@@ -29,9 +34,6 @@ title: http://www.ruiserra.com/
 *  JS Response Bytes: 216965
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

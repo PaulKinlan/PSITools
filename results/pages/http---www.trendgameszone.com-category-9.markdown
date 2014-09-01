@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.trendgameszone.com/category/9
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Car - Trend Games Zone](http://www.trendgameszone.com/category/9)
 
@@ -29,9 +32,6 @@ title: http://www.trendgameszone.com/category/9
 *  JS Response Bytes: 649206
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1194
-
-### Performance issues
-
 
 ### Performance issues
 

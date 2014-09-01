@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamidro.com/play-candy-crush-online-game/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Candy Crush Online Game - Gamidro](http://www.gamidro.com/play-candy-crush-online-game/)
 
@@ -29,9 +34,6 @@ title: http://www.gamidro.com/play-candy-crush-online-game/
 *  JS Response Bytes: 1275171
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 303233
-
-### Performance issues
-
 
 ### Performance issues
 

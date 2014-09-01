@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.moxtra.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Moxtra - Power Messaging](http://www.moxtra.com/)
 
@@ -29,9 +31,6 @@ title: http://www.moxtra.com/
 *  JS Response Bytes: 571015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 367
-
-### Performance issues
-
 
 ### Performance issues
 

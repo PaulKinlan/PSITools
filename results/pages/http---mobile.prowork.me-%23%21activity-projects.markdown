@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mobile.prowork.me/#!activity/projects
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [](http://mobile.prowork.me/#!activity/projects)
 
@@ -29,9 +32,6 @@ title: http://mobile.prowork.me/#!activity/projects
 *  JS Response Bytes: 338392
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3753
-
-### Performance issues
-
 
 ### Performance issues
 

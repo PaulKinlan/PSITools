@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://kidlandia.yolasite.com/Map.aspx.php?SKU=KID_01_07_10X50_GC_SBOB-NICK_GC_SPONGEBOB_2
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://kidlandia.yolasite.com/Map.aspx.php?SKU=KID_01_07_10X50_GC_SBOB-NICK_GC_SPONGEBOB_2)
 
@@ -29,9 +31,6 @@ title: http://kidlandia.yolasite.com/Map.aspx.php?SKU=KID_01_07_10X50_GC_SBOB-NI
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1334
-
-### Performance issues
-
 
 ### Performance issues
 

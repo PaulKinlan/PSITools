@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://login.bundledocs.com/Public/Login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bundledocs](https://login.bundledocs.com/Public/Login)
 
@@ -29,9 +32,6 @@ title: https://login.bundledocs.com/Public/Login
 *  JS Response Bytes: 616011
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 828
-
-### Performance issues
-
 
 ### Performance issues
 

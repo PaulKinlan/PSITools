@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://thruzt.com/
+ServerResponseTime: true
 ---
 ## [thruzt.com](http://thruzt.com/)
 
@@ -29,9 +30,6 @@ title: http://thruzt.com/
 *  JS Response Bytes: 8351
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

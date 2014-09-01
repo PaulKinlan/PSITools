@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://dl.dropboxusercontent.com/u/80050021/PH_Kong_HTML5/index.html
+EnableGzipCompression: true
 ---
 ## [Picture Hangman HD](https://dl.dropboxusercontent.com/u/80050021/PH_Kong_HTML5/index.html)
 
@@ -29,9 +30,6 @@ title: https://dl.dropboxusercontent.com/u/80050021/PH_Kong_HTML5/index.html
 *  JS Response Bytes: 633080
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1498
-
-### Performance issues
-
 
 ### Performance issues
 

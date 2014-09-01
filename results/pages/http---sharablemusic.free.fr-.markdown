@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://sharablemusic.free.fr/
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sharable Music](http://sharablemusic.free.fr/)
 
@@ -29,9 +33,6 @@ title: http://sharablemusic.free.fr/
 *  JS Response Bytes: 1156949
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97372
-
-### Performance issues
-
 
 ### Performance issues
 

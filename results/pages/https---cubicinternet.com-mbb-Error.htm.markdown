@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://cubicinternet.com/mbb/Error.htm
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Error Page](https://cubicinternet.com/mbb/Error.htm)
 
@@ -29,9 +32,6 @@ title: https://cubicinternet.com/mbb/Error.htm
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 442
-
-### Performance issues
-
 
 ### Performance issues
 

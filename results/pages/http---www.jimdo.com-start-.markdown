@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.jimdo.com/start/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Start - Jimdo](http://www.jimdo.com/start/)
 
@@ -29,9 +32,6 @@ title: http://www.jimdo.com/start/
 *  JS Response Bytes: 708245
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56442
-
-### Performance issues
-
 
 ### Performance issues
 

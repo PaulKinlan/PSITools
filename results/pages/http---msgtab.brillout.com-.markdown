@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://msgtab.brillout.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+UseLegibleFontSizes: true
 ---
 ## [](http://msgtab.brillout.com/)
 
@@ -29,9 +32,6 @@ title: http://msgtab.brillout.com/
 *  JS Response Bytes: 26543
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

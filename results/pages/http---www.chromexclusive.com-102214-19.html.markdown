@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.chromexclusive.com/102214/19.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [chromExclusive Play » Bad Piggies HD](http://www.chromexclusive.com/102214/19.html)
 
@@ -29,9 +34,6 @@ title: http://www.chromexclusive.com/102214/19.html
 *  JS Response Bytes: 586782
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

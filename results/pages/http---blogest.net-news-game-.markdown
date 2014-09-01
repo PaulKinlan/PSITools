@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://blogest.net/news/game/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ゲーム最新情報](http://blogest.net/news/game/)
 
@@ -29,9 +33,6 @@ title: http://blogest.net/news/game/
 *  JS Response Bytes: 441040
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

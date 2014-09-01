@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.a4u.com.br/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [a4u - All for You](http://www.a4u.com.br/)
 
@@ -29,9 +32,6 @@ title: http://www.a4u.com.br/
 *  JS Response Bytes: 1515262
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96196
-
-### Performance issues
-
 
 ### Performance issues
 

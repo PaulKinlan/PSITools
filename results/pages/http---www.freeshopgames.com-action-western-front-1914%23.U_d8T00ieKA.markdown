@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.freeshopgames.com/action/western-front-1914#.U_d8T00ieKA
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Western Front 1914 - Free Shop Games](http://www.freeshopgames.com/action/western-front-1914#.U_d8T00ieKA)
 
@@ -29,9 +33,6 @@ title: http://www.freeshopgames.com/action/western-front-1914#.U_d8T00ieKA
 *  JS Response Bytes: 2603787
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63295
-
-### Performance issues
-
 
 ### Performance issues
 

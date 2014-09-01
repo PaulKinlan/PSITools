@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://mycredit-ipoteka.ru/ipoteka_calculator_online/raschet_nalogovye_vychety.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Расчет налогового вычета онлайн | Мой кредит - ипотека.](http://mycredit-ipoteka.ru/ipoteka_calculator_online/raschet_nalogovye_vychety.html)
 
@@ -29,9 +34,6 @@ title: http://mycredit-ipoteka.ru/ipoteka_calculator_online/raschet_nalogovye_vy
 *  JS Response Bytes: 970610
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16782
-
-### Performance issues
-
 
 ### Performance issues
 

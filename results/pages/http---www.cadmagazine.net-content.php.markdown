@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.cadmagazine.net/content.php
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [CAD, GIS, & GPS Magazine](http://www.cadmagazine.net/content.php)
 
@@ -29,9 +33,6 @@ title: http://www.cadmagazine.net/content.php
 *  JS Response Bytes: 488144
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1187
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://edit.vanade.info/
+MinimizeRenderBlockingResources: true
 ---
 ## [<Vanadius /> HTML5 Web Editor Online](http://edit.vanade.info/)
 
@@ -29,9 +30,6 @@ title: http://edit.vanade.info/
 *  JS Response Bytes: 230614
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://thebestwordpress.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://thebestwordpress.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://thebestwordpress.blogspot.com/?m=1
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19242
-
-### Performance issues
-
 
 ### Performance issues
 

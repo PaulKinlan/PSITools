@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.interdidactica.info/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free games for kids boys girls teens](http://www.interdidactica.info/)
 
@@ -29,9 +34,6 @@ title: http://www.interdidactica.info/
 *  JS Response Bytes: 1100317
 *  Flash Response Bytes: 5291
 *  Other Response Bytes: 96778
-
-### Performance issues
-
 
 ### Performance issues
 

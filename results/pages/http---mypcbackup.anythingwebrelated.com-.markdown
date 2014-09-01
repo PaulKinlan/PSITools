@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://mypcbackup.anythingwebrelated.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Anythingwebrelated.com](http://mypcbackup.anythingwebrelated.com/)
 
@@ -29,9 +30,6 @@ title: http://mypcbackup.anythingwebrelated.com/
 *  JS Response Bytes: 9100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.passagetechnology.com/products/agile-project-manager/chrome/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Oops! — Passage Technology](http://www.passagetechnology.com/products/agile-project-manager/chrome/)
 
@@ -29,9 +32,6 @@ title: http://www.passagetechnology.com/products/agile-project-manager/chrome/
 *  JS Response Bytes: 1101996
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148366
-
-### Performance issues
-
 
 ### Performance issues
 

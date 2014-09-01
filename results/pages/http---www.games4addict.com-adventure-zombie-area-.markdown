@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.games4addict.com/adventure/zombie-area/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombie Area | Games 4 Addict](http://www.games4addict.com/adventure/zombie-area/)
 
@@ -29,9 +35,6 @@ title: http://www.games4addict.com/adventure/zombie-area/
 *  JS Response Bytes: 1197202
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 166431
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.linklk.com/login/login?TARGET=http%3A%2F%2Flinkbox.linklk.com%2FFrontController%3Faction%3Dlinklkhome
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [LinkLK Sign In](https://www.linklk.com/login/login?TARGET=http%3A%2F%2Flinkbox.linklk.com%2FFrontController%3Faction%3Dlinklkhome)
 
@@ -29,9 +31,6 @@ title: https://www.linklk.com/login/login?TARGET=http%3A%2F%2Flinkbox.linklk.com
 *  JS Response Bytes: 326625
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 386
-
-### Performance issues
-
 
 ### Performance issues
 

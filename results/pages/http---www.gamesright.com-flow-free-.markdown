@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamesright.com/flow-free/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games Right – Flow Free](http://www.gamesright.com/flow-free/)
 
@@ -29,9 +33,6 @@ title: http://www.gamesright.com/flow-free/
 *  JS Response Bytes: 875995
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15964
-
-### Performance issues
-
 
 ### Performance issues
 

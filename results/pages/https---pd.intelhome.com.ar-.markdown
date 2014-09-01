@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://pd.intelhome.com.ar/
+MinimizeRenderBlockingResources: true
 ---
 ## [Entrar en INTELHOME](https://pd.intelhome.com.ar/)
 
@@ -29,9 +30,6 @@ title: https://pd.intelhome.com.ar/
 *  JS Response Bytes: 123320
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

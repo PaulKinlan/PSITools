@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.masmail.cl/v2/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MasMail | Agencia Digital](http://www.masmail.cl/v2/)
 
@@ -29,9 +34,6 @@ title: http://www.masmail.cl/v2/
 *  JS Response Bytes: 566503
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15001
-
-### Performance issues
-
 
 ### Performance issues
 

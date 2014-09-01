@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://en-game.cuberobotsgames.com/2013/06/3d-falldown.html?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [3D Falldown | Cube Robots](http://en-game.cuberobotsgames.com/2013/06/3d-falldown.html?m=1)
 
@@ -29,9 +36,6 @@ title: http://en-game.cuberobotsgames.com/2013/06/3d-falldown.html?m=1
 *  JS Response Bytes: 3287716
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120418
-
-### Performance issues
-
 
 ### Performance issues
 

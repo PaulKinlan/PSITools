@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://memolas.es/games/doom/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://memolas.es/games/doom/)
 
@@ -29,9 +35,6 @@ title: http://memolas.es/games/doom/
 *  JS Response Bytes: 428949
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

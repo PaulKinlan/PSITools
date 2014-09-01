@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mydrivinggames.com/?chrome
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Driving Games - Car Driving Games - Truck Driving Games](http://www.mydrivinggames.com/?chrome)
 
@@ -29,9 +33,6 @@ title: http://www.mydrivinggames.com/?chrome
 *  JS Response Bytes: 423562
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15815
-
-### Performance issues
-
 
 ### Performance issues
 

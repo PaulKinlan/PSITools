@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://onl9gamess.blogspot.com/2013/10/call-of-duty-ghosts-game-free-online.html?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://onl9gamess.blogspot.com/2013/10/call-of-duty-ghosts-game-free-online.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://onl9gamess.blogspot.com/2013/10/call-of-duty-ghosts-game-free-onli
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18849
-
-### Performance issues
-
 
 ### Performance issues
 

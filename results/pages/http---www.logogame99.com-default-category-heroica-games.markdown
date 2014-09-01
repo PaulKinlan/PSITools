@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.logogame99.com/default-category/heroica-games
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Heroica games - Logogame99](http://www.logogame99.com/default-category/heroica-games)
 
@@ -29,9 +33,6 @@ title: http://www.logogame99.com/default-category/heroica-games
 *  JS Response Bytes: 682483
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15019
-
-### Performance issues
-
 
 ### Performance issues
 

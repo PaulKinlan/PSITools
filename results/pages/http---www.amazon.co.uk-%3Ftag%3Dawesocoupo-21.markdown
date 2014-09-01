@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.amazon.co.uk/?tag=awesocoupo-21
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://www.amazon.co.uk/?tag=awesocoupo-21)
 
@@ -29,9 +32,6 @@ title: http://www.amazon.co.uk/?tag=awesocoupo-21
 *  JS Response Bytes: 254348
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9398
-
-### Performance issues
-
 
 ### Performance issues
 

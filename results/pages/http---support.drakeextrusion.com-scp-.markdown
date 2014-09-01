@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://support.drakeextrusion.com/scp/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [osTicket:: SCP Login](http://support.drakeextrusion.com/scp/)
 
@@ -29,9 +32,6 @@ title: http://support.drakeextrusion.com/scp/
 *  JS Response Bytes: 95086
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 363
-
-### Performance issues
-
 
 ### Performance issues
 

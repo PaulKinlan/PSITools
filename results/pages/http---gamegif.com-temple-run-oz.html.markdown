@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamegif.com/temple-run-oz.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GameGIF.Com – Temple Run OZ](http://gamegif.com/temple-run-oz.html)
 
@@ -29,9 +35,6 @@ title: http://gamegif.com/temple-run-oz.html
 *  JS Response Bytes: 407122
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55527
-
-### Performance issues
-
 
 ### Performance issues
 

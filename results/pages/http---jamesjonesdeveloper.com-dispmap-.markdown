@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://jamesjonesdeveloper.com/dispmap/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Displacement map editor](http://jamesjonesdeveloper.com/dispmap/)
 
@@ -29,9 +33,6 @@ title: http://jamesjonesdeveloper.com/dispmap/
 *  JS Response Bytes: 14485
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 549
-
-### Performance issues
-
 
 ### Performance issues
 

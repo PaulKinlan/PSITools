@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.popob.com/begone-last-stand/#.U_ueWk0ieKA
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Begone : Last Stand – PoPoB Game Area](http://www.popob.com/begone-last-stand/#.U_ueWk0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.popob.com/begone-last-stand/#.U_ueWk0ieKA
 *  JS Response Bytes: 1280888
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 150943
-
-### Performance issues
-
 
 ### Performance issues
 

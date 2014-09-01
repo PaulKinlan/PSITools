@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.perfectgames.net/sports/BMX_Tricks_7879.html#.U_ublU0ieKA
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BMX Tricks_Perfectgames](http://www.perfectgames.net/sports/BMX_Tricks_7879.html#.U_ublU0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.perfectgames.net/sports/BMX_Tricks_7879.html#.U_ublU0ieKA
 *  JS Response Bytes: 219931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7349
-
-### Performance issues
-
 
 ### Performance issues
 

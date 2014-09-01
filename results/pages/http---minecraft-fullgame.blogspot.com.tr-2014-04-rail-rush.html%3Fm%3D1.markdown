@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://minecraft-fullgame.blogspot.com.tr/2014/04/rail-rush.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [minecraft hd game: Rail Rush](http://minecraft-fullgame.blogspot.com.tr/2014/04/rail-rush.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://minecraft-fullgame.blogspot.com.tr/2014/04/rail-rush.html?m=1
 *  JS Response Bytes: 1440491
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99736
-
-### Performance issues
-
 
 ### Performance issues
 

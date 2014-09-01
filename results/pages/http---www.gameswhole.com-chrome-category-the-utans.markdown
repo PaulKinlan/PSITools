@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameswhole.com/chrome-category/the-utans
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Utans - Games Whole](http://www.gameswhole.com/chrome-category/the-utans)
 
@@ -29,9 +34,6 @@ title: http://www.gameswhole.com/chrome-category/the-utans
 *  JS Response Bytes: 758953
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30021
-
-### Performance issues
-
 
 ### Performance issues
 

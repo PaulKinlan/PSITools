@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.weightlossbestbuy.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Weight Loss Best Buy](http://www.weightlossbestbuy.com/)
 
@@ -29,9 +32,6 @@ title: http://www.weightlossbestbuy.com/
 *  JS Response Bytes: 1933139
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97135
-
-### Performance issues
-
 
 ### Performance issues
 

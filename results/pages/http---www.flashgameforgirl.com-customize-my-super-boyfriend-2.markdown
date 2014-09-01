@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.flashgameforgirl.com/customize/my-super-boyfriend-2
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [My super boyfriend 2 - Flash Game For Girl](http://www.flashgameforgirl.com/customize/my-super-boyfriend-2)
 
@@ -29,9 +35,6 @@ title: http://www.flashgameforgirl.com/customize/my-super-boyfriend-2
 *  JS Response Bytes: 2004712
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 128103
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://norsk.rkevin.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Learn Norwegian](http://norsk.rkevin.com/)
 
@@ -29,9 +32,6 @@ title: http://norsk.rkevin.com/
 *  JS Response Bytes: 1567312
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112920
-
-### Performance issues
-
 
 ### Performance issues
 

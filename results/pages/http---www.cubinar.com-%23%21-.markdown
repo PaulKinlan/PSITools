@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.cubinar.com/#!/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Cubinar](http://www.cubinar.com/#!/)
 
@@ -29,9 +34,6 @@ title: http://www.cubinar.com/#!/
 *  JS Response Bytes: 1716559
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2252062
-
-### Performance issues
-
 
 ### Performance issues
 

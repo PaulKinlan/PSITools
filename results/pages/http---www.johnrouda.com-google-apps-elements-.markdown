@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.johnrouda.com/google/apps/elements/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Periodic Table of Elements](http://www.johnrouda.com/google/apps/elements/)
 
@@ -29,9 +32,6 @@ title: http://www.johnrouda.com/google/apps/elements/
 *  JS Response Bytes: 480422
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

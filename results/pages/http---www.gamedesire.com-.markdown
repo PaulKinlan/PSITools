@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.gamedesire.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [iPhone games - GameDesire](http://www.gamedesire.com/)
 
@@ -25,13 +27,10 @@ title: http://www.gamedesire.com/
 *  HTML Response Bytes: 4468
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 8382
-*  Image Response Bytes: 155888
+*  Image Response Bytes: 155887
 *  JS Response Bytes: 31533
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 618
-
-### Performance issues
-
 
 ### Performance issues
 

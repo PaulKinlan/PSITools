@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://freeplaygame99.blogspot.com/2013/08/sports-heads-football.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free play games, card games, casino games online games: Sports Heads Football](http://freeplaygame99.blogspot.com/2013/08/sports-heads-football.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://freeplaygame99.blogspot.com/2013/08/sports-heads-football.html?m=1
 *  JS Response Bytes: 1575696
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 301565
-
-### Performance issues
-
 
 ### Performance issues
 

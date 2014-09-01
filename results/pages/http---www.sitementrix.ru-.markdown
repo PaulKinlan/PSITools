@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.sitementrix.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [. RU домен + веб-сайт за $25/в год-SiteMentrix](http://www.sitementrix.ru/)
 
@@ -29,9 +35,6 @@ title: http://www.sitementrix.ru/
 *  JS Response Bytes: 1806304
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96104
-
-### Performance issues
-
 
 ### Performance issues
 

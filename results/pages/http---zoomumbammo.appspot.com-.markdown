@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://zoomumbammo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ZooMumba](http://zoomumbammo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://zoomumbammo.appspot.com/
 *  JS Response Bytes: 2154021
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 132280
-
-### Performance issues
-
 
 ### Performance issues
 

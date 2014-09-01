@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.hemetusd.org/
+MinimizeRenderBlockingResources: true
 ---
 ## [Hemet Unified School District](http://www.hemetusd.org/)
 
@@ -29,9 +30,6 @@ title: http://www.hemetusd.org/
 *  JS Response Bytes: 164249
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 461
-
-### Performance issues
-
 
 ### Performance issues
 

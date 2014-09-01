@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://chrome.polygonium.com/ballinkhexa/
+EnableGzipCompression: true
 ---
 ## [Ballink: Hexa](http://chrome.polygonium.com/ballinkhexa/)
 
@@ -29,9 +30,6 @@ title: http://chrome.polygonium.com/ballinkhexa/
 *  JS Response Bytes: 152886
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

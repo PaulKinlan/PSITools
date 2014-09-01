@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.magnet-enterprise.com/magnet/login.jsp;jsessionid=2ED248042BF894817DC37BD4B4E1F310
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MAGNET Enterprise](https://www.magnet-enterprise.com/magnet/login.jsp;jsessionid=2ED248042BF894817DC37BD4B4E1F310)
 
@@ -29,9 +34,6 @@ title: https://www.magnet-enterprise.com/magnet/login.jsp;jsessionid=2ED248042BF
 *  JS Response Bytes: 851714
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 602
-
-### Performance issues
-
 
 ### Performance issues
 

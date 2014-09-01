@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://tv.revision3.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Revision3 TV](http://tv.revision3.com/)
 
@@ -29,9 +32,6 @@ title: http://tv.revision3.com/
 *  JS Response Bytes: 905263
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1566
-
-### Performance issues
-
 
 ### Performance issues
 

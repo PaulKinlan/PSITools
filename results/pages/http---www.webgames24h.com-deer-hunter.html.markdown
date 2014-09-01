@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.webgames24h.com/deer-hunter.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Deer Hunter | Web Games 24H](http://www.webgames24h.com/deer-hunter.html)
 
@@ -29,9 +37,6 @@ title: http://www.webgames24h.com/deer-hunter.html
 *  JS Response Bytes: 1529915
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98555
-
-### Performance issues
-
 
 ### Performance issues
 

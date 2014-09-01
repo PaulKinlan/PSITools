@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.amkert.com/chrome
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [amkert.com](http://www.amkert.com/chrome)
 
@@ -29,9 +33,6 @@ title: http://www.amkert.com/chrome
 *  JS Response Bytes: 209104
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

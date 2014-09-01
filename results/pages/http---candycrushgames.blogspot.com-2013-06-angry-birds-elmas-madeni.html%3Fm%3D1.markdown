@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://candycrushgames.blogspot.com/2013/06/angry-birds-elmas-madeni.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ty is awsome](http://candycrushgames.blogspot.com/2013/06/angry-birds-elmas-madeni.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://candycrushgames.blogspot.com/2013/06/angry-birds-elmas-madeni.html
 *  JS Response Bytes: 788486
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331136
-
-### Performance issues
-
 
 ### Performance issues
 

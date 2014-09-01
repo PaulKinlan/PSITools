@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/catacombs/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Catacombs](http://www.war-games.ws/catacombs/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/catacombs/
 *  JS Response Bytes: 2292300
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120564
-
-### Performance issues
-
 
 ### Performance issues
 

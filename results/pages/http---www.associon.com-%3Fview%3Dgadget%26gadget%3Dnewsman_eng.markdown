@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.associon.com/?view=gadget&gadget=newsman_eng
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ASSOCION | GADGET : Newsman - English Version](http://www.associon.com/?view=gadget&gadget=newsman_eng)
 
@@ -29,9 +32,6 @@ title: http://www.associon.com/?view=gadget&gadget=newsman_eng
 *  JS Response Bytes: 2690979
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 197777
-
-### Performance issues
-
 
 ### Performance issues
 

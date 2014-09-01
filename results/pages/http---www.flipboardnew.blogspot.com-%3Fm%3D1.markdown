@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.flipboardnew.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [FlipBoard](http://www.flipboardnew.blogspot.com/?m=1)
 
@@ -29,9 +33,6 @@ title: http://www.flipboardnew.blogspot.com/?m=1
 *  JS Response Bytes: 242545
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 572
-
-### Performance issues
-
 
 ### Performance issues
 

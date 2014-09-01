@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.soccerrush.net/?s=fc_chromestore
+AvoidLandingPageRedirects: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Soccer Rush: the awesome football running game](http://www.soccerrush.net/?s=fc_chromestore)
 
@@ -29,9 +31,6 @@ title: http://www.soccerrush.net/?s=fc_chromestore
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 854
-
-### Performance issues
-
 
 ### Performance issues
 

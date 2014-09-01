@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://planets.nu/#/start
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Planets Nu - VGA Planets Space Strategy Game](http://planets.nu/#/start)
 
@@ -29,9 +33,6 @@ title: http://planets.nu/#/start
 *  JS Response Bytes: 3259493
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1674
-
-### Performance issues
-
 
 ### Performance issues
 

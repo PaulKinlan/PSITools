@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.leandrogarcia.com/blog/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog | Leandro Garcia](http://www.leandrogarcia.com/blog/)
 
@@ -29,9 +33,6 @@ title: http://www.leandrogarcia.com/blog/
 *  JS Response Bytes: 870526
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31546
-
-### Performance issues
-
 
 ### Performance issues
 

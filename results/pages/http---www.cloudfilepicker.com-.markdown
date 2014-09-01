@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.cloudfilepicker.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cloud File Picker](http://www.cloudfilepicker.com/)
 
@@ -29,9 +32,6 @@ title: http://www.cloudfilepicker.com/
 *  JS Response Bytes: 319905
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18235
-
-### Performance issues
-
 
 ### Performance issues
 

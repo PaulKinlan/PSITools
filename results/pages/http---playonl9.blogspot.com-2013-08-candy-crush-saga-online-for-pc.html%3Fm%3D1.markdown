@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playonl9.blogspot.com/2013/08/candy-crush-saga-online-for-pc.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Online: Candy Crush Online for PC](http://playonl9.blogspot.com/2013/08/candy-crush-saga-online-for-pc.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playonl9.blogspot.com/2013/08/candy-crush-saga-online-for-pc.html?
 *  JS Response Bytes: 2355139
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 289861
-
-### Performance issues
-
 
 ### Performance issues
 

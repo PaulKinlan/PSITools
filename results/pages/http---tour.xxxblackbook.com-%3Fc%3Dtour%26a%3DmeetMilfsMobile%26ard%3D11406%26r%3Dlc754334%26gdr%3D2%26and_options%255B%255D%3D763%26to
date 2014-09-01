@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://tour.xxxblackbook.com/?c=tour&a=meetMilfsMobile&ard=11406&r=lc754334&gdr=2&and_options%5B%5D=763&toid=209408&toi=403210&tor=42570&lpid=377
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://tour.xxxblackbook.com/?c=tour&a=meetMilfsMobile&ard=11406&r=lc754334&gdr=2&and_options%5B%5D=763&toid=209408&toi=403210&tor=42570&lpid=377)
 
@@ -29,9 +34,6 @@ title: http://tour.xxxblackbook.com/?c=tour&a=meetMilfsMobile&ard=11406&r=lc7543
 *  JS Response Bytes: 420236
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1072
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bookpic.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [bookpic](http://bookpic.net/)
 
@@ -29,9 +32,6 @@ title: http://bookpic.net/
 *  JS Response Bytes: 557814
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

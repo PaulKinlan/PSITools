@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.myfastclick.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [My Fast Click](http://www.myfastclick.com/)
 
@@ -29,9 +33,6 @@ title: http://www.myfastclick.com/
 *  JS Response Bytes: 658405
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3310
-
-### Performance issues
-
 
 ### Performance issues
 

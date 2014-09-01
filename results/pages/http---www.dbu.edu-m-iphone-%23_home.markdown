@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.dbu.edu/m/iphone/#_home
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [DBU Mobile](http://www.dbu.edu/m/iphone/#_home)
 
@@ -29,9 +32,6 @@ title: http://www.dbu.edu/m/iphone/#_home
 *  JS Response Bytes: 110046
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 346
-
-### Performance issues
-
 
 ### Performance issues
 

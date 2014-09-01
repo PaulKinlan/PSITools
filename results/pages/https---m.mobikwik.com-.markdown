@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://m.mobikwik.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Online Recharge | Online Prepaid Mobile Recharge for Data Cards, DTH Recharge | Pay Your Bill for All Operators](https://m.mobikwik.com/)
 
@@ -29,9 +32,6 @@ title: https://m.mobikwik.com/
 *  JS Response Bytes: 377394
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16101
-
-### Performance issues
-
 
 ### Performance issues
 

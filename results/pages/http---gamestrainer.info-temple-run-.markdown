@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://gamestrainer.info/temple-run/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tic Games Flash Games – Temple Run](http://gamestrainer.info/temple-run/)
 
@@ -29,9 +36,6 @@ title: http://gamestrainer.info/temple-run/
 *  JS Response Bytes: 1029021
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15192
-
-### Performance issues
-
 
 ### Performance issues
 

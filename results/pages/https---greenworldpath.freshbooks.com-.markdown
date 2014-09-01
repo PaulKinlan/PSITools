@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://greenworldpath.freshbooks.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Green World Path Client Login Page](https://greenworldpath.freshbooks.com/)
 
@@ -29,9 +31,6 @@ title: https://greenworldpath.freshbooks.com/
 *  JS Response Bytes: 159586
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59
-
-### Performance issues
-
 
 ### Performance issues
 

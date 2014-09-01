@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.games27.com/cut-the-rope.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cut the Rope | Games 27](http://www.games27.com/cut-the-rope.html)
 
@@ -29,9 +33,6 @@ title: http://www.games27.com/cut-the-rope.html
 *  JS Response Bytes: 1529617
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105436
-
-### Performance issues
-
 
 ### Performance issues
 

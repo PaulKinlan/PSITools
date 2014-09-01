@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://topazbooking.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [FSC](http://topazbooking.com/)
 
@@ -29,9 +32,6 @@ title: http://topazbooking.com/
 *  JS Response Bytes: 245511
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 958
-
-### Performance issues
-
 
 ### Performance issues
 

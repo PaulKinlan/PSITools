@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.goodgame4you.com/game/sushi-chop.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sushi Chop - Action Games - Play Free Online Games](http://www.goodgame4you.com/game/sushi-chop.html)
 
@@ -29,9 +34,6 @@ title: http://www.goodgame4you.com/game/sushi-chop.html
 *  JS Response Bytes: 733363
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16780
-
-### Performance issues
-
 
 ### Performance issues
 

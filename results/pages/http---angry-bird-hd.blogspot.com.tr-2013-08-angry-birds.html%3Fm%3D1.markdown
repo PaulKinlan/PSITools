@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://angry-bird-hd.blogspot.com.tr/2013/08/angry-birds.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [chore store game : Angry Birds](http://angry-bird-hd.blogspot.com.tr/2013/08/angry-birds.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://angry-bird-hd.blogspot.com.tr/2013/08/angry-birds.html?m=1
 *  JS Response Bytes: 721593
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97474
-
-### Performance issues
-
 
 ### Performance issues
 

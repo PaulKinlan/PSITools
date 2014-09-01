@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://optiqal.com/rev-war/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Revolutionary War- Guess My Name](http://optiqal.com/rev-war/)
 
@@ -29,9 +34,6 @@ title: http://optiqal.com/rev-war/
 *  JS Response Bytes: 731272
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24808
-
-### Performance issues
-
 
 ### Performance issues
 

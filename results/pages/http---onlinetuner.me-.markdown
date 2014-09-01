@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://onlinetuner.me/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Tuner » Guitar Tuner - Online Tuner](http://onlinetuner.me/)
 
@@ -29,9 +32,6 @@ title: http://onlinetuner.me/
 *  JS Response Bytes: 1796608
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113733
-
-### Performance issues
-
 
 ### Performance issues
 

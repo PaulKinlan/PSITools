@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.dhr.com/?sm=gchrome
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Discount Hotel Reservations | Discount Online Travel – DHR.com](http://www.dhr.com/?sm=gchrome)
 
@@ -29,9 +33,6 @@ title: http://www.dhr.com/?sm=gchrome
 *  JS Response Bytes: 1309736
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104738
-
-### Performance issues
-
 
 ### Performance issues
 

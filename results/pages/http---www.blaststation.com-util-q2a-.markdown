@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.blaststation.com/util/q2a/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BlastStation: Fastq to Fasta Converter](http://www.blaststation.com/util/q2a/)
 
@@ -29,9 +33,6 @@ title: http://www.blaststation.com/util/q2a/
 *  JS Response Bytes: 56942
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

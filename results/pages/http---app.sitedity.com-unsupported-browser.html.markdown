@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://app.sitedity.com/unsupported-browser.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Unsupported browser - Sitedity](http://app.sitedity.com/unsupported-browser.html)
 
@@ -29,9 +32,6 @@ title: http://app.sitedity.com/unsupported-browser.html
 *  JS Response Bytes: 179487
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 69
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.scsgames.info/webcam-toy/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [403 Forbidden](http://www.scsgames.info/webcam-toy/)
 
@@ -29,9 +31,6 @@ title: http://www.scsgames.info/webcam-toy/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1390
-
-### Performance issues
-
 
 ### Performance issues
 

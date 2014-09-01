@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/shooting/sketchman
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sketchman - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/shooting/sketchman)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/shooting/sketchman
 *  JS Response Bytes: 2179974
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100004
-
-### Performance issues
-
 
 ### Performance issues
 

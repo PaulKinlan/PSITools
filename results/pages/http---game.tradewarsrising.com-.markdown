@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://game.tradewarsrising.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TradeWars:Rising By Sylien Games](http://game.tradewarsrising.com/)
 
@@ -29,9 +32,6 @@ title: http://game.tradewarsrising.com/
 *  JS Response Bytes: 1514842
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97263
-
-### Performance issues
-
 
 ### Performance issues
 

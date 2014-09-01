@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://hanagamelog.blogspot.com/2014/07/monster-warriors.html?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hana GameLog: Monster Warriors](http://hanagamelog.blogspot.com/2014/07/monster-warriors.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://hanagamelog.blogspot.com/2014/07/monster-warriors.html?m=1
 *  JS Response Bytes: 680452
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3024
-
-### Performance issues
-
 
 ### Performance issues
 

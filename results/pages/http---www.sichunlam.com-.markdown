@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.sichunlam.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Si Chun Lam](http://www.sichunlam.com/)
 
@@ -29,9 +33,6 @@ title: http://www.sichunlam.com/
 *  JS Response Bytes: 25557
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26686
-
-### Performance issues
-
 
 ### Performance issues
 

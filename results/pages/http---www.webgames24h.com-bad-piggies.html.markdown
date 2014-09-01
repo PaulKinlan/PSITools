@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.webgames24h.com/bad-piggies.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bad Piggies | Web Games 24H](http://www.webgames24h.com/bad-piggies.html)
 
@@ -29,9 +34,6 @@ title: http://www.webgames24h.com/bad-piggies.html
 *  JS Response Bytes: 1529083
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98559
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://thehospitalityregister.com/backsoon.html
+AvoidLandingPageRedirects: true
+UseLegibleFontSizes: true
 ---
 ## [The Hospitality Register - Back Soon](http://thehospitalityregister.com/backsoon.html)
 
@@ -29,9 +31,6 @@ title: http://thehospitalityregister.com/backsoon.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1190
-
-### Performance issues
-
 
 ### Performance issues
 

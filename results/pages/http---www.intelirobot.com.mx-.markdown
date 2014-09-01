@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.intelirobot.com.mx/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Intelirobot](http://www.intelirobot.com.mx/)
 
@@ -29,9 +33,6 @@ title: http://www.intelirobot.com.mx/
 *  JS Response Bytes: 616386
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24385
-
-### Performance issues
-
 
 ### Performance issues
 

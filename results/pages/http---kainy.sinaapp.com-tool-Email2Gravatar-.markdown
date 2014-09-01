@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://kainy.sinaapp.com/tool/Email2Gravatar/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Email 2 Gravatar——输入Email查看Gravatar头像](http://kainy.sinaapp.com/tool/Email2Gravatar/)
 
@@ -29,9 +32,6 @@ title: http://kainy.sinaapp.com/tool/Email2Gravatar/
 *  JS Response Bytes: 58318
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1141
-
-### Performance issues
-
 
 ### Performance issues
 

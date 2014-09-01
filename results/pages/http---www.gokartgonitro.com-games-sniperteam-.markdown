@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gokartgonitro.com/games/sniperteam/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [XformGames.com | Sniper Team](http://www.gokartgonitro.com/games/sniperteam/)
 
@@ -29,9 +35,6 @@ title: http://www.gokartgonitro.com/games/sniperteam/
 *  JS Response Bytes: 380930
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116737
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://playminicraft.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PlayMinicraft | Minicraft & Minicraft Mods](http://playminicraft.com/)
 
@@ -29,9 +32,6 @@ title: http://playminicraft.com/
 *  JS Response Bytes: 2145541
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119147
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://software.hptonline.co.uk/seotool/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://software.hptonline.co.uk/seotool/)
 
@@ -29,9 +31,6 @@ title: http://software.hptonline.co.uk/seotool/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4670
-
-### Performance issues
-
 
 ### Performance issues
 

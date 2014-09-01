@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/roll-the-ball/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Roll the Ball Game](http://www.footballgam.es/roll-the-ball/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/roll-the-ball/
 *  JS Response Bytes: 2265176
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141972
-
-### Performance issues
-
 
 ### Performance issues
 

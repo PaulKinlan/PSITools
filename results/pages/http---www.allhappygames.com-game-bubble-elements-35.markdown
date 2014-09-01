@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.allhappygames.com/game/bubble-elements-35
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bubble Elements Game - All Happy Games](http://www.allhappygames.com/game/bubble-elements-35)
 
@@ -29,9 +33,6 @@ title: http://www.allhappygames.com/game/bubble-elements-35
 *  JS Response Bytes: 489688
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

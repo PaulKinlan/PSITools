@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://mahjongcubes.funkychromegames.com/mahjongcubes.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mahjong Cubes](http://mahjongcubes.funkychromegames.com/mahjongcubes.htm)
 
@@ -29,9 +35,6 @@ title: http://mahjongcubes.funkychromegames.com/mahjongcubes.htm
 *  JS Response Bytes: 743330
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96181
-
-### Performance issues
-
 
 ### Performance issues
 

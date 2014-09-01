@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.dohop.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Cheap flights, Hotels and Rental cars | Dohop.com](http://www.dohop.com/)
 
@@ -29,9 +31,6 @@ title: http://www.dohop.com/
 *  JS Response Bytes: 727257
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14641
-
-### Performance issues
-
 
 ### Performance issues
 

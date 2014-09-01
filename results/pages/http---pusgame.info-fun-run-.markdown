@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://pusgame.info/fun-run/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PusGame.Info Play Online Game – Fun Run](http://pusgame.info/fun-run/)
 
@@ -29,9 +33,6 @@ title: http://pusgame.info/fun-run/
 *  JS Response Bytes: 729522
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15628
-
-### Performance issues
-
 
 ### Performance issues
 

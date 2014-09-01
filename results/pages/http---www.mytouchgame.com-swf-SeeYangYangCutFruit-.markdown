@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mytouchgame.com/swf/SeeYangYangCutFruit/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [My Touch Game -觸控遊戲部落》喜羊羊切水果](http://www.mytouchgame.com/swf/SeeYangYangCutFruit/)
 
@@ -29,9 +34,6 @@ title: http://www.mytouchgame.com/swf/SeeYangYangCutFruit/
 *  JS Response Bytes: 429733
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1745
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://freenotebook.net/
+MinimizeRenderBlockingResources: true
 ---
 ## [A simple free online notebook - No login required](http://freenotebook.net/)
 
@@ -29,9 +30,6 @@ title: http://freenotebook.net/
 *  JS Response Bytes: 665233
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19411
-
-### Performance issues
-
 
 ### Performance issues
 

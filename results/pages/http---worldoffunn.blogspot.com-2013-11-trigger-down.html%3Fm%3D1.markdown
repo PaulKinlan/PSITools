@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://worldoffunn.blogspot.com/2013/11/trigger-down.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [World Of Fun: Trigger Down](http://worldoffunn.blogspot.com/2013/11/trigger-down.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://worldoffunn.blogspot.com/2013/11/trigger-down.html?m=1
 *  JS Response Bytes: 1180531
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113161
-
-### Performance issues
-
 
 ### Performance issues
 

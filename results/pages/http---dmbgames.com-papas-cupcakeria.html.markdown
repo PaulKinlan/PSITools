@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://dmbgames.com/papas-cupcakeria.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DMBGames.Com – Papa’s Cupcakeria](http://dmbgames.com/papas-cupcakeria.html)
 
@@ -29,9 +35,6 @@ title: http://dmbgames.com/papas-cupcakeria.html
 *  JS Response Bytes: 546188
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27845
-
-### Performance issues
-
 
 ### Performance issues
 

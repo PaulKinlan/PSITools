@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/Trick-Or-Treat/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Trick Or Treat](http://www.fupa.com/apps/Trick-Or-Treat/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/Trick-Or-Treat/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

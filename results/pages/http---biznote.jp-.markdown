@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://biznote.jp/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [bizNote | 経費管理の新しいカタチ](http://biznote.jp/)
 
@@ -29,9 +31,6 @@ title: http://biznote.jp/
 *  JS Response Bytes: 437847
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 575
-
-### Performance issues
-
 
 ### Performance issues
 

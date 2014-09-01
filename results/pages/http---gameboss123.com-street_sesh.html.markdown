@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://gameboss123.com/street_sesh.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Street Sesh ~ This online game is so addictive](http://gameboss123.com/street_sesh.html)
 
@@ -29,9 +36,6 @@ title: http://gameboss123.com/street_sesh.html
 *  JS Response Bytes: 1010625
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27004
-
-### Performance issues
-
 
 ### Performance issues
 

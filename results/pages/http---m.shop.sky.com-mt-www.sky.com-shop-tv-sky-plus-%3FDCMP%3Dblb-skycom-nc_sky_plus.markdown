@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.shop.sky.com/mt/www.sky.com/shop/tv/sky-plus/?DCMP=blb-skycom:nc_sky_plus
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sky Mobile](http://m.shop.sky.com/mt/www.sky.com/shop/tv/sky-plus/?DCMP=blb-skycom:nc_sky_plus)
 
@@ -29,9 +33,6 @@ title: http://m.shop.sky.com/mt/www.sky.com/shop/tv/sky-plus/?DCMP=blb-skycom:nc
 *  JS Response Bytes: 82697
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4538
-
-### Performance issues
-
 
 ### Performance issues
 

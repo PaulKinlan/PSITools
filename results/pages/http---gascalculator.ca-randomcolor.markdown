@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gascalculator.ca/randomcolor
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Random Colour Generator](http://gascalculator.ca/randomcolor)
 
@@ -29,9 +34,6 @@ title: http://gascalculator.ca/randomcolor
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24681
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gospelebooks.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gospel eBooks - Free & Discount Christian e-Books](http://www.gospelebooks.net/)
 
@@ -29,9 +33,6 @@ title: http://www.gospelebooks.net/
 *  JS Response Bytes: 1266194
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105925
-
-### Performance issues
-
 
 ### Performance issues
 

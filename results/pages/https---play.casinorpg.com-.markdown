@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://play.casinorpg.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [CasinoRPG](https://play.casinorpg.com/)
 
@@ -29,9 +32,6 @@ title: https://play.casinorpg.com/
 *  JS Response Bytes: 2887381
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

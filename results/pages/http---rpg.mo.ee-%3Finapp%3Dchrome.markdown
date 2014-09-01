@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://rpg.mo.ee/?inapp=chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [RPG MO](http://rpg.mo.ee/?inapp=chrome)
 
@@ -29,9 +32,6 @@ title: http://rpg.mo.ee/?inapp=chrome
 *  JS Response Bytes: 1761989
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

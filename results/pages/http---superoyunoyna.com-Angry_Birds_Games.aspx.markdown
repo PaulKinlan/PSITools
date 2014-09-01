@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://superoyunoyna.com/Angry_Birds_Games.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Games free flash online 3D oyun oyna | Super oyun oyna](http://superoyunoyna.com/Angry_Birds_Games.aspx)
 
@@ -29,9 +34,6 @@ title: http://superoyunoyna.com/Angry_Birds_Games.aspx
 *  JS Response Bytes: 398604
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57513
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.defendokravmaga.it/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Defendo](http://m.defendokravmaga.it/)
 
@@ -29,9 +33,6 @@ title: http://m.defendokravmaga.it/
 *  JS Response Bytes: 124881
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18294
-
-### Performance issues
-
 
 ### Performance issues
 

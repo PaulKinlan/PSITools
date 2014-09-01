@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.bestwebhostingplus.net/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Best Web Hosting](http://www.bestwebhostingplus.net/)
 
@@ -29,9 +31,6 @@ title: http://www.bestwebhostingplus.net/
 *  JS Response Bytes: 34935
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2957
-
-### Performance issues
-
 
 ### Performance issues
 

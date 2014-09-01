@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.frivgamesonline.info/talking-tom-cat.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Talking Tom Cat : Friv Games Online](http://www.frivgamesonline.info/talking-tom-cat.html)
 
@@ -29,9 +34,6 @@ title: http://www.frivgamesonline.info/talking-tom-cat.html
 *  JS Response Bytes: 1900610
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 108909
-
-### Performance issues
-
 
 ### Performance issues
 

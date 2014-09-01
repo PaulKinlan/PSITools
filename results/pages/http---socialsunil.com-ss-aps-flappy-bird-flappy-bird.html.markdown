@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://socialsunil.com/ss/aps/flappy-bird/flappy-bird.html
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flappy Bird Game](http://socialsunil.com/ss/aps/flappy-bird/flappy-bird.html)
 
@@ -29,9 +33,6 @@ title: http://socialsunil.com/ss/aps/flappy-bird/flappy-bird.html
 *  JS Response Bytes: 412905
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

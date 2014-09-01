@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.1playgame.com/index.php?ara=jetpack
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://www.1playgame.com/index.php?ara=jetpack)
 
@@ -29,9 +31,6 @@ title: http://www.1playgame.com/index.php?ara=jetpack
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2169
-
-### Performance issues
-
 
 ### Performance issues
 

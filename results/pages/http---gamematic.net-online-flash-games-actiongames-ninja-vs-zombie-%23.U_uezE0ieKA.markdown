@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/actiongames/ninja-vs-zombie/#.U_uezE0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ninja Vs Zombie « Online Flash Game Ninja Vs Zombie](http://gamematic.net/online-flash-games/actiongames/ninja-vs-zombie/#.U_uezE0ieKA)
 
@@ -29,9 +34,6 @@ title: http://gamematic.net/online-flash-games/actiongames/ninja-vs-zombie/#.U_u
 *  JS Response Bytes: 1426878
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51664
-
-### Performance issues
-
 
 ### Performance issues
 

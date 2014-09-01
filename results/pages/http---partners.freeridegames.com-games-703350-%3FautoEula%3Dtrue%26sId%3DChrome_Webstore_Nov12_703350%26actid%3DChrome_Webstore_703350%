@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://partners.freeridegames.com/games/703350/?autoEula=true&sId=Chrome_Webstore_Nov12_703350&actid=Chrome_Webstore_703350&src=Chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download The Legend of El Dorado for free at FreeRide Games!](http://partners.freeridegames.com/games/703350/?autoEula=true&sId=Chrome_Webstore_Nov12_703350&actid=Chrome_Webstore_703350&src=Chrome)
 
@@ -29,9 +35,6 @@ title: http://partners.freeridegames.com/games/703350/?autoEula=true&sId=Chrome_
 *  JS Response Bytes: 1758019
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29962
-
-### Performance issues
-
 
 ### Performance issues
 

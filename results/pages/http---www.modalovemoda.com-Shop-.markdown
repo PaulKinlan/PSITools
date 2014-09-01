@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.modalovemoda.com/Shop/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MODA 流行製造機｜線上東大門｜韓國品牌空運正韓貨女裝服飾](http://www.modalovemoda.com/Shop/)
 
@@ -29,9 +36,6 @@ title: http://www.modalovemoda.com/Shop/
 *  JS Response Bytes: 1569800
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8391
-
-### Performance issues
-
 
 ### Performance issues
 

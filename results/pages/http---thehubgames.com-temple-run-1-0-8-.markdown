@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://thehubgames.com/temple-run-1-0-8/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Thehubgames.com](http://thehubgames.com/temple-run-1-0-8/)
 
@@ -29,9 +31,6 @@ title: http://thehubgames.com/temple-run-1-0-8/
 *  JS Response Bytes: 167749
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

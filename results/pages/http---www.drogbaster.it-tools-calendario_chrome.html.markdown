@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.drogbaster.it/tools/calendario_chrome.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [▷ Calendario completo di orologio personalizzato](http://www.drogbaster.it/tools/calendario_chrome.html)
 
@@ -29,9 +34,6 @@ title: http://www.drogbaster.it/tools/calendario_chrome.html
 *  JS Response Bytes: 1940845
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 123402
-
-### Performance issues
-
 
 ### Performance issues
 

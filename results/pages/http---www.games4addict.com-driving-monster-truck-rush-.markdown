@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.games4addict.com/driving/monster-truck-rush/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Monster Truck Rush | Games 4 Addict](http://www.games4addict.com/driving/monster-truck-rush/)
 
@@ -29,9 +36,6 @@ title: http://www.games4addict.com/driving/monster-truck-rush/
 *  JS Response Bytes: 1200146
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 167458
-
-### Performance issues
-
 
 ### Performance issues
 

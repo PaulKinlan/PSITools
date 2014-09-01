@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://hw1.kapiyor.com/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Index of /](http://hw1.kapiyor.com/)
 
@@ -29,9 +31,6 @@ title: http://hw1.kapiyor.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

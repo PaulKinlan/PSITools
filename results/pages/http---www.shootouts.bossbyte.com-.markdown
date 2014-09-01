@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.shootouts.bossbyte.com/
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shootouts - western shooting game](http://www.shootouts.bossbyte.com/)
 
@@ -29,9 +32,6 @@ title: http://www.shootouts.bossbyte.com/
 *  JS Response Bytes: 1601830
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96979
-
-### Performance issues
-
 
 ### Performance issues
 

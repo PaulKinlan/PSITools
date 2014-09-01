@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.capitainetrain.com/signup
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Réservation et achat de billets de train - Capitaine Train](https://www.capitainetrain.com/signup)
 
@@ -29,9 +33,6 @@ title: https://www.capitainetrain.com/signup
 *  JS Response Bytes: 1724762
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5843
-
-### Performance issues
-
 
 ### Performance issues
 

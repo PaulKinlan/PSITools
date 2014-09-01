@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.drogbaster.it/photoshop_online.htm
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Fotomontaggi ed photoshop online gratis](http://www.drogbaster.it/photoshop_online.htm)
 
@@ -29,9 +32,6 @@ title: http://www.drogbaster.it/photoshop_online.htm
 *  JS Response Bytes: 1855228
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 130000
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromewebgame.com/?=404;http://www.chromewebgame.com:80/jetpack-joyride/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [chromewebgame.com](http://chromewebgame.com/?=404;http://www.chromewebgame.com:80/jetpack-joyride/&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://chromewebgame.com/?=404;http://www.chromewebgame.com:80/jetpack-jo
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113
-
-### Performance issues
-
 
 ### Performance issues
 

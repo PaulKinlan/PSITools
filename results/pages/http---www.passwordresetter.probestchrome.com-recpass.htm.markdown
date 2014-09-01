@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.passwordresetter.probestchrome.com/recpass.htm
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [RECOVERY PASSWORD](http://www.passwordresetter.probestchrome.com/recpass.htm)
 
@@ -29,9 +32,6 @@ title: http://www.passwordresetter.probestchrome.com/recpass.htm
 *  JS Response Bytes: 386667
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29809
-
-### Performance issues
-
 
 ### Performance issues
 

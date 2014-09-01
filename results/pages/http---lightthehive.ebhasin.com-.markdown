@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://lightthehive.ebhasin.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Light The Hive -::- Bhasinsoft](http://lightthehive.ebhasin.com/)
 
@@ -29,9 +33,6 @@ title: http://lightthehive.ebhasin.com/
 *  JS Response Bytes: 524710
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

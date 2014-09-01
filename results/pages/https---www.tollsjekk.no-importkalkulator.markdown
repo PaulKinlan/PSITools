@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.tollsjekk.no/importkalkulator
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [TollSjekk – Importkalkulator](https://www.tollsjekk.no/importkalkulator)
 
@@ -29,9 +32,6 @@ title: https://www.tollsjekk.no/importkalkulator
 *  JS Response Bytes: 3053
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

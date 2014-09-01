@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chirbook.com/?=404;http://chirbook.com:80/voyage/games/candycrushsaga.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [chirbook.com](http://chirbook.com/?=404;http://chirbook.com:80/voyage/games/candycrushsaga.html&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://chirbook.com/?=404;http://chirbook.com:80/voyage/games/candycrushs
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115
-
-### Performance issues
-
 
 ### Performance issues
 

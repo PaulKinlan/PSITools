@@ -33,8 +33,5 @@ title: http://www.flyordie.com/games/sites/chrome/memory.html
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

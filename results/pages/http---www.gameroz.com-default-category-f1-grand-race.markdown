@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameroz.com/default-category/f1-grand-race
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [F1 Grand Race - Gameroz.com](http://www.gameroz.com/default-category/f1-grand-race)
 
@@ -29,9 +34,6 @@ title: http://www.gameroz.com/default-category/f1-grand-race
 *  JS Response Bytes: 4024069
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106917
-
-### Performance issues
-
 
 ### Performance issues
 

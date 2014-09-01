@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamezhero.com/games/zombiesincentralpark?utm_campaign=chrome&utm_source=launch&utm_medium=zombiesincentralpark
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombies in Central Park | Games | Free Online Games @ Gamezhero.com](http://www.gamezhero.com/games/zombiesincentralpark?utm_campaign=chrome&utm_source=launch&utm_medium=zombiesincentralpark)
 
@@ -29,9 +35,6 @@ title: http://www.gamezhero.com/games/zombiesincentralpark?utm_campaign=chrome&u
 *  JS Response Bytes: 2094123
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109599
-
-### Performance issues
-
 
 ### Performance issues
 

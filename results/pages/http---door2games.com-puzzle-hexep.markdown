@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://door2games.com/puzzle/hexep
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hexep - Free Online Games | Door 2 Games](http://door2games.com/puzzle/hexep)
 
@@ -29,9 +35,6 @@ title: http://door2games.com/puzzle/hexep
 *  JS Response Bytes: 743204
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 137957
-
-### Performance issues
-
 
 ### Performance issues
 

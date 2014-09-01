@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.businessfleet.com/?utm_campaign=Google-Chrome-Web-App&utm_source=chrome-web-app&utm_medium=chrome-web-app
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
 ---
 ## [Business Fleet - Serves the Commercial Small Fleet Market of 10 – 50 Vehicles](http://m.businessfleet.com/?utm_campaign=Google-Chrome-Web-App&utm_source=chrome-web-app&utm_medium=chrome-web-app)
 
@@ -29,9 +32,6 @@ title: http://m.businessfleet.com/?utm_campaign=Google-Chrome-Web-App&utm_source
 *  JS Response Bytes: 402084
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 639
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://typingfaster.net/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Typing Games and Typing Speed Tests](http://typingfaster.net/)
 
@@ -29,9 +35,6 @@ title: http://typingfaster.net/
 *  JS Response Bytes: 2392278
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 317754
-
-### Performance issues
-
 
 ### Performance issues
 

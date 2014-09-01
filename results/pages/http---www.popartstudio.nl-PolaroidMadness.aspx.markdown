@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.popartstudio.nl/PolaroidMadness.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fotoview Pop Art Studio Online Image Effects](http://www.popartstudio.nl/PolaroidMadness.aspx)
 
@@ -29,9 +34,6 @@ title: http://www.popartstudio.nl/PolaroidMadness.aspx
 *  JS Response Bytes: 1206832
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

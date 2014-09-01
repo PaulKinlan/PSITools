@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.joeldare.com/app/random_riff/
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [Random Riff](http://www.joeldare.com/app/random_riff/)
 
@@ -29,9 +31,6 @@ title: http://www.joeldare.com/app/random_riff/
 *  JS Response Bytes: 252783
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.be-ime.com/be_app.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [be.ime - 404 OOPS!](http://www.be-ime.com/be_app.html)
 
@@ -29,9 +34,6 @@ title: http://www.be-ime.com/be_app.html
 *  JS Response Bytes: 446086
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21558
-
-### Performance issues
-
 
 ### Performance issues
 

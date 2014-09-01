@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://generala.cloudymedia.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Jugá a la Generala Online Multiplayer](http://generala.cloudymedia.com/)
 
@@ -29,9 +30,6 @@ title: http://generala.cloudymedia.com/
 *  JS Response Bytes: 670551
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14545
-
-### Performance issues
-
 
 ### Performance issues
 

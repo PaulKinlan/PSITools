@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://mottoeditr.nteo.ca/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Motto Editr](http://mottoeditr.nteo.ca/)
 
@@ -29,9 +31,6 @@ title: http://mottoeditr.nteo.ca/
 *  JS Response Bytes: 147206
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

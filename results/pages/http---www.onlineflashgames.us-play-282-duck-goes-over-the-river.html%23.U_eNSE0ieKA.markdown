@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.onlineflashgames.us/play/282/duck-goes-over-the-river.html#.U_eNSE0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Duck Goes Over The River - Online Flash Games](http://www.onlineflashgames.us/play/282/duck-goes-over-the-river.html#.U_eNSE0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.onlineflashgames.us/play/282/duck-goes-over-the-river.html#.U_
 *  JS Response Bytes: 1448213
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9528
-
-### Performance issues
-
 
 ### Performance issues
 

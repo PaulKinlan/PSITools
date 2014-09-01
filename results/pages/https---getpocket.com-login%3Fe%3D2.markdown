@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://getpocket.com/login?e=2
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Pocket: Log In](https://getpocket.com/login?e=2)
 
@@ -29,9 +33,6 @@ title: https://getpocket.com/login?e=2
 *  JS Response Bytes: 585760
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1931
-
-### Performance issues
-
 
 ### Performance issues
 

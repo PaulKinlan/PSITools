@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freegames2u.com/sniper-team.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sniper Team | Free Games 2U](http://www.freegames2u.com/sniper-team.html)
 
@@ -29,9 +34,6 @@ title: http://www.freegames2u.com/sniper-team.html
 *  JS Response Bytes: 1529780
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105464
-
-### Performance issues
-
 
 ### Performance issues
 

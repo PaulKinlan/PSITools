@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gibuz.com/internet-download-manager.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gibuz APP CENTER – Internet Download Manager](http://www.gibuz.com/internet-download-manager.html)
 
@@ -29,9 +34,6 @@ title: http://www.gibuz.com/internet-download-manager.html
 *  JS Response Bytes: 837112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3424
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -33,8 +33,5 @@ title: http://www.cinogames.com/game/clash_of_clans-1057
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

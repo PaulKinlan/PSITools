@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://come-date.me/123_infidele/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [123_infidele | Come-Date.me](http://come-date.me/123_infidele/)
 
@@ -18,20 +21,17 @@ title: http://come-date.me/123_infidele/
 *  Number of JS Resources: 26
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 48
-*  Total Request Bytes: 8583
+*  Total Request Bytes: 8587
 
 ### Response data
 
 *  HTML Response Bytes: 63757
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 96371
-*  Image Response Bytes: 606035
-*  JS Response Bytes: 760594
+*  CSS Response Bytes: 96370
+*  Image Response Bytes: 606103
+*  JS Response Bytes: 760606
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4375
-
-### Performance issues
-
 
 ### Performance issues
 

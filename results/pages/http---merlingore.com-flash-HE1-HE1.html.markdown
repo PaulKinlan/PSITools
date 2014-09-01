@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://merlingore.com/flash/HE1/HE1.html
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://merlingore.com/flash/HE1/HE1.html)
 
@@ -29,9 +31,6 @@ title: http://merlingore.com/flash/HE1/HE1.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

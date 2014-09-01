@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.radio.net.pk/mobile/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Pakistani radio stations, online Pakistan radio AM/FM](http://www.radio.net.pk/mobile/)
 
@@ -29,9 +32,6 @@ title: http://www.radio.net.pk/mobile/
 *  JS Response Bytes: 1721697
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 150728
-
-### Performance issues
-
 
 ### Performance issues
 

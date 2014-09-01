@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.gezgeen.com/cgi-sys/defaultwebpage.cgi
+EnableGzipCompression: true
 ---
 ## [Default Web Site Page](http://www.gezgeen.com/cgi-sys/defaultwebpage.cgi)
 
@@ -29,9 +30,6 @@ title: http://www.gezgeen.com/cgi-sys/defaultwebpage.cgi
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 70
-
-### Performance issues
-
 
 ### Performance issues
 

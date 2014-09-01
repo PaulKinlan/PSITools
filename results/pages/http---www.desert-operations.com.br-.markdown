@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.desert-operations.com.br/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Desert Operations](http://www.desert-operations.com.br/)
 
@@ -29,9 +34,6 @@ title: http://www.desert-operations.com.br/
 *  JS Response Bytes: 477138
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2285
-
-### Performance issues
-
 
 ### Performance issues
 

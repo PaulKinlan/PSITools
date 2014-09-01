@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.songtive.com/apps/tuner/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tuner for Guitar, Bass, Mandolin and other instruments | Songtive](http://www.songtive.com/apps/tuner/)
 
@@ -29,9 +33,6 @@ title: http://www.songtive.com/apps/tuner/
 *  JS Response Bytes: 525534
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

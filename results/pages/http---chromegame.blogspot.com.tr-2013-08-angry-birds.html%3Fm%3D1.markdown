@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromegame.blogspot.com.tr/2013/08/angry-birds.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [chrome Best Game Store: Angry Birds](http://chromegame.blogspot.com.tr/2013/08/angry-birds.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chromegame.blogspot.com.tr/2013/08/angry-birds.html?m=1
 *  JS Response Bytes: 720859
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97473
-
-### Performance issues
-
 
 ### Performance issues
 

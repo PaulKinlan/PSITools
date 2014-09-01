@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.gamespu.com/candy-crush-saga.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Candy Crush Saga | GamesPu - Free Online Games](http://www.gamespu.com/candy-crush-saga.html)
 
@@ -29,9 +37,6 @@ title: http://www.gamespu.com/candy-crush-saga.html
 *  JS Response Bytes: 1529556
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105110
-
-### Performance issues
-
 
 ### Performance issues
 

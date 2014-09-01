@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.movietube.cc/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MovieTube | Search](http://m.movietube.cc/)
 
@@ -29,9 +33,6 @@ title: http://m.movietube.cc/
 *  JS Response Bytes: 727447
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22602
-
-### Performance issues
-
 
 ### Performance issues
 

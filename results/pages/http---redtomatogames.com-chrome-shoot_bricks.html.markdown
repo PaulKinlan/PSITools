@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://redtomatogames.com/chrome/shoot_bricks.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shoot Bricks - This online game is so addictive -](http://redtomatogames.com/chrome/shoot_bricks.html)
 
@@ -29,9 +34,6 @@ title: http://redtomatogames.com/chrome/shoot_bricks.html
 *  JS Response Bytes: 733037
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3251
-
-### Performance issues
-
 
 ### Performance issues
 

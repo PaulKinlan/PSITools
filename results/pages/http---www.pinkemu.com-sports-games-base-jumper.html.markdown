@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.pinkemu.com/sports-games/base-jumper.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BASE JUMPER | SPORTS GAMES](http://www.pinkemu.com/sports-games/base-jumper.html)
 
@@ -29,9 +34,6 @@ title: http://www.pinkemu.com/sports-games/base-jumper.html
 *  JS Response Bytes: 4052406
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 181223
-
-### Performance issues
-
 
 ### Performance issues
 

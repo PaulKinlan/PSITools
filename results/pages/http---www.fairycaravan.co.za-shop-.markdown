@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fairycaravan.co.za/shop/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Products Archive -](http://www.fairycaravan.co.za/shop/)
 
@@ -29,9 +32,6 @@ title: http://www.fairycaravan.co.za/shop/
 *  JS Response Bytes: 215712
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29212
-
-### Performance issues
-
 
 ### Performance issues
 

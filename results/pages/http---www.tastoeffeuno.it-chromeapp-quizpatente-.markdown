@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.tastoeffeuno.it/chromeapp/quizpatente/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [SIMULATORE ESAME PATENTE DI GUIDA A e B](http://www.tastoeffeuno.it/chromeapp/quizpatente/)
 
@@ -29,9 +31,6 @@ title: http://www.tastoeffeuno.it/chromeapp/quizpatente/
 *  JS Response Bytes: 574313
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

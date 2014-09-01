@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://minigames.mail.ru/bombery
+MinimizeRenderBlockingResources: true
 ---
 ## [Мини-игры@Mail.Ru](http://minigames.mail.ru/bombery)
 
@@ -29,9 +30,6 @@ title: http://minigames.mail.ru/bombery
 *  JS Response Bytes: 103992
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

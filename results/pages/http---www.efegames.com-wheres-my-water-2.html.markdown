@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.efegames.com/wheres-my-water-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Where’s My Water? 2 : Efe Games – Play Online Free Games](http://www.efegames.com/wheres-my-water-2.html)
 
@@ -29,9 +34,6 @@ title: http://www.efegames.com/wheres-my-water-2.html
 *  JS Response Bytes: 1529617
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105454
-
-### Performance issues
-
 
 ### Performance issues
 

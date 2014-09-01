@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.flashgamezones.com/Sports/201206281999.html#.U_uUbE0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Basket Shot_Flashgamezones](http://www.flashgamezones.com/Sports/201206281999.html#.U_uUbE0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.flashgamezones.com/Sports/201206281999.html#.U_uUbE0ieKA
 *  JS Response Bytes: 743161
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12852
-
-### Performance issues
-
 
 ### Performance issues
 

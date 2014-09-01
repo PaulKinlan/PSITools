@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://awesome-new-gadgets.blogspot.com/2014/06/weather-widget.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [AWESOME DESKTOP WIDGETS: Weather Widget](http://awesome-new-gadgets.blogspot.com/2014/06/weather-widget.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://awesome-new-gadgets.blogspot.com/2014/06/weather-widget.html?m=1
 *  JS Response Bytes: 2441811
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125147
-
-### Performance issues
-
 
 ### Performance issues
 

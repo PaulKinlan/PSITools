@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://thinkygames.com/tokyo-fashion-week/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [thinkygames.com-the best free online flash gamesTokyo fashion week » thinkygames.com-the best free online flash games](http://thinkygames.com/tokyo-fashion-week/)
 
@@ -29,9 +34,6 @@ title: http://thinkygames.com/tokyo-fashion-week/
 *  JS Response Bytes: 824670
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://displaygame.com/?=404;http://displaygame.com:80/avatar-fortress-fight-2.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [displaygame.com](http://displaygame.com/?=404;http://displaygame.com:80/avatar-fortress-fight-2.html&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://displaygame.com/?=404;http://displaygame.com:80/avatar-fortress-fi
 *  JS Response Bytes: 219744
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117
-
-### Performance issues
-
 
 ### Performance issues
 

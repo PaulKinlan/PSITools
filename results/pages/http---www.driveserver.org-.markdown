@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.driveserver.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DriveConverter | File Converter for Google Drive](http://www.driveserver.org/)
 
@@ -29,9 +33,6 @@ title: http://www.driveserver.org/
 *  JS Response Bytes: 1120513
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95795
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://timepass.appb.in/pairs.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
 ---
 ## [Pairs](http://timepass.appb.in/pairs.html)
 
@@ -29,9 +33,6 @@ title: http://timepass.appb.in/pairs.html
 *  JS Response Bytes: 673210
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

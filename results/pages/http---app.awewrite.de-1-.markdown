@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://app.awewrite.de/1/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [AWE!write](http://app.awewrite.de/1/)
 
@@ -29,9 +33,6 @@ title: http://app.awewrite.de/1/
 *  JS Response Bytes: 312034
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 482
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ezellharding.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ezell-Harding Christian School - A private, Christian education - Grade Levels, Pre-Kindergarten through grade 12 - Antioch, Tennessee 37013](http://www.ezellharding.com/)
 
@@ -29,9 +34,6 @@ title: http://www.ezellharding.com/
 *  JS Response Bytes: 458851
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29860
-
-### Performance issues
-
 
 ### Performance issues
 

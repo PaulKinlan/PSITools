@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.logosbr.net/login.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Login](http://www.logosbr.net/login.php)
 
@@ -29,9 +34,6 @@ title: http://www.logosbr.net/login.php
 *  JS Response Bytes: 925302
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22058
-
-### Performance issues
-
 
 ### Performance issues
 

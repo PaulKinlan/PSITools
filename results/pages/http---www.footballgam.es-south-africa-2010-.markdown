@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/south-africa-2010/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [South Africa 2010 Game](http://www.footballgam.es/south-africa-2010/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/south-africa-2010/
 *  JS Response Bytes: 2296885
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155301
-
-### Performance issues
-
 
 ### Performance issues
 

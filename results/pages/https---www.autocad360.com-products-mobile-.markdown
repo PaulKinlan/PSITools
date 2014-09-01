@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.autocad360.com/products/mobile/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [AutoCAD 360 | Mobile](https://www.autocad360.com/products/mobile/)
 
@@ -29,9 +32,6 @@ title: https://www.autocad360.com/products/mobile/
 *  JS Response Bytes: 455386
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1305
-
-### Performance issues
-
 
 ### Performance issues
 

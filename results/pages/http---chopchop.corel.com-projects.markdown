@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://chopchop.corel.com/projects
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ChopChop](http://chopchop.corel.com/projects)
 
@@ -29,9 +34,6 @@ title: http://chopchop.corel.com/projects
 *  JS Response Bytes: 1302216
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 607732
-
-### Performance issues
-
 
 ### Performance issues
 

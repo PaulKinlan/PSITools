@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.games555.com/temple-run-2.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.games555.com/temple-run-2.html)
 
@@ -29,9 +35,6 @@ title: http://www.games555.com/temple-run-2.html
 *  JS Response Bytes: 400737
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14735
-
-### Performance issues
-
 
 ### Performance issues
 

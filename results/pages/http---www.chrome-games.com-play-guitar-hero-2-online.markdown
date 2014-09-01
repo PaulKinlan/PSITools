@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.chrome-games.com/play-guitar-hero-2-online
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Guitar Hero 2 Online | Chrome-Games.Com](http://www.chrome-games.com/play-guitar-hero-2-online)
 
@@ -29,9 +32,6 @@ title: http://www.chrome-games.com/play-guitar-hero-2-online
 *  JS Response Bytes: 2325770
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 194722
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.onlinemarketgames.com/giza-solitaire.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Giza Solitaire | Online Market Games](http://www.onlinemarketgames.com/giza-solitaire.html)
 
@@ -29,9 +35,6 @@ title: http://www.onlinemarketgames.com/giza-solitaire.html
 *  JS Response Bytes: 893478
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16329
-
-### Performance issues
-
 
 ### Performance issues
 

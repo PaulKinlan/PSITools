@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://noms.debolk.nl/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [bolknoms](http://noms.debolk.nl/)
 
@@ -29,9 +33,6 @@ title: http://noms.debolk.nl/
 *  JS Response Bytes: 219697
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

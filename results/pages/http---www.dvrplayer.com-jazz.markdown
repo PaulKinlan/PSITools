@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.dvrplayer.com/jazz
+UseLegibleFontSizes: true
 ---
 ## [404 - File or directory not found.](http://www.dvrplayer.com/jazz)
 
@@ -29,9 +30,6 @@ title: http://www.dvrplayer.com/jazz
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1359
-
-### Performance issues
-
 
 ### Performance issues
 

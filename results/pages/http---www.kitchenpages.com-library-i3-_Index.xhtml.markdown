@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.kitchenpages.com/library/i3/_Index.xhtml
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [KitCAD i3](http://www.kitchenpages.com/library/i3/_Index.xhtml)
 
@@ -29,9 +32,6 @@ title: http://www.kitchenpages.com/library/i3/_Index.xhtml
 *  JS Response Bytes: 125984
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 552
-
-### Performance issues
-
 
 ### Performance issues
 

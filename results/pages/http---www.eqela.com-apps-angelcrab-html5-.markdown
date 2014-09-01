@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.eqela.com/apps/angelcrab/html5/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Angel Crab](http://www.eqela.com/apps/angelcrab/html5/)
 
@@ -29,9 +33,6 @@ title: http://www.eqela.com/apps/angelcrab/html5/
 *  JS Response Bytes: 704851
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.welt.de/&m=1/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fehlerseite - DIE WELT](http://www.welt.de/&m=1/)
 
@@ -29,9 +34,6 @@ title: http://www.welt.de/&m=1/
 *  JS Response Bytes: 2258440
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 239441
-
-### Performance issues
-
 
 ### Performance issues
 

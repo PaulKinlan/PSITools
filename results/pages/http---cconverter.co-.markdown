@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://cconverter.co/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Currency Converter | Free currency converter and Forex converter](http://cconverter.co/)
 
@@ -29,9 +33,6 @@ title: http://cconverter.co/
 *  JS Response Bytes: 1956526
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 62586
-
-### Performance issues
-
 
 ### Performance issues
 

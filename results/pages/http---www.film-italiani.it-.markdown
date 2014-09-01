@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.film-italiani.it/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Film Italiani - video](http://www.film-italiani.it/)
 
@@ -29,9 +33,6 @@ title: http://www.film-italiani.it/
 *  JS Response Bytes: 326996
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

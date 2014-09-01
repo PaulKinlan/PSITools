@@ -33,8 +33,5 @@ title: http://sites.melcooper.com/google_apps/ircsd/go.html
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

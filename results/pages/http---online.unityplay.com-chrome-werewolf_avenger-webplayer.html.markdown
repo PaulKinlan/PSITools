@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://online.unityplay.com/chrome/werewolf_avenger/webplayer.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Werewolf Avenger | UnityPlay.com-Flash-Android-Chrome Games](http://online.unityplay.com/chrome/werewolf_avenger/webplayer.html)
 
@@ -29,9 +35,6 @@ title: http://online.unityplay.com/chrome/werewolf_avenger/webplayer.html
 *  JS Response Bytes: 867757
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9778
-
-### Performance issues
-
 
 ### Performance issues
 

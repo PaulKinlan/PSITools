@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.officema.co.uk/OfficeMAWeb/LoginAction_input.action?utm_source=chrome_app&utm_medium=banner&utm_campaign=chrome_app
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [OfficeMA Timesheet](https://www.officema.co.uk/OfficeMAWeb/LoginAction_input.action?utm_source=chrome_app&utm_medium=banner&utm_campaign=chrome_app)
 
@@ -29,9 +33,6 @@ title: https://www.officema.co.uk/OfficeMAWeb/LoginAction_input.action?utm_sourc
 *  JS Response Bytes: 790498
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

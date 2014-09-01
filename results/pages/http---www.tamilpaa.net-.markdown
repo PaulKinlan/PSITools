@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tamilpaa.net/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tamil Songs Lyrics, Paadal Varigal, தமிழ் பாடல் வரிகள், திரைப்பட பாடல் வரிகள் | by Tamilpaa.com](http://www.tamilpaa.net/)
 
@@ -29,9 +32,6 @@ title: http://www.tamilpaa.net/
 *  JS Response Bytes: 1313968
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 200288
-
-### Performance issues
-
 
 ### Performance issues
 

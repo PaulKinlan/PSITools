@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://app.imchao.net/yaaw/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Yet Another Aria2 Web Frontend](http://app.imchao.net/yaaw/)
 
@@ -29,9 +32,6 @@ title: http://app.imchao.net/yaaw/
 *  JS Response Bytes: 197298
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://games.playtouch.net/chrome/cheerleaders-school/cheerleaders-school/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Cheerleaders School](http://games.playtouch.net/chrome/cheerleaders-school/cheerleaders-school/)
 
@@ -29,9 +31,6 @@ title: http://games.playtouch.net/chrome/cheerleaders-school/cheerleaders-school
 *  JS Response Bytes: 1574696
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1055
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://inkdit.com/?utm_source=Chrome&utm_medium=App&utm_campaign=Chrome%2BApp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Inkdit: electronic signatures and contracts](https://inkdit.com/?utm_source=Chrome&utm_medium=App&utm_campaign=Chrome%2BApp)
 
@@ -18,20 +21,17 @@ title: https://inkdit.com/?utm_source=Chrome&utm_medium=App&utm_campaign=Chrome%
 *  Number of JS Resources: 14
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 41
-*  Total Request Bytes: 6725
+*  Total Request Bytes: 6726
 
 ### Response data
 
-*  HTML Response Bytes: 62316
+*  HTML Response Bytes: 62308
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 307252
-*  Image Response Bytes: 737991
-*  JS Response Bytes: 645211
+*  CSS Response Bytes: 307249
+*  Image Response Bytes: 737992
+*  JS Response Bytes: 645285
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120
-
-### Performance issues
-
 
 ### Performance issues
 

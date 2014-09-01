@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://lfotv.com/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Index of /](http://lfotv.com/)
 
@@ -29,9 +31,6 @@ title: http://lfotv.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

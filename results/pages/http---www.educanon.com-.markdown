@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.educanon.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [eduCanon](http://www.educanon.com/)
 
@@ -29,9 +32,6 @@ title: http://www.educanon.com/
 *  JS Response Bytes: 2252874
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44169
-
-### Performance issues
-
 
 ### Performance issues
 

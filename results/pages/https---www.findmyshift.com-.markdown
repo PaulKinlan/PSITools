@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.findmyshift.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Findmyshift](https://www.findmyshift.com/)
 
@@ -29,9 +31,6 @@ title: https://www.findmyshift.com/
 *  JS Response Bytes: 435350
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 126
-
-### Performance issues
-
 
 ### Performance issues
 

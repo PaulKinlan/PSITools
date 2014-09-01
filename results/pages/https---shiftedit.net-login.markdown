@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://shiftedit.net/login
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Web Based IDE | ShiftEdit](https://shiftedit.net/login)
 
@@ -29,9 +34,6 @@ title: https://shiftedit.net/login
 *  JS Response Bytes: 760439
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 378
-
-### Performance issues
-
 
 ### Performance issues
 

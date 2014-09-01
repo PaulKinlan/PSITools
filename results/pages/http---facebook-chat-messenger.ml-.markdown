@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://facebook-chat-messenger.ml/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://facebook-chat-messenger.ml/)
 
@@ -29,9 +33,6 @@ title: http://facebook-chat-messenger.ml/
 *  JS Response Bytes: 918106
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15637
-
-### Performance issues
-
 
 ### Performance issues
 

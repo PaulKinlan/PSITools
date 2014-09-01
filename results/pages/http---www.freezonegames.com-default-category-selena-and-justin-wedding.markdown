@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.freezonegames.com/default-category/selena-and-justin-wedding
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Selena & Justin Wedding - Free Zone GaMeS - Free Online Flash Games](http://www.freezonegames.com/default-category/selena-and-justin-wedding)
 
@@ -29,9 +37,6 @@ title: http://www.freezonegames.com/default-category/selena-and-justin-wedding
 *  JS Response Bytes: 903639
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1784
-
-### Performance issues
-
 
 ### Performance issues
 

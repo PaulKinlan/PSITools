@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.hoodamath.com/mobile/games/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Math Games Mobile - HOODA MATH - iPad Games Online](http://www.hoodamath.com/mobile/games/)
 
@@ -29,9 +33,6 @@ title: http://www.hoodamath.com/mobile/games/
 *  JS Response Bytes: 57417
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 950
-
-### Performance issues
-
 
 ### Performance issues
 

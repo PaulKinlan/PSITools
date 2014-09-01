@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://boygiandi.com/kissanime
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Home](http://boygiandi.com/kissanime)
 
@@ -29,9 +33,6 @@ title: http://boygiandi.com/kissanime
 *  JS Response Bytes: 632321
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

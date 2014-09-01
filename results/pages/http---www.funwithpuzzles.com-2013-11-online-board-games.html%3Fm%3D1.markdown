@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.funwithpuzzles.com/2013/11/online-board-games.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Fun With Puzzles: Online Board Games](http://www.funwithpuzzles.com/2013/11/online-board-games.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://www.funwithpuzzles.com/2013/11/online-board-games.html?m=1
 *  JS Response Bytes: 1103433
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97995
-
-### Performance issues
-
 
 ### Performance issues
 

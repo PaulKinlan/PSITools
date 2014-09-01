@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.4cargames.com/driving-games/kill-em-zombies.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kill em Zombies | Car Games | Play Free Online Car Games](http://www.4cargames.com/driving-games/kill-em-zombies.html)
 
@@ -29,9 +34,6 @@ title: http://www.4cargames.com/driving-games/kill-em-zombies.html
 *  JS Response Bytes: 1958765
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113953
-
-### Performance issues
-
 
 ### Performance issues
 

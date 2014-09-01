@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.askgame.info/puzzle/candy-cubes#.U_uthU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Candy Cubes - Ask Game - Best Free Online Flash Games](http://www.askgame.info/puzzle/candy-cubes#.U_uthU0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.askgame.info/puzzle/candy-cubes#.U_uthU0ieKA
 *  JS Response Bytes: 1543454
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42040
-
-### Performance issues
-
 
 ### Performance issues
 

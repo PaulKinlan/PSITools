@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.lesmegeres.com/shop/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Les Mégères](http://www.lesmegeres.com/shop/)
 
@@ -29,9 +32,6 @@ title: http://www.lesmegeres.com/shop/
 *  JS Response Bytes: 757134
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96785
-
-### Performance issues
-
 
 ### Performance issues
 

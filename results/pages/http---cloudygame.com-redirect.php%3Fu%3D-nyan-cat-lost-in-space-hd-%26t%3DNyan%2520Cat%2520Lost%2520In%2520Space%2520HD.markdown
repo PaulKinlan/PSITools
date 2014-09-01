@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://cloudygame.com/redirect.php?u=/nyan-cat-lost-in-space-hd/&t=Nyan%20Cat%20Lost%20In%20Space%20HD
+UseLegibleFontSizes: true
 ---
 ## [Redirecting to the game](http://cloudygame.com/redirect.php?u=/nyan-cat-lost-in-space-hd/&t=Nyan%20Cat%20Lost%20In%20Space%20HD)
 
@@ -29,9 +30,6 @@ title: http://cloudygame.com/redirect.php?u=/nyan-cat-lost-in-space-hd/&t=Nyan%2
 *  JS Response Bytes: 27149
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7135
-
-### Performance issues
-
 
 ### Performance issues
 

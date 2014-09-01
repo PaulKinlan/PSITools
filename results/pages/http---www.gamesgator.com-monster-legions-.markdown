@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.com/monster-legions/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Monster Legions](http://www.gamesgator.com/monster-legions/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.com/monster-legions/
 *  JS Response Bytes: 1088270
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95318
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://cwsgame.blogspot.com/2013/02/mutant-ninja-turtles-hd.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Chrome Web Store Games: Mutant Ninja Turtles HD](http://cwsgame.blogspot.com/2013/02/mutant-ninja-turtles-hd.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://cwsgame.blogspot.com/2013/02/mutant-ninja-turtles-hd.html?m=1
 *  JS Response Bytes: 2364564
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287462
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://pro.componentsengine.com/site/pagece5.wplus?ID_COUNT=ce_5_home&LN=1&CELN=1&LANGMERC=Ok&CEPV=AgriTrak789&CEME=1&NDS=CE_6&MP1=CE_6&PRF=1&PRC=%7CR%7CCE_6/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Trattore |](http://pro.componentsengine.com/site/pagece5.wplus?ID_COUNT=ce_5_home&LN=1&CELN=1&LANGMERC=Ok&CEPV=AgriTrak789&CEME=1&NDS=CE_6&MP1=CE_6&PRF=1&PRC=%7CR%7CCE_6/)
 
@@ -29,9 +33,6 @@ title: http://pro.componentsengine.com/site/pagece5.wplus?ID_COUNT=ce_5_home&LN=
 *  JS Response Bytes: 143031
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2900
-
-### Performance issues
-
 
 ### Performance issues
 

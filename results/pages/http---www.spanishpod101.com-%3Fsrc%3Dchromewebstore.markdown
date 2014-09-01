@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.spanishpod101.com/?src=chromewebstore
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn Spanish online. With our podcast, learning Spanish is easy. | SpanishPod101.com](http://www.spanishpod101.com/?src=chromewebstore)
 
@@ -29,9 +33,6 @@ title: http://www.spanishpod101.com/?src=chromewebstore
 *  JS Response Bytes: 599768
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20689
-
-### Performance issues
-
 
 ### Performance issues
 

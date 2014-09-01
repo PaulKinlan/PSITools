@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://steelsoftlab.com/games/fruit/index.html#.U_ucpk0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [fruit](http://steelsoftlab.com/games/fruit/index.html#.U_ucpk0ieKA)
 
@@ -29,9 +32,6 @@ title: http://steelsoftlab.com/games/fruit/index.html#.U_ucpk0ieKA
 *  JS Response Bytes: 798329
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21435
-
-### Performance issues
-
 
 ### Performance issues
 

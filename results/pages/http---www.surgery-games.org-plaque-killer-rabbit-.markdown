@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/plaque-killer-rabbit/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Plaque Killer Rabbit game](http://www.surgery-games.org/plaque-killer-rabbit/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/plaque-killer-rabbit/
 *  JS Response Bytes: 2636780
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120574
-
-### Performance issues
-
 
 ### Performance issues
 

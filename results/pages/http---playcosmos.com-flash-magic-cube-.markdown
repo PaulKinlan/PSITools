@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playcosmos.com/flash/magic-cube/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Magic Cube - Rubik's Cube](http://playcosmos.com/flash/magic-cube/)
 
@@ -29,9 +33,6 @@ title: http://playcosmos.com/flash/magic-cube/
 *  JS Response Bytes: 1802062
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111019
-
-### Performance issues
-
 
 ### Performance issues
 

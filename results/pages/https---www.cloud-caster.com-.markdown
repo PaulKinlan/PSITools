@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.cloud-caster.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Cloud Caster - your podcast player in the cloud!](https://www.cloud-caster.com/)
 
@@ -29,9 +33,6 @@ title: https://www.cloud-caster.com/
 *  JS Response Bytes: 2578235
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 455297
-
-### Performance issues
-
 
 ### Performance issues
 

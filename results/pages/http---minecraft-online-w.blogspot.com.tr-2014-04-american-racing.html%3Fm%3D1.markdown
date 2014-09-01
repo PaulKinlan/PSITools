@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://minecraft-online-w.blogspot.com.tr/2014/04/american-racing.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [minecraft game HD: American Racing](http://minecraft-online-w.blogspot.com.tr/2014/04/american-racing.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://minecraft-online-w.blogspot.com.tr/2014/04/american-racing.html?m=
 *  JS Response Bytes: 720846
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95600
-
-### Performance issues
-
 
 ### Performance issues
 

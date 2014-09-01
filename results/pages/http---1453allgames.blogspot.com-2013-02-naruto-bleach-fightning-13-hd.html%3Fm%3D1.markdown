@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://1453allgames.blogspot.com/2013/02/naruto-bleach-fightning-13-hd.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Chrome Browser Games: Naruto Bleach Fightning 1.3 HD](http://1453allgames.blogspot.com/2013/02/naruto-bleach-fightning-13-hd.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://1453allgames.blogspot.com/2013/02/naruto-bleach-fightning-13-hd.ht
 *  JS Response Bytes: 2391872
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 304601
-
-### Performance issues
-
 
 ### Performance issues
 

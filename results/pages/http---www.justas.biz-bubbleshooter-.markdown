@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.justas.biz/bubbleshooter/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BubbleShooter game - HTML5 game](http://www.justas.biz/bubbleshooter/)
 
@@ -29,9 +33,6 @@ title: http://www.justas.biz/bubbleshooter/
 *  JS Response Bytes: 461524
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

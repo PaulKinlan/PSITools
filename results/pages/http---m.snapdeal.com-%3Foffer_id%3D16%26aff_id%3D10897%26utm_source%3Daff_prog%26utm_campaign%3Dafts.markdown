@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.snapdeal.com/?offer_id=16&aff_id=10897&utm_source=aff_prog&utm_campaign=afts
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Shopping in India: Buy mobiles, laptops, apparel, shoes & much more at Snapdeal.com](http://m.snapdeal.com/?offer_id=16&aff_id=10897&utm_source=aff_prog&utm_campaign=afts)
 
@@ -29,9 +32,6 @@ title: http://m.snapdeal.com/?offer_id=16&aff_id=10897&utm_source=aff_prog&utm_c
 *  JS Response Bytes: 668228
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6873
-
-### Performance issues
-
 
 ### Performance issues
 

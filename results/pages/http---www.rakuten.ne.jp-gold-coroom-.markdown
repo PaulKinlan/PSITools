@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.rakuten.ne.jp/gold/coroom/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [【楽天市場】インテリア家具通販のCoRoom(コルーム)](http://www.rakuten.ne.jp/gold/coroom/)
 
@@ -29,9 +33,6 @@ title: http://www.rakuten.ne.jp/gold/coroom/
 *  JS Response Bytes: 484894
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 598
-
-### Performance issues
-
 
 ### Performance issues
 

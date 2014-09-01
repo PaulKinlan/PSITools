@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://suriyan.sutthirak.info/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Suriyan](http://suriyan.sutthirak.info/)
 
@@ -29,9 +33,6 @@ title: http://suriyan.sutthirak.info/
 *  JS Response Bytes: 535417
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

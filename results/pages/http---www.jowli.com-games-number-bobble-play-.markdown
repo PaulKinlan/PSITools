@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.jowli.com/games/number-bobble/play/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
 ---
 ## [Jowli Games - Maintenance Mode](http://www.jowli.com/games/number-bobble/play/)
 
@@ -29,9 +32,6 @@ title: http://www.jowli.com/games/number-bobble/play/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1298
-
-### Performance issues
-
 
 ### Performance issues
 

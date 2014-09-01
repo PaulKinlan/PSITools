@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://world.mathigon.org/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mathigon | World of Mathematics](http://world.mathigon.org/)
 
@@ -29,9 +33,6 @@ title: http://world.mathigon.org/
 *  JS Response Bytes: 1205757
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 777
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://love-calculator.zeemind.com/?hl=en
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Love Calculator](http://love-calculator.zeemind.com/?hl=en)
 
@@ -29,9 +32,6 @@ title: http://love-calculator.zeemind.com/?hl=en
 *  JS Response Bytes: 429651
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 37892
-
-### Performance issues
-
 
 ### Performance issues
 

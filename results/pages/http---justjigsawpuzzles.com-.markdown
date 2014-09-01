@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://justjigsawpuzzles.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jigsaw Puzzles](http://justjigsawpuzzles.com/)
 
@@ -29,9 +33,6 @@ title: http://justjigsawpuzzles.com/
 *  JS Response Bytes: 1067888
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96400
-
-### Performance issues
-
 
 ### Performance issues
 

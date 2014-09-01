@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.vso-software.fr/products/convert_x_to_dvd/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ConvertXtoDVD - AVI to DVD Video Converter to burn on DVD](http://www.vso-software.fr/products/convert_x_to_dvd/)
 
@@ -29,9 +34,6 @@ title: http://www.vso-software.fr/products/convert_x_to_dvd/
 *  JS Response Bytes: 1415906
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111538
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.panabee.com/?s=chromeapp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Business Name Generator & Domain Name Search](http://www.panabee.com/?s=chromeapp)
 
@@ -29,9 +33,6 @@ title: http://www.panabee.com/?s=chromeapp
 *  JS Response Bytes: 1212050
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53480
-
-### Performance issues
-
 
 ### Performance issues
 

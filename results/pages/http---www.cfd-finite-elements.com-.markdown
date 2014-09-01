@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.cfd-finite-elements.com/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CFD-FEM Computational Fluid Dynamics - Finite Elements אפ. אי. אמ. אלמנטים סופיים סי. אפ. די. זרימה חישובית](http://www.cfd-finite-elements.com/)
 
@@ -29,9 +31,6 @@ title: http://www.cfd-finite-elements.com/
 *  JS Response Bytes: 25557
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 674
-
-### Performance issues
-
 
 ### Performance issues
 

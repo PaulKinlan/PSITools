@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://thinkygames.com/ever-after-high-madeline/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [thinkygames.com-the best free online flash gamesEver after high madeline » thinkygames.com-the best free online flash games](http://thinkygames.com/ever-after-high-madeline/)
 
@@ -29,9 +37,6 @@ title: http://thinkygames.com/ever-after-high-madeline/
 *  JS Response Bytes: 941060
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

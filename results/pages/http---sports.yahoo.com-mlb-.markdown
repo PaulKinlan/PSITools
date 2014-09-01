@@ -22,10 +22,10 @@ title: http://sports.yahoo.com/mlb/
 
 ### Response data
 
-*  HTML Response Bytes: 17778
-*  Text Response Bytes: 1081
+*  HTML Response Bytes: 21397
+*  Text Response Bytes: 1085
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 4602
+*  Image Response Bytes: 4603
 *  JS Response Bytes: 36883
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
@@ -35,7 +35,6 @@ title: http://sports.yahoo.com/mlb/
 
 ### Performance issues
 
-*  Improve server response time
 
 ### Mobile UX issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://onlineflappybirdgames.blogspot.com/2014/02/online-flappy-bird.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Online games, free games, flappy bird games: Online Flappy bird](http://onlineflappybirdgames.blogspot.com/2014/02/online-flappy-bird.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://onlineflappybirdgames.blogspot.com/2014/02/online-flappy-bird.html
 *  JS Response Bytes: 762224
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95600
-
-### Performance issues
-
 
 ### Performance issues
 

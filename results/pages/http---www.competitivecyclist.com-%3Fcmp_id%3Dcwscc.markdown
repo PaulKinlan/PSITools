@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.competitivecyclist.com/?cmp_id=cwscc
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Road & Mountain Bikes | Apparel, Accessories & Parts | Competitive Cyclist](http://www.competitivecyclist.com/?cmp_id=cwscc)
 
@@ -29,9 +32,6 @@ title: http://www.competitivecyclist.com/?cmp_id=cwscc
 *  JS Response Bytes: 1067108
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2789
-
-### Performance issues
-
 
 ### Performance issues
 

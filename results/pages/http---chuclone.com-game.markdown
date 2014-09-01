@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://chuclone.com/game
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ChuClone](http://chuclone.com/game)
 
@@ -29,9 +35,6 @@ title: http://chuclone.com/game
 *  JS Response Bytes: 1194462
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 87961
-
-### Performance issues
-
 
 ### Performance issues
 

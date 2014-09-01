@@ -49,6 +49,7 @@ category: industry
 
 ### Mobile UX issues
 
+*  Configure the viewport
 <hr>
 
 
@@ -266,6 +267,7 @@ category: industry
 
 ### Mobile UX issues
 
+*  Configure the viewport
 <hr>
 
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.goodgame4you.com/game/diamond-matching.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Diamond Matching - Puzzle Games - Play Free Online Games](http://www.goodgame4you.com/game/diamond-matching.html)
 
@@ -29,9 +36,6 @@ title: http://www.goodgame4you.com/game/diamond-matching.html
 *  JS Response Bytes: 552759
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16828
-
-### Performance issues
-
 
 ### Performance issues
 

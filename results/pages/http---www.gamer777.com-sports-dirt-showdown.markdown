@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamer777.com/sports/dirt-showdown
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dirt Showdown - gamer777 Free Online Games](http://www.gamer777.com/sports/dirt-showdown)
 
@@ -29,9 +35,6 @@ title: http://www.gamer777.com/sports/dirt-showdown
 *  JS Response Bytes: 2402148
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122767
-
-### Performance issues
-
 
 ### Performance issues
 

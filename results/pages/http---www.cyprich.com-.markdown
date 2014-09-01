@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.cyprich.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [cyprich.com - Occasionally Relevant Insights from a Software Builder](http://www.cyprich.com/)
 
@@ -29,9 +33,6 @@ title: http://www.cyprich.com/
 *  JS Response Bytes: 441761
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23326
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.upmc.com/Pages/m.index.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [](http://www.upmc.com/Pages/m.index.html)
 
@@ -29,9 +32,6 @@ title: http://www.upmc.com/Pages/m.index.html
 *  JS Response Bytes: 283839
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 546
-
-### Performance issues
-
 
 ### Performance issues
 

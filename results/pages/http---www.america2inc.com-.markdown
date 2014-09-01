@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.america2inc.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [America 2.0 Incorporated, America 2 Inc., America 2.0 Inc. American 2.0 Take Stock In America,](http://www.america2inc.com/)
 
@@ -29,9 +33,6 @@ title: http://www.america2inc.com/
 *  JS Response Bytes: 354374
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 905
-
-### Performance issues
-
 
 ### Performance issues
 

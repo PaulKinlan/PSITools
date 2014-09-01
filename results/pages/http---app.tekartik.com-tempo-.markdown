@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://app.tekartik.com/tempo/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Basitempo web app](http://app.tekartik.com/tempo/)
 
@@ -29,9 +36,6 @@ title: http://app.tekartik.com/tempo/
 *  JS Response Bytes: 1058625
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110736
-
-### Performance issues
-
 
 ### Performance issues
 

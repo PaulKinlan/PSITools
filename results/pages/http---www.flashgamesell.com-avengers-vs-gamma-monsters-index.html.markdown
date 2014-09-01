@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.flashgamesell.com/avengers-vs-gamma-monsters/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Avengers VS.Gamma Monsters | Flash Game Sell, Game Unity Games](http://www.flashgamesell.com/avengers-vs-gamma-monsters/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.flashgamesell.com/avengers-vs-gamma-monsters/index.html
 *  JS Response Bytes: 1028088
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1443
-
-### Performance issues
-
 
 ### Performance issues
 

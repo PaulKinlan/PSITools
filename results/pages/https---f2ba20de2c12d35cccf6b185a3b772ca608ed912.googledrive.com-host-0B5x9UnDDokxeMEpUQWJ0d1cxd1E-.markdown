@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://f2ba20de2c12d35cccf6b185a3b772ca608ed912.googledrive.com/host/0B5x9UnDDokxeMEpUQWJ0d1cxd1E/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mortgage calculator](https://f2ba20de2c12d35cccf6b185a3b772ca608ed912.googledrive.com/host/0B5x9UnDDokxeMEpUQWJ0d1cxd1E/)
 
@@ -29,9 +32,6 @@ title: https://f2ba20de2c12d35cccf6b185a3b772ca608ed912.googledrive.com/host/0B5
 *  JS Response Bytes: 1139828
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1850
-
-### Performance issues
-
 
 ### Performance issues
 

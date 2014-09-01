@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.xyz-softs.com/thebikinimodelcookbook/index.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [By Caithleen Heffernan | How to get a bikini body!](http://www.xyz-softs.com/thebikinimodelcookbook/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.xyz-softs.com/thebikinimodelcookbook/index.html
 *  JS Response Bytes: 525254
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

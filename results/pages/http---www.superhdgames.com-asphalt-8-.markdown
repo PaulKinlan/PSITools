@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.superhdgames.com/asphalt-8/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super HD Games – Asphalt 8](http://www.superhdgames.com/asphalt-8/)
 
@@ -29,9 +33,6 @@ title: http://www.superhdgames.com/asphalt-8/
 *  JS Response Bytes: 883404
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16921
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesalfa.net/default-category/crash-drive-2-christmas
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CRASH DRIVE 2: CHRISTMAS - Gamesalfa](http://www.gamesalfa.net/default-category/crash-drive-2-christmas)
 
@@ -29,9 +34,6 @@ title: http://www.gamesalfa.net/default-category/crash-drive-2-christmas
 *  JS Response Bytes: 2244051
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121724
-
-### Performance issues
-
 
 ### Performance issues
 

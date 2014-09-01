@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.cloudygame1.in/super-mario-bros-star-scramble-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Mario Bros Star Scramble 2 - Cloudy game](http://www.cloudygame1.in/super-mario-bros-star-scramble-2/)
 
@@ -29,9 +34,6 @@ title: http://www.cloudygame1.in/super-mario-bros-star-scramble-2/
 *  JS Response Bytes: 1732062
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 181133
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://wasthere.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Cuba - Photo of the week by wasthere.com](http://wasthere.com/)
 
@@ -29,9 +32,6 @@ title: http://wasthere.com/
 *  JS Response Bytes: 407022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57834
-
-### Performance issues
-
 
 ### Performance issues
 

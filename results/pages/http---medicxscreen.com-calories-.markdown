@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://medicxscreen.com/calories/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Medicxscreen.com - Nutrition facts, food calories, labels, nutritional chart and graph](http://medicxscreen.com/calories/)
 
@@ -29,9 +33,6 @@ title: http://medicxscreen.com/calories/
 *  JS Response Bytes: 595825
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

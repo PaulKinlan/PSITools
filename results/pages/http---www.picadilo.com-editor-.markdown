@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.picadilo.com/editor/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Picadilo - Photo Editing at Its Best](http://www.picadilo.com/editor/)
 
@@ -29,9 +35,6 @@ title: http://www.picadilo.com/editor/
 *  JS Response Bytes: 1607086
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97651
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://newbestfreeonlinegame.blogspot.com/2013/10/where-is-my-duck-simple.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [New Best Free Online Game: Where is my Duck Simple](http://newbestfreeonlinegame.blogspot.com/2013/10/where-is-my-duck-simple.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://newbestfreeonlinegame.blogspot.com/2013/10/where-is-my-duck-simple
 *  JS Response Bytes: 1690811
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109994
-
-### Performance issues
-
 
 ### Performance issues
 

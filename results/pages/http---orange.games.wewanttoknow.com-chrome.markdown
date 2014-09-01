@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://orange.games.wewanttoknow.com/chrome
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The page you were looking for doesn't exist (404)](http://orange.games.wewanttoknow.com/chrome)
 
@@ -29,9 +32,6 @@ title: http://orange.games.wewanttoknow.com/chrome
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18032
-
-### Performance issues
-
 
 ### Performance issues
 

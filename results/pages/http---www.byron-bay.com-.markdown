@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.byron-bay.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Byron Bay | Official byronbay.com Guide](http://www.byron-bay.com/)
 
@@ -29,9 +34,6 @@ title: http://www.byron-bay.com/
 *  JS Response Bytes: 1915731
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 178396
-
-### Performance issues
-
 
 ### Performance issues
 

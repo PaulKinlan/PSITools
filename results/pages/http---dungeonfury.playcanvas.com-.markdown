@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://dungeonfury.playcanvas.com/
+EnableGzipCompression: true
 ---
 ## [Dungeon Fury - PlayCanvas](http://dungeonfury.playcanvas.com/)
 
@@ -29,9 +30,6 @@ title: http://dungeonfury.playcanvas.com/
 *  JS Response Bytes: 1237078
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3690
-
-### Performance issues
-
 
 ### Performance issues
 

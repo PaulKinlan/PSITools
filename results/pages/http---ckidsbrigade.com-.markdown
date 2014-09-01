@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ckidsbrigade.com/
+ServerResponseTime: true
 ---
 ## [CKids Brigade](http://ckidsbrigade.com/)
 
@@ -29,9 +30,6 @@ title: http://ckidsbrigade.com/
 *  JS Response Bytes: 90907
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 320
-
-### Performance issues
-
 
 ### Performance issues
 

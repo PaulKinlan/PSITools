@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/palladium-castle/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Palladium Castle](http://www.war-games.ws/palladium-castle/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/palladium-castle/
 *  JS Response Bytes: 2293536
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115217
-
-### Performance issues
-
 
 ### Performance issues
 

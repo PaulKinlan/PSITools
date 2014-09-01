@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mobymax.com/pa4812
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Sign In | MobyMax](http://www.mobymax.com/pa4812)
 
@@ -29,9 +33,6 @@ title: http://www.mobymax.com/pa4812
 *  JS Response Bytes: 148472
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

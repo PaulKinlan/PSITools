@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.css88.com/jqapi/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [最新版 jQuery API中文文档](http://www.css88.com/jqapi/)
 
@@ -29,9 +33,6 @@ title: http://www.css88.com/jqapi/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 36408
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://bsmcode.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BSM](http://bsmcode.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://bsmcode.appspot.com/
 *  JS Response Bytes: 1603184
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

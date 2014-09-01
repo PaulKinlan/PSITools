@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://1ga.me/web-apps/platform-games/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Platform games](http://1ga.me/web-apps/platform-games/)
 
@@ -29,9 +33,6 @@ title: http://1ga.me/web-apps/platform-games/
 *  JS Response Bytes: 1197760
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33501
-
-### Performance issues
-
 
 ### Performance issues
 

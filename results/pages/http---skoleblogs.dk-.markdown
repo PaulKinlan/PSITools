@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://skoleblogs.dk/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Skabeloner](http://skoleblogs.dk/)
 
@@ -29,9 +33,6 @@ title: http://skoleblogs.dk/
 *  JS Response Bytes: 510874
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 636
-
-### Performance issues
-
 
 ### Performance issues
 

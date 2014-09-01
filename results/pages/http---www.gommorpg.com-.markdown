@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gommorpg.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GOmmorpg | GO find the BEST GAME for YOU!](http://www.gommorpg.com/)
 
@@ -29,9 +33,6 @@ title: http://www.gommorpg.com/
 *  JS Response Bytes: 737771
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 712
-
-### Performance issues
-
 
 ### Performance issues
 

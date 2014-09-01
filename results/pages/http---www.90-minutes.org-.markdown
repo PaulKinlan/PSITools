@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.90-minutes.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [90-minutes.org - Online Football Manager - Browsergame](http://www.90-minutes.org/)
 
@@ -29,9 +34,6 @@ title: http://www.90-minutes.org/
 *  JS Response Bytes: 2992396
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97423
-
-### Performance issues
-
 
 ### Performance issues
 

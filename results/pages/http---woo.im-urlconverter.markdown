@@ -33,8 +33,5 @@ title: http://woo.im/urlconverter
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

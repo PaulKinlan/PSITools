@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameflare.com/online-game/jacksmith/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jacksmith - online game | GameFlare.com](http://www.gameflare.com/online-game/jacksmith/)
 
@@ -29,9 +34,6 @@ title: http://www.gameflare.com/online-game/jacksmith/
 *  JS Response Bytes: 1996228
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 291679
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://hotakasugi-jp.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Film Goes With Net - 映像ビジネスの未来を模索する](http://hotakasugi-jp.com/)
 
@@ -29,9 +33,6 @@ title: http://hotakasugi-jp.com/
 *  JS Response Bytes: 811392
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13391
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://blueicegames.blogspot.com/2013/06/naruto-vs-bleach-16.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [All Games: Naruto vs Bleach 1.6](http://blueicegames.blogspot.com/2013/06/naruto-vs-bleach-16.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://blueicegames.blogspot.com/2013/06/naruto-vs-bleach-16.html?m=1
 *  JS Response Bytes: 2389923
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 302108
-
-### Performance issues
-
 
 ### Performance issues
 

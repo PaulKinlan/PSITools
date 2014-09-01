@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.nizami-alem.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Nizam-ı Alem Finnentrop](http://www.nizami-alem.com/)
 
@@ -29,9 +33,6 @@ title: http://www.nizami-alem.com/
 *  JS Response Bytes: 805551
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53916
-
-### Performance issues
-
 
 ### Performance issues
 

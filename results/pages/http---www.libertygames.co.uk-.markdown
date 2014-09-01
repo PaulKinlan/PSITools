@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.libertygames.co.uk/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Pool Tables, Arcade Machines, Air Hockey For Sale | Liberty Games](http://www.libertygames.co.uk/)
 
@@ -29,9 +31,6 @@ title: http://www.libertygames.co.uk/
 *  JS Response Bytes: 231387
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49416
-
-### Performance issues
-
 
 ### Performance issues
 

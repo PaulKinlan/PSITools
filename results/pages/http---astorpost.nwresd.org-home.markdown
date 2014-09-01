@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://astorpost.nwresd.org/home
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AstorPost - Astoria High School Newspaper |](http://astorpost.nwresd.org/home)
 
@@ -29,9 +34,6 @@ title: http://astorpost.nwresd.org/home
 *  JS Response Bytes: 443599
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 792
-
-### Performance issues
-
 
 ### Performance issues
 

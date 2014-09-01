@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.spokentext.net/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online text to speech (TTS) converter - SpokenText.net](http://www.spokentext.net/)
 
@@ -29,9 +34,6 @@ title: http://www.spokentext.net/
 *  JS Response Bytes: 689181
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2248
-
-### Performance issues
-
 
 ### Performance issues
 

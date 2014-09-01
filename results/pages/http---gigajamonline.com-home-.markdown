@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gigajamonline.com/home/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://gigajamonline.com/home/)
 
@@ -29,9 +34,6 @@ title: http://gigajamonline.com/home/
 *  JS Response Bytes: 185552
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30008
-
-### Performance issues
-
 
 ### Performance issues
 

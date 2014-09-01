@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://promoterr.com/games/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gaming Videos Delivered Daily](http://promoterr.com/games/)
 
@@ -29,9 +31,6 @@ title: http://promoterr.com/games/
 *  JS Response Bytes: 1106924
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 825
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://pirate-storm.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Pirate Storm Online](http://pirate-storm.appspot.com/)
 
@@ -29,9 +35,6 @@ title: http://pirate-storm.appspot.com/
 *  JS Response Bytes: 2687509
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 137838
-
-### Performance issues
-
 
 ### Performance issues
 

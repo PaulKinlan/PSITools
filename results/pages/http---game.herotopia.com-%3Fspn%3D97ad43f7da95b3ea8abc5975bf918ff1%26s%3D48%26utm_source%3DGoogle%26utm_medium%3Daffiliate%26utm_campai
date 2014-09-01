@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://game.herotopia.com/?spn=97ad43f7da95b3ea8abc5975bf918ff1&s=48&utm_source=Google&utm_medium=affiliate&utm_campaign=chromewebstore
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Herotopia Game](http://game.herotopia.com/?spn=97ad43f7da95b3ea8abc5975bf918ff1&s=48&utm_source=Google&utm_medium=affiliate&utm_campaign=chromewebstore)
 
@@ -29,9 +32,6 @@ title: http://game.herotopia.com/?spn=97ad43f7da95b3ea8abc5975bf918ff1&s=48&utm_
 *  JS Response Bytes: 63191
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 639
-
-### Performance issues
-
 
 ### Performance issues
 

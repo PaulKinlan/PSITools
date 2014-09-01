@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.ttagt.com/fruit-ninja/
+EnableGzipCompression: true
 ---
 ## [](http://www.ttagt.com/fruit-ninja/)
 
@@ -29,9 +30,6 @@ title: http://www.ttagt.com/fruit-ninja/
 *  JS Response Bytes: 164390
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://murakya.net/game/amibeautiful/index_en.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Am I beautiful? - Click Game](http://murakya.net/game/amibeautiful/index_en.html)
 
@@ -29,9 +33,6 @@ title: http://murakya.net/game/amibeautiful/index_en.html
 *  JS Response Bytes: 555233
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 367
-
-### Performance issues
-
 
 ### Performance issues
 

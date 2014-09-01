@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.freegames123.com/angry-birds-go.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Go | Free Games 123](http://www.freegames123.com/angry-birds-go.html)
 
@@ -29,9 +36,6 @@ title: http://www.freegames123.com/angry-birds-go.html
 *  JS Response Bytes: 1694015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102597
-
-### Performance issues
-
 
 ### Performance issues
 

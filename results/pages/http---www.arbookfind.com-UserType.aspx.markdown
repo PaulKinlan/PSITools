@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.arbookfind.com/UserType.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AR BookFinder US - Welcome](http://www.arbookfind.com/UserType.aspx)
 
@@ -13,25 +17,22 @@ title: http://www.arbookfind.com/UserType.aspx
 
 ### Request information
 
-*  Number of Resources: 14
+*  Number of Resources: 15
 *  Number of Hosts: 2
 *  Number of JS Resources: 0
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 11
-*  Total Request Bytes: 1077
+*  Total Request Bytes: 1137
 
 ### Response data
 
-*  HTML Response Bytes: 7950
+*  HTML Response Bytes: 7889
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 6897
 *  Image Response Bytes: 84590
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1774
-
-### Performance issues
-
+*  Other Response Bytes: 2209
 
 ### Performance issues
 

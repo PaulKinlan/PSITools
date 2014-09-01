@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://minecraftpocketonline.blogspot.com.tr/2014/03/minecraft.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://minecraftpocketonline.blogspot.com.tr/2014/03/minecraft.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://minecraftpocketonline.blogspot.com.tr/2014/03/minecraft.html?m=1
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19315
-
-### Performance issues
-
 
 ### Performance issues
 

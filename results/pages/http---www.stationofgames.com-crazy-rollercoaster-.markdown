@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.stationofgames.com/crazy-rollercoaster/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crazy Rollercoaster](http://www.stationofgames.com/crazy-rollercoaster/)
 
@@ -29,9 +36,6 @@ title: http://www.stationofgames.com/crazy-rollercoaster/
 *  JS Response Bytes: 1495229
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109010
-
-### Performance issues
-
 
 ### Performance issues
 

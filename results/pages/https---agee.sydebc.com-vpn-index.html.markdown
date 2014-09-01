@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://agee.sydebc.com/vpn/index.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Citrix Access Gateway](https://agee.sydebc.com/vpn/index.html)
 
@@ -29,9 +35,6 @@ title: https://agee.sydebc.com/vpn/index.html
 *  JS Response Bytes: 35178
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 728
-
-### Performance issues
-
 
 ### Performance issues
 

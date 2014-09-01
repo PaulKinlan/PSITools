@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.mybiztrackerpro.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [My Biz Tracker Pro](http://www.mybiztrackerpro.com/)
 
@@ -29,9 +35,6 @@ title: http://www.mybiztrackerpro.com/
 *  JS Response Bytes: 844868
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 841
-
-### Performance issues
-
 
 ### Performance issues
 

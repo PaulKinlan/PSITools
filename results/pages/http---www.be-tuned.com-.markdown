@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.be-tuned.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome on Be-Tuned.com](http://www.be-tuned.com/)
 
@@ -29,9 +32,6 @@ title: http://www.be-tuned.com/
 *  JS Response Bytes: 92466
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

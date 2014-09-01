@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.apc-web.com/chrome-extensions/traductor.php
+MinimizeRenderBlockingResources: true
 ---
 ## [Página no encontrada - APC WEB](http://www.apc-web.com/chrome-extensions/traductor.php)
 
@@ -29,9 +30,6 @@ title: http://www.apc-web.com/chrome-extensions/traductor.php
 *  JS Response Bytes: 161762
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6058
-
-### Performance issues
-
 
 ### Performance issues
 

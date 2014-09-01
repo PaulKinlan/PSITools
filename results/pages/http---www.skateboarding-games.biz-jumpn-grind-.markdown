@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/jumpn-grind/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jump’n Grind game](http://www.skateboarding-games.biz/jumpn-grind/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/jumpn-grind/
 *  JS Response Bytes: 2123759
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122395
-
-### Performance issues
-
 
 ### Performance issues
 

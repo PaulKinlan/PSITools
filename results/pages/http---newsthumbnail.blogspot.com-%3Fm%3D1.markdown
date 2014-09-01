@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://newsthumbnail.blogspot.com/?m=1
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [News Thumbnail](http://newsthumbnail.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://newsthumbnail.blogspot.com/?m=1
 *  JS Response Bytes: 393916
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14651
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://control.servergrove.com/login/en
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ServerGrove VPS Control Panel Beta Login](https://control.servergrove.com/login/en)
 
@@ -29,9 +33,6 @@ title: https://control.servergrove.com/login/en
 *  JS Response Bytes: 281934
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 711
-
-### Performance issues
-
 
 ### Performance issues
 

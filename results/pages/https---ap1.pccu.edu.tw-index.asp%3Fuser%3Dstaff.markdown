@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://ap1.pccu.edu.tw/index.asp?user=staff
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [校園資訊服務網](https://ap1.pccu.edu.tw/index.asp?user=staff)
 
@@ -29,9 +33,6 @@ title: https://ap1.pccu.edu.tw/index.asp?user=staff
 *  JS Response Bytes: 133535
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3522
-
-### Performance issues
-
 
 ### Performance issues
 

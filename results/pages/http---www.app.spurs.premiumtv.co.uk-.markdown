@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.app.spurs.premiumtv.co.uk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Spurs TV Online](http://www.app.spurs.premiumtv.co.uk/)
 
@@ -29,9 +34,6 @@ title: http://www.app.spurs.premiumtv.co.uk/
 *  JS Response Bytes: 828093
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44841
-
-### Performance issues
-
 
 ### Performance issues
 

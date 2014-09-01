@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ww35.topgamesdownload.info/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [topgamesdownload.info](http://ww35.topgamesdownload.info/)
 
@@ -29,9 +33,6 @@ title: http://ww35.topgamesdownload.info/
 *  JS Response Bytes: 173157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 217
-
-### Performance issues
-
 
 ### Performance issues
 

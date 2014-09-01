@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://ix.theolinstudio.com/UserWeb/Mobile/Login/Login.aspx?ReturnUrl=%2FUserWeb%2FLogin%2F&v=0
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Sign In](https://ix.theolinstudio.com/UserWeb/Mobile/Login/Login.aspx?ReturnUrl=%2FUserWeb%2FLogin%2F&v=0)
 
@@ -29,9 +32,6 @@ title: https://ix.theolinstudio.com/UserWeb/Mobile/Login/Login.aspx?ReturnUrl=%2
 *  JS Response Bytes: 663906
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3124
-
-### Performance issues
-
 
 ### Performance issues
 

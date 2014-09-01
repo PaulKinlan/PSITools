@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.hitingame.com/online-games/crazy-rollercoaster/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crazy Rollercoaster « Online Flash Games – Popular Flash Games](http://www.hitingame.com/online-games/crazy-rollercoaster/)
 
@@ -29,9 +35,6 @@ title: http://www.hitingame.com/online-games/crazy-rollercoaster/
 *  JS Response Bytes: 1155874
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63262
-
-### Performance issues
-
 
 ### Performance issues
 

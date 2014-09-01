@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://puntosycajas.cubo2d.com.ve/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dots and Boxes (Neon)](http://puntosycajas.cubo2d.com.ve/)
 
@@ -29,9 +31,6 @@ title: http://puntosycajas.cubo2d.com.ve/
 *  JS Response Bytes: 1331571
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 154885
-
-### Performance issues
-
 
 ### Performance issues
 

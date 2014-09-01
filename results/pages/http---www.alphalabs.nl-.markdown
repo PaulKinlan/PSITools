@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.alphalabs.nl/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Alpha Labs B.V. ICT Beheer Venlo](http://www.alphalabs.nl/)
 
@@ -29,9 +32,6 @@ title: http://www.alphalabs.nl/
 *  JS Response Bytes: 1676449
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 173996
-
-### Performance issues
-
 
 ### Performance issues
 

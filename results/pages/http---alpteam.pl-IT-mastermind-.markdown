@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://alpteam.pl/IT/mastermind/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Advanced Mastermind - javascript online game](http://alpteam.pl/IT/mastermind/)
 
@@ -29,9 +32,6 @@ title: http://alpteam.pl/IT/mastermind/
 *  JS Response Bytes: 94322
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

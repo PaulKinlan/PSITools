@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mail.sapo.pt/login/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [SAPO Mail](http://mail.sapo.pt/login/)
 
@@ -29,9 +32,6 @@ title: http://mail.sapo.pt/login/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 168
-
-### Performance issues
-
 
 ### Performance issues
 

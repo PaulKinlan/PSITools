@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://i-assign.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [i-Assign](http://i-assign.com/)
 
@@ -29,9 +32,6 @@ title: http://i-assign.com/
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 328
-
-### Performance issues
-
 
 ### Performance issues
 

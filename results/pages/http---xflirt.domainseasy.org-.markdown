@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://xflirt.domainseasy.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [XFlirt](http://xflirt.domainseasy.org/)
 
@@ -29,9 +33,6 @@ title: http://xflirt.domainseasy.org/
 *  JS Response Bytes: 429276
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3633
-
-### Performance issues
-
 
 ### Performance issues
 

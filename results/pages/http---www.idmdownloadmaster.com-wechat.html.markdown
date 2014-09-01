@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.idmdownloadmaster.com/wechat.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [wechat | İdm Download Master](http://www.idmdownloadmaster.com/wechat.html)
 
@@ -29,9 +32,6 @@ title: http://www.idmdownloadmaster.com/wechat.html
 *  JS Response Bytes: 529908
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 82243
-
-### Performance issues
-
 
 ### Performance issues
 

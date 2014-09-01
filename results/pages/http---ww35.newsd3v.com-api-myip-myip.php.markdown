@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ww35.newsd3v.com/api/myip/myip.php
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [newsd3v.com](http://ww35.newsd3v.com/api/myip/myip.php)
 
@@ -29,9 +31,6 @@ title: http://ww35.newsd3v.com/api/myip/myip.php
 *  JS Response Bytes: 190350
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 224
-
-### Performance issues
-
 
 ### Performance issues
 

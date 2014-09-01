@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.123banjotuner.com/?chromestore=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Banjo Tuner](http://www.123banjotuner.com/?chromestore=1)
 
@@ -29,9 +31,6 @@ title: http://www.123banjotuner.com/?chromestore=1
 *  JS Response Bytes: 8746
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

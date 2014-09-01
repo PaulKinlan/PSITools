@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.jewishcal.com/chromeapp/calendar_and_other_tabs.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.jewishcal.com/chromeapp/calendar_and_other_tabs.html)
 
@@ -29,9 +33,6 @@ title: http://www.jewishcal.com/chromeapp/calendar_and_other_tabs.html
 *  JS Response Bytes: 1291568
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15775
-
-### Performance issues
-
 
 ### Performance issues
 

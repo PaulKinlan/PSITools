@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/action/being-one-ep2.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Being One: Episode 2 - Play Being One: Episode 2 on Gamek12.com Free Online Games](http://www.gamesk12.com/online/action/being-one-ep2.html)
 
@@ -29,9 +35,6 @@ title: http://www.gamesk12.com/online/action/being-one-ep2.html
 *  JS Response Bytes: 1474272
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105849
-
-### Performance issues
-
 
 ### Performance issues
 

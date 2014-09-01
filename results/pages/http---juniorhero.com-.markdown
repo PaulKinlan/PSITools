@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://juniorhero.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [JuniorHero - Learn Technology, Web & Softwares](http://juniorhero.com/)
 
@@ -29,9 +31,6 @@ title: http://juniorhero.com/
 *  JS Response Bytes: 177505
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

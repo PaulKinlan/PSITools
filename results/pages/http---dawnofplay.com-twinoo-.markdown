@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://dawnofplay.com/twinoo/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Twinoo](http://dawnofplay.com/twinoo/)
 
@@ -29,9 +33,6 @@ title: http://dawnofplay.com/twinoo/
 *  JS Response Bytes: 659045
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53400
-
-### Performance issues
-
 
 ### Performance issues
 

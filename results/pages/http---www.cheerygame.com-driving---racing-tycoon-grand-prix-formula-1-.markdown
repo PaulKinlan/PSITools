@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.cheerygame.com/driving---racing/tycoon-grand-prix-formula-1-
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [cheerygame.com](http://www.cheerygame.com/driving---racing/tycoon-grand-prix-formula-1-)
 
@@ -29,9 +34,6 @@ title: http://www.cheerygame.com/driving---racing/tycoon-grand-prix-formula-1-
 *  JS Response Bytes: 187628
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

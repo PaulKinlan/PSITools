@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://pinegrow.com/edit.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Pinegrow Web Designer](http://pinegrow.com/edit.html)
 
@@ -29,9 +33,6 @@ title: http://pinegrow.com/edit.html
 *  JS Response Bytes: 2166279
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9519
-
-### Performance issues
-
 
 ### Performance issues
 

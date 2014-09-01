@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_405_Bubble-Shooter.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bubble Shooter Flash Games](http://www.newpopulargames.com/game_405_Bubble-Shooter.html)
 
@@ -29,9 +35,6 @@ title: http://www.newpopulargames.com/game_405_Bubble-Shooter.html
 *  JS Response Bytes: 1679786
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112111
-
-### Performance issues
-
 
 ### Performance issues
 

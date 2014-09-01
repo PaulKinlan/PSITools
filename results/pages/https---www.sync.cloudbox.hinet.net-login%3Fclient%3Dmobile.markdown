@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.sync.cloudbox.hinet.net/login?client=mobile
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [hicloud Box(e)](https://www.sync.cloudbox.hinet.net/login?client=mobile)
 
@@ -29,9 +31,6 @@ title: https://www.sync.cloudbox.hinet.net/login?client=mobile
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 471
-
-### Performance issues
-
 
 ### Performance issues
 

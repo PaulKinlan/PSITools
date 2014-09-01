@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://nesninja.com/game/super-mario-bros.3#.U_d8qk0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Super Mario Bros. 3 » NES Ninja](http://nesninja.com/game/super-mario-bros.3#.U_d8qk0ieKA)
 
@@ -29,9 +32,6 @@ title: http://nesninja.com/game/super-mario-bros.3#.U_d8qk0ieKA
 *  JS Response Bytes: 2528367
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 174679
-
-### Performance issues
-
 
 ### Performance issues
 

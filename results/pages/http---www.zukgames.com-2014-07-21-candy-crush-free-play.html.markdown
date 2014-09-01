@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.zukgames.com/2014/07/21/candy-crush-free-play.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Candy crush free play – Best HD Games Play Now](http://www.zukgames.com/2014/07/21/candy-crush-free-play.html)
 
@@ -29,9 +35,6 @@ title: http://www.zukgames.com/2014/07/21/candy-crush-free-play.html
 *  JS Response Bytes: 1250785
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3831
-
-### Performance issues
-
 
 ### Performance issues
 

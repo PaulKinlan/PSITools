@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://learnzillion.com/login
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LearnZillion](https://learnzillion.com/login)
 
@@ -29,9 +33,6 @@ title: https://learnzillion.com/login
 *  JS Response Bytes: 942177
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35721
-
-### Performance issues
-
 
 ### Performance issues
 

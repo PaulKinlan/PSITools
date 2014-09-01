@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://thejackalofjavascript.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Jackal of Javascript | Arvind Ravulavaru](http://thejackalofjavascript.com/)
 
@@ -29,9 +31,6 @@ title: http://thejackalofjavascript.com/
 *  JS Response Bytes: 662362
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 191789
-
-### Performance issues
-
 
 ### Performance issues
 

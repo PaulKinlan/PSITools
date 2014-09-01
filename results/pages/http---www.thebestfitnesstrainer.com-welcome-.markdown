@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.thebestfitnesstrainer.com/welcome/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Welcome-thebestfitnesstrainer.com](http://www.thebestfitnesstrainer.com/welcome/)
 
@@ -29,9 +31,6 @@ title: http://www.thebestfitnesstrainer.com/welcome/
 *  JS Response Bytes: 1414677
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124562
-
-### Performance issues
-
 
 ### Performance issues
 

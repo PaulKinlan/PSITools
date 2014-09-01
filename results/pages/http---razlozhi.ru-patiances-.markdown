@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://razlozhi.ru/patiances/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Пасьянсы - Карточные игры онлайн](http://razlozhi.ru/patiances/)
 
@@ -29,9 +34,6 @@ title: http://razlozhi.ru/patiances/
 *  JS Response Bytes: 291220
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1455
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://yegames.info/minecraft/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tic Games Flash Games – Minecraft](http://yegames.info/minecraft/)
 
@@ -29,9 +34,6 @@ title: http://yegames.info/minecraft/
 *  JS Response Bytes: 1032867
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15177
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://floxgames.com/?=404;http://floxgames.com:80/asphalt-8-airborne.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [floxgames.com](http://floxgames.com/?=404;http://floxgames.com:80/asphalt-8-airborne.html&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://floxgames.com/?=404;http://floxgames.com:80/asphalt-8-airborne.htm
 *  JS Response Bytes: 304181
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 108
-
-### Performance issues
-
 
 ### Performance issues
 

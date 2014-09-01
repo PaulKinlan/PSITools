@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://complett-service.de/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Complett-Service.de - Besorg's dir selber! | WordPress Tutorials](http://complett-service.de/)
 
@@ -29,9 +33,6 @@ title: http://complett-service.de/
 *  JS Response Bytes: 175893
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 70917
-
-### Performance issues
-
 
 ### Performance issues
 

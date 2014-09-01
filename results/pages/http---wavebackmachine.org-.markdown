@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://wavebackmachine.org/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Waveback Machine!](http://wavebackmachine.org/)
 
@@ -29,9 +33,6 @@ title: http://wavebackmachine.org/
 *  JS Response Bytes: 224249
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

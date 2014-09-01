@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.wogames.com/index.php
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free online Games,Flash Games! Play free online games at WoGames.com](http://www.wogames.com/index.php)
 
@@ -29,9 +34,6 @@ title: http://www.wogames.com/index.php
 *  JS Response Bytes: 631928
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 594
-
-### Performance issues
-
 
 ### Performance issues
 

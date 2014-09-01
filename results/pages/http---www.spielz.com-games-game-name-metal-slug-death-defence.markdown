@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.spielz.com/games/game/name/metal-slug-death-defence
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [metal-slug-death-defence spiele](http://www.spielz.com/games/game/name/metal-slug-death-defence)
 
@@ -29,9 +34,6 @@ title: http://www.spielz.com/games/game/name/metal-slug-death-defence
 *  JS Response Bytes: 1830396
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97051
-
-### Performance issues
-
 
 ### Performance issues
 

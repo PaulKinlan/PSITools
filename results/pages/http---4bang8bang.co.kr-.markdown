@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://4bang8bang.co.kr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [사방팔방](http://4bang8bang.co.kr/)
 
@@ -29,9 +33,6 @@ title: http://4bang8bang.co.kr/
 *  JS Response Bytes: 767664
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3180986
-
-### Performance issues
-
 
 ### Performance issues
 

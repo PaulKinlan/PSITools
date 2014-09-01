@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://currency.fullstacks.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Currency Converter Real-Time](http://currency.fullstacks.net/)
 
@@ -29,9 +34,6 @@ title: http://currency.fullstacks.net/
 *  JS Response Bytes: 521813
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

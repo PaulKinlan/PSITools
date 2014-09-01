@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://xhdgame.blogspot.com/2013/07/gta-5-zombi-road.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [XHDGAME: The Walking Dead](http://xhdgame.blogspot.com/2013/07/gta-5-zombi-road.html?m=1)
 
@@ -22,16 +25,13 @@ title: http://xhdgame.blogspot.com/2013/07/gta-5-zombi-road.html?m=1
 
 ### Response data
 
-*  HTML Response Bytes: 94934
+*  HTML Response Bytes: 94951
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 38388
+*  CSS Response Bytes: 38385
 *  Image Response Bytes: 40882
-*  JS Response Bytes: 1120477
+*  JS Response Bytes: 1120747
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95580
-
-### Performance issues
-
 
 ### Performance issues
 

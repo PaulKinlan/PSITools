@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://play.games365.in/sfs/chrome.php?wid=3380055
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Connect Four](http://play.games365.in/sfs/chrome.php?wid=3380055)
 
@@ -29,9 +34,6 @@ title: http://play.games365.in/sfs/chrome.php?wid=3380055
 *  JS Response Bytes: 819520
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95828
-
-### Performance issues
-
 
 ### Performance issues
 

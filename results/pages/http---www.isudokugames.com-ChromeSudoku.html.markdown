@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.isudokugames.com/ChromeSudoku.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sudoku for Chrome](http://www.isudokugames.com/ChromeSudoku.html)
 
@@ -29,9 +36,6 @@ title: http://www.isudokugames.com/ChromeSudoku.html
 *  JS Response Bytes: 1406908
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96442
-
-### Performance issues
-
 
 ### Performance issues
 

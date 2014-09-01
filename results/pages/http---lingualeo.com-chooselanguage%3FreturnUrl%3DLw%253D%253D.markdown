@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://lingualeo.com/chooselanguage?returnUrl=Lw%3D%3D
+MinimizeRenderBlockingResources: true
 ---
 ## [LinguaLeo — English language online](http://lingualeo.com/chooselanguage?returnUrl=Lw%3D%3D)
 
@@ -29,9 +30,6 @@ title: http://lingualeo.com/chooselanguage?returnUrl=Lw%3D%3D
 *  JS Response Bytes: 318845
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1717
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.webfungames.com/game/kids-memory.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kids Memory Two Player Games, 2 player games, online multiplayer games.](http://www.webfungames.com/game/kids-memory.html)
 
@@ -29,9 +33,6 @@ title: http://www.webfungames.com/game/kids-memory.html
 *  JS Response Bytes: 1246250
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104320
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.winweb.com/winweb-email/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WinWeb | WinWeb eMail](https://www.winweb.com/winweb-email/)
 
@@ -29,9 +33,6 @@ title: https://www.winweb.com/winweb-email/
 *  JS Response Bytes: 1176449
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 300266
-
-### Performance issues
-
 
 ### Performance issues
 

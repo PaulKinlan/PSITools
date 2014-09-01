@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gookis.com/empresa/index.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gookis Informatica S.L.](http://www.gookis.com/empresa/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.gookis.com/empresa/index.html
 *  JS Response Bytes: 680970
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1476
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.tumawa.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pinoy Jokes](http://www.tumawa.com/)
 
@@ -29,9 +33,6 @@ title: http://www.tumawa.com/
 *  JS Response Bytes: 1596402
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23159
-
-### Performance issues
-
 
 ### Performance issues
 

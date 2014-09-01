@@ -1,6 +1,13 @@
 ---
 layout: result
 title: https://fb.wowweemaui.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [WowWee Maui's Candy Bars](https://fb.wowweemaui.com/)
 
@@ -29,9 +36,6 @@ title: https://fb.wowweemaui.com/
 *  JS Response Bytes: 1185563
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95407
-
-### Performance issues
-
 
 ### Performance issues
 

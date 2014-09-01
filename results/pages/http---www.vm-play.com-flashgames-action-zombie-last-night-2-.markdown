@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.vm-play.com/flashgames/action/zombie-last-night-2/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [vm-play.com](http://www.vm-play.com/flashgames/action/zombie-last-night-2/)
 
@@ -29,9 +33,6 @@ title: http://www.vm-play.com/flashgames/action/zombie-last-night-2/
 *  JS Response Bytes: 187270
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

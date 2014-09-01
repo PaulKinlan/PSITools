@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://mrormrs.co.uk/
+UseLegibleFontSizes: true
 ---
 ## [500 Internal Server Error](http://mrormrs.co.uk/)
 
@@ -29,9 +30,6 @@ title: http://mrormrs.co.uk/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 913
-
-### Performance issues
-
 
 ### Performance issues
 

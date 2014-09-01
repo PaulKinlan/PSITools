@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://dmbgames.com/temple-run-oz.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DMBGames.Com – Temple Run OZ](http://dmbgames.com/temple-run-oz.html)
 
@@ -29,9 +35,6 @@ title: http://dmbgames.com/temple-run-oz.html
 *  JS Response Bytes: 468936
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5345
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://xs.xopenhub.pro/demo/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [xStation Demo](https://xs.xopenhub.pro/demo/)
 
@@ -29,9 +35,6 @@ title: https://xs.xopenhub.pro/demo/
 *  JS Response Bytes: 31005
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 665
-
-### Performance issues
-
 
 ### Performance issues
 

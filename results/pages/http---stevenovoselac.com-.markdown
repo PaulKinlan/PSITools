@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://stevenovoselac.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Steve Novoselac](http://stevenovoselac.com/)
 
@@ -29,9 +31,6 @@ title: http://stevenovoselac.com/
 *  JS Response Bytes: 233466
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

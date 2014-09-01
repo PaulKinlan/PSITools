@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gtalivegames.com/?=404;http://www.gtalivegames.com:80/driving-school-gt.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [gtalivegames.com](http://gtalivegames.com/?=404;http://www.gtalivegames.com:80/driving-school-gt.html&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://gtalivegames.com/?=404;http://www.gtalivegames.com:80/driving-scho
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117
-
-### Performance issues
-
 
 ### Performance issues
 

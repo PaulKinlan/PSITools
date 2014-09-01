@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://game.stratego.com/play.aspx?utm_source=Chromestore&utm_medium=Chromestore&utm_campaign=Partners
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stratego - Login](http://game.stratego.com/play.aspx?utm_source=Chromestore&utm_medium=Chromestore&utm_campaign=Partners)
 
@@ -29,9 +34,6 @@ title: http://game.stratego.com/play.aspx?utm_source=Chromestore&utm_medium=Chro
 *  JS Response Bytes: 1581540
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 971223
-
-### Performance issues
-
 
 ### Performance issues
 

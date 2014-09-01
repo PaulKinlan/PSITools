@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://worldclock.fullstacks.net/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [World Clock](http://worldclock.fullstacks.net/)
 
@@ -29,9 +34,6 @@ title: http://worldclock.fullstacks.net/
 *  JS Response Bytes: 516106
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

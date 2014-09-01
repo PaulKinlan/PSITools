@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://nihongo-kara-eigo-e-no-honyaku.herokuapp.com/
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [日本語から英語への翻訳](http://nihongo-kara-eigo-e-no-honyaku.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://nihongo-kara-eigo-e-no-honyaku.herokuapp.com/
 *  JS Response Bytes: 1839327
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 140514
-
-### Performance issues
-
 
 ### Performance issues
 

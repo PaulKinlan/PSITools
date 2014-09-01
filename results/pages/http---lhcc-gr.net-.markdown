@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://lhcc-gr.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Living Hope Community Church, Grand Rapids](http://lhcc-gr.net/)
 
@@ -29,9 +34,6 @@ title: http://lhcc-gr.net/
 *  JS Response Bytes: 516200
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 415
-
-### Performance issues
-
 
 ### Performance issues
 

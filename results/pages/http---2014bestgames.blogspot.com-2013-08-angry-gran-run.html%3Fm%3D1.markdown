@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://2014bestgames.blogspot.com/2013/08/angry-gran-run.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [online games card games casino games flash games best free games: Angry Gran Run](http://2014bestgames.blogspot.com/2013/08/angry-gran-run.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://2014bestgames.blogspot.com/2013/08/angry-gran-run.html?m=1
 *  JS Response Bytes: 1531987
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148354
-
-### Performance issues
-
 
 ### Performance issues
 

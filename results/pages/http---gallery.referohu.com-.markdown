@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gallery.referohu.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [referohu.com - referohu Resources and Information. This website is for sale!](http://gallery.referohu.com/)
 
@@ -29,9 +30,6 @@ title: http://gallery.referohu.com/
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

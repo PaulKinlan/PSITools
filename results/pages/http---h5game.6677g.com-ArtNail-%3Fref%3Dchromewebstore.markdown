@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://h5game.6677g.com/ArtNail/?ref=chromewebstore
+MinimizeRenderBlockingResources: true
 ---
 ## [Art Nail - Girls Games - 6677G.COM](http://h5game.6677g.com/ArtNail/?ref=chromewebstore)
 
@@ -29,9 +30,6 @@ title: http://h5game.6677g.com/ArtNail/?ref=chromewebstore
 *  JS Response Bytes: 1673691
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2146
-
-### Performance issues
-
 
 ### Performance issues
 

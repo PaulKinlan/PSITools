@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://writer.bighugelabs.com/?chrome=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Writer: the internet typewriter](https://writer.bighugelabs.com/?chrome=1)
 
@@ -29,9 +34,6 @@ title: https://writer.bighugelabs.com/?chrome=1
 *  JS Response Bytes: 409334
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10628
-
-### Performance issues
-
 
 ### Performance issues
 

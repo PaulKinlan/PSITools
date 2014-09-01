@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://itachelp.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [iTacHelp | North Andover Public Schools Information Technology](https://itachelp.com/)
 
@@ -29,9 +31,6 @@ title: https://itachelp.com/
 *  JS Response Bytes: 385263
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 73846
-
-### Performance issues
-
 
 ### Performance issues
 

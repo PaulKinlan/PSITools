@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.dolicloud.com/chromewebstore/dolicloud_erp_crm.php
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chrome Web Store page for DoliCloud.](http://www.dolicloud.com/chromewebstore/dolicloud_erp_crm.php)
 
@@ -29,9 +33,6 @@ title: http://www.dolicloud.com/chromewebstore/dolicloud_erp_crm.php
 *  JS Response Bytes: 25852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

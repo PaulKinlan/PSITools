@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sutechtraining.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SU Tech Training - Work Smarter, Not Harder!](https://sutechtraining.com/)
 
@@ -29,9 +32,6 @@ title: https://sutechtraining.com/
 *  JS Response Bytes: 1176289
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 286548
-
-### Performance issues
-
 
 ### Performance issues
 

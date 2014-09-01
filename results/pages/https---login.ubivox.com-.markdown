@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://login.ubivox.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login - Ubivox](https://login.ubivox.com/)
 
@@ -29,9 +32,6 @@ title: https://login.ubivox.com/
 *  JS Response Bytes: 373850
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59927
-
-### Performance issues
-
 
 ### Performance issues
 

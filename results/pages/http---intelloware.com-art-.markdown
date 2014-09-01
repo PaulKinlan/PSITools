@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://intelloware.com/art/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [InspirARTion - Sketch & Draw!](http://intelloware.com/art/)
 
@@ -29,9 +34,6 @@ title: http://intelloware.com/art/
 *  JS Response Bytes: 565873
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1429
-
-### Performance issues
-
 
 ### Performance issues
 

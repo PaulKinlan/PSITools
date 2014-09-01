@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://qforu.net/petseason2/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [pimpMyPhotoPicture](http://qforu.net/petseason2/)
 
@@ -29,9 +32,6 @@ title: http://qforu.net/petseason2/
 *  JS Response Bytes: 347046
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 487
-
-### Performance issues
-
 
 ### Performance issues
 

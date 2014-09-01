@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://eksisozluk.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ekşi sözlük - kutsal bilgi kaynağı](https://eksisozluk.com/)
 
@@ -29,9 +32,6 @@ title: https://eksisozluk.com/
 *  JS Response Bytes: 1080966
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8063
-
-### Performance issues
-
 
 ### Performance issues
 

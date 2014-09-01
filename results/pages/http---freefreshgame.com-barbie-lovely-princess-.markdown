@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://freefreshgame.com/barbie-lovely-princess/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [freefreshgame.com-the best free online flash gamesBarbie lovely princess » Customize » action games, baby games, barbie love, Barbie Lovely Princess, Barbie Lovely Princess game, barbie pincess game, free games, fun games, girl games, sport games, strategy games, Unity Games](http://freefreshgame.com/barbie-lovely-princess/)
 
@@ -29,9 +35,6 @@ title: http://freefreshgame.com/barbie-lovely-princess/
 *  JS Response Bytes: 1004765
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

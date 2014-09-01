@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ex.ua/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Сервис хранения информации @ EX.UA](http://www.ex.ua/)
 
@@ -29,9 +34,6 @@ title: http://www.ex.ua/
 *  JS Response Bytes: 209212
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1645
-
-### Performance issues
-
 
 ### Performance issues
 

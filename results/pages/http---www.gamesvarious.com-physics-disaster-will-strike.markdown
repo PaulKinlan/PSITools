@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/physics/disaster-will-strike
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Disaster Will Strike - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/physics/disaster-will-strike)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/physics/disaster-will-strike
 *  JS Response Bytes: 2276101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 107083
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.comwai.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Ricerca Pubblica](http://www.comwai.com/)
 
@@ -29,9 +31,6 @@ title: http://www.comwai.com/
 *  JS Response Bytes: 290447
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

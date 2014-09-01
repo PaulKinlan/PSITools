@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.securio.net/controls/gfave/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [dp.Gfave](http://www.securio.net/controls/gfave/)
 
@@ -29,9 +32,6 @@ title: http://www.securio.net/controls/gfave/
 *  JS Response Bytes: 390502
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16925
-
-### Performance issues
-
 
 ### Performance issues
 

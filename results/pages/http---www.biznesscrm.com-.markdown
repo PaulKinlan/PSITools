@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.biznesscrm.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bizness CRM - Selling to small businesses made easy](http://www.biznesscrm.com/)
 
@@ -29,9 +33,6 @@ title: http://www.biznesscrm.com/
 *  JS Response Bytes: 1282984
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 679
-
-### Performance issues
-
 
 ### Performance issues
 

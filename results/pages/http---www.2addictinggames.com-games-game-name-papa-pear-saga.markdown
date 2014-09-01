@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/game/name/papa-pear-saga
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [papa-pear-saga Addicting Games](http://www.2addictinggames.com/games/game/name/papa-pear-saga)
 
@@ -29,9 +34,6 @@ title: http://www.2addictinggames.com/games/game/name/papa-pear-saga
 *  JS Response Bytes: 1830326
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97264
-
-### Performance issues
-
 
 ### Performance issues
 

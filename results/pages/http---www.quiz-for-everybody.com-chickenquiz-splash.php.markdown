@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.quiz-for-everybody.com/chickenquiz/splash.php
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chicken Quiz](http://www.quiz-for-everybody.com/chickenquiz/splash.php)
 
@@ -29,9 +34,6 @@ title: http://www.quiz-for-everybody.com/chickenquiz/splash.php
 *  JS Response Bytes: 25557
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 419
-
-### Performance issues
-
 
 ### Performance issues
 

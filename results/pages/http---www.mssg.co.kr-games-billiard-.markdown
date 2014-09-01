@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mssg.co.kr/games/billiard/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hbilliard](http://www.mssg.co.kr/games/billiard/)
 
@@ -29,9 +34,6 @@ title: http://www.mssg.co.kr/games/billiard/
 *  JS Response Bytes: 601866
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15750
-
-### Performance issues
-
 
 ### Performance issues
 

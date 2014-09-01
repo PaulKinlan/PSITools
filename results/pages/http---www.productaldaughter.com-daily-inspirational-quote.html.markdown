@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.productaldaughter.com/daily-inspirational-quote.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Daily Inspirational Quote](http://www.productaldaughter.com/daily-inspirational-quote.html)
 
@@ -29,9 +34,6 @@ title: http://www.productaldaughter.com/daily-inspirational-quote.html
 *  JS Response Bytes: 923946
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15961
-
-### Performance issues
-
 
 ### Performance issues
 

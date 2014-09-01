@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://puns.mobi/login
+AvoidLandingPageRedirects: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
 ---
 ## [PUNS.MOBI - 2014-08-22 17:11:04](http://puns.mobi/login)
 
@@ -29,9 +32,6 @@ title: http://puns.mobi/login
 *  JS Response Bytes: 474485
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 921910
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://sha1md5checksum.bugaco.com/cryptocalc/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MD5 Hash Calculator Online Version 0.0.1](http://sha1md5checksum.bugaco.com/cryptocalc/index.html)
 
@@ -29,9 +34,6 @@ title: http://sha1md5checksum.bugaco.com/cryptocalc/index.html
 *  JS Response Bytes: 1554842
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27240
-
-### Performance issues
-
 
 ### Performance issues
 

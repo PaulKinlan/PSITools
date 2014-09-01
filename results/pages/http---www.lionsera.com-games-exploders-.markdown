@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.lionsera.com/games/exploders/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Exploders chain reaction](http://www.lionsera.com/games/exploders/)
 
@@ -29,9 +32,6 @@ title: http://www.lionsera.com/games/exploders/
 *  JS Response Bytes: 375279
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 479
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://phonelocator.flowsoft7.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Phone Number Locator & Reverse Lookup](http://phonelocator.flowsoft7.com/)
 
@@ -29,9 +34,6 @@ title: http://phonelocator.flowsoft7.com/
 *  JS Response Bytes: 659060
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14380
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamedinosaur.net/popuar-games/plants-vs-zombies
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | Gamedinosaur.net | Play Most Popular Games Free](http://www.gamedinosaur.net/popuar-games/plants-vs-zombies)
 
@@ -29,9 +35,6 @@ title: http://www.gamedinosaur.net/popuar-games/plants-vs-zombies
 *  JS Response Bytes: 1279449
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61464
-
-### Performance issues
-
 
 ### Performance issues
 

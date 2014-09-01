@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gamezingo.net/news/farmville-2-guide.html
+UseLegibleFontSizes: true
 ---
 ## [404 - Page not found](http://gamezingo.net/news/farmville-2-guide.html)
 
@@ -29,9 +30,6 @@ title: http://gamezingo.net/news/farmville-2-guide.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1691
-
-### Performance issues
-
 
 ### Performance issues
 

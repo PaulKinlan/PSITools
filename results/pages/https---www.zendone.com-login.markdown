@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.zendone.com/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [zendone | login](https://www.zendone.com/login)
 
@@ -29,9 +34,6 @@ title: https://www.zendone.com/login
 *  JS Response Bytes: 52455
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1407
-
-### Performance issues
-
 
 ### Performance issues
 

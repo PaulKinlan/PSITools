@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.webappreviews.org/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Web App Reviews](http://www.webappreviews.org/?m=1)
 
@@ -29,9 +31,6 @@ title: http://www.webappreviews.org/?m=1
 *  JS Response Bytes: 248929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 565
-
-### Performance issues
-
 
 ### Performance issues
 

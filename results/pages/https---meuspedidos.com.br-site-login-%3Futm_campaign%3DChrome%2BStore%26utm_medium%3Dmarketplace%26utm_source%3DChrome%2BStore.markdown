@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://meuspedidos.com.br/site/login/?utm_campaign=Chrome+Store&utm_medium=marketplace&utm_source=Chrome+Store
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Sistema para Representante Comercial | Meus Pedidos](https://meuspedidos.com.br/site/login/?utm_campaign=Chrome+Store&utm_medium=marketplace&utm_source=Chrome+Store)
 
@@ -29,9 +32,6 @@ title: https://meuspedidos.com.br/site/login/?utm_campaign=Chrome+Store&utm_medi
 *  JS Response Bytes: 403550
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40575
-
-### Performance issues
-
 
 ### Performance issues
 

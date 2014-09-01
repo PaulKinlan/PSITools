@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://hquran.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [hQuran - Holy Quran](http://hquran.net/)
 
@@ -29,9 +33,6 @@ title: http://hquran.net/
 *  JS Response Bytes: 60429
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

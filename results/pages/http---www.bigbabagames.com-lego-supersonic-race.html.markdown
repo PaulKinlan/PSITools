@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.bigbabagames.com/lego-supersonic-race.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LEGO SUPERSONİC RACE | Big Baba Games](http://www.bigbabagames.com/lego-supersonic-race.html)
 
@@ -29,9 +34,6 @@ title: http://www.bigbabagames.com/lego-supersonic-race.html
 *  JS Response Bytes: 1050168
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16280
-
-### Performance issues
-
 
 ### Performance issues
 

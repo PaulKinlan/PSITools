@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.freeonlinebestgames.com/angry-birds.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds | Free Online Best Games](http://www.freeonlinebestgames.com/angry-birds.html)
 
@@ -29,9 +33,6 @@ title: http://www.freeonlinebestgames.com/angry-birds.html
 *  JS Response Bytes: 1693603
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102633
-
-### Performance issues
-
 
 ### Performance issues
 

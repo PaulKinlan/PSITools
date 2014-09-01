@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://h5game.6677g.com/MakeUpSalon/?ref=chromewebstore
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [MakeUp Salon - Girls Games - www.6677g.com](http://h5game.6677g.com/MakeUpSalon/?ref=chromewebstore)
 
@@ -29,9 +31,6 @@ title: http://h5game.6677g.com/MakeUpSalon/?ref=chromewebstore
 *  JS Response Bytes: 1659778
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2143
-
-### Performance issues
-
 
 ### Performance issues
 

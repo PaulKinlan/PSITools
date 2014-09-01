@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.recordingstudio.bz/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Free Recording Studio Online](http://www.recordingstudio.bz/)
 
@@ -29,9 +35,6 @@ title: http://www.recordingstudio.bz/
 *  JS Response Bytes: 2427682
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 192891
-
-### Performance issues
-
 
 ### Performance issues
 

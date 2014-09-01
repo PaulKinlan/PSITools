@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://thesims3-gaame.blogspot.com.tr/2014/04/gta-vice-city.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [the sims 3 free game: gta vice city](http://thesims3-gaame.blogspot.com.tr/2014/04/gta-vice-city.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://thesims3-gaame.blogspot.com.tr/2014/04/gta-vice-city.html?m=1
 *  JS Response Bytes: 1148190
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99225
-
-### Performance issues
-
 
 ### Performance issues
 

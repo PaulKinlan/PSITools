@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://online-arcade.bigfishgames.com/pc-online/3652/ranch-rush-game/index.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Ranch Rush Free Online | Big Fish Games Online Arcade](http://online-arcade.bigfishgames.com/pc-online/3652/ranch-rush-game/index.htm)
 
@@ -29,9 +34,6 @@ title: http://online-arcade.bigfishgames.com/pc-online/3652/ranch-rush-game/inde
 *  JS Response Bytes: 162720
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

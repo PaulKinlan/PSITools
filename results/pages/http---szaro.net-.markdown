@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://szaro.net/
+MinimizeRenderBlockingResources: true
 ---
 ## [Szaro.Network](http://szaro.net/)
 
@@ -29,9 +30,6 @@ title: http://szaro.net/
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

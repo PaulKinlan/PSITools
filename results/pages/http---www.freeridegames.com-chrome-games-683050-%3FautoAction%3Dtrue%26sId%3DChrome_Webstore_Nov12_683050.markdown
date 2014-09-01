@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/683050/?autoAction=true&sId=Chrome_Webstore_Nov12_683050
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download It's All About Masks for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/683050/?autoAction=true&sId=Chrome_Webstore_Nov12_683050)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/683050/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1456700
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 37149
-
-### Performance issues
-
 
 ### Performance issues
 

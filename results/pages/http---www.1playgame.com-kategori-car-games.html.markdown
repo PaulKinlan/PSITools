@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.1playgame.com/kategori/car-games.html
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://www.1playgame.com/kategori/car-games.html)
 
@@ -29,9 +31,6 @@ title: http://www.1playgame.com/kategori/car-games.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4382
-
-### Performance issues
-
 
 ### Performance issues
 

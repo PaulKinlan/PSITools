@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/lateral-collateral/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lateral Collateral Game](http://www.footballgam.es/lateral-collateral/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/lateral-collateral/
 *  JS Response Bytes: 2295801
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163237
-
-### Performance issues
-
 
 ### Performance issues
 

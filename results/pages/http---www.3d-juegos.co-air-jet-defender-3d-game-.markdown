@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.3d-juegos.co/air-jet-defender-3d/game/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Air Jet defender 3D juego](http://www.3d-juegos.co/air-jet-defender-3d/game/)
 
@@ -29,9 +35,6 @@ title: http://www.3d-juegos.co/air-jet-defender-3d/game/
 *  JS Response Bytes: 2175326
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35084
-
-### Performance issues
-
 
 ### Performance issues
 

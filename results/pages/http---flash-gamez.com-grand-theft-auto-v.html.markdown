@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://flash-gamez.com/grand-theft-auto-v.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flash-GameZ.Com | Flash Games WorldS – Grand Theft Auto V](http://flash-gamez.com/grand-theft-auto-v.html)
 
@@ -29,9 +35,6 @@ title: http://flash-gamez.com/grand-theft-auto-v.html
 *  JS Response Bytes: 483397
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9178
-
-### Performance issues
-
 
 ### Performance issues
 

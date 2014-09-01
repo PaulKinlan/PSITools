@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://bestfreegirlgames.com/stream-master-unlimited/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stream Master Unlimited | BestFreeGirlGames Free Girl Games, Online Girl Games](http://bestfreegirlgames.com/stream-master-unlimited/)
 
@@ -29,9 +35,6 @@ title: http://bestfreegirlgames.com/stream-master-unlimited/
 *  JS Response Bytes: 1195853
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16768
-
-### Performance issues
-
 
 ### Performance issues
 

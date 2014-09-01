@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://nesninja.com/game/duck-tales#.U_u2lk0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DuckTales » NES Ninja](http://nesninja.com/game/duck-tales#.U_u2lk0ieKA)
 
@@ -29,9 +33,6 @@ title: http://nesninja.com/game/duck-tales#.U_u2lk0ieKA
 *  JS Response Bytes: 2389212
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 181548
-
-### Performance issues
-
 
 ### Performance issues
 

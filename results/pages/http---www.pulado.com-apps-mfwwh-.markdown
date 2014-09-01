@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pulado.com/apps/mfwwh/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Snakes and Hoes](http://www.pulado.com/apps/mfwwh/)
 
@@ -29,9 +33,6 @@ title: http://www.pulado.com/apps/mfwwh/
 *  JS Response Bytes: 21833
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

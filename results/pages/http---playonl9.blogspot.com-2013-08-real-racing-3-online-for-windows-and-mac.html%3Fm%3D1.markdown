@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playonl9.blogspot.com/2013/08/real-racing-3-online-for-windows-and-mac.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Online: Real Racing 3 Online for Windows and Mac](http://playonl9.blogspot.com/2013/08/real-racing-3-online-for-windows-and-mac.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playonl9.blogspot.com/2013/08/real-racing-3-online-for-windows-and
 *  JS Response Bytes: 2329084
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287794
-
-### Performance issues
-
 
 ### Performance issues
 

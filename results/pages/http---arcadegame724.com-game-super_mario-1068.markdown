@@ -33,8 +33,5 @@ title: http://arcadegame724.com/game/super_mario-1068
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

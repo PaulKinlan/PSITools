@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ebhasin.com/games/HangManHollywood/index.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HangmanHollywood:BhasinSoft](http://www.ebhasin.com/games/HangManHollywood/index.html)
 
@@ -29,9 +34,6 @@ title: http://www.ebhasin.com/games/HangManHollywood/index.html
 *  JS Response Bytes: 1493873
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111988
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://admin.contactbubble.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Home Page | ContactBubble](http://admin.contactbubble.com/)
 
@@ -29,9 +32,6 @@ title: http://admin.contactbubble.com/
 *  JS Response Bytes: 447459
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

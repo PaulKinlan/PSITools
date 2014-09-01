@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.camiocam.com/cam/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CamioCam](https://www.camiocam.com/cam/)
 
@@ -29,9 +34,6 @@ title: https://www.camiocam.com/cam/
 *  JS Response Bytes: 411082
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57389
-
-### Performance issues
-
 
 ### Performance issues
 

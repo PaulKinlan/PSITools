@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://app.superttt.com/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bluehost.com](http://app.superttt.com/)
 
@@ -29,9 +31,6 @@ title: http://app.superttt.com/
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

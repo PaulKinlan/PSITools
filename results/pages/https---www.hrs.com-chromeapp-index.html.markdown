@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.hrs.com/chromeapp/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [HRS - Hotelportal](https://www.hrs.com/chromeapp/index.html)
 
@@ -29,9 +33,6 @@ title: https://www.hrs.com/chromeapp/index.html
 *  JS Response Bytes: 923584
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53640
-
-### Performance issues
-
 
 ### Performance issues
 

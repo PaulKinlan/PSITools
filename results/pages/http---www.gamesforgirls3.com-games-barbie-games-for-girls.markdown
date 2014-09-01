@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamesforgirls3.com/games/barbie-games-for-girls
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Barbie Games | Games for Girls - Play Dress Up, Cooking and Decorating Games](http://www.gamesforgirls3.com/games/barbie-games-for-girls)
 
@@ -29,9 +33,6 @@ title: http://www.gamesforgirls3.com/games/barbie-games-for-girls
 *  JS Response Bytes: 1878900
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98037
-
-### Performance issues
-
 
 ### Performance issues
 

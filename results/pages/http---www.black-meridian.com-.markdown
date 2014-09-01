@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.black-meridian.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Web agency Paris 2e, création site internet HTML5 Agence web développement IPAD | Black meridian Paris](http://www.black-meridian.com/)
 
@@ -29,9 +34,6 @@ title: http://www.black-meridian.com/
 *  JS Response Bytes: 116508
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://siddharthasaha.net/pb/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Siddhartha Saha Photo Blog - Harvesting the Photons](http://siddharthasaha.net/pb/)
 
@@ -29,9 +32,6 @@ title: http://siddharthasaha.net/pb/
 *  JS Response Bytes: 121095
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6680
-
-### Performance issues
-
 
 ### Performance issues
 

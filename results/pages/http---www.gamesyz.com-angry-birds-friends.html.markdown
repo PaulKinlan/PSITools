@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamesyz.com/angry-birds-friends.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Friends : Games YZ](http://www.gamesyz.com/angry-birds-friends.html)
 
@@ -29,9 +33,6 @@ title: http://www.gamesyz.com/angry-birds-friends.html
 *  JS Response Bytes: 1707500
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98318
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ilovebasketball.co/swishs-demolition-slam/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Swishs Demolition Slam](http://www.ilovebasketball.co/swishs-demolition-slam/)
 
@@ -29,9 +35,6 @@ title: http://www.ilovebasketball.co/swishs-demolition-slam/
 *  JS Response Bytes: 2948664
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 151375
-
-### Performance issues
-
 
 ### Performance issues
 

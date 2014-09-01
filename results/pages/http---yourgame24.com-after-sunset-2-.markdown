@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://yourgame24.com/after-sunset-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [yourgame24.com-the best free online flash gamesAfter Sunset 2 Adventure Games | yourgame24.com](http://yourgame24.com/after-sunset-2/)
 
@@ -29,9 +34,6 @@ title: http://yourgame24.com/after-sunset-2/
 *  JS Response Bytes: 1937264
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 85251
-
-### Performance issues
-
 
 ### Performance issues
 

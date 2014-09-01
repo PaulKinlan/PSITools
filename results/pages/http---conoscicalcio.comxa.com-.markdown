@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://conoscicalcio.comxa.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tu lo Conosci il Calcio?](http://conoscicalcio.comxa.com/)
 
@@ -29,9 +33,6 @@ title: http://conoscicalcio.comxa.com/
 *  JS Response Bytes: 1557696
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1671
-
-### Performance issues
-
 
 ### Performance issues
 

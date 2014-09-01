@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://sciencepenguin.com/custo-cats/games/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Games](http://sciencepenguin.com/custo-cats/games/)
 
@@ -29,9 +31,6 @@ title: http://sciencepenguin.com/custo-cats/games/
 *  JS Response Bytes: 149089
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 320606
-
-### Performance issues
-
 
 ### Performance issues
 

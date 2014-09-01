@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.tofav.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [المفضلة](http://www.tofav.com/)
 
@@ -29,9 +31,6 @@ title: http://www.tofav.com/
 *  JS Response Bytes: 900892
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 504
-
-### Performance issues
-
 
 ### Performance issues
 

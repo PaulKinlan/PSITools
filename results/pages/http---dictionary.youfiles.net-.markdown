@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://dictionary.youfiles.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free English Dictionary](http://dictionary.youfiles.net/)
 
@@ -29,9 +33,6 @@ title: http://dictionary.youfiles.net/
 *  JS Response Bytes: 561154
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

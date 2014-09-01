@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mathrubhumi.com/files/calendar/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mathrubhumi Calendar](http://www.mathrubhumi.com/files/calendar/)
 
@@ -29,9 +33,6 @@ title: http://www.mathrubhumi.com/files/calendar/
 *  JS Response Bytes: 61518
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 576
-
-### Performance issues
-
 
 ### Performance issues
 

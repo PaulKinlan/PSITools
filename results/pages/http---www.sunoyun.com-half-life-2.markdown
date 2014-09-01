@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.sunoyun.com/half-life-2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Half Life 2 Oyunu - Nişan Hedef Oyunları - Sun Oyun](http://www.sunoyun.com/half-life-2)
 
@@ -29,9 +33,6 @@ title: http://www.sunoyun.com/half-life-2
 *  JS Response Bytes: 1535689
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97594
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.thomasapp.info/allvideo/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Video Downloader App - Download FREE](http://www.thomasapp.info/allvideo/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.thomasapp.info/allvideo/index.html
 *  JS Response Bytes: 971118
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112858
-
-### Performance issues
-
 
 ### Performance issues
 

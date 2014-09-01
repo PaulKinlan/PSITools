@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chromegamesplay.com/subway-surfers-pc.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Subway Surfers PC | Chrome Games Play WebStore](http://www.chromegamesplay.com/subway-surfers-pc.html)
 
@@ -29,9 +35,6 @@ title: http://www.chromegamesplay.com/subway-surfers-pc.html
 *  JS Response Bytes: 664063
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35109
-
-### Performance issues
-
 
 ### Performance issues
 

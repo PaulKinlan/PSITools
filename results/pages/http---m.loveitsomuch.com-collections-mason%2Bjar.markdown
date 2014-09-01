@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.loveitsomuch.com/collections/mason+jar
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [mason jar - Discover / Shop Amazing Products for mason jar](http://m.loveitsomuch.com/collections/mason+jar)
 
@@ -29,9 +31,6 @@ title: http://m.loveitsomuch.com/collections/mason+jar
 *  JS Response Bytes: 740602
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 901
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://lastvj.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Last.fm + Youtube = LastVJ](http://lastvj.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://lastvj.appspot.com/
 *  JS Response Bytes: 164081
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

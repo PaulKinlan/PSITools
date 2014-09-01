@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://k.agutong.com/auth/users/sign_in
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [股票时光机,寻找历史上最相似的K线形态和K线模式](http://k.agutong.com/auth/users/sign_in)
 
@@ -29,9 +31,6 @@ title: http://k.agutong.com/auth/users/sign_in
 *  JS Response Bytes: 141994
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 873
-
-### Performance issues
-
 
 ### Performance issues
 

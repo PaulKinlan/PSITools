@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.bimelearning.co.uk/learningcentre/login/index.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BIM elearning®: Login to the site](http://www.bimelearning.co.uk/learningcentre/login/index.php)
 
@@ -29,9 +34,6 @@ title: http://www.bimelearning.co.uk/learningcentre/login/index.php
 *  JS Response Bytes: 1344968
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1070
-
-### Performance issues
-
 
 ### Performance issues
 

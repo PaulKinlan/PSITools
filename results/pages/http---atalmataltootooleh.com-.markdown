@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://atalmataltootooleh.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [اتل متل توتوله](http://atalmataltootooleh.com/)
 
@@ -29,9 +31,6 @@ title: http://atalmataltootooleh.com/
 *  JS Response Bytes: 663362
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

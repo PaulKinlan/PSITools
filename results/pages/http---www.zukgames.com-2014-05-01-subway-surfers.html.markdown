@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.zukgames.com/2014/05/01/subway-surfers.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Subway Surfers – Best HD Games Play Now](http://www.zukgames.com/2014/05/01/subway-surfers.html)
 
@@ -29,9 +34,6 @@ title: http://www.zukgames.com/2014/05/01/subway-surfers.html
 *  JS Response Bytes: 1154220
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18304
-
-### Performance issues
-
 
 ### Performance issues
 

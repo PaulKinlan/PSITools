@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.zockerseele.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [zockerseele.com | the ultimate games weblog](http://m.zockerseele.com/)
 
@@ -29,9 +32,6 @@ title: http://m.zockerseele.com/
 *  JS Response Bytes: 3046468
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5272
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.reliablesoft.net/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Reliablesoft.net - SEO and Internet marketing services since 2002](https://www.reliablesoft.net/)
 
@@ -29,9 +31,6 @@ title: https://www.reliablesoft.net/
 *  JS Response Bytes: 1013230
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44892
-
-### Performance issues
-
 
 ### Performance issues
 

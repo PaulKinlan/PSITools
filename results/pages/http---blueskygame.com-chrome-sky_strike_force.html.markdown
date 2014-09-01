@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://blueskygame.com/chrome/sky_strike_force.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sky Strike Force - This online game is so addictive -](http://blueskygame.com/chrome/sky_strike_force.html)
 
@@ -29,9 +35,6 @@ title: http://blueskygame.com/chrome/sky_strike_force.html
 *  JS Response Bytes: 733290
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10457
-
-### Performance issues
-
 
 ### Performance issues
 

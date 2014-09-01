@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://webmasterbees.com/forum.php
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [WebmasterBees.com](http://webmasterbees.com/forum.php)
 
@@ -29,9 +31,6 @@ title: http://webmasterbees.com/forum.php
 *  JS Response Bytes: 202145
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 538
-
-### Performance issues
-
 
 ### Performance issues
 

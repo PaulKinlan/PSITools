@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.hannoverevents.org/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Veranstaltungen & EVENTS in HANNOVER und Umgebung - Veranstaltungskalender Heute - HANNOVER EVENTS](http://www.hannoverevents.org/)
 
@@ -29,9 +32,6 @@ title: http://www.hannoverevents.org/
 *  JS Response Bytes: 666233
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 80094
-
-### Performance issues
-
 
 ### Performance issues
 

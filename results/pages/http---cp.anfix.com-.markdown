@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://cp.anfix.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [anfix - Aplicaciones y soluciones software de contabilidad y facturación en la nube para pymes y autónomos](http://cp.anfix.com/)
 
@@ -29,9 +33,6 @@ title: http://cp.anfix.com/
 *  JS Response Bytes: 926655
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 107105
-
-### Performance issues
-
 
 ### Performance issues
 

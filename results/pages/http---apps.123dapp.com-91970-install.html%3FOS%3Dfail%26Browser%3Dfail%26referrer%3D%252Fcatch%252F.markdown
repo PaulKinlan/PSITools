@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://apps.123dapp.com/91970/install.html?OS=fail&Browser=fail&referrer=%2Fcatch%2F
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [Install 123D Online](http://apps.123dapp.com/91970/install.html?OS=fail&Browser=fail&referrer=%2Fcatch%2F)
 
@@ -29,9 +31,6 @@ title: http://apps.123dapp.com/91970/install.html?OS=fail&Browser=fail&referrer=
 *  JS Response Bytes: 158777
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1147
-
-### Performance issues
-
 
 ### Performance issues
 

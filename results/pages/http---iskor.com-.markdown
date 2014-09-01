@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://iskor.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [iSkor - Everything has a rating](http://iskor.com/)
 
@@ -29,9 +32,6 @@ title: http://iskor.com/
 *  JS Response Bytes: 374891
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43937
-
-### Performance issues
-
 
 ### Performance issues
 

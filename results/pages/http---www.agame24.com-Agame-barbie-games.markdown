@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.agame24.com/Agame/barbie-games
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Barbie Games | Agame - A Game - Agame Games Play](http://www.agame24.com/Agame/barbie-games)
 
@@ -29,9 +33,6 @@ title: http://www.agame24.com/Agame/barbie-games
 *  JS Response Bytes: 1760454
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98568
-
-### Performance issues
-
 
 ### Performance issues
 

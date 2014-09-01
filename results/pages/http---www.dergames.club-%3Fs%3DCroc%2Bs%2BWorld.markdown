@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.dergames.club/?s=Croc+s+World
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Croc s World – Search Results – Online Best Games](http://www.dergames.club/?s=Croc+s+World)
 
@@ -29,9 +34,6 @@ title: http://www.dergames.club/?s=Croc+s+World
 *  JS Response Bytes: 561082
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

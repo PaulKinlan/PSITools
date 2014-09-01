@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://game1453.blogspot.com/2014/03/temple-run-2.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [Online free games: Temple run 2](http://game1453.blogspot.com/2014/03/temple-run-2.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://game1453.blogspot.com/2014/03/temple-run-2.html?m=1
 *  JS Response Bytes: 762233
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95574
-
-### Performance issues
-
 
 ### Performance issues
 

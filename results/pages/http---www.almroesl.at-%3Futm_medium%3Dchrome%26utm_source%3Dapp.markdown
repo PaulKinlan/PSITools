@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.almroesl.at/?utm_medium=chrome&utm_source=app
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hotel im Großarltal, Landhotel Almrösl in Hüttschlag Großarl](http://www.almroesl.at/?utm_medium=chrome&utm_source=app)
 
@@ -29,9 +33,6 @@ title: http://www.almroesl.at/?utm_medium=chrome&utm_source=app
 *  JS Response Bytes: 983676
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 905
-
-### Performance issues
-
 
 ### Performance issues
 

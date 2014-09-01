@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.extraportale.com/app/it/calcio/classifica-incontri/index.htm
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Classifica e incontri](http://www.extraportale.com/app/it/calcio/classifica-incontri/index.htm)
 
@@ -29,9 +32,6 @@ title: http://www.extraportale.com/app/it/calcio/classifica-incontri/index.htm
 *  JS Response Bytes: 508394
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

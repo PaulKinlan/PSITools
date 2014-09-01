@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.tomicalab.com/html5/mobileexim/main.html
+UseLegibleFontSizes: true
 ---
 ## [JBoss Web/2.1.3.GA - Error report](http://www.tomicalab.com/html5/mobileexim/main.html)
 
@@ -29,9 +30,6 @@ title: http://www.tomicalab.com/html5/mobileexim/main.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1210
-
-### Performance issues
-
 
 ### Performance issues
 

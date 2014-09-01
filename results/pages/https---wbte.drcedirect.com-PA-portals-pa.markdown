@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://wbte.drcedirect.com/PA/portals/pa
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [DRC eTesting](https://wbte.drcedirect.com/PA/portals/pa)
 
@@ -29,9 +31,6 @@ title: https://wbte.drcedirect.com/PA/portals/pa
 *  JS Response Bytes: 364094
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 62
-
-### Performance issues
-
 
 ### Performance issues
 

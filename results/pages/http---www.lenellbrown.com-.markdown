@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.lenellbrown.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Lenell Brown | R&B Singer, Songwriter](http://www.lenellbrown.com/)
 
@@ -29,9 +33,6 @@ title: http://www.lenellbrown.com/
 *  JS Response Bytes: 1158426
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 132561
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gautam.cc/mathninja/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MathNinja](http://www.gautam.cc/mathninja/)
 
@@ -29,9 +34,6 @@ title: http://www.gautam.cc/mathninja/
 *  JS Response Bytes: 660107
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 188033
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamemental.com/default-category/rio-2
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rio 2 - Gamemental](http://www.gamemental.com/default-category/rio-2)
 
@@ -29,9 +33,6 @@ title: http://www.gamemental.com/default-category/rio-2
 *  JS Response Bytes: 1086739
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

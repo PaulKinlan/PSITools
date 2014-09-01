@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.galepress.com/tr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [GalePress - Dijital Yayın Platformu](http://www.galepress.com/tr/)
 
@@ -29,9 +32,6 @@ title: http://www.galepress.com/tr/
 *  JS Response Bytes: 771103
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 199365
-
-### Performance issues
-
 
 ### Performance issues
 

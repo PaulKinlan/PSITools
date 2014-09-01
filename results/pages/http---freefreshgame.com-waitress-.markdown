@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://freefreshgame.com/waitress/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [freefreshgame.com-the best free online flash gameswaitress » Strategy » attention, basically, calm, clean, customer, detailed, drinks, excellent, feelings, finally, fired, food, game of waitress, judged, probably, role, serve, service, simulator, smiley, tasks, waitress, watress games, welcome](http://freefreshgame.com/waitress/)
 
@@ -29,9 +36,6 @@ title: http://freefreshgame.com/waitress/
 *  JS Response Bytes: 842406
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

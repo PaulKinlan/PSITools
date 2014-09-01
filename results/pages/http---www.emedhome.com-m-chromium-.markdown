@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.emedhome.com/m/chromium/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [EMedHome.com the Home Page of Emergency Medicine](http://www.emedhome.com/m/chromium/)
 
@@ -29,9 +34,6 @@ title: http://www.emedhome.com/m/chromium/
 *  JS Response Bytes: 268112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20760
-
-### Performance issues
-
 
 ### Performance issues
 

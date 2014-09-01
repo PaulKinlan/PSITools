@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://blogincineradordegrasa.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://blogincineradordegrasa.blogspot.com/?m=1)
 
@@ -29,9 +33,6 @@ title: http://blogincineradordegrasa.blogspot.com/?m=1
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18816
-
-### Performance issues
-
 
 ### Performance issues
 

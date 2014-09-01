@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://play-mancala.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Mancala](http://play-mancala.com/)
 
@@ -29,9 +31,6 @@ title: http://play-mancala.com/
 *  JS Response Bytes: 1159934
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

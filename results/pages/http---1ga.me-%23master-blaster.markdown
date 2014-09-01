@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://1ga.me/#master-blaster
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [1GA.ME Just Perfect Games 1game](http://1ga.me/#master-blaster)
 
@@ -29,9 +33,6 @@ title: http://1ga.me/#master-blaster
 *  JS Response Bytes: 793144
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16914
-
-### Performance issues
-
 
 ### Performance issues
 

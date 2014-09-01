@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.wordzite.com/cerebro/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lexulous Crossword Game](http://www.wordzite.com/cerebro/)
 
@@ -29,9 +35,6 @@ title: http://www.wordzite.com/cerebro/
 *  JS Response Bytes: 185873
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 529
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://hectagames.com/world-of-warplanes-app/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [World of Warplanes APP | HectaGames](http://hectagames.com/world-of-warplanes-app/)
 
@@ -29,9 +33,6 @@ title: http://hectagames.com/world-of-warplanes-app/
 *  JS Response Bytes: 503213
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7043
-
-### Performance issues
-
 
 ### Performance issues
 

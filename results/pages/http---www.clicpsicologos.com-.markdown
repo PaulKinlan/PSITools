@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.clicpsicologos.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Psicólogo online - Clicpsicologos](http://www.clicpsicologos.com/)
 
@@ -29,9 +34,6 @@ title: http://www.clicpsicologos.com/
 *  JS Response Bytes: 1109807
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97335
-
-### Performance issues
-
 
 ### Performance issues
 

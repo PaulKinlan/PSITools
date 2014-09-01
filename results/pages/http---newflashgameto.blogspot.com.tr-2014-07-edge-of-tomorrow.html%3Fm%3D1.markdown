@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://newflashgameto.blogspot.com.tr/2014/07/edge-of-tomorrow.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [NewflashgameTo: Edge of Tomorrow](http://newflashgameto.blogspot.com.tr/2014/07/edge-of-tomorrow.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://newflashgameto.blogspot.com.tr/2014/07/edge-of-tomorrow.html?m=1
 *  JS Response Bytes: 1585746
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111043
-
-### Performance issues
-
 
 ### Performance issues
 

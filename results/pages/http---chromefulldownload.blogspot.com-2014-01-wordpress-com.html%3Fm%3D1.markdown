@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chromefulldownload.blogspot.com/2014/01/wordpress-com.html?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://chromefulldownload.blogspot.com/2014/01/wordpress-com.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://chromefulldownload.blogspot.com/2014/01/wordpress-com.html?m=1
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18843
-
-### Performance issues
-
 
 ### Performance issues
 

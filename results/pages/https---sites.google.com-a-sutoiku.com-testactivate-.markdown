@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sites.google.com/a/sutoiku.com/testactivate/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [testactivate](https://sites.google.com/a/sutoiku.com/testactivate/)
 
@@ -29,9 +32,6 @@ title: https://sites.google.com/a/sutoiku.com/testactivate/
 *  JS Response Bytes: 1705611
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2596
-
-### Performance issues
-
 
 ### Performance issues
 

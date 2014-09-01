@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://oteli-uga.ru/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Отдых на Черном море и Юге России 2014, цены без посредников](http://oteli-uga.ru/)
 
@@ -29,9 +33,6 @@ title: http://oteli-uga.ru/
 *  JS Response Bytes: 375771
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1568
-
-### Performance issues
-
 
 ### Performance issues
 

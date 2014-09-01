@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://breakit.elitwork.com/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [BreakIt!](http://breakit.elitwork.com/index.html)
 
@@ -29,9 +31,6 @@ title: http://breakit.elitwork.com/index.html
 *  JS Response Bytes: 74197
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

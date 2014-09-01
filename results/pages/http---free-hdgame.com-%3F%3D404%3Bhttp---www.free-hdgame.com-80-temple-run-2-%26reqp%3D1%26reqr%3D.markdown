@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://free-hdgame.com/?=404;http://www.free-hdgame.com:80/temple-run-2/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [free-hdgame.com](http://free-hdgame.com/?=404;http://www.free-hdgame.com:80/temple-run-2/&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://free-hdgame.com/?=404;http://www.free-hdgame.com:80/temple-run-2/&
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106
-
-### Performance issues
-
 
 ### Performance issues
 

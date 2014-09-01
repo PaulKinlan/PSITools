@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mygamesapps.com/sub_sports_hot/sub201378810803.html#.U_ufcE0ieKA
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ping Pong 3D_mygamesapps](http://www.mygamesapps.com/sub_sports_hot/sub201378810803.html#.U_ufcE0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.mygamesapps.com/sub_sports_hot/sub201378810803.html#.U_ufcE0ie
 *  JS Response Bytes: 734401
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3462
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://utext.in/uTextApp/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [uText Cloud Reader](http://utext.in/uTextApp/)
 
@@ -29,9 +33,6 @@ title: http://utext.in/uTextApp/
 *  JS Response Bytes: 2496853
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 734
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mozillagames.com/counter-strike-online.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Counter Strike Online | Mozilla Games](http://www.mozillagames.com/counter-strike-online.html)
 
@@ -29,9 +34,6 @@ title: http://www.mozillagames.com/counter-strike-online.html
 *  JS Response Bytes: 1529528
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116983
-
-### Performance issues
-
 
 ### Performance issues
 

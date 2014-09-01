@@ -33,8 +33,5 @@ title: http://fpsxgames.com/sliding-minecraft-blocks/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

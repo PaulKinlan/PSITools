@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.taketwoapps.com/apps/other/music/app.html
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Musical Note Quiz](http://www.taketwoapps.com/apps/other/music/app.html)
 
@@ -29,9 +33,6 @@ title: http://www.taketwoapps.com/apps/other/music/app.html
 *  JS Response Bytes: 435821
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

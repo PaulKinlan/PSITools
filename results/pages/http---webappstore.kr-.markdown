@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://webappstore.kr/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [webappstore.kr](http://webappstore.kr/)
 
@@ -29,9 +35,6 @@ title: http://webappstore.kr/
 *  JS Response Bytes: 139781
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1175
-
-### Performance issues
-
 
 ### Performance issues
 

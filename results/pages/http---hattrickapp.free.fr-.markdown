@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://hattrickapp.free.fr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Go To Hattrick.org](http://hattrickapp.free.fr/)
 
@@ -29,9 +31,6 @@ title: http://hattrickapp.free.fr/
 *  JS Response Bytes: 555136
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mattiesgames.com/gorgoth/
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dungeon Crawl|Sunken Dwellers of Castle Gorgoth](http://mattiesgames.com/gorgoth/)
 
@@ -29,9 +33,6 @@ title: http://mattiesgames.com/gorgoth/
 *  JS Response Bytes: 208224
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.aynax.com/freeInvoiceTemplate.php
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Invoice Template :: Free Printable Invoice :: Aynax.com](http://www.aynax.com/freeInvoiceTemplate.php)
 
@@ -29,9 +32,6 @@ title: http://www.aynax.com/freeInvoiceTemplate.php
 *  JS Response Bytes: 811628
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

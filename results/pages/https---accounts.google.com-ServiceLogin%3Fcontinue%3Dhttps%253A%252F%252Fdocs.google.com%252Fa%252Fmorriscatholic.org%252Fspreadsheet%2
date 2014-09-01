@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fdocs.google.com%2Fa%2Fmorriscatholic.org%2Fspreadsheet%2Flv%3Fkey%3D0AqUJZv973R-IdEgtNDRndHBVM3dpVlZhUGtYYldQRUE%26type%3Dview%26gid%3D0%26f%3Dtrue%26sortcolid%3D20%26sortasc%3Dfalse%26rowsperpage%3D250&ltmpl=sheets&service=wise&sacu=1&hd=morriscatholic.org
+AvoidLandingPageRedirects: true
 ---
 ## [Google Sheets - create and edit spreadsheets online, for free.](https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fdocs.google.com%2Fa%2Fmorriscatholic.org%2Fspreadsheet%2Flv%3Fkey%3D0AqUJZv973R-IdEgtNDRndHBVM3dpVlZhUGtYYldQRUE%26type%3Dview%26gid%3D0%26f%3Dtrue%26sortcolid%3D20%26sortasc%3Dfalse%26rowsperpage%3D250&ltmpl=sheets&service=wise&sacu=1&hd=morriscatholic.org)
 
@@ -29,9 +30,6 @@ title: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fdocs.goog
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54891
-
-### Performance issues
-
 
 ### Performance issues
 

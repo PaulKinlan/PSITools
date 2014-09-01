@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.sudgames.com/papas-pizzeria.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SuDGameS.Com | Flash Game | Flash Games | Top Games – Papa’s Pizzeria](http://www.sudgames.com/papas-pizzeria.html)
 
@@ -29,9 +36,6 @@ title: http://www.sudgames.com/papas-pizzeria.html
 *  JS Response Bytes: 412700
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1061
-
-### Performance issues
-
 
 ### Performance issues
 

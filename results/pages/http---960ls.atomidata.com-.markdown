@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://960ls.atomidata.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [960 Layout System | Grids made easy](http://960ls.atomidata.com/)
 
@@ -29,9 +32,6 @@ title: http://960ls.atomidata.com/
 *  JS Response Bytes: 437252
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9469
-
-### Performance issues
-
 
 ### Performance issues
 

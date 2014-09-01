@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freegames2u.com/minecraft-tower-defense.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Minecraft Tower Defense | Free Games 2U](http://www.freegames2u.com/minecraft-tower-defense.html)
 
@@ -29,9 +34,6 @@ title: http://www.freegames2u.com/minecraft-tower-defense.html
 *  JS Response Bytes: 1529783
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104735
-
-### Performance issues
-
 
 ### Performance issues
 

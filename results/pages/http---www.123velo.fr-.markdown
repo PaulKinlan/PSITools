@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.123velo.fr/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Vendre son vélo ou acheter un vélo pas cher - Annonce de vélo avec 123velo.fr](http://www.123velo.fr/)
 
@@ -29,9 +33,6 @@ title: http://www.123velo.fr/
 *  JS Response Bytes: 686604
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

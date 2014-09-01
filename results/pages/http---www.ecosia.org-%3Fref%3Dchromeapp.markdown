@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.ecosia.org/?ref=chromeapp
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ecosia: IP Blocked](http://www.ecosia.org/?ref=chromeapp)
 
@@ -29,9 +31,6 @@ title: http://www.ecosia.org/?ref=chromeapp
 *  JS Response Bytes: 41409
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

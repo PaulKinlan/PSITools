@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://bitgeeky.com/auth/
+UseLegibleFontSizes: true
 ---
 ## [IPACA Targets](http://bitgeeky.com/auth/)
 
@@ -29,9 +30,6 @@ title: http://bitgeeky.com/auth/
 *  JS Response Bytes: 13651
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

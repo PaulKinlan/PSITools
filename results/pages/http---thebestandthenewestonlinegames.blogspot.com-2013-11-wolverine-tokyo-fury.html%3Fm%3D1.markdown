@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://thebestandthenewestonlinegames.blogspot.com/2013/11/wolverine-tokyo-fury.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The best and the newest online games: Wolverine Tokyo Fury](http://thebestandthenewestonlinegames.blogspot.com/2013/11/wolverine-tokyo-fury.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://thebestandthenewestonlinegames.blogspot.com/2013/11/wolverine-toky
 *  JS Response Bytes: 1534902
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110777
-
-### Performance issues
-
 
 ### Performance issues
 

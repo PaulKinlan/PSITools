@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://turbo_cricket_pro_appucino.gangs.gangofgamers.com/chrome_apps/g2w/turbo_cricket_pro_appucino/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The page cannot be found](http://turbo_cricket_pro_appucino.gangs.gangofgamers.com/chrome_apps/g2w/turbo_cricket_pro_appucino/)
 
@@ -29,9 +31,6 @@ title: http://turbo_cricket_pro_appucino.gangs.gangofgamers.com/chrome_apps/g2w/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1774
-
-### Performance issues
-
 
 ### Performance issues
 

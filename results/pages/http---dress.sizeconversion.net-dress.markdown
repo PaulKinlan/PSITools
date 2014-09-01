@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://dress.sizeconversion.net/dress
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Dress Size Conversion](http://dress.sizeconversion.net/dress)
 
@@ -29,9 +32,6 @@ title: http://dress.sizeconversion.net/dress
 *  JS Response Bytes: 263808
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

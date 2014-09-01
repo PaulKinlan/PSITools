@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.worktruckonline.com/?utm_campaign=Google-Chrome-Web-App&utm_source=chrome-web-app&utm_medium=chrome-web-app
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
 ---
 ## [Work Truck - The Light and Medium Truck, Van and SUV Market](http://m.worktruckonline.com/?utm_campaign=Google-Chrome-Web-App&utm_source=chrome-web-app&utm_medium=chrome-web-app)
 
@@ -29,9 +32,6 @@ title: http://m.worktruckonline.com/?utm_campaign=Google-Chrome-Web-App&utm_sour
 *  JS Response Bytes: 402083
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 643
-
-### Performance issues
-
 
 ### Performance issues
 

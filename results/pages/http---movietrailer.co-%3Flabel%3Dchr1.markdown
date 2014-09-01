@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://movietrailer.co/?label=chr1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MovieTrailer.co - Your Movie Trailer Database](http://movietrailer.co/?label=chr1)
 
@@ -29,9 +33,6 @@ title: http://movietrailer.co/?label=chr1
 *  JS Response Bytes: 1241279
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16153
-
-### Performance issues
-
 
 ### Performance issues
 

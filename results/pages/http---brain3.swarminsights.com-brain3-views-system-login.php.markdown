@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://brain3.swarminsights.com/brain3/views/system/login.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Iniciar sesión · Brain 3.0](http://brain3.swarminsights.com/brain3/views/system/login.php)
 
@@ -29,9 +34,6 @@ title: http://brain3.swarminsights.com/brain3/views/system/login.php
 *  JS Response Bytes: 302803
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 414
-
-### Performance issues
-
 
 ### Performance issues
 

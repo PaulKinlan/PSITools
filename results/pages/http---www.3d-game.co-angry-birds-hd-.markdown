@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.3d-game.co/angry-birds-hd/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Angry Birds HD game](http://www.3d-game.co/angry-birds-hd/)
 
@@ -29,9 +34,6 @@ title: http://www.3d-game.co/angry-birds-hd/
 *  JS Response Bytes: 2676465
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 145724
-
-### Performance issues
-
 
 ### Performance issues
 

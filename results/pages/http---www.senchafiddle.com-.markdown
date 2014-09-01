@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.senchafiddle.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Senchafiddle.com](http://www.senchafiddle.com/)
 
@@ -29,9 +32,6 @@ title: http://www.senchafiddle.com/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

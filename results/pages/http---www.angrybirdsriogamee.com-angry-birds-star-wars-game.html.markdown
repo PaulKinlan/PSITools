@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.angrybirdsriogamee.com/angry-birds-star-wars-game.html
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The page cannot be found](http://www.angrybirdsriogamee.com/angry-birds-star-wars-game.html)
 
@@ -29,9 +31,6 @@ title: http://www.angrybirdsriogamee.com/angry-birds-star-wars-game.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1840
-
-### Performance issues
-
 
 ### Performance issues
 

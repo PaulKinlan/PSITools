@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gadgetstore.gene.com/#/auth/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Gadget Store](http://gadgetstore.gene.com/#/auth/)
 
@@ -29,9 +33,6 @@ title: http://gadgetstore.gene.com/#/auth/
 *  JS Response Bytes: 678544
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3998
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://hdgame2013.blogspot.com/2013/08/american-racing.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Hd games free: American Racing](http://hdgame2013.blogspot.com/2013/08/american-racing.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://hdgame2013.blogspot.com/2013/08/american-racing.html?m=1
 *  JS Response Bytes: 720837
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95579
-
-### Performance issues
-
 
 ### Performance issues
 

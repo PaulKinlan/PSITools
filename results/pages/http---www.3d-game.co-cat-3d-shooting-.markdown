@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.3d-game.co/cat/3d-shooting/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Shooting games](http://www.3d-game.co/cat/3d-shooting/)
 
@@ -29,9 +34,6 @@ title: http://www.3d-game.co/cat/3d-shooting/
 *  JS Response Bytes: 1711049
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33394
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -33,8 +33,5 @@ title: http://www.mycreditclassroom.com/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

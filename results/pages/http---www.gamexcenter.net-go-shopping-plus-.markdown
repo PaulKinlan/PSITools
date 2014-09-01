@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamexcenter.net/go-shopping-plus/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Go shopping plus | GameXcenter](http://www.gamexcenter.net/go-shopping-plus/)
 
@@ -29,9 +34,6 @@ title: http://www.gamexcenter.net/go-shopping-plus/
 *  JS Response Bytes: 1058800
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 164794
-
-### Performance issues
-
 
 ### Performance issues
 

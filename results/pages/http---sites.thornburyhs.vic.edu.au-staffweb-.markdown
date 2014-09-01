@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://sites.thornburyhs.vic.edu.au/staffweb/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [StaffWeb](http://sites.thornburyhs.vic.edu.au/staffweb/)
 
@@ -29,9 +33,6 @@ title: http://sites.thornburyhs.vic.edu.au/staffweb/
 *  JS Response Bytes: 2503514
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1511
-
-### Performance issues
-
 
 ### Performance issues
 

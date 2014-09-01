@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://dictionary.cambridge.org/?source=chromap-lk
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Cambridge Free English Dictionary and Thesaurus](http://dictionary.cambridge.org/?source=chromap-lk)
 
@@ -29,9 +31,6 @@ title: http://dictionary.cambridge.org/?source=chromap-lk
 *  JS Response Bytes: 598388
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

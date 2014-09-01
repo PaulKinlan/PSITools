@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.coloringpages24.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Coloring Pages | Online Coloring | Coloringpages24.com](http://www.coloringpages24.com/)
 
@@ -29,9 +33,6 @@ title: http://www.coloringpages24.com/
 *  JS Response Bytes: 49802
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

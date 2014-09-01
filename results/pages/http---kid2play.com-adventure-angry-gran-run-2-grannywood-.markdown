@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://kid2play.com/adventure/angry-gran-run-2-grannywood/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Gran Run 2 Grannywood](http://kid2play.com/adventure/angry-gran-run-2-grannywood/)
 
@@ -29,9 +34,6 @@ title: http://kid2play.com/adventure/angry-gran-run-2-grannywood/
 *  JS Response Bytes: 2352770
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112571
-
-### Performance issues
-
 
 ### Performance issues
 

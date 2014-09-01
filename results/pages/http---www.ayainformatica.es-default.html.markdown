@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ayainformatica.es/default.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TPV Confección Informática Programa para Fábrica, Tienda de ropa y calzado"](http://www.ayainformatica.es/default.html)
 
@@ -29,9 +35,6 @@ title: http://www.ayainformatica.es/default.html
 *  JS Response Bytes: 44612
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

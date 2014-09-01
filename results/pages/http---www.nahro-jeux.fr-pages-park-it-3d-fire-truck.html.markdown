@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.nahro-jeux.fr/pages/park-it-3d-fire-truck.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Park It 3D : Fire Truck - Jeu Flash - Nahro Jeux](http://www.nahro-jeux.fr/pages/park-it-3d-fire-truck.html)
 
@@ -29,9 +33,6 @@ title: http://www.nahro-jeux.fr/pages/park-it-3d-fire-truck.html
 *  JS Response Bytes: 2649251
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105224
-
-### Performance issues
-
 
 ### Performance issues
 

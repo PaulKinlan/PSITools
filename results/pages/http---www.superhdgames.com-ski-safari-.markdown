@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.superhdgames.com/ski-safari/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super HD Games – Ski Safari](http://www.superhdgames.com/ski-safari/)
 
@@ -29,9 +33,6 @@ title: http://www.superhdgames.com/ski-safari/
 *  JS Response Bytes: 913458
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17966
-
-### Performance issues
-
 
 ### Performance issues
 

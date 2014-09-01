@@ -1,6 +1,13 @@
 ---
 layout: result
 title: https://upverter.com/login/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Log in - Upverter](https://upverter.com/login/)
 
@@ -29,9 +36,6 @@ title: https://upverter.com/login/
 *  JS Response Bytes: 802003
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11652
-
-### Performance issues
-
 
 ### Performance issues
 

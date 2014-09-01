@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/spongebobs-next-big-adventures/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play SpongeBob’s Next Big Adventures Game — Sultans of Game](http://www.sultansofgame.com/games/spongebobs-next-big-adventures/)
 
@@ -29,9 +33,6 @@ title: http://www.sultansofgame.com/games/spongebobs-next-big-adventures/
 *  JS Response Bytes: 1596382
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 132481
-
-### Performance issues
-
 
 ### Performance issues
 

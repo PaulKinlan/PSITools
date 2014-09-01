@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/sports/sky-kings-racing
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sky Kings Racing - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/sports/sky-kings-racing)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/sports/sky-kings-racing
 *  JS Response Bytes: 2211839
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 151783
-
-### Performance issues
-
 
 ### Performance issues
 

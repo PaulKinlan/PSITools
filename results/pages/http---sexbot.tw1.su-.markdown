@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://sexbot.tw1.su/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Русский онлайн чатбот Кристина](http://sexbot.tw1.su/)
 
@@ -29,9 +34,6 @@ title: http://sexbot.tw1.su/
 *  JS Response Bytes: 765088
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2004
-
-### Performance issues
-
 
 ### Performance issues
 

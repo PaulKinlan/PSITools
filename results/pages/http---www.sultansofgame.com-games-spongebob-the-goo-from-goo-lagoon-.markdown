@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/spongebob-the-goo-from-goo-lagoon/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play SpongeBob The Goo From Goo Lagoon Game — Sultans of Game](http://www.sultansofgame.com/games/spongebob-the-goo-from-goo-lagoon/)
 
@@ -29,9 +36,6 @@ title: http://www.sultansofgame.com/games/spongebob-the-goo-from-goo-lagoon/
 *  JS Response Bytes: 1665424
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 107945
-
-### Performance issues
-
 
 ### Performance issues
 

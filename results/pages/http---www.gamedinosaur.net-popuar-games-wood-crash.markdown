@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamedinosaur.net/popuar-games/wood-crash
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | Gamedinosaur.net | Play Most Popular Games Free](http://www.gamedinosaur.net/popuar-games/wood-crash)
 
@@ -29,9 +35,6 @@ title: http://www.gamedinosaur.net/popuar-games/wood-crash
 *  JS Response Bytes: 1067604
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18279
-
-### Performance issues
-
 
 ### Performance issues
 

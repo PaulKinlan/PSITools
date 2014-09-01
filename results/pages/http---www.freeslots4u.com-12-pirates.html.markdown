@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeslots4u.com/12/pirates.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Pirates Slots Machine Game by Free Slots 4U](http://www.freeslots4u.com/12/pirates.html)
 
@@ -29,9 +35,6 @@ title: http://www.freeslots4u.com/12/pirates.html
 *  JS Response Bytes: 1126483
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97172
-
-### Performance issues
-
 
 ### Performance issues
 

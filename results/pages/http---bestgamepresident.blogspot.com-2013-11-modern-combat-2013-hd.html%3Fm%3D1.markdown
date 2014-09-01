@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bestgamepresident.blogspot.com/2013/11/modern-combat-2013-hd.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Best of PC Game : modern combat 2013 HD](http://bestgamepresident.blogspot.com/2013/11/modern-combat-2013-hd.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://bestgamepresident.blogspot.com/2013/11/modern-combat-2013-hd.html?
 *  JS Response Bytes: 1371275
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287694
-
-### Performance issues
-
 
 ### Performance issues
 

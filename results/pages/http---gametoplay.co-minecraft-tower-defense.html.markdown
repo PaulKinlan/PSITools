@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://gametoplay.co/minecraft-tower-defense.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [| Game To PlayGame To Play, Online Games, Android Games, Chrome Web Store Games](http://gametoplay.co/minecraft-tower-defense.html)
 
@@ -29,9 +36,6 @@ title: http://gametoplay.co/minecraft-tower-defense.html
 *  JS Response Bytes: 1233523
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15199
-
-### Performance issues
-
 
 ### Performance issues
 

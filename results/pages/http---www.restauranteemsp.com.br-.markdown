@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.restauranteemsp.com.br/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Restaurante em SP - Seu Guia de Restaurantes em SP](http://www.restauranteemsp.com.br/)
 
@@ -29,9 +34,6 @@ title: http://www.restauranteemsp.com.br/
 *  JS Response Bytes: 47613
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

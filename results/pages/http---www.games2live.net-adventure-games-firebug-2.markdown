@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.games2live.net/adventure-games/firebug-2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Firebug 2 - Free Online Games | Games2Live](http://www.games2live.net/adventure-games/firebug-2)
 
@@ -29,9 +35,6 @@ title: http://www.games2live.net/adventure-games/firebug-2
 *  JS Response Bytes: 2536148
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 134166
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.jokersgaming.net/mobile
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [Mobile - Jokers Gaming - Clan Website](http://www.jokersgaming.net/mobile)
 
@@ -29,9 +33,6 @@ title: http://www.jokersgaming.net/mobile
 *  JS Response Bytes: 117386
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 153210
-
-### Performance issues
-
 
 ### Performance issues
 

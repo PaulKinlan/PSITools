@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.takeselfie.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Take selfie: How to take a selfie."](http://www.takeselfie.com/)
 
@@ -29,9 +32,6 @@ title: http://www.takeselfie.com/
 *  JS Response Bytes: 1079250
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119196
-
-### Performance issues
-
 
 ### Performance issues
 

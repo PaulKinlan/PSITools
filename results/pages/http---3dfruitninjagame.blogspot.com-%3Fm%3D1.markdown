@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://3dfruitninjagame.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Fruit Ninja 3d](http://3dfruitninjagame.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://3dfruitninjagame.blogspot.com/?m=1
 *  JS Response Bytes: 788561
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 292894
-
-### Performance issues
-
 
 ### Performance issues
 

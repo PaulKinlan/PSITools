@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.bigbabagames.com/sqirlz.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [sqirlz | Big Baba Games](http://www.bigbabagames.com/sqirlz.html)
 
@@ -29,9 +34,6 @@ title: http://www.bigbabagames.com/sqirlz.html
 *  JS Response Bytes: 1051718
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17334
-
-### Performance issues
-
 
 ### Performance issues
 

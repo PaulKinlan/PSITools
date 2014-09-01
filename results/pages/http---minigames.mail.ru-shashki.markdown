@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://minigames.mail.ru/shashki
+MinimizeRenderBlockingResources: true
 ---
 ## [Мини-игры@Mail.Ru](http://minigames.mail.ru/shashki)
 
@@ -29,9 +30,6 @@ title: http://minigames.mail.ru/shashki
 *  JS Response Bytes: 103992
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

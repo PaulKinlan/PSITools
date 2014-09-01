@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/adventure-games/effing-worms-2/#.U_unBU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Effing Worms 2 « Online Flash Game Effing Worms 2](http://gamematic.net/online-flash-games/adventure-games/effing-worms-2/#.U_unBU0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/adventure-games/effing-worms-2/#.
 *  JS Response Bytes: 1742263
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31755
-
-### Performance issues
-
 
 ### Performance issues
 

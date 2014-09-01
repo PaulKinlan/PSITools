@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://angelawebcuki.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sütemény receptek - Angéla WebCuki](http://angelawebcuki.blogspot.com/?m=1)
 
@@ -29,9 +33,6 @@ title: http://angelawebcuki.blogspot.com/?m=1
 *  JS Response Bytes: 2788076
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113192
-
-### Performance issues
-
 
 ### Performance issues
 

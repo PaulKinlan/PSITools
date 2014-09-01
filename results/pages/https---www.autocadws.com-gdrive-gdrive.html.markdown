@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.autocadws.com/gdrive/gdrive.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AutoCAD WS - Mobile](https://www.autocadws.com/gdrive/gdrive.html)
 
@@ -29,9 +32,6 @@ title: https://www.autocadws.com/gdrive/gdrive.html
 *  JS Response Bytes: 41103
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58779
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://mobile.movieskine.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [Movieskine](http://mobile.movieskine.com/)
 
@@ -29,9 +31,6 @@ title: http://mobile.movieskine.com/
 *  JS Response Bytes: 25557
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 588
-
-### Performance issues
-
 
 ### Performance issues
 

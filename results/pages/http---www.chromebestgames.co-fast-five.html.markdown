@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.chromebestgames.co/fast-five.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fast Five | Chrome Best Games Chrome Games, Online Games, Play, Free](http://www.chromebestgames.co/fast-five.html)
 
@@ -29,9 +34,6 @@ title: http://www.chromebestgames.co/fast-five.html
 *  JS Response Bytes: 1098990
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15210
-
-### Performance issues
-
 
 ### Performance issues
 

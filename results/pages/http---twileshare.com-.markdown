@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://twileshare.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Share files on Twitter « TwileShare](http://twileshare.com/)
 
@@ -29,9 +34,6 @@ title: http://twileshare.com/
 *  JS Response Bytes: 285982
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

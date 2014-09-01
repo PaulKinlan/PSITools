@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.gamesfreak.net/
+MinimizeRenderBlockingResources: true
 ---
 ## [Free online games - Gamesfreak](http://www.gamesfreak.net/)
 
@@ -29,9 +30,6 @@ title: http://www.gamesfreak.net/
 *  JS Response Bytes: 510716
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

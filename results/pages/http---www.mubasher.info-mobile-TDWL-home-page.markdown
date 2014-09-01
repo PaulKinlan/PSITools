@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mubasher.info/mobile/TDWL/home-page
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [الرئيسيةالسعودية - سوق الأسهم السعودية | معلومات مباشر](http://www.mubasher.info/mobile/TDWL/home-page)
 
@@ -29,9 +34,6 @@ title: http://www.mubasher.info/mobile/TDWL/home-page
 *  JS Response Bytes: 1031251
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 391
-
-### Performance issues
-
 
 ### Performance issues
 

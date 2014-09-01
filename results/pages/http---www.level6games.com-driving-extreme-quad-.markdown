@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.level6games.com/driving/extreme-quad/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Extreme Quad](http://www.level6games.com/driving/extreme-quad/)
 
@@ -29,9 +34,6 @@ title: http://www.level6games.com/driving/extreme-quad/
 *  JS Response Bytes: 680395
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16235
-
-### Performance issues
-
 
 ### Performance issues
 

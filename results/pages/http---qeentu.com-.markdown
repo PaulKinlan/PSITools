@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://qeentu.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Qeentu](http://qeentu.com/)
 
@@ -29,9 +33,6 @@ title: http://qeentu.com/
 *  JS Response Bytes: 102517
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 636
-
-### Performance issues
-
 
 ### Performance issues
 

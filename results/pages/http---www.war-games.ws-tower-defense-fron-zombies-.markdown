@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/tower-defense-fron-zombies/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tower Defense from Zombies](http://www.war-games.ws/tower-defense-fron-zombies/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/tower-defense-fron-zombies/
 *  JS Response Bytes: 2292851
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122120
-
-### Performance issues
-
 
 ### Performance issues
 

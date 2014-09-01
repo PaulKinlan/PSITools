@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://s3.hapafive.com/jam/web/chrome/rs.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Unity Web Player | Rock Slide](http://s3.hapafive.com/jam/web/chrome/rs.html)
 
@@ -29,9 +33,6 @@ title: http://s3.hapafive.com/jam/web/chrome/rs.html
 *  JS Response Bytes: 152885
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

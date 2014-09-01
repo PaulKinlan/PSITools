@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://mobilemy.zipcloud.com/splash
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [ZipCloud Mobile - Free Mobile Photo Backup](http://mobilemy.zipcloud.com/splash)
 
@@ -29,9 +31,6 @@ title: http://mobilemy.zipcloud.com/splash
 *  JS Response Bytes: 107161
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3498
-
-### Performance issues
-
 
 ### Performance issues
 

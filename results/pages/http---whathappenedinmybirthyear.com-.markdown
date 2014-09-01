@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://whathappenedinmybirthyear.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [What happened in my birth year?](http://whathappenedinmybirthyear.com/)
 
@@ -29,9 +35,6 @@ title: http://whathappenedinmybirthyear.com/
 *  JS Response Bytes: 449995
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

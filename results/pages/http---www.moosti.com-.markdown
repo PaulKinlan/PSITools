@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.moosti.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Moosti - Time Tracker](http://www.moosti.com/)
 
@@ -29,9 +35,6 @@ title: http://www.moosti.com/
 *  JS Response Bytes: 259420
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 73131
-
-### Performance issues
-
 
 ### Performance issues
 

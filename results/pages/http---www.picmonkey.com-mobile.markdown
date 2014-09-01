@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.picmonkey.com/mobile
+MinimizeRenderBlockingResources: true
 ---
 ## [PicMonkey Mobile](http://www.picmonkey.com/mobile)
 
@@ -29,9 +30,6 @@ title: http://www.picmonkey.com/mobile
 *  JS Response Bytes: 229683
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1497
-
-### Performance issues
-
 
 ### Performance issues
 

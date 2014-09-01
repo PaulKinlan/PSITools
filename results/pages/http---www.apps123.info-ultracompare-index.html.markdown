@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.apps123.info/ultracompare/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [File Compare | UltraCompare App<](http://www.apps123.info/ultracompare/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.apps123.info/ultracompare/index.html
 *  JS Response Bytes: 935599
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112860
-
-### Performance issues
-
 
 ### Performance issues
 

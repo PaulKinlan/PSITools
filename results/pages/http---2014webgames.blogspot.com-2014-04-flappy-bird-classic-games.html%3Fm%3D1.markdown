@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://2014webgames.blogspot.com/2014/04/flappy-bird-classic-games.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [Online games: Flappy bird Classic games](http://2014webgames.blogspot.com/2014/04/flappy-bird-classic-games.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://2014webgames.blogspot.com/2014/04/flappy-bird-classic-games.html?m
 *  JS Response Bytes: 1596191
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96123
-
-### Performance issues
-
 
 ### Performance issues
 

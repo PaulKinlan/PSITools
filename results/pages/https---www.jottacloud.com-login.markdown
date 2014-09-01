@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.jottacloud.com/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Jottacloud](https://www.jottacloud.com/login)
 
@@ -29,9 +33,6 @@ title: https://www.jottacloud.com/login
 *  JS Response Bytes: 448253
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 273467
-
-### Performance issues
-
 
 ### Performance issues
 

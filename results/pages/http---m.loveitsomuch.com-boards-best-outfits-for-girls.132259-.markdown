@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.loveitsomuch.com/boards/best-outfits-for-girls.132259/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Best Outfits for Girls](http://m.loveitsomuch.com/boards/best-outfits-for-girls.132259/)
 
@@ -29,9 +31,6 @@ title: http://m.loveitsomuch.com/boards/best-outfits-for-girls.132259/
 *  JS Response Bytes: 988605
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1741
-
-### Performance issues
-
 
 ### Performance issues
 

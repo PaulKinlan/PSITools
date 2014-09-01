@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.inteligator.com/home/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome to InteliGator - Perform Instant Background Checks with InteliGator](http://www.inteligator.com/home/)
 
@@ -18,7 +23,7 @@ title: http://www.inteligator.com/home/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 35
-*  Total Request Bytes: 4234
+*  Total Request Bytes: 4284
 
 ### Response data
 
@@ -28,10 +33,7 @@ title: http://www.inteligator.com/home/
 *  Image Response Bytes: 127790
 *  JS Response Bytes: 68829
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2910
-
-### Performance issues
-
+*  Other Response Bytes: 2952
 
 ### Performance issues
 

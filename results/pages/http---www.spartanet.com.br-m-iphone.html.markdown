@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.spartanet.com.br/m/iphone.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [SOL - Spartan](http://www.spartanet.com.br/m/iphone.html)
 
@@ -29,9 +31,6 @@ title: http://www.spartanet.com.br/m/iphone.html
 *  JS Response Bytes: 116590
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 62
-
-### Performance issues
-
 
 ### Performance issues
 

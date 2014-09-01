@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://english-spanish-translator.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [English to Spanish Translator](http://english-spanish-translator.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://english-spanish-translator.herokuapp.com/
 *  JS Response Bytes: 1474130
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111487
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.4nums.com/1024test/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [4 Numbers game from 4nums.com, best math game online](http://www.4nums.com/1024test/)
 
@@ -29,9 +35,6 @@ title: http://www.4nums.com/1024test/
 *  JS Response Bytes: 1625611
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96833
-
-### Performance issues
-
 
 ### Performance issues
 

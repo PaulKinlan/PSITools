@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gochild2009.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GoChild](http://gochild2009.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://gochild2009.appspot.com/
 *  JS Response Bytes: 2207170
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95762
-
-### Performance issues
-
 
 ### Performance issues
 

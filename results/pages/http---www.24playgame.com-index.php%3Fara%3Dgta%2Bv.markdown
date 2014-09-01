@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.24playgame.com/index.php?ara=gta+v
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [gta v | Play Games free play the best games](http://www.24playgame.com/index.php?ara=gta+v)
 
@@ -29,9 +33,6 @@ title: http://www.24playgame.com/index.php?ara=gta+v
 *  JS Response Bytes: 660799
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

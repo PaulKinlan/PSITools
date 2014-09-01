@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://aplicativosgratisonline.xpg.uol.com.br/riverraid.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [River Raid](http://aplicativosgratisonline.xpg.uol.com.br/riverraid.html)
 
@@ -29,9 +34,6 @@ title: http://aplicativosgratisonline.xpg.uol.com.br/riverraid.html
 *  JS Response Bytes: 761146
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18364
-
-### Performance issues
-
 
 ### Performance issues
 

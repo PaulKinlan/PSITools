@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/christmas/christmas-mahjong.html#.U_d7NU0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Christmas Mahjong on Gamesk12.com Play for free](http://www.gamesk12.com/online/christmas/christmas-mahjong.html#.U_d7NU0ieKA)
 
@@ -29,9 +37,6 @@ title: http://www.gamesk12.com/online/christmas/christmas-mahjong.html#.U_d7NU0i
 *  JS Response Bytes: 1870069
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119784
-
-### Performance issues
-
 
 ### Performance issues
 

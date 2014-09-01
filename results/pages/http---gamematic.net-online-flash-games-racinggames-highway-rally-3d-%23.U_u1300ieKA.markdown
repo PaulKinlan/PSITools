@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/racinggames/highway-rally-3d/#.U_u1300ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Highway Rally 3D « Online Flash Game Highway Rally 3D](http://gamematic.net/online-flash-games/racinggames/highway-rally-3d/#.U_u1300ieKA)
 
@@ -29,9 +34,6 @@ title: http://gamematic.net/online-flash-games/racinggames/highway-rally-3d/#.U_
 *  JS Response Bytes: 1829443
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42716
-
-### Performance issues
-
 
 ### Performance issues
 

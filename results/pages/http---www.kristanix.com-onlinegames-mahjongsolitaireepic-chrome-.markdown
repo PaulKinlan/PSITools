@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kristanix.com/onlinegames/mahjongsolitaireepic/chrome/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mahjong Solitaire Epic](http://www.kristanix.com/onlinegames/mahjongsolitaireepic/chrome/)
 
@@ -29,9 +34,6 @@ title: http://www.kristanix.com/onlinegames/mahjongsolitaireepic/chrome/
 *  JS Response Bytes: 773746
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14679
-
-### Performance issues
-
 
 ### Performance issues
 

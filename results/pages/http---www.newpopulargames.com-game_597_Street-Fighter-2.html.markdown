@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_597_Street-Fighter-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Street Fighter 2 Flash Games](http://www.newpopulargames.com/game_597_Street-Fighter-2.html)
 
@@ -29,9 +35,6 @@ title: http://www.newpopulargames.com/game_597_Street-Fighter-2.html
 *  JS Response Bytes: 1647941
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98024
-
-### Performance issues
-
 
 ### Performance issues
 

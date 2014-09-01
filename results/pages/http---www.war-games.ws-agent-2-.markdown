@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.war-games.ws/agent-2/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Agent 2](http://www.war-games.ws/agent-2/)
 
@@ -29,9 +36,6 @@ title: http://www.war-games.ws/agent-2/
 *  JS Response Bytes: 2296762
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116221
-
-### Performance issues
-
 
 ### Performance issues
 

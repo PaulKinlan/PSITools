@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://psystems.it/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Psystems Informatica vendita assistenza smartphone dual sim Komu](http://psystems.it/)
 
@@ -29,9 +33,6 @@ title: http://psystems.it/
 *  JS Response Bytes: 1218054
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 867
-
-### Performance issues
-
 
 ### Performance issues
 

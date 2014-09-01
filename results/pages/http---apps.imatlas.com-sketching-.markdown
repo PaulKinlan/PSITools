@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://apps.imatlas.com/sketching/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sketching - sketch now!](http://apps.imatlas.com/sketching/)
 
@@ -29,9 +33,6 @@ title: http://apps.imatlas.com/sketching/
 *  JS Response Bytes: 44238
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

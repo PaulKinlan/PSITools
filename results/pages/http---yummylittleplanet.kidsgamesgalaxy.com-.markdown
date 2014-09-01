@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://yummylittleplanet.kidsgamesgalaxy.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Yummy Little Planet (new Qix) Chrome](http://yummylittleplanet.kidsgamesgalaxy.com/)
 
@@ -29,9 +34,6 @@ title: http://yummylittleplanet.kidsgamesgalaxy.com/
 *  JS Response Bytes: 649970
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16764
-
-### Performance issues
-
 
 ### Performance issues
 

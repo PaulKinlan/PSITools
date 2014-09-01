@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.dumadu.com/games/flick-soccer-3d
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Flick Soccer 3D - Play Online. Download soccer games for iOS, Android, Blackberry](http://www.dumadu.com/games/flick-soccer-3d)
 
@@ -29,9 +32,6 @@ title: http://www.dumadu.com/games/flick-soccer-3d
 *  JS Response Bytes: 1129331
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31017
-
-### Performance issues
-
 
 ### Performance issues
 

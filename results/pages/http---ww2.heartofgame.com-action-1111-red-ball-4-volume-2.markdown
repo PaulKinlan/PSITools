@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.heartofgame.com/action/1111/red-ball-4-volume-2
+SizeTapTargetsAppropriately: true
 ---
 ## [heartofgame.com](http://ww2.heartofgame.com/action/1111/red-ball-4-volume-2)
 
@@ -29,9 +30,6 @@ title: http://ww2.heartofgame.com/action/1111/red-ball-4-volume-2
 *  JS Response Bytes: 229919
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21055
-
-### Performance issues
-
 
 ### Performance issues
 

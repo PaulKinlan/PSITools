@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://web.x-station.eu/x3_real/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [xStation 3.0 Real](https://web.x-station.eu/x3_real/)
 
@@ -29,9 +31,6 @@ title: https://web.x-station.eu/x3_real/
 *  JS Response Bytes: 73573
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 349
-
-### Performance issues
-
 
 ### Performance issues
 

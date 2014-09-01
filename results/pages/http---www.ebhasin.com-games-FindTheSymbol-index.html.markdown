@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ebhasin.com/games/FindTheSymbol/index.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Find The Symbol-::-Bhasinsoft](http://www.ebhasin.com/games/FindTheSymbol/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.ebhasin.com/games/FindTheSymbol/index.html
 *  JS Response Bytes: 1373388
 *  Flash Response Bytes: 123714
 *  Other Response Bytes: 110937
-
-### Performance issues
-
 
 ### Performance issues
 

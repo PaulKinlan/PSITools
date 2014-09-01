@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://nomp.se/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Öva matte på Nomp](http://nomp.se/)
 
@@ -29,9 +31,6 @@ title: http://nomp.se/
 *  JS Response Bytes: 1382296
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1067
-
-### Performance issues
-
 
 ### Performance issues
 

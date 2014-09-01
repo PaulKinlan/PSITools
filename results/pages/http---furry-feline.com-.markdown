@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://furry-feline.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Furry Feline Creatives](http://furry-feline.com/)
 
@@ -29,9 +33,6 @@ title: http://furry-feline.com/
 *  JS Response Bytes: 1302716
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63407
-
-### Performance issues
-
 
 ### Performance issues
 

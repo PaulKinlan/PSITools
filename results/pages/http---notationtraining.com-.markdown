@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://notationtraining.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Music Notation Training](http://notationtraining.com/)
 
@@ -29,9 +33,6 @@ title: http://notationtraining.com/
 *  JS Response Bytes: 2426198
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34911
-
-### Performance issues
-
 
 ### Performance issues
 

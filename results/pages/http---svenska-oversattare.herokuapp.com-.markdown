@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://svenska-oversattare.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Svenska Översättare](http://svenska-oversattare.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://svenska-oversattare.herokuapp.com/
 *  JS Response Bytes: 1841597
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 173937
-
-### Performance issues
-
 
 ### Performance issues
 

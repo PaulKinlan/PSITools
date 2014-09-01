@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://driverstest.info/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Drivers License Practice Tests | Driverstest.info](http://driverstest.info/)
 
@@ -29,9 +31,6 @@ title: http://driverstest.info/
 *  JS Response Bytes: 1184746
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 38403
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -18,7 +18,7 @@ title: http://www.testodyssey.com/
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 1
-*  Total Request Bytes: 541
+*  Total Request Bytes: 542
 
 ### Response data
 
@@ -26,12 +26,9 @@ title: http://www.testodyssey.com/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 384
-*  JS Response Bytes: 41022
+*  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

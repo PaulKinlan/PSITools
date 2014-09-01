@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.radiobells.com/?utm_campaign=chromeextension&utm_source=googlewebstore&utm_medium=panel
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Радио онлайн слушать бесплатно | RadioBells.com](http://www.radiobells.com/?utm_campaign=chromeextension&utm_source=googlewebstore&utm_medium=panel)
 
@@ -29,9 +34,6 @@ title: http://www.radiobells.com/?utm_campaign=chromeextension&utm_source=google
 *  JS Response Bytes: 1725440
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4664
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.game4eva.com/oyna.php?id=232
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games – Flash Game World – Bearbarians](http://www.game4eva.com/oyna.php?id=232)
 
@@ -29,9 +35,6 @@ title: http://www.game4eva.com/oyna.php?id=232
 *  JS Response Bytes: 1283983
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 67374
-
-### Performance issues
-
 
 ### Performance issues
 

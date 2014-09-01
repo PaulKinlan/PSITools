@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.smackall.com/stripe-physics.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stripe Physics](http://www.smackall.com/stripe-physics.php)
 
@@ -29,9 +34,6 @@ title: http://www.smackall.com/stripe-physics.php
 *  JS Response Bytes: 27200
 *  Flash Response Bytes: 945861
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

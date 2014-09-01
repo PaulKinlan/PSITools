@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://infectonatorworlddominator.fungadgets.info/infectonatorworlddominator.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Infectonator: World Dominator](http://infectonatorworlddominator.fungadgets.info/infectonatorworlddominator.htm)
 
@@ -29,9 +35,6 @@ title: http://infectonatorworlddominator.fungadgets.info/infectonatorworlddomina
 *  JS Response Bytes: 744566
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95576
-
-### Performance issues
-
 
 ### Performance issues
 

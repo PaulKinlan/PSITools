@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.agamesfree.com/angry-birds-star-wars-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Star Wars 2 | A Games Free](http://www.agamesfree.com/angry-birds-star-wars-2.html)
 
@@ -29,9 +34,6 @@ title: http://www.agamesfree.com/angry-birds-star-wars-2.html
 *  JS Response Bytes: 1529679
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103946
-
-### Performance issues
-
 
 ### Performance issues
 

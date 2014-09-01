@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.nederlandlokaal.info/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Toon items op tag: voorpagina - Nederland Lokaal](http://www.nederlandlokaal.info/)
 
@@ -29,9 +33,6 @@ title: http://www.nederlandlokaal.info/
 *  JS Response Bytes: 641172
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25114
-
-### Performance issues
-
 
 ### Performance issues
 

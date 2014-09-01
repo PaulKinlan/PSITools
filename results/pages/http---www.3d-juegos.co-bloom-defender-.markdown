@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.3d-juegos.co/bloom-defender/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Bloom Defender juego](http://www.3d-juegos.co/bloom-defender/)
 
@@ -29,9 +34,6 @@ title: http://www.3d-juegos.co/bloom-defender/
 *  JS Response Bytes: 2732420
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 131559
-
-### Performance issues
-
 
 ### Performance issues
 

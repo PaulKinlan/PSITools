@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ajido.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [ajido.blogspot.com](http://ajido.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://ajido.blogspot.com/?m=1
 *  JS Response Bytes: 248931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 552
-
-### Performance issues
-
 
 ### Performance issues
 

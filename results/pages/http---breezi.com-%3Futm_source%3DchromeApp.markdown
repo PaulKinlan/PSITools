@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://breezi.com/?utm_source=chromeApp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Introducing the World's Fastest Website Builder | Breezi Nitrogen](http://breezi.com/?utm_source=chromeApp)
 
@@ -29,9 +32,6 @@ title: http://breezi.com/?utm_source=chromeApp
 *  JS Response Bytes: 181663
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 658
-
-### Performance issues
-
 
 ### Performance issues
 

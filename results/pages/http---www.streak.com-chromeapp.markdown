@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.streak.com/chromeapp
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.streak.com/chromeapp)
 
@@ -29,9 +32,6 @@ title: http://www.streak.com/chromeapp
 *  JS Response Bytes: 2376
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

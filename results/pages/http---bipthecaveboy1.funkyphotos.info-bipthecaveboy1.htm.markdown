@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://bipthecaveboy1.funkyphotos.info/bipthecaveboy1.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bip the Caveboy 1 Game](http://bipthecaveboy1.funkyphotos.info/bipthecaveboy1.htm)
 
@@ -29,9 +35,6 @@ title: http://bipthecaveboy1.funkyphotos.info/bipthecaveboy1.htm
 *  JS Response Bytes: 583960
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97597
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.playbestpuzzlegames.com/cube/cubed
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cubed - Games - Free Online Play Best Puzzle Games](http://www.playbestpuzzlegames.com/cube/cubed)
 
@@ -29,9 +36,6 @@ title: http://www.playbestpuzzlegames.com/cube/cubed
 *  JS Response Bytes: 979016
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15997
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gamefaro.info/staff-picks/papas-hot-doggeria-2
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [play online games](http://www.gamefaro.info/staff-picks/papas-hot-doggeria-2)
 
@@ -29,9 +32,6 @@ title: http://www.gamefaro.info/staff-picks/papas-hot-doggeria-2
 *  JS Response Bytes: 407417
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1692
-
-### Performance issues
-
 
 ### Performance issues
 

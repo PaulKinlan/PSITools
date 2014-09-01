@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ww38.angrygamezone.com/american-racing-2/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [angrygamezone.com](http://ww38.angrygamezone.com/american-racing-2/)
 
@@ -29,9 +33,6 @@ title: http://ww38.angrygamezone.com/american-racing-2/
 *  JS Response Bytes: 209104
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 231
-
-### Performance issues
-
 
 ### Performance issues
 

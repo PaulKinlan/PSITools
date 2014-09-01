@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://herremil.com/legendaryjourney/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Legendary Journey](http://herremil.com/legendaryjourney/)
 
@@ -29,9 +32,6 @@ title: http://herremil.com/legendaryjourney/
 *  JS Response Bytes: 98611
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 497
-
-### Performance issues
-
 
 ### Performance issues
 

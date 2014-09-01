@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.phasethreeapps.com/apps/2013/kitten/app.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Daily Kitten](http://www.phasethreeapps.com/apps/2013/kitten/app.html)
 
@@ -29,9 +32,6 @@ title: http://www.phasethreeapps.com/apps/2013/kitten/app.html
 *  JS Response Bytes: 429733
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

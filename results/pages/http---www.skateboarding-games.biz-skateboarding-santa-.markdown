@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/skateboarding-santa/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Skateboarding Santa game](http://www.skateboarding-games.biz/skateboarding-santa/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/skateboarding-santa/
 *  JS Response Bytes: 2123811
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119810
-
-### Performance issues
-
 
 ### Performance issues
 

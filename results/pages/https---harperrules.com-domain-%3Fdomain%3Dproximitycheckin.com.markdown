@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://harperrules.com/domain/?domain=proximitycheckin.com
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [domains · Harper Rules, LLC](https://harperrules.com/domain/?domain=proximitycheckin.com)
 
@@ -29,9 +31,6 @@ title: https://harperrules.com/domain/?domain=proximitycheckin.com
 *  JS Response Bytes: 162830
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 802
-
-### Performance issues
-
 
 ### Performance issues
 

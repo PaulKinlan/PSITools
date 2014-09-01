@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://playonl9.blogspot.com/2013/05/tennis-grand-slam-flash-game.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Online: Tennis Grand Slam Flash Game](http://playonl9.blogspot.com/2013/05/tennis-grand-slam-flash-game.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://playonl9.blogspot.com/2013/05/tennis-grand-slam-flash-game.html?m=
 *  JS Response Bytes: 3449822
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 325759
-
-### Performance issues
-
 
 ### Performance issues
 

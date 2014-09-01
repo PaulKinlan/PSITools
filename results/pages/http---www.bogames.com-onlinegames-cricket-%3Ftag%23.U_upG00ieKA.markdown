@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bogames.com/onlinegames/cricket/?tag#.U_upG00ieKA
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Cricket Games - Play Cricket Games Online](http://www.bogames.com/onlinegames/cricket/?tag#.U_upG00ieKA)
 
@@ -29,9 +33,6 @@ title: http://www.bogames.com/onlinegames/cricket/?tag#.U_upG00ieKA
 *  JS Response Bytes: 989378
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23780
-
-### Performance issues
-
 
 ### Performance issues
 

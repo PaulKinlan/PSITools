@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.fantogame.it/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Giochi](http://www.fantogame.it/)
 
@@ -29,9 +33,6 @@ title: http://www.fantogame.it/
 *  JS Response Bytes: 1017592
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1487
-
-### Performance issues
-
 
 ### Performance issues
 

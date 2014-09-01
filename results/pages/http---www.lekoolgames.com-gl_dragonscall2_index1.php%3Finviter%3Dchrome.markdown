@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.lekoolgames.com/gl_dragonscall2_index1.php?inviter=chrome
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dragon's Call II Login With Google - Lekool](http://www.lekoolgames.com/gl_dragonscall2_index1.php?inviter=chrome)
 
@@ -29,9 +33,6 @@ title: http://www.lekoolgames.com/gl_dragonscall2_index1.php?inviter=chrome
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 240
-
-### Performance issues
-
 
 ### Performance issues
 

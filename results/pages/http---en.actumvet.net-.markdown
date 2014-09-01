@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://en.actumvet.net/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Actumvet - Software](http://en.actumvet.net/)
 
@@ -29,9 +33,6 @@ title: http://en.actumvet.net/
 *  JS Response Bytes: 982689
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2019
-
-### Performance issues
-
 
 ### Performance issues
 

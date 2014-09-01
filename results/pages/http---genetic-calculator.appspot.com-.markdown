@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://genetic-calculator.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Genetic Calculator](http://genetic-calculator.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://genetic-calculator.appspot.com/
 *  JS Response Bytes: 1077012
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96421
-
-### Performance issues
-
 
 ### Performance issues
 

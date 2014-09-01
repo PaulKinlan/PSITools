@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.jabwire.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Scrum software development tool | Jabwire](https://www.jabwire.com/)
 
@@ -29,9 +32,6 @@ title: https://www.jabwire.com/
 *  JS Response Bytes: 526942
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 512
-
-### Performance issues
-
 
 ### Performance issues
 

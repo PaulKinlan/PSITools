@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://www.gorendezvous.com/Mobile/Signin/
+MinimizeRenderBlockingResources: true
 ---
 ## [GOrendezvous](https://www.gorendezvous.com/Mobile/Signin/)
 
@@ -29,9 +30,6 @@ title: https://www.gorendezvous.com/Mobile/Signin/
 *  JS Response Bytes: 1031882
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 587
-
-### Performance issues
-
 
 ### Performance issues
 

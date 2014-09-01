@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.psykoo.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
 ---
 ## [Psykoo](http://www.psykoo.com/)
 
@@ -29,9 +32,6 @@ title: http://www.psykoo.com/
 *  JS Response Bytes: 359204
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.wo-wollen-wir-essen.de/
+MinimizeRenderBlockingResources: true
 ---
 ## [Mittagstische in Deiner Umgebung auf Deinem Mobilgerät](http://www.wo-wollen-wir-essen.de/)
 
@@ -29,9 +30,6 @@ title: http://www.wo-wollen-wir-essen.de/
 *  JS Response Bytes: 729950
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 77667
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://1453abdgames.blogspot.com/2013/09/dragon-ball-fierce-fighting-22.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://1453abdgames.blogspot.com/2013/09/dragon-ball-fierce-fighting-22.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://1453abdgames.blogspot.com/2013/09/dragon-ball-fierce-fighting-22.h
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19312
-
-### Performance issues
-
 
 ### Performance issues
 

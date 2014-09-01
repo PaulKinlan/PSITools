@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://2draw.net/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [2draw.net - welcome](http://2draw.net/)
 
@@ -29,9 +32,6 @@ title: http://2draw.net/
 *  JS Response Bytes: 48775
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

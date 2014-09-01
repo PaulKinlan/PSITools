@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://d0y.secmailin.com/?&s1=%7BS1%7D&s2=%7BS2%7D&s3=%7BS3%7D&s4=%7BS4%7D&s5=%7BS5%7D
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [secmailin.com](http://d0y.secmailin.com/?&s1=%7BS1%7D&s2=%7BS2%7D&s3=%7BS3%7D&s4=%7BS4%7D&s5=%7BS5%7D)
 
@@ -29,9 +34,6 @@ title: http://d0y.secmailin.com/?&s1=%7BS1%7D&s2=%7BS2%7D&s3=%7BS3%7D&s4=%7BS4%7
 *  JS Response Bytes: 244394
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 87
-
-### Performance issues
-
 
 ### Performance issues
 

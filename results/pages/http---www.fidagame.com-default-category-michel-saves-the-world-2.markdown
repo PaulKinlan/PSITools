@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fidagame.com/default-category/michel-saves-the-world-2
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Michel Saves The World 2 - Fidagame.com](http://www.fidagame.com/default-category/michel-saves-the-world-2)
 
@@ -29,9 +34,6 @@ title: http://www.fidagame.com/default-category/michel-saves-the-world-2
 *  JS Response Bytes: 2163698
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106714
-
-### Performance issues
-
 
 ### Performance issues
 

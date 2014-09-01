@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.time4learning.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Homeschool, Afterschool, Summer Study - Time4Learning](http://www.time4learning.com/)
 
@@ -29,9 +34,6 @@ title: http://www.time4learning.com/
 *  JS Response Bytes: 709329
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16466
-
-### Performance issues
-
 
 ### Performance issues
 

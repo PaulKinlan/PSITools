@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.diferenciahoraria.info/m/
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [diferencia horaria | diferencia horaria entre paises | version movil](http://www.diferenciahoraria.info/m/)
 
@@ -29,9 +31,6 @@ title: http://www.diferenciahoraria.info/m/
 *  JS Response Bytes: 21700
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 237
-
-### Performance issues
-
 
 ### Performance issues
 

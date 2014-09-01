@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://nash-dvor.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Наш Двор – детские игровые и спортивные площадки](https://nash-dvor.com/)
 
@@ -29,9 +34,6 @@ title: https://nash-dvor.com/
 *  JS Response Bytes: 791644
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116466
-
-### Performance issues
-
 
 ### Performance issues
 

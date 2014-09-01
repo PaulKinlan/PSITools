@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/puzzles/dooboo-spidrix
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DooBoo Spidrix - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/puzzles/dooboo-spidrix)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/puzzles/dooboo-spidrix
 *  JS Response Bytes: 2220443
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 168234
-
-### Performance issues
-
 
 ### Performance issues
 

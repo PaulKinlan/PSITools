@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gameswhole.com/chrome-category/angry-birds-2013-season-haunted-hogs-hd
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds 2013 Season Haunted Hogs HD - Games Whole](http://www.gameswhole.com/chrome-category/angry-birds-2013-season-haunted-hogs-hd)
 
@@ -29,9 +35,6 @@ title: http://www.gameswhole.com/chrome-category/angry-birds-2013-season-haunted
 *  JS Response Bytes: 877505
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16325
-
-### Performance issues
-
 
 ### Performance issues
 

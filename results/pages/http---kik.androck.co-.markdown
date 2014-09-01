@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://kik.androck.co/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [how to kik - Home](http://kik.androck.co/)
 
@@ -29,9 +32,6 @@ title: http://kik.androck.co/
 *  JS Response Bytes: 1339266
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 78415
-
-### Performance issues
-
 
 ### Performance issues
 

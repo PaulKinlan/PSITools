@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://news.ladbrokes.com/en-gb/?utm_medium=chrome&utm_source=app
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Betting News at Ladbrokes.com](http://news.ladbrokes.com/en-gb/?utm_medium=chrome&utm_source=app)
 
@@ -29,9 +31,6 @@ title: http://news.ladbrokes.com/en-gb/?utm_medium=chrome&utm_source=app
 *  JS Response Bytes: 357714
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

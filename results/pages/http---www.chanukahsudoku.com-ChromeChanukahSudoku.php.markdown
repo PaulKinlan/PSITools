@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chanukahsudoku.com/ChromeChanukahSudoku.php
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chrome Chanukah Sudoku](http://www.chanukahsudoku.com/ChromeChanukahSudoku.php)
 
@@ -29,9 +35,6 @@ title: http://www.chanukahsudoku.com/ChromeChanukahSudoku.php
 *  JS Response Bytes: 1098885
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96557
-
-### Performance issues
-
 
 ### Performance issues
 

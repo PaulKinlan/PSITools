@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamesdragons.net/popular-games/8-ball-pool-multiplayer
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | www.gamesdragons.net | Play Most Popular Games Free](http://www.gamesdragons.net/popular-games/8-ball-pool-multiplayer)
 
@@ -29,9 +33,6 @@ title: http://www.gamesdragons.net/popular-games/8-ball-pool-multiplayer
 *  JS Response Bytes: 1622214
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39949
-
-### Performance issues
-
 
 ### Performance issues
 

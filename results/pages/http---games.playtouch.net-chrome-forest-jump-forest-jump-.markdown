@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://games.playtouch.net/chrome/forest-jump/forest-jump/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ForestJump](http://games.playtouch.net/chrome/forest-jump/forest-jump/)
 
@@ -29,9 +33,6 @@ title: http://games.playtouch.net/chrome/forest-jump/forest-jump/
 *  JS Response Bytes: 1616414
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1468
-
-### Performance issues
-
 
 ### Performance issues
 

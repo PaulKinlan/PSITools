@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.multisocialshare.com/?referrer=chromeapp
+PrioritizeVisibleContent: true
 ---
 ## [Multi Social Share](http://www.multisocialshare.com/?referrer=chromeapp)
 
@@ -29,9 +30,6 @@ title: http://www.multisocialshare.com/?referrer=chromeapp
 *  JS Response Bytes: 745011
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21955
-
-### Performance issues
-
 
 ### Performance issues
 

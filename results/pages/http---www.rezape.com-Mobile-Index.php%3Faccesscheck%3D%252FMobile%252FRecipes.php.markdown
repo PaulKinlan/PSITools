@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.rezape.com/Mobile/Index.php?accesscheck=%2FMobile%2FRecipes.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Recipes - Share your recipes](http://www.rezape.com/Mobile/Index.php?accesscheck=%2FMobile%2FRecipes.php)
 
@@ -29,9 +31,6 @@ title: http://www.rezape.com/Mobile/Index.php?accesscheck=%2FMobile%2FRecipes.ph
 *  JS Response Bytes: 466531
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27055
-
-### Performance issues
-
 
 ### Performance issues
 

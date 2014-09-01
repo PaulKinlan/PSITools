@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://sdtimer.appspot.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SdTimer](http://sdtimer.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://sdtimer.appspot.com/
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 891
-
-### Performance issues
-
 
 ### Performance issues
 

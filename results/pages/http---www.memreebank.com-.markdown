@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.memreebank.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Memreebank](http://www.memreebank.com/)
 
@@ -29,9 +32,6 @@ title: http://www.memreebank.com/
 *  JS Response Bytes: 649050
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 864
-
-### Performance issues
-
 
 ### Performance issues
 

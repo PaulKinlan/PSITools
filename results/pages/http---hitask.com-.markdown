@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://hitask.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [HiTask - Easy Task Management for Teams, To-Do List, Project Management, Team Collaboration and Online Calendar Software](http://hitask.com/)
 
@@ -29,9 +33,6 @@ title: http://hitask.com/
 *  JS Response Bytes: 1442673
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24695
-
-### Performance issues
-
 
 ### Performance issues
 

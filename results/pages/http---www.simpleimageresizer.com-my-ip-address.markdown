@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.simpleimageresizer.com/my-ip-address
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [66.249.93.21 <- Your IP](http://www.simpleimageresizer.com/my-ip-address)
 
@@ -29,9 +34,6 @@ title: http://www.simpleimageresizer.com/my-ip-address
 *  JS Response Bytes: 422329
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54475
-
-### Performance issues
-
 
 ### Performance issues
 

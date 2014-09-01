@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.games-h.com/action-games/metal-slug-4.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Playing Metal Slug 4 - Play Free Online Games at Games-H.COM](http://www.games-h.com/action-games/metal-slug-4.html)
 
@@ -29,9 +35,6 @@ title: http://www.games-h.com/action-games/metal-slug-4.html
 *  JS Response Bytes: 2625985
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 142564
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://photomania.net/mobile
+MinimizeRenderBlockingResources: true
 ---
 ## [PhotoMania](http://photomania.net/mobile)
 
@@ -29,9 +30,6 @@ title: http://photomania.net/mobile
 *  JS Response Bytes: 44328
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 68684
-
-### Performance issues
-
 
 ### Performance issues
 

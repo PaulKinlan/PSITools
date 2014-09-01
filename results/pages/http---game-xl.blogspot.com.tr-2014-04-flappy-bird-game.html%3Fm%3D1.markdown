@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://game-xl.blogspot.com.tr/2014/04/flappy-bird-game.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [Best Of Online Chrome Game: flappy bird game](http://game-xl.blogspot.com.tr/2014/04/flappy-bird-game.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://game-xl.blogspot.com.tr/2014/04/flappy-bird-game.html?m=1
 *  JS Response Bytes: 815007
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97189
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://flashextended.com/external/logo_maker_web/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Logo Maker](http://flashextended.com/external/logo_maker_web/)
 
@@ -29,9 +35,6 @@ title: http://flashextended.com/external/logo_maker_web/
 *  JS Response Bytes: 454009
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

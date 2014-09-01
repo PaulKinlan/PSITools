@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://earth3dmap.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Earth 3D Map](http://earth3dmap.com/)
 
@@ -29,9 +35,6 @@ title: http://earth3dmap.com/
 *  JS Response Bytes: 1291153
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 164685
-
-### Performance issues
-
 
 ### Performance issues
 

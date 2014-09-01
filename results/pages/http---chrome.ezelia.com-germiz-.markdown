@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chrome.ezelia.com/germiz/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Germiz game by Ezelia](http://chrome.ezelia.com/germiz/)
 
@@ -29,9 +33,6 @@ title: http://chrome.ezelia.com/germiz/
 *  JS Response Bytes: 2153103
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122045
-
-### Performance issues
-
 
 ### Performance issues
 

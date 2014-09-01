@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://newbestfreeonlinegame.blogspot.com/2013/11/turkey-tumble.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [New Best Free Online Game: Turkey Tumble](http://newbestfreeonlinegame.blogspot.com/2013/11/turkey-tumble.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://newbestfreeonlinegame.blogspot.com/2013/11/turkey-tumble.html?m=1
 *  JS Response Bytes: 2007220
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112427
-
-### Performance issues
-
 
 ### Performance issues
 

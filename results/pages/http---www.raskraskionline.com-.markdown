@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.raskraskionline.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Раскраски для детей онлайн](http://www.raskraskionline.com/)
 
@@ -29,9 +34,6 @@ title: http://www.raskraskionline.com/
 *  JS Response Bytes: 1538649
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 160970
-
-### Performance issues
-
 
 ### Performance issues
 

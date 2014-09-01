@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://urgamez.com/?=404;http://urgamez.com:80/grand-theft-auto-5-2/&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [urgamez.com](http://urgamez.com/?=404;http://urgamez.com:80/grand-theft-auto-5-2/&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://urgamez.com/?=404;http://urgamez.com:80/grand-theft-auto-5-2/&reqp
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102
-
-### Performance issues
-
 
 ### Performance issues
 

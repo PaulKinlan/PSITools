@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.playfullgames.com/subway-surfers.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Subway Surfers : Play Full Games](http://www.playfullgames.com/subway-surfers.html)
 
@@ -29,9 +34,6 @@ title: http://www.playfullgames.com/subway-surfers.html
 *  JS Response Bytes: 1529279
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105479
-
-### Performance issues
-
 
 ### Performance issues
 

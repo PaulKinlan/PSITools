@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://online-voice-recorder.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Voice Recorder - Record Sound from Microphone](http://online-voice-recorder.com/)
 
@@ -29,9 +34,6 @@ title: http://online-voice-recorder.com/
 *  JS Response Bytes: 1543490
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110505
-
-### Performance issues
-
 
 ### Performance issues
 

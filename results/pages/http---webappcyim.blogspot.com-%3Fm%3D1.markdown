@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://webappcyim.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Hello webAPP](http://webappcyim.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://webappcyim.blogspot.com/?m=1
 *  JS Response Bytes: 314297
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 561
-
-### Performance issues
-
 
 ### Performance issues
 

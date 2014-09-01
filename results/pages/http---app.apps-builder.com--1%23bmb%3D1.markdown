@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://app.apps-builder.com//1#bmb=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Apps Builder](http://app.apps-builder.com//1#bmb=1)
 
@@ -29,9 +33,6 @@ title: http://app.apps-builder.com//1#bmb=1
 *  JS Response Bytes: 1130440
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5869
-
-### Performance issues
-
 
 ### Performance issues
 

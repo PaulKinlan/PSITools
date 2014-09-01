@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://eternityincurakai.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Index - Eternity Incurakai](https://eternityincurakai.com/)
 
@@ -29,9 +34,6 @@ title: https://eternityincurakai.com/
 *  JS Response Bytes: 684406
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 68873
-
-### Performance issues
-
 
 ### Performance issues
 

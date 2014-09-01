@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.adcell.de/promotion/click/promoId/93602/slotId/60953
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [An error occured.](http://www.adcell.de/promotion/click/promoId/93602/slotId/60953)
 
@@ -29,9 +33,6 @@ title: http://www.adcell.de/promotion/click/promoId/93602/slotId/60953
 *  JS Response Bytes: 685343
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29989
-
-### Performance issues
-
 
 ### Performance issues
 

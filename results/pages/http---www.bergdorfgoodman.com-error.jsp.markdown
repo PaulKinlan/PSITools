@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.bergdorfgoodman.com/error.jsp
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Get free shipping and free returns every day at Bergdorf Goodman. Shop the fantastic selection of unparalleled designer fashion at Bergdorf Goodman.](http://www.bergdorfgoodman.com/error.jsp)
 
@@ -29,9 +34,6 @@ title: http://www.bergdorfgoodman.com/error.jsp
 *  JS Response Bytes: 795035
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1639
-
-### Performance issues
-
 
 ### Performance issues
 

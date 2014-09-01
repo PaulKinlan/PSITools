@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://app.yamlabs.com/meetings
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Yam](http://app.yamlabs.com/meetings)
 
@@ -29,9 +33,6 @@ title: http://app.yamlabs.com/meetings
 *  JS Response Bytes: 2888979
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11877
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.famouschromegames.com/puzzle/lego-city-my-city#.U_eLsk0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lego City My City - famouschromegames](http://www.famouschromegames.com/puzzle/lego-city-my-city#.U_eLsk0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.famouschromegames.com/puzzle/lego-city-my-city#.U_eLsk0ieKA
 *  JS Response Bytes: 2054583
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50225
-
-### Performance issues
-
 
 ### Performance issues
 

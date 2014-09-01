@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mobile.quotesoffame.com/jeanpaulsartre/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jean-Paul Sartre Quotes](http://mobile.quotesoffame.com/jeanpaulsartre/)
 
@@ -29,9 +32,6 @@ title: http://mobile.quotesoffame.com/jeanpaulsartre/
 *  JS Response Bytes: 25852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 334
-
-### Performance issues
-
 
 ### Performance issues
 

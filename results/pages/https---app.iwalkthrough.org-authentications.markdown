@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://app.iwalkthrough.org/authentications
+MinimizeRenderBlockingResources: true
 ---
 ## [Sign In Options](https://app.iwalkthrough.org/authentications)
 
@@ -29,9 +30,6 @@ title: https://app.iwalkthrough.org/authentications
 *  JS Response Bytes: 593805
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17396
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://app.upatient.com/#!/accounts/login?next=%2Fhome
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [uPatient](https://app.upatient.com/#!/accounts/login?next=%2Fhome)
 
@@ -29,9 +32,6 @@ title: https://app.upatient.com/#!/accounts/login?next=%2Fhome
 *  JS Response Bytes: 2733327
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 139605
-
-### Performance issues
-
 
 ### Performance issues
 

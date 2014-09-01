@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.yengames.com/need-for-speed-most-wanted.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [YenGames.Com | Flash Game Site – Page not found](http://www.yengames.com/need-for-speed-most-wanted.html)
 
@@ -29,9 +36,6 @@ title: http://www.yengames.com/need-for-speed-most-wanted.html
 *  JS Response Bytes: 42389
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10022
-
-### Performance issues
-
 
 ### Performance issues
 

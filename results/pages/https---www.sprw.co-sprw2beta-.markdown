@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.sprw.co/sprw2beta/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [sprw 2](https://www.sprw.co/sprw2beta/)
 
@@ -29,9 +31,6 @@ title: https://www.sprw.co/sprw2beta/
 *  JS Response Bytes: 453902
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9146
-
-### Performance issues
-
 
 ### Performance issues
 

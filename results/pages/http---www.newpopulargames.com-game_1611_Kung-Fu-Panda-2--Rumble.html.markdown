@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_1611_Kung-Fu-Panda-2--Rumble.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kung Fu Panda 2 Rumble Flash Games](http://www.newpopulargames.com/game_1611_Kung-Fu-Panda-2--Rumble.html)
 
@@ -29,9 +35,6 @@ title: http://www.newpopulargames.com/game_1611_Kung-Fu-Panda-2--Rumble.html
 *  JS Response Bytes: 1679985
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112112
-
-### Performance issues
-
 
 ### Performance issues
 

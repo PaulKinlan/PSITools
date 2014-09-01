@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://aanbiedingen.databot.nl/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dag aanbiedingen overzicht - DataBot](http://aanbiedingen.databot.nl/)
 
@@ -29,9 +35,6 @@ title: http://aanbiedingen.databot.nl/
 *  JS Response Bytes: 419996
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32604
-
-### Performance issues
-
 
 ### Performance issues
 

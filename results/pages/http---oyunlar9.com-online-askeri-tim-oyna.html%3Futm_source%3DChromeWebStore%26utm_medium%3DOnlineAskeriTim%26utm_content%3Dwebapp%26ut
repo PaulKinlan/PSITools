@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://oyunlar9.com/online-askeri-tim-oyna.html?utm_source=ChromeWebStore&utm_medium=OnlineAskeriTim&utm_content=webapp&utm_campaign=kisayol
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Askeri Tim Oyna - Oyunlar 9](http://oyunlar9.com/online-askeri-tim-oyna.html?utm_source=ChromeWebStore&utm_medium=OnlineAskeriTim&utm_content=webapp&utm_campaign=kisayol)
 
@@ -29,9 +35,6 @@ title: http://oyunlar9.com/online-askeri-tim-oyna.html?utm_source=ChromeWebStore
 *  JS Response Bytes: 2384661
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 303466
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.muajx.com/pixlr-express/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Muaj Game X – Sayfa bulunamadı](http://www.muajx.com/pixlr-express/)
 
@@ -29,9 +33,6 @@ title: http://www.muajx.com/pixlr-express/
 *  JS Response Bytes: 118449
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6087
-
-### Performance issues
-
 
 ### Performance issues
 

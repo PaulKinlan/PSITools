@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://h5game.6677g.com/BabyPetVet/?ref=chromewebstore
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Baby Pet Vet Doctor - Kids Games - 6677G.COM](http://h5game.6677g.com/BabyPetVet/?ref=chromewebstore)
 
@@ -29,9 +31,6 @@ title: http://h5game.6677g.com/BabyPetVet/?ref=chromewebstore
 *  JS Response Bytes: 1626508
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16999
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://newpopulargames.blogspot.com/2013/02/archer-hero.html
+UseLegibleFontSizes: true
 ---
 ## [Service Unavailable](http://newpopulargames.blogspot.com/2013/02/archer-hero.html)
 
@@ -29,9 +30,6 @@ title: http://newpopulargames.blogspot.com/2013/02/archer-hero.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 494
-
-### Performance issues
-
 
 ### Performance issues
 

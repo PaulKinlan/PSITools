@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.findable.tv/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Findable.TV - Watch movies and TV series online](http://www.findable.tv/)
 
@@ -29,9 +33,6 @@ title: http://www.findable.tv/
 *  JS Response Bytes: 1094850
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29370
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.eneemuch.com/wp-admin/install.php
+MinimizeRenderBlockingResources: true
 ---
 ## [WordPress › Installation](http://www.eneemuch.com/wp-admin/install.php)
 
@@ -29,9 +30,6 @@ title: http://www.eneemuch.com/wp-admin/install.php
 *  JS Response Bytes: 803901
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 78648
-
-### Performance issues
-
 
 ### Performance issues
 

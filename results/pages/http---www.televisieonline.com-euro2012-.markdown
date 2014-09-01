@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.televisieonline.com/euro2012/
+SizeTapTargetsAppropriately: true
 ---
 ## [televisieonline.com](http://www.televisieonline.com/euro2012/)
 
@@ -29,9 +30,6 @@ title: http://www.televisieonline.com/euro2012/
 *  JS Response Bytes: 229840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20815
-
-### Performance issues
-
 
 ### Performance issues
 

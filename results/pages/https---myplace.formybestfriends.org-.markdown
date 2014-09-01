@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://myplace.formybestfriends.org/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [My Place. Store & Share](https://myplace.formybestfriends.org/)
 
@@ -29,9 +33,6 @@ title: https://myplace.formybestfriends.org/
 *  JS Response Bytes: 2017232
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 629
-
-### Performance issues
-
 
 ### Performance issues
 

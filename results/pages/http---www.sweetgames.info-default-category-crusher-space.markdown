@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.sweetgames.info/default-category/crusher-space
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crusher Space - Sweet Games](http://www.sweetgames.info/default-category/crusher-space)
 
@@ -29,9 +36,6 @@ title: http://www.sweetgames.info/default-category/crusher-space
 *  JS Response Bytes: 1896711
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98176
-
-### Performance issues
-
 
 ### Performance issues
 

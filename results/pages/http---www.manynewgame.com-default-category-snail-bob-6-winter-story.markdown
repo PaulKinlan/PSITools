@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.manynewgame.com/default-category/snail-bob-6-winter-story
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Snail Bob 6: Winter Story - Many New Game](http://www.manynewgame.com/default-category/snail-bob-6-winter-story)
 
@@ -29,9 +34,6 @@ title: http://www.manynewgame.com/default-category/snail-bob-6-winter-story
 *  JS Response Bytes: 2346373
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118389
-
-### Performance issues
-
 
 ### Performance issues
 

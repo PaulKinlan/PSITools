@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.konplayer.com/rpg/warlords-2-rise-of-demons/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Warlords 2 Rise Of Demons » KonPlayer](http://www.konplayer.com/rpg/warlords-2-rise-of-demons/)
 
@@ -29,9 +32,6 @@ title: http://www.konplayer.com/rpg/warlords-2-rise-of-demons/
 *  JS Response Bytes: 919195
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14657
-
-### Performance issues
-
 
 ### Performance issues
 

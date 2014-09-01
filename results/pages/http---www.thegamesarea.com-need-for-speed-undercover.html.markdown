@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.thegamesarea.com/need-for-speed-undercover.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Need for Speed Undercover : The Games Area](http://www.thegamesarea.com/need-for-speed-undercover.html)
 
@@ -29,9 +34,6 @@ title: http://www.thegamesarea.com/need-for-speed-undercover.html
 *  JS Response Bytes: 2074072
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112395
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.dineshbakshi.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IGCSE, A Level, IB Business studies, Economics, Accounting and ICT](http://www.dineshbakshi.com/)
 
@@ -29,9 +32,6 @@ title: http://www.dineshbakshi.com/
 *  JS Response Bytes: 2353248
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98435
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.i-gamer.net/play/1910.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [惡整美女老師遊戲](http://www.i-gamer.net/play/1910.html)
 
@@ -29,9 +35,6 @@ title: http://www.i-gamer.net/play/1910.html
 *  JS Response Bytes: 1169950
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2322
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://roomy-tv.com/MediaPlayer.php?ChannelID=558
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Roomy TV - Cairo Centric](http://roomy-tv.com/MediaPlayer.php?ChannelID=558)
 
@@ -29,9 +34,6 @@ title: http://roomy-tv.com/MediaPlayer.php?ChannelID=558
 *  JS Response Bytes: 2146731
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17566
-
-### Performance issues
-
 
 ### Performance issues
 

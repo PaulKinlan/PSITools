@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.chromegame.org/defense/play_defense_2968.htm
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://www.chromegame.org/defense/play_defense_2968.htm)
 
@@ -29,9 +30,6 @@ title: http://www.chromegame.org/defense/play_defense_2968.htm
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 594
-
-### Performance issues
-
 
 ### Performance issues
 

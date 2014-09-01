@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://html5.playcombo.com/Robominers_Html5/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Robominers Html5](http://html5.playcombo.com/Robominers_Html5/)
 
@@ -29,9 +33,6 @@ title: http://html5.playcombo.com/Robominers_Html5/
 *  JS Response Bytes: 1291605
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95818
-
-### Performance issues
-
 
 ### Performance issues
 

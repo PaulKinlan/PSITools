@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://www.letterfeed.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Letter Feed](https://www.letterfeed.com/)
 
@@ -29,9 +30,6 @@ title: https://www.letterfeed.com/
 *  JS Response Bytes: 31923
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14536
-
-### Performance issues
-
 
 ### Performance issues
 

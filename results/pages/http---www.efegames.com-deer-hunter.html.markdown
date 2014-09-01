@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.efegames.com/deer-hunter.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Deer Hunter : Efe Games – Play Online Free Games](http://www.efegames.com/deer-hunter.html)
 
@@ -29,9 +34,6 @@ title: http://www.efegames.com/deer-hunter.html
 *  JS Response Bytes: 1529643
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105087
-
-### Performance issues
-
 
 ### Performance issues
 

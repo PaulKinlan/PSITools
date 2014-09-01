@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fscript.google.com%2Fa%2Fmacros%2Fditoweb.com%2Fs%2FAKfycbzkS0WRYYOR_hW7b0qW1Lgb7tVPK--1xbwLnxa-AGCWcU7GsSGf%2Fexec&service=wise&sacu=1&hd=ditoweb.com
+AvoidLandingPageRedirects: true
 ---
 ## [Meet Google Drive – One place for all your files](https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fscript.google.com%2Fa%2Fmacros%2Fditoweb.com%2Fs%2FAKfycbzkS0WRYYOR_hW7b0qW1Lgb7tVPK--1xbwLnxa-AGCWcU7GsSGf%2Fexec&service=wise&sacu=1&hd=ditoweb.com)
 
@@ -29,9 +30,6 @@ title: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fscript.go
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53181
-
-### Performance issues
-
 
 ### Performance issues
 

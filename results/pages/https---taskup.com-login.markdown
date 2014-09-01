@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://taskup.com/login
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TaskUp](https://taskup.com/login)
 
@@ -29,9 +32,6 @@ title: https://taskup.com/login
 *  JS Response Bytes: 218020
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

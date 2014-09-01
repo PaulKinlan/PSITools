@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.war-games.ws/absorbtion/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Absorbtion](http://www.war-games.ws/absorbtion/)
 
@@ -29,9 +36,6 @@ title: http://www.war-games.ws/absorbtion/
 *  JS Response Bytes: 2281983
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 146466
-
-### Performance issues
-
 
 ### Performance issues
 

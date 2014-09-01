@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.theappifier.com/apps/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Appifier](https://www.theappifier.com/apps/)
 
@@ -29,9 +33,6 @@ title: https://www.theappifier.com/apps/
 *  JS Response Bytes: 1198074
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9257
-
-### Performance issues
-
 
 ### Performance issues
 

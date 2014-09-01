@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sites.google.com/site/appearclub/mochi/Reach-The-Star-2
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [找不到頁面 - lineclub](https://sites.google.com/site/appearclub/mochi/Reach-The-Star-2)
 
@@ -29,9 +32,6 @@ title: https://sites.google.com/site/appearclub/mochi/Reach-The-Star-2
 *  JS Response Bytes: 657572
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28302
-
-### Performance issues
-
 
 ### Performance issues
 

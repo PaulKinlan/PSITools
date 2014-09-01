@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ebhasin.com/apps/LogarithmsTable/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Logarithms Table -::- Bhasinsoft](http://www.ebhasin.com/apps/LogarithmsTable/index.html)
 
@@ -29,9 +34,6 @@ title: http://www.ebhasin.com/apps/LogarithmsTable/index.html
 *  JS Response Bytes: 1514472
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15950
-
-### Performance issues
-
 
 ### Performance issues
 

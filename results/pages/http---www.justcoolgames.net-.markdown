@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.justcoolgames.net/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Free Online Games](http://www.justcoolgames.net/)
 
@@ -29,9 +32,6 @@ title: http://www.justcoolgames.net/
 *  JS Response Bytes: 608325
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20600
-
-### Performance issues
-
 
 ### Performance issues
 

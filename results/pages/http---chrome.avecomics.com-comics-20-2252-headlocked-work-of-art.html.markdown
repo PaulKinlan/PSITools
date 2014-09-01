@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://chrome.avecomics.com/comics/20/2252/headlocked-work-of-art.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AveComics](http://chrome.avecomics.com/comics/20/2252/headlocked-work-of-art.html)
 
@@ -29,9 +34,6 @@ title: http://chrome.avecomics.com/comics/20/2252/headlocked-work-of-art.html
 *  JS Response Bytes: 11523
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2297
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://causalitygame.com/chrome/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Causality Chrome Edition](http://causalitygame.com/chrome/)
 
@@ -29,9 +34,6 @@ title: http://causalitygame.com/chrome/
 *  JS Response Bytes: 686293
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15447
-
-### Performance issues
-
 
 ### Performance issues
 

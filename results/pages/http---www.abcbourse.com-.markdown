@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.abcbourse.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://www.abcbourse.com/)
 
@@ -29,9 +31,6 @@ title: http://www.abcbourse.com/
 *  JS Response Bytes: 159025
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

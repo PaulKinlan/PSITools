@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://pglevy.github.io/divditty/
+MinimizeRenderBlockingResources: true
 ---
 ## [Div Ditty](http://pglevy.github.io/divditty/)
 
@@ -29,9 +30,6 @@ title: http://pglevy.github.io/divditty/
 *  JS Response Bytes: 174424
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 75780
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.tesla-games.com/sports-games/air-hockey
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Playing Air Hockey - Games - Play Free Online Games at Tesla Games](http://www.tesla-games.com/sports-games/air-hockey)
 
@@ -29,9 +35,6 @@ title: http://www.tesla-games.com/sports-games/air-hockey
 *  JS Response Bytes: 1312011
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1666
-
-### Performance issues
-
 
 ### Performance issues
 

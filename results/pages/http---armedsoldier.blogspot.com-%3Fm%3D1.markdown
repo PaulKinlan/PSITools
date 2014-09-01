@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://armedsoldier.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Armed Soldier](http://armedsoldier.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://armedsoldier.blogspot.com/?m=1
 *  JS Response Bytes: 858921
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14944
-
-### Performance issues
-
 
 ### Performance issues
 

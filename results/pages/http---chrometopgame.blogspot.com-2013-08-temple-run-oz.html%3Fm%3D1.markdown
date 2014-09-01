@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chrometopgame.blogspot.com/2013/08/temple-run-oz.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [chrometopgame: Temple Run Oz](http://chrometopgame.blogspot.com/2013/08/temple-run-oz.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chrometopgame.blogspot.com/2013/08/temple-run-oz.html?m=1
 *  JS Response Bytes: 1067933
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97985
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.sharefile.com/login.aspx
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ShareFile Login](https://www.sharefile.com/login.aspx)
 
@@ -29,9 +33,6 @@ title: https://www.sharefile.com/login.aspx
 *  JS Response Bytes: 1681895
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1073
-
-### Performance issues
-
 
 ### Performance issues
 

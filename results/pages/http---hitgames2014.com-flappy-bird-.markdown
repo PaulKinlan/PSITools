@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://hitgames2014.com/flappy-bird/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hit Games 2014 – Flappy Bird](http://hitgames2014.com/flappy-bird/)
 
@@ -29,9 +34,6 @@ title: http://hitgames2014.com/flappy-bird/
 *  JS Response Bytes: 1196796
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21044
-
-### Performance issues
-
 
 ### Performance issues
 

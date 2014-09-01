@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.eeuwigweekend.nl/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Eeuwig Weekend](http://www.eeuwigweekend.nl/)
 
@@ -29,9 +32,6 @@ title: http://www.eeuwigweekend.nl/
 *  JS Response Bytes: 427497
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

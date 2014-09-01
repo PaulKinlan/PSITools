@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.czngames.com/ara/subway
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [subway games, play games](http://www.czngames.com/ara/subway)
 
@@ -29,9 +34,6 @@ title: http://www.czngames.com/ara/subway
 *  JS Response Bytes: 12237
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

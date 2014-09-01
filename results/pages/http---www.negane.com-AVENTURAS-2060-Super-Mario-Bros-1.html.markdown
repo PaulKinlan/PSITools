@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.negane.com/AVENTURAS/2060/Super-Mario-Bros-1.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Mario Bros 1 - NeGaNe.com](http://www.negane.com/AVENTURAS/2060/Super-Mario-Bros-1.html)
 
@@ -29,9 +36,6 @@ title: http://www.negane.com/AVENTURAS/2060/Super-Mario-Bros-1.html
 *  JS Response Bytes: 1652012
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 258200
-
-### Performance issues
-
 
 ### Performance issues
 

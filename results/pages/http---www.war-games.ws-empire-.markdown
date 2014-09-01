@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/empire/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Empire](http://www.war-games.ws/empire/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/empire/
 *  JS Response Bytes: 2292980
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120587
-
-### Performance issues
-
 
 ### Performance issues
 

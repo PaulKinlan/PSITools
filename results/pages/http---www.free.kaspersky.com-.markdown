@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.free.kaspersky.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [Free Antivirus Scan for Windows | Download Free Security Scan | Kaspersky](http://www.free.kaspersky.com/)
 
@@ -29,9 +31,6 @@ title: http://www.free.kaspersky.com/
 *  JS Response Bytes: 1016180
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6893
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://jf.ironhelmet.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jupiter's Folly. Explore, Expand, Exploit, Exterminate!](http://jf.ironhelmet.com/)
 
@@ -29,9 +32,6 @@ title: http://jf.ironhelmet.com/
 *  JS Response Bytes: 1919123
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104627
-
-### Performance issues
-
 
 ### Performance issues
 

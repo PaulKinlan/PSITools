@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/educational/face-attack.html
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Face Attack game on Gamesk12.com Learn for free](http://www.gamesk12.com/online/educational/face-attack.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamesk12.com/online/educational/face-attack.html
 *  JS Response Bytes: 2170284
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112605
-
-### Performance issues
-
 
 ### Performance issues
 

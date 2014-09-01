@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://hitgamespc.blogspot.com/2014/05/flappy-bird.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Hit Game and Application: Flappy Bird](http://hitgamespc.blogspot.com/2014/05/flappy-bird.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://hitgamespc.blogspot.com/2014/05/flappy-bird.html?m=1
 *  JS Response Bytes: 1236411
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95872
-
-### Performance issues
-
 
 ### Performance issues
 

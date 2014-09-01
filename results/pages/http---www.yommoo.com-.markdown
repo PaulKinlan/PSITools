@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.yommoo.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [yommoo - the sticky note whiteboard](http://www.yommoo.com/)
 
@@ -29,9 +32,6 @@ title: http://www.yommoo.com/
 *  JS Response Bytes: 1856730
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21978
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.gamepip.com/go?from=CHROMEAP
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://www.gamepip.com/go?from=CHROMEAP)
 
@@ -29,9 +30,6 @@ title: http://www.gamepip.com/go?from=CHROMEAP
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331
-
-### Performance issues
-
 
 ### Performance issues
 

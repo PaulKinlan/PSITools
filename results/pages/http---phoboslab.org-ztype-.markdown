@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://phoboslab.org/ztype/
+MinimizeRenderBlockingResources: true
 ---
 ## [Z-Type](http://phoboslab.org/ztype/)
 
@@ -29,9 +30,6 @@ title: http://phoboslab.org/ztype/
 *  JS Response Bytes: 678219
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 648
-
-### Performance issues
-
 
 ### Performance issues
 

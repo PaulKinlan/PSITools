@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://weirdindia.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Weird?? - India Is Amazing](http://weirdindia.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://weirdindia.blogspot.com/?m=1
 *  JS Response Bytes: 788566
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287109
-
-### Performance issues
-
 
 ### Performance issues
 

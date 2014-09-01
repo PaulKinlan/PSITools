@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://thesims3-new.blogspot.com.tr/2014/04/cut-rope.html?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [the sims game online free](http://thesims3-new.blogspot.com.tr/2014/04/cut-rope.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://thesims3-new.blogspot.com.tr/2014/04/cut-rope.html?m=1
 *  JS Response Bytes: 248931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43044
-
-### Performance issues
-
 
 ### Performance issues
 

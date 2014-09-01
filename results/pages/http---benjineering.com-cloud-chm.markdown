@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://benjineering.com/cloud-chm
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://benjineering.com/cloud-chm)
 
@@ -29,9 +30,6 @@ title: http://benjineering.com/cloud-chm
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 587
-
-### Performance issues
-
 
 ### Performance issues
 

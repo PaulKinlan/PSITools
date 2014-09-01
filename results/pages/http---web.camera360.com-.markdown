@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://web.camera360.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+UseLegibleFontSizes: true
 ---
 ## [WebCamera360-Lighten your photos](http://web.camera360.com/)
 
@@ -29,9 +32,6 @@ title: http://web.camera360.com/
 *  JS Response Bytes: 129709
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 639
-
-### Performance issues
-
 
 ### Performance issues
 

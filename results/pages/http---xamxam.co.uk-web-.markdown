@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://xamxam.co.uk/web/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Home](http://xamxam.co.uk/web/)
 
@@ -29,9 +36,6 @@ title: http://xamxam.co.uk/web/
 *  JS Response Bytes: 1721021
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3710
-
-### Performance issues
-
 
 ### Performance issues
 

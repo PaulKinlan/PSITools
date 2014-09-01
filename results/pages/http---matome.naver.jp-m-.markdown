@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://matome.naver.jp/m/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [NAVER まとめ[情報をデザインする。キュレーションプラットフォーム]](http://matome.naver.jp/m/)
 
@@ -29,9 +32,6 @@ title: http://matome.naver.jp/m/
 *  JS Response Bytes: 208596
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 610
-
-### Performance issues
-
 
 ### Performance issues
 

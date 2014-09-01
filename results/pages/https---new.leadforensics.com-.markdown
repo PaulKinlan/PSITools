@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://new.leadforensics.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lead Forensics Login | Sign in to your dashboard and see which businesses are visiting your website](https://new.leadforensics.com/)
 
@@ -29,9 +33,6 @@ title: https://new.leadforensics.com/
 *  JS Response Bytes: 480108
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 347
-
-### Performance issues
-
 
 ### Performance issues
 

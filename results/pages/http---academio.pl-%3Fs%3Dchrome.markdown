@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://academio.pl/?s=chrome
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Darmowy mail grupowy, forum, wymiana plików, kalendarze studenckie](http://academio.pl/?s=chrome)
 
@@ -29,9 +33,6 @@ title: http://academio.pl/?s=chrome
 *  JS Response Bytes: 1945871
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97180
-
-### Performance issues
-
 
 ### Performance issues
 

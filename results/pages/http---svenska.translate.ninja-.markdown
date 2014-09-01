@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://svenska.translate.ninja/
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Engelska Svenska Översättning](http://svenska.translate.ninja/)
 
@@ -29,9 +31,6 @@ title: http://svenska.translate.ninja/
 *  JS Response Bytes: 1682635
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 177888
-
-### Performance issues
-
 
 ### Performance issues
 

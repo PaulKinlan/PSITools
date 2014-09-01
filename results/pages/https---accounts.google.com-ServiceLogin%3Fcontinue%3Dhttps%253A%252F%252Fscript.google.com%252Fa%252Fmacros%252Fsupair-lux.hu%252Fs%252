@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fscript.google.com%2Fa%2Fmacros%2Fsupair-lux.hu%2Fs%2FAKfycbzzmlNw3St6SiNpkJxAWIfBEyi2GPJlnMJWs--fabPki7loNNE%2Fexec&service=wise&sacu=1&hd=supair-lux.hu
+AvoidLandingPageRedirects: true
 ---
 ## [Meet Google Drive – One place for all your files](https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fscript.google.com%2Fa%2Fmacros%2Fsupair-lux.hu%2Fs%2FAKfycbzzmlNw3St6SiNpkJxAWIfBEyi2GPJlnMJWs--fabPki7loNNE%2Fexec&service=wise&sacu=1&hd=supair-lux.hu)
 
@@ -29,9 +30,6 @@ title: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fscript.go
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53200
-
-### Performance issues
-
 
 ### Performance issues
 

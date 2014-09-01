@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://www.amazon.in/?tag=shoprewa-21
+MinimizeRenderBlockingResources: true
 ---
 ## [Amazon.in: Online Shopping for books, Mobiles, Computers, Cameras, Games, Watches, Fashion Jewellery, Kindle E-Readers & Accessories and more](https://www.amazon.in/?tag=shoprewa-21)
 
@@ -29,9 +30,6 @@ title: https://www.amazon.in/?tag=shoprewa-21
 *  JS Response Bytes: 254348
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 905
-
-### Performance issues
-
 
 ### Performance issues
 

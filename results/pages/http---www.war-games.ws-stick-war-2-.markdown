@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/stick-war-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stick War](http://www.war-games.ws/stick-war-2/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/stick-war-2/
 *  JS Response Bytes: 2292849
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121052
-
-### Performance issues
-
 
 ### Performance issues
 

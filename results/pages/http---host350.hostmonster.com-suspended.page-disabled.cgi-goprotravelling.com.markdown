@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://host350.hostmonster.com/suspended.page/disabled.cgi/goprotravelling.com
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [This website is currently unavailable.](http://host350.hostmonster.com/suspended.page/disabled.cgi/goprotravelling.com)
 
@@ -29,9 +31,6 @@ title: http://host350.hostmonster.com/suspended.page/disabled.cgi/goprotravellin
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 604
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://soundreview.org/instruments/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Instrument Reviews - Electric guitars, basses and more - SoundReview](http://soundreview.org/instruments/)
 
@@ -29,9 +33,6 @@ title: http://soundreview.org/instruments/
 *  JS Response Bytes: 1798218
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 191727
-
-### Performance issues
-
 
 ### Performance issues
 

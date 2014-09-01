@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.shootemall.net/counter-strike/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Counter Strike](http://www.shootemall.net/counter-strike/)
 
@@ -29,9 +35,6 @@ title: http://www.shootemall.net/counter-strike/
 *  JS Response Bytes: 2535593
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 147177
-
-### Performance issues
-
 
 ### Performance issues
 

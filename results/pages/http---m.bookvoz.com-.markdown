@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.bookvoz.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [BoOKvOZ](http://m.bookvoz.com/)
 
@@ -29,9 +31,6 @@ title: http://m.bookvoz.com/
 *  JS Response Bytes: 2110947
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24146
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.invoicera.com/app/login.php
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [INVOICERA LOGIN](http://www.invoicera.com/app/login.php)
 
@@ -29,9 +31,6 @@ title: http://www.invoicera.com/app/login.php
 *  JS Response Bytes: 181899
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2798
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/snowboard-boy/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Snowboard Boy game](http://www.skateboarding-games.biz/snowboard-boy/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/snowboard-boy/
 *  JS Response Bytes: 2123758
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122963
-
-### Performance issues
-
 
 ### Performance issues
 

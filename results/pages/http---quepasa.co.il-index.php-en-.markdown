@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://quepasa.co.il/index.php/en/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [About us](http://quepasa.co.il/index.php/en/)
 
@@ -29,9 +35,6 @@ title: http://quepasa.co.il/index.php/en/
 *  JS Response Bytes: 427801
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55423
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/adventure-games/delivery-boy/#.U_um200ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Delivery Boy « Online Flash Game Delivery Boy](http://gamematic.net/online-flash-games/adventure-games/delivery-boy/#.U_um200ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/adventure-games/delivery-boy/#.U_
 *  JS Response Bytes: 1258980
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42529
-
-### Performance issues
-
 
 ### Performance issues
 

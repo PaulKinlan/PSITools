@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://moomgame.com/clash-of-clans/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MoomGame.com Play Full HD Game – Clash Of Clans](http://moomgame.com/clash-of-clans/)
 
@@ -29,9 +34,6 @@ title: http://moomgame.com/clash-of-clans/
 *  JS Response Bytes: 727918
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15627
-
-### Performance issues
-
 
 ### Performance issues
 

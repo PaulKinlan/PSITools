@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://vstrechi.org/f_nas.php
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Object not found!](http://vstrechi.org/f_nas.php)
 
@@ -29,9 +31,6 @@ title: http://vstrechi.org/f_nas.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1370
-
-### Performance issues
-
 
 ### Performance issues
 

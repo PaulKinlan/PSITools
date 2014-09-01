@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.o-url.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [O-URL](http://www.o-url.com/)
 
@@ -29,9 +32,6 @@ title: http://www.o-url.com/
 *  JS Response Bytes: 811566
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43483
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://zipaiqiang.sinaapp.com/accounts/login/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Sign in - Selfie Wall](http://zipaiqiang.sinaapp.com/accounts/login/)
 
@@ -29,9 +31,6 @@ title: http://zipaiqiang.sinaapp.com/accounts/login/
 *  JS Response Bytes: 356471
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 650
-
-### Performance issues
-
 
 ### Performance issues
 

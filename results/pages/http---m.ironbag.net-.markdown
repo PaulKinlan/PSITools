@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://m.ironbag.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [아이언백](http://m.ironbag.net/)
 
@@ -29,9 +34,6 @@ title: http://m.ironbag.net/
 *  JS Response Bytes: 201850
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 240
-
-### Performance issues
-
 
 ### Performance issues
 

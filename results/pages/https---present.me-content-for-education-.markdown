@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://present.me/content/for-education/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Present.me | Make online video presentation clips for education | free app | make your own training course](https://present.me/content/for-education/)
 
@@ -29,9 +34,6 @@ title: https://present.me/content/for-education/
 *  JS Response Bytes: 1045509
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30000
-
-### Performance issues
-
 
 ### Performance issues
 

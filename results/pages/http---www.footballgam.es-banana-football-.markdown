@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/banana-football/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Banana Football Game](http://www.footballgam.es/banana-football/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/banana-football/
 *  JS Response Bytes: 2138938
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 157901
-
-### Performance issues
-
 
 ### Performance issues
 

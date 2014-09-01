@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://earntodie2012.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Earn to die 2012](http://earntodie2012.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://earntodie2012.blogspot.com/?m=1
 *  JS Response Bytes: 789193
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 292888
-
-### Performance issues
-
 
 ### Performance issues
 

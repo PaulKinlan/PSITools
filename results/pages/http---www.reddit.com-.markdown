@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.reddit.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [reddit: the front page of the internet](http://www.reddit.com/)
 
@@ -29,9 +32,6 @@ title: http://www.reddit.com/
 *  JS Response Bytes: 425987
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 647
-
-### Performance issues
-
 
 ### Performance issues
 

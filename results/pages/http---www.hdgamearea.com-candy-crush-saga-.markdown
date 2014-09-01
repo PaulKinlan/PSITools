@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.hdgamearea.com/candy-crush-saga/
+EnableGzipCompression: true
 ---
 ## [](http://www.hdgamearea.com/candy-crush-saga/)
 
@@ -29,9 +30,6 @@ title: http://www.hdgamearea.com/candy-crush-saga/
 *  JS Response Bytes: 164368
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://minecraft.novaskin.me/?loggedin
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nova Skin - Minecraft Skin Editor](http://minecraft.novaskin.me/?loggedin)
 
@@ -29,9 +33,6 @@ title: http://minecraft.novaskin.me/?loggedin
 *  JS Response Bytes: 2492602
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125179
-
-### Performance issues
-
 
 ### Performance issues
 

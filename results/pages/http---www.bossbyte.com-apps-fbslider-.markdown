@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.bossbyte.com/apps/fbslider/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.bossbyte.com/apps/fbslider/)
 
@@ -29,9 +32,6 @@ title: http://www.bossbyte.com/apps/fbslider/
 *  JS Response Bytes: 1527222
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110896
-
-### Performance issues
-
 
 ### Performance issues
 

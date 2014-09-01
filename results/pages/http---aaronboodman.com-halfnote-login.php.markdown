@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://aaronboodman.com/halfnote/login.php
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://aaronboodman.com/halfnote/login.php)
 
@@ -29,9 +32,6 @@ title: http://aaronboodman.com/halfnote/login.php
 *  JS Response Bytes: 18946
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 304
-
-### Performance issues
-
 
 ### Performance issues
 

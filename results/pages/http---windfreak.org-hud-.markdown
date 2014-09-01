@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://windfreak.org/hud/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [](http://windfreak.org/hud/)
 
@@ -29,9 +33,6 @@ title: http://windfreak.org/hud/
 *  JS Response Bytes: 471222
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53630
-
-### Performance issues
-
 
 ### Performance issues
 

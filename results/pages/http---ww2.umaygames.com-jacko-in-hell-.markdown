@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ww2.umaygames.com/jacko-in-hell/
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [umaygames.com](http://ww2.umaygames.com/jacko-in-hell/)
 
@@ -29,9 +31,6 @@ title: http://ww2.umaygames.com/jacko-in-hell/
 *  JS Response Bytes: 229840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21035
-
-### Performance issues
-
 
 ### Performance issues
 

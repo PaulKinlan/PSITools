@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.storewebgames.com/interactive_buddy_game.html
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Interactive buddy game](http://www.storewebgames.com/interactive_buddy_game.html)
 
@@ -29,9 +32,6 @@ title: http://www.storewebgames.com/interactive_buddy_game.html
 *  JS Response Bytes: 1311071
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95813
-
-### Performance issues
-
 
 ### Performance issues
 

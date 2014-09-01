@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.gosquared.com/login/?redir=https%3A%2F%2Fwww.gosquared.com%2Fhome
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Log In to GoSquared - GoSquared](https://www.gosquared.com/login/?redir=https%3A%2F%2Fwww.gosquared.com%2Fhome)
 
@@ -29,9 +33,6 @@ title: https://www.gosquared.com/login/?redir=https%3A%2F%2Fwww.gosquared.com%2F
 *  JS Response Bytes: 278598
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 134520
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://pixidraw.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Create TwitterArt with Pixi, the Drawing App for Twitter](http://pixidraw.com/)
 
@@ -29,9 +35,6 @@ title: http://pixidraw.com/
 *  JS Response Bytes: 304537
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

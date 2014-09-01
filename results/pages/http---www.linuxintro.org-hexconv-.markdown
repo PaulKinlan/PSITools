@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.linuxintro.org/hexconv/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.linuxintro.org/hexconv/)
 
@@ -29,9 +33,6 @@ title: http://www.linuxintro.org/hexconv/
 *  JS Response Bytes: 629199
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16232
-
-### Performance issues
-
 
 ### Performance issues
 

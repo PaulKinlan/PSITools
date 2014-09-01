@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.pituligames.com/lose-the-heat-3.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Lose the heat 3! - Pituli★Games.com](http://www.pituligames.com/lose-the-heat-3.html)
 
@@ -29,9 +34,6 @@ title: http://www.pituligames.com/lose-the-heat-3.html
 *  JS Response Bytes: 1038282
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 130717
-
-### Performance issues
-
 
 ### Performance issues
 

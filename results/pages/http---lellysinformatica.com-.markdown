@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://lellysinformatica.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Lellys Informática- Desenvolvendo seu futuro](http://lellysinformatica.com/)
 
@@ -29,9 +32,6 @@ title: http://lellysinformatica.com/
 *  JS Response Bytes: 389802
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29803
-
-### Performance issues
-
 
 ### Performance issues
 

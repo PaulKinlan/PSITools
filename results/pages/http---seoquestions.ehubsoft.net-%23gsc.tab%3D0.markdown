@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://seoquestions.ehubsoft.net/#gsc.tab=0
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ask SEO (Search Engine Optimization) questions!](http://seoquestions.ehubsoft.net/#gsc.tab=0)
 
@@ -29,9 +34,6 @@ title: http://seoquestions.ehubsoft.net/#gsc.tab=0
 *  JS Response Bytes: 973848
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14322
-
-### Performance issues
-
 
 ### Performance issues
 

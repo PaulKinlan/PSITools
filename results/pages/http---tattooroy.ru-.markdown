@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://tattooroy.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Тату салон в центре Петербурга](http://tattooroy.ru/)
 
@@ -29,9 +32,6 @@ title: http://tattooroy.ru/
 *  JS Response Bytes: 541510
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 77332
-
-### Performance issues
-
 
 ### Performance issues
 

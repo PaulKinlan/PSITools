@@ -33,8 +33,5 @@ title: http://ua-stub.prime-motif.com/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

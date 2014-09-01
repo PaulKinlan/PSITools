@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gamelandvn.com/?utm_source=chromeapp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [GameLandVN | Xứ sở Game Online](http://gamelandvn.com/?utm_source=chromeapp)
 
@@ -29,9 +33,6 @@ title: http://gamelandvn.com/?utm_source=chromeapp
 *  JS Response Bytes: 990609
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18861
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: https://www.snappages.com/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SnapPages - Login](https://www.snappages.com/login)
 
@@ -29,9 +36,6 @@ title: https://www.snappages.com/login
 *  JS Response Bytes: 498587
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44610
-
-### Performance issues
-
 
 ### Performance issues
 

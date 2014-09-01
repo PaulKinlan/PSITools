@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://grandcentral.cloudbees.com/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CloudBees - Login](https://grandcentral.cloudbees.com/login)
 
@@ -29,9 +33,6 @@ title: https://grandcentral.cloudbees.com/login
 *  JS Response Bytes: 676794
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109233
-
-### Performance issues
-
 
 ### Performance issues
 

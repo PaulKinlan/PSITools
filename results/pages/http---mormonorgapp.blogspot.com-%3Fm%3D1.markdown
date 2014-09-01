@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://mormonorgapp.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Link to Mormon.org for Mormon,org chrome app](http://mormonorgapp.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://mormonorgapp.blogspot.com/?m=1
 *  JS Response Bytes: 248931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 563
-
-### Performance issues
-
 
 ### Performance issues
 

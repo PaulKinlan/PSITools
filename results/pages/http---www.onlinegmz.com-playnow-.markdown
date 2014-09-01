@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.onlinegmz.com/playnow/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Online Game](http://www.onlinegmz.com/playnow/)
 
@@ -29,9 +31,6 @@ title: http://www.onlinegmz.com/playnow/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 928
-
-### Performance issues
-
 
 ### Performance issues
 

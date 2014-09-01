@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://cribbage.offti.me/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cribbage from Offti.me - Simply Play](http://cribbage.offti.me/)
 
@@ -29,9 +31,6 @@ title: http://cribbage.offti.me/
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

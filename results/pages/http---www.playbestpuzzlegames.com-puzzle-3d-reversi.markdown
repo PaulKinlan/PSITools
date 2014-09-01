@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.playbestpuzzlegames.com/puzzle/3d-reversi
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Reversi - Games - Free Online Play Best Puzzle Games](http://www.playbestpuzzlegames.com/puzzle/3d-reversi)
 
@@ -29,9 +35,6 @@ title: http://www.playbestpuzzlegames.com/puzzle/3d-reversi
 *  JS Response Bytes: 1137269
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17363
-
-### Performance issues
-
 
 ### Performance issues
 

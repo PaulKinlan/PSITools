@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.eguernsey.k12.oh.us/mobile
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [East Guernsey Local Schools](http://www.eguernsey.k12.oh.us/mobile)
 
@@ -29,9 +33,6 @@ title: http://www.eguernsey.k12.oh.us/mobile
 *  JS Response Bytes: 174336
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5735
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mediastones.com/index.php?option=com_error404&view=error404&uri=http://www.mediastones.com/sistem-ticket.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Errore 404](http://www.mediastones.com/index.php?option=com_error404&view=error404&uri=http://www.mediastones.com/sistem-ticket.html)
 
@@ -29,9 +33,6 @@ title: http://www.mediastones.com/index.php?option=com_error404&view=error404&ur
 *  JS Response Bytes: 683851
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22421
-
-### Performance issues
-
 
 ### Performance issues
 

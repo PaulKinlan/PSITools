@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.artworkservicesusa.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Art, Catalog & Order Management | Artwork & Digitizing | Suppliers & Distributors Services – ArtworkServicesUSA.com](http://www.artworkservicesusa.com/)
 
@@ -29,9 +30,6 @@ title: http://www.artworkservicesusa.com/
 *  JS Response Bytes: 154577
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 266623
-
-### Performance issues
-
 
 ### Performance issues
 

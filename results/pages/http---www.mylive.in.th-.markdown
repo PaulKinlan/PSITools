@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mylive.in.th/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome to MyLive.in.th](http://www.mylive.in.th/)
 
@@ -29,9 +34,6 @@ title: http://www.mylive.in.th/
 *  JS Response Bytes: 1228529
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3081
-
-### Performance issues
-
 
 ### Performance issues
 

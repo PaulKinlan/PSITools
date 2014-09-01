@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.infobae.com/playfutbol/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Racing, sin jugar bien y con un penal dudoso, derrotó a Arsenal por el gol de Milito - Playfutbol](http://www.infobae.com/playfutbol/)
 
@@ -29,9 +32,6 @@ title: http://www.infobae.com/playfutbol/
 *  JS Response Bytes: 1901215
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53903
-
-### Performance issues
-
 
 ### Performance issues
 

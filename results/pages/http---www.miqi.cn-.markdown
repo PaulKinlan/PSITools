@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.miqi.cn/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [米奇网-正品化妆品团购网站_化妆品品牌授权_30天无条件退换保证](http://www.miqi.cn/)
 
@@ -29,9 +32,6 @@ title: http://www.miqi.cn/
 *  JS Response Bytes: 213636
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8557
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.10monkeys.com/lite/us/#/intro
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [10monkeys Math World](http://www.10monkeys.com/lite/us/#/intro)
 
@@ -29,9 +34,6 @@ title: http://www.10monkeys.com/lite/us/#/intro
 *  JS Response Bytes: 711800
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12630
-
-### Performance issues
-
 
 ### Performance issues
 

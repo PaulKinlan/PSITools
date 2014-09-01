@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.browsermmo.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free Browser MMORPG Games , Online Browser MMO Games , Browser Games](http://www.browsermmo.com/)
 
@@ -29,9 +33,6 @@ title: http://www.browsermmo.com/
 *  JS Response Bytes: 1075234
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96813
-
-### Performance issues
-
 
 ### Performance issues
 

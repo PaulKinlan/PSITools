@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://dashboard.panorama9.com/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Panorama9](https://dashboard.panorama9.com/login)
 
@@ -29,9 +32,6 @@ title: https://dashboard.panorama9.com/login
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29778
-
-### Performance issues
-
 
 ### Performance issues
 

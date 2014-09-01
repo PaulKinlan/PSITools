@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.flashminigame.com/default-category/right-hand
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Right Hand - Flash Mini GaMeS - Free Online Flash Games](http://www.flashminigame.com/default-category/right-hand)
 
@@ -29,9 +37,6 @@ title: http://www.flashminigame.com/default-category/right-hand
 *  JS Response Bytes: 914740
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 67256
-
-### Performance issues
-
 
 ### Performance issues
 

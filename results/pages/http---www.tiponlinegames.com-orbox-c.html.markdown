@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.tiponlinegames.com/orbox-c.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Orbox C | TIP ONLINE GAMES](http://www.tiponlinegames.com/orbox-c.html)
 
@@ -29,9 +35,6 @@ title: http://www.tiponlinegames.com/orbox-c.html
 *  JS Response Bytes: 1050175
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15207
-
-### Performance issues
-
 
 ### Performance issues
 

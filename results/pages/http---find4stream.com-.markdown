@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://find4stream.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Find4Stream: A free service for you to search movies across Amazon, iTunes, Netflix, Google Play, Fangango, Redbox, YouTube, Crackle, Hulu and Epix.](http://find4stream.com/)
 
@@ -29,9 +33,6 @@ title: http://find4stream.com/
 *  JS Response Bytes: 722775
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49278
-
-### Performance issues
-
 
 ### Performance issues
 

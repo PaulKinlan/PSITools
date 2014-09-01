@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/547850/?autoAction=true&sId=Chrome_Webstore_Nov12_547850&actid=Chrome_Webstore_547850
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Farm Frenzy for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/547850/?autoAction=true&sId=Chrome_Webstore_Nov12_547850&actid=Chrome_Webstore_547850)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/547850/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1538534
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30346
-
-### Performance issues
-
 
 ### Performance issues
 

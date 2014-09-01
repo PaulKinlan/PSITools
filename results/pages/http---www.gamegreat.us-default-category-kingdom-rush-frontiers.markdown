@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamegreat.us/default-category/kingdom-rush-frontiers
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kingdom Rush Frontiers - Game Great](http://www.gamegreat.us/default-category/kingdom-rush-frontiers)
 
@@ -29,9 +35,6 @@ title: http://www.gamegreat.us/default-category/kingdom-rush-frontiers
 *  JS Response Bytes: 1878989
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113182
-
-### Performance issues
-
 
 ### Performance issues
 

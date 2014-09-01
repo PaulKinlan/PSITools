@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://freelifegame.weebly.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
 ---
 ## [free life the game - Home](http://freelifegame.weebly.com/)
 
@@ -29,9 +32,6 @@ title: http://freelifegame.weebly.com/
 *  JS Response Bytes: 245954
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45410
-
-### Performance issues
-
 
 ### Performance issues
 

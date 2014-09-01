@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.fartogram.com/mobile_welcome
+UseLegibleFontSizes: true
 ---
 ## [502 Bad Gateway](http://www.fartogram.com/mobile_welcome)
 
@@ -29,9 +30,6 @@ title: http://www.fartogram.com/mobile_welcome
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 362
-
-### Performance issues
-
 
 ### Performance issues
 

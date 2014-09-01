@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.chrome-stylish.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Stylish](http://www.chrome-stylish.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://www.chrome-stylish.blogspot.com/?m=1
 *  JS Response Bytes: 248928
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 575
-
-### Performance issues
-
 
 ### Performance issues
 

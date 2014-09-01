@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://kimbleyit.zendesk.com/access/unauthenticated
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Kimbley IT Help Desk](https://kimbleyit.zendesk.com/access/unauthenticated)
 
@@ -29,9 +31,6 @@ title: https://kimbleyit.zendesk.com/access/unauthenticated
 *  JS Response Bytes: 376109
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2179
-
-### Performance issues
-
 
 ### Performance issues
 

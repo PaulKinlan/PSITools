@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ttkgames.com/?s=clash+of+clans&x=0&y=0
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [All free games play now, free hd games. » Search Results » clash of clans](http://www.ttkgames.com/?s=clash+of+clans&x=0&y=0)
 
@@ -29,9 +33,6 @@ title: http://www.ttkgames.com/?s=clash+of+clans&x=0&y=0
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

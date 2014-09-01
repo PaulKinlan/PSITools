@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://payday.kimady.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Need Cash but you have bad credit. No problem. payday.kimady.com can help.](http://payday.kimady.com/)
 
@@ -29,9 +32,6 @@ title: http://payday.kimady.com/
 *  JS Response Bytes: 123290
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

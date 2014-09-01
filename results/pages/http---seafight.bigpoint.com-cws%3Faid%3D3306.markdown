@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://seafight.bigpoint.com/cws?aid=3306
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Seafight | The phenomenal online pirate adventure](http://seafight.bigpoint.com/cws?aid=3306)
 
@@ -29,9 +33,6 @@ title: http://seafight.bigpoint.com/cws?aid=3306
 *  JS Response Bytes: 399542
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

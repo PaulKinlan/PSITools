@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kingofgamez.com/temple-run-2-pyramide.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pyramid Run better then Temple Run 2 | King of Gamez](http://www.kingofgamez.com/temple-run-2-pyramide.html)
 
@@ -29,9 +34,6 @@ title: http://www.kingofgamez.com/temple-run-2-pyramide.html
 *  JS Response Bytes: 902665
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16483
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.quehayenlanevera.com/buscador-ingredientes
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Busca recetas con los ingredientes que tienes en la nevera - Quehayenlanevera.com](http://www.quehayenlanevera.com/buscador-ingredientes)
 
@@ -29,9 +33,6 @@ title: http://www.quehayenlanevera.com/buscador-ingredientes
 *  JS Response Bytes: 875717
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15723
-
-### Performance issues
-
 
 ### Performance issues
 

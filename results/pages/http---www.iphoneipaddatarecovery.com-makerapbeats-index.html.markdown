@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.iphoneipaddatarecovery.com/makerapbeats/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [iphoneipaddatarecovery.com](http://www.iphoneipaddatarecovery.com/makerapbeats/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.iphoneipaddatarecovery.com/makerapbeats/index.html
 *  JS Response Bytes: 209105
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

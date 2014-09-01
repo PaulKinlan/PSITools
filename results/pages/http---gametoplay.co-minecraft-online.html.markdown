@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gametoplay.co/minecraft-online.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [| Game To PlayGame To Play, Online Games, Android Games, Chrome Web Store Games](http://gametoplay.co/minecraft-online.html)
 
@@ -29,9 +33,6 @@ title: http://gametoplay.co/minecraft-online.html
 *  JS Response Bytes: 1115917
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15635
-
-### Performance issues
-
 
 ### Performance issues
 

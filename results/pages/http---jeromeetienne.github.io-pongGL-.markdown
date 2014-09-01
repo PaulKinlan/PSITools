@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://jeromeetienne.github.io/pongGL/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PongGL](http://jeromeetienne.github.io/pongGL/)
 
@@ -29,9 +32,6 @@ title: http://jeromeetienne.github.io/pongGL/
 *  JS Response Bytes: 733578
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124573
-
-### Performance issues
-
 
 ### Performance issues
 

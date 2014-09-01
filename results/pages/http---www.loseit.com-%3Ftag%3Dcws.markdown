@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.loseit.com/?tag=cws
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lose It! - Succeed at weight loss with Lose It!](http://www.loseit.com/?tag=cws)
 
@@ -29,9 +31,6 @@ title: http://www.loseit.com/?tag=cws
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

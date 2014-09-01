@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesunique.com/v8-muscle-cars-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [V8 Muscle Cars](http://www.gamesunique.com/v8-muscle-cars-2/)
 
@@ -29,9 +34,6 @@ title: http://www.gamesunique.com/v8-muscle-cars-2/
 *  JS Response Bytes: 1044434
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 62001
-
-### Performance issues
-
 
 ### Performance issues
 

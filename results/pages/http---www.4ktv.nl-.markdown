@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.4ktv.nl/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Vraag en aanbod van transport & vracht - 4ktv.nl](http://www.4ktv.nl/)
 
@@ -29,9 +37,6 @@ title: http://www.4ktv.nl/
 *  JS Response Bytes: 1411696
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57325
-
-### Performance issues
-
 
 ### Performance issues
 

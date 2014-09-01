@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ekiralikoto.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kiralık Araçlar Kiralık Oto, Rent A Car, Arazi Araçları, Filo Kiralama, VIP Araçlar ve Düğün Arabaları ekiralikoto.com 'da](http://www.ekiralikoto.com/)
 
@@ -29,9 +33,6 @@ title: http://www.ekiralikoto.com/
 *  JS Response Bytes: 602740
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59530
-
-### Performance issues
-
 
 ### Performance issues
 

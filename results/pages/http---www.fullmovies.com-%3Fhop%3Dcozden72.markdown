@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fullmovies.com/?hop=cozden72
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Fullmovies.com - Watch Unlimited Movies](http://www.fullmovies.com/?hop=cozden72)
 
@@ -13,25 +18,22 @@ title: http://www.fullmovies.com/?hop=cozden72
 
 ### Request information
 
-*  Number of Resources: 65
-*  Number of Hosts: 7
-*  Number of JS Resources: 7
+*  Number of Resources: 72
+*  Number of Hosts: 10
+*  Number of JS Resources: 9
 *  Number of CSS Resources: 5
-*  Nubmer of Static Resources: 46
-*  Total Request Bytes: 7187
+*  Nubmer of Static Resources: 49
+*  Total Request Bytes: 7694
 
 ### Response data
 
-*  HTML Response Bytes: 58105
-*  Text Response Bytes: 126062
+*  HTML Response Bytes: 80109
+*  Text Response Bytes: 127620
 *  CSS Response Bytes: 223990
 *  Image Response Bytes: 4949557
-*  JS Response Bytes: 419485
+*  JS Response Bytes: 916381
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1508
-
-### Performance issues
-
+*  Other Response Bytes: 1476
 
 ### Performance issues
 

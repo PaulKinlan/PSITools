@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://end3r.com/games/frontinvaders/pl/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Front Invaders](http://end3r.com/games/frontinvaders/pl/)
 
@@ -29,9 +32,6 @@ title: http://end3r.com/games/frontinvaders/pl/
 *  JS Response Bytes: 906748
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95566
-
-### Performance issues
-
 
 ### Performance issues
 

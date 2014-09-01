@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.chrome-onetab.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [OneTab](http://www.chrome-onetab.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://www.chrome-onetab.blogspot.com/?m=1
 *  JS Response Bytes: 248930
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 573
-
-### Performance issues
-
 
 ### Performance issues
 

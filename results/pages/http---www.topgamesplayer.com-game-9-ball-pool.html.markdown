@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.topgamesplayer.com/game/9-ball-pool.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [9 Ball Pool Games online](http://www.topgamesplayer.com/game/9-ball-pool.html)
 
@@ -29,9 +35,6 @@ title: http://www.topgamesplayer.com/game/9-ball-pool.html
 *  JS Response Bytes: 1235672
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104324
-
-### Performance issues
-
 
 ### Performance issues
 

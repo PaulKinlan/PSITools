@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/578150/?autoAction=true&sId=Chrome_Webstore_Nov12_578150
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download The 80s Game With Martha Quinn for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/578150/?autoAction=true&sId=Chrome_Webstore_Nov12_578150)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/578150/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1529907
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32150
-
-### Performance issues
-
 
 ### Performance issues
 

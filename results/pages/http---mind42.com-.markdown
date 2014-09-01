@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://mind42.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mind42: Free online mind mapping software](http://mind42.com/)
 
@@ -29,9 +34,6 @@ title: http://mind42.com/
 *  JS Response Bytes: 1869799
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111018
-
-### Performance issues
-
 
 ### Performance issues
 

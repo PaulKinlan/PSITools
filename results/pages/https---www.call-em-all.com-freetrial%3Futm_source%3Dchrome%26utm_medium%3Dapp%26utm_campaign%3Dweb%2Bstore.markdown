@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.call-em-all.com/freetrial?utm_source=chrome&utm_medium=app&utm_campaign=web+store
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Try Call-Em-All Free - Voice Broadcasting & Group Texts](https://www.call-em-all.com/freetrial?utm_source=chrome&utm_medium=app&utm_campaign=web+store)
 
@@ -29,9 +31,6 @@ title: https://www.call-em-all.com/freetrial?utm_source=chrome&utm_medium=app&ut
 *  JS Response Bytes: 1148680
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16849
-
-### Performance issues
-
 
 ### Performance issues
 

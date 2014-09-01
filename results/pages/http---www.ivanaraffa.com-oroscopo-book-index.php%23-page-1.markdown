@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ivanaraffa.com/oroscopo-book/index.php#/page/1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Oroscopo di Leonardo](http://www.ivanaraffa.com/oroscopo-book/index.php#/page/1)
 
@@ -29,9 +35,6 @@ title: http://www.ivanaraffa.com/oroscopo-book/index.php#/page/1
 *  JS Response Bytes: 1114274
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48461
-
-### Performance issues
-
 
 ### Performance issues
 

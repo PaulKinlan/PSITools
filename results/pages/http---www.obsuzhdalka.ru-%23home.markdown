@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.obsuzhdalka.ru/#home
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Обсуждалка](http://www.obsuzhdalka.ru/#home)
 
@@ -29,9 +34,6 @@ title: http://www.obsuzhdalka.ru/#home
 *  JS Response Bytes: 154799
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 205
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.puxgames.com/game/chess-3d-49
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chess 3D Game - Pux Games](http://www.puxgames.com/game/chess-3d-49)
 
@@ -29,9 +34,6 @@ title: http://www.puxgames.com/game/chess-3d-49
 *  JS Response Bytes: 1115442
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16327
-
-### Performance issues
-
 
 ### Performance issues
 

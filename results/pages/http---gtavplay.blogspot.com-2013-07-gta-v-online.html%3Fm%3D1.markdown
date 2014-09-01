@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gtavplay.blogspot.com/2013/07/gta-v-online.html?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [GTA V](http://gtavplay.blogspot.com/2013/07/gta-v-online.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://gtavplay.blogspot.com/2013/07/gta-v-online.html?m=1
 *  JS Response Bytes: 314384
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51958
-
-### Performance issues
-
 
 ### Performance issues
 

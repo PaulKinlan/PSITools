@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.soccerdatos.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Soccer Datos](http://www.soccerdatos.com/)
 
@@ -29,9 +33,6 @@ title: http://www.soccerdatos.com/
 *  JS Response Bytes: 864183
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43296
-
-### Performance issues
-
 
 ### Performance issues
 

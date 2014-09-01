@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ktzgames.com/subway-surfers-run-games-similar.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Subway Surfers Run Games Similar « Best HD Games Play Now](http://www.ktzgames.com/subway-surfers-run-games-similar.html)
 
@@ -29,9 +33,6 @@ title: http://www.ktzgames.com/subway-surfers-run-games-similar.html
 *  JS Response Bytes: 398593
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

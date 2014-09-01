@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/hot-shot-sniper/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hot Shot Sniper](http://www.war-games.ws/hot-shot-sniper/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/hot-shot-sniper/
 *  JS Response Bytes: 2292861
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122112
-
-### Performance issues
-
 
 ### Performance issues
 

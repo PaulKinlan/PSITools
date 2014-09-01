@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://ourladyofhope.follettdestiny.com/common/welcome.jsp?context=saas15_4502339
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome to OLOH](https://ourladyofhope.follettdestiny.com/common/welcome.jsp?context=saas15_4502339)
 
@@ -29,9 +32,6 @@ title: https://ourladyofhope.follettdestiny.com/common/welcome.jsp?context=saas1
 *  JS Response Bytes: 25853
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 158
-
-### Performance issues
-
 
 ### Performance issues
 

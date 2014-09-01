@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.dps109.org/walden/Pages/default.aspx
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Walden Elementary](http://www.dps109.org/walden/Pages/default.aspx)
 
@@ -29,9 +35,6 @@ title: http://www.dps109.org/walden/Pages/default.aspx
 *  JS Response Bytes: 1031446
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 604
-
-### Performance issues
-
 
 ### Performance issues
 

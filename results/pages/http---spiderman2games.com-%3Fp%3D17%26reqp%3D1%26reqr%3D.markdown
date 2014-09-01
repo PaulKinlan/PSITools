@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://spiderman2games.com/?p=17&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [spiderman2games.com](http://spiderman2games.com/?p=17&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://spiderman2games.com/?p=17&reqp=1&reqr=
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 66
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://api2.nextgame.ru/partner/chrome/startpage/177/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Видео чат бутылочка](http://api2.nextgame.ru/partner/chrome/startpage/177/)
 
@@ -29,9 +31,6 @@ title: http://api2.nextgame.ru/partner/chrome/startpage/177/
 *  JS Response Bytes: 372815
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3356
-
-### Performance issues
-
 
 ### Performance issues
 

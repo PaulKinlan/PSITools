@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://game1321.blogspot.com/2013/09/counter-strike-attack.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Games: Counter Strike Attack](http://game1321.blogspot.com/2013/09/counter-strike-attack.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://game1321.blogspot.com/2013/09/counter-strike-attack.html?m=1
 *  JS Response Bytes: 812810
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95588
-
-### Performance issues
-
 
 ### Performance issues
 

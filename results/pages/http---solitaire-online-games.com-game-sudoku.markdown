@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://solitaire-online-games.com/game/sudoku
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Solitaire online games - Sudoku](http://solitaire-online-games.com/game/sudoku)
 
@@ -29,9 +33,6 @@ title: http://solitaire-online-games.com/game/sudoku
 *  JS Response Bytes: 1581582
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 135520
-
-### Performance issues
-
 
 ### Performance issues
 

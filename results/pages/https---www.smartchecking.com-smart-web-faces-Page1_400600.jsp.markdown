@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://www.smartchecking.com/smart-web/faces/Page1_400600.jsp
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](https://www.smartchecking.com/smart-web/faces/Page1_400600.jsp)
 
@@ -29,9 +35,6 @@ title: https://www.smartchecking.com/smart-web/faces/Page1_400600.jsp
 *  JS Response Bytes: 379707
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 673
-
-### Performance issues
-
 
 ### Performance issues
 

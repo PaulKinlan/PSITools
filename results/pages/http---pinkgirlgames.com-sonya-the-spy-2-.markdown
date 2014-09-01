@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://pinkgirlgames.com/sonya-the-spy-2/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [pinkgirlgames.com-the best free online flash gamesSonya the spy 2 » Other » Sonya the spy 2](http://pinkgirlgames.com/sonya-the-spy-2/)
 
@@ -29,9 +36,6 @@ title: http://pinkgirlgames.com/sonya-the-spy-2/
 *  JS Response Bytes: 1116741
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

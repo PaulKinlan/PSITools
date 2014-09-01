@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://owa.mcoe.org/owa/auth/logon.aspx?url=https://owa.mcoe.org/owa/&reason=0
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Outlook Web App](https://owa.mcoe.org/owa/auth/logon.aspx?url=https://owa.mcoe.org/owa/&reason=0)
 
@@ -29,9 +33,6 @@ title: https://owa.mcoe.org/owa/auth/logon.aspx?url=https://owa.mcoe.org/owa/&re
 *  JS Response Bytes: 4597
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 430
-
-### Performance issues
-
 
 ### Performance issues
 

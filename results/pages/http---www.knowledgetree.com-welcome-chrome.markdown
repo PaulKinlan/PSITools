@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.knowledgetree.com/welcome/chrome
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Page Not Found » KnowledgeTree](http://www.knowledgetree.com/welcome/chrome)
 
@@ -29,9 +31,6 @@ title: http://www.knowledgetree.com/welcome/chrome
 *  JS Response Bytes: 628540
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 81180
-
-### Performance issues
-
 
 ### Performance issues
 

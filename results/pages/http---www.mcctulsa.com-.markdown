@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mcctulsa.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Home](http://www.mcctulsa.com/)
 
@@ -29,9 +32,6 @@ title: http://www.mcctulsa.com/
 *  JS Response Bytes: 1320276
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

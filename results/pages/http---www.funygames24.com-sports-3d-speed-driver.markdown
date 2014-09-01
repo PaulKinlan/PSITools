@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.funygames24.com/sports/3d-speed-driver
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D SPEED DRIVER - funygames24](http://www.funygames24.com/sports/3d-speed-driver)
 
@@ -29,9 +37,6 @@ title: http://www.funygames24.com/sports/3d-speed-driver
 *  JS Response Bytes: 2126498
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118759
-
-### Performance issues
-
 
 ### Performance issues
 

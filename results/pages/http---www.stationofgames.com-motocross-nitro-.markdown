@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.stationofgames.com/motocross-nitro/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Motocross Nitro](http://www.stationofgames.com/motocross-nitro/)
 
@@ -29,9 +34,6 @@ title: http://www.stationofgames.com/motocross-nitro/
 *  JS Response Bytes: 1485862
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110158
-
-### Performance issues
-
 
 ### Performance issues
 

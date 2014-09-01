@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://frankcaron.com/Flogger/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Page not found | Frank Caron](http://frankcaron.com/Flogger/)
 
@@ -29,9 +32,6 @@ title: http://frankcaron.com/Flogger/
 *  JS Response Bytes: 172380
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 65709
-
-### Performance issues
-
 
 ### Performance issues
 

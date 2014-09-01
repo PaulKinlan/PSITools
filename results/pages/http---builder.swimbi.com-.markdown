@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://builder.swimbi.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SWIMBI](http://builder.swimbi.com/)
 
@@ -29,9 +33,6 @@ title: http://builder.swimbi.com/
 *  JS Response Bytes: 1883190
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 550
-
-### Performance issues
-
 
 ### Performance issues
 

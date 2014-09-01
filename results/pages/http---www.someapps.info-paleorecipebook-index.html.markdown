@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.someapps.info/paleorecipebook/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Paleo Recipe Book | Over 550 easy Paleo recipes | Cookbook](http://www.someapps.info/paleorecipebook/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.someapps.info/paleorecipebook/index.html
 *  JS Response Bytes: 555260
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

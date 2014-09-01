@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.edjing.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [edjing free DJ App: Mix mp3 and Cloud Music on iPhone, iPad, Android](http://www.edjing.com/)
 
@@ -29,9 +30,6 @@ title: http://www.edjing.com/
 *  JS Response Bytes: 612408
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42800
-
-### Performance issues
-
 
 ### Performance issues
 

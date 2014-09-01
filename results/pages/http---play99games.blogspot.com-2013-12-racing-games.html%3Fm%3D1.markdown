@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://play99games.blogspot.com/2013/12/racing-games.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online games, casino games, card games, play games: Racing Games](http://play99games.blogspot.com/2013/12/racing-games.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://play99games.blogspot.com/2013/12/racing-games.html?m=1
 *  JS Response Bytes: 1121119
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95576
-
-### Performance issues
-
 
 ### Performance issues
 

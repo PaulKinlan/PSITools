@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://mortgagecalculatorapp.herokuapp.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mortgage Calculator](http://mortgagecalculatorapp.herokuapp.com/)
 
@@ -29,9 +35,6 @@ title: http://mortgagecalculatorapp.herokuapp.com/
 *  JS Response Bytes: 645085
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105334
-
-### Performance issues
-
 
 ### Performance issues
 

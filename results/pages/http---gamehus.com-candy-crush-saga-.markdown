@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gamehus.com/candy-crush-saga/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gamehus.Com Play Online Flash Game And Add Chrome Apps – Candy Crush Saga](http://gamehus.com/candy-crush-saga/)
 
@@ -29,9 +33,6 @@ title: http://gamehus.com/candy-crush-saga/
 *  JS Response Bytes: 721303
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15627
-
-### Performance issues
-
 
 ### Performance issues
 

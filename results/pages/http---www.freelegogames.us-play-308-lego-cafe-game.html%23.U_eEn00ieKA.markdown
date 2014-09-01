@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freelegogames.us/play/308/lego-cafe-game.html#.U_eEn00ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lego Cafe Game - Free Logo Games](http://www.freelegogames.us/play/308/lego-cafe-game.html#.U_eEn00ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.freelegogames.us/play/308/lego-cafe-game.html#.U_eEn00ieKA
 *  JS Response Bytes: 1497696
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41696
-
-### Performance issues
-
 
 ### Performance issues
 

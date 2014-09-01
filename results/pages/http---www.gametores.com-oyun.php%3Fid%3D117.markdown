@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gametores.com/oyun.php?id=117
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Back to Zombieland](http://www.gametores.com/oyun.php?id=117)
 
@@ -29,9 +35,6 @@ title: http://www.gametores.com/oyun.php?id=117
 *  JS Response Bytes: 1457381
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97493
-
-### Performance issues
-
 
 ### Performance issues
 

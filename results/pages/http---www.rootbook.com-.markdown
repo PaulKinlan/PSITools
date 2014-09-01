@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.rootbook.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free Gamebooks - Rootbook](http://www.rootbook.com/)
 
@@ -29,9 +33,6 @@ title: http://www.rootbook.com/
 *  JS Response Bytes: 859710
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 195284
-
-### Performance issues
-
 
 ### Performance issues
 

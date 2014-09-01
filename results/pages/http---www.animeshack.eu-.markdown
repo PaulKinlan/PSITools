@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.animeshack.eu/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [animeshack.eu](http://www.animeshack.eu/)
 
@@ -29,9 +32,6 @@ title: http://www.animeshack.eu/
 *  JS Response Bytes: 209184
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

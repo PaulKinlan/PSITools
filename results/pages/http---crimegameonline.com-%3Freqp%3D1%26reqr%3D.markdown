@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://crimegameonline.com/?reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [crimegameonline.com](http://crimegameonline.com/?reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://crimegameonline.com/?reqp=1&reqr=
 *  JS Response Bytes: 304181
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61
-
-### Performance issues
-
 
 ### Performance issues
 

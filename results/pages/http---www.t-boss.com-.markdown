@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.t-boss.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Screen printing software](http://www.t-boss.com/)
 
@@ -29,9 +32,6 @@ title: http://www.t-boss.com/
 *  JS Response Bytes: 34057
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

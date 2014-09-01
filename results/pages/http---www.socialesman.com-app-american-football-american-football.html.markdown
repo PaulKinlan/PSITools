@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.socialesman.com/app/american-football/american-football.html
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Clone doesnt have this page](http://www.socialesman.com/app/american-football/american-football.html)
 
@@ -29,9 +31,6 @@ title: http://www.socialesman.com/app/american-football/american-football.html
 *  JS Response Bytes: 824332
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97406
-
-### Performance issues
-
 
 ### Performance issues
 

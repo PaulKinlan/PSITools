@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://minecraft-free-games.blogspot.com.tr/2014/04/cut-rope.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [minecraft free full game: cut the rope](http://minecraft-free-games.blogspot.com.tr/2014/04/cut-rope.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://minecraft-free-games.blogspot.com.tr/2014/04/cut-rope.html?m=1
 *  JS Response Bytes: 1532432
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141718
-
-### Performance issues
-
 
 ### Performance issues
 

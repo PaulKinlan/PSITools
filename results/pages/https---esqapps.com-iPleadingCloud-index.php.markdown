@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://esqapps.com/iPleadingCloud/index.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [](https://esqapps.com/iPleadingCloud/index.php)
 
@@ -29,9 +31,6 @@ title: https://esqapps.com/iPleadingCloud/index.php
 *  JS Response Bytes: 105587
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 501
-
-### Performance issues
-
 
 ### Performance issues
 

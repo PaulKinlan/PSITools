@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.namibiansocial.com/timeline/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Paper.li: this paper is currently not available](http://www.namibiansocial.com/timeline/)
 
@@ -29,9 +31,6 @@ title: http://www.namibiansocial.com/timeline/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

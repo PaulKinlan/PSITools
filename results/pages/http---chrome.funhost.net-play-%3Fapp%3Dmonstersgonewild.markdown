@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://chrome.funhost.net/play/?app=monstersgonewild
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Monsters Gone Wild - Scary Dance Dance Revolution - Game on Fun Host Games!](http://chrome.funhost.net/play/?app=monstersgonewild)
 
@@ -29,9 +37,6 @@ title: http://chrome.funhost.net/play/?app=monstersgonewild
 *  JS Response Bytes: 3377061
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45455
-
-### Performance issues
-
 
 ### Performance issues
 

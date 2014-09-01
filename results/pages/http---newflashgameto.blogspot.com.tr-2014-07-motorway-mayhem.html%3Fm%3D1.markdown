@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://newflashgameto.blogspot.com.tr/2014/07/motorway-mayhem.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [NewflashgameTo: Motorway Mayhem](http://newflashgameto.blogspot.com.tr/2014/07/motorway-mayhem.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://newflashgameto.blogspot.com.tr/2014/07/motorway-mayhem.html?m=1
 *  JS Response Bytes: 1266348
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109681
-
-### Performance issues
-
 
 ### Performance issues
 

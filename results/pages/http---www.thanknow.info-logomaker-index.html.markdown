@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.thanknow.info/logomaker/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Logo Maker](http://www.thanknow.info/logomaker/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.thanknow.info/logomaker/index.html
 *  JS Response Bytes: 934187
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95649
-
-### Performance issues
-
 
 ### Performance issues
 

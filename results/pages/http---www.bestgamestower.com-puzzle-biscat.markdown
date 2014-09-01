@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.bestgamestower.com/puzzle/biscat
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Biscat - Best Games Tower - Free Online Best Games](http://www.bestgamestower.com/puzzle/biscat)
 
@@ -29,9 +34,6 @@ title: http://www.bestgamestower.com/puzzle/biscat
 *  JS Response Bytes: 750587
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27898
-
-### Performance issues
-
 
 ### Performance issues
 

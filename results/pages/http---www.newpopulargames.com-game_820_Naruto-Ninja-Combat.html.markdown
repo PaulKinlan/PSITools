@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_820_Naruto-Ninja-Combat.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Naruto Ninja Combat Flash Games](http://www.newpopulargames.com/game_820_Naruto-Ninja-Combat.html)
 
@@ -29,9 +35,6 @@ title: http://www.newpopulargames.com/game_820_Naruto-Ninja-Combat.html
 *  JS Response Bytes: 1680029
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112882
-
-### Performance issues
-
 
 ### Performance issues
 

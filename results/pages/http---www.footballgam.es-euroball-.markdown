@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/euroball/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Euroball Game](http://www.footballgam.es/euroball/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/euroball/
 *  JS Response Bytes: 2406885
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156978
-
-### Performance issues
-
 
 ### Performance issues
 

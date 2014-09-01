@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://dozens.jp/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DNSを自由に簡単に。Dozens（ダズンズ）](http://dozens.jp/)
 
@@ -29,9 +34,6 @@ title: http://dozens.jp/
 *  JS Response Bytes: 433734
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 574
-
-### Performance issues
-
 
 ### Performance issues
 

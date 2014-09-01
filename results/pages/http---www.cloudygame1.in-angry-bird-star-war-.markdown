@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.cloudygame1.in/angry-bird-star-war/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Star wars - Cloudy game](http://www.cloudygame1.in/angry-bird-star-war/)
 
@@ -29,9 +34,6 @@ title: http://www.cloudygame1.in/angry-bird-star-war/
 *  JS Response Bytes: 1655215
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 146783
-
-### Performance issues
-
 
 ### Performance issues
 

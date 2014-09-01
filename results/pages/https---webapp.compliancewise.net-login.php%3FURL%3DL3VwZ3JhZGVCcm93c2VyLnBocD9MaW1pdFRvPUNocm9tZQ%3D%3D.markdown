@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://webapp.compliancewise.net/login.php?URL=L3VwZ3JhZGVCcm93c2VyLnBocD9MaW1pdFRvPUNocm9tZQ==
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ComplianceWise System Login](https://webapp.compliancewise.net/login.php?URL=L3VwZ3JhZGVCcm93c2VyLnBocD9MaW1pdFRvPUNocm9tZQ==)
 
@@ -29,9 +33,6 @@ title: https://webapp.compliancewise.net/login.php?URL=L3VwZ3JhZGVCcm93c2VyLnBoc
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1004
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://android.mobarab.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mobarab.com](http://android.mobarab.com/)
 
@@ -29,9 +32,6 @@ title: http://android.mobarab.com/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

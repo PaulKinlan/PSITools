@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.propdashboard.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [PropDashboard - Create cashflow analysis report](http://www.propdashboard.com/)
 
@@ -29,9 +33,6 @@ title: http://www.propdashboard.com/
 *  JS Response Bytes: 1028482
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 83814
-
-### Performance issues
-
 
 ### Performance issues
 

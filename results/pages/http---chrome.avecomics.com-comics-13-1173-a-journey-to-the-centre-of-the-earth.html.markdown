@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://chrome.avecomics.com/comics/13/1173/a-journey-to-the-centre-of-the-earth.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AveComics](http://chrome.avecomics.com/comics/13/1173/a-journey-to-the-centre-of-the-earth.html)
 
@@ -29,9 +34,6 @@ title: http://chrome.avecomics.com/comics/13/1173/a-journey-to-the-centre-of-the
 *  JS Response Bytes: 11523
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2325
-
-### Performance issues
-
 
 ### Performance issues
 

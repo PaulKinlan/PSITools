@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://50.63.190.58/QPack/web/Account/Login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [QPack](http://50.63.190.58/QPack/web/Account/Login)
 
@@ -29,9 +31,6 @@ title: http://50.63.190.58/QPack/web/Account/Login
 *  JS Response Bytes: 1365872
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

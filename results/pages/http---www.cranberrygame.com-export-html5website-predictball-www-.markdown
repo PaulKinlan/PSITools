@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.cranberrygame.com/export/html5website/predictball/www/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Predict Ball](http://www.cranberrygame.com/export/html5website/predictball/www/)
 
@@ -29,9 +32,6 @@ title: http://www.cranberrygame.com/export/html5website/predictball/www/
 *  JS Response Bytes: 539061
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 150533
-
-### Performance issues
-
 
 ### Performance issues
 

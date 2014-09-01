@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.facturation.pro/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Facturation](https://www.facturation.pro/)
 
@@ -29,9 +31,6 @@ title: https://www.facturation.pro/
 *  JS Response Bytes: 559581
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 586
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/save-your-teeth/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Save Your Teeth game](http://www.surgery-games.org/save-your-teeth/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/save-your-teeth/
 *  JS Response Bytes: 2479588
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 123945
-
-### Performance issues
-
 
 ### Performance issues
 

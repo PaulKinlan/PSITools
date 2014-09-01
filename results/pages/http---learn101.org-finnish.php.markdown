@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://learn101.org/finnish.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn Finnish | learn101.org](http://learn101.org/finnish.php)
 
@@ -29,9 +33,6 @@ title: http://learn101.org/finnish.php
 *  JS Response Bytes: 487789
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15638
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.downloadbox.us/skype-recorder/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Skype Recorder | Download Box](http://www.downloadbox.us/skype-recorder/)
 
@@ -29,9 +32,6 @@ title: http://www.downloadbox.us/skype-recorder/
 *  JS Response Bytes: 781617
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 227431
-
-### Performance issues
-
 
 ### Performance issues
 

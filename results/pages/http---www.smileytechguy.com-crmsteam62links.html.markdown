@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.smileytechguy.com/crmsteam62links.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Page not found | smileytechguy](http://www.smileytechguy.com/crmsteam62links.html)
 
@@ -29,9 +32,6 @@ title: http://www.smileytechguy.com/crmsteam62links.html
 *  JS Response Bytes: 130794
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56705
-
-### Performance issues
-
 
 ### Performance issues
 

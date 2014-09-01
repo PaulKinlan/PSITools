@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://m.facebook.com/login.php?skip_api_login=1&api_key=163160020464764&signed_next=1&next=https%3A%2F%2Fm.facebook.com%2Fv1.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Fapps.facebook.com%252Fbrainster%252F%253Fext_source%253Dshrome_store%26state%3D42850bea29a539ab74a9c81e5e6457a6%26scope%3Dpublish_actions%252Cuser_friends%26client_id%3D163160020464764%26ret%3Dlogin%26sdk%3Dphp-sdk-3.2.3&cancel_uri=https%3A%2F%2Fapps.facebook.com%2Fbrainster%2F%3Fext_source%3Dshrome_store%26error%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3D42850bea29a539ab74a9c81e5e6457a6%23_%3D_&display=touch&_rdr
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Welcome to Facebook](https://m.facebook.com/login.php?skip_api_login=1&api_key=163160020464764&signed_next=1&next=https%3A%2F%2Fm.facebook.com%2Fv1.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Fapps.facebook.com%252Fbrainster%252F%253Fext_source%253Dshrome_store%26state%3D42850bea29a539ab74a9c81e5e6457a6%26scope%3Dpublish_actions%252Cuser_friends%26client_id%3D163160020464764%26ret%3Dlogin%26sdk%3Dphp-sdk-3.2.3&cancel_uri=https%3A%2F%2Fapps.facebook.com%2Fbrainster%2F%3Fext_source%3Dshrome_store%26error%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3D42850bea29a539ab74a9c81e5e6457a6%23_%3D_&display=touch&_rdr)
 
@@ -29,9 +31,6 @@ title: https://m.facebook.com/login.php?skip_api_login=1&api_key=163160020464764
 *  JS Response Bytes: 329389
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4060
-
-### Performance issues
-
 
 ### Performance issues
 

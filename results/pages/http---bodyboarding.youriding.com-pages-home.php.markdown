@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://bodyboarding.youriding.com/pages/home.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [YouRiding BODYBOARDING IV](http://bodyboarding.youriding.com/pages/home.php)
 
@@ -29,9 +34,6 @@ title: http://bodyboarding.youriding.com/pages/home.php
 *  JS Response Bytes: 775491
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2135
-
-### Performance issues
-
 
 ### Performance issues
 

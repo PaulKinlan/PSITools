@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.genesismud.org/play/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Play Genesis](https://www.genesismud.org/play/)
 
@@ -29,9 +31,6 @@ title: https://www.genesismud.org/play/
 *  JS Response Bytes: 1379760
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12918
-
-### Performance issues
-
 
 ### Performance issues
 

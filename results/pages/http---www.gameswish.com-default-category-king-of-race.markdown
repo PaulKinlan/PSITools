@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameswish.com/default-category/king-of-race
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [King of Race - Game Wish](http://www.gameswish.com/default-category/king-of-race)
 
@@ -29,9 +34,6 @@ title: http://www.gameswish.com/default-category/king-of-race
 *  JS Response Bytes: 758957
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30046
-
-### Performance issues
-
 
 ### Performance issues
 

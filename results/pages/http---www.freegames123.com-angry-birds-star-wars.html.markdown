@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.freegames123.com/angry-birds-star-wars.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Star Wars | Free Games 123](http://www.freegames123.com/angry-birds-star-wars.html)
 
@@ -29,9 +37,6 @@ title: http://www.freegames123.com/angry-birds-star-wars.html
 *  JS Response Bytes: 1529378
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98584
-
-### Performance issues
-
 
 ### Performance issues
 

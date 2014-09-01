@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://bestgamesplay.co/minecraft-3d.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Minecraft 3D | Best Games PlayGames, Online Games, Play, Free](http://bestgamesplay.co/minecraft-3d.html)
 
@@ -29,9 +34,6 @@ title: http://bestgamesplay.co/minecraft-3d.html
 *  JS Response Bytes: 2005563
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112216
-
-### Performance issues
-
 
 ### Performance issues
 

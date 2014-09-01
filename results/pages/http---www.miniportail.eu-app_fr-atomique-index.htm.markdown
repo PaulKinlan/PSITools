@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.miniportail.eu/app_fr/atomique/index.htm
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Horloge Atomique](http://www.miniportail.eu/app_fr/atomique/index.htm)
 
@@ -29,9 +33,6 @@ title: http://www.miniportail.eu/app_fr/atomique/index.htm
 *  JS Response Bytes: 393040
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16312
-
-### Performance issues
-
 
 ### Performance issues
 

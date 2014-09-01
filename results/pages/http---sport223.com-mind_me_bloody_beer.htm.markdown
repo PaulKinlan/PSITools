@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://sport223.com/mind_me_bloody_beer.htm
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mind Me Bloody Beer ~ This online game is so addictive~~](http://sport223.com/mind_me_bloody_beer.htm)
 
@@ -29,9 +36,6 @@ title: http://sport223.com/mind_me_bloody_beer.htm
 *  JS Response Bytes: 881473
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18201
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://mafiawars.bestmoviestodownload.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [Bestmoviestodownload.com](http://mafiawars.bestmoviestodownload.com/)
 
@@ -29,9 +30,6 @@ title: http://mafiawars.bestmoviestodownload.com/
 *  JS Response Bytes: 259014
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 440
-
-### Performance issues
-
 
 ### Performance issues
 

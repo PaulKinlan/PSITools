@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://bmi.zeemind.com/?hl=en
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BMI Calculator](http://bmi.zeemind.com/?hl=en)
 
@@ -29,9 +33,6 @@ title: http://bmi.zeemind.com/?hl=en
 *  JS Response Bytes: 387896
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

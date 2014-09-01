@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://clipkeepr.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ClipKeepr.com](http://clipkeepr.com/)
 
@@ -29,9 +34,6 @@ title: http://clipkeepr.com/
 *  JS Response Bytes: 253872
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14647
-
-### Performance issues
-
 
 ### Performance issues
 

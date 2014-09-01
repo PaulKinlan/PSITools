@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.bestgamestower.com/physics/catch-the-candy-halloween
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Catch The Candy Halloween - Best Games Tower - Free Online Best Games](http://www.bestgamestower.com/physics/catch-the-candy-halloween)
 
@@ -29,9 +34,6 @@ title: http://www.bestgamestower.com/physics/catch-the-candy-halloween
 *  JS Response Bytes: 750256
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16704
-
-### Performance issues
-
 
 ### Performance issues
 

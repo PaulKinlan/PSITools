@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.feed2list.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [feed2list Rss Index](http://www.feed2list.com/)
 
@@ -29,9 +33,6 @@ title: http://www.feed2list.com/
 *  JS Response Bytes: 94367
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

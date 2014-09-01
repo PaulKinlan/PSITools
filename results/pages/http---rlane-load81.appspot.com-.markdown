@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://rlane-load81.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Load81](http://rlane-load81.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://rlane-load81.appspot.com/
 *  JS Response Bytes: 105333
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

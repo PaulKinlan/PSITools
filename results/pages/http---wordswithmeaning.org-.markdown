@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://wordswithmeaning.org/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [WordswithMeaning! | Providing Independent News, Opinions & Affairs - Without LimitsWordswithMeaning! | Providing Independent News, Opinions & Affairs – Without Limits](http://wordswithmeaning.org/)
 
@@ -29,9 +34,6 @@ title: http://wordswithmeaning.org/
 *  JS Response Bytes: 1882427
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 73472
-
-### Performance issues
-
 
 ### Performance issues
 

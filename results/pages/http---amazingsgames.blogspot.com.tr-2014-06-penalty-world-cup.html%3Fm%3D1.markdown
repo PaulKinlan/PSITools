@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://amazingsgames.blogspot.com.tr/2014/06/penalty-world-cup.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [Amazing Game: Penalty World Cup](http://amazingsgames.blogspot.com.tr/2014/06/penalty-world-cup.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://amazingsgames.blogspot.com.tr/2014/06/penalty-world-cup.html?m=1
 *  JS Response Bytes: 1270251
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111044
-
-### Performance issues
-
 
 ### Performance issues
 

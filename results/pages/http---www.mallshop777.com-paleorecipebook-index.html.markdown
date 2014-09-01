@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mallshop777.com/paleorecipebook/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Paleo Recipe Book | Over 370 easy Paleo recipes](http://www.mallshop777.com/paleorecipebook/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.mallshop777.com/paleorecipebook/index.html
 *  JS Response Bytes: 523515
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

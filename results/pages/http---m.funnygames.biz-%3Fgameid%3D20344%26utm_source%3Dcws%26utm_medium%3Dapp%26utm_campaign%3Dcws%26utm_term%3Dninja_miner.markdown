@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.funnygames.biz/?gameid=20344&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=ninja_miner
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funnygames.biz/?gameid=20344&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=ninja_miner)
 
@@ -29,9 +33,6 @@ title: http://m.funnygames.biz/?gameid=20344&utm_source=cws&utm_medium=app&utm_c
 *  JS Response Bytes: 1277238
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28394
-
-### Performance issues
-
 
 ### Performance issues
 

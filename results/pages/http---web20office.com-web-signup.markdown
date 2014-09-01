@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://web20office.com/web/signup
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Web 2.0 Office | Signup](http://web20office.com/web/signup)
 
@@ -29,9 +34,6 @@ title: http://web20office.com/web/signup
 *  JS Response Bytes: 247606
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1770
-
-### Performance issues
-
 
 ### Performance issues
 

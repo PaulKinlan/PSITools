@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://platypus.fi/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Platypus](http://platypus.fi/)
 
@@ -29,9 +35,6 @@ title: http://platypus.fi/
 *  JS Response Bytes: 701915
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109303
-
-### Performance issues
-
 
 ### Performance issues
 

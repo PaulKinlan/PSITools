@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.biz/spongebob-squarepants-coral-climb/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SpongeBob SquarePants: Coral Climb](http://www.gamesgator.biz/spongebob-squarepants-coral-climb/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.biz/spongebob-squarepants-coral-climb/
 *  JS Response Bytes: 1092728
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39737
-
-### Performance issues
-
 
 ### Performance issues
 

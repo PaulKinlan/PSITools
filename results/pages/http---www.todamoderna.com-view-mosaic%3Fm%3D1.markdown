@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.todamoderna.com/view/mosaic?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Toda Moderna](http://www.todamoderna.com/view/mosaic?m=1)
 
@@ -29,9 +30,6 @@ title: http://www.todamoderna.com/view/mosaic?m=1
 *  JS Response Bytes: 283570
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52688
-
-### Performance issues
-
 
 ### Performance issues
 

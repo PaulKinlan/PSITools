@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/strategy-andamp-defense/bloons-player-pack-5-
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bloons Player Pack 5 - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/strategy-andamp-defense/bloons-player-pack-5-)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/strategy-andamp-defense/bloons-player-pack-5-
 *  JS Response Bytes: 2180529
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104922
-
-### Performance issues
-
 
 ### Performance issues
 

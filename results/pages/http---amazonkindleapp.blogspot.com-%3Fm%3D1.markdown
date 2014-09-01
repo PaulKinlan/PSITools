@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://amazonkindleapp.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Amazon Kindle](http://amazonkindleapp.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://amazonkindleapp.blogspot.com/?m=1
 *  JS Response Bytes: 1603534
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99489
-
-### Performance issues
-
 
 ### Performance issues
 

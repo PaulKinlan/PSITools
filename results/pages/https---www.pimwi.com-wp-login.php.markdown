@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.pimwi.com/wp-login.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Pimwi › Log In](https://www.pimwi.com/wp-login.php)
 
@@ -29,9 +31,6 @@ title: https://www.pimwi.com/wp-login.php
 *  JS Response Bytes: 141633
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 78819
-
-### Performance issues
-
 
 ### Performance issues
 

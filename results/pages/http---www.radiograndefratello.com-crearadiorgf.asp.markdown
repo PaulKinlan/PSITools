@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.radiograndefratello.com/crearadiorgf.asp
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [radiograndefratello.com](http://www.radiograndefratello.com/crearadiorgf.asp)
 
@@ -29,9 +33,6 @@ title: http://www.radiograndefratello.com/crearadiorgf.asp
 *  JS Response Bytes: 173157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

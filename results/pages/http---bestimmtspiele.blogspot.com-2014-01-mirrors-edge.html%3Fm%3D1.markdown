@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://bestimmtspiele.blogspot.com/2014/01/mirrors-edge.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bestimmt Spiele: MIRROR'S EDGE](http://bestimmtspiele.blogspot.com/2014/01/mirrors-edge.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://bestimmtspiele.blogspot.com/2014/01/mirrors-edge.html?m=1
 *  JS Response Bytes: 1513098
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111802
-
-### Performance issues
-
 
 ### Performance issues
 

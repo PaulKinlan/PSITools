@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.shixe.com/games/front-runner/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Front Runner - Space Shooter Game](http://www.shixe.com/games/front-runner/)
 
@@ -29,9 +32,6 @@ title: http://www.shixe.com/games/front-runner/
 *  JS Response Bytes: 471365
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1138
-
-### Performance issues
-
 
 ### Performance issues
 

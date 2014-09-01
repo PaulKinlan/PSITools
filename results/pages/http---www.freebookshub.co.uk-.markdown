@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.freebookshub.co.uk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Kindle Ebooks UK - A site to download free and discounted kindle ebooks for UK based customers.](http://www.freebookshub.co.uk/)
 
@@ -29,9 +33,6 @@ title: http://www.freebookshub.co.uk/
 *  JS Response Bytes: 1039068
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102538
-
-### Performance issues
-
 
 ### Performance issues
 

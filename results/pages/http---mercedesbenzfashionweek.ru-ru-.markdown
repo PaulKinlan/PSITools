@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://mercedesbenzfashionweek.ru/ru/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mercedes-Benz Fashion Week Russia](http://mercedesbenzfashionweek.ru/ru/)
 
@@ -29,9 +35,6 @@ title: http://mercedesbenzfashionweek.ru/ru/
 *  JS Response Bytes: 1065647
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4030
-
-### Performance issues
-
 
 ### Performance issues
 

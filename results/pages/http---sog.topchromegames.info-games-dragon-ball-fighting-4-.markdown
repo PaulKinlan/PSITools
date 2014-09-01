@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://sog.topchromegames.info/games/dragon-ball-fighting-4/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Dragon Ball Fighting 4 Game — Sultans of Game](http://sog.topchromegames.info/games/dragon-ball-fighting-4/)
 
@@ -29,9 +35,6 @@ title: http://sog.topchromegames.info/games/dragon-ball-fighting-4/
 *  JS Response Bytes: 1770342
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 128110
-
-### Performance issues
-
 
 ### Performance issues
 

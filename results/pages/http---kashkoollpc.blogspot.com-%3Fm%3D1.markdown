@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://kashkoollpc.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [مدونة كشكول للتكنلوجيا](http://kashkoollpc.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://kashkoollpc.blogspot.com/?m=1
 *  JS Response Bytes: 828183
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1536
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.tutti-goal.it/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tutti Goal - video](http://www.tutti-goal.it/)
 
@@ -29,9 +33,6 @@ title: http://www.tutti-goal.it/
 *  JS Response Bytes: 327075
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

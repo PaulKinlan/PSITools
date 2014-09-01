@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://cloudslides.net/#/welcome/index
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [CloudSlides云幻灯](http://cloudslides.net/#/welcome/index)
 
@@ -29,9 +33,6 @@ title: http://cloudslides.net/#/welcome/index
 *  JS Response Bytes: 359844
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

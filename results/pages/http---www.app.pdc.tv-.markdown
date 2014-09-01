@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.app.pdc.tv/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Planet Darts](http://www.app.pdc.tv/)
 
@@ -29,9 +34,6 @@ title: http://www.app.pdc.tv/
 *  JS Response Bytes: 870796
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124965
-
-### Performance issues
-
 
 ### Performance issues
 

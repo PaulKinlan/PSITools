@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/kickflip/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kickflip game](http://www.skateboarding-games.biz/kickflip/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/kickflip/
 *  JS Response Bytes: 2280928
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122242
-
-### Performance issues
-
 
 ### Performance issues
 

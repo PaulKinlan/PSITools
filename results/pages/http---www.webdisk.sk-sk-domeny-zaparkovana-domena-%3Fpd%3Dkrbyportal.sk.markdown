@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.webdisk.sk/sk/domeny/zaparkovana-domena/?pd=krbyportal.sk
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zaparkovaná doména krbyportal.sk | Webdisk](http://www.webdisk.sk/sk/domeny/zaparkovana-domena/?pd=krbyportal.sk)
 
@@ -29,9 +32,6 @@ title: http://www.webdisk.sk/sk/domeny/zaparkovana-domena/?pd=krbyportal.sk
 *  JS Response Bytes: 679615
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 911
-
-### Performance issues
-
 
 ### Performance issues
 

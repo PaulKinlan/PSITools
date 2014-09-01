@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.worldwar.fr/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Accueil - WorldWar, le jeu de guerre multijoueur en ligne avec chat !](http://www.worldwar.fr/)
 
@@ -29,9 +33,6 @@ title: http://www.worldwar.fr/
 *  JS Response Bytes: 562903
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13155
-
-### Performance issues
-
 
 ### Performance issues
 

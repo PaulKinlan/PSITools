@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.elisacipriani.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Elisa Cipriani](http://www.elisacipriani.com/)
 
@@ -29,9 +31,6 @@ title: http://www.elisacipriani.com/
 *  JS Response Bytes: 2504473
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 167185
-
-### Performance issues
-
 
 ### Performance issues
 

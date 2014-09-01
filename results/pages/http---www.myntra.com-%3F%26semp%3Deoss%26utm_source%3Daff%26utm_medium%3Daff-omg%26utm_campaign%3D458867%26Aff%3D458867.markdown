@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.myntra.com/?&semp=eoss&utm_source=aff&utm_medium=aff-omg&utm_campaign=458867&Aff=458867
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Shopping India - Shop Online for Branded Shoes, Clothing & Accessories in India | Myntra.com](http://www.myntra.com/?&semp=eoss&utm_source=aff&utm_medium=aff-omg&utm_campaign=458867&Aff=458867)
 
@@ -29,9 +33,6 @@ title: http://www.myntra.com/?&semp=eoss&utm_source=aff&utm_medium=aff-omg&utm_c
 *  JS Response Bytes: 528460
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33947
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mail1a.de/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mail 1A - Wegwerf Mail](http://mail1a.de/)
 
@@ -29,9 +32,6 @@ title: http://mail1a.de/
 *  JS Response Bytes: 1035762
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32090
-
-### Performance issues
-
 
 ### Performance issues
 

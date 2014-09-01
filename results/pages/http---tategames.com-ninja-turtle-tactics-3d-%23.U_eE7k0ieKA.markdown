@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://tategames.com/ninja-turtle-tactics-3d/#.U_eE7k0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ninja Turtle Tactics 3D | Tate Games](http://tategames.com/ninja-turtle-tactics-3d/#.U_eE7k0ieKA)
 
@@ -29,9 +35,6 @@ title: http://tategames.com/ninja-turtle-tactics-3d/#.U_eE7k0ieKA
 *  JS Response Bytes: 1266056
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42191
-
-### Performance issues
-
 
 ### Performance issues
 

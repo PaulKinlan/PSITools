@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://creatips.net/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Industri Kreatif | Industri Kreatif Indonesia | Creatips.net](http://creatips.net/)
 
@@ -29,9 +32,6 @@ title: http://creatips.net/
 *  JS Response Bytes: 1758068
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109480
-
-### Performance issues
-
 
 ### Performance issues
 

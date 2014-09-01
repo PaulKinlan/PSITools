@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ginifab.com/feeds/cm_to_inch/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Convert MM, CM to Fractions of Inches](http://www.ginifab.com/feeds/cm_to_inch/)
 
@@ -29,9 +32,6 @@ title: http://www.ginifab.com/feeds/cm_to_inch/
 *  JS Response Bytes: 1639882
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110454
-
-### Performance issues
-
 
 ### Performance issues
 

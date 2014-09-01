@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.friv.com/menu/mob.html
+EnableGzipCompression: true
 ---
 ## [FRIV.COM - Games for your mobile!](http://www.friv.com/menu/mob.html)
 
@@ -29,9 +30,6 @@ title: http://www.friv.com/menu/mob.html
 *  JS Response Bytes: 44981
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 440
-
-### Performance issues
-
 
 ### Performance issues
 

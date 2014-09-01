@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.faculdadeunida.com.br/site/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Faculdade Unida - Graduação, Pós Graduação, Extensão - Faculdade Unida](http://www.faculdadeunida.com.br/site/)
 
@@ -29,9 +34,6 @@ title: http://www.faculdadeunida.com.br/site/
 *  JS Response Bytes: 1178472
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21314
-
-### Performance issues
-
 
 ### Performance issues
 

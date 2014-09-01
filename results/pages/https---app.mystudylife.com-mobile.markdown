@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://app.mystudylife.com/mobile
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Mobile Devices Not Supported - My Study Life](https://app.mystudylife.com/mobile)
 
@@ -29,9 +31,6 @@ title: https://app.mystudylife.com/mobile
 *  JS Response Bytes: 67887
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 916
-
-### Performance issues
-
 
 ### Performance issues
 

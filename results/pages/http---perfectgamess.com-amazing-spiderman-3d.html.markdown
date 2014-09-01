@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://perfectgamess.com/amazing-spiderman-3d.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [All Perfect Games One Place – Amazing Spiderman 3D](http://perfectgamess.com/amazing-spiderman-3d.html)
 
@@ -29,9 +33,6 @@ title: http://perfectgamess.com/amazing-spiderman-3d.html
 *  JS Response Bytes: 875574
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17376
-
-### Performance issues
-
 
 ### Performance issues
 

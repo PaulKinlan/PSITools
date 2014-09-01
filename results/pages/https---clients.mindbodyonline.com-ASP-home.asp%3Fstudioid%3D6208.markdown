@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://clients.mindbodyonline.com/ASP/home.asp?studioid=6208
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Parkour Visions Online](https://clients.mindbodyonline.com/ASP/home.asp?studioid=6208)
 
@@ -29,9 +33,6 @@ title: https://clients.mindbodyonline.com/ASP/home.asp?studioid=6208
 *  JS Response Bytes: 644256
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46665
-
-### Performance issues
-
 
 ### Performance issues
 

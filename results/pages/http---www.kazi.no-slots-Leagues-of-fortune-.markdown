@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kazi.no/slots/Leagues-of-fortune/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Leagues of fortune @ Kazi.noKazi.no](http://www.kazi.no/slots/Leagues-of-fortune/)
 
@@ -29,9 +34,6 @@ title: http://www.kazi.no/slots/Leagues-of-fortune/
 *  JS Response Bytes: 1165643
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141327
-
-### Performance issues
-
 
 ### Performance issues
 

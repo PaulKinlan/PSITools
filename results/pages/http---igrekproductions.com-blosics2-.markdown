@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://igrekproductions.com/blosics2/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Blosics 2 Flash](http://igrekproductions.com/blosics2/)
 
@@ -29,9 +35,6 @@ title: http://igrekproductions.com/blosics2/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.miniportail.eu/app_fr/ascendant/index.htm
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ASCENDANT](http://www.miniportail.eu/app_fr/ascendant/index.htm)
 
@@ -29,9 +32,6 @@ title: http://www.miniportail.eu/app_fr/ascendant/index.htm
 *  JS Response Bytes: 512188
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

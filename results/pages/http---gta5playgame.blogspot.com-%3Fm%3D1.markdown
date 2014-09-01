@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gta5playgame.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Gta 5 play game](http://gta5playgame.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://gta5playgame.blogspot.com/?m=1
 *  JS Response Bytes: 314310
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6339
-
-### Performance issues
-
 
 ### Performance issues
 

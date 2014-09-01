@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fidagame.com/default-category/counter-strike-262
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Counter Strike 2.62 - Fidagame.com](http://www.fidagame.com/default-category/counter-strike-262)
 
@@ -29,9 +34,6 @@ title: http://www.fidagame.com/default-category/counter-strike-262
 *  JS Response Bytes: 2099103
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120488
-
-### Performance issues
-
 
 ### Performance issues
 

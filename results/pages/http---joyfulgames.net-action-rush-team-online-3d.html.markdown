@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://joyfulgames.net/action/rush-team-online-3d.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rush Team Online 3D - Best Free Online Games | JoyfulGames.net - http://joyfulgames.net](http://joyfulgames.net/action/rush-team-online-3d.html)
 
@@ -29,9 +33,6 @@ title: http://joyfulgames.net/action/rush-team-online-3d.html
 *  JS Response Bytes: 2095608
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106776
-
-### Performance issues
-
 
 ### Performance issues
 

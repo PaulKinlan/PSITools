@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://3d.mopixie.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Free 3D Games Online on Mopixie.com](http://3d.mopixie.com/)
 
@@ -29,9 +35,6 @@ title: http://3d.mopixie.com/
 *  JS Response Bytes: 2095609
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 304932
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.passgre.com/englishword1200/grevocabulary.aspx#sthash.8UmRaxxC.dpbs
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GRE 1200 Words in 30 Days List of Days](http://www.passgre.com/englishword1200/grevocabulary.aspx#sthash.8UmRaxxC.dpbs)
 
@@ -29,9 +35,6 @@ title: http://www.passgre.com/englishword1200/grevocabulary.aspx#sthash.8UmRaxxC
 *  JS Response Bytes: 1072276
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15749
-
-### Performance issues
-
 
 ### Performance issues
 

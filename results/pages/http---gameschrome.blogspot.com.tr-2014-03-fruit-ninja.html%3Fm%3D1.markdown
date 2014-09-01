@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gameschrome.blogspot.com.tr/2014/03/fruit-ninja.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [chrome Game store: Fruit Ninja](http://gameschrome.blogspot.com.tr/2014/03/fruit-ninja.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://gameschrome.blogspot.com.tr/2014/03/fruit-ninja.html?m=1
 *  JS Response Bytes: 1531745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 143476
-
-### Performance issues
-
 
 ### Performance issues
 

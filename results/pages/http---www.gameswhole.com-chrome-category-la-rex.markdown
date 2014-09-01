@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gameswhole.com/chrome-category/la-rex
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LA Rex - Games Whole](http://www.gameswhole.com/chrome-category/la-rex)
 
@@ -29,9 +35,6 @@ title: http://www.gameswhole.com/chrome-category/la-rex
 *  JS Response Bytes: 718680
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30752
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://door2games.com/arcade/heru
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Heru - Free Online Games | Door 2 Games](http://door2games.com/arcade/heru)
 
@@ -29,9 +35,6 @@ title: http://door2games.com/arcade/heru
 *  JS Response Bytes: 752224
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 139341
-
-### Performance issues
-
 
 ### Performance issues
 

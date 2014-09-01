@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.bureau-etude-thermique-bet.fr/?utm_source=application-google-chrome&utm_medium=application-google-chrome&utm_campaign=application-google-chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bureau d'Etude Thermique BET et RT2012 - Accueil](http://www.bureau-etude-thermique-bet.fr/?utm_source=application-google-chrome&utm_medium=application-google-chrome&utm_campaign=application-google-chrome)
 
@@ -29,9 +32,6 @@ title: http://www.bureau-etude-thermique-bet.fr/?utm_source=application-google-c
 *  JS Response Bytes: 1176295
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95943
-
-### Performance issues
-
 
 ### Performance issues
 

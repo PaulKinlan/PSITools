@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.nuvair.com/?utm_medium=chrome&utm_source=app
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nuvair supplier of High Pressure, Low Pressure, Breathing Air, Industrial Gas Compressors](http://www.nuvair.com/?utm_medium=chrome&utm_source=app)
 
@@ -29,9 +33,6 @@ title: http://www.nuvair.com/?utm_medium=chrome&utm_source=app
 *  JS Response Bytes: 1129986
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95210
-
-### Performance issues
-
 
 ### Performance issues
 

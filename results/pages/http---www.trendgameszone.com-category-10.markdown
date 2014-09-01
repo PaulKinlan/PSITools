@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.trendgameszone.com/category/10
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Skill - Trend Games Zone](http://www.trendgameszone.com/category/10)
 
@@ -29,9 +32,6 @@ title: http://www.trendgameszone.com/category/10
 *  JS Response Bytes: 680953
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16350
-
-### Performance issues
-
 
 ### Performance issues
 

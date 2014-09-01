@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://s.i2i.jp/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [i2i無料レンタルwebパーツ](http://s.i2i.jp/)
 
@@ -29,9 +32,6 @@ title: http://s.i2i.jp/
 *  JS Response Bytes: 223783
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31082
-
-### Performance issues
-
 
 ### Performance issues
 

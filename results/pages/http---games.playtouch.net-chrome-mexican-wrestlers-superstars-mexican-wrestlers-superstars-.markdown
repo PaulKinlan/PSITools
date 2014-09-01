@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://games.playtouch.net/chrome/mexican-wrestlers-superstars/mexican-wrestlers-superstars/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mexican Wrestlers Superstars](http://games.playtouch.net/chrome/mexican-wrestlers-superstars/mexican-wrestlers-superstars/)
 
@@ -29,9 +31,6 @@ title: http://games.playtouch.net/chrome/mexican-wrestlers-superstars/mexican-wr
 *  JS Response Bytes: 1612235
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1064
-
-### Performance issues
-
 
 ### Performance issues
 

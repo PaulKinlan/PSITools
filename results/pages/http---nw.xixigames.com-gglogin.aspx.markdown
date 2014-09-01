@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://nw.xixigames.com/gglogin.aspx
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ninja Warriors -The 1st Side-scroll Browser Ninja Game! Free to Play No Download!– nw.xixigames.com](http://nw.xixigames.com/gglogin.aspx)
 
@@ -29,9 +32,6 @@ title: http://nw.xixigames.com/gglogin.aspx
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

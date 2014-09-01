@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.boom4u.net/lyrics/topsong.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Top 100 Lyrics](http://www.boom4u.net/lyrics/topsong.php)
 
@@ -29,9 +33,6 @@ title: http://www.boom4u.net/lyrics/topsong.php
 *  JS Response Bytes: 655818
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

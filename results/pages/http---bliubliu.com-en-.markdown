@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bliubliu.com/en/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bliu Bliu | Learn Languages The Smart Way! :)](http://bliubliu.com/en/)
 
@@ -29,9 +32,6 @@ title: http://bliubliu.com/en/
 *  JS Response Bytes: 2355208
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3111
-
-### Performance issues
-
 
 ### Performance issues
 

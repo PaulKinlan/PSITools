@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.hugedomains.com/domain_profile.cfm?d=neonora&e=com
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HugeDomains.com - NeoNora.com is for Sale (Neo Nora)](http://www.hugedomains.com/domain_profile.cfm?d=neonora&e=com)
 
@@ -29,9 +32,6 @@ title: http://www.hugedomains.com/domain_profile.cfm?d=neonora&e=com
 *  JS Response Bytes: 300757
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 430
-
-### Performance issues
-
 
 ### Performance issues
 

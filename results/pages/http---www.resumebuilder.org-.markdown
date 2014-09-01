@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.resumebuilder.org/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Resume Builder Online - Resume Maker that Works](http://www.resumebuilder.org/)
 
@@ -29,9 +33,6 @@ title: http://www.resumebuilder.org/
 *  JS Response Bytes: 1876693
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 302722
-
-### Performance issues
-
 
 ### Performance issues
 

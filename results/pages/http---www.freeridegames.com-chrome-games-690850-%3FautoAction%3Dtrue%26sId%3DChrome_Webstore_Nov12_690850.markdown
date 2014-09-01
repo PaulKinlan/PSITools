@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/690850/?autoAction=true&sId=Chrome_Webstore_Nov12_690850
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Mystic Gallery for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/690850/?autoAction=true&sId=Chrome_Webstore_Nov12_690850)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/690850/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1557684
 *  Flash Response Bytes: 32783
 *  Other Response Bytes: 28371
-
-### Performance issues
-
 
 ### Performance issues
 

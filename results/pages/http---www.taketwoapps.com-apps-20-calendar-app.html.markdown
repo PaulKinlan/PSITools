@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.taketwoapps.com/apps/20/calendar/app.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Current Event Calendar with Lunar Phases](http://www.taketwoapps.com/apps/20/calendar/app.html)
 
@@ -29,9 +32,6 @@ title: http://www.taketwoapps.com/apps/20/calendar/app.html
 *  JS Response Bytes: 429090
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16706
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kingofgamez.com/ultimate-flash-sonic.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ultimate Flash Sonic | King of Gamez](http://www.kingofgamez.com/ultimate-flash-sonic.html)
 
@@ -29,9 +34,6 @@ title: http://www.kingofgamez.com/ultimate-flash-sonic.html
 *  JS Response Bytes: 1056438
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16279
-
-### Performance issues
-
 
 ### Performance issues
 

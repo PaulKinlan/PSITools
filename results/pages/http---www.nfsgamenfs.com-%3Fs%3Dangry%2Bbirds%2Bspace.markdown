@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.nfsgamenfs.com/?s=angry+birds+space
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [angry birds space « Search Results « free game play](http://www.nfsgamenfs.com/?s=angry+birds+space)
 
@@ -29,9 +33,6 @@ title: http://www.nfsgamenfs.com/?s=angry+birds+space
 *  JS Response Bytes: 841278
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16846
-
-### Performance issues
-
 
 ### Performance issues
 

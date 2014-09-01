@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.freezonegames.com/default-category/-horse-jockey
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Horse Jockey - Free Zone GaMeS - Free Online Flash Games](http://www.freezonegames.com/default-category/-horse-jockey)
 
@@ -29,9 +36,6 @@ title: http://www.freezonegames.com/default-category/-horse-jockey
 *  JS Response Bytes: 934959
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16627
-
-### Performance issues
-
 
 ### Performance issues
 

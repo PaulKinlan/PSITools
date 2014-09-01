@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://learn101.org/greek.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn Greek | learn101.org](http://learn101.org/greek.php)
 
@@ -29,9 +33,6 @@ title: http://learn101.org/greek.php
 *  JS Response Bytes: 487788
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14569
-
-### Performance issues
-
 
 ### Performance issues
 

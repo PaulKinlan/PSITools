@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.pablogp.com/
+UseLegibleFontSizes: true
 ---
 ## [403 Forbidden](http://www.pablogp.com/)
 
@@ -29,9 +30,6 @@ title: http://www.pablogp.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 464
-
-### Performance issues
-
 
 ### Performance issues
 

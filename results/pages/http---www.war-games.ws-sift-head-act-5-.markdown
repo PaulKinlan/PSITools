@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/sift-head-act-5/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sift Head – Act 5](http://www.war-games.ws/sift-head-act-5/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/sift-head-act-5/
 *  JS Response Bytes: 2292942
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120589
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.download-prg-eng.blogspot.com/2014/01/winrar.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Download: Winrar](http://www.download-prg-eng.blogspot.com/2014/01/winrar.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://www.download-prg-eng.blogspot.com/2014/01/winrar.html?m=1
 *  JS Response Bytes: 722379
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95584
-
-### Performance issues
-
 
 ### Performance issues
 

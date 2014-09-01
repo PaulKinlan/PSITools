@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.taripebi.ge/ipo/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [იპოთეკური სესხი](http://www.taripebi.ge/ipo/)
 
@@ -29,9 +34,6 @@ title: http://www.taripebi.ge/ipo/
 *  JS Response Bytes: 1209142
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63435
-
-### Performance issues
-
 
 ### Performance issues
 

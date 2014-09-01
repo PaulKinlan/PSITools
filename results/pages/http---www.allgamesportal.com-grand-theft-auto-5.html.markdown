@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.allgamesportal.com/grand-theft-auto-5.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Grand Theft Auto 5 | All Games Portal](http://www.allgamesportal.com/grand-theft-auto-5.html)
 
@@ -29,9 +37,6 @@ title: http://www.allgamesportal.com/grand-theft-auto-5.html
 *  JS Response Bytes: 1529414
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103060
-
-### Performance issues
-
 
 ### Performance issues
 

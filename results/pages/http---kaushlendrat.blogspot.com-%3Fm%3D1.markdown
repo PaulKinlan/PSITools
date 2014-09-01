@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://kaushlendrat.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [CCMB](http://kaushlendrat.blogspot.com/?m=1)
 
@@ -29,9 +33,6 @@ title: http://kaushlendrat.blogspot.com/?m=1
 *  JS Response Bytes: 1312561
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2028
-
-### Performance issues
-
 
 ### Performance issues
 

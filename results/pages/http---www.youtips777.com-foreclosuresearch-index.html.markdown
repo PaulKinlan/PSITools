@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.youtips777.com/foreclosuresearch/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Foreclosures Canada](http://www.youtips777.com/foreclosuresearch/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.youtips777.com/foreclosuresearch/index.html
 *  JS Response Bytes: 935855
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109057
-
-### Performance issues
-
 
 ### Performance issues
 

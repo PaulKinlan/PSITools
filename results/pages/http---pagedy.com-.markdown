@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://pagedy.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Pagedy // Google](http://pagedy.com/)
 
@@ -29,9 +30,6 @@ title: http://pagedy.com/
 *  JS Response Bytes: 139420
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52933
-
-### Performance issues
-
 
 ### Performance issues
 

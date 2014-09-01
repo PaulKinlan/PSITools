@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.vkubiki.ru/chrome.html
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.vkubiki.ru/chrome.html)
 
@@ -29,9 +32,6 @@ title: http://www.vkubiki.ru/chrome.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

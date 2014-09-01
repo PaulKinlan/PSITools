@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.gembly.com/en/play-free/triplejack?utm_source=Chromestore&utm_medium=Chromestore&utm_content=TripleJack&utm_campaign=Partners
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Play Triplejack free game at Gembly - Unlimited fun!](http://www.gembly.com/en/play-free/triplejack?utm_source=Chromestore&utm_medium=Chromestore&utm_content=TripleJack&utm_campaign=Partners)
 
@@ -29,9 +31,6 @@ title: http://www.gembly.com/en/play-free/triplejack?utm_source=Chromestore&utm_
 *  JS Response Bytes: 530132
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45444
-
-### Performance issues
-
 
 ### Performance issues
 

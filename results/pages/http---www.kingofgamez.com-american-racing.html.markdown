@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kingofgamez.com/american-racing.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [American Racing | King of Gamez](http://www.kingofgamez.com/american-racing.html)
 
@@ -29,9 +34,6 @@ title: http://www.kingofgamez.com/american-racing.html
 *  JS Response Bytes: 1055168
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15205
-
-### Performance issues
-
 
 ### Performance issues
 

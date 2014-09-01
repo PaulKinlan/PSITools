@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://tuggame.info/dragon-city/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tug Game Play Online Game With TugGame.info – Dragon City](http://tuggame.info/dragon-city/)
 
@@ -29,9 +33,6 @@ title: http://tuggame.info/dragon-city/
 *  JS Response Bytes: 729520
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14561
-
-### Performance issues
-
 
 ### Performance issues
 

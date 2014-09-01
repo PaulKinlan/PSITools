@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://promoterr.com/technology/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Technology Videos Delivered Daily](http://promoterr.com/technology/)
 
@@ -29,9 +31,6 @@ title: http://promoterr.com/technology/
 *  JS Response Bytes: 1106552
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 913
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.froot.nl/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Je dagelijkse dosis webvitaminen - Froot.nl](http://www.froot.nl/)
 
@@ -29,9 +32,6 @@ title: http://www.froot.nl/
 *  JS Response Bytes: 958306
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1862
-
-### Performance issues
-
 
 ### Performance issues
 

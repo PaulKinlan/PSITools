@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.finechromegames.com/play/266/warmerise-lite-version.html#.U_uow00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Warmerise Lite Version - finechromegames](http://www.finechromegames.com/play/266/warmerise-lite-version.html#.U_uow00ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.finechromegames.com/play/266/warmerise-lite-version.html#.U_uo
 *  JS Response Bytes: 2141905
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 36749
-
-### Performance issues
-
 
 ### Performance issues
 

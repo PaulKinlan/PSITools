@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.miericette.it/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Le ricette di Lally | www.miericette.it](http://www.miericette.it/)
 
@@ -29,9 +32,6 @@ title: http://www.miericette.it/
 *  JS Response Bytes: 2040239
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 264869
-
-### Performance issues
-
 
 ### Performance issues
 

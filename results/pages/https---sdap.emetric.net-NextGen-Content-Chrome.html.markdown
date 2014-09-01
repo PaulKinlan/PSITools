@@ -33,8 +33,5 @@ title: https://sdap.emetric.net/NextGen/Content/Chrome.html
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

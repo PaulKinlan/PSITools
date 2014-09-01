@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.tesla-games.com/casino/freecell-solitaire
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Playing Freecell Solitaire - Games - Play Free Online Games at Tesla Games](http://www.tesla-games.com/casino/freecell-solitaire)
 
@@ -29,9 +35,6 @@ title: http://www.tesla-games.com/casino/freecell-solitaire
 *  JS Response Bytes: 1312009
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1670
-
-### Performance issues
-
 
 ### Performance issues
 

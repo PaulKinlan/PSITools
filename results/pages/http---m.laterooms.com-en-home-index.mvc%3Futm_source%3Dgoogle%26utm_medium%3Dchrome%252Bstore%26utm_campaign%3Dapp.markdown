@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.laterooms.com/en/home/index.mvc?utm_source=google&utm_medium=chrome%2Bstore&utm_campaign=app
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Late Rooms-Cheap Hotels, Discount Hotels & Last Minute Hotels Deals. Make Hotel Reservations & Book Hotels with Hotel Offers.](http://m.laterooms.com/en/home/index.mvc?utm_source=google&utm_medium=chrome%2Bstore&utm_campaign=app)
 
@@ -29,9 +33,6 @@ title: http://m.laterooms.com/en/home/index.mvc?utm_source=google&utm_medium=chr
 *  JS Response Bytes: 679157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10102
-
-### Performance issues
-
 
 ### Performance issues
 

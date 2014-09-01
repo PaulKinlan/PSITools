@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.hktutorcity.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [補習 | 香港補習城 HKTutorCity.com](http://www.hktutorcity.com/)
 
@@ -29,9 +34,6 @@ title: http://www.hktutorcity.com/
 *  JS Response Bytes: 554418
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44424
-
-### Performance issues
-
 
 ### Performance issues
 

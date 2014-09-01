@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/red-dragon-rampage/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Red Dragon Rampage](http://www.war-games.ws/red-dragon-rampage/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/red-dragon-rampage/
 *  JS Response Bytes: 2292782
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115220
-
-### Performance issues
-
 
 ### Performance issues
 

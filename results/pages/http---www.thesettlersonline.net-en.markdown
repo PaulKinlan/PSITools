@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.thesettlersonline.net/en
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Settlers Online - Free city-building online strategy browser game | landingpage](http://www.thesettlersonline.net/en)
 
@@ -29,9 +35,6 @@ title: http://www.thesettlersonline.net/en
 *  JS Response Bytes: 1270823
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 107883
-
-### Performance issues
-
 
 ### Performance issues
 

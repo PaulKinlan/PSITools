@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.appstore-discounts.com/list.php?sort=appDiscount
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AppStore Discounts - AppStore prices drops and free apps](http://www.appstore-discounts.com/list.php?sort=appDiscount)
 
@@ -29,9 +32,6 @@ title: http://www.appstore-discounts.com/list.php?sort=appDiscount
 *  JS Response Bytes: 913146
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15001
-
-### Performance issues
-
 
 ### Performance issues
 

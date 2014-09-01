@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.myfantasticpark.de/?ref=adcmfpde&mk=161605&bid=82841-60953
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [My Fantastic Park - Jetzt kostenlos spielen!](http://www.myfantasticpark.de/?ref=adcmfpde&mk=161605&bid=82841-60953)
 
@@ -29,9 +34,6 @@ title: http://www.myfantasticpark.de/?ref=adcmfpde&mk=161605&bid=82841-60953
 *  JS Response Bytes: 152211
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1501
-
-### Performance issues
-
 
 ### Performance issues
 

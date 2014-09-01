@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.timetrackturbo.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Time Tracking and Invoicing](http://www.timetrackturbo.com/)
 
@@ -29,9 +33,6 @@ title: http://www.timetrackturbo.com/
 *  JS Response Bytes: 222787
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

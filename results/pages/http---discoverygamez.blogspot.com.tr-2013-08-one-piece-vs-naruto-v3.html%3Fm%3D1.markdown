@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://discoverygamez.blogspot.com.tr/2013/08/one-piece-vs-naruto-v3.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Discovery Games: One Piece vs Naruto v3](http://discoverygamez.blogspot.com.tr/2013/08/one-piece-vs-naruto-v3.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://discoverygamez.blogspot.com.tr/2013/08/one-piece-vs-naruto-v3.html
 *  JS Response Bytes: 1849617
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287180
-
-### Performance issues
-
 
 ### Performance issues
 

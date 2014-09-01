@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ww35.smr1.sancaktepemt2.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [sancaktepemt2.com](http://ww35.smr1.sancaktepemt2.com/)
 
@@ -29,9 +33,6 @@ title: http://ww35.smr1.sancaktepemt2.com/
 *  JS Response Bytes: 173157
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 218
-
-### Performance issues
-
 
 ### Performance issues
 

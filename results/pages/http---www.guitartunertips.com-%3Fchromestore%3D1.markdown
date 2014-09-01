@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.guitartunertips.com/?chromestore=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Guitar Tips for your Tuner](http://www.guitartunertips.com/?chromestore=1)
 
@@ -29,9 +33,6 @@ title: http://www.guitartunertips.com/?chromestore=1
 *  JS Response Bytes: 514134
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

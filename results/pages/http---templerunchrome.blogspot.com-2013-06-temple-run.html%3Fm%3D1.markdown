@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://templerunchrome.blogspot.com/2013/06/temple-run.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Page not found](http://templerunchrome.blogspot.com/2013/06/temple-run.html?m=1)
 
@@ -18,20 +21,17 @@ title: http://templerunchrome.blogspot.com/2013/06/temple-run.html?m=1
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 985
+*  Total Request Bytes: 984
 
 ### Response data
 
 *  HTML Response Bytes: 0
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 29010
-*  Image Response Bytes: 3376
+*  CSS Response Bytes: 29009
+*  Image Response Bytes: 3375
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26116
-
-### Performance issues
-
 
 ### Performance issues
 

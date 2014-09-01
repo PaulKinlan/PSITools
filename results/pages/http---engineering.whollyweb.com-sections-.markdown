@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://engineering.whollyweb.com/sections/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Concrete Sections](http://engineering.whollyweb.com/sections/)
 
@@ -29,9 +33,6 @@ title: http://engineering.whollyweb.com/sections/
 *  JS Response Bytes: 2283260
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16349
-
-### Performance issues
-
 
 ### Performance issues
 

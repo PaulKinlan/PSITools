@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gamedesire.com/?track=webstore
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
 ---
 ## [iPhone games - GameDesire](http://www.gamedesire.com/?track=webstore)
 
@@ -29,9 +32,6 @@ title: http://www.gamedesire.com/?track=webstore
 *  JS Response Bytes: 31238
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 425
-
-### Performance issues
-
 
 ### Performance issues
 

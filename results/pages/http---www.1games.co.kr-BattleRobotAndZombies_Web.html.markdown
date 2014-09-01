@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.1games.co.kr/BattleRobotAndZombies_Web.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Battle Robot And Zombies](http://www.1games.co.kr/BattleRobotAndZombies_Web.html)
 
@@ -29,9 +34,6 @@ title: http://www.1games.co.kr/BattleRobotAndZombies_Web.html
 *  JS Response Bytes: 540730
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

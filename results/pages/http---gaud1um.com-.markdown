@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gaud1um.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gaudium | Развлечения и вдохновение](http://gaud1um.com/)
 
@@ -29,9 +33,6 @@ title: http://gaud1um.com/
 *  JS Response Bytes: 910384
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 265303
-
-### Performance issues
-
 
 ### Performance issues
 

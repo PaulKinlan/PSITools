@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.popular-games.org/defense-games/beavus
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | www.popular-games.org | Play Most Popular Games Free](http://www.popular-games.org/defense-games/beavus)
 
@@ -29,9 +35,6 @@ title: http://www.popular-games.org/defense-games/beavus
 *  JS Response Bytes: 729082
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2248
-
-### Performance issues
-
 
 ### Performance issues
 

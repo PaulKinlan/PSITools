@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://semioffice.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Official Letters and Documents](http://semioffice.com/)
 
@@ -29,9 +32,6 @@ title: http://semioffice.com/
 *  JS Response Bytes: 607729
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

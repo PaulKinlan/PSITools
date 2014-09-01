@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://tdyx.txwy.tw/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [天地英雄 官方網站(台灣繁體) – 新天地英雄 web 攻略 – 最火爆的RPG網頁遊戲_ 穿越時空決戰歷史名將](http://tdyx.txwy.tw/)
 
@@ -29,9 +32,6 @@ title: http://tdyx.txwy.tw/
 *  JS Response Bytes: 343603
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3091
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.desert-operations.fr/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Desert-Operations - Jeu de guerre - Wargame en ligne](http://www.desert-operations.fr/)
 
@@ -29,9 +33,6 @@ title: http://www.desert-operations.fr/
 *  JS Response Bytes: 300455
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2274
-
-### Performance issues
-
 
 ### Performance issues
 

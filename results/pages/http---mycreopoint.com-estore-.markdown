@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mycreopoint.com/estore/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [eStore](http://mycreopoint.com/estore/)
 
@@ -29,9 +32,6 @@ title: http://mycreopoint.com/estore/
 *  JS Response Bytes: 511393
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58468
-
-### Performance issues
-
 
 ### Performance issues
 

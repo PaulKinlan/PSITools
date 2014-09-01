@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://notepub.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
 ---
 ## [Online NotePad](https://notepub.com/)
 
@@ -29,9 +32,6 @@ title: https://notepub.com/
 *  JS Response Bytes: 83969
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

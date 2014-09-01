@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://botlogic.us/code?cchk=1&code=&age=#sthash.ta9WPLDZ.dpbs
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BotLogic.us - A Fun, Challenging, and Educational Puzzle Game for Kids](http://botlogic.us/code?cchk=1&code=&age=#sthash.ta9WPLDZ.dpbs)
 
@@ -29,9 +34,6 @@ title: http://botlogic.us/code?cchk=1&code=&age=#sthash.ta9WPLDZ.dpbs
 *  JS Response Bytes: 1086934
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29443
-
-### Performance issues
-
 
 ### Performance issues
 

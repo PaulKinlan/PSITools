@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.freelegogames.us/play/313/island-tribe-5-.html#.U_eFqk0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Island Tribe 5 - Free Logo Games](http://www.freelegogames.us/play/313/island-tribe-5-.html#.U_eFqk0ieKA)
 
@@ -29,9 +36,6 @@ title: http://www.freelegogames.us/play/313/island-tribe-5-.html#.U_eFqk0ieKA
 *  JS Response Bytes: 1590400
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9142
-
-### Performance issues
-
 
 ### Performance issues
 

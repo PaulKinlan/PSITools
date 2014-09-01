@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/launch-football/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Launch Football Game](http://www.footballgam.es/launch-football/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/launch-football/
 *  JS Response Bytes: 2297550
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 142341
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.kenjisugimoto.com/gridpx/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gridpx：グリッドシステム計算ツール | Webデザイン/web制作者向け](http://www.kenjisugimoto.com/gridpx/)
 
@@ -29,9 +33,6 @@ title: http://www.kenjisugimoto.com/gridpx/
 *  JS Response Bytes: 1644913
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96250
-
-### Performance issues
-
 
 ### Performance issues
 

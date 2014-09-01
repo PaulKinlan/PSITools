@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://bestfightinggames.co/street-fighter-vs-full-2.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fighting Games – Street Fighter vs (full)](http://bestfightinggames.co/street-fighter-vs-full-2.html)
 
@@ -29,9 +34,6 @@ title: http://bestfightinggames.co/street-fighter-vs-full-2.html
 *  JS Response Bytes: 1059940
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15627
-
-### Performance issues
-
 
 ### Performance issues
 

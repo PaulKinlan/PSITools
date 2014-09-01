@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://boxmeupapp.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Boxmeup](http://boxmeupapp.com/)
 
@@ -29,9 +31,6 @@ title: http://boxmeupapp.com/
 *  JS Response Bytes: 306288
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 510
-
-### Performance issues
-
 
 ### Performance issues
 

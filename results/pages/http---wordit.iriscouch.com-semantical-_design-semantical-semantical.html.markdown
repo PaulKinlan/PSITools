@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://wordit.iriscouch.com/semantical/_design/semantical/semantical.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Semantical](http://wordit.iriscouch.com/semantical/_design/semantical/semantical.html)
 
@@ -29,9 +34,6 @@ title: http://wordit.iriscouch.com/semantical/_design/semantical/semantical.html
 *  JS Response Bytes: 824273
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

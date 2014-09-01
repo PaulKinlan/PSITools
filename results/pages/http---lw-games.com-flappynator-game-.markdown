@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://lw-games.com/flappynator-game/
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LW Games - Flappynator](http://lw-games.com/flappynator-game/)
 
@@ -29,9 +33,6 @@ title: http://lw-games.com/flappynator-game/
 *  JS Response Bytes: 782208
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1877
-
-### Performance issues
-
 
 ### Performance issues
 

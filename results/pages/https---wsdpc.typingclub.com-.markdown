@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://wsdpc.typingclub.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Weilenmann School of Discovery | TypingClub Login](https://wsdpc.typingclub.com/)
 
@@ -29,9 +32,6 @@ title: https://wsdpc.typingclub.com/
 *  JS Response Bytes: 136104
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 436
-
-### Performance issues
-
 
 ### Performance issues
 

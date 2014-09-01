@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://thequietplaceproject.com/thedawnroom/mobile.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [the dawn room - sorry...:/](http://thequietplaceproject.com/thedawnroom/mobile.html)
 
@@ -29,9 +34,6 @@ title: http://thequietplaceproject.com/thedawnroom/mobile.html
 *  JS Response Bytes: 636315
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 70911
-
-### Performance issues
-
 
 ### Performance issues
 

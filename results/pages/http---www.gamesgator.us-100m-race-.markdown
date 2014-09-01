@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.us/100m-race/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [100m Race](http://www.gamesgator.us/100m-race/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.us/100m-race/
 *  JS Response Bytes: 1085562
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40246
-
-### Performance issues
-
 
 ### Performance issues
 

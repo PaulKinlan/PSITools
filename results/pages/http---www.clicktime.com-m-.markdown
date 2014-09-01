@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.clicktime.com/m/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
 ---
 ## [ClickTime Mobile](http://www.clicktime.com/m/)
 
@@ -29,9 +33,6 @@ title: http://www.clicktime.com/m/
 *  JS Response Bytes: 69284
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 654
-
-### Performance issues
-
 
 ### Performance issues
 

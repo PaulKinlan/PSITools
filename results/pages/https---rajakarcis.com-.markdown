@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://rajakarcis.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [RajaKarcis.com - Online Ticket Box, Jakarta, Indonesia. Concerts, Family Events, Seminars, Sports.](https://rajakarcis.com/)
 
@@ -29,9 +34,6 @@ title: https://rajakarcis.com/
 *  JS Response Bytes: 1230176
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2446
-
-### Performance issues
-
 
 ### Performance issues
 

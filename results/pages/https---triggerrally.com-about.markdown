@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://triggerrally.com/about
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [About - Trigger Rally](https://triggerrally.com/about)
 
@@ -29,9 +34,6 @@ title: https://triggerrally.com/about
 *  JS Response Bytes: 1153701
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 69526
-
-### Performance issues
-
 
 ### Performance issues
 

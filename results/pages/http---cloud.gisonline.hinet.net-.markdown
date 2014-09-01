@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://cloud.gisonline.hinet.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Richi GIS Cloud](http://cloud.gisonline.hinet.net/)
 
@@ -29,9 +33,6 @@ title: http://cloud.gisonline.hinet.net/
 *  JS Response Bytes: 237774
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 639
-
-### Performance issues
-
 
 ### Performance issues
 

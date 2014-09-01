@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.waterfiltersfast.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Best Water Filters & Refrigerator Filters | The Original Water Filters Fast](http://www.waterfiltersfast.com/)
 
@@ -29,9 +34,6 @@ title: http://www.waterfiltersfast.com/
 *  JS Response Bytes: 1052229
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33481
-
-### Performance issues
-
 
 ### Performance issues
 

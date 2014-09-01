@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://icricketbuzz.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Cricket News | Cricket Pictures | Cricket Scorecards | Cricket Schedules | Cricket Games | Online Cricket Games | Cricket Highlights |](http://icricketbuzz.com/)
 
@@ -29,9 +32,6 @@ title: http://icricketbuzz.com/
 *  JS Response Bytes: 408731
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18799
-
-### Performance issues
-
 
 ### Performance issues
 

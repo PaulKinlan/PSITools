@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.bhmpics.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Wallpaper Download, Desktop HD Wallpapers, Download High Definition Wallpapers.](http://www.bhmpics.com/)
 
@@ -29,9 +35,6 @@ title: http://www.bhmpics.com/
 *  JS Response Bytes: 1578173
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112210
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.finechromegames.com/play/255/pro-kicker-frenzy.html#.U_ub700ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pro Kicker Frenzy - finechromegames](http://www.finechromegames.com/play/255/pro-kicker-frenzy.html#.U_ub700ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.finechromegames.com/play/255/pro-kicker-frenzy.html#.U_ub700ie
 *  JS Response Bytes: 2790715
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 65760
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_861_SWAT-Awesome-Edition.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SWAT: Awesome Edition Flash Games](http://www.newpopulargames.com/game_861_SWAT-Awesome-Edition.html)
 
@@ -29,9 +34,6 @@ title: http://www.newpopulargames.com/game_861_SWAT-Awesome-Edition.html
 *  JS Response Bytes: 1679918
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112883
-
-### Performance issues
-
 
 ### Performance issues
 

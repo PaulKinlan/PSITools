@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://i.word.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [Dictionary](http://i.word.com/)
 
@@ -29,9 +31,6 @@ title: http://i.word.com/
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1162
-
-### Performance issues
-
 
 ### Performance issues
 

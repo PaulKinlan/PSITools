@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.applicationcraft.com/cws/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Application Craft on the Chrome Web Store - App development for Mobile and Desktop with Application Craft](http://www.applicationcraft.com/cws/)
 
@@ -13,25 +15,22 @@ title: http://www.applicationcraft.com/cws/
 
 ### Request information
 
-*  Number of Resources: 52
-*  Number of Hosts: 9
-*  Number of JS Resources: 28
+*  Number of Resources: 53
+*  Number of Hosts: 10
+*  Number of JS Resources: 29
 *  Number of CSS Resources: 7
 *  Nubmer of Static Resources: 43
-*  Total Request Bytes: 5737
+*  Total Request Bytes: 6160
 
 ### Response data
 
 *  HTML Response Bytes: 15869
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 336062
-*  Image Response Bytes: 88406
-*  JS Response Bytes: 2262788
+*  CSS Response Bytes: 336064
+*  Image Response Bytes: 88416
+*  JS Response Bytes: 2263042
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

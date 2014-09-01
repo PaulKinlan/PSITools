@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://88freegames.blogspot.com/2013/10/angry-gran-run.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [Free best flash games: Angry Gran Run](http://88freegames.blogspot.com/2013/10/angry-gran-run.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://88freegames.blogspot.com/2013/10/angry-gran-run.html?m=1
 *  JS Response Bytes: 720804
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95582
-
-### Performance issues
-
 
 ### Performance issues
 

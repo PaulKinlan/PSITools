@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://rookiegames.com/cricket-master-unleashed/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cricket Master Unleashed](http://rookiegames.com/cricket-master-unleashed/)
 
@@ -29,9 +35,6 @@ title: http://rookiegames.com/cricket-master-unleashed/
 *  JS Response Bytes: 1098965
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94853
-
-### Performance issues
-
 
 ### Performance issues
 

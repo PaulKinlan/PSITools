@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.iprovidenow.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [iprovidenow | Your business. To the next level. Our business.](http://www.iprovidenow.com/)
 
@@ -29,9 +32,6 @@ title: http://www.iprovidenow.com/
 *  JS Response Bytes: 611261
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45014
-
-### Performance issues
-
 
 ### Performance issues
 

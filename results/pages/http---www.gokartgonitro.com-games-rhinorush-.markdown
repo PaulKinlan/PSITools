@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gokartgonitro.com/games/rhinorush/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [XformGames.com | Rhino Rush](http://www.gokartgonitro.com/games/rhinorush/)
 
@@ -29,9 +35,6 @@ title: http://www.gokartgonitro.com/games/rhinorush/
 *  JS Response Bytes: 380930
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3981
-
-### Performance issues
-
 
 ### Performance issues
 

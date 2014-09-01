@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://cougaravenue.domainseasy.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cougars Avenue - Le site n°1 des rencontres cougars](http://cougaravenue.domainseasy.org/)
 
@@ -29,9 +33,6 @@ title: http://cougaravenue.domainseasy.org/
 *  JS Response Bytes: 440852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4890
-
-### Performance issues
-
 
 ### Performance issues
 

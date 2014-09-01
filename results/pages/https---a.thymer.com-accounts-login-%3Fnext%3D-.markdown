@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://a.thymer.com/accounts/login/?next=/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Thymer - Login](https://a.thymer.com/accounts/login/?next=/)
 
@@ -29,9 +35,6 @@ title: https://a.thymer.com/accounts/login/?next=/
 *  JS Response Bytes: 318074
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 676
-
-### Performance issues
-
 
 ### Performance issues
 

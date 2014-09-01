@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.l2o-formation.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [L2O Formation : Formation en Entreprise et Spécialisation C.H.R](http://www.l2o-formation.com/)
 
@@ -29,9 +34,6 @@ title: http://www.l2o-formation.com/
 *  JS Response Bytes: 721574
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 73306
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.motoragent.de/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Auto Kaufberatung - MotorAgent.de](http://www.motoragent.de/)
 
@@ -29,9 +32,6 @@ title: http://www.motoragent.de/
 *  JS Response Bytes: 303866
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

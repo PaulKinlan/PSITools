@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://mcgregor.demo.mimicme.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Demo - MimicMe](http://mcgregor.demo.mimicme.com/)
 
@@ -29,9 +34,6 @@ title: http://mcgregor.demo.mimicme.com/
 *  JS Response Bytes: 747673
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

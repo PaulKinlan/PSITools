@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://plants-vs-zombie-game.blogspot.com.tr/2014/04/plants-zombie.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [plants vs zombie hd: plants zombie](http://plants-vs-zombie-game.blogspot.com.tr/2014/04/plants-zombie.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://plants-vs-zombie-game.blogspot.com.tr/2014/04/plants-zombie.html?m
 *  JS Response Bytes: 720815
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95596
-
-### Performance issues
-
 
 ### Performance issues
 

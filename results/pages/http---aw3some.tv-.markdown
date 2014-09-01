@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://aw3some.tv/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Aw3someTV](http://aw3some.tv/)
 
@@ -29,9 +33,6 @@ title: http://aw3some.tv/
 *  JS Response Bytes: 987515
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2199
-
-### Performance issues
-
 
 ### Performance issues
 

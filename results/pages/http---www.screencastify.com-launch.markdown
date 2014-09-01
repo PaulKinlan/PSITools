@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.screencastify.com/launch
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [- Screencastify](http://www.screencastify.com/launch)
 
@@ -29,9 +31,6 @@ title: http://www.screencastify.com/launch
 *  JS Response Bytes: 125396
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 90958
-
-### Performance issues
-
 
 ### Performance issues
 

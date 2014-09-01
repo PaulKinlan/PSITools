@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.zzaa.net/racing-games/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Racing Games on Zzaa.net](http://www.zzaa.net/racing-games/)
 
@@ -29,9 +33,6 @@ title: http://www.zzaa.net/racing-games/
 *  JS Response Bytes: 318652
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

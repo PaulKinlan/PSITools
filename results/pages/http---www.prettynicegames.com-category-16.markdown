@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.prettynicegames.com/category/16
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Truck Games - Pretty Nice Games](http://www.prettynicegames.com/category/16)
 
@@ -29,9 +32,6 @@ title: http://www.prettynicegames.com/category/16
 *  JS Response Bytes: 680938
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16336
-
-### Performance issues
-
 
 ### Performance issues
 

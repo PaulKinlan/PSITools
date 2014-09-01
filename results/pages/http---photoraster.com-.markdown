@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://photoraster.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Photo Raster | Online Photo Editor](http://photoraster.com/)
 
@@ -29,9 +33,6 @@ title: http://photoraster.com/
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

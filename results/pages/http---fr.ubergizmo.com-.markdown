@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://fr.ubergizmo.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ubergizmo FR](http://fr.ubergizmo.com/)
 
@@ -29,9 +33,6 @@ title: http://fr.ubergizmo.com/
 *  JS Response Bytes: 586189
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

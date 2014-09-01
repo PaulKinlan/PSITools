@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sweetstone.us/default-category/hot-rod-racers
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hot Rod Racers - Sweet Stone](http://www.sweetstone.us/default-category/hot-rod-racers)
 
@@ -29,9 +34,6 @@ title: http://www.sweetstone.us/default-category/hot-rod-racers
 *  JS Response Bytes: 3070537
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 149218
-
-### Performance issues
-
 
 ### Performance issues
 

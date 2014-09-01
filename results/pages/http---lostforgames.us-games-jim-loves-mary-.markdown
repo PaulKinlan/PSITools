@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://lostforgames.us/games/jim-loves-mary/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jim Loves Mary | Lost For Games](http://lostforgames.us/games/jim-loves-mary/)
 
@@ -29,9 +34,6 @@ title: http://lostforgames.us/games/jim-loves-mary/
 *  JS Response Bytes: 519637
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42312
-
-### Performance issues
-
 
 ### Performance issues
 

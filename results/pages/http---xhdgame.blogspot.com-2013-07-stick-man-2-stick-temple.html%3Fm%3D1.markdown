@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://xhdgame.blogspot.com/2013/07/stick-man-2-stick-temple.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [XHDGAME: Stick Man 2 (Stick Temple)](http://xhdgame.blogspot.com/2013/07/stick-man-2-stick-temple.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://xhdgame.blogspot.com/2013/07/stick-man-2-stick-temple.html?m=1
 *  JS Response Bytes: 1120492
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95589
-
-### Performance issues
-
 
 ### Performance issues
 

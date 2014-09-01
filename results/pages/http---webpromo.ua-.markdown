@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://webpromo.ua/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Блог компании WebPromo - раскрутка сайта, продвижение сайтов, web-аналитика, юзабилити.](http://webpromo.ua/)
 
@@ -29,9 +32,6 @@ title: http://webpromo.ua/
 *  JS Response Bytes: 1090879
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2688
-
-### Performance issues
-
 
 ### Performance issues
 

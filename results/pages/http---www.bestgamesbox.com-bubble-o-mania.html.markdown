@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.bestgamesbox.com/bubble-o-mania.html
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://www.bestgamesbox.com/bubble-o-mania.html)
 
@@ -29,9 +30,6 @@ title: http://www.bestgamesbox.com/bubble-o-mania.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331
-
-### Performance issues
-
 
 ### Performance issues
 

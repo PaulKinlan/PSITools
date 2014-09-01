@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.inlattice.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [InLattice - Accounts Payable, Accounts Receivable Automation](http://www.inlattice.com/)
 
@@ -29,9 +33,6 @@ title: http://www.inlattice.com/
 *  JS Response Bytes: 1361648
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8785
-
-### Performance issues
-
 
 ### Performance issues
 

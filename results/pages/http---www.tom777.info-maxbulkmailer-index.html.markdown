@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.tom777.info/maxbulkmailer/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Maxprog | MaxBulk Mailer, bulk emailer software and mail-merge tool for Mac OS and Windows](http://www.tom777.info/maxbulkmailer/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.tom777.info/maxbulkmailer/index.html
 *  JS Response Bytes: 911965
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109057
-
-### Performance issues
-
 
 ### Performance issues
 

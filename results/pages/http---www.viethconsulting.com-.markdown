@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.viethconsulting.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Association Website Design](http://www.viethconsulting.com/)
 
@@ -29,9 +34,6 @@ title: http://www.viethconsulting.com/
 *  JS Response Bytes: 159679
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1037
-
-### Performance issues
-
 
 ### Performance issues
 

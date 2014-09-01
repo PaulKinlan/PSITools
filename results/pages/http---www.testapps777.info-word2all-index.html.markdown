@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.testapps777.info/word2all/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Word to All Converter - Convert Word to PDF, PowerPoint, Excel, HTML, Text, Flash video and Image format](http://www.testapps777.info/word2all/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.testapps777.info/word2all/index.html
 *  JS Response Bytes: 934831
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109055
-
-### Performance issues
-
 
 ### Performance issues
 

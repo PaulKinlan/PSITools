@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/Code-Breaking/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Code Breaking](http://www.fupa.com/apps/Code-Breaking/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/Code-Breaking/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

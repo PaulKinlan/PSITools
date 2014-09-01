@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.thinkapp777.info/soundtaxi/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [All-In-One Any Music Files to MP3, AAC (M4A), WMA or WAV Converter](http://www.thinkapp777.info/soundtaxi/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.thinkapp777.info/soundtaxi/index.html
 *  JS Response Bytes: 909912
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109055
-
-### Performance issues
-
 
 ### Performance issues
 

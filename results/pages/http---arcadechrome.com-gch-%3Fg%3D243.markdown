@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://arcadechrome.com/gch/?g=243
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [Chick Virtual Pet](http://arcadechrome.com/gch/?g=243)
 
@@ -29,9 +33,6 @@ title: http://arcadechrome.com/gch/?g=243
 *  JS Response Bytes: 388259
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1471
-
-### Performance issues
-
 
 ### Performance issues
 

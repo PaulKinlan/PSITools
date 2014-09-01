@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://sso.sial.com/adfs/ls?SAMLRequest=fVJLT8MwDL4j8R%2Bi3NuuhcOI1qLBhJjEo9o6Dtyy1O3C0qTE6Qb%2FnqxjYkiwW%2BR8%2Fh62R9cfjSIbsCiNTmkcDigBLUwpdZ3SRXEXDOl1dn42Qt6olo07t9IzeO8AHfGdGln%2FkdLOamY4SmSaN4DMCTYfPz6wJByw1hpnhFGUTCcpfSt5W79puTatNkstoVwKAbUsV1XJS7nmVSNrUEtKXg62kp2tKWIHU42Oa%2BdLg%2FgyGAyDJCniIYsvWHL1Skn%2BrXQj9T7BKVvLPQjZfVHkQf48L3qCjSzBPnl0SmtjagWhMM1OPueIcuPLFVcIlIwRwTpv8NZo7Bqwc7AbKWAxe0jpyrkWWRRtt9vwhybiEUqu9k%2BBNOvnyvpo9migp43zgzDN%2FqQeRUes2ffqdommk9woKT7JWCmzvbXAnY%2FjbOfT3BnbcPe%2FcBzGfUWWQdVDWaexBSErv0FKomyv%2BvtG%2FOV8AQ%3D%3D&RelayState=https%3A%2F%2Fwww.google.com%2Fa%2Fsial.com%2FServiceLogin%3Fservice%3Dmail%26passive%3Dtrue%26continue%3Dhttps%253A%252F%252Fmail.google.com%252Fa%252Fsial.com%252F%26ss%3D1%26ltmpl%3Decobh%26nui%3D5%26btmpl%3Dmobile%26emr%3D1
+AvoidLandingPageRedirects: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [RSA SecurID PASSCODE Request](https://sso.sial.com/adfs/ls?SAMLRequest=fVJLT8MwDL4j8R%2Bi3NuuhcOI1qLBhJjEo9o6Dtyy1O3C0qTE6Qb%2FnqxjYkiwW%2BR8%2Fh62R9cfjSIbsCiNTmkcDigBLUwpdZ3SRXEXDOl1dn42Qt6olo07t9IzeO8AHfGdGln%2FkdLOamY4SmSaN4DMCTYfPz6wJByw1hpnhFGUTCcpfSt5W79puTatNkstoVwKAbUsV1XJS7nmVSNrUEtKXg62kp2tKWIHU42Oa%2BdLg%2FgyGAyDJCniIYsvWHL1Skn%2BrXQj9T7BKVvLPQjZfVHkQf48L3qCjSzBPnl0SmtjagWhMM1OPueIcuPLFVcIlIwRwTpv8NZo7Bqwc7AbKWAxe0jpyrkWWRRtt9vwhybiEUqu9k%2BBNOvnyvpo9migp43zgzDN%2FqQeRUes2ffqdommk9woKT7JWCmzvbXAnY%2FjbOfT3BnbcPe%2FcBzGfUWWQdVDWaexBSErv0FKomyv%2BvtG%2FOV8AQ%3D%3D&RelayState=https%3A%2F%2Fwww.google.com%2Fa%2Fsial.com%2FServiceLogin%3Fservice%3Dmail%26passive%3Dtrue%26continue%3Dhttps%253A%252F%252Fmail.google.com%252Fa%252Fsial.com%252F%26ss%3D1%26ltmpl%3Decobh%26nui%3D5%26btmpl%3Dmobile%26emr%3D1)
 
@@ -29,9 +33,6 @@ title: https://sso.sial.com/adfs/ls?SAMLRequest=fVJLT8MwDL4j8R%2Bi3NuuhcOI1qLBhJ
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3314
-
-### Performance issues
-
 
 ### Performance issues
 

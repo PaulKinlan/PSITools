@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://apps.intuitisoft.com/clock/chrome.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [14:20](http://apps.intuitisoft.com/clock/chrome.php)
 
@@ -29,9 +33,6 @@ title: http://apps.intuitisoft.com/clock/chrome.php
 *  JS Response Bytes: 539617
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43187
-
-### Performance issues
-
 
 ### Performance issues
 

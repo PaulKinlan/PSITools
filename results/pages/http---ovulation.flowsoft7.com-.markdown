@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://ovulation.flowsoft7.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ovulation Calculator](http://ovulation.flowsoft7.com/)
 
@@ -29,9 +34,6 @@ title: http://ovulation.flowsoft7.com/
 *  JS Response Bytes: 518729
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

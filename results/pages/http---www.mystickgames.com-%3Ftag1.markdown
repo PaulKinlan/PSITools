@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mystickgames.com/?tag1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stick Games - Free Stick Figure Games - Play Stick War Games Online for Kids at MyStickGames.Com](http://www.mystickgames.com/?tag1)
 
@@ -29,9 +33,6 @@ title: http://www.mystickgames.com/?tag1
 *  JS Response Bytes: 9378
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

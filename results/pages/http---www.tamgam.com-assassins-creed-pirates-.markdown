@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.tamgam.com/assassins-creed-pirates/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tam Games – Assassin’s Creed Pirates](http://www.tamgam.com/assassins-creed-pirates/)
 
@@ -29,9 +33,6 @@ title: http://www.tamgam.com/assassins-creed-pirates/
 *  JS Response Bytes: 879301
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15969
-
-### Performance issues
-
 
 ### Performance issues
 

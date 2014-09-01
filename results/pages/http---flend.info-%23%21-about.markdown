@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://flend.info/#!/about
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flend](http://flend.info/#!/about)
 
@@ -29,9 +35,6 @@ title: http://flend.info/#!/about
 *  JS Response Bytes: 1350599
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 590
-
-### Performance issues
-
 
 ### Performance issues
 

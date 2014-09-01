@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://games4addicts.com/popular-games/goodgame-empire-online-war-strategy-games/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Games4Addicts.com | Free Popular Online Games | Play Online Goodgame Empire | Online War Strategy Games](http://games4addicts.com/popular-games/goodgame-empire-online-war-strategy-games/)
 
@@ -29,9 +32,6 @@ title: http://games4addicts.com/popular-games/goodgame-empire-online-war-strateg
 *  JS Response Bytes: 758346
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46148
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameswish.com/default-category/motor-city-drive
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Motor City Drive - Game Wish](http://www.gameswish.com/default-category/motor-city-drive)
 
@@ -29,9 +34,6 @@ title: http://www.gameswish.com/default-category/motor-city-drive
 *  JS Response Bytes: 1502634
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16010
-
-### Performance issues
-
 
 ### Performance issues
 

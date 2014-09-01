@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.level6games.com/driving/race-across-europe/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Race Across Europe](http://www.level6games.com/driving/race-across-europe/)
 
@@ -29,9 +34,6 @@ title: http://www.level6games.com/driving/race-across-europe/
 *  JS Response Bytes: 647512
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

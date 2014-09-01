@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://argungame.blogspot.com.tr/2014/01/greedy-sheriffs.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [Argun Game: Greedy Sheriffs](http://argungame.blogspot.com.tr/2014/01/greedy-sheriffs.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://argungame.blogspot.com.tr/2014/01/greedy-sheriffs.html?m=1
 *  JS Response Bytes: 1113460
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111804
-
-### Performance issues
-
 
 ### Performance issues
 

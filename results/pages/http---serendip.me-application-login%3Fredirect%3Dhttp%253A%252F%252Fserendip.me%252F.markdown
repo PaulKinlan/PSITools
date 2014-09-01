@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://serendip.me/application/login?redirect=http%3A%2F%2Fserendip.me%2F
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Social Music Discovery Platform](http://serendip.me/application/login?redirect=http%3A%2F%2Fserendip.me%2F)
 
@@ -29,9 +31,6 @@ title: http://serendip.me/application/login?redirect=http%3A%2F%2Fserendip.me%2F
 *  JS Response Bytes: 136405
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 458
-
-### Performance issues
-
 
 ### Performance issues
 

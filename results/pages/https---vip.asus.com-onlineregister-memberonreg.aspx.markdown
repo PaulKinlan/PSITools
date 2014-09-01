@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://vip.asus.com/onlineregister/memberonreg.aspx
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ASUS Member Online Register](https://vip.asus.com/onlineregister/memberonreg.aspx)
 
@@ -29,9 +34,6 @@ title: https://vip.asus.com/onlineregister/memberonreg.aspx
 *  JS Response Bytes: 55640
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

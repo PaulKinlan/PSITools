@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://cool-math-game-for-kids.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Math Game](http://cool-math-game-for-kids.com/)
 
@@ -29,9 +32,6 @@ title: http://cool-math-game-for-kids.com/
 *  JS Response Bytes: 1920890
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

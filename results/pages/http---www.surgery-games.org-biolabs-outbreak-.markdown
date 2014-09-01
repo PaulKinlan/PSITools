@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/biolabs-outbreak/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BioLabs Outbreak game](http://www.surgery-games.org/biolabs-outbreak/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/biolabs-outbreak/
 *  JS Response Bytes: 2605053
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 101095
-
-### Performance issues
-
 
 ### Performance issues
 

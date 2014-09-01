@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://cwsgame.blogspot.com.tr/2013/09/street-sesh-skate-3.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
 ---
 ## [Chrome Web Store Games: Street Sesh Skate 3](http://cwsgame.blogspot.com.tr/2013/09/street-sesh-skate-3.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://cwsgame.blogspot.com.tr/2013/09/street-sesh-skate-3.html?m=1
 *  JS Response Bytes: 2394172
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 302608
-
-### Performance issues
-
 
 ### Performance issues
 

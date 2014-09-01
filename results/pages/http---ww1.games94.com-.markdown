@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww1.games94.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [games94.com - games94 Resources and Information. This website is for sale!](http://ww1.games94.com/)
 
@@ -29,9 +30,6 @@ title: http://ww1.games94.com/
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 169
-
-### Performance issues
-
 
 ### Performance issues
 

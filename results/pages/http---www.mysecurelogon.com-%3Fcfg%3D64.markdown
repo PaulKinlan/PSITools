@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mysecurelogon.com/?cfg=64
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [My Secure Logon](http://www.mysecurelogon.com/?cfg=64)
 
@@ -29,9 +33,6 @@ title: http://www.mysecurelogon.com/?cfg=64
 *  JS Response Bytes: 157783
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://candycrushd.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Candy Crush Saga](http://candycrushd.blogspot.com/?m=1)
 
@@ -26,12 +27,9 @@ title: http://candycrushd.blogspot.com/?m=1
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 21448
 *  Image Response Bytes: 13733
-*  JS Response Bytes: 596079
+*  JS Response Bytes: 596078
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2964
-
-### Performance issues
-
 
 ### Performance issues
 

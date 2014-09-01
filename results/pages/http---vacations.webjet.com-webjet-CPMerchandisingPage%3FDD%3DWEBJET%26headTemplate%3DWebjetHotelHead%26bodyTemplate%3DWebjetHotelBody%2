@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://vacations.webjet.com/webjet/CPMerchandisingPage?DD=WEBJET&headTemplate=WebjetHotelHead&bodyTemplate=WebjetHotelBody&isShowFramework=true&WT.mc_id=WEBJET_HotelMerch_012012&utm_medium=chrome&utm_source=app
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Webjet Hotels - Rest Easy Guarantee!](http://vacations.webjet.com/webjet/CPMerchandisingPage?DD=WEBJET&headTemplate=WebjetHotelHead&bodyTemplate=WebjetHotelBody&isShowFramework=true&WT.mc_id=WEBJET_HotelMerch_012012&utm_medium=chrome&utm_source=app)
 
@@ -29,9 +34,6 @@ title: http://vacations.webjet.com/webjet/CPMerchandisingPage?DD=WEBJET&headTemp
 *  JS Response Bytes: 46698
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2528
-
-### Performance issues
-
 
 ### Performance issues
 

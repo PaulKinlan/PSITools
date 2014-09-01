@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.begin2game.com/default-category/planes-propwash-pursuit
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Planes Propwash Pursuit - BeGiN2GaMe - just Challange! And Play Free! Play Online!](http://www.begin2game.com/default-category/planes-propwash-pursuit)
 
@@ -29,9 +33,6 @@ title: http://www.begin2game.com/default-category/planes-propwash-pursuit
 *  JS Response Bytes: 2277425
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122147
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://glowtxt.com/#home
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Glowtxt](http://glowtxt.com/#home)
 
@@ -29,9 +32,6 @@ title: http://glowtxt.com/#home
 *  JS Response Bytes: 1415112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1563
-
-### Performance issues
-
 
 ### Performance issues
 

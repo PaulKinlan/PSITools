@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://socialcompare.com/en/comparisons
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Last updated comparison tables | Comparison tables - SocialCompare](http://socialcompare.com/en/comparisons)
 
@@ -29,9 +34,6 @@ title: http://socialcompare.com/en/comparisons
 *  JS Response Bytes: 1863598
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16358
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/soccer-world-cup-2010-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Soccer World Cup 2010 Game](http://www.footballgam.es/soccer-world-cup-2010-2/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/soccer-world-cup-2010-2/
 *  JS Response Bytes: 2296721
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 149927
-
-### Performance issues
-
 
 ### Performance issues
 

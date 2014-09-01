@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/758350/?autoAction=true&sId=Chrome_Webstore_Nov12_758350
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Heroes of Kaleva for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/758350/?autoAction=true&sId=Chrome_Webstore_Nov12_758350)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/758350/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1635344
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16804
-
-### Performance issues
-
 
 ### Performance issues
 

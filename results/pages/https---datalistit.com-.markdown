@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://datalistit.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Datalist it](https://datalistit.com/)
 
@@ -29,9 +33,6 @@ title: https://datalistit.com/
 *  JS Response Bytes: 408955
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.scybot.com/OnlineMath.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FlashToPass Math Flash Cards - Online](http://www.scybot.com/OnlineMath.html)
 
@@ -29,9 +34,6 @@ title: http://www.scybot.com/OnlineMath.html
 *  JS Response Bytes: 871512
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

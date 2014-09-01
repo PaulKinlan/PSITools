@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ww38.angrygamezone.com/entanglement/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [angrygamezone.com](http://ww38.angrygamezone.com/entanglement/)
 
@@ -29,9 +33,6 @@ title: http://ww38.angrygamezone.com/entanglement/
 *  JS Response Bytes: 209105
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 226
-
-### Performance issues
-
 
 ### Performance issues
 

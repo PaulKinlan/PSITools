@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://hotchromegames.com/250711/19.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HotChromeGames Play » Bad Piggies](http://hotchromegames.com/250711/19.html)
 
@@ -29,9 +36,6 @@ title: http://hotchromegames.com/250711/19.html
 *  JS Response Bytes: 553955
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15447
-
-### Performance issues
-
 
 ### Performance issues
 

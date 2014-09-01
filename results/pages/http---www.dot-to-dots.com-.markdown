@@ -33,8 +33,5 @@ title: http://www.dot-to-dots.com/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

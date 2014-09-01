@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.amazon.co.jp/gp/aw/h.html/378-2346682-1385014?ie=UTF8&creative=6339&linkCode=ure&pc_redir=1408728360&tag=maftracking70460-22&uid=NULLGWDOCOMO
+AvoidLandingPageRedirects: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Amazon.co.jp](http://www.amazon.co.jp/gp/aw/h.html/378-2346682-1385014?ie=UTF8&creative=6339&linkCode=ure&pc_redir=1408728360&tag=maftracking70460-22&uid=NULLGWDOCOMO)
 
@@ -29,9 +31,6 @@ title: http://www.amazon.co.jp/gp/aw/h.html/378-2346682-1385014?ie=UTF8&creative
 *  JS Response Bytes: 399296
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2366
-
-### Performance issues
-
 
 ### Performance issues
 

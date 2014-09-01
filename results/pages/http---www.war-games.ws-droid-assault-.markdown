@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/droid-assault/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Droid Assault](http://www.war-games.ws/droid-assault/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/droid-assault/
 *  JS Response Bytes: 2292954
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122126
-
-### Performance issues
-
 
 ### Performance issues
 

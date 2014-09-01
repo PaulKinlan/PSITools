@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://flappy-birds-game.blogspot.com.tr/2013/08/american-racing.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Game Chrome Store: American Racing](http://flappy-birds-game.blogspot.com.tr/2013/08/american-racing.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://flappy-birds-game.blogspot.com.tr/2013/08/american-racing.html?m=1
 *  JS Response Bytes: 1121268
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97204
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.kooxpi.com/index.php?ara=hidden
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [hidden | Kooxpi Games: Play free online games](http://www.kooxpi.com/index.php?ara=hidden)
 
@@ -29,9 +33,6 @@ title: http://www.kooxpi.com/index.php?ara=hidden
 *  JS Response Bytes: 575050
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

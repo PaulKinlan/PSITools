@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://onangames.com/minecraft-pocket-edition-lite.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [OnanGames.Com | Flash Game | Flash Games – Minecraft – Pocket Edition Lite](http://onangames.com/minecraft-pocket-edition-lite.html)
 
@@ -29,9 +35,6 @@ title: http://onangames.com/minecraft-pocket-edition-lite.html
 *  JS Response Bytes: 412515
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1185
-
-### Performance issues
-
 
 ### Performance issues
 

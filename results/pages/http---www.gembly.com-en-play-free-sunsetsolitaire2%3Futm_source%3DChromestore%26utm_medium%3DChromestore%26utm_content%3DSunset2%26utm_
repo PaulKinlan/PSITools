@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gembly.com/en/play-free/sunsetsolitaire2?utm_source=Chromestore&utm_medium=Chromestore&utm_content=Sunset2&utm_campaign=Partners
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Play Sunset Solitaire 2 free game at Gembly - Unlimited fun!](http://www.gembly.com/en/play-free/sunsetsolitaire2?utm_source=Chromestore&utm_medium=Chromestore&utm_content=Sunset2&utm_campaign=Partners)
 
@@ -29,9 +32,6 @@ title: http://www.gembly.com/en/play-free/sunsetsolitaire2?utm_source=Chromestor
 *  JS Response Bytes: 531356
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45449
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.nirvanagame99.com/default-category/run-bolt-run
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Run Bolt Run - Nirvanegame99.com](http://www.nirvanagame99.com/default-category/run-bolt-run)
 
@@ -29,9 +34,6 @@ title: http://www.nirvanagame99.com/default-category/run-bolt-run
 *  JS Response Bytes: 1162209
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15116
-
-### Performance issues
-
 
 ### Performance issues
 

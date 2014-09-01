@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.greendome.us/default-category/level-editor-3
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LEVEL EDITOR 3 - Green Dome](http://www.greendome.us/default-category/level-editor-3)
 
@@ -29,9 +34,6 @@ title: http://www.greendome.us/default-category/level-editor-3
 *  JS Response Bytes: 1848412
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104902
-
-### Performance issues
-
 
 ### Performance issues
 

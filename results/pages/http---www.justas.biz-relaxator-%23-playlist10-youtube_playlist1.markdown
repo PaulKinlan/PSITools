@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.justas.biz/relaxator/#/playlist10/youtube_playlist1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Relaxation with the Relaxator](http://www.justas.biz/relaxator/#/playlist10/youtube_playlist1)
 
@@ -29,9 +34,6 @@ title: http://www.justas.biz/relaxator/#/playlist10/youtube_playlist1
 *  JS Response Bytes: 1422318
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 682
-
-### Performance issues
-
 
 ### Performance issues
 

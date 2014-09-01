@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://classicgamesx.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Classic Games](http://classicgamesx.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://classicgamesx.blogspot.com/?m=1
 *  JS Response Bytes: 248931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 566
-
-### Performance issues
-
 
 ### Performance issues
 

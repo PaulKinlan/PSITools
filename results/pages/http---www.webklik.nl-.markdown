@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.webklik.nl/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gratis website maken zonder reclame! - Webklik.nl](http://www.webklik.nl/)
 
@@ -29,9 +34,6 @@ title: http://www.webklik.nl/
 *  JS Response Bytes: 1745420
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4393
-
-### Performance issues
-
 
 ### Performance issues
 

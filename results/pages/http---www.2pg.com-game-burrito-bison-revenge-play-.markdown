@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2pg.com/game/burrito-bison-revenge/play/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Burrito Bison Revenge | 2 Player Games](http://www.2pg.com/game/burrito-bison-revenge/play/)
 
@@ -29,9 +34,6 @@ title: http://www.2pg.com/game/burrito-bison-revenge/play/
 *  JS Response Bytes: 1380315
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21636
-
-### Performance issues
-
 
 ### Performance issues
 

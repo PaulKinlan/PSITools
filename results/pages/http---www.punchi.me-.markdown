@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.punchi.me/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Punchi.me](http://www.punchi.me/)
 
@@ -29,9 +33,6 @@ title: http://www.punchi.me/
 *  JS Response Bytes: 464864
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50825
-
-### Performance issues
-
 
 ### Performance issues
 

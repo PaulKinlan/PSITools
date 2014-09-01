@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.gamingto.com/default-category/mahjong-cubes
+SizeTapTargetsAppropriately: true
 ---
 ## [gamingto.com](http://ww2.gamingto.com/default-category/mahjong-cubes)
 
@@ -29,9 +30,6 @@ title: http://ww2.gamingto.com/default-category/mahjong-cubes
 *  JS Response Bytes: 229919
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21051
-
-### Performance issues
-
 
 ### Performance issues
 

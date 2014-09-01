@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://games.jolylife.com/portfolio_page/kim/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [GameStation | Kim Kardashian: Hollywood](http://games.jolylife.com/portfolio_page/kim/)
 
@@ -29,9 +32,6 @@ title: http://games.jolylife.com/portfolio_page/kim/
 *  JS Response Bytes: 837362
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 222548
-
-### Performance issues
-
 
 ### Performance issues
 

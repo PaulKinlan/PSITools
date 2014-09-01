@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.games85.com/bad-piggies.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bad Piggies : Games 85](http://www.games85.com/bad-piggies.html)
 
@@ -29,9 +37,6 @@ title: http://www.games85.com/bad-piggies.html
 *  JS Response Bytes: 2135727
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113137
-
-### Performance issues
-
 
 ### Performance issues
 

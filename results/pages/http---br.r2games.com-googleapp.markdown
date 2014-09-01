@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://br.r2games.com/googleapp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [R2Games, portal de jogos grátis! MMORPGs e jogos para navegadores!](http://br.r2games.com/googleapp)
 
@@ -29,9 +34,6 @@ title: http://br.r2games.com/googleapp
 *  JS Response Bytes: 349024
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.picozu.com/editor/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Picozu Image Editor](https://www.picozu.com/editor/)
 
@@ -29,9 +32,6 @@ title: https://www.picozu.com/editor/
 *  JS Response Bytes: 823321
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1047
-
-### Performance issues
-
 
 ### Performance issues
 

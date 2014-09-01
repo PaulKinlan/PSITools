@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://apsgam.com/smurfs-village/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [APS GAME – Smurfs’ Village](http://apsgam.com/smurfs-village/)
 
@@ -29,9 +33,6 @@ title: http://apsgam.com/smurfs-village/
 *  JS Response Bytes: 879300
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17015
-
-### Performance issues
-
 
 ### Performance issues
 

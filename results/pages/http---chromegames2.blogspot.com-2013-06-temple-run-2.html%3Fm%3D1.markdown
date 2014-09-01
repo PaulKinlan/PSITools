@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chromegames2.blogspot.com/2013/06/temple-run-2.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [chrome games 2: Temple Run 2](http://chromegames2.blogspot.com/2013/06/temple-run-2.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://chromegames2.blogspot.com/2013/06/temple-run-2.html?m=1
 *  JS Response Bytes: 1067637
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97981
-
-### Performance issues
-
 
 ### Performance issues
 

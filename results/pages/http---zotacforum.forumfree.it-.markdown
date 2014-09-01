@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://zotacforum.forumfree.it/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ZOTAC FORUM](http://zotacforum.forumfree.it/)
 
@@ -29,9 +32,6 @@ title: http://zotacforum.forumfree.it/
 *  JS Response Bytes: 30702
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3058
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.nsno.co.uk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Nil Satis Nisi Optimum - Everton website](http://www.nsno.co.uk/)
 
@@ -29,9 +32,6 @@ title: http://www.nsno.co.uk/
 *  JS Response Bytes: 1574485
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 346342
-
-### Performance issues
-
 
 ### Performance issues
 

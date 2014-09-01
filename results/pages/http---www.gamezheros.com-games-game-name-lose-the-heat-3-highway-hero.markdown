@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.gamezheros.com/games/game/name/lose-the-heat-3-highway-hero
+UseLegibleFontSizes: true
 ---
 ## [500 Internal Server Error](http://www.gamezheros.com/games/game/name/lose-the-heat-3-highway-hero)
 
@@ -29,9 +30,6 @@ title: http://www.gamezheros.com/games/game/name/lose-the-heat-3-highway-hero
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 893
-
-### Performance issues
-
 
 ### Performance issues
 

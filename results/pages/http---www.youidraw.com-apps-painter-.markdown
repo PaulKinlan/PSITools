@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.youidraw.com/apps/painter/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [YouiDraw Painter, Painting Tools online.](http://www.youidraw.com/apps/painter/)
 
@@ -29,9 +33,6 @@ title: http://www.youidraw.com/apps/painter/
 *  JS Response Bytes: 1134805
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/ball-master/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ball Master Game](http://www.footballgam.es/ball-master/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/ball-master/
 *  JS Response Bytes: 2296803
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155741
-
-### Performance issues
-
 
 ### Performance issues
 

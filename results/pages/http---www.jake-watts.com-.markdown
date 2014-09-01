@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.jake-watts.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jake Watts](http://www.jake-watts.com/)
 
@@ -29,9 +33,6 @@ title: http://www.jake-watts.com/
 *  JS Response Bytes: 712722
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15429
-
-### Performance issues
-
 
 ### Performance issues
 

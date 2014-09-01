@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gokartgonitro.com/games/rallypoint/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [XformGames.com | Rally Point](http://www.gokartgonitro.com/games/rallypoint/)
 
@@ -29,9 +34,6 @@ title: http://www.gokartgonitro.com/games/rallypoint/
 *  JS Response Bytes: 381498
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3983
-
-### Performance issues
-
 
 ### Performance issues
 

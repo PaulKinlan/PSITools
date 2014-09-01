@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.industrytap.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Industry Tap | Tap Into News](http://m.industrytap.com/)
 
@@ -29,9 +31,6 @@ title: http://m.industrytap.com/
 *  JS Response Bytes: 883899
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 637
-
-### Performance issues
-
 
 ### Performance issues
 

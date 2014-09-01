@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/heliguardian-war/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Heliguardian War](http://www.war-games.ws/heliguardian-war/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/heliguardian-war/
 *  JS Response Bytes: 2292966
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122107
-
-### Performance issues
-
 
 ### Performance issues
 

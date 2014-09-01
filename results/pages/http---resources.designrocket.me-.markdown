@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://resources.designrocket.me/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Resources for webdesigner, webdeveloper and SEOs](http://resources.designrocket.me/)
 
@@ -29,9 +31,6 @@ title: http://resources.designrocket.me/
 *  JS Response Bytes: 139872
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26742
-
-### Performance issues
-
 
 ### Performance issues
 

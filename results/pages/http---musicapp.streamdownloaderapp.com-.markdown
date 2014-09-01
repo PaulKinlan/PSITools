@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://musicapp.streamdownloaderapp.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [streamdownloaderapp.com](http://musicapp.streamdownloaderapp.com/)
 
@@ -29,9 +33,6 @@ title: http://musicapp.streamdownloaderapp.com/
 *  JS Response Bytes: 209104
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

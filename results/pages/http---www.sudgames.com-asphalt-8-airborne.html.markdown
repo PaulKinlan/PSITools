@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.sudgames.com/asphalt-8-airborne.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SuDGameS.Com | Flash Game | Flash Games | Top Games – Asphalt 8: Airborne](http://www.sudgames.com/asphalt-8-airborne.html)
 
@@ -29,9 +35,6 @@ title: http://www.sudgames.com/asphalt-8-airborne.html
 *  JS Response Bytes: 410938
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1071
-
-### Performance issues
-
 
 ### Performance issues
 

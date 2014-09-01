@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pixton.com/business/overview
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pixton for Business | Make Comic Storyboards and Graphics](http://www.pixton.com/business/overview)
 
@@ -29,9 +33,6 @@ title: http://www.pixton.com/business/overview
 *  JS Response Bytes: 1320346
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 142506
-
-### Performance issues
-
 
 ### Performance issues
 

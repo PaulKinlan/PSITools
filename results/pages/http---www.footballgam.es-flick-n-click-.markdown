@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/flick-n-click/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flick N’ Click Game](http://www.footballgam.es/flick-n-click/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/flick-n-click/
 *  JS Response Bytes: 2296893
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155294
-
-### Performance issues
-
 
 ### Performance issues
 

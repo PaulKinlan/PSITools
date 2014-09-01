@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://easiestgameever.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Easiestgameever.com](http://easiestgameever.com/)
 
@@ -22,16 +24,13 @@ title: http://easiestgameever.com/
 
 ### Response data
 
-*  HTML Response Bytes: 10973
+*  HTML Response Bytes: 10609
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 1304
+*  Image Response Bytes: 1330
 *  JS Response Bytes: 167661
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://playtractorgames.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Play Tractor games](http://playtractorgames.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://playtractorgames.blogspot.com/?m=1
 *  JS Response Bytes: 314320
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6344
-
-### Performance issues
-
 
 ### Performance issues
 

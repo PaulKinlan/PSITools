@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www-jetpackjoyride.blogspot.com/2014/04/bejeweled.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Online best games: Bejeweled](http://www-jetpackjoyride.blogspot.com/2014/04/bejeweled.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://www-jetpackjoyride.blogspot.com/2014/04/bejeweled.html?m=1
 *  JS Response Bytes: 762240
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95586
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://myyellowhat.com/SlideView.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Colorado Weather](http://myyellowhat.com/SlideView.html)
 
@@ -29,9 +34,6 @@ title: http://myyellowhat.com/SlideView.html
 *  JS Response Bytes: 107694
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 670
-
-### Performance issues
-
 
 ### Performance issues
 

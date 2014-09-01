@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://3k.ujet.com.tw/game_gateway/webgame_sanguo/pc_f.jsp?channel=zjsg_b
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [終極三國](http://3k.ujet.com.tw/game_gateway/webgame_sanguo/pc_f.jsp?channel=zjsg_b)
 
@@ -29,9 +31,6 @@ title: http://3k.ujet.com.tw/game_gateway/webgame_sanguo/pc_f.jsp?channel=zjsg_b
 *  JS Response Bytes: 3511
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

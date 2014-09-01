@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://1453allgames.blogspot.com/2013/03/spongebob-dance-hd.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [Chrome Browser Games: Spongebob Dance HD](http://1453allgames.blogspot.com/2013/03/spongebob-dance-hd.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://1453allgames.blogspot.com/2013/03/spongebob-dance-hd.html?m=1
 *  JS Response Bytes: 2398706
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 302155
-
-### Performance issues
-
 
 ### Performance issues
 

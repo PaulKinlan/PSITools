@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.sudgames.com/angry-birds-rio.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SuDGameS.Com | Flash Game | Flash Games | Top Games – Angry Birds Rio](http://www.sudgames.com/angry-birds-rio.html)
 
@@ -29,9 +35,6 @@ title: http://www.sudgames.com/angry-birds-rio.html
 *  JS Response Bytes: 412515
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1063
-
-### Performance issues
-
 
 ### Performance issues
 

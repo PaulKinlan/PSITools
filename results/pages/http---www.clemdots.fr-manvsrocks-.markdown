@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.clemdots.fr/manvsrocks/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Man vs Rocks](http://www.clemdots.fr/manvsrocks/)
 
@@ -29,9 +33,6 @@ title: http://www.clemdots.fr/manvsrocks/
 *  JS Response Bytes: 997841
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110590
-
-### Performance issues
-
 
 ### Performance issues
 

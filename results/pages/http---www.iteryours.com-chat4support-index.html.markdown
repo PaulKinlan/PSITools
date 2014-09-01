@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.iteryours.com/chat4support/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chat4Support - Free Live Chat Software, Website traffic Monitoring and Visitor Tracking, Keyword Analysis Solutions](http://www.iteryours.com/chat4support/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.iteryours.com/chat4support/index.html
 *  JS Response Bytes: 935601
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109057
-
-### Performance issues
-
 
 ### Performance issues
 

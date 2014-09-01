@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://french.typeit.org/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Type French accents - online French keyboard](http://french.typeit.org/)
 
@@ -29,9 +33,6 @@ title: http://french.typeit.org/
 *  JS Response Bytes: 471164
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

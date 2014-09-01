@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.mygolffriends.be/
+UseLegibleFontSizes: true
 ---
 ## [403 Forbidden](http://www.mygolffriends.be/)
 
@@ -29,9 +30,6 @@ title: http://www.mygolffriends.be/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331
-
-### Performance issues
-
 
 ### Performance issues
 

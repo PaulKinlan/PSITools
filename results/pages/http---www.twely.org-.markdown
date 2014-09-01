@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.twely.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Post page - Twely Institute - HTML | CSS | JAVA | Jquery - Tutorial.](http://www.twely.org/)
 
@@ -29,9 +33,6 @@ title: http://www.twely.org/
 *  JS Response Bytes: 916712
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

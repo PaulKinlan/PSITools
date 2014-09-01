@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.kickassdesignscebu.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [KickAss Designs Cebu - Philippine's Best Web Design Team](https://www.kickassdesignscebu.com/)
 
@@ -29,9 +33,6 @@ title: https://www.kickassdesignscebu.com/
 *  JS Response Bytes: 686437
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 136919
-
-### Performance issues
-
 
 ### Performance issues
 

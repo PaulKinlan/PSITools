@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.logitravel.it/logitravelit/home/home.aspx?sesion=1538268365&anuncio=28944001
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Offerte di viaggi, voli low cost, alberghi, hotel, crociere. Prenotazioni in Logitravel](http://www.logitravel.it/logitravelit/home/home.aspx?sesion=1538268365&anuncio=28944001)
 
@@ -29,9 +32,6 @@ title: http://www.logitravel.it/logitravelit/home/home.aspx?sesion=1538268365&an
 *  JS Response Bytes: 1600097
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3614
-
-### Performance issues
-
 
 ### Performance issues
 

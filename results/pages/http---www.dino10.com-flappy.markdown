@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.dino10.com/flappy
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flappy - Addictive Games On Dino10](http://www.dino10.com/flappy)
 
@@ -29,9 +34,6 @@ title: http://www.dino10.com/flappy
 *  JS Response Bytes: 1269506
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13983
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tunnelgame.net/flash-games/rail-rush/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rail Rush « Flash Games, Online Games](http://www.tunnelgame.net/flash-games/rail-rush/)
 
@@ -29,9 +34,6 @@ title: http://www.tunnelgame.net/flash-games/rail-rush/
 *  JS Response Bytes: 2331874
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55334
-
-### Performance issues
-
 
 ### Performance issues
 

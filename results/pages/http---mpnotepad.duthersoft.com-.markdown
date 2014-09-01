@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://mpnotepad.duthersoft.com/
+UseLegibleFontSizes: true
 ---
 ## [503 Service Unavailable](http://mpnotepad.duthersoft.com/)
 
@@ -29,9 +30,6 @@ title: http://mpnotepad.duthersoft.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 546
-
-### Performance issues
-
 
 ### Performance issues
 

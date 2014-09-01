@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gamefullhdbest.blogspot.com/2013/11/nfs.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [world best game Full hd: Nfs](http://gamefullhdbest.blogspot.com/2013/11/nfs.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://gamefullhdbest.blogspot.com/2013/11/nfs.html?m=1
 *  JS Response Bytes: 971632
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287142
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://minecraft-new-version.blogspot.com.tr/2014/04/jetpack.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [minecraft chrome store free game: jetpack](http://minecraft-new-version.blogspot.com.tr/2014/04/jetpack.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://minecraft-new-version.blogspot.com.tr/2014/04/jetpack.html?m=1
 *  JS Response Bytes: 721563
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95591
-
-### Performance issues
-
 
 ### Performance issues
 

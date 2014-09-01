@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://tehk.org/beatport
+MinimizeRenderBlockingResources: true
 ---
 ## [tehk](http://tehk.org/beatport)
 
@@ -29,9 +30,6 @@ title: http://tehk.org/beatport
 *  JS Response Bytes: 248512
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6550
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.macroaxis.com/invest/chromeLogin
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.macroaxis.com/invest/chromeLogin)
 
@@ -29,9 +33,6 @@ title: http://www.macroaxis.com/invest/chromeLogin
 *  JS Response Bytes: 377352
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

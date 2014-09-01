@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://2014.wradio.fm/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Wradio 全球电台 -- 最好的电台在线收听APP](http://2014.wradio.fm/)
 
@@ -29,9 +31,6 @@ title: http://2014.wradio.fm/
 *  JS Response Bytes: 10533
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 694
-
-### Performance issues
-
 
 ### Performance issues
 

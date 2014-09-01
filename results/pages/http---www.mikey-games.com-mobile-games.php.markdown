@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mikey-games.com/mobile/games.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free HTML5 Mobile games at Mikey-Games.com](http://www.mikey-games.com/mobile/games.php)
 
@@ -29,9 +32,6 @@ title: http://www.mikey-games.com/mobile/games.php
 *  JS Response Bytes: 1183057
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 62153
-
-### Performance issues
-
 
 ### Performance issues
 

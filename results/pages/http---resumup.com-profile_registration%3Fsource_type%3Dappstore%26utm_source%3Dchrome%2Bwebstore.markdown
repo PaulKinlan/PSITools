@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://resumup.com/profile_registration?source_type=appstore&utm_source=chrome+webstore
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ResumUP.com | Go Visual - Get Visible](http://resumup.com/profile_registration?source_type=appstore&utm_source=chrome+webstore)
 
@@ -29,9 +35,6 @@ title: http://resumup.com/profile_registration?source_type=appstore&utm_source=c
 *  JS Response Bytes: 1502188
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2452
-
-### Performance issues
-
 
 ### Performance issues
 

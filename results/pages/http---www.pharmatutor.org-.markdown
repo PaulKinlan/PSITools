@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.pharmatutor.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Home | PharmaTutor](http://www.pharmatutor.org/)
 
@@ -29,9 +34,6 @@ title: http://www.pharmatutor.org/
 *  JS Response Bytes: 729896
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28429
-
-### Performance issues
-
 
 ### Performance issues
 

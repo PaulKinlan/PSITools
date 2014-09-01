@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.fergames.club/?s=Dont+touch+the+spikes
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dont touch the spikes – Search Results – Online Best Games](http://www.fergames.club/?s=Dont+touch+the+spikes)
 
@@ -29,9 +36,6 @@ title: http://www.fergames.club/?s=Dont+touch+the+spikes
 *  JS Response Bytes: 560380
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

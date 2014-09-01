@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.appsgood.com/onlinemirror/
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Your Online Mirror](http://www.appsgood.com/onlinemirror/)
 
@@ -29,9 +33,6 @@ title: http://www.appsgood.com/onlinemirror/
 *  JS Response Bytes: 1129679
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30641
-
-### Performance issues
-
 
 ### Performance issues
 

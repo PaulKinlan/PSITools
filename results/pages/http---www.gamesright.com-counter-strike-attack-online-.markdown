@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamesright.com/counter-strike-attack-online/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games Right – Counter Strike Attack Online](http://www.gamesright.com/counter-strike-attack-online/)
 
@@ -29,9 +33,6 @@ title: http://www.gamesright.com/counter-strike-attack-online/
 *  JS Response Bytes: 875985
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15985
-
-### Performance issues
-
 
 ### Performance issues
 

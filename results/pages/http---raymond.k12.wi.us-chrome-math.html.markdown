@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://raymond.k12.wi.us/chrome/math.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Page not found — Raymond School](http://raymond.k12.wi.us/chrome/math.html)
 
@@ -29,9 +33,6 @@ title: http://raymond.k12.wi.us/chrome/math.html
 *  JS Response Bytes: 446129
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11791
-
-### Performance issues
-
 
 ### Performance issues
 

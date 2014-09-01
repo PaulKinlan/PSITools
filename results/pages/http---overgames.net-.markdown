@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://overgames.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [OverGames - Just Free Online Games](http://overgames.net/)
 
@@ -29,9 +33,6 @@ title: http://overgames.net/
 *  JS Response Bytes: 1347325
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 139648
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.amazon.com/gp/aw/gb/192-5900147-9065853
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
 ---
 ## [Today's Deals](http://www.amazon.com/gp/aw/gb/192-5900147-9065853)
 
@@ -29,9 +33,6 @@ title: http://www.amazon.com/gp/aw/gb/192-5900147-9065853
 *  JS Response Bytes: 474667
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10453
-
-### Performance issues
-
 
 ### Performance issues
 

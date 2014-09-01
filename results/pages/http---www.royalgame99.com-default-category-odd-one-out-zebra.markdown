@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.royalgame99.com/default-category/odd-one-out-zebra
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Odd One Out Zebra - Royalgame99](http://www.royalgame99.com/default-category/odd-one-out-zebra)
 
@@ -29,9 +34,6 @@ title: http://www.royalgame99.com/default-category/odd-one-out-zebra
 *  JS Response Bytes: 1279919
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 592
-
-### Performance issues
-
 
 ### Performance issues
 

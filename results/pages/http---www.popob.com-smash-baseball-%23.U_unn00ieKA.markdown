@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.popob.com/smash-baseball/#.U_unn00ieKA
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Smash Baseball – PoPoB Game Area](http://www.popob.com/smash-baseball/#.U_unn00ieKA)
 
@@ -29,9 +33,6 @@ title: http://www.popob.com/smash-baseball/#.U_unn00ieKA
 *  JS Response Bytes: 1123700
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 154312
-
-### Performance issues
-
 
 ### Performance issues
 

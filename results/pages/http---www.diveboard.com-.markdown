@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.diveboard.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Diveboard: Your online scuba logbook. Track, share and explore scuba diving through community dive logs](http://www.diveboard.com/)
 
@@ -29,9 +33,6 @@ title: http://www.diveboard.com/
 *  JS Response Bytes: 1997327
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 288384
-
-### Performance issues
-
 
 ### Performance issues
 

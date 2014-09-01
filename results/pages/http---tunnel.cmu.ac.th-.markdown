@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://tunnel.cmu.ac.th/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [CMU VPN](http://tunnel.cmu.ac.th/)
 
@@ -29,9 +31,6 @@ title: http://tunnel.cmu.ac.th/
 *  JS Response Bytes: 138948
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

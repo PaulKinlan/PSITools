@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.navigatorsinsurance.ca/contest/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Connect + Win: $100 Esso Gift Cards for Joining Navigators Communities | Navigators](http://www.navigatorsinsurance.ca/contest/)
 
@@ -29,9 +31,6 @@ title: http://www.navigatorsinsurance.ca/contest/
 *  JS Response Bytes: 173254
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95389
-
-### Performance issues
-
 
 ### Performance issues
 

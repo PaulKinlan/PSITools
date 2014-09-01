@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/sniper-hunter-3/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sniper Hunter 3](http://www.war-games.ws/sniper-hunter-3/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/sniper-hunter-3/
 *  JS Response Bytes: 2292826
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122125
-
-### Performance issues
-
 
 ### Performance issues
 

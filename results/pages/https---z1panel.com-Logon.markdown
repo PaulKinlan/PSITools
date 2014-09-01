@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://z1panel.com/Logon
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [z1panel](https://z1panel.com/Logon)
 
@@ -29,9 +31,6 @@ title: https://z1panel.com/Logon
 *  JS Response Bytes: 773373
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 488
-
-### Performance issues
-
 
 ### Performance issues
 

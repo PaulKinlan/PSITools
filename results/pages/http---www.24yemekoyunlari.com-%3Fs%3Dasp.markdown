@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.24yemekoyunlari.com/?s=asp
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [asp – Search Results – Online Best Games](http://www.24yemekoyunlari.com/?s=asp)
 
@@ -29,9 +33,6 @@ title: http://www.24yemekoyunlari.com/?s=asp
 *  JS Response Bytes: 710267
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14380
-
-### Performance issues
-
 
 ### Performance issues
 

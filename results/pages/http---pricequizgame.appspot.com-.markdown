@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://pricequizgame.appspot.com/
+EnableGzipCompression: true
 ---
 ## [Price Quiz](http://pricequizgame.appspot.com/)
 
@@ -29,9 +30,6 @@ title: http://pricequizgame.appspot.com/
 *  JS Response Bytes: 152681
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

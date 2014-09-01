@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.negeso.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [How to create a website? We will make your own website/online store+webdesign for €1.999 Negeso CMS Negeso CMS](http://www.negeso.com/)
 
@@ -29,9 +34,6 @@ title: http://www.negeso.com/
 *  JS Response Bytes: 1858594
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

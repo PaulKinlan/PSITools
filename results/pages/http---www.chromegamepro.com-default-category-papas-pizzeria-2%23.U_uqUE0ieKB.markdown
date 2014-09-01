@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chromegamepro.com/default-category/papas-pizzeria-2#.U_uqUE0ieKB
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Papa's Pizzeria - Chrome GaMe Pro - Best Online Flash Games](http://www.chromegamepro.com/default-category/papas-pizzeria-2#.U_uqUE0ieKB)
 
@@ -29,9 +35,6 @@ title: http://www.chromegamepro.com/default-category/papas-pizzeria-2#.U_uqUE0ie
 *  JS Response Bytes: 1479798
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21391
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://esd.nasboces.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [eSchoolData - login](https://esd.nasboces.org/)
 
@@ -29,9 +33,6 @@ title: https://esd.nasboces.org/
 *  JS Response Bytes: 120432
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

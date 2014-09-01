@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://allprotectsoftware.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Anti Virus Anti Spyware Internet Security](http://allprotectsoftware.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://allprotectsoftware.blogspot.com/?m=1
 *  JS Response Bytes: 1603679
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98330
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.miniclipgame.info/game-play/321/kogama-batterfield-map.html#.U_u1SU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kogama Batterfield Map - Miniclip Game - Free Online Flash Games](http://www.miniclipgame.info/game-play/321/kogama-batterfield-map.html#.U_u1SU0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.miniclipgame.info/game-play/321/kogama-batterfield-map.html#.U
 *  JS Response Bytes: 2773159
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21306
-
-### Performance issues
-
 
 ### Performance issues
 

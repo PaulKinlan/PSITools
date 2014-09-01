@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://weather-forecasts.info/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Weather Forecasts](http://weather-forecasts.info/)
 
@@ -29,9 +37,6 @@ title: http://weather-forecasts.info/
 *  JS Response Bytes: 2844551
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 152635
-
-### Performance issues
-
 
 ### Performance issues
 

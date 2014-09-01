@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://turkeyhunt.lostdecadegames.com/
+EnableGzipCompression: true
 ---
 ## [Turkey Hunt](http://turkeyhunt.lostdecadegames.com/)
 
@@ -29,9 +30,6 @@ title: http://turkeyhunt.lostdecadegames.com/
 *  JS Response Bytes: 613205
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://arcadegamesonline.co/Category/baby-hazel
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Arcade Games – Baby Hazel Games](http://arcadegamesonline.co/Category/baby-hazel)
 
@@ -29,9 +33,6 @@ title: http://arcadegamesonline.co/Category/baby-hazel
 *  JS Response Bytes: 657027
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 748
-
-### Performance issues
-
 
 ### Performance issues
 

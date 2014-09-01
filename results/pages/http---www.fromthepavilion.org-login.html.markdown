@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.fromthepavilion.org/login.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [From the Pavilion - Free Online Cricket Management Game](http://www.fromthepavilion.org/login.html)
 
@@ -29,9 +33,6 @@ title: http://www.fromthepavilion.org/login.html
 *  JS Response Bytes: 720839
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1502
-
-### Performance issues
-
 
 ### Performance issues
 

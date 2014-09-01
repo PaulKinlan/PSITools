@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://apexearth.info/treescape/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Treescape](http://apexearth.info/treescape/)
 
@@ -29,9 +33,6 @@ title: http://apexearth.info/treescape/
 *  JS Response Bytes: 834454
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95323
-
-### Performance issues
-
 
 ### Performance issues
 

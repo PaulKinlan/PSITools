@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.ageofgames.net/en/games/hacker-vs-hacker.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hacker VS Hacker - Age of Games](http://www.ageofgames.net/en/games/hacker-vs-hacker.html)
 
@@ -29,9 +36,6 @@ title: http://www.ageofgames.net/en/games/hacker-vs-hacker.html
 *  JS Response Bytes: 2920344
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114581
-
-### Performance issues
-
 
 ### Performance issues
 

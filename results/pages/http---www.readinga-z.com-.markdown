@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.readinga-z.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Reading A-Z: The online leveled reading program with downloadable books to print and assemble](http://www.readinga-z.com/)
 
@@ -29,9 +33,6 @@ title: http://www.readinga-z.com/
 *  JS Response Bytes: 1044395
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

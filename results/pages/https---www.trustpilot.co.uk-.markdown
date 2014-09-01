@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.trustpilot.co.uk/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Trustpilot](https://www.trustpilot.co.uk/)
 
@@ -29,9 +33,6 @@ title: https://www.trustpilot.co.uk/
 *  JS Response Bytes: 991898
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2189
-
-### Performance issues
-
 
 ### Performance issues
 

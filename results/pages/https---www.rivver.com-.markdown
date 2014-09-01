@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.rivver.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Rivver](https://www.rivver.com/)
 
@@ -29,9 +31,6 @@ title: https://www.rivver.com/
 *  JS Response Bytes: 128037
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 254
-
-### Performance issues
-
 
 ### Performance issues
 

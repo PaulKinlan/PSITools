@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.racinggames2.com/oyun.php?id=68
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Turbo Racing 2](http://www.racinggames2.com/oyun.php?id=68)
 
@@ -29,9 +35,6 @@ title: http://www.racinggames2.com/oyun.php?id=68
 *  JS Response Bytes: 3183398
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 243603
-
-### Performance issues
-
 
 ### Performance issues
 

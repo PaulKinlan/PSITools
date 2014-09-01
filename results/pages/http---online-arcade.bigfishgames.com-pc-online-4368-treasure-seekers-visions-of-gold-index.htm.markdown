@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://online-arcade.bigfishgames.com/pc-online/4368/treasure-seekers-visions-of-gold/index.htm
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Treasure Seekers: Visions of Gold Free Online | Big Fish Games Online Arcade](http://online-arcade.bigfishgames.com/pc-online/4368/treasure-seekers-visions-of-gold/index.htm)
 
@@ -29,9 +35,6 @@ title: http://online-arcade.bigfishgames.com/pc-online/4368/treasure-seekers-vis
 *  JS Response Bytes: 162720
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

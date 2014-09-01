@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.frivangel.info/puzzle-bobble.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
 ---
 ## [Play Puzzle Bobble, a free online game at Games Angel - Friv  Angel](http://www.frivangel.info/puzzle-bobble.html)
 
@@ -29,9 +32,6 @@ title: http://www.frivangel.info/puzzle-bobble.html
 *  JS Response Bytes: 819985
 *  Flash Response Bytes: 345124
 *  Other Response Bytes: 58901
-
-### Performance issues
-
 
 ### Performance issues
 

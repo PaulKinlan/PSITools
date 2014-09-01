@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://scarymazegaming.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Scary Maze Game Online](http://scarymazegaming.com/)
 
@@ -29,9 +33,6 @@ title: http://scarymazegaming.com/
 *  JS Response Bytes: 1054235
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16022
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://3dflashgame.net/flash_1855_Crash-Bandicoot.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crash Bandicoot flash game 3D unity 2013](http://3dflashgame.net/flash_1855_Crash-Bandicoot.html)
 
@@ -29,9 +34,6 @@ title: http://3dflashgame.net/flash_1855_Crash-Bandicoot.html
 *  JS Response Bytes: 684283
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14380
-
-### Performance issues
-
 
 ### Performance issues
 

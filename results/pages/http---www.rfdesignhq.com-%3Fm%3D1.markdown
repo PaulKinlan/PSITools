@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.rfdesignhq.com/?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [RF Design HQ](http://www.rfdesignhq.com/?m=1)
 
@@ -29,9 +33,6 @@ title: http://www.rfdesignhq.com/?m=1
 *  JS Response Bytes: 2468800
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7408
-
-### Performance issues
-
 
 ### Performance issues
 

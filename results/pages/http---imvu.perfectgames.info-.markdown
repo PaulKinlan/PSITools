@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://imvu.perfectgames.info/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Perfectgames.info](http://imvu.perfectgames.info/)
 
@@ -29,9 +32,6 @@ title: http://imvu.perfectgames.info/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

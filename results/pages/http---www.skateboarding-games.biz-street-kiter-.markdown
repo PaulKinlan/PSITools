@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/street-kiter/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Street Kiter game](http://www.skateboarding-games.biz/street-kiter/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/street-kiter/
 *  JS Response Bytes: 2280916
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121939
-
-### Performance issues
-
 
 ### Performance issues
 

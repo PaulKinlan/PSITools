@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.realcajunrecipes.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [RealCajunRecipes.com: The #1 Cajun recipe website in the world.](http://www.realcajunrecipes.com/)
 
@@ -29,9 +32,6 @@ title: http://www.realcajunrecipes.com/
 *  JS Response Bytes: 2588478
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331924
-
-### Performance issues
-
 
 ### Performance issues
 

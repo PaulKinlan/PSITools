@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://grabz.it/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Grab the Web, with GrabzIt's Screenshot and Screen Scraper Services](http://grabz.it/)
 
@@ -29,9 +33,6 @@ title: http://grabz.it/
 *  JS Response Bytes: 151960
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://chrome.funhost.net/play/?app=ultimatecrush
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Ball Crush - Game on Fun Host Games!](http://chrome.funhost.net/play/?app=ultimatecrush)
 
@@ -29,9 +34,6 @@ title: http://chrome.funhost.net/play/?app=ultimatecrush
 *  JS Response Bytes: 3438663
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43994
-
-### Performance issues
-
 
 ### Performance issues
 

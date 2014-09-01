@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.agamesfree.com/plants-vs-zombies-2.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Plants vs. Zombies 2 | A Games Free](http://www.agamesfree.com/plants-vs-zombies-2.html)
 
@@ -29,9 +36,6 @@ title: http://www.agamesfree.com/plants-vs-zombies-2.html
 *  JS Response Bytes: 1529369
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 101546
-
-### Performance issues
-
 
 ### Performance issues
 

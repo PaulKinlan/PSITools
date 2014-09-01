@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fe.gd/chrome
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [URL Shortener](http://www.fe.gd/chrome)
 
@@ -29,9 +32,6 @@ title: http://www.fe.gd/chrome
 *  JS Response Bytes: 278546
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

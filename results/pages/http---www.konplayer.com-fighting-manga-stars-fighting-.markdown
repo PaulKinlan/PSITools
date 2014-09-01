@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.konplayer.com/fighting/manga-stars-fighting/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Manga Stars Fighting » KonPlayer](http://www.konplayer.com/fighting/manga-stars-fighting/)
 
@@ -29,9 +35,6 @@ title: http://www.konplayer.com/fighting/manga-stars-fighting/
 *  JS Response Bytes: 1043854
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1580
-
-### Performance issues
-
 
 ### Performance issues
 

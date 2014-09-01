@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://freehd-games.blogspot.com/2013/08/grand-theft-auto-bad-boys-5.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Free online web games: Grand Theft Auto Bad Boys 5](http://freehd-games.blogspot.com/2013/08/grand-theft-auto-bad-boys-5.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://freehd-games.blogspot.com/2013/08/grand-theft-auto-bad-boys-5.html
 *  JS Response Bytes: 1149259
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99275
-
-### Performance issues
-
 
 ### Performance issues
 

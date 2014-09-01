@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://robotz.ir/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [RoboMusic !?](http://robotz.ir/)
 
@@ -29,9 +32,6 @@ title: http://robotz.ir/
 *  JS Response Bytes: 397573
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 126
-
-### Performance issues
-
 
 ### Performance issues
 

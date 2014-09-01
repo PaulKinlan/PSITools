@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.rollapp.com/start/lowriter?ref=chrome-app
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LibreOffice Writer on rollApp](https://www.rollapp.com/start/lowriter?ref=chrome-app)
 
@@ -29,9 +33,6 @@ title: https://www.rollapp.com/start/lowriter?ref=chrome-app
 *  JS Response Bytes: 261114
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44338
-
-### Performance issues
-
 
 ### Performance issues
 

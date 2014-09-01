@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mariosupergames.com/play/the-rambo-game_games_online_free.html?gameplay=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [- PLAY ONLINE FREE FLASH SUPER MARIO GAMES - Mario](http://www.mariosupergames.com/play/the-rambo-game_games_online_free.html?gameplay=1)
 
@@ -29,9 +34,6 @@ title: http://www.mariosupergames.com/play/the-rambo-game_games_online_free.html
 *  JS Response Bytes: 2029629
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112141
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.blusite.org/channel/index.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blu Site Channel - Benvenuti](http://www.blusite.org/channel/index.php)
 
@@ -29,9 +34,6 @@ title: http://www.blusite.org/channel/index.php
 *  JS Response Bytes: 1175281
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1163
-
-### Performance issues
-
 
 ### Performance issues
 

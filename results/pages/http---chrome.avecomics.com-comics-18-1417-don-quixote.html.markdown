@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://chrome.avecomics.com/comics/18/1417/don-quixote.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AveComics](http://chrome.avecomics.com/comics/18/1417/don-quixote.html)
 
@@ -29,9 +34,6 @@ title: http://chrome.avecomics.com/comics/18/1417/don-quixote.html
 *  JS Response Bytes: 11523
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2275
-
-### Performance issues
-
 
 ### Performance issues
 

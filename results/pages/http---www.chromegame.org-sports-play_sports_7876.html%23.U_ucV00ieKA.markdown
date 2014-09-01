@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chromegame.org/sports/play_sports_7876.html#.U_ucV00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Skydiving Stunt_Chromegame - Play the best free online games.](http://www.chromegame.org/sports/play_sports_7876.html#.U_ucV00ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.chromegame.org/sports/play_sports_7876.html#.U_ucV00ieKA
 *  JS Response Bytes: 766589
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18112
-
-### Performance issues
-
 
 ### Performance issues
 

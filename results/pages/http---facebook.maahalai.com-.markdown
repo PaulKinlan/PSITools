@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://facebook.maahalai.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Facebook Tips : มหาวิทยาลัยออนไลน์](http://facebook.maahalai.com/)
 
@@ -29,9 +32,6 @@ title: http://facebook.maahalai.com/
 *  JS Response Bytes: 1111146
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 37812
-
-### Performance issues
-
 
 ### Performance issues
 

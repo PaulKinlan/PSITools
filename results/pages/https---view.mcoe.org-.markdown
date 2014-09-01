@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://view.mcoe.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [VMware Horizon View](https://view.mcoe.org/)
 
@@ -29,9 +33,6 @@ title: https://view.mcoe.org/
 *  JS Response Bytes: 95866
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

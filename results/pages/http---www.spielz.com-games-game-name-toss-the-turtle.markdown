@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.spielz.com/games/game/name/toss-the-turtle
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [toss-the-turtle spiele](http://www.spielz.com/games/game/name/toss-the-turtle)
 
@@ -29,9 +34,6 @@ title: http://www.spielz.com/games/game/name/toss-the-turtle
 *  JS Response Bytes: 1830235
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97329
-
-### Performance issues
-
 
 ### Performance issues
 

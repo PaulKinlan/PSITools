@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://crm.dejaoffice.com/login/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [DejaOffice Online Login](http://crm.dejaoffice.com/login/)
 
@@ -29,9 +31,6 @@ title: http://crm.dejaoffice.com/login/
 *  JS Response Bytes: 74584
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 433
-
-### Performance issues
-
 
 ### Performance issues
 

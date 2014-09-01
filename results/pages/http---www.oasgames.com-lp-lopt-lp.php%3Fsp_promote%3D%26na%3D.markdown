@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.oasgames.com/lp/lopt/lp.php?sp_promote=&na=
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Legend Online | Mais Popular Browser Game de 2014 | Gratuito](http://www.oasgames.com/lp/lopt/lp.php?sp_promote=&na=)
 
@@ -29,9 +34,6 @@ title: http://www.oasgames.com/lp/lopt/lp.php?sp_promote=&na=
 *  JS Response Bytes: 1156973
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97494
-
-### Performance issues
-
 
 ### Performance issues
 

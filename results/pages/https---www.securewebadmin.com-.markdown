@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.securewebadmin.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Business-Class Web Hosting by (mt) Media Temple](https://www.securewebadmin.com/)
 
@@ -29,9 +32,6 @@ title: https://www.securewebadmin.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

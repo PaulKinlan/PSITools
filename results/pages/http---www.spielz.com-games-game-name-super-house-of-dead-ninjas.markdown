@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.spielz.com/games/game/name/super-house-of-dead-ninjas
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [super-house-of-dead-ninjas spiele](http://www.spielz.com/games/game/name/super-house-of-dead-ninjas)
 
@@ -29,9 +34,6 @@ title: http://www.spielz.com/games/game/name/super-house-of-dead-ninjas
 *  JS Response Bytes: 1830780
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97055
-
-### Performance issues
-
 
 ### Performance issues
 

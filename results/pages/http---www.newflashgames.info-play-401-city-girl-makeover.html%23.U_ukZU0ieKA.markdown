@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.newflashgames.info/play/401/city-girl-makeover.html#.U_ukZU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [City Girl Makeover - New Flash Games - Best Free Online Flash Games](http://www.newflashgames.info/play/401/city-girl-makeover.html#.U_ukZU0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.newflashgames.info/play/401/city-girl-makeover.html#.U_ukZU0ie
 *  JS Response Bytes: 1495180
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29113
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://africanlanguages.com/swahili/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Swahili - English Dictionary (Kamusi ya Kiswahili - Kiingereza)](http://africanlanguages.com/swahili/)
 
@@ -29,9 +32,6 @@ title: http://africanlanguages.com/swahili/
 *  JS Response Bytes: 347045
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

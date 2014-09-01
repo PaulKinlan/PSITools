@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.easycurrencyconverter.com/apps/taskplanner/login
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Login/Signup ! Task Planner -easycurrencyconverter.com](http://www.easycurrencyconverter.com/apps/taskplanner/login)
 
@@ -29,9 +32,6 @@ title: http://www.easycurrencyconverter.com/apps/taskplanner/login
 *  JS Response Bytes: 506422
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30037
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/alchemist/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Alchemist Game — Sultans of Game](http://www.sultansofgame.com/games/alchemist/)
 
@@ -29,9 +36,6 @@ title: http://www.sultansofgame.com/games/alchemist/
 *  JS Response Bytes: 1729609
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124275
-
-### Performance issues
-
 
 ### Performance issues
 

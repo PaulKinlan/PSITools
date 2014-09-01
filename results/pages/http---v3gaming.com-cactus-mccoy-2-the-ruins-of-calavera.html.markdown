@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://v3gaming.com/cactus-mccoy-2-the-ruins-of-calavera.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [V3Gaming.Com – Cactus McCoy 2: The Ruins of Calavera](http://v3gaming.com/cactus-mccoy-2-the-ruins-of-calavera.html)
 
@@ -29,9 +35,6 @@ title: http://v3gaming.com/cactus-mccoy-2-the-ruins-of-calavera.html
 *  JS Response Bytes: 769402
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1923
-
-### Performance issues
-
 
 ### Performance issues
 

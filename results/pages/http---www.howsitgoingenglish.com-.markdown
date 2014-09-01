@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.howsitgoingenglish.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Aprender hablar en inglés - How's It Going Inglés](http://www.howsitgoingenglish.com/)
 
@@ -29,9 +35,6 @@ title: http://www.howsitgoingenglish.com/
 *  JS Response Bytes: 1353989
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 231698
-
-### Performance issues
-
 
 ### Performance issues
 

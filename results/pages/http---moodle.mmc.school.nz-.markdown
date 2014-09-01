@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://moodle.mmc.school.nz/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mount Maunganui College](http://moodle.mmc.school.nz/)
 
@@ -29,9 +32,6 @@ title: http://moodle.mmc.school.nz/
 *  JS Response Bytes: 477886
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22501
-
-### Performance issues
-
 
 ### Performance issues
 

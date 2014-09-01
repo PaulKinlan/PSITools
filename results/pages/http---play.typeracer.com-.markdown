@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://play.typeracer.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TypeRacer - Test your typing speed and learn to type faster. Free typing game and competition. Way more fun than a typing tutor!](http://play.typeracer.com/)
 
@@ -29,9 +36,6 @@ title: http://play.typeracer.com/
 *  JS Response Bytes: 1612620
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117972
-
-### Performance issues
-
 
 ### Performance issues
 

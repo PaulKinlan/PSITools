@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://shelbymt.infinitecampus.org/campus/shelby.jsp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shelby Schools Login](https://shelbymt.infinitecampus.org/campus/shelby.jsp)
 
@@ -29,9 +33,6 @@ title: https://shelbymt.infinitecampus.org/campus/shelby.jsp
 *  JS Response Bytes: 313690
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

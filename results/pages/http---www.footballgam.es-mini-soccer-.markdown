@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/mini-soccer/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mini Soccer Game](http://www.footballgam.es/mini-soccer/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/mini-soccer/
 *  JS Response Bytes: 2139039
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 159144
-
-### Performance issues
-
 
 ### Performance issues
 

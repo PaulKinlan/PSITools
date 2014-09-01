@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mogicons.com/en/?r=chrome_app
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Facebook Emoticons and Stickers](http://www.mogicons.com/en/?r=chrome_app)
 
@@ -29,9 +34,6 @@ title: http://www.mogicons.com/en/?r=chrome_app
 *  JS Response Bytes: 942106
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15195
-
-### Performance issues
-
 
 ### Performance issues
 

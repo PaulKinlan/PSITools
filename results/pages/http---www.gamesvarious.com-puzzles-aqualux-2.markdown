@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/puzzles/aqualux-2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Aqualux - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/puzzles/aqualux-2)
 
@@ -29,9 +35,6 @@ title: http://www.gamesvarious.com/puzzles/aqualux-2
 *  JS Response Bytes: 2180604
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106367
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://app.apps-builder.com//18685
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [](http://app.apps-builder.com//18685)
 
@@ -29,9 +31,6 @@ title: http://app.apps-builder.com//18685
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 905
-
-### Performance issues
-
 
 ### Performance issues
 

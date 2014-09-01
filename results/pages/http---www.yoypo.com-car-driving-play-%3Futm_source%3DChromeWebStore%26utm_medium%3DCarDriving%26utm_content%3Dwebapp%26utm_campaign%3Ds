@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.yoypo.com/car-driving/play/?utm_source=ChromeWebStore&utm_medium=CarDriving&utm_content=webapp&utm_campaign=shortcuts
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Oyunlar 9: 404 Hata Sayfası](http://www.yoypo.com/car-driving/play/?utm_source=ChromeWebStore&utm_medium=CarDriving&utm_content=webapp&utm_campaign=shortcuts)
 
@@ -29,9 +32,6 @@ title: http://www.yoypo.com/car-driving/play/?utm_source=ChromeWebStore&utm_medi
 *  JS Response Bytes: 113563
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7403
-
-### Performance issues
-
 
 ### Performance issues
 

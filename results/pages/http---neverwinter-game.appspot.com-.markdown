@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://neverwinter-game.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Neverwinter Online](http://neverwinter-game.appspot.com/)
 
@@ -29,9 +35,6 @@ title: http://neverwinter-game.appspot.com/
 *  JS Response Bytes: 1007161
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34813
-
-### Performance issues
-
 
 ### Performance issues
 

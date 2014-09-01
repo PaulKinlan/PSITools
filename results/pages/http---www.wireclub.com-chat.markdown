@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.wireclub.com/chat
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Chat Rooms](http://www.wireclub.com/chat)
 
@@ -29,9 +31,6 @@ title: http://www.wireclub.com/chat
 *  JS Response Bytes: 357166
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

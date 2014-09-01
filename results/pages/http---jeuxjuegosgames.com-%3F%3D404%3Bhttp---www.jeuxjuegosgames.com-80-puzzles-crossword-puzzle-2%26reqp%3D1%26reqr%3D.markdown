@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://jeuxjuegosgames.com/?=404;http://www.jeuxjuegosgames.com:80/puzzles/crossword-puzzle-2&reqp=1&reqr=
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [jeuxjuegosgames.com](http://jeuxjuegosgames.com/?=404;http://www.jeuxjuegosgames.com:80/puzzles/crossword-puzzle-2&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://jeuxjuegosgames.com/?=404;http://www.jeuxjuegosgames.com:80/puzzle
 *  JS Response Bytes: 304181
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 205
-
-### Performance issues
-
 
 ### Performance issues
 

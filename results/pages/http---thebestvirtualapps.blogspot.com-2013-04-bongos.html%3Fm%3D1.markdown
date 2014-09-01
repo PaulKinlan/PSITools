@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://thebestvirtualapps.blogspot.com/2013/04/bongos.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Best Music Instruments: Bongos](http://thebestvirtualapps.blogspot.com/2013/04/bongos.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://thebestvirtualapps.blogspot.com/2013/04/bongos.html?m=1
 *  JS Response Bytes: 1154484
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109959
-
-### Performance issues
-
 
 ### Performance issues
 

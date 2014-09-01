@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.swordshield.com/?bc_src=ChromeApp
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Home « Sword & Shield Enterprise Security, Inc.Sword & Shield Enterprise Security, Inc.](http://www.swordshield.com/?bc_src=ChromeApp)
 
@@ -29,9 +31,6 @@ title: http://www.swordshield.com/?bc_src=ChromeApp
 *  JS Response Bytes: 284861
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1768
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.everywherechat.com/chatnow_chrome.php
+PreferAsyncResources: true
+UseLegibleFontSizes: true
 ---
 ## [free flash chat rooms everywhere.](http://www.everywherechat.com/chatnow_chrome.php)
 
@@ -29,9 +31,6 @@ title: http://www.everywherechat.com/chatnow_chrome.php
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://tilapp.herokuapp.com/
+EnableGzipCompression: true
 ---
 ## [Application Error](http://tilapp.herokuapp.com/)
 
@@ -29,9 +30,6 @@ title: http://tilapp.herokuapp.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 661
-
-### Performance issues
-
 
 ### Performance issues
 

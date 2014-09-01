@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chrome.topwaynet.com.br/app_offline/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [TopWay - English School](http://chrome.topwaynet.com.br/app_offline/)
 
@@ -29,9 +32,6 @@ title: http://chrome.topwaynet.com.br/app_offline/
 *  JS Response Bytes: 193076
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

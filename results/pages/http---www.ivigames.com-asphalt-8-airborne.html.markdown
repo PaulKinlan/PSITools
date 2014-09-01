@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ivigames.com/asphalt-8-airborne.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [iviGames.Com | Flash Game – Asphalt 8: Airborne](http://www.ivigames.com/asphalt-8-airborne.html)
 
@@ -29,9 +35,6 @@ title: http://www.ivigames.com/asphalt-8-airborne.html
 *  JS Response Bytes: 416559
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1070
-
-### Performance issues
-
 
 ### Performance issues
 

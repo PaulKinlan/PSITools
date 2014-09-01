@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://getmyattachmentsgoing.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Get Me Going](http://getmyattachmentsgoing.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://getmyattachmentsgoing.blogspot.com/?m=1
 *  JS Response Bytes: 1177034
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2084
-
-### Performance issues
-
 
 ### Performance issues
 

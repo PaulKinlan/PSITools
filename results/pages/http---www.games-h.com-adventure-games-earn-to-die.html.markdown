@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.games-h.com/adventure-games/earn-to-die.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Playing Earn to Die - Play Free Online Games at Games-H.COM](http://www.games-h.com/adventure-games/earn-to-die.html)
 
@@ -29,9 +35,6 @@ title: http://www.games-h.com/adventure-games/earn-to-die.html
 *  JS Response Bytes: 2472893
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155404
-
-### Performance issues
-
 
 ### Performance issues
 

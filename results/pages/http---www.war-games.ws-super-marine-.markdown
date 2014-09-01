@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/super-marine/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Marine](http://www.war-games.ws/super-marine/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/super-marine/
 *  JS Response Bytes: 2292914
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120590
-
-### Performance issues
-
 
 ### Performance issues
 

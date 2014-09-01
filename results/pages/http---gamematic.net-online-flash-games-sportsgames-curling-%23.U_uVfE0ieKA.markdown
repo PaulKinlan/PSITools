@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/sportsgames/curling/#.U_uVfE0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Curling « Online Flash Game Curling](http://gamematic.net/online-flash-games/sportsgames/curling/#.U_uVfE0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/sportsgames/curling/#.U_uVfE0ieKA
 *  JS Response Bytes: 1266459
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40225
-
-### Performance issues
-
 
 ### Performance issues
 

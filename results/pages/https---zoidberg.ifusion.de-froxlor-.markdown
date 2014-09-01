@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://zoidberg.ifusion.de/froxlor/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Froxlor Server Management Panel](https://zoidberg.ifusion.de/froxlor/)
 
@@ -29,9 +33,6 @@ title: https://zoidberg.ifusion.de/froxlor/
 *  JS Response Bytes: 251670
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1075
-
-### Performance issues
-
 
 ### Performance issues
 

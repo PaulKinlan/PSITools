@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://midday.jagran.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [:: MiD-DAY :: India's best tabloid stories](http://midday.jagran.com/)
 
@@ -29,9 +34,6 @@ title: http://midday.jagran.com/
 *  JS Response Bytes: 185539
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 174
-
-### Performance issues
-
 
 ### Performance issues
 

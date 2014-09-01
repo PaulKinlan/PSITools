@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://srisrimiracles.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sri Sri Miracles - The Magician of Our Life](http://srisrimiracles.com/)
 
@@ -29,9 +31,6 @@ title: http://srisrimiracles.com/
 *  JS Response Bytes: 422158
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 322528
-
-### Performance issues
-
 
 ### Performance issues
 

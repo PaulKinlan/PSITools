@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.247sudoku.com/?chromestore=1
+SizeTapTargetsAppropriately: true
 ---
 ## [Sudoku](http://www.247sudoku.com/?chromestore=1)
 
@@ -29,9 +30,6 @@ title: http://www.247sudoku.com/?chromestore=1
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35518
-
-### Performance issues
-
 
 ### Performance issues
 

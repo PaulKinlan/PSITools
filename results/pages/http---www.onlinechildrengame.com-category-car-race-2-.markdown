@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.onlinechildrengame.com/category/car-race-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Car Race - Games For Children Funny Games](http://www.onlinechildrengame.com/category/car-race-2/)
 
@@ -29,9 +34,6 @@ title: http://www.onlinechildrengame.com/category/car-race-2/
 *  JS Response Bytes: 733393
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15974
-
-### Performance issues
-
 
 ### Performance issues
 

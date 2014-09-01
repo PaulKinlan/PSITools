@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.metroweekly.com/mobile/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Metro Weekly](http://www.metroweekly.com/mobile/)
 
@@ -29,9 +33,6 @@ title: http://www.metroweekly.com/mobile/
 *  JS Response Bytes: 527516
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1718
-
-### Performance issues
-
 
 ### Performance issues
 

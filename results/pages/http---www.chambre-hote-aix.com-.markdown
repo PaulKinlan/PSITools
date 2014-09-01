@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.chambre-hote-aix.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [Maison d'hôtes & Chambres d'hôtes à Aix-en-provence | Chambre-hote-aix.com](http://www.chambre-hote-aix.com/)
 
@@ -29,9 +31,6 @@ title: http://www.chambre-hote-aix.com/
 *  JS Response Bytes: 832415
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39698
-
-### Performance issues
-
 
 ### Performance issues
 

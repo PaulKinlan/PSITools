@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.radiosetv.com/mobile/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Radiosetv.com](http://www.radiosetv.com/mobile/)
 
@@ -29,9 +31,6 @@ title: http://www.radiosetv.com/mobile/
 *  JS Response Bytes: 126162
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 558
-
-### Performance issues
-
 
 ### Performance issues
 

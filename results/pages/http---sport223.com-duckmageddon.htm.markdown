@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://sport223.com/duckmageddon.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Duckmageddon ~ This online game is so addictive~~](http://sport223.com/duckmageddon.htm)
 
@@ -29,9 +35,6 @@ title: http://sport223.com/duckmageddon.htm
 *  JS Response Bytes: 895285
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26259
-
-### Performance issues
-
 
 ### Performance issues
 

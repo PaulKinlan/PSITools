@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://howtogetonthe1stpageofgoogle.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [How to get on the 1st page of google, how to get on the first page of google, google, first page results on google](http://howtogetonthe1stpageofgoogle.com/)
 
@@ -29,9 +33,6 @@ title: http://howtogetonthe1stpageofgoogle.com/
 *  JS Response Bytes: 487638
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1924
-
-### Performance issues
-
 
 ### Performance issues
 

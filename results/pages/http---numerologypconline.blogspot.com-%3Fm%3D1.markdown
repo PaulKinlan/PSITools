@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://numerologypconline.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [manoj](http://numerologypconline.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://numerologypconline.blogspot.com/?m=1
 *  JS Response Bytes: 789598
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287121
-
-### Performance issues
-
 
 ### Performance issues
 

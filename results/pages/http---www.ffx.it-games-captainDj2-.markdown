@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ffx.it/games/captainDj2/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [captain DJ 2](http://www.ffx.it/games/captainDj2/)
 
@@ -29,9 +32,6 @@ title: http://www.ffx.it/games/captainDj2/
 *  JS Response Bytes: 480755
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.chrome-games.com/play-world-cup-2014-online
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [World Cup 2014 Online | Chrome-Games.Com](http://www.chrome-games.com/play-world-cup-2014-online)
 
@@ -29,9 +33,6 @@ title: http://www.chrome-games.com/play-world-cup-2014-online
 *  JS Response Bytes: 2324162
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 194720
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.meubarato.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Meu Barato - Compra Coletiva em Criciúma](https://www.meubarato.com/)
 
@@ -29,9 +33,6 @@ title: https://www.meubarato.com/
 *  JS Response Bytes: 424375
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 342
-
-### Performance issues
-
 
 ### Performance issues
 

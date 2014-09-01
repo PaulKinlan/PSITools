@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tiponlinegames.com/cat-food-throw.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cat Food Throw | TIP ONLINE GAMES](http://www.tiponlinegames.com/cat-food-throw.html)
 
@@ -29,9 +34,6 @@ title: http://www.tiponlinegames.com/cat-food-throw.html
 *  JS Response Bytes: 894185
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14919
-
-### Performance issues
-
 
 ### Performance issues
 

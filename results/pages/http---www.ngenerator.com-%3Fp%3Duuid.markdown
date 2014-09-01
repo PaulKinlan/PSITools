@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ngenerator.com/?p=uuid
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.ngenerator.com/?p=uuid)
 
@@ -29,9 +34,6 @@ title: http://www.ngenerator.com/?p=uuid
 *  JS Response Bytes: 594511
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14636
-
-### Performance issues
-
 
 ### Performance issues
 

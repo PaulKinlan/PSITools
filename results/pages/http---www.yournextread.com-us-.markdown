@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.yournextread.com/us/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [YourNextRead: Book Recommendations (USA)](http://www.yournextread.com/us/)
 
@@ -29,9 +34,6 @@ title: http://www.yournextread.com/us/
 *  JS Response Bytes: 209560
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1277
-
-### Performance issues
-
 
 ### Performance issues
 

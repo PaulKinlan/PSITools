@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.scsgames.info/?s=minecraft
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [403 Forbidden](http://www.scsgames.info/?s=minecraft)
 
@@ -29,9 +31,6 @@ title: http://www.scsgames.info/?s=minecraft
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1390
-
-### Performance issues
-
 
 ### Performance issues
 

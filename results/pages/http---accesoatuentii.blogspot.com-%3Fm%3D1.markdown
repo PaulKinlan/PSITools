@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://accesoatuentii.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tuenti](http://accesoatuentii.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://accesoatuentii.blogspot.com/?m=1
 *  JS Response Bytes: 314318
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 567
-
-### Performance issues
-
 
 ### Performance issues
 

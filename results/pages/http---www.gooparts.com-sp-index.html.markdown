@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.gooparts.com/sp/index.html
+MinimizeRenderBlockingResources: true
 ---
 ## [カー用品ならGooParts(グーパーツ)！新品・中古パーツが65万点以上掲載のショッピングサイト](http://www.gooparts.com/sp/index.html)
 
@@ -29,9 +30,6 @@ title: http://www.gooparts.com/sp/index.html
 *  JS Response Bytes: 517773
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18310
-
-### Performance issues
-
 
 ### Performance issues
 

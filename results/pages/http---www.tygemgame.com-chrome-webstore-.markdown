@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.tygemgame.com/chrome-webstore/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [이 페이지를 볼 권한이 없습니다.](http://www.tygemgame.com/chrome-webstore/)
 
@@ -29,9 +31,6 @@ title: http://www.tygemgame.com/chrome-webstore/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1492
-
-### Performance issues
-
 
 ### Performance issues
 

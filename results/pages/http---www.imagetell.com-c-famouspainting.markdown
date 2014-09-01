@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.imagetell.com/c/famouspainting
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [IMAGETELL.COM -Welcome](http://www.imagetell.com/c/famouspainting)
 
@@ -29,9 +31,6 @@ title: http://www.imagetell.com/c/famouspainting
 *  JS Response Bytes: 298626
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

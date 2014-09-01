@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.bigbabagames.com/f1-grand-prix.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [F1 Grand Prix | Big Baba Games](http://www.bigbabagames.com/f1-grand-prix.html)
 
@@ -29,9 +35,6 @@ title: http://www.bigbabagames.com/f1-grand-prix.html
 *  JS Response Bytes: 1214982
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17950
-
-### Performance issues
-
 
 ### Performance issues
 

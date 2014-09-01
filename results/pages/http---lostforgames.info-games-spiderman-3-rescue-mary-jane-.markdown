@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://lostforgames.info/games/spiderman-3-rescue-mary-jane/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Spiderman 3 Rescue Mary Jane | Lost For Games](http://lostforgames.info/games/spiderman-3-rescue-mary-jane/)
 
@@ -29,9 +34,6 @@ title: http://lostforgames.info/games/spiderman-3-rescue-mary-jane/
 *  JS Response Bytes: 537093
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42313
-
-### Performance issues
-
 
 ### Performance issues
 

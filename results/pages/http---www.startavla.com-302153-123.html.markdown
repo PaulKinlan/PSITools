@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.startavla.com/302153/123.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games Play » Minecraft HD](http://www.startavla.com/302153/123.html)
 
@@ -29,9 +34,6 @@ title: http://www.startavla.com/302153/123.html
 *  JS Response Bytes: 881281
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15827
-
-### Performance issues
-
 
 ### Performance issues
 

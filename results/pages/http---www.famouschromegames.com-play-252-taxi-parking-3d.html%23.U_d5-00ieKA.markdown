@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.famouschromegames.com/play/252/taxi-parking-3d.html#.U_d5-00ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Taxi Parking 3D - famouschromegames](http://www.famouschromegames.com/play/252/taxi-parking-3d.html#.U_d5-00ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.famouschromegames.com/play/252/taxi-parking-3d.html#.U_d5-00ie
 *  JS Response Bytes: 1591375
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10182
-
-### Performance issues
-
 
 ### Performance issues
 

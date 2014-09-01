@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/action/plazma-burst-2
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Plazma Burst 2 - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/action/plazma-burst-2)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/action/plazma-burst-2
 *  JS Response Bytes: 2211776
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 142659
-
-### Performance issues
-
 
 ### Performance issues
 

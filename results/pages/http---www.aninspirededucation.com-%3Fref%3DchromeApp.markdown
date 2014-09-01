@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.aninspirededucation.com/?ref=chromeApp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [An Inspired Education - Your Ultimate Homeschooling Guide to Success](http://www.aninspirededucation.com/?ref=chromeApp)
 
@@ -29,9 +35,6 @@ title: http://www.aninspirededucation.com/?ref=chromeApp
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 738
-
-### Performance issues
-
 
 ### Performance issues
 

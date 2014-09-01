@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.newcoolmath.com/2048-game/cool-math
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [2048 Game | Cool Math Games And CoolMath More New Cool Math Games](http://www.newcoolmath.com/2048-game/cool-math)
 
@@ -29,9 +34,6 @@ title: http://www.newcoolmath.com/2048-game/cool-math
 *  JS Response Bytes: 2032701
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112317
-
-### Performance issues
-
 
 ### Performance issues
 

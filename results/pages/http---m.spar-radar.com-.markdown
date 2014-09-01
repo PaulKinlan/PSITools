@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.spar-radar.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [spar-radar.com - Finde Angebote in Deiner Stadt](http://m.spar-radar.com/)
 
@@ -29,9 +33,6 @@ title: http://m.spar-radar.com/
 *  JS Response Bytes: 217012
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 474
-
-### Performance issues
-
 
 ### Performance issues
 

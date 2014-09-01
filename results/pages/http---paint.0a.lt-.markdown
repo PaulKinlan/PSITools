@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://paint.0a.lt/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Paint](http://paint.0a.lt/)
 
@@ -29,9 +33,6 @@ title: http://paint.0a.lt/
 *  JS Response Bytes: 283825
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29908
-
-### Performance issues
-
 
 ### Performance issues
 

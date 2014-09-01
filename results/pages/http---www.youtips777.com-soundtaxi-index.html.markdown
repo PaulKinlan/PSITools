@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.youtips777.com/soundtaxi/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [All-In-One Any Music Files to MP3, AAC (M4A), WMA or WAV Converter](http://www.youtips777.com/soundtaxi/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.youtips777.com/soundtaxi/index.html
 *  JS Response Bytes: 911577
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109057
-
-### Performance issues
-
 
 ### Performance issues
 

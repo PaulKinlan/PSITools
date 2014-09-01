@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/study-in-the-uk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Study in the UK Game](http://www.footballgam.es/study-in-the-uk/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/study-in-the-uk/
 *  JS Response Bytes: 2266633
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156836
-
-### Performance issues
-
 
 ### Performance issues
 

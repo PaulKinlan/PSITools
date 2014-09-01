@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.myfriendforum.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [My Friend Forum • Index page](http://www.myfriendforum.com/)
 
@@ -29,9 +32,6 @@ title: http://www.myfriendforum.com/
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1162
-
-### Performance issues
-
 
 ### Performance issues
 

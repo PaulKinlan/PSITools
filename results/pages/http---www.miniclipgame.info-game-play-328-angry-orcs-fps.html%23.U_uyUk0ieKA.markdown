@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.miniclipgame.info/game-play/328/angry-orcs-fps.html#.U_uyUk0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Orcs FPS - Miniclip Game - Free Online Flash Games](http://www.miniclipgame.info/game-play/328/angry-orcs-fps.html#.U_uyUk0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.miniclipgame.info/game-play/328/angry-orcs-fps.html#.U_uyUk0ie
 *  JS Response Bytes: 1654979
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20337
-
-### Performance issues
-
 
 ### Performance issues
 

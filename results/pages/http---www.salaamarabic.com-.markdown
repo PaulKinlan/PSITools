@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.salaamarabic.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn how to speak Arabic - Salaam Arabic](http://www.salaamarabic.com/)
 
@@ -29,9 +33,6 @@ title: http://www.salaamarabic.com/
 *  JS Response Bytes: 1356068
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 231668
-
-### Performance issues
-
 
 ### Performance issues
 

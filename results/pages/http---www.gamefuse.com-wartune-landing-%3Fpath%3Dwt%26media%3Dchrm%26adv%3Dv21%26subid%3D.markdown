@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gamefuse.com/wartune/landing/?path=wt&media=chrm&adv=v21&subid=
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GameFuse | Play Free Games | Wartune – RPG Game – Landing Page](http://www.gamefuse.com/wartune/landing/?path=wt&media=chrm&adv=v21&subid=)
 
@@ -29,9 +32,6 @@ title: http://www.gamefuse.com/wartune/landing/?path=wt&media=chrm&adv=v21&subid
 *  JS Response Bytes: 642536
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54932
-
-### Performance issues
-
 
 ### Performance issues
 

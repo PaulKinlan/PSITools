@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://vatcalculator.miniwebapps.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [VAT Calculator](http://vatcalculator.miniwebapps.net/)
 
@@ -29,9 +33,6 @@ title: http://vatcalculator.miniwebapps.net/
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

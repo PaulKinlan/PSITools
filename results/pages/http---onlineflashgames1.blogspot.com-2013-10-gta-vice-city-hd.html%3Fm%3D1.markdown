@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://onlineflashgames1.blogspot.com/2013/10/gta-vice-city-hd.html?m=1
+UseLegibleFontSizes: true
 ---
 ## [Service Unavailable](http://onlineflashgames1.blogspot.com/2013/10/gta-vice-city-hd.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://onlineflashgames1.blogspot.com/2013/10/gta-vice-city-hd.html?m=1
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1117
-
-### Performance issues
-
 
 ### Performance issues
 

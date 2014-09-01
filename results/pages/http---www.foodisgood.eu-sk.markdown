@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.foodisgood.eu/sk
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Recepty na schudnutie](http://www.foodisgood.eu/sk)
 
@@ -29,9 +32,6 @@ title: http://www.foodisgood.eu/sk
 *  JS Response Bytes: 1486312
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 380
-
-### Performance issues
-
 
 ### Performance issues
 

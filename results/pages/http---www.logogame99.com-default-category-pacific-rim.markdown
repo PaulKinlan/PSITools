@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.logogame99.com/default-category/pacific-rim
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pacific Rim - Logogame99](http://www.logogame99.com/default-category/pacific-rim)
 
@@ -29,9 +34,6 @@ title: http://www.logogame99.com/default-category/pacific-rim
 *  JS Response Bytes: 1699644
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35928
-
-### Performance issues
-
 
 ### Performance issues
 

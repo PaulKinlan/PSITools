@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://playgames9.com/?=404;http://www.playgames9.com:80/angry-birds-star-wars.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [playgames9.com](http://playgames9.com/?=404;http://www.playgames9.com:80/angry-birds-star-wars.html&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://playgames9.com/?=404;http://www.playgames9.com:80/angry-birds-star
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117
-
-### Performance issues
-
 
 ### Performance issues
 

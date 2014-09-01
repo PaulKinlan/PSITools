@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://siteor.pl/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tworzenie stron - gotowe strony, cms szablony - Siteor CMS](http://siteor.pl/)
 
@@ -29,9 +34,6 @@ title: http://siteor.pl/
 *  JS Response Bytes: 388000
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6278
-
-### Performance issues
-
 
 ### Performance issues
 

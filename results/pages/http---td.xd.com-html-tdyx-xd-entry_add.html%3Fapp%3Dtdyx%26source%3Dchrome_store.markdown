@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://td.xd.com/html/tdyx/xd/entry_add.html?app=tdyx&source=chrome_store
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [天地英雄_新一代回合制网络游戏巅峰之作_心动游戏出品](http://td.xd.com/html/tdyx/xd/entry_add.html?app=tdyx&source=chrome_store)
 
@@ -29,9 +33,6 @@ title: http://td.xd.com/html/tdyx/xd/entry_add.html?app=tdyx&source=chrome_store
 *  JS Response Bytes: 147314
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 412
-
-### Performance issues
-
 
 ### Performance issues
 

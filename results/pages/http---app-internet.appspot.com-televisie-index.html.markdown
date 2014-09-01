@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://app-internet.appspot.com/televisie/index.html
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Televisie](http://app-internet.appspot.com/televisie/index.html)
 
@@ -29,9 +32,6 @@ title: http://app-internet.appspot.com/televisie/index.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

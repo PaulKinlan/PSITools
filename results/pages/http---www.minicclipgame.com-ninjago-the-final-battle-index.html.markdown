@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.minicclipgame.com/ninjago-the-final-battle/index.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ninjago The Final Battle | minicclipgame, game, games, 3d](http://www.minicclipgame.com/ninjago-the-final-battle/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.minicclipgame.com/ninjago-the-final-battle/index.html
 *  JS Response Bytes: 1050494
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16295
-
-### Performance issues
-
 
 ### Performance issues
 

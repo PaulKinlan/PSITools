@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.topgamesville.com/monster-town.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Monster Town : Top Games Ville](http://www.topgamesville.com/monster-town.html)
 
@@ -29,9 +34,6 @@ title: http://www.topgamesville.com/monster-town.html
 *  JS Response Bytes: 2074979
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118997
-
-### Performance issues
-
 
 ### Performance issues
 

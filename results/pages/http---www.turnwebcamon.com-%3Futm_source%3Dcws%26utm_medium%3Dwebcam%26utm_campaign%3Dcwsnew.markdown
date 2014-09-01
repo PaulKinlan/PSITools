@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.turnwebcamon.com/?utm_source=cws&utm_medium=webcam&utm_campaign=cwsnew
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Turn webcam on. Activate and test webcam.](http://www.turnwebcamon.com/?utm_source=cws&utm_medium=webcam&utm_campaign=cwsnew)
 
@@ -29,9 +33,6 @@ title: http://www.turnwebcamon.com/?utm_source=cws&utm_medium=webcam&utm_campaig
 *  JS Response Bytes: 1534525
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109863
-
-### Performance issues
-
 
 ### Performance issues
 

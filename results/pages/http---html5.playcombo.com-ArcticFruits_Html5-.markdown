@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://html5.playcombo.com/ArcticFruits_Html5/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Arctic Fruits Html5](http://html5.playcombo.com/ArcticFruits_Html5/)
 
@@ -29,9 +33,6 @@ title: http://html5.playcombo.com/ArcticFruits_Html5/
 *  JS Response Bytes: 975773
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95826
-
-### Performance issues
-
 
 ### Performance issues
 

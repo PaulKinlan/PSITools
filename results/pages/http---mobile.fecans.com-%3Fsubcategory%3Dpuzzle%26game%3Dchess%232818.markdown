@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://mobile.fecans.com/?subcategory=puzzle&game=chess#2818
+MinimizeRenderBlockingResources: true
 ---
 ## [wWw.FeCans.Com - Your Flash Game World - Home](http://mobile.fecans.com/?subcategory=puzzle&game=chess#2818)
 
@@ -29,9 +30,6 @@ title: http://mobile.fecans.com/?subcategory=puzzle&game=chess#2818
 *  JS Response Bytes: 684445
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 548
-
-### Performance issues
-
 
 ### Performance issues
 

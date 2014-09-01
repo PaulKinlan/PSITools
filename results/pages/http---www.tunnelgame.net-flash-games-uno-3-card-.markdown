@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.tunnelgame.net/flash-games/uno-3-card/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Uno 3 Card « Flash Games, Online Games](http://www.tunnelgame.net/flash-games/uno-3-card/)
 
@@ -29,9 +37,6 @@ title: http://www.tunnelgame.net/flash-games/uno-3-card/
 *  JS Response Bytes: 982827
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15447
-
-### Performance issues
-
 
 ### Performance issues
 

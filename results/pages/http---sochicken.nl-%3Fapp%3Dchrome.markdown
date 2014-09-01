@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://sochicken.nl/?app=chrome
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [soChicken - Broeden op een leuker leven.](http://sochicken.nl/?app=chrome)
 
@@ -29,9 +31,6 @@ title: http://sochicken.nl/?app=chrome
 *  JS Response Bytes: 202004
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 791
-
-### Performance issues
-
 
 ### Performance issues
 

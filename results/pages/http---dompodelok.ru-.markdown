@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://dompodelok.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Поделки своими руками, детские поделки из бумаги, подарки своими руками, поделки из пластиковых бутылок, мастер класс для детей.](http://dompodelok.ru/)
 
@@ -29,9 +34,6 @@ title: http://dompodelok.ru/
 *  JS Response Bytes: 415588
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1978
-
-### Performance issues
-
 
 ### Performance issues
 

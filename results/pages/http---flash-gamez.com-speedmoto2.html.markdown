@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://flash-gamez.com/speedmoto2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flash-GameZ.Com | Flash Games WorldS – SpeedMoto2](http://flash-gamez.com/speedmoto2.html)
 
@@ -29,9 +35,6 @@ title: http://flash-gamez.com/speedmoto2.html
 *  JS Response Bytes: 549001
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51710
-
-### Performance issues
-
 
 ### Performance issues
 

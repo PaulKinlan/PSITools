@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fruitmahjong.com/MahjongUserPuzzle.php
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fruit Mahjong User Puzzle - even outMahjong Puzzle number 3832](http://www.fruitmahjong.com/MahjongUserPuzzle.php)
 
@@ -29,9 +34,6 @@ title: http://www.fruitmahjong.com/MahjongUserPuzzle.php
 *  JS Response Bytes: 1411460
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99164
-
-### Performance issues
-
 
 ### Performance issues
 

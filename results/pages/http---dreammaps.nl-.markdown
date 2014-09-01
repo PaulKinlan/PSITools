@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://dreammaps.nl/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dream Maps - Interactive plattegrond](http://dreammaps.nl/)
 
@@ -29,9 +32,6 @@ title: http://dreammaps.nl/
 *  JS Response Bytes: 882643
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118589
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamemonde.com/gta-san-andreas-powerful-mode-mod.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GTA San Andreas Powerful Mode Mod | Game Monde - Downloads - İnstall](http://www.gamemonde.com/gta-san-andreas-powerful-mode-mod.html)
 
@@ -29,9 +33,6 @@ title: http://www.gamemonde.com/gta-san-andreas-powerful-mode-mod.html
 *  JS Response Bytes: 1030476
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24919
-
-### Performance issues
-
 
 ### Performance issues
 

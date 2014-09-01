@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chrome.hai-online.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [:: HAI Online - Chrome | Index ::](http://chrome.hai-online.com/)
 
@@ -29,9 +31,6 @@ title: http://chrome.hai-online.com/
 *  JS Response Bytes: 136602
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

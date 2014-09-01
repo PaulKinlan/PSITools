@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://fanebi.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Fanebi.Com - სპორტი,ფეხბურთი,კალათბურთი](http://fanebi.com/)
 
@@ -29,9 +34,6 @@ title: http://fanebi.com/
 *  JS Response Bytes: 1103646
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4706
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.spokker.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [spokker - Dein Spiel!](http://m.spokker.com/)
 
@@ -29,9 +31,6 @@ title: http://m.spokker.com/
 *  JS Response Bytes: 363949
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1114
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://valorsolo.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ValorSolo.com • Main](http://valorsolo.com/)
 
@@ -29,9 +32,6 @@ title: http://valorsolo.com/
 *  JS Response Bytes: 2527
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 446
-
-### Performance issues
-
 
 ### Performance issues
 

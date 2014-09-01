@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://shoppingdiscountspro.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Amazon Discounts](http://shoppingdiscountspro.blogspot.com/?m=1)
 
@@ -18,20 +21,17 @@ title: http://shoppingdiscountspro.blogspot.com/?m=1
 *  Number of JS Resources: 14
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 17
-*  Total Request Bytes: 4658
+*  Total Request Bytes: 4790
 
 ### Response data
 
-*  HTML Response Bytes: 129062
+*  HTML Response Bytes: 130726
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 29536
+*  CSS Response Bytes: 29535
 *  Image Response Bytes: 2717
-*  JS Response Bytes: 1603670
+*  JS Response Bytes: 1611823
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 98347
-
-### Performance issues
-
+*  Other Response Bytes: 98231
 
 ### Performance issues
 

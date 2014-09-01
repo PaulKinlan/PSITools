@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://hanagamelog.blogspot.com/2014/07/unlink.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hana GameLog: UnLink](http://hanagamelog.blogspot.com/2014/07/unlink.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://hanagamelog.blogspot.com/2014/07/unlink.html?m=1
 *  JS Response Bytes: 681578
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3007
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.anthonypigeot.com/bioeater/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [404 — Page Not Found](http://www.anthonypigeot.com/bioeater/)
 
@@ -29,9 +31,6 @@ title: http://www.anthonypigeot.com/bioeater/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45947
-
-### Performance issues
-
 
 ### Performance issues
 

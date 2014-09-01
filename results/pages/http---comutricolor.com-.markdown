@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://comutricolor.com/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ComuTricolor.com | Selección Colombia y Fútbol Colombiano](http://comutricolor.com/)
 
@@ -29,9 +32,6 @@ title: http://comutricolor.com/
 *  JS Response Bytes: 1747027
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1305385
-
-### Performance issues
-
 
 ### Performance issues
 

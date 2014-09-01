@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.azeroo.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Blog | truth and only the truth by Samir Yahyazade](http://www.azeroo.com/)
 
@@ -29,9 +32,6 @@ title: http://www.azeroo.com/
 *  JS Response Bytes: 528489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1364
-
-### Performance issues
-
 
 ### Performance issues
 

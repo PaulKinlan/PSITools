@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.ageofgames.net/en/games/eukarion-tales-series/eukarion-tales-2.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Eukarion Tales 2 - Age of Games](http://www.ageofgames.net/en/games/eukarion-tales-series/eukarion-tales-2.html)
 
@@ -29,9 +36,6 @@ title: http://www.ageofgames.net/en/games/eukarion-tales-series/eukarion-tales-2
 *  JS Response Bytes: 3019560
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98370
-
-### Performance issues
-
 
 ### Performance issues
 

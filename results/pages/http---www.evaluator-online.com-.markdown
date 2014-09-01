@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.evaluator-online.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [eValuator Online (for ebay.com)](http://www.evaluator-online.com/)
 
@@ -29,9 +31,6 @@ title: http://www.evaluator-online.com/
 *  JS Response Bytes: 896073
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96138
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://myeasychickenrecipes.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [My Easy Chicken Recipes](http://myeasychickenrecipes.com/)
 
@@ -29,9 +33,6 @@ title: http://myeasychickenrecipes.com/
 *  JS Response Bytes: 2118437
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 192493
-
-### Performance issues
-
 
 ### Performance issues
 

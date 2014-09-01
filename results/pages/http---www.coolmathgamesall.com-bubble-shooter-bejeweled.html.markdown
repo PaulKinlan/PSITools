@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.coolmathgamesall.com/bubble-shooter/bejeweled.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bejeweled | Cool Math Games and cool math more run cool math](http://www.coolmathgamesall.com/bubble-shooter/bejeweled.html)
 
@@ -29,9 +37,6 @@ title: http://www.coolmathgamesall.com/bubble-shooter/bejeweled.html
 *  JS Response Bytes: 2065064
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120796
-
-### Performance issues
-
 
 ### Performance issues
 

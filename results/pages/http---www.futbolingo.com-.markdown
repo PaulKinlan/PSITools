@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.futbolingo.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Futbolingo.com, Spora açılan gerçek pencere](http://www.futbolingo.com/)
 
@@ -29,9 +33,6 @@ title: http://www.futbolingo.com/
 *  JS Response Bytes: 482139
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11593
-
-### Performance issues
-
 
 ### Performance issues
 

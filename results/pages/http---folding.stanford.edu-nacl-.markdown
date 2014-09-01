@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://folding.stanford.edu/nacl/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Folding@home Chrome Client](http://folding.stanford.edu/nacl/)
 
@@ -29,9 +34,6 @@ title: http://folding.stanford.edu/nacl/
 *  JS Response Bytes: 908238
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94972
-
-### Performance issues
-
 
 ### Performance issues
 

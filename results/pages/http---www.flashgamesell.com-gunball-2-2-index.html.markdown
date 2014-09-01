@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.flashgamesell.com/gunball-2-2/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gunball 2 | Flash Game Sell, Game Unity Games](http://www.flashgamesell.com/gunball-2-2/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.flashgamesell.com/gunball-2-2/index.html
 *  JS Response Bytes: 1027791
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1427
-
-### Performance issues
-
 
 ### Performance issues
 

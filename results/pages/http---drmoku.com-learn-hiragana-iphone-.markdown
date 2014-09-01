@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://drmoku.com/learn-hiragana-iphone/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn Hiragana with mnemonics. The best Hiragana iPhone & iPad app](http://drmoku.com/learn-hiragana-iphone/)
 
@@ -29,9 +35,6 @@ title: http://drmoku.com/learn-hiragana-iphone/
 *  JS Response Bytes: 3287953
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56136
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.flashgirlsgame.com/index.php?task=view&id=156
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Perfect Perm Curls - Flash Girls Game](http://www.flashgirlsgame.com/index.php?task=view&id=156)
 
@@ -29,9 +35,6 @@ title: http://www.flashgirlsgame.com/index.php?task=view&id=156
 *  JS Response Bytes: 783116
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13610
-
-### Performance issues
-
 
 ### Performance issues
 

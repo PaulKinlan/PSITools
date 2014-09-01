@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://fwt.bumxu.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Full Web Tetris](http://fwt.bumxu.com/)
 
@@ -29,9 +33,6 @@ title: http://fwt.bumxu.com/
 *  JS Response Bytes: 553666
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58022
-
-### Performance issues
-
 
 ### Performance issues
 

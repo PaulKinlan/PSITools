@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.amazon.com/?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&tag=who0ef-20
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [](http://www.amazon.com/?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&tag=who0ef-20)
 
@@ -29,9 +31,6 @@ title: http://www.amazon.com/?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur
 *  JS Response Bytes: 254348
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10560
-
-### Performance issues
-
 
 ### Performance issues
 

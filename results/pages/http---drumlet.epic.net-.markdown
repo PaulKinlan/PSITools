@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://drumlet.epic.net/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://drumlet.epic.net/)
 
@@ -29,9 +30,6 @@ title: http://drumlet.epic.net/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331
-
-### Performance issues
-
 
 ### Performance issues
 

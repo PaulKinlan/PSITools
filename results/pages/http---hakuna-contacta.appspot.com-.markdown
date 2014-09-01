@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://hakuna-contacta.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Hakuna Contacta](http://hakuna-contacta.appspot.com/)
 
@@ -29,9 +31,6 @@ title: http://hakuna-contacta.appspot.com/
 *  JS Response Bytes: 3523941
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28189
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromegame11.blogspot.com.tr/2014/03/flappy-bird-game.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [chrome Game online: flappy bird game](http://chromegame11.blogspot.com.tr/2014/03/flappy-bird-game.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromegame11.blogspot.com.tr/2014/03/flappy-bird-game.html?m=1
 *  JS Response Bytes: 814898
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97197
-
-### Performance issues
-
 
 ### Performance issues
 

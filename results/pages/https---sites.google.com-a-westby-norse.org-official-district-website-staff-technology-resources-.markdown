@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://sites.google.com/a/westby-norse.org/official-district-website/staff/technology-resources/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Technology Resources - Westby Area School District - Official Website](https://sites.google.com/a/westby-norse.org/official-district-website/staff/technology-resources/)
 
@@ -29,9 +31,6 @@ title: https://sites.google.com/a/westby-norse.org/official-district-website/sta
 *  JS Response Bytes: 453499
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25105
-
-### Performance issues
-
 
 ### Performance issues
 

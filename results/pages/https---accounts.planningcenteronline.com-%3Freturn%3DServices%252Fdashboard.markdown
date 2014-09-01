@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://accounts.planningcenteronline.com/?return=Services%2Fdashboard
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Planning Center Online | Login](https://accounts.planningcenteronline.com/?return=Services%2Fdashboard)
 
@@ -29,9 +31,6 @@ title: https://accounts.planningcenteronline.com/?return=Services%2Fdashboard
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2479
-
-### Performance issues
-
 
 ### Performance issues
 

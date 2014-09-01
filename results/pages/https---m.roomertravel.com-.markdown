@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://m.roomertravel.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Roomer Travel](https://m.roomertravel.com/)
 
@@ -29,9 +33,6 @@ title: https://m.roomertravel.com/
 *  JS Response Bytes: 807024
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 82747
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/sports/puppy-curling.html#.U_eBg00ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Puppy Curling Play Puppy Curling on Gamesk12.com Free Online Games](http://www.gamesk12.com/online/sports/puppy-curling.html#.U_eBg00ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.gamesk12.com/online/sports/puppy-curling.html#.U_eBg00ieKA
 *  JS Response Bytes: 1075198
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17437
-
-### Performance issues
-
 
 ### Performance issues
 

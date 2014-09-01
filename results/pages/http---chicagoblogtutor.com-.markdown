@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chicagoblogtutor.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Chicago Blog Tutor - WordPress Blog Development](http://chicagoblogtutor.com/)
 
@@ -29,9 +31,6 @@ title: http://chicagoblogtutor.com/
 *  JS Response Bytes: 1017402
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 377258
-
-### Performance issues
-
 
 ### Performance issues
 

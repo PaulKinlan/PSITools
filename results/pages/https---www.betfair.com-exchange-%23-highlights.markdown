@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://www.betfair.com/exchange/#/highlights
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Betfair | Exchange](https://www.betfair.com/exchange/#/highlights)
 
@@ -29,9 +35,6 @@ title: https://www.betfair.com/exchange/#/highlights
 *  JS Response Bytes: 602088
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1065
-
-### Performance issues
-
 
 ### Performance issues
 

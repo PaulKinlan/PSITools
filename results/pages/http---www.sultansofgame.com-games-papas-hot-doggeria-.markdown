@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/papas-hot-doggeria/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Papa’s Hot Doggeria Game — Sultans of Game](http://www.sultansofgame.com/games/papas-hot-doggeria/)
 
@@ -29,9 +35,6 @@ title: http://www.sultansofgame.com/games/papas-hot-doggeria/
 *  JS Response Bytes: 1665288
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 108744
-
-### Performance issues
-
 
 ### Performance issues
 

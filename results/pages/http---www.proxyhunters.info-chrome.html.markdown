@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.proxyhunters.info/chrome.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Proxyhunters.info](http://www.proxyhunters.info/chrome.html)
 
@@ -29,9 +31,6 @@ title: http://www.proxyhunters.info/chrome.html
 *  JS Response Bytes: 97672
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

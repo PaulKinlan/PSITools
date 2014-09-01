@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.pro-flash.com/kingdom-rush.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pro-Flash.Com – Kingdom Rush](http://www.pro-flash.com/kingdom-rush.html)
 
@@ -29,9 +36,6 @@ title: http://www.pro-flash.com/kingdom-rush.html
 *  JS Response Bytes: 468505
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3982
-
-### Performance issues
-
 
 ### Performance issues
 

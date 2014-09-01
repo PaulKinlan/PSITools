@@ -1,6 +1,15 @@
 ---
 layout: result
 title: http://game.zylom.com/servlet/Entry?g=2150&s=6538&nocache=1408727782761
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Golden Trails - The New Western Rush](http://game.zylom.com/servlet/Entry?g=2150&s=6538&nocache=1408727782761)
 
@@ -29,9 +38,6 @@ title: http://game.zylom.com/servlet/Entry?g=2150&s=6538&nocache=1408727782761
 *  JS Response Bytes: 295502
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8129
-
-### Performance issues
-
 
 ### Performance issues
 

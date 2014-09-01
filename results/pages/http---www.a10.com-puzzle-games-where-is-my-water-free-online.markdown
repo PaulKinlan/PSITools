@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.a10.com/puzzle-games/where-is-my-water-free-online
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Where Is My Water Free Online - Free online game on A10.com](http://www.a10.com/puzzle-games/where-is-my-water-free-online)
 
@@ -29,9 +33,6 @@ title: http://www.a10.com/puzzle-games/where-is-my-water-free-online
 *  JS Response Bytes: 944121
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6088
-
-### Performance issues
-
 
 ### Performance issues
 

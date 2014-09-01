@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/physics/expand-it
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Expand It - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/physics/expand-it)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/physics/expand-it
 *  JS Response Bytes: 2180525
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125106
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.webgames24h.com/subway-surfers.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Subway Surfers | Web Games 24H](http://www.webgames24h.com/subway-surfers.html)
 
@@ -29,9 +34,6 @@ title: http://www.webgames24h.com/subway-surfers.html
 *  JS Response Bytes: 1529276
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105459
-
-### Performance issues
-
 
 ### Performance issues
 

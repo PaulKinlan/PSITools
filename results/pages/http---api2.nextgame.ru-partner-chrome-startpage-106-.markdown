@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://api2.nextgame.ru/partner/chrome/startpage/106/
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Шашки, поддавки, уголки](http://api2.nextgame.ru/partner/chrome/startpage/106/)
 
@@ -29,9 +33,6 @@ title: http://api2.nextgame.ru/partner/chrome/startpage/106/
 *  JS Response Bytes: 372381
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3359
-
-### Performance issues
-
 
 ### Performance issues
 

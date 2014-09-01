@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.jeux.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Accueil - Jeux.com](http://m.jeux.com/)
 
@@ -29,9 +31,6 @@ title: http://m.jeux.com/
 *  JS Response Bytes: 719294
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 482
-
-### Performance issues
-
 
 ### Performance issues
 

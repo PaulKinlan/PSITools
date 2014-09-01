@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/fuchibol/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fuchibol Game](http://www.footballgam.es/fuchibol/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/fuchibol/
 *  JS Response Bytes: 2297488
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 150220
-
-### Performance issues
-
 
 ### Performance issues
 

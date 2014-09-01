@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://staedwiges.com.br/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Staedwiges - Protetora dos pobres e endividados](http://staedwiges.com.br/)
 
@@ -29,9 +33,6 @@ title: http://staedwiges.com.br/
 *  JS Response Bytes: 123645
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1450
-
-### Performance issues
-
 
 ### Performance issues
 

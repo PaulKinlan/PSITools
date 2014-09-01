@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://flash-gamez.com/the-amazing-spider-man.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flash-GameZ.Com | Flash Games WorldS – The Amazing Spider-Man](http://flash-gamez.com/the-amazing-spider-man.html)
 
@@ -29,9 +35,6 @@ title: http://flash-gamez.com/the-amazing-spider-man.html
 *  JS Response Bytes: 476105
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3978
-
-### Performance issues
-
 
 ### Performance issues
 

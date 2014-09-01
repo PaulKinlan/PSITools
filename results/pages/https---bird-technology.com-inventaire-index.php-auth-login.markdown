@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://bird-technology.com/inventaire/index.php/auth/login
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Bird-Technology - Inventaire](https://bird-technology.com/inventaire/index.php/auth/login)
 
@@ -29,9 +31,6 @@ title: https://bird-technology.com/inventaire/index.php/auth/login
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29233
-
-### Performance issues
-
 
 ### Performance issues
 

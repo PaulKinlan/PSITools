@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/skyline-soccer/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Skyline Soccer Game](http://www.footballgam.es/skyline-soccer/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/skyline-soccer/
 *  JS Response Bytes: 2296830
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155767
-
-### Performance issues
-
 
 ### Performance issues
 

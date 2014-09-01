@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://otipo.com/otiposchedule/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Employee Scheduling | Otipo](http://otipo.com/otiposchedule/)
 
@@ -29,9 +32,6 @@ title: http://otipo.com/otiposchedule/
 *  JS Response Bytes: 750681
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

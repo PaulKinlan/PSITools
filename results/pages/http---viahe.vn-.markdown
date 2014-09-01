@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://viahe.vn/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [viahe.vn - game giải trí](http://viahe.vn/)
 
@@ -29,9 +34,6 @@ title: http://viahe.vn/
 *  JS Response Bytes: 484384
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1061
-
-### Performance issues
-
 
 ### Performance issues
 

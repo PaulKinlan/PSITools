@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/physics/help-me!
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Help Me! - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/physics/help-me!)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/physics/help-me!
 *  JS Response Bytes: 2180489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106372
-
-### Performance issues
-
 
 ### Performance issues
 

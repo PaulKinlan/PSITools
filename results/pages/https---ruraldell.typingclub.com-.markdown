@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://ruraldell.typingclub.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rural Dell Elementary | TypingClub Login](https://ruraldell.typingclub.com/)
 
@@ -29,9 +33,6 @@ title: https://ruraldell.typingclub.com/
 *  JS Response Bytes: 136103
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

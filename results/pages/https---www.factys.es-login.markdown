@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.factys.es/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Iniciar sesión | Programa de facturación online - Factys](https://www.factys.es/login)
 
@@ -29,9 +33,6 @@ title: https://www.factys.es/login
 *  JS Response Bytes: 876065
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20285
-
-### Performance issues
-
 
 ### Performance issues
 

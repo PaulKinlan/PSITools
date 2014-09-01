@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mobile.sameervichare.info/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [](http://mobile.sameervichare.info/)
 
@@ -29,9 +32,6 @@ title: http://mobile.sameervichare.info/
 *  JS Response Bytes: 197352
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 679
-
-### Performance issues
-
 
 ### Performance issues
 

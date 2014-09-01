@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.surveymonkey.com/s/XTNCDPW
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [LIncoln Park Public Schools' Parent Survey 2013-14](http://www.surveymonkey.com/s/XTNCDPW)
 
@@ -29,9 +32,6 @@ title: http://www.surveymonkey.com/s/XTNCDPW
 *  JS Response Bytes: 54732
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.pentaitservices.com/contact-us/online-lodge-complaint/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Complaint - Business of Computer Repair Services in Mumbai](http://www.pentaitservices.com/contact-us/online-lodge-complaint/)
 
@@ -29,9 +31,6 @@ title: http://www.pentaitservices.com/contact-us/online-lodge-complaint/
 *  JS Response Bytes: 1423612
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1708
-
-### Performance issues
-
 
 ### Performance issues
 

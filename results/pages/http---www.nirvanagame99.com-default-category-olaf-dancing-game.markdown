@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.nirvanagame99.com/default-category/olaf-dancing-game
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Olaf Dancing game - Nirvanegame99.com](http://www.nirvanagame99.com/default-category/olaf-dancing-game)
 
@@ -29,9 +34,6 @@ title: http://www.nirvanagame99.com/default-category/olaf-dancing-game
 *  JS Response Bytes: 1697223
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15848
-
-### Performance issues
-
 
 ### Performance issues
 

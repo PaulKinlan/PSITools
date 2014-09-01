@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.wearestillmarching.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+UseLegibleFontSizes: true
 ---
 ## [March on Washington](http://www.wearestillmarching.com/)
 
@@ -29,9 +32,6 @@ title: http://www.wearestillmarching.com/
 *  JS Response Bytes: 1772837
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3178
-
-### Performance issues
-
 
 ### Performance issues
 

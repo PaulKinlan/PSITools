@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://m.papeeria.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Papeeria: online LaTeX editor](https://m.papeeria.com/)
 
@@ -29,9 +32,6 @@ title: https://m.papeeria.com/
 *  JS Response Bytes: 519414
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1017
-
-### Performance issues
-
 
 ### Performance issues
 

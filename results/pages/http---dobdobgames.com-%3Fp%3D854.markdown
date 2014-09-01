@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://dobdobgames.com/?p=854
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Roll It! – Dob Dob](http://dobdobgames.com/?p=854)
 
@@ -29,9 +35,6 @@ title: http://dobdobgames.com/?p=854
 *  JS Response Bytes: 1387387
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110675
-
-### Performance issues
-
 
 ### Performance issues
 

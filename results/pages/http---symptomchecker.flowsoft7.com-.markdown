@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://symptomchecker.flowsoft7.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Symptom Checker for Adult and Child](http://symptomchecker.flowsoft7.com/)
 
@@ -29,9 +34,6 @@ title: http://symptomchecker.flowsoft7.com/
 *  JS Response Bytes: 534612
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39060
-
-### Performance issues
-
 
 ### Performance issues
 

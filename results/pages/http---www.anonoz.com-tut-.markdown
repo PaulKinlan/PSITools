@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.anonoz.com/tut/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [TakeUrTime](http://www.anonoz.com/tut/)
 
@@ -29,9 +34,6 @@ title: http://www.anonoz.com/tut/
 *  JS Response Bytes: 41336
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

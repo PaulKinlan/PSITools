@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.typinghero.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
 ---
 ## [Online Typing Test](http://www.typinghero.com/)
 
@@ -29,9 +32,6 @@ title: http://www.typinghero.com/
 *  JS Response Bytes: 694045
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14942
-
-### Performance issues
-
 
 ### Performance issues
 

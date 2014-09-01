@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://tma.main.jp/today/today.php
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [今年の西暦・和暦](http://tma.main.jp/today/today.php)
 
@@ -29,9 +32,6 @@ title: http://tma.main.jp/today/today.php
 *  JS Response Bytes: 515874
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 351
-
-### Performance issues
-
 
 ### Performance issues
 

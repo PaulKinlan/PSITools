@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://my-iap-hello-world.appspot.com/bastion
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://my-iap-hello-world.appspot.com/bastion)
 
@@ -29,9 +30,6 @@ title: http://my-iap-hello-world.appspot.com/bastion
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 441
-
-### Performance issues
-
 
 ### Performance issues
 

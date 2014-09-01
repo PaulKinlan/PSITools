@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameelle.com/default-category/mahjong-master
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mahjong Master - Gameelle](http://www.gameelle.com/default-category/mahjong-master)
 
@@ -29,9 +34,6 @@ title: http://www.gameelle.com/default-category/mahjong-master
 *  JS Response Bytes: 673190
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

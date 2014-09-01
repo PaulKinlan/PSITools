@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.coverbrowser.com/lab/app/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cover Browser App](http://www.coverbrowser.com/lab/app/)
 
@@ -29,9 +33,6 @@ title: http://www.coverbrowser.com/lab/app/
 *  JS Response Bytes: 563342
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

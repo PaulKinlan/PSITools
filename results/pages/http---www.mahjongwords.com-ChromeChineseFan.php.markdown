@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mahjongwords.com/ChromeChineseFan.php
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chrome Chinese Fan](http://www.mahjongwords.com/ChromeChineseFan.php)
 
@@ -29,9 +33,6 @@ title: http://www.mahjongwords.com/ChromeChineseFan.php
 *  JS Response Bytes: 1410658
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97235
-
-### Performance issues
-
 
 ### Performance issues
 

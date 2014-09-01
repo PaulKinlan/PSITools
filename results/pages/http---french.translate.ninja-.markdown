@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://french.translate.ninja/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Traduction Français Anglais](http://french.translate.ninja/)
 
@@ -29,9 +31,6 @@ title: http://french.translate.ninja/
 *  JS Response Bytes: 1841594
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163420
-
-### Performance issues
-
 
 ### Performance issues
 

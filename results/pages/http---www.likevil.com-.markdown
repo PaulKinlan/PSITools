@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.likevil.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Like Ville](http://www.likevil.com/)
 
@@ -29,9 +35,6 @@ title: http://www.likevil.com/
 *  JS Response Bytes: 998630
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28742
-
-### Performance issues
-
 
 ### Performance issues
 

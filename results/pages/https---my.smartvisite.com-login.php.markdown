@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://my.smartvisite.com/login.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MySmartvisite™ - v.3.6.1 (build 1626)](https://my.smartvisite.com/login.php)
 
@@ -29,9 +33,6 @@ title: https://my.smartvisite.com/login.php
 *  JS Response Bytes: 564424
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1112
-
-### Performance issues
-
 
 ### Performance issues
 

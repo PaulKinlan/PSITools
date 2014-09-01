@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://sites.google.com/a/wauseonindians.org/wauseon-primary-school/weblinks
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Weblinks - Wauseon Primary School](https://sites.google.com/a/wauseonindians.org/wauseon-primary-school/weblinks)
 
@@ -29,9 +33,6 @@ title: https://sites.google.com/a/wauseonindians.org/wauseon-primary-school/webl
 *  JS Response Bytes: 412396
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49927
-
-### Performance issues
-
 
 ### Performance issues
 

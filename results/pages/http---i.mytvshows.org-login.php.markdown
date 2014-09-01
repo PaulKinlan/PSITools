@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://i.mytvshows.org/login.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [MyTVShows - Mobile](http://i.mytvshows.org/login.php)
 
@@ -29,9 +32,6 @@ title: http://i.mytvshows.org/login.php
 *  JS Response Bytes: 79054
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18332
-
-### Performance issues
-
 
 ### Performance issues
 

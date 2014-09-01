@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://thebestvirtualapps.blogspot.com/2013/04/sing-your-song.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [Best Music Instruments: Sing Your Song](http://thebestvirtualapps.blogspot.com/2013/04/sing-your-song.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://thebestvirtualapps.blogspot.com/2013/04/sing-your-song.html?m=1
 *  JS Response Bytes: 1124019
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95890
-
-### Performance issues
-
 
 ### Performance issues
 

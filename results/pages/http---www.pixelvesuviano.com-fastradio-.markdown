@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pixelvesuviano.com/fastradio/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FastRadio - cerca e ascolta la tua radio - search and listen your radio - Pixel Vesuviano](http://www.pixelvesuviano.com/fastradio/)
 
@@ -29,9 +33,6 @@ title: http://www.pixelvesuviano.com/fastradio/
 *  JS Response Bytes: 575980
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

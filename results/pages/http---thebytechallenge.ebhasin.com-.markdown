@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://thebytechallenge.ebhasin.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Byte Challenge :: Bhasinsoft](http://thebytechallenge.ebhasin.com/)
 
@@ -29,9 +32,6 @@ title: http://thebytechallenge.ebhasin.com/
 *  JS Response Bytes: 504860
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

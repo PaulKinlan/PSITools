@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.surgery-games.org/vet-hospital-2/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Vet Hospital game](http://www.surgery-games.org/vet-hospital-2/)
 
@@ -29,9 +36,6 @@ title: http://www.surgery-games.org/vet-hospital-2/
 *  JS Response Bytes: 2429238
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 132257
-
-### Performance issues
-
 
 ### Performance issues
 

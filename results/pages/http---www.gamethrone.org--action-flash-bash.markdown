@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamethrone.org/-action/flash-bash
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flash Bash - Free Online Games | GameThrone](http://www.gamethrone.org/-action/flash-bash)
 
@@ -29,9 +35,6 @@ title: http://www.gamethrone.org/-action/flash-bash
 *  JS Response Bytes: 1228510
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51378
-
-### Performance issues
-
 
 ### Performance issues
 

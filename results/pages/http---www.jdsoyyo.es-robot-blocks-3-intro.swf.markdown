@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.jdsoyyo.es/robot-blocks/3/intro.swf
+UseLegibleFontSizes: true
 ---
 ## [](http://www.jdsoyyo.es/robot-blocks/3/intro.swf)
 
@@ -29,9 +30,6 @@ title: http://www.jdsoyyo.es/robot-blocks/3/intro.swf
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 36326
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

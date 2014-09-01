@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.game4eva.com/oyna.php?id=208
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games – Flash Game World – Cube Field](http://www.game4eva.com/oyna.php?id=208)
 
@@ -29,9 +35,6 @@ title: http://www.game4eva.com/oyna.php?id=208
 *  JS Response Bytes: 1061272
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46806
-
-### Performance issues
-
 
 ### Performance issues
 

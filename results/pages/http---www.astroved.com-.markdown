@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.astroved.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Astroved - Astrology, Vedic Astrology, Indian Astrology, Free Hindu Astrology](http://www.astroved.com/)
 
@@ -29,9 +34,6 @@ title: http://www.astroved.com/
 *  JS Response Bytes: 2464355
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99993
-
-### Performance issues
-
 
 ### Performance issues
 

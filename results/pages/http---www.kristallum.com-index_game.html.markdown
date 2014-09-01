@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.kristallum.com/index_game.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Кристаллум: пошаговое PvP](http://www.kristallum.com/index_game.html)
 
@@ -29,9 +33,6 @@ title: http://www.kristallum.com/index_game.html
 *  JS Response Bytes: 547293
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4813
-
-### Performance issues
-
 
 ### Performance issues
 

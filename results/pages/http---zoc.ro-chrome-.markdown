@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://zoc.ro/chrome/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games](http://zoc.ro/chrome/)
 
@@ -29,9 +32,6 @@ title: http://zoc.ro/chrome/
 *  JS Response Bytes: 650450
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

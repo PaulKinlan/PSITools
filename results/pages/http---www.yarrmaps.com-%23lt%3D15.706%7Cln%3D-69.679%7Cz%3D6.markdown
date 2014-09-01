@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.yarrmaps.com/#lt=15.706|ln=-69.679|z=6
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Yarr, Pirate Maps ~ Google maps with a pirate theme](http://www.yarrmaps.com/#lt=15.706|ln=-69.679|z=6)
 
@@ -29,9 +33,6 @@ title: http://www.yarrmaps.com/#lt=15.706|ln=-69.679|z=6
 *  JS Response Bytes: 1181970
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 133280
-
-### Performance issues
-
 
 ### Performance issues
 

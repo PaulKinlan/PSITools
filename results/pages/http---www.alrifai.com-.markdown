@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.alrifai.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Alrifai Lebanon - Irresistible since 1948](http://www.alrifai.com/)
 
@@ -29,9 +33,6 @@ title: http://www.alrifai.com/
 *  JS Response Bytes: 730785
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

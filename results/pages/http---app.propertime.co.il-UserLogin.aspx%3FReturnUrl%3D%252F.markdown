@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://app.propertime.co.il/UserLogin.aspx?ReturnUrl=%2F
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hour Management System](http://app.propertime.co.il/UserLogin.aspx?ReturnUrl=%2F)
 
@@ -29,9 +32,6 @@ title: http://app.propertime.co.il/UserLogin.aspx?ReturnUrl=%2F
 *  JS Response Bytes: 390311
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1529
-
-### Performance issues
-
 
 ### Performance issues
 

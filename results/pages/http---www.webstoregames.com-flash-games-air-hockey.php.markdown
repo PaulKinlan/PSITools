@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.webstoregames.com/flash-games/air-hockey.php
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Air Hockey - Free Games Online, Free Online Games, Flash Games!](http://www.webstoregames.com/flash-games/air-hockey.php)
 
@@ -29,9 +35,6 @@ title: http://www.webstoregames.com/flash-games/air-hockey.php
 *  JS Response Bytes: 1525220
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120156
-
-### Performance issues
-
 
 ### Performance issues
 

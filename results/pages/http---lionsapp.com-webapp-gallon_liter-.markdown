@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://lionsapp.com/webapp/gallon_liter/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LionsApp | Web App [Gallon Liter]](http://lionsapp.com/webapp/gallon_liter/)
 
@@ -29,9 +36,6 @@ title: http://lionsapp.com/webapp/gallon_liter/
 *  JS Response Bytes: 1569554
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110555
-
-### Performance issues
-
 
 ### Performance issues
 

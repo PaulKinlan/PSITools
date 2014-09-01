@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.sudokuchristmas.com/?chromestore=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Christmas Sudoku](http://www.sudokuchristmas.com/?chromestore=1)
 
@@ -29,9 +31,6 @@ title: http://www.sudokuchristmas.com/?chromestore=1
 *  JS Response Bytes: 207458
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27540
-
-### Performance issues
-
 
 ### Performance issues
 

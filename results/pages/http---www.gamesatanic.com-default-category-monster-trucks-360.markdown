@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamesatanic.com/default-category/monster-trucks-360
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Monster Trucks 360 - Gamesatanic](http://www.gamesatanic.com/default-category/monster-trucks-360)
 
@@ -29,9 +33,6 @@ title: http://www.gamesatanic.com/default-category/monster-trucks-360
 *  JS Response Bytes: 3611408
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 159100
-
-### Performance issues
-
 
 ### Performance issues
 

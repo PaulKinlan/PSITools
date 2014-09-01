@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.trulee.co/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Trulee - Fitness begins with community](http://www.trulee.co/)
 
@@ -29,9 +31,6 @@ title: http://www.trulee.co/
 *  JS Response Bytes: 231950
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

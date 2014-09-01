@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.wesellyourcar.co.uk/
+UseLegibleFontSizes: true
 ---
 ## [500 - Internal server error.](http://www.wesellyourcar.co.uk/)
 
@@ -29,9 +30,6 @@ title: http://www.wesellyourcar.co.uk/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1347
-
-### Performance issues
-
 
 ### Performance issues
 

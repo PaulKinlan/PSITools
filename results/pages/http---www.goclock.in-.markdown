@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.goclock.in/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [YoCo](http://www.goclock.in/)
 
@@ -29,9 +31,6 @@ title: http://www.goclock.in/
 *  JS Response Bytes: 449457
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63435
-
-### Performance issues
-
 
 ### Performance issues
 

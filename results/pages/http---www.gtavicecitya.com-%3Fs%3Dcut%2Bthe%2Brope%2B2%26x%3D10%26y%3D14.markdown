@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gtavicecitya.com/?s=cut+the+rope+2&x=10&y=14
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [cut the rope 2 « Search Results « free gta game vice city](http://www.gtavicecitya.com/?s=cut+the+rope+2&x=10&y=14)
 
@@ -29,9 +32,6 @@ title: http://www.gtavicecitya.com/?s=cut+the+rope+2&x=10&y=14
 *  JS Response Bytes: 1112707
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

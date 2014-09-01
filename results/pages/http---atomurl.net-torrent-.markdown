@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://atomurl.net/torrent/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Torrent Search](http://atomurl.net/torrent/)
 
@@ -29,9 +34,6 @@ title: http://atomurl.net/torrent/
 *  JS Response Bytes: 1748824
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110650
-
-### Performance issues
-
 
 ### Performance issues
 

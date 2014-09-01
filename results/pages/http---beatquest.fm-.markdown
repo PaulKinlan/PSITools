@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://beatquest.fm/
+UseLegibleFontSizes: true
 ---
 ## [.:[d3fect.eu]:.](http://beatquest.fm/)
 
@@ -29,9 +30,6 @@ title: http://beatquest.fm/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.onlinebestgamesin.blogspot.in/2014/02/bad-piggies.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Online Best Games: Bad Piggies](http://www.onlinebestgamesin.blogspot.in/2014/02/bad-piggies.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://www.onlinebestgamesin.blogspot.in/2014/02/bad-piggies.html?m=1
 *  JS Response Bytes: 610785
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95591
-
-### Performance issues
-
 
 ### Performance issues
 

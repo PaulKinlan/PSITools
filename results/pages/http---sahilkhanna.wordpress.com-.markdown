@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://sahilkhanna.wordpress.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [" I DIDN'T SAY THAT " | 'I Wrote That Instead '](http://sahilkhanna.wordpress.com/)
 
@@ -29,9 +31,6 @@ title: http://sahilkhanna.wordpress.com/
 *  JS Response Bytes: 510584
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

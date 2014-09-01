@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.powerlibrary.net/Interface/power.asp?ID=pl2250
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [» E-Resources - Power Library](http://www.powerlibrary.net/Interface/power.asp?ID=pl2250)
 
@@ -29,9 +31,6 @@ title: http://www.powerlibrary.net/Interface/power.asp?ID=pl2250
 *  JS Response Bytes: 349519
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3293
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.humansaliensrobots.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Humans VS Aliens VS Robots](http://www.humansaliensrobots.com/)
 
@@ -29,9 +34,6 @@ title: http://www.humansaliensrobots.com/
 *  JS Response Bytes: 3152460
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 145
-
-### Performance issues
-
 
 ### Performance issues
 

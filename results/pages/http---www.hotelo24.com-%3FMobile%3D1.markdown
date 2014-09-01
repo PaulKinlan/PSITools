@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.hotelo24.com/?Mobile=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Hotelo24.com - Best Price Guaranteed](http://www.hotelo24.com/?Mobile=1)
 
@@ -29,9 +32,6 @@ title: http://www.hotelo24.com/?Mobile=1
 *  JS Response Bytes: 315712
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1711
-
-### Performance issues
-
 
 ### Performance issues
 

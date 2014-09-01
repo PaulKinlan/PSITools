@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromeapps.pavlokeyross.info/freesoft/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Swiffy output](http://chromeapps.pavlokeyross.info/freesoft/)
 
@@ -29,9 +31,6 @@ title: http://chromeapps.pavlokeyross.info/freesoft/
 *  JS Response Bytes: 286760
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 540
-
-### Performance issues
-
 
 ### Performance issues
 

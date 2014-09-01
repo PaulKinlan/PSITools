@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ppanda.us/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [:::PPandA](http://www.ppanda.us/?m=1)
 
@@ -29,9 +32,6 @@ title: http://www.ppanda.us/?m=1
 *  JS Response Bytes: 248929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 552
-
-### Performance issues
-
 
 ### Performance issues
 

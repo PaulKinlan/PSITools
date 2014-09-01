@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.google.com/get/googletips
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Google Tips](https://www.google.com/get/googletips)
 
@@ -29,9 +31,6 @@ title: https://www.google.com/get/googletips
 *  JS Response Bytes: 446156
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43908
-
-### Performance issues
-
 
 ### Performance issues
 

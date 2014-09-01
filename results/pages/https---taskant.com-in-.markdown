@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://taskant.com/in/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sign In - TaskAnt](https://taskant.com/in/)
 
@@ -29,9 +34,6 @@ title: https://taskant.com/in/
 *  JS Response Bytes: 120984
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4484
-
-### Performance issues
-
 
 ### Performance issues
 

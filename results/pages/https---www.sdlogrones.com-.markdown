@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.sdlogrones.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [SD Logroñés](https://www.sdlogrones.com/)
 
@@ -29,9 +31,6 @@ title: https://www.sdlogrones.com/
 *  JS Response Bytes: 466434
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10765
-
-### Performance issues
-
 
 ### Performance issues
 

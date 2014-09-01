@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.oggaming.co/
+ServerResponseTime: true
 ---
 ## [_OG Gaming](http://www.oggaming.co/)
 
@@ -29,9 +30,6 @@ title: http://www.oggaming.co/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

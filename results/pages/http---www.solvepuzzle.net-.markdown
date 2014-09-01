@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.solvepuzzle.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Puzzle Games-Brain Training Games](http://www.solvepuzzle.net/)
 
@@ -29,9 +34,6 @@ title: http://www.solvepuzzle.net/
 *  JS Response Bytes: 2233930
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 152805
-
-### Performance issues
-
 
 ### Performance issues
 

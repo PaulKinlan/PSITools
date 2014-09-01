@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pixton.com/nl/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pixton | Strips | Een strip maken](http://www.pixton.com/nl/)
 
@@ -29,9 +33,6 @@ title: http://www.pixton.com/nl/
 *  JS Response Bytes: 499880
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46460
-
-### Performance issues
-
 
 ### Performance issues
 

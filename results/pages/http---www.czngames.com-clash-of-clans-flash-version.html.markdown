@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.czngames.com/clash-of-clans-flash-version.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Clash of Clans Flash Version Games](http://www.czngames.com/clash-of-clans-flash-version.html)
 
@@ -29,9 +36,6 @@ title: http://www.czngames.com/clash-of-clans-flash-version.html
 *  JS Response Bytes: 525534
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 592
-
-### Performance issues
-
 
 ### Performance issues
 

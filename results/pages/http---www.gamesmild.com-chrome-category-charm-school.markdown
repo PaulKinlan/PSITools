@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesmild.com/chrome-category/charm-school
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Charm School - Games Mild](http://www.gamesmild.com/chrome-category/charm-school)
 
@@ -29,9 +34,6 @@ title: http://www.gamesmild.com/chrome-category/charm-school
 *  JS Response Bytes: 758953
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31101
-
-### Performance issues
-
 
 ### Performance issues
 

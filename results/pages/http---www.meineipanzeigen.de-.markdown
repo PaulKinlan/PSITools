@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.meineipanzeigen.de/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Meine IP Adresse | Meine IP anzeigen](http://www.meineipanzeigen.de/)
 
@@ -29,9 +33,6 @@ title: http://www.meineipanzeigen.de/
 *  JS Response Bytes: 207471
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

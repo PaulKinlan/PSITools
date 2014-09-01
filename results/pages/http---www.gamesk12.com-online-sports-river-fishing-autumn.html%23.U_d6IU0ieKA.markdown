@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/sports/river-fishing-autumn.html#.U_d6IU0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [River Fishing Autumn Play River Fishing Autumn on Gamesk12.com Free Online Games](http://www.gamesk12.com/online/sports/river-fishing-autumn.html#.U_d6IU0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.gamesk12.com/online/sports/river-fishing-autumn.html#.U_d6IU0i
 *  JS Response Bytes: 1475275
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 131736
-
-### Performance issues
-
 
 ### Performance issues
 

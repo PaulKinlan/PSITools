@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.thomasapp.info/imageconverter/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Images Convert App- JPEG Converter and Digital Photo Compression](http://www.thomasapp.info/imageconverter/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.thomasapp.info/imageconverter/index.html
 *  JS Response Bytes: 1010481
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112299
-
-### Performance issues
-
 
 ### Performance issues
 

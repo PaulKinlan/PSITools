@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.maxgamescloud.com/squidy2/webplayer.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Squidy 2 | MaxGamesCloud.com-Flash-Android-Chrome Games](http://www.maxgamescloud.com/squidy2/webplayer.html)
 
@@ -29,9 +34,6 @@ title: http://www.maxgamescloud.com/squidy2/webplayer.html
 *  JS Response Bytes: 383374
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40377
-
-### Performance issues
-
 
 ### Performance issues
 

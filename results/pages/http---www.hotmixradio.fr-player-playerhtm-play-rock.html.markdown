@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.hotmixradio.fr/player/playerhtm/play-rock.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hotmixradio Rock - La Radio Pop Rock & Classic Rock du bouquet de webradios Hotmixradio.fr](http://www.hotmixradio.fr/player/playerhtm/play-rock.html)
 
@@ -29,9 +34,6 @@ title: http://www.hotmixradio.fr/player/playerhtm/play-rock.html
 *  JS Response Bytes: 1667325
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13417
-
-### Performance issues
-
 
 ### Performance issues
 

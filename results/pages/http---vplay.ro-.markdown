@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://vplay.ro/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Vplay / Videoclipuri HD Online](http://vplay.ro/)
 
@@ -29,9 +33,6 @@ title: http://vplay.ro/
 *  JS Response Bytes: 435417
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1003
-
-### Performance issues
-
 
 ### Performance issues
 

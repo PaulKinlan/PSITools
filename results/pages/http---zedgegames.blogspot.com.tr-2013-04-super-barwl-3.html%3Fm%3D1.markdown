@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://zedgegames.blogspot.com.tr/2013/04/super-barwl-3.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [ZEDGE GAMES: Super Barwl 3](http://zedgegames.blogspot.com.tr/2013/04/super-barwl-3.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://zedgegames.blogspot.com.tr/2013/04/super-barwl-3.html?m=1
 *  JS Response Bytes: 1127979
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95585
-
-### Performance issues
-
 
 ### Performance issues
 

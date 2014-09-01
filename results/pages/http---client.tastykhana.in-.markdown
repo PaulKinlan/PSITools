@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://client.tastykhana.in/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TastyKhana Client Login](http://client.tastykhana.in/)
 
@@ -29,9 +34,6 @@ title: http://client.tastykhana.in/
 *  JS Response Bytes: 155356
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

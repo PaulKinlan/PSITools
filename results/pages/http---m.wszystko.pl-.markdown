@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.wszystko.pl/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [wszystko.pl - Oferty prosto ze sklepów internetowych - Bezpieczne zakupy - Wszystkie sklepy w jednym miejscu](http://m.wszystko.pl/)
 
@@ -29,9 +33,6 @@ title: http://m.wszystko.pl/
 *  JS Response Bytes: 674940
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 778
-
-### Performance issues
-
 
 ### Performance issues
 

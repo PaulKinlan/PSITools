@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://littlealchemy.com/touch/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Little Alchemy](http://littlealchemy.com/touch/)
 
@@ -29,9 +31,6 @@ title: http://littlealchemy.com/touch/
 *  JS Response Bytes: 483586
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 60219
-
-### Performance issues
-
 
 ### Performance issues
 

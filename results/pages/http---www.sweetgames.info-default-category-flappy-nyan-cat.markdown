@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.sweetgames.info/default-category/flappy-nyan-cat
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flappy Nyan Cat - Sweet Games](http://www.sweetgames.info/default-category/flappy-nyan-cat)
 
@@ -29,9 +35,6 @@ title: http://www.sweetgames.info/default-category/flappy-nyan-cat
 *  JS Response Bytes: 1879277
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112117
-
-### Performance issues
-
 
 ### Performance issues
 

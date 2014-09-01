@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://sites.jsoft.com/rm/home/ffxiii/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FFXIII - rm](http://sites.jsoft.com/rm/home/ffxiii/)
 
@@ -29,9 +34,6 @@ title: http://sites.jsoft.com/rm/home/ffxiii/
 *  JS Response Bytes: 1100612
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2855
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.onlinegamese.com/games/red-ball/online-games
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Red Ball | Online Games | Free Online Games Play Now](http://www.onlinegamese.com/games/red-ball/online-games)
 
@@ -29,9 +33,6 @@ title: http://www.onlinegamese.com/games/red-ball/online-games
 *  JS Response Bytes: 1867825
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 154307
-
-### Performance issues
-
 
 ### Performance issues
 

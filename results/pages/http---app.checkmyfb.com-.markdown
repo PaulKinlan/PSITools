@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://app.checkmyfb.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Check My FBK](http://app.checkmyfb.com/)
 
@@ -29,9 +32,6 @@ title: http://app.checkmyfb.com/
 *  JS Response Bytes: 666780
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2055
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://castle.so/index.html
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Home : Castle So Cleaning](http://castle.so/index.html)
 
@@ -29,9 +32,6 @@ title: http://castle.so/index.html
 *  JS Response Bytes: 117728
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31005
-
-### Performance issues
-
 
 ### Performance issues
 

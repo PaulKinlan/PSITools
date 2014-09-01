@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ebhasin.com/apps/ScientificCalculator/index.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Advanced Scientific Calculator with Integrated Unit Converter](http://www.ebhasin.com/apps/ScientificCalculator/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.ebhasin.com/apps/ScientificCalculator/index.html
 *  JS Response Bytes: 546006
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1745
-
-### Performance issues
-
 
 ### Performance issues
 

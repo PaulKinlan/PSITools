@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://www.canaldocredito.com.br/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Canal do Crédito - Home](https://www.canaldocredito.com.br/)
 
@@ -29,9 +35,6 @@ title: https://www.canaldocredito.com.br/
 *  JS Response Bytes: 845737
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 60624
-
-### Performance issues
-
 
 ### Performance issues
 

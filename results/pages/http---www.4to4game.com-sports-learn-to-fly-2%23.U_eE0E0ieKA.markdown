@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.4to4game.com/sports/learn-to-fly-2#.U_eE0E0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn to Fly 2 - 4to4game.com - just Challange! And Play Free! Play Online!](http://www.4to4game.com/sports/learn-to-fly-2#.U_eE0E0ieKA)
 
@@ -29,9 +36,6 @@ title: http://www.4to4game.com/sports/learn-to-fly-2#.U_eE0E0ieKA
 *  JS Response Bytes: 2123573
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31822
-
-### Performance issues
-
 
 ### Performance issues
 

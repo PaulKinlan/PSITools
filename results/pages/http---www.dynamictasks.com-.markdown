@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.dynamictasks.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Dynamic Tasks](http://www.dynamictasks.com/)
 
@@ -29,9 +31,6 @@ title: http://www.dynamictasks.com/
 *  JS Response Bytes: 152302
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 130534
-
-### Performance issues
-
 
 ### Performance issues
 

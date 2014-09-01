@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://portal.achieve3000.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Achieve3000: The Leader in Differentiated Instruction](https://portal.achieve3000.com/)
 
@@ -29,9 +34,6 @@ title: https://portal.achieve3000.com/
 *  JS Response Bytes: 156314
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 985
-
-### Performance issues
-
 
 ### Performance issues
 

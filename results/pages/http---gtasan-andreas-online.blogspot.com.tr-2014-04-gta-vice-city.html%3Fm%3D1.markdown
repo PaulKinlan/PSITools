@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gtasan-andreas-online.blogspot.com.tr/2014/04/gta-vice-city.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [gta san andreas online: gta vice city](http://gtasan-andreas-online.blogspot.com.tr/2014/04/gta-vice-city.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://gtasan-andreas-online.blogspot.com.tr/2014/04/gta-vice-city.html?m
 *  JS Response Bytes: 1148198
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99261
-
-### Performance issues
-
 
 ### Performance issues
 

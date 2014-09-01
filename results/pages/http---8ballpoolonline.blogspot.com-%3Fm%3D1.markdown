@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://8ballpoolonline.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [8 Ball Pool Multiplayer](http://8ballpoolonline.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://8ballpoolonline.blogspot.com/?m=1
 *  JS Response Bytes: 595778
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2971
-
-### Performance issues
-
 
 ### Performance issues
 

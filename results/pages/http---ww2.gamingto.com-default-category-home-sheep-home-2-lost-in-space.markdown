@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.gamingto.com/default-category/home-sheep-home-2-lost-in-space
+SizeTapTargetsAppropriately: true
 ---
 ## [gamingto.com](http://ww2.gamingto.com/default-category/home-sheep-home-2-lost-in-space)
 
@@ -29,9 +30,6 @@ title: http://ww2.gamingto.com/default-category/home-sheep-home-2-lost-in-space
 *  JS Response Bytes: 229916
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21069
-
-### Performance issues
-
 
 ### Performance issues
 

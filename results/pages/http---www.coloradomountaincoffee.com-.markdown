@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.coloradomountaincoffee.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Whole Bean Coffees Roasted in the Rockies - Colorado Mountain Coffee](http://www.coloradomountaincoffee.com/)
 
@@ -29,9 +33,6 @@ title: http://www.coloradomountaincoffee.com/
 *  JS Response Bytes: 1492706
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95794
-
-### Performance issues
-
 
 ### Performance issues
 

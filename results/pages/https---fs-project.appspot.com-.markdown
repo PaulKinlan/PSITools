@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://fs-project.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [fsProject](https://fs-project.appspot.com/)
 
@@ -29,9 +32,6 @@ title: https://fs-project.appspot.com/
 *  JS Response Bytes: 852072
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4118
-
-### Performance issues
-
 
 ### Performance issues
 

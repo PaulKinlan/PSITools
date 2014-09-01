@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://support.westport.k12.ct.us/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [WPS ITS](http://support.westport.k12.ct.us/)
 
@@ -29,9 +32,6 @@ title: http://support.westport.k12.ct.us/
 *  JS Response Bytes: 965491
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95268
-
-### Performance issues
-
 
 ### Performance issues
 

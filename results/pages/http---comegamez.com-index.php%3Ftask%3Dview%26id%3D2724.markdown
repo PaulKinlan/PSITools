@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://comegamez.com/index.php?task=view&id=2724
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404 - PAGE NOT FOUND](http://comegamez.com/index.php?task=view&id=2724)
 
@@ -29,9 +34,6 @@ title: http://comegamez.com/index.php?task=view&id=2724
 *  JS Response Bytes: 271851
 *  Flash Response Bytes: 43671
 *  Other Response Bytes: 13047
-
-### Performance issues
-
 
 ### Performance issues
 

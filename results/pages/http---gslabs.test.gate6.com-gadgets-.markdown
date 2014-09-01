@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gslabs.test.gate6.com/gadgets/
+UseLegibleFontSizes: true
 ---
 ## [403 Forbidden](http://gslabs.test.gate6.com/gadgets/)
 
@@ -29,9 +30,6 @@ title: http://gslabs.test.gate6.com/gadgets/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 803
-
-### Performance issues
-
 
 ### Performance issues
 

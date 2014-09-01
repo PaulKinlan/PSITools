@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ecouterradioenligne.com/mobile/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ecouter radio en ligne](http://www.ecouterradioenligne.com/mobile/)
 
@@ -29,9 +33,6 @@ title: http://www.ecouterradioenligne.com/mobile/
 *  JS Response Bytes: 1691986
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111538
-
-### Performance issues
-
 
 ### Performance issues
 

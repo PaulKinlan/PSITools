@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://my.kassa24.kz/?usp=chrome_app
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Личная касса](http://my.kassa24.kz/?usp=chrome_app)
 
@@ -29,9 +33,6 @@ title: http://my.kassa24.kz/?usp=chrome_app
 *  JS Response Bytes: 1460473
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2918
-
-### Performance issues
-
 
 ### Performance issues
 

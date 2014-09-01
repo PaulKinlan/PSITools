@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.rebajapp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Rebajapp - Compra con Descuento](http://www.rebajapp.com/)
 
@@ -29,9 +31,6 @@ title: http://www.rebajapp.com/
 *  JS Response Bytes: 657890
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30780
-
-### Performance issues
-
 
 ### Performance issues
 

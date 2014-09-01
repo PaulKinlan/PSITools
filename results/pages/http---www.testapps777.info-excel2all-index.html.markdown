@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.testapps777.info/excel2all/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Convert Excel to PDF, Word, PowerPoint, HTML, RTF, TXT and Image files](http://www.testapps777.info/excel2all/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.testapps777.info/excel2all/index.html
 *  JS Response Bytes: 1061106
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95268
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://froggerclassic.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Frogger Classic](http://froggerclassic.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://froggerclassic.appspot.com/
 *  JS Response Bytes: 2029743
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96089
-
-### Performance issues
-
 
 ### Performance issues
 

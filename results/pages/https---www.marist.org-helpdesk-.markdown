@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.marist.org/helpdesk/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Marist High School | Error 404 - This page cannot be displayed](https://www.marist.org/helpdesk/)
 
@@ -29,9 +32,6 @@ title: https://www.marist.org/helpdesk/
 *  JS Response Bytes: 437736
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 453462
-
-### Performance issues
-
 
 ### Performance issues
 

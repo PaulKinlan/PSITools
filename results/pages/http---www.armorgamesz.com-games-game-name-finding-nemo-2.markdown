@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.armorgamesz.com/games/game/name/finding-nemo-2
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [finding-nemo-2 Armor Games](http://www.armorgamesz.com/games/game/name/finding-nemo-2)
 
@@ -29,9 +35,6 @@ title: http://www.armorgamesz.com/games/game/name/finding-nemo-2
 *  JS Response Bytes: 2280616
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110706
-
-### Performance issues
-
 
 ### Performance issues
 

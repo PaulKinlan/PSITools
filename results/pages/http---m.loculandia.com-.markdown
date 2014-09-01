@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://m.loculandia.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Juegos Android , Iphone , Ipad Gratis - Loculandia.com](http://m.loculandia.com/)
 
@@ -29,9 +30,6 @@ title: http://m.loculandia.com/
 *  JS Response Bytes: 673606
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50875
-
-### Performance issues
-
 
 ### Performance issues
 

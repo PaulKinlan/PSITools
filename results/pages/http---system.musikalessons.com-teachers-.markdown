@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://system.musikalessons.com/teachers/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [musika :: teachers](http://system.musikalessons.com/teachers/)
 
@@ -29,9 +32,6 @@ title: http://system.musikalessons.com/teachers/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 516
-
-### Performance issues
-
 
 ### Performance issues
 

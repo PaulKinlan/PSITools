@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://games.raiper34.net/catchbirdsbirdman/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Catch birds birdman](http://games.raiper34.net/catchbirdsbirdman/index.html)
 
@@ -29,9 +35,6 @@ title: http://games.raiper34.net/catchbirdsbirdman/index.html
 *  JS Response Bytes: 1183308
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16488
-
-### Performance issues
-
 
 ### Performance issues
 

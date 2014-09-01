@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://hugame.info/pou-online/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HuGame.Info Free Play Games – Pou Online](http://hugame.info/pou-online/)
 
@@ -29,9 +34,6 @@ title: http://hugame.info/pou-online/
 *  JS Response Bytes: 728255
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15627
-
-### Performance issues
-
 
 ### Performance issues
 

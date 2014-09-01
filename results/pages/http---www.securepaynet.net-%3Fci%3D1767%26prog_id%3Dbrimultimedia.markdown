@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.securepaynet.net/?ci=1767&prog_id=brimultimedia
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Affordable, easy to use Website builders](http://www.securepaynet.net/?ci=1767&prog_id=brimultimedia)
 
@@ -29,9 +35,6 @@ title: http://www.securepaynet.net/?ci=1767&prog_id=brimultimedia
 *  JS Response Bytes: 234137
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1126
-
-### Performance issues
-
 
 ### Performance issues
 

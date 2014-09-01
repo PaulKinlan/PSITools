@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://hub.freshmilk.tv/smarttv/app/freshmilktv/googletv/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
 ---
 ## [- Fashion Daily TV](http://hub.freshmilk.tv/smarttv/app/freshmilktv/googletv/)
 
@@ -29,9 +33,6 @@ title: http://hub.freshmilk.tv/smarttv/app/freshmilktv/googletv/
 *  JS Response Bytes: 414517
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

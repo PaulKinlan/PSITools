@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gameshoop.com/popular-flash-games/air-hokey
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [](http://www.gameshoop.com/popular-flash-games/air-hokey)
 
@@ -29,9 +32,6 @@ title: http://www.gameshoop.com/popular-flash-games/air-hokey
 *  JS Response Bytes: 165938
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

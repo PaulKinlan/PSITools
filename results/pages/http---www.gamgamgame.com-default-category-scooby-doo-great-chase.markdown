@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamgamgame.com/default-category/scooby-doo-great-chase
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Scooby Doo Great Chase - AV Arcade](http://www.gamgamgame.com/default-category/scooby-doo-great-chase)
 
@@ -29,9 +34,6 @@ title: http://www.gamgamgame.com/default-category/scooby-doo-great-chase
 *  JS Response Bytes: 2216877
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120315
-
-### Performance issues
-
 
 ### Performance issues
 

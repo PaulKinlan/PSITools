@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://budgetform.appspot.com/#signin
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Finbudget](https://budgetform.appspot.com/#signin)
 
@@ -29,9 +33,6 @@ title: https://budgetform.appspot.com/#signin
 *  JS Response Bytes: 1373651
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

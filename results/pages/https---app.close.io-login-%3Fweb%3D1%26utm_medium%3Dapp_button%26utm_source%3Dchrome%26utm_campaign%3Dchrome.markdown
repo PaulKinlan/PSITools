@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://app.close.io/login/?web=1&utm_medium=app_button&utm_source=chrome&utm_campaign=chrome
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Close.io](https://app.close.io/login/?web=1&utm_medium=app_button&utm_source=chrome&utm_campaign=chrome)
 
@@ -29,9 +31,6 @@ title: https://app.close.io/login/?web=1&utm_medium=app_button&utm_source=chrome
 *  JS Response Bytes: 1220916
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51867
-
-### Performance issues
-
 
 ### Performance issues
 

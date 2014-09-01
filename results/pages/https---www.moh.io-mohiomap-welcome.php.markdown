@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.moh.io/mohiomap/welcome.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Mohiomap - Visualize Your Cloud](https://www.moh.io/mohiomap/welcome.php)
 
@@ -29,9 +32,6 @@ title: https://www.moh.io/mohiomap/welcome.php
 *  JS Response Bytes: 530475
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30609
-
-### Performance issues
-
 
 ### Performance issues
 

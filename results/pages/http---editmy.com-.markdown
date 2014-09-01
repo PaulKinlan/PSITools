@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://editmy.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [editmy.com](http://editmy.com/)
 
@@ -29,9 +31,6 @@ title: http://editmy.com/
 *  JS Response Bytes: 288837
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

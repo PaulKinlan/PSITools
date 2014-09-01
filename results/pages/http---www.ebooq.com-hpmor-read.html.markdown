@@ -33,8 +33,5 @@ title: http://www.ebooq.com/hpmor/read.html
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

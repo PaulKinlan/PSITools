@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.miniportal.us/app_en/CandyCash.htm
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CANDY CASH - MINIPORTAL](http://www.miniportal.us/app_en/CandyCash.htm)
 
@@ -29,9 +34,6 @@ title: http://www.miniportal.us/app_en/CandyCash.htm
 *  JS Response Bytes: 1532246
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 183369
-
-### Performance issues
-
 
 ### Performance issues
 

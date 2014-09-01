@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://slovenskyanglictinaprekladatel.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Slovenský Angličtina Prekladateľ](http://slovenskyanglictinaprekladatel.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://slovenskyanglictinaprekladatel.herokuapp.com/
 *  JS Response Bytes: 1472143
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110420
-
-### Performance issues
-
 
 ### Performance issues
 

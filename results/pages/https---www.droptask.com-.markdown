@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.droptask.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DropTask - Visual Task Management - A simple and fluid way to get things done](https://www.droptask.com/)
 
@@ -29,9 +33,6 @@ title: https://www.droptask.com/
 *  JS Response Bytes: 246758
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 68904
-
-### Performance issues
-
 
 ### Performance issues
 

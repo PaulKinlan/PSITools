@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.adventuregamessite.com/cut-the-rope.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cut the Rope | Adventure Games Site](http://www.adventuregamessite.com/cut-the-rope.html)
 
@@ -29,9 +36,6 @@ title: http://www.adventuregamessite.com/cut-the-rope.html
 *  JS Response Bytes: 1530011
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98599
-
-### Performance issues
-
 
 ### Performance issues
 

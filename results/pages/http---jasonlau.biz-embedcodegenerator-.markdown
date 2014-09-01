@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://jasonlau.biz/embedcodegenerator/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Embed Code Generator - JasonLau.biz](http://jasonlau.biz/embedcodegenerator/)
 
@@ -29,9 +34,6 @@ title: http://jasonlau.biz/embedcodegenerator/
 *  JS Response Bytes: 4224339
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113108
-
-### Performance issues
-
 
 ### Performance issues
 

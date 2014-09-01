@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.wiris.net/demo/calc.alpha/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [WIRIS calc](http://www.wiris.net/demo/calc.alpha/)
 
@@ -29,9 +33,6 @@ title: http://www.wiris.net/demo/calc.alpha/
 *  JS Response Bytes: 1516233
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 181
-
-### Performance issues
-
 
 ### Performance issues
 

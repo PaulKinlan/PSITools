@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://tutoronline.com.my/services/www/#LoginPage
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Parent Dashboard](http://tutoronline.com.my/services/www/#LoginPage)
 
@@ -29,9 +32,6 @@ title: http://tutoronline.com.my/services/www/#LoginPage
 *  JS Response Bytes: 570641
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

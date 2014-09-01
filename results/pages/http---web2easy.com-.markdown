@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://web2easy.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [new page](http://web2easy.com/)
 
@@ -29,9 +35,6 @@ title: http://web2easy.com/
 *  JS Response Bytes: 1210412
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 593
-
-### Performance issues
-
 
 ### Performance issues
 

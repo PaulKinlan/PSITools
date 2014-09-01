@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://chromeandroidgames.org/minecraft-classic.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Minecraft Classic | Chrome Web Store Games | Android GamesPlay Chrome Web Store Games | Andorid Games](http://chromeandroidgames.org/minecraft-classic.html)
 
@@ -29,9 +34,6 @@ title: http://chromeandroidgames.org/minecraft-classic.html
 *  JS Response Bytes: 1060256
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16285
-
-### Performance issues
-
 
 ### Performance issues
 

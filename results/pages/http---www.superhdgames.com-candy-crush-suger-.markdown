@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.superhdgames.com/candy-crush-suger/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super HD Games – Candy Crush Suger](http://www.superhdgames.com/candy-crush-suger/)
 
@@ -29,9 +33,6 @@ title: http://www.superhdgames.com/candy-crush-suger/
 *  JS Response Bytes: 1040658
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16160
-
-### Performance issues
-
 
 ### Performance issues
 

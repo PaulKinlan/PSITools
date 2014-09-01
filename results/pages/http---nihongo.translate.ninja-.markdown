@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://nihongo.translate.ninja/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [語英語日本翻訳](http://nihongo.translate.ninja/)
 
@@ -29,9 +31,6 @@ title: http://nihongo.translate.ninja/
 *  JS Response Bytes: 1684342
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 147865
-
-### Performance issues
-
 
 ### Performance issues
 

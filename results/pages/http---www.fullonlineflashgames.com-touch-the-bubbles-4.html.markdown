@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fullonlineflashgames.com/touch-the-bubbles-4.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Touch the Bubbles 4 | Fullonlineflashgames](http://www.fullonlineflashgames.com/touch-the-bubbles-4.html)
 
@@ -29,9 +34,6 @@ title: http://www.fullonlineflashgames.com/touch-the-bubbles-4.html
 *  JS Response Bytes: 983605
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14942
-
-### Performance issues
-
 
 ### Performance issues
 

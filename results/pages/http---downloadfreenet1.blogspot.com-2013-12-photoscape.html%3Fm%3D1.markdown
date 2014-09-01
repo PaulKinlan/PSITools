@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://downloadfreenet1.blogspot.com/2013/12/photoscape.html?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://downloadfreenet1.blogspot.com/2013/12/photoscape.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://downloadfreenet1.blogspot.com/2013/12/photoscape.html?m=1
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18829
-
-### Performance issues
-
 
 ### Performance issues
 

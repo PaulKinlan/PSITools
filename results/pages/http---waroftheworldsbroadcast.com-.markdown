@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://waroftheworldsbroadcast.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [War of the Worlds Broadcast](http://waroftheworldsbroadcast.com/)
 
@@ -29,9 +34,6 @@ title: http://waroftheworldsbroadcast.com/
 *  JS Response Bytes: 211648
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52917
-
-### Performance issues
-
 
 ### Performance issues
 

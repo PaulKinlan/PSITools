@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.onedailygame.com/mixed/nano-kingdoms-2
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nano Kingdoms 2 - OneDailyGame](http://www.onedailygame.com/mixed/nano-kingdoms-2)
 
@@ -29,9 +35,6 @@ title: http://www.onedailygame.com/mixed/nano-kingdoms-2
 *  JS Response Bytes: 571895
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1409
-
-### Performance issues
-
 
 ### Performance issues
 

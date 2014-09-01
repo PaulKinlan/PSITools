@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.chrome.com/photowall/m/#no-chrome
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Photowall for Chromecast](https://www.chrome.com/photowall/m/#no-chrome)
 
@@ -29,9 +31,6 @@ title: https://www.chrome.com/photowall/m/#no-chrome
 *  JS Response Bytes: 1091011
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41445
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.chequesplus.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cheques Plus, Business And Personal Cheques and supplies](http://www.chequesplus.com/)
 
@@ -29,9 +34,6 @@ title: http://www.chequesplus.com/
 *  JS Response Bytes: 534846
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2118
-
-### Performance issues
-
 
 ### Performance issues
 

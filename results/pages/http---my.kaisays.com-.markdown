@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://my.kaisays.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Kai Says - personal assistant](http://my.kaisays.com/)
 
@@ -29,9 +33,6 @@ title: http://my.kaisays.com/
 *  JS Response Bytes: 672250
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106445
-
-### Performance issues
-
 
 ### Performance issues
 

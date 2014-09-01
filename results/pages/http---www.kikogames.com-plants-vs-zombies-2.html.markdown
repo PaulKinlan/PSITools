@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.kikogames.com/plants-vs-zombies-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Plants vs. Zombies 2 | Kiko Games](http://www.kikogames.com/plants-vs-zombies-2.html)
 
@@ -29,9 +33,6 @@ title: http://www.kikogames.com/plants-vs-zombies-2.html
 *  JS Response Bytes: 1529561
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98562
-
-### Performance issues
-
 
 ### Performance issues
 

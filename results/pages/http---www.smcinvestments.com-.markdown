@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.smcinvestments.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SMC Investments Stock Research and Investment Analytic s Find Stock Quotes](http://www.smcinvestments.com/)
 
@@ -29,9 +34,6 @@ title: http://www.smcinvestments.com/
 *  JS Response Bytes: 739846
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

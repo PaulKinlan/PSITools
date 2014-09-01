@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.cloudcartconnector.com/report/chromelog
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [QuickBooks Online and Desktop Integration | Cloud Cart Connector](https://www.cloudcartconnector.com/report/chromelog)
 
@@ -29,9 +32,6 @@ title: https://www.cloudcartconnector.com/report/chromelog
 *  JS Response Bytes: 604103
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1463
-
-### Performance issues
-
 
 ### Performance issues
 

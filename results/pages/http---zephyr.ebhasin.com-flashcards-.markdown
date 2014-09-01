@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://zephyr.ebhasin.com/flashcards/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [-::-Flashcards-::-An Easy learning](http://zephyr.ebhasin.com/flashcards/)
 
@@ -29,9 +34,6 @@ title: http://zephyr.ebhasin.com/flashcards/
 *  JS Response Bytes: 478499
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

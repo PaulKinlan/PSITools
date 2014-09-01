@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://jornalcidade.uol.com.br/
+UseLegibleFontSizes: true
 ---
 ## [500 Internal Server Error](http://jornalcidade.uol.com.br/)
 
@@ -29,9 +30,6 @@ title: http://jornalcidade.uol.com.br/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 540
-
-### Performance issues
-
 
 ### Performance issues
 

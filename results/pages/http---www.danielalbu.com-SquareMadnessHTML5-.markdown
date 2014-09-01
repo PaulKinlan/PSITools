@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.danielalbu.com/SquareMadnessHTML5/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Square Madness HTML5](http://www.danielalbu.com/SquareMadnessHTML5/)
 
@@ -29,9 +32,6 @@ title: http://www.danielalbu.com/SquareMadnessHTML5/
 *  JS Response Bytes: 770618
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1993
-
-### Performance issues
-
 
 ### Performance issues
 

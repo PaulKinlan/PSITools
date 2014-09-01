@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://nl-de.iboapp.info/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DEPRECIATED NameList (Deutsch)](http://nl-de.iboapp.info/)
 
@@ -29,9 +32,6 @@ title: http://nl-de.iboapp.info/
 *  JS Response Bytes: 870332
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24978
-
-### Performance issues
-
 
 ### Performance issues
 

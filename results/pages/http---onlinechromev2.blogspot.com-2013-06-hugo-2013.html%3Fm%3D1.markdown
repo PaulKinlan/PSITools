@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://onlinechromev2.blogspot.com/2013/06/hugo-2013.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [Online Chrome v2: Hugo 2013](http://onlinechromev2.blogspot.com/2013/06/hugo-2013.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://onlinechromev2.blogspot.com/2013/06/hugo-2013.html?m=1
 *  JS Response Bytes: 1067609
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97979
-
-### Performance issues
-
 
 ### Performance issues
 

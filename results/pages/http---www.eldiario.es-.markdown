@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.eldiario.es/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [eldiario.es - Periodismo a pesar de todo](http://www.eldiario.es/)
 
@@ -29,9 +35,6 @@ title: http://www.eldiario.es/
 *  JS Response Bytes: 1710787
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35748
-
-### Performance issues
-
 
 ### Performance issues
 

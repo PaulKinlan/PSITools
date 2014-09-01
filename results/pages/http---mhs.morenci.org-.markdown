@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mhs.morenci.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Morenci High School](http://mhs.morenci.org/)
 
@@ -29,9 +33,6 @@ title: http://mhs.morenci.org/
 *  JS Response Bytes: 474589
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playpop.com/en/uno.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Uno Disco - Multiplayer Free Games on PLAYPOP](http://playpop.com/en/uno.html)
 
@@ -29,9 +33,6 @@ title: http://playpop.com/en/uno.html
 *  JS Response Bytes: 1409986
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97017
-
-### Performance issues
-
 
 ### Performance issues
 

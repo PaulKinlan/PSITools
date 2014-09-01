@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://picto.us/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pictous](http://picto.us/)
 
@@ -29,9 +35,6 @@ title: http://picto.us/
 *  JS Response Bytes: 603382
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1180
-
-### Performance issues
-
 
 ### Performance issues
 

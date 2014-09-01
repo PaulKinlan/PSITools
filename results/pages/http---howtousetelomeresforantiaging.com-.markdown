@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://howtousetelomeresforantiaging.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Immortality MLM with Imortalium, the Immortality pills, Live a Longer and healthier life,](http://howtousetelomeresforantiaging.com/)
 
@@ -29,9 +33,6 @@ title: http://howtousetelomeresforantiaging.com/
 *  JS Response Bytes: 2485192
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2179
-
-### Performance issues
-
 
 ### Performance issues
 

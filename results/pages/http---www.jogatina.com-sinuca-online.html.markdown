@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.jogatina.com/sinuca-online.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sinuca ou Bilhar Online - Jogue Grátis e divirta-se no Jogatina.com](http://www.jogatina.com/sinuca-online.html)
 
@@ -29,9 +34,6 @@ title: http://www.jogatina.com/sinuca-online.html
 *  JS Response Bytes: 1783739
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 415770
-
-### Performance issues
-
 
 ### Performance issues
 

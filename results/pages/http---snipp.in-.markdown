@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://snipp.in/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [snipp.in - snipp Resources and Information. This website is for sale!](http://snipp.in/)
 
@@ -29,9 +31,6 @@ title: http://snipp.in/
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

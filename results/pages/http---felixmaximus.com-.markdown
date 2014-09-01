@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://felixmaximus.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Felix Maximus | Wie aus einer schönen Idee Realität wurde](http://felixmaximus.com/)
 
@@ -29,9 +33,6 @@ title: http://felixmaximus.com/
 *  JS Response Bytes: 1918063
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

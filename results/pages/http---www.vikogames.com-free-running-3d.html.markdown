@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.vikogames.com/free-running-3d.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404 - PAGE NOT FOUND](http://www.vikogames.com/free-running-3d.html)
 
@@ -29,9 +34,6 @@ title: http://www.vikogames.com/free-running-3d.html
 *  JS Response Bytes: 271851
 *  Flash Response Bytes: 43671
 *  Other Response Bytes: 13047
-
-### Performance issues
-
 
 ### Performance issues
 

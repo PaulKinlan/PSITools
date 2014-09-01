@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesofaddicts.com/popular-games/running-fred
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | Gamesogaddicts.com | Play Most Popular Games Free](http://www.gamesofaddicts.com/popular-games/running-fred)
 
@@ -29,9 +35,6 @@ title: http://www.gamesofaddicts.com/popular-games/running-fred
 *  JS Response Bytes: 1349412
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 62120
-
-### Performance issues
-
 
 ### Performance issues
 

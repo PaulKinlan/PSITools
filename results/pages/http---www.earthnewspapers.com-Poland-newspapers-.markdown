@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.earthnewspapers.com/Poland-newspapers/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [List of Newspapers in Poland](http://www.earthnewspapers.com/Poland-newspapers/)
 
@@ -29,9 +36,6 @@ title: http://www.earthnewspapers.com/Poland-newspapers/
 *  JS Response Bytes: 831492
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20897
-
-### Performance issues
-
 
 ### Performance issues
 

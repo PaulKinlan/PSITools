@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/soccer-heads/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Soccer Heads Game](http://www.footballgam.es/soccer-heads/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/soccer-heads/
 *  JS Response Bytes: 2296830
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 154231
-
-### Performance issues
-
 
 ### Performance issues
 

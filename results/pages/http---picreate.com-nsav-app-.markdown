@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://picreate.com/nsav/app/
+MinimizeRenderBlockingResources: true
 ---
 ## [NSAV](http://picreate.com/nsav/app/)
 
@@ -29,9 +30,6 @@ title: http://picreate.com/nsav/app/
 *  JS Response Bytes: 144344
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/sands-of-the-coliseum/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sands of the Coliseum](http://www.war-games.ws/sands-of-the-coliseum/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/sands-of-the-coliseum/
 *  JS Response Bytes: 2305841
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121893
-
-### Performance issues
-
 
 ### Performance issues
 

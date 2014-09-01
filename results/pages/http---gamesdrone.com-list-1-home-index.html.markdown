@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gamesdrone.com/list/1/home/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
 ---
 ## [GamesDrone - Home - Page 1](http://gamesdrone.com/list/1/home/index.html)
 
@@ -29,9 +32,6 @@ title: http://gamesdrone.com/list/1/home/index.html
 *  JS Response Bytes: 185737
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 451
-
-### Performance issues
-
 
 ### Performance issues
 

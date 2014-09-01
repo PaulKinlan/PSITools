@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.huddlebuy.co.uk/deals/marketing/free-facebook-marketing-webinar
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Huddlebuy](http://www.huddlebuy.co.uk/deals/marketing/free-facebook-marketing-webinar)
 
@@ -29,9 +33,6 @@ title: http://www.huddlebuy.co.uk/deals/marketing/free-facebook-marketing-webina
 *  JS Response Bytes: 1763638
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 66017
-
-### Performance issues
-
 
 ### Performance issues
 

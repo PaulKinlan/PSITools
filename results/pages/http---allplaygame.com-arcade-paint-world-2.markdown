@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://allplaygame.com/arcade/paint-world-2
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Paint World 2 - All Play Game](http://allplaygame.com/arcade/paint-world-2)
 
@@ -29,9 +34,6 @@ title: http://allplaygame.com/arcade/paint-world-2
 *  JS Response Bytes: 1131339
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18631
-
-### Performance issues
-
 
 ### Performance issues
 

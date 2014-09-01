@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.djrowepaintingcontractors.co.uk/
+UseLegibleFontSizes: true
 ---
 ## [500 Internal Server Error](http://www.djrowepaintingcontractors.co.uk/)
 
@@ -29,9 +30,6 @@ title: http://www.djrowepaintingcontractors.co.uk/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 959
-
-### Performance issues
-
 
 ### Performance issues
 

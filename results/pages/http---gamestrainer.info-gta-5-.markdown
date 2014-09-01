@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gamestrainer.info/gta-5/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tic Games Flash Games – GTA 5](http://gamestrainer.info/gta-5/)
 
@@ -29,9 +34,6 @@ title: http://gamestrainer.info/gta-5/
 *  JS Response Bytes: 1030289
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16255
-
-### Performance issues
-
 
 ### Performance issues
 

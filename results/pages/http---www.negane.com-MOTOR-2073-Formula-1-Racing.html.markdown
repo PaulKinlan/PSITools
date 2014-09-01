@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.negane.com/MOTOR/2073/Formula-1-Racing.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Formula 1 Racing - NeGaNe.com](http://www.negane.com/MOTOR/2073/Formula-1-Racing.html)
 
@@ -29,9 +36,6 @@ title: http://www.negane.com/MOTOR/2073/Formula-1-Racing.html
 *  JS Response Bytes: 1495279
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 258201
-
-### Performance issues
-
 
 ### Performance issues
 

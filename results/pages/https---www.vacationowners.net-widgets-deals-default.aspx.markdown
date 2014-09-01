@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://www.vacationowners.net/widgets/deals/default.aspx
+MinimizeRenderBlockingResources: true
 ---
 ## [Vacation Owners](https://www.vacationowners.net/widgets/deals/default.aspx)
 
@@ -29,9 +30,6 @@ title: https://www.vacationowners.net/widgets/deals/default.aspx
 *  JS Response Bytes: 183545
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skol.com.br/mobile/pre-home/?redirect_url=skol360%2Fbicanobaiacu%2F
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
 ---
 ## [Skoland](http://www.skol.com.br/mobile/pre-home/?redirect_url=skol360%2Fbicanobaiacu%2F)
 
@@ -29,9 +34,6 @@ title: http://www.skol.com.br/mobile/pre-home/?redirect_url=skol360%2Fbicanobaia
 *  JS Response Bytes: 408820
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 164
-
-### Performance issues
-
 
 ### Performance issues
 

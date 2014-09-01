@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chromegamecenter.com/game/crazy-shooting.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crazy Shooting Games online](http://www.chromegamecenter.com/game/crazy-shooting.html)
 
@@ -29,9 +35,6 @@ title: http://www.chromegamecenter.com/game/crazy-shooting.html
 *  JS Response Bytes: 1235686
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104324
-
-### Performance issues
-
 
 ### Performance issues
 

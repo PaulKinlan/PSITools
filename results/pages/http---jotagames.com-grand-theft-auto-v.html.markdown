@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://jotagames.com/grand-theft-auto-v.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [JOTAGameS.Com | Flash Games – Grand Theft Auto V](http://jotagames.com/grand-theft-auto-v.html)
 
@@ -29,9 +35,6 @@ title: http://jotagames.com/grand-theft-auto-v.html
 *  JS Response Bytes: 412265
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 810
-
-### Performance issues
-
 
 ### Performance issues
 

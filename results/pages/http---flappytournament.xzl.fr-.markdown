@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://flappytournament.xzl.fr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [FlapIO - The Flappy Bird Multiplayer](http://flappytournament.xzl.fr/)
 
@@ -29,9 +31,6 @@ title: http://flappytournament.xzl.fr/
 *  JS Response Bytes: 1045329
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

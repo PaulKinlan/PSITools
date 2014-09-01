@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://webapp.magicinvoice.it/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Magic Invoice](https://webapp.magicinvoice.it/index.html)
 
@@ -29,9 +35,6 @@ title: https://webapp.magicinvoice.it/index.html
 *  JS Response Bytes: 123342
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52833
-
-### Performance issues
-
 
 ### Performance issues
 

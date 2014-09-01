@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.webstoregames.com/flash-games/jailbreak-rush.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jailbreak Rush - Free Games Online, Free Online Games, Flash Games!](http://www.webstoregames.com/flash-games/jailbreak-rush.php)
 
@@ -29,9 +35,6 @@ title: http://www.webstoregames.com/flash-games/jailbreak-rush.php
 *  JS Response Bytes: 1329827
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98931
-
-### Performance issues
-
 
 ### Performance issues
 

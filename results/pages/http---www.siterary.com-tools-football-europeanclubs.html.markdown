@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.siterary.com/tools/football/europeanclubs.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [European football clubs](http://www.siterary.com/tools/football/europeanclubs.html)
 
@@ -29,9 +33,6 @@ title: http://www.siterary.com/tools/football/europeanclubs.html
 *  JS Response Bytes: 1207
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://tour1.ihookup.com/?c=mobile&a=profileReg&ard=11413&r=lc754321&pg13=1&gdr=2&and_options%5B%5D=763&toid=209399&toi=403201&tor=28692&lpid=335
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [iHookup Mobile](http://tour1.ihookup.com/?c=mobile&a=profileReg&ard=11413&r=lc754321&pg13=1&gdr=2&and_options%5B%5D=763&toid=209399&toi=403201&tor=28692&lpid=335)
 
@@ -29,9 +34,6 @@ title: http://tour1.ihookup.com/?c=mobile&a=profileReg&ard=11413&r=lc754321&pg13
 *  JS Response Bytes: 281595
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1072
-
-### Performance issues
-
 
 ### Performance issues
 

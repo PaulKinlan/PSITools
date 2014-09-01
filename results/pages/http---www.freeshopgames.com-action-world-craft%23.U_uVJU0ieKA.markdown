@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeshopgames.com/action/world-craft#.U_uVJU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [World Craft - Free Shop Games](http://www.freeshopgames.com/action/world-craft#.U_uVJU0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.freeshopgames.com/action/world-craft#.U_uVJU0ieKA
 *  JS Response Bytes: 1500800
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15216
-
-### Performance issues
-
 
 ### Performance issues
 

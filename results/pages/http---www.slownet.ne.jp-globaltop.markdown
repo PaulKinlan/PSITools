@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.slownet.ne.jp/globaltop
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [トップページ / Slownet -SNS-](http://www.slownet.ne.jp/globaltop)
 
@@ -29,9 +32,6 @@ title: http://www.slownet.ne.jp/globaltop
 *  JS Response Bytes: 680528
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 193
-
-### Performance issues
-
 
 ### Performance issues
 

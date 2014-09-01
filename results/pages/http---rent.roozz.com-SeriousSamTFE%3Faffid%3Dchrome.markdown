@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://rent.roozz.com/SeriousSamTFE?affid=chrome
+UseLegibleFontSizes: true
 ---
 ## [](http://rent.roozz.com/SeriousSamTFE?affid=chrome)
 
@@ -29,9 +30,6 @@ title: http://rent.roozz.com/SeriousSamTFE?affid=chrome
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 493
-
-### Performance issues
-
 
 ### Performance issues
 

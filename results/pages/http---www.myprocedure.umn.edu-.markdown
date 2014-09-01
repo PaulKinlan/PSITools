@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.myprocedure.umn.edu/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MyProcedure - University of Minnesota](http://www.myprocedure.umn.edu/)
 
@@ -29,9 +34,6 @@ title: http://www.myprocedure.umn.edu/
 *  JS Response Bytes: 47275
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1019
-
-### Performance issues
-
 
 ### Performance issues
 

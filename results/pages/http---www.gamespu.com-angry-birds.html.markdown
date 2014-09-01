@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamespu.com/angry-birds.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds | GamesPu - Free Online Games](http://www.gamespu.com/angry-birds.html)
 
@@ -29,9 +33,6 @@ title: http://www.gamespu.com/angry-birds.html
 *  JS Response Bytes: 1707581
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105207
-
-### Performance issues
-
 
 ### Performance issues
 

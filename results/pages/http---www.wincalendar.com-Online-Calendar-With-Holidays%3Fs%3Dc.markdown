@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.wincalendar.com/Online-Calendar-With-Holidays?s=c
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Calendar with Holidays](http://www.wincalendar.com/Online-Calendar-With-Holidays?s=c)
 
@@ -29,9 +31,6 @@ title: http://www.wincalendar.com/Online-Calendar-With-Holidays?s=c
 *  JS Response Bytes: 1696626
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98055
-
-### Performance issues
-
 
 ### Performance issues
 

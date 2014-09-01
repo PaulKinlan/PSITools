@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.amostv.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [#1 Relaxation TV Channel / AMOS / DVD / Video / Stream/ Travel the natural world from your Home!](http://www.amostv.com/)
 
@@ -29,9 +33,6 @@ title: http://www.amostv.com/
 *  JS Response Bytes: 1995278
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1390
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromegamedirectory.blogspot.com/2013/08/street-fighter.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [hill climb racing](http://chromegamedirectory.blogspot.com/2013/08/street-fighter.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chromegamedirectory.blogspot.com/2013/08/street-fighter.html?m=1
 *  JS Response Bytes: 791279
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331017
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -33,8 +33,5 @@ title: http://vandfald.net/priv8bands
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

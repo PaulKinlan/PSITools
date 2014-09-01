@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamehitzone.com/download-free-games/ultra-monster-truck-trial/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ultra Monster Truck Trial Free Game Downloads](http://www.gamehitzone.com/download-free-games/ultra-monster-truck-trial/)
 
@@ -29,9 +33,6 @@ title: http://www.gamehitzone.com/download-free-games/ultra-monster-truck-trial/
 *  JS Response Bytes: 1808916
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118277
-
-### Performance issues
-
 
 ### Performance issues
 

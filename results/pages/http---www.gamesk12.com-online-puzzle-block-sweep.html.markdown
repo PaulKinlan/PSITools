@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/puzzle/block-sweep.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Block Sweep Play Block Sweep on Gamesk12.com Free Online Games](http://www.gamesk12.com/online/puzzle/block-sweep.html)
 
@@ -29,9 +35,6 @@ title: http://www.gamesk12.com/online/puzzle/block-sweep.html
 *  JS Response Bytes: 1844610
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106645
-
-### Performance issues
-
 
 ### Performance issues
 

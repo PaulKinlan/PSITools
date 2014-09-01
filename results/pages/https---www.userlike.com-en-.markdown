@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.userlike.com/en/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [Live Chat software for Websites](https://www.userlike.com/en/)
 
@@ -29,9 +32,6 @@ title: https://www.userlike.com/en/
 *  JS Response Bytes: 2728355
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 189997
-
-### Performance issues
-
 
 ### Performance issues
 

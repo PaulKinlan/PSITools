@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.guitaristsreference.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Guitar Chords, Guitar Scales & more. GuitaristsReference.com](http://www.guitaristsreference.com/)
 
@@ -29,9 +33,6 @@ title: http://www.guitaristsreference.com/
 *  JS Response Bytes: 2695805
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120522
-
-### Performance issues
-
 
 ### Performance issues
 

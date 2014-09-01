@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://activeglobe.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Home | ActiveGlobe](https://activeglobe.net/)
 
@@ -29,9 +31,6 @@ title: https://activeglobe.net/
 *  JS Response Bytes: 384462
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 90989
-
-### Performance issues
-
 
 ### Performance issues
 

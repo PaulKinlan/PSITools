@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://app.wdmtg.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [App - Where Does My Tweet Go](https://app.wdmtg.com/)
 
@@ -29,9 +31,6 @@ title: https://app.wdmtg.com/
 *  JS Response Bytes: 610350
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

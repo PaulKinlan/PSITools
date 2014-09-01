@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://pinkgirlgames.com/hot-dog-maker/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [pinkgirlgames.com-the best free online flash gamesHot dog maker » Other » dog, Hot, Maker, Shop](http://pinkgirlgames.com/hot-dog-maker/)
 
@@ -29,9 +34,6 @@ title: http://pinkgirlgames.com/hot-dog-maker/
 *  JS Response Bytes: 1000724
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

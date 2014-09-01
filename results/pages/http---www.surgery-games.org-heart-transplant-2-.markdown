@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/heart-transplant-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Heart Transplant game](http://www.surgery-games.org/heart-transplant-2/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/heart-transplant-2/
 *  JS Response Bytes: 2637479
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124208
-
-### Performance issues
-
 
 ### Performance issues
 

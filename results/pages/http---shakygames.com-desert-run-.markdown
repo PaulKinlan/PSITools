@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://shakygames.com/desert-run/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [shakygames.com-the best free online flash gamesDesert Run |shakygames.com](http://shakygames.com/desert-run/)
 
@@ -29,9 +35,6 @@ title: http://shakygames.com/desert-run/
 *  JS Response Bytes: 1606386
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21851
-
-### Performance issues
-
 
 ### Performance issues
 

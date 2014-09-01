@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.schedulista.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Scheduling Software | Clients Book Online Appointments | Schedulista](http://www.schedulista.com/)
 
@@ -29,9 +32,6 @@ title: http://www.schedulista.com/
 *  JS Response Bytes: 194661
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7134
-
-### Performance issues
-
 
 ### Performance issues
 

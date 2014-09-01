@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.zobyhost.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ZobyHost | Hosting Gratis](http://www.zobyhost.com/)
 
@@ -29,9 +34,6 @@ title: http://www.zobyhost.com/
 *  JS Response Bytes: 585638
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15839
-
-### Performance issues
-
 
 ### Performance issues
 

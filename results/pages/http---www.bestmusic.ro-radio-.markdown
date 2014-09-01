@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.bestmusic.ro/radio/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Radio online, radiouri online](http://www.bestmusic.ro/radio/)
 
@@ -29,9 +34,6 @@ title: http://www.bestmusic.ro/radio/
 *  JS Response Bytes: 1988261
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17666
-
-### Performance issues
-
 
 ### Performance issues
 

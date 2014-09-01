@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.rajinitruths.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Rajini Truths - Facts](http://www.rajinitruths.com/)
 
@@ -29,9 +32,6 @@ title: http://www.rajinitruths.com/
 *  JS Response Bytes: 856595
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://quick-chart.appspot.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Quick Chart](http://quick-chart.appspot.com/)
 
@@ -29,9 +30,6 @@ title: http://quick-chart.appspot.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

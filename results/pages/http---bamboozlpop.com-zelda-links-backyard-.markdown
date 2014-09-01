@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://bamboozlpop.com/zelda-links-backyard/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zelda Links Backyard](http://bamboozlpop.com/zelda-links-backyard/)
 
@@ -29,9 +35,6 @@ title: http://bamboozlpop.com/zelda-links-backyard/
 *  JS Response Bytes: 2120296
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96387
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.worldwar2facts.org/world-war-2-quiz
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [World War 2 Quiz | World War 2 Facts](http://www.worldwar2facts.org/world-war-2-quiz)
 
@@ -29,9 +33,6 @@ title: http://www.worldwar2facts.org/world-war-2-quiz
 *  JS Response Bytes: 1268831
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23918
-
-### Performance issues
-
 
 ### Performance issues
 

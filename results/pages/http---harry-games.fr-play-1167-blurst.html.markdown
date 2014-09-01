@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://harry-games.fr/play-1167-blurst.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jouer au jeu flash Blurst sur Harry Games](http://harry-games.fr/play-1167-blurst.html)
 
@@ -29,9 +34,6 @@ title: http://harry-games.fr/play-1167-blurst.html
 *  JS Response Bytes: 1612715
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110855
-
-### Performance issues
-
 
 ### Performance issues
 

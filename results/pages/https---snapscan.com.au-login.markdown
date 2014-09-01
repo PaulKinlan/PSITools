@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://snapscan.com.au/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SnapScan - Login](https://snapscan.com.au/login)
 
@@ -29,9 +33,6 @@ title: https://snapscan.com.au/login
 *  JS Response Bytes: 576660
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 317
-
-### Performance issues
-
 
 ### Performance issues
 

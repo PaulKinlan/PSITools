@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chromeflashgames.blogspot.com/2013/08/grand-theft-auto-vice-city.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [chromeflashgames: Grand Theft Auto Vice City](http://chromeflashgames.blogspot.com/2013/08/grand-theft-auto-vice-city.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://chromeflashgames.blogspot.com/2013/08/grand-theft-auto-vice-city.h
 *  JS Response Bytes: 1067645
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98014
-
-### Performance issues
-
 
 ### Performance issues
 

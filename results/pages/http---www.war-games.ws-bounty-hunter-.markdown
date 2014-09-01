@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/bounty-hunter/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bounty Hunter](http://www.war-games.ws/bounty-hunter/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/bounty-hunter/
 *  JS Response Bytes: 2292883
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122896
-
-### Performance issues
-
 
 ### Performance issues
 

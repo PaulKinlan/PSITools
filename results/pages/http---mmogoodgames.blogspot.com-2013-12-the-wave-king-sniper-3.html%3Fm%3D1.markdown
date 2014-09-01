@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mmogoodgames.blogspot.com/2013/12/the-wave-king-sniper-3.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MMO Good Games: The Wave King Sniper 3](http://mmogoodgames.blogspot.com/2013/12/the-wave-king-sniper-3.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://mmogoodgames.blogspot.com/2013/12/the-wave-king-sniper-3.html?m=1
 *  JS Response Bytes: 1271585
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109977
-
-### Performance issues
-
 
 ### Performance issues
 

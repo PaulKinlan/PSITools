@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://hipi.co.za/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [✿ hipi - feel free music!](http://hipi.co.za/)
 
@@ -29,9 +31,6 @@ title: http://hipi.co.za/
 *  JS Response Bytes: 555326
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1975
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -33,8 +33,5 @@ title: http://app.imperialfashion.com/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

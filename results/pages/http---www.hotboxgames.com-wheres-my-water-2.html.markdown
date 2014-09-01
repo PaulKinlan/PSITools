@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.hotboxgames.com/wheres-my-water-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Where’s My Water? 2 | Hot Box Games](http://www.hotboxgames.com/wheres-my-water-2.html)
 
@@ -29,9 +34,6 @@ title: http://www.hotboxgames.com/wheres-my-water-2.html
 *  JS Response Bytes: 1529035
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105477
-
-### Performance issues
-
 
 ### Performance issues
 

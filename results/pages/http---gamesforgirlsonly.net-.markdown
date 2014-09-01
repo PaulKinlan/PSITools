@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gamesforgirlsonly.net/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games for girls](http://gamesforgirlsonly.net/)
 
@@ -29,9 +33,6 @@ title: http://gamesforgirlsonly.net/
 *  JS Response Bytes: 2207268
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98551
-
-### Performance issues
-
 
 ### Performance issues
 

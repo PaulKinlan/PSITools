@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.fullsportgame.com/default-category/stunt-skateboard-3d
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stunt Skateboard 3D - Full Sport Game](http://www.fullsportgame.com/default-category/stunt-skateboard-3d)
 
@@ -29,9 +35,6 @@ title: http://www.fullsportgame.com/default-category/stunt-skateboard-3d
 *  JS Response Bytes: 2328378
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 133653
-
-### Performance issues
-
 
 ### Performance issues
 

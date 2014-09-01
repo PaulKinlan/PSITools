@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://m.enlaradio.com.ar/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [En la Radio](http://m.enlaradio.com.ar/)
 
@@ -29,9 +34,6 @@ title: http://m.enlaradio.com.ar/
 *  JS Response Bytes: 608840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17193
-
-### Performance issues
-
 
 ### Performance issues
 

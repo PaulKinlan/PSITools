@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://kpoptube.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Watch the music! KPOPTUBE](http://kpoptube.com/)
 
@@ -29,9 +34,6 @@ title: http://kpoptube.com/
 *  JS Response Bytes: 932098
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2706
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.inmyths.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [inmyths - Inmyths - Music](http://www.inmyths.com/)
 
@@ -29,9 +32,6 @@ title: http://www.inmyths.com/
 *  JS Response Bytes: 2719316
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 180512
-
-### Performance issues
-
 
 ### Performance issues
 

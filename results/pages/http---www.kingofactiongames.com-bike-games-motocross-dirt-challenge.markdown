@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.kingofactiongames.com/bike-games/motocross-dirt-challenge
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Motocross Dirt Challenge - Games - Play Free Online King of Action Games](http://www.kingofactiongames.com/bike-games/motocross-dirt-challenge)
 
@@ -29,9 +35,6 @@ title: http://www.kingofactiongames.com/bike-games/motocross-dirt-challenge
 *  JS Response Bytes: 527070
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

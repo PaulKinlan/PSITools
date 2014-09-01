@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.taketwoapps.com/apps/book/word-day/book.html
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Daily Word Definitions](http://www.taketwoapps.com/apps/book/word-day/book.html)
 
@@ -29,9 +33,6 @@ title: http://www.taketwoapps.com/apps/book/word-day/book.html
 *  JS Response Bytes: 429665
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1166
-
-### Performance issues
-
 
 ### Performance issues
 

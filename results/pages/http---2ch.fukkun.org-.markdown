@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://2ch.fukkun.org/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [2chまとめ×まとめ | 2chまとめアンテナ](http://2ch.fukkun.org/)
 
@@ -29,9 +32,6 @@ title: http://2ch.fukkun.org/
 *  JS Response Bytes: 80242
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3402
-
-### Performance issues
-
 
 ### Performance issues
 

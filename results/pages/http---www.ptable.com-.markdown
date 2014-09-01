@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ptable.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dynamic Periodic Table](http://www.ptable.com/)
 
@@ -29,9 +33,6 @@ title: http://www.ptable.com/
 *  JS Response Bytes: 715549
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

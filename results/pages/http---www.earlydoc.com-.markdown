@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.earlydoc.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Earlydoc: Health Complaint & Symptom Check](http://www.earlydoc.com/)
 
@@ -29,9 +31,6 @@ title: http://www.earlydoc.com/
 *  JS Response Bytes: 168011
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 972
-
-### Performance issues
-
 
 ### Performance issues
 

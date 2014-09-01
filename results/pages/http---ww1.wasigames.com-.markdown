@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww1.wasigames.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [wasigames.com](http://ww1.wasigames.com/)
 
@@ -18,20 +19,17 @@ title: http://ww1.wasigames.com/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 7
-*  Total Request Bytes: 4676
+*  Total Request Bytes: 4663
 
 ### Response data
 
-*  HTML Response Bytes: 71274
+*  HTML Response Bytes: 62774
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 9782
-*  Image Response Bytes: 2977
-*  JS Response Bytes: 229918
+*  CSS Response Bytes: 9784
+*  Image Response Bytes: 2979
+*  JS Response Bytes: 229920
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 20986
-
-### Performance issues
-
+*  Other Response Bytes: 20983
 
 ### Performance issues
 

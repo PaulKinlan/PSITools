@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://learnzillion.com/student/enhanced_login
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LearnZillion](https://learnzillion.com/student/enhanced_login)
 
@@ -29,9 +33,6 @@ title: https://learnzillion.com/student/enhanced_login
 *  JS Response Bytes: 941711
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35720
-
-### Performance issues
-
 
 ### Performance issues
 

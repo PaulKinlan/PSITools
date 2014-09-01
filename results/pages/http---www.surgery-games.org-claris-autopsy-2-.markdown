@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/claris-autopsy-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Claris Autopsy game](http://www.surgery-games.org/claris-autopsy-2/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/claris-autopsy-2/
 *  JS Response Bytes: 2636838
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121626
-
-### Performance issues
-
 
 ### Performance issues
 

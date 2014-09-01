@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://m.funnygames.biz/?catid=173
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funnygames.biz/?catid=173)
 
@@ -29,9 +34,6 @@ title: http://m.funnygames.biz/?catid=173
 *  JS Response Bytes: 1265756
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28031
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://videosearchhomepage.com/news/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [News](http://videosearchhomepage.com/news/)
 
@@ -29,9 +34,6 @@ title: http://videosearchhomepage.com/news/
 *  JS Response Bytes: 1417017
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1605
-
-### Performance issues
-
 
 ### Performance issues
 

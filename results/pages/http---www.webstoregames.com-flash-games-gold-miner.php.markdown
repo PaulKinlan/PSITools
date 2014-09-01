@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.webstoregames.com/flash-games/gold-miner.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gold Miner - Free Games Online, Free Online Games, Flash Games!](http://www.webstoregames.com/flash-games/gold-miner.php)
 
@@ -29,9 +35,6 @@ title: http://www.webstoregames.com/flash-games/gold-miner.php
 *  JS Response Bytes: 1329828
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99462
-
-### Performance issues
-
 
 ### Performance issues
 

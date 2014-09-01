@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://svms.mobi/signin.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login](https://svms.mobi/signin.htm)
 
@@ -29,9 +34,6 @@ title: https://svms.mobi/signin.htm
 *  JS Response Bytes: 422241
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://3000gaming.com/game/angry-birds-rio-hd/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nothing found for Game Angry-birds-rio-hd](http://3000gaming.com/game/angry-birds-rio-hd/)
 
@@ -29,9 +32,6 @@ title: http://3000gaming.com/game/angry-birds-rio-hd/
 *  JS Response Bytes: 164474
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8735
-
-### Performance issues
-
 
 ### Performance issues
 

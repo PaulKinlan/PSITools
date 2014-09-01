@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://mathmaster.lyleonline.ca/
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [Math Master](http://mathmaster.lyleonline.ca/)
 
@@ -29,9 +31,6 @@ title: http://mathmaster.lyleonline.ca/
 *  JS Response Bytes: 813786
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26279
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.3dback.com/centre-court-tennis/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Centre Court Tennis](http://www.3dback.com/centre-court-tennis/)
 
@@ -29,9 +35,6 @@ title: http://www.3dback.com/centre-court-tennis/
 *  JS Response Bytes: 2906566
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 344461
-
-### Performance issues
-
 
 ### Performance issues
 

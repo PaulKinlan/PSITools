@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://restaurantgames.net/penguin-diner/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Penguin Diner | Restaurant Games](http://restaurantgames.net/penguin-diner/)
 
@@ -29,9 +35,6 @@ title: http://restaurantgames.net/penguin-diner/
 *  JS Response Bytes: 1275574
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 133493
-
-### Performance issues
-
 
 ### Performance issues
 

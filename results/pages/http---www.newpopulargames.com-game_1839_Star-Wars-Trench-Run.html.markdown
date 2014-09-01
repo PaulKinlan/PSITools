@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_1839_Star-Wars-Trench-Run.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Star Wars Trench Run Flash Games](http://www.newpopulargames.com/game_1839_Star-Wars-Trench-Run.html)
 
@@ -29,9 +35,6 @@ title: http://www.newpopulargames.com/game_1839_Star-Wars-Trench-Run.html
 *  JS Response Bytes: 1679928
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113339
-
-### Performance issues
-
 
 ### Performance issues
 

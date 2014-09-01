@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gamesforfreetime.com/arcade/x-men-wolverine-escape
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [X-MEN WOLVERINE ESCAPE - Games For Free Time](http://www.gamesforfreetime.com/arcade/x-men-wolverine-escape)
 
@@ -29,9 +36,6 @@ title: http://www.gamesforfreetime.com/arcade/x-men-wolverine-escape
 *  JS Response Bytes: 2563993
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99469
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.comecosolhos.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Come C'os Olhos](http://www.comecosolhos.com/)
 
@@ -29,9 +35,6 @@ title: http://www.comecosolhos.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1774
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ww2.gamezroyal.com/?folio=7POJ4E717
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [gamezroyal.com](http://ww2.gamezroyal.com/?folio=7POJ4E717)
 
@@ -18,20 +22,17 @@ title: http://ww2.gamezroyal.com/?folio=7POJ4E717
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 2600
+*  Total Request Bytes: 2583
 
 ### Response data
 
-*  HTML Response Bytes: 20748
+*  HTML Response Bytes: 20652
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 2099
+*  Image Response Bytes: 2098
 *  JS Response Bytes: 173156
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.warriorbreak.com/usanewstv/
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [USA Online TV](http://www.warriorbreak.com/usanewstv/)
 
@@ -29,9 +32,6 @@ title: http://www.warriorbreak.com/usanewstv/
 *  JS Response Bytes: 1926672
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113444
-
-### Performance issues
-
 
 ### Performance issues
 

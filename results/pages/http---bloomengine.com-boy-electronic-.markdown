@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bloomengine.com/boy-electronic/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Atticus and Boy Electronic](http://bloomengine.com/boy-electronic/)
 
@@ -29,9 +32,6 @@ title: http://bloomengine.com/boy-electronic/
 *  JS Response Bytes: 205652
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

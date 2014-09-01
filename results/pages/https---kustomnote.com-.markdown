@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://kustomnote.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [KustomNote - Custom note taking templates and forms for Evernote](https://kustomnote.com/)
 
@@ -29,9 +32,6 @@ title: https://kustomnote.com/
 *  JS Response Bytes: 1298406
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118109
-
-### Performance issues
-
 
 ### Performance issues
 

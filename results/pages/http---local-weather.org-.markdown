@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://local-weather.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Local Weather](http://local-weather.org/)
 
@@ -29,9 +34,6 @@ title: http://local-weather.org/
 *  JS Response Bytes: 591976
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

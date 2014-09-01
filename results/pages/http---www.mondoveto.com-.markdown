@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mondoveto.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jeu de simulation de vétérinaire, créez votre clinique et sauvez les animaux malades. Jeu gratuit sur internet](http://www.mondoveto.com/)
 
@@ -29,9 +32,6 @@ title: http://www.mondoveto.com/
 *  JS Response Bytes: 1689283
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111212
-
-### Performance issues
-
 
 ### Performance issues
 

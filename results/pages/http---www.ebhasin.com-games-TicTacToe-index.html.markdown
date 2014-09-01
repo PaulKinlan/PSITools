@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ebhasin.com/games/TicTacToe/index.html
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tic-Tac-Toe -::- Bhasinsoft](http://www.ebhasin.com/games/TicTacToe/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.ebhasin.com/games/TicTacToe/index.html
 *  JS Response Bytes: 1373233
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18085
-
-### Performance issues
-
 
 ### Performance issues
 

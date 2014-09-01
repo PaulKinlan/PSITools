@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://vastwars-mmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Vast Wars Online](http://vastwars-mmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://vastwars-mmo.appspot.com/
 *  JS Response Bytes: 677215
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29266
-
-### Performance issues
-
 
 ### Performance issues
 

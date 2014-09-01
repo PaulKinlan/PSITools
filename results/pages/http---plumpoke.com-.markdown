@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://plumpoke.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PlumePoke - Online Radio Stream Cast WorldWide](http://plumpoke.com/)
 
@@ -29,9 +33,6 @@ title: http://plumpoke.com/
 *  JS Response Bytes: 135470
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

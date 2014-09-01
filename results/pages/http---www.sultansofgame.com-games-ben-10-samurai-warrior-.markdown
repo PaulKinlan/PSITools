@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/ben-10-samurai-warrior/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Ben 10 Samurai Warrior Game — Sultans of Game](http://www.sultansofgame.com/games/ben-10-samurai-warrior/)
 
@@ -29,9 +35,6 @@ title: http://www.sultansofgame.com/games/ben-10-samurai-warrior/
 *  JS Response Bytes: 1740913
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 126384
-
-### Performance issues
-
 
 ### Performance issues
 

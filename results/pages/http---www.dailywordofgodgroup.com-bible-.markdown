@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.dailywordofgodgroup.com/bible/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [KJV Simple Search Parallel Bible](http://www.dailywordofgodgroup.com/bible/)
 
@@ -29,9 +34,6 @@ title: http://www.dailywordofgodgroup.com/bible/
 *  JS Response Bytes: 8833
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gametop.com/online-free-games/zombie-rumble-online/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombie Rumble Free Online Game](http://www.gametop.com/online-free-games/zombie-rumble-online/)
 
@@ -29,9 +34,6 @@ title: http://www.gametop.com/online-free-games/zombie-rumble-online/
 *  JS Response Bytes: 586210
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

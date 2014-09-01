@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.zukgames.com/2014/05/01/clash-of-clans.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Clash of Clans – Best HD Games Play Now](http://www.zukgames.com/2014/05/01/clash-of-clans.html)
 
@@ -29,9 +34,6 @@ title: http://www.zukgames.com/2014/05/01/clash-of-clans.html
 *  JS Response Bytes: 1122534
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9100
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.tjejaffaren.se/
+UseLegibleFontSizes: true
 ---
 ## [Tjejaffären.se 2008-2014](http://www.tjejaffaren.se/)
 
@@ -29,9 +30,6 @@ title: http://www.tjejaffaren.se/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

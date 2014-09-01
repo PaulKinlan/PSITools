@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tunnelgame.net/flash-games/feed-us-4/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Feed us 4 « Flash Games, Online Games](http://www.tunnelgame.net/flash-games/feed-us-4/)
 
@@ -29,9 +34,6 @@ title: http://www.tunnelgame.net/flash-games/feed-us-4/
 *  JS Response Bytes: 1508433
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19659
-
-### Performance issues
-
 
 ### Performance issues
 

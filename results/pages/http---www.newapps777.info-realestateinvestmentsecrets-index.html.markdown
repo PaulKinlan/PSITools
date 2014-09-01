@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.newapps777.info/realestateinvestmentsecrets/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Real Estate Investment Secrets](http://www.newapps777.info/realestateinvestmentsecrets/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.newapps777.info/realestateinvestmentsecrets/index.html
 *  JS Response Bytes: 935600
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96717
-
-### Performance issues
-
 
 ### Performance issues
 

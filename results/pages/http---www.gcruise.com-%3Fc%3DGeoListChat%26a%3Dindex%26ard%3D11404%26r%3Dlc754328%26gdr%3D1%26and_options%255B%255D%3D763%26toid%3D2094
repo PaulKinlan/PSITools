@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gcruise.com/?c=GeoListChat&a=index&ard=11404&r=lc754328&gdr=1&and_options%5B%5D=763&toid=209404&toi=474181&tor=5508&lpid=64
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gay Hookups | Hot Gays | Meet Local Gay Men | Sex GCruise](http://www.gcruise.com/?c=GeoListChat&a=index&ard=11404&r=lc754328&gdr=1&and_options%5B%5D=763&toid=209404&toi=474181&tor=5508&lpid=64)
 
@@ -29,9 +34,6 @@ title: http://www.gcruise.com/?c=GeoListChat&a=index&ard=11404&r=lc754328&gdr=1&
 *  JS Response Bytes: 645786
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2118
-
-### Performance issues
-
 
 ### Performance issues
 

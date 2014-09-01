@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.testapps777.info/facebookspy/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Facebook Spy Monitor 2014 - Facebook Profile Monitoring Tool](http://www.testapps777.info/facebookspy/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.testapps777.info/facebookspy/index.html
 *  JS Response Bytes: 935857
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95650
-
-### Performance issues
-
 
 ### Performance issues
 

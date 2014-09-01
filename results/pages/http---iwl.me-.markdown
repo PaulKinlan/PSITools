@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://iwl.me/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [I Write Like](http://iwl.me/)
 
@@ -29,9 +32,6 @@ title: http://iwl.me/
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 66043
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.thomasmaguire.cf/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Thomas Maguire - Web Developer](http://www.thomasmaguire.cf/)
 
@@ -29,9 +31,6 @@ title: http://www.thomasmaguire.cf/
 *  JS Response Bytes: 171668
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50064
-
-### Performance issues
-
 
 ### Performance issues
 

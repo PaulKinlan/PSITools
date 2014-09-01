@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://affiliates.stockpair.com/?bta=23056&p=23056
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stockpair's Binary Options and Pair Options Affiliate Program](http://affiliates.stockpair.com/?bta=23056&p=23056)
 
@@ -29,9 +34,6 @@ title: http://affiliates.stockpair.com/?bta=23056&p=23056
 *  JS Response Bytes: 25557
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 555
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://my.doctape.com/login
+MinimizeRenderBlockingResources: true
 ---
 ## [my.doctape.com | login](https://my.doctape.com/login)
 
@@ -29,9 +30,6 @@ title: https://my.doctape.com/login
 *  JS Response Bytes: 119905
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 711
-
-### Performance issues
-
 
 ### Performance issues
 

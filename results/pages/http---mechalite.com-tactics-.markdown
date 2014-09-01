@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mechalite.com/tactics/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mechalite Tactics](http://mechalite.com/tactics/)
 
@@ -29,9 +33,6 @@ title: http://mechalite.com/tactics/
 *  JS Response Bytes: 505091
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1378
-
-### Performance issues
-
 
 ### Performance issues
 

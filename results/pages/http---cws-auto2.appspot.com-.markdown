@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://cws-auto2.appspot.com/
+UseLegibleFontSizes: true
 ---
 ## [Hello World! v2](http://cws-auto2.appspot.com/)
 
@@ -29,9 +30,6 @@ title: http://cws-auto2.appspot.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

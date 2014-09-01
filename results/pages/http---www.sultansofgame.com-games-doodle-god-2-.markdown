@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/doodle-god-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Doodle God 2 Game — Sultans of Game](http://www.sultansofgame.com/games/doodle-god-2/)
 
@@ -29,9 +34,6 @@ title: http://www.sultansofgame.com/games/doodle-god-2/
 *  JS Response Bytes: 1761794
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125663
-
-### Performance issues
-
 
 ### Performance issues
 

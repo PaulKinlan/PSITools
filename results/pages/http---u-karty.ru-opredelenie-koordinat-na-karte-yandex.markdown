@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://u-karty.ru/opredelenie-koordinat-na-karte-yandex
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Определение координат на карте Яндекс - широта и долгота страны, города, улицы, дома | Карты городов России и мира](http://u-karty.ru/opredelenie-koordinat-na-karte-yandex)
 
@@ -29,9 +34,6 @@ title: http://u-karty.ru/opredelenie-koordinat-na-karte-yandex
 *  JS Response Bytes: 2040724
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2814
-
-### Performance issues
-
 
 ### Performance issues
 

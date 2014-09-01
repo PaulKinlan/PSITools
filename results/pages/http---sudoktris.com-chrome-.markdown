@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://sudoktris.com/chrome/
+SizeTapTargetsAppropriately: true
 ---
 ## [Sudoktris](http://sudoktris.com/chrome/)
 
@@ -29,9 +30,6 @@ title: http://sudoktris.com/chrome/
 *  JS Response Bytes: 739939
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1888
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.lotto-007.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lottery Software - Lotto007 Ultimate 2014](http://www.lotto-007.com/)
 
@@ -29,9 +32,6 @@ title: http://www.lotto-007.com/
 *  JS Response Bytes: 521984
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94971
-
-### Performance issues
-
 
 ### Performance issues
 

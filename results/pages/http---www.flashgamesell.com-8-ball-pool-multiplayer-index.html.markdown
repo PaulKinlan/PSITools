@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.flashgamesell.com/8-ball-pool-multiplayer/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [8 Ball Pool Multiplayer | Flash Game Sell, Game Unity Games](http://www.flashgamesell.com/8-ball-pool-multiplayer/index.html)
 
@@ -29,9 +34,6 @@ title: http://www.flashgamesell.com/8-ball-pool-multiplayer/index.html
 *  JS Response Bytes: 2002872
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53987
-
-### Performance issues
-
 
 ### Performance issues
 

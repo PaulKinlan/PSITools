@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://applications.frenys.com/244441855242-palabras-de-amor/?quoteId=6129535&ref=chrome
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [♥ Palabras de Amor](http://applications.frenys.com/244441855242-palabras-de-amor/?quoteId=6129535&ref=chrome)
 
@@ -29,9 +34,6 @@ title: http://applications.frenys.com/244441855242-palabras-de-amor/?quoteId=612
 *  JS Response Bytes: 690177
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24411
-
-### Performance issues
-
 
 ### Performance issues
 

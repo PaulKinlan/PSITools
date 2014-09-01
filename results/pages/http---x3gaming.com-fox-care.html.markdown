@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://x3gaming.com/fox-care.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [– Fox Care](http://x3gaming.com/fox-care.html)
 
@@ -29,9 +35,6 @@ title: http://x3gaming.com/fox-care.html
 *  JS Response Bytes: 407855
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63574
-
-### Performance issues
-
 
 ### Performance issues
 

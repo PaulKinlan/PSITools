@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://lostforgames.info/games/knight-age/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Knight Age | Lost For Games](http://lostforgames.info/games/knight-age/)
 
@@ -29,9 +34,6 @@ title: http://lostforgames.info/games/knight-age/
 *  JS Response Bytes: 515287
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42311
-
-### Performance issues
-
 
 ### Performance issues
 

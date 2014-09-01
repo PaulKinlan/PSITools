@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.box10games.info/play/372/madburger-2.html#.U_uTaU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MadBurger 2 - Box10 Games - Online Free Flash Games](http://www.box10games.info/play/372/madburger-2.html#.U_uTaU0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.box10games.info/play/372/madburger-2.html#.U_uTaU0ieKA
 *  JS Response Bytes: 1463415
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14191
-
-### Performance issues
-
 
 ### Performance issues
 

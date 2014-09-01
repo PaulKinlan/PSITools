@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://3dsubwaysurfers.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Subway Surfers 3D](http://3dsubwaysurfers.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://3dsubwaysurfers.blogspot.com/?m=1
 *  JS Response Bytes: 791685
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287119
-
-### Performance issues
-
 
 ### Performance issues
 

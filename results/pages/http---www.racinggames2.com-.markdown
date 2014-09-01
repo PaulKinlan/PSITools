@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.racinggames2.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Racing Games - Play Free Racing Games at RacingGames2.com](http://www.racinggames2.com/)
 
@@ -29,9 +34,6 @@ title: http://www.racinggames2.com/
 *  JS Response Bytes: 1549218
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111440
-
-### Performance issues
-
 
 ### Performance issues
 

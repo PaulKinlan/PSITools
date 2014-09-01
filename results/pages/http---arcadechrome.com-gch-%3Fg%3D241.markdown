@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://arcadechrome.com/gch/?g=241
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Ferret Virtual Pet](http://arcadechrome.com/gch/?g=241)
 
@@ -29,9 +35,6 @@ title: http://arcadechrome.com/gch/?g=241
 *  JS Response Bytes: 387898
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1471
-
-### Performance issues
-
 
 ### Performance issues
 

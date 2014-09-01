@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.chromegames.co.uk/snowline.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Snow Line Game](http://www.chromegames.co.uk/snowline.html)
 
@@ -29,9 +34,6 @@ title: http://www.chromegames.co.uk/snowline.html
 *  JS Response Bytes: 2294209
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 133367
-
-### Performance issues
-
 
 ### Performance issues
 

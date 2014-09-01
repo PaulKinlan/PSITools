@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://trends24.in/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Worldwide | Top Twitter trends today | trends24.in](http://trends24.in/)
 
@@ -29,9 +31,6 @@ title: http://trends24.in/
 *  JS Response Bytes: 1514368
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 205811
-
-### Performance issues
-
 
 ### Performance issues
 

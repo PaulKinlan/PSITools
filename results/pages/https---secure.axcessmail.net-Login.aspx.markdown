@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://secure.axcessmail.net/Login.aspx
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SmarterMail](https://secure.axcessmail.net/Login.aspx)
 
@@ -29,9 +33,6 @@ title: https://secure.axcessmail.net/Login.aspx
 *  JS Response Bytes: 411708
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 869
-
-### Performance issues
-
 
 ### Performance issues
 

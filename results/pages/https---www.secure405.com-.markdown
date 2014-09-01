@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.secure405.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [free online pre setup spreadsheet](https://www.secure405.com/)
 
@@ -29,9 +32,6 @@ title: https://www.secure405.com/
 *  JS Response Bytes: 1526523
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110423
-
-### Performance issues
-
 
 ### Performance issues
 

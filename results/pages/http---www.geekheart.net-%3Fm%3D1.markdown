@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.geekheart.net/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Geek Heart - Un blog de México para todo el mundo Geek de Corazón](http://www.geekheart.net/?m=1)
 
@@ -29,9 +31,6 @@ title: http://www.geekheart.net/?m=1
 *  JS Response Bytes: 763065
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30332
-
-### Performance issues
-
 
 ### Performance issues
 

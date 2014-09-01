@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://chrome.simplytrader.biz/social-trading_it/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Copia i Traders e Fare i Soldi](http://chrome.simplytrader.biz/social-trading_it/)
 
@@ -29,9 +34,6 @@ title: http://chrome.simplytrader.biz/social-trading_it/
 *  JS Response Bytes: 1351210
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6064
-
-### Performance issues
-
 
 ### Performance issues
 

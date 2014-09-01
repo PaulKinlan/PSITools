@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamesforthebrain.com/game/dragger/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dragger - Games for the Brain](http://www.gamesforthebrain.com/game/dragger/)
 
@@ -29,9 +33,6 @@ title: http://www.gamesforthebrain.com/game/dragger/
 *  JS Response Bytes: 414771
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

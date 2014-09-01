@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.malvorlagenwelt.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ausmalbilder , malvorlagen zum ausdrucken](http://www.malvorlagenwelt.com/)
 
@@ -29,9 +32,6 @@ title: http://www.malvorlagenwelt.com/
 *  JS Response Bytes: 1600040
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110237
-
-### Performance issues
-
 
 ### Performance issues
 

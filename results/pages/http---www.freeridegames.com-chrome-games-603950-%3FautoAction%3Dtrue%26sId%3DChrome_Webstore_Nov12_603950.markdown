@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/603950/?autoAction=true&sId=Chrome_Webstore_Nov12_603950
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Go-Go Gourmet: Chef of the Year for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/603950/?autoAction=true&sId=Chrome_Webstore_Nov12_603950)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/603950/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1644736
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32165
-
-### Performance issues
-
 
 ### Performance issues
 

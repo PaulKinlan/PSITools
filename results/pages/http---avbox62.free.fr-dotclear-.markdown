@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://avbox62.free.fr/dotclear/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Construction @ Gouy sous Bellonne - Maison Cabre](http://avbox62.free.fr/dotclear/)
 
@@ -29,9 +34,6 @@ title: http://avbox62.free.fr/dotclear/
 *  JS Response Bytes: 248387
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

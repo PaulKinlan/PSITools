@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://eastinitiative.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [EAST Initiative](http://eastinitiative.org/)
 
@@ -29,9 +33,6 @@ title: http://eastinitiative.org/
 *  JS Response Bytes: 313329
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tarmogames.com/play/gyroball
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gyroball| Tarmo Games | Free Online Games, Online Shooting, Racing, Fighting Games](http://www.tarmogames.com/play/gyroball)
 
@@ -29,9 +34,6 @@ title: http://www.tarmogames.com/play/gyroball
 *  JS Response Bytes: 2392062
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39891
-
-### Performance issues
-
 
 ### Performance issues
 

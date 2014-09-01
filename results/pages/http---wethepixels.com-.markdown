@@ -33,8 +33,5 @@ title: http://wethepixels.com/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

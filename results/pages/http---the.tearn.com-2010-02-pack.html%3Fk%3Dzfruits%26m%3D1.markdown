@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://the.tearn.com/2010/02/pack.html?k=zfruits&m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Keys for Tablets: KidBook by TEARN for iPad, Playbook, Touchpad, Xoom, ChromeBook](http://the.tearn.com/2010/02/pack.html?k=zfruits&m=1)
 
@@ -29,9 +34,6 @@ title: http://the.tearn.com/2010/02/pack.html?k=zfruits&m=1
 *  JS Response Bytes: 1425220
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100604
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -33,8 +33,5 @@ title: http://www.dressupwhois.com/pets/monyos-adventure
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

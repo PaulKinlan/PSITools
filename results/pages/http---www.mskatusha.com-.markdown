@@ -33,8 +33,5 @@ title: http://www.mskatusha.com/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

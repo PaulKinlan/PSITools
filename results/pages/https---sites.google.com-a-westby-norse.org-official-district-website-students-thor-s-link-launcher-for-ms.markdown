@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sites.google.com/a/westby-norse.org/official-district-website/students/thor-s-link-launcher-for-ms
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Thor's Link Launcher for MS - Westby Area School District - Official Website](https://sites.google.com/a/westby-norse.org/official-district-website/students/thor-s-link-launcher-for-ms)
 
@@ -29,9 +32,6 @@ title: https://sites.google.com/a/westby-norse.org/official-district-website/stu
 *  JS Response Bytes: 453501
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25105
-
-### Performance issues
-
 
 ### Performance issues
 

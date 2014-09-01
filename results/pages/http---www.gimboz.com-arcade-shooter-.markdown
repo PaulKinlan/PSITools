@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.gimboz.com/arcade/shooter/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Gimboz.com](http://www.gimboz.com/arcade/shooter/)
 
@@ -29,9 +31,6 @@ title: http://www.gimboz.com/arcade/shooter/
 *  JS Response Bytes: 261784
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

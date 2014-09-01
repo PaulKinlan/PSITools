@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sweetstone.us/default-category/rocky-rider-2
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rocky Rider 2 - Sweet Stone](http://www.sweetstone.us/default-category/rocky-rider-2)
 
@@ -29,9 +34,6 @@ title: http://www.sweetstone.us/default-category/rocky-rider-2
 *  JS Response Bytes: 1880683
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120081
-
-### Performance issues
-
 
 ### Performance issues
 

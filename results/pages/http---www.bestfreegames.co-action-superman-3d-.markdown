@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.bestfreegames.co/action/superman-3d/
+UseLegibleFontSizes: true
 ---
 ## [](http://www.bestfreegames.co/action/superman-3d/)
 
@@ -29,9 +30,6 @@ title: http://www.bestfreegames.co/action/superman-3d/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

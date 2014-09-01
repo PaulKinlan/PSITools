@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://mit.merchantsinfo.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Merchants Integrity Test](https://mit.merchantsinfo.com/)
 
@@ -29,9 +33,6 @@ title: https://mit.merchantsinfo.com/
 *  JS Response Bytes: 55956
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

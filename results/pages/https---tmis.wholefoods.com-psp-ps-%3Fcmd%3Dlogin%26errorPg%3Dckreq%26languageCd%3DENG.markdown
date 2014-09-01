@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://tmis.wholefoods.com/psp/ps/?cmd=login&errorPg=ckreq&languageCd=ENG
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [An error has occurred.](https://tmis.wholefoods.com/psp/ps/?cmd=login&errorPg=ckreq&languageCd=ENG)
 
@@ -29,9 +33,6 @@ title: https://tmis.wholefoods.com/psp/ps/?cmd=login&errorPg=ckreq&languageCd=EN
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 786
-
-### Performance issues
-
 
 ### Performance issues
 

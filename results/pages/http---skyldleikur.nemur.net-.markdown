@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://skyldleikur.nemur.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Skyldleikur](http://skyldleikur.nemur.net/)
 
@@ -29,9 +32,6 @@ title: http://skyldleikur.nemur.net/
 *  JS Response Bytes: 321556
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.stationofgames.com/soccer-fk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Soccer FK](http://www.stationofgames.com/soccer-fk/)
 
@@ -29,9 +34,6 @@ title: http://www.stationofgames.com/soccer-fk/
 *  JS Response Bytes: 1992989
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 86110
-
-### Performance issues
-
 
 ### Performance issues
 

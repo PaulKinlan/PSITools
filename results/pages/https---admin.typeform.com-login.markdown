@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://admin.typeform.com/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Typeform| - Typeform| Error](https://admin.typeform.com/login)
 
@@ -29,9 +31,6 @@ title: https://admin.typeform.com/login
 *  JS Response Bytes: 344725
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10774
-
-### Performance issues
-
 
 ### Performance issues
 

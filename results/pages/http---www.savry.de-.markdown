@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.savry.de/
+MinimizeRenderBlockingResources: true
 ---
 ## [All die schönen Sachen - Savry](http://www.savry.de/)
 
@@ -29,9 +30,6 @@ title: http://www.savry.de/
 *  JS Response Bytes: 442993
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 74129
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.silvawood.co.uk/pitch/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Absolute Pitch](http://www.silvawood.co.uk/pitch/)
 
@@ -29,9 +32,6 @@ title: http://www.silvawood.co.uk/pitch/
 *  JS Response Bytes: 457950
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9187
-
-### Performance issues
-
 
 ### Performance issues
 

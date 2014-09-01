@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://chalkpainter.com/?label=ch1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ChalkPainter.com | Chalkboard Painting App](http://chalkpainter.com/?label=ch1)
 
@@ -29,9 +34,6 @@ title: http://chalkpainter.com/?label=ch1
 *  JS Response Bytes: 920245
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2481403
-
-### Performance issues
-
 
 ### Performance issues
 

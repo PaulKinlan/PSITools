@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bestgamepresident.blogspot.com/2013/11/assassin-hd.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Best of PC Game : Assassin hd](http://bestgamepresident.blogspot.com/2013/11/assassin-hd.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://bestgamepresident.blogspot.com/2013/11/assassin-hd.html?m=1
 *  JS Response Bytes: 971706
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287730
-
-### Performance issues
-
 
 ### Performance issues
 

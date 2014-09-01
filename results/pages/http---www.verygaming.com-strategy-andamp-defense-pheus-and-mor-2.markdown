@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.verygaming.com/strategy-andamp-defense/pheus-and-mor-2
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pheus and Mor - Best Games - VeryGaming - Play Free Online Games](http://www.verygaming.com/strategy-andamp-defense/pheus-and-mor-2)
 
@@ -29,9 +34,6 @@ title: http://www.verygaming.com/strategy-andamp-defense/pheus-and-mor-2
 *  JS Response Bytes: 1021538
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26221
-
-### Performance issues
-
 
 ### Performance issues
 

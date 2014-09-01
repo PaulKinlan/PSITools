@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.ape-apps.com/webapps/app.php?id=26
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Spirit Scanner](http://www.ape-apps.com/webapps/app.php?id=26)
 
@@ -29,9 +31,6 @@ title: http://www.ape-apps.com/webapps/app.php?id=26
 *  JS Response Bytes: 1541614
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110738
-
-### Performance issues
-
 
 ### Performance issues
 

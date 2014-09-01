@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.oneclickshop.us/
+EnableGzipCompression: true
+AvoidPlugins: true
 ---
 ## [One Click Shop](http://www.oneclickshop.us/)
 
@@ -29,9 +31,6 @@ title: http://www.oneclickshop.us/
 *  JS Response Bytes: 25852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

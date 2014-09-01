@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://wglads.com/reg
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Создание персонажа в Мире Гладиаторов](http://wglads.com/reg)
 
@@ -29,9 +34,6 @@ title: http://wglads.com/reg
 *  JS Response Bytes: 436550
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2535
-
-### Performance issues
-
 
 ### Performance issues
 

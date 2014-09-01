@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://tuedelkram.tumblr.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Tüdelkram](http://tuedelkram.tumblr.com/)
 
@@ -29,9 +31,6 @@ title: http://tuedelkram.tumblr.com/
 *  JS Response Bytes: 316696
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1212
-
-### Performance issues
-
 
 ### Performance issues
 

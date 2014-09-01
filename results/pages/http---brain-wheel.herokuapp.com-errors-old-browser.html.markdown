@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://brain-wheel.herokuapp.com/errors/old-browser.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Error: Your browser is too old](http://brain-wheel.herokuapp.com/errors/old-browser.html)
 
@@ -29,9 +33,6 @@ title: http://brain-wheel.herokuapp.com/errors/old-browser.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 77
-
-### Performance issues
-
 
 ### Performance issues
 

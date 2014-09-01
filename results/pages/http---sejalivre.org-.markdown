@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://sejalivre.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog Seja Livre - Linux, Android, Software Livre e Tecnologia](http://sejalivre.org/)
 
@@ -29,9 +34,6 @@ title: http://sejalivre.org/
 *  JS Response Bytes: 365656
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58755
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.sunsettballoons.co.uk/mysite2
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://www.sunsettballoons.co.uk/mysite2)
 
@@ -29,9 +31,6 @@ title: http://www.sunsettballoons.co.uk/mysite2
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4290
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://loan-calculator.herokuapp.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Loan Calculator](http://loan-calculator.herokuapp.com/)
 
@@ -29,9 +35,6 @@ title: http://loan-calculator.herokuapp.com/
 *  JS Response Bytes: 695388
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46296
-
-### Performance issues
-
 
 ### Performance issues
 

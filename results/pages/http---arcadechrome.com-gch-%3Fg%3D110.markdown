@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://arcadechrome.com/gch/?g=110
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Extreme Triathlon](http://arcadechrome.com/gch/?g=110)
 
@@ -29,9 +33,6 @@ title: http://arcadechrome.com/gch/?g=110
 *  JS Response Bytes: 1512492
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 38581
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.kingofactiongames.com/parking-games/just-park-it-5
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Just Park It 5 - Games - Play Free Online King of Action Games](http://www.kingofactiongames.com/parking-games/just-park-it-5)
 
@@ -29,9 +35,6 @@ title: http://www.kingofactiongames.com/parking-games/just-park-it-5
 *  JS Response Bytes: 527069
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

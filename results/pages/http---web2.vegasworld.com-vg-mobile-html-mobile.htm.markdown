@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://web2.vegasworld.com/vg/mobile/html/mobile.htm
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Vegas World – Free Online Casino Games](http://web2.vegasworld.com/vg/mobile/html/mobile.htm)
 
@@ -29,9 +31,6 @@ title: http://web2.vegasworld.com/vg/mobile/html/mobile.htm
 *  JS Response Bytes: 93553
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 910
-
-### Performance issues
-
 
 ### Performance issues
 

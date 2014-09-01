@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tecnoandroid.it/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tecno Android – Il migliore sito Android in Italia](http://www.tecnoandroid.it/)
 
@@ -29,9 +32,6 @@ title: http://www.tecnoandroid.it/
 *  JS Response Bytes: 1315416
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1302
-
-### Performance issues
-
 
 ### Performance issues
 

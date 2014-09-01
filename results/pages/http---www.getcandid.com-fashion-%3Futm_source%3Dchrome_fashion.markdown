@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.getcandid.com/fashion/?utm_source=chrome_fashion
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [#fashion](http://www.getcandid.com/fashion/?utm_source=chrome_fashion)
 
@@ -29,9 +31,6 @@ title: http://www.getcandid.com/fashion/?utm_source=chrome_fashion
 *  JS Response Bytes: 873624
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 219738
-
-### Performance issues
-
 
 ### Performance issues
 

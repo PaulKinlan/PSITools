@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.bestsolitairegames.com/tripeaks-solitaire/tripeaks-solitaire-crystal
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tripeaks Solitaire Crystal - Games - Play Free Online Best Solitaire Games](http://www.bestsolitairegames.com/tripeaks-solitaire/tripeaks-solitaire-crystal)
 
@@ -29,9 +36,6 @@ title: http://www.bestsolitairegames.com/tripeaks-solitaire/tripeaks-solitaire-c
 *  JS Response Bytes: 997184
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14927
-
-### Performance issues
-
 
 ### Performance issues
 

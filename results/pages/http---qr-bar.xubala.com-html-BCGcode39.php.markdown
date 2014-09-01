@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://qr-bar.xubala.com/html/BCGcode39.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Qrcode - Barcode Generator | Code 39 | Qrcode-barcode.xubala.com](http://qr-bar.xubala.com/html/BCGcode39.php)
 
@@ -29,9 +33,6 @@ title: http://qr-bar.xubala.com/html/BCGcode39.php
 *  JS Response Bytes: 488654
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14724
-
-### Performance issues
-
 
 ### Performance issues
 

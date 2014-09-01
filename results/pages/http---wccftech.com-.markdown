@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://wccftech.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [WCCFtech](http://wccftech.com/)
 
@@ -29,9 +32,6 @@ title: http://wccftech.com/
 *  JS Response Bytes: 875740
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7857
-
-### Performance issues
-
 
 ### Performance issues
 

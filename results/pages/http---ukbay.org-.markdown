@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ukbay.org/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [UKBay - TPB Proxy - Download music, movies, games, software!](http://ukbay.org/)
 
@@ -29,9 +33,6 @@ title: http://ukbay.org/
 *  JS Response Bytes: 1703896
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2864
-
-### Performance issues
-
 
 ### Performance issues
 

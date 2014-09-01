@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/action/italy-for-a-dreamer.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Italy for a dreamer Play Italy for a dreamer on Gamesk12.com Free Games](http://www.gamesk12.com/online/action/italy-for-a-dreamer.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamesk12.com/online/action/italy-for-a-dreamer.html
 *  JS Response Bytes: 1474405
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105847
-
-### Performance issues
-
 
 ### Performance issues
 

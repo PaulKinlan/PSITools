@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://s1.miramagia.de/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kostenloses Farmspiel voller Magie: Miramagia](http://s1.miramagia.de/)
 
@@ -29,9 +35,6 @@ title: http://s1.miramagia.de/
 *  JS Response Bytes: 2460960
 *  Flash Response Bytes: 10497
 *  Other Response Bytes: 122096
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/casino/girls-mahjong2
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Girls Mahjong2 - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/casino/girls-mahjong2)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/casino/girls-mahjong2
 *  JS Response Bytes: 2151838
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 157009
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.onlychromegames.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ONLY CHROME GAMES](http://www.onlychromegames.com/)
 
@@ -29,9 +33,6 @@ title: http://www.onlychromegames.com/
 *  JS Response Bytes: 680524
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16443
-
-### Performance issues
-
 
 ### Performance issues
 

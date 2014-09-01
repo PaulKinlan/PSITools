@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamethrone.org/3d-games/basketball-jam-shots
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Basketball Jam Shots - Free Online Games | GameThrone](http://www.gamethrone.org/3d-games/basketball-jam-shots)
 
@@ -29,9 +34,6 @@ title: http://www.gamethrone.org/3d-games/basketball-jam-shots
 *  JS Response Bytes: 2212489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 60375
-
-### Performance issues
-
 
 ### Performance issues
 

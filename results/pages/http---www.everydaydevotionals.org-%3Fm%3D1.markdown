@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.everydaydevotionals.org/?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Everyday Devotionals](http://www.everydaydevotionals.org/?m=1)
 
@@ -29,9 +32,6 @@ title: http://www.everydaydevotionals.org/?m=1
 *  JS Response Bytes: 835914
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17203
-
-### Performance issues
-
 
 ### Performance issues
 

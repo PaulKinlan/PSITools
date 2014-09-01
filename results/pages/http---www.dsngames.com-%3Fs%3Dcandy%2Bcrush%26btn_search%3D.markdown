@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.dsngames.com/?s=candy+crush&btn_search=
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Free Hd Games - Search results forcandy crush](http://www.dsngames.com/?s=candy+crush&btn_search=)
 
@@ -29,9 +34,6 @@ title: http://www.dsngames.com/?s=candy+crush&btn_search=
 *  JS Response Bytes: 634385
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

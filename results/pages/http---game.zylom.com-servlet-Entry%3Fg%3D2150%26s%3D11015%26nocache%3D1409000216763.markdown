@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://game.zylom.com/servlet/Entry?g=2150&s=11015&nocache=1409000216763
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Delicious - Emily's True Love](http://game.zylom.com/servlet/Entry?g=2150&s=11015&nocache=1409000216763)
 
@@ -29,9 +35,6 @@ title: http://game.zylom.com/servlet/Entry?g=2150&s=11015&nocache=1409000216763
 *  JS Response Bytes: 295615
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8110
-
-### Performance issues
-
 
 ### Performance issues
 

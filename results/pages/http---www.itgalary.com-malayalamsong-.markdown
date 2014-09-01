@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.itgalary.com/malayalamsong/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Evergreen Malayalam Songs](http://www.itgalary.com/malayalamsong/)
 
@@ -29,9 +33,6 @@ title: http://www.itgalary.com/malayalamsong/
 *  JS Response Bytes: 664515
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3568
-
-### Performance issues
-
 
 ### Performance issues
 

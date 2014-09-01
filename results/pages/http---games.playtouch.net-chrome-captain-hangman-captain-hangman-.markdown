@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://games.playtouch.net/chrome/captain-hangman/captain-hangman/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Captain Hangman](http://games.playtouch.net/chrome/captain-hangman/captain-hangman/)
 
@@ -29,9 +32,6 @@ title: http://games.playtouch.net/chrome/captain-hangman/captain-hangman/
 *  JS Response Bytes: 1446317
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1051
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.pjnation.com/easteregghunt/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Virtual Easter Egg Hunt](http://www.pjnation.com/easteregghunt/)
 
@@ -29,9 +32,6 @@ title: http://www.pjnation.com/easteregghunt/
 *  JS Response Bytes: 118836
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

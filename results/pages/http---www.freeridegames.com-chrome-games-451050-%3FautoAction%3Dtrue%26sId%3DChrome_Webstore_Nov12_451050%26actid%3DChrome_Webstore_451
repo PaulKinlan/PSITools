@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/451050/?autoAction=true&sId=Chrome_Webstore_Nov12_451050&actid=Chrome_Webstore_451050
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Birds on a Wire for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/451050/?autoAction=true&sId=Chrome_Webstore_Nov12_451050&actid=Chrome_Webstore_451050)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/451050/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1542985
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31807
-
-### Performance issues
-
 
 ### Performance issues
 

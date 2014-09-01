@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.mattboris.com/bbchrome.html
+UseLegibleFontSizes: true
 ---
 ## [sheetcake.com: 404 not found](http://www.mattboris.com/bbchrome.html)
 
@@ -29,9 +30,6 @@ title: http://www.mattboris.com/bbchrome.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1672
-
-### Performance issues
-
 
 ### Performance issues
 

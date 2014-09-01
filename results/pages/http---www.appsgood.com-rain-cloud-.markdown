@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.appsgood.com/rain-cloud/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [rain cloud](http://www.appsgood.com/rain-cloud/)
 
@@ -29,9 +35,6 @@ title: http://www.appsgood.com/rain-cloud/
 *  JS Response Bytes: 639126
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15381
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.etender-online.com/?client=webapp
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [eTender](https://www.etender-online.com/?client=webapp)
 
@@ -29,9 +32,6 @@ title: https://www.etender-online.com/?client=webapp
 *  JS Response Bytes: 1931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

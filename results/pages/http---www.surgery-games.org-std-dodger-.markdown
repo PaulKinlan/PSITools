@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.surgery-games.org/std-dodger/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [STD Dodger game](http://www.surgery-games.org/std-dodger/)
 
@@ -29,9 +36,6 @@ title: http://www.surgery-games.org/std-dodger/
 *  JS Response Bytes: 2397551
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 101684
-
-### Performance issues
-
 
 ### Performance issues
 

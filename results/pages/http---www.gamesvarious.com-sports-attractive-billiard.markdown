@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/sports/attractive-billiard
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Attractive Billiard - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/sports/attractive-billiard)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/sports/attractive-billiard
 *  JS Response Bytes: 2180502
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99789
-
-### Performance issues
-
 
 ### Performance issues
 

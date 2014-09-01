@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://onlinecallofduty.blogspot.com/2013/07/call-of-duty-4.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Call of duty 4 play game: Call of duty 4](http://onlinecallofduty.blogspot.com/2013/07/call-of-duty-4.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://onlinecallofduty.blogspot.com/2013/07/call-of-duty-4.html?m=1
 *  JS Response Bytes: 1262352
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97059
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.calculersonimc.fr/faites-le-test.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Calcul de l'IMC, faites le test - CalculerSonIMC](http://www.calculersonimc.fr/faites-le-test.html)
 
@@ -29,9 +32,6 @@ title: http://www.calculersonimc.fr/faites-le-test.html
 *  JS Response Bytes: 2138715
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 133767
-
-### Performance issues
-
 
 ### Performance issues
 

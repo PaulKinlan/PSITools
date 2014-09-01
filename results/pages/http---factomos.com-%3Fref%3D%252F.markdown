@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://factomos.com/?ref=%2F
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Logiciel de facturation en ligne et comptabilité : devis facture](http://factomos.com/?ref=%2F)
 
@@ -29,9 +34,6 @@ title: http://factomos.com/?ref=%2F
 *  JS Response Bytes: 1406812
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105624
-
-### Performance issues
-
 
 ### Performance issues
 

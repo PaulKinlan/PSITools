@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://datkey.com/datkey_mobile.html#folder
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DatKeyHome](https://datkey.com/datkey_mobile.html#folder)
 
@@ -29,9 +32,6 @@ title: https://datkey.com/datkey_mobile.html#folder
 *  JS Response Bytes: 404024
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 346
-
-### Performance issues
-
 
 ### Performance issues
 

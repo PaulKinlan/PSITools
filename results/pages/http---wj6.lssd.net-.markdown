@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://wj6.lssd.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Walter J. Baird 6th Grade](http://wj6.lssd.net/)
 
@@ -29,9 +33,6 @@ title: http://wj6.lssd.net/
 *  JS Response Bytes: 123178
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103520
-
-### Performance issues
-
 
 ### Performance issues
 

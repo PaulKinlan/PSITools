@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.jangosmtp.com/login.asp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SMTP Relay Service & Transactional Email API Log In | JangoSMTP](http://www.jangosmtp.com/login.asp)
 
@@ -29,9 +33,6 @@ title: http://www.jangosmtp.com/login.asp
 *  JS Response Bytes: 311693
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5096
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.startmare.com/?goto=live+tv
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [live tv](http://www.startmare.com/?goto=live+tv)
 
@@ -29,9 +32,6 @@ title: http://www.startmare.com/?goto=live+tv
 *  JS Response Bytes: 677162
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1745
-
-### Performance issues
-
 
 ### Performance issues
 

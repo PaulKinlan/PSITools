@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.palya.co/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Palya.co - Live video chat, simple and easy chatroulette.](http://www.palya.co/)
 
@@ -29,9 +34,6 @@ title: http://www.palya.co/
 *  JS Response Bytes: 1182431
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 138951
-
-### Performance issues
-
 
 ### Performance issues
 

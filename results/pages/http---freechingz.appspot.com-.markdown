@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://freechingz.appspot.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Oracle at VB I Ching](http://freechingz.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://freechingz.appspot.com/
 *  JS Response Bytes: 901841
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111604
-
-### Performance issues
-
 
 ### Performance issues
 

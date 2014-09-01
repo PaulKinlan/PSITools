@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://thebestandthenewestonlinegames.blogspot.com/2013/11/halloween-style.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The best and the newest online games: Halloween Style](http://thebestandthenewestonlinegames.blogspot.com/2013/11/halloween-style.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://thebestandthenewestonlinegames.blogspot.com/2013/11/halloween-styl
 *  JS Response Bytes: 1292432
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112128
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://app.zingcheckout.com/login
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ZingCheckout Login](https://app.zingcheckout.com/login)
 
@@ -29,9 +33,6 @@ title: https://app.zingcheckout.com/login
 *  JS Response Bytes: 157015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6956
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.achieve3000.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Differentiated Instruction | Achieve3000](http://www.achieve3000.com/)
 
@@ -29,9 +33,6 @@ title: http://www.achieve3000.com/
 *  JS Response Bytes: 505814
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2412
-
-### Performance issues
-
 
 ### Performance issues
 

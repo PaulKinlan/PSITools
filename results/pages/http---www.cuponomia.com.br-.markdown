@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.cuponomia.com.br/
+MinimizeRenderBlockingResources: true
 ---
 ## [Cuponomia: Cupom de Desconto, Descontos e Código Promocional](http://www.cuponomia.com.br/)
 
@@ -29,9 +30,6 @@ title: http://www.cuponomia.com.br/
 *  JS Response Bytes: 199211
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

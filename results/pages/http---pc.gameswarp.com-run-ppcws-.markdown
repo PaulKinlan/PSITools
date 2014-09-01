@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://pc.gameswarp.com/run/ppcws/
+EnableGzipCompression: true
 ---
 ## [Pachinko](http://pc.gameswarp.com/run/ppcws/)
 
@@ -29,9 +30,6 @@ title: http://pc.gameswarp.com/run/ppcws/
 *  JS Response Bytes: 954688
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1109
-
-### Performance issues
-
 
 ### Performance issues
 

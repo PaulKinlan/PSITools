@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://elibrary.bigchalk.com/elibweb/curriculum/do/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [eLibrary: Login](http://elibrary.bigchalk.com/elibweb/curriculum/do/login)
 
@@ -29,9 +33,6 @@ title: http://elibrary.bigchalk.com/elibweb/curriculum/do/login
 *  JS Response Bytes: 54717
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4241
-
-### Performance issues
-
 
 ### Performance issues
 

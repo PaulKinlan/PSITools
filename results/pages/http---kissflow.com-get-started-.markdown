@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://kissflow.com/get-started/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Get Started |](http://kissflow.com/get-started/)
 
@@ -29,9 +33,6 @@ title: http://kissflow.com/get-started/
 *  JS Response Bytes: 290397
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114662
-
-### Performance issues
-
 
 ### Performance issues
 

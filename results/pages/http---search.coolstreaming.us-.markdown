@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://search.coolstreaming.us/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Livesearch.tv - Search your Live Tv on Justin.tv,Ustream.tv, StreamIT, and Youtube ,Powered by CoolStreaming](http://search.coolstreaming.us/)
 
@@ -29,9 +35,6 @@ title: http://search.coolstreaming.us/
 *  JS Response Bytes: 1255918
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56680
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ndmobile.com.br/app/admin/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Administração - Catálogo ND Mobile](http://ndmobile.com.br/app/admin/)
 
@@ -29,9 +33,6 @@ title: http://ndmobile.com.br/app/admin/
 *  JS Response Bytes: 614404
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1454
-
-### Performance issues
-
 
 ### Performance issues
 

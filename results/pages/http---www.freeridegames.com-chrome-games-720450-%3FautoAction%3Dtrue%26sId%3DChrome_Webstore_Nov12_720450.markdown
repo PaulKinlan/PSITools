@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/720450/?autoAction=true&sId=Chrome_Webstore_Nov12_720450
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Jack Of All Tribes for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/720450/?autoAction=true&sId=Chrome_Webstore_Nov12_720450)
 
@@ -29,9 +34,6 @@ title: http://www.freeridegames.com/chrome/games/720450/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1336495
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34458
-
-### Performance issues
-
 
 ### Performance issues
 

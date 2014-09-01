@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://angrychromebirds.blogspot.com/2013/06/angry-birds-puzzle.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://angrychromebirds.blogspot.com/2013/06/angry-birds-puzzle.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://angrychromebirds.blogspot.com/2013/06/angry-birds-puzzle.html?m=1
 *  JS Response Bytes: 41021
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18842
-
-### Performance issues
-
 
 ### Performance issues
 

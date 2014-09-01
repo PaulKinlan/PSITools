@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/world-of-zombies
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Addicting Games](http://www.2addictinggames.com/games/world-of-zombies)
 
@@ -29,9 +34,6 @@ title: http://www.2addictinggames.com/games/world-of-zombies
 *  JS Response Bytes: 1515978
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16684
-
-### Performance issues
-
 
 ### Performance issues
 

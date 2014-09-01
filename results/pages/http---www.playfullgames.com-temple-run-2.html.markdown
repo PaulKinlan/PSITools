@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.playfullgames.com/temple-run-2.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Temple Run 2 : Play Full Games](http://www.playfullgames.com/temple-run-2.html)
 
@@ -29,9 +37,6 @@ title: http://www.playfullgames.com/temple-run-2.html
 *  JS Response Bytes: 1530020
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98572
-
-### Performance issues
-
 
 ### Performance issues
 

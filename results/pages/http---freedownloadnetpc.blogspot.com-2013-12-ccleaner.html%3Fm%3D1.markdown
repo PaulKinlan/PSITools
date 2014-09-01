@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://freedownloadnetpc.blogspot.com/2013/12/ccleaner.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [b](http://freedownloadnetpc.blogspot.com/2013/12/ccleaner.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://freedownloadnetpc.blogspot.com/2013/12/ccleaner.html?m=1
 *  JS Response Bytes: 800740
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331606
-
-### Performance issues
-
 
 ### Performance issues
 

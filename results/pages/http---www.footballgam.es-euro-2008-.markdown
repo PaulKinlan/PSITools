@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/euro-2008/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Euro 2008 Game](http://www.footballgam.es/euro-2008/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/euro-2008/
 *  JS Response Bytes: 2296889
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155303
-
-### Performance issues
-
 
 ### Performance issues
 

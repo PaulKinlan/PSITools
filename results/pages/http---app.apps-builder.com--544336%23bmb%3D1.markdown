@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://app.apps-builder.com//544336#bmb=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Game Dance Academy](http://app.apps-builder.com//544336#bmb=1)
 
@@ -29,9 +32,6 @@ title: http://app.apps-builder.com//544336#bmb=1
 *  JS Response Bytes: 1107016
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9645
-
-### Performance issues
-
 
 ### Performance issues
 

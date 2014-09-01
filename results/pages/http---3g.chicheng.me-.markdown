@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://3g.chicheng.me/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [联通3G手机资费计算器 | 计划套餐选择 | 话费价格](http://3g.chicheng.me/)
 
@@ -29,9 +35,6 @@ title: http://3g.chicheng.me/
 *  JS Response Bytes: 509230
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

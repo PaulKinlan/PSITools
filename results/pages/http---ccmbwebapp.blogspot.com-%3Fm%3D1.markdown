@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ccmbwebapp.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [CCMBWEBAPP](http://ccmbwebapp.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://ccmbwebapp.blogspot.com/?m=1
 *  JS Response Bytes: 248931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 560
-
-### Performance issues
-
 
 ### Performance issues
 

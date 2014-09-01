@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://app.visiblegeology.com/profile.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Visible Geology - Profile](http://app.visiblegeology.com/profile.html)
 
@@ -29,9 +32,6 @@ title: http://app.visiblegeology.com/profile.html
 *  JS Response Bytes: 1541038
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95808
-
-### Performance issues
-
 
 ### Performance issues
 

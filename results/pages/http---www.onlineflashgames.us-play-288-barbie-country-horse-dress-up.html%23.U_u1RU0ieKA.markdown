@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.onlineflashgames.us/play/288/barbie-country-horse-dress-up.html#.U_u1RU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Barbie Country Horse Dress Up - Online Flash Games](http://www.onlineflashgames.us/play/288/barbie-country-horse-dress-up.html#.U_u1RU0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.onlineflashgames.us/play/288/barbie-country-horse-dress-up.htm
 *  JS Response Bytes: 1460344
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17059
-
-### Performance issues
-
 
 ### Performance issues
 

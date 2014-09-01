@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.hotsoftwares.info/violinmasterpro/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Study with Eric Lewis Risk Free! Get in NOW before Eric is Booked!](http://www.hotsoftwares.info/violinmasterpro/index.html)
 
@@ -29,9 +36,6 @@ title: http://www.hotsoftwares.info/violinmasterpro/index.html
 *  JS Response Bytes: 1090878
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110419
-
-### Performance issues
-
 
 ### Performance issues
 

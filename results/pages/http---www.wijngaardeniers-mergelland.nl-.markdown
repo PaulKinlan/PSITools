@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.wijngaardeniers-mergelland.nl/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Wijngaardeniers Mergelland - 55 wijngaardeniers opweg naar morgen](http://www.wijngaardeniers-mergelland.nl/)
 
@@ -29,9 +32,6 @@ title: http://www.wijngaardeniers-mergelland.nl/
 *  JS Response Bytes: 9575
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

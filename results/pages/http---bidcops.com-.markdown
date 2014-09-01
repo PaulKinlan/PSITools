@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bidcops.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [BidCops | The PPC Reporting Tool | Help With Google AdWords](http://bidcops.com/)
 
@@ -29,9 +32,6 @@ title: http://bidcops.com/
 *  JS Response Bytes: 217710
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10917
-
-### Performance issues
-
 
 ### Performance issues
 

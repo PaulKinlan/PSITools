@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.miniclip.tw/call-of-duty/Miniclip
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nothing found for Call Of Duty Miniclip](http://www.miniclip.tw/call-of-duty/Miniclip)
 
@@ -29,9 +34,6 @@ title: http://www.miniclip.tw/call-of-duty/Miniclip
 *  JS Response Bytes: 1393495
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 135995
-
-### Performance issues
-
 
 ### Performance issues
 

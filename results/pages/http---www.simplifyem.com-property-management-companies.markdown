@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.simplifyem.com/property-management-companies
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Property Management Companies](http://www.simplifyem.com/property-management-companies)
 
@@ -29,9 +33,6 @@ title: http://www.simplifyem.com/property-management-companies
 *  JS Response Bytes: 430847
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 383
-
-### Performance issues
-
 
 ### Performance issues
 

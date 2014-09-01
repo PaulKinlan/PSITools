@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sites.google.com/site/vote4planetpluto/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Vote4PlanetPluto](https://sites.google.com/site/vote4planetpluto/)
 
@@ -29,9 +32,6 @@ title: https://sites.google.com/site/vote4planetpluto/
 *  JS Response Bytes: 508637
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50507
-
-### Performance issues
-
 
 ### Performance issues
 

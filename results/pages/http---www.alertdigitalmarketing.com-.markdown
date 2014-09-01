@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.alertdigitalmarketing.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Alert Digital Marketing](http://www.alertdigitalmarketing.com/)
 
@@ -29,9 +32,6 @@ title: http://www.alertdigitalmarketing.com/
 *  JS Response Bytes: 1534561
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 302653
-
-### Performance issues
-
 
 ### Performance issues
 

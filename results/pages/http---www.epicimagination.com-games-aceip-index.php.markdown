@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.epicimagination.com/games/aceip/index.php
+SizeContentToViewport: true
 ---
 ## [ACE IP - Find Out Your IP Address](http://www.epicimagination.com/games/aceip/index.php)
 
@@ -29,9 +30,6 @@ title: http://www.epicimagination.com/games/aceip/index.php
 *  JS Response Bytes: 9966
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3321
-
-### Performance issues
-
 
 ### Performance issues
 

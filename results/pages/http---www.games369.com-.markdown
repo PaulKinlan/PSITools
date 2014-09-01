@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.games369.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Free Online Games at Games369.com](http://www.games369.com/)
 
@@ -29,9 +35,6 @@ title: http://www.games369.com/
 *  JS Response Bytes: 1519683
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119862
-
-### Performance issues
-
 
 ### Performance issues
 

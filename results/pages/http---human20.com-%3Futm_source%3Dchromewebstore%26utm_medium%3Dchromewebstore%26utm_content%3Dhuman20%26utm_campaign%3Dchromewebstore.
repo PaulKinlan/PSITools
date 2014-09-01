@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://human20.com/?utm_source=chromewebstore&utm_medium=chromewebstore&utm_content=human20&utm_campaign=chromewebstore
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Human 2.0](http://human20.com/?utm_source=chromewebstore&utm_medium=chromewebstore&utm_content=human20&utm_campaign=chromewebstore)
 
@@ -29,9 +36,6 @@ title: http://human20.com/?utm_source=chromewebstore&utm_medium=chromewebstore&u
 *  JS Response Bytes: 1588123
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 176957
-
-### Performance issues
-
 
 ### Performance issues
 

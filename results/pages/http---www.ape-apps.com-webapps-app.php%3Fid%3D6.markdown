@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.ape-apps.com/webapps/app.php?id=6
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Light Bright](http://www.ape-apps.com/webapps/app.php?id=6)
 
@@ -29,9 +31,6 @@ title: http://www.ape-apps.com/webapps/app.php?id=6
 *  JS Response Bytes: 1541614
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110737
-
-### Performance issues
-
 
 ### Performance issues
 

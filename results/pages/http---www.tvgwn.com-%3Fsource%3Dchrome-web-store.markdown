@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.tvgwn.com/?source=chrome-web-store
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [GWN](http://www.tvgwn.com/?source=chrome-web-store)
 
@@ -29,9 +33,6 @@ title: http://www.tvgwn.com/?source=chrome-web-store
 *  JS Response Bytes: 2140747
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 438633
-
-### Performance issues
-
 
 ### Performance issues
 

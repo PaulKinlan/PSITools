@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://dagamingblog4u.blogspot.com/2014/02/temple-run-2-guide.html?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [The Gaming Blog: Temple Run 2 Guide](http://dagamingblog4u.blogspot.com/2014/02/temple-run-2-guide.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://dagamingblog4u.blogspot.com/2014/02/temple-run-2-guide.html?m=1
 *  JS Response Bytes: 1121220
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95591
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://apps.angryrobotzombie.com/theelementals/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Elementals](http://apps.angryrobotzombie.com/theelementals/)
 
@@ -29,9 +31,6 @@ title: http://apps.angryrobotzombie.com/theelementals/
 *  JS Response Bytes: 52171
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

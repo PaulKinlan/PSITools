@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://marceline.tedk12.com/perform/login.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Perform  - Login](https://marceline.tedk12.com/perform/login.aspx)
 
@@ -29,9 +33,6 @@ title: https://marceline.tedk12.com/perform/login.aspx
 *  JS Response Bytes: 324738
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://scratch.mit.edu/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Scratch - Imagine, Program, Share](http://scratch.mit.edu/)
 
@@ -29,9 +33,6 @@ title: http://scratch.mit.edu/
 *  JS Response Bytes: 658664
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

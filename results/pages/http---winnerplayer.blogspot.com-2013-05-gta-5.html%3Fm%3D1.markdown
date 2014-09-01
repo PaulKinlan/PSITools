@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://winnerplayer.blogspot.com/2013/05/gta-5.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [WINNER PLAYER: SpongeBob Blaster HD](http://winnerplayer.blogspot.com/2013/05/gta-5.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://winnerplayer.blogspot.com/2013/05/gta-5.html?m=1
 *  JS Response Bytes: 1121988
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95570
-
-### Performance issues
-
 
 ### Performance issues
 

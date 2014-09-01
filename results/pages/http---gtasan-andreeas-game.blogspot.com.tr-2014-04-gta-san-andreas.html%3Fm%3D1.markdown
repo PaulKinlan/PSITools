@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gtasan-andreeas-game.blogspot.com.tr/2014/04/gta-san-andreas.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [gta san andreas super game: gta san andreas](http://gtasan-andreeas-game.blogspot.com.tr/2014/04/gta-san-andreas.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://gtasan-andreeas-game.blogspot.com.tr/2014/04/gta-san-andreas.html?
 *  JS Response Bytes: 1148116
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99264
-
-### Performance issues
-
 
 ### Performance issues
 

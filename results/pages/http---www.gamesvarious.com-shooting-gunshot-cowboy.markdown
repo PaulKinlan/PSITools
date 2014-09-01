@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/shooting/gunshot-cowboy
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gunshot Cowboy - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/shooting/gunshot-cowboy)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/shooting/gunshot-cowboy
 *  JS Response Bytes: 2212723
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 164703
-
-### Performance issues
-
 
 ### Performance issues
 

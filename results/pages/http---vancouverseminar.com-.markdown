@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://vancouverseminar.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [VancouverSeminar.com | Conferences, Seminars & Expos in Vancouver, Burnaby, Richmond, Surrey](http://vancouverseminar.com/)
 
@@ -29,9 +34,6 @@ title: http://vancouverseminar.com/
 *  JS Response Bytes: 149512
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

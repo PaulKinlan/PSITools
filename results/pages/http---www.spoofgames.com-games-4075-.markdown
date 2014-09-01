@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.spoofgames.com/games/4075/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Haters War - Spoofgames.com](http://www.spoofgames.com/games/4075/)
 
@@ -29,9 +36,6 @@ title: http://www.spoofgames.com/games/4075/
 *  JS Response Bytes: 1053452
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 76255
-
-### Performance issues
-
 
 ### Performance issues
 

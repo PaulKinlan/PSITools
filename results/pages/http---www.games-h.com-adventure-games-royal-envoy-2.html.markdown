@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.games-h.com/adventure-games/royal-envoy-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Playing Royal Envoy 2 - Play Free Online Games at Games-H.COM](http://www.games-h.com/adventure-games/royal-envoy-2.html)
 
@@ -29,9 +35,6 @@ title: http://www.games-h.com/adventure-games/royal-envoy-2.html
 *  JS Response Bytes: 2456772
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141717
-
-### Performance issues
-
 
 ### Performance issues
 

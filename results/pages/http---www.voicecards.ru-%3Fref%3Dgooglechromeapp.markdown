@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.voicecards.ru/?ref=googlechromeapp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Голосовые открытки и поздравления: песенные смс поздравления, голосовые поздравления на мобильный, музыкальные поздравления и розыгрыши — аудио открытки от VoiceСards.ru](http://www.voicecards.ru/?ref=googlechromeapp)
 
@@ -29,9 +34,6 @@ title: http://www.voicecards.ru/?ref=googlechromeapp
 *  JS Response Bytes: 345412
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10164
-
-### Performance issues
-
 
 ### Performance issues
 

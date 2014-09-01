@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.simplyhired.com/a/mobile-jobs/home
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Job Search with Simply Hired](http://m.simplyhired.com/a/mobile-jobs/home)
 
@@ -29,9 +31,6 @@ title: http://m.simplyhired.com/a/mobile-jobs/home
 *  JS Response Bytes: 211321
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2479
-
-### Performance issues
-
 
 ### Performance issues
 

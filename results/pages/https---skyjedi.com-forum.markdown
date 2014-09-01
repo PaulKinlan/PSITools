@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://skyjedi.com/forum
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](https://skyjedi.com/forum)
 
@@ -29,9 +30,6 @@ title: https://skyjedi.com/forum
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1405
-
-### Performance issues
-
 
 ### Performance issues
 

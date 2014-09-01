@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://fwtchat.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [FwTchat - Le Tchat mobile, iPhone, android](http://fwtchat.net/)
 
@@ -29,9 +32,6 @@ title: http://fwtchat.net/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesalfa.net/default-category/ex-sniper
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ex-Sniper - Gamesalfa](http://www.gamesalfa.net/default-category/ex-sniper)
 
@@ -29,9 +34,6 @@ title: http://www.gamesalfa.net/default-category/ex-sniper
 *  JS Response Bytes: 2195433
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121691
-
-### Performance issues
-
 
 ### Performance issues
 

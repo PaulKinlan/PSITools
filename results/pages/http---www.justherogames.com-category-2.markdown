@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.justherogames.com/category/2
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hulk - Just Hero Games](http://www.justherogames.com/category/2)
 
@@ -29,9 +32,6 @@ title: http://www.justherogames.com/category/2
 *  JS Response Bytes: 649199
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1173
-
-### Performance issues
-
 
 ### Performance issues
 

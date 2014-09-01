@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://webdesk.levelhard.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [WebDesk](http://webdesk.levelhard.com/)
 
@@ -29,9 +31,6 @@ title: http://webdesk.levelhard.com/
 *  JS Response Bytes: 503810
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

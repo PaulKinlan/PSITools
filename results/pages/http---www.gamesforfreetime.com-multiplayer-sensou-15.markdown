@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gamesforfreetime.com/multiplayer/sensou-15
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sensou 1.5 - Games For Free Time](http://www.gamesforfreetime.com/multiplayer/sensou-15)
 
@@ -29,9 +36,6 @@ title: http://www.gamesforfreetime.com/multiplayer/sensou-15
 *  JS Response Bytes: 2563827
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97818
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://rrpsb.owschools.com/owsoo/login/auth;jsessionid=f2673409c5692c671df16b202325.io71
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login](https://rrpsb.owschools.com/owsoo/login/auth;jsessionid=f2673409c5692c671df16b202325.io71)
 
@@ -29,9 +33,6 @@ title: https://rrpsb.owschools.com/owsoo/login/auth;jsessionid=f2673409c5692c671
 *  JS Response Bytes: 1248704
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27375
-
-### Performance issues
-
 
 ### Performance issues
 

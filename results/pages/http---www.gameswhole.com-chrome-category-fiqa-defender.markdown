@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameswhole.com/chrome-category/fiqa-defender
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fiqa Defender - Games Whole](http://www.gameswhole.com/chrome-category/fiqa-defender)
 
@@ -29,9 +34,6 @@ title: http://www.gameswhole.com/chrome-category/fiqa-defender
 *  JS Response Bytes: 727208
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16282
-
-### Performance issues
-
 
 ### Performance issues
 

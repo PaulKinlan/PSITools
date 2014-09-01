@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://docs.google.com/forms/d/1JgS2I_JBdVaZ8mu3fYl7QvrhQyXzYSRyZad5GrqDhAo/viewform
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Campaign Material Tracking and Packing Form](https://docs.google.com/forms/d/1JgS2I_JBdVaZ8mu3fYl7QvrhQyXzYSRyZad5GrqDhAo/viewform)
 
@@ -29,9 +31,6 @@ title: https://docs.google.com/forms/d/1JgS2I_JBdVaZ8mu3fYl7QvrhQyXzYSRyZad5GrqD
 *  JS Response Bytes: 95085
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 700
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://supergamecoming.blogspot.com.tr/2014/05/find-parking-spot.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Super Game Coming: Find A Parking Spot](http://supergamecoming.blogspot.com.tr/2014/05/find-parking-spot.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://supergamecoming.blogspot.com.tr/2014/05/find-parking-spot.html?m=1
 *  JS Response Bytes: 1113463
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109682
-
-### Performance issues
-
 
 ### Performance issues
 

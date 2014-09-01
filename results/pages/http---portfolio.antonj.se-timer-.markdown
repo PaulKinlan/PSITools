@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://portfolio.antonj.se/timer/
+MinimizeRenderBlockingResources: true
 ---
 ## [Timer](http://portfolio.antonj.se/timer/)
 
@@ -29,9 +30,6 @@ title: http://portfolio.antonj.se/timer/
 *  JS Response Bytes: 76367
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

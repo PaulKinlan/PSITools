@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://api2.nextgame.ru/partner/chrome/startpage/218/
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Секреты Очарования](http://api2.nextgame.ru/partner/chrome/startpage/218/)
 
@@ -29,9 +33,6 @@ title: http://api2.nextgame.ru/partner/chrome/startpage/218/
 *  JS Response Bytes: 372381
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3357
-
-### Performance issues
-
 
 ### Performance issues
 

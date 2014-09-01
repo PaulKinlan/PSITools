@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://kingdomrushfrontiersgame.blogspot.com.tr/2014/04/flocky-birds.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Kingdom Rush Frontiers Game: Flocky Birds](http://kingdomrushfrontiersgame.blogspot.com.tr/2014/04/flocky-birds.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://kingdomrushfrontiersgame.blogspot.com.tr/2014/04/flocky-birds.html
 *  JS Response Bytes: 1420150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111053
-
-### Performance issues
-
 
 ### Performance issues
 

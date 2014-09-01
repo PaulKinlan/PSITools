@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.bestfreegames.co/classic/minecraft
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.bestfreegames.co/classic/minecraft)
 
@@ -29,9 +31,6 @@ title: http://www.bestfreegames.co/classic/minecraft
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

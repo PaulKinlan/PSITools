@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/game/name/lili-bazaar
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [lili-bazaar Addicting Games](http://www.2addictinggames.com/games/game/name/lili-bazaar)
 
@@ -29,9 +34,6 @@ title: http://www.2addictinggames.com/games/game/name/lili-bazaar
 *  JS Response Bytes: 1861667
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112971
-
-### Performance issues
-
 
 ### Performance issues
 

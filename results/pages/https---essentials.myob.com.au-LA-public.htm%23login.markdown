@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://essentials.myob.com.au/LA/public.htm#login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MYOB Essentials - Login](https://essentials.myob.com.au/LA/public.htm#login)
 
@@ -29,9 +35,6 @@ title: https://essentials.myob.com.au/LA/public.htm#login
 *  JS Response Bytes: 1004639
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10633
-
-### Performance issues
-
 
 ### Performance issues
 

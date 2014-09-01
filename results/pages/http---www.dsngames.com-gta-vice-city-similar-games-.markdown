@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.dsngames.com/gta-vice-city-similar-games/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gta vice city similar games](http://www.dsngames.com/gta-vice-city-similar-games/)
 
@@ -29,9 +34,6 @@ title: http://www.dsngames.com/gta-vice-city-similar-games/
 *  JS Response Bytes: 680006
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

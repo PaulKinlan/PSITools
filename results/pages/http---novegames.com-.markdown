@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://novegames.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Novegames.com](http://novegames.com/)
 
@@ -22,16 +24,13 @@ title: http://novegames.com/
 
 ### Response data
 
-*  HTML Response Bytes: 10684
+*  HTML Response Bytes: 10681
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 1305
 *  JS Response Bytes: 167619
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

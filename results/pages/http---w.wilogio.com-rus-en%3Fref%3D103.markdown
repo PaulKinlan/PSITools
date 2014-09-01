@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://w.wilogio.com/rus/en?ref=103
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Wilogio Words](http://w.wilogio.com/rus/en?ref=103)
 
@@ -29,9 +34,6 @@ title: http://w.wilogio.com/rus/en?ref=103
 *  JS Response Bytes: 433963
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

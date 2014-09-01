@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.calori.karmabilgi.net/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Calculation of body mass index](http://www.calori.karmabilgi.net/)
 
@@ -29,9 +34,6 @@ title: http://www.calori.karmabilgi.net/
 *  JS Response Bytes: 387925
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

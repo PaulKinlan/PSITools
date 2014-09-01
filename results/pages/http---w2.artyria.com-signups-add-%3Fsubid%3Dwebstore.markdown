@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://w2.artyria.com/signups/add/?subid=webstore
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Artyria: Das Browsergame der Antike : Mitspielen](http://w2.artyria.com/signups/add/?subid=webstore)
 
@@ -29,9 +33,6 @@ title: http://w2.artyria.com/signups/add/?subid=webstore
 *  JS Response Bytes: 117046
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

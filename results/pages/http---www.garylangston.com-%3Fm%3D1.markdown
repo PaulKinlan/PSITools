@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.garylangston.com/?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Gary Langston](http://www.garylangston.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://www.garylangston.com/?m=1
 *  JS Response Bytes: 248931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 823
-
-### Performance issues
-
 
 ### Performance issues
 

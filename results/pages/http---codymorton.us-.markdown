@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://codymorton.us/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Cody Morton](http://codymorton.us/)
 
@@ -29,9 +32,6 @@ title: http://codymorton.us/
 *  JS Response Bytes: 25850
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

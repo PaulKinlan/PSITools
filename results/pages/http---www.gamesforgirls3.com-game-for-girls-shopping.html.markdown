@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesforgirls3.com/game-for-girls/shopping.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shopping | Games for Girls - Play Dress Up, Cooking and Decorating Games](http://www.gamesforgirls3.com/game-for-girls/shopping.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamesforgirls3.com/game-for-girls/shopping.html
 *  JS Response Bytes: 2102075
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122026
-
-### Performance issues
-
 
 ### Performance issues
 

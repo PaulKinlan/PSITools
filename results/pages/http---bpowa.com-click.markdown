@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://bpowa.com/click
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Bpowa.com](http://bpowa.com/click)
 
@@ -29,9 +31,6 @@ title: http://bpowa.com/click
 *  JS Response Bytes: 97672
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 552
-
-### Performance issues
-
 
 ### Performance issues
 

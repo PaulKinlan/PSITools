@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.gamingto.com/default-category/play-snail-bob-5-love-story
+SizeTapTargetsAppropriately: true
 ---
 ## [gamingto.com](http://ww2.gamingto.com/default-category/play-snail-bob-5-love-story)
 
@@ -29,9 +30,6 @@ title: http://ww2.gamingto.com/default-category/play-snail-bob-5-love-story
 *  JS Response Bytes: 229840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21064
-
-### Performance issues
-
 
 ### Performance issues
 

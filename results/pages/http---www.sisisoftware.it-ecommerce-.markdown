@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sisisoftware.it/ecommerce/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Site Demo | eCommerce collegato in tempo reale con JOG CART](http://www.sisisoftware.it/ecommerce/)
 
@@ -29,9 +34,6 @@ title: http://www.sisisoftware.it/ecommerce/
 *  JS Response Bytes: 189990
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63891
-
-### Performance issues
-
 
 ### Performance issues
 

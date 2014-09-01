@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gianhanh.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gianhanh.com - Mua sắm trực tuyến - So sánh giá - Tìm giá nhanh nhất - Website bán hàng miễn phí](http://gianhanh.com/)
 
@@ -29,9 +33,6 @@ title: http://gianhanh.com/
 *  JS Response Bytes: 2061532
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 108480
-
-### Performance issues
-
 
 ### Performance issues
 

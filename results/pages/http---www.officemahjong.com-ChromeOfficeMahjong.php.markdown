@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.officemahjong.com/ChromeOfficeMahjong.php
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chrome Office Mahjong](http://www.officemahjong.com/ChromeOfficeMahjong.php)
 
@@ -29,9 +34,6 @@ title: http://www.officemahjong.com/ChromeOfficeMahjong.php
 *  JS Response Bytes: 1607106
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97469
-
-### Performance issues
-
 
 ### Performance issues
 

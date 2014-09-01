@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://techmags.net/action/sniper-team
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404 Error - Page Not Found](http://techmags.net/action/sniper-team)
 
@@ -29,9 +33,6 @@ title: http://techmags.net/action/sniper-team
 *  JS Response Bytes: 332308
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21813
-
-### Performance issues
-
 
 ### Performance issues
 

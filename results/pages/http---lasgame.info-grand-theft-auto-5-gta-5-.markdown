@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://lasgame.info/grand-theft-auto-5-gta-5/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LasGame.Info Play Online Game – Grand Theft Auto 5 GTA 5](http://lasgame.info/grand-theft-auto-5-gta-5/)
 
@@ -29,9 +33,6 @@ title: http://lasgame.info/grand-theft-auto-5-gta-5/
 *  JS Response Bytes: 729526
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14561
-
-### Performance issues
-
 
 ### Performance issues
 

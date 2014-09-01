@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chromegame.org/sports/play_sports_7855.html#.U_u1Ak0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crab Ball_Chromegame - Play the best free online games.](http://www.chromegame.org/sports/play_sports_7855.html#.U_u1Ak0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.chromegame.org/sports/play_sports_7855.html#.U_u1Ak0ieKA
 *  JS Response Bytes: 734907
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9693
-
-### Performance issues
-
 
 ### Performance issues
 

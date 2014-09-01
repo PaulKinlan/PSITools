@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://s1.miramagia.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free farm game bursting with magic: Miramagia](http://s1.miramagia.com/)
 
@@ -29,9 +35,6 @@ title: http://s1.miramagia.com/
 *  JS Response Bytes: 2461647
 *  Flash Response Bytes: 10497
 *  Other Response Bytes: 122100
-
-### Performance issues
-
 
 ### Performance issues
 

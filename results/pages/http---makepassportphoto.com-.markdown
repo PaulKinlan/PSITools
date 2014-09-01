@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://makepassportphoto.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Create free passport photos online - MakePassportPhoto.com](http://makepassportphoto.com/)
 
@@ -29,9 +34,6 @@ title: http://makepassportphoto.com/
 *  JS Response Bytes: 2005767
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118708
-
-### Performance issues
-
 
 ### Performance issues
 

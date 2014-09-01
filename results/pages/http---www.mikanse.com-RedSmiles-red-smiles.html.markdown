@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mikanse.com/RedSmiles/red-smiles.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Red smiles](http://www.mikanse.com/RedSmiles/red-smiles.html)
 
@@ -29,9 +34,6 @@ title: http://www.mikanse.com/RedSmiles/red-smiles.html
 *  JS Response Bytes: 1877679
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110931
-
-### Performance issues
-
 
 ### Performance issues
 

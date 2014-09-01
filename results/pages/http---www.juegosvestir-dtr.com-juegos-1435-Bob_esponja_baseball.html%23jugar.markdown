@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.juegosvestir-dtr.com/juegos/1435/Bob_esponja_baseball.html#jugar
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Juegos de Bob esponja baseball gratis](http://www.juegosvestir-dtr.com/juegos/1435/Bob_esponja_baseball.html#jugar)
 
@@ -29,9 +35,6 @@ title: http://www.juegosvestir-dtr.com/juegos/1435/Bob_esponja_baseball.html#jug
 *  JS Response Bytes: 1528080
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95868
-
-### Performance issues
-
 
 ### Performance issues
 

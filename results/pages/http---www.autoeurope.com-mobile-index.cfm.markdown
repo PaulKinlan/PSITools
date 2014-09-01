@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.autoeurope.com/mobile/index.cfm
+MinimizeRenderBlockingResources: true
 ---
 ## [Car Rentals On The Go | Auto Europe Mobile](http://www.autoeurope.com/mobile/index.cfm)
 
@@ -29,9 +30,6 @@ title: http://www.autoeurope.com/mobile/index.cfm
 *  JS Response Bytes: 415271
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2888
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://uslocaltv.appzend.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [USA TV, Canada TV](http://uslocaltv.appzend.net/)
 
@@ -29,9 +35,6 @@ title: http://uslocaltv.appzend.net/
 *  JS Response Bytes: 548230
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/crossing-cup-soccer/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crossing Cup Soccer Game](http://www.footballgam.es/crossing-cup-soccer/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/crossing-cup-soccer/
 *  JS Response Bytes: 2524046
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 160050
-
-### Performance issues
-
 
 ### Performance issues
 

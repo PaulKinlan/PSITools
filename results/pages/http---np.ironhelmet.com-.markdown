@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://np.ironhelmet.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Neptune's Pride. Explore, Expand, Exploit, Exterminate!](http://np.ironhelmet.com/)
 
@@ -29,9 +32,6 @@ title: http://np.ironhelmet.com/
 *  JS Response Bytes: 853958
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98338
-
-### Performance issues
-
 
 ### Performance issues
 

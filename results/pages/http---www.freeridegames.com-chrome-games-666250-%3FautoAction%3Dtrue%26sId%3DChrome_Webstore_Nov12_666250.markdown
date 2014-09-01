@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/666250/?autoAction=true&sId=Chrome_Webstore_Nov12_666250
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Vacation Mogul for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/666250/?autoAction=true&sId=Chrome_Webstore_Nov12_666250)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/666250/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1576280
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34057
-
-### Performance issues
-
 
 ### Performance issues
 

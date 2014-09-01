@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.lizten.us/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Lizten.Us - Free Listen Musics Online](http://www.lizten.us/)
 
@@ -29,9 +33,6 @@ title: http://www.lizten.us/
 *  JS Response Bytes: 1727834
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105334
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://freeplayonlinegame.ru/stil-dikar-ki_online-game_6474936.html?chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Игра Стиль дикарьки онлайн](http://freeplayonlinegame.ru/stil-dikar-ki_online-game_6474936.html?chrome)
 
@@ -29,9 +35,6 @@ title: http://freeplayonlinegame.ru/stil-dikar-ki_online-game_6474936.html?chrom
 *  JS Response Bytes: 349580
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 93161
-
-### Performance issues
-
 
 ### Performance issues
 

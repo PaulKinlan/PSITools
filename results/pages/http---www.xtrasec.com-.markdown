@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.xtrasec.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [XtraSEC - Android Security Suite](http://www.xtrasec.com/)
 
@@ -29,9 +32,6 @@ title: http://www.xtrasec.com/
 *  JS Response Bytes: 1908786
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1010
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.richmorning.fr/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Cours d'anglais pour débutants | Apprendre l'anglais en ligne](http://www.richmorning.fr/)
 
@@ -29,9 +32,6 @@ title: http://www.richmorning.fr/
 *  JS Response Bytes: 810918
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 157
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://snshero.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [undefined](http://snshero.com/)
 
@@ -29,9 +33,6 @@ title: http://snshero.com/
 *  JS Response Bytes: 349746
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

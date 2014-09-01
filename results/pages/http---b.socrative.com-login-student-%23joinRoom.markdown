@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://b.socrative.com/login/student/#joinRoom
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Socrative](http://b.socrative.com/login/student/#joinRoom)
 
@@ -13,12 +15,12 @@ title: http://b.socrative.com/login/student/#joinRoom
 
 ### Request information
 
-*  Number of Resources: 20
-*  Number of Hosts: 11
-*  Number of JS Resources: 12
+*  Number of Resources: 21
+*  Number of Hosts: 12
+*  Number of JS Resources: 13
 *  Number of CSS Resources: 2
-*  Nubmer of Static Resources: 4
-*  Total Request Bytes: 1851
+*  Nubmer of Static Resources: 5
+*  Total Request Bytes: 1935
 
 ### Response data
 
@@ -26,12 +28,9 @@ title: http://b.socrative.com/login/student/#joinRoom
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 43025
 *  Image Response Bytes: 19078
-*  JS Response Bytes: 412366
+*  JS Response Bytes: 428011
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 43099
-
-### Performance issues
-
+*  Other Response Bytes: 43097
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://atomurl.net/math/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TeX equation editor (Mathematical Formulas)](http://atomurl.net/math/)
 
@@ -29,9 +34,6 @@ title: http://atomurl.net/math/
 *  JS Response Bytes: 1338830
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110405
-
-### Performance issues
-
 
 ### Performance issues
 

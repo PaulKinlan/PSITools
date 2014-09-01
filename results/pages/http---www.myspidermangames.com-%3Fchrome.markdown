@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.myspidermangames.com/?chrome
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SpiderMan Games - Spider Man Games for Kids - Free Spiderman Games Online](http://www.myspidermangames.com/?chrome)
 
@@ -29,9 +33,6 @@ title: http://www.myspidermangames.com/?chrome
 *  JS Response Bytes: 384834
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 663
-
-### Performance issues
-
 
 ### Performance issues
 

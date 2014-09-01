@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/brian-damage/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Brian Damage](http://www.war-games.ws/brian-damage/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/brian-damage/
 *  JS Response Bytes: 2352846
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116222
-
-### Performance issues
-
 
 ### Performance issues
 

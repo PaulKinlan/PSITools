@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://wetterdeutschland.info/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Wetter und Wettervorhersage Deutschland](http://wetterdeutschland.info/)
 
@@ -29,9 +35,6 @@ title: http://wetterdeutschland.info/
 *  JS Response Bytes: 1376171
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112211
-
-### Performance issues
-
 
 ### Performance issues
 

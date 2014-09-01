@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://uwwebmaster.com/uw/nons.php?admin
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nons fotografie](http://uwwebmaster.com/uw/nons.php?admin)
 
@@ -29,9 +33,6 @@ title: http://uwwebmaster.com/uw/nons.php?admin
 *  JS Response Bytes: 134721
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100530
-
-### Performance issues
-
 
 ### Performance issues
 

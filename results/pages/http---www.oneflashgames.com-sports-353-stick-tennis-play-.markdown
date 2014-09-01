@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.oneflashgames.com/sports/353/stick-tennis/play/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Stick tennis game at One Flash Games](http://www.oneflashgames.com/sports/353/stick-tennis/play/)
 
@@ -29,9 +34,6 @@ title: http://www.oneflashgames.com/sports/353/stick-tennis/play/
 *  JS Response Bytes: 1225532
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 217558
-
-### Performance issues
-
 
 ### Performance issues
 

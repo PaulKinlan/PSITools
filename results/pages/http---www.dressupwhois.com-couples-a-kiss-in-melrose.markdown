@@ -33,8 +33,5 @@ title: http://www.dressupwhois.com/couples/a-kiss-in-melrose
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

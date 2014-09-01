@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://inspirationdashboard.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Inspiration Dashboard](http://inspirationdashboard.com/)
 
@@ -29,9 +34,6 @@ title: http://inspirationdashboard.com/
 *  JS Response Bytes: 2347383
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96533
-
-### Performance issues
-
 
 ### Performance issues
 

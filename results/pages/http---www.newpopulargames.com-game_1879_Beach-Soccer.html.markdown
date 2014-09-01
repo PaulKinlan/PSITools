@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_1879_Beach-Soccer.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Beach Soccer Flash Games](http://www.newpopulargames.com/game_1879_Beach-Soccer.html)
 
@@ -29,9 +34,6 @@ title: http://www.newpopulargames.com/game_1879_Beach-Soccer.html
 *  JS Response Bytes: 2804621
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 149803
-
-### Performance issues
-
 
 ### Performance issues
 

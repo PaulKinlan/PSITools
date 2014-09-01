@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://test.dreambroker.com/studio/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dream Broker login](https://test.dreambroker.com/studio/login)
 
@@ -29,9 +34,6 @@ title: https://test.dreambroker.com/studio/login
 *  JS Response Bytes: 195375
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48646
-
-### Performance issues
-
 
 ### Performance issues
 

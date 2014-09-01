@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://soundshout.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sia - Chandelier - Soundshout - Free Music For Me](http://soundshout.net/)
 
@@ -29,9 +33,6 @@ title: http://soundshout.net/
 *  JS Response Bytes: 1252341
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

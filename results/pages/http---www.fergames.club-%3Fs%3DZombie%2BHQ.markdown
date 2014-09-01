@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fergames.club/?s=Zombie+HQ
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombie HQ – Search Results – Online Best Games](http://www.fergames.club/?s=Zombie+HQ)
 
@@ -29,9 +34,6 @@ title: http://www.fergames.club/?s=Zombie+HQ
 *  JS Response Bytes: 561082
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

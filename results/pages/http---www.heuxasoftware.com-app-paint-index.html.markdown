@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.heuxasoftware.com/app/paint/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Digital Painter](http://www.heuxasoftware.com/app/paint/index.html)
 
@@ -29,9 +34,6 @@ title: http://www.heuxasoftware.com/app/paint/index.html
 *  JS Response Bytes: 996371
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15982
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.hotsoftwares.info/pdftotext/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PDF to Text Converter](http://www.hotsoftwares.info/pdftotext/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.hotsoftwares.info/pdftotext/index.html
 *  JS Response Bytes: 935597
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110124
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.war-games.ws/cool-war/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cool War](http://www.war-games.ws/cool-war/)
 
@@ -29,9 +35,6 @@ title: http://www.war-games.ws/cool-war/
 *  JS Response Bytes: 2255903
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115927
-
-### Performance issues
-
 
 ### Performance issues
 

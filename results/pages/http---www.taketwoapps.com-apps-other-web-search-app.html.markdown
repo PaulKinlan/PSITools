@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.taketwoapps.com/apps/other/web-search/app.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Internet Search eHelper](http://www.taketwoapps.com/apps/other/web-search/app.html)
 
@@ -29,9 +32,6 @@ title: http://www.taketwoapps.com/apps/other/web-search/app.html
 *  JS Response Bytes: 6649
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

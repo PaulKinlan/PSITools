@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.freeminininjas.info/cgi-sys/suspendedpage.cgi
+UseLegibleFontSizes: true
 ---
 ## [Account Suspended](http://www.freeminininjas.info/cgi-sys/suspendedpage.cgi)
 
@@ -18,7 +19,7 @@ title: http://www.freeminininjas.info/cgi-sys/suspendedpage.cgi
 *  Number of JS Resources: 0
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 323
+*  Total Request Bytes: 324
 
 ### Response data
 
@@ -29,9 +30,6 @@ title: http://www.freeminininjas.info/cgi-sys/suspendedpage.cgi
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 533
-
-### Performance issues
-
 
 ### Performance issues
 

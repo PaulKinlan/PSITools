@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://goog.goodbarber.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [](http://goog.goodbarber.com/)
 
@@ -29,9 +31,6 @@ title: http://goog.goodbarber.com/
 *  JS Response Bytes: 1506999
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1258
-
-### Performance issues
-
 
 ### Performance issues
 

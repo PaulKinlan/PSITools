@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.mundivideo.com/usa_streets/usastreetview.php
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MundiVideo - United States Street View](http://www.mundivideo.com/usa_streets/usastreetview.php)
 
@@ -29,9 +37,6 @@ title: http://www.mundivideo.com/usa_streets/usastreetview.php
 *  JS Response Bytes: 940146
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 70026
-
-### Performance issues
-
 
 ### Performance issues
 

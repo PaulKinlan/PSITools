@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://ireallydontgiveacrap.com/chrome/app/skywire2/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Skywire 2](http://ireallydontgiveacrap.com/chrome/app/skywire2/)
 
@@ -29,9 +34,6 @@ title: http://ireallydontgiveacrap.com/chrome/app/skywire2/
 *  JS Response Bytes: 399183
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17067
-
-### Performance issues
-
 
 ### Performance issues
 

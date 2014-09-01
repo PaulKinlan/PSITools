@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bubblezombie.com/?chromestore=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bubble Zombie](http://www.bubblezombie.com/?chromestore=1)
 
@@ -29,9 +33,6 @@ title: http://www.bubblezombie.com/?chromestore=1
 *  JS Response Bytes: 1587821
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 36285
-
-### Performance issues
-
 
 ### Performance issues
 

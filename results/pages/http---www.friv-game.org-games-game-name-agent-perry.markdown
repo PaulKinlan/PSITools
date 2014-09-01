@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.friv-game.org/games/game/name/agent-perry
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [agent-perry Friv Games](http://www.friv-game.org/games/game/name/agent-perry)
 
@@ -29,9 +35,6 @@ title: http://www.friv-game.org/games/game/name/agent-perry
 *  JS Response Bytes: 1872996
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111281
-
-### Performance issues
-
 
 ### Performance issues
 

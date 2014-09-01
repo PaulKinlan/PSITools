@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://manage1.esna.com/ucwcl/LoginPicker.aspx
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Esna Webex Cloudlink License Manager](https://manage1.esna.com/ucwcl/LoginPicker.aspx)
 
@@ -29,9 +32,6 @@ title: https://manage1.esna.com/ucwcl/LoginPicker.aspx
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 378
-
-### Performance issues
-
 
 ### Performance issues
 

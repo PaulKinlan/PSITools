@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://www.gethermit.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Hermit App - Create your private journal, online diary in seconds.](https://www.gethermit.com/)
 
@@ -29,9 +30,6 @@ title: https://www.gethermit.com/
 *  JS Response Bytes: 75644
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 78954
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.nirvanagame99.com/default-category/pirate-fairy-code
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pirate Fairy Code - Nirvanegame99.com](http://www.nirvanagame99.com/default-category/pirate-fairy-code)
 
@@ -29,9 +34,6 @@ title: http://www.nirvanagame99.com/default-category/pirate-fairy-code
 *  JS Response Bytes: 1526530
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19218
-
-### Performance issues
-
 
 ### Performance issues
 

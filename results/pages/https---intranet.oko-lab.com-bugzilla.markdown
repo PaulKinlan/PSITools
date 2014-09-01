@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://intranet.oko-lab.com/bugzilla
+UseLegibleFontSizes: true
 ---
 ## [401 Authorization Required](https://intranet.oko-lab.com/bugzilla)
 
@@ -29,9 +30,6 @@ title: https://intranet.oko-lab.com/bugzilla
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 776
-
-### Performance issues
-
 
 ### Performance issues
 

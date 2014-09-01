@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://maps.groupmap.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Maps | GroupMap](https://maps.groupmap.com/)
 
@@ -29,9 +33,6 @@ title: https://maps.groupmap.com/
 *  JS Response Bytes: 1148568
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 91702
-
-### Performance issues
-
 
 ### Performance issues
 

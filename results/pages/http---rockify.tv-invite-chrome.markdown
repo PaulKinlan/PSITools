@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://rockify.tv/invite/chrome
+UseLegibleFontSizes: true
 ---
 ## [Rockify.TV - Music to your eyes](http://rockify.tv/invite/chrome)
 
@@ -29,9 +30,6 @@ title: http://rockify.tv/invite/chrome
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 795
-
-### Performance issues
-
 
 ### Performance issues
 

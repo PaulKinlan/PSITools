@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.metascroll.com/search#_home
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
 ---
 ## [MetaScroll 4 Mobile](https://www.metascroll.com/search#_home)
 
@@ -29,9 +32,6 @@ title: https://www.metascroll.com/search#_home
 *  JS Response Bytes: 14277
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 885
-
-### Performance issues
-
 
 ### Performance issues
 

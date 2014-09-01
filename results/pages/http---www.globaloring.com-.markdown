@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.globaloring.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Global O-Ring and Seal](http://www.globaloring.com/)
 
@@ -29,9 +33,6 @@ title: http://www.globaloring.com/
 *  JS Response Bytes: 1060339
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

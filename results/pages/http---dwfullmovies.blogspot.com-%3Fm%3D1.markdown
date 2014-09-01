@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://dwfullmovies.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://dwfullmovies.blogspot.com/?m=1)
 
@@ -18,7 +21,7 @@ title: http://dwfullmovies.blogspot.com/?m=1
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 990
+*  Total Request Bytes: 989
 
 ### Response data
 
@@ -28,10 +31,7 @@ title: http://dwfullmovies.blogspot.com/?m=1
 *  Image Response Bytes: 2951
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 18762
-
-### Performance issues
-
+*  Other Response Bytes: 18760
 
 ### Performance issues
 

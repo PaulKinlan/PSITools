@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://app.receiptmonkey.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ReceiptMonkey - Login](https://app.receiptmonkey.com/)
 
@@ -29,9 +31,6 @@ title: https://app.receiptmonkey.com/
 *  JS Response Bytes: 325737
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58476
-
-### Performance issues
-
 
 ### Performance issues
 

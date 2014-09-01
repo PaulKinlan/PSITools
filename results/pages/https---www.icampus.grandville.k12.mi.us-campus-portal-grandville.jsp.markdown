@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.icampus.grandville.k12.mi.us/campus/portal/grandville.jsp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Campus Parent Portal Login](https://www.icampus.grandville.k12.mi.us/campus/portal/grandville.jsp)
 
@@ -29,9 +33,6 @@ title: https://www.icampus.grandville.k12.mi.us/campus/portal/grandville.jsp
 *  JS Response Bytes: 126819
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

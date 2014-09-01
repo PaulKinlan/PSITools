@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://secure.timeapp.biz/login
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login, P&K TimeApp](https://secure.timeapp.biz/login)
 
@@ -29,9 +34,6 @@ title: https://secure.timeapp.biz/login
 *  JS Response Bytes: 703363
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 507
-
-### Performance issues
-
 
 ### Performance issues
 

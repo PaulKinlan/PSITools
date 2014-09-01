@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.vouchercodesuae.com/?utm_medium=chrome&utm_source=app
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Voucher Codes UAE: Coupon Codes, Promo Codes, Deals & Discounts](http://www.vouchercodesuae.com/?utm_medium=chrome&utm_source=app)
 
@@ -29,9 +31,6 @@ title: http://www.vouchercodesuae.com/?utm_medium=chrome&utm_source=app
 *  JS Response Bytes: 1163138
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97531
-
-### Performance issues
-
 
 ### Performance issues
 

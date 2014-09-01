@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://jeuxflashenligne.com/jouer-super-mario-crossover
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Mario Crossover](http://jeuxflashenligne.com/jouer-super-mario-crossover)
 
@@ -29,9 +32,6 @@ title: http://jeuxflashenligne.com/jouer-super-mario-crossover
 *  JS Response Bytes: 1756941
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103839
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://bsfree-cloud.blaststation.com/users/login/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BlastStation-Free in the Cloud: Sign In](https://bsfree-cloud.blaststation.com/users/login/)
 
@@ -29,9 +34,6 @@ title: https://bsfree-cloud.blaststation.com/users/login/
 *  JS Response Bytes: 1292566
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10519
-
-### Performance issues
-
 
 ### Performance issues
 

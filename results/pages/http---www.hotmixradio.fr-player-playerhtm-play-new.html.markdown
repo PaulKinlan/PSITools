@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.hotmixradio.fr/player/playerhtm/play-new.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hotmixradio New - La Radio Nouveautés du bouquet de webradios Hotmixradio.fr](http://www.hotmixradio.fr/player/playerhtm/play-new.html)
 
@@ -29,9 +34,6 @@ title: http://www.hotmixradio.fr/player/playerhtm/play-new.html
 *  JS Response Bytes: 1664274
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16290
-
-### Performance issues
-
 
 ### Performance issues
 

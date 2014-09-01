@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/physics/demolition-drive-2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Demolition Drive 2 - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/physics/demolition-drive-2)
 
@@ -29,9 +35,6 @@ title: http://www.gamesvarious.com/physics/demolition-drive-2
 *  JS Response Bytes: 2180617
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99790
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.agadeta-games.com/online/timeline_of_jewish_history/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [](http://www.agadeta-games.com/online/timeline_of_jewish_history/)
 
@@ -29,9 +33,6 @@ title: http://www.agadeta-games.com/online/timeline_of_jewish_history/
 *  JS Response Bytes: 127531
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

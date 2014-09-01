@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://jogosapps.com.br/facebook/pegoe/
+UseLegibleFontSizes: true
 ---
 ## [404 - Page not found](http://jogosapps.com.br/facebook/pegoe/)
 
@@ -29,9 +30,6 @@ title: http://jogosapps.com.br/facebook/pegoe/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1168
-
-### Performance issues
-
 
 ### Performance issues
 

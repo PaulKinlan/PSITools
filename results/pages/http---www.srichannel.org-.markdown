@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.srichannel.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SriChannel » Col3neg Original Muthuvision Tharuanaya Sinhala Teledrama](http://www.srichannel.org/)
 
@@ -29,9 +33,6 @@ title: http://www.srichannel.org/
 *  JS Response Bytes: 313056
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4083
-
-### Performance issues
-
 
 ### Performance issues
 

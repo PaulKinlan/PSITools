@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://justcooking.in/dictionary
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [justcooking.in - Food Dictionary - Know your Food](http://justcooking.in/dictionary)
 
@@ -29,9 +33,6 @@ title: http://justcooking.in/dictionary
 *  JS Response Bytes: 2353789
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 333289
-
-### Performance issues
-
 
 ### Performance issues
 

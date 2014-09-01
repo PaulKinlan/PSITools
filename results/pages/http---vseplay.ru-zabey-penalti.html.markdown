@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://vseplay.ru/zabey-penalti.html
+UseLegibleFontSizes: true
 ---
 ## [503 Service Temporarily Unavailable](http://vseplay.ru/zabey-penalti.html)
 
@@ -29,9 +30,6 @@ title: http://vseplay.ru/zabey-penalti.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 608
-
-### Performance issues
-
 
 ### Performance issues
 

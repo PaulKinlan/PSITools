@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://deals.crushpath.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Crushpath](https://deals.crushpath.com/)
 
@@ -29,9 +32,6 @@ title: https://deals.crushpath.com/
 *  JS Response Bytes: 306224
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

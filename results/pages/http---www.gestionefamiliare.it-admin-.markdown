@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gestionefamiliare.it/admin/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Accedi all'Area Riservata](http://www.gestionefamiliare.it/admin/)
 
@@ -29,9 +33,6 @@ title: http://www.gestionefamiliare.it/admin/
 *  JS Response Bytes: 214909
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46462
-
-### Performance issues
-
 
 ### Performance issues
 

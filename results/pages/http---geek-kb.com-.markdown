@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://geek-kb.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [About US - Geek-KB.com](http://geek-kb.com/)
 
@@ -29,9 +31,6 @@ title: http://geek-kb.com/
 *  JS Response Bytes: 1255100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1400
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://trello.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Trello](https://trello.com/)
 
@@ -29,9 +32,6 @@ title: https://trello.com/
 *  JS Response Bytes: 142059
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

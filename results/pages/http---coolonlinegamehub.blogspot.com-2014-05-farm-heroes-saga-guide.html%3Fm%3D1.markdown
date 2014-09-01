@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://coolonlinegamehub.blogspot.com/2014/05/farm-heroes-saga-guide.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Chrome App Blog: Farm Heroes Saga Guide](http://coolonlinegamehub.blogspot.com/2014/05/farm-heroes-saga-guide.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://coolonlinegamehub.blogspot.com/2014/05/farm-heroes-saga-guide.html
 *  JS Response Bytes: 1162625
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95609
-
-### Performance issues
-
 
 ### Performance issues
 

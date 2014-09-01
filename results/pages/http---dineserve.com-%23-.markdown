@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://dineserve.com/#/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Dineserve](http://dineserve.com/#/)
 
@@ -29,9 +34,6 @@ title: http://dineserve.com/#/
 *  JS Response Bytes: 725538
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53056
-
-### Performance issues
-
 
 ### Performance issues
 

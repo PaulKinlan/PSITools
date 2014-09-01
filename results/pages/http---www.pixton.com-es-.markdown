@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pixton.com/es/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pixton | Comics | Haz un Cómic](http://www.pixton.com/es/)
 
@@ -29,9 +33,6 @@ title: http://www.pixton.com/es/
 *  JS Response Bytes: 500256
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46462
-
-### Performance issues
-
 
 ### Performance issues
 

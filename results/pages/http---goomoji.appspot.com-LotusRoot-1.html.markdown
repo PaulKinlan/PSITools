@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://goomoji.appspot.com/LotusRoot/1.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Lotus*Root Puzzle](http://goomoji.appspot.com/LotusRoot/1.html)
 
@@ -29,9 +32,6 @@ title: http://goomoji.appspot.com/LotusRoot/1.html
 *  JS Response Bytes: 315306
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

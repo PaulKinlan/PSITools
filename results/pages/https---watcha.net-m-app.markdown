@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://watcha.net/m/app
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [왓챠 :: 내 취향을 분석하는 영화 추천](https://watcha.net/m/app)
 
@@ -29,9 +32,6 @@ title: https://watcha.net/m/app
 *  JS Response Bytes: 150509
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1324
-
-### Performance issues
-
 
 ### Performance issues
 

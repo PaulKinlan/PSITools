@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/humaliens-battle-5/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Humaliens battle 5](http://www.war-games.ws/humaliens-battle-5/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/humaliens-battle-5/
 *  JS Response Bytes: 2293608
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122125
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.karlovvary.ru/?utm_source=chrome_roader&utm_medium=chrome_icon&utm_campaign=chrome_store
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Карловы Вары, отдых и лечение в Карловых Варах, отели и санатории Карловых Вар, туры в Карловы Вары, туры и отдых в Чехии](http://www.karlovvary.ru/?utm_source=chrome_roader&utm_medium=chrome_icon&utm_campaign=chrome_store)
 
@@ -29,9 +34,6 @@ title: http://www.karlovvary.ru/?utm_source=chrome_roader&utm_medium=chrome_icon
 *  JS Response Bytes: 280944
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5923
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://walterdalmut.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Walter Dal Mut - When the music's over turn out the lights](http://walterdalmut.com/)
 
@@ -29,9 +32,6 @@ title: http://walterdalmut.com/
 *  JS Response Bytes: 245485
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31448
-
-### Performance issues
-
 
 ### Performance issues
 

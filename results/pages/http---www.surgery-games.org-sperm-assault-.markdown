@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.surgery-games.org/sperm-assault/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sperm Assault game](http://www.surgery-games.org/sperm-assault/)
 
@@ -29,9 +36,6 @@ title: http://www.surgery-games.org/sperm-assault/
 *  JS Response Bytes: 2428907
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102361
-
-### Performance issues
-
 
 ### Performance issues
 

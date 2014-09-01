@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playonl9.blogspot.com/2013/05/counter-strike-dust-online.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Online: Counter Strike The Dust Online](http://playonl9.blogspot.com/2013/05/counter-strike-dust-online.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playonl9.blogspot.com/2013/05/counter-strike-dust-online.html?m=1
 *  JS Response Bytes: 2327818
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 288110
-
-### Performance issues
-
 
 ### Performance issues
 

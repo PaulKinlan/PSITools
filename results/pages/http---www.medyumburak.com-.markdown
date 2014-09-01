@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.medyumburak.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Medyum ® Medyum Burak ™ Ruhsatlı Medyum, Bağlama Büyüsü](http://www.medyumburak.com/)
 
@@ -29,9 +32,6 @@ title: http://www.medyumburak.com/
 *  JS Response Bytes: 788187
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 62123
-
-### Performance issues
-
 
 ### Performance issues
 

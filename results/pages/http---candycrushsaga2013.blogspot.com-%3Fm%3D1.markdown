@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://candycrushsaga2013.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [candy crush saga online game](http://candycrushsaga2013.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://candycrushsaga2013.blogspot.com/?m=1
 *  JS Response Bytes: 249915
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 576
-
-### Performance issues
-
 
 ### Performance issues
 

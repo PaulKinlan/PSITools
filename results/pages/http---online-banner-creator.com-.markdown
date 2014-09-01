@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://online-banner-creator.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Banner Maker](http://online-banner-creator.com/)
 
@@ -29,9 +35,6 @@ title: http://online-banner-creator.com/
 *  JS Response Bytes: 680740
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1662
-
-### Performance issues
-
 
 ### Performance issues
 

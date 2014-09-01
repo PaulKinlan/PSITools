@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://sampleapptry.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sample APP](http://sampleapptry.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://sampleapptry.blogspot.com/?m=1
 *  JS Response Bytes: 791691
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287112
-
-### Performance issues
-
 
 ### Performance issues
 

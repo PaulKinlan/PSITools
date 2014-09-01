@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.frivgamesonline.info/free-running-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Running 2 : Friv Games Online](http://www.frivgamesonline.info/free-running-2.html)
 
@@ -29,9 +33,6 @@ title: http://www.frivgamesonline.info/free-running-2.html
 *  JS Response Bytes: 3027585
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 146883
-
-### Performance issues
-
 
 ### Performance issues
 

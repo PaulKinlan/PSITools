@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://apps.wisestamp.com/landing/static/?app=ebay
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WiseStamp Email Apps - Get your Email App!](http://apps.wisestamp.com/landing/static/?app=ebay)
 
@@ -29,9 +34,6 @@ title: http://apps.wisestamp.com/landing/static/?app=ebay
 *  JS Response Bytes: 511284
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16237
-
-### Performance issues
-
 
 ### Performance issues
 

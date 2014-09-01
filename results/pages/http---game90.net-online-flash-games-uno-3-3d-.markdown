@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://game90.net/online-flash-games/uno-3-3d/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Uno 3 3D « Online Flash Games](http://game90.net/online-flash-games/uno-3-3d/)
 
@@ -29,9 +35,6 @@ title: http://game90.net/online-flash-games/uno-3-3d/
 *  JS Response Bytes: 1313065
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2230
-
-### Performance issues
-
 
 ### Performance issues
 

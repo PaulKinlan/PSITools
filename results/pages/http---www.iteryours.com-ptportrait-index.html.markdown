@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.iteryours.com/ptportrait/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gain the unexpected portrait retouching results with an easy way](http://www.iteryours.com/ptportrait/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.iteryours.com/ptportrait/index.html
 *  JS Response Bytes: 1061059
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96180
-
-### Performance issues
-
 
 ### Performance issues
 

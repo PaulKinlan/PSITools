@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/zombie-karts/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Zombie Karts Game — Sultans of Game](http://www.sultansofgame.com/games/zombie-karts/)
 
@@ -29,9 +33,6 @@ title: http://www.sultansofgame.com/games/zombie-karts/
 *  JS Response Bytes: 2714183
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 160354
-
-### Performance issues
-
 
 ### Performance issues
 

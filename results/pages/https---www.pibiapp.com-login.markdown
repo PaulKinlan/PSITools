@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.pibiapp.com/login
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Login - Pibi](https://www.pibiapp.com/login)
 
@@ -29,9 +31,6 @@ title: https://www.pibiapp.com/login
 *  JS Response Bytes: 1008514
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.absgames.info/?s=cl&x=0&y=0
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online free best games – Search Results – cl](http://www.absgames.info/?s=cl&x=0&y=0)
 
@@ -29,9 +33,6 @@ title: http://www.absgames.info/?s=cl&x=0&y=0
 *  JS Response Bytes: 534815
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

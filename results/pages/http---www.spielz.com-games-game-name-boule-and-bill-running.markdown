@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.spielz.com/games/game/name/boule-and-bill-running
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [boule-and-bill-running spiele](http://www.spielz.com/games/game/name/boule-and-bill-running)
 
@@ -29,9 +34,6 @@ title: http://www.spielz.com/games/game/name/boule-and-bill-running
 *  JS Response Bytes: 1861627
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112571
-
-### Performance issues
-
 
 ### Performance issues
 

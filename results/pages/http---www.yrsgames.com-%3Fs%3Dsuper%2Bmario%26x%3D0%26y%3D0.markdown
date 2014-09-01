@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.yrsgames.com/?s=super+mario&x=0&y=0
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [super mario « Search Results « Free Best HD Games Play Now](http://www.yrsgames.com/?s=super+mario&x=0&y=0)
 
@@ -29,9 +33,6 @@ title: http://www.yrsgames.com/?s=super+mario&x=0&y=0
 *  JS Response Bytes: 524100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

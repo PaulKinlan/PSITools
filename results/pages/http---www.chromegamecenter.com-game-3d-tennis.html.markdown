@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.chromegamecenter.com/game/3d-tennis.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Tennis Games online](http://www.chromegamecenter.com/game/3d-tennis.html)
 
@@ -29,9 +36,6 @@ title: http://www.chromegamecenter.com/game/3d-tennis.html
 *  JS Response Bytes: 1378678
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115050
-
-### Performance issues
-
 
 ### Performance issues
 

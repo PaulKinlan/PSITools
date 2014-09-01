@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.perfect-games.com/angry-birds-rio.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Rio | Perfect Games](http://www.perfect-games.com/angry-birds-rio.html)
 
@@ -29,9 +34,6 @@ title: http://www.perfect-games.com/angry-birds-rio.html
 *  JS Response Bytes: 1529084
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98577
-
-### Performance issues
-
 
 ### Performance issues
 

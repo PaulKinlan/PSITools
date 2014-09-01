@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.war-games.ws/fortress/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fortress Magnus](http://www.war-games.ws/fortress/)
 
@@ -29,9 +36,6 @@ title: http://www.war-games.ws/fortress/
 *  JS Response Bytes: 2353025
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122170
-
-### Performance issues
-
 
 ### Performance issues
 

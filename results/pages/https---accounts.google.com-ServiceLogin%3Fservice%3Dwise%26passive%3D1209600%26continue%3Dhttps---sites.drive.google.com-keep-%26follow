@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://sites.drive.google.com/keep/&followup=https://sites.drive.google.com/keep/&btmpl=mobile&ltmpl=keep
+AvoidLandingPageRedirects: true
 ---
 ## [Google Keep](https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://sites.drive.google.com/keep/&followup=https://sites.drive.google.com/keep/&btmpl=mobile&ltmpl=keep)
 
@@ -29,9 +30,6 @@ title: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&con
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50836
-
-### Performance issues
-
 
 ### Performance issues
 

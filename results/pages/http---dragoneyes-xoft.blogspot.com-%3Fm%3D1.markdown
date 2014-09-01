@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://dragoneyes-xoft.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Green Shooter](http://dragoneyes-xoft.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://dragoneyes-xoft.blogspot.com/?m=1
 *  JS Response Bytes: 763709
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1162
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://www.bimplus.net/out/webviewer/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [::: bim+ Web Explorer :::](https://www.bimplus.net/out/webviewer/)
 
@@ -29,9 +35,6 @@ title: https://www.bimplus.net/out/webviewer/
 *  JS Response Bytes: 1496137
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

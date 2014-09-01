@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://creativesparkstudios.com/goblins-at-the-gates/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Goblins at the Gates | Creative Spark Studios](http://creativesparkstudios.com/goblins-at-the-gates/index.html)
 
@@ -29,9 +34,6 @@ title: http://creativesparkstudios.com/goblins-at-the-gates/index.html
 *  JS Response Bytes: 1036870
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16879
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.socialesman.com/app/zed/zed.html
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Clone doesnt have this page](http://www.socialesman.com/app/zed/zed.html)
 
@@ -29,9 +31,6 @@ title: http://www.socialesman.com/app/zed/zed.html
 *  JS Response Bytes: 824332
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97408
-
-### Performance issues
-
 
 ### Performance issues
 

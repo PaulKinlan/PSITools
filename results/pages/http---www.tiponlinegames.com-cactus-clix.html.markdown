@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tiponlinegames.com/cactus-clix.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cactus Clix | TIP ONLINE GAMES](http://www.tiponlinegames.com/cactus-clix.html)
 
@@ -29,9 +34,6 @@ title: http://www.tiponlinegames.com/cactus-clix.html
 *  JS Response Bytes: 894186
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14915
-
-### Performance issues
-
 
 ### Performance issues
 

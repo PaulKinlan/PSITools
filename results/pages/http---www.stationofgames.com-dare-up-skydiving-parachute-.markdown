@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.stationofgames.com/dare-up-skydiving-parachute/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dare Up! Skydiving Parachute](http://www.stationofgames.com/dare-up-skydiving-parachute/)
 
@@ -29,9 +34,6 @@ title: http://www.stationofgames.com/dare-up-skydiving-parachute/
 *  JS Response Bytes: 1491817
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106946
-
-### Performance issues
-
 
 ### Performance issues
 

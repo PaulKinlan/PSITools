@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://www.google.co.uk/?gws_rd=cr,ssl&ei=DIL3U9jGFYXvaLKjgrAO
+AvoidLandingPageRedirects: true
 ---
 ## [Google](https://www.google.co.uk/?gws_rd=cr,ssl&ei=DIL3U9jGFYXvaLKjgrAO)
 
@@ -29,9 +30,6 @@ title: https://www.google.co.uk/?gws_rd=cr,ssl&ei=DIL3U9jGFYXvaLKjgrAO
 *  JS Response Bytes: 381910
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2615
-
-### Performance issues
-
 
 ### Performance issues
 

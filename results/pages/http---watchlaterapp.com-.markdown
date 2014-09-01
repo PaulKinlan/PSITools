@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://watchlaterapp.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Watchlater - Download videos on your iPad or iPhone](http://watchlaterapp.com/)
 
@@ -29,9 +32,6 @@ title: http://watchlaterapp.com/
 *  JS Response Bytes: 1147007
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2361
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/puzzlegames/where-is-my-water/#.U_uxD00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Where is my Water ? « Online Flash Game Where is my Water ?](http://gamematic.net/online-flash-games/puzzlegames/where-is-my-water/#.U_uxD00ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/puzzlegames/where-is-my-water/#.U
 *  JS Response Bytes: 1822134
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34950
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://apps.airy.me/muziq/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [Airy Music Player](http://apps.airy.me/muziq/)
 
@@ -29,9 +31,6 @@ title: http://apps.airy.me/muziq/
 *  JS Response Bytes: 562618
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

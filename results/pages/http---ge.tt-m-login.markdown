@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ge.tt/m/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Ge.tt](http://ge.tt/m/login)
 
@@ -29,9 +32,6 @@ title: http://ge.tt/m/login
 *  JS Response Bytes: 398880
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 707
-
-### Performance issues
-
 
 ### Performance issues
 

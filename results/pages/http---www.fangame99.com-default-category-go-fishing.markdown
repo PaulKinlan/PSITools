@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fangame99.com/default-category/go-fishing
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GO FISHING - Fangame99](http://www.fangame99.com/default-category/go-fishing)
 
@@ -29,9 +34,6 @@ title: http://www.fangame99.com/default-category/go-fishing
 *  JS Response Bytes: 666582
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16681
-
-### Performance issues
-
 
 ### Performance issues
 

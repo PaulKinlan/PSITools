@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gametores.com/oyun.php?id=77
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Turbo Racing 2](http://www.gametores.com/oyun.php?id=77)
 
@@ -29,9 +35,6 @@ title: http://www.gametores.com/oyun.php?id=77
 *  JS Response Bytes: 2565949
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 135237
-
-### Performance issues
-
 
 ### Performance issues
 

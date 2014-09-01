@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://fsforex.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Fsforex.com](http://fsforex.com/)
 
@@ -13,25 +15,22 @@ title: http://fsforex.com/
 
 ### Request information
 
-*  Number of Resources: 9
+*  Number of Resources: 10
 *  Number of Hosts: 6
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 1228
+*  Total Request Bytes: 1339
 
 ### Response data
 
-*  HTML Response Bytes: 10756
+*  HTML Response Bytes: 10519
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 1329
-*  JS Response Bytes: 167603
+*  Image Response Bytes: 1305
+*  JS Response Bytes: 167627
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 0
-
-### Performance issues
-
+*  Other Response Bytes: 209
 
 ### Performance issues
 

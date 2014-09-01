@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.youtips777.com/videoeditor/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Screen Capture | Video Editing | Webcam Recording | Game Recording App](http://www.youtips777.com/videoeditor/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.youtips777.com/videoeditor/index.html
 *  JS Response Bytes: 1034678
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112296
-
-### Performance issues
-
 
 ### Performance issues
 

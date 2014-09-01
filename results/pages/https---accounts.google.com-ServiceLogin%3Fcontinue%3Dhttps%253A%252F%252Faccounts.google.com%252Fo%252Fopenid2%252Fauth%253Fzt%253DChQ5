@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Faccounts.google.com%2Fo%2Fopenid2%2Fauth%3Fzt%3DChQ5amNOOS1LeEFnaEpwVTlPTjF6bBIfUW8yaTRLOUYwcFVab2lJQmVPNlAybS1lajFVZWtBSQ%25E2%2588%2599APsBz4gAAAAAU_uz4pp4BKP4vgYQhoWuYm_OtFHke_Ht%26from_login%3D1%26hl%3Den-GB%26as%3D1da873fa4af74770&ltmpl=popup&service=lso&sacu=1&hd=theolinstudio.com
+AvoidLandingPageRedirects: true
 ---
 ## [Sign in - Google Accounts](https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Faccounts.google.com%2Fo%2Fopenid2%2Fauth%3Fzt%3DChQ5amNOOS1LeEFnaEpwVTlPTjF6bBIfUW8yaTRLOUYwcFVab2lJQmVPNlAybS1lajFVZWtBSQ%25E2%2588%2599APsBz4gAAAAAU_uz4pp4BKP4vgYQhoWuYm_OtFHke_Ht%26from_login%3D1%26hl%3Den-GB%26as%3D1da873fa4af74770&ltmpl=popup&service=lso&sacu=1&hd=theolinstudio.com)
 
@@ -29,9 +30,6 @@ title: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Faccounts.
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57094
-
-### Performance issues
-
 
 ### Performance issues
 

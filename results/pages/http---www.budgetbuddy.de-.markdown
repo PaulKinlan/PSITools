@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.budgetbuddy.de/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BudgetBuddy.de](http://www.budgetbuddy.de/)
 
@@ -29,9 +34,6 @@ title: http://www.budgetbuddy.de/
 *  JS Response Bytes: 1526522
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.peroloquieroya.com.ar/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [...Pero Lo Quiero Ya! - Un blog sobre Internet, Negocios, Tecnología… Y Todo Lo Que Queremos Ya!](http://www.peroloquieroya.com.ar/)
 
@@ -29,9 +32,6 @@ title: http://www.peroloquieroya.com.ar/
 *  JS Response Bytes: 312282
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14647
-
-### Performance issues
-
 
 ### Performance issues
 

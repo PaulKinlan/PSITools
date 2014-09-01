@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.storycharts.ca/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Story Charts](http://www.storycharts.ca/)
 
@@ -29,9 +31,6 @@ title: http://www.storycharts.ca/
 *  JS Response Bytes: 814064
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10343
-
-### Performance issues
-
 
 ### Performance issues
 

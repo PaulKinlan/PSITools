@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.tomsplanner.com/?template=new&loginmode=googleonly
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tom's Planner (new document)](https://www.tomsplanner.com/?template=new&loginmode=googleonly)
 
@@ -29,9 +32,6 @@ title: https://www.tomsplanner.com/?template=new&loginmode=googleonly
 *  JS Response Bytes: 1066679
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

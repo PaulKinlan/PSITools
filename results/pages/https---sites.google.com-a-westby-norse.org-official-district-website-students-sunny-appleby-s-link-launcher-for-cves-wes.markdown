@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sites.google.com/a/westby-norse.org/official-district-website/students/sunny-appleby-s-link-launcher-for-cves-wes
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sunny & Appleby's Link Launcher for CVES & WES - Westby Area School District - Official Website](https://sites.google.com/a/westby-norse.org/official-district-website/students/sunny-appleby-s-link-launcher-for-cves-wes)
 
@@ -29,9 +32,6 @@ title: https://sites.google.com/a/westby-norse.org/official-district-website/stu
 *  JS Response Bytes: 453792
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25855
-
-### Performance issues
-
 
 ### Performance issues
 

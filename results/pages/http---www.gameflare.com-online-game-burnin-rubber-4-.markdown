@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gameflare.com/online-game/burnin-rubber-4/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Burnin Rubber 4 - online game | GameFlare.com](http://www.gameflare.com/online-game/burnin-rubber-4/)
 
@@ -29,9 +35,6 @@ title: http://www.gameflare.com/online-game/burnin-rubber-4/
 *  JS Response Bytes: 2738635
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 308179
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.downloadbox.us/skype-for-android/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Skype for android | Download Box](http://www.downloadbox.us/skype-for-android/)
 
@@ -29,9 +32,6 @@ title: http://www.downloadbox.us/skype-for-android/
 *  JS Response Bytes: 782321
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 225654
-
-### Performance issues
-
 
 ### Performance issues
 

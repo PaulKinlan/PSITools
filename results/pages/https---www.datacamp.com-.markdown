@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.datacamp.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online R tutorials and Data Science Courses - DataCamp](https://www.datacamp.com/)
 
@@ -29,9 +33,6 @@ title: https://www.datacamp.com/
 *  JS Response Bytes: 1028850
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59408
-
-### Performance issues
-
 
 ### Performance issues
 

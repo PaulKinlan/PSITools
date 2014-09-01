@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/goal-2011/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Goal 2011 Game](http://www.footballgam.es/goal-2011/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/goal-2011/
 *  JS Response Bytes: 2360335
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156821
-
-### Performance issues
-
 
 ### Performance issues
 

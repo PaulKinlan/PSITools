@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.askgame.info/play/409/pacman-dash.html#.U_2Mnk0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pacman dash - Ask Game - Best Free Online Flash Games](http://www.askgame.info/play/409/pacman-dash.html#.U_2Mnk0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.askgame.info/play/409/pacman-dash.html#.U_2Mnk0ieKA
 *  JS Response Bytes: 1710959
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34858
-
-### Performance issues
-
 
 ### Performance issues
 

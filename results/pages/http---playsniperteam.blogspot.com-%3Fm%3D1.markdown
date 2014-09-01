@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://playsniperteam.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Sniper Team Games](http://playsniperteam.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://playsniperteam.blogspot.com/?m=1
 *  JS Response Bytes: 314298
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6341
-
-### Performance issues
-
 
 ### Performance issues
 

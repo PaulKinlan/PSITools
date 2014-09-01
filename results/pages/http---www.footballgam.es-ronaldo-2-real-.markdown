@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/ronaldo-2-real/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ronaldo 2 Real Game](http://www.footballgam.es/ronaldo-2-real/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/ronaldo-2-real/
 *  JS Response Bytes: 2296809
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155748
-
-### Performance issues
-
 
 ### Performance issues
 

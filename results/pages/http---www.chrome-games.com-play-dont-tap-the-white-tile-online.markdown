@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.chrome-games.com/play-dont-tap-the-white-tile-online
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Don't Tap The White Tile Online | Chrome-Games.Com](http://www.chrome-games.com/play-dont-tap-the-white-tile-online)
 
@@ -29,9 +33,6 @@ title: http://www.chrome-games.com/play-dont-tap-the-white-tile-online
 *  JS Response Bytes: 2799979
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 252569
-
-### Performance issues
-
 
 ### Performance issues
 

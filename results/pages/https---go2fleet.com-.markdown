@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://go2fleet.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [CENTRIXS :: login](https://go2fleet.com/)
 
@@ -29,9 +32,6 @@ title: https://go2fleet.com/
 *  JS Response Bytes: 501286
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 65999
-
-### Performance issues
-
 
 ### Performance issues
 

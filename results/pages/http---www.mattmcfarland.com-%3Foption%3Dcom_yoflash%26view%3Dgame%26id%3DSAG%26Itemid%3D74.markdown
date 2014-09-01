@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mattmcfarland.com/?option=com_yoflash&view=game&id=SAG&Itemid=74
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [| McFarland BEATS](http://www.mattmcfarland.com/?option=com_yoflash&view=game&id=SAG&Itemid=74)
 
@@ -29,9 +32,6 @@ title: http://www.mattmcfarland.com/?option=com_yoflash&view=game&id=SAG&Itemid=
 *  JS Response Bytes: 1773946
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 240704
-
-### Performance issues
-
 
 ### Performance issues
 

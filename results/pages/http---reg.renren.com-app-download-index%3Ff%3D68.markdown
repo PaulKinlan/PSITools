@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://reg.renren.com/app/download/index?f=68
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [人人网客户端下载](http://reg.renren.com/app/download/index?f=68)
 
@@ -29,9 +32,6 @@ title: http://reg.renren.com/app/download/index?f=68
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 237
-
-### Performance issues
-
 
 ### Performance issues
 

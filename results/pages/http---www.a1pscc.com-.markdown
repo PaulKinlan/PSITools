@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.a1pscc.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [A-1 Police Style Center Consoles - Home](http://www.a1pscc.com/)
 
@@ -29,9 +31,6 @@ title: http://www.a1pscc.com/
 *  JS Response Bytes: 568508
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44157
-
-### Performance issues
-
 
 ### Performance issues
 

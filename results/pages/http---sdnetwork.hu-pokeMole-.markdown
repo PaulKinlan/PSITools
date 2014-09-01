@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://sdnetwork.hu/pokeMole/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SD Network - Error](http://sdnetwork.hu/pokeMole/)
 
@@ -29,9 +33,6 @@ title: http://sdnetwork.hu/pokeMole/
 *  JS Response Bytes: 492753
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35206
-
-### Performance issues
-
 
 ### Performance issues
 

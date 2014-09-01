@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/virtual-amalgam-composite-filling/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Virtual Amalgam & Composite Filling game](http://www.surgery-games.org/virtual-amalgam-composite-filling/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/virtual-amalgam-composite-filling/
 *  JS Response Bytes: 2479500
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114902
-
-### Performance issues
-
 
 ### Performance issues
 

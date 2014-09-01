@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://apps.yoyogames.com/pollushot/play
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pollushot | YoYo Games Ltd](https://apps.yoyogames.com/pollushot/play)
 
@@ -29,9 +33,6 @@ title: https://apps.yoyogames.com/pollushot/play
 *  JS Response Bytes: 2792783
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99476
-
-### Performance issues
-
 
 ### Performance issues
 

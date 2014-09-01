@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chrometopgames.com/web-store/reach-the-sky.php
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Reach The Sky - Free Games Online, Free Online Games, Flash Games!](http://www.chrometopgames.com/web-store/reach-the-sky.php)
 
@@ -29,9 +35,6 @@ title: http://www.chrometopgames.com/web-store/reach-the-sky.php
 *  JS Response Bytes: 1317846
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109057
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.fpag.com.br/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Folha de Pagamento Online | Fpag](http://www.fpag.com.br/)
 
@@ -29,9 +33,6 @@ title: http://www.fpag.com.br/
 *  JS Response Bytes: 1122566
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8015
-
-### Performance issues
-
 
 ### Performance issues
 

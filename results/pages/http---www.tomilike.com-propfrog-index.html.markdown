@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.tomilike.com/propfrog/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Pad To Launch Your Deals](http://www.tomilike.com/propfrog/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.tomilike.com/propfrog/index.html
 *  JS Response Bytes: 934197
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109055
-
-### Performance issues
-
 
 ### Performance issues
 

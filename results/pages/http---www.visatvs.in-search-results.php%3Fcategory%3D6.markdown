@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.visatvs.in/search-results.php?category=6
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Visatvs.in](http://www.visatvs.in/search-results.php?category=6)
 
@@ -29,9 +31,6 @@ title: http://www.visatvs.in/search-results.php?category=6
 *  JS Response Bytes: 167649
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

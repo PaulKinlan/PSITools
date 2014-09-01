@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://adsector.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Adsector | Everything About the Ads!](http://adsector.net/)
 
@@ -29,9 +32,6 @@ title: http://adsector.net/
 *  JS Response Bytes: 1371449
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 101800
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.freelegogames.us/play/314/minions-clean-room.html#.U_d-4U0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Minions Clean Room - Free Logo Games](http://www.freelegogames.us/play/314/minions-clean-room.html#.U_d-4U0ieKA)
 
@@ -29,9 +36,6 @@ title: http://www.freelegogames.us/play/314/minions-clean-room.html#.U_d-4U0ieKA
 *  JS Response Bytes: 1447686
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9457
-
-### Performance issues
-
 
 ### Performance issues
 

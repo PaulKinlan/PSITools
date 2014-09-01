@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://app.meinprospekt.de/?noredir=1#home
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MeinProspekt App](http://app.meinprospekt.de/?noredir=1#home)
 
@@ -29,9 +37,6 @@ title: http://app.meinprospekt.de/?noredir=1#home
 *  JS Response Bytes: 550753
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 772
-
-### Performance issues
-
 
 ### Performance issues
 

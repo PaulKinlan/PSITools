@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://candycrush.pvz01.us/voyage/games/candycrushsaga.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Candy Crush saga](http://candycrush.pvz01.us/voyage/games/candycrushsaga.html)
 
@@ -29,9 +34,6 @@ title: http://candycrush.pvz01.us/voyage/games/candycrushsaga.html
 *  JS Response Bytes: 606285
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16504
-
-### Performance issues
-
 
 ### Performance issues
 

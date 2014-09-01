@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.rabattzky.de/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Default Parallels Plesk Panel Page](http://www.rabattzky.de/)
 
@@ -29,9 +34,6 @@ title: http://www.rabattzky.de/
 *  JS Response Bytes: 715
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

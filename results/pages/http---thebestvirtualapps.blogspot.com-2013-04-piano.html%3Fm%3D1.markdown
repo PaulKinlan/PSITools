@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://thebestvirtualapps.blogspot.com/2013/04/piano.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [Best Music Instruments: Piano](http://thebestvirtualapps.blogspot.com/2013/04/piano.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://thebestvirtualapps.blogspot.com/2013/04/piano.html?m=1
 *  JS Response Bytes: 1123375
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95874
-
-### Performance issues
-
 
 ### Performance issues
 

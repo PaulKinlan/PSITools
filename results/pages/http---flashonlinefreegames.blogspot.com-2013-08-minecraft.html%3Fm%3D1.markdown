@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://flashonlinefreegames.blogspot.com/2013/08/minecraft.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Online free games, card games, casino games, flash games: Minecraft](http://flashonlinefreegames.blogspot.com/2013/08/minecraft.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://flashonlinefreegames.blogspot.com/2013/08/minecraft.html?m=1
 *  JS Response Bytes: 992105
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99224
-
-### Performance issues
-
 
 ### Performance issues
 

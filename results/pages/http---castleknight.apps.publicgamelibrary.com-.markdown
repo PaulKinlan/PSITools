@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://castleknight.apps.publicgamelibrary.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Castle Knight](http://castleknight.apps.publicgamelibrary.com/)
 
@@ -29,9 +30,6 @@ title: http://castleknight.apps.publicgamelibrary.com/
 *  JS Response Bytes: 51394
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

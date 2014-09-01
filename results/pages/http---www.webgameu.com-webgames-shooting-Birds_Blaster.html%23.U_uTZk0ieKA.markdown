@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.webgameu.com/webgames/shooting/Birds_Blaster.html#.U_uTZk0ieKA
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Birds Blaster_我的网站](http://www.webgameu.com/webgames/shooting/Birds_Blaster.html#.U_uTZk0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.webgameu.com/webgames/shooting/Birds_Blaster.html#.U_uTZk0ieKA
 *  JS Response Bytes: 734689
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9778
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://chrome.simplytrader.biz/learn_es/#.U_eKD00ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Academia de Operacion - FOREX](http://chrome.simplytrader.biz/learn_es/#.U_eKD00ieKA)
 
@@ -29,9 +35,6 @@ title: http://chrome.simplytrader.biz/learn_es/#.U_eKD00ieKA
 *  JS Response Bytes: 1646371
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 131267
-
-### Performance issues
-
 
 ### Performance issues
 

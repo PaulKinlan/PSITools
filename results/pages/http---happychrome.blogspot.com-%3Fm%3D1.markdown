@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://happychrome.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Online Games Full](http://happychrome.blogspot.com/?m=1)
 
@@ -25,13 +26,10 @@ title: http://happychrome.blogspot.com/?m=1
 *  HTML Response Bytes: 44985
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 21448
-*  Image Response Bytes: 19271
-*  JS Response Bytes: 248931
+*  Image Response Bytes: 19270
+*  JS Response Bytes: 248930
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 562
-
-### Performance issues
-
 
 ### Performance issues
 

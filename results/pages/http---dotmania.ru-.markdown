@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://dotmania.ru/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+UseLegibleFontSizes: true
 ---
 ## [ДотМания](http://dotmania.ru/)
 
@@ -29,9 +33,6 @@ title: http://dotmania.ru/
 *  JS Response Bytes: 72804
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 873
-
-### Performance issues
-
 
 ### Performance issues
 

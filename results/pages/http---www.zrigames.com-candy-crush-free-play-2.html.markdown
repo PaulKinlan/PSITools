@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.zrigames.com/candy-crush-free-play-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Candy crush free play « Best HD Games Play Now](http://www.zrigames.com/candy-crush-free-play-2.html)
 
@@ -29,9 +33,6 @@ title: http://www.zrigames.com/candy-crush-free-play-2.html
 *  JS Response Bytes: 398593
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://twitlist.net/?utm_source=browser_addon&utm_medium=apps&utm_campaign=chrome1_0_0
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [twitlist - みんなでつくるtwitterアカウントまとめサイト](http://twitlist.net/?utm_source=browser_addon&utm_medium=apps&utm_campaign=chrome1_0_0)
 
@@ -29,9 +32,6 @@ title: http://twitlist.net/?utm_source=browser_addon&utm_medium=apps&utm_campaig
 *  JS Response Bytes: 441469
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 888
-
-### Performance issues
-
 
 ### Performance issues
 

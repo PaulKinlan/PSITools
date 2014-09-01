@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.ubirimi.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Project management and collaboration tools | Ubirimi](https://www.ubirimi.com/)
 
@@ -29,9 +33,6 @@ title: https://www.ubirimi.com/
 *  JS Response Bytes: 344261
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 548
-
-### Performance issues
-
 
 ### Performance issues
 

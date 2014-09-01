@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.notablebiographies.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Encyclopedia of World Biography](http://www.notablebiographies.com/)
 
@@ -29,9 +32,6 @@ title: http://www.notablebiographies.com/
 *  JS Response Bytes: 76798
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

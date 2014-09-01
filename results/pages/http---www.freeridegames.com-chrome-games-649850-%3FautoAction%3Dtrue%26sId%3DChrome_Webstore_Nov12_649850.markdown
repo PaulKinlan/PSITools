@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/649850/?autoAction=true&sId=Chrome_Webstore_Nov12_649850
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Dragon Portals for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/649850/?autoAction=true&sId=Chrome_Webstore_Nov12_649850)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/649850/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1337285
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34721
-
-### Performance issues
-
 
 ### Performance issues
 

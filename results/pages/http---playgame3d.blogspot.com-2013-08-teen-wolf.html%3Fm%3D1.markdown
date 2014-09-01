@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://playgame3d.blogspot.com/2013/08/teen-wolf.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Online Free GamePlay: Teen Wolf](http://playgame3d.blogspot.com/2013/08/teen-wolf.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://playgame3d.blogspot.com/2013/08/teen-wolf.html?m=1
 *  JS Response Bytes: 1265476
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110508
-
-### Performance issues
-
 
 ### Performance issues
 

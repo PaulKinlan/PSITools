@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/strategygames/plants-vs-zombies/#.U_uW9k0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Plants vs Zombies « Online Flash Game Plants vs Zombies](http://gamematic.net/online-flash-games/strategygames/plants-vs-zombies/#.U_uW9k0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/strategygames/plants-vs-zombies/#
 *  JS Response Bytes: 1263700
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40177
-
-### Performance issues
-
 
 ### Performance issues
 

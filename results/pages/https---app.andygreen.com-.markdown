@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://app.andygreen.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [AndyGreen](https://app.andygreen.com/)
 
@@ -29,9 +31,6 @@ title: https://app.andygreen.com/
 *  JS Response Bytes: 2203114
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 577
-
-### Performance issues
-
 
 ### Performance issues
 

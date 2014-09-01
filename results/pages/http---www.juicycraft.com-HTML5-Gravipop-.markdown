@@ -33,8 +33,5 @@ title: http://www.juicycraft.com/HTML5/Gravipop/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

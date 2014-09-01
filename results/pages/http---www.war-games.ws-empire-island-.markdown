@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/empire-island/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Empire Island](http://www.war-games.ws/empire-island/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/empire-island/
 *  JS Response Bytes: 2292876
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 123192
-
-### Performance issues
-
 
 ### Performance issues
 

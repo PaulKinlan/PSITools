@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://hubgamingonl9.blogspot.com/2014/05/call-of-duty-ghosts-online.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gaming Hub: Call of Duty Ghosts Online](http://hubgamingonl9.blogspot.com/2014/05/call-of-duty-ghosts-online.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://hubgamingonl9.blogspot.com/2014/05/call-of-duty-ghosts-online.html
 *  JS Response Bytes: 973489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287822
-
-### Performance issues
-
 
 ### Performance issues
 

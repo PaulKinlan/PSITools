@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://liveapp.ksmlabs.com/subscribe
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [KSM LABS](http://liveapp.ksmlabs.com/subscribe)
 
@@ -29,9 +33,6 @@ title: http://liveapp.ksmlabs.com/subscribe
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

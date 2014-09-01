@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.unitag.io/qrcode?utm_campaign=other-traffic&utm_medium=chrome&utm_source=app&utm_content=link
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Design QR Code generator - Free - Unitag](https://www.unitag.io/qrcode?utm_campaign=other-traffic&utm_medium=chrome&utm_source=app&utm_content=link)
 
@@ -29,9 +31,6 @@ title: https://www.unitag.io/qrcode?utm_campaign=other-traffic&utm_medium=chrome
 *  JS Response Bytes: 1856901
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 915
-
-### Performance issues
-
 
 ### Performance issues
 

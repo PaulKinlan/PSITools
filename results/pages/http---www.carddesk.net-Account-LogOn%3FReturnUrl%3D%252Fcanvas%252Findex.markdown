@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.carddesk.net/Account/LogOn?ReturnUrl=%2Fcanvas%2Findex
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sign In](http://www.carddesk.net/Account/LogOn?ReturnUrl=%2Fcanvas%2Findex)
 
@@ -29,9 +32,6 @@ title: http://www.carddesk.net/Account/LogOn?ReturnUrl=%2Fcanvas%2Findex
 *  JS Response Bytes: 700350
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 441
-
-### Performance issues
-
 
 ### Performance issues
 

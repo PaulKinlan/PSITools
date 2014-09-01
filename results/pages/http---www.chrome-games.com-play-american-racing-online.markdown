@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.chrome-games.com/play-american-racing-online
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [American Racing Online | Chrome-Games.Com](http://www.chrome-games.com/play-american-racing-online)
 
@@ -29,9 +33,6 @@ title: http://www.chrome-games.com/play-american-racing-online
 *  JS Response Bytes: 2325786
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 194723
-
-### Performance issues
-
 
 ### Performance issues
 

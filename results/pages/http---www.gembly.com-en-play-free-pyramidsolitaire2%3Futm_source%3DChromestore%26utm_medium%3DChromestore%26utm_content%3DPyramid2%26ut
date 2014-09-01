@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gembly.com/en/play-free/pyramidsolitaire2?utm_source=Chromestore&utm_medium=Chromestore&utm_content=Pyramid2&utm_campaign=Partners
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Play Pyramid Solitaire 2 free game at Gembly - Unlimited fun!](http://www.gembly.com/en/play-free/pyramidsolitaire2?utm_source=Chromestore&utm_medium=Chromestore&utm_content=Pyramid2&utm_campaign=Partners)
 
@@ -29,9 +32,6 @@ title: http://www.gembly.com/en/play-free/pyramidsolitaire2?utm_source=Chromesto
 *  JS Response Bytes: 526821
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45453
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.erdenkriecher.de/magic-alchemist/game/index-app.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Magic Alchemist Browser - Das magische Spiel der Verschmelzung](http://www.erdenkriecher.de/magic-alchemist/game/index-app.html)
 
@@ -29,9 +31,6 @@ title: http://www.erdenkriecher.de/magic-alchemist/game/index-app.html
 *  JS Response Bytes: 598927
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

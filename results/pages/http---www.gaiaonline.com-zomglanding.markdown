@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gaiaonline.com/zomglanding
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [zOMG! | Gaia Online](http://www.gaiaonline.com/zomglanding)
 
@@ -29,9 +34,6 @@ title: http://www.gaiaonline.com/zomglanding
 *  JS Response Bytes: 1054827
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 846
-
-### Performance issues
-
 
 ### Performance issues
 

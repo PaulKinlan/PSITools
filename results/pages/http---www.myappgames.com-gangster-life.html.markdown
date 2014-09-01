@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.myappgames.com/gangster-life.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gangster Life : My APP Games](http://www.myappgames.com/gangster-life.html)
 
@@ -29,9 +34,6 @@ title: http://www.myappgames.com/gangster-life.html
 *  JS Response Bytes: 1920389
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119293
-
-### Performance issues
-
 
 ### Performance issues
 

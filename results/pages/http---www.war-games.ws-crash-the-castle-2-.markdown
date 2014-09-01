@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/crash-the-castle-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crash The Castle 2](http://www.war-games.ws/crash-the-castle-2/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/crash-the-castle-2/
 *  JS Response Bytes: 2293552
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115212
-
-### Performance issues
-
 
 ### Performance issues
 

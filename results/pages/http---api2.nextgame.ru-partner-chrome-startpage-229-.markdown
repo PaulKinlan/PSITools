@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://api2.nextgame.ru/partner/chrome/startpage/229/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Дикий Фреш](http://api2.nextgame.ru/partner/chrome/startpage/229/)
 
@@ -29,9 +31,6 @@ title: http://api2.nextgame.ru/partner/chrome/startpage/229/
 *  JS Response Bytes: 372815
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3353
-
-### Performance issues
-
 
 ### Performance issues
 

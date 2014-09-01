@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.voyance-az.com/horoscope-verseau
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Voyance-AZ.com - Horoscope Verseau](http://www.voyance-az.com/horoscope-verseau)
 
@@ -29,9 +33,6 @@ title: http://www.voyance-az.com/horoscope-verseau
 *  JS Response Bytes: 2570221
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 345462
-
-### Performance issues
-
 
 ### Performance issues
 

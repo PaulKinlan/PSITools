@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.24yemekoyunlari.com/asphalt-8-similar-games/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Asphalt 8 Similar games – Online Best Games](http://www.24yemekoyunlari.com/asphalt-8-similar-games/)
 
@@ -29,9 +33,6 @@ title: http://www.24yemekoyunlari.com/asphalt-8-similar-games/
 *  JS Response Bytes: 1105778
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8537
-
-### Performance issues
-
 
 ### Performance issues
 

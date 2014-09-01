@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.digital-people.com/recipes/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://www.digital-people.com/recipes/)
 
@@ -29,9 +30,6 @@ title: http://www.digital-people.com/recipes/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 620
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chromegames.appsengine.us/pou/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [POU ONLINE - NO DOWNLOADS](http://chromegames.appsengine.us/pou/)
 
@@ -29,9 +33,6 @@ title: http://chromegames.appsengine.us/pou/
 *  JS Response Bytes: 375008
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1138
-
-### Performance issues
-
 
 ### Performance issues
 

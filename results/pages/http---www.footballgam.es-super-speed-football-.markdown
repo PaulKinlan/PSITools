@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/super-speed-football/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Speed Football Game](http://www.footballgam.es/super-speed-football/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/super-speed-football/
 *  JS Response Bytes: 2296915
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155279
-
-### Performance issues
-
 
 ### Performance issues
 

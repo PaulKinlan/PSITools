@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.shimiegames.com/games/multibloonsTD.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shimiegames - Bloons Tower Defense Collection](http://www.shimiegames.com/games/multibloonsTD.html)
 
@@ -29,9 +35,6 @@ title: http://www.shimiegames.com/games/multibloonsTD.html
 *  JS Response Bytes: 1364411
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97585
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://solitaire-online-games.com/game/mastermind
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Solitaire online games - Master Mind](http://solitaire-online-games.com/game/mastermind)
 
@@ -29,9 +33,6 @@ title: http://solitaire-online-games.com/game/mastermind
 *  JS Response Bytes: 1647582
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 135529
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -33,8 +33,5 @@ title: http://tvapplication.blogspot.com/?m=1
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

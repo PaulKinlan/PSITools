@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.keyhero.com/?ws
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Typing Test · Improve your WPM speed](http://www.keyhero.com/?ws)
 
@@ -29,9 +33,6 @@ title: http://www.keyhero.com/?ws
 *  JS Response Bytes: 691923
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25094
-
-### Performance issues
-
 
 ### Performance issues
 

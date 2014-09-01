@@ -33,8 +33,5 @@ title: http://switchstyle.dyndns.org/gio/doodlegame.html
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.soufoda.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Soufoda.net](http://www.soufoda.net/)
 
@@ -29,9 +32,6 @@ title: http://www.soufoda.net/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

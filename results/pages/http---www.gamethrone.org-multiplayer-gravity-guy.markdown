@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.gamethrone.org/multiplayer/gravity-guy
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gravity Guy - Free Online Games | GameThrone](http://www.gamethrone.org/multiplayer/gravity-guy)
 
@@ -29,9 +37,6 @@ title: http://www.gamethrone.org/multiplayer/gravity-guy
 *  JS Response Bytes: 956379
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19142
-
-### Performance issues
-
 
 ### Performance issues
 

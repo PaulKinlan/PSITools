@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kingofgamez.com/create-a-cutie.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Create A Cutie | King of Gamez](http://www.kingofgamez.com/create-a-cutie.html)
 
@@ -29,9 +34,6 @@ title: http://www.kingofgamez.com/create-a-cutie.html
 *  JS Response Bytes: 1056733
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16273
-
-### Performance issues
-
 
 ### Performance issues
 

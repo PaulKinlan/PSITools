@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://kalydo.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [KALYDO](http://kalydo.com/)
 
@@ -29,9 +34,6 @@ title: http://kalydo.com/
 *  JS Response Bytes: 709661
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 766
-
-### Performance issues
-
 
 ### Performance issues
 

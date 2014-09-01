@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ortegacomputacion.com/
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WWW.ORTEGACOMPUTACION.COM](http://ortegacomputacion.com/)
 
@@ -29,9 +33,6 @@ title: http://ortegacomputacion.com/
 *  JS Response Bytes: 192922
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 822
-
-### Performance issues
-
 
 ### Performance issues
 

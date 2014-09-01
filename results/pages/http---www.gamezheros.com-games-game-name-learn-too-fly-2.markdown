@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.gamezheros.com/games/game/name/learn-too-fly-2
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [500 Internal Server Error](http://www.gamezheros.com/games/game/name/learn-too-fly-2)
 
@@ -29,9 +31,6 @@ title: http://www.gamezheros.com/games/game/name/learn-too-fly-2
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 971
-
-### Performance issues
-
 
 ### Performance issues
 

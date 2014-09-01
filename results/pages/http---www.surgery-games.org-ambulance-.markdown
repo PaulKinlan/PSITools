@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.surgery-games.org/ambulance/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ambulance game](http://www.surgery-games.org/ambulance/)
 
@@ -29,9 +36,6 @@ title: http://www.surgery-games.org/ambulance/
 *  JS Response Bytes: 2398295
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124331
-
-### Performance issues
-
 
 ### Performance issues
 

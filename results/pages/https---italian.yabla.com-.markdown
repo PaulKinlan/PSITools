@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://italian.yabla.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Yabla Italian Video Immersion - The Authentic Way to Learn Italian](https://italian.yabla.com/)
 
@@ -29,9 +32,6 @@ title: https://italian.yabla.com/
 *  JS Response Bytes: 138634
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 846
-
-### Performance issues
-
 
 ### Performance issues
 

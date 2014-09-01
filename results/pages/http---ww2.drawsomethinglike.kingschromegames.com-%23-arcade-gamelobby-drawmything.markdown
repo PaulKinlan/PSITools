@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.drawsomethinglike.kingschromegames.com/#/arcade/gamelobby/drawmything
+SizeTapTargetsAppropriately: true
 ---
 ## [kingschromegames.com](http://ww2.drawsomethinglike.kingschromegames.com/#/arcade/gamelobby/drawmything)
 
@@ -29,9 +30,6 @@ title: http://ww2.drawsomethinglike.kingschromegames.com/#/arcade/gamelobby/draw
 *  JS Response Bytes: 229839
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21046
-
-### Performance issues
-
 
 ### Performance issues
 

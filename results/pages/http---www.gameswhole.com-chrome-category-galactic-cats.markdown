@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameswhole.com/chrome-category/galactic-cats
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Galactic Cats - Games Whole](http://www.gameswhole.com/chrome-category/galactic-cats)
 
@@ -29,9 +34,6 @@ title: http://www.gameswhole.com/chrome-category/galactic-cats
 *  JS Response Bytes: 726373
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15988
-
-### Performance issues
-
 
 ### Performance issues
 

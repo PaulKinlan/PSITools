@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.omegalocksmith.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Chicago Locksmith Service & 24 Hour Auto Locksmith | Omega Locksmith](http://www.omegalocksmith.com/)
 
@@ -29,9 +32,6 @@ title: http://www.omegalocksmith.com/
 *  JS Response Bytes: 2233877
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 170087
-
-### Performance issues
-
 
 ### Performance issues
 

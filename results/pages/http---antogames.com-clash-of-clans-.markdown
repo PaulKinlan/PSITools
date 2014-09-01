@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://antogames.com/clash-of-clans/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AntoGames.Com Full Free Flash Game – Clash Of Clans](http://antogames.com/clash-of-clans/)
 
@@ -29,9 +34,6 @@ title: http://antogames.com/clash-of-clans/
 *  JS Response Bytes: 791359
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19794
-
-### Performance issues
-
 
 ### Performance issues
 

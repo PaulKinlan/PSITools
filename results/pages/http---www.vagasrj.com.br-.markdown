@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.vagasrj.com.br/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [VagasRJ - Vagas de Emprego para o Rio de Janeiro - RJ](http://www.vagasrj.com.br/)
 
@@ -29,9 +32,6 @@ title: http://www.vagasrj.com.br/
 *  JS Response Bytes: 1328226
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 518
-
-### Performance issues
-
 
 ### Performance issues
 

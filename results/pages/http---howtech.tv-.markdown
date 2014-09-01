@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://howtech.tv/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [HowTech.tv | Video tutorials & how-to's](http://howtech.tv/)
 
@@ -29,9 +31,6 @@ title: http://howtech.tv/
 *  JS Response Bytes: 3740479
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 290195
-
-### Performance issues
-
 
 ### Performance issues
 

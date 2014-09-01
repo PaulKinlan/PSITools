@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://flashgame3d.blogspot.com/2014/01/thor-defense-of-asgard.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [Flash Game 2014: Thor The Defense of Asgard](http://flashgame3d.blogspot.com/2014/01/thor-defense-of-asgard.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://flashgame3d.blogspot.com/2014/01/thor-defense-of-asgard.html?m=1
 *  JS Response Bytes: 1235576
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96187
-
-### Performance issues
-
 
 ### Performance issues
 

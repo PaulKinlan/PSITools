@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.britishtransfers.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Cheap Airport Transfers, Hotel transfers,Holiday Transfers,Antalya Airport Transfers,Bodrum Airport Transfers](http://m.britishtransfers.com/)
 
@@ -29,9 +33,6 @@ title: http://m.britishtransfers.com/
 *  JS Response Bytes: 409864
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27859
-
-### Performance issues
-
 
 ### Performance issues
 

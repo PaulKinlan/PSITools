@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.topdealslondon.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Top Deals - London - Find the best deals in your city](http://www.topdealslondon.com/)
 
@@ -29,9 +34,6 @@ title: http://www.topdealslondon.com/
 *  JS Response Bytes: 1452845
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 231804
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://vega9.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [â vega9.com (alpha) >> Free Listings Classifieds geolocalized in your neighborhood](http://vega9.com/)
 
@@ -29,9 +33,6 @@ title: http://vega9.com/
 *  JS Response Bytes: 1163278
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19119
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bee.palmoto.com/
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Palmoto | Bee](http://bee.palmoto.com/)
 
@@ -29,9 +32,6 @@ title: http://bee.palmoto.com/
 *  JS Response Bytes: 98854
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

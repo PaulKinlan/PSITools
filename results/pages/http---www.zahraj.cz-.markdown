@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.zahraj.cz/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online hry zdarma | Zahraj.cz](http://www.zahraj.cz/)
 
@@ -29,9 +35,6 @@ title: http://www.zahraj.cz/
 *  JS Response Bytes: 1869173
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 288240
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://mysearchengine.appzend.net/#gsc.tab=0
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Create My Search Engine](http://mysearchengine.appzend.net/#gsc.tab=0)
 
@@ -29,9 +34,6 @@ title: http://mysearchengine.appzend.net/#gsc.tab=0
 *  JS Response Bytes: 1074031
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14322
-
-### Performance issues
-
 
 ### Performance issues
 

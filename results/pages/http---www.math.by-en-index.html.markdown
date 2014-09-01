@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.math.by/en/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Math.by - Main](http://www.math.by/en/index.html)
 
@@ -29,9 +34,6 @@ title: http://www.math.by/en/index.html
 *  JS Response Bytes: 916746
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16008
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://oam.directorschoice.travel/home.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DCTT Online](https://oam.directorschoice.travel/home.php)
 
@@ -29,9 +32,6 @@ title: https://oam.directorschoice.travel/home.php
 *  JS Response Bytes: 793493
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 203
-
-### Performance issues
-
 
 ### Performance issues
 

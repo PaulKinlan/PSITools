@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.simplifyem.com/property-management-software
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Property Management Software | SimplifyEm.com Property Management Software](http://www.simplifyem.com/property-management-software)
 
@@ -29,9 +33,6 @@ title: http://www.simplifyem.com/property-management-software
 *  JS Response Bytes: 1231753
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51152
-
-### Performance issues
-
 
 ### Performance issues
 

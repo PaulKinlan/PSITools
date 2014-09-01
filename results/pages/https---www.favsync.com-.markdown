@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.favsync.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome - FavSync - The universal bookmarks manager](https://www.favsync.com/)
 
@@ -29,9 +33,6 @@ title: https://www.favsync.com/
 *  JS Response Bytes: 3383711
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95576
-
-### Performance issues
-
 
 ### Performance issues
 

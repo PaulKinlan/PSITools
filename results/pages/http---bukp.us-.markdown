@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bukp.us/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [BUKPUS — Location Based Countdown to Maghrib. Ramadhan 1435H](http://bukp.us/)
 
@@ -29,9 +32,6 @@ title: http://bukp.us/
 *  JS Response Bytes: 1061352
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1262
-
-### Performance issues
-
 
 ### Performance issues
 

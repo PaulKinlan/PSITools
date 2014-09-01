@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/action/hive-hero
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hive Hero - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/action/hive-hero)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/action/hive-hero
 *  JS Response Bytes: 2180804
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99463
-
-### Performance issues
-
 
 ### Performance issues
 

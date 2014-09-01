@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.xrlive.biz/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [XRLive-Live Dollar to Rupee Bank Rates](http://www.xrlive.biz/)
 
@@ -29,9 +34,6 @@ title: http://www.xrlive.biz/
 *  JS Response Bytes: 429731
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

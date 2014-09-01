@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://croissant.lyomi.net/#/auth
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sign in with Google](http://croissant.lyomi.net/#/auth)
 
@@ -29,9 +34,6 @@ title: http://croissant.lyomi.net/#/auth
 *  JS Response Bytes: 1232784
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2964384
-
-### Performance issues
-
 
 ### Performance issues
 

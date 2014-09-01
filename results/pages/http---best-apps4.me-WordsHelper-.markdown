@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://best-apps4.me/WordsHelper/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Words Helper](http://best-apps4.me/WordsHelper/)
 
@@ -29,9 +32,6 @@ title: http://best-apps4.me/WordsHelper/
 *  JS Response Bytes: 374110
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 610
-
-### Performance issues
-
 
 ### Performance issues
 

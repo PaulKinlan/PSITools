@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://vetapps.com.br/VetProPortugues/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [VetPro](http://vetapps.com.br/VetProPortugues/)
 
@@ -29,9 +32,6 @@ title: http://vetapps.com.br/VetProPortugues/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5413
-
-### Performance issues
-
 
 ### Performance issues
 

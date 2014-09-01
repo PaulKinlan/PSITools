@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://us.interno.mx/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Marc · Backes](http://us.interno.mx/)
 
@@ -29,9 +31,6 @@ title: http://us.interno.mx/
 *  JS Response Bytes: 768288
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 132765
-
-### Performance issues
-
 
 ### Performance issues
 

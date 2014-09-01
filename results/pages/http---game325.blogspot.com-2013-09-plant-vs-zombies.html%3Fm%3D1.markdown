@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://game325.blogspot.com/2013/09/plant-vs-zombies.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [game325: Plant vs Zombies](http://game325.blogspot.com/2013/09/plant-vs-zombies.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://game325.blogspot.com/2013/09/plant-vs-zombies.html?m=1
 *  JS Response Bytes: 764199
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95581
-
-### Performance issues
-
 
 ### Performance issues
 

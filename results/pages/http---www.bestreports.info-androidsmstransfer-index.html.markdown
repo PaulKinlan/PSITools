@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.bestreports.info/androidsmstransfer/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [How to Download Android SMS Transfer App](http://www.bestreports.info/androidsmstransfer/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.bestreports.info/androidsmstransfer/index.html
 *  JS Response Bytes: 909908
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111792
-
-### Performance issues
-
 
 ### Performance issues
 

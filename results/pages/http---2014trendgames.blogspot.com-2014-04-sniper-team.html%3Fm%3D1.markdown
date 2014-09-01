@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://2014trendgames.blogspot.com/2014/04/sniper-team.html?m=1
+UseLegibleFontSizes: true
 ---
 ## [Service Unavailable](http://2014trendgames.blogspot.com/2014/04/sniper-team.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://2014trendgames.blogspot.com/2014/04/sniper-team.html?m=1
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1101
-
-### Performance issues
-
 
 ### Performance issues
 

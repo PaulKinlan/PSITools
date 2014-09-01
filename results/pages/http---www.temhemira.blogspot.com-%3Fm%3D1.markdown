@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.temhemira.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [The World Would Be Better](http://www.temhemira.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://www.temhemira.blogspot.com/?m=1
 *  JS Response Bytes: 289951
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 565
-
-### Performance issues
-
 
 ### Performance issues
 

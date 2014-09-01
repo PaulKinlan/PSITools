@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://starrace.ru/g.php?pid=2
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Звездная Раса - Начало. Star Race beginning](http://starrace.ru/g.php?pid=2)
 
@@ -29,9 +33,6 @@ title: http://starrace.ru/g.php?pid=2
 *  JS Response Bytes: 386643
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2143
-
-### Performance issues
-
 
 ### Performance issues
 

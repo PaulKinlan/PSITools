@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://xtremeno.bestmoviestodownload.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [Bestmoviestodownload.com](http://xtremeno.bestmoviestodownload.com/)
 
@@ -29,9 +30,6 @@ title: http://xtremeno.bestmoviestodownload.com/
 *  JS Response Bytes: 259014
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 441
-
-### Performance issues
-
 
 ### Performance issues
 

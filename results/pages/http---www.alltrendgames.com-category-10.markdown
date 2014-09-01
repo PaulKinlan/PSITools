@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.alltrendgames.com/category/10
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Asteroids - All Trend Games](http://www.alltrendgames.com/category/10)
 
@@ -29,9 +33,6 @@ title: http://www.alltrendgames.com/category/10
 *  JS Response Bytes: 647917
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1177
-
-### Performance issues
-
 
 ### Performance issues
 

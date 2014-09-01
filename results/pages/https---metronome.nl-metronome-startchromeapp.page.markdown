@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://metronome.nl/metronome/startchromeapp.page
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Metronome | Mobile](https://metronome.nl/metronome/startchromeapp.page)
 
@@ -29,9 +31,6 @@ title: https://metronome.nl/metronome/startchromeapp.page
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

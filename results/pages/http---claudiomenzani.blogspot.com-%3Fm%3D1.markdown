@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://claudiomenzani.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Claudio Menzani](http://claudiomenzani.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://claudiomenzani.blogspot.com/?m=1
 *  JS Response Bytes: 314298
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 567
-
-### Performance issues
-
 
 ### Performance issues
 

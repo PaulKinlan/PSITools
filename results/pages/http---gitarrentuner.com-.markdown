@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gitarrentuner.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online guitar tuner](http://gitarrentuner.com/)
 
@@ -29,9 +35,6 @@ title: http://gitarrentuner.com/
 *  JS Response Bytes: 748511
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22378
-
-### Performance issues
-
 
 ### Performance issues
 

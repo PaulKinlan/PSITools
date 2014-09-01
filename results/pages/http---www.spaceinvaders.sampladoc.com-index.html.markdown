@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.spaceinvaders.sampladoc.com/index.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [SPACE INVADERS](http://www.spaceinvaders.sampladoc.com/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.spaceinvaders.sampladoc.com/index.html
 *  JS Response Bytes: 563980
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2077
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.favorigame.com/index.php?task=view&id=1852
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Favorigame.com](http://www.favorigame.com/index.php?task=view&id=1852)
 
@@ -29,9 +31,6 @@ title: http://www.favorigame.com/index.php?task=view&id=1852
 *  JS Response Bytes: 9100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://unchartedwatersonlinemmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Uncharted Waters Online](http://unchartedwatersonlinemmo.appspot.com/)
 
@@ -29,9 +35,6 @@ title: http://unchartedwatersonlinemmo.appspot.com/
 *  JS Response Bytes: 1359372
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33922
-
-### Performance issues
-
 
 ### Performance issues
 

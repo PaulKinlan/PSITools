@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://portugues-tradutor.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Português Tradutor](http://portugues-tradutor.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://portugues-tradutor.herokuapp.com/
 *  JS Response Bytes: 1684694
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 175771
-
-### Performance issues
-
 
 ### Performance issues
 

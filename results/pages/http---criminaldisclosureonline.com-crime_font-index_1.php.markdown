@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://criminaldisclosureonline.com/crime_font/index_1.php
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://criminaldisclosureonline.com/crime_font/index_1.php)
 
@@ -29,9 +34,6 @@ title: http://criminaldisclosureonline.com/crime_font/index_1.php
 *  JS Response Bytes: 860269
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54233
-
-### Performance issues
-
 
 ### Performance issues
 

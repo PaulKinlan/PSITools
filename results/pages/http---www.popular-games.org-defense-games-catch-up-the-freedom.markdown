@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.popular-games.org/defense-games/catch-up-the-freedom
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | www.popular-games.org | Play Most Popular Games Free](http://www.popular-games.org/defense-games/catch-up-the-freedom)
 
@@ -29,9 +35,6 @@ title: http://www.popular-games.org/defense-games/catch-up-the-freedom
 *  JS Response Bytes: 729081
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2269
-
-### Performance issues
-
 
 ### Performance issues
 

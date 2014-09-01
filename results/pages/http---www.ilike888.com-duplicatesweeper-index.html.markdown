@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ilike888.com/duplicatesweeper/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Duplicate Sweeper | Find duplicate files on your computer.](http://www.ilike888.com/duplicatesweeper/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.ilike888.com/duplicatesweeper/index.html
 *  JS Response Bytes: 985381
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94972
-
-### Performance issues
-
 
 ### Performance issues
 

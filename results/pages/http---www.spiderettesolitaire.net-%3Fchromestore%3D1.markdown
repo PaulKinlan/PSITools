@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.spiderettesolitaire.net/?chromestore=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Spiderette Solitaire](http://www.spiderettesolitaire.net/?chromestore=1)
 
@@ -29,9 +34,6 @@ title: http://www.spiderettesolitaire.net/?chromestore=1
 *  JS Response Bytes: 644949
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18138
-
-### Performance issues
-
 
 ### Performance issues
 

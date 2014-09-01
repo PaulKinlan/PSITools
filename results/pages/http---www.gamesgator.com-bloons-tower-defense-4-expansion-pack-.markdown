@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.com/bloons-tower-defense-4-expansion-pack/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bloons Tower Defense 4 Expansion Pack](http://www.gamesgator.com/bloons-tower-defense-4-expansion-pack/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.com/bloons-tower-defense-4-expansion-pack/
 *  JS Response Bytes: 1098149
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 38667
-
-### Performance issues
-
 
 ### Performance issues
 

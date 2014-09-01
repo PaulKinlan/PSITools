@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://anime-ninja.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Anime Ninja Online](http://anime-ninja.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://anime-ninja.appspot.com/
 *  JS Response Bytes: 1774622
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52956
-
-### Performance issues
-
 
 ### Performance issues
 

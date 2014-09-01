@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pulado.com/apps/czwwh/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Kingdom Raiders](http://www.pulado.com/apps/czwwh/)
 
@@ -29,9 +33,6 @@ title: http://www.pulado.com/apps/czwwh/
 *  JS Response Bytes: 21841
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

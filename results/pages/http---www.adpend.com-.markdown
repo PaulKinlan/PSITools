@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.adpend.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://www.adpend.com/)
 
@@ -29,9 +32,6 @@ title: http://www.adpend.com/
 *  JS Response Bytes: 1462014
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119504
-
-### Performance issues
-
 
 ### Performance issues
 

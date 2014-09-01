@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.lexiconsoftware.gr/sms/smsapp/login.aspx
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SMS Warrior - Bulk SMS - Mass SMS - Cheap SMS](http://www.lexiconsoftware.gr/sms/smsapp/login.aspx)
 
@@ -29,9 +33,6 @@ title: http://www.lexiconsoftware.gr/sms/smsapp/login.aspx
 *  JS Response Bytes: 56267
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1257
-
-### Performance issues
-
 
 ### Performance issues
 

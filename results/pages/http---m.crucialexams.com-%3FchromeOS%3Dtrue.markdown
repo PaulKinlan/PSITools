@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.crucialexams.com/?chromeOS=true
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Crucial Exams - Crucial Exams Mobile](http://m.crucialexams.com/?chromeOS=true)
 
@@ -29,9 +33,6 @@ title: http://m.crucialexams.com/?chromeOS=true
 *  JS Response Bytes: 610267
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14313
-
-### Performance issues
-
 
 ### Performance issues
 

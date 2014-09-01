@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.feedsapi.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Create Full Text RSS Feeds Instantly - Full RSS Builder & RSS Mashup Creator with a REST RSS API](http://www.feedsapi.com/)
 
@@ -29,9 +32,6 @@ title: http://www.feedsapi.com/
 *  JS Response Bytes: 2837312
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 224864
-
-### Performance issues
-
 
 ### Performance issues
 

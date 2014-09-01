@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playon33.blogspot.com/2013/10/resident-evil.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free play game: Resident Evil](http://playon33.blogspot.com/2013/10/resident-evil.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playon33.blogspot.com/2013/10/resident-evil.html?m=1
 *  JS Response Bytes: 980841
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287151
-
-### Performance issues
-
 
 ### Performance issues
 

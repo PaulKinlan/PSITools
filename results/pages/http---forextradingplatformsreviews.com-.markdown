@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://forextradingplatformsreviews.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Forextradingplatformsreviews.com](http://forextradingplatformsreviews.com/)
 
@@ -25,13 +27,10 @@ title: http://forextradingplatformsreviews.com/
 *  HTML Response Bytes: 10721
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 1328
+*  Image Response Bytes: 1330
 *  JS Response Bytes: 167752
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

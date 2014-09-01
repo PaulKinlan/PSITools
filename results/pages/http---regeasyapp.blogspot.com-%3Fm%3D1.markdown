@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://regeasyapp.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://regeasyapp.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://regeasyapp.blogspot.com/?m=1
 *  JS Response Bytes: 41101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18752
-
-### Performance issues
-
 
 ### Performance issues
 

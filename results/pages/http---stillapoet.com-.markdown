@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://stillapoet.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Still a Poet](http://stillapoet.com/)
 
@@ -29,9 +32,6 @@ title: http://stillapoet.com/
 *  JS Response Bytes: 25852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105852
-
-### Performance issues
-
 
 ### Performance issues
 

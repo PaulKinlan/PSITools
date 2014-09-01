@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.undergamez.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Under Gamez :: Inicio](http://www.undergamez.com/)
 
@@ -29,9 +35,6 @@ title: http://www.undergamez.com/
 *  JS Response Bytes: 169601
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

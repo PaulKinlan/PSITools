@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ww2.mrjsoftware.com/chromeapps/calculatore/index.html
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [mrjsoftware.com](http://ww2.mrjsoftware.com/chromeapps/calculatore/index.html)
 
@@ -29,9 +31,6 @@ title: http://ww2.mrjsoftware.com/chromeapps/calculatore/index.html
 *  JS Response Bytes: 229840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21056
-
-### Performance issues
-
 
 ### Performance issues
 

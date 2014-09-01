@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tanmaybakshi.com/calc/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Html calculator](http://www.tanmaybakshi.com/calc/)
 
@@ -29,9 +32,6 @@ title: http://www.tanmaybakshi.com/calc/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

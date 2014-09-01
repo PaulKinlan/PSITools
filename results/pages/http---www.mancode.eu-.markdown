@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mancode.eu/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MANCODE.EU | Comes with Style](http://www.mancode.eu/)
 
@@ -29,9 +33,6 @@ title: http://www.mancode.eu/
 *  JS Response Bytes: 871670
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1626
-
-### Performance issues
-
 
 ### Performance issues
 

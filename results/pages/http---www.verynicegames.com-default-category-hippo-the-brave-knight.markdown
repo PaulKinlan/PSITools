@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.verynicegames.com/default-category/hippo-the-brave-knight
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hippo the Brave Knight - Very Nice Games](http://www.verynicegames.com/default-category/hippo-the-brave-knight)
 
@@ -29,9 +35,6 @@ title: http://www.verynicegames.com/default-category/hippo-the-brave-knight
 *  JS Response Bytes: 1722916
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117187
-
-### Performance issues
-
 
 ### Performance issues
 

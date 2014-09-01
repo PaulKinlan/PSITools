@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://studykanji.net/kanjiflashcards/chrome/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [](http://studykanji.net/kanjiflashcards/chrome/)
 
@@ -29,9 +31,6 @@ title: http://studykanji.net/kanjiflashcards/chrome/
 *  JS Response Bytes: 130860
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

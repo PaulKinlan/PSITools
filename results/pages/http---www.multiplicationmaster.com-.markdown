@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.multiplicationmaster.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Multiplication Master - Maths Madness](http://www.multiplicationmaster.com/)
 
@@ -29,9 +30,6 @@ title: http://www.multiplicationmaster.com/
 *  JS Response Bytes: 1369255
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1141
-
-### Performance issues
-
 
 ### Performance issues
 

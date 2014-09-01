@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bioradar.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bioradar » Il primo Social Network dedicato al Green](http://www.bioradar.net/)
 
@@ -29,9 +33,6 @@ title: http://www.bioradar.net/
 *  JS Response Bytes: 1148574
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 92660
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/goal-shoot/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Kick Master Game](http://www.footballgam.es/goal-shoot/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/goal-shoot/
 *  JS Response Bytes: 2577876
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 137033
-
-### Performance issues
-
 
 ### Performance issues
 

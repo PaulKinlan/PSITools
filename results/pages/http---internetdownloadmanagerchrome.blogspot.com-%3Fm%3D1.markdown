@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://internetdownloadmanagerchrome.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Internet Download Manager](http://internetdownloadmanagerchrome.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://internetdownloadmanagerchrome.blogspot.com/?m=1
 *  JS Response Bytes: 248929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 592
-
-### Performance issues
-
 
 ### Performance issues
 

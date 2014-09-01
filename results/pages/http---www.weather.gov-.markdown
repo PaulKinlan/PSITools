@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.weather.gov/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [National Weather Service](http://www.weather.gov/)
 
@@ -29,9 +33,6 @@ title: http://www.weather.gov/
 *  JS Response Bytes: 453899
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 539
-
-### Performance issues
-
 
 ### Performance issues
 

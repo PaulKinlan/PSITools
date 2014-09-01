@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://subitotechs.com/?hg=0&nr=0
+AvoidLandingPageRedirects: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://subitotechs.com/?hg=0&nr=0)
 
@@ -29,9 +33,6 @@ title: http://subitotechs.com/?hg=0&nr=0
 *  JS Response Bytes: 55633
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111
-
-### Performance issues
-
 
 ### Performance issues
 

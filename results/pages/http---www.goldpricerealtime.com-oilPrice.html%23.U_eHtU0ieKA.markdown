@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.goldpricerealtime.com/oilPrice.html#.U_eHtU0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Oil Price](http://www.goldpricerealtime.com/oilPrice.html#.U_eHtU0ieKA)
 
@@ -29,9 +33,6 @@ title: http://www.goldpricerealtime.com/oilPrice.html#.U_eHtU0ieKA
 *  JS Response Bytes: 1180764
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120515
-
-### Performance issues
-
 
 ### Performance issues
 

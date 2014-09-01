@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://scootaloo.org/client/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Scootaloo - Web Client](http://scootaloo.org/client/)
 
@@ -29,9 +36,6 @@ title: http://scootaloo.org/client/
 *  JS Response Bytes: 210637
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 457
-
-### Performance issues
-
 
 ### Performance issues
 

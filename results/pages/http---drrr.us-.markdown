@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://drrr.us/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DOLLARS 聊天室 - DRRR!! 社区 | DOLLARS 聊天室 | DOLLARS Chatroom | Durarara!! Chatroom | DRRR!! Chatrrom | 无头骑士异闻录聊天室 | デュラララ!!](http://drrr.us/)
 
@@ -29,9 +31,6 @@ title: http://drrr.us/
 *  JS Response Bytes: 161511
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

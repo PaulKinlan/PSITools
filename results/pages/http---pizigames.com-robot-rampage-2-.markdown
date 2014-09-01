@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://pizigames.com/robot-rampage-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [pizigames.com-the best free online flash gamesRobot Rampage 2](http://pizigames.com/robot-rampage-2/)
 
@@ -29,9 +34,6 @@ title: http://pizigames.com/robot-rampage-2/
 *  JS Response Bytes: 821436
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32178
-
-### Performance issues
-
 
 ### Performance issues
 

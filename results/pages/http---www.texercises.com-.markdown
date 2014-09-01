@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.texercises.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TeXercises - extensive database of exercises in science of nature](http://www.texercises.com/)
 
@@ -29,9 +33,6 @@ title: http://www.texercises.com/
 *  JS Response Bytes: 169459
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

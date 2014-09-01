@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ilovebasketball.co/hoop-troop-jam/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hoop Troop Jam](http://www.ilovebasketball.co/hoop-troop-jam/)
 
@@ -29,9 +35,6 @@ title: http://www.ilovebasketball.co/hoop-troop-jam/
 *  JS Response Bytes: 2691099
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 150888
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chromegamesplay.com/angry-birds-space-hd.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Space HD | Chrome Games Play WebStore](http://www.chromegamesplay.com/angry-birds-space-hd.html)
 
@@ -29,9 +35,6 @@ title: http://www.chromegamesplay.com/angry-birds-space-hd.html
 *  JS Response Bytes: 386061
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34632
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://hoot.palmoto.com/p/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Palmoto|Hoot](http://hoot.palmoto.com/p/)
 
@@ -29,9 +31,6 @@ title: http://hoot.palmoto.com/p/
 *  JS Response Bytes: 156580
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

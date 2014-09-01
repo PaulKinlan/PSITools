@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.bubot.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [Bubot.com: The Best Search Links on the Net](http://www.bubot.com/)
 
@@ -29,9 +30,6 @@ title: http://www.bubot.com/
 *  JS Response Bytes: 259015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 434
-
-### Performance issues
-
 
 ### Performance issues
 

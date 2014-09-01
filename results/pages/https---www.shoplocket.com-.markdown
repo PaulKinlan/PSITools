@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.shoplocket.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ShopLocket | The fastest way to take payment information and charge later](https://www.shoplocket.com/)
 
@@ -18,20 +22,17 @@ title: https://www.shoplocket.com/
 *  Number of JS Resources: 14
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 57
-*  Total Request Bytes: 13793
+*  Total Request Bytes: 13786
 
 ### Response data
 
-*  HTML Response Bytes: 39722
+*  HTML Response Bytes: 39717
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 88914
+*  CSS Response Bytes: 88927
 *  Image Response Bytes: 1900316
-*  JS Response Bytes: 323105
+*  JS Response Bytes: 323106
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 93126
-
-### Performance issues
-
+*  Other Response Bytes: 93124
 
 ### Performance issues
 

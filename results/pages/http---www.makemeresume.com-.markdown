@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.makemeresume.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MakeMeResume - Resumes made easy](http://www.makemeresume.com/)
 
@@ -29,9 +34,6 @@ title: http://www.makemeresume.com/
 *  JS Response Bytes: 1188709
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2269
-
-### Performance issues
-
 
 ### Performance issues
 

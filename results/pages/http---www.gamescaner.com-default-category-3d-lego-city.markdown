@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamescaner.com/default-category/3d-lego-city
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Lego City - Gamescaner.com](http://www.gamescaner.com/default-category/3d-lego-city)
 
@@ -29,9 +33,6 @@ title: http://www.gamescaner.com/default-category/3d-lego-city
 *  JS Response Bytes: 673191
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 64752
-
-### Performance issues
-
 
 ### Performance issues
 

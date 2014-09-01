@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.info/slime-laboratory-2/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Slime Laboratory 2](http://www.gamesgator.info/slime-laboratory-2/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.info/slime-laboratory-2/
 *  JS Response Bytes: 1085978
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 38830
-
-### Performance issues
-
 
 ### Performance issues
 

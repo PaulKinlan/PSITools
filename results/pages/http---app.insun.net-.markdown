@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://app.insun.net/
+UseLegibleFontSizes: true
 ---
 ## [Not Found](http://app.insun.net/)
 
@@ -29,9 +30,6 @@ title: http://app.insun.net/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 471
-
-### Performance issues
-
 
 ### Performance issues
 

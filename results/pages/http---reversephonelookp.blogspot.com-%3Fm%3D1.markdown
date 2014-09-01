@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://reversephonelookp.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
 ---
 ## [hell if i know](http://reversephonelookp.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://reversephonelookp.blogspot.com/?m=1
 *  JS Response Bytes: 1178732
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2043
-
-### Performance issues
-
 
 ### Performance issues
 

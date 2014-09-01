@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tiponlinegames.com/physical-tank.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Physical Tank | TIP ONLINE GAMES](http://www.tiponlinegames.com/physical-tank.html)
 
@@ -29,9 +34,6 @@ title: http://www.tiponlinegames.com/physical-tank.html
 *  JS Response Bytes: 894480
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14918
-
-### Performance issues
-
 
 ### Performance issues
 

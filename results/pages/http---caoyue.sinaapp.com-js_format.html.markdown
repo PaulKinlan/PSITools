@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://caoyue.sinaapp.com/js_format.html
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [JavaScript/HTML格式化](http://caoyue.sinaapp.com/js_format.html)
 
@@ -29,9 +31,6 @@ title: http://caoyue.sinaapp.com/js_format.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

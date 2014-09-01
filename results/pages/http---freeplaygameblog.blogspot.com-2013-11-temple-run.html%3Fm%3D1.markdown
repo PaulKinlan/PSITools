@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://freeplaygameblog.blogspot.com/2013/11/temple-run.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free play game blog: Temple Run](http://freeplaygameblog.blogspot.com/2013/11/temple-run.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://freeplaygameblog.blogspot.com/2013/11/temple-run.html?m=1
 *  JS Response Bytes: 1371959
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287158
-
-### Performance issues
-
 
 ### Performance issues
 

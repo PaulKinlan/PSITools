@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.allocalendrier.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [AlloCalendrier.com : calendrier 2014](http://www.allocalendrier.com/)
 
@@ -29,9 +32,6 @@ title: http://www.allocalendrier.com/
 *  JS Response Bytes: 143395
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10152
-
-### Performance issues
-
 
 ### Performance issues
 

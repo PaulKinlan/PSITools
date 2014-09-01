@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.billiardgameslist.com/9-ball-quick-fire-pool/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [9 Ball Quick Fire Pool](http://www.billiardgameslist.com/9-ball-quick-fire-pool/)
 
@@ -29,9 +35,6 @@ title: http://www.billiardgameslist.com/9-ball-quick-fire-pool/
 *  JS Response Bytes: 3261072
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 304949
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.welcomewagon.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome Wagon - Welcome Wagon - New Homeowner Marketing Since 1928](http://www.welcomewagon.com/)
 
@@ -29,9 +33,6 @@ title: http://www.welcomewagon.com/
 *  JS Response Bytes: 1576953
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

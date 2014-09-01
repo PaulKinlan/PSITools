@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://istartpage.info/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Visual Home Page: iStartPage.info](http://istartpage.info/)
 
@@ -29,9 +31,6 @@ title: http://istartpage.info/
 *  JS Response Bytes: 1247758
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33610
-
-### Performance issues
-
 
 ### Performance issues
 

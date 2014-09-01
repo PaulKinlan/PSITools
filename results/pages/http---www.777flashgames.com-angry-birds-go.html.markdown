@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.777flashgames.com/angry-birds-go.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Go | 777 Flash Games](http://www.777flashgames.com/angry-birds-go.html)
 
@@ -29,9 +33,6 @@ title: http://www.777flashgames.com/angry-birds-go.html
 *  JS Response Bytes: 1693127
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105479
-
-### Performance issues
-
 
 ### Performance issues
 

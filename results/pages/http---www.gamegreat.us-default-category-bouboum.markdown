@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamegreat.us/default-category/bouboum
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bouboum - Game Great](http://www.gamegreat.us/default-category/bouboum)
 
@@ -29,9 +35,6 @@ title: http://www.gamegreat.us/default-category/bouboum
 *  JS Response Bytes: 1847223
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99200
-
-### Performance issues
-
 
 ### Performance issues
 

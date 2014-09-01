@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.pludly.com/room/53fb9cb8d406f19530000003?#af95f451-7850-4a56-86f7-cc98f1c5dc51
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Room: 53fb9cb8d406f19530000003](https://www.pludly.com/room/53fb9cb8d406f19530000003?#af95f451-7850-4a56-86f7-cc98f1c5dc51)
 
@@ -29,9 +33,6 @@ title: https://www.pludly.com/room/53fb9cb8d406f19530000003?#af95f451-7850-4a56-
 *  JS Response Bytes: 2602474
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4970
-
-### Performance issues
-
 
 ### Performance issues
 

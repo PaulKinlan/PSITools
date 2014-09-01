@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.czngames.com/ara/gta%20san%20andreas
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [gta san andreas games, play games](http://www.czngames.com/ara/gta%20san%20andreas)
 
@@ -29,9 +35,6 @@ title: http://www.czngames.com/ara/gta%20san%20andreas
 *  JS Response Bytes: 12237
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

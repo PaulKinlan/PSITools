@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/539150/?autoAction=true&sId=Chrome_Webstore_Nov12_539150
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Fairy Jewels for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/539150/?autoAction=true&sId=Chrome_Webstore_Nov12_539150)
 
@@ -29,9 +34,6 @@ title: http://www.freeridegames.com/chrome/games/539150/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1379756
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25950
-
-### Performance issues
-
 
 ### Performance issues
 

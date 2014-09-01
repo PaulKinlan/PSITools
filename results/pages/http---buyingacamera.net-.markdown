@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://buyingacamera.net/
+MinimizeRenderBlockingResources: true
 ---
 ## [Buyingacamera.net](http://buyingacamera.net/)
 
@@ -29,9 +30,6 @@ title: http://buyingacamera.net/
 *  JS Response Bytes: 9100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

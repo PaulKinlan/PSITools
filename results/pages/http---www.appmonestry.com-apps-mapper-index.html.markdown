@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.appmonestry.com/apps/mapper/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Idea Mapper](http://www.appmonestry.com/apps/mapper/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.appmonestry.com/apps/mapper/index.html
 *  JS Response Bytes: 894767
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

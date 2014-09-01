@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://newbestfreeonlinegame.blogspot.com/2013/11/candy-shooter.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [New Best Free Online Game: Candy Shooter](http://newbestfreeonlinegame.blogspot.com/2013/11/candy-shooter.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://newbestfreeonlinegame.blogspot.com/2013/11/candy-shooter.html?m=1
 *  JS Response Bytes: 1292471
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111339
-
-### Performance issues
-
 
 ### Performance issues
 

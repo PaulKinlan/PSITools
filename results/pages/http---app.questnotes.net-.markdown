@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://app.questnotes.net/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [QuestNotes -クエストノーツ-](http://app.questnotes.net/)
 
@@ -29,9 +32,6 @@ title: http://app.questnotes.net/
 *  JS Response Bytes: 130549
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 583
-
-### Performance issues
-
 
 ### Performance issues
 

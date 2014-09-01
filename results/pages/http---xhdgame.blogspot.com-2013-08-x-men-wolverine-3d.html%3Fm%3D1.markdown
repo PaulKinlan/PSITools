@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://xhdgame.blogspot.com/2013/08/x-men-wolverine-3d.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [XHDGAME: X-Men Wolverine 3D](http://xhdgame.blogspot.com/2013/08/x-men-wolverine-3d.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://xhdgame.blogspot.com/2013/08/x-men-wolverine-3d.html?m=1
 *  JS Response Bytes: 731427
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95583
-
-### Performance issues
-
 
 ### Performance issues
 

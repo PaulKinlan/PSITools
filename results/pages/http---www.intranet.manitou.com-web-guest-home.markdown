@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.intranet.manitou.com/web/guest/home
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome - intranet-manitou.fr](http://www.intranet.manitou.com/web/guest/home)
 
@@ -29,9 +33,6 @@ title: http://www.intranet.manitou.com/web/guest/home
 *  JS Response Bytes: 787833
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10180
-
-### Performance issues
-
 
 ### Performance issues
 

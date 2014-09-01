@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesfortune.net/puzzle-games/home-sheep-home-2--lost-underground
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Home Sheep Home 2 : Lost Underground - Free Online Games | GamesFortune.net](http://www.gamesfortune.net/puzzle-games/home-sheep-home-2--lost-underground)
 
@@ -29,9 +35,6 @@ title: http://www.gamesfortune.net/puzzle-games/home-sheep-home-2--lost-undergro
 *  JS Response Bytes: 2340755
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114802
-
-### Performance issues
-
 
 ### Performance issues
 

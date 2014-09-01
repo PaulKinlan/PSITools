@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playstartgame.com/?=404;http://playstartgame.com:80/green-beret-castle-assaul.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [playstartgame.com](http://playstartgame.com/?=404;http://playstartgame.com:80/green-beret-castle-assaul.html&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://playstartgame.com/?=404;http://playstartgame.com:80/green-beret-ca
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 123
-
-### Performance issues
-
 
 ### Performance issues
 

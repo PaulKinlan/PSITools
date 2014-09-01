@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.android-app-patterns.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Android App Patterns](http://www.android-app-patterns.com/)
 
@@ -29,9 +34,6 @@ title: http://www.android-app-patterns.com/
 *  JS Response Bytes: 1586324
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 354355
-
-### Performance issues
-
 
 ### Performance issues
 

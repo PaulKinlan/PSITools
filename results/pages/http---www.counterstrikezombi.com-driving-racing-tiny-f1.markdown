@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.counterstrikezombi.com/driving-racing/tiny-f1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tiny F1 - CounterStrike](http://www.counterstrikezombi.com/driving-racing/tiny-f1)
 
@@ -29,9 +36,6 @@ title: http://www.counterstrikezombi.com/driving-racing/tiny-f1
 *  JS Response Bytes: 1903888
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119028
-
-### Performance issues
-
 
 ### Performance issues
 

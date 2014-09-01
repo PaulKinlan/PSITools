@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww1.clipabout.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [clipabout.com - clipabout Resources and Information. This website is for sale!](http://ww1.clipabout.com/)
 
@@ -18,20 +19,17 @@ title: http://ww1.clipabout.com/
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 2
-*  Total Request Bytes: 442
+*  Total Request Bytes: 447
 
 ### Response data
 
-*  HTML Response Bytes: 25349
+*  HTML Response Bytes: 25353
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 0
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 171
-
-### Performance issues
-
 
 ### Performance issues
 

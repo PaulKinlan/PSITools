@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://myschoolbinder.com/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login | Schoolbinder](http://myschoolbinder.com/login)
 
@@ -29,9 +33,6 @@ title: http://myschoolbinder.com/login
 *  JS Response Bytes: 116548
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17276
-
-### Performance issues
-
 
 ### Performance issues
 

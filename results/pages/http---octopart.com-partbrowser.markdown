@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://octopart.com/partbrowser
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Octopart Part Browser](http://octopart.com/partbrowser)
 
@@ -29,9 +34,6 @@ title: http://octopart.com/partbrowser
 *  JS Response Bytes: 740996
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12035
-
-### Performance issues
-
 
 ### Performance issues
 

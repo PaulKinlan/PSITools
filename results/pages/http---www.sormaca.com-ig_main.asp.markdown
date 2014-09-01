@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sormaca.com/ig_main.asp
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sormaca: Sosyal Anket Platformu](http://www.sormaca.com/ig_main.asp)
 
@@ -29,9 +34,6 @@ title: http://www.sormaca.com/ig_main.asp
 *  JS Response Bytes: 475173
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54451
-
-### Performance issues
-
 
 ### Performance issues
 

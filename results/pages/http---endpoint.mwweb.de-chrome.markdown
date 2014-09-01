@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://endpoint.mwweb.de/chrome
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://endpoint.mwweb.de/chrome)
 
@@ -29,9 +30,6 @@ title: http://endpoint.mwweb.de/chrome
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 432
-
-### Performance issues
-
 
 ### Performance issues
 

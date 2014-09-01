@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://worklist.servsuite.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](https://worklist.servsuite.net/)
 
@@ -29,9 +33,6 @@ title: https://worklist.servsuite.net/
 *  JS Response Bytes: 8314
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 347
-
-### Performance issues
-
 
 ### Performance issues
 

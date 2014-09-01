@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.nippychick.co.uk/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sex Toys Shop, Online Sex Shop UK – Nippy Chick](http://www.nippychick.co.uk/)
 
@@ -29,9 +34,6 @@ title: http://www.nippychick.co.uk/
 *  JS Response Bytes: 1819176
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95765
-
-### Performance issues
-
 
 ### Performance issues
 

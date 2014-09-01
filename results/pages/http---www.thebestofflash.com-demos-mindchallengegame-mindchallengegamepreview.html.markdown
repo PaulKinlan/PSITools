@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.thebestofflash.com/demos/mindchallengegame/mindchallengegamepreview.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mind Challenge Game Preview at TheBestofFlash.com](http://www.thebestofflash.com/demos/mindchallengegame/mindchallengegamepreview.html)
 
@@ -29,9 +35,6 @@ title: http://www.thebestofflash.com/demos/mindchallengegame/mindchallengegamepr
 *  JS Response Bytes: 1475371
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109694
-
-### Performance issues
-
 
 ### Performance issues
 

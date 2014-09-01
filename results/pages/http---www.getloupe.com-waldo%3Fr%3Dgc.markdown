@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.getloupe.com/waldo?r=gc
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Loupe Waldo | Let the Hunt Begin! | Loupe](http://www.getloupe.com/waldo?r=gc)
 
@@ -29,9 +32,6 @@ title: http://www.getloupe.com/waldo?r=gc
 *  JS Response Bytes: 1417007
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3118
-
-### Performance issues
-
 
 ### Performance issues
 

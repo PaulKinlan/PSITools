@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.kubbos.com/login?noauth
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Acceso a usuarios | Software de Gestión y facturación | Kubbos ERP Online](https://www.kubbos.com/login?noauth)
 
@@ -29,9 +34,6 @@ title: https://www.kubbos.com/login?noauth
 *  JS Response Bytes: 505198
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 999
-
-### Performance issues
-
 
 ### Performance issues
 

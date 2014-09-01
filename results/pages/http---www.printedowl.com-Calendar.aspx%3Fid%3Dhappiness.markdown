@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.printedowl.com/Calendar.aspx?id=happiness
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Daily Quote | Reflections on Life | Suggested Gifts and Search | August 25](http://www.printedowl.com/Calendar.aspx?id=happiness)
 
@@ -29,9 +33,6 @@ title: http://www.printedowl.com/Calendar.aspx?id=happiness
 *  JS Response Bytes: 794316
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29663
-
-### Performance issues
-
 
 ### Performance issues
 

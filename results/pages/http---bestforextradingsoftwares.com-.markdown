@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://bestforextradingsoftwares.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bestforextradingsoftwares.com](http://bestforextradingsoftwares.com/)
 
@@ -29,9 +31,6 @@ title: http://bestforextradingsoftwares.com/
 *  JS Response Bytes: 167731
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

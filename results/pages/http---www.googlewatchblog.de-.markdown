@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.googlewatchblog.de/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [GoogleWatchBlog - Tägliche News rund um Google, YouTube, Android und Co.](http://www.googlewatchblog.de/)
 
@@ -29,9 +32,6 @@ title: http://www.googlewatchblog.de/
 *  JS Response Bytes: 867566
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 38571
-
-### Performance issues
-
 
 ### Performance issues
 

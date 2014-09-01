@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.addictive-games.org/defense-games/nerdy-nom-nom
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | www.popular-games.org | Play Most Popular Games Free](http://www.addictive-games.org/defense-games/nerdy-nom-nom)
 
@@ -29,9 +35,6 @@ title: http://www.addictive-games.org/defense-games/nerdy-nom-nom
 *  JS Response Bytes: 1036244
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3147
-
-### Performance issues
-
 
 ### Performance issues
 

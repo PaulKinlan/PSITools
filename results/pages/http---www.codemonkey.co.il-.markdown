@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.codemonkey.co.il/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CodeMonkey](http://www.codemonkey.co.il/)
 
@@ -29,9 +35,6 @@ title: http://www.codemonkey.co.il/
 *  JS Response Bytes: 777104
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43746
-
-### Performance issues
-
 
 ### Performance issues
 

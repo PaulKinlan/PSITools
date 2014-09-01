@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.networkspeedtest.org/?ch
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Network Speed Test | NetworkSpeedTest.org](http://www.networkspeedtest.org/?ch)
 
@@ -29,9 +34,6 @@ title: http://www.networkspeedtest.org/?ch
 *  JS Response Bytes: 722837
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -33,8 +33,5 @@ title: http://www.lastpopulargames.com/play/pyramid_run-1062
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

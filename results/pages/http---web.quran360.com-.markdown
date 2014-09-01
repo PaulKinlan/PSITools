@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://web.quran360.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Quran360 Web - القرآن الكريم](http://web.quran360.com/)
 
@@ -29,9 +32,6 @@ title: http://web.quran360.com/
 *  JS Response Bytes: 831425
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 855
-
-### Performance issues
-
 
 ### Performance issues
 

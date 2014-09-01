@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://horoscopeapp1.funkyapps.info/horoscopeapp1.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Daily Horoscope App](http://horoscopeapp1.funkyapps.info/horoscopeapp1.htm)
 
@@ -29,9 +34,6 @@ title: http://horoscopeapp1.funkyapps.info/horoscopeapp1.htm
 *  JS Response Bytes: 587866
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96746
-
-### Performance issues
-
 
 ### Performance issues
 

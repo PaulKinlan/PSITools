@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.bontq.com/login.php
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sign in your Bontq Account](http://www.bontq.com/login.php)
 
@@ -29,9 +34,6 @@ title: http://www.bontq.com/login.php
 *  JS Response Bytes: 114933
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

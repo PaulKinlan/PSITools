@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gamesupreme.net/new-popular-games/114/pour-the-fish-2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [gamesupreme.net](http://www.gamesupreme.net/new-popular-games/114/pour-the-fish-2)
 
@@ -29,9 +32,6 @@ title: http://www.gamesupreme.net/new-popular-games/114/pour-the-fish-2
 *  JS Response Bytes: 209610
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

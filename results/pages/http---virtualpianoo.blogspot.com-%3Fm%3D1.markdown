@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://virtualpianoo.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [virtual piano](http://virtualpianoo.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://virtualpianoo.blogspot.com/?m=1
 *  JS Response Bytes: 788431
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16013
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kunmingtrip.com/@referer=chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kunming Trip, Kunming China Tours, Kunming Hotels and Attractions](http://www.kunmingtrip.com/@referer=chrome)
 
@@ -29,9 +34,6 @@ title: http://www.kunmingtrip.com/@referer=chrome
 *  JS Response Bytes: 548474
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1745
-
-### Performance issues
-
 
 ### Performance issues
 

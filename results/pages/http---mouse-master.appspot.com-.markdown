@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mouse-master.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mouse Master Game](http://mouse-master.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://mouse-master.appspot.com/
 *  JS Response Bytes: 2114626
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39268
-
-### Performance issues
-
 
 ### Performance issues
 

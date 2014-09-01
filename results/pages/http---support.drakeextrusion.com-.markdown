@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://support.drakeextrusion.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Drake Extrusion Support](http://support.drakeextrusion.com/)
 
@@ -29,9 +34,6 @@ title: http://support.drakeextrusion.com/
 *  JS Response Bytes: 105106
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

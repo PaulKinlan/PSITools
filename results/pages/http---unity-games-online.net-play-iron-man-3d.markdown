@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://unity-games-online.net/play-iron-man-3d
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Iron Man 3D Online | Unity-Games-Online.Net](http://unity-games-online.net/play-iron-man-3d)
 
@@ -29,9 +32,6 @@ title: http://unity-games-online.net/play-iron-man-3d
 *  JS Response Bytes: 2312809
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141460
-
-### Performance issues
-
 
 ### Performance issues
 

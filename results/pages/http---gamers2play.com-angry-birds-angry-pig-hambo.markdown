@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://gamers2play.com/angry-birds/angry-pig-hambo
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Pig Hambo - Games, Gamers 2 Play | gamers2play.com](http://gamers2play.com/angry-birds/angry-pig-hambo)
 
@@ -29,9 +36,6 @@ title: http://gamers2play.com/angry-birds/angry-pig-hambo
 *  JS Response Bytes: 3624794
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 211395
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freegames2u.com/ice-breaker.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ice Breaker | Free Games 2U](http://www.freegames2u.com/ice-breaker.html)
 
@@ -29,9 +34,6 @@ title: http://www.freegames2u.com/ice-breaker.html
 *  JS Response Bytes: 1529013
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103930
-
-### Performance issues
-
 
 ### Performance issues
 

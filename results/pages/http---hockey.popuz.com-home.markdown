@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://hockey.popuz.com/home
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fantasy Hockey](http://hockey.popuz.com/home)
 
@@ -29,9 +34,6 @@ title: http://hockey.popuz.com/home
 *  JS Response Bytes: 613009
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8100
-
-### Performance issues
-
 
 ### Performance issues
 

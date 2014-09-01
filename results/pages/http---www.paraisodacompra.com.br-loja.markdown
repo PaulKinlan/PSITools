@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.paraisodacompra.com.br/loja
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://www.paraisodacompra.com.br/loja)
 
@@ -29,9 +30,6 @@ title: http://www.paraisodacompra.com.br/loja
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 814
-
-### Performance issues
-
 
 ### Performance issues
 

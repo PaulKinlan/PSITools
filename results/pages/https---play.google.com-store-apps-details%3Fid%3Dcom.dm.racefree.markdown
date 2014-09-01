@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://play.google.com/store/apps/details?id=com.dm.racefree
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [TrackRacing Pursuit Free - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.dm.racefree)
 
@@ -29,9 +32,6 @@ title: https://play.google.com/store/apps/details?id=com.dm.racefree
 *  JS Response Bytes: 3891903
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 260654
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.manynewgames.com/default-category/operate-now-ear-surgery
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Operate Now: Ear Surgery - Many New Games](http://www.manynewgames.com/default-category/operate-now-ear-surgery)
 
@@ -29,9 +34,6 @@ title: http://www.manynewgames.com/default-category/operate-now-ear-surgery
 *  JS Response Bytes: 2346650
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119436
-
-### Performance issues
-
 
 ### Performance issues
 

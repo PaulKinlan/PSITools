@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://francais.translatelanguage.club/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Traduction Anglais Français](http://francais.translatelanguage.club/)
 
@@ -29,9 +31,6 @@ title: http://francais.translatelanguage.club/
 *  JS Response Bytes: 1841597
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 191169
-
-### Performance issues
-
 
 ### Performance issues
 

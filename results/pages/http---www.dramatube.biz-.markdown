@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.dramatube.biz/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DRAMATUBE](http://www.dramatube.biz/)
 
@@ -29,9 +33,6 @@ title: http://www.dramatube.biz/
 *  JS Response Bytes: 633094
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 160381
-
-### Performance issues
-
 
 ### Performance issues
 

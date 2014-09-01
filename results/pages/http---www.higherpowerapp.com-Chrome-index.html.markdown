@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.higherpowerapp.com/Chrome/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [The Higher Power App](http://www.higherpowerapp.com/Chrome/index.html)
 
@@ -29,9 +31,6 @@ title: http://www.higherpowerapp.com/Chrome/index.html
 *  JS Response Bytes: 102973
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

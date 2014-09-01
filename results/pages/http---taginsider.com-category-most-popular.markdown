@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://taginsider.com/category/most-popular
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Most Popular - See what hashtags are popular on Instagram - TagInsider](http://taginsider.com/category/most-popular)
 
@@ -29,9 +31,6 @@ title: http://taginsider.com/category/most-popular
 *  JS Response Bytes: 848377
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 131965
-
-### Performance issues
-
 
 ### Performance issues
 

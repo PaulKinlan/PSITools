@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.soccerstand.com/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Soccer Livescore - Live Scores & Match Results - Soccerstand.com](http://www.soccerstand.com/)
 
@@ -29,9 +33,6 @@ title: http://www.soccerstand.com/
 *  JS Response Bytes: 1933497
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98810
-
-### Performance issues
-
 
 ### Performance issues
 

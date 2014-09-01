@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.777flashgames.com/wheres-my-water-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Where’s My Water? 2 | 777 Flash Games](http://www.777flashgames.com/wheres-my-water-2.html)
 
@@ -29,9 +34,6 @@ title: http://www.777flashgames.com/wheres-my-water-2.html
 *  JS Response Bytes: 1530442
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103949
-
-### Performance issues
-
 
 ### Performance issues
 

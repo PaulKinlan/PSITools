@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.evlilikbuyusu.com.tr/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Evlilik Büyüsü ve Büyüleri](http://www.evlilikbuyusu.com.tr/)
 
@@ -29,9 +33,6 @@ title: http://www.evlilikbuyusu.com.tr/
 *  JS Response Bytes: 774087
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

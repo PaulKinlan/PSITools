@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesofaddicts.com/popular-games/oh-my-candy!-levels-pack
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | Gamesogaddicts.com | Play Most Popular Games Free](http://www.gamesofaddicts.com/popular-games/oh-my-candy!-levels-pack)
 
@@ -29,9 +35,6 @@ title: http://www.gamesofaddicts.com/popular-games/oh-my-candy!-levels-pack
 *  JS Response Bytes: 1310650
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46623
-
-### Performance issues
-
 
 ### Performance issues
 

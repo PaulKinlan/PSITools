@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://members.shaw.ca/mikeswordpuzzles/wenrol-gwa/wenrol-gwa.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WENROL](http://members.shaw.ca/mikeswordpuzzles/wenrol-gwa/wenrol-gwa.html)
 
@@ -29,9 +33,6 @@ title: http://members.shaw.ca/mikeswordpuzzles/wenrol-gwa/wenrol-gwa.html
 *  JS Response Bytes: 32167
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

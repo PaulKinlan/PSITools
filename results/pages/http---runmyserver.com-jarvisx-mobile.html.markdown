@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://runmyserver.com/jarvisx/mobile.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [JarvisX](http://runmyserver.com/jarvisx/mobile.html)
 
@@ -29,9 +33,6 @@ title: http://runmyserver.com/jarvisx/mobile.html
 *  JS Response Bytes: 195396
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 234504
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://newflashgameto.blogspot.com.tr/2014/07/pamplona-smash.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [NewflashgameTo: Pamplona Smash](http://newflashgameto.blogspot.com.tr/2014/07/pamplona-smash.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://newflashgameto.blogspot.com.tr/2014/07/pamplona-smash.html?m=1
 *  JS Response Bytes: 1496650
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111798
-
-### Performance issues
-
 
 ### Performance issues
 

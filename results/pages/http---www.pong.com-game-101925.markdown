@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.pong.com/game/101925
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Frat Boy Beer Pong - Action & Arcade - Pong | Play Online Network Games](http://www.pong.com/game/101925)
 
@@ -29,9 +34,6 @@ title: http://www.pong.com/game/101925
 *  JS Response Bytes: 1522360
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125472
-
-### Performance issues
-
 
 ### Performance issues
 

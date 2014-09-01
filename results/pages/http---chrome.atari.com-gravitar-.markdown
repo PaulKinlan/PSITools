@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chrome.atari.com/gravitar/
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gravitar - Atari Video Games](http://chrome.atari.com/gravitar/)
 
@@ -29,9 +32,6 @@ title: http://chrome.atari.com/gravitar/
 *  JS Response Bytes: 82045
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://sites.google.com/a/iteams.ca/info-portal-iteams-ca/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Info Portal - info.iteams.ca](https://sites.google.com/a/iteams.ca/info-portal-iteams-ca/)
 
@@ -29,9 +31,6 @@ title: https://sites.google.com/a/iteams.ca/info-portal-iteams-ca/
 *  JS Response Bytes: 1371247
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 297
-
-### Performance issues
-
 
 ### Performance issues
 

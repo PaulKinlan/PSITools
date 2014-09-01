@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://touchdownrungame.com/index.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TOUCHDOWN RUN - Play Touchdown Run in your browser](http://touchdownrungame.com/index.html)
 
@@ -29,9 +32,6 @@ title: http://touchdownrungame.com/index.html
 *  JS Response Bytes: 779712
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

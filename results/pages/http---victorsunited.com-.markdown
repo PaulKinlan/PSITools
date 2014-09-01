@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://victorsunited.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online. Risk your troops in a free strategy game](http://victorsunited.com/)
 
@@ -29,9 +34,6 @@ title: http://victorsunited.com/
 *  JS Response Bytes: 790810
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2982
-
-### Performance issues
-
 
 ### Performance issues
 

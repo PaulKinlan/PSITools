@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.apexdcc.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Apex Design Consultants Limited](http://www.apexdcc.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://www.apexdcc.com/?m=1
 *  JS Response Bytes: 283648
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 555
-
-### Performance issues
-
 
 ### Performance issues
 

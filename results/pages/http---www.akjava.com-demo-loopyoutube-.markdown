@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.akjava.com/demo/loopyoutube/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Loop Video Player](http://www.akjava.com/demo/loopyoutube/)
 
@@ -29,9 +34,6 @@ title: http://www.akjava.com/demo/loopyoutube/
 *  JS Response Bytes: 36695
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

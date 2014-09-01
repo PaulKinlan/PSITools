@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.sigmasoftware.com.br/site/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sigma Software](http://www.sigmasoftware.com.br/site/)
 
@@ -29,9 +36,6 @@ title: http://www.sigmasoftware.com.br/site/
 *  JS Response Bytes: 1068860
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3827
-
-### Performance issues
-
 
 ### Performance issues
 

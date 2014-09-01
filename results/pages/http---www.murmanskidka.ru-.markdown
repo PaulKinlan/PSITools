@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.murmanskidka.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Murmanskidka.ru Все скидки и акции Мурманска! Всё тут есть!](http://www.murmanskidka.ru/)
 
@@ -29,9 +34,6 @@ title: http://www.murmanskidka.ru/
 *  JS Response Bytes: 316962
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7172
-
-### Performance issues
-
 
 ### Performance issues
 

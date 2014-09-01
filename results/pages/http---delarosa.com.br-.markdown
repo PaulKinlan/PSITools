@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://delarosa.com.br/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Helô Dela Rosa](http://delarosa.com.br/)
 
@@ -29,9 +34,6 @@ title: http://delarosa.com.br/
 *  JS Response Bytes: 3251454
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 158561
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/skateboard-city/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Skateboard City game](http://www.skateboarding-games.biz/skateboard-city/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/skateboard-city/
 *  JS Response Bytes: 2123489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113631
-
-### Performance issues
-
 
 ### Performance issues
 

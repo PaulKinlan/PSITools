@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://m.funnygames.biz/?gameid=3061&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=9_dragons_hexa
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funnygames.biz/?gameid=3061&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=9_dragons_hexa)
 
@@ -29,9 +34,6 @@ title: http://m.funnygames.biz/?gameid=3061&utm_source=cws&utm_medium=app&utm_ca
 *  JS Response Bytes: 1265757
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28409
-
-### Performance issues
-
 
 ### Performance issues
 

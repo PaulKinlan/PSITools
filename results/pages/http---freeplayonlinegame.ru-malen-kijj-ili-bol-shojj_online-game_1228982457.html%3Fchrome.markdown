@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://freeplayonlinegame.ru/malen-kijj-ili-bol-shojj_online-game_1228982457.html?chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Игра Маленький или большой онлайн](http://freeplayonlinegame.ru/malen-kijj-ili-bol-shojj_online-game_1228982457.html?chrome)
 
@@ -29,9 +35,6 @@ title: http://freeplayonlinegame.ru/malen-kijj-ili-bol-shojj_online-game_1228982
 *  JS Response Bytes: 506912
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 93193
-
-### Performance issues
-
 
 ### Performance issues
 

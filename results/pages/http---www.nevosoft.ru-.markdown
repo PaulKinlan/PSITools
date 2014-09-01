@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.nevosoft.ru/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Игры, скачать игры на компьютер - игровой портал Nevosoft.ru](http://www.nevosoft.ru/)
 
@@ -29,9 +35,6 @@ title: http://www.nevosoft.ru/
 *  JS Response Bytes: 805580
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2329
-
-### Performance issues
-
 
 ### Performance issues
 

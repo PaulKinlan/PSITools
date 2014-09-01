@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://thoughtlessdelineation.wordpress.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Thoughtless Delineation | The sole purpose of this blog is to lift standards in graphic design by promoting it’s worth and denouncing the miscommunication of ideas forced upon Graphic Designers by the general public.](http://thoughtlessdelineation.wordpress.com/)
 
@@ -29,9 +32,6 @@ title: http://thoughtlessdelineation.wordpress.com/
 *  JS Response Bytes: 3050106
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4770
-
-### Performance issues
-
 
 ### Performance issues
 

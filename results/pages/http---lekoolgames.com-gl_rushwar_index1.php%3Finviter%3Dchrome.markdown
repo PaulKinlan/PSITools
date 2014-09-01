@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://lekoolgames.com/gl_rushwar_index1.php?inviter=chrome
+SizeContentToViewport: true
 ---
 ## [Rushwar Login With Google - Lekool](http://lekoolgames.com/gl_rushwar_index1.php?inviter=chrome)
 
@@ -29,9 +30,6 @@ title: http://lekoolgames.com/gl_rushwar_index1.php?inviter=chrome
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

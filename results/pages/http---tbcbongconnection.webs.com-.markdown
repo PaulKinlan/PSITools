@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://tbcbongconnection.webs.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Bong Connection](http://tbcbongconnection.webs.com/)
 
@@ -29,9 +34,6 @@ title: http://tbcbongconnection.webs.com/
 *  JS Response Bytes: 631844
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29370
-
-### Performance issues
-
 
 ### Performance issues
 

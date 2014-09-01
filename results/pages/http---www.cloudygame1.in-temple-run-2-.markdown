@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.cloudygame1.in/temple-run-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Temple Run 2 - Cloudy game](http://www.cloudygame1.in/temple-run-2/)
 
@@ -29,9 +34,6 @@ title: http://www.cloudygame1.in/temple-run-2/
 *  JS Response Bytes: 1729991
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 180449
-
-### Performance issues
-
 
 ### Performance issues
 

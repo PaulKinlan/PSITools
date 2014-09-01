@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kamyonparketme.com/?s=temple
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [temple – Search Results – Online Best Games](http://www.kamyonparketme.com/?s=temple)
 
@@ -29,9 +34,6 @@ title: http://www.kamyonparketme.com/?s=temple
 *  JS Response Bytes: 553577
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

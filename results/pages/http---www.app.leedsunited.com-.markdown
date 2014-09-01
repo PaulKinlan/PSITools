@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.app.leedsunited.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Leeds United](http://www.app.leedsunited.com/)
 
@@ -29,9 +34,6 @@ title: http://www.app.leedsunited.com/
 *  JS Response Bytes: 890156
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 146749
-
-### Performance issues
-
 
 ### Performance issues
 

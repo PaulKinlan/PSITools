@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://scribble.wreally.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Scribble - Stickies on Steroids.](http://scribble.wreally.com/)
 
@@ -29,9 +33,6 @@ title: http://scribble.wreally.com/
 *  JS Response Bytes: 149066
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

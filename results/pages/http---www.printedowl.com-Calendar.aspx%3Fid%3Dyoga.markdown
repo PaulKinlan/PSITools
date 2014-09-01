@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.printedowl.com/Calendar.aspx?id=yoga
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Daily Quote | Yoga Wise | Suggested Gifts and Search | August 25](http://www.printedowl.com/Calendar.aspx?id=yoga)
 
@@ -29,9 +33,6 @@ title: http://www.printedowl.com/Calendar.aspx?id=yoga
 *  JS Response Bytes: 794317
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29663
-
-### Performance issues
-
 
 ### Performance issues
 

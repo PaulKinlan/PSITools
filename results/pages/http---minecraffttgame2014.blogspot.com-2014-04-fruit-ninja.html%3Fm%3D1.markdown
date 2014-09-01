@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://minecraffttgame2014.blogspot.com/2014/04/fruit-ninja.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [chrome store minecraft best of game: Fruit Ninja](http://minecraffttgame2014.blogspot.com/2014/04/fruit-ninja.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://minecraffttgame2014.blogspot.com/2014/04/fruit-ninja.html?m=1
 *  JS Response Bytes: 1532466
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 140078
-
-### Performance issues
-
 
 ### Performance issues
 

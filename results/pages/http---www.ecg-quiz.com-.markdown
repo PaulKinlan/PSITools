@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.ecg-quiz.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ECG Quiz - Online electrocardiogram interpretation tests](http://www.ecg-quiz.com/)
 
@@ -29,9 +31,6 @@ title: http://www.ecg-quiz.com/
 *  JS Response Bytes: 472266
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34694
-
-### Performance issues
-
 
 ### Performance issues
 

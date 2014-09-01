@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.manynewgames.com/default-category/santas-candy-3
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Santa's Candy - Many New Games](http://www.manynewgames.com/default-category/santas-candy-3)
 
@@ -29,9 +34,6 @@ title: http://www.manynewgames.com/default-category/santas-candy-3
 *  JS Response Bytes: 1722408
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118262
-
-### Performance issues
-
 
 ### Performance issues
 

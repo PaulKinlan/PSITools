@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.minecraftseedslist.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Minecraft Seeds List - Epic Minecraft Game Seeds Collection](http://www.minecraftseedslist.org/)
 
@@ -29,9 +33,6 @@ title: http://www.minecraftseedslist.org/
 *  JS Response Bytes: 2717669
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 298381
-
-### Performance issues
-
 
 ### Performance issues
 

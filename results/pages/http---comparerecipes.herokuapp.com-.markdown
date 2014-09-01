@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://comparerecipes.herokuapp.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Compare Recipes ·](http://comparerecipes.herokuapp.com/)
 
@@ -29,9 +32,6 @@ title: http://comparerecipes.herokuapp.com/
 *  JS Response Bytes: 1599781
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 188104
-
-### Performance issues
-
 
 ### Performance issues
 

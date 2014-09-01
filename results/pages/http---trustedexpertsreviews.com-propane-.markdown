@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://trustedexpertsreviews.com/propane/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Best Portable Propane Generator Reviews](http://trustedexpertsreviews.com/propane/)
 
@@ -29,9 +34,6 @@ title: http://trustedexpertsreviews.com/propane/
 *  JS Response Bytes: 77519
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4223
-
-### Performance issues
-
 
 ### Performance issues
 

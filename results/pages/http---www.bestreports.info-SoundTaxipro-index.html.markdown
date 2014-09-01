@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bestreports.info/SoundTaxipro/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [All-In-One Any Music Files to MP3, AAC (M4A), WMA or WAV Converter](http://www.bestreports.info/SoundTaxipro/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.bestreports.info/SoundTaxipro/index.html
 *  JS Response Bytes: 1036826
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95268
-
-### Performance issues
-
 
 ### Performance issues
 

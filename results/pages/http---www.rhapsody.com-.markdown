@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.rhapsody.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Rhapsody - Unlimited Music Anywhere](http://www.rhapsody.com/)
 
@@ -29,9 +31,6 @@ title: http://www.rhapsody.com/
 *  JS Response Bytes: 779478
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27178
-
-### Performance issues
-
 
 ### Performance issues
 

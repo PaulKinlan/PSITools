@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kergames.pw/ski-safari/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ski Safari – Online Best Games](http://www.kergames.pw/ski-safari/)
 
@@ -29,9 +34,6 @@ title: http://www.kergames.pw/ski-safari/
 *  JS Response Bytes: 1144309
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23945
-
-### Performance issues
-
 
 ### Performance issues
 

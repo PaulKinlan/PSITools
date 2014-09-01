@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://tenfunplay.com/flash_games/extreme_bike_stunts/index.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Extreme Bike Stunts | tenfunplay.com](http://tenfunplay.com/flash_games/extreme_bike_stunts/index.html)
 
@@ -29,9 +34,6 @@ title: http://tenfunplay.com/flash_games/extreme_bike_stunts/index.html
 *  JS Response Bytes: 463075
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17220
-
-### Performance issues
-
 
 ### Performance issues
 

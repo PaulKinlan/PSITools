@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.zonebourse.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bourse : Cours de bourse en temps réel sur Actions, Indices, Forex, Matieres Premieres - Zonebourse.com](http://www.zonebourse.com/)
 
@@ -29,9 +35,6 @@ title: http://www.zonebourse.com/
 *  JS Response Bytes: 2595623
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16088
-
-### Performance issues
-
 
 ### Performance issues
 

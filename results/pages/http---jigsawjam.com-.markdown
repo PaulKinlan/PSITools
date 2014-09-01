@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://jigsawjam.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jigsaw Jam Home Page](http://jigsawjam.com/)
 
@@ -29,9 +34,6 @@ title: http://jigsawjam.com/
 *  JS Response Bytes: 644616
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17028
-
-### Performance issues
-
 
 ### Performance issues
 

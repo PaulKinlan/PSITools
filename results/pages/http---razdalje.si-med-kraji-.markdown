@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://razdalje.si/med-kraji/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Razdalje med kraji - Razdalje.si](http://razdalje.si/med-kraji/)
 
@@ -29,9 +32,6 @@ title: http://razdalje.si/med-kraji/
 *  JS Response Bytes: 1406993
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148832
-
-### Performance issues
-
 
 ### Performance issues
 

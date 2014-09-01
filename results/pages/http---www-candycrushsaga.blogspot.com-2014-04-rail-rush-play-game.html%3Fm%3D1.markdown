@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www-candycrushsaga.blogspot.com/2014/04/rail-rush-play-game.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online games: Rail Rush Play game](http://www-candycrushsaga.blogspot.com/2014/04/rail-rush-play-game.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://www-candycrushsaga.blogspot.com/2014/04/rail-rush-play-game.html?m
 *  JS Response Bytes: 1572921
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 144736
-
-### Performance issues
-
 
 ### Performance issues
 

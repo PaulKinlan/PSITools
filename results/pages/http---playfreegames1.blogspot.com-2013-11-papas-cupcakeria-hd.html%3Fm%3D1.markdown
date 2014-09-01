@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playfreegames1.blogspot.com/2013/11/papas-cupcakeria-hd.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [Play free games: Papa’s Cupcakeria hd](http://playfreegames1.blogspot.com/2013/11/papas-cupcakeria-hd.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playfreegames1.blogspot.com/2013/11/papas-cupcakeria-hd.html?m=1
 *  JS Response Bytes: 722355
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95593
-
-### Performance issues
-
 
 ### Performance issues
 

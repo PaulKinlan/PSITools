@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gamelivegames.com/?=404;http://www.gamelivegames.com:80/precious-daughter-iii.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [gamelivegames.com](http://gamelivegames.com/?=404;http://www.gamelivegames.com:80/precious-daughter-iii.html&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://gamelivegames.com/?=404;http://www.gamelivegames.com:80/precious-d
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 123
-
-### Performance issues
-
 
 ### Performance issues
 

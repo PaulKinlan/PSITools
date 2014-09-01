@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://sintrafico.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sintráfico - Bienvenido](http://sintrafico.com/)
 
@@ -29,9 +34,6 @@ title: http://sintrafico.com/
 *  JS Response Bytes: 1215256
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55963
-
-### Performance issues
-
 
 ### Performance issues
 

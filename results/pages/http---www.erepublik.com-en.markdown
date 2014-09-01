@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.erepublik.com/en
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free Online Multiplayer Strategy Game | eRepublik](http://www.erepublik.com/en)
 
@@ -29,9 +32,6 @@ title: http://www.erepublik.com/en
 *  JS Response Bytes: 521948
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4943
-
-### Performance issues
-
 
 ### Performance issues
 

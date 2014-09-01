@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.projecthawk.com/welcome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Get Free Video Marketing. Share your message with the world.](http://www.projecthawk.com/welcome)
 
@@ -29,9 +33,6 @@ title: http://www.projecthawk.com/welcome
 *  JS Response Bytes: 2755424
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 147433
-
-### Performance issues
-
 
 ### Performance issues
 

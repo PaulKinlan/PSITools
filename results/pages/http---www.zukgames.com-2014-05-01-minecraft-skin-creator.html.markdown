@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.zukgames.com/2014/05/01/minecraft-skin-creator.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Minecraft Skin Creator – Best HD Games Play Now](http://www.zukgames.com/2014/05/01/minecraft-skin-creator.html)
 
@@ -29,9 +34,6 @@ title: http://www.zukgames.com/2014/05/01/minecraft-skin-creator.html
 *  JS Response Bytes: 997044
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25983
-
-### Performance issues
-
 
 ### Performance issues
 

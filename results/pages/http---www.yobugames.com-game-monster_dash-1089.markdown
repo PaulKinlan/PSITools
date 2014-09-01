@@ -33,8 +33,5 @@ title: http://www.yobugames.com/game/monster_dash-1089
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

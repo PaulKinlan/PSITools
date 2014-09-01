@@ -1,6 +1,13 @@
 ---
 layout: result
 title: https://www.umdphidelt.com/site/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Maryland Alpha Phi Delta Theta](https://www.umdphidelt.com/site/)
 
@@ -29,9 +36,6 @@ title: https://www.umdphidelt.com/site/
 *  JS Response Bytes: 281779
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6050
-
-### Performance issues
-
 
 ### Performance issues
 

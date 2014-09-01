@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.pipelinedeals.com/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Login | PipelineDeals](https://www.pipelinedeals.com/login)
 
@@ -18,20 +20,17 @@ title: https://www.pipelinedeals.com/login
 *  Number of JS Resources: 27
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 34
-*  Total Request Bytes: 17774
+*  Total Request Bytes: 17895
 
 ### Response data
 
-*  HTML Response Bytes: 249059
+*  HTML Response Bytes: 249411
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 286694
-*  Image Response Bytes: 82276
-*  JS Response Bytes: 1907938
+*  CSS Response Bytes: 286374
+*  Image Response Bytes: 82410
+*  JS Response Bytes: 1910284
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 321870
-
-### Performance issues
-
+*  Other Response Bytes: 321985
 
 ### Performance issues
 

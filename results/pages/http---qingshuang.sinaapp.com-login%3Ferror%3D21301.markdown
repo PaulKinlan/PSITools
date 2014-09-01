@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://qingshuang.sinaapp.com/login?error=21301
+ServerResponseTime: true
 ---
 ## [Q.S](http://qingshuang.sinaapp.com/login?error=21301)
 
@@ -29,9 +30,6 @@ title: http://qingshuang.sinaapp.com/login?error=21301
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15648
-
-### Performance issues
-
 
 ### Performance issues
 

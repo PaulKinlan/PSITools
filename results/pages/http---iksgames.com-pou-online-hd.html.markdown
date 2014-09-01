@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://iksgames.com/pou-online-hd.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IKSgameS.Com | Flash Games. – Pou Online HD](http://iksgames.com/pou-online-hd.html)
 
@@ -29,9 +35,6 @@ title: http://iksgames.com/pou-online-hd.html
 *  JS Response Bytes: 412513
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 802
-
-### Performance issues
-
 
 ### Performance issues
 

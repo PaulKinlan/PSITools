@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamespu.com/minecraft.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MineCraft | GamesPu - Free Online Games](http://www.gamespu.com/minecraft.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamespu.com/minecraft.html
 *  JS Response Bytes: 1529660
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114886
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://swsi.moodle.tafensw.edu.au/index.php
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SWSI (TAFE NSW) Moodle](http://swsi.moodle.tafensw.edu.au/index.php)
 
@@ -29,9 +31,6 @@ title: http://swsi.moodle.tafensw.edu.au/index.php
 *  JS Response Bytes: 778453
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 775
-
-### Performance issues
-
 
 ### Performance issues
 

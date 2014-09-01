@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://oklahoma-app.appspot.com/play.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Oklahoma Gin - Play Online Free CardGame](http://oklahoma-app.appspot.com/play.html)
 
@@ -29,9 +35,6 @@ title: http://oklahoma-app.appspot.com/play.html
 *  JS Response Bytes: 582670
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32197
-
-### Performance issues
-
 
 ### Performance issues
 

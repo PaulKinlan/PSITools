@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/talking-tom-cat-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Talking Tom Cat 2 Game — Sultans of Game](http://www.sultansofgame.com/games/talking-tom-cat-2/)
 
@@ -29,9 +34,6 @@ title: http://www.sultansofgame.com/games/talking-tom-cat-2/
 *  JS Response Bytes: 1185330
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 129675
-
-### Performance issues
-
 
 ### Performance issues
 

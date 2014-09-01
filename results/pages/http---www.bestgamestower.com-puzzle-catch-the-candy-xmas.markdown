@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.bestgamestower.com/puzzle/catch-the-candy-xmas
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Catch the Candy Xmas - Best Games Tower - Free Online Best Games](http://www.bestgamestower.com/puzzle/catch-the-candy-xmas)
 
@@ -29,9 +35,6 @@ title: http://www.bestgamestower.com/puzzle/catch-the-candy-xmas
 *  JS Response Bytes: 749676
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9735
-
-### Performance issues
-
 
 ### Performance issues
 

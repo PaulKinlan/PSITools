@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://stunwall.com/stuncam
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stunwall - Photo effects, retro, vintage, beautiful](http://stunwall.com/stuncam)
 
@@ -29,9 +32,6 @@ title: http://stunwall.com/stuncam
 *  JS Response Bytes: 610385
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 937
-
-### Performance issues
-
 
 ### Performance issues
 

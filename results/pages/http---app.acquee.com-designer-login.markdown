@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://app.acquee.com/designer/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Acquee.com - login](http://app.acquee.com/designer/login)
 
@@ -29,9 +33,6 @@ title: http://app.acquee.com/designer/login
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 775
-
-### Performance issues
-
 
 ### Performance issues
 

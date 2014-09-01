@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://neonized.net/blog/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Neonized - Listen and download to the best new electronic music](http://neonized.net/blog/)
 
@@ -29,9 +34,6 @@ title: http://neonized.net/blog/
 *  JS Response Bytes: 2776915
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 366960
-
-### Performance issues
-
 
 ### Performance issues
 

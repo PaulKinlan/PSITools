@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://hangugeo.translate.ninja/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [영어 텍스트 번역에 한국어](http://hangugeo.translate.ninja/)
 
@@ -29,9 +31,6 @@ title: http://hangugeo.translate.ninja/
 *  JS Response Bytes: 1841258
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 161276
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.dpgames.com/onlinegames/taxi/?chrome
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Taxi Games - Play Taxi Games Online](http://www.dpgames.com/onlinegames/taxi/?chrome)
 
@@ -29,9 +35,6 @@ title: http://www.dpgames.com/onlinegames/taxi/?chrome
 *  JS Response Bytes: 514958
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

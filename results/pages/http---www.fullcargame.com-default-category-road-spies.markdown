@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fullcargame.com/default-category/road-spies
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Road Spies - Full Car Games - All Free Car Games](http://www.fullcargame.com/default-category/road-spies)
 
@@ -29,9 +34,6 @@ title: http://www.fullcargame.com/default-category/road-spies
 *  JS Response Bytes: 3332083
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109508
-
-### Performance issues
-
 
 ### Performance issues
 

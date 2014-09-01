@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://accounts.zoho.com/login?servicename=ZohoPulse
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Zoho Accounts](https://accounts.zoho.com/login?servicename=ZohoPulse)
 
@@ -29,9 +32,6 @@ title: https://accounts.zoho.com/login?servicename=ZohoPulse
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 767
-
-### Performance issues
-
 
 ### Performance issues
 

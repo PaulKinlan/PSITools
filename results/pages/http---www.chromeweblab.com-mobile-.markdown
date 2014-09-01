@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.chromeweblab.com/mobile/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Web Lab](http://www.chromeweblab.com/mobile/)
 
@@ -29,9 +31,6 @@ title: http://www.chromeweblab.com/mobile/
 *  JS Response Bytes: 1091329
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 175384
-
-### Performance issues
-
 
 ### Performance issues
 

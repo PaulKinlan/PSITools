@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.myboxinggames.com/games/sidering-knockout/?tag
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sidering Knockout - Online Boxing Games](http://www.myboxinggames.com/games/sidering-knockout/?tag)
 
@@ -29,9 +34,6 @@ title: http://www.myboxinggames.com/games/sidering-knockout/?tag
 *  JS Response Bytes: 1927737
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112888
-
-### Performance issues
-
 
 ### Performance issues
 

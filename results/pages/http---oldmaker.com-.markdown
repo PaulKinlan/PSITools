@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://oldmaker.com/
+UseLegibleFontSizes: true
 ---
 ## [](http://oldmaker.com/)
 
@@ -29,9 +30,6 @@ title: http://oldmaker.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

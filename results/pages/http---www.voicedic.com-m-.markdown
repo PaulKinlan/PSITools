@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.voicedic.com/m/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [语音字典(VoiceDic)](http://www.voicedic.com/m/)
 
@@ -29,9 +31,6 @@ title: http://www.voicedic.com/m/
 *  JS Response Bytes: 529259
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1248
-
-### Performance issues
-
 
 ### Performance issues
 

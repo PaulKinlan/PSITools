@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://m.gymfanatiks.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [GYMFANATIKS Mobile](http://m.gymfanatiks.com/)
 
@@ -29,9 +34,6 @@ title: http://m.gymfanatiks.com/
 *  JS Response Bytes: 572751
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 66959
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.officewebgames.com/web-store/falling-monster.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [- Free Games Online, Free Online Games, Flash Games!](http://www.officewebgames.com/web-store/falling-monster.php)
 
@@ -29,9 +35,6 @@ title: http://www.officewebgames.com/web-store/falling-monster.php
 *  JS Response Bytes: 1471406
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110534
-
-### Performance issues
-
 
 ### Performance issues
 

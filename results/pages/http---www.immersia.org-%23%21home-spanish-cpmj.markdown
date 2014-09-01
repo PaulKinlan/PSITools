@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.immersia.org/#!home-spanish/cpmj
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn Languages with Immersia](http://www.immersia.org/#!home-spanish/cpmj)
 
@@ -29,9 +35,6 @@ title: http://www.immersia.org/#!home-spanish/cpmj
 *  JS Response Bytes: 6035979
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1097
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.thaifrau.mobi/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Thaifrau.Mobi Kontaktanzeigen | 1](http://www.thaifrau.mobi/)
 
@@ -29,9 +32,6 @@ title: http://www.thaifrau.mobi/
 *  JS Response Bytes: 25852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.nicegirlgame.com/index.php?task=view&id=158
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Valentine Cake 2013 - Nice Girl Game](http://www.nicegirlgame.com/index.php?task=view&id=158)
 
@@ -29,9 +36,6 @@ title: http://www.nicegirlgame.com/index.php?task=view&id=158
 *  JS Response Bytes: 897901
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1555
-
-### Performance issues
-
 
 ### Performance issues
 

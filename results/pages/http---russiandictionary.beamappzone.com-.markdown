@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://russiandictionary.beamappzone.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Russian Dictionary, русский словарь](http://russiandictionary.beamappzone.com/)
 
@@ -29,9 +35,6 @@ title: http://russiandictionary.beamappzone.com/
 *  JS Response Bytes: 560509
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20152
-
-### Performance issues
-
 
 ### Performance issues
 

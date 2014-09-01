@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/719150/?autoAction=true&sId=Chrome_Webstore_Nov12_719150
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Behind the Reflection for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/719150/?autoAction=true&sId=Chrome_Webstore_Nov12_719150)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/719150/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1492679
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14320
-
-### Performance issues
-
 
 ### Performance issues
 

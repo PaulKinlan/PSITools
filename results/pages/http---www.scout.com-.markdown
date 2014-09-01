@@ -13,22 +13,22 @@ title: http://www.scout.com/
 
 ### Request information
 
-*  Number of Resources: 92
-*  Number of Hosts: 41
-*  Number of JS Resources: 29
+*  Number of Resources: 72
+*  Number of Hosts: 32
+*  Number of JS Resources: 28
 *  Number of CSS Resources: 6
-*  Nubmer of Static Resources: 43
-*  Total Request Bytes: 19442
+*  Nubmer of Static Resources: 40
+*  Total Request Bytes: 12183
 
 ### Response data
 
-*  HTML Response Bytes: 11489
-*  Text Response Bytes: 2979
-*  CSS Response Bytes: 600184
-*  Image Response Bytes: 161571
-*  JS Response Bytes: 2996087
+*  HTML Response Bytes: 8163
+*  Text Response Bytes: 4234
+*  CSS Response Bytes: 599258
+*  Image Response Bytes: 92432
+*  JS Response Bytes: 2991479
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 24849
+*  Other Response Bytes: 17782
 
 ### Performance issues
 
@@ -38,9 +38,6 @@ title: http://www.scout.com/
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Prioritize visible content
 *  Enable compression
-*  Improve server response time
 
 ### Mobile UX issues
 
-*  Avoid plugins
-*  Size tap targets appropriately

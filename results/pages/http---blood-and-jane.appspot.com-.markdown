@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://blood-and-jane.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Blood and Jane Online](http://blood-and-jane.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://blood-and-jane.appspot.com/
 *  JS Response Bytes: 730110
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 34228
-
-### Performance issues
-
 
 ### Performance issues
 

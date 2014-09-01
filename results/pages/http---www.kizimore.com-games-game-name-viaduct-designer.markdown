@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.kizimore.com/games/game/name/viaduct-designer
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [viaduct-designer Kizi - Online Games - Life is fun!](http://www.kizimore.com/games/game/name/viaduct-designer)
 
@@ -29,9 +33,6 @@ title: http://www.kizimore.com/games/game/name/viaduct-designer
 *  JS Response Bytes: 1859681
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111354
-
-### Performance issues
-
 
 ### Performance issues
 

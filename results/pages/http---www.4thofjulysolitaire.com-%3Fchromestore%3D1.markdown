@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.4thofjulysolitaire.com/?chromestore=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [4th of July Solitaire](http://www.4thofjulysolitaire.com/?chromestore=1)
 
@@ -29,9 +33,6 @@ title: http://www.4thofjulysolitaire.com/?chromestore=1
 *  JS Response Bytes: 206832
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27538
-
-### Performance issues
-
 
 ### Performance issues
 

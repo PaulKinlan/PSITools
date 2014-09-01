@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/final-fortress/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Final Fortress](http://www.war-games.ws/final-fortress/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/final-fortress/
 *  JS Response Bytes: 2292929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115222
-
-### Performance issues
-
 
 ### Performance issues
 

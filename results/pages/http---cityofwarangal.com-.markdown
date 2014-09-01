@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://cityofwarangal.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [CityOfWarangal - All you want to know about Warangal and Warangal City | Hotels | Dinning | Local News | Latest Events| Business and more](http://cityofwarangal.com/)
 
@@ -29,9 +33,6 @@ title: http://cityofwarangal.com/
 *  JS Response Bytes: 1149018
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1929
-
-### Performance issues
-
 
 ### Performance issues
 

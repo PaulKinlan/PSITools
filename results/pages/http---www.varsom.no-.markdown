@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.varsom.no/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [varsom.no](http://www.varsom.no/)
 
@@ -29,9 +33,6 @@ title: http://www.varsom.no/
 *  JS Response Bytes: 686636
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10166
-
-### Performance issues
-
 
 ### Performance issues
 

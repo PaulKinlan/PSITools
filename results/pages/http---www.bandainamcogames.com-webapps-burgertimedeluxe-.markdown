@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.bandainamcogames.com/webapps/burgertimedeluxe/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://www.bandainamcogames.com/webapps/burgertimedeluxe/)
 
@@ -29,9 +30,6 @@ title: http://www.bandainamcogames.com/webapps/burgertimedeluxe/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1010
-
-### Performance issues
-
 
 ### Performance issues
 

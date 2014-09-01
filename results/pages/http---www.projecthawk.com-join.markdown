@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.projecthawk.com/join
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Project Hawk™ | Join](http://www.projecthawk.com/join)
 
@@ -29,9 +31,6 @@ title: http://www.projecthawk.com/join
 *  JS Response Bytes: 246307
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

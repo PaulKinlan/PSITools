@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.magicscroll.net/
+MinimizeRenderBlockingResources: true
 ---
 ## [MagicScroll eBook Reader](http://www.magicscroll.net/)
 
@@ -29,9 +30,6 @@ title: http://www.magicscroll.net/
 *  JS Response Bytes: 56727
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

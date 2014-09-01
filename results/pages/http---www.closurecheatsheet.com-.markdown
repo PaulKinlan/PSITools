@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.closurecheatsheet.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Closure Cheat Sheet](http://www.closurecheatsheet.com/)
 
@@ -29,9 +32,6 @@ title: http://www.closurecheatsheet.com/
 *  JS Response Bytes: 580042
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94972
-
-### Performance issues
-
 
 ### Performance issues
 

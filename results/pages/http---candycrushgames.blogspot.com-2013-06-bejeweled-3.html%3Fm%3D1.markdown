@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://candycrushgames.blogspot.com/2013/06/bejeweled-3.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ty is awsome](http://candycrushgames.blogspot.com/2013/06/bejeweled-3.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://candycrushgames.blogspot.com/2013/06/bejeweled-3.html?m=1
 *  JS Response Bytes: 789174
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331046
-
-### Performance issues
-
 
 ### Performance issues
 

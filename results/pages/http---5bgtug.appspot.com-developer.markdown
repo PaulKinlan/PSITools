@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://5bgtug.appspot.com/developer
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [](http://5bgtug.appspot.com/developer)
 
@@ -29,9 +31,6 @@ title: http://5bgtug.appspot.com/developer
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 679
-
-### Performance issues
-
 
 ### Performance issues
 

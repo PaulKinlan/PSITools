@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.sapcoc.com/app/login.php
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ingresar a Mi cuenta SAPCOC (Sistema de Administración Planificación y Control de Obras Civiles)](http://www.sapcoc.com/app/login.php)
 
@@ -29,9 +31,6 @@ title: http://www.sapcoc.com/app/login.php
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 70243
-
-### Performance issues
-
 
 ### Performance issues
 

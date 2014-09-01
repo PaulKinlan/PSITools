@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.onlinechildrengame.com/3d-games/turbo-racing-3/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Turbo Racing 3](http://www.onlinechildrengame.com/3d-games/turbo-racing-3/)
 
@@ -29,9 +34,6 @@ title: http://www.onlinechildrengame.com/3d-games/turbo-racing-3/
 *  JS Response Bytes: 848797
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20873
-
-### Performance issues
-
 
 ### Performance issues
 

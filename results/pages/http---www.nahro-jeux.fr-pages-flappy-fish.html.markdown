@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.nahro-jeux.fr/pages/flappy-fish.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flappy Fish - Jeu Flash - Nahro Jeux](http://www.nahro-jeux.fr/pages/flappy-fish.html)
 
@@ -29,9 +33,6 @@ title: http://www.nahro-jeux.fr/pages/flappy-fish.html
 *  JS Response Bytes: 3108775
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97281
-
-### Performance issues
-
 
 ### Performance issues
 

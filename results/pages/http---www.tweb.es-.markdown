@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tweb.es/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Anuncios de compra venta en internet trabajos servicios y productos - Tweb.es](http://www.tweb.es/)
 
@@ -29,9 +34,6 @@ title: http://www.tweb.es/
 *  JS Response Bytes: 1300206
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3272
-
-### Performance issues
-
 
 ### Performance issues
 

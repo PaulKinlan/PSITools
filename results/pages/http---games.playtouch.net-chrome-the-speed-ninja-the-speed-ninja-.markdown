@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://games.playtouch.net/chrome/the-speed-ninja/the-speed-ninja/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Speed Ninja](http://games.playtouch.net/chrome/the-speed-ninja/the-speed-ninja/)
 
@@ -29,9 +31,6 @@ title: http://games.playtouch.net/chrome/the-speed-ninja/the-speed-ninja/
 *  JS Response Bytes: 1654262
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1051
-
-### Performance issues
-
 
 ### Performance issues
 

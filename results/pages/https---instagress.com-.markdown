@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://instagress.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Instagress — Instagram bot for like, comment, follow, unfollow](https://instagress.com/)
 
@@ -29,9 +33,6 @@ title: https://instagress.com/
 *  JS Response Bytes: 236132
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44279
-
-### Performance issues
-
 
 ### Performance issues
 

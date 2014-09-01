@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://sog.topchromegames.info/games/talking-santa/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Talking Santa Game — Sultans of Game](http://sog.topchromegames.info/games/talking-santa/)
 
@@ -29,9 +36,6 @@ title: http://sog.topchromegames.info/games/talking-santa/
 *  JS Response Bytes: 1665485
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 108997
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://167.193.84.39/webconnect/appportal/index.asp
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PowerTerm® WebConnect Application Portal](https://167.193.84.39/webconnect/appportal/index.asp)
 
@@ -29,9 +33,6 @@ title: https://167.193.84.39/webconnect/appportal/index.asp
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

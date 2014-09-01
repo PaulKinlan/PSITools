@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.47news.jp/smp/news/archives_main.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [主要ニュース一覧 - スマホ版 - 47NEWS](http://www.47news.jp/smp/news/archives_main.html)
 
@@ -29,9 +32,6 @@ title: http://www.47news.jp/smp/news/archives_main.html
 *  JS Response Bytes: 762115
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3876
-
-### Performance issues
-
 
 ### Performance issues
 

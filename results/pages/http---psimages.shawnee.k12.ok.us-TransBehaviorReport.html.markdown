@@ -33,8 +33,5 @@ title: http://psimages.shawnee.k12.ok.us/TransBehaviorReport.html
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

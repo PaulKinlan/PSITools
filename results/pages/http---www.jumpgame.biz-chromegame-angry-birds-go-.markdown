@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.jumpgame.biz/chromegame/angry-birds-go/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [jump game Chrome – Angry Birds Go](http://www.jumpgame.biz/chromegame/angry-birds-go/)
 
@@ -29,9 +34,6 @@ title: http://www.jumpgame.biz/chromegame/angry-birds-go/
 *  JS Response Bytes: 844504
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5273
-
-### Performance issues
-
 
 ### Performance issues
 

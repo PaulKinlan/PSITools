@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tunnelgame.net/flash-games/gravity-guy-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gravity Guy « Flash Games, Online Games](http://www.tunnelgame.net/flash-games/gravity-guy-2/)
 
@@ -29,9 +34,6 @@ title: http://www.tunnelgame.net/flash-games/gravity-guy-2/
 *  JS Response Bytes: 2314440
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52545
-
-### Performance issues
-
 
 ### Performance issues
 

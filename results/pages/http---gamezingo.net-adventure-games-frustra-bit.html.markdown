@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://gamezingo.net/adventure-games/frustra-bit.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Frustra Bit - Free Online Games | Gamezingo - http://gamezingo.net](http://gamezingo.net/adventure-games/frustra-bit.html)
 
@@ -29,9 +36,6 @@ title: http://gamezingo.net/adventure-games/frustra-bit.html
 *  JS Response Bytes: 1296862
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 60013
-
-### Performance issues
-
 
 ### Performance issues
 

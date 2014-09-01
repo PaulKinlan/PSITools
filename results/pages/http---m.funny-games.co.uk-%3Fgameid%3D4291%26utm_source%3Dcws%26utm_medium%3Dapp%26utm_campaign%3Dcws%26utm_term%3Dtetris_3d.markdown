@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.funny-games.co.uk/?gameid=4291&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=tetris_3d
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funny-games.co.uk/?gameid=4291&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=tetris_3d)
 
@@ -18,20 +22,17 @@ title: http://m.funny-games.co.uk/?gameid=4291&utm_source=cws&utm_medium=app&utm
 *  Number of JS Resources: 19
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 59
-*  Total Request Bytes: 8086
+*  Total Request Bytes: 8082
 
 ### Response data
 
-*  HTML Response Bytes: 56185
+*  HTML Response Bytes: 56242
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 47368
-*  Image Response Bytes: 544120
-*  JS Response Bytes: 1266598
+*  Image Response Bytes: 544125
+*  JS Response Bytes: 1266597
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28387
-
-### Performance issues
-
 
 ### Performance issues
 

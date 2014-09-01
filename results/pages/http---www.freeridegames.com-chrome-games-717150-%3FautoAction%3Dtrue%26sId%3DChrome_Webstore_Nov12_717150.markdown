@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/717150/?autoAction=true&sId=Chrome_Webstore_Nov12_717150
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Tamara the 13th for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/717150/?autoAction=true&sId=Chrome_Webstore_Nov12_717150)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/717150/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1468568
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31662
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.samstore.info/onlineradiosoftware/index.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Get streaming Radio stations from all over the world!](http://www.samstore.info/onlineradiosoftware/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.samstore.info/onlineradiosoftware/index.html
 *  JS Response Bytes: 399884
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.xyz-softs.com/food4wealth/index.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Secret to the Easiest Way to Grow Fresh Organic Vegetables](http://www.xyz-softs.com/food4wealth/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.xyz-softs.com/food4wealth/index.html
 *  JS Response Bytes: 526092
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1208
-
-### Performance issues
-
 
 ### Performance issues
 

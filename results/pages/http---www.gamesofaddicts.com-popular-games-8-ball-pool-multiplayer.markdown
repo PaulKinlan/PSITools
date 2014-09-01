@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesofaddicts.com/popular-games/8-ball-pool-multiplayer
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | Gamesogaddicts.com | Play Most Popular Games Free](http://www.gamesofaddicts.com/popular-games/8-ball-pool-multiplayer)
 
@@ -29,9 +34,6 @@ title: http://www.gamesofaddicts.com/popular-games/8-ball-pool-multiplayer
 *  JS Response Bytes: 2434857
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112090
-
-### Performance issues
-
 
 ### Performance issues
 

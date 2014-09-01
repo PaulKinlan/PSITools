@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://coderbuddy.com/go/chrome
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://coderbuddy.com/go/chrome)
 
@@ -29,9 +30,6 @@ title: http://coderbuddy.com/go/chrome
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 446
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.juegosdeplantsvszombies.biz/?utm_source=bookmark&utm_medium=chromeapp&utm_campaign=zombies
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Juegos de Plants vs Zombies](http://www.juegosdeplantsvszombies.biz/?utm_source=bookmark&utm_medium=chromeapp&utm_campaign=zombies)
 
@@ -29,9 +33,6 @@ title: http://www.juegosdeplantsvszombies.biz/?utm_source=bookmark&utm_medium=ch
 *  JS Response Bytes: 1565688
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 126277
-
-### Performance issues
-
 
 ### Performance issues
 

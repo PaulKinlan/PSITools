@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.newnicegames.com/chrome-category/giants-and-dwarves-td
+SizeTapTargetsAppropriately: true
 ---
 ## [newnicegames.com](http://ww2.newnicegames.com/chrome-category/giants-and-dwarves-td)
 
@@ -29,9 +30,6 @@ title: http://ww2.newnicegames.com/chrome-category/giants-and-dwarves-td
 *  JS Response Bytes: 229919
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21062
-
-### Performance issues
-
 
 ### Performance issues
 

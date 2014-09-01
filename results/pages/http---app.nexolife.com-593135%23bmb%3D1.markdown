@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://app.nexolife.com/593135#bmb=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Un Lugar Para Ti](http://app.nexolife.com/593135#bmb=1)
 
@@ -29,9 +32,6 @@ title: http://app.nexolife.com/593135#bmb=1
 *  JS Response Bytes: 1105563
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1877
-
-### Performance issues
-
 
 ### Performance issues
 

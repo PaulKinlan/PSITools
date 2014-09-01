@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromesgames.com/?=404;http://chromesgames.com:80/motor-wars.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [chromesgames.com](http://chromesgames.com/?=404;http://chromesgames.com:80/motor-wars.html&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://chromesgames.com/?=404;http://chromesgames.com:80/motor-wars.html&
 *  JS Response Bytes: 304173
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106
-
-### Performance issues
-
 
 ### Performance issues
 

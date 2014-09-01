@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://debtonator.io/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [The Debtonator - The Simple Debt-Chasing Solution](http://debtonator.io/)
 
@@ -29,9 +32,6 @@ title: http://debtonator.io/
 *  JS Response Bytes: 198251
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 743
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://blog.ameba.jp/ucs/entry/srventryinsertinput.do?editor_flg=2
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
 ---
 ## [ログイン｜Ameba (アメーバ)](http://blog.ameba.jp/ucs/entry/srventryinsertinput.do?editor_flg=2)
 
@@ -29,9 +32,6 @@ title: http://blog.ameba.jp/ucs/entry/srventryinsertinput.do?editor_flg=2
 *  JS Response Bytes: 97223
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 130
-
-### Performance issues
-
 
 ### Performance issues
 

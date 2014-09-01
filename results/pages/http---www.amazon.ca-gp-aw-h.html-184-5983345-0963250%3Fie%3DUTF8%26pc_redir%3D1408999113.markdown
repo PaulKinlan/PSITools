@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.amazon.ca/gp/aw/h.html/184-5983345-0963250?ie=UTF8&pc_redir=1408999113
+AvoidLandingPageRedirects: true
+PrioritizeVisibleContent: true
 ---
 ## [Amazon](http://www.amazon.ca/gp/aw/h.html/184-5983345-0963250?ie=UTF8&pc_redir=1408999113)
 
@@ -29,9 +31,6 @@ title: http://www.amazon.ca/gp/aw/h.html/184-5983345-0963250?ie=UTF8&pc_redir=14
 *  JS Response Bytes: 392200
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 844
-
-### Performance issues
-
 
 ### Performance issues
 

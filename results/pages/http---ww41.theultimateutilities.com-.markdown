@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ww41.theultimateutilities.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [theultimateutilities.com](http://ww41.theultimateutilities.com/)
 
@@ -18,20 +22,17 @@ title: http://ww41.theultimateutilities.com/
 *  Number of JS Resources: 4
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 2559
+*  Total Request Bytes: 2558
 
 ### Response data
 
-*  HTML Response Bytes: 20960
+*  HTML Response Bytes: 20862
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 2097
-*  JS Response Bytes: 173157
+*  Image Response Bytes: 2099
+*  JS Response Bytes: 173156
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 220
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://apps.apps-builder.com/655671#bmb=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Networking Tag](http://apps.apps-builder.com/655671#bmb=1)
 
@@ -29,9 +32,6 @@ title: http://apps.apps-builder.com/655671#bmb=1
 *  JS Response Bytes: 1120619
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7223
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.solidariospornaturaleza.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [SxN - Solidarios Por Naturaleza](http://www.solidariospornaturaleza.com/)
 
@@ -29,9 +31,6 @@ title: http://www.solidariospornaturaleza.com/
 *  JS Response Bytes: 637429
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21913
-
-### Performance issues
-
 
 ### Performance issues
 

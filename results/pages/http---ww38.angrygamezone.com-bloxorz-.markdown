@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ww38.angrygamezone.com/bloxorz/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [angrygamezone.com](http://ww38.angrygamezone.com/bloxorz/)
 
@@ -29,9 +32,6 @@ title: http://ww38.angrygamezone.com/bloxorz/
 *  JS Response Bytes: 209104
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 221
-
-### Performance issues
-
 
 ### Performance issues
 

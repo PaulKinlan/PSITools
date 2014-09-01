@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://weather80246.com/SlideView4C.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Four Corners Weather, News and Views](http://weather80246.com/SlideView4C.html)
 
@@ -29,9 +34,6 @@ title: http://weather80246.com/SlideView4C.html
 *  JS Response Bytes: 98253
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 670
-
-### Performance issues
-
 
 ### Performance issues
 

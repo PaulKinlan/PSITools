@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.appmonestry.com/apps/mailer/index.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Newsletter Mailer](http://www.appmonestry.com/apps/mailer/index.php)
 
@@ -29,9 +34,6 @@ title: http://www.appmonestry.com/apps/mailer/index.php
 *  JS Response Bytes: 421867
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

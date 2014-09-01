@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.surgery-games.org/hospital-manager-2/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hospital Manager game](http://www.surgery-games.org/hospital-manager-2/)
 
@@ -29,9 +36,6 @@ title: http://www.surgery-games.org/hospital-manager-2/
 *  JS Response Bytes: 2429152
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 123092
-
-### Performance issues
-
 
 ### Performance issues
 

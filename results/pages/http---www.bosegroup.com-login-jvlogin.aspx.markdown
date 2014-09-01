@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.bosegroup.com/login/jvlogin.aspx
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://www.bosegroup.com/login/jvlogin.aspx)
 
@@ -29,9 +30,6 @@ title: http://www.bosegroup.com/login/jvlogin.aspx
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 601
-
-### Performance issues
-
 
 ### Performance issues
 

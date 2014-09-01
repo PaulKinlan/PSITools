@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.document-shredding.org/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Consumer Reviews Of Document Shredding, Document Scanning and Document Storage Services](http://www.document-shredding.org/)
 
@@ -29,9 +33,6 @@ title: http://www.document-shredding.org/
 *  JS Response Bytes: 910776
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16189
-
-### Performance issues
-
 
 ### Performance issues
 

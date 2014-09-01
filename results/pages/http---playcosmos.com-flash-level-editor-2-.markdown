@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playcosmos.com/flash/level-editor-2/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Level Editor 2 - Brain and Skills Game](http://playcosmos.com/flash/level-editor-2/)
 
@@ -29,9 +33,6 @@ title: http://playcosmos.com/flash/level-editor-2/
 *  JS Response Bytes: 2134689
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98389
-
-### Performance issues
-
 
 ### Performance issues
 

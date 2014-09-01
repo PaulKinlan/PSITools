@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://leafo.net/aroma/examples/tetris/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [NaCl Tetris](http://leafo.net/aroma/examples/tetris/)
 
@@ -29,9 +32,6 @@ title: http://leafo.net/aroma/examples/tetris/
 *  JS Response Bytes: 65306
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1385
-
-### Performance issues
-
 
 ### Performance issues
 

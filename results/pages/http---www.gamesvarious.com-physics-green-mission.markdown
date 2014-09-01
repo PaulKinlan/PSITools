@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/physics/green-mission
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Green Mission - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/physics/green-mission)
 
@@ -29,9 +35,6 @@ title: http://www.gamesvarious.com/physics/green-mission
 *  JS Response Bytes: 2372616
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99675
-
-### Performance issues
-
 
 ### Performance issues
 

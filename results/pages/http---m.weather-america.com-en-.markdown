@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.weather-america.com/en/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Weather America](http://m.weather-america.com/en/)
 
@@ -29,9 +33,6 @@ title: http://m.weather-america.com/en/
 *  JS Response Bytes: 1344821
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96884
-
-### Performance issues
-
 
 ### Performance issues
 

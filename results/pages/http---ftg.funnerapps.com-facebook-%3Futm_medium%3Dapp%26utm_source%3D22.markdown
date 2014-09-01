@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ftg.funnerapps.com/facebook/?utm_medium=app&utm_source=22
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Facebook Theme Gallery - Home](http://ftg.funnerapps.com/facebook/?utm_medium=app&utm_source=22)
 
@@ -29,9 +33,6 @@ title: http://ftg.funnerapps.com/facebook/?utm_medium=app&utm_source=22
 *  JS Response Bytes: 694151
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14808
-
-### Performance issues
-
 
 ### Performance issues
 

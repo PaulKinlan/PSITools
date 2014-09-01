@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.winallpoker.com/odds-calculator/poker-odds-calculator.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Texas Holdem Poker Odds Calculator](http://www.winallpoker.com/odds-calculator/poker-odds-calculator.html)
 
@@ -29,9 +34,6 @@ title: http://www.winallpoker.com/odds-calculator/poker-odds-calculator.html
 *  JS Response Bytes: 24451
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30940
-
-### Performance issues
-
 
 ### Performance issues
 

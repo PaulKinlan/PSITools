@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pixelvesuviano.com/guidatv/
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Guida TV Digitale Terrestre e SKY](http://www.pixelvesuviano.com/guidatv/)
 
@@ -29,9 +33,6 @@ title: http://www.pixelvesuviano.com/guidatv/
 *  JS Response Bytes: 1270520
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2313
-
-### Performance issues
-
 
 ### Performance issues
 

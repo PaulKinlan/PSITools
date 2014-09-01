@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://pwmkr.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Secure Password Maker, A Simple Password Creator](https://pwmkr.com/)
 
@@ -29,9 +32,6 @@ title: https://pwmkr.com/
 *  JS Response Bytes: 1940719
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15490
-
-### Performance issues
-
 
 ### Performance issues
 

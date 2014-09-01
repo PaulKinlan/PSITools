@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.spielz.com/games/game/name/poop-clicker
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [poop-clicker spiele](http://www.spielz.com/games/game/name/poop-clicker)
 
@@ -29,9 +34,6 @@ title: http://www.spielz.com/games/game/name/poop-clicker
 *  JS Response Bytes: 1830165
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97267
-
-### Performance issues
-
 
 ### Performance issues
 

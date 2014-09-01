@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.tripsketch.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [TripSketch - Green Traveler](http://m.tripsketch.com/)
 
@@ -29,9 +33,6 @@ title: http://m.tripsketch.com/
 *  JS Response Bytes: 263356
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 478
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://babylon-translator-app.blogspot.com/2013/01/toolbar.html?utm_source=crapp&utm_medium=crapp&utm_campaign=crapp&m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [babylon-translator: Get your free Babylon Translator:](http://babylon-translator-app.blogspot.com/2013/01/toolbar.html?utm_source=crapp&utm_medium=crapp&utm_campaign=crapp&m=1)
 
@@ -29,9 +31,6 @@ title: http://babylon-translator-app.blogspot.com/2013/01/toolbar.html?utm_sourc
 *  JS Response Bytes: 1722173
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 289654
-
-### Performance issues
-
 
 ### Performance issues
 

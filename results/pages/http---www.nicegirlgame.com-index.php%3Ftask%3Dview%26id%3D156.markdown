@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.nicegirlgame.com/index.php?task=view&id=156
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Prada. Spring/Summer 2013 - Nice Girl Game](http://www.nicegirlgame.com/index.php?task=view&id=156)
 
@@ -29,9 +36,6 @@ title: http://www.nicegirlgame.com/index.php?task=view&id=156
 *  JS Response Bytes: 901951
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1554
-
-### Performance issues
-
 
 ### Performance issues
 

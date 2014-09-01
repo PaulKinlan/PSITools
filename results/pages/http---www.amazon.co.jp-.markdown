@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.amazon.co.jp/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://www.amazon.co.jp/)
 
@@ -29,9 +32,6 @@ title: http://www.amazon.co.jp/
 *  JS Response Bytes: 254366
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6183
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://xclindemo.novaxon.nl/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Demo XClin](http://xclindemo.novaxon.nl/)
 
@@ -29,9 +33,6 @@ title: http://xclindemo.novaxon.nl/
 *  JS Response Bytes: 372717
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

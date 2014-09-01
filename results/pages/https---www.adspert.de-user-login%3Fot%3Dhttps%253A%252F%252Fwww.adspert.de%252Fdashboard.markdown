@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.adspert.de/user/login?ot=https%3A%2F%2Fwww.adspert.de%2Fdashboard
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Adspert Login](https://www.adspert.de/user/login?ot=https%3A%2F%2Fwww.adspert.de%2Fdashboard)
 
@@ -29,9 +34,6 @@ title: https://www.adspert.de/user/login?ot=https%3A%2F%2Fwww.adspert.de%2Fdashb
 *  JS Response Bytes: 840594
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1605
-
-### Performance issues
-
 
 ### Performance issues
 

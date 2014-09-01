@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mister-finger.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Liste des contributions](http://www.mister-finger.com/?m=1)
 
@@ -29,9 +34,6 @@ title: http://www.mister-finger.com/?m=1
 *  JS Response Bytes: 1174409
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2589
-
-### Performance issues
-
 
 ### Performance issues
 

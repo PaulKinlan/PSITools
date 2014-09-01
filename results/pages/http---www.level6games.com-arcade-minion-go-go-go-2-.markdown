@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.level6games.com/arcade/minion-go-go-go-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Minion Go Go Go 2](http://www.level6games.com/arcade/minion-go-go-go-2/)
 
@@ -29,9 +34,6 @@ title: http://www.level6games.com/arcade/minion-go-go-go-2/
 *  JS Response Bytes: 680393
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

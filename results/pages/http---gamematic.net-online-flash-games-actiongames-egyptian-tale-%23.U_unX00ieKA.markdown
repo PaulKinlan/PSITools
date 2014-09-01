@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/actiongames/egyptian-tale/#.U_unX00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Egyptian Tale « Online Flash Game Egyptian Tale](http://gamematic.net/online-flash-games/actiongames/egyptian-tale/#.U_unX00ieKA)
 
@@ -29,9 +34,6 @@ title: http://gamematic.net/online-flash-games/actiongames/egyptian-tale/#.U_unX
 *  JS Response Bytes: 2366078
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 75663
-
-### Performance issues
-
 
 ### Performance issues
 

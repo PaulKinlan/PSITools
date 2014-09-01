@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://instaflows.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [乾燥性頭皮の方向け。話題の馬油シャンプーで頭皮正常化](http://instaflows.com/)
 
@@ -29,9 +32,6 @@ title: http://instaflows.com/
 *  JS Response Bytes: 106838
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52339
-
-### Performance issues
-
 
 ### Performance issues
 

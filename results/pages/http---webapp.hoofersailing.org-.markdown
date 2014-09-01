@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://webapp.hoofersailing.org/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [HooferSailingMobile](http://webapp.hoofersailing.org/)
 
@@ -29,9 +32,6 @@ title: http://webapp.hoofersailing.org/
 *  JS Response Bytes: 673022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

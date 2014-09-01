@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.skys.co/bmg_web_app/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [404 (Page Not Found) Error - Ever feel like you're in the wrong place?](http://www.skys.co/bmg_web_app/)
 
@@ -29,9 +32,6 @@ title: http://www.skys.co/bmg_web_app/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2896
-
-### Performance issues
-
 
 ### Performance issues
 

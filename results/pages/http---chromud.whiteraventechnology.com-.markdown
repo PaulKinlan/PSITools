@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromud.whiteraventechnology.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ChroMUD Alpha](http://chromud.whiteraventechnology.com/)
 
@@ -29,9 +32,6 @@ title: http://chromud.whiteraventechnology.com/
 *  JS Response Bytes: 112310
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

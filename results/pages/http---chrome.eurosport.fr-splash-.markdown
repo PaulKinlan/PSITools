@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chrome.eurosport.fr/splash/
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [Eurosport.com](http://chrome.eurosport.fr/splash/)
 
@@ -29,9 +31,6 @@ title: http://chrome.eurosport.fr/splash/
 *  JS Response Bytes: 158814
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 435
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://greenwebgames.com/chrome/play_bugs_killer.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bug Killer - This online game is so addictive -](http://greenwebgames.com/chrome/play_bugs_killer.html)
 
@@ -29,9 +35,6 @@ title: http://greenwebgames.com/chrome/play_bugs_killer.html
 *  JS Response Bytes: 764213
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25736
-
-### Performance issues
-
 
 ### Performance issues
 

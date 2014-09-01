@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mydefensegames.com/?chrome
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Defense Games - Free Tower Defence Games - Play Tower Defense Games Online for Kids](http://www.mydefensegames.com/?chrome)
 
@@ -29,9 +32,6 @@ title: http://www.mydefensegames.com/?chrome
 *  JS Response Bytes: 9378
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

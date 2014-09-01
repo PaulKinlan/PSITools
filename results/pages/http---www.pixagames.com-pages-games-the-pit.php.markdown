@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.pixagames.com/pages/games/the-pit.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Pit at PixaGames.com](http://www.pixagames.com/pages/games/the-pit.php)
 
@@ -29,9 +34,6 @@ title: http://www.pixagames.com/pages/games/the-pit.php
 *  JS Response Bytes: 1551035
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 151360
-
-### Performance issues
-
 
 ### Performance issues
 

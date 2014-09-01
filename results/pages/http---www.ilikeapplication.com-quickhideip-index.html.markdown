@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ilikeapplication.com/quickhideip/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Easy Hide Your IP Address App - Download FREE](http://www.ilikeapplication.com/quickhideip/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.ilikeapplication.com/quickhideip/index.html
 *  JS Response Bytes: 1035283
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98003
-
-### Performance issues
-
 
 ### Performance issues
 

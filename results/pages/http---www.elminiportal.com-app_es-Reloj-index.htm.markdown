@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.elminiportal.com/app_es/Reloj/index.htm
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Reloj Atómico](http://www.elminiportal.com/app_es/Reloj/index.htm)
 
@@ -29,9 +33,6 @@ title: http://www.elminiportal.com/app_es/Reloj/index.htm
 *  JS Response Bytes: 546531
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15756
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://innov8lcc.weebly.com/k-motorcycle-repair.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [k Motorcycle Repair - Faculty of Engineering Manufacturing & Science](http://innov8lcc.weebly.com/k-motorcycle-repair.html)
 
@@ -29,9 +34,6 @@ title: http://innov8lcc.weebly.com/k-motorcycle-repair.html
 *  JS Response Bytes: 488819
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15317
-
-### Performance issues
-
 
 ### Performance issues
 

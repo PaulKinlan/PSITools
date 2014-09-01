@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://77gamesun.com/asphalt-8-airborne.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [77GamesUN.Com | Flash Game Site| Play Game | – Asphalt 8: Airborne](http://77gamesun.com/asphalt-8-airborne.html)
 
@@ -29,9 +35,6 @@ title: http://77gamesun.com/asphalt-8-airborne.html
 *  JS Response Bytes: 413720
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 810
-
-### Performance issues
-
 
 ### Performance issues
 

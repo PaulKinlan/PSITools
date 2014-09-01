@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.goodgame4you.com/game/crazy-street-racing.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crazy Street Racing - Racing Games - Play Free Online Games](http://www.goodgame4you.com/game/crazy-street-racing.html)
 
@@ -29,9 +35,6 @@ title: http://www.goodgame4you.com/game/crazy-street-racing.html
 *  JS Response Bytes: 545884
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

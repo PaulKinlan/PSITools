@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.mediastonescrm.it/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://www.mediastonescrm.it/)
 
@@ -29,9 +30,6 @@ title: http://www.mediastonescrm.it/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1028
-
-### Performance issues
-
 
 ### Performance issues
 

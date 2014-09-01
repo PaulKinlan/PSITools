@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_2165_Halflife-2-Flash-Version.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Halflife 2 Flash Version Flash Games](http://www.newpopulargames.com/game_2165_Halflife-2-Flash-Version.html)
 
@@ -29,9 +35,6 @@ title: http://www.newpopulargames.com/game_2165_Halflife-2-Flash-Version.html
 *  JS Response Bytes: 1679993
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112878
-
-### Performance issues
-
 
 ### Performance issues
 

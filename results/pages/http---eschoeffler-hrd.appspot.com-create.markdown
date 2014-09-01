@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://eschoeffler-hrd.appspot.com/create
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://eschoeffler-hrd.appspot.com/create)
 
@@ -29,9 +30,6 @@ title: http://eschoeffler-hrd.appspot.com/create
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 379
-
-### Performance issues
-
 
 ### Performance issues
 

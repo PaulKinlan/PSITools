@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://3dflashgame.net/flash_1850_Grand-Theft-Auto.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Grand Theft Auto flash game 3D unity 2013](http://3dflashgame.net/flash_1850_Grand-Theft-Auto.html)
 
@@ -29,9 +34,6 @@ title: http://3dflashgame.net/flash_1850_Grand-Theft-Auto.html
 *  JS Response Bytes: 566615
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15019
-
-### Performance issues
-
 
 ### Performance issues
 

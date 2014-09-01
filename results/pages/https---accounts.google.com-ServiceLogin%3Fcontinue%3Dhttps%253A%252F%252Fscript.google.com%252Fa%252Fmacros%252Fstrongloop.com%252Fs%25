@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fscript.google.com%2Fa%2Fmacros%2Fstrongloop.com%2Fs%2FAKfycbwUYFmAex3nMr80WfxAzq1li8sOrBsn05iBunJ7ecTM2DAHCOq7%2Fexec&service=wise&sacu=1&hd=strongloop.com
+AvoidLandingPageRedirects: true
+ServerResponseTime: true
 ---
 ## [Meet Google Drive – One place for all your files](https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fscript.google.com%2Fa%2Fmacros%2Fstrongloop.com%2Fs%2FAKfycbwUYFmAex3nMr80WfxAzq1li8sOrBsn05iBunJ7ecTM2DAHCOq7%2Fexec&service=wise&sacu=1&hd=strongloop.com)
 
@@ -29,9 +31,6 @@ title: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fscript.go
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53210
-
-### Performance issues
-
 
 ### Performance issues
 

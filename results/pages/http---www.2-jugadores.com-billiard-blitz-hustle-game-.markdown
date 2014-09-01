@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.2-jugadores.com/billiard-blitz-hustle/game/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Billiard Blitz Hustle juego](http://www.2-jugadores.com/billiard-blitz-hustle/game/)
 
@@ -29,9 +35,6 @@ title: http://www.2-jugadores.com/billiard-blitz-hustle/game/
 *  JS Response Bytes: 2052975
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55794
-
-### Performance issues
-
 
 ### Performance issues
 

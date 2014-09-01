@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameflare.com/online-game/mahjong-battle/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mahjong Battle - online game | GameFlare.com](http://www.gameflare.com/online-game/mahjong-battle/)
 
@@ -29,9 +34,6 @@ title: http://www.gameflare.com/online-game/mahjong-battle/
 *  JS Response Bytes: 2008377
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 290186
-
-### Performance issues
-
 
 ### Performance issues
 

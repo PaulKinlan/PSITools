@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://franke.webex.com/mw0307l/wireless/meetinglist.do?siteurl=franke&from=wireless&rnd=0.6015573830021205&TS=1409125701795&CookieSupported=true
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Cisco WebEx | Alle Meetings](https://franke.webex.com/mw0307l/wireless/meetinglist.do?siteurl=franke&from=wireless&rnd=0.6015573830021205&TS=1409125701795&CookieSupported=true)
 
@@ -29,9 +32,6 @@ title: https://franke.webex.com/mw0307l/wireless/meetinglist.do?siteurl=franke&f
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2207
-
-### Performance issues
-
 
 ### Performance issues
 

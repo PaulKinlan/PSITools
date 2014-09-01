@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.lokga.com/online-security/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.lokga.com/online-security/)
 
@@ -29,9 +31,6 @@ title: http://www.lokga.com/online-security/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

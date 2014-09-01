@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.bestgameforgirl.com/index.php?task=view&id=152
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Summer Cutie - The BEST Flash Game For Girl](http://www.bestgameforgirl.com/index.php?task=view&id=152)
 
@@ -29,9 +35,6 @@ title: http://www.bestgameforgirl.com/index.php?task=view&id=152
 *  JS Response Bytes: 2263924
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114099
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.roninapp.com/site/login
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Find login](http://www.roninapp.com/site/login)
 
@@ -29,9 +33,6 @@ title: http://www.roninapp.com/site/login
 *  JS Response Bytes: 499612
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

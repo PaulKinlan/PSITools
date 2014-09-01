@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.wwag.com/cgi-bin/WebObjects/WebSite
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Parts and Accessories for Harley-Davidson Motorcycles - W&W Cycles](http://www.wwag.com/cgi-bin/WebObjects/WebSite)
 
@@ -29,9 +33,6 @@ title: http://www.wwag.com/cgi-bin/WebObjects/WebSite
 *  JS Response Bytes: 139063
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 231
-
-### Performance issues
-
 
 ### Performance issues
 

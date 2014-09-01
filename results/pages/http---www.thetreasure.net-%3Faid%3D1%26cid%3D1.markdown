@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.thetreasure.net/?aid=1&cid=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Error - Treasure App](http://www.thetreasure.net/?aid=1&cid=1)
 
@@ -29,9 +32,6 @@ title: http://www.thetreasure.net/?aid=1&cid=1
 *  JS Response Bytes: 384285
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63325
-
-### Performance issues
-
 
 ### Performance issues
 

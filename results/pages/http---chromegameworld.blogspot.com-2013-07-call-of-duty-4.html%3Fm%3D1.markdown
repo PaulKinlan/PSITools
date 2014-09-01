@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromegameworld.blogspot.com/2013/07/call-of-duty-4.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [playclashofclans](http://chromegameworld.blogspot.com/2013/07/call-of-duty-4.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chromegameworld.blogspot.com/2013/07/call-of-duty-4.html?m=1
 *  JS Response Bytes: 788521
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331105
-
-### Performance issues
-
 
 ### Performance issues
 

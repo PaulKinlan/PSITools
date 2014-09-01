@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2kisilik.com/bowls-oyunu/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [2 kişilik Bowls Oyunu oyunu](http://www.2kisilik.com/bowls-oyunu/)
 
@@ -29,9 +34,6 @@ title: http://www.2kisilik.com/bowls-oyunu/
 *  JS Response Bytes: 2661248
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 150098
-
-### Performance issues
-
 
 ### Performance issues
 

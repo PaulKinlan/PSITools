@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://app.baotuba.com/mv/
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [爆菊吧-音乐](http://app.baotuba.com/mv/)
 
@@ -29,9 +34,6 @@ title: http://app.baotuba.com/mv/
 *  JS Response Bytes: 165225
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 651
-
-### Performance issues
-
 
 ### Performance issues
 

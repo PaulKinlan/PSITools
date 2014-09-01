@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chrome.easycapecod.appspot.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
 ---
 ## [Cape Cod](http://chrome.easycapecod.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://chrome.easycapecod.appspot.com/
 *  JS Response Bytes: 174336
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

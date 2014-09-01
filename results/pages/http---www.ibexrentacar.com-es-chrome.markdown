@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ibexrentacar.com/es/chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ibexrentacar.com - Iniciar sesión](http://www.ibexrentacar.com/es/chrome)
 
@@ -29,9 +32,6 @@ title: http://www.ibexrentacar.com/es/chrome
 *  JS Response Bytes: 626554
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 88778
-
-### Performance issues
-
 
 ### Performance issues
 

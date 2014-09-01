@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.bestgamesfree.co/multiplayer/8-ball-pool-multiplayer-2/
+UseLegibleFontSizes: true
 ---
 ## [](http://www.bestgamesfree.co/multiplayer/8-ball-pool-multiplayer-2/)
 
@@ -29,9 +30,6 @@ title: http://www.bestgamesfree.co/multiplayer/8-ball-pool-multiplayer-2/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

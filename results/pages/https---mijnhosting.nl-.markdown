@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://mijnhosting.nl/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [mijnHosting.nl - Webhosting vanaf 0,99 per maand. Gratis domeinnaam registratie.](https://mijnhosting.nl/)
 
@@ -29,9 +34,6 @@ title: https://mijnhosting.nl/
 *  JS Response Bytes: 1245745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95575
-
-### Performance issues
-
 
 ### Performance issues
 

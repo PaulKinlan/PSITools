@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/virtual-lasik-eye-surgery/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Virtual LASIK Eye Surgery game](http://www.surgery-games.org/virtual-lasik-eye-surgery/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/virtual-lasik-eye-surgery/
 *  JS Response Bytes: 2636625
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113316
-
-### Performance issues
-
 
 ### Performance issues
 

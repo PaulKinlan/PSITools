@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.dutyofsentinel.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Duty Of Sentinel - 2014 New Epic RPG Browser game, Play DoS free and fun Now!](http://www.dutyofsentinel.com/)
 
@@ -29,9 +35,6 @@ title: http://www.dutyofsentinel.com/
 *  JS Response Bytes: 1360308
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 797
-
-### Performance issues
-
 
 ### Performance issues
 

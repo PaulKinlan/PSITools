@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sageone.es/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sage One: facturación y contabilidad online para emprendedores, pymes y autónomos](http://www.sageone.es/)
 
@@ -29,9 +34,6 @@ title: http://www.sageone.es/
 *  JS Response Bytes: 269465
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2366
-
-### Performance issues
-
 
 ### Performance issues
 

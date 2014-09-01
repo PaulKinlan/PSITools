@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.bestsolitairegames.com/double-solitaire/double-solitaire
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Double Solitaire - Games - Play Free Online Best Solitaire Games](http://www.bestsolitairegames.com/double-solitaire/double-solitaire)
 
@@ -29,9 +36,6 @@ title: http://www.bestsolitairegames.com/double-solitaire/double-solitaire
 *  JS Response Bytes: 1135706
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16293
-
-### Performance issues
-
 
 ### Performance issues
 

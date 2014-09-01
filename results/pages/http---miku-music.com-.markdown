@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://miku-music.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ranking|miku music-初音ミク/Vocaloidまとめ-](http://miku-music.com/)
 
@@ -29,9 +33,6 @@ title: http://miku-music.com/
 *  JS Response Bytes: 306417
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 599
-
-### Performance issues
-
 
 ### Performance issues
 

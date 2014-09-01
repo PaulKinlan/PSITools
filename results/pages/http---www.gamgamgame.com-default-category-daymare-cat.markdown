@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamgamgame.com/default-category/daymare-cat
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Daymare Cat - AV Arcade](http://www.gamgamgame.com/default-category/daymare-cat)
 
@@ -29,9 +34,6 @@ title: http://www.gamgamgame.com/default-category/daymare-cat
 *  JS Response Bytes: 2184664
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106664
-
-### Performance issues
-
 
 ### Performance issues
 

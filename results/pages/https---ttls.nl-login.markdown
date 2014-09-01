@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://ttls.nl/login
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Login • TTLS](https://ttls.nl/login)
 
@@ -29,9 +32,6 @@ title: https://ttls.nl/login
 *  JS Response Bytes: 900389
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 65729
-
-### Performance issues
-
 
 ### Performance issues
 

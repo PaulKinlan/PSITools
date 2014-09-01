@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.lucidchart.com/demoTemplateChooser
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Unsaved Document: Lucidchart](https://www.lucidchart.com/demoTemplateChooser)
 
@@ -13,32 +16,28 @@ title: https://www.lucidchart.com/demoTemplateChooser
 
 ### Request information
 
-*  Number of Resources: 73
-*  Number of Hosts: 30
+*  Number of Resources: 70
+*  Number of Hosts: 29
 *  Number of JS Resources: 18
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 28
-*  Total Request Bytes: 14786
+*  Total Request Bytes: 13951
 
 ### Response data
 
-*  HTML Response Bytes: 155400
+*  HTML Response Bytes: 155366
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 531366
 *  Image Response Bytes: 115474
-*  JS Response Bytes: 2512759
+*  JS Response Bytes: 2515547
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 13777
-
-### Performance issues
-
+*  Other Response Bytes: 11975
 
 ### Performance issues
 
 *  Avoid landing page redirects
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *  Enable compression
-*  Improve server response time
 
 ### Mobile UX issues
 

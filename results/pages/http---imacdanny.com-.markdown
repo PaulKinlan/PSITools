@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://imacdanny.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [iMacdanny | Just Another iMD Network Site](http://imacdanny.com/)
 
@@ -29,9 +33,6 @@ title: http://imacdanny.com/
 *  JS Response Bytes: 1206740
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 880
-
-### Performance issues
-
 
 ### Performance issues
 

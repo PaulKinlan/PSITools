@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.guidami.info/?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Guidami.info | Tecnologia e informatica per tutti su Guidami.info](http://www.guidami.info/?m=1)
 
@@ -29,9 +32,6 @@ title: http://www.guidami.info/?m=1
 *  JS Response Bytes: 2296858
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 441430
-
-### Performance issues
-
 
 ### Performance issues
 

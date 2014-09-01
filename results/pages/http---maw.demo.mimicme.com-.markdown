@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://maw.demo.mimicme.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Demo - MimicMe](http://maw.demo.mimicme.com/)
 
@@ -29,9 +32,6 @@ title: http://maw.demo.mimicme.com/
 *  JS Response Bytes: 477619
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

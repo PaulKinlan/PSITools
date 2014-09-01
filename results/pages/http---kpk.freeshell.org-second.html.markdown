@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://kpk.freeshell.org/second.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [practice html5 app](http://kpk.freeshell.org/second.html)
 
@@ -29,9 +32,6 @@ title: http://kpk.freeshell.org/second.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 482
-
-### Performance issues
-
 
 ### Performance issues
 

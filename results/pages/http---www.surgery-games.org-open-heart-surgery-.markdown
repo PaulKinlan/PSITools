@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.surgery-games.org/open-heart-surgery/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Open Heart Surgery game](http://www.surgery-games.org/open-heart-surgery/)
 
@@ -29,9 +36,6 @@ title: http://www.surgery-games.org/open-heart-surgery/
 *  JS Response Bytes: 2429083
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122470
-
-### Performance issues
-
 
 ### Performance issues
 

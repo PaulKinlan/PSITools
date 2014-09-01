@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://app.optitmobile.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Opt It: local. social. mobile.](http://app.optitmobile.com/)
 
@@ -29,9 +33,6 @@ title: http://app.optitmobile.com/
 *  JS Response Bytes: 71388
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

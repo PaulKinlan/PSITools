@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.picme.co/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Solutions for Creative & Design Project Management | Pic Me](http://www.picme.co/)
 
@@ -29,9 +32,6 @@ title: http://www.picme.co/
 *  JS Response Bytes: 1620520
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2422
-
-### Performance issues
-
 
 ### Performance issues
 

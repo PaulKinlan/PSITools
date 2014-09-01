@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.radiouniverso.it/RADIOVENDITTI.ASP
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The page cannot be found](http://www.radiouniverso.it/RADIOVENDITTI.ASP)
 
@@ -29,9 +31,6 @@ title: http://www.radiouniverso.it/RADIOVENDITTI.ASP
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1774
-
-### Performance issues
-
 
 ### Performance issues
 

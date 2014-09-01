@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://hdgame2013.blogspot.com/2013/08/bad-boys-2.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [Hd games free: Bad Boys 2](http://hdgame2013.blogspot.com/2013/08/bad-boys-2.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://hdgame2013.blogspot.com/2013/08/bad-boys-2.html?m=1
 *  JS Response Bytes: 1148245
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99182
-
-### Performance issues
-
 
 ### Performance issues
 

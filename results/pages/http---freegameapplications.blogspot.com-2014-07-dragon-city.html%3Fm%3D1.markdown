@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://freegameapplications.blogspot.com/2014/07/dragon-city.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Free Game and Aplication: Dragon City](http://freegameapplications.blogspot.com/2014/07/dragon-city.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://freegameapplications.blogspot.com/2014/07/dragon-city.html?m=1
 *  JS Response Bytes: 873909
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95892
-
-### Performance issues
-
 
 ### Performance issues
 

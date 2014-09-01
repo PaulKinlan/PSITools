@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://laguiax.com.ar/#axzz3B9BBPI6B
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [LaGuiaX, La guía de comercios y servicios más completa de La Plata](http://laguiax.com.ar/#axzz3B9BBPI6B)
 
@@ -29,9 +34,6 @@ title: http://laguiax.com.ar/#axzz3B9BBPI6B
 *  JS Response Bytes: 1499438
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1647
-
-### Performance issues
-
 
 ### Performance issues
 

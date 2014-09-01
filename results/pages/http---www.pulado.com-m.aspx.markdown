@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.pulado.com/m.aspx
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
 ---
 ## [Pulado Mobile Arcade](http://www.pulado.com/m.aspx)
 
@@ -29,9 +32,6 @@ title: http://www.pulado.com/m.aspx
 *  JS Response Bytes: 200534
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://moodle.hasd.us/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Halifax Area SD's Moodle](http://moodle.hasd.us/)
 
@@ -29,9 +32,6 @@ title: http://moodle.hasd.us/
 *  JS Response Bytes: 380664
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

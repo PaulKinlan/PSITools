@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.dudamobile.com/?utm_source=referral%252B&utm_medium=ChromeWebStore&utm_campaign=freemobilewebsite
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Create a Mobile Website | Create a Responsive Website | Duda](http://www.dudamobile.com/?utm_source=referral%252B&utm_medium=ChromeWebStore&utm_campaign=freemobilewebsite)
 
@@ -29,9 +31,6 @@ title: http://www.dudamobile.com/?utm_source=referral%252B&utm_medium=ChromeWebS
 *  JS Response Bytes: 1184727
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97334
-
-### Performance issues
-
 
 ### Performance issues
 

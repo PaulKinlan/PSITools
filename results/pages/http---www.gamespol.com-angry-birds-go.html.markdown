@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.gamespol.com/angry-birds-go.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gamespol.com](http://www.gamespol.com/angry-birds-go.html)
 
@@ -29,9 +31,6 @@ title: http://www.gamespol.com/angry-birds-go.html
 *  JS Response Bytes: 167735
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

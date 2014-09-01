@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://app.datalot.com/user/login/agent/home
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Login](https://app.datalot.com/user/login/agent/home)
 
@@ -29,9 +31,6 @@ title: https://app.datalot.com/user/login/agent/home
 *  JS Response Bytes: 288241
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1036
-
-### Performance issues
-
 
 ### Performance issues
 

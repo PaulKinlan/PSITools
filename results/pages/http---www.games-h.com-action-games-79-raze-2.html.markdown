@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.games-h.com/action-games/79/raze-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Playing Raze 2 - Play Free Online Games at Games-H.COM](http://www.games-h.com/action-games/79/raze-2.html)
 
@@ -29,9 +35,6 @@ title: http://www.games-h.com/action-games/79/raze-2.html
 *  JS Response Bytes: 2603029
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 138232
-
-### Performance issues
-
 
 ### Performance issues
 

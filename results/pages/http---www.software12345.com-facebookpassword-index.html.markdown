@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.software12345.com/facebookpassword/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FaceBook Password Recovery Master :: Rixler Software. FREE Download FaceBook Password Recovery Master!](http://www.software12345.com/facebookpassword/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.software12345.com/facebookpassword/index.html
 *  JS Response Bytes: 934186
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95649
-
-### Performance issues
-
 
 ### Performance issues
 

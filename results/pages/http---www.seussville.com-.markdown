@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.seussville.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [](http://www.seussville.com/)
 
@@ -29,9 +32,6 @@ title: http://www.seussville.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/christmas/santas-lost-toys.html#.U_eD5E0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Santa's Lost Toys on Gamesk12.com Play for free](http://www.gamesk12.com/online/christmas/santas-lost-toys.html#.U_eD5E0ieKA)
 
@@ -29,9 +37,6 @@ title: http://www.gamesk12.com/online/christmas/santas-lost-toys.html#.U_eD5E0ie
 *  JS Response Bytes: 1870135
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121659
-
-### Performance issues
-
 
 ### Performance issues
 

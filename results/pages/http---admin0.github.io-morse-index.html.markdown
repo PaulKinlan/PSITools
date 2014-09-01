@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://admin0.github.io/morse/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [모스 부호(Morse code)](http://admin0.github.io/morse/index.html)
 
@@ -29,9 +32,6 @@ title: http://admin0.github.io/morse/index.html
 *  JS Response Bytes: 847648
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1862
-
-### Performance issues
-
 
 ### Performance issues
 

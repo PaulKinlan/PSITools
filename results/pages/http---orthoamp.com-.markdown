@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://orthoamp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [OrthoAMP | Advertising, Marketing, Practice Building](http://orthoamp.com/)
 
@@ -29,9 +32,6 @@ title: http://orthoamp.com/
 *  JS Response Bytes: 361702
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42121
-
-### Performance issues
-
 
 ### Performance issues
 

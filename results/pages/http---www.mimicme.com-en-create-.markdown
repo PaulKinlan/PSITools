@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mimicme.com/en/create/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MimicMe](http://www.mimicme.com/en/create/)
 
@@ -29,9 +33,6 @@ title: http://www.mimicme.com/en/create/
 *  JS Response Bytes: 478545
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7776
-
-### Performance issues
-
 
 ### Performance issues
 

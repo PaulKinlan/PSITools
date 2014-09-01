@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://portal.jmt.com.br/portal/usuario/entrar
+MinimizeRenderBlockingResources: true
 ---
 ## [Portal Planalto Encomendas](http://portal.jmt.com.br/portal/usuario/entrar)
 
@@ -29,9 +30,6 @@ title: http://portal.jmt.com.br/portal/usuario/entrar
 *  JS Response Bytes: 1332525
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30036
-
-### Performance issues
-
 
 ### Performance issues
 

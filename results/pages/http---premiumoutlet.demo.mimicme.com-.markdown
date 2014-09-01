@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://premiumoutlet.demo.mimicme.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Demo - MimicMe](http://premiumoutlet.demo.mimicme.com/)
 
@@ -29,9 +32,6 @@ title: http://premiumoutlet.demo.mimicme.com/
 *  JS Response Bytes: 886645
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

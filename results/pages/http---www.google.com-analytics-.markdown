@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.google.com/analytics/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Google Analytics Official Website – Web Analytics & Reporting](http://www.google.com/analytics/)
 
@@ -29,9 +31,6 @@ title: http://www.google.com/analytics/
 *  JS Response Bytes: 757359
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61963
-
-### Performance issues
-
 
 ### Performance issues
 

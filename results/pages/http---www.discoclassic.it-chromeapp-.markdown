@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.discoclassic.it/chromeapp/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [DiscoClassic](http://www.discoclassic.it/chromeapp/)
 
@@ -29,9 +32,6 @@ title: http://www.discoclassic.it/chromeapp/
 *  JS Response Bytes: 373107
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 477
-
-### Performance issues
-
 
 ### Performance issues
 

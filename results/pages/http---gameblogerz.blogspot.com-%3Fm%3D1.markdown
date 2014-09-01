@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gameblogerz.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [FREE PLAY GAME](http://gameblogerz.blogspot.com/?m=1)
 
@@ -22,16 +23,13 @@ title: http://gameblogerz.blogspot.com/?m=1
 
 ### Response data
 
-*  HTML Response Bytes: 48469
+*  HTML Response Bytes: 48470
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 21448
 *  Image Response Bytes: 55472
-*  JS Response Bytes: 248931
+*  JS Response Bytes: 248930
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 561
-
-### Performance issues
-
 
 ### Performance issues
 

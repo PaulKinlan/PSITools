@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mosatrajectum.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mosa Trajectum Golf Resorts Murcia - OFFICIAL PAGE - Newsblog - Oferta - Offer - Renting - Alquiler](http://www.mosatrajectum.com/)
 
@@ -29,9 +34,6 @@ title: http://www.mosatrajectum.com/
 *  JS Response Bytes: 1641898
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63340
-
-### Performance issues
-
 
 ### Performance issues
 

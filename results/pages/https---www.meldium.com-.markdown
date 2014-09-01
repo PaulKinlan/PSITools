@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.meldium.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Meldium | Team Password Manager, Cloud Identity & Access Management](https://www.meldium.com/)
 
@@ -29,9 +31,6 @@ title: https://www.meldium.com/
 *  JS Response Bytes: 767818
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2302
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.pro-flash.com/forklift-license.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pro-Flash.Com – Forklift License](http://www.pro-flash.com/forklift-license.html)
 
@@ -29,9 +35,6 @@ title: http://www.pro-flash.com/forklift-license.html
 *  JS Response Bytes: 410253
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53170
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.sublight.me/swa/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crowdsourced YouTube subtitles - Sublight Web App](http://www.sublight.me/swa/)
 
@@ -29,9 +32,6 @@ title: http://www.sublight.me/swa/
 *  JS Response Bytes: 140167
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

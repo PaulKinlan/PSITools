@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ilikeapplication.com/imageoptimizer/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Batch Image Optimizer](http://www.ilikeapplication.com/imageoptimizer/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.ilikeapplication.com/imageoptimizer/index.html
 *  JS Response Bytes: 911277
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111793
-
-### Performance issues
-
 
 ### Performance issues
 

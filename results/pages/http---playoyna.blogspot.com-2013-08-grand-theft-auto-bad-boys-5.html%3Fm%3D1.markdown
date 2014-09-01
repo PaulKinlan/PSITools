@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://playoyna.blogspot.com/2013/08/grand-theft-auto-bad-boys-5.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free play games: Grand Theft Auto Bad Boys 5](http://playoyna.blogspot.com/2013/08/grand-theft-auto-bad-boys-5.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://playoyna.blogspot.com/2013/08/grand-theft-auto-bad-boys-5.html?m=1
 *  JS Response Bytes: 1799596
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 290803
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.storyworth.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [StoryWorth – record family stories.](https://www.storyworth.com/)
 
@@ -29,9 +32,6 @@ title: https://www.storyworth.com/
 *  JS Response Bytes: 2672514
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 203158
-
-### Performance issues
-
 
 ### Performance issues
 

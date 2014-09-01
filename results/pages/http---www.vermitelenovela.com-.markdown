@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.vermitelenovela.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ver mi Telenovela](http://www.vermitelenovela.com/)
 
@@ -29,9 +32,6 @@ title: http://www.vermitelenovela.com/
 *  JS Response Bytes: 674228
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94972
-
-### Performance issues
-
 
 ### Performance issues
 

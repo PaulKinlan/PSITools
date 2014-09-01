@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.travelemun.com/catalogue-of-excursions/ierusalim-obzorniy/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Экскурсия в Иерусалим | Экскурсии в Израиле](http://www.travelemun.com/catalogue-of-excursions/ierusalim-obzorniy/)
 
@@ -29,9 +32,6 @@ title: http://www.travelemun.com/catalogue-of-excursions/ierusalim-obzorniy/
 *  JS Response Bytes: 1572794
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155713
-
-### Performance issues
-
 
 ### Performance issues
 

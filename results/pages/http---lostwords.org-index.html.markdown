@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://lostwords.org/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Lost Words](http://lostwords.org/index.html)
 
@@ -29,9 +34,6 @@ title: http://lostwords.org/index.html
 *  JS Response Bytes: 572857
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

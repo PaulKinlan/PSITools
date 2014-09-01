@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.teachingtime.co.uk/draggames/sthec1.html
+EnableGzipCompression: true
+AvoidPlugins: true
 ---
 ## [sthec1](http://www.teachingtime.co.uk/draggames/sthec1.html)
 
@@ -29,9 +31,6 @@ title: http://www.teachingtime.co.uk/draggames/sthec1.html
 *  JS Response Bytes: 3551
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

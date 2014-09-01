@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://buysellposts.co/?c
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [BuySellPosts.co advertising on fanpages](http://buysellposts.co/?c)
 
@@ -29,9 +32,6 @@ title: http://buysellposts.co/?c
 *  JS Response Bytes: 802306
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44997
-
-### Performance issues
-
 
 ### Performance issues
 

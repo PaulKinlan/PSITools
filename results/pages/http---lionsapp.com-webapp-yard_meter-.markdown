@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://lionsapp.com/webapp/yard_meter/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LionsApp | Web App [Yard Meter]](http://lionsapp.com/webapp/yard_meter/)
 
@@ -29,9 +33,6 @@ title: http://lionsapp.com/webapp/yard_meter/
 *  JS Response Bytes: 1696666
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96768
-
-### Performance issues
-
 
 ### Performance issues
 

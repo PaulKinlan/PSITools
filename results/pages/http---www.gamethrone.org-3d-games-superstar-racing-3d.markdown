@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamethrone.org/3d-games/superstar-racing-3d
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Superstar Racing 3D - Free Online Games | GameThrone](http://www.gamethrone.org/3d-games/superstar-racing-3d)
 
@@ -29,9 +35,6 @@ title: http://www.gamethrone.org/3d-games/superstar-racing-3d
 *  JS Response Bytes: 1070091
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 66386
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ukradio.youfiles.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [UK Radio Absolute Online](http://ukradio.youfiles.net/)
 
@@ -29,9 +33,6 @@ title: http://ukradio.youfiles.net/
 *  JS Response Bytes: 486503
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

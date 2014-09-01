@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/game/name/ice-age-bubble-trouble
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ice-age-bubble-trouble Addicting Games](http://www.2addictinggames.com/games/game/name/ice-age-bubble-trouble)
 
@@ -29,9 +34,6 @@ title: http://www.2addictinggames.com/games/game/name/ice-age-bubble-trouble
 *  JS Response Bytes: 1862085
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111926
-
-### Performance issues
-
 
 ### Performance issues
 

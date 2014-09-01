@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://112233games.blogspot.com/2014/04/bad-boys-vice-city.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Online games, card games, casino games, free games: Bad boys vice city](http://112233games.blogspot.com/2014/04/bad-boys-vice-city.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://112233games.blogspot.com/2014/04/bad-boys-vice-city.html?m=1
 *  JS Response Bytes: 1191165
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99226
-
-### Performance issues
-
 
 ### Performance issues
 

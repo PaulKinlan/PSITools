@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.bagarai.com.br/mais/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bagarai Mais, um plus em notícias pra você!](http://www.bagarai.com.br/mais/)
 
@@ -29,9 +32,6 @@ title: http://www.bagarai.com.br/mais/
 *  JS Response Bytes: 249581
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1024
-
-### Performance issues
-
 
 ### Performance issues
 

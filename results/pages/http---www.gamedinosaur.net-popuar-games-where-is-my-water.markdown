@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamedinosaur.net/popuar-games/where-is-my-water
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | Gamedinosaur.net | Play Most Popular Games Free](http://www.gamedinosaur.net/popuar-games/where-is-my-water)
 
@@ -29,9 +35,6 @@ title: http://www.gamedinosaur.net/popuar-games/where-is-my-water
 *  JS Response Bytes: 1122690
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61162
-
-### Performance issues
-
 
 ### Performance issues
 

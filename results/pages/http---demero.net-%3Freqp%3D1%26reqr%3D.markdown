@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://demero.net/?reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [demero.net](http://demero.net/?reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://demero.net/?reqp=1&reqr=
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52
-
-### Performance issues
-
 
 ### Performance issues
 

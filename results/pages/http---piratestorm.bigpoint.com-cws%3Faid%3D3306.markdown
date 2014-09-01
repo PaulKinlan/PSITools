@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://piratestorm.bigpoint.com/cws?aid=3306
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pirate Storm | An action-packed summer with the Tournament of the Great Five!](http://piratestorm.bigpoint.com/cws?aid=3306)
 
@@ -29,9 +34,6 @@ title: http://piratestorm.bigpoint.com/cws?aid=3306
 *  JS Response Bytes: 529054
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

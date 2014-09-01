@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://strategeekal.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HostDime Web Hosting](http://strategeekal.com/)
 
@@ -29,9 +33,6 @@ title: http://strategeekal.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/sky-boarding/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sky Boarding game](http://www.skateboarding-games.biz/sky-boarding/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/sky-boarding/
 *  JS Response Bytes: 2123607
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115505
-
-### Performance issues
-
 
 ### Performance issues
 

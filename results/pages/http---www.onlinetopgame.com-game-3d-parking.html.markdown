@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.onlinetopgame.com/game/3d-parking.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Parking - Skill Games - Play Free Online Games](http://www.onlinetopgame.com/game/3d-parking.html)
 
@@ -29,9 +34,6 @@ title: http://www.onlinetopgame.com/game/3d-parking.html
 *  JS Response Bytes: 524647
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 592
-
-### Performance issues
-
 
 ### Performance issues
 

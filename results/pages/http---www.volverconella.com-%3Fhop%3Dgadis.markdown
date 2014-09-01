@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.volverconella.com/?hop=gadis
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Volver con Ella | Sitio Oficial | Todo lo que necesitas saber para recuperarla](http://www.volverconella.com/?hop=gadis)
 
@@ -29,9 +35,6 @@ title: http://www.volverconella.com/?hop=gadis
 *  JS Response Bytes: 349463
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2695
-
-### Performance issues
-
 
 ### Performance issues
 

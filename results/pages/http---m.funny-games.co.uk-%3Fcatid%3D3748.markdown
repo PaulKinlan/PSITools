@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.funny-games.co.uk/?catid=3748
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funny-games.co.uk/?catid=3748)
 
@@ -29,9 +33,6 @@ title: http://m.funny-games.co.uk/?catid=3748
 *  JS Response Bytes: 1266601
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28044
-
-### Performance issues
-
 
 ### Performance issues
 

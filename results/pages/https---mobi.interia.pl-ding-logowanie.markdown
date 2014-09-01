@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://mobi.interia.pl/ding/logowanie
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Logowanie Ding](https://mobi.interia.pl/ding/logowanie)
 
@@ -29,9 +33,6 @@ title: https://mobi.interia.pl/ding/logowanie
 *  JS Response Bytes: 118937
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3168
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chrometopgame.blogspot.com/2013/08/fast-furious-6.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [chrometopgame: Fast & Furious 6](http://chrometopgame.blogspot.com/2013/08/fast-furious-6.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chrometopgame.blogspot.com/2013/08/fast-furious-6.html?m=1
 *  JS Response Bytes: 1067936
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97988
-
-### Performance issues
-
 
 ### Performance issues
 

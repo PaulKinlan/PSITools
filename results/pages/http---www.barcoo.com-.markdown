@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.barcoo.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [barcoo – der mobile Produkt-Guide | Preise, Testberichte & Infos](http://www.barcoo.com/)
 
@@ -29,9 +31,6 @@ title: http://www.barcoo.com/
 *  JS Response Bytes: 464886
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1245
-
-### Performance issues
-
 
 ### Performance issues
 

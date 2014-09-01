@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.negane.com/ACCION/2053/StarCraft.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [StarCraft - NeGaNe.com](http://www.negane.com/ACCION/2053/StarCraft.html)
 
@@ -29,9 +35,6 @@ title: http://www.negane.com/ACCION/2053/StarCraft.html
 *  JS Response Bytes: 1653375
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 403895
-
-### Performance issues
-
 
 ### Performance issues
 

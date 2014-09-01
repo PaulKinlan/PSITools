@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://plan.dejoris.de/de/index/login
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login](https://plan.dejoris.de/de/index/login)
 
@@ -29,9 +34,6 @@ title: https://plan.dejoris.de/de/index/login
 *  JS Response Bytes: 554021
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 384
-
-### Performance issues
-
 
 ### Performance issues
 

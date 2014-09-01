@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://2014trendgames.blogspot.com/2014/04/rail-rush-play-game.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [2014 Trend games: Rail Rush Play game](http://2014trendgames.blogspot.com/2014/04/rail-rush-play-game.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://2014trendgames.blogspot.com/2014/04/rail-rush-play-game.html?m=1
 *  JS Response Bytes: 1483031
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99865
-
-### Performance issues
-
 
 ### Performance issues
 

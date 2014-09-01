@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://secure.earny.nl/login.php?return=%2F
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Earny - Inloggen](https://secure.earny.nl/login.php?return=%2F)
 
@@ -29,9 +34,6 @@ title: https://secure.earny.nl/login.php?return=%2F
 *  JS Response Bytes: 366714
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 390
-
-### Performance issues
-
 
 ### Performance issues
 

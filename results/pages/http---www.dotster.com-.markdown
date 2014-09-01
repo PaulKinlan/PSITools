@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.dotster.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dotster | Domain Registration and Website Hosting](http://www.dotster.com/)
 
@@ -29,9 +36,6 @@ title: http://www.dotster.com/
 *  JS Response Bytes: 595342
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59319
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.thefragranceshop.co.uk/m/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [The Fragrance Shop](http://www.thefragranceshop.co.uk/m/)
 
@@ -29,9 +32,6 @@ title: http://www.thefragranceshop.co.uk/m/
 *  JS Response Bytes: 1215614
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1067
-
-### Performance issues
-
 
 ### Performance issues
 

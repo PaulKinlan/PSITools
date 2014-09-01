@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://apps.ramven.com/converter/weight/?utm_campaign=apps&utm_source=crome&utm_medium=store&utm_content=html5&utm_term=weight
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Weight Converter](http://apps.ramven.com/converter/weight/?utm_campaign=apps&utm_source=crome&utm_medium=store&utm_content=html5&utm_term=weight)
 
@@ -29,9 +31,6 @@ title: http://apps.ramven.com/converter/weight/?utm_campaign=apps&utm_source=cro
 *  JS Response Bytes: 137343
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

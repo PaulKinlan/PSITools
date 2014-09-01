@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://playboy.tv-watch.info/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Watch Playboy Now! One Whole Week - Absolutely Free!](http://playboy.tv-watch.info/)
 
@@ -29,9 +32,6 @@ title: http://playboy.tv-watch.info/
 *  JS Response Bytes: 232936
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1566
-
-### Performance issues
-
 
 ### Performance issues
 

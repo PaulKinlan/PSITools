@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://arcadechrome.com/gc/?g=692
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [United States GeoQuest](http://arcadechrome.com/gc/?g=692)
 
@@ -29,9 +32,6 @@ title: http://arcadechrome.com/gc/?g=692
 *  JS Response Bytes: 388169
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1471
-
-### Performance issues
-
 
 ### Performance issues
 

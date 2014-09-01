@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://hectagames.com/pirate-storm-hu/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Pirate Storm | HectaGames](http://hectagames.com/pirate-storm-hu/)
 
@@ -29,9 +31,6 @@ title: http://hectagames.com/pirate-storm-hu/
 *  JS Response Bytes: 302574
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

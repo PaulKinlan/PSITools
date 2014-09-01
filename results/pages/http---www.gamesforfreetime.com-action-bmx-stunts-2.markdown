@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesforfreetime.com/action/bmx-stunts-2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BMX Stunts 2 - Games For Free Time](http://www.gamesforfreetime.com/action/bmx-stunts-2)
 
@@ -29,9 +35,6 @@ title: http://www.gamesforfreetime.com/action/bmx-stunts-2
 *  JS Response Bytes: 2386000
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99361
-
-### Performance issues
-
 
 ### Performance issues
 

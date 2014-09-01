@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.coolxgames.com/big-farm/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cool Games – Big Farm](http://www.coolxgames.com/big-farm/)
 
@@ -29,9 +33,6 @@ title: http://www.coolxgames.com/big-farm/
 *  JS Response Bytes: 1036557
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15195
-
-### Performance issues
-
 
 ### Performance issues
 

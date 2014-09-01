@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gtavicecitya.com/?s=temple+run&x=0&y=0
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [temple run « Search Results « free gta game vice city](http://www.gtavicecitya.com/?s=temple+run&x=0&y=0)
 
@@ -29,9 +32,6 @@ title: http://www.gtavicecitya.com/?s=temple+run&x=0&y=0
 *  JS Response Bytes: 955455
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16219
-
-### Performance issues
-
 
 ### Performance issues
 

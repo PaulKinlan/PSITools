@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://mobile.dudamobile.com/site/ubuntudicas_3?url=http%3A%2F%2Fwww.ubuntudicas.com.br%2Fblog%2F&dm_redirected=true#2603
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ubuntu Dicas - Aprenda dicas e truques de Ubuntu Linux](http://mobile.dudamobile.com/site/ubuntudicas_3?url=http%3A%2F%2Fwww.ubuntudicas.com.br%2Fblog%2F&dm_redirected=true#2603)
 
@@ -29,9 +34,6 @@ title: http://mobile.dudamobile.com/site/ubuntudicas_3?url=http%3A%2F%2Fwww.ubun
 *  JS Response Bytes: 1372548
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2508
-
-### Performance issues
-
 
 ### Performance issues
 

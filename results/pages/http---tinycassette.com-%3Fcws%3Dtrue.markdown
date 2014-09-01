@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://tinycassette.com/?cws=true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tiny Cassette - Mix songs from youtube and soundcloud](http://tinycassette.com/?cws=true)
 
@@ -29,9 +33,6 @@ title: http://tinycassette.com/?cws=true
 *  JS Response Bytes: 486082
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25161
-
-### Performance issues
-
 
 ### Performance issues
 

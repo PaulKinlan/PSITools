@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.rendementlocatif.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Calcul Rendement Investissement Locatif Immobilier](http://www.rendementlocatif.com/)
 
@@ -29,9 +32,6 @@ title: http://www.rendementlocatif.com/
 *  JS Response Bytes: 199357
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30111
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/action/rooftop-runner-2
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rooftop Runner - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/action/rooftop-runner-2)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/action/rooftop-runner-2
 *  JS Response Bytes: 2181017
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106389
-
-### Performance issues
-
 
 ### Performance issues
 

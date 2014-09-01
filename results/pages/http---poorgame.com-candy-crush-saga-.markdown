@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://poorgame.com/candy-crush-saga/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PoorGame.Com Play Game Flash Games – Candy Crush Saga](http://poorgame.com/candy-crush-saga/)
 
@@ -29,9 +34,6 @@ title: http://poorgame.com/candy-crush-saga/
 *  JS Response Bytes: 721302
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15627
-
-### Performance issues
-
 
 ### Performance issues
 

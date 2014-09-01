@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fsairlines.net/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Virtual Airlines Management System | FSAirlines](http://www.fsairlines.net/)
 
@@ -29,9 +32,6 @@ title: http://www.fsairlines.net/
 *  JS Response Bytes: 1260523
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96688
-
-### Performance issues
-
 
 ### Performance issues
 

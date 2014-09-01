@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://script.google.com/macros/s/AKfycbz3WQphXt_xo4XEoDH29_Alnma9b8yHbdzvTzIwpK-K1Yi2Dg/exec
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DSM Mobile Tracking](https://script.google.com/macros/s/AKfycbz3WQphXt_xo4XEoDH29_Alnma9b8yHbdzvTzIwpK-K1Yi2Dg/exec)
 
@@ -29,9 +35,6 @@ title: https://script.google.com/macros/s/AKfycbz3WQphXt_xo4XEoDH29_Alnma9b8yHbd
 *  JS Response Bytes: 1292930
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

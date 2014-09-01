@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.kergames.pw/super-mario/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Mario – Online Best Games](http://www.kergames.pw/super-mario/)
 
@@ -29,9 +36,6 @@ title: http://www.kergames.pw/super-mario/
 *  JS Response Bytes: 1264295
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17230
-
-### Performance issues
-
 
 ### Performance issues
 

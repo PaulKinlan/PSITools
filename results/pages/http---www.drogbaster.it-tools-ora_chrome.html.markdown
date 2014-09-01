@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.drogbaster.it/tools/ora_chrome.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [▷ Mappa del fuso Orario del mondo, ora mondiale ufficiale](http://www.drogbaster.it/tools/ora_chrome.html)
 
@@ -29,9 +33,6 @@ title: http://www.drogbaster.it/tools/ora_chrome.html
 *  JS Response Bytes: 1762200
 *  Flash Response Bytes: 11429
 *  Other Response Bytes: 140911
-
-### Performance issues
-
 
 ### Performance issues
 

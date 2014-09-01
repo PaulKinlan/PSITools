@@ -33,8 +33,5 @@ title: http://www.cominggame.com/games/images/title_site.png
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ilovepdf.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Merge PDF and split PDF online. Free merge PDF or split PDF](http://www.ilovepdf.com/)
 
@@ -29,9 +33,6 @@ title: http://www.ilovepdf.com/
 *  JS Response Bytes: 1237828
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97065
-
-### Performance issues
-
 
 ### Performance issues
 

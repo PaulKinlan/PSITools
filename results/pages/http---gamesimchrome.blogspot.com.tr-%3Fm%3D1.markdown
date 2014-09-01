@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gamesimchrome.blogspot.com.tr/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Free Games Play](http://gamesimchrome.blogspot.com.tr/?m=1)
 
@@ -29,9 +30,6 @@ title: http://gamesimchrome.blogspot.com.tr/?m=1
 *  JS Response Bytes: 596079
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2971
-
-### Performance issues
-
 
 ### Performance issues
 

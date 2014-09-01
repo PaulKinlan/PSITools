@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gparts.co.uk/shop/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Home Page](http://www.gparts.co.uk/shop/)
 
@@ -29,9 +34,6 @@ title: http://www.gparts.co.uk/shop/
 *  JS Response Bytes: 1167576
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124462
-
-### Performance issues
-
 
 ### Performance issues
 

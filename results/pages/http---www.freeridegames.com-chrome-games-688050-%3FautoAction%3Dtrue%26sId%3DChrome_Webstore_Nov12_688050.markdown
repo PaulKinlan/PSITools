@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/688050/?autoAction=true&sId=Chrome_Webstore_Nov12_688050
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Jolly Rover for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/688050/?autoAction=true&sId=Chrome_Webstore_Nov12_688050)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/688050/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1504102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31187
-
-### Performance issues
-
 
 ### Performance issues
 

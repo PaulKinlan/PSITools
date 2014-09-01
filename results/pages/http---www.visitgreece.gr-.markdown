@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.visitgreece.gr/
+MinimizeRenderBlockingResources: true
 ---
 ## [Visit Greece | The Official website of the Greek Tourism Organisation](http://www.visitgreece.gr/)
 
@@ -29,9 +30,6 @@ title: http://www.visitgreece.gr/
 *  JS Response Bytes: 172987
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

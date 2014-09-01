@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.vintageadbrowser.com/app/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Vintage Ad Browser App](http://www.vintageadbrowser.com/app/)
 
@@ -29,9 +33,6 @@ title: http://www.vintageadbrowser.com/app/
 *  JS Response Bytes: 721124
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chrome.atari.com/asteroids/
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Asteroids - Atari Video Games](http://chrome.atari.com/asteroids/)
 
@@ -29,9 +32,6 @@ title: http://chrome.atari.com/asteroids/
 *  JS Response Bytes: 82205
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

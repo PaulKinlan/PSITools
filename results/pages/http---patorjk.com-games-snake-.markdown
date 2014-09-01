@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://patorjk.com/games/snake/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [JavaScript Snake](http://patorjk.com/games/snake/)
 
@@ -29,9 +32,6 @@ title: http://patorjk.com/games/snake/
 *  JS Response Bytes: 80981
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.neozone.org/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [NeozOne - Blog d'actu Geek, buzz et des nouvelles technologies](http://www.neozone.org/)
 
@@ -29,9 +32,6 @@ title: http://www.neozone.org/
 *  JS Response Bytes: 1176183
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 488772
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://games.heavyrobot.com/mini-taur/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mini-taur | Games by Heavy Robot](http://games.heavyrobot.com/mini-taur/)
 
@@ -29,9 +33,6 @@ title: http://games.heavyrobot.com/mini-taur/
 *  JS Response Bytes: 696685
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

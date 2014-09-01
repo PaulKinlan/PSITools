@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://forevergamer.net/index.php?task=view&id=3897
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TV Darts Show - Free Online Games Forever | ForeverGamer.net - http://forevergamer.net](http://forevergamer.net/index.php?task=view&id=3897)
 
@@ -29,9 +35,6 @@ title: http://forevergamer.net/index.php?task=view&id=3897
 *  JS Response Bytes: 2234532
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 142428
-
-### Performance issues
-
 
 ### Performance issues
 

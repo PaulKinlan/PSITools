@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://cosmos.webbii.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Scale of the Universe](http://cosmos.webbii.net/)
 
@@ -29,9 +35,6 @@ title: http://cosmos.webbii.net/
 *  JS Response Bytes: 412413
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15790
-
-### Performance issues
-
 
 ### Performance issues
 

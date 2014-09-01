@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mydomain.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MyDomain | Domain Names, Web Hosting, and Free Domain Services](http://www.mydomain.com/)
 
@@ -29,9 +34,6 @@ title: http://www.mydomain.com/
 *  JS Response Bytes: 202794
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

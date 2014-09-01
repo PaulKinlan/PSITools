@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://phone.tranio.ru/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [Главная — Tranio.Ru](http://phone.tranio.ru/)
 
@@ -29,9 +32,6 @@ title: http://phone.tranio.ru/
 *  JS Response Bytes: 103513
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1136
-
-### Performance issues
-
 
 ### Performance issues
 

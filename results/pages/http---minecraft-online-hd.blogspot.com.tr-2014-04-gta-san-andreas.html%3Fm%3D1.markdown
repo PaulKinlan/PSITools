@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://minecraft-online-hd.blogspot.com.tr/2014/04/gta-san-andreas.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [minecraft online game store: gta san andreas](http://minecraft-online-hd.blogspot.com.tr/2014/04/gta-san-andreas.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://minecraft-online-hd.blogspot.com.tr/2014/04/gta-san-andreas.html?m
 *  JS Response Bytes: 1149252
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99264
-
-### Performance issues
-
 
 ### Performance issues
 

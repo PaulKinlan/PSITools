@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.intrasys.ro/noutati/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Noutati « Servicii si solutii complete IT de la Intrasys](http://www.intrasys.ro/noutati/)
 
@@ -29,9 +31,6 @@ title: http://www.intrasys.ro/noutati/
 *  JS Response Bytes: 158527
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6497
-
-### Performance issues
-
 
 ### Performance issues
 

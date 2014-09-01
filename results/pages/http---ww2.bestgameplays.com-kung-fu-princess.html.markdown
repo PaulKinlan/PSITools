@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ww2.bestgameplays.com/kung-fu-princess.html
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [bestgameplays.com](http://ww2.bestgameplays.com/kung-fu-princess.html)
 
@@ -29,9 +31,6 @@ title: http://ww2.bestgameplays.com/kung-fu-princess.html
 *  JS Response Bytes: 229840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21046
-
-### Performance issues
-
 
 ### Performance issues
 

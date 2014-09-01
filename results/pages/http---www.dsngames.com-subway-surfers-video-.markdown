@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.dsngames.com/subway-surfers-video/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Subway Surfers Video](http://www.dsngames.com/subway-surfers-video/)
 
@@ -29,9 +35,6 @@ title: http://www.dsngames.com/subway-surfers-video/
 *  JS Response Bytes: 678737
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44627
-
-### Performance issues
-
 
 ### Performance issues
 

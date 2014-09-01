@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://cogteeth.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cogteeth.com](http://cogteeth.com/)
 
@@ -29,9 +32,6 @@ title: http://cogteeth.com/
 *  JS Response Bytes: 536345
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

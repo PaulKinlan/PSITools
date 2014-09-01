@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.games2win.com/en/chrome-app/cricket-game/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cricket Games - Play Free Online Cricket Games in Chrome At Games2win.com](http://www.games2win.com/en/chrome-app/cricket-game/)
 
@@ -29,9 +33,6 @@ title: http://www.games2win.com/en/chrome-app/cricket-game/
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

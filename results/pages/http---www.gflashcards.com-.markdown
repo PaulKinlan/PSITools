@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gflashcards.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flashcards for Mac, iPad and iPhone - gFlashcards](http://www.gflashcards.com/)
 
@@ -29,9 +32,6 @@ title: http://www.gflashcards.com/
 *  JS Response Bytes: 383632
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

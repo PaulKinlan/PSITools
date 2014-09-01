@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fundacionreflejosdevenezuela.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Fundación Reflejos de Venezuela](http://www.fundacionreflejosdevenezuela.com/)
 
@@ -29,9 +32,6 @@ title: http://www.fundacionreflejosdevenezuela.com/
 *  JS Response Bytes: 218927
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50405
-
-### Performance issues
-
 
 ### Performance issues
 

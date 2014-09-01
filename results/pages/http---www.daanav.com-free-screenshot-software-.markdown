@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.daanav.com/free-screenshot-software/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free Screenshot Software](http://www.daanav.com/free-screenshot-software/)
 
@@ -29,9 +32,6 @@ title: http://www.daanav.com/free-screenshot-software/
 *  JS Response Bytes: 1154607
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 309624
-
-### Performance issues
-
 
 ### Performance issues
 

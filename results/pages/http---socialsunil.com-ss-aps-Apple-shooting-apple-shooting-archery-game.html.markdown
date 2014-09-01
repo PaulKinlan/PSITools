@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://socialsunil.com/ss/aps/Apple-shooting/apple-shooting-archery-game.html
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Apple Shooting Archery Game](http://socialsunil.com/ss/aps/Apple-shooting/apple-shooting-archery-game.html)
 
@@ -29,9 +33,6 @@ title: http://socialsunil.com/ss/aps/Apple-shooting/apple-shooting-archery-game.
 *  JS Response Bytes: 412907
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

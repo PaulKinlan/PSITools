@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://reliableiptv.com/googletv/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://reliableiptv.com/googletv/)
 
@@ -29,9 +30,6 @@ title: http://reliableiptv.com/googletv/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 350
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://invoicebinder.com/#home
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Simple Free Cloud Invoicing Solution.](http://invoicebinder.com/#home)
 
@@ -29,9 +34,6 @@ title: http://invoicebinder.com/#home
 *  JS Response Bytes: 6202
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2684
-
-### Performance issues
-
 
 ### Performance issues
 

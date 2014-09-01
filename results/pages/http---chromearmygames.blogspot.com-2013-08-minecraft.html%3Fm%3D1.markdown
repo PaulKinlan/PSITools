@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromearmygames.blogspot.com/2013/08/minecraft.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://chromearmygames.blogspot.com/2013/08/minecraft.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromearmygames.blogspot.com/2013/08/minecraft.html?m=1
 *  JS Response Bytes: 41101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19279
-
-### Performance issues
-
 
 ### Performance issues
 

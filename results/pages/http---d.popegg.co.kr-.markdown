@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://d.popegg.co.kr/
+MinimizeRenderBlockingResources: true
 ---
 ## [POPEGG Apps](http://d.popegg.co.kr/)
 
@@ -29,9 +30,6 @@ title: http://d.popegg.co.kr/
 *  JS Response Bytes: 121927
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromegamesmaniac.blogspot.com/2013/08/grand-theft-auto-iv.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [chromegamesmaniac: Grand Theft Auto IV](http://chromegamesmaniac.blogspot.com/2013/08/grand-theft-auto-iv.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chromegamesmaniac.blogspot.com/2013/08/grand-theft-auto-iv.html?m=
 *  JS Response Bytes: 1068001
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98002
-
-### Performance issues
-
 
 ### Performance issues
 

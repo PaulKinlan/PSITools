@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.cargly.com/business
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cargly for Business](http://www.cargly.com/business)
 
@@ -29,9 +31,6 @@ title: http://www.cargly.com/business
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

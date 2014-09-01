@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://sohoweekly.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SOHO Weekly](http://sohoweekly.blogspot.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://sohoweekly.blogspot.com/?m=1
 *  JS Response Bytes: 672199
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15712
-
-### Performance issues
-
 
 ### Performance issues
 

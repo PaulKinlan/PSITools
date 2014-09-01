@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://play.google.com/store/apps/developer?id=Expres-Web
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Expres-Web - Android Apps on Google Play](https://play.google.com/store/apps/developer?id=Expres-Web)
 
@@ -29,9 +31,6 @@ title: https://play.google.com/store/apps/developer?id=Expres-Web
 *  JS Response Bytes: 3408135
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 101616
-
-### Performance issues
-
 
 ### Performance issues
 

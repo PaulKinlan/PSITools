@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.greendome.us/default-category/seven-seas-saga
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Seven Seas Saga - Green Dome](http://www.greendome.us/default-category/seven-seas-saga)
 
@@ -29,9 +35,6 @@ title: http://www.greendome.us/default-category/seven-seas-saga
 *  JS Response Bytes: 2015485
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115049
-
-### Performance issues
-
 
 ### Performance issues
 

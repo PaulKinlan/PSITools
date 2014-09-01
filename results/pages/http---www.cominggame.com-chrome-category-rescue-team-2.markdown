@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.cominggame.com/chrome-category/rescue-team-2
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rescue Team 2 - Coming Game](http://www.cominggame.com/chrome-category/rescue-team-2)
 
@@ -29,9 +34,6 @@ title: http://www.cominggame.com/chrome-category/rescue-team-2
 *  JS Response Bytes: 726369
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15988
-
-### Performance issues
-
 
 ### Performance issues
 

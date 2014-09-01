@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamestask.net/driving-racing/turbo-racing-3
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Turbo Racing 3 - GamesTask.net | Free Online Games](http://www.gamestask.net/driving-racing/turbo-racing-3)
 
@@ -29,9 +34,6 @@ title: http://www.gamestask.net/driving-racing/turbo-racing-3
 *  JS Response Bytes: 2954545
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 167485
-
-### Performance issues
-
 
 ### Performance issues
 

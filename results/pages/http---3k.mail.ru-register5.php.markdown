@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://3k.mail.ru/register5.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Троецарствие - Бесплатная Онлайн Игра | Ролевые online игры, бесплатные игры онлайн, флеш игры](http://3k.mail.ru/register5.php)
 
@@ -29,9 +34,6 @@ title: http://3k.mail.ru/register5.php
 *  JS Response Bytes: 624272
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4366
-
-### Performance issues
-
 
 ### Performance issues
 

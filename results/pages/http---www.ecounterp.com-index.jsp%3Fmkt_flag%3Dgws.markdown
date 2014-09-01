@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ecounterp.com/index.jsp?mkt_flag=gws
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SMB ERP Software | Enterprise Resource Planning System | Ecount Inc.](http://www.ecounterp.com/index.jsp?mkt_flag=gws)
 
@@ -29,9 +33,6 @@ title: http://www.ecounterp.com/index.jsp?mkt_flag=gws
 *  JS Response Bytes: 498965
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

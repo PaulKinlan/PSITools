@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://royalpvpgod.com:8080/HaikuBay/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Logged Out : Haiku Bay Drawing Editor](http://royalpvpgod.com:8080/HaikuBay/)
 
@@ -29,9 +34,6 @@ title: http://royalpvpgod.com:8080/HaikuBay/
 *  JS Response Bytes: 387251
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4197
-
-### Performance issues
-
 
 ### Performance issues
 

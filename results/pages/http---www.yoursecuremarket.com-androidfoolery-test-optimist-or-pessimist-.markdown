@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.yoursecuremarket.com/androidfoolery/test-optimist-or-pessimist/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Test: Optimist Or Pessimist? | Hot Quizzes](http://www.yoursecuremarket.com/androidfoolery/test-optimist-or-pessimist/)
 
@@ -29,9 +34,6 @@ title: http://www.yoursecuremarket.com/androidfoolery/test-optimist-or-pessimist
 *  JS Response Bytes: 710989
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

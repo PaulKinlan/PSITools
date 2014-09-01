@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://app.viewmybrowser.com/vmb/ep/Desktop.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ViewMyBrowser - Desktop](https://app.viewmybrowser.com/vmb/ep/Desktop.html)
 
@@ -29,9 +33,6 @@ title: https://app.viewmybrowser.com/vmb/ep/Desktop.html
 *  JS Response Bytes: 445513
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 546
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chessshredder.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chess Shredder - Play Chess Online](http://www.chessshredder.com/)
 
@@ -29,9 +35,6 @@ title: http://www.chessshredder.com/
 *  JS Response Bytes: 777508
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25301
-
-### Performance issues
-
 
 ### Performance issues
 

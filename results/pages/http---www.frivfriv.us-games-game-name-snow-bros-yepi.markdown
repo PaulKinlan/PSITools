@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.frivfriv.us/games/game/name/snow-bros/yepi
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [snow-bros Friv Games](http://www.frivfriv.us/games/game/name/snow-bros/yepi)
 
@@ -29,9 +33,6 @@ title: http://www.frivfriv.us/games/game/name/snow-bros/yepi
 *  JS Response Bytes: 1717834
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112667
-
-### Performance issues
-
 
 ### Performance issues
 

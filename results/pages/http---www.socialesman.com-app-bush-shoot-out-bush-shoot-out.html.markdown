@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.socialesman.com/app/bush-shoot-out/bush-shoot-out.html
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Clone doesnt have this page](http://www.socialesman.com/app/bush-shoot-out/bush-shoot-out.html)
 
@@ -29,9 +31,6 @@ title: http://www.socialesman.com/app/bush-shoot-out/bush-shoot-out.html
 *  JS Response Bytes: 824331
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97407
-
-### Performance issues
-
 
 ### Performance issues
 

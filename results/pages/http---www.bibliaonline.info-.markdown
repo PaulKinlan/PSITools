@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bibliaonline.info/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bíblia Online - Estudo Almeida](http://www.bibliaonline.info/)
 
@@ -29,9 +33,6 @@ title: http://www.bibliaonline.info/
 *  JS Response Bytes: 2696771
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 350674
-
-### Performance issues
-
 
 ### Performance issues
 

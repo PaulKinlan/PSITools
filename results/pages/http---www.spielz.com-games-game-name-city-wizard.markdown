@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.spielz.com/games/game/name/city-wizard
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [city-wizard spiele](http://www.spielz.com/games/game/name/city-wizard)
 
@@ -29,9 +35,6 @@ title: http://www.spielz.com/games/game/name/city-wizard
 *  JS Response Bytes: 1830387
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98633
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tubebook.org/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TubeBook.org Social Music](http://www.tubebook.org/)
 
@@ -29,9 +32,6 @@ title: http://www.tubebook.org/
 *  JS Response Bytes: 410748
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1396
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.raz-kids.com/main/Login/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kids Login | Raz-Kids](http://www.raz-kids.com/main/Login/)
 
@@ -29,9 +33,6 @@ title: http://www.raz-kids.com/main/Login/
 *  JS Response Bytes: 494107
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

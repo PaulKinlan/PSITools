@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://newsontv.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [News on TV | News TV Channels](http://newsontv.net/)
 
@@ -29,9 +34,6 @@ title: http://newsontv.net/
 *  JS Response Bytes: 872859
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15345
-
-### Performance issues
-
 
 ### Performance issues
 

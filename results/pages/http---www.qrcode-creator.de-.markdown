@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.qrcode-creator.de/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [QR-Code Generator - Erstelle Deinen eigenen QR-Code](http://www.qrcode-creator.de/)
 
@@ -29,9 +33,6 @@ title: http://www.qrcode-creator.de/
 *  JS Response Bytes: 575829
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15213
-
-### Performance issues
-
 
 ### Performance issues
 

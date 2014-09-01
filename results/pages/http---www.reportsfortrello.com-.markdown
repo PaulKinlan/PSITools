@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.reportsfortrello.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Reports for Trello](http://www.reportsfortrello.com/)
 
@@ -29,9 +32,6 @@ title: http://www.reportsfortrello.com/
 *  JS Response Bytes: 387851
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

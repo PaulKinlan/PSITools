@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.chabad.org/library/article_cdo/aid/2666308/jewish/Forgiveness-by-the-Book.htm
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Forgiveness by the Book - Daily Dose of Wisdom](http://m.chabad.org/library/article_cdo/aid/2666308/jewish/Forgiveness-by-the-Book.htm)
 
@@ -29,9 +31,6 @@ title: http://m.chabad.org/library/article_cdo/aid/2666308/jewish/Forgiveness-by
 *  JS Response Bytes: 1667902
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97630
-
-### Performance issues
-
 
 ### Performance issues
 

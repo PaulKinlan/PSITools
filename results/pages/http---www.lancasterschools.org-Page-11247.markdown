@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.lancasterschools.org/Page/11247
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Information Services / Login Confirmation](http://www.lancasterschools.org/Page/11247)
 
@@ -29,9 +34,6 @@ title: http://www.lancasterschools.org/Page/11247
 *  JS Response Bytes: 675560
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 174
-
-### Performance issues
-
 
 ### Performance issues
 

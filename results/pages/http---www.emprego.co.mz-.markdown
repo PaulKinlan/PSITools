@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.emprego.co.mz/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [emprego.co.mz - Oportunidades de trabalho em Moçambique](http://www.emprego.co.mz/)
 
@@ -29,9 +32,6 @@ title: http://www.emprego.co.mz/
 *  JS Response Bytes: 343962
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

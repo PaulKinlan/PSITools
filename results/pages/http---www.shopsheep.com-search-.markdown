@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.shopsheep.com/search/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ShopSheep - Advanced Search on Amazon](http://www.shopsheep.com/search/)
 
@@ -29,9 +33,6 @@ title: http://www.shopsheep.com/search/
 *  JS Response Bytes: 133472
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26160
-
-### Performance issues
-
 
 ### Performance issues
 

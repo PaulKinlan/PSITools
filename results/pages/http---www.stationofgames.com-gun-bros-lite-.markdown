@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.stationofgames.com/gun-bros-lite/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gun Bros Lite](http://www.stationofgames.com/gun-bros-lite/)
 
@@ -29,9 +35,6 @@ title: http://www.stationofgames.com/gun-bros-lite/
 *  JS Response Bytes: 1852411
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113459
-
-### Performance issues
-
 
 ### Performance issues
 

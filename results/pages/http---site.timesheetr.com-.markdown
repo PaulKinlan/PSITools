@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://site.timesheetr.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Home — Timesheetr](http://site.timesheetr.com/)
 
@@ -29,9 +33,6 @@ title: http://site.timesheetr.com/
 *  JS Response Bytes: 132777
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 993
-
-### Performance issues
-
 
 ### Performance issues
 

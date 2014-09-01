@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.eliteflashgame.com/?p=368
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [eliteflashgame.com](http://www.eliteflashgame.com/?p=368)
 
@@ -29,9 +31,6 @@ title: http://www.eliteflashgame.com/?p=368
 *  JS Response Bytes: 229840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20813
-
-### Performance issues
-
 
 ### Performance issues
 

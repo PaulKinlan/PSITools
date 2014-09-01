@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.encaprichados.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Por Mayor, por Menor. Gran web, grandes productos, mejores precios](http://www.encaprichados.com/)
 
@@ -29,9 +30,6 @@ title: http://www.encaprichados.com/
 *  JS Response Bytes: 136315
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

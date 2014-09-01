@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://office.lakeshoregroup.com/lake/menuweb.cgi?CGIData=lake%7C000001%7C12%7C01%7C
+UseLegibleFontSizes: true
 ---
 ## [401 Authorization Required](http://office.lakeshoregroup.com/lake/menuweb.cgi?CGIData=lake%7C000001%7C12%7C01%7C)
 
@@ -29,9 +30,6 @@ title: http://office.lakeshoregroup.com/lake/menuweb.cgi?CGIData=lake%7C000001%7
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 630
-
-### Performance issues
-
 
 ### Performance issues
 

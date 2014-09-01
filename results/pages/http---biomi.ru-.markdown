@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://biomi.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Кавказская доска бесплатных объявлений](http://biomi.ru/)
 
@@ -29,9 +33,6 @@ title: http://biomi.ru/
 *  JS Response Bytes: 31572
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3575
-
-### Performance issues
-
 
 ### Performance issues
 

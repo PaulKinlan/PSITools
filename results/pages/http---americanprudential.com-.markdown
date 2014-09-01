@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://americanprudential.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [American Prudential Capital, Inc.](http://americanprudential.com/)
 
@@ -29,9 +31,6 @@ title: http://americanprudential.com/
 *  JS Response Bytes: 1226251
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39446
-
-### Performance issues
-
 
 ### Performance issues
 

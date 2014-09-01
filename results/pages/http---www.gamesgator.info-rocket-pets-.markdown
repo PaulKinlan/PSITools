@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.info/rocket-pets/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rocket Pets](http://www.gamesgator.info/rocket-pets/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.info/rocket-pets/
 *  JS Response Bytes: 1083991
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43698
-
-### Performance issues
-
 
 ### Performance issues
 

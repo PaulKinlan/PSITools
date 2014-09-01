@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.in-mobility.com/app/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [In-Mobility](https://www.in-mobility.com/app/)
 
@@ -29,9 +31,6 @@ title: https://www.in-mobility.com/app/
 *  JS Response Bytes: 897835
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

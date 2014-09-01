@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.socialesman.com/app/boom-boom-volleyball/boom-boom-volleyball.html
+MinimizeRenderBlockingResources: true
 ---
 ## [Clone doesnt have this page](http://www.socialesman.com/app/boom-boom-volleyball/boom-boom-volleyball.html)
 
@@ -29,9 +30,6 @@ title: http://www.socialesman.com/app/boom-boom-volleyball/boom-boom-volleyball.
 *  JS Response Bytes: 824332
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97406
-
-### Performance issues
-
 
 ### Performance issues
 

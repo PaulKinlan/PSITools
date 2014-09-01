@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://english-french-dictionary.herokuapp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [English - French Dictionary on Chrome](http://english-french-dictionary.herokuapp.com/)
 
@@ -29,9 +33,6 @@ title: http://english-french-dictionary.herokuapp.com/
 *  JS Response Bytes: 1571206
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110186
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://quickmap.me/lastfm/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WallPapers](http://quickmap.me/lastfm/)
 
@@ -29,9 +34,6 @@ title: http://quickmap.me/lastfm/
 *  JS Response Bytes: 180616
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 210
-
-### Performance issues
-
 
 ### Performance issues
 

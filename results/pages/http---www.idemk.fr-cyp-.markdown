@@ -33,8 +33,5 @@ title: http://www.idemk.fr/cyp/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/age-of-defense-3/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Age Of Defense 3](http://www.war-games.ws/age-of-defense-3/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/age-of-defense-3/
 *  JS Response Bytes: 2292972
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122402
-
-### Performance issues
-
 
 ### Performance issues
 

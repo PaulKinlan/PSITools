@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ntfusion.net/casual-games/funny-bunny.html?utm_campaign=funny-bunny&utm_medium=app&utm_source=cws
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Funny Bunny - NTFusion](http://www.ntfusion.net/casual-games/funny-bunny.html?utm_campaign=funny-bunny&utm_medium=app&utm_source=cws)
 
@@ -29,9 +34,6 @@ title: http://www.ntfusion.net/casual-games/funny-bunny.html?utm_campaign=funny-
 *  JS Response Bytes: 2470260
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125463
-
-### Performance issues
-
 
 ### Performance issues
 

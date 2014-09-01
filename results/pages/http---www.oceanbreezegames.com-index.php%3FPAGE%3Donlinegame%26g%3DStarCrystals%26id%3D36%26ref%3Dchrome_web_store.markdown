@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.oceanbreezegames.com/index.php?PAGE=onlinegame&g=StarCrystals&id=36&ref=chrome_web_store
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Star Crystals Online Game](http://www.oceanbreezegames.com/index.php?PAGE=onlinegame&g=StarCrystals&id=36&ref=chrome_web_store)
 
@@ -29,9 +33,6 @@ title: http://www.oceanbreezegames.com/index.php?PAGE=onlinegame&g=StarCrystals&
 *  JS Response Bytes: 951589
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99796
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://webcam-toy.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [fernanda bcrr](http://webcam-toy.blogspot.com/?m=1)
 
@@ -22,16 +24,13 @@ title: http://webcam-toy.blogspot.com/?m=1
 
 ### Response data
 
-*  HTML Response Bytes: 65597
+*  HTML Response Bytes: 64186
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 66778
-*  Image Response Bytes: 135269
-*  JS Response Bytes: 791504
+*  CSS Response Bytes: 66777
+*  Image Response Bytes: 135268
+*  JS Response Bytes: 791370
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 287109
-
-### Performance issues
-
+*  Other Response Bytes: 287108
 
 ### Performance issues
 

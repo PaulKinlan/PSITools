@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.online-icon-resizer.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online icon resizer - android iphone windows phone blackberry](http://www.online-icon-resizer.com/)
 
@@ -29,9 +32,6 @@ title: http://www.online-icon-resizer.com/
 *  JS Response Bytes: 1489829
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110993
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.hotlinerz.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [HotLinerz's Dance-Log - Let's burn the dance floor](http://www.hotlinerz.com/)
 
@@ -29,9 +30,6 @@ title: http://www.hotlinerz.com/
 *  JS Response Bytes: 339697
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 862
-
-### Performance issues
-
 
 ### Performance issues
 

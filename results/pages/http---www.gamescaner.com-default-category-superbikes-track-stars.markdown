@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamescaner.com/default-category/superbikes-track-stars
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Superbikes Track Stars - Gamescaner.com](http://www.gamescaner.com/default-category/superbikes-track-stars)
 
@@ -29,9 +34,6 @@ title: http://www.gamescaner.com/default-category/superbikes-track-stars
 *  JS Response Bytes: 677262
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15606
-
-### Performance issues
-
 
 ### Performance issues
 

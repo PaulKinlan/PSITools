@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://jobsimatch.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Jobs i Match: Dedicated to helping people find jobs that match their skills!](http://jobsimatch.com/)
 
@@ -29,9 +33,6 @@ title: http://jobsimatch.com/
 *  JS Response Bytes: 719288
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 73788
-
-### Performance issues
-
 
 ### Performance issues
 

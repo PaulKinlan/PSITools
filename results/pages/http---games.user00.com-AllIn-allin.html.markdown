@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://games.user00.com/AllIn/allin.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [All-In](http://games.user00.com/AllIn/allin.html)
 
@@ -29,9 +32,6 @@ title: http://games.user00.com/AllIn/allin.html
 *  JS Response Bytes: 1374068
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109860
-
-### Performance issues
-
 
 ### Performance issues
 

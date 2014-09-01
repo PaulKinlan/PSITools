@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.28amar46.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [28Amar46 - Hear Our Voices](http://www.28amar46.com/)
 
@@ -29,9 +32,6 @@ title: http://www.28amar46.com/
 *  JS Response Bytes: 251507
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

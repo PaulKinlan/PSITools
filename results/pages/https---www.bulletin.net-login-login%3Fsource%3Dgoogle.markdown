@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.bulletin.net/login/login?source=google
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login : Bulletin.net | Bulletin.net](https://www.bulletin.net/login/login?source=google)
 
@@ -29,9 +33,6 @@ title: https://www.bulletin.net/login/login?source=google
 *  JS Response Bytes: 492734
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7407
-
-### Performance issues
-
 
 ### Performance issues
 

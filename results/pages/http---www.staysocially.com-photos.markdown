@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.staysocially.com/photos
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Staysocially.com](http://www.staysocially.com/photos)
 
@@ -29,9 +34,6 @@ title: http://www.staysocially.com/photos
 *  JS Response Bytes: 269642
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

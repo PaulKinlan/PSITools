@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://antiretro.es/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ANTIRETRO](http://antiretro.es/)
 
@@ -29,9 +36,6 @@ title: http://antiretro.es/
 *  JS Response Bytes: 744892
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16894
-
-### Performance issues
-
 
 ### Performance issues
 

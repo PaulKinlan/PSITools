@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://games-draw.com/asphalt-8-airborne.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games-Draw.Com – Asphalt 8: Airborne](http://games-draw.com/asphalt-8-airborne.html)
 
@@ -29,9 +36,6 @@ title: http://games-draw.com/asphalt-8-airborne.html
 *  JS Response Bytes: 370478
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 65991
-
-### Performance issues
-
 
 ### Performance issues
 

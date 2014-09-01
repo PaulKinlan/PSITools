@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.digsolitaire.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Solitaire Online at DigSolitaire](http://www.digsolitaire.com/)
 
@@ -29,9 +32,6 @@ title: http://www.digsolitaire.com/
 *  JS Response Bytes: 1968931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112375
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/feudalism-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Feudalism 2](http://www.war-games.ws/feudalism-2/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/feudalism-2/
 *  JS Response Bytes: 2291830
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 123169
-
-### Performance issues
-
 
 ### Performance issues
 

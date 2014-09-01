@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.fusteeno.com/google-oauth2
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [fusteeno.com](http://www.fusteeno.com/google-oauth2)
 
@@ -29,9 +33,6 @@ title: http://www.fusteeno.com/google-oauth2
 *  JS Response Bytes: 181044
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

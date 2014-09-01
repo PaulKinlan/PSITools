@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://manage-users.goodpractice.net/login?returnUrl=/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Manage Users - Login](https://manage-users.goodpractice.net/login?returnUrl=/)
 
@@ -29,9 +32,6 @@ title: https://manage-users.goodpractice.net/login?returnUrl=/
 *  JS Response Bytes: 138244
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 190
-
-### Performance issues
-
 
 ### Performance issues
 

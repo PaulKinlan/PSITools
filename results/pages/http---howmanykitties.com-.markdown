@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://howmanykitties.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [How Many Kitties | A Unit Converter From Anything to Kitties](http://howmanykitties.com/)
 
@@ -29,9 +36,6 @@ title: http://howmanykitties.com/
 *  JS Response Bytes: 1382033
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98115
-
-### Performance issues
-
 
 ### Performance issues
 

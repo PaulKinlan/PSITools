@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.coreonline.com/gyromancer/?utm_source=CWS&utm_medium=Launcher&utm_campaign=Gyromancer
+UseLegibleFontSizes: true
 ---
 ## [403 Forbidden](http://www.coreonline.com/gyromancer/?utm_source=CWS&utm_medium=Launcher&utm_campaign=Gyromancer)
 
@@ -29,9 +30,6 @@ title: http://www.coreonline.com/gyromancer/?utm_source=CWS&utm_medium=Launcher&
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 549
-
-### Performance issues
-
 
 ### Performance issues
 

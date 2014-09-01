@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.addthis.com/login?next=%2Fanalytics%2Fsummary
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sign In | AddThis](https://www.addthis.com/login?next=%2Fanalytics%2Fsummary)
 
@@ -29,9 +33,6 @@ title: https://www.addthis.com/login?next=%2Fanalytics%2Fsummary
 *  JS Response Bytes: 735577
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54229
-
-### Performance issues
-
 
 ### Performance issues
 

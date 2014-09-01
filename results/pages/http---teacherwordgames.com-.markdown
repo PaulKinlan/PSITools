@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://teacherwordgames.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Teacher Word Games - Games for your classroom](http://teacherwordgames.com/)
 
@@ -29,9 +32,6 @@ title: http://teacherwordgames.com/
 *  JS Response Bytes: 186765
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55417
-
-### Performance issues
-
 
 ### Performance issues
 

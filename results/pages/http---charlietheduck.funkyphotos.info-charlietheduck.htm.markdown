@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://charlietheduck.funkyphotos.info/charlietheduck.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Charlie the Duck Platform Game](http://charlietheduck.funkyphotos.info/charlietheduck.htm)
 
@@ -29,9 +35,6 @@ title: http://charlietheduck.funkyphotos.info/charlietheduck.htm
 *  JS Response Bytes: 587584
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96786
-
-### Performance issues
-
 
 ### Performance issues
 

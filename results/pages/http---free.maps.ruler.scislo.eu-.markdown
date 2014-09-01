@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://free.maps.ruler.scislo.eu/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free Maps Ruler](http://free.maps.ruler.scislo.eu/)
 
@@ -29,9 +33,6 @@ title: http://free.maps.ruler.scislo.eu/
 *  JS Response Bytes: 1307119
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54545
-
-### Performance issues
-
 
 ### Performance issues
 

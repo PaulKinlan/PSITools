@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://twolk.leenders.info/connect.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [Twolk](http://twolk.leenders.info/connect.php)
 
@@ -29,9 +32,6 @@ title: http://twolk.leenders.info/connect.php
 *  JS Response Bytes: 45537
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 994
-
-### Performance issues
-
 
 ### Performance issues
 

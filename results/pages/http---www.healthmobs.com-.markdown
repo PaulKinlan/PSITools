@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.healthmobs.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [](http://www.healthmobs.com/)
 
@@ -29,9 +31,6 @@ title: http://www.healthmobs.com/
 *  JS Response Bytes: 267777
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

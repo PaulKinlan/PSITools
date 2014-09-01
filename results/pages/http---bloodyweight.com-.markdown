@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://bloodyweight.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Bloody Weight - online body weight tracker](http://bloodyweight.com/)
 
@@ -29,9 +31,6 @@ title: http://bloodyweight.com/
 *  JS Response Bytes: 156895
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3497
-
-### Performance issues
-
 
 ### Performance issues
 

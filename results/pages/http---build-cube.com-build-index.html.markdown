@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://build-cube.com/build/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Build-Cube Builder](http://build-cube.com/build/index.html)
 
@@ -29,9 +33,6 @@ title: http://build-cube.com/build/index.html
 *  JS Response Bytes: 369235
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100657
-
-### Performance issues
-
 
 ### Performance issues
 

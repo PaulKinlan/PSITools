@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/super-soccer-star-penalty/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Soccer Star Penalty Game](http://www.footballgam.es/super-soccer-star-penalty/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/super-soccer-star-penalty/
 *  JS Response Bytes: 2296917
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 157400
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://es.wordpress.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [WordPress.com: consigue aquí un sitio web y un blog gratuitos](https://es.wordpress.com/)
 
@@ -18,20 +22,17 @@ title: https://es.wordpress.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 13
-*  Total Request Bytes: 3088
+*  Total Request Bytes: 3087
 
 ### Response data
 
-*  HTML Response Bytes: 12588
+*  HTML Response Bytes: 12587
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 48587
-*  Image Response Bytes: 192825
-*  JS Response Bytes: 327150
+*  Image Response Bytes: 192826
+*  JS Response Bytes: 327230
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 44387
-
-### Performance issues
-
+*  Other Response Bytes: 44390
 
 ### Performance issues
 

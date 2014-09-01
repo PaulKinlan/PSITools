@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://plantsvszombies2online.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://plantsvszombies2online.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://plantsvszombies2online.blogspot.com/?m=1
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18810
-
-### Performance issues
-
 
 ### Performance issues
 

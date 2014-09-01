@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_1909_Boxing-Bonanza.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Boxing Bonanza Flash Games](http://www.newpopulargames.com/game_1909_Boxing-Bonanza.html)
 
@@ -29,9 +34,6 @@ title: http://www.newpopulargames.com/game_1909_Boxing-Bonanza.html
 *  JS Response Bytes: 1377634
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118759
-
-### Performance issues
-
 
 ### Performance issues
 

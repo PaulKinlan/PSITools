@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://itest.interactiveachievement.net/VA_CARROLL/v7/secure/
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [iTest 7](http://itest.interactiveachievement.net/VA_CARROLL/v7/secure/)
 
@@ -29,9 +31,6 @@ title: http://itest.interactiveachievement.net/VA_CARROLL/v7/secure/
 *  JS Response Bytes: 25825
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2331
-
-### Performance issues
-
 
 ### Performance issues
 

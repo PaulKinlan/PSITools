@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://shop.fts.it/it/cms
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [FTS Ecommerce - Homepage](http://shop.fts.it/it/cms)
 
@@ -29,9 +32,6 @@ title: http://shop.fts.it/it/cms
 *  JS Response Bytes: 332691
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40265
-
-### Performance issues
-
 
 ### Performance issues
 

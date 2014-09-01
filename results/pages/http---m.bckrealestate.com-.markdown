@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.bckrealestate.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [BCK Real Estate](http://m.bckrealestate.com/)
 
@@ -29,9 +32,6 @@ title: http://m.bckrealestate.com/
 *  JS Response Bytes: 697098
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2609
-
-### Performance issues
-
 
 ### Performance issues
 

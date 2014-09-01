@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://minecraftnew-online.blogspot.com.tr/2014/04/temple-run.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [minecraft full hd game: Temple Run](http://minecraftnew-online.blogspot.com.tr/2014/04/temple-run.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://minecraftnew-online.blogspot.com.tr/2014/04/temple-run.html?m=1
 *  JS Response Bytes: 720877
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95591
-
-### Performance issues
-
 
 ### Performance issues
 

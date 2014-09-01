@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://same.greweb.fr/game/chromeapp
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://same.greweb.fr/game/chromeapp)
 
@@ -29,9 +30,6 @@ title: http://same.greweb.fr/game/chromeapp
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331
-
-### Performance issues
-
 
 ### Performance issues
 

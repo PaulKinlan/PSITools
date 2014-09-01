@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://app.daytrip.it/?chrome
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [daytrip.it](http://app.daytrip.it/?chrome)
 
@@ -29,9 +32,6 @@ title: http://app.daytrip.it/?chrome
 *  JS Response Bytes: 209184
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

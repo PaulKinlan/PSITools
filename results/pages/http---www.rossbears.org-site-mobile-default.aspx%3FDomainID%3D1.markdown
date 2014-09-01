@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.rossbears.org/site/mobile/default.aspx?DomainID=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
 ---
 ## [Ross School District](http://www.rossbears.org/site/mobile/default.aspx?DomainID=1)
 
@@ -29,9 +33,6 @@ title: http://www.rossbears.org/site/mobile/default.aspx?DomainID=1
 *  JS Response Bytes: 216943
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1386
-
-### Performance issues
-
 
 ### Performance issues
 

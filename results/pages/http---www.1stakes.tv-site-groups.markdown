@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.1stakes.tv/site/groups
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [1sTAKES: All Projects](http://www.1stakes.tv/site/groups)
 
@@ -29,9 +33,6 @@ title: http://www.1stakes.tv/site/groups
 *  JS Response Bytes: 494572
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 485
-
-### Performance issues
-
 
 ### Performance issues
 

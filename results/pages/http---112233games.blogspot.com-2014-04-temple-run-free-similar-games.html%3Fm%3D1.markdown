@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://112233games.blogspot.com/2014/04/temple-run-free-similar-games.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Online games, card games, casino games, free games: Temple Run Free similar games](http://112233games.blogspot.com/2014/04/temple-run-free-similar-games.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://112233games.blogspot.com/2014/04/temple-run-free-similar-games.htm
 *  JS Response Bytes: 762198
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95606
-
-### Performance issues
-
 
 ### Performance issues
 

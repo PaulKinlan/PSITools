@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://landoftechnology.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Land of Technology | Technology based News, View & Reviews](http://landoftechnology.com/)
 
@@ -29,9 +34,6 @@ title: http://landoftechnology.com/
 *  JS Response Bytes: 1553911
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 318925
-
-### Performance issues
-
 
 ### Performance issues
 

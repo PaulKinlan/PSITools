@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.nocnabasen.sk/dvesto/
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [502 Bad Gateway](http://www.nocnabasen.sk/dvesto/)
 
@@ -29,9 +31,6 @@ title: http://www.nocnabasen.sk/dvesto/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 494
-
-### Performance issues
-
 
 ### Performance issues
 

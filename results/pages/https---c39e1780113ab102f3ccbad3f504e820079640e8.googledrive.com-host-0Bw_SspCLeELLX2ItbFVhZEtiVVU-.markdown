@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://c39e1780113ab102f3ccbad3f504e820079640e8.googledrive.com/host/0Bw_SspCLeELLX2ItbFVhZEtiVVU/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Framing Problems](https://c39e1780113ab102f3ccbad3f504e820079640e8.googledrive.com/host/0Bw_SspCLeELLX2ItbFVhZEtiVVU/)
 
@@ -29,9 +31,6 @@ title: https://c39e1780113ab102f3ccbad3f504e820079640e8.googledrive.com/host/0Bw
 *  JS Response Bytes: 578548
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13111
-
-### Performance issues
-
 
 ### Performance issues
 

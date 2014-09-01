@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ouvirmusica.com.br/#412762/6260170
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Quero Ser Feliz Também - Natiruts | Ouvir Música](http://www.ouvirmusica.com.br/#412762/6260170)
 
@@ -29,9 +32,6 @@ title: http://www.ouvirmusica.com.br/#412762/6260170
 *  JS Response Bytes: 2638451
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18066
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.veryfamousgames.com/action/gladiator-true-story#.U_uieU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gladiator True Story - veryfamousgames](http://www.veryfamousgames.com/action/gladiator-true-story#.U_uieU0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.veryfamousgames.com/action/gladiator-true-story#.U_uieU0ieKA
 *  JS Response Bytes: 1029169
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15456
-
-### Performance issues
-
 
 ### Performance issues
 

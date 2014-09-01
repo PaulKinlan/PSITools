@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamesocket.geek.nz/index.php?action=arcade
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [GameSocket - List of Games](http://www.gamesocket.geek.nz/index.php?action=arcade)
 
@@ -29,9 +33,6 @@ title: http://www.gamesocket.geek.nz/index.php?action=arcade
 *  JS Response Bytes: 1189833
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17628
-
-### Performance issues
-
 
 ### Performance issues
 

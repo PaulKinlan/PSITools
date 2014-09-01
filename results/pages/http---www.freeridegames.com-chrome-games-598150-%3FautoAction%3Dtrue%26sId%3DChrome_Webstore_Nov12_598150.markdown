@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/598150/?autoAction=true&sId=Chrome_Webstore_Nov12_598150
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Sudoku Quest for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/598150/?autoAction=true&sId=Chrome_Webstore_Nov12_598150)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/598150/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1525394
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 36386
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chromegamesmaniac.blogspot.com/2013/08/temple-run.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [chromegamesmaniac: Temple Run](http://chromegamesmaniac.blogspot.com/2013/08/temple-run.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://chromegamesmaniac.blogspot.com/2013/08/temple-run.html?m=1
 *  JS Response Bytes: 1067608
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97986
-
-### Performance issues
-
 
 ### Performance issues
 

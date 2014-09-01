@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://fs-redirect.aqquadro.appspot.com/fs_redirect
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://fs-redirect.aqquadro.appspot.com/fs_redirect)
 
@@ -29,9 +30,6 @@ title: http://fs-redirect.aqquadro.appspot.com/fs_redirect
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 445
-
-### Performance issues
-
 
 ### Performance issues
 

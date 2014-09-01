@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://fullofgames.net/game/dd-tank-/114/cpvid=caddt&ts=ca
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://fullofgames.net/game/dd-tank-/114/cpvid=caddt&ts=ca)
 
@@ -29,9 +31,6 @@ title: http://fullofgames.net/game/dd-tank-/114/cpvid=caddt&ts=ca
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

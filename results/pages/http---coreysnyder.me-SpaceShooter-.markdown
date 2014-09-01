@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://coreysnyder.me/SpaceShooter/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
 ---
 ## [Space Shoot 'Em](http://coreysnyder.me/SpaceShooter/)
 
@@ -29,9 +32,6 @@ title: http://coreysnyder.me/SpaceShooter/
 *  JS Response Bytes: 600252
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58897
-
-### Performance issues
-
 
 ### Performance issues
 

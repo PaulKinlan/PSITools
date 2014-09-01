@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://torcheurcorp.free.fr/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Torcheur Corporation Website](http://torcheurcorp.free.fr/)
 
@@ -29,9 +32,6 @@ title: http://torcheurcorp.free.fr/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

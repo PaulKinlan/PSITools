@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.salon.com/chromeo/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Salon.com](http://www.salon.com/chromeo/)
 
@@ -29,9 +35,6 @@ title: http://www.salon.com/chromeo/
 *  JS Response Bytes: 1360121
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25064
-
-### Performance issues
-
 
 ### Performance issues
 

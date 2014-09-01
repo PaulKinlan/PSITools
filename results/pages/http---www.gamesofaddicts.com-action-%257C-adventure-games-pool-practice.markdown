@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesofaddicts.com/action-%7C-adventure-games/pool-practice
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | Gamesogaddicts.com | Play Most Popular Games Free](http://www.gamesofaddicts.com/action-%7C-adventure-games/pool-practice)
 
@@ -29,9 +35,6 @@ title: http://www.gamesofaddicts.com/action-%7C-adventure-games/pool-practice
 *  JS Response Bytes: 1370911
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3436
-
-### Performance issues
-
 
 ### Performance issues
 

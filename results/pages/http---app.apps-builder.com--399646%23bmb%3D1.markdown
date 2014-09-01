@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://app.apps-builder.com//399646#bmb=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Miss.Church.Grace](http://app.apps-builder.com//399646#bmb=1)
 
@@ -29,9 +33,6 @@ title: http://app.apps-builder.com//399646#bmb=1
 *  JS Response Bytes: 1118041
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2779
-
-### Performance issues
-
 
 ### Performance issues
 

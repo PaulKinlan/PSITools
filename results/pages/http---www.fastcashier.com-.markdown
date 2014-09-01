@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.fastcashier.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Small Business and Personal Finance Software | FastCashier](http://www.fastcashier.com/)
 
@@ -29,9 +33,6 @@ title: http://www.fastcashier.com/
 *  JS Response Bytes: 472194
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.hotel.se.net/se
+MinimizeRenderBlockingResources: true
 ---
 ## [hotel.se.net - hotel Resources and Information. This website is for sale!](http://www.hotel.se.net/se)
 
@@ -29,9 +30,6 @@ title: http://www.hotel.se.net/se
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

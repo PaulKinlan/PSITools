@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://cotidianolinux.com.br/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Cotidiano Linux | Blog criado para anotações das descobertas e experiências cotidianas no mundo Linux!](http://cotidianolinux.com.br/)
 
@@ -29,9 +32,6 @@ title: http://cotidianolinux.com.br/
 *  JS Response Bytes: 126561
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 742
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.spielz.com/games/game/name/wolverine-x-men
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [wolverine-x-men spiele](http://www.spielz.com/games/game/name/wolverine-x-men)
 
@@ -29,9 +34,6 @@ title: http://www.spielz.com/games/game/name/wolverine-x-men
 *  JS Response Bytes: 1830520
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98567
-
-### Performance issues
-
 
 ### Performance issues
 

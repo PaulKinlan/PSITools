@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.justhappygames.com/category/7
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Defense - Just Happy Games](http://www.justhappygames.com/category/7)
 
@@ -29,9 +32,6 @@ title: http://www.justhappygames.com/category/7
 *  JS Response Bytes: 646938
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

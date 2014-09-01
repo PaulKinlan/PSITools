@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.easygames.us/default-category/crazy-racers
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crazy Racers - Easy Games](http://www.easygames.us/default-category/crazy-racers)
 
@@ -29,9 +36,6 @@ title: http://www.easygames.us/default-category/crazy-racers
 *  JS Response Bytes: 1879285
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113171
-
-### Performance issues
-
 
 ### Performance issues
 

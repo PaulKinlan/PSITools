@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://boxhdgames.blogspot.com/2013/08/skateboard-slip-stream.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [BOX HD GAMES: Skateboard Slip Stream](http://boxhdgames.blogspot.com/2013/08/skateboard-slip-stream.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://boxhdgames.blogspot.com/2013/08/skateboard-slip-stream.html?m=1
 *  JS Response Bytes: 1270527
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111039
-
-### Performance issues
-
 
 ### Performance issues
 

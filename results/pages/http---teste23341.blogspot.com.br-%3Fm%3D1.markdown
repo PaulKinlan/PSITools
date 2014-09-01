@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://teste23341.blogspot.com.br/?m=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Vinicius Teste](http://teste23341.blogspot.com.br/?m=1)
 
@@ -29,9 +31,6 @@ title: http://teste23341.blogspot.com.br/?m=1
 *  JS Response Bytes: 1182323
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2023
-
-### Performance issues
-
 
 ### Performance issues
 

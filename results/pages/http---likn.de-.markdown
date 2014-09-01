@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://likn.de/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [LIKN | Links kürzen und schützen](http://likn.de/)
 
@@ -29,9 +32,6 @@ title: http://likn.de/
 *  JS Response Bytes: 145322
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://isitchristmas.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Is it Christmas?](https://isitchristmas.com/)
 
@@ -29,9 +31,6 @@ title: https://isitchristmas.com/
 *  JS Response Bytes: 121336
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 354
-
-### Performance issues
-
 
 ### Performance issues
 

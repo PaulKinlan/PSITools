@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://soldiers-inc.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Soldiers Inc. Online](http://soldiers-inc.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://soldiers-inc.appspot.com/
 *  JS Response Bytes: 1375384
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 559708
-
-### Performance issues
-
 
 ### Performance issues
 

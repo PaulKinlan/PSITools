@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.cargames365.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Car Games: Free To Play Online](http://www.cargames365.org/)
 
@@ -29,9 +33,6 @@ title: http://www.cargames365.org/
 *  JS Response Bytes: 873271
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

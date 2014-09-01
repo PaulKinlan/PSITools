@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.simulscan.com/chrome/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Simulscan 4.0](http://www.simulscan.com/chrome/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.simulscan.com/chrome/index.html
 *  JS Response Bytes: 1947835
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 473
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gamesisi.com/?=404;http://gamesisi.com:80/cargo-bridge-2.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [gamesisi.com](http://gamesisi.com/?=404;http://gamesisi.com:80/cargo-bridge-2.html&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://gamesisi.com/?=404;http://gamesisi.com:80/cargo-bridge-2.html&reqp
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102
-
-### Performance issues
-
 
 ### Performance issues
 

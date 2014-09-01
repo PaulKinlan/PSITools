@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.techiestown.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mobile Apps Development | Web Development Company | Open source Web Development](http://www.techiestown.com/)
 
@@ -29,9 +35,6 @@ title: http://www.techiestown.com/
 *  JS Response Bytes: 443374
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

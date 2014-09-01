@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kazi.no/slots/tiger-moon/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tiger Moon @ Kazi.noKazi.no](http://www.kazi.no/slots/tiger-moon/)
 
@@ -29,9 +34,6 @@ title: http://www.kazi.no/slots/tiger-moon/
 *  JS Response Bytes: 1165564
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141016
-
-### Performance issues
-
 
 ### Performance issues
 

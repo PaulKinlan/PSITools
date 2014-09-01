@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.webstoregames.com/flash-games/gun-blood.php
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gun Blood - Free Games Online, Free Online Games, Flash Games!](http://www.webstoregames.com/flash-games/gun-blood.php)
 
@@ -29,9 +35,6 @@ title: http://www.webstoregames.com/flash-games/gun-blood.php
 *  JS Response Bytes: 1414771
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114726
-
-### Performance issues
-
 
 ### Performance issues
 

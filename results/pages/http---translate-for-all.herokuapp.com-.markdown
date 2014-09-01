@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://translate-for-all.herokuapp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Translate For All](http://translate-for-all.herokuapp.com/)
 
@@ -29,9 +33,6 @@ title: http://translate-for-all.herokuapp.com/
 *  JS Response Bytes: 1451902
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110949
-
-### Performance issues
-
 
 ### Performance issues
 

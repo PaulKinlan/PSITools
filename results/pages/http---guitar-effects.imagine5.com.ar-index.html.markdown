@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://guitar-effects.imagine5.com.ar/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Guitar-Effects](http://guitar-effects.imagine5.com.ar/index.html)
 
@@ -29,9 +32,6 @@ title: http://guitar-effects.imagine5.com.ar/index.html
 *  JS Response Bytes: 56642
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

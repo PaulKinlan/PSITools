@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/waterski-championship/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Waterski Championship game](http://www.skateboarding-games.biz/waterski-championship/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/waterski-championship/
 *  JS Response Bytes: 2123706
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121354
-
-### Performance issues
-
 
 ### Performance issues
 

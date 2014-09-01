@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.localfoody.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [LocalFoody](http://www.localfoody.net/)
 
@@ -29,9 +32,6 @@ title: http://www.localfoody.net/
 *  JS Response Bytes: 795036
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54522
-
-### Performance issues
-
 
 ### Performance issues
 

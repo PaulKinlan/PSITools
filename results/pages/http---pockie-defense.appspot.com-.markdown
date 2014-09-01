@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://pockie-defense.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Pockie Defense Online](http://pockie-defense.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://pockie-defense.appspot.com/
 *  JS Response Bytes: 1132509
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44231
-
-### Performance issues
-
 
 ### Performance issues
 

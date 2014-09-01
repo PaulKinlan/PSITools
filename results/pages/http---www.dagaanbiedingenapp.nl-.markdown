@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.dagaanbiedingenapp.nl/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DagaanbiedingenApp.nl - Alle dagaanbiedingen in een overzicht](http://www.dagaanbiedingenapp.nl/)
 
@@ -29,9 +34,6 @@ title: http://www.dagaanbiedingenapp.nl/
 *  JS Response Bytes: 819230
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gooyunlar.net/55/coaster-racer-3/
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gooyunlar.net](http://www.gooyunlar.net/55/coaster-racer-3/)
 
@@ -29,9 +33,6 @@ title: http://www.gooyunlar.net/55/coaster-racer-3/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

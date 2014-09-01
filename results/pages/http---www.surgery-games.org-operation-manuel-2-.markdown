@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.surgery-games.org/operation-manuel-2/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Operation Manuel game](http://www.surgery-games.org/operation-manuel-2/)
 
@@ -29,9 +36,6 @@ title: http://www.surgery-games.org/operation-manuel-2/
 *  JS Response Bytes: 2429160
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114883
-
-### Performance issues
-
 
 ### Performance issues
 

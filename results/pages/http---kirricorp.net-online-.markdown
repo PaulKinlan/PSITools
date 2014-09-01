@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://kirricorp.net/online/
+AvoidPlugins: true
 ---
 ## [Kirricorp Portal!](http://kirricorp.net/online/)
 
@@ -29,9 +30,6 @@ title: http://kirricorp.net/online/
 *  JS Response Bytes: 25852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 518
-
-### Performance issues
-
 
 ### Performance issues
 

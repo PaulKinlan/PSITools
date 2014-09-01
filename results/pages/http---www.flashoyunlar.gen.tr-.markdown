@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.flashoyunlar.gen.tr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Oyun, oyunlar, oyun oyna, flash oyunlar](http://www.flashoyunlar.gen.tr/)
 
@@ -18,20 +23,17 @@ title: http://www.flashoyunlar.gen.tr/
 *  Number of JS Resources: 16
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 99
-*  Total Request Bytes: 10524
+*  Total Request Bytes: 10512
 
 ### Response data
 
-*  HTML Response Bytes: 75716
+*  HTML Response Bytes: 75784
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 14386
-*  Image Response Bytes: 1853096
-*  JS Response Bytes: 808637
+*  Image Response Bytes: 1853095
+*  JS Response Bytes: 807991
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 48749
-
-### Performance issues
-
+*  Other Response Bytes: 48758
 
 ### Performance issues
 

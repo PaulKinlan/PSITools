@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.symphonyhr.com/cgi-sys/suspendedpage.cgi
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Account Suspended](http://www.symphonyhr.com/cgi-sys/suspendedpage.cgi)
 
@@ -18,7 +20,7 @@ title: http://www.symphonyhr.com/cgi-sys/suspendedpage.cgi
 *  Number of JS Resources: 0
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 0
-*  Total Request Bytes: 291
+*  Total Request Bytes: 296
 
 ### Response data
 
@@ -29,9 +31,6 @@ title: http://www.symphonyhr.com/cgi-sys/suspendedpage.cgi
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5740
-
-### Performance issues
-
 
 ### Performance issues
 

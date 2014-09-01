@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://dagamingblog4u.blogspot.com/2013/11/call-of-duty-ghosts-game-free-online.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Gaming Blog: Call of Duty : Ghosts Game Free Online Play](http://dagamingblog4u.blogspot.com/2013/11/call-of-duty-ghosts-game-free-online.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://dagamingblog4u.blogspot.com/2013/11/call-of-duty-ghosts-game-free-
 *  JS Response Bytes: 1121171
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96265
-
-### Performance issues
-
 
 ### Performance issues
 

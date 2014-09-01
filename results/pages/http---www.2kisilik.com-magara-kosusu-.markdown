@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2kisilik.com/magara-kosusu/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [2 kişilik Mağara Koşusu oyunu](http://www.2kisilik.com/magara-kosusu/)
 
@@ -29,9 +34,6 @@ title: http://www.2kisilik.com/magara-kosusu/
 *  JS Response Bytes: 2660565
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 152383
-
-### Performance issues
-
 
 ### Performance issues
 

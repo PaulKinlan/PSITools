@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://iyg.sph.uth.tmc.edu/P4OBM6E0A0ASGLA60HHVEEO
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Lessons | It’s Your Game](https://iyg.sph.uth.tmc.edu/P4OBM6E0A0ASGLA60HHVEEO)
 
@@ -29,9 +32,6 @@ title: https://iyg.sph.uth.tmc.edu/P4OBM6E0A0ASGLA60HHVEEO
 *  JS Response Bytes: 106853
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18438
-
-### Performance issues
-
 
 ### Performance issues
 

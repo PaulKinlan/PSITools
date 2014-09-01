@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://hi5drive.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](https://hi5drive.appspot.com/)
 
@@ -29,9 +34,6 @@ title: https://hi5drive.appspot.com/
 *  JS Response Bytes: 481674
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

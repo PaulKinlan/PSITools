@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://pdfmerge.w69b.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PDF Mergy - WebApp to merge PDF files](https://pdfmerge.w69b.com/)
 
@@ -29,9 +32,6 @@ title: https://pdfmerge.w69b.com/
 *  JS Response Bytes: 1893417
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 307531
-
-### Performance issues
-
 
 ### Performance issues
 

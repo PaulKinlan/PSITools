@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://gocommunicate.accessacloud.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Sazneo;](https://gocommunicate.accessacloud.com/)
 
@@ -29,9 +31,6 @@ title: https://gocommunicate.accessacloud.com/
 *  JS Response Bytes: 371605
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 629
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://piicscreen.waluu.com/?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Liste des contributions](http://piicscreen.waluu.com/?m=1)
 
@@ -29,9 +33,6 @@ title: http://piicscreen.waluu.com/?m=1
 *  JS Response Bytes: 902572
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4368
-
-### Performance issues
-
 
 ### Performance issues
 

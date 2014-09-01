@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_780_Pacman-3D-Special.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mario Shoot Zombie Flash Games](http://www.newpopulargames.com/game_780_Pacman-3D-Special.html)
 
@@ -29,9 +34,6 @@ title: http://www.newpopulargames.com/game_780_Pacman-3D-Special.html
 *  JS Response Bytes: 1522559
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113653
-
-### Performance issues
-
 
 ### Performance issues
 

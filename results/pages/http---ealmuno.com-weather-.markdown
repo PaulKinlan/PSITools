@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ealmuno.com/weather/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Weather Yahoo API](http://ealmuno.com/weather/)
 
@@ -29,9 +33,6 @@ title: http://ealmuno.com/weather/
 *  JS Response Bytes: 482444
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15843
-
-### Performance issues
-
 
 ### Performance issues
 

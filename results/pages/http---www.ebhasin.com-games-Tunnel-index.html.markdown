@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ebhasin.com/games/Tunnel/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tunnel :-: Bhasinsoft](http://www.ebhasin.com/games/Tunnel/index.html)
 
@@ -29,9 +34,6 @@ title: http://www.ebhasin.com/games/Tunnel/index.html
 *  JS Response Bytes: 540128
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18343
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://shopthecity.weebly.com/_googleblog.html
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404 - Page Not Found](http://shopthecity.weebly.com/_googleblog.html)
 
@@ -29,9 +31,6 @@ title: http://shopthecity.weebly.com/_googleblog.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2311
-
-### Performance issues
-
 
 ### Performance issues
 

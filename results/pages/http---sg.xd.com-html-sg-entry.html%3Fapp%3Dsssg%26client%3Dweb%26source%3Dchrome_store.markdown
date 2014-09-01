@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://sg.xd.com/html/sg/entry.html?app=sssg&client=web&source=chrome_store
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [盛世三国](http://sg.xd.com/html/sg/entry.html?app=sssg&client=web&source=chrome_store)
 
@@ -29,9 +33,6 @@ title: http://sg.xd.com/html/sg/entry.html?app=sssg&client=web&source=chrome_sto
 *  JS Response Bytes: 170946
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4486
-
-### Performance issues
-
 
 ### Performance issues
 

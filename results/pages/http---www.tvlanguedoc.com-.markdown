@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.tvlanguedoc.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [TV Languedoc - L'art de vivre des Languedociens à travers leurs reportages !](http://www.tvlanguedoc.com/)
 
@@ -29,9 +31,6 @@ title: http://www.tvlanguedoc.com/
 *  JS Response Bytes: 2657123
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 135396
-
-### Performance issues
-
 
 ### Performance issues
 

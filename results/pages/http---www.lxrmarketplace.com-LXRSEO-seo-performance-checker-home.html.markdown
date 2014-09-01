@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.lxrmarketplace.com/LXRSEO/seo-performance-checker-home.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SEO Management | SEO Performance Checker | Know your SEO Grading](http://www.lxrmarketplace.com/LXRSEO/seo-performance-checker-home.html)
 
@@ -29,9 +34,6 @@ title: http://www.lxrmarketplace.com/LXRSEO/seo-performance-checker-home.html
 *  JS Response Bytes: 165210
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

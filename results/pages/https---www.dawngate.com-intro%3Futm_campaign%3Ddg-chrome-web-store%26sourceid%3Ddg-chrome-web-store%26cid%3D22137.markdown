@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.dawngate.com/intro?utm_campaign=dg-chrome-web-store&sourceid=dg-chrome-web-store&cid=22137
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Dawngate - Break the Meta](https://www.dawngate.com/intro?utm_campaign=dg-chrome-web-store&sourceid=dg-chrome-web-store&cid=22137)
 
@@ -29,9 +34,6 @@ title: https://www.dawngate.com/intro?utm_campaign=dg-chrome-web-store&sourceid=
 *  JS Response Bytes: 1792589
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1885
-
-### Performance issues
-
 
 ### Performance issues
 

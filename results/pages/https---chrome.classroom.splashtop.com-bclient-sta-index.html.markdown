@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://chrome.classroom.splashtop.com/bclient/sta/index.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Splashtop Classroom](https://chrome.classroom.splashtop.com/bclient/sta/index.html)
 
@@ -29,9 +33,6 @@ title: https://chrome.classroom.splashtop.com/bclient/sta/index.html
 *  JS Response Bytes: 141617
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12877
-
-### Performance issues
-
 
 ### Performance issues
 

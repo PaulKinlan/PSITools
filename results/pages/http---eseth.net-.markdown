@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://eseth.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [eSeth: a mobile community](http://eseth.net/)
 
@@ -29,9 +34,6 @@ title: http://eseth.net/
 *  JS Response Bytes: 870330
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 286547
-
-### Performance issues
-
 
 ### Performance issues
 

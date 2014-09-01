@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://app.growthcrm.com/user/login
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [](https://app.growthcrm.com/user/login)
 
@@ -29,9 +32,6 @@ title: https://app.growthcrm.com/user/login
 *  JS Response Bytes: 239253
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57
-
-### Performance issues
-
 
 ### Performance issues
 

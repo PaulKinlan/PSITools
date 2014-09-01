@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://dev-stxonline.qa2.mconnect.aero/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SITATEX Online Login](https://dev-stxonline.qa2.mconnect.aero/)
 
@@ -29,9 +35,6 @@ title: https://dev-stxonline.qa2.mconnect.aero/
 *  JS Response Bytes: 364072
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

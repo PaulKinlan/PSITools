@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://flashfang.com/game/georganism
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Georganism - FlashFang.com - Best free online games](http://flashfang.com/game/georganism)
 
@@ -29,9 +34,6 @@ title: http://flashfang.com/game/georganism
 *  JS Response Bytes: 6426632
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112356
-
-### Performance issues
-
 
 ### Performance issues
 

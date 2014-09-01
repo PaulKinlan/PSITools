@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ebhasin.com/games/ScarletMacaw/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Scarlet Macaw-::-Bhasinsoft](http://www.ebhasin.com/games/ScarletMacaw/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.ebhasin.com/games/ScarletMacaw/index.html
 *  JS Response Bytes: 1371870
 *  Flash Response Bytes: 1489536
 *  Other Response Bytes: 109870
-
-### Performance issues
-
 
 ### Performance issues
 

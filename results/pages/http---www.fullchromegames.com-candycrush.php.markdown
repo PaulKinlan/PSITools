@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.fullchromegames.com/candycrush.php
+ServerResponseTime: true
 ---
 ## [fullchromegames.com](http://www.fullchromegames.com/candycrush.php)
 
@@ -29,9 +30,6 @@ title: http://www.fullchromegames.com/candycrush.php
 *  JS Response Bytes: 8351
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

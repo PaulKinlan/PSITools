@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://daihatsu-repairinfo.com/index.php?main_page=cookie_usage
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cookie Usage : Daihatsu Service Information Site](https://daihatsu-repairinfo.com/index.php?main_page=cookie_usage)
 
@@ -29,9 +33,6 @@ title: https://daihatsu-repairinfo.com/index.php?main_page=cookie_usage
 *  JS Response Bytes: 109876
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1436
-
-### Performance issues
-
 
 ### Performance issues
 

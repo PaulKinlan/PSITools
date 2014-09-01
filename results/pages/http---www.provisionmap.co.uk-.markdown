@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.provisionmap.co.uk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [IEP & Provision Map Writer | Powerful web based SEN management for schools](http://www.provisionmap.co.uk/)
 
@@ -29,9 +32,6 @@ title: http://www.provisionmap.co.uk/
 *  JS Response Bytes: 292592
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57527
-
-### Performance issues
-
 
 ### Performance issues
 

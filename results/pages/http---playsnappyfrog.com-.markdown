@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://playsnappyfrog.com/
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Snappy Frog](http://playsnappyfrog.com/)
 
@@ -29,9 +32,6 @@ title: http://playsnappyfrog.com/
 *  JS Response Bytes: 1540813
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111126
-
-### Performance issues
-
 
 ### Performance issues
 

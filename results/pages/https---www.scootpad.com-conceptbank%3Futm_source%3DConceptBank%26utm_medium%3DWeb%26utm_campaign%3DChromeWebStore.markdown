@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.scootpad.com/conceptbank?utm_source=ConceptBank&utm_medium=Web&utm_campaign=ChromeWebStore
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](https://www.scootpad.com/conceptbank?utm_source=ConceptBank&utm_medium=Web&utm_campaign=ChromeWebStore)
 
@@ -29,9 +33,6 @@ title: https://www.scootpad.com/conceptbank?utm_source=ConceptBank&utm_medium=We
 *  JS Response Bytes: 213801
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 268
-
-### Performance issues
-
 
 ### Performance issues
 

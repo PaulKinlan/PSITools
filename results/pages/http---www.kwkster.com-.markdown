@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.kwkster.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Kwkster](http://www.kwkster.com/)
 
@@ -29,9 +31,6 @@ title: http://www.kwkster.com/
 *  JS Response Bytes: 264048
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

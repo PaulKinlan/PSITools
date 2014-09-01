@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.meetup.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Your Groups - Meetup](http://www.meetup.com/)
 
@@ -29,9 +32,6 @@ title: http://www.meetup.com/
 *  JS Response Bytes: 286587
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 906
-
-### Performance issues
-
 
 ### Performance issues
 

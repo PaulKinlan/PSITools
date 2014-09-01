@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://x3gaming.com/dogfight-sim.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [– Dogfight SIM](http://x3gaming.com/dogfight-sim.html)
 
@@ -29,9 +35,6 @@ title: http://x3gaming.com/dogfight-sim.html
 *  JS Response Bytes: 609048
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48936
-
-### Performance issues
-
 
 ### Performance issues
 

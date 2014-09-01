@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://subwaysurfers9.blogspot.se/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Subway Surfers](http://subwaysurfers9.blogspot.se/?m=1)
 
@@ -18,20 +19,17 @@ title: http://subwaysurfers9.blogspot.se/?m=1
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 12
-*  Total Request Bytes: 3536
+*  Total Request Bytes: 3535
 
 ### Response data
 
-*  HTML Response Bytes: 59099
+*  HTML Response Bytes: 59098
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 21448
 *  Image Response Bytes: 6342
-*  JS Response Bytes: 596080
+*  JS Response Bytes: 596298
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2967
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.vm-play.com/flashgames/physics/hambo-2:-hambtouchables/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [vm-play.com](http://www.vm-play.com/flashgames/physics/hambo-2:-hambtouchables/)
 
@@ -29,9 +33,6 @@ title: http://www.vm-play.com/flashgames/physics/hambo-2:-hambtouchables/
 *  JS Response Bytes: 187257
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

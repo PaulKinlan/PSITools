@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.printedowl.com/Calendar.aspx?id=money_saver
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Daily Quote | Money Savers | Suggested Gifts and Search | August 22](http://www.printedowl.com/Calendar.aspx?id=money_saver)
 
@@ -29,9 +35,6 @@ title: http://www.printedowl.com/Calendar.aspx?id=money_saver
 *  JS Response Bytes: 808942
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29663
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.whois.com.au/whois/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WHOIS Lookup | Whois®](http://www.whois.com.au/whois/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.whois.com.au/whois/index.html
 *  JS Response Bytes: 1659634
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1082
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://admin.weorder.com/admin
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [WeOrder Admin - Login](https://admin.weorder.com/admin)
 
@@ -29,9 +31,6 @@ title: https://admin.weorder.com/admin
 *  JS Response Bytes: 1612784
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

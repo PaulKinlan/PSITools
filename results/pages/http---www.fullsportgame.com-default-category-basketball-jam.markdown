@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.fullsportgame.com/default-category/basketball-jam
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Basketball Jam - Full Sport Game](http://www.fullsportgame.com/default-category/basketball-jam)
 
@@ -29,9 +33,6 @@ title: http://www.fullsportgame.com/default-category/basketball-jam
 *  JS Response Bytes: 3295434
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 160575
-
-### Performance issues
-
 
 ### Performance issues
 

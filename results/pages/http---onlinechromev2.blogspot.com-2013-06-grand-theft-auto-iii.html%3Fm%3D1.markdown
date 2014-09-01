@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://onlinechromev2.blogspot.com/2013/06/grand-theft-auto-iii.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [Online Chrome v2: Grand Theft Auto III](http://onlinechromev2.blogspot.com/2013/06/grand-theft-auto-iii.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://onlinechromev2.blogspot.com/2013/06/grand-theft-auto-iii.html?m=1
 *  JS Response Bytes: 1068584
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97998
-
-### Performance issues
-
 
 ### Performance issues
 

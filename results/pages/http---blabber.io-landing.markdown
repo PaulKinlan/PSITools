@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://blabber.io/landing
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Blabber](http://blabber.io/landing)
 
@@ -29,9 +32,6 @@ title: http://blabber.io/landing
 *  JS Response Bytes: 620965
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1865
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/cat-food/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cat Food Game](http://www.footballgam.es/cat-food/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/cat-food/
 *  JS Response Bytes: 2296826
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 154226
-
-### Performance issues
-
 
 ### Performance issues
 

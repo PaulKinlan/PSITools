@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://theclockpage.net76.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The clock page](http://theclockpage.net76.net/)
 
@@ -29,9 +34,6 @@ title: http://theclockpage.net76.net/
 *  JS Response Bytes: 737124
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1840
-
-### Performance issues
-
 
 ### Performance issues
 

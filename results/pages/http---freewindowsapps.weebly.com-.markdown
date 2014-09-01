@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://freewindowsapps.weebly.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free Windows Apps, Tools & Utilities - Home](http://freewindowsapps.weebly.com/)
 
@@ -29,9 +32,6 @@ title: http://freewindowsapps.weebly.com/
 *  JS Response Bytes: 849806
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 184364
-
-### Performance issues
-
 
 ### Performance issues
 

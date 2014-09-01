@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://nailartgallery.nailsmag.com/Mobile/Default.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Page Not Found - Nail Art Gallery](http://nailartgallery.nailsmag.com/Mobile/Default.aspx)
 
@@ -29,9 +34,6 @@ title: http://nailartgallery.nailsmag.com/Mobile/Default.aspx
 *  JS Response Bytes: 417576
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 139520
-
-### Performance issues
-
 
 ### Performance issues
 

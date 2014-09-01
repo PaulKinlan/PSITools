@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.trendgameszone.com/category/7
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Racing - Trend Games Zone](http://www.trendgameszone.com/category/7)
 
@@ -29,9 +32,6 @@ title: http://www.trendgameszone.com/category/7
 *  JS Response Bytes: 680960
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16350
-
-### Performance issues
-
 
 ### Performance issues
 

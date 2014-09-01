@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://fiddlesalad.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fiddle Salad Language Configuration](http://fiddlesalad.com/)
 
@@ -29,9 +33,6 @@ title: http://fiddlesalad.com/
 *  JS Response Bytes: 954532
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47703
-
-### Performance issues
-
 
 ### Performance issues
 

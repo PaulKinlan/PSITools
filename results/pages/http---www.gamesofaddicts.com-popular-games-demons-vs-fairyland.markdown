@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesofaddicts.com/popular-games/demons-vs-fairyland
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | Gamesogaddicts.com | Play Most Popular Games Free](http://www.gamesofaddicts.com/popular-games/demons-vs-fairyland)
 
@@ -29,9 +35,6 @@ title: http://www.gamesofaddicts.com/popular-games/demons-vs-fairyland
 *  JS Response Bytes: 1278386
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3723
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.pound2rupee.net/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pound to Rupee Exchange Rates - Live](http://www.pound2rupee.net/)
 
@@ -29,9 +32,6 @@ title: http://www.pound2rupee.net/
 *  JS Response Bytes: 1062893
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

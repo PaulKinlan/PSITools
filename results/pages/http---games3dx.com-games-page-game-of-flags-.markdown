@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://games3dx.com/games-page/game-of-flags/
+ServerResponseTime: true
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://games3dx.com/games-page/game-of-flags/)
 
@@ -29,9 +31,6 @@ title: http://games3dx.com/games-page/game-of-flags/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 766
-
-### Performance issues
-
 
 ### Performance issues
 

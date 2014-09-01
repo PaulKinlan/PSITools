@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.sumaryrestar.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sumar y Restar](http://www.sumaryrestar.com/)
 
@@ -29,9 +33,6 @@ title: http://www.sumaryrestar.com/
 *  JS Response Bytes: 912727
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106011
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://sites.google.com/site/appearclub/mochi/glow-web
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Glow Web - lineclub](https://sites.google.com/site/appearclub/mochi/glow-web)
 
@@ -29,9 +33,6 @@ title: https://sites.google.com/site/appearclub/mochi/glow-web
 *  JS Response Bytes: 1619619
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110245
-
-### Performance issues
-
 
 ### Performance issues
 

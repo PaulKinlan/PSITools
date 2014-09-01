@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.oyunlar9.com/3d-superman-oyna.html?utm_source=ChromeWebStore&utm_medium=3DSuperman&utm_content=webapp&utm_campaign=kisayol
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Superman Oyna - Oyunlar 9](http://www.oyunlar9.com/3d-superman-oyna.html?utm_source=ChromeWebStore&utm_medium=3DSuperman&utm_content=webapp&utm_campaign=kisayol)
 
@@ -29,9 +35,6 @@ title: http://www.oyunlar9.com/3d-superman-oyna.html?utm_source=ChromeWebStore&u
 *  JS Response Bytes: 2493462
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 303781
-
-### Performance issues
-
 
 ### Performance issues
 

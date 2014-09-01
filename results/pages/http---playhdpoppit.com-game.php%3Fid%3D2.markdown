@@ -33,8 +33,5 @@ title: http://playhdpoppit.com/game.php?id=2
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://oblachko.org/cloudletWeb/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [](http://oblachko.org/cloudletWeb/)
 
@@ -29,9 +33,6 @@ title: http://oblachko.org/cloudletWeb/
 *  JS Response Bytes: 215382
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 639
-
-### Performance issues
-
 
 ### Performance issues
 

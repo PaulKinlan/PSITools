@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://worldoffunn.blogspot.com/2013/11/grand-truckismo.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [World Of Fun: Grand Truckismo](http://worldoffunn.blogspot.com/2013/11/grand-truckismo.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://worldoffunn.blogspot.com/2013/11/grand-truckismo.html?m=1
 *  JS Response Bytes: 1022558
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111801
-
-### Performance issues
-
 
 ### Performance issues
 

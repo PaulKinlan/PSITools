@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://oldspicedgames.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Purchase equipment games](http://oldspicedgames.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://oldspicedgames.blogspot.com/?m=1
 *  JS Response Bytes: 762225
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1159
-
-### Performance issues
-
 
 ### Performance issues
 

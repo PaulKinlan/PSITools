@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.frivgamescon.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Friv Games Online](http://www.frivgamescon.com/)
 
@@ -13,25 +17,22 @@ title: http://www.frivgamescon.com/
 
 ### Request information
 
-*  Number of Resources: 274
-*  Number of Hosts: 47
-*  Number of JS Resources: 30
+*  Number of Resources: 245
+*  Number of Hosts: 31
+*  Number of JS Resources: 35
 *  Number of CSS Resources: 4
-*  Nubmer of Static Resources: 208
-*  Total Request Bytes: 44889
+*  Nubmer of Static Resources: 206
+*  Total Request Bytes: 32664
 
 ### Response data
 
-*  HTML Response Bytes: 201313
+*  HTML Response Bytes: 197993
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 61632
-*  Image Response Bytes: 1568926
-*  JS Response Bytes: 1372157
+*  Image Response Bytes: 1561886
+*  JS Response Bytes: 1377581
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 173862
-
-### Performance issues
-
+*  Other Response Bytes: 157704
 
 ### Performance issues
 

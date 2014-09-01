@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://accounts.google.com/ServiceLogin?service=analytics&continue=https://www.google.com/analytics/web/%23dashboard%2FDFYhAc0PR-Cza6ab9C1u0Q%2Fa4081359w22042129p20230680%2F%253F_.date00%253D20140718%2526_.date01%253D20140822%26s%3D3683229030&followup=https://www.google.com/analytics/web/%23dashboard%2FDFYhAc0PR-Cza6ab9C1u0Q%2Fa4081359w22042129p20230680%2F%253F_.date00%253D20140718%2526_.date01%253D20140822%26s%3D3683229030
+AvoidLandingPageRedirects: true
 ---
 ## [Google Analytics](https://accounts.google.com/ServiceLogin?service=analytics&continue=https://www.google.com/analytics/web/%23dashboard%2FDFYhAc0PR-Cza6ab9C1u0Q%2Fa4081359w22042129p20230680%2F%253F_.date00%253D20140718%2526_.date01%253D20140822%26s%3D3683229030&followup=https://www.google.com/analytics/web/%23dashboard%2FDFYhAc0PR-Cza6ab9C1u0Q%2Fa4081359w22042129p20230680%2F%253F_.date00%253D20140718%2526_.date01%253D20140822%26s%3D3683229030)
 
@@ -29,9 +30,6 @@ title: https://accounts.google.com/ServiceLogin?service=analytics&continue=https
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50047
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://mt.renren.com/download?redirect=http%3A%2F%2Fmt.renren.com%2Fhome%3Fcp_config%3D0%26from%3D8000103&from=8000103
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [人人网客户端下载](http://mt.renren.com/download?redirect=http%3A%2F%2Fmt.renren.com%2Fhome%3Fcp_config%3D0%26from%3D8000103&from=8000103)
 
@@ -29,9 +34,6 @@ title: http://mt.renren.com/download?redirect=http%3A%2F%2Fmt.renren.com%2Fhome%
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2242
-
-### Performance issues
-
 
 ### Performance issues
 

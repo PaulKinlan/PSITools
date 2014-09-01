@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://searchwiki.blogspot.com/
+UseLegibleFontSizes: true
 ---
 ## [Service Unavailable](http://searchwiki.blogspot.com/)
 
@@ -29,9 +30,6 @@ title: http://searchwiki.blogspot.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 494
-
-### Performance issues
-
 
 ### Performance issues
 

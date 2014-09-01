@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fitness360online.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Fitness360 Online | Gym Marketing | Fitness Marketing](http://www.fitness360online.com/)
 
@@ -29,9 +32,6 @@ title: http://www.fitness360online.com/
 *  JS Response Bytes: 3400251
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 256537
-
-### Performance issues
-
 
 ### Performance issues
 

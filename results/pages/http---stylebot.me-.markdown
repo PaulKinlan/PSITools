@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://stylebot.me/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stylebot Social](http://stylebot.me/)
 
@@ -29,9 +33,6 @@ title: http://stylebot.me/
 *  JS Response Bytes: 431615
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 36227
-
-### Performance issues
-
 
 ### Performance issues
 

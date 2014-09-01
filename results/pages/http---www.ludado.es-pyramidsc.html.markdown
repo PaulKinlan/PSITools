@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ludado.es/pyramidsc.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ludado - Pyramids [Covered]](http://www.ludado.es/pyramidsc.html)
 
@@ -29,9 +33,6 @@ title: http://www.ludado.es/pyramidsc.html
 *  JS Response Bytes: 362510
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 753
-
-### Performance issues
-
 
 ### Performance issues
 

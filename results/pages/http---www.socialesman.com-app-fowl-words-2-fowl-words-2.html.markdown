@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.socialesman.com/app/fowl-words-2/fowl-words-2.html
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Clone doesnt have this page](http://www.socialesman.com/app/fowl-words-2/fowl-words-2.html)
 
@@ -29,9 +31,6 @@ title: http://www.socialesman.com/app/fowl-words-2/fowl-words-2.html
 *  JS Response Bytes: 824331
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97406
-
-### Performance issues
-
 
 ### Performance issues
 

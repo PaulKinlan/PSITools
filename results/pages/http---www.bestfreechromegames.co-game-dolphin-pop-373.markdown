@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bestfreechromegames.co/game/dolphin-pop-373
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dolphin Pop Game - Best Free Chrome Games](http://www.bestfreechromegames.co/game/dolphin-pop-373)
 
@@ -29,9 +33,6 @@ title: http://www.bestfreechromegames.co/game/dolphin-pop-373
 *  JS Response Bytes: 463845
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

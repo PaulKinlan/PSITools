@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.thaifreundin.de/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Thaifreundin.de Galerie • Portrait  1 bis 60 von insgesamt 223 Thaifrauen •](http://www.thaifreundin.de/)
 
@@ -29,9 +33,6 @@ title: http://www.thaifreundin.de/
 *  JS Response Bytes: 245622
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

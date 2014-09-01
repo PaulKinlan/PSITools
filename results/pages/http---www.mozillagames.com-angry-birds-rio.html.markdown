@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mozillagames.com/angry-birds-rio.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Rio | Mozilla Games](http://www.mozillagames.com/angry-birds-rio.html)
 
@@ -29,9 +34,6 @@ title: http://www.mozillagames.com/angry-birds-rio.html
 *  JS Response Bytes: 1529655
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103667
-
-### Performance issues
-
 
 ### Performance issues
 

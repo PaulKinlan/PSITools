@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.locald.co.uk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Locald - Coming Soon](http://www.locald.co.uk/)
 
@@ -29,9 +33,6 @@ title: http://www.locald.co.uk/
 *  JS Response Bytes: 9467
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43905
-
-### Performance issues
-
 
 ### Performance issues
 

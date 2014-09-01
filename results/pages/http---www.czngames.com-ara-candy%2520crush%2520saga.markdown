@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.czngames.com/ara/candy%20crush%20saga
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [candy crush saga games, play games](http://www.czngames.com/ara/candy%20crush%20saga)
 
@@ -29,9 +34,6 @@ title: http://www.czngames.com/ara/candy%20crush%20saga
 *  JS Response Bytes: 12237
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

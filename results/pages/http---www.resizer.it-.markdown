@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.resizer.it/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [reSizer.it - Ridimensiona immagini in pochi secondi. Gratuito. Jpg, jpeg, png e gif.](http://www.resizer.it/)
 
@@ -29,9 +34,6 @@ title: http://www.resizer.it/
 *  JS Response Bytes: 321888
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

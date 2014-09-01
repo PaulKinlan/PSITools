@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://games.playtouch.net/chrome/doner-kebab/doner-kebab/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Doner Kebab](http://games.playtouch.net/chrome/doner-kebab/doner-kebab/)
 
@@ -29,9 +31,6 @@ title: http://games.playtouch.net/chrome/doner-kebab/doner-kebab/
 *  JS Response Bytes: 1552695
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1885
-
-### Performance issues
-
 
 ### Performance issues
 

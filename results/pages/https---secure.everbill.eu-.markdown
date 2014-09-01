@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://secure.everbill.eu/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [everbill](https://secure.everbill.eu/)
 
@@ -29,9 +34,6 @@ title: https://secure.everbill.eu/
 *  JS Response Bytes: 199715
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 474
-
-### Performance issues
-
 
 ### Performance issues
 

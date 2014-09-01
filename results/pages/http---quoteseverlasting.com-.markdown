@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://quoteseverlasting.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Quotes Everlasting | Because some words are meant to last forever…](http://quoteseverlasting.com/)
 
@@ -29,9 +33,6 @@ title: http://quoteseverlasting.com/
 *  JS Response Bytes: 1575951
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 328169
-
-### Performance issues
-
 
 ### Performance issues
 

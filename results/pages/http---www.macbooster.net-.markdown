@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.macbooster.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IObit - MacBooster](http://www.macbooster.net/)
 
@@ -29,9 +33,6 @@ title: http://www.macbooster.net/
 *  JS Response Bytes: 420116
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21382
-
-### Performance issues
-
 
 ### Performance issues
 

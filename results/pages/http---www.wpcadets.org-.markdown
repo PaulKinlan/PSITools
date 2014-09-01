@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.wpcadets.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [West Point Public Schools](http://www.wpcadets.org/)
 
@@ -29,9 +33,6 @@ title: http://www.wpcadets.org/
 *  JS Response Bytes: 704278
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3510
-
-### Performance issues
-
 
 ### Performance issues
 

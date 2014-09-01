@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.thequizcenter.com/ask_question.aspx?CatID=3&QuesID=0
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Quiz Center :Science Question ID :0](http://www.thequizcenter.com/ask_question.aspx?CatID=3&QuesID=0)
 
@@ -29,9 +35,6 @@ title: http://www.thequizcenter.com/ask_question.aspx?CatID=3&QuesID=0
 *  JS Response Bytes: 856422
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94972
-
-### Performance issues
-
 
 ### Performance issues
 

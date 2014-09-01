@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.smartrekenen.nl/nl/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [SmartRekenen](http://www.smartrekenen.nl/nl/)
 
@@ -29,9 +32,6 @@ title: http://www.smartrekenen.nl/nl/
 *  JS Response Bytes: 239071
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59220
-
-### Performance issues
-
 
 ### Performance issues
 

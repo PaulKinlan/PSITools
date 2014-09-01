@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.spotjoy.com/tools/ip.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [What's My IP - Spotjoy](http://www.spotjoy.com/tools/ip.php)
 
@@ -29,9 +32,6 @@ title: http://www.spotjoy.com/tools/ip.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

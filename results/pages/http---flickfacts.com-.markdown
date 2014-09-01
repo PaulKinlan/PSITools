@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://flickfacts.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Free Internet Movie Database - flickfacts.com](http://flickfacts.com/)
 
@@ -29,9 +35,6 @@ title: http://flickfacts.com/
 *  JS Response Bytes: 374522
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 65488
-
-### Performance issues
-
 
 ### Performance issues
 

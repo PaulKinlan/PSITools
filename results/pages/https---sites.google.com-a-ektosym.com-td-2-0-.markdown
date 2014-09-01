@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://sites.google.com/a/ektosym.com/td-2-0/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Task Delegation](https://sites.google.com/a/ektosym.com/td-2-0/)
 
@@ -29,9 +33,6 @@ title: https://sites.google.com/a/ektosym.com/td-2-0/
 *  JS Response Bytes: 412407
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5147
-
-### Performance issues
-
 
 ### Performance issues
 

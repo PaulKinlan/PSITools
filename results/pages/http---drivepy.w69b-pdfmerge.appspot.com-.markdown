@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://drivepy.w69b-pdfmerge.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PDF Mergy - WebApp to merge PDF files](http://drivepy.w69b-pdfmerge.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://drivepy.w69b-pdfmerge.appspot.com/
 *  JS Response Bytes: 1929541
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 305779
-
-### Performance issues
-
 
 ### Performance issues
 

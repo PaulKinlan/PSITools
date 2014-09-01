@@ -33,8 +33,5 @@ title: http://ww35.dogs-games.com/games/balloon-dog/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

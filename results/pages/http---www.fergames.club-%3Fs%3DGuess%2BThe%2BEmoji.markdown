@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.fergames.club/?s=Guess+The+Emoji
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Guess The Emoji – Search Results – Online Best Games](http://www.fergames.club/?s=Guess+The+Emoji)
 
@@ -29,9 +36,6 @@ title: http://www.fergames.club/?s=Guess+The+Emoji
 *  JS Response Bytes: 717071
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14380
-
-### Performance issues
-
 
 ### Performance issues
 

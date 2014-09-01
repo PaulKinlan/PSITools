@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://onlinehdgames.blogspot.com/2013/08/angry-birds-space.html?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://onlinehdgames.blogspot.com/2013/08/angry-birds-space.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://onlinehdgames.blogspot.com/2013/08/angry-birds-space.html?m=1
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18828
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ivigames.com/grand-theft-auto-vice-city.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [iviGames.Com | Flash Game – Grand Theft Auto: Vice City](http://www.ivigames.com/grand-theft-auto-vice-city.html)
 
@@ -29,9 +35,6 @@ title: http://www.ivigames.com/grand-theft-auto-vice-city.html
 *  JS Response Bytes: 416557
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1084
-
-### Performance issues
-
 
 ### Performance issues
 

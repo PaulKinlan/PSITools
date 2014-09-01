@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://grouplunch.lu/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [GroupLunch](https://grouplunch.lu/)
 
@@ -29,9 +32,6 @@ title: https://grouplunch.lu/
 *  JS Response Bytes: 424457
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23722
-
-### Performance issues
-
 
 ### Performance issues
 

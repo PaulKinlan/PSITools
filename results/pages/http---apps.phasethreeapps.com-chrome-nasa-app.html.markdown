@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://apps.phasethreeapps.com/chrome/nasa/app.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [NASA Images...On the Go!](http://apps.phasethreeapps.com/chrome/nasa/app.html)
 
@@ -29,9 +32,6 @@ title: http://apps.phasethreeapps.com/chrome/nasa/app.html
 *  JS Response Bytes: 936875
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

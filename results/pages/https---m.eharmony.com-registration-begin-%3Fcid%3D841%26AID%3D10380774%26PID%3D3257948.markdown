@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://m.eharmony.com/registration/begin/?cid=841&AID=10380774&PID=3257948
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [eHarmony](https://m.eharmony.com/registration/begin/?cid=841&AID=10380774&PID=3257948)
 
@@ -29,9 +33,6 @@ title: https://m.eharmony.com/registration/begin/?cid=841&AID=10380774&PID=32579
 *  JS Response Bytes: 287179
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61531
-
-### Performance issues
-
 
 ### Performance issues
 

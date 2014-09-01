@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://gomobileevents.com/login.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Sign In](https://gomobileevents.com/login.html)
 
@@ -29,9 +32,6 @@ title: https://gomobileevents.com/login.html
 *  JS Response Bytes: 362605
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 91114
-
-### Performance issues
-
 
 ### Performance issues
 

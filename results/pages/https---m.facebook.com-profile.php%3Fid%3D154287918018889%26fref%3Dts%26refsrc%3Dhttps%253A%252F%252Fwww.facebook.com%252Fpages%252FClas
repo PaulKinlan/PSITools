@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://m.facebook.com/profile.php?id=154287918018889&fref=ts&refsrc=https%3A%2F%2Fwww.facebook.com%2Fpages%2FClassic-Movies%2F154287918018889&_rdr
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Classic Movies](https://m.facebook.com/profile.php?id=154287918018889&fref=ts&refsrc=https%3A%2F%2Fwww.facebook.com%2Fpages%2FClassic-Movies%2F154287918018889&_rdr)
 
@@ -29,9 +32,6 @@ title: https://m.facebook.com/profile.php?id=154287918018889&fref=ts&refsrc=http
 *  JS Response Bytes: 409657
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1123
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.freshwatersystems.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Water Treatment Specialist - FreshWaterSystems.com](http://www.freshwatersystems.com/)
 
@@ -29,9 +32,6 @@ title: http://www.freshwatersystems.com/
 *  JS Response Bytes: 70467
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

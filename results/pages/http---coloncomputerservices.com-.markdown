@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://coloncomputerservices.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Colón Computer Services | I'm here for you.](http://coloncomputerservices.com/)
 
@@ -29,9 +32,6 @@ title: http://coloncomputerservices.com/
 *  JS Response Bytes: 432343
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 955
-
-### Performance issues
-
 
 ### Performance issues
 

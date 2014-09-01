@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.eqela.com/apps/shurikendodger/html5/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Shuriken Dodger](http://www.eqela.com/apps/shurikendodger/html5/)
 
@@ -29,9 +32,6 @@ title: http://www.eqela.com/apps/shurikendodger/html5/
 *  JS Response Bytes: 702060
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

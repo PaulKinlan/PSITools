@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.nirvanagame99.com/default-category/prison-breakout
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Prison Breakout - Nirvanegame99.com](http://www.nirvanagame99.com/default-category/prison-breakout)
 
@@ -29,9 +34,6 @@ title: http://www.nirvanagame99.com/default-category/prison-breakout
 *  JS Response Bytes: 1126149
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16298
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://stmls.org/memwork/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Automatic Memory Work Quiz Maker by Karl Henselin](http://stmls.org/memwork/)
 
@@ -29,9 +33,6 @@ title: http://stmls.org/memwork/
 *  JS Response Bytes: 559085
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 487
-
-### Performance issues
-
 
 ### Performance issues
 

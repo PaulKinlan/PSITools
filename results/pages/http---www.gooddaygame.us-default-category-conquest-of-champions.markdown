@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gooddaygame.us/default-category/conquest-of-champions
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Conquest of Champions - Good Day Game](http://www.gooddaygame.us/default-category/conquest-of-champions)
 
@@ -29,9 +35,6 @@ title: http://www.gooddaygame.us/default-category/conquest-of-champions
 *  JS Response Bytes: 1879239
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112119
-
-### Performance issues
-
 
 ### Performance issues
 

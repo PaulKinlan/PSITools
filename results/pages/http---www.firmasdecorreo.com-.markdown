@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.firmasdecorreo.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Firma tu correo y mail - www.firmasdecorreo.com](http://www.firmasdecorreo.com/)
 
@@ -29,9 +33,6 @@ title: http://www.firmasdecorreo.com/
 *  JS Response Bytes: 502509
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9144
-
-### Performance issues
-
 
 ### Performance issues
 

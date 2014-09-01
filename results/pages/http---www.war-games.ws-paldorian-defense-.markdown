@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/paldorian-defense/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Paldorian Defense](http://www.war-games.ws/paldorian-defense/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/paldorian-defense/
 *  JS Response Bytes: 2292899
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121660
-
-### Performance issues
-
 
 ### Performance issues
 

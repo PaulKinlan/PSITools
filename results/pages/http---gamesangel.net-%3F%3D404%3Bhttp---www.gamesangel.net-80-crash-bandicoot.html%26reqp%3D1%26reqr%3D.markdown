@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gamesangel.net/?=404;http://www.gamesangel.net:80/crash-bandicoot.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [gamesangel.net](http://gamesangel.net/?=404;http://www.gamesangel.net:80/crash-bandicoot.html&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://gamesangel.net/?=404;http://www.gamesangel.net:80/crash-bandicoot.
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://babycareatoz.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [BabyCareAtoZ | Website for Parents right from Pregnancy to Pre-school](http://babycareatoz.com/)
 
@@ -29,9 +31,6 @@ title: http://babycareatoz.com/
 *  JS Response Bytes: 643929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 724
-
-### Performance issues
-
 
 ### Performance issues
 

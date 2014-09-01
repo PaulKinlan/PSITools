@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/sandwichshop/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Sandwich Shop](http://www.fupa.com/apps/sandwichshop/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/sandwichshop/
 *  JS Response Bytes: 10488
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

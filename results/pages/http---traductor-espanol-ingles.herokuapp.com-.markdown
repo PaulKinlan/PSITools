@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://traductor-espanol-ingles.herokuapp.com/
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Traductor Español Inglés](http://traductor-espanol-ingles.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://traductor-espanol-ingles.herokuapp.com/
 *  JS Response Bytes: 1839327
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 140495
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.hotmixradio.fr/babymixradio/iphone/
+AvoidLandingPageRedirects: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Babymixradio by Tchoupi fait son spectacle.](http://www.hotmixradio.fr/babymixradio/iphone/)
 
@@ -29,9 +32,6 @@ title: http://www.hotmixradio.fr/babymixradio/iphone/
 *  JS Response Bytes: 458816
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8922
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://campad.htmlchat.net/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CamPad Webcam Drawing Online At Real-Time.](http://campad.htmlchat.net/)
 
@@ -29,9 +33,6 @@ title: http://campad.htmlchat.net/
 *  JS Response Bytes: 2480168
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117583
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://hotelopro.com/Login.aspx
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HoteloPro - Online hotel administration](https://hotelopro.com/Login.aspx)
 
@@ -29,9 +33,6 @@ title: https://hotelopro.com/Login.aspx
 *  JS Response Bytes: 968136
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

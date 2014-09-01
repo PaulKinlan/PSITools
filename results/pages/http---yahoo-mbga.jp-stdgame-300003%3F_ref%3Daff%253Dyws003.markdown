@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://yahoo-mbga.jp/stdgame/300003?_ref=aff%3Dyws003
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [将棋 - ゲームならYahoo!モバゲー](http://yahoo-mbga.jp/stdgame/300003?_ref=aff%3Dyws003)
 
@@ -29,9 +32,6 @@ title: http://yahoo-mbga.jp/stdgame/300003?_ref=aff%3Dyws003
 *  JS Response Bytes: 205229
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

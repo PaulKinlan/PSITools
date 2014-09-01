@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.snow-bg.com/index1.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Уебкамери BG](http://www.snow-bg.com/index1.html)
 
@@ -29,9 +32,6 @@ title: http://www.snow-bg.com/index1.html
 *  JS Response Bytes: 169315
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 516
-
-### Performance issues
-
 
 ### Performance issues
 

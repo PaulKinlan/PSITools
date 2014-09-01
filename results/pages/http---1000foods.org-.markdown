@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://1000foods.org/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Food Nutrition Facts | 1000Foods](http://1000foods.org/)
 
@@ -29,9 +34,6 @@ title: http://1000foods.org/
 *  JS Response Bytes: 511270
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14560
-
-### Performance issues
-
 
 ### Performance issues
 

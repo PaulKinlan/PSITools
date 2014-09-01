@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bpsimulator.com/run/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Run Application](http://www.bpsimulator.com/run/)
 
@@ -29,9 +33,6 @@ title: http://www.bpsimulator.com/run/
 *  JS Response Bytes: 538297
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

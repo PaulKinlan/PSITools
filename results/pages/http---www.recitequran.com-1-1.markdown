@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.recitequran.com/1:1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Recite Quran - Al-Fatihah [1:1]](http://www.recitequran.com/1:1)
 
@@ -29,9 +32,6 @@ title: http://www.recitequran.com/1:1
 *  JS Response Bytes: 887162
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 88183
-
-### Performance issues
-
 
 ### Performance issues
 

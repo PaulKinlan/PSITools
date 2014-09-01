@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bolicua.com/stockmarket/stock_market.html
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stock Market and Financial Markets Overview - BullCooler](http://www.bolicua.com/stockmarket/stock_market.html)
 
@@ -29,9 +33,6 @@ title: http://www.bolicua.com/stockmarket/stock_market.html
 *  JS Response Bytes: 1518564
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 71568
-
-### Performance issues
-
 
 ### Performance issues
 

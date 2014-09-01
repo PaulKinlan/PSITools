@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.listango.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Listango - Save and share your bookmarks online](https://www.listango.com/)
 
@@ -29,9 +32,6 @@ title: https://www.listango.com/
 *  JS Response Bytes: 684523
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53659
-
-### Performance issues
-
 
 ### Performance issues
 

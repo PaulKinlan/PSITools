@@ -33,8 +33,5 @@ title: http://www.alquranbook.com/HadeethBooks/jbkreader.aspx
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

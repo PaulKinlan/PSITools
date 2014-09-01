@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://btprmnav.com/Redirect/
+AvoidLandingPageRedirects: true
+UseLegibleFontSizes: true
 ---
 ## [](http://btprmnav.com/Redirect/)
 
@@ -29,9 +31,6 @@ title: http://btprmnav.com/Redirect/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1342
-
-### Performance issues
-
 
 ### Performance issues
 

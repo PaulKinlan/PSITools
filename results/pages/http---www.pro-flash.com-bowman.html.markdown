@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.pro-flash.com/bowman.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pro-Flash.Com – BowMan](http://www.pro-flash.com/bowman.html)
 
@@ -29,9 +35,6 @@ title: http://www.pro-flash.com/bowman.html
 *  JS Response Bytes: 515498
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32562
-
-### Performance issues
-
 
 ### Performance issues
 

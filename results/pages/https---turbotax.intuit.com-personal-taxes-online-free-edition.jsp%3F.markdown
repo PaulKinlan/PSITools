@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://turbotax.intuit.com/personal-taxes/online/free-edition.jsp?
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [TurboTax® Free Edition - Free Tax Filing, Free Taxes Online, Free Tax Return, Free eFile](https://turbotax.intuit.com/personal-taxes/online/free-edition.jsp?)
 
@@ -29,9 +32,6 @@ title: https://turbotax.intuit.com/personal-taxes/online/free-edition.jsp?
 *  JS Response Bytes: 1521133
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12305
-
-### Performance issues
-
 
 ### Performance issues
 

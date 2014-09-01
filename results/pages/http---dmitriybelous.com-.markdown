@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://dmitriybelous.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Dmitriy's Blog | Things I am Working On](http://dmitriybelous.com/)
 
@@ -29,9 +31,6 @@ title: http://dmitriybelous.com/
 *  JS Response Bytes: 569235
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 341
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.spotify.com/int/why-not-available/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Availability - Spotify](https://www.spotify.com/int/why-not-available/)
 
@@ -29,9 +33,6 @@ title: https://www.spotify.com/int/why-not-available/
 *  JS Response Bytes: 1392821
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25557
-
-### Performance issues
-
 
 ### Performance issues
 

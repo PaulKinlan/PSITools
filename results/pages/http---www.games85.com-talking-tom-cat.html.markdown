@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.games85.com/talking-tom-cat.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Talking Tom Cat : Games 85](http://www.games85.com/talking-tom-cat.html)
 
@@ -29,9 +37,6 @@ title: http://www.games85.com/talking-tom-cat.html
 *  JS Response Bytes: 2073882
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112369
-
-### Performance issues
-
 
 ### Performance issues
 

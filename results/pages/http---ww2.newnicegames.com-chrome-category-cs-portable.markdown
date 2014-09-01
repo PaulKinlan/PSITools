@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.newnicegames.com/chrome-category/cs-portable
+SizeTapTargetsAppropriately: true
 ---
 ## [newnicegames.com](http://ww2.newnicegames.com/chrome-category/cs-portable)
 
@@ -29,9 +30,6 @@ title: http://ww2.newnicegames.com/chrome-category/cs-portable
 *  JS Response Bytes: 229840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21077
-
-### Performance issues
-
 
 ### Performance issues
 

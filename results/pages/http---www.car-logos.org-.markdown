@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.car-logos.org/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Car logos and car company logos worldwide](http://www.car-logos.org/)
 
@@ -29,9 +33,6 @@ title: http://www.car-logos.org/
 *  JS Response Bytes: 2173615
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115752
-
-### Performance issues
-
 
 ### Performance issues
 

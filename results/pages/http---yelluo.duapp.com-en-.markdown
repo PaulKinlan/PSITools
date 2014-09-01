@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://yelluo.duapp.com/en/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
 ---
 ## [Homepage of Symmetric Clear - Web Edition](http://yelluo.duapp.com/en/)
 
@@ -29,9 +32,6 @@ title: http://yelluo.duapp.com/en/
 *  JS Response Bytes: 599931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

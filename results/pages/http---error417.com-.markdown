@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://error417.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Error417 -](http://error417.com/)
 
@@ -29,9 +35,6 @@ title: http://error417.com/
 *  JS Response Bytes: 303947
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

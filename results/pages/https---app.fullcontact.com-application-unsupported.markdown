@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://app.fullcontact.com/application/unsupported
+AvoidLandingPageRedirects: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](https://app.fullcontact.com/application/unsupported)
 
@@ -29,9 +31,6 @@ title: https://app.fullcontact.com/application/unsupported
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 625
-
-### Performance issues
-
 
 ### Performance issues
 

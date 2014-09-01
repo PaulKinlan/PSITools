@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.adventuregamessite.com/clash-of-clans.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Clash Of Clans | Adventure Games Site](http://www.adventuregamessite.com/clash-of-clans.html)
 
@@ -29,9 +34,6 @@ title: http://www.adventuregamessite.com/clash-of-clans.html
 *  JS Response Bytes: 1529156
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103976
-
-### Performance issues
-
 
 ### Performance issues
 

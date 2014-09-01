@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.theoutlinerofgiants.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Outliner of Giants: A feature rich Outline Processor for students, researchers, writers, and project managers](https://www.theoutlinerofgiants.com/)
 
@@ -29,9 +32,6 @@ title: https://www.theoutlinerofgiants.com/
 *  JS Response Bytes: 153310
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 90824
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gamesinchrome.com/candycrush.php
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://gamesinchrome.com/candycrush.php)
 
@@ -29,9 +30,6 @@ title: http://gamesinchrome.com/candycrush.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 982
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://lostforgames.us/games/kart-fighter/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kart Fighter | Lost For Games](http://lostforgames.us/games/kart-fighter/)
 
@@ -29,9 +34,6 @@ title: http://lostforgames.us/games/kart-fighter/
 *  JS Response Bytes: 519658
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42313
-
-### Performance issues
-
 
 ### Performance issues
 

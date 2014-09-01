@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://bestadventuregames.co/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Adventure Games](http://bestadventuregames.co/)
 
@@ -29,9 +33,6 @@ title: http://bestadventuregames.co/
 *  JS Response Bytes: 688774
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15830
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.stefansen.dk/links.php
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Links](http://www.stefansen.dk/links.php)
 
@@ -29,9 +31,6 @@ title: http://www.stefansen.dk/links.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1398
-
-### Performance issues
-
 
 ### Performance issues
 

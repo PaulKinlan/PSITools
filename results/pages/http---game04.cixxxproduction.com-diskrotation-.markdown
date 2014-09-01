@@ -33,8 +33,5 @@ title: http://game04.cixxxproduction.com/diskrotation/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

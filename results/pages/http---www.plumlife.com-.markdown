@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.plumlife.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Plum | Wireless Lighting Control | Wi-Fi Light Dimmer](http://www.plumlife.com/)
 
@@ -29,9 +31,6 @@ title: http://www.plumlife.com/
 *  JS Response Bytes: 531247
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53954
-
-### Performance issues
-
 
 ### Performance issues
 

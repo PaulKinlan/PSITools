@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.wesleysteiner.com/scorekeeper/bridge.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Contract Bridge Scoring](http://www.wesleysteiner.com/scorekeeper/bridge.html)
 
@@ -29,9 +33,6 @@ title: http://www.wesleysteiner.com/scorekeeper/bridge.html
 *  JS Response Bytes: 634054
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

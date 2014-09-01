@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://portal.darkeras.com/en/main/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](https://portal.darkeras.com/en/main/)
 
@@ -29,9 +33,6 @@ title: https://portal.darkeras.com/en/main/
 *  JS Response Bytes: 593927
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1031
-
-### Performance issues
-
 
 ### Performance issues
 

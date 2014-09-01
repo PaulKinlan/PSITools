@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://azerdict.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Azərbaycan İngiliscə Lüğət - Azərbaycanın Online Lüğəti - azerdict.com](http://azerdict.com/)
 
@@ -29,9 +32,6 @@ title: http://azerdict.com/
 *  JS Response Bytes: 151922
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

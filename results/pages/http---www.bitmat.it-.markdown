@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.bitmat.it/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [BitMat | News e informazioni su aziende ICT e strategie d'impresa dal mondo Information Technology](http://www.bitmat.it/)
 
@@ -29,9 +32,6 @@ title: http://www.bitmat.it/
 *  JS Response Bytes: 447310
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1877
-
-### Performance issues
-
 
 ### Performance issues
 

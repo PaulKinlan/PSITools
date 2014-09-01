@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://shoplifier.appspot.com/apps/walmart
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Wallmart Daily Deals](http://shoplifier.appspot.com/apps/walmart)
 
@@ -29,9 +31,6 @@ title: http://shoplifier.appspot.com/apps/walmart
 *  JS Response Bytes: 716874
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

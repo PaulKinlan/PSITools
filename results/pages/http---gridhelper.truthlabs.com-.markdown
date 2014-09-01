@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gridhelper.truthlabs.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Grid Helper](http://gridhelper.truthlabs.com/)
 
@@ -29,9 +33,6 @@ title: http://gridhelper.truthlabs.com/
 *  JS Response Bytes: 314939
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://short2games.com/games/mazeclimber/start.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MazeClimber](http://short2games.com/games/mazeclimber/start.html)
 
@@ -29,9 +31,6 @@ title: http://short2games.com/games/mazeclimber/start.html
 *  JS Response Bytes: 95218
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

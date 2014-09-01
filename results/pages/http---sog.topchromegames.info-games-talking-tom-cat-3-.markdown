@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://sog.topchromegames.info/games/talking-tom-cat-3/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Talking Tom Cat 3 Game — Sultans of Game](http://sog.topchromegames.info/games/talking-tom-cat-3/)
 
@@ -29,9 +36,6 @@ title: http://sog.topchromegames.info/games/talking-tom-cat-3/
 *  JS Response Bytes: 1538474
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 126952
-
-### Performance issues
-
 
 ### Performance issues
 

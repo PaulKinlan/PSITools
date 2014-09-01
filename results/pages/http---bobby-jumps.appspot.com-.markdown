@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bobby-jumps.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+UseLegibleFontSizes: true
 ---
 ## [Bobby Jumps](http://bobby-jumps.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://bobby-jumps.appspot.com/
 *  JS Response Bytes: 168299
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 615
-
-### Performance issues
-
 
 ### Performance issues
 

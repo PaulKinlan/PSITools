@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://sit-and-play.com/wp-content/games/mochi/euro-2012-gs-soccer.swf
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [sit-and-play.com](http://sit-and-play.com/wp-content/games/mochi/euro-2012-gs-soccer.swf)
 
@@ -29,9 +34,6 @@ title: http://sit-and-play.com/wp-content/games/mochi/euro-2012-gs-soccer.swf
 *  JS Response Bytes: 209104
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 91
-
-### Performance issues
-
 
 ### Performance issues
 

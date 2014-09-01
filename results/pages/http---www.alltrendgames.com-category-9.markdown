@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.alltrendgames.com/category/9
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Army - All Trend Games](http://www.alltrendgames.com/category/9)
 
@@ -29,9 +33,6 @@ title: http://www.alltrendgames.com/category/9
 *  JS Response Bytes: 647927
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1174
-
-### Performance issues
-
 
 ### Performance issues
 

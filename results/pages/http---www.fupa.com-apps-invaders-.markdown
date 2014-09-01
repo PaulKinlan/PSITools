@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/invaders/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Space Attackers](http://www.fupa.com/apps/invaders/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/invaders/
 *  JS Response Bytes: 10488
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.vladan.fr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ESX Virtualization | VMware ESXi, vSphere, DR... how-to, videos....](http://www.vladan.fr/)
 
@@ -29,9 +32,6 @@ title: http://www.vladan.fr/
 *  JS Response Bytes: 2701118
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 288562
-
-### Performance issues
-
 
 ### Performance issues
 

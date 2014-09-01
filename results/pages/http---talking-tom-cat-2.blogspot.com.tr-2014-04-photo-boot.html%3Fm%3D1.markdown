@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://talking-tom-cat-2.blogspot.com.tr/2014/04/photo-boot.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [talking tom hd online game: photo boot](http://talking-tom-cat-2.blogspot.com.tr/2014/04/photo-boot.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://talking-tom-cat-2.blogspot.com.tr/2014/04/photo-boot.html?m=1
 *  JS Response Bytes: 1022308
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95589
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.coolflashcards.com/apps/basicspanishvocabulary
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Basic Spanish Vocabulary Flashcards](http://www.coolflashcards.com/apps/basicspanishvocabulary)
 
@@ -29,9 +34,6 @@ title: http://www.coolflashcards.com/apps/basicspanishvocabulary
 *  JS Response Bytes: 2095185
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17524
-
-### Performance issues
-
 
 ### Performance issues
 

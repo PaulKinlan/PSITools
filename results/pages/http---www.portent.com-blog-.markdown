@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.portent.com/blog/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Blog - Portent](http://www.portent.com/blog/)
 
@@ -29,9 +32,6 @@ title: http://www.portent.com/blog/
 *  JS Response Bytes: 1731717
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105734
-
-### Performance issues
-
 
 ### Performance issues
 

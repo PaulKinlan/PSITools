@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://m.facebook.com/login.php?skip_api_login=1&api_key=274173959270591&signed_next=1&next=https%3A%2F%2Fm.facebook.com%2Fv1.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttp%253A%252F%252Fapps.facebook.com%252Fsudokuquest%252F%253Finstalled%253D1%2526ref%253Dchrome%26state%3D6bd0d7155f398caa19de9ea46c63f460%26scope%3Dpublish_actions%252Cemail%252Cuser_games_activity%26client_id%3D274173959270591%26ret%3Dlogin&cancel_uri=http%3A%2F%2Fapps.facebook.com%2Fsudokuquest%2F%3Finstalled%3D1%26ref%3Dchrome%26error%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3D6bd0d7155f398caa19de9ea46c63f460%23_%3D_&display=touch&_rdr
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Welcome to Facebook](https://m.facebook.com/login.php?skip_api_login=1&api_key=274173959270591&signed_next=1&next=https%3A%2F%2Fm.facebook.com%2Fv1.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttp%253A%252F%252Fapps.facebook.com%252Fsudokuquest%252F%253Finstalled%253D1%2526ref%253Dchrome%26state%3D6bd0d7155f398caa19de9ea46c63f460%26scope%3Dpublish_actions%252Cemail%252Cuser_games_activity%26client_id%3D274173959270591%26ret%3Dlogin&cancel_uri=http%3A%2F%2Fapps.facebook.com%2Fsudokuquest%2F%3Finstalled%3D1%26ref%3Dchrome%26error%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3D6bd0d7155f398caa19de9ea46c63f460%23_%3D_&display=touch&_rdr)
 
@@ -29,9 +31,6 @@ title: https://m.facebook.com/login.php?skip_api_login=1&api_key=274173959270591
 *  JS Response Bytes: 329390
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3108
-
-### Performance issues
-
 
 ### Performance issues
 

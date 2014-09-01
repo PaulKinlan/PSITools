@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://portal.ksba.org/public/Agency.aspx?PublicAgencyID=86&AgencyTypeID=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [KSBA's Public Portal](http://portal.ksba.org/public/Agency.aspx?PublicAgencyID=86&AgencyTypeID=1)
 
@@ -29,9 +34,6 @@ title: http://portal.ksba.org/public/Agency.aspx?PublicAgencyID=86&AgencyTypeID=
 *  JS Response Bytes: 819857
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

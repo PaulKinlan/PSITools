@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamegreat.us/default-category/mechanical-soldier
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mechanical Soldier - Game Great](http://www.gamegreat.us/default-category/mechanical-soldier)
 
@@ -29,9 +34,6 @@ title: http://www.gamegreat.us/default-category/mechanical-soldier
 *  JS Response Bytes: 1879563
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119017
-
-### Performance issues
-
 
 ### Performance issues
 

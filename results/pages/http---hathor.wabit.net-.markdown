@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://hathor.wabit.net/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hathor](http://hathor.wabit.net/)
 
@@ -29,9 +32,6 @@ title: http://hathor.wabit.net/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

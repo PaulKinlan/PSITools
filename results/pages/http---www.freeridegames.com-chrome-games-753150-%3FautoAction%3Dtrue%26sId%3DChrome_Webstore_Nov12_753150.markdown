@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/753150/?autoAction=true&sId=Chrome_Webstore_Nov12_753150
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Downtown Secrets for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/753150/?autoAction=true&sId=Chrome_Webstore_Nov12_753150)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/753150/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1488547
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29924
-
-### Performance issues
-
 
 ### Performance issues
 

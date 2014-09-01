@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://playbestof-games.blogspot.com/2013/08/sports-heads-football.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://playbestof-games.blogspot.com/2013/08/sports-heads-football.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://playbestof-games.blogspot.com/2013/08/sports-heads-football.html?m
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18853
-
-### Performance issues
-
 
 ### Performance issues
 

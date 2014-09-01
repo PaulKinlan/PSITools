@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.ebhasin.com/apps/GuitarChords/index.html
+PreferAsyncResources: true
 ---
 ## [Guitar Chords -::- Bhasinsoft](http://www.ebhasin.com/apps/GuitarChords/index.html)
 
@@ -29,9 +30,6 @@ title: http://www.ebhasin.com/apps/GuitarChords/index.html
 *  JS Response Bytes: 754147
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18632
-
-### Performance issues
-
 
 ### Performance issues
 

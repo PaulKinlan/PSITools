@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.goracastrona.pl/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Goraca Strona Przepisy Kulinarne na Każdą Okazje: Przepisy kulinarne na każdą okazję!](http://www.goracastrona.pl/)
 
@@ -29,9 +34,6 @@ title: http://www.goracastrona.pl/
 *  JS Response Bytes: 2361677
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 332772
-
-### Performance issues
-
 
 ### Performance issues
 

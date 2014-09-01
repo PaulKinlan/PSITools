@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.duowan.com/m/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [多玩游戏](http://www.duowan.com/m/)
 
@@ -29,9 +33,6 @@ title: http://www.duowan.com/m/
 *  JS Response Bytes: 89452
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45
-
-### Performance issues
-
 
 ### Performance issues
 

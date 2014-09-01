@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chronita.com/todh/chrome/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Today in History](http://chronita.com/todh/chrome/)
 
@@ -29,9 +32,6 @@ title: http://chronita.com/todh/chrome/
 *  JS Response Bytes: 503782
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4276
-
-### Performance issues
-
 
 ### Performance issues
 

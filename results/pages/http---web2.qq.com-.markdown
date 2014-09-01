@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://web2.qq.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://web2.qq.com/)
 
@@ -29,9 +32,6 @@ title: http://web2.qq.com/
 *  JS Response Bytes: 12470
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 350
-
-### Performance issues
-
 
 ### Performance issues
 

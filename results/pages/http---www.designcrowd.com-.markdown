@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.designcrowd.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Logo Design, Graphic Design and Web Design | DesignCrowd](http://www.designcrowd.com/)
 
@@ -29,9 +33,6 @@ title: http://www.designcrowd.com/
 *  JS Response Bytes: 2299577
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13126
-
-### Performance issues
-
 
 ### Performance issues
 

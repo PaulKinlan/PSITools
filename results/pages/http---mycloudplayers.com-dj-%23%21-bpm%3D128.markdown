@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mycloudplayers.com/dj/#!/bpm=128
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [My Cloud Mixer](http://mycloudplayers.com/dj/#!/bpm=128)
 
@@ -29,9 +32,6 @@ title: http://mycloudplayers.com/dj/#!/bpm=128
 *  JS Response Bytes: 1718141
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 128613
-
-### Performance issues
-
 
 ### Performance issues
 

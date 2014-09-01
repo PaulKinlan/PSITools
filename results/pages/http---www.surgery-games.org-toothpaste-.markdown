@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/toothpaste/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Toothpaste game](http://www.surgery-games.org/toothpaste/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/toothpaste/
 *  JS Response Bytes: 2629852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 123412
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamerune.com/physics/oh-my-candy!
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Oh, My Candy! - Free Online Games | GameRune](http://www.gamerune.com/physics/oh-my-candy!)
 
@@ -29,9 +35,6 @@ title: http://www.gamerune.com/physics/oh-my-candy!
 *  JS Response Bytes: 1431163
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111917
-
-### Performance issues
-
 
 ### Performance issues
 

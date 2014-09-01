@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gamous.me/dinobasketball/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gamous.me » Dino Basket Ball](http://gamous.me/dinobasketball/)
 
@@ -29,9 +34,6 @@ title: http://gamous.me/dinobasketball/
 *  JS Response Bytes: 789746
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2216
-
-### Performance issues
-
 
 ### Performance issues
 

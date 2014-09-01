@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.hotboxgames.com/minecraft.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MineCraft | Hot Box Games](http://www.hotboxgames.com/minecraft.html)
 
@@ -29,9 +34,6 @@ title: http://www.hotboxgames.com/minecraft.html
 *  JS Response Bytes: 1543254
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115033
-
-### Performance issues
-
 
 ### Performance issues
 

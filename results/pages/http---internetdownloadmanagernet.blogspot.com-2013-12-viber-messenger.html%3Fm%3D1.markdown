@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://internetdownloadmanagernet.blogspot.com/2013/12/viber-messenger.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [İnternet download manager: Viber messenger](http://internetdownloadmanagernet.blogspot.com/2013/12/viber-messenger.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://internetdownloadmanagernet.blogspot.com/2013/12/viber-messenger.ht
 *  JS Response Bytes: 958862
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98007
-
-### Performance issues
-
 
 ### Performance issues
 

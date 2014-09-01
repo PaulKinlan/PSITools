@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.periodicmetal.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [即日振込みのキャッシングのおかげで胸をなでおろすことができました](http://www.periodicmetal.com/)
 
@@ -29,9 +33,6 @@ title: http://www.periodicmetal.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 478
-
-### Performance issues
-
 
 ### Performance issues
 

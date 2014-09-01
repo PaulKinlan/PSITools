@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://imagecolorpicker.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Color Picker online | hex Color Picker | html Color Picker](http://imagecolorpicker.com/)
 
@@ -29,9 +36,6 @@ title: http://imagecolorpicker.com/
 *  JS Response Bytes: 1623868
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97435
-
-### Performance issues
-
 
 ### Performance issues
 

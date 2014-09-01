@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesyz.com/temple-run-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Temple Run 2 : Games YZ](http://www.gamesyz.com/temple-run-2.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamesyz.com/temple-run-2.html
 *  JS Response Bytes: 1529138
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103907
-
-### Performance issues
-
 
 ### Performance issues
 

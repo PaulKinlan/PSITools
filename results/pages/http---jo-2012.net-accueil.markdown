@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://jo-2012.net/accueil
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jeux Olympiques 2012 - Actualité, Calendrier, Résultats, Médailles, Stades](http://jo-2012.net/accueil)
 
@@ -29,9 +36,6 @@ title: http://jo-2012.net/accueil
 *  JS Response Bytes: 908595
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18183
-
-### Performance issues
-
 
 ### Performance issues
 

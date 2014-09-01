@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.igrafan.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IgraFan - Многопользовательские игры онлайн.](http://www.igrafan.com/)
 
@@ -29,9 +33,6 @@ title: http://www.igrafan.com/
 *  JS Response Bytes: 444756
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2723
-
-### Performance issues
-
 
 ### Performance issues
 

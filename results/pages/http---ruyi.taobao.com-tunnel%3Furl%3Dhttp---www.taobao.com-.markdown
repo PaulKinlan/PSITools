@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://ruyi.taobao.com/tunnel?url=http://www.taobao.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [淘宝网 - 淘！我喜欢](http://ruyi.taobao.com/tunnel?url=http://www.taobao.com/)
 
@@ -29,9 +34,6 @@ title: http://ruyi.taobao.com/tunnel?url=http://www.taobao.com/
 *  JS Response Bytes: 353014
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 992
-
-### Performance issues
-
 
 ### Performance issues
 

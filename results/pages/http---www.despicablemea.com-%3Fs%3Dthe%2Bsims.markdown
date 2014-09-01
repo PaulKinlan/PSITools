@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.despicablemea.com/?s=the+sims
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Despicable me play game Minion – Search Results – the sims](http://www.despicablemea.com/?s=the+sims)
 
@@ -29,9 +33,6 @@ title: http://www.despicablemea.com/?s=the+sims
 *  JS Response Bytes: 653421
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44627
-
-### Performance issues
-
 
 ### Performance issues
 

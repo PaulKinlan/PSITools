@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fscript.google.com%2Fa%2Fmacros%2Fsviete.pl%2Fs%2FAKfycbww4J4R0hC9hxh7SWuLA2txHqZwa2rmr3FBVLV6ocm4_j0I3f4%2Fexec&service=wise&sacu=1&hd=sviete.pl
+AvoidLandingPageRedirects: true
+ServerResponseTime: true
 ---
 ## [Meet Google Drive – One place for all your files](https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fscript.google.com%2Fa%2Fmacros%2Fsviete.pl%2Fs%2FAKfycbww4J4R0hC9hxh7SWuLA2txHqZwa2rmr3FBVLV6ocm4_j0I3f4%2Fexec&service=wise&sacu=1&hd=sviete.pl)
 
@@ -29,9 +31,6 @@ title: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fscript.go
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53147
-
-### Performance issues
-
 
 ### Performance issues
 

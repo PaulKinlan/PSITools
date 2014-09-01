@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://kalkulaator.alkoinfo.ee/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Alko kalkulaator](http://kalkulaator.alkoinfo.ee/)
 
@@ -29,9 +32,6 @@ title: http://kalkulaator.alkoinfo.ee/
 *  JS Response Bytes: 779256
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56376
-
-### Performance issues
-
 
 ### Performance issues
 

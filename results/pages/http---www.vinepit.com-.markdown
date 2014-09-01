@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.vinepit.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Vinepit - Did you say MULCH?](http://www.vinepit.com/)
 
@@ -29,9 +34,6 @@ title: http://www.vinepit.com/
 *  JS Response Bytes: 1838856
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 76607
-
-### Performance issues
-
 
 ### Performance issues
 

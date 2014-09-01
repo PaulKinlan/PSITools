@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.poks.org/full-screen-online-calculator/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
 ---
 ## [Full Screen Online Calculator - Poks.org](http://www.poks.org/full-screen-online-calculator/)
 
@@ -29,9 +32,6 @@ title: http://www.poks.org/full-screen-online-calculator/
 *  JS Response Bytes: 1110087
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 632
-
-### Performance issues
-
 
 ### Performance issues
 

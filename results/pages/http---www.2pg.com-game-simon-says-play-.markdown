@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2pg.com/game/simon-says/play/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Simon Says | 2 Player Games](http://www.2pg.com/game/simon-says/play/)
 
@@ -29,9 +34,6 @@ title: http://www.2pg.com/game/simon-says/play/
 *  JS Response Bytes: 1381811
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30733
-
-### Performance issues
-
 
 ### Performance issues
 

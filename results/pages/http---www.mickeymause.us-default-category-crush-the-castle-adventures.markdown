@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.mickeymause.us/default-category/crush-the-castle-adventures
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crush the Castle Adventures - Mickey Mause](http://www.mickeymause.us/default-category/crush-the-castle-adventures)
 
@@ -29,9 +35,6 @@ title: http://www.mickeymause.us/default-category/crush-the-castle-adventures
 *  JS Response Bytes: 1847833
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103413
-
-### Performance issues
-
 
 ### Performance issues
 

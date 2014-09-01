@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://gomockingbird.com/mockingbird/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Untitled - Mockingbird](https://gomockingbird.com/mockingbird/)
 
@@ -29,9 +33,6 @@ title: https://gomockingbird.com/mockingbird/
 *  JS Response Bytes: 3219233
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 368
-
-### Performance issues
-
 
 ### Performance issues
 

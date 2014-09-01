@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/roaring-waves/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Roaring Waves game](http://www.skateboarding-games.biz/roaring-waves/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/roaring-waves/
 *  JS Response Bytes: 2280988
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115033
-
-### Performance issues
-
 
 ### Performance issues
 

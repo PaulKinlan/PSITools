@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tiponlinegames.com/football-champions-game.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Football Champions Game | TIP ONLINE GAMES](http://www.tiponlinegames.com/football-champions-game.html)
 
@@ -29,9 +34,6 @@ title: http://www.tiponlinegames.com/football-champions-game.html
 *  JS Response Bytes: 894186
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14926
-
-### Performance issues
-
 
 ### Performance issues
 

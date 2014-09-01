@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://mine.legalmy.org/170850/17.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games Play » Minecraft](http://mine.legalmy.org/170850/17.html)
 
@@ -29,9 +34,6 @@ title: http://mine.legalmy.org/170850/17.html
 *  JS Response Bytes: 725373
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16599
-
-### Performance issues
-
 
 ### Performance issues
 

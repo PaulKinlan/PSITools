@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.greendome.us/default-category/devilish-moto-trial
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Devilish Moto Trial - Green Dome](http://www.greendome.us/default-category/devilish-moto-trial)
 
@@ -29,9 +34,6 @@ title: http://www.greendome.us/default-category/devilish-moto-trial
 *  JS Response Bytes: 1890801
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118527
-
-### Performance issues
-
 
 ### Performance issues
 

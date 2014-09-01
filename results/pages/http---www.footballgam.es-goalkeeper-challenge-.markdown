@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/goalkeeper-challenge/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Goalkeeper Challenge Game](http://www.footballgam.es/goalkeeper-challenge/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/goalkeeper-challenge/
 *  JS Response Bytes: 2297538
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155267
-
-### Performance issues
-
 
 ### Performance issues
 

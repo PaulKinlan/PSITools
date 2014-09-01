@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/destroy-the-world/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Destroy The World](http://www.war-games.ws/destroy-the-world/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/destroy-the-world/
 *  JS Response Bytes: 2292856
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122125
-
-### Performance issues
-
 
 ### Performance issues
 

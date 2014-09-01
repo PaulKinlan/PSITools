@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://usabilityhub.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fast User Testing ⋅ Five Second Test, Click Test and Nav Flow ⋅ UsabilityHub](https://usabilityhub.com/)
 
@@ -29,9 +34,6 @@ title: https://usabilityhub.com/
 *  JS Response Bytes: 413304
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8045
-
-### Performance issues
-
 
 ### Performance issues
 

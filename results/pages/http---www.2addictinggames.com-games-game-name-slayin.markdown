@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/game/name/slayin
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [slayin Addicting Games](http://www.2addictinggames.com/games/game/name/slayin)
 
@@ -29,9 +36,6 @@ title: http://www.2addictinggames.com/games/game/name/slayin
 *  JS Response Bytes: 1859642
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111887
-
-### Performance issues
-
 
 ### Performance issues
 

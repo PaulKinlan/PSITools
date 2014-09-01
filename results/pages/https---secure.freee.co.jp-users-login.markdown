@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://secure.freee.co.jp/users/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [freee | 全自動のクラウド型会計ソフト](https://secure.freee.co.jp/users/login)
 
@@ -29,9 +33,6 @@ title: https://secure.freee.co.jp/users/login
 *  JS Response Bytes: 3251086
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8709
-
-### Performance issues
-
 
 ### Performance issues
 

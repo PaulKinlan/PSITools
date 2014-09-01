@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://ebanking.bekonomike.com/unlogged/login.aspx?ReturnUrl=%2F
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BEK E-Banking | Qasja në BEK E-Banking](https://ebanking.bekonomike.com/unlogged/login.aspx?ReturnUrl=%2F)
 
@@ -29,9 +32,6 @@ title: https://ebanking.bekonomike.com/unlogged/login.aspx?ReturnUrl=%2F
 *  JS Response Bytes: 345633
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

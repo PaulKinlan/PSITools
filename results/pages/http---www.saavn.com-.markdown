@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.saavn.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Saavn for iOS](http://www.saavn.com/)
 
@@ -29,9 +30,6 @@ title: http://www.saavn.com/
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29669
-
-### Performance issues
-
 
 ### Performance issues
 

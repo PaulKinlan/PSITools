@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://lihattv.com/
+UseLegibleFontSizes: true
 ---
 ## [2.0 | lihattv](http://lihattv.com/)
 
@@ -29,9 +30,6 @@ title: http://lihattv.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

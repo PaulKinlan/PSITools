@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.drogbaster.it/snake.htm
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [My Virtual Pets Snake gioco interattivo](http://www.drogbaster.it/snake.htm)
 
@@ -29,9 +33,6 @@ title: http://www.drogbaster.it/snake.htm
 *  JS Response Bytes: 1970206
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 130425
-
-### Performance issues
-
 
 ### Performance issues
 

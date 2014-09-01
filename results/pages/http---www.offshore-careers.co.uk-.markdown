@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.offshore-careers.co.uk/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Offshore Careers/Jobs in UK and North Sea](http://www.offshore-careers.co.uk/)
 
@@ -29,9 +35,6 @@ title: http://www.offshore-careers.co.uk/
 *  JS Response Bytes: 1251914
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30822
-
-### Performance issues
-
 
 ### Performance issues
 

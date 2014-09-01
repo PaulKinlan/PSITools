@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://fullhdonlinegames.com/?=404;http://www.fullhdonlinegames.com:80/two-pipes-2.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [fullhdonlinegames.com](http://fullhdonlinegames.com/?=404;http://www.fullhdonlinegames.com:80/two-pipes-2.html&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://fullhdonlinegames.com/?=404;http://www.fullhdonlinegames.com:80/tw
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121
-
-### Performance issues
-
 
 ### Performance issues
 

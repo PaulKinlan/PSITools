@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameskut.com/fifa-14.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fifa 14 | GamesKut](http://www.gameskut.com/fifa-14.html)
 
@@ -29,9 +34,6 @@ title: http://www.gameskut.com/fifa-14.html
 *  JS Response Bytes: 491741
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1050
-
-### Performance issues
-
 
 ### Performance issues
 

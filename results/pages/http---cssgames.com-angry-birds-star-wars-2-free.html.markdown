@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://cssgames.com/angry-birds-star-wars-2-free.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CSSGames.Com – Angry Birds Star Wars II Free](http://cssgames.com/angry-birds-star-wars-2-free.html)
 
@@ -29,9 +35,6 @@ title: http://cssgames.com/angry-birds-star-wars-2-free.html
 *  JS Response Bytes: 424735
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 701
-
-### Performance issues
-
 
 ### Performance issues
 

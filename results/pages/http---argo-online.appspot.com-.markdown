@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://argo-online.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Argo Online Online](http://argo-online.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://argo-online.appspot.com/
 *  JS Response Bytes: 2021602
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 86165
-
-### Performance issues
-
 
 ### Performance issues
 

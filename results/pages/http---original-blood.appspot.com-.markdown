@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://original-blood.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Original Blood Online](http://original-blood.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://original-blood.appspot.com/
 *  JS Response Bytes: 813488
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 399440
-
-### Performance issues
-
 
 ### Performance issues
 

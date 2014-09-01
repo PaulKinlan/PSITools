@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.jokesforfun.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [jokesforfun.com: The Leading Joke for Fun Site on the Net](http://www.jokesforfun.com/)
 
@@ -29,9 +30,6 @@ title: http://www.jokesforfun.com/
 *  JS Response Bytes: 259015
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 433
-
-### Performance issues
-
 
 ### Performance issues
 

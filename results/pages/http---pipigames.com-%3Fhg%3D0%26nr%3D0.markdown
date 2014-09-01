@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://pipigames.com/?hg=0&nr=0
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [pipigames.com](http://pipigames.com/?hg=0&nr=0)
 
@@ -18,7 +23,7 @@ title: http://pipigames.com/?hg=0&nr=0
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 8
-*  Total Request Bytes: 1011
+*  Total Request Bytes: 1020
 
 ### Response data
 
@@ -26,12 +31,9 @@ title: http://pipigames.com/?hg=0&nr=0
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 16420
 *  Image Response Bytes: 49375
-*  JS Response Bytes: 111266
+*  JS Response Bytes: 111264
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 422
-
-### Performance issues
-
+*  Other Response Bytes: 428
 
 ### Performance issues
 

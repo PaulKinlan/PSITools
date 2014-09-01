@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.qookle.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ricette, cucina e cibo - cerca tra migliaia di ricette su Qookle.com](http://www.qookle.com/)
 
@@ -29,9 +33,6 @@ title: http://www.qookle.com/
 *  JS Response Bytes: 505084
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 68787
-
-### Performance issues
-
 
 ### Performance issues
 

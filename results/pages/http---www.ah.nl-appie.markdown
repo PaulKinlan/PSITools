@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.ah.nl/appie
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online boodschappen doen: thuisbezorgd of zelf ophalen | AH.nl](http://www.ah.nl/appie)
 
@@ -29,9 +31,6 @@ title: http://www.ah.nl/appie
 *  JS Response Bytes: 836725
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58794
-
-### Performance issues
-
 
 ### Performance issues
 

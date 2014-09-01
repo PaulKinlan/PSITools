@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.steffiandmihanta.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mihanta & Steffi Photography](http://www.steffiandmihanta.com/)
 
@@ -29,9 +33,6 @@ title: http://www.steffiandmihanta.com/
 *  JS Response Bytes: 464084
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 79454
-
-### Performance issues
-
 
 ### Performance issues
 

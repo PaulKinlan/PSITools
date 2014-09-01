@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playgreatgames.blogspot.com/2013/10/racing-3.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play great games: Racing 3](http://playgreatgames.blogspot.com/2013/10/racing-3.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playgreatgames.blogspot.com/2013/10/racing-3.html?m=1
 *  JS Response Bytes: 1371412
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287153
-
-### Performance issues
-
 
 ### Performance issues
 

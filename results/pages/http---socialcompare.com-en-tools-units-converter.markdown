@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://socialcompare.com/en/tools/units-converter
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Units conversion tool | Comparison tables - SocialCompare](http://socialcompare.com/en/tools/units-converter)
 
@@ -29,9 +33,6 @@ title: http://socialcompare.com/en/tools/units-converter
 *  JS Response Bytes: 1410880
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 604
-
-### Performance issues
-
 
 ### Performance issues
 

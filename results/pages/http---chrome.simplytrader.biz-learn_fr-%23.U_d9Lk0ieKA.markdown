@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://chrome.simplytrader.biz/learn_fr/#.U_d9Lk0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Faites Fructifier votre Argent en Devenant Trader!](http://chrome.simplytrader.biz/learn_fr/#.U_d9Lk0ieKA)
 
@@ -29,9 +35,6 @@ title: http://chrome.simplytrader.biz/learn_fr/#.U_d9Lk0ieKA
 *  JS Response Bytes: 1422040
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116602
-
-### Performance issues
-
 
 ### Performance issues
 

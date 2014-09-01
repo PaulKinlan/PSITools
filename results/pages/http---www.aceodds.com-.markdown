@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.aceodds.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bet Calculator: Work Out Your Bet Winnings Online - AceOdds](http://www.aceodds.com/)
 
@@ -29,9 +31,6 @@ title: http://www.aceodds.com/
 *  JS Response Bytes: 573853
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesol99.com/default-category/air-wars
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Air Wars - Gamesol99](http://www.gamesol99.com/default-category/air-wars)
 
@@ -29,9 +34,6 @@ title: http://www.gamesol99.com/default-category/air-wars
 *  JS Response Bytes: 819938
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14548
-
-### Performance issues
-
 
 ### Performance issues
 

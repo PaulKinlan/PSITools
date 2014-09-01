@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://hitgames2014.com/earn-to-die/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hit Games 2014 – Earn To Die](http://hitgames2014.com/earn-to-die/)
 
@@ -29,9 +34,6 @@ title: http://hitgames2014.com/earn-to-die/
 *  JS Response Bytes: 1031973
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19368
-
-### Performance issues
-
 
 ### Performance issues
 

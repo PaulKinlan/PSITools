@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://appsgap.com/chrome/PDFMergy/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PDF Mergy](http://appsgap.com/chrome/PDFMergy/)
 
@@ -29,9 +33,6 @@ title: http://appsgap.com/chrome/PDFMergy/
 *  JS Response Bytes: 93082
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15204
-
-### Performance issues
-
 
 ### Performance issues
 

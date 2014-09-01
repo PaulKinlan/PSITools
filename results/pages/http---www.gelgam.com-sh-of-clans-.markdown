@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gelgam.com/sh-of-clans/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gel Games – Clash Of Clans](http://www.gelgam.com/sh-of-clans/)
 
@@ -29,9 +34,6 @@ title: http://www.gelgam.com/sh-of-clans/
 *  JS Response Bytes: 1132799
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2206
-
-### Performance issues
-
 
 ### Performance issues
 

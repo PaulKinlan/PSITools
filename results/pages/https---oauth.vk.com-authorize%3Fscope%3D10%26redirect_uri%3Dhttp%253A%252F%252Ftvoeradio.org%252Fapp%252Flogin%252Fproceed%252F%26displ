@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://oauth.vk.com/authorize?scope=10&redirect_uri=http%3A%2F%2Ftvoeradio.org%2Fapp%2Flogin%2Fproceed%2F&display=popup&client_id=1832282&response_type=code
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Gain Access to VK](https://oauth.vk.com/authorize?scope=10&redirect_uri=http%3A%2F%2Ftvoeradio.org%2Fapp%2Flogin%2Fproceed%2F&display=popup&client_id=1832282&response_type=code)
 
@@ -29,9 +31,6 @@ title: https://oauth.vk.com/authorize?scope=10&redirect_uri=http%3A%2F%2Ftvoerad
 *  JS Response Bytes: 5860
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1392
-
-### Performance issues
-
 
 ### Performance issues
 

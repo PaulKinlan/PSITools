@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ebhasin.com/games/VideoPoker/index.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Video Poker -::- Bhasinsoft](http://www.ebhasin.com/games/VideoPoker/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.ebhasin.com/games/VideoPoker/index.html
 *  JS Response Bytes: 1509125
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110926
-
-### Performance issues
-
 
 ### Performance issues
 

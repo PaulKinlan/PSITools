@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ui.ptlogin2.qzone.com/cgi-bin/login?style=9&appid=549000929&pt_ttype=1&s_url=http%3A%2F%2Fm.qzone.com%2Finfocenter%3Fg_f%3D
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [手机统一登录](http://ui.ptlogin2.qzone.com/cgi-bin/login?style=9&appid=549000929&pt_ttype=1&s_url=http%3A%2F%2Fm.qzone.com%2Finfocenter%3Fg_f%3D)
 
@@ -29,9 +33,6 @@ title: http://ui.ptlogin2.qzone.com/cgi-bin/login?style=9&appid=549000929&pt_tty
 *  JS Response Bytes: 57176
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 385
-
-### Performance issues
-
 
 ### Performance issues
 

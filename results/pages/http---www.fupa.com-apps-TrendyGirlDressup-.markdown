@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/TrendyGirlDressup/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Trendy Girl DressUp](http://www.fupa.com/apps/TrendyGirlDressup/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/TrendyGirlDressup/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sef-italia.it/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Benvenuto - SEF Italia APS ASD](http://www.sef-italia.it/)
 
@@ -29,9 +34,6 @@ title: http://www.sef-italia.it/
 *  JS Response Bytes: 166000
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

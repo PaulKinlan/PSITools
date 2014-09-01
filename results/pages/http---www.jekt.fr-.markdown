@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.jekt.fr/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Jekt : Jeux gratuit - Sélection des meilleurs jeux gratuits 2014](http://www.jekt.fr/)
 
@@ -29,9 +32,6 @@ title: http://www.jekt.fr/
 *  JS Response Bytes: 2006024
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109931
-
-### Performance issues
-
 
 ### Performance issues
 

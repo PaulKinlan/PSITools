@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gembly.com/en/play-free/icecreamshuffle?utm_source=Chromestore&utm_medium=Chromestore&utm_content=ICS&utm_campaign=Partners
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Play Ice Cream Shuffle free game at Gembly - Unlimited fun!](http://www.gembly.com/en/play-free/icecreamshuffle?utm_source=Chromestore&utm_medium=Chromestore&utm_content=ICS&utm_campaign=Partners)
 
@@ -29,9 +32,6 @@ title: http://www.gembly.com/en/play-free/icecreamshuffle?utm_source=Chromestore
 *  JS Response Bytes: 544394
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44709
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.officinepixel.com/online/games/ffxRunnerHD/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [FFXrunner HD](http://www.officinepixel.com/online/games/ffxRunnerHD/)
 
@@ -29,9 +33,6 @@ title: http://www.officinepixel.com/online/games/ffxRunnerHD/
 *  JS Response Bytes: 586985
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14677
-
-### Performance issues
-
 
 ### Performance issues
 

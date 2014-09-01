@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.printedowl.com/Calendar.aspx?id=museum_calendar
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Daily Quote | Museums and Halls One a Day | Suggested Gifts and Search | August 22](http://www.printedowl.com/Calendar.aspx?id=museum_calendar)
 
@@ -29,9 +34,6 @@ title: http://www.printedowl.com/Calendar.aspx?id=museum_calendar
 *  JS Response Bytes: 808942
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29664
-
-### Performance issues
-
 
 ### Performance issues
 

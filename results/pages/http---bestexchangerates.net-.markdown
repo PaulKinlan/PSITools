@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bestexchangerates.net/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [BestExchRate](http://bestexchangerates.net/)
 
@@ -29,9 +32,6 @@ title: http://bestexchangerates.net/
 *  JS Response Bytes: 1455570
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4506
-
-### Performance issues
-
 
 ### Performance issues
 

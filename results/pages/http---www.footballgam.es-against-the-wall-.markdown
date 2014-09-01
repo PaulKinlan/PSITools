@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/against-the-wall/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Against The Wall Game](http://www.footballgam.es/against-the-wall/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/against-the-wall/
 *  JS Response Bytes: 2265037
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 142547
-
-### Performance issues
-
 
 ### Performance issues
 

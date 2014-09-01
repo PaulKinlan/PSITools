@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.proxyfree-3.appspot.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Proxy - Free Web Proxies](http://www.proxyfree-3.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://www.proxyfree-3.appspot.com/
 *  JS Response Bytes: 630169
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14598
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.oncoloring.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [free coloring pages , coloring sheets , printable coloring pages](http://www.oncoloring.com/)
 
@@ -29,9 +33,6 @@ title: http://www.oncoloring.com/
 *  JS Response Bytes: 1556085
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112019
-
-### Performance issues
-
 
 ### Performance issues
 

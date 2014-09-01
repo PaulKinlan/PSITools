@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://sinkan.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sinkan.com - checks the new release date of books, CD, DVD, and game automatically.](http://sinkan.com/)
 
@@ -29,9 +33,6 @@ title: http://sinkan.com/
 *  JS Response Bytes: 962147
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17483
-
-### Performance issues
-
 
 ### Performance issues
 

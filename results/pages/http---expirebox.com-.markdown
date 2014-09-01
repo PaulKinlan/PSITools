@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://expirebox.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ExpireBox](http://expirebox.com/)
 
@@ -29,9 +33,6 @@ title: http://expirebox.com/
 *  JS Response Bytes: 1330501
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115835
-
-### Performance issues
-
 
 ### Performance issues
 

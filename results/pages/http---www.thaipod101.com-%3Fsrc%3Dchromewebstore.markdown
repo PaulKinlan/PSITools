@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.thaipod101.com/?src=chromewebstore
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn Thai online. With our podcast, learning Thai is easy. | ThaiPod101.com](http://www.thaipod101.com/?src=chromewebstore)
 
@@ -29,9 +33,6 @@ title: http://www.thaipod101.com/?src=chromewebstore
 *  JS Response Bytes: 599850
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18874
-
-### Performance issues
-
 
 ### Performance issues
 

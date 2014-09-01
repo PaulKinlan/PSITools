@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://skyda.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Skyda 8 - Skyda8 Vaporizer: Skyda 8 Personal Vape Pen review](http://skyda.net/)
 
@@ -29,9 +33,6 @@ title: http://skyda.net/
 *  JS Response Bytes: 1122130
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 139890
-
-### Performance issues
-
 
 ### Performance issues
 

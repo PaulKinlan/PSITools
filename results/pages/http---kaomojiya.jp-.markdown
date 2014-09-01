@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://kaomojiya.jp/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [顔文字屋](http://kaomojiya.jp/)
 
@@ -29,9 +32,6 @@ title: http://kaomojiya.jp/
 *  JS Response Bytes: 1030077
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1091
-
-### Performance issues
-
 
 ### Performance issues
 

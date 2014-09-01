@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://play.games365.in//sfs/chrome.php?wid=3380067
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Speed Wordz](http://play.games365.in//sfs/chrome.php?wid=3380067)
 
@@ -29,9 +35,6 @@ title: http://play.games365.in//sfs/chrome.php?wid=3380067
 *  JS Response Bytes: 819367
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96332
-
-### Performance issues
-
 
 ### Performance issues
 

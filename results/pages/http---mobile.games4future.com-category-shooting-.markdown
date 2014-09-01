@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://mobile.games4future.com/category/shooting/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [Page not Found!](http://mobile.games4future.com/category/shooting/)
 
@@ -29,9 +31,6 @@ title: http://mobile.games4future.com/category/shooting/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 86336
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/744250/?autoAction=true&sId=Chrome_Webstore_Nov12_744250
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Magical Mysteries: Path of the Sorceress for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/744250/?autoAction=true&sId=Chrome_Webstore_Nov12_744250)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/744250/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1396818
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30334
-
-### Performance issues
-
 
 ### Performance issues
 

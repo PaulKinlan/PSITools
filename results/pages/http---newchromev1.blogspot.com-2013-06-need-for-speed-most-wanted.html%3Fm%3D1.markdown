@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://newchromev1.blogspot.com/2013/06/need-for-speed-most-wanted.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [Newchromev1: Need for Speed Most Wanted](http://newchromev1.blogspot.com/2013/06/need-for-speed-most-wanted.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://newchromev1.blogspot.com/2013/06/need-for-speed-most-wanted.html?m
 *  JS Response Bytes: 1067942
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98002
-
-### Performance issues
-
 
 ### Performance issues
 

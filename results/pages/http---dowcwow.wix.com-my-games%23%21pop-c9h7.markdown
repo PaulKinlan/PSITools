@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://dowcwow.wix.com/my-games#!pop/c9h7
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [my-games | Pop](http://dowcwow.wix.com/my-games#!pop/c9h7)
 
@@ -29,9 +32,6 @@ title: http://dowcwow.wix.com/my-games#!pop/c9h7
 *  JS Response Bytes: 4271293
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22577
-
-### Performance issues
-
 
 ### Performance issues
 

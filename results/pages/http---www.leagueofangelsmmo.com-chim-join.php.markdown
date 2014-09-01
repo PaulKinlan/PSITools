@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.leagueofangelsmmo.com/chim/join.php
+AvoidLandingPageRedirects: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [League of Angels](http://www.leagueofangelsmmo.com/chim/join.php)
 
@@ -29,9 +34,6 @@ title: http://www.leagueofangelsmmo.com/chim/join.php
 *  JS Response Bytes: 1266591
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5560
-
-### Performance issues
-
 
 ### Performance issues
 

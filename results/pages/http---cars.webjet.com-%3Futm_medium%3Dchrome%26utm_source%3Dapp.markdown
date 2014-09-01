@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://cars.webjet.com/?utm_medium=chrome&utm_source=app
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Car Rental - Webjet](http://cars.webjet.com/?utm_medium=chrome&utm_source=app)
 
@@ -29,9 +35,6 @@ title: http://cars.webjet.com/?utm_medium=chrome&utm_source=app
 *  JS Response Bytes: 914630
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 389
-
-### Performance issues
-
 
 ### Performance issues
 

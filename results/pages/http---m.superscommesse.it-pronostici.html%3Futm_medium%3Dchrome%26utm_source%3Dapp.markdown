@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.superscommesse.it/pronostici.html?utm_medium=chrome&utm_source=app
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Pronostici Calcio - tutti i pronostici |Superscommesse.it](http://m.superscommesse.it/pronostici.html?utm_medium=chrome&utm_source=app)
 
@@ -29,9 +33,6 @@ title: http://m.superscommesse.it/pronostici.html?utm_medium=chrome&utm_source=a
 *  JS Response Bytes: 264600
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1755
-
-### Performance issues
-
 
 ### Performance issues
 

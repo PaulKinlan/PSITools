@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.3dchromeboxgames.com/wrath-of-the-titans/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Wrath Of The Titans | 3dchromeboxgames](http://www.3dchromeboxgames.com/wrath-of-the-titans/index.html)
 
@@ -29,9 +34,6 @@ title: http://www.3dchromeboxgames.com/wrath-of-the-titans/index.html
 *  JS Response Bytes: 1490239
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18332
-
-### Performance issues
-
 
 ### Performance issues
 

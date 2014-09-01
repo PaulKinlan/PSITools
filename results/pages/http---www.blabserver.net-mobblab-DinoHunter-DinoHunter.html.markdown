@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.blabserver.net/mobblab/DinoHunter/DinoHunter.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Unity Web Player | DinoHunter](http://www.blabserver.net/mobblab/DinoHunter/DinoHunter.html)
 
@@ -29,9 +33,6 @@ title: http://www.blabserver.net/mobblab/DinoHunter/DinoHunter.html
 *  JS Response Bytes: 541309
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

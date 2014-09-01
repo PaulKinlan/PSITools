@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://nickelspark.com/each/cc/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
 ---
 ## [Crazy Chicken](http://nickelspark.com/each/cc/index.html)
 
@@ -29,9 +33,6 @@ title: http://nickelspark.com/each/cc/index.html
 *  JS Response Bytes: 1020472
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

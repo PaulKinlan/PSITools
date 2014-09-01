@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playonl9.blogspot.com/2013/08/crazy-taxi-online-game.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Online: Crazy Taxi Online Game](http://playonl9.blogspot.com/2013/08/crazy-taxi-online-game.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playonl9.blogspot.com/2013/08/crazy-taxi-online-game.html?m=1
 *  JS Response Bytes: 2325486
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 288103
-
-### Performance issues
-
 
 ### Performance issues
 

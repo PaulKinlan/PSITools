@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.onlinewhitenoise.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free Online White Noise: Block Background Noise & Sounds](http://www.onlinewhitenoise.com/)
 
@@ -29,9 +32,6 @@ title: http://www.onlinewhitenoise.com/
 *  JS Response Bytes: 732146
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29028
-
-### Performance issues
-
 
 ### Performance issues
 

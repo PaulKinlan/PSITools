@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ww35.dogs-games.com/games/zombie-cats/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [dogs-games.com](http://ww35.dogs-games.com/games/zombie-cats/)
 
@@ -29,9 +33,6 @@ title: http://ww35.dogs-games.com/games/zombie-cats/
 *  JS Response Bytes: 186973
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 228
-
-### Performance issues
-
 
 ### Performance issues
 

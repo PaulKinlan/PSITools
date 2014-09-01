@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamexcenter.net/lose-the-heat-3/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Lose-the-heat-3 | GameXcenter](http://www.gamexcenter.net/lose-the-heat-3/)
 
@@ -29,9 +33,6 @@ title: http://www.gamexcenter.net/lose-the-heat-3/
 *  JS Response Bytes: 1106913
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 165089
-
-### Performance issues
-
 
 ### Performance issues
 

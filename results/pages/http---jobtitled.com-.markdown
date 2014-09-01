@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://jobtitled.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [JobTitled - Knowledge for career decisions](http://jobtitled.com/)
 
@@ -29,9 +35,6 @@ title: http://jobtitled.com/
 *  JS Response Bytes: 139261
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

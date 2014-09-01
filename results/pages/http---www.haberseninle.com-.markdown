@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.haberseninle.com/
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [Ana Sayfa | Haber Seninle - Haber - Güncel Haberler](http://www.haberseninle.com/)
 
@@ -29,9 +31,6 @@ title: http://www.haberseninle.com/
 *  JS Response Bytes: 462139
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

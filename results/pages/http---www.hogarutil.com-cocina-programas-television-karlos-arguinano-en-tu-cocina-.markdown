@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.hogarutil.com/cocina/programas-television/karlos-arguinano-en-tu-cocina/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Karlos Arguiñano en tu cocina - Hogarutil](http://www.hogarutil.com/cocina/programas-television/karlos-arguinano-en-tu-cocina/)
 
@@ -29,9 +34,6 @@ title: http://www.hogarutil.com/cocina/programas-television/karlos-arguinano-en-
 *  JS Response Bytes: 1935098
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27688
-
-### Performance issues
-
 
 ### Performance issues
 

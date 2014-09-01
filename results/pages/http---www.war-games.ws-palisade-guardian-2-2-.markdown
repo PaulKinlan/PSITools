@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/palisade-guardian-2-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Palisade Guardian 2](http://www.war-games.ws/palisade-guardian-2-2/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/palisade-guardian-2-2/
 *  JS Response Bytes: 2293295
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121039
-
-### Performance issues
-
 
 ### Performance issues
 

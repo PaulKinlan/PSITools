@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://network.adsmarket.com/click/iWNpmGecqZiIZ3CVX8p6w4iQapxnoH2YimKYmmCffpeJkHKWY517w45ocpZhnA
+UseLegibleFontSizes: true
 ---
 ## [](http://network.adsmarket.com/click/iWNpmGecqZiIZ3CVX8p6w4iQapxnoH2YimKYmmCffpeJkHKWY517w45ocpZhnA)
 
@@ -29,9 +30,6 @@ title: http://network.adsmarket.com/click/iWNpmGecqZiIZ3CVX8p6w4iQapxnoH2YimKYmm
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118
-
-### Performance issues
-
 
 ### Performance issues
 

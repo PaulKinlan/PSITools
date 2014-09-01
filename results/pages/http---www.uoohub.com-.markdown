@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.uoohub.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.uoohub.com/)
 
@@ -29,9 +33,6 @@ title: http://www.uoohub.com/
 *  JS Response Bytes: 1380111
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96817
-
-### Performance issues
-
 
 ### Performance issues
 

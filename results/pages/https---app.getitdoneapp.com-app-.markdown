@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://app.getitdoneapp.com/app/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [GID Task App](https://app.getitdoneapp.com/app/)
 
@@ -29,9 +32,6 @@ title: https://app.getitdoneapp.com/app/
 *  JS Response Bytes: 992281
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5068
-
-### Performance issues
-
 
 ### Performance issues
 

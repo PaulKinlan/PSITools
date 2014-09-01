@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mechrage.co.uk/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MechRage](http://www.mechrage.co.uk/)
 
@@ -29,9 +33,6 @@ title: http://www.mechrage.co.uk/
 *  JS Response Bytes: 262964
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2255
-
-### Performance issues
-
 
 ### Performance issues
 

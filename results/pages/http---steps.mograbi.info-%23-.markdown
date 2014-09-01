@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://steps.mograbi.info/#/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [](http://steps.mograbi.info/#/)
 
@@ -29,9 +33,6 @@ title: http://steps.mograbi.info/#/
 *  JS Response Bytes: 258600
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

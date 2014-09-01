@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.biocourseware.com/iphone/dnamapping/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DNA Mapping](http://www.biocourseware.com/iphone/dnamapping/)
 
@@ -29,9 +33,6 @@ title: http://www.biocourseware.com/iphone/dnamapping/
 *  JS Response Bytes: 1763931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141026
-
-### Performance issues
-
 
 ### Performance issues
 

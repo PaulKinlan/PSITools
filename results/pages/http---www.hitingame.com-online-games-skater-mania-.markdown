@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.hitingame.com/online-games/skater-mania/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Skater Mania « Online Flash Games – Popular Flash Games](http://www.hitingame.com/online-games/skater-mania/)
 
@@ -29,9 +35,6 @@ title: http://www.hitingame.com/online-games/skater-mania/
 *  JS Response Bytes: 1044463
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47642
-
-### Performance issues
-
 
 ### Performance issues
 

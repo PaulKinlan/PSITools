@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.offertagratis.com/squadre-liga.htm
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [▷ Squadre di Calcio del Campionato Liga Spagnola 2013](http://www.offertagratis.com/squadre-liga.htm)
 
@@ -29,9 +37,6 @@ title: http://www.offertagratis.com/squadre-liga.htm
 *  JS Response Bytes: 1269840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109055
-
-### Performance issues
-
 
 ### Performance issues
 

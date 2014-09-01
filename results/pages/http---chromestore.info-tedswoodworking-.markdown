@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromestore.info/tedswoodworking/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Instant Access To 16,000 Woodworking Designs, DIY Patterns & Crafts | Popular Woodworking Kits, Ideas and Furniture Plans](http://chromestore.info/tedswoodworking/)
 
@@ -29,9 +32,6 @@ title: http://chromestore.info/tedswoodworking/
 *  JS Response Bytes: 927430
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 68451
-
-### Performance issues
-
 
 ### Performance issues
 

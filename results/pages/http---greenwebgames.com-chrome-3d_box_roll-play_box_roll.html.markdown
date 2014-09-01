@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://greenwebgames.com/chrome/3d_box_roll/play_box_roll.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Box Roll - This online game is so addictive -](http://greenwebgames.com/chrome/3d_box_roll/play_box_roll.html)
 
@@ -29,9 +34,6 @@ title: http://greenwebgames.com/chrome/3d_box_roll/play_box_roll.html
 *  JS Response Bytes: 605396
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3508
-
-### Performance issues
-
 
 ### Performance issues
 

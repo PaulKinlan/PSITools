@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://work.skarma.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Work | Skarma](http://work.skarma.com/)
 
@@ -29,9 +33,6 @@ title: http://work.skarma.com/
 *  JS Response Bytes: 281562
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

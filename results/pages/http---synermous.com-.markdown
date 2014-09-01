@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://synermous.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Synermous - Massive Anonymous HTML5/WebGL Multiplayer Experience](http://synermous.com/)
 
@@ -29,9 +30,6 @@ title: http://synermous.com/
 *  JS Response Bytes: 607860
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

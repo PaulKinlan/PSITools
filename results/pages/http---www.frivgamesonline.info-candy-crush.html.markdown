@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.frivgamesonline.info/candy-crush.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Candy Crush : Friv Games Online](http://www.frivgamesonline.info/candy-crush.html)
 
@@ -29,9 +34,6 @@ title: http://www.frivgamesonline.info/candy-crush.html
 *  JS Response Bytes: 1900446
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 108918
-
-### Performance issues
-
 
 ### Performance issues
 

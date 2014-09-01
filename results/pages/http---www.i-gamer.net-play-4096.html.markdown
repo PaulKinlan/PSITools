@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.i-gamer.net/play/4096.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [三國英雄傳無敵版遊戲](http://www.i-gamer.net/play/4096.html)
 
@@ -29,9 +35,6 @@ title: http://www.i-gamer.net/play/4096.html
 *  JS Response Bytes: 1327817
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1551
-
-### Performance issues
-
 
 ### Performance issues
 

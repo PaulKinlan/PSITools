@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://web8085.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Web based 8085 Microprocessor Simulator](http://web8085.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://web8085.appspot.com/
 *  JS Response Bytes: 32862
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

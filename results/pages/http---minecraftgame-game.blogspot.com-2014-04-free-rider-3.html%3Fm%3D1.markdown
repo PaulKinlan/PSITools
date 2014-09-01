@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://minecraftgame-game.blogspot.com/2014/04/free-rider-3.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [minecraft hd game: Free rider 3](http://minecraftgame-game.blogspot.com/2014/04/free-rider-3.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://minecraftgame-game.blogspot.com/2014/04/free-rider-3.html?m=1
 *  JS Response Bytes: 720843
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95589
-
-### Performance issues
-
 
 ### Performance issues
 

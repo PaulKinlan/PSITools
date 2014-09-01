@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.blogsofwar.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Blogs of War](http://www.blogsofwar.com/)
 
@@ -29,9 +34,6 @@ title: http://www.blogsofwar.com/
 *  JS Response Bytes: 528505
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

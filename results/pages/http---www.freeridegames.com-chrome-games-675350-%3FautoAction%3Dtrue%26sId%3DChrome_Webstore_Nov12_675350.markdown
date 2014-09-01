@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/675350/?autoAction=true&sId=Chrome_Webstore_Nov12_675350
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Lavender's Botanicals for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/675350/?autoAction=true&sId=Chrome_Webstore_Nov12_675350)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/675350/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1559690
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10650
-
-### Performance issues
-
 
 ### Performance issues
 

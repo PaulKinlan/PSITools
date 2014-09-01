@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.webgameu.com/webgames/sports/Coco_s_Penalty_Shootout.html#.U_eJlk0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Coco's Penalty Shootout_我的网站](http://www.webgameu.com/webgames/sports/Coco_s_Penalty_Shootout.html#.U_eJlk0ieKA)
 
@@ -29,9 +36,6 @@ title: http://www.webgameu.com/webgames/sports/Coco_s_Penalty_Shootout.html#.U_e
 *  JS Response Bytes: 877082
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17352
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://pluralconcepts.com/nextBart
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [](http://pluralconcepts.com/nextBart)
 
@@ -29,9 +31,6 @@ title: http://pluralconcepts.com/nextBart
 *  JS Response Bytes: 514683
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53920
-
-### Performance issues
-
 
 ### Performance issues
 

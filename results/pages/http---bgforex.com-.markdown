@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://bgforex.com/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bgforex.com](http://bgforex.com/)
 
@@ -29,9 +31,6 @@ title: http://bgforex.com/
 *  JS Response Bytes: 167625
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

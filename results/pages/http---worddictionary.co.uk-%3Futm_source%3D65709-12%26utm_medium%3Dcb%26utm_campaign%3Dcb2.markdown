@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://worddictionary.co.uk/?utm_source=65709-12&utm_medium=cb&utm_campaign=cb2
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [English Dictionary - Worddictionary.co.uk](http://worddictionary.co.uk/?utm_source=65709-12&utm_medium=cb&utm_campaign=cb2)
 
@@ -29,9 +36,6 @@ title: http://worddictionary.co.uk/?utm_source=65709-12&utm_medium=cb&utm_campai
 *  JS Response Bytes: 158538
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40039
-
-### Performance issues
-
 
 ### Performance issues
 

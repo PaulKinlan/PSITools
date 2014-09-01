@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.thisisgantic.com/dashboard/ljs938u2nhe75jriw9.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Dashboard](http://www.thisisgantic.com/dashboard/ljs938u2nhe75jriw9.html)
 
@@ -29,9 +32,6 @@ title: http://www.thisisgantic.com/dashboard/ljs938u2nhe75jriw9.html
 *  JS Response Bytes: 207643
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7245
-
-### Performance issues
-
 
 ### Performance issues
 

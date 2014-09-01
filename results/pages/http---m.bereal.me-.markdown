@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://m.bereal.me/
+MinimizeRenderBlockingResources: true
 ---
 ## [Thank you | Be Real](http://m.bereal.me/)
 
@@ -29,9 +30,6 @@ title: http://m.bereal.me/
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

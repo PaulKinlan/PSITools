@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.nextgenerationband.nl/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [nextgenerationband.nl](http://www.nextgenerationband.nl/)
 
@@ -29,9 +32,6 @@ title: http://www.nextgenerationband.nl/
 *  JS Response Bytes: 932473
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 142672
-
-### Performance issues
-
 
 ### Performance issues
 

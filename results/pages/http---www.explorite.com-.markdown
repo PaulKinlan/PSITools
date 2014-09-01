@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.explorite.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Explorite - College life made easy.](http://www.explorite.com/)
 
@@ -29,9 +32,6 @@ title: http://www.explorite.com/
 *  JS Response Bytes: 659174
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61002
-
-### Performance issues
-
 
 ### Performance issues
 

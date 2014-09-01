@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.3388games.com/game/death-racing.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Street Speed Racer - Racing Games - Play Free Online Games](http://www.3388games.com/game/death-racing.html)
 
@@ -29,9 +35,6 @@ title: http://www.3388games.com/game/death-racing.html
 *  JS Response Bytes: 514134
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 592
-
-### Performance issues
-
 
 ### Performance issues
 

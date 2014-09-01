@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.cloudally.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [| CloudAlly](http://www.cloudally.com/)
 
@@ -29,9 +32,6 @@ title: http://www.cloudally.com/
 *  JS Response Bytes: 795223
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

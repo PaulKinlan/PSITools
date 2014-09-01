@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.easycurrencyconverter.com/welcome/unitconv/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online unit converter | easycurrencyconverter.com](http://www.easycurrencyconverter.com/welcome/unitconv/)
 
@@ -29,9 +32,6 @@ title: http://www.easycurrencyconverter.com/welcome/unitconv/
 *  JS Response Bytes: 1250856
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 140154
-
-### Performance issues
-
 
 ### Performance issues
 

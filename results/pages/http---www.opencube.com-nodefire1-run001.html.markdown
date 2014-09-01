@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.opencube.com/nodefire1/run001.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.opencube.com/nodefire1/run001.html)
 
@@ -29,9 +34,6 @@ title: http://www.opencube.com/nodefire1/run001.html
 *  JS Response Bytes: 2357815
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

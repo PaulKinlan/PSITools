@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://stopwatch.peargrove.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
 ---
 ## [Stopwatch](http://stopwatch.peargrove.com/)
 
@@ -29,9 +32,6 @@ title: http://stopwatch.peargrove.com/
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10627
-
-### Performance issues
-
 
 ### Performance issues
 

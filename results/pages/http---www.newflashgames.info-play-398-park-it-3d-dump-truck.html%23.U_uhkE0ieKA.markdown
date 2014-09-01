@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.newflashgames.info/play/398/park-it-3d-dump-truck.html#.U_uhkE0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Park It 3d Dump Truck - New Flash Games - Best Free Online Flash Games](http://www.newflashgames.info/play/398/park-it-3d-dump-truck.html#.U_uhkE0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.newflashgames.info/play/398/park-it-3d-dump-truck.html#.U_uhkE
 *  JS Response Bytes: 1512634
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15807
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://www.coloroid.net/
+EnableGzipCompression: true
 ---
 ## [Coloroid Pro](https://www.coloroid.net/)
 
@@ -29,9 +30,6 @@ title: https://www.coloroid.net/
 *  JS Response Bytes: 273930
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

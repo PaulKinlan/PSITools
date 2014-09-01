@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://freehdgame2013.blogspot.com/2013/08/iron-man-3.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [martin](http://freehdgame2013.blogspot.com/2013/08/iron-man-3.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://freehdgame2013.blogspot.com/2013/08/iron-man-3.html?m=1
 *  JS Response Bytes: 790881
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 330977
-
-### Performance issues
-
 
 ### Performance issues
 

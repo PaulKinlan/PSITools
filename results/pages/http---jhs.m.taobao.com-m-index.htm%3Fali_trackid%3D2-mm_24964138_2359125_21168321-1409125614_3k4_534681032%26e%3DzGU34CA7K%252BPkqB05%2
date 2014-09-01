@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://jhs.m.taobao.com/m/index.htm?ali_trackid=2:mm_24964138_2359125_21168321:1409125614_3k4_534681032&e=zGU34CA7K%2BPkqB05%2Bm7rfGKas1PIKp%2B39lSt8MNOfaZtvPZI4VcwjsbpTkMoNlwOKs80f%2B2vVkrNrAT012EaaAW7I0IcL7P7mmgMhYbcYTVJ%2BavQ%2FhB%2B60erTU9bZm5UvCMobkOuHPCpV%2F3XrLtBz5AEEd4avepCYZrtCa8JhTBYcesoNlYq5pYN18fAmFzYVnswxt3LF0YvflI%3D&type=2
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [聚划算](http://jhs.m.taobao.com/m/index.htm?ali_trackid=2:mm_24964138_2359125_21168321:1409125614_3k4_534681032&e=zGU34CA7K%2BPkqB05%2Bm7rfGKas1PIKp%2B39lSt8MNOfaZtvPZI4VcwjsbpTkMoNlwOKs80f%2B2vVkrNrAT012EaaAW7I0IcL7P7mmgMhYbcYTVJ%2BavQ%2FhB%2B60erTU9bZm5UvCMobkOuHPCpV%2F3XrLtBz5AEEd4avepCYZrtCa8JhTBYcesoNlYq5pYN18fAmFzYVnswxt3LF0YvflI%3D&type=2)
 
@@ -29,9 +33,6 @@ title: http://jhs.m.taobao.com/m/index.htm?ali_trackid=2:mm_24964138_2359125_211
 *  JS Response Bytes: 201306
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3753
-
-### Performance issues
-
 
 ### Performance issues
 

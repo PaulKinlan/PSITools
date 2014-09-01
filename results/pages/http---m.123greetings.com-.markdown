@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://m.123greetings.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free Online Greeting Cards, Ecards, Animated Cards, Postcards, Funny Cards From 123Greetings.com](http://m.123greetings.com/)
 
@@ -29,9 +34,6 @@ title: http://m.123greetings.com/
 *  JS Response Bytes: 647776
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21449
-
-### Performance issues
-
 
 ### Performance issues
 

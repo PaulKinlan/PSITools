@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.777flashgames.com/bad-piggies.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bad Piggies | 777 Flash Games](http://www.777flashgames.com/bad-piggies.html)
 
@@ -29,9 +34,6 @@ title: http://www.777flashgames.com/bad-piggies.html
 *  JS Response Bytes: 1530415
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105478
-
-### Performance issues
-
 
 ### Performance issues
 

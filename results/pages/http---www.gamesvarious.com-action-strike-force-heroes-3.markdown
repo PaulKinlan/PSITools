@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/action/strike-force-heroes-3
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Strike Force Heroes - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/action/strike-force-heroes-3)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/action/strike-force-heroes-3
 *  JS Response Bytes: 2212894
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 149547
-
-### Performance issues
-
 
 ### Performance issues
 

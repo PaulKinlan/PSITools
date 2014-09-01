@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://app.paymo.biz/auth/login/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Paymo.biz](https://app.paymo.biz/auth/login/)
 
@@ -29,9 +33,6 @@ title: https://app.paymo.biz/auth/login/
 *  JS Response Bytes: 215349
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

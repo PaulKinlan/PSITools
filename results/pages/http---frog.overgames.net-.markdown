@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://frog.overgames.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Frog-a-thon | by OverGames.net](http://frog.overgames.net/)
 
@@ -29,9 +34,6 @@ title: http://frog.overgames.net/
 *  JS Response Bytes: 1958346
 *  Flash Response Bytes: 76233
 *  Other Response Bytes: 98719
-
-### Performance issues
-
 
 ### Performance issues
 

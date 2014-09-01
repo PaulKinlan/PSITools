@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2pg.com/game/earn-to-die/play/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Earn to Die | 2 Player Games](http://www.2pg.com/game/earn-to-die/play/)
 
@@ -29,9 +34,6 @@ title: http://www.2pg.com/game/earn-to-die/play/
 *  JS Response Bytes: 1381293
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30760
-
-### Performance issues
-
 
 ### Performance issues
 

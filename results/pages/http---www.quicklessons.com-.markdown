@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.quicklessons.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Collaborative Platform to Create eLearning Courses](http://www.quicklessons.com/)
 
@@ -29,9 +33,6 @@ title: http://www.quicklessons.com/
 *  JS Response Bytes: 1372418
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9333
-
-### Performance issues
-
 
 ### Performance issues
 

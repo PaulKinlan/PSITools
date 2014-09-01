@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.visatvs.in/classify.php?country=3
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Visatvs.in](http://www.visatvs.in/classify.php?country=3)
 
@@ -29,9 +31,6 @@ title: http://www.visatvs.in/classify.php?country=3
 *  JS Response Bytes: 167635
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

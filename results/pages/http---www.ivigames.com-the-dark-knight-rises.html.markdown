@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ivigames.com/the-dark-knight-rises.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [iviGames.Com | Flash Game – The Dark Knight Rises](http://www.ivigames.com/the-dark-knight-rises.html)
 
@@ -29,9 +35,6 @@ title: http://www.ivigames.com/the-dark-knight-rises.html
 *  JS Response Bytes: 412514
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1077
-
-### Performance issues
-
 
 ### Performance issues
 

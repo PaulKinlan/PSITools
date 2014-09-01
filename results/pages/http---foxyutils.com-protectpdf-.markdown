@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://foxyutils.com/protectpdf/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FoxyUtils ProtectPDF - Password Protect PDF Files Online for Free](http://foxyutils.com/protectpdf/)
 
@@ -29,9 +34,6 @@ title: http://foxyutils.com/protectpdf/
 *  JS Response Bytes: 2024314
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112198
-
-### Performance issues
-
 
 ### Performance issues
 

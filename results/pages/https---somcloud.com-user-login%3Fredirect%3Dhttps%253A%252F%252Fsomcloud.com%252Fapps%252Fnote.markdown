@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://somcloud.com/user/login?redirect=https%3A%2F%2Fsomcloud.com%2Fapps%2Fnote
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [SomCloud - Login](https://somcloud.com/user/login?redirect=https%3A%2F%2Fsomcloud.com%2Fapps%2Fnote)
 
@@ -29,9 +31,6 @@ title: https://somcloud.com/user/login?redirect=https%3A%2F%2Fsomcloud.com%2Fapp
 *  JS Response Bytes: 652192
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49321
-
-### Performance issues
-
 
 ### Performance issues
 

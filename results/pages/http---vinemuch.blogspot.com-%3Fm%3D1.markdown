@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://vinemuch.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [VineMuch](http://vinemuch.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://vinemuch.blogspot.com/?m=1
 *  JS Response Bytes: 621365
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120294
-
-### Performance issues
-
 
 ### Performance issues
 

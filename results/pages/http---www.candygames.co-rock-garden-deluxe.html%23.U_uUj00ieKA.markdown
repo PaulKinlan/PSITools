@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.candygames.co/rock-garden-deluxe.html#.U_uUj00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Rock Garden Deluxe, a free online game at Candy Games - Candy Games](http://www.candygames.co/rock-garden-deluxe.html#.U_uUj00ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.candygames.co/rock-garden-deluxe.html#.U_uUj00ieKA
 *  JS Response Bytes: 1223838
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118857
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://t.picked-off.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Picked-Off.com Mobile](http://t.picked-off.com/)
 
@@ -29,9 +31,6 @@ title: http://t.picked-off.com/
 *  JS Response Bytes: 126207
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12799
-
-### Performance issues
-
 
 ### Performance issues
 

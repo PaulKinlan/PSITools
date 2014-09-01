@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chrome.maahalai.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Google Chrome Browser](http://chrome.maahalai.com/)
 
@@ -29,9 +32,6 @@ title: http://chrome.maahalai.com/
 *  JS Response Bytes: 313170
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 716
-
-### Performance issues
-
 
 ### Performance issues
 

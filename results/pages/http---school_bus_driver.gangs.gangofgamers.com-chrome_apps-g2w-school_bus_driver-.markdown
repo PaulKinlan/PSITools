@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://school_bus_driver.gangs.gangofgamers.com/chrome_apps/g2w/school_bus_driver/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The page cannot be found](http://school_bus_driver.gangs.gangofgamers.com/chrome_apps/g2w/school_bus_driver/)
 
@@ -29,9 +31,6 @@ title: http://school_bus_driver.gangs.gangofgamers.com/chrome_apps/g2w/school_bu
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1774
-
-### Performance issues
-
 
 ### Performance issues
 

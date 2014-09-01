@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.myplayyard.com/gadgets/v2/singles/zombudoy/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MyPlayYard Games - Zombudoy](http://www.myplayyard.com/gadgets/v2/singles/zombudoy/)
 
@@ -29,9 +33,6 @@ title: http://www.myplayyard.com/gadgets/v2/singles/zombudoy/
 *  JS Response Bytes: 754617
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14673
-
-### Performance issues
-
 
 ### Performance issues
 

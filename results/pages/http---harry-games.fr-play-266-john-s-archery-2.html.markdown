@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://harry-games.fr/play-266-john-s-archery-2.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jouer au jeu flash John`s Archery 2 sur Harry Games](http://harry-games.fr/play-266-john-s-archery-2.html)
 
@@ -29,9 +37,6 @@ title: http://harry-games.fr/play-266-john-s-archery-2.html
 *  JS Response Bytes: 1612281
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120184
-
-### Performance issues
-
 
 ### Performance issues
 

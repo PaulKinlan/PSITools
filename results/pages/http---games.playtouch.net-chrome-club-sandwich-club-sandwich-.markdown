@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://games.playtouch.net/chrome/club-sandwich/club-sandwich/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Club Sandwich](http://games.playtouch.net/chrome/club-sandwich/club-sandwich/)
 
@@ -29,9 +32,6 @@ title: http://games.playtouch.net/chrome/club-sandwich/club-sandwich/
 *  JS Response Bytes: 1583645
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1049
-
-### Performance issues
-
 
 ### Performance issues
 

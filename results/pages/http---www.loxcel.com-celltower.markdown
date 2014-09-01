@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.loxcel.com/celltower
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Cell Tower / Cell Site Map Finder (Canada)](http://www.loxcel.com/celltower)
 
@@ -29,9 +34,6 @@ title: http://www.loxcel.com/celltower
 *  JS Response Bytes: 500620
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 89877
-
-### Performance issues
-
 
 ### Performance issues
 

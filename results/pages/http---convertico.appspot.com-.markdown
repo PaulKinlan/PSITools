@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://convertico.appspot.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WebCompressor](http://convertico.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://convertico.appspot.com/
 *  JS Response Bytes: 451339
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

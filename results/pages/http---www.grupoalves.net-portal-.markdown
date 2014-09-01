@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.grupoalves.net/portal/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Home | Grupoalves.net](http://www.grupoalves.net/portal/)
 
@@ -26,12 +30,9 @@ title: http://www.grupoalves.net/portal/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 308660
 *  Image Response Bytes: 6308323
-*  JS Response Bytes: 290528
+*  JS Response Bytes: 291219
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 150884
-
-### Performance issues
-
+*  Other Response Bytes: 150877
 
 ### Performance issues
 

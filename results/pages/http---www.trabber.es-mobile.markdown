@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.trabber.es/mobile
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Trabber](http://www.trabber.es/mobile)
 
@@ -29,9 +32,6 @@ title: http://www.trabber.es/mobile
 *  JS Response Bytes: 228853
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 587
-
-### Performance issues
-
 
 ### Performance issues
 

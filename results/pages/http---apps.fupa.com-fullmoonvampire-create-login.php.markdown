@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://apps.fupa.com/fullmoonvampire/create/login.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Full Moon Vampire](http://apps.fupa.com/fullmoonvampire/create/login.php)
 
@@ -29,9 +34,6 @@ title: http://apps.fupa.com/fullmoonvampire/create/login.php
 *  JS Response Bytes: 737115
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 74
-
-### Performance issues
-
 
 ### Performance issues
 

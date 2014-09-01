@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.hitingame.com/online-games/isoball-3/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Isoball 3 « Online Flash Games – Popular Flash Games](http://www.hitingame.com/online-games/isoball-3/)
 
@@ -29,9 +35,6 @@ title: http://www.hitingame.com/online-games/isoball-3/
 *  JS Response Bytes: 1156462
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4168
-
-### Performance issues
-
 
 ### Performance issues
 

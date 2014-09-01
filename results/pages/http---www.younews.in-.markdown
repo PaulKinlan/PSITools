@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.younews.in/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Younews.in - Where you make news](http://www.younews.in/)
 
@@ -29,9 +33,6 @@ title: http://www.younews.in/
 *  JS Response Bytes: 1239649
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16868
-
-### Performance issues
-
 
 ### Performance issues
 

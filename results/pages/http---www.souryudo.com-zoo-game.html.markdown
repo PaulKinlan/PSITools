@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.souryudo.com/zoo/game.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [男前ダイス](http://www.souryudo.com/zoo/game.html)
 
@@ -29,9 +33,6 @@ title: http://www.souryudo.com/zoo/game.html
 *  JS Response Bytes: 444603
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43187
-
-### Performance issues
-
 
 ### Performance issues
 

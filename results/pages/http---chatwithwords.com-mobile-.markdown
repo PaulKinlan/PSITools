@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chatwithwords.com/mobile/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Chat With Words - Mobile](http://chatwithwords.com/mobile/)
 
@@ -29,9 +32,6 @@ title: http://chatwithwords.com/mobile/
 *  JS Response Bytes: 457746
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15529
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.feedarab.com/DotAndBox/
+EnableGzipCompression: true
+AvoidPlugins: true
 ---
 ## [DotAndBoxforWeb](http://www.feedarab.com/DotAndBox/)
 
@@ -29,9 +31,6 @@ title: http://www.feedarab.com/DotAndBox/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1105
-
-### Performance issues
-
 
 ### Performance issues
 

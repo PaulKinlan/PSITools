@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://cswgames.com/grand-theft-auto-vice-city.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CSWGames.Com – Grand Theft Auto: Vice City](http://cswgames.com/grand-theft-auto-vice-city.html)
 
@@ -29,9 +35,6 @@ title: http://cswgames.com/grand-theft-auto-vice-city.html
 *  JS Response Bytes: 405165
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 58948
-
-### Performance issues
-
 
 ### Performance issues
 

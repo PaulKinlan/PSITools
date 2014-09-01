@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.volkswagenlive.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Indian Premier League(IPL) 2012 – Live Score, Schedule, Updates | Volkswagen Live](http://www.volkswagenlive.com/)
 
@@ -29,9 +34,6 @@ title: http://www.volkswagenlive.com/
 *  JS Response Bytes: 411043
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109830
-
-### Performance issues
-
 
 ### Performance issues
 

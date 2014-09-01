@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.virtualife.com.br/webchat/canais/chrome/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [VirtuaLife Video Chat](http://www.virtualife.com.br/webchat/canais/chrome/)
 
@@ -29,9 +35,6 @@ title: http://www.virtualife.com.br/webchat/canais/chrome/
 *  JS Response Bytes: 562488
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19482
-
-### Performance issues
-
 
 ### Performance issues
 

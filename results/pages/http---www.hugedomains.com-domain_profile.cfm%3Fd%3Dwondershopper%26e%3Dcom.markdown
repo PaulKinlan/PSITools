@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.hugedomains.com/domain_profile.cfm?d=wondershopper&e=com
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HugeDomains.com - WonderShopper.com is for Sale (Wonder Shopper)](http://www.hugedomains.com/domain_profile.cfm?d=wondershopper&e=com)
 
@@ -29,9 +32,6 @@ title: http://www.hugedomains.com/domain_profile.cfm?d=wondershopper&e=com
 *  JS Response Bytes: 300757
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 442
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://hslg10.capita-cso.co.uk/CookieAuth.dll?GetLogon?curl=Z2FschoolsZ2FSSSSCZ2FSLGZ2Fdefault.aspx&reason=0&formdir=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome To Capita Hosted SIMS Learning Gateway](https://hslg10.capita-cso.co.uk/CookieAuth.dll?GetLogon?curl=Z2FschoolsZ2FSSSSCZ2FSLGZ2Fdefault.aspx&reason=0&formdir=1)
 
@@ -29,9 +34,6 @@ title: https://hslg10.capita-cso.co.uk/CookieAuth.dll?GetLogon?curl=Z2FschoolsZ2
 *  JS Response Bytes: 5753
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 292448
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameseternal.com/default-category/formula-racer-2012
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Formula Racer 2012 - Games EternaL](http://www.gameseternal.com/default-category/formula-racer-2012)
 
@@ -29,9 +34,6 @@ title: http://www.gameseternal.com/default-category/formula-racer-2012
 *  JS Response Bytes: 758956
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30207
-
-### Performance issues
-
 
 ### Performance issues
 

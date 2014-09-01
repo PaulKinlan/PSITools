@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://irez.me/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [iRez Salon - the virtual identity salon](http://irez.me/)
 
@@ -29,9 +31,6 @@ title: http://irez.me/
 *  JS Response Bytes: 364988
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31201
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.softreviews.info/allvideo/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Video Downloader App - Download FREE](http://www.softreviews.info/allvideo/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.softreviews.info/allvideo/index.html
 *  JS Response Bytes: 911321
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112860
-
-### Performance issues
-
 
 ### Performance issues
 

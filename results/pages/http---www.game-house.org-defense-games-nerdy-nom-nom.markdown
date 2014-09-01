@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.game-house.org/defense-games/nerdy-nom-nom
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | www.game-house.org | Play Most Popular Games Free](http://www.game-house.org/defense-games/nerdy-nom-nom)
 
@@ -29,9 +35,6 @@ title: http://www.game-house.org/defense-games/nerdy-nom-nom
 *  JS Response Bytes: 732926
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2257
-
-### Performance issues
-
 
 ### Performance issues
 

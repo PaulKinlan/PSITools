@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://wallpaperpick.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Wallpaperpick.com - Free desktop and mobile wallpaper](http://wallpaperpick.com/)
 
@@ -29,9 +33,6 @@ title: http://wallpaperpick.com/
 *  JS Response Bytes: 1456178
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1457
-
-### Performance issues
-
 
 ### Performance issues
 

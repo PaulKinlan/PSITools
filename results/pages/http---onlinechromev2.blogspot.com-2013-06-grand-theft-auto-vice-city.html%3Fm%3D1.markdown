@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://onlinechromev2.blogspot.com/2013/06/grand-theft-auto-vice-city.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [Online Chrome v2: Grand Theft Auto: Vice City](http://onlinechromev2.blogspot.com/2013/06/grand-theft-auto-vice-city.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://onlinechromev2.blogspot.com/2013/06/grand-theft-auto-vice-city.htm
 *  JS Response Bytes: 1067929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98013
-
-### Performance issues
-
 
 ### Performance issues
 

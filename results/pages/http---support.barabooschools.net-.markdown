@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://support.barabooschools.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Baraboo Schools | Mojo Helpdesk](http://support.barabooschools.net/)
 
@@ -29,9 +32,6 @@ title: http://support.barabooschools.net/
 *  JS Response Bytes: 384532
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

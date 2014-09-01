@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.universewithin.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
 ---
 ## [the universe within ... a game about our recursive universes.](http://www.universewithin.net/)
 
@@ -29,9 +32,6 @@ title: http://www.universewithin.net/
 *  JS Response Bytes: 380931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

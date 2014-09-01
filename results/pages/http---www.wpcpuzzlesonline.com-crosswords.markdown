@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.wpcpuzzlesonline.com/crosswords
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Crossword Puzzles - Fun With Logic](http://www.wpcpuzzlesonline.com/crosswords)
 
@@ -29,9 +32,6 @@ title: http://www.wpcpuzzlesonline.com/crosswords
 *  JS Response Bytes: 2037618
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 308087
-
-### Performance issues
-
 
 ### Performance issues
 

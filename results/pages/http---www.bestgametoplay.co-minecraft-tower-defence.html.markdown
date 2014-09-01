@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.bestgametoplay.co/minecraft-tower-defence.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Best Game To Play – Minecraft Tower Defence](http://www.bestgametoplay.co/minecraft-tower-defence.html)
 
@@ -29,9 +34,6 @@ title: http://www.bestgametoplay.co/minecraft-tower-defence.html
 *  JS Response Bytes: 1858129
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111266
-
-### Performance issues
-
 
 ### Performance issues
 

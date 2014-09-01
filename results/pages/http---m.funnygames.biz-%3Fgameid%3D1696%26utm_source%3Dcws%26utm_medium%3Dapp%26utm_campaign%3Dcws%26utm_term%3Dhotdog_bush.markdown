@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://m.funnygames.biz/?gameid=1696&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=hotdog_bush
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funnygames.biz/?gameid=1696&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=hotdog_bush)
 
@@ -29,9 +34,6 @@ title: http://m.funnygames.biz/?gameid=1696&utm_source=cws&utm_medium=app&utm_ca
 *  JS Response Bytes: 1265753
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28393
-
-### Performance issues
-
 
 ### Performance issues
 

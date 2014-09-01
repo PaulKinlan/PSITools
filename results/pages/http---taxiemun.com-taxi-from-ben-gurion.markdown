@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://taxiemun.com/taxi-from-ben-gurion
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Доставка на такси в аэропорт Бен-Гурион, цены, стоимость проезда | Такси EMUN в Израиле](http://taxiemun.com/taxi-from-ben-gurion)
 
@@ -29,9 +32,6 @@ title: http://taxiemun.com/taxi-from-ben-gurion
 *  JS Response Bytes: 378204
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8892
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.crystalclarke.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crystal Clarke Jewellery - Handcrafted Mixed Media, Silver and Copper Contemporary Art Jewellery > Crystal Clarke Jewellery](http://www.crystalclarke.com/)
 
@@ -29,9 +33,6 @@ title: http://www.crystalclarke.com/
 *  JS Response Bytes: 649254
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54144
-
-### Performance issues
-
 
 ### Performance issues
 

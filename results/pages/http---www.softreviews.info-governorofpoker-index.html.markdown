@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.softreviews.info/governorofpoker/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Governor of Poker Premium Edition](http://www.softreviews.info/governorofpoker/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.softreviews.info/governorofpoker/index.html
 *  JS Response Bytes: 485074
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://coreysnyder.me/ZombieHolidayGame/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombie Holiday Web](http://coreysnyder.me/ZombieHolidayGame/)
 
@@ -29,9 +33,6 @@ title: http://coreysnyder.me/ZombieHolidayGame/
 *  JS Response Bytes: 876045
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31848
-
-### Performance issues
-
 
 ### Performance issues
 

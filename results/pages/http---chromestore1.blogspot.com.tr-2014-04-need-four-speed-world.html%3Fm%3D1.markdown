@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromestore1.blogspot.com.tr/2014/04/need-four-speed-world.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [chrome game store: need four speed world](http://chromestore1.blogspot.com.tr/2014/04/need-four-speed-world.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromestore1.blogspot.com.tr/2014/04/need-four-speed-world.html?m=
 *  JS Response Bytes: 722268
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95598
-
-### Performance issues
-
 
 ### Performance issues
 

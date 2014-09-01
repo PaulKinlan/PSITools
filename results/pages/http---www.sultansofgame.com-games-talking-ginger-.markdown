@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/talking-ginger/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Talking Ginger Game — Sultans of Game](http://www.sultansofgame.com/games/talking-ginger/)
 
@@ -29,9 +34,6 @@ title: http://www.sultansofgame.com/games/talking-ginger/
 *  JS Response Bytes: 1470924
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 123447
-
-### Performance issues
-
 
 ### Performance issues
 

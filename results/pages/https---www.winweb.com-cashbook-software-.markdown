@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.winweb.com/cashbook-software/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WinWeb | Cashbook](https://www.winweb.com/cashbook-software/)
 
@@ -29,9 +33,6 @@ title: https://www.winweb.com/cashbook-software/
 *  JS Response Bytes: 1176958
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 302011
-
-### Performance issues
-
 
 ### Performance issues
 

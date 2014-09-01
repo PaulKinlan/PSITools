@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/iphonegames/angry-gran-2/#.U_d6A00ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Gran 2 « Online Flash Game Angry Gran 2](http://gamematic.net/online-flash-games/iphonegames/angry-gran-2/#.U_d6A00ieKA)
 
@@ -29,9 +37,6 @@ title: http://gamematic.net/online-flash-games/iphonegames/angry-gran-2/#.U_d6A0
 *  JS Response Bytes: 1275751
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43015
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://quicksnap.webcamwall.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Quick Snap Webcam Wall.](http://quicksnap.webcamwall.net/)
 
@@ -29,9 +34,6 @@ title: http://quicksnap.webcamwall.net/
 *  JS Response Bytes: 949315
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

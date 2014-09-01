@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://webstoretest.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Test For WebApp Store](http://webstoretest.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://webstoretest.blogspot.com/?m=1
 *  JS Response Bytes: 314298
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 564
-
-### Performance issues
-
 
 ### Performance issues
 

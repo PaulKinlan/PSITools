@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://hackedgames.mopixie.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Premium - Hacked Games • Play funtoosh online games • Mopixie.com](http://hackedgames.mopixie.com/)
 
@@ -29,9 +34,6 @@ title: http://hackedgames.mopixie.com/
 *  JS Response Bytes: 2285790
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 304991
-
-### Performance issues
-
 
 ### Performance issues
 

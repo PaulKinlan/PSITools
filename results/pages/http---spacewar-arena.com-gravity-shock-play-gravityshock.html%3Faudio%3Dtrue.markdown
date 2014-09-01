@@ -33,8 +33,5 @@ title: http://spacewar-arena.com/gravity-shock/play/gravityshock.html?audio=true
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

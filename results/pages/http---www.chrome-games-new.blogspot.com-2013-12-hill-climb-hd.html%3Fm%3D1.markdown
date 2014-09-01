@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.chrome-games-new.blogspot.com/2013/12/hill-climb-hd.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://www.chrome-games-new.blogspot.com/2013/12/hill-climb-hd.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://www.chrome-games-new.blogspot.com/2013/12/hill-climb-hd.html?m=1
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18833
-
-### Performance issues
-
 
 ### Performance issues
 

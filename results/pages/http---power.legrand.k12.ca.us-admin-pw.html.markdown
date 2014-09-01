@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://power.legrand.k12.ca.us/admin/pw.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [PowerSchool](http://power.legrand.k12.ca.us/admin/pw.html)
 
@@ -29,9 +31,6 @@ title: http://power.legrand.k12.ca.us/admin/pw.html
 *  JS Response Bytes: 548316
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 351
-
-### Performance issues
-
 
 ### Performance issues
 

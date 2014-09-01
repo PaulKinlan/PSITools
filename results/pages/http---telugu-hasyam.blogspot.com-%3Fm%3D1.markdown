@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://telugu-hasyam.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [తెలుగు హాస్యం (Telugu Hasyam)](http://telugu-hasyam.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://telugu-hasyam.blogspot.com/?m=1
 *  JS Response Bytes: 637560
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15718
-
-### Performance issues
-
 
 ### Performance issues
 

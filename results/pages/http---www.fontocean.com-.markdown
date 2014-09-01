@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.fontocean.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Font Ocean - font type, fonts, web fonts](http://www.fontocean.com/)
 
@@ -29,9 +31,6 @@ title: http://www.fontocean.com/
 *  JS Response Bytes: 1202392
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 69375
-
-### Performance issues
-
 
 ### Performance issues
 

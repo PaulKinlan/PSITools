@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://all14games53.blogspot.com/2013/02/naruto-vs-bleach-13.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [嗨](http://all14games53.blogspot.com/2013/02/naruto-vs-bleach-13.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://all14games53.blogspot.com/2013/02/naruto-vs-bleach-13.html?m=1
 *  JS Response Bytes: 792784
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 330979
-
-### Performance issues
-
 
 ### Performance issues
 

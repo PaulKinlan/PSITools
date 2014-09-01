@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.billiardgameslist.com/penthouse-pool-3d/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Penthouse Pool 3D](http://www.billiardgameslist.com/penthouse-pool-3d/)
 
@@ -29,9 +35,6 @@ title: http://www.billiardgameslist.com/penthouse-pool-3d/
 *  JS Response Bytes: 3038165
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 305400
-
-### Performance issues
-
 
 ### Performance issues
 

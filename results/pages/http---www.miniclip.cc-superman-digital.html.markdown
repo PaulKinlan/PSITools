@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.miniclip.cc/superman-digital.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Miniclip Superman Digital | Miniclip - Play Free Online Games and Miniclip](http://www.miniclip.cc/superman-digital.html)
 
@@ -29,9 +34,6 @@ title: http://www.miniclip.cc/superman-digital.html
 *  JS Response Bytes: 2013829
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112618
-
-### Performance issues
-
 
 ### Performance issues
 

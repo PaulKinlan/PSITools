@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://info.basispoort.nl/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Basispoort > Home](http://info.basispoort.nl/)
 
@@ -29,9 +31,6 @@ title: http://info.basispoort.nl/
 *  JS Response Bytes: 1003541
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1598
-
-### Performance issues
-
 
 ### Performance issues
 

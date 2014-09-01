@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.adminkit.net/dnsbl_monitor.aspx
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Email blacklist Monitor and Alert | adminkit.net](http://www.adminkit.net/dnsbl_monitor.aspx)
 
@@ -29,9 +32,6 @@ title: http://www.adminkit.net/dnsbl_monitor.aspx
 *  JS Response Bytes: 1308636
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102804
-
-### Performance issues
-
 
 ### Performance issues
 

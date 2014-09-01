@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.game-house.org/popular-games/bait-and-switch
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | www.game-house.org | Play Most Popular Games Free](http://www.game-house.org/popular-games/bait-and-switch)
 
@@ -29,9 +34,6 @@ title: http://www.game-house.org/popular-games/bait-and-switch
 *  JS Response Bytes: 1828845
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48226
-
-### Performance issues
-
 
 ### Performance issues
 

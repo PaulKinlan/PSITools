@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://your-fortune-cookie.herokuapp.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Your Fortune Cookies - Free and Instant Fortune Cookies](http://your-fortune-cookie.herokuapp.com/)
 
@@ -29,9 +35,6 @@ title: http://your-fortune-cookie.herokuapp.com/
 *  JS Response Bytes: 1686115
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 302255
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://internetdownloadmanagerdownload.blogspot.com/2014/01/internet-download-manager.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Internet download manager: internet download manager](http://internetdownloadmanagerdownload.blogspot.com/2014/01/internet-download-manager.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://internetdownloadmanagerdownload.blogspot.com/2014/01/internet-down
 *  JS Response Bytes: 958863
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98021
-
-### Performance issues
-
 
 ### Performance issues
 

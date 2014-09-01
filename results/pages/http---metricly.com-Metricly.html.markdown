@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://metricly.com/Metricly.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AppGlu + Metricly Dear Metricly Users, We are pleased to announce that Metricly has been acquired by AppGlu, a long-standing customer of ours and a wonderful provider of Ready-to-Run mobile apps for sales teams. The unfortunate flip side is that we are shutting down Metricly.com so we can put all our efforts into providing simple and informative dashboards for AppGlu customers. If you are still looking for a dashboard solution, there are many good alternatives, and if you are looking for a great mobile solution for your sales teams, we encourage you to try AppGlu for free. - Our Team](http://metricly.com/Metricly.html)
 
@@ -29,9 +32,6 @@ title: http://metricly.com/Metricly.html
 *  JS Response Bytes: 187144
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54
-
-### Performance issues
-
 
 ### Performance issues
 

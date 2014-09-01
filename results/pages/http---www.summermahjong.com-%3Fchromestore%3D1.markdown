@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.summermahjong.com/?chromestore=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Summer Mahjong](http://www.summermahjong.com/?chromestore=1)
 
@@ -29,9 +33,6 @@ title: http://www.summermahjong.com/?chromestore=1
 *  JS Response Bytes: 208252
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

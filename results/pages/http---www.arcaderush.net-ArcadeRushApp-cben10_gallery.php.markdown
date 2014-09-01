@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.arcaderush.net/ArcadeRushApp/cben10_gallery.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Arcade Rush Games - Ben 10 games](http://www.arcaderush.net/ArcadeRushApp/cben10_gallery.php)
 
@@ -29,9 +33,6 @@ title: http://www.arcaderush.net/ArcadeRushApp/cben10_gallery.php
 *  JS Response Bytes: 477269
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2490
-
-### Performance issues
-
 
 ### Performance issues
 

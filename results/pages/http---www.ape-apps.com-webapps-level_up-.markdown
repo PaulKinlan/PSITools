@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ape-apps.com/webapps/level_up/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Level Up](http://www.ape-apps.com/webapps/level_up/)
 
@@ -29,9 +33,6 @@ title: http://www.ape-apps.com/webapps/level_up/
 *  JS Response Bytes: 1472673
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124808
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.showmaniac.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [showmaniac · track your fav tvshows](http://www.showmaniac.org/)
 
@@ -29,9 +33,6 @@ title: http://www.showmaniac.org/
 *  JS Response Bytes: 811811
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19697
-
-### Performance issues
-
 
 ### Performance issues
 

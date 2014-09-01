@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m3.login.me.zing.vn/social/login?url=http://touch.me.zing.vn
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [](http://m3.login.me.zing.vn/social/login?url=http://touch.me.zing.vn)
 
@@ -29,9 +31,6 @@ title: http://m3.login.me.zing.vn/social/login?url=http://touch.me.zing.vn
 *  JS Response Bytes: 228696
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 368
-
-### Performance issues
-
 
 ### Performance issues
 

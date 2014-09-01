@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chromegamecenter.com/game/unblock-me.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Unblock Deluxe Games online](http://www.chromegamecenter.com/game/unblock-me.html)
 
@@ -29,9 +35,6 @@ title: http://www.chromegamecenter.com/game/unblock-me.html
 *  JS Response Bytes: 1235999
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102515
-
-### Performance issues
-
 
 ### Performance issues
 

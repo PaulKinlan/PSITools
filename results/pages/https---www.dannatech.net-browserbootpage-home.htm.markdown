@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.dannatech.net/browserbootpage/home.htm
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Error](https://www.dannatech.net/browserbootpage/home.htm)
 
@@ -29,9 +31,6 @@ title: https://www.dannatech.net/browserbootpage/home.htm
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

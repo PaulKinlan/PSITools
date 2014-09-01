@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ftd-games.com/builds/build14_sm2/toyraidstrikers_hosted.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Toy Raid Elite Forces](http://www.ftd-games.com/builds/build14_sm2/toyraidstrikers_hosted.html)
 
@@ -29,9 +34,6 @@ title: http://www.ftd-games.com/builds/build14_sm2/toyraidstrikers_hosted.html
 *  JS Response Bytes: 891680
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95814
-
-### Performance issues
-
 
 ### Performance issues
 

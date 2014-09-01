@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://odyssey.lewiscentral.k12.ia.us/clologin.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CompassLearning Customer Login](http://odyssey.lewiscentral.k12.ia.us/clologin.aspx)
 
@@ -29,9 +33,6 @@ title: http://odyssey.lewiscentral.k12.ia.us/clologin.aspx
 *  JS Response Bytes: 305151
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29746
-
-### Performance issues
-
 
 ### Performance issues
 

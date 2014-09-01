@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://amerikadanadrese.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Amerikadan Adrese En Uygun Bedele | Amerikadan Alisveris Kolayligi](http://amerikadanadrese.com/)
 
@@ -29,9 +34,6 @@ title: http://amerikadanadrese.com/
 *  JS Response Bytes: 1284596
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 944
-
-### Performance issues
-
 
 ### Performance issues
 

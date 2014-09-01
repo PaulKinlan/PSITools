@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/millionaire-city
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Addicting Games](http://www.2addictinggames.com/games/millionaire-city)
 
@@ -29,9 +34,6 @@ title: http://www.2addictinggames.com/games/millionaire-city
 *  JS Response Bytes: 1484526
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2515
-
-### Performance issues
-
 
 ### Performance issues
 

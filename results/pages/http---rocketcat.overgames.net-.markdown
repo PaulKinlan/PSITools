@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://rocketcat.overgames.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ROCKET CAT - by OverGames.net](http://rocketcat.overgames.net/)
 
@@ -29,9 +33,6 @@ title: http://rocketcat.overgames.net/
 *  JS Response Bytes: 2631561
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106711
-
-### Performance issues
-
 
 ### Performance issues
 

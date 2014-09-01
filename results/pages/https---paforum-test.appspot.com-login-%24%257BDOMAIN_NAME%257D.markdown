@@ -33,8 +33,5 @@ title: https://paforum-test.appspot.com/login/$%7BDOMAIN_NAME%7D
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

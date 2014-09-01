@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.jw.org/en/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Jehovah’s Witnesses—Official Website: jw.org](http://www.jw.org/en/)
 
@@ -29,9 +32,6 @@ title: http://www.jw.org/en/
 *  JS Response Bytes: 501764
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 500
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gemsmatchdeluxe.funkychromegames.com/gemsmatchdeluxe.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gems Match Deluxe](http://gemsmatchdeluxe.funkychromegames.com/gemsmatchdeluxe.htm)
 
@@ -29,9 +35,6 @@ title: http://gemsmatchdeluxe.funkychromegames.com/gemsmatchdeluxe.htm
 *  JS Response Bytes: 615206
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96994
-
-### Performance issues
-
 
 ### Performance issues
 

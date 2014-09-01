@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ipaste.eu/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Insert New Paste | iPaste,](http://www.ipaste.eu/)
 
@@ -29,9 +32,6 @@ title: http://www.ipaste.eu/
 *  JS Response Bytes: 1117295
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1709
-
-### Performance issues
-
 
 ### Performance issues
 

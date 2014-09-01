@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.thepokerseat.com/jacks1play.php
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Poker Seat](http://www.thepokerseat.com/jacks1play.php)
 
@@ -29,9 +34,6 @@ title: http://www.thepokerseat.com/jacks1play.php
 *  JS Response Bytes: 535174
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15443
-
-### Performance issues
-
 
 ### Performance issues
 

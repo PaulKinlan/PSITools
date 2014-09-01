@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://mendel.me/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Champion for the Go-Getters of the World](https://mendel.me/)
 
@@ -29,9 +33,6 @@ title: https://mendel.me/
 *  JS Response Bytes: 368527
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105287
-
-### Performance issues
-
 
 ### Performance issues
 

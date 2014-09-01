@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.playook.info/adventure/super-mario-63/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Super Mario 63 » Playook](http://www.playook.info/adventure/super-mario-63/)
 
@@ -29,9 +33,6 @@ title: http://www.playook.info/adventure/super-mario-63/
 *  JS Response Bytes: 1394359
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98435
-
-### Performance issues
-
 
 ### Performance issues
 

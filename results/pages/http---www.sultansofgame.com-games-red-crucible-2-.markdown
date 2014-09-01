@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/red-crucible-2/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Red Crucible 2 Game — Sultans of Game](http://www.sultansofgame.com/games/red-crucible-2/)
 
@@ -29,9 +34,6 @@ title: http://www.sultansofgame.com/games/red-crucible-2/
 *  JS Response Bytes: 1961616
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111909
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.stationofgames.com/jumpless-app/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jumpless App](http://www.stationofgames.com/jumpless-app/)
 
@@ -29,9 +35,6 @@ title: http://www.stationofgames.com/jumpless-app/
 *  JS Response Bytes: 1292531
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118264
-
-### Performance issues
-
 
 ### Performance issues
 

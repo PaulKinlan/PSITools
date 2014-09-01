@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.inmetics.com/php/lef.htm
+UseLegibleFontSizes: true
 ---
 ## [](http://www.inmetics.com/php/lef.htm)
 
@@ -29,9 +30,6 @@ title: http://www.inmetics.com/php/lef.htm
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 545
-
-### Performance issues
-
 
 ### Performance issues
 

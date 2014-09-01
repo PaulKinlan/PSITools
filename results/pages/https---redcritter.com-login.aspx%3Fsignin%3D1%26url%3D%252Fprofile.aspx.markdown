@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://redcritter.com/login.aspx?signin=1&url=%2Fprofile.aspx
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sign in or Sign up](https://redcritter.com/login.aspx?signin=1&url=%2Fprofile.aspx)
 
@@ -29,9 +32,6 @@ title: https://redcritter.com/login.aspx?signin=1&url=%2Fprofile.aspx
 *  JS Response Bytes: 798176
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 423
-
-### Performance issues
-
 
 ### Performance issues
 

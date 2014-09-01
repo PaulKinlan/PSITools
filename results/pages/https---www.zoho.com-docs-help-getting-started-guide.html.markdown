@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.zoho.com/docs/help/getting-started-guide.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Getting Started Guide : Zoho Docs](https://www.zoho.com/docs/help/getting-started-guide.html)
 
@@ -29,9 +33,6 @@ title: https://www.zoho.com/docs/help/getting-started-guide.html
 *  JS Response Bytes: 851565
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45497
-
-### Performance issues
-
 
 ### Performance issues
 

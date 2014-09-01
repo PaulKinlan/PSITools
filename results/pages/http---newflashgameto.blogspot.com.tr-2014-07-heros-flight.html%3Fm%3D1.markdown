@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://newflashgameto.blogspot.com.tr/2014/07/heros-flight.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [NewflashgameTo: Hero's Flight](http://newflashgameto.blogspot.com.tr/2014/07/heros-flight.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://newflashgameto.blogspot.com.tr/2014/07/heros-flight.html?m=1
 *  JS Response Bytes: 1842245
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 154394
-
-### Performance issues
-
 
 ### Performance issues
 

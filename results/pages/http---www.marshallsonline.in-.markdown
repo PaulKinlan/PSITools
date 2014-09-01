@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.marshallsonline.in/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [Marshalls Online](http://www.marshallsonline.in/)
 
@@ -29,9 +32,6 @@ title: http://www.marshallsonline.in/
 *  JS Response Bytes: 120127
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

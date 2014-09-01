@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/penalty-10/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Penalty 10 Game](http://www.footballgam.es/penalty-10/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/penalty-10/
 *  JS Response Bytes: 2460282
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 151107
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://de.kapihospital.com/?ref=gows
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kapi Hospital - Browsergames - Jetzt kostenlos im Browser spielen!](http://de.kapihospital.com/?ref=gows)
 
@@ -29,9 +34,6 @@ title: http://de.kapihospital.com/?ref=gows
 *  JS Response Bytes: 264634
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 783
-
-### Performance issues
-
 
 ### Performance issues
 

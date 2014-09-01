@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tianxia51.com/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [战天下_官方网站 -- 2011战争网游史诗巨作，视觉盛宴](http://www.tianxia51.com/index.html)
 
@@ -29,9 +34,6 @@ title: http://www.tianxia51.com/index.html
 *  JS Response Bytes: 161527
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 651
-
-### Performance issues
-
 
 ### Performance issues
 

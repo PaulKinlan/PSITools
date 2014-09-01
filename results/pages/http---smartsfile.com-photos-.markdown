@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://smartsfile.com/photos/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://smartsfile.com/photos/)
 
@@ -29,9 +33,6 @@ title: http://smartsfile.com/photos/
 *  JS Response Bytes: 1556937
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111118
-
-### Performance issues
-
 
 ### Performance issues
 

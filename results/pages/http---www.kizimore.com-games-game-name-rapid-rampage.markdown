@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kizimore.com/games/game/name/rapid-rampage
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [rapid-rampage Kizi - Online Games - Life is fun!](http://www.kizimore.com/games/game/name/rapid-rampage)
 
@@ -29,9 +34,6 @@ title: http://www.kizimore.com/games/game/name/rapid-rampage
 *  JS Response Bytes: 1859907
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111351
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.funny-games.co.uk/?gameid=1592&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=crescent_solitaite
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funny-games.co.uk/?gameid=1592&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=crescent_solitaite)
 
@@ -29,9 +33,6 @@ title: http://m.funny-games.co.uk/?gameid=1592&utm_source=cws&utm_medium=app&utm
 *  JS Response Bytes: 1266600
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28428
-
-### Performance issues
-
 
 ### Performance issues
 

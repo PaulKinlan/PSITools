@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://pulsr.candylandstudios.de/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [((Pulsr)) ((Pulsr))](http://pulsr.candylandstudios.de/)
 
@@ -29,9 +31,6 @@ title: http://pulsr.candylandstudios.de/
 *  JS Response Bytes: 255749
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1287
-
-### Performance issues
-
 
 ### Performance issues
 

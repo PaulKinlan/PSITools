@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chrismines.cgollner.x10.mx/html5/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ChrisMines](http://www.chrismines.cgollner.x10.mx/html5/)
 
@@ -29,9 +35,6 @@ title: http://www.chrismines.cgollner.x10.mx/html5/
 *  JS Response Bytes: 1289234
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120438
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://e-violins.com/violino/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [E-Violino - Learn the Violin](http://e-violins.com/violino/)
 
@@ -29,9 +34,6 @@ title: http://e-violins.com/violino/
 *  JS Response Bytes: 400753
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27753
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.videopind.in/touch/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Videopind](http://www.videopind.in/touch/)
 
@@ -29,9 +32,6 @@ title: http://www.videopind.in/touch/
 *  JS Response Bytes: 333885
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 92081
-
-### Performance issues
-
 
 ### Performance issues
 

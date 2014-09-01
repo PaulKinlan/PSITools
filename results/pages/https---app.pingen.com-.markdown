@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://app.pingen.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [pingen - Online Briefversand](https://app.pingen.com/)
 
@@ -29,9 +32,6 @@ title: https://app.pingen.com/
 *  JS Response Bytes: 1060235
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 972
-
-### Performance issues
-
 
 ### Performance issues
 

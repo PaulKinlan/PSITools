@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.bebe.com/mp2
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [bebe mobile: Women's Clothing & Apparel, Dresses, Tops, Jeans, Shoes, Bags, and More](http://m.bebe.com/mp2)
 
@@ -29,9 +33,6 @@ title: http://m.bebe.com/mp2
 *  JS Response Bytes: 302644
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8782
-
-### Performance issues
-
 
 ### Performance issues
 

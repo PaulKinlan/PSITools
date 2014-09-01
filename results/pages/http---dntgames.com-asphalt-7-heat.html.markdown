@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://dntgames.com/asphalt-7-heat.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DNTgames.Com | Flash Game Center | Flash Games. – Asphalt 7 Heat](http://dntgames.com/asphalt-7-heat.html)
 
@@ -29,9 +36,6 @@ title: http://dntgames.com/asphalt-7-heat.html
 *  JS Response Bytes: 412485
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1194
-
-### Performance issues
-
 
 ### Performance issues
 

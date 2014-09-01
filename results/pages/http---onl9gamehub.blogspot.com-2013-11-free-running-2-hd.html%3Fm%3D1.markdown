@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://onl9gamehub.blogspot.com/2013/11/free-running-2-hd.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Gaming: Free Running 2 HD](http://onl9gamehub.blogspot.com/2013/11/free-running-2-hd.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://onl9gamehub.blogspot.com/2013/11/free-running-2-hd.html?m=1
 *  JS Response Bytes: 1114967
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95587
-
-### Performance issues
-
 
 ### Performance issues
 

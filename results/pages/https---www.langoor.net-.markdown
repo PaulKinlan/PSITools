@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.langoor.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [langoor.net](https://www.langoor.net/)
 
@@ -29,9 +33,6 @@ title: https://www.langoor.net/
 *  JS Response Bytes: 209681
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

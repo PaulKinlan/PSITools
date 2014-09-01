@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.justherogames.com/category/4
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [İronman - Just Hero Games](http://www.justherogames.com/category/4)
 
@@ -29,9 +32,6 @@ title: http://www.justherogames.com/category/4
 *  JS Response Bytes: 649188
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1179
-
-### Performance issues
-
 
 ### Performance issues
 

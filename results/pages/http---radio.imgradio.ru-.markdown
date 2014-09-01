@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://radio.imgradio.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Слушать РАДИО ОНЛАЙН](http://radio.imgradio.ru/)
 
@@ -29,9 +34,6 @@ title: http://radio.imgradio.ru/
 *  JS Response Bytes: 844920
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16873
-
-### Performance issues
-
 
 ### Performance issues
 

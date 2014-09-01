@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.someapps.info/satellitedirect/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Satellite Direct App](http://www.someapps.info/satellitedirect/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.someapps.info/satellitedirect/index.html
 *  JS Response Bytes: 398006
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18198
-
-### Performance issues
-
 
 ### Performance issues
 

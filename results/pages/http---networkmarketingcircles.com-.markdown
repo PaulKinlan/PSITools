@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://networkmarketingcircles.com/
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Go Go MLM - The Best of Both Worlds -](http://networkmarketingcircles.com/)
 
@@ -29,9 +32,6 @@ title: http://networkmarketingcircles.com/
 *  JS Response Bytes: 1626092
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96726
-
-### Performance issues
-
 
 ### Performance issues
 

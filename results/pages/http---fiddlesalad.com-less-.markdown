@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://fiddlesalad.com/less/
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [Less CSS Editor | Fiddle Salad](http://fiddlesalad.com/less/)
 
@@ -29,9 +31,6 @@ title: http://fiddlesalad.com/less/
 *  JS Response Bytes: 2494088
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 48987
-
-### Performance issues
-
 
 ### Performance issues
 

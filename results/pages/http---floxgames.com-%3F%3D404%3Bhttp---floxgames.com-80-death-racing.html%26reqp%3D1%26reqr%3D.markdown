@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://floxgames.com/?=404;http://floxgames.com:80/death-racing.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [floxgames.com](http://floxgames.com/?=404;http://floxgames.com:80/death-racing.html&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://floxgames.com/?=404;http://floxgames.com:80/death-racing.html&reqp
 *  JS Response Bytes: 304181
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102
-
-### Performance issues
-
 
 ### Performance issues
 

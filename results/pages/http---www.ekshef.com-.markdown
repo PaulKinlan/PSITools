@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ekshef.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [اكشف](http://www.ekshef.com/)
 
@@ -29,9 +34,6 @@ title: http://www.ekshef.com/
 *  JS Response Bytes: 783903
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13395
-
-### Performance issues
-
 
 ### Performance issues
 

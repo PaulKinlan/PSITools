@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.justhappygames.com/category/15
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Racing - Just Happy Games](http://www.justhappygames.com/category/15)
 
@@ -29,9 +32,6 @@ title: http://www.justhappygames.com/category/15
 *  JS Response Bytes: 614896
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

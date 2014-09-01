@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://fancyzone.my-snaps.de/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Fancyzon | Fancy things on amazon](http://fancyzone.my-snaps.de/)
 
@@ -29,9 +31,6 @@ title: http://fancyzone.my-snaps.de/
 *  JS Response Bytes: 263008
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43746
-
-### Performance issues
-
 
 ### Performance issues
 

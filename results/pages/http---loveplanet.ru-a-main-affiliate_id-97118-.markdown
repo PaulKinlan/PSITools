@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://loveplanet.ru/a-main/affiliate_id-97118/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Знакомства LovePlanet.ru – сайт бесплатного онлайн общения с реальными людьми со всего мира!](http://loveplanet.ru/a-main/affiliate_id-97118/)
 
@@ -29,9 +34,6 @@ title: http://loveplanet.ru/a-main/affiliate_id-97118/
 *  JS Response Bytes: 399674
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6952
-
-### Performance issues
-
 
 ### Performance issues
 

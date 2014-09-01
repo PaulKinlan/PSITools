@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bg-da.eu/bg/ict-in-schools.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404 - Грешка: 404](http://www.bg-da.eu/bg/ict-in-schools.html)
 
@@ -29,9 +33,6 @@ title: http://www.bg-da.eu/bg/ict-in-schools.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2640
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.zoho.com/people/index.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HR Software, Online Human Resource Information System, HRIS | Zoho People](https://www.zoho.com/people/index.html)
 
@@ -29,9 +32,6 @@ title: https://www.zoho.com/people/index.html
 *  JS Response Bytes: 1431639
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44440
-
-### Performance issues
-
 
 ### Performance issues
 

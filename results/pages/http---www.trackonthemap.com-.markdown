@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.trackonthemap.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Track on the Map](http://www.trackonthemap.com/)
 
@@ -29,9 +33,6 @@ title: http://www.trackonthemap.com/
 *  JS Response Bytes: 1168893
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 149542
-
-### Performance issues
-
 
 ### Performance issues
 

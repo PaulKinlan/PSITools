@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.shark-software.com/Bulk-Email-Sender-Mass-Mailer.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bulk Email Sender - Mass Mailer](http://www.shark-software.com/Bulk-Email-Sender-Mass-Mailer.html)
 
@@ -29,9 +34,6 @@ title: http://www.shark-software.com/Bulk-Email-Sender-Mass-Mailer.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

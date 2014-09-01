@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamescruze.com/construction-simulator-2014/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games Cruze – Construction Simulator 2014](http://www.gamescruze.com/construction-simulator-2014/)
 
@@ -29,9 +33,6 @@ title: http://www.gamescruze.com/construction-simulator-2014/
 *  JS Response Bytes: 875985
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17052
-
-### Performance issues
-
 
 ### Performance issues
 

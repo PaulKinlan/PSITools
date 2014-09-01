@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://supergamecoming.blogspot.com.tr/2014/03/summon-hero.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [Super Game Coming: Summon The Hero](http://supergamecoming.blogspot.com.tr/2014/03/summon-hero.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://supergamecoming.blogspot.com.tr/2014/03/summon-hero.html?m=1
 *  JS Response Bytes: 1239024
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95881
-
-### Performance issues
-
 
 ### Performance issues
 

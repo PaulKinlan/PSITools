@@ -33,8 +33,5 @@ title: http://pfu.journalisten.no/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

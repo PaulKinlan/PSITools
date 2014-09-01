@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://app.sengerio.com/it
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sengerio - Login](http://app.sengerio.com/it)
 
@@ -29,9 +34,6 @@ title: http://app.sengerio.com/it
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 447
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://torigames.com/temple-run-oz.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ToriGames.Com | Flash Game | Flash Games | – Temple Run OZ](http://torigames.com/temple-run-oz.html)
 
@@ -29,9 +35,6 @@ title: http://torigames.com/temple-run-oz.html
 *  JS Response Bytes: 413987
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 805
-
-### Performance issues
-
 
 ### Performance issues
 

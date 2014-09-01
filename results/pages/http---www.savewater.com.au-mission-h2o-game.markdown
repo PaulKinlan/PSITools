@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.savewater.com.au/mission-h2o-game
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [savewater.com.au - Mission H2O game](http://www.savewater.com.au/mission-h2o-game)
 
@@ -29,9 +34,6 @@ title: http://www.savewater.com.au/mission-h2o-game
 *  JS Response Bytes: 451343
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8785
-
-### Performance issues
-
 
 ### Performance issues
 

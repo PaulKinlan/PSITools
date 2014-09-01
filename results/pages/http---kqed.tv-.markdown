@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://kqed.tv/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [KQED.TV - KQED public media for Northern CA](http://kqed.tv/)
 
@@ -29,9 +35,6 @@ title: http://kqed.tv/
 *  JS Response Bytes: 435990
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://foodrecipes.herokuapp.com/
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Food Recipes ·](http://foodrecipes.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://foodrecipes.herokuapp.com/
 *  JS Response Bytes: 1598273
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 214847
-
-### Performance issues
-
 
 ### Performance issues
 

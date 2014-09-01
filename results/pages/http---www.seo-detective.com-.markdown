@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.seo-detective.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SEO-Detective - the ultimate SEO Analysis in 2014](http://www.seo-detective.com/)
 
@@ -29,9 +35,6 @@ title: http://www.seo-detective.com/
 *  JS Response Bytes: 376609
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1278
-
-### Performance issues
-
 
 ### Performance issues
 

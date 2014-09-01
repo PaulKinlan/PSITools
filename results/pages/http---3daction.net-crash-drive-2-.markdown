@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://3daction.net/crash-drive-2/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Crash Drive 2](http://3daction.net/crash-drive-2/)
 
@@ -29,9 +36,6 @@ title: http://3daction.net/crash-drive-2/
 *  JS Response Bytes: 2858012
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148607
-
-### Performance issues
-
 
 ### Performance issues
 

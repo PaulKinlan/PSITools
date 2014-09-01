@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.supermotorsgames.com/driving---racing/3d-bugatti-racing
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Bugatti Racing - Games - Play Free Online Bike Games](http://www.supermotorsgames.com/driving---racing/3d-bugatti-racing)
 
@@ -29,9 +35,6 @@ title: http://www.supermotorsgames.com/driving---racing/3d-bugatti-racing
 *  JS Response Bytes: 980014
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17061
-
-### Performance issues
-
 
 ### Performance issues
 

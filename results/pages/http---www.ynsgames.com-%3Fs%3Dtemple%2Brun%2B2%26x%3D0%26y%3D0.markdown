@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ynsgames.com/?s=temple+run+2&x=0&y=0
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [temple run 2 « Search Results « Online free hd games play game](http://www.ynsgames.com/?s=temple+run+2&x=0&y=0)
 
@@ -29,9 +33,6 @@ title: http://www.ynsgames.com/?s=temple+run+2&x=0&y=0
 *  JS Response Bytes: 398593
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

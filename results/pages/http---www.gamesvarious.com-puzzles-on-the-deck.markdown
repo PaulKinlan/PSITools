@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/puzzles/on-the-deck
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [On the Deck - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/puzzles/on-the-deck)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/puzzles/on-the-deck
 *  JS Response Bytes: 2180849
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105715
-
-### Performance issues
-
 
 ### Performance issues
 

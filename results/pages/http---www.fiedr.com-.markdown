@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fiedr.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Fiedr.com - online newsreader](http://www.fiedr.com/)
 
@@ -29,9 +32,6 @@ title: http://www.fiedr.com/
 *  JS Response Bytes: 810153
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 57237
-
-### Performance issues
-
 
 ### Performance issues
 

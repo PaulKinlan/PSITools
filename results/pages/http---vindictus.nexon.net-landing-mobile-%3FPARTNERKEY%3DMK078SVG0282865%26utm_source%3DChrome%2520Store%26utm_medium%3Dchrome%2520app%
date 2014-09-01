@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://vindictus.nexon.net/landing/mobile/?PARTNERKEY=MK078SVG0282865&utm_source=Chrome%20Store&utm_medium=chrome%20app%20install&utm_campaign=Chrome%20Store
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Vindictus | Play Now](http://vindictus.nexon.net/landing/mobile/?PARTNERKEY=MK078SVG0282865&utm_source=Chrome%20Store&utm_medium=chrome%20app%20install&utm_campaign=Chrome%20Store)
 
@@ -29,9 +32,6 @@ title: http://vindictus.nexon.net/landing/mobile/?PARTNERKEY=MK078SVG0282865&utm
 *  JS Response Bytes: 358695
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18558
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -33,8 +33,5 @@ title: http://play.haywiregame.com/chrome.html
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

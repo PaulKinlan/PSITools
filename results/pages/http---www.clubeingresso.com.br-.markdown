@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.clubeingresso.com.br/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Clube Ingresso](http://www.clubeingresso.com.br/)
 
@@ -29,9 +34,6 @@ title: http://www.clubeingresso.com.br/
 *  JS Response Bytes: 2456869
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22508
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://boxhdgames.blogspot.com/2013/08/pes-2013-free-kick.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [BOX HD GAMES: Pes 2014 Free Kick](http://boxhdgames.blogspot.com/2013/08/pes-2013-free-kick.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://boxhdgames.blogspot.com/2013/08/pes-2013-free-kick.html?m=1
 *  JS Response Bytes: 1241222
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95883
-
-### Performance issues
-
 
 ### Performance issues
 

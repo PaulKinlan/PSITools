@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.dsngames.com/?s=clash+of+clans
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Free Hd Games - Search results forclash of clans](http://www.dsngames.com/?s=clash+of+clans)
 
@@ -29,9 +34,6 @@ title: http://www.dsngames.com/?s=clash+of+clans
 *  JS Response Bytes: 634385
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

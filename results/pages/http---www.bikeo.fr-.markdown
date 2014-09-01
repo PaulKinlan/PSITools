@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.bikeo.fr/
+MinimizeRenderBlockingResources: true
 ---
 ## [pièces détachées et accessoires pour vélo et vtt - Bikeo](http://www.bikeo.fr/)
 
@@ -29,9 +30,6 @@ title: http://www.bikeo.fr/
 *  JS Response Bytes: 155259
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://c9.io/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Cloud9 - Your development environment, in the cloud](https://c9.io/)
 
@@ -29,9 +32,6 @@ title: https://c9.io/
 *  JS Response Bytes: 892507
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 919
-
-### Performance issues
-
 
 ### Performance issues
 

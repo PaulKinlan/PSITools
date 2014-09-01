@@ -33,8 +33,5 @@ title: http://www.mybimshare.com/login/?next=/dashboard/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

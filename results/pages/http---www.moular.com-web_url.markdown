@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.moular.com/web_url
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Page not found | Google Apps Tips, Tricks and Tools](http://www.moular.com/web_url)
 
@@ -29,9 +31,6 @@ title: http://www.moular.com/web_url
 *  JS Response Bytes: 444113
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59896
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.playmore.me/game/king-of-air-battle.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [King Of Air Battle Two Player Games, 2 player games, online multiplayer games.](http://www.playmore.me/game/king-of-air-battle.html)
 
@@ -29,9 +33,6 @@ title: http://www.playmore.me/game/king-of-air-battle.html
 *  JS Response Bytes: 1836326
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103885
-
-### Performance issues
-
 
 ### Performance issues
 

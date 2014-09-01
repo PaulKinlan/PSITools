@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://btcstatus.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [btcstatus.net](http://btcstatus.net/)
 
@@ -29,9 +32,6 @@ title: http://btcstatus.net/
 *  JS Response Bytes: 35210
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

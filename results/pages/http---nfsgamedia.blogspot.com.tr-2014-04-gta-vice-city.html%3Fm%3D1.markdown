@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://nfsgamedia.blogspot.com.tr/2014/04/gta-vice-city.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [NFS racing chrome game: gta vice city](http://nfsgamedia.blogspot.com.tr/2014/04/gta-vice-city.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://nfsgamedia.blogspot.com.tr/2014/04/gta-vice-city.html?m=1
 *  JS Response Bytes: 1149289
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99213
-
-### Performance issues
-
 
 ### Performance issues
 

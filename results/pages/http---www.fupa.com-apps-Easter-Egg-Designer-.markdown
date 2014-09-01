@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/Easter-Egg-Designer/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Easter Egg Designer](http://www.fupa.com/apps/Easter-Egg-Designer/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/Easter-Egg-Designer/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

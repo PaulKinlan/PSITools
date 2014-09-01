@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/educational/periodic-table.html
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Periodic Table game on Gamesk12.com Learn for free](http://www.gamesk12.com/online/educational/periodic-table.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamesk12.com/online/educational/periodic-table.html
 *  JS Response Bytes: 2427750
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 143144
-
-### Performance issues
-
 
 ### Performance issues
 

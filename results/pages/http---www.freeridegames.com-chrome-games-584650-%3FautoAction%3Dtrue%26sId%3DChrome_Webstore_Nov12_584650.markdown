@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/584650/?autoAction=true&sId=Chrome_Webstore_Nov12_584650
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Supermarket Mania for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/584650/?autoAction=true&sId=Chrome_Webstore_Nov12_584650)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/584650/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1635365
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16920
-
-### Performance issues
-
 
 ### Performance issues
 

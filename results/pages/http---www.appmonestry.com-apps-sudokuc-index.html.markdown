@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.appmonestry.com/apps/sudokuc/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Advance Sudoku](http://www.appmonestry.com/apps/sudokuc/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.appmonestry.com/apps/sudokuc/index.html
 *  JS Response Bytes: 1044898
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15175
-
-### Performance issues
-
 
 ### Performance issues
 

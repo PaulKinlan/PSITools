@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.yummygames.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games for the Whole Family to Enjoy – YummyGames.com](http://www.yummygames.com/)
 
@@ -29,9 +33,6 @@ title: http://www.yummygames.com/
 *  JS Response Bytes: 962426
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

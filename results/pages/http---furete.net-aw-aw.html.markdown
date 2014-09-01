@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://furete.net/aw/aw.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [furete.net All White](http://furete.net/aw/aw.html)
 
@@ -29,9 +32,6 @@ title: http://furete.net/aw/aw.html
 *  JS Response Bytes: 624530
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2153
-
-### Performance issues
-
 
 ### Performance issues
 

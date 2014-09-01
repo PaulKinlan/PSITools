@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://tomdignan.com/?nr=0
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [tomdignan.com](http://tomdignan.com/?nr=0)
 
@@ -29,9 +33,6 @@ title: http://tomdignan.com/?nr=0
 *  JS Response Bytes: 339358
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47
-
-### Performance issues
-
 
 ### Performance issues
 

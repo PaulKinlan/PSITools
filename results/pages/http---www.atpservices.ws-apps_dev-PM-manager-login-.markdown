@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.atpservices.ws/apps_dev/PM/manager/login/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [PM Manager+](http://www.atpservices.ws/apps_dev/PM/manager/login/)
 
@@ -29,9 +31,6 @@ title: http://www.atpservices.ws/apps_dev/PM/manager/login/
 *  JS Response Bytes: 208790
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 73
-
-### Performance issues
-
 
 ### Performance issues
 

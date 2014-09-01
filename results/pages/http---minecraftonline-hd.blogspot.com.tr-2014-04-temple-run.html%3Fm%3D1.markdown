@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://minecraftonline-hd.blogspot.com.tr/2014/04/temple-run.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [minecraft 2014 full hd online game: Temple Run](http://minecraftonline-hd.blogspot.com.tr/2014/04/temple-run.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://minecraftonline-hd.blogspot.com.tr/2014/04/temple-run.html?m=1
 *  JS Response Bytes: 720806
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95590
-
-### Performance issues
-
 
 ### Performance issues
 

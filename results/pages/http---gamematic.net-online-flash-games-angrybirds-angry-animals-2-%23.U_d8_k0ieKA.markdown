@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/angrybirds/angry-animals-2/#.U_d8_k0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Animals 2 « Online Flash Game Angry Animals 2](http://gamematic.net/online-flash-games/angrybirds/angry-animals-2/#.U_d8_k0ieKA)
 
@@ -29,9 +37,6 @@ title: http://gamematic.net/online-flash-games/angrybirds/angry-animals-2/#.U_d8
 *  JS Response Bytes: 1263496
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 50369
-
-### Performance issues
-
 
 ### Performance issues
 

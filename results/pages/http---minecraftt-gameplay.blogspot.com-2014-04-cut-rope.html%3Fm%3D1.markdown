@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://minecraftt-gameplay.blogspot.com/2014/04/cut-rope.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [minecraft download best of chrome game: cut the rope](http://minecraftt-gameplay.blogspot.com/2014/04/cut-rope.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://minecraftt-gameplay.blogspot.com/2014/04/cut-rope.html?m=1
 *  JS Response Bytes: 1531722
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141090
-
-### Performance issues
-
 
 ### Performance issues
 

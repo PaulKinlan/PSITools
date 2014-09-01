@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://amiget.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [AmiGet - обзоры игр и промо-коды для iPhone / iPad](http://amiget.com/)
 
@@ -29,9 +31,6 @@ title: http://amiget.com/
 *  JS Response Bytes: 140022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

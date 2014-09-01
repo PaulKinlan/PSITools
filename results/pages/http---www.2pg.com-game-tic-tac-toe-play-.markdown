@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2pg.com/game/tic-tac-toe/play/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tic Tac Toe | 2 Player Games](http://www.2pg.com/game/tic-tac-toe/play/)
 
@@ -29,9 +34,6 @@ title: http://www.2pg.com/game/tic-tac-toe/play/
 *  JS Response Bytes: 1224568
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24621
-
-### Performance issues
-
 
 ### Performance issues
 

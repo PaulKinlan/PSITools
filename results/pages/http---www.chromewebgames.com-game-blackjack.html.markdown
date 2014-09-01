@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.chromewebgames.com/game/blackjack.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blackjack Games online](http://www.chromewebgames.com/game/blackjack.html)
 
@@ -29,9 +36,6 @@ title: http://www.chromewebgames.com/game/blackjack.html
 *  JS Response Bytes: 721278
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103380
-
-### Performance issues
-
 
 ### Performance issues
 

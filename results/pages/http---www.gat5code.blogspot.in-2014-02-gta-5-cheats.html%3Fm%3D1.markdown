@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.gat5code.blogspot.in/2014/02/gta-5-cheats.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [GTA 5 Cheats: GTA 5 Cheats](http://www.gat5code.blogspot.in/2014/02/gta-5-cheats.html?m=1)
 
@@ -22,16 +24,13 @@ title: http://www.gat5code.blogspot.in/2014/02/gta-5-cheats.html?m=1
 
 ### Response data
 
-*  HTML Response Bytes: 133841
+*  HTML Response Bytes: 133840
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 38388
-*  Image Response Bytes: 421743
-*  JS Response Bytes: 1121212
+*  Image Response Bytes: 421739
+*  JS Response Bytes: 1121486
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 95580
-
-### Performance issues
-
+*  Other Response Bytes: 95578
 
 ### Performance issues
 

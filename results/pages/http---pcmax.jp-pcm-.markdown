@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://pcmax.jp/pcm/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [出会いならPCMAX!創設10年以上の安心実績の優良出会いSNS](http://pcmax.jp/pcm/)
 
@@ -29,9 +32,6 @@ title: http://pcmax.jp/pcm/
 *  JS Response Bytes: 138582
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1545
-
-### Performance issues
-
 
 ### Performance issues
 

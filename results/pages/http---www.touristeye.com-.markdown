@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.touristeye.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [TouristEye | Plan your getaways and trips with our web and mobile apps](http://www.touristeye.com/)
 
@@ -29,9 +31,6 @@ title: http://www.touristeye.com/
 *  JS Response Bytes: 754193
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15057
-
-### Performance issues
-
 
 ### Performance issues
 

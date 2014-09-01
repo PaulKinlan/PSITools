@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://antogames.com/angry-birds-go/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [AntoGames.Com Full Free Flash Game – Angry Birds Go](http://antogames.com/angry-birds-go/)
 
@@ -29,9 +34,6 @@ title: http://antogames.com/angry-birds-go/
 *  JS Response Bytes: 829305
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 772
-
-### Performance issues
-
 
 ### Performance issues
 

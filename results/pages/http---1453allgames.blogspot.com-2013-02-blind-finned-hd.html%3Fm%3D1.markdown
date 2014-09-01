@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://1453allgames.blogspot.com/2013/02/blind-finned-hd.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Chrome Browser Games: Blind Finned HD](http://1453allgames.blogspot.com/2013/02/blind-finned-hd.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://1453allgames.blogspot.com/2013/02/blind-finned-hd.html?m=1
 *  JS Response Bytes: 2337924
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 288360
-
-### Performance issues
-
 
 ### Performance issues
 

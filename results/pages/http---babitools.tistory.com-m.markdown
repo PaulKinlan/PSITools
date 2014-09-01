@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://babitools.tistory.com/m
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [관리 홈 :: 티스토리](http://babitools.tistory.com/m)
 
@@ -29,9 +31,6 @@ title: http://babitools.tistory.com/m
 *  JS Response Bytes: 418320
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 478
-
-### Performance issues
-
 
 ### Performance issues
 

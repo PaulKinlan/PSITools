@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://dominder.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dominder - Websites manager, domain tools and services](https://dominder.com/)
 
@@ -29,9 +34,6 @@ title: https://dominder.com/
 *  JS Response Bytes: 684651
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 346
-
-### Performance issues
-
 
 ### Performance issues
 

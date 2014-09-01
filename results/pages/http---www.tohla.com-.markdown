@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.tohla.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tohla: Talk to strangers, online chat, talk to people, 1 on 1 chat](http://www.tohla.com/)
 
@@ -29,9 +33,6 @@ title: http://www.tohla.com/
 *  JS Response Bytes: 772613
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40825
-
-### Performance issues
-
 
 ### Performance issues
 

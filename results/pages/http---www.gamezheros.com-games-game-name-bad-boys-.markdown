@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.gamezheros.com/games/game/name/bad-boys/
+UseLegibleFontSizes: true
 ---
 ## [500 Internal Server Error](http://www.gamezheros.com/games/game/name/bad-boys/)
 
@@ -29,9 +30,6 @@ title: http://www.gamezheros.com/games/game/name/bad-boys/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 893
-
-### Performance issues
-
 
 ### Performance issues
 

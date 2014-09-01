@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://ebible.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](https://ebible.com/)
 
@@ -29,9 +32,6 @@ title: https://ebible.com/
 *  JS Response Bytes: 186288
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 984
-
-### Performance issues
-
 
 ### Performance issues
 

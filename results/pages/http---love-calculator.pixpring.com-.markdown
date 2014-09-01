@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://love-calculator.pixpring.com/
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [Love me! Love Calculator](http://love-calculator.pixpring.com/)
 
@@ -29,9 +31,6 @@ title: http://love-calculator.pixpring.com/
 *  JS Response Bytes: 555158
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14683
-
-### Performance issues
-
 
 ### Performance issues
 

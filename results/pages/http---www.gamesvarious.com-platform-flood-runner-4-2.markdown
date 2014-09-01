@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/platform/flood-runner-4-2
+UseLegibleFontSizes: true
 ---
 ## [404 - Page not found](http://www.gamesvarious.com/platform/flood-runner-4-2)
 
@@ -29,9 +30,6 @@ title: http://www.gamesvarious.com/platform/flood-runner-4-2
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 949
-
-### Performance issues
-
 
 ### Performance issues
 

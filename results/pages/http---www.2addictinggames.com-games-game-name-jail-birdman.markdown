@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/game/name/jail-birdman
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [jail-birdman Addicting Games](http://www.2addictinggames.com/games/game/name/jail-birdman)
 
@@ -29,9 +35,6 @@ title: http://www.2addictinggames.com/games/game/name/jail-birdman
 *  JS Response Bytes: 1861774
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114581
-
-### Performance issues
-
 
 ### Performance issues
 

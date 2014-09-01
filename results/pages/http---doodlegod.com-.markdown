@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://doodlegod.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Home - DoodleGod](http://doodlegod.com/)
 
@@ -29,9 +33,6 @@ title: http://doodlegod.com/
 *  JS Response Bytes: 891225
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2597
-
-### Performance issues
-
 
 ### Performance issues
 

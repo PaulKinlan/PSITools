@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.24playgame.com/index.php?ara=where
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [where | Play Games free play the best games](http://www.24playgame.com/index.php?ara=where)
 
@@ -29,9 +33,6 @@ title: http://www.24playgame.com/index.php?ara=where
 *  JS Response Bytes: 503558
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

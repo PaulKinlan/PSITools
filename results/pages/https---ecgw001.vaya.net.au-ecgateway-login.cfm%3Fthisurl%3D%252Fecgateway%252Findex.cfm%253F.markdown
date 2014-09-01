@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://ecgw001.vaya.net.au/ecgateway/login.cfm?thisurl=%2Fecgateway%2Findex.cfm%3F
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Vaya Dealer Portal](https://ecgw001.vaya.net.au/ecgateway/login.cfm?thisurl=%2Fecgateway%2Findex.cfm%3F)
 
@@ -29,9 +34,6 @@ title: https://ecgw001.vaya.net.au/ecgateway/login.cfm?thisurl=%2Fecgateway%2Fin
 *  JS Response Bytes: 55290
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 516
-
-### Performance issues
-
 
 ### Performance issues
 

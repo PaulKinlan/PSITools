@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://jeuxflashenligne.com/jeu-airport-madness
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Airport Madness : Jouez gratuitement sur JeuxFlashEnLigne.com](http://jeuxflashenligne.com/jeu-airport-madness)
 
@@ -29,9 +32,6 @@ title: http://jeuxflashenligne.com/jeu-airport-madness
 *  JS Response Bytes: 1352695
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 138904
-
-### Performance issues
-
 
 ### Performance issues
 

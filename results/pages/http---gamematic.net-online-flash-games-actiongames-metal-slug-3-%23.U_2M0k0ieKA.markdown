@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/actiongames/metal-slug-3/#.U_2M0k0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Metal Slug 3 « Online Flash Game Metal Slug 3](http://gamematic.net/online-flash-games/actiongames/metal-slug-3/#.U_2M0k0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/actiongames/metal-slug-3/#.U_2M0k
 *  JS Response Bytes: 1265513
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47111
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.miniportal.us/app_en/medical/index.htm
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [English Dictionary](http://www.miniportal.us/app_en/medical/index.htm)
 
@@ -29,9 +33,6 @@ title: http://www.miniportal.us/app_en/medical/index.htm
 *  JS Response Bytes: 653074
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15550
-
-### Performance issues
-
 
 ### Performance issues
 

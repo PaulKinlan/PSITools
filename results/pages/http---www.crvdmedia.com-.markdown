@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.crvdmedia.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [CRVD Media](http://www.crvdmedia.com/)
 
@@ -29,9 +31,6 @@ title: http://www.crvdmedia.com/
 *  JS Response Bytes: 413382
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155312
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://app.adiz.net/incometaxcalculator/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Income Tax Calculator](http://app.adiz.net/incometaxcalculator/)
 
@@ -29,9 +31,6 @@ title: http://app.adiz.net/incometaxcalculator/
 *  JS Response Bytes: 296739
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 541
-
-### Performance issues
-
 
 ### Performance issues
 

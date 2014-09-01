@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.buyplaytix.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [BuyPlayTix - Theater Ticket Sales, Online Ticketing, and Contact Management](http://www.buyplaytix.com/)
 
@@ -29,9 +33,6 @@ title: http://www.buyplaytix.com/
 *  JS Response Bytes: 695298
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105015
-
-### Performance issues
-
 
 ### Performance issues
 

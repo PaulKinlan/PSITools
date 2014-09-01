@@ -33,8 +33,5 @@ title: http://hdpopulargames.com/game/temple_run_2-1051
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

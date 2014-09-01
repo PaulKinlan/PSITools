@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.perfectgames.net/sports/trampoline_7884.html#.U_d_nU0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [trampoline_Perfectgames](http://www.perfectgames.net/sports/trampoline_7884.html#.U_d_nU0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.perfectgames.net/sports/trampoline_7884.html#.U_d_nU0ieKA
 *  JS Response Bytes: 220534
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15738
-
-### Performance issues
-
 
 ### Performance issues
 

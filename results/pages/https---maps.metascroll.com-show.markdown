@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://maps.metascroll.com/show
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mapping made easy. - MetaMaps](https://maps.metascroll.com/show)
 
@@ -29,9 +32,6 @@ title: https://maps.metascroll.com/show
 *  JS Response Bytes: 970475
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 272
-
-### Performance issues
-
 
 ### Performance issues
 

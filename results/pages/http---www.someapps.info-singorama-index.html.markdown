@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.someapps.info/singorama/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Essential Guide To Singing - Singinge-book](http://www.someapps.info/singorama/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.someapps.info/singorama/index.html
 *  JS Response Bytes: 1037084
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95268
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/dentists-nighmare-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dentist’s Nighmare game](http://www.surgery-games.org/dentists-nighmare-2/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/dentists-nighmare-2/
 *  JS Response Bytes: 2542107
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121320
-
-### Performance issues
-
 
 ### Performance issues
 

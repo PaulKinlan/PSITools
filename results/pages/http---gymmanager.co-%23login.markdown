@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gymmanager.co/#login
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [Gym Manager - Web Based Best Gym and Fitness Club Management Software, Web Application](http://gymmanager.co/#login)
 
@@ -29,9 +31,6 @@ title: http://gymmanager.co/#login
 *  JS Response Bytes: 1866588
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2269
-
-### Performance issues
-
 
 ### Performance issues
 

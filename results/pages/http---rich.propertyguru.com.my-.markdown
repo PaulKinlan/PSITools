@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://rich.propertyguru.com.my/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Malaysia Property and Real Estate, Property for Sale/Rent | PropertyGuru Malaysia](http://rich.propertyguru.com.my/)
 
@@ -29,9 +35,6 @@ title: http://rich.propertyguru.com.my/
 *  JS Response Bytes: 1638552
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 33183
-
-### Performance issues
-
 
 ### Performance issues
 

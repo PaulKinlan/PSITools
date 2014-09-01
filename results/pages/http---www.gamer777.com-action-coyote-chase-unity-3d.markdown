@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamer777.com/action/coyote-chase-unity-3d
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Coyote Chase-Unity-3d - gamer777 Free Online Games](http://www.gamer777.com/action/coyote-chase-unity-3d)
 
@@ -29,9 +34,6 @@ title: http://www.gamer777.com/action/coyote-chase-unity-3d
 *  JS Response Bytes: 2270939
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 123270
-
-### Performance issues
-
 
 ### Performance issues
 

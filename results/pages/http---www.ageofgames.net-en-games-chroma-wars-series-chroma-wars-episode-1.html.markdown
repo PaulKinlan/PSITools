@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ageofgames.net/en/games/chroma-wars-series/chroma-wars-episode-1.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chroma Wars - Age of Games](http://www.ageofgames.net/en/games/chroma-wars-series/chroma-wars-episode-1.html)
 
@@ -29,9 +35,6 @@ title: http://www.ageofgames.net/en/games/chroma-wars-series/chroma-wars-episode
 *  JS Response Bytes: 2859359
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112813
-
-### Performance issues
-
 
 ### Performance issues
 

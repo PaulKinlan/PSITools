@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/discshooting/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Disc Shooting](http://www.fupa.com/apps/discshooting/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/discshooting/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

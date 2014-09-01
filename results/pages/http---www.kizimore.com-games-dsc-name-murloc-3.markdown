@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kizimore.com/games/dsc/name/murloc-3
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Kizi - Online Games - Life is fun!](http://www.kizimore.com/games/dsc/name/murloc-3)
 
@@ -29,9 +34,6 @@ title: http://www.kizimore.com/games/dsc/name/murloc-3
 *  JS Response Bytes: 1106186
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

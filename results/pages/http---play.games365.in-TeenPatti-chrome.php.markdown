@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://play.games365.in/TeenPatti/chrome.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://play.games365.in/TeenPatti/chrome.php)
 
@@ -29,9 +32,6 @@ title: http://play.games365.in/TeenPatti/chrome.php
 *  JS Response Bytes: 43510
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 833
-
-### Performance issues
-
 
 ### Performance issues
 

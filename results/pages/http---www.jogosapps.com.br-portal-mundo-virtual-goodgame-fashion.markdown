@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.jogosapps.com.br/portal/mundo-virtual/goodgame-fashion
+UseLegibleFontSizes: true
 ---
 ## [404 - Page not found](http://www.jogosapps.com.br/portal/mundo-virtual/goodgame-fashion)
 
@@ -29,9 +30,6 @@ title: http://www.jogosapps.com.br/portal/mundo-virtual/goodgame-fashion
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1194
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.iepwriter.co.uk/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [IEP Writer - Individual Education Plans and Learning Plans](http://www.iepwriter.co.uk/)
 
@@ -29,9 +32,6 @@ title: http://www.iepwriter.co.uk/
 *  JS Response Bytes: 652195
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47399
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.allhappygames.com/category/11
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [- All Happy Games](http://www.allhappygames.com/category/11)
 
@@ -29,9 +33,6 @@ title: http://www.allhappygames.com/category/11
 *  JS Response Bytes: 763004
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

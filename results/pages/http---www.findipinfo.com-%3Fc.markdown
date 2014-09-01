@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.findipinfo.com/?c
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [what is my ip address?](http://www.findipinfo.com/?c)
 
@@ -29,9 +32,6 @@ title: http://www.findipinfo.com/?c
 *  JS Response Bytes: 2123825
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 71467
-
-### Performance issues
-
 
 ### Performance issues
 

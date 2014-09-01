@@ -1,6 +1,13 @@
 ---
 layout: result
 title: https://login.secureserver.net/index.php?app=off&referrer=lp_off&domain=
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Workspace Login](https://login.secureserver.net/index.php?app=off&referrer=lp_off&domain=)
 
@@ -29,9 +36,6 @@ title: https://login.secureserver.net/index.php?app=off&referrer=lp_off&domain=
 *  JS Response Bytes: 148101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 644
-
-### Performance issues
-
 
 ### Performance issues
 

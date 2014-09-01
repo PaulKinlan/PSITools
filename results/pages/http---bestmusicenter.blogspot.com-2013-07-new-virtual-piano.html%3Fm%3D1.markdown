@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://bestmusicenter.blogspot.com/2013/07/new-virtual-piano.html?m=1
+UseLegibleFontSizes: true
 ---
 ## [Service Unavailable](http://bestmusicenter.blogspot.com/2013/07/new-virtual-piano.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://bestmusicenter.blogspot.com/2013/07/new-virtual-piano.html?m=1
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1116
-
-### Performance issues
-
 
 ### Performance issues
 

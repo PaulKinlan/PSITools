@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://flashflappybird.blogspot.com.tr/2014/03/spartans-vs-zombies-defense.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
 ---
 ## [Flappy Bird: Spartans vs Zombies Defense](http://flashflappybird.blogspot.com.tr/2014/03/spartans-vs-zombies-defense.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://flashflappybird.blogspot.com.tr/2014/03/spartans-vs-zombies-defens
 *  JS Response Bytes: 1238171
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95915
-
-### Performance issues
-
 
 ### Performance issues
 

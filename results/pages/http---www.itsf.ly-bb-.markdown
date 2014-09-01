@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.itsf.ly/bb/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [ملتقى طلبة تقنية المعلومات • قائمة الرئيسية](http://www.itsf.ly/bb/)
 
@@ -29,9 +31,6 @@ title: http://www.itsf.ly/bb/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1610
-
-### Performance issues
-
 
 ### Performance issues
 

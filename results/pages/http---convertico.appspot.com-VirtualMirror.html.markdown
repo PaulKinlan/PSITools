@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://convertico.appspot.com/VirtualMirror.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [VirtualMirror](http://convertico.appspot.com/VirtualMirror.html)
 
@@ -29,9 +33,6 @@ title: http://convertico.appspot.com/VirtualMirror.html
 *  JS Response Bytes: 954990
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109055
-
-### Performance issues
-
 
 ### Performance issues
 

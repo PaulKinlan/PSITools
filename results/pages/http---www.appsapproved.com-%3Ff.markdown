@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.appsapproved.com/?f
+SizeTapTargetsAppropriately: true
 ---
 ## [AppsApproved.com: The Leading Apps Approved Site on the Net](http://www.appsapproved.com/?f)
 
@@ -29,9 +30,6 @@ title: http://www.appsapproved.com/?f
 *  JS Response Bytes: 259014
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 794
-
-### Performance issues
-
 
 ### Performance issues
 

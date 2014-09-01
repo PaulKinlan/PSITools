@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.nihongonoki.com/study/categories
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Japanese Quiz](http://www.nihongonoki.com/study/categories)
 
@@ -29,9 +33,6 @@ title: http://www.nihongonoki.com/study/categories
 *  JS Response Bytes: 793390
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 296
-
-### Performance issues
-
 
 ### Performance issues
 

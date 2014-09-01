@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.nirvanabusinesssystems.com/spreadsheet-magic-podio-google-integration
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Podio Google Spreadsheets - Nirvana Business Systems](http://www.nirvanabusinesssystems.com/spreadsheet-magic-podio-google-integration)
 
@@ -29,9 +33,6 @@ title: http://www.nirvanabusinesssystems.com/spreadsheet-magic-podio-google-inte
 *  JS Response Bytes: 2804929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1470
-
-### Performance issues
-
 
 ### Performance issues
 

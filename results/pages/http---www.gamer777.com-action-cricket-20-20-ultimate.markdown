@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamer777.com/action/cricket-20-20-ultimate
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cricket 20-20 Ultimate - gamer777 Free Online Games](http://www.gamer777.com/action/cricket-20-20-ultimate)
 
@@ -29,9 +35,6 @@ title: http://www.gamer777.com/action/cricket-20-20-ultimate
 *  JS Response Bytes: 2239652
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116642
-
-### Performance issues
-
 
 ### Performance issues
 

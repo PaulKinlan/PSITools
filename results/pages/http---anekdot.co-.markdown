@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://anekdot.co/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Лучшие анекдоты по категориям. ~24 категории, более 6,500 шуток, ежедневное обновление, десктоп + мобайл версии, тач навигация, и.т.д.](http://anekdot.co/)
 
@@ -29,9 +33,6 @@ title: http://anekdot.co/
 *  JS Response Bytes: 420347
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 590
-
-### Performance issues
-
 
 ### Performance issues
 

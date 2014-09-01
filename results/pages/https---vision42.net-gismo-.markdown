@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://vision42.net/gismo/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gismo](https://vision42.net/gismo/)
 
@@ -29,9 +33,6 @@ title: https://vision42.net/gismo/
 *  JS Response Bytes: 813235
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1163
-
-### Performance issues
-
 
 ### Performance issues
 

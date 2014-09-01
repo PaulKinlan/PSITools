@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/squirt-man/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Squirt Man](http://www.war-games.ws/squirt-man/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/squirt-man/
 *  JS Response Bytes: 2292966
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120588
-
-### Performance issues
-
 
 ### Performance issues
 

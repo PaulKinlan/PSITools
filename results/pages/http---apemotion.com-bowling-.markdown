@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://apemotion.com/bowling/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Bowling Game (Powered by WebGL)](http://apemotion.com/bowling/)
 
@@ -29,9 +33,6 @@ title: http://apemotion.com/bowling/
 *  JS Response Bytes: 204192
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1259
-
-### Performance issues
-
 
 ### Performance issues
 

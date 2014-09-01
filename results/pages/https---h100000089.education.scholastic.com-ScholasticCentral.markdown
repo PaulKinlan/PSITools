@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://h100000089.education.scholastic.com/ScholasticCentral
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Scholastic Central Login](https://h100000089.education.scholastic.com/ScholasticCentral)
 
@@ -29,9 +35,6 @@ title: https://h100000089.education.scholastic.com/ScholasticCentral
 *  JS Response Bytes: 442914
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1758
-
-### Performance issues
-
 
 ### Performance issues
 

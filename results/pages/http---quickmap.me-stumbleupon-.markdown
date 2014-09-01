@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://quickmap.me/stumbleupon/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WallPapers](http://quickmap.me/stumbleupon/)
 
@@ -29,9 +34,6 @@ title: http://quickmap.me/stumbleupon/
 *  JS Response Bytes: 180616
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 215
-
-### Performance issues
-
 
 ### Performance issues
 

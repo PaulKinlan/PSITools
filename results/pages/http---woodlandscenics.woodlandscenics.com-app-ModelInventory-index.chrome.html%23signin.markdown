@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://woodlandscenics.woodlandscenics.com/app/ModelInventory/index.chrome.html#signin
+MinimizeRenderBlockingResources: true
 ---
 ## [Model Inventory](http://woodlandscenics.woodlandscenics.com/app/ModelInventory/index.chrome.html#signin)
 
@@ -29,9 +30,6 @@ title: http://woodlandscenics.woodlandscenics.com/app/ModelInventory/index.chrom
 *  JS Response Bytes: 363901
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

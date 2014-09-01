@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://higginssamuel.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [HigginsSamuel.com | My life, my work, my faith...](http://higginssamuel.com/)
 
@@ -29,9 +34,6 @@ title: http://higginssamuel.com/
 *  JS Response Bytes: 386662
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 822
-
-### Performance issues
-
 
 ### Performance issues
 

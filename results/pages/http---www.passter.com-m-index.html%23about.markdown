@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.passter.com/m/index.html#about
+MinimizeRenderBlockingResources: true
 ---
 ## [Passter](http://www.passter.com/m/index.html#about)
 
@@ -29,9 +30,6 @@ title: http://www.passter.com/m/index.html#about
 *  JS Response Bytes: 325647
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5181
-
-### Performance issues
-
 
 ### Performance issues
 

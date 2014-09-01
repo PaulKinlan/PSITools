@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://dntgames.com/angry-birds-star-wars-2-free.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DNTgames.Com | Flash Game Center | Flash Games. – Page not found](http://dntgames.com/angry-birds-star-wars-2-free.html)
 
@@ -29,9 +34,6 @@ title: http://dntgames.com/angry-birds-star-wars-2-free.html
 *  JS Response Bytes: 41212
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9691
-
-### Performance issues
-
 
 ### Performance issues
 

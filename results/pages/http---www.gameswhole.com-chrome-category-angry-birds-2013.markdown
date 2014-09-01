@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gameswhole.com/chrome-category/angry-birds-2013
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds 2013 - Games Whole](http://www.gameswhole.com/chrome-category/angry-birds-2013)
 
@@ -29,9 +35,6 @@ title: http://www.gameswhole.com/chrome-category/angry-birds-2013
 *  JS Response Bytes: 662203
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30881
-
-### Performance issues
-
 
 ### Performance issues
 

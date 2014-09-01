@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mywisenet.com.au/default.aspx
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [RTO Management Software in the Cloud by Wise.NET AVETMISS and AQTF Compliant](http://www.mywisenet.com.au/default.aspx)
 
@@ -29,9 +33,6 @@ title: http://www.mywisenet.com.au/default.aspx
 *  JS Response Bytes: 679804
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 479
-
-### Performance issues
-
 
 ### Performance issues
 

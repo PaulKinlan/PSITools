@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://developers.google.com/oauthplayground/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [OAuth 2.0 Playground](https://developers.google.com/oauthplayground/)
 
@@ -29,9 +35,6 @@ title: https://developers.google.com/oauthplayground/
 *  JS Response Bytes: 296566
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 783
-
-### Performance issues
-
 
 ### Performance issues
 

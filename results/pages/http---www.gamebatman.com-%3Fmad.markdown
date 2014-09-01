@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamebatman.com/?mad
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Batman Games - Batman Games For Kids - Free Online Batman Game](http://www.gamebatman.com/?mad)
 
@@ -29,9 +33,6 @@ title: http://www.gamebatman.com/?mad
 *  JS Response Bytes: 400585
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

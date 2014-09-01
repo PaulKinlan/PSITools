@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.thanknow.info/regcurepro/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [RegCure Pro - Improve your PC's performance](http://www.thanknow.info/regcurepro/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.thanknow.info/regcurepro/index.html
 *  JS Response Bytes: 936246
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109057
-
-### Performance issues
-
 
 ### Performance issues
 

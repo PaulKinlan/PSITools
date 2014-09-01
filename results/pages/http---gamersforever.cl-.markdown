@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gamersforever.cl/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gamers Forever Chile - Gamers Forever Chile](http://gamersforever.cl/)
 
@@ -29,9 +33,6 @@ title: http://gamersforever.cl/
 *  JS Response Bytes: 1654519
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1820
-
-### Performance issues
-
 
 ### Performance issues
 

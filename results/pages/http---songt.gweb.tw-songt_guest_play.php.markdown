@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://songt.gweb.tw/songt_guest_play.php
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [ispCP OMEGA - Error 404](http://songt.gweb.tw/songt_guest_play.php)
 
@@ -29,9 +31,6 @@ title: http://songt.gweb.tw/songt_guest_play.php
 *  JS Response Bytes: 1518
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 959
-
-### Performance issues
-
 
 ### Performance issues
 

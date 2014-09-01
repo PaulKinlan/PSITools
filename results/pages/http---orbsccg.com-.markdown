@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://orbsccg.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Orbs CCG, the Asynchronous Collectible Card Game](http://orbsccg.com/)
 
@@ -29,9 +33,6 @@ title: http://orbsccg.com/
 *  JS Response Bytes: 1170010
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9963
-
-### Performance issues
-
 
 ### Performance issues
 

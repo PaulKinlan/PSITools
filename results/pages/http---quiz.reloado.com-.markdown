@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://quiz.reloado.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [ReloadoQuiz - Wer wird Millionär?](http://quiz.reloado.com/)
 
@@ -29,9 +31,6 @@ title: http://quiz.reloado.com/
 *  JS Response Bytes: 173420
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29214
-
-### Performance issues
-
 
 ### Performance issues
 

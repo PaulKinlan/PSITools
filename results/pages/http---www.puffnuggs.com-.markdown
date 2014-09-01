@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.puffnuggs.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Electronic Vaporizer Pens - Electronic Vaporizer Pens: Wax Oil Vape Pen](http://www.puffnuggs.com/)
 
@@ -29,9 +34,6 @@ title: http://www.puffnuggs.com/
 *  JS Response Bytes: 1288357
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 161673
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://topbabygamesonline.blogspot.in/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Baby Games](http://topbabygamesonline.blogspot.in/?m=1)
 
@@ -29,9 +31,6 @@ title: http://topbabygamesonline.blogspot.in/?m=1
 *  JS Response Bytes: 789633
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287120
-
-### Performance issues
-
 
 ### Performance issues
 

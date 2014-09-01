@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.playigl.com/home?utm_source=chromestore&utm_medium=webappinstall&utm_term=playigl&utm_campaign=playigl
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Playigl.com](http://www.playigl.com/home?utm_source=chromestore&utm_medium=webappinstall&utm_term=playigl&utm_campaign=playigl)
 
@@ -29,9 +32,6 @@ title: http://www.playigl.com/home?utm_source=chromestore&utm_medium=webappinsta
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

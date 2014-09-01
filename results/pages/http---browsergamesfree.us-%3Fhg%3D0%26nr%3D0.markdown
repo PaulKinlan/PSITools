@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://browsergamesfree.us/?hg=0&nr=0
+AvoidLandingPageRedirects: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://browsergamesfree.us/?hg=0&nr=0)
 
@@ -18,7 +21,7 @@ title: http://browsergamesfree.us/?hg=0&nr=0
 *  Number of JS Resources: 3
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 5
-*  Total Request Bytes: 980
+*  Total Request Bytes: 976
 
 ### Response data
 
@@ -26,12 +29,9 @@ title: http://browsergamesfree.us/?hg=0&nr=0
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 36644
 *  Image Response Bytes: 3204
-*  JS Response Bytes: 195694
+*  JS Response Bytes: 195729
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 192
-
-### Performance issues
-
+*  Other Response Bytes: 190
 
 ### Performance issues
 

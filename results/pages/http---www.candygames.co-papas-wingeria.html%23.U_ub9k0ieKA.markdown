@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.candygames.co/papas-wingeria.html#.U_ub9k0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Papa's Wingeria, a free online game at Candy Games - Candy Games](http://www.candygames.co/papas-wingeria.html#.U_ub9k0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.candygames.co/papas-wingeria.html#.U_ub9k0ieKA
 *  JS Response Bytes: 1271033
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 138702
-
-### Performance issues
-
 
 ### Performance issues
 

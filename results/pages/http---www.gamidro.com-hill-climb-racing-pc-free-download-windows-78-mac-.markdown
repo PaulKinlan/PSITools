@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamidro.com/hill-climb-racing-pc-free-download-windows-78-mac/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hill Climb Racing for PC Free Download (Windows 7/8 and Mac) - Gamidro](http://www.gamidro.com/hill-climb-racing-pc-free-download-windows-78-mac/)
 
@@ -29,9 +33,6 @@ title: http://www.gamidro.com/hill-climb-racing-pc-free-download-windows-78-mac/
 *  JS Response Bytes: 1275011
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 303881
-
-### Performance issues
-
 
 ### Performance issues
 

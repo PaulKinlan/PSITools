@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.pomegame.com/games/fruity-annie/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Fruity Annie Game](http://www.pomegame.com/games/fruity-annie/)
 
@@ -29,9 +34,6 @@ title: http://www.pomegame.com/games/fruity-annie/
 *  JS Response Bytes: 1675080
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19560
-
-### Performance issues
-
 
 ### Performance issues
 

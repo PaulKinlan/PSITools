@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/japanese-soccer/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Japanese Soccer Game](http://www.footballgam.es/japanese-soccer/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/japanese-soccer/
 *  JS Response Bytes: 2297790
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156835
-
-### Performance issues
-
 
 ### Performance issues
 

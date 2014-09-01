@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://twittercounter.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Check your own Twitter Stats - Twitter Counter](http://twittercounter.com/)
 
@@ -29,9 +31,6 @@ title: http://twittercounter.com/
 *  JS Response Bytes: 1111679
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61959
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.mediterraneandietforall.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mediterranean diet-everything you need to know about med diet](http://www.mediterraneandietforall.com/)
 
@@ -29,9 +31,6 @@ title: http://www.mediterraneandietforall.com/
 *  JS Response Bytes: 2025208
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 304656
-
-### Performance issues
-
 
 ### Performance issues
 

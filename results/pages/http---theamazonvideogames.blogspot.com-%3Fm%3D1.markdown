@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://theamazonvideogames.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Video Games](http://theamazonvideogames.blogspot.com/?m=1)
 
@@ -29,9 +33,6 @@ title: http://theamazonvideogames.blogspot.com/?m=1
 *  JS Response Bytes: 1605359
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98322
-
-### Performance issues
-
 
 ### Performance issues
 

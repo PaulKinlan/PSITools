@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.vertragium.de/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Vertragium Beta](http://www.vertragium.de/)
 
@@ -29,9 +32,6 @@ title: http://www.vertragium.de/
 *  JS Response Bytes: 147837
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29452
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: https://asp.ebook5.net/app/auth/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sign In - ebook5.net Administration Panel](https://asp.ebook5.net/app/auth/)
 
@@ -29,9 +36,6 @@ title: https://asp.ebook5.net/app/auth/
 *  JS Response Bytes: 506419
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14800
-
-### Performance issues
-
 
 ### Performance issues
 

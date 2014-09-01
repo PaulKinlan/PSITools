@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://cssgames.com/grand-theft-auto-v.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CSSGames.Com – Grand Theft Auto V](http://cssgames.com/grand-theft-auto-v.html)
 
@@ -29,9 +35,6 @@ title: http://cssgames.com/grand-theft-auto-v.html
 *  JS Response Bytes: 413248
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 806
-
-### Performance issues
-
 
 ### Performance issues
 

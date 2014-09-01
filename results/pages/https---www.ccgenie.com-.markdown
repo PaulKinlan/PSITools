@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://www.ccgenie.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [ccGenie | Capture content, then put it to work.](https://www.ccgenie.com/)
 
@@ -29,9 +31,6 @@ title: https://www.ccgenie.com/
 *  JS Response Bytes: 128307
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 86730
-
-### Performance issues
-
 
 ### Performance issues
 

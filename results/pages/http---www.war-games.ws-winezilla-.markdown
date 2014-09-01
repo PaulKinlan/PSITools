@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/winezilla/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Winezilla](http://www.war-games.ws/winezilla/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/winezilla/
 *  JS Response Bytes: 2305865
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122620
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ccsknights.org/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Copenhagen Central School - CCS Knights Homepage](http://www.ccsknights.org/)
 
@@ -29,9 +32,6 @@ title: http://www.ccsknights.org/
 *  JS Response Bytes: 306119
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

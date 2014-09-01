@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.caipiaom.com/okooo/
+UseLegibleFontSizes: true
 ---
 ## [404 - File or directory not found.](http://www.caipiaom.com/okooo/)
 
@@ -29,9 +30,6 @@ title: http://www.caipiaom.com/okooo/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1384
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.appnjoy.com/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Appnjoy.com - Android, iPhone mobile apps. Copyright 2010/2013 - Carmelo Maiolino](http://www.appnjoy.com/index.html)
 
@@ -29,9 +34,6 @@ title: http://www.appnjoy.com/index.html
 *  JS Response Bytes: 708862
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 77424
-
-### Performance issues
-
 
 ### Performance issues
 

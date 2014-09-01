@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.puzzlefactory.com/x/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Not found.](http://www.puzzlefactory.com/x/)
 
@@ -29,9 +33,6 @@ title: http://www.puzzlefactory.com/x/
 *  JS Response Bytes: 146979
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5647
-
-### Performance issues
-
 
 ### Performance issues
 

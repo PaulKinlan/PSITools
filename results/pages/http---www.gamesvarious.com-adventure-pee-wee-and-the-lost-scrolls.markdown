@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/adventure/pee-wee-and-the-lost-scrolls
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pee Wee & The Lost Scrolls - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/adventure/pee-wee-and-the-lost-scrolls)
 
@@ -29,9 +35,6 @@ title: http://www.gamesvarious.com/adventure/pee-wee-and-the-lost-scrolls
 *  JS Response Bytes: 2229319
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114677
-
-### Performance issues
-
 
 ### Performance issues
 

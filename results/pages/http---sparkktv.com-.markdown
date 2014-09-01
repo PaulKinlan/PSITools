@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://sparkktv.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sparkk Online TV Network | Original, On-Demand, WebSeries](http://sparkktv.com/)
 
@@ -29,9 +33,6 @@ title: http://sparkktv.com/
 *  JS Response Bytes: 2126808
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125668
-
-### Performance issues
-
 
 ### Performance issues
 

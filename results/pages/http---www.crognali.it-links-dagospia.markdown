@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.crognali.it/links/dagospia
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://www.crognali.it/links/dagospia)
 
@@ -29,9 +30,6 @@ title: http://www.crognali.it/links/dagospia
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 396
-
-### Performance issues
-
 
 ### Performance issues
 

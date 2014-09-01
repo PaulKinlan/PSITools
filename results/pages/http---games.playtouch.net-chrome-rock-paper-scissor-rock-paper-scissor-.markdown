@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://games.playtouch.net/chrome/rock-paper-scissor/rock-paper-scissor/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Rock Paper Scissor](http://games.playtouch.net/chrome/rock-paper-scissor/rock-paper-scissor/)
 
@@ -29,9 +32,6 @@ title: http://games.playtouch.net/chrome/rock-paper-scissor/rock-paper-scissor/
 *  JS Response Bytes: 1398381
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1453
-
-### Performance issues
-
 
 ### Performance issues
 

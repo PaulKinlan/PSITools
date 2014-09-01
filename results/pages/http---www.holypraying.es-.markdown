@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.holypraying.es/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [holypraying.es - holypraying Resources and Information.](http://www.holypraying.es/)
 
@@ -29,9 +31,6 @@ title: http://www.holypraying.es/
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 882
-
-### Performance issues
-
 
 ### Performance issues
 

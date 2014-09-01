@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://cssgames.com/asphalt-7-heat.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CSSGames.Com – Asphalt 7 Heat](http://cssgames.com/asphalt-7-heat.html)
 
@@ -29,9 +36,6 @@ title: http://cssgames.com/asphalt-7-heat.html
 *  JS Response Bytes: 413433
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 804
-
-### Performance issues
-
 
 ### Performance issues
 

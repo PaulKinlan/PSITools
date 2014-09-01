@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://epsg.io/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [EPSG.io: Coordinate Systems Worldwide](http://epsg.io/)
 
@@ -29,9 +32,6 @@ title: http://epsg.io/
 *  JS Response Bytes: 440472
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15324
-
-### Performance issues
-
 
 ### Performance issues
 

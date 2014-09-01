@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chromebooks.pixton.com/schools/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Log In | Pixton for Chromebooks](http://chromebooks.pixton.com/schools/login)
 
@@ -29,9 +33,6 @@ title: http://chromebooks.pixton.com/schools/login
 *  JS Response Bytes: 499192
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47600
-
-### Performance issues
-
 
 ### Performance issues
 

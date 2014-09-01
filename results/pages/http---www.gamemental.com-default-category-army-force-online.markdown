@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamemental.com/default-category/army-force-online
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Army Force Online - Gamemental](http://www.gamemental.com/default-category/army-force-online)
 
@@ -29,9 +35,6 @@ title: http://www.gamemental.com/default-category/army-force-online
 *  JS Response Bytes: 1419631
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22725
-
-### Performance issues
-
 
 ### Performance issues
 

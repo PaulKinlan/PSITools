@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://adfs.averydennison.com/adfs/ls/?SAMLRequest=fVLLTsMwELwj8Q%2BW70naCCRkNUEFhKjEI6KBAzfH2bYu9jp4nRb%2BHjcFAQcq%2BTQe7zy8k%2FN3a9gGPGmHBR%2BnI84AlWs1Lgv%2BVF8nZ%2Fy8PD6akLSmE9M%2BrPAR3nqgwOJLJDFcFLz3KJwkTQKlBRJBifn07lbk6Uh03gWnnOFsdlVwu1pB0zRrpcwyqqxxrTspX18tWnBGGuxa3ax1w9nzt618Z2tG1MMMKUgMERqNT5LRWZKf1nkuhvPCWfWldKFxn%2BCQrWZPInFT11VSPczrYcBGt%2BDvI7vgS%2BeWBlLl7E6%2BkkR6E%2BGFNAScTYnAh2jw0iH1Fvwc%2FEYreHq8LfgqhI5Elm232%2FRnTCYzGcv%2BaAFRk8M9poiXQ8FiyOh%2FNXs4gfx2wMvDGpPs1%2Fjy6zN3GWdXlTNafbCpMW576UGGGDD4Pua7dt7K8L%2BDcToeEN0mi4EqeqQOlF5oaDnLyr3q362Ju%2FQJ&RelayState=https%3A%2F%2Fwww.google.com%2Fa%2Faverydennison.com%2FServiceLogin%3Fservice%3Dwise%26passive%3Dtrue%26continue%3Dhttps%253A%252F%252Fscript.google.com%252Fa%252Fmacros%252Faverydennison.com%252Fs%252FAKfycbx_363_2PjeCihJUqL7jUJZtiojZ1Ny2HW9wSs-i4PW9m0tPtr2%252Fexec%26followup%3Dhttps%253A%252F%252Fscript.google.com%252Fa%252Fmacros%252Faverydennison.com%252Fs%252FAKfycbx_363_2PjeCihJUqL7jUJZtiojZ1Ny2HW9wSs-i4PW9m0tPtr2%252Fexec
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sign In](https://adfs.averydennison.com/adfs/ls/?SAMLRequest=fVLLTsMwELwj8Q%2BW70naCCRkNUEFhKjEI6KBAzfH2bYu9jp4nRb%2BHjcFAQcq%2BTQe7zy8k%2FN3a9gGPGmHBR%2BnI84AlWs1Lgv%2BVF8nZ%2Fy8PD6akLSmE9M%2BrPAR3nqgwOJLJDFcFLz3KJwkTQKlBRJBifn07lbk6Uh03gWnnOFsdlVwu1pB0zRrpcwyqqxxrTspX18tWnBGGuxa3ax1w9nzt618Z2tG1MMMKUgMERqNT5LRWZKf1nkuhvPCWfWldKFxn%2BCQrWZPInFT11VSPczrYcBGt%2BDvI7vgS%2BeWBlLl7E6%2BkkR6E%2BGFNAScTYnAh2jw0iH1Fvwc%2FEYreHq8LfgqhI5Elm232%2FRnTCYzGcv%2BaAFRk8M9poiXQ8FiyOh%2FNXs4gfx2wMvDGpPs1%2Fjy6zN3GWdXlTNafbCpMW576UGGGDD4Pua7dt7K8L%2BDcToeEN0mi4EqeqQOlF5oaDnLyr3q362Ju%2FQJ&RelayState=https%3A%2F%2Fwww.google.com%2Fa%2Faverydennison.com%2FServiceLogin%3Fservice%3Dwise%26passive%3Dtrue%26continue%3Dhttps%253A%252F%252Fscript.google.com%252Fa%252Fmacros%252Faverydennison.com%252Fs%252FAKfycbx_363_2PjeCihJUqL7jUJZtiojZ1Ny2HW9wSs-i4PW9m0tPtr2%252Fexec%26followup%3Dhttps%253A%252F%252Fscript.google.com%252Fa%252Fmacros%252Faverydennison.com%252Fs%252FAKfycbx_363_2PjeCihJUqL7jUJZtiojZ1Ny2HW9wSs-i4PW9m0tPtr2%252Fexec)
 
@@ -29,9 +34,6 @@ title: https://adfs.averydennison.com/adfs/ls/?SAMLRequest=fVLLTsMwELwj8Q%2BW70n
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5960
-
-### Performance issues
-
 
 ### Performance issues
 

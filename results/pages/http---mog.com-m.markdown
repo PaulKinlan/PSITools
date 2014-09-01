@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://mog.com/m
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [MOG is Moving](http://mog.com/m)
 
@@ -29,9 +31,6 @@ title: http://mog.com/m
 *  JS Response Bytes: 33956
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

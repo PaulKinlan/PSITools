@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gangsterparadiseapp.com/game/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gangster Paradise App](http://www.gangsterparadiseapp.com/game/)
 
@@ -29,9 +33,6 @@ title: http://www.gangsterparadiseapp.com/game/
 *  JS Response Bytes: 734860
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5060
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.biodigital.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [BioDigital Human: Anatomy and Health Conditions in Interactive 3D](https://www.biodigital.com/)
 
@@ -29,9 +33,6 @@ title: https://www.biodigital.com/
 *  JS Response Bytes: 1355890
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 101224
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.gooyunlar.net/34/angry-birds-rio-unlock/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gooyunlar.net](http://www.gooyunlar.net/34/angry-birds-rio-unlock/)
 
@@ -29,9 +31,6 @@ title: http://www.gooyunlar.net/34/angry-birds-rio-unlock/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

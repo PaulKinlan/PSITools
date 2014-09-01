@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.goodgame4you.com/game/jewels-mania.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jewels Mania - Puzzle Games - Play Free Online Games](http://www.goodgame4you.com/game/jewels-mania.html)
 
@@ -29,9 +35,6 @@ title: http://www.goodgame4you.com/game/jewels-mania.html
 *  JS Response Bytes: 545885
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

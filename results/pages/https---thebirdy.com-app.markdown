@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://thebirdy.com/app
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sign into your account | The Birdy](https://thebirdy.com/app)
 
@@ -29,9 +34,6 @@ title: https://thebirdy.com/app
 *  JS Response Bytes: 577723
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1256
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.hkmci.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Master Concept | A New Concept of Computing](http://www.hkmci.com/)
 
@@ -29,9 +30,6 @@ title: http://www.hkmci.com/
 *  JS Response Bytes: 213383
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122013
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -126,6 +126,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -162,6 +163,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 <hr>
 
 
@@ -267,6 +269,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -304,6 +307,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -341,6 +345,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -378,6 +383,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 <hr>
 
 
@@ -413,6 +419,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -453,6 +460,7 @@ category: apps
 ### Mobile UX issues
 
 *  Avoid plugins
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -489,6 +497,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -526,6 +535,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -598,6 +608,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -672,6 +683,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -745,6 +757,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -784,6 +797,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -821,6 +835,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -859,6 +874,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 <hr>
 
 
@@ -1005,6 +1021,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Use legible font sizes
 <hr>
 
@@ -1079,6 +1096,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1153,6 +1171,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 <hr>
 
 
@@ -1188,6 +1207,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 <hr>
 
 
@@ -1335,6 +1355,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 <hr>
@@ -1372,6 +1393,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -1410,6 +1432,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -1521,6 +1544,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1558,6 +1582,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1672,6 +1697,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1749,6 +1775,7 @@ category: apps
 ### Mobile UX issues
 
 *  Avoid plugins
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1823,6 +1850,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1861,6 +1889,7 @@ category: apps
 ### Mobile UX issues
 
 *  Avoid plugins
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -1899,6 +1928,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -1939,6 +1969,7 @@ category: apps
 ### Mobile UX issues
 
 *  Avoid plugins
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -2013,6 +2044,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -2051,6 +2083,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -2089,6 +2122,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -2128,6 +2162,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -2168,6 +2203,7 @@ category: apps
 ### Mobile UX issues
 
 *  Avoid plugins
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -2207,6 +2243,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -2323,6 +2360,7 @@ category: apps
 ### Mobile UX issues
 
 *  Avoid plugins
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>
@@ -2397,6 +2435,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -2436,6 +2475,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -2892,6 +2932,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -3006,6 +3047,7 @@ category: apps
 ### Mobile UX issues
 
 *  Avoid plugins
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -3083,6 +3125,7 @@ category: apps
 ### Mobile UX issues
 
 *  Avoid plugins
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -3158,6 +3201,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -3197,6 +3241,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
@@ -3309,6 +3354,7 @@ category: apps
 
 ### Mobile UX issues
 
+*  Configure the viewport
 *  Size tap targets appropriately
 *  Use legible font sizes
 <hr>

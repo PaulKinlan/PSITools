@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeshopgames.com/action/tombik#.U_utKk0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tombik - Free Shop Games](http://www.freeshopgames.com/action/tombik#.U_utKk0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.freeshopgames.com/action/tombik#.U_utKk0ieKA
 *  JS Response Bytes: 1532399
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30040
-
-### Performance issues
-
 
 ### Performance issues
 

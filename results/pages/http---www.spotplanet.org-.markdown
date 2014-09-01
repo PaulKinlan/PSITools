@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.spotplanet.org/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Spotplanet: The end](http://www.spotplanet.org/)
 
@@ -29,9 +32,6 @@ title: http://www.spotplanet.org/
 *  JS Response Bytes: 151754
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

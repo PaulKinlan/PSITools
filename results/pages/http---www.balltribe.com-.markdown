@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.balltribe.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BallTribe - Break Sports News. Join The Tribe.](http://www.balltribe.com/)
 
@@ -29,9 +34,6 @@ title: http://www.balltribe.com/
 *  JS Response Bytes: 1033244
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41572
-
-### Performance issues
-
 
 ### Performance issues
 

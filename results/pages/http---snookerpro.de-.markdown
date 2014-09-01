@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://snookerpro.de/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [SnookerPRO - Snooker Blog](http://snookerpro.de/)
 
@@ -29,9 +31,6 @@ title: http://snookerpro.de/
 *  JS Response Bytes: 146714
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ai.m.taobao.com/?pid=mm_24964138_2359125_21090404
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [爱淘宝](http://ai.m.taobao.com/?pid=mm_24964138_2359125_21090404)
 
@@ -29,9 +32,6 @@ title: http://ai.m.taobao.com/?pid=mm_24964138_2359125_21090404
 *  JS Response Bytes: 330418
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1088
-
-### Performance issues
-
 
 ### Performance issues
 

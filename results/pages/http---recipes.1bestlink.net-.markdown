@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://recipes.1bestlink.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Recipes & Food Search](http://recipes.1bestlink.net/)
 
@@ -29,9 +33,6 @@ title: http://recipes.1bestlink.net/
 *  JS Response Bytes: 490862
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

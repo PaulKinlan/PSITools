@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.radiofeeds.co.uk/chrome/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [RadioFeeds UK & Ireland for Google TV and Chromebooks](http://www.radiofeeds.co.uk/chrome/)
 
@@ -29,9 +31,6 @@ title: http://www.radiofeeds.co.uk/chrome/
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14744
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromestore1.blogspot.com.tr/2014/04/real-racing-3.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [chrome game store: Real racing 3](http://chromestore1.blogspot.com.tr/2014/04/real-racing-3.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromestore1.blogspot.com.tr/2014/04/real-racing-3.html?m=1
 *  JS Response Bytes: 722235
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95586
-
-### Performance issues
-
 
 ### Performance issues
 

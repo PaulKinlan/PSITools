@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bogames.com/onlinegames/bowling/?tag#.U_2OPU0ieKA
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bowling Games - Play Bowling Games Online](http://www.bogames.com/onlinegames/bowling/?tag#.U_2OPU0ieKA)
 
@@ -29,9 +33,6 @@ title: http://www.bogames.com/onlinegames/bowling/?tag#.U_2OPU0ieKA
 *  JS Response Bytes: 996816
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22145
-
-### Performance issues
-
 
 ### Performance issues
 

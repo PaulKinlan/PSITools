@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.stuttgartevents.org/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Veranstaltungen & EVENTS in STUTTGART und Umgebung - Veranstaltungskalender Heute - STUTTGART EVENTS](http://www.stuttgartevents.org/)
 
@@ -29,9 +32,6 @@ title: http://www.stuttgartevents.org/
 *  JS Response Bytes: 666128
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 80094
-
-### Performance issues
-
 
 ### Performance issues
 

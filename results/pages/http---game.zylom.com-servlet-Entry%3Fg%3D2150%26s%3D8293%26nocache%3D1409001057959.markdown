@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://game.zylom.com/servlet/Entry?g=2150&s=8293&nocache=1409001057959
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Letters from Nowhere 2](http://game.zylom.com/servlet/Entry?g=2150&s=8293&nocache=1409001057959)
 
@@ -29,9 +35,6 @@ title: http://game.zylom.com/servlet/Entry?g=2150&s=8293&nocache=1409001057959
 *  JS Response Bytes: 295688
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8147
-
-### Performance issues
-
 
 ### Performance issues
 

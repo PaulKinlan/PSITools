@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.everythingcomputers.info/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Everything Computers | Home](http://www.everythingcomputers.info/)
 
@@ -29,9 +32,6 @@ title: http://www.everythingcomputers.info/
 *  JS Response Bytes: 333365
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

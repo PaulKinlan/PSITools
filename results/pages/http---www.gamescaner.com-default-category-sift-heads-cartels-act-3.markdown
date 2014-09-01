@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamescaner.com/default-category/sift-heads-cartels-act-3
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sift Heads Cartels: Act 3 - Gamescaner.com](http://www.gamescaner.com/default-category/sift-heads-cartels-act-3)
 
@@ -29,9 +34,6 @@ title: http://www.gamescaner.com/default-category/sift-heads-cartels-act-3
 *  JS Response Bytes: 789663
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1523
-
-### Performance issues
-
 
 ### Performance issues
 

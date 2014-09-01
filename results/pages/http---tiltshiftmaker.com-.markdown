@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://tiltshiftmaker.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [tiltshiftmaker.com - Transform your photos into tilt-shift style miniatures](http://tiltshiftmaker.com/)
 
@@ -29,9 +34,6 @@ title: http://tiltshiftmaker.com/
 *  JS Response Bytes: 860949
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95822
-
-### Performance issues
-
 
 ### Performance issues
 

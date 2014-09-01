@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kazi.no/slots/mermaid-millions/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mermaid millions @ Kazi.noKazi.no](http://www.kazi.no/slots/mermaid-millions/)
 
@@ -29,9 +34,6 @@ title: http://www.kazi.no/slots/mermaid-millions/
 *  JS Response Bytes: 1165898
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141029
-
-### Performance issues
-
 
 ### Performance issues
 

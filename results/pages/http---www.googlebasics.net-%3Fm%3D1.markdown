@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.googlebasics.net/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Google Basics](http://www.googlebasics.net/?m=1)
 
@@ -29,9 +30,6 @@ title: http://www.googlebasics.net/?m=1
 *  JS Response Bytes: 290033
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 564
-
-### Performance issues
-
 
 ### Performance issues
 

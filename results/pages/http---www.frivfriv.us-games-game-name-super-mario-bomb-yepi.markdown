@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.frivfriv.us/games/game/name/super-mario-bomb/yepi
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [super-mario-bomb Friv Games](http://www.frivfriv.us/games/game/name/super-mario-bomb/yepi)
 
@@ -29,9 +33,6 @@ title: http://www.frivfriv.us/games/game/name/super-mario-bomb/yepi
 *  JS Response Bytes: 1875055
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112441
-
-### Performance issues
-
 
 ### Performance issues
 

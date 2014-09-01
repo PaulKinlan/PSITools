@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://abcde.sakura.ne.jp/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PHP Reader](http://abcde.sakura.ne.jp/)
 
@@ -29,9 +33,6 @@ title: http://abcde.sakura.ne.jp/
 *  JS Response Bytes: 446750
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

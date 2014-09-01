@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.monkeypeanuts.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MonkeyPeanuts.com | Manage your money for free with MonkeyPeanuts.com personal finance and money management software](https://www.monkeypeanuts.com/)
 
@@ -29,9 +32,6 @@ title: https://www.monkeypeanuts.com/
 *  JS Response Bytes: 146081
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 488
-
-### Performance issues
-
 
 ### Performance issues
 

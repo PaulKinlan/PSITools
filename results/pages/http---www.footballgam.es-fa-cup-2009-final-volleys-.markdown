@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/fa-cup-2009-final-volleys/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FA Cup 2009 Final Volleys Game](http://www.footballgam.es/fa-cup-2009-final-volleys/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/fa-cup-2009-final-volleys/
 *  JS Response Bytes: 2303760
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 157837
-
-### Performance issues
-
 
 ### Performance issues
 

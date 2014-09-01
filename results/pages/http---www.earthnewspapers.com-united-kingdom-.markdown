@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.earthnewspapers.com/united-kingdom/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DIRECTORY OF NEWSPAPERS OF UNITED Kingdom](http://www.earthnewspapers.com/united-kingdom/)
 
@@ -29,9 +34,6 @@ title: http://www.earthnewspapers.com/united-kingdom/
 *  JS Response Bytes: 823538
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16556
-
-### Performance issues
-
 
 ### Performance issues
 

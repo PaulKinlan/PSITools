@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamenur.com/army-training/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Army-Training | Gamenur](http://www.gamenur.com/army-training/)
 
@@ -29,9 +34,6 @@ title: http://www.gamenur.com/army-training/
 *  JS Response Bytes: 1257656
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148672
-
-### Performance issues
-
 
 ### Performance issues
 

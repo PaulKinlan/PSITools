@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.samstore.info/getradio/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SoundTaxi Get Radio | Record Online Radio to MP3](http://www.samstore.info/getradio/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.samstore.info/getradio/index.html
 *  JS Response Bytes: 1167990
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112588
-
-### Performance issues
-
 
 ### Performance issues
 

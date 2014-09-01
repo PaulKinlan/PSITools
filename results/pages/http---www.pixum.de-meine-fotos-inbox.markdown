@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.pixum.de/meine-fotos/inbox
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fotoeingang - Pixum Fotoalbum](http://www.pixum.de/meine-fotos/inbox)
 
@@ -29,9 +34,6 @@ title: http://www.pixum.de/meine-fotos/inbox
 *  JS Response Bytes: 1223556
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2230
-
-### Performance issues
-
 
 ### Performance issues
 

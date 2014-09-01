@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://dagamingblog4u.blogspot.com/2014/01/need-for-speed-most-wanted-guide.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The Gaming Blog: Need For Speed: Most Wanted Guide](http://dagamingblog4u.blogspot.com/2014/01/need-for-speed-most-wanted-guide.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://dagamingblog4u.blogspot.com/2014/01/need-for-speed-most-wanted-gui
 *  JS Response Bytes: 1121172
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95615
-
-### Performance issues
-
 
 ### Performance issues
 

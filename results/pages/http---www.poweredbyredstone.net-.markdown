@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.poweredbyredstone.net/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Powered by Redstone](http://www.poweredbyredstone.net/)
 
@@ -29,9 +31,6 @@ title: http://www.poweredbyredstone.net/
 *  JS Response Bytes: 565139
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118845
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://arcadegamesonlines.blogspot.com/2014/03/flappy-fird.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [games: Flappy Bird](http://arcadegamesonlines.blogspot.com/2014/03/flappy-fird.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://arcadegamesonlines.blogspot.com/2014/03/flappy-fird.html?m=1
 *  JS Response Bytes: 976191
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287163
-
-### Performance issues
-
 
 ### Performance issues
 

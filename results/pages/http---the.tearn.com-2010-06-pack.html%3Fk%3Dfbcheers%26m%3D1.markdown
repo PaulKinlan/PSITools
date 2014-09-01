@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://the.tearn.com/2010/06/pack.html?k=fbcheers&m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Keys for Tablets: PackApp, Distance Learning, College, Universities, Bachelors, Masters, PhD, Adult Education](http://the.tearn.com/2010/06/pack.html?k=fbcheers&m=1)
 
@@ -29,9 +34,6 @@ title: http://the.tearn.com/2010/06/pack.html?k=fbcheers&m=1
 *  JS Response Bytes: 1421654
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100734
-
-### Performance issues
-
 
 ### Performance issues
 

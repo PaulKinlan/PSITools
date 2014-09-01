@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://lazycatapps.com/vdraw
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Draw with your voice. Voice draw is the first application that allows you to draw using google voice recognition](http://lazycatapps.com/vdraw)
 
@@ -29,9 +33,6 @@ title: http://lazycatapps.com/vdraw
 *  JS Response Bytes: 1018602
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 807
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://easyclock.appspot.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [EasyClock](http://easyclock.appspot.com/)
 
@@ -29,9 +35,6 @@ title: http://easyclock.appspot.com/
 *  JS Response Bytes: 2173372
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15719
-
-### Performance issues
-
 
 ### Performance issues
 

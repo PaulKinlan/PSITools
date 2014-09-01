@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.currency.am/hy-AM/exchange-rates
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ՀՀ դրամի փոխարժեքները - Armenian Currency](http://www.currency.am/hy-AM/exchange-rates)
 
@@ -29,9 +32,6 @@ title: http://www.currency.am/hy-AM/exchange-rates
 *  JS Response Bytes: 1643480
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96162
-
-### Performance issues
-
 
 ### Performance issues
 

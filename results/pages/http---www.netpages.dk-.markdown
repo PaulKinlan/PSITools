@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.netpages.dk/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Netpages.dk](http://www.netpages.dk/)
 
@@ -29,9 +34,6 @@ title: http://www.netpages.dk/
 *  JS Response Bytes: 41101
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 509
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.puzzleangelgames.com/sports-games.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play the best Sports Games - Only at Angel Games - Angel Games](http://www.puzzleangelgames.com/sports-games.html)
 
@@ -29,9 +36,6 @@ title: http://www.puzzleangelgames.com/sports-games.html
 *  JS Response Bytes: 1340459
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 241896
-
-### Performance issues
-
 
 ### Performance issues
 

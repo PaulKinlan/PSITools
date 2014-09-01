@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gamesforgirls3.com/games/cooking-game-for-girls
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cooking Games | Games for Girls - Play Dress Up, Cooking and Decorating Games](http://www.gamesforgirls3.com/games/cooking-game-for-girls)
 
@@ -29,9 +36,6 @@ title: http://www.gamesforgirls3.com/games/cooking-game-for-girls
 *  JS Response Bytes: 1752785
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111825
-
-### Performance issues
-
 
 ### Performance issues
 

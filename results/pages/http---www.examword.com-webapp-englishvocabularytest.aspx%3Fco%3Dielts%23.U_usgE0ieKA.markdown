@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.examword.com/webapp/englishvocabularytest.aspx?co=ielts#.U_usgE0ieKA
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [IELTS Vocabulary Test](http://www.examword.com/webapp/englishvocabularytest.aspx?co=ielts#.U_usgE0ieKA)
 
@@ -29,9 +33,6 @@ title: http://www.examword.com/webapp/englishvocabularytest.aspx?co=ielts#.U_usg
 *  JS Response Bytes: 1383140
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22842
-
-### Performance issues
-
 
 ### Performance issues
 

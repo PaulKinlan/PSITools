@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.reverbnation.com/signup
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
 ---
 ## [ReverbNation](http://m.reverbnation.com/signup)
 
@@ -29,9 +33,6 @@ title: http://m.reverbnation.com/signup
 *  JS Response Bytes: 873981
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1295
-
-### Performance issues
-
 
 ### Performance issues
 

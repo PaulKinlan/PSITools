@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/676550/?autoAction=true&sId=Chrome_Webstore_Nov12_676550&actid=Chrome_Webstore_676550
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Bistro Stars for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/676550/?autoAction=true&sId=Chrome_Webstore_Nov12_676550&actid=Chrome_Webstore_676550)
 
@@ -29,9 +34,6 @@ title: http://www.freeridegames.com/chrome/games/676550/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1350000
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28266
-
-### Performance issues
-
 
 ### Performance issues
 

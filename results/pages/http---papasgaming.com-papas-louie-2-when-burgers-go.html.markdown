@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://papasgaming.com/papas-louie-2-when-burgers-go.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PapasGaming.Com – Papa’s Louie 2: When Burgers Go!](http://papasgaming.com/papas-louie-2-when-burgers-go.html)
 
@@ -29,9 +36,6 @@ title: http://papasgaming.com/papas-louie-2-when-burgers-go.html
 *  JS Response Bytes: 468283
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3992
-
-### Performance issues
-
 
 ### Performance issues
 

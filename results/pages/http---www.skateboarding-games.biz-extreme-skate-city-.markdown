@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/extreme-skate-city/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Extreme Skate City game](http://www.skateboarding-games.biz/extreme-skate-city/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/extreme-skate-city/
 *  JS Response Bytes: 2123741
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120854
-
-### Performance issues
-
 
 ### Performance issues
 

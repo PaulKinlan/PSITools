@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/719250/?autoAction=true&sId=Chrome_Webstore_Nov12_719250
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Aztec Tribe New Land for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/719250/?autoAction=true&sId=Chrome_Webstore_Nov12_719250)
 
@@ -29,9 +36,6 @@ title: http://www.freeridegames.com/chrome/games/719250/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1542886
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53161
-
-### Performance issues
-
 
 ### Performance issues
 

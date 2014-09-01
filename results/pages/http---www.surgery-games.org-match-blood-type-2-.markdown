@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/match-blood-type-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Match Blood Type game](http://www.surgery-games.org/match-blood-type-2/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/match-blood-type-2/
 *  JS Response Bytes: 2428892
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116836
-
-### Performance issues
-
 
 ### Performance issues
 

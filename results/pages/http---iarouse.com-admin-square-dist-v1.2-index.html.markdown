@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://iarouse.com/admin-square/dist-v1.2/index.html
+MinimizeRenderBlockingResources: true
 ---
 ## [iArouse](http://iarouse.com/admin-square/dist-v1.2/index.html)
 
@@ -32,11 +33,7 @@ title: http://iarouse.com/admin-square/dist-v1.2/index.html
 
 ### Performance issues
 
-
-### Performance issues
-
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
-*  Inline render-blocking CSS
 
 ### Mobile UX issues
 

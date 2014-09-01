@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromesgames.com/?=404;http://chromesgames.com:80/downhill-jam.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [chromesgames.com](http://chromesgames.com/?=404;http://chromesgames.com:80/downhill-jam.html&reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://chromesgames.com/?=404;http://chromesgames.com:80/downhill-jam.htm
 *  JS Response Bytes: 304181
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 108
-
-### Performance issues
-
 
 ### Performance issues
 

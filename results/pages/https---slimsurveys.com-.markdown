@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://slimsurveys.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SlimSurveys | Surveys Made Simple](https://slimsurveys.com/)
 
@@ -29,9 +32,6 @@ title: https://slimsurveys.com/
 *  JS Response Bytes: 228283
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

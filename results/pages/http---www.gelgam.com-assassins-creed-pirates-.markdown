@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gelgam.com/assassins-creed-pirates/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gel Games – Assassin’s Creed Pirates](http://www.gelgam.com/assassins-creed-pirates/)
 
@@ -29,9 +33,6 @@ title: http://www.gelgam.com/assassins-creed-pirates/
 *  JS Response Bytes: 879302
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15968
-
-### Performance issues
-
 
 ### Performance issues
 

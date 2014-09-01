@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tamgam.com/postman-pat/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tam Games – Postman Pat](http://www.tamgam.com/postman-pat/)
 
@@ -29,9 +34,6 @@ title: http://www.tamgam.com/postman-pat/
 *  JS Response Bytes: 1035297
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16252
-
-### Performance issues
-
 
 ### Performance issues
 

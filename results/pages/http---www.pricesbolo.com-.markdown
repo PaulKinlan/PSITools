@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pricesbolo.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Shopping in India - Compare Prices and Shop Online for Mobile Phones, Clothing, Watches, Laptops, Toys, Deals, Jewellery, Cameras, Television, Tablets & More - PricesBolo.com](http://www.pricesbolo.com/)
 
@@ -29,9 +33,6 @@ title: http://www.pricesbolo.com/
 *  JS Response Bytes: 505877
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

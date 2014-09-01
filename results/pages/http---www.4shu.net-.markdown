@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.4shu.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [24理论 解决二十四点 24点在线游戏/全部解法/理论](http://www.4shu.net/)
 
@@ -29,9 +34,6 @@ title: http://www.4shu.net/
 *  JS Response Bytes: 666902
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1786
-
-### Performance issues
-
 
 ### Performance issues
 

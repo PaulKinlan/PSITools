@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://mybabymemories.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login](https://mybabymemories.com/)
 
@@ -29,9 +33,6 @@ title: https://mybabymemories.com/
 *  JS Response Bytes: 18399
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 520
-
-### Performance issues
-
 
 ### Performance issues
 

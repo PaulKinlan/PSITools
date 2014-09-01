@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.jitya.com/login?&chkie=true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jitya - Patient Management Software | Electronic Health Record Management](http://www.jitya.com/login?&chkie=true)
 
@@ -29,9 +33,6 @@ title: http://www.jitya.com/login?&chkie=true
 *  JS Response Bytes: 252008
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2094
-
-### Performance issues
-
 
 ### Performance issues
 

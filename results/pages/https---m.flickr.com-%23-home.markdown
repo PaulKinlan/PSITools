@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://m.flickr.com/#/home
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Flickr](https://m.flickr.com/#/home)
 
@@ -13,25 +17,22 @@ title: https://m.flickr.com/#/home
 
 ### Request information
 
-*  Number of Resources: 37
-*  Number of Hosts: 8
-*  Number of JS Resources: 7
+*  Number of Resources: 35
+*  Number of Hosts: 7
+*  Number of JS Resources: 6
 *  Number of CSS Resources: 3
-*  Nubmer of Static Resources: 28
-*  Total Request Bytes: 5137
+*  Nubmer of Static Resources: 27
+*  Total Request Bytes: 4825
 
 ### Response data
 
-*  HTML Response Bytes: 24296
-*  Text Response Bytes: 1124
-*  CSS Response Bytes: 78095
-*  Image Response Bytes: 184282
-*  JS Response Bytes: 319711
+*  HTML Response Bytes: 23492
+*  Text Response Bytes: 1126
+*  CSS Response Bytes: 78127
+*  Image Response Bytes: 184314
+*  JS Response Bytes: 308709
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2935
-
-### Performance issues
-
+*  Other Response Bytes: 2455
 
 ### Performance issues
 

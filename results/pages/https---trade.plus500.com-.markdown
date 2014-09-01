@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://trade.plus500.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Plus500 WebTrader](https://trade.plus500.com/)
 
@@ -18,7 +23,7 @@ title: https://trade.plus500.com/
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 5
 *  Nubmer of Static Resources: 21
-*  Total Request Bytes: 2550
+*  Total Request Bytes: 2556
 
 ### Response data
 
@@ -26,12 +31,9 @@ title: https://trade.plus500.com/
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 198190
 *  Image Response Bytes: 36471
-*  JS Response Bytes: 615802
+*  JS Response Bytes: 615793
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 888
-
-### Performance issues
-
+*  Other Response Bytes: 891
 
 ### Performance issues
 

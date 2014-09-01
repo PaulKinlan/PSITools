@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.flashminigame.com/default-category/18-wheeler-traffic-jam
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [18 Wheeler Traffic Jam - Flash Mini GaMeS - Free Online Flash Games](http://www.flashminigame.com/default-category/18-wheeler-traffic-jam)
 
@@ -29,9 +35,6 @@ title: http://www.flashminigame.com/default-category/18-wheeler-traffic-jam
 *  JS Response Bytes: 911935
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 67269
-
-### Performance issues
-
 
 ### Performance issues
 

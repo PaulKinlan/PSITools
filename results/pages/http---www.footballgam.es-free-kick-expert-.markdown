@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/free-kick-expert/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Kick Expert Game](http://www.footballgam.es/free-kick-expert/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/free-kick-expert/
 *  JS Response Bytes: 2578150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 142995
-
-### Performance issues
-
 
 ### Performance issues
 

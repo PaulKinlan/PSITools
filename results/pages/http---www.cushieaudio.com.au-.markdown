@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.cushieaudio.com.au/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bluetooth Handsfree | iPod Adapters | Android Car Kits | Cushie Audio](http://www.cushieaudio.com.au/)
 
@@ -29,9 +34,6 @@ title: http://www.cushieaudio.com.au/
 *  JS Response Bytes: 1543651
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22585
-
-### Performance issues
-
 
 ### Performance issues
 

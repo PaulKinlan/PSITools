@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://2014webgames.blogspot.com/2014/04/gta-5-similar-games-play.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online games: GTA 5 Similar Games Play](http://2014webgames.blogspot.com/2014/04/gta-5-similar-games-play.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://2014webgames.blogspot.com/2014/04/gta-5-similar-games-play.html?m=
 *  JS Response Bytes: 1570446
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141361
-
-### Performance issues
-
 
 ### Performance issues
 

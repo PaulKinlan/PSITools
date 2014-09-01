@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://buildmusclesguide.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://buildmusclesguide.blogspot.com/?m=1)
 
@@ -18,7 +21,7 @@ title: http://buildmusclesguide.blogspot.com/?m=1
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 1004
+*  Total Request Bytes: 1005
 
 ### Response data
 
@@ -29,9 +32,6 @@ title: http://buildmusclesguide.blogspot.com/?m=1
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18786
-
-### Performance issues
-
 
 ### Performance issues
 

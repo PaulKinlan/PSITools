@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.perfecthdmovies.com/?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [PerfectHDMovies](http://www.perfecthdmovies.com/?m=1)
 
@@ -29,9 +31,6 @@ title: http://www.perfecthdmovies.com/?m=1
 *  JS Response Bytes: 242548
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1099
-
-### Performance issues
-
 
 ### Performance issues
 

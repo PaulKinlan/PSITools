@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://roguebench.com/?reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [roguebench.com](http://roguebench.com/?reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://roguebench.com/?reqp=1&reqr=
 *  JS Response Bytes: 304173
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56
-
-### Performance issues
-
 
 ### Performance issues
 

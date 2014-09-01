@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.hot-reviews.info/pdf2word/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Convert PDF to Word for Windows - FREE PDF2Word App](http://www.hot-reviews.info/pdf2word/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.hot-reviews.info/pdf2word/index.html
 *  JS Response Bytes: 1135909
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98506
-
-### Performance issues
-
 
 ### Performance issues
 

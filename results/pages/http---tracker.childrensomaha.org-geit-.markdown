@@ -33,8 +33,5 @@ title: http://tracker.childrensomaha.org/geit/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

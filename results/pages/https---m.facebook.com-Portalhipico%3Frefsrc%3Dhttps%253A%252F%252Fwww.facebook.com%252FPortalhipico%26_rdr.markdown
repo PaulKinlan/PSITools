@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://m.facebook.com/Portalhipico?refsrc=https%3A%2F%2Fwww.facebook.com%2FPortalhipico&_rdr
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [http://www.portalhipico.com](https://m.facebook.com/Portalhipico?refsrc=https%3A%2F%2Fwww.facebook.com%2FPortalhipico&_rdr)
 
@@ -29,9 +32,6 @@ title: https://m.facebook.com/Portalhipico?refsrc=https%3A%2F%2Fwww.facebook.com
 *  JS Response Bytes: 435632
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2052
-
-### Performance issues
-
 
 ### Performance issues
 

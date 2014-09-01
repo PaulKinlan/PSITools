@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.pulado.com/apps/hzwwh/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Field Goal Kicker](http://www.pulado.com/apps/hzwwh/)
 
@@ -29,9 +33,6 @@ title: http://www.pulado.com/apps/hzwwh/
 *  JS Response Bytes: 21837
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

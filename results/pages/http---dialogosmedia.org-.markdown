@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://dialogosmedia.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Dialogos Media | Award-Winning Journalism](http://dialogosmedia.org/)
 
@@ -29,9 +34,6 @@ title: http://dialogosmedia.org/
 *  JS Response Bytes: 1739615
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 78049
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mydays.2t4u.com/2/login.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [MyDays - Period & Ovulation Calendar](http://mydays.2t4u.com/2/login.php)
 
@@ -29,9 +32,6 @@ title: http://mydays.2t4u.com/2/login.php
 *  JS Response Bytes: 206584
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1106
-
-### Performance issues
-
 
 ### Performance issues
 

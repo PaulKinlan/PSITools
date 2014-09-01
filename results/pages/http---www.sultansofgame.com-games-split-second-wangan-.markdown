@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/split-second-wangan/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Split Second Wangan Game — Sultans of Game](http://www.sultansofgame.com/games/split-second-wangan/)
 
@@ -29,9 +33,6 @@ title: http://www.sultansofgame.com/games/split-second-wangan/
 *  JS Response Bytes: 1704273
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115491
-
-### Performance issues
-
 
 ### Performance issues
 

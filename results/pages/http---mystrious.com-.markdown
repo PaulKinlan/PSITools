@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://mystrious.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mystrious | Design Tips Online Magazine](http://mystrious.com/)
 
@@ -29,9 +34,6 @@ title: http://mystrious.com/
 *  JS Response Bytes: 1589822
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 144976
-
-### Performance issues
-
 
 ### Performance issues
 

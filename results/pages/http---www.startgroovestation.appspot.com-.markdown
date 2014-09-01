@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.startgroovestation.appspot.com/
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [GrooveStation! | Start](http://www.startgroovestation.appspot.com/)
 
@@ -29,9 +31,6 @@ title: http://www.startgroovestation.appspot.com/
 *  JS Response Bytes: 139686
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 896
-
-### Performance issues
-
 
 ### Performance issues
 

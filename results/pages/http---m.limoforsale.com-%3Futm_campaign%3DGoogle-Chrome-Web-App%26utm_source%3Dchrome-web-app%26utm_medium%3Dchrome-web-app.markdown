@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.limoforsale.com/?utm_campaign=Google-Chrome-Web-App&utm_source=chrome-web-app&utm_medium=chrome-web-app
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Limos For Sale](http://m.limoforsale.com/?utm_campaign=Google-Chrome-Web-App&utm_source=chrome-web-app&utm_medium=chrome-web-app)
 
@@ -29,9 +31,6 @@ title: http://m.limoforsale.com/?utm_campaign=Google-Chrome-Web-App&utm_source=c
 *  JS Response Bytes: 287396
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44494
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.keepreading.us/raven/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Raven -- a Multimedia E-Book by Edgar Allan Poe](http://www.keepreading.us/raven/)
 
@@ -29,9 +33,6 @@ title: http://www.keepreading.us/raven/
 *  JS Response Bytes: 56166
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

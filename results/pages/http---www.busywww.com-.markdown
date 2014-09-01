@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.busywww.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Welcome to Busy WWW](http://www.busywww.com/)
 
@@ -29,9 +34,6 @@ title: http://www.busywww.com/
 *  JS Response Bytes: 1263342
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 280845
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.stationofgames.com/lineball/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LineBall](http://www.stationofgames.com/lineball/)
 
@@ -29,9 +35,6 @@ title: http://www.stationofgames.com/lineball/
 *  JS Response Bytes: 1954970
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102016
-
-### Performance issues
-
 
 ### Performance issues
 

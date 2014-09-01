@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://aptech1.weebly.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [- Blog](http://aptech1.weebly.com/)
 
@@ -29,9 +32,6 @@ title: http://aptech1.weebly.com/
 *  JS Response Bytes: 245676
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44199
-
-### Performance issues
-
 
 ### Performance issues
 

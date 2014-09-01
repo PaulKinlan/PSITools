@@ -33,8 +33,5 @@ title: http://uploda.cc/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

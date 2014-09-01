@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://nitaiyoga.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Nitai Yoga - Pure love by divine sounds and syllables Nitai Yoga](http://nitaiyoga.com/)
 
@@ -29,9 +34,6 @@ title: http://nitaiyoga.com/
 *  JS Response Bytes: 420181
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35883
-
-### Performance issues
-
 
 ### Performance issues
 

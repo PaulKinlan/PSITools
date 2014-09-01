@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.bestchromegames.co/game/urban-warfare-2-647
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Urban Warfare 2 Game - Best Chrome Games](http://www.bestchromegames.co/game/urban-warfare-2-647)
 
@@ -29,9 +33,6 @@ title: http://www.bestchromegames.co/game/urban-warfare-2-647
 *  JS Response Bytes: 621087
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

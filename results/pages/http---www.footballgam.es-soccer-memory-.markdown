@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/soccer-memory/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Soccer Memory Game](http://www.footballgam.es/soccer-memory/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/soccer-memory/
 *  JS Response Bytes: 2296917
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 155596
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/railnation
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Addicting Games](http://www.2addictinggames.com/games/railnation)
 
@@ -29,9 +33,6 @@ title: http://www.2addictinggames.com/games/railnation
 *  JS Response Bytes: 2348406
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 27723
-
-### Performance issues
-
 
 ### Performance issues
 

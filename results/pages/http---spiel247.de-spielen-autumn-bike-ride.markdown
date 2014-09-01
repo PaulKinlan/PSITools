@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://spiel247.de/spielen/autumn-bike-ride
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Autumn Bike Ride spielen. Und viele weitere Flashgames - spiel247.de](http://spiel247.de/spielen/autumn-bike-ride)
 
@@ -29,9 +33,6 @@ title: http://spiel247.de/spielen/autumn-bike-ride
 *  JS Response Bytes: 1160044
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2656
-
-### Performance issues
-
 
 ### Performance issues
 

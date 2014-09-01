@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/sports/snowboard-sprint-
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Snowboard Sprint - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/sports/snowboard-sprint-)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/sports/snowboard-sprint-
 *  JS Response Bytes: 2211657
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 157612
-
-### Performance issues
-
 
 ### Performance issues
 

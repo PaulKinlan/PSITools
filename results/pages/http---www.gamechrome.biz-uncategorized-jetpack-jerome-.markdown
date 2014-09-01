@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamechrome.biz/uncategorized/jetpack-jerome/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jetpack Jerome | Game Chrome](http://www.gamechrome.biz/uncategorized/jetpack-jerome/)
 
@@ -29,9 +34,6 @@ title: http://www.gamechrome.biz/uncategorized/jetpack-jerome/
 *  JS Response Bytes: 831907
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5716
-
-### Performance issues
-
 
 ### Performance issues
 

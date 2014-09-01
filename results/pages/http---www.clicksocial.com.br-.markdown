@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.clicksocial.com.br/
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bem vindo ao Click social a sua mais nova rede - um novo rumo um novo conceito](http://www.clicksocial.com.br/)
 
@@ -29,9 +33,6 @@ title: http://www.clicksocial.com.br/
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 12038
-
-### Performance issues
-
 
 ### Performance issues
 

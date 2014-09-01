@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://miniboxgames.blogspot.com/2013/04/counter-strike-online-3d.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Mini Box Games: Counter Strike Online 3D](http://miniboxgames.blogspot.com/2013/04/counter-strike-online-3d.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://miniboxgames.blogspot.com/2013/04/counter-strike-online-3d.html?m=
 *  JS Response Bytes: 2251306
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287181
-
-### Performance issues
-
 
 ### Performance issues
 

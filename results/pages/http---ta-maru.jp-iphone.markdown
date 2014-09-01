@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://ta-maru.jp/iphone
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [たまる家計簿 ｽﾏｰﾄﾌｫﾝ](http://ta-maru.jp/iphone)
 
@@ -29,9 +34,6 @@ title: http://ta-maru.jp/iphone
 *  JS Response Bytes: 461509
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1312
-
-### Performance issues
-
 
 ### Performance issues
 

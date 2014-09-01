@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.radio.co.ma/mobile/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Radio Maroc FM/AM. Ecouter radio Marocaine en ligne](http://www.radio.co.ma/mobile/)
 
@@ -29,9 +32,6 @@ title: http://www.radio.co.ma/mobile/
 *  JS Response Bytes: 1692021
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110423
-
-### Performance issues
-
 
 ### Performance issues
 

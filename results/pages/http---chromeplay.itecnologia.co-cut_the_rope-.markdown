@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chromeplay.itecnologia.co/cut_the_rope/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cut the rope Online](http://chromeplay.itecnologia.co/cut_the_rope/)
 
@@ -29,9 +33,6 @@ title: http://chromeplay.itecnologia.co/cut_the_rope/
 *  JS Response Bytes: 391105
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://worldofgnome.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [woGue](http://worldofgnome.org/)
 
@@ -29,9 +32,6 @@ title: http://worldofgnome.org/
 *  JS Response Bytes: 1474373
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 168680
-
-### Performance issues
-
 
 ### Performance issues
 

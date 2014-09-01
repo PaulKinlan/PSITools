@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.kamyonparketme.com/clash-of-clans/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Clash of Clans – Online Best Games](http://www.kamyonparketme.com/clash-of-clans/)
 
@@ -29,9 +33,6 @@ title: http://www.kamyonparketme.com/clash-of-clans/
 *  JS Response Bytes: 980249
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23391
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.slots4play.com/freeslots/netent.php
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Netent Slots - Latest Net Entertainment Slot Games](http://www.slots4play.com/freeslots/netent.php)
 
@@ -29,9 +34,6 @@ title: http://www.slots4play.com/freeslots/netent.php
 *  JS Response Bytes: 1660109
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99048
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://mobiledevicesize.com/compare/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Compare Mobile Phones Side by Side with Actual size](http://mobiledevicesize.com/compare/)
 
@@ -29,9 +34,6 @@ title: http://mobiledevicesize.com/compare/
 *  JS Response Bytes: 2028534
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 158193
-
-### Performance issues
-
 
 ### Performance issues
 

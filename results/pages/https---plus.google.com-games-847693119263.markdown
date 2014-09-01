@@ -33,8 +33,5 @@ title: https://plus.google.com/games/847693119263
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

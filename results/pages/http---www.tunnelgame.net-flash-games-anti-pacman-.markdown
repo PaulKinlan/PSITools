@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.tunnelgame.net/flash-games/anti-pacman/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Anti-Pacman « Flash Games, Online Games](http://www.tunnelgame.net/flash-games/anti-pacman/)
 
@@ -29,9 +37,6 @@ title: http://www.tunnelgame.net/flash-games/anti-pacman/
 *  JS Response Bytes: 1139518
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15741
-
-### Performance issues
-
 
 ### Performance issues
 

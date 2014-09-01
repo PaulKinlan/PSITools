@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://peg.crazenut.com/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Crazenut.com](http://peg.crazenut.com/index.html)
 
@@ -29,9 +32,6 @@ title: http://peg.crazenut.com/index.html
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

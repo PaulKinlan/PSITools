@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://flashflappybird.blogspot.com.tr/2014/02/miami-zombies.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [Flappy Bird: Miami Zombies](http://flashflappybird.blogspot.com.tr/2014/02/miami-zombies.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://flashflappybird.blogspot.com.tr/2014/02/miami-zombies.html?m=1
 *  JS Response Bytes: 1113535
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111811
-
-### Performance issues
-
 
 ### Performance issues
 

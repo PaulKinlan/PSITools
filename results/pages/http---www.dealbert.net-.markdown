@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.dealbert.net/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [DealBert.net - Search Online Deals](http://www.dealbert.net/)
 
@@ -29,9 +32,6 @@ title: http://www.dealbert.net/
 *  JS Response Bytes: 1351892
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23163
-
-### Performance issues
-
 
 ### Performance issues
 

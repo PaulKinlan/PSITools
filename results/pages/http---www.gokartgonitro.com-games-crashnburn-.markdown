@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gokartgonitro.com/games/crashnburn/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [XformGames.com | Burnin' Rubber Crash n' Burn](http://www.gokartgonitro.com/games/crashnburn/)
 
@@ -29,9 +34,6 @@ title: http://www.gokartgonitro.com/games/crashnburn/
 *  JS Response Bytes: 534383
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3984
-
-### Performance issues
-
 
 ### Performance issues
 

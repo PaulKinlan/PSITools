@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.joemarini.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [joemarini.com](http://www.joemarini.com/)
 
@@ -29,9 +34,6 @@ title: http://www.joemarini.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1817
-
-### Performance issues
-
 
 ### Performance issues
 

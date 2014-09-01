@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.simplepricematch.com/?pk_campaign=ChromeApp&pk_kwd=MainPage
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Simple Price Match.com](http://www.simplepricematch.com/?pk_campaign=ChromeApp&pk_kwd=MainPage)
 
@@ -29,9 +33,6 @@ title: http://www.simplepricematch.com/?pk_campaign=ChromeApp&pk_kwd=MainPage
 *  JS Response Bytes: 613239
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

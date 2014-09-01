@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.douchegames.com/preload/action/death-worm-game
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Death Worm Game - Play Game Douchbag!!!](http://www.douchegames.com/preload/action/death-worm-game)
 
@@ -29,9 +33,6 @@ title: http://www.douchegames.com/preload/action/death-worm-game
 *  JS Response Bytes: 183392
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1855
-
-### Performance issues
-
 
 ### Performance issues
 

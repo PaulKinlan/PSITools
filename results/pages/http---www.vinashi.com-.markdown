@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.vinashi.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login to Play Free Games Online, Vinashi](http://www.vinashi.com/)
 
@@ -29,9 +33,6 @@ title: http://www.vinashi.com/
 *  JS Response Bytes: 559706
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 600
-
-### Performance issues
-
 
 ### Performance issues
 

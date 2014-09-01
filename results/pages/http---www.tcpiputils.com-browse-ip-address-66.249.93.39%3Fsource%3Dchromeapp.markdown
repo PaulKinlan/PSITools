@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tcpiputils.com/browse/ip-address/66.249.93.39?source=chromeapp
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [66.249.93.39 | google-proxy-66-249-93-39.google.com - Google Inc., France](http://www.tcpiputils.com/browse/ip-address/66.249.93.39?source=chromeapp)
 
@@ -29,9 +32,6 @@ title: http://www.tcpiputils.com/browse/ip-address/66.249.93.39?source=chromeapp
 *  JS Response Bytes: 1146284
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63357
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.myuhc.com/member/prewelcome.do?currentLanguageFromPreCheck=en
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [Welcome to myuhc.com](https://www.myuhc.com/member/prewelcome.do?currentLanguageFromPreCheck=en)
 
@@ -29,9 +32,6 @@ title: https://www.myuhc.com/member/prewelcome.do?currentLanguageFromPreCheck=en
 *  JS Response Bytes: 46883
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94
-
-### Performance issues
-
 
 ### Performance issues
 

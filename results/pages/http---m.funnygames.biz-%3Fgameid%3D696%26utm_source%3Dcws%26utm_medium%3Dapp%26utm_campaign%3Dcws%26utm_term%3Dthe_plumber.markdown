@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://m.funnygames.biz/?gameid=696&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=the_plumber
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funnygames.biz/?gameid=696&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=the_plumber)
 
@@ -29,9 +34,6 @@ title: http://m.funnygames.biz/?gameid=696&utm_source=cws&utm_medium=app&utm_cam
 *  JS Response Bytes: 1265756
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28385
-
-### Performance issues
-
 
 ### Performance issues
 

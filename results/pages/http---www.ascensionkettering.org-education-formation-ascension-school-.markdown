@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ascensionkettering.org/education-formation/ascension-school/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ascension Kettering](http://www.ascensionkettering.org/education-formation/ascension-school/)
 
@@ -29,9 +33,6 @@ title: http://www.ascensionkettering.org/education-formation/ascension-school/
 *  JS Response Bytes: 270244
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

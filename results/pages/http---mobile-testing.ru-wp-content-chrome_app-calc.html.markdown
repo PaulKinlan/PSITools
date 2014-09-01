@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mobile-testing.ru/wp-content/chrome_app/calc.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Калькулятор вкладов](http://mobile-testing.ru/wp-content/chrome_app/calc.html)
 
@@ -29,9 +33,6 @@ title: http://mobile-testing.ru/wp-content/chrome_app/calc.html
 *  JS Response Bytes: 367383
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

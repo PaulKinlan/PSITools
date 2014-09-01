@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.etchnride.com/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [etchNride](http://www.etchnride.com/)
 
@@ -29,9 +33,6 @@ title: http://www.etchnride.com/
 *  JS Response Bytes: 483385
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1417
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.365onlinegames.com/pyramid-run.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [365 Online Games – Pyramid Run](http://www.365onlinegames.com/pyramid-run.html)
 
@@ -29,9 +35,6 @@ title: http://www.365onlinegames.com/pyramid-run.html
 *  JS Response Bytes: 833776
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4255
-
-### Performance issues
-
 
 ### Performance issues
 

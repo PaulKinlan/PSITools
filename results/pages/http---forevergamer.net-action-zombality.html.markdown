@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://forevergamer.net/action/zombality.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Zombality - Free Online Games Forever | ForeverGamer.net - http://forevergamer.net](http://forevergamer.net/action/zombality.html)
 
@@ -29,9 +34,6 @@ title: http://forevergamer.net/action/zombality.html
 *  JS Response Bytes: 3336031
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 179633
-
-### Performance issues
-
 
 ### Performance issues
 

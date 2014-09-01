@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mo.ee/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free MMORPG - RPG MO - Web Browser Game](http://mo.ee/)
 
@@ -29,9 +32,6 @@ title: http://mo.ee/
 *  JS Response Bytes: 577522
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8787
-
-### Performance issues
-
 
 ### Performance issues
 

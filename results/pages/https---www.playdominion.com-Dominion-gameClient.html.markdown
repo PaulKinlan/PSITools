@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.playdominion.com/Dominion/gameClient.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dominion](https://www.playdominion.com/Dominion/gameClient.html)
 
@@ -29,9 +34,6 @@ title: https://www.playdominion.com/Dominion/gameClient.html
 *  JS Response Bytes: 3578318
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 538
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://mail.chinooksd.ca/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [Zimbra Web Client Sign In](https://mail.chinooksd.ca/)
 
@@ -29,9 +32,6 @@ title: https://mail.chinooksd.ca/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

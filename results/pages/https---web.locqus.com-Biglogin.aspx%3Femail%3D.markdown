@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://web.locqus.com/Biglogin.aspx?email=
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Locqus: Field Manage Login](https://web.locqus.com/Biglogin.aspx?email=)
 
@@ -29,9 +32,6 @@ title: https://web.locqus.com/Biglogin.aspx?email=
 *  JS Response Bytes: 715077
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 13665
-
-### Performance issues
-
 
 ### Performance issues
 

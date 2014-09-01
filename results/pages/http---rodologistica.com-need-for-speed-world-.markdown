@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://rodologistica.com/need-for-speed-world/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://rodologistica.com/need-for-speed-world/)
 
@@ -29,9 +30,6 @@ title: http://rodologistica.com/need-for-speed-world/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 614
-
-### Performance issues
-
 
 ### Performance issues
 

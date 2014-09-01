@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://theater1.bleatingsheep.net/ChromeStore/ChromeStoreEntry.jsp
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [A Divine Night Out](http://theater1.bleatingsheep.net/ChromeStore/ChromeStoreEntry.jsp)
 
@@ -29,9 +32,6 @@ title: http://theater1.bleatingsheep.net/ChromeStore/ChromeStoreEntry.jsp
 *  JS Response Bytes: 1321943
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97412
-
-### Performance issues
-
 
 ### Performance issues
 

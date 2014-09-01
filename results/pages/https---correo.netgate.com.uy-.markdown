@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://correo.netgate.com.uy/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [:: Netgate :: Bienvenido a Netgate](https://correo.netgate.com.uy/)
 
@@ -29,9 +33,6 @@ title: https://correo.netgate.com.uy/
 *  JS Response Bytes: 549264
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

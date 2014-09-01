@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tsr1.com/games/?p=1913
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games to Addict » Blog Archive » Foot Makeover](http://www.tsr1.com/games/?p=1913)
 
@@ -29,9 +34,6 @@ title: http://www.tsr1.com/games/?p=1913
 *  JS Response Bytes: 445514
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16219
-
-### Performance issues
-
 
 ### Performance issues
 

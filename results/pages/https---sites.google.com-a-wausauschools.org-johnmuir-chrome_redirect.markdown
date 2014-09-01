@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sites.google.com/a/wausauschools.org/johnmuir/chrome_redirect
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Student Links - John Muir Middle School Library](https://sites.google.com/a/wausauschools.org/johnmuir/chrome_redirect)
 
@@ -29,9 +32,6 @@ title: https://sites.google.com/a/wausauschools.org/johnmuir/chrome_redirect
 *  JS Response Bytes: 1518950
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 297
-
-### Performance issues
-
 
 ### Performance issues
 

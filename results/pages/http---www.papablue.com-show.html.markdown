@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.papablue.com/show.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
 ---
 ## [MockupX Web Demo](http://www.papablue.com/show.html)
 
@@ -29,9 +32,6 @@ title: http://www.papablue.com/show.html
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1945
-
-### Performance issues
-
 
 ### Performance issues
 

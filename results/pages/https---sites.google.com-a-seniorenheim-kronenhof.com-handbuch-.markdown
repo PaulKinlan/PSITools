@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://sites.google.com/a/seniorenheim-kronenhof.com/handbuch/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [handbuch.seniorenheim-kronenhof.com](https://sites.google.com/a/seniorenheim-kronenhof.com/handbuch/)
 
@@ -29,9 +31,6 @@ title: https://sites.google.com/a/seniorenheim-kronenhof.com/handbuch/
 *  JS Response Bytes: 413115
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 297
-
-### Performance issues
-
 
 ### Performance issues
 

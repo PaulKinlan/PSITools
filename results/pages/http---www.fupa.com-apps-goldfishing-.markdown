@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.fupa.com/apps/goldfishing/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+UseLegibleFontSizes: true
 ---
 ## [Gold Fishing](http://www.fupa.com/apps/goldfishing/)
 
@@ -29,9 +32,6 @@ title: http://www.fupa.com/apps/goldfishing/
 *  JS Response Bytes: 10489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

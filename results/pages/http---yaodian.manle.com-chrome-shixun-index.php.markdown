@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://yaodian.manle.com/chrome/shixun/index.php
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [掌上药店](http://yaodian.manle.com/chrome/shixun/index.php)
 
@@ -29,9 +31,6 @@ title: http://yaodian.manle.com/chrome/shixun/index.php
 *  JS Response Bytes: 369927
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

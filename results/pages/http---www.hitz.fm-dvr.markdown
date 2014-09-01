@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.hitz.fm/dvr
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [hitz.fm - Malaysia's #1 Hit Music Station - 404](http://www.hitz.fm/dvr)
 
@@ -29,9 +32,6 @@ title: http://www.hitz.fm/dvr
 *  JS Response Bytes: 60084
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 136915
-
-### Performance issues
-
 
 ### Performance issues
 

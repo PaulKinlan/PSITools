@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://sshd1.com/mobile/main.php
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Latest goals from football leagues around the world](http://sshd1.com/mobile/main.php)
 
@@ -29,9 +33,6 @@ title: http://sshd1.com/mobile/main.php
 *  JS Response Bytes: 1201619
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103683
-
-### Performance issues
-
 
 ### Performance issues
 

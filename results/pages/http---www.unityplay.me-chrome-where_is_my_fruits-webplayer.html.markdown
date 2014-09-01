@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.unityplay.me/chrome/where_is_my_fruits/webplayer.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Where is my fruits | UnityPlay.com-Flash-Android-Chrome Games](http://www.unityplay.me/chrome/where_is_my_fruits/webplayer.html)
 
@@ -29,9 +34,6 @@ title: http://www.unityplay.me/chrome/where_is_my_fruits/webplayer.html
 *  JS Response Bytes: 895172
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9131
-
-### Performance issues
-
 
 ### Performance issues
 

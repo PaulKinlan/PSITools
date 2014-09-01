@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.allgamesportal.com/candy-crush-saga.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Candy Crush Saga | All Games Portal](http://www.allgamesportal.com/candy-crush-saga.html)
 
@@ -29,9 +34,6 @@ title: http://www.allgamesportal.com/candy-crush-saga.html
 *  JS Response Bytes: 1529519
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105496
-
-### Performance issues
-
 
 ### Performance issues
 

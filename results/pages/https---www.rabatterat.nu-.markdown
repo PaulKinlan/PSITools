@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.rabatterat.nu/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Rabattkod på Rabatterat.nu - Störst på rabattkoder på nätet!](https://www.rabatterat.nu/)
 
@@ -29,9 +32,6 @@ title: https://www.rabatterat.nu/
 *  JS Response Bytes: 1058902
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96759
-
-### Performance issues
-
 
 ### Performance issues
 

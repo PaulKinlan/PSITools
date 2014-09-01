@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.miniportale.it/app_it/quotidiani/index.htm
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [QUOTIDIANI - NAZIONALI - INTERNAZIONALI - LOCALI - REGIONALI - La Repubblica - Corriere della Sera - Il Sole 24 Ore - Libero - La Stampa - Il Messaggero - L'Unione Sarda - Gazzetta dello Sport - L'Unità - Il Giornale - Il Foglio - QUOTIDIANI.biz](http://www.miniportale.it/app_it/quotidiani/index.htm)
 
@@ -29,9 +33,6 @@ title: http://www.miniportale.it/app_it/quotidiani/index.htm
 *  JS Response Bytes: 609453
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6377
-
-### Performance issues
-
 
 ### Performance issues
 

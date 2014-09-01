@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.popob.com/dublox/#.U_d-1E0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dublox – PoPoB Game Area](http://www.popob.com/dublox/#.U_d-1E0ieKA)
 
@@ -29,9 +36,6 @@ title: http://www.popob.com/dublox/#.U_d-1E0ieKA
 *  JS Response Bytes: 1284349
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 151925
-
-### Performance issues
-
 
 ### Performance issues
 

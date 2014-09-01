@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.ktzgames.com/?s=minecraft&x=0&y=0
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [minecraft « Search Results « Best HD Games Play Now](http://www.ktzgames.com/?s=minecraft&x=0&y=0)
 
@@ -29,9 +35,6 @@ title: http://www.ktzgames.com/?s=minecraft&x=0&y=0
 *  JS Response Bytes: 397889
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

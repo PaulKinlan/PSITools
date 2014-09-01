@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://worldoffunn.blogspot.com.tr/2014/05/european-soccer-champion.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [World Of Fun: European Soccer Champion](http://worldoffunn.blogspot.com.tr/2014/05/european-soccer-champion.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://worldoffunn.blogspot.com.tr/2014/05/european-soccer-champion.html?
 *  JS Response Bytes: 2305150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148274
-
-### Performance issues
-
 
 ### Performance issues
 

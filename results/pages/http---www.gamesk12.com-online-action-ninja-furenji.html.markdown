@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/action/ninja-furenji.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ninja Furenji Play Ninja Furenji on Gamesk12.com Free Online Games](http://www.gamesk12.com/online/action/ninja-furenji.html)
 
@@ -29,9 +37,6 @@ title: http://www.gamesk12.com/online/action/ninja-furenji.html
 *  JS Response Bytes: 1504971
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 106572
-
-### Performance issues
-
 
 ### Performance issues
 

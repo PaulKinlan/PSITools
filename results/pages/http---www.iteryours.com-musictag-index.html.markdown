@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.iteryours.com/musictag/index.html
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [www.iteryours.com](http://www.iteryours.com/musictag/index.html)
 
@@ -29,9 +31,6 @@ title: http://www.iteryours.com/musictag/index.html
 *  JS Response Bytes: 240865
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21727
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://rivan.cafe24.com/puzzle/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://rivan.cafe24.com/puzzle/)
 
@@ -29,9 +30,6 @@ title: http://rivan.cafe24.com/puzzle/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 356
-
-### Performance issues
-
 
 ### Performance issues
 

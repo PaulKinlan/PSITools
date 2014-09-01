@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://app.tophat.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Login | Top Hat](https://app.tophat.com/)
 
@@ -29,9 +32,6 @@ title: https://app.tophat.com/
 *  JS Response Bytes: 174979
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

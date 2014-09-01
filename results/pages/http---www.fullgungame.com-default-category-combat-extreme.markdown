@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fullgungame.com/default-category/combat-extreme
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Combat Extreme - Full Gun Game](http://www.fullgungame.com/default-category/combat-extreme)
 
@@ -29,9 +34,6 @@ title: http://www.fullgungame.com/default-category/combat-extreme
 *  JS Response Bytes: 3154580
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103767
-
-### Performance issues
-
 
 ### Performance issues
 

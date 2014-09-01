@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.com/weather-mahjong/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Weather Mahjong](http://www.gamesgator.com/weather-mahjong/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.com/weather-mahjong/
 *  JS Response Bytes: 1055702
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47055
-
-### Performance issues
-
 
 ### Performance issues
 

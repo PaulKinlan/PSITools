@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://s3.jaymoon.net/twit-live/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
 ---
 ## [TWiT Live](http://s3.jaymoon.net/twit-live/index.html)
 
@@ -29,9 +32,6 @@ title: http://s3.jaymoon.net/twit-live/index.html
 *  JS Response Bytes: 10405
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1102
-
-### Performance issues
-
 
 ### Performance issues
 

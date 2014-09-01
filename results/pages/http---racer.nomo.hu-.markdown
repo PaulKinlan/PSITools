@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://racer.nomo.hu/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nomo Racer - 3D Multiplayer Game (WebGL + WebSocket)](http://racer.nomo.hu/)
 
@@ -29,9 +34,6 @@ title: http://racer.nomo.hu/
 *  JS Response Bytes: 782334
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 596
-
-### Performance issues
-
 
 ### Performance issues
 

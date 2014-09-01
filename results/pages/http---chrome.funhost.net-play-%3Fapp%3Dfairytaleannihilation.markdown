@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://chrome.funhost.net/play/?app=fairytaleannihilation
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Fairytale Annihilation - Game on Fun Host Games!](http://chrome.funhost.net/play/?app=fairytaleannihilation)
 
@@ -29,9 +36,6 @@ title: http://chrome.funhost.net/play/?app=fairytaleannihilation
 *  JS Response Bytes: 3318661
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44071
-
-### Performance issues
-
 
 ### Performance issues
 

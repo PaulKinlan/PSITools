@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://2by2host.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Web hosting by 2by2host - The best versatile and stable cloud hosting provider 2013](http://2by2host.com/)
 
@@ -29,9 +34,6 @@ title: http://2by2host.com/
 *  JS Response Bytes: 256026
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 40010
-
-### Performance issues
-
 
 ### Performance issues
 

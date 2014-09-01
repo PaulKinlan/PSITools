@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://newbeautifulgameto.blogspot.com.tr/2014/07/the-art-of-flight.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [New Beautiful Game To: The Art of Flight](http://newbeautifulgameto.blogspot.com.tr/2014/07/the-art-of-flight.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://newbeautifulgameto.blogspot.com.tr/2014/07/the-art-of-flight.html?
 *  JS Response Bytes: 1314225
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111838
-
-### Performance issues
-
 
 ### Performance issues
 

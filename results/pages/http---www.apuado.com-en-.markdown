@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.apuado.com/en/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
 ---
 ## [APUADO](http://www.apuado.com/en/)
 
@@ -29,9 +32,6 @@ title: http://www.apuado.com/en/
 *  JS Response Bytes: 212061
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 91314
-
-### Performance issues
-
 
 ### Performance issues
 

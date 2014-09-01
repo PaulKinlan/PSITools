@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://howtobuildthepowerleadsystem.howtomakemoneyguru.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [How to Build the Power Lead System](http://howtobuildthepowerleadsystem.howtomakemoneyguru.com/)
 
@@ -29,9 +35,6 @@ title: http://howtobuildthepowerleadsystem.howtomakemoneyguru.com/
 *  JS Response Bytes: 1380950
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44506
-
-### Performance issues
-
 
 ### Performance issues
 

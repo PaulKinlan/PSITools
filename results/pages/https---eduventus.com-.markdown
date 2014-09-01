@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://eduventus.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [eduVentus.com - Platforma edukacyjna przyjazna uczniowi](https://eduventus.com/)
 
@@ -29,9 +33,6 @@ title: https://eduventus.com/
 *  JS Response Bytes: 1045211
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 92412
-
-### Performance issues
-
 
 ### Performance issues
 

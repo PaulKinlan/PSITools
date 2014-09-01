@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.startavla.com/171950/143.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games Play » Flappy Bird](http://www.startavla.com/171950/143.html)
 
@@ -29,9 +36,6 @@ title: http://www.startavla.com/171950/143.html
 *  JS Response Bytes: 402977
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16218
-
-### Performance issues
-
 
 ### Performance issues
 

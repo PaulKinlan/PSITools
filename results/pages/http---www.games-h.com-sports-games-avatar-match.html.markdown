@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.games-h.com/sports-games/avatar-match.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Playing Avatar Match - Play Free Online Games at Games-H.COM](http://www.games-h.com/sports-games/avatar-match.html)
 
@@ -29,9 +35,6 @@ title: http://www.games-h.com/sports-games/avatar-match.html
 *  JS Response Bytes: 2457675
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 150703
-
-### Performance issues
-
 
 ### Performance issues
 

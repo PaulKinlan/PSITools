@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.nownovel.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [How to write a book - Now Novel](http://www.nownovel.com/)
 
@@ -29,9 +33,6 @@ title: http://www.nownovel.com/
 *  JS Response Bytes: 161156
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 90043
-
-### Performance issues
-
 
 ### Performance issues
 

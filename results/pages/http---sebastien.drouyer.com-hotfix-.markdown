@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://sebastien.drouyer.com/hotfix/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Hotfix](http://sebastien.drouyer.com/hotfix/)
 
@@ -29,9 +34,6 @@ title: http://sebastien.drouyer.com/hotfix/
 *  JS Response Bytes: 1772514
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 192848
-
-### Performance issues
-
 
 ### Performance issues
 

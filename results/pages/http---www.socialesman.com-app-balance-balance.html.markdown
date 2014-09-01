@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.socialesman.com/app/balance/balance.html
+MinimizeRenderBlockingResources: true
 ---
 ## [Clone doesnt have this page](http://www.socialesman.com/app/balance/balance.html)
 
@@ -18,20 +19,17 @@ title: http://www.socialesman.com/app/balance/balance.html
 *  Number of JS Resources: 24
 *  Number of CSS Resources: 19
 *  Nubmer of Static Resources: 44
-*  Total Request Bytes: 5408
+*  Total Request Bytes: 5410
 
 ### Response data
 
 *  HTML Response Bytes: 0
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 570309
+*  CSS Response Bytes: 570308
 *  Image Response Bytes: 14501
-*  JS Response Bytes: 824684
+*  JS Response Bytes: 824764
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 97411
-
-### Performance issues
-
+*  Other Response Bytes: 97407
 
 ### Performance issues
 

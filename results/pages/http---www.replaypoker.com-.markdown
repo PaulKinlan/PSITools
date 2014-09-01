@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.replaypoker.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Texas Holdem, Free Online Poker · Replay Poker](http://www.replaypoker.com/)
 
@@ -29,9 +32,6 @@ title: http://www.replaypoker.com/
 *  JS Response Bytes: 1276967
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39857
-
-### Performance issues
-
 
 ### Performance issues
 

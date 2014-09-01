@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mashmush.com/?reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [mashmush.com](http://mashmush.com/?reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://mashmush.com/?reqp=1&reqr=
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54
-
-### Performance issues
-
 
 ### Performance issues
 

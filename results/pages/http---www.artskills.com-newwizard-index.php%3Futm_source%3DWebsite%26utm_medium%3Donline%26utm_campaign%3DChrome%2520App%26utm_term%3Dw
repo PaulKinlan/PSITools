@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.artskills.com/newwizard/index.php?utm_source=Website&utm_medium=online&utm_campaign=Chrome%20App&utm_term=wizard&utm_content=wizard
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [page not found](http://www.artskills.com/newwizard/index.php?utm_source=Website&utm_medium=online&utm_campaign=Chrome%20App&utm_term=wizard&utm_content=wizard)
 
@@ -29,9 +33,6 @@ title: http://www.artskills.com/newwizard/index.php?utm_source=Website&utm_mediu
 *  JS Response Bytes: 624533
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25389
-
-### Performance issues
-
 
 ### Performance issues
 

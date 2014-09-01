@@ -33,8 +33,5 @@ title: https://rsvpn.raytheon.com/dana-na/auth/url_default/welcome.cgi
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

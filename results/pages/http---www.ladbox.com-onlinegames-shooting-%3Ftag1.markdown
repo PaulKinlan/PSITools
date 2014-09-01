@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ladbox.com/onlinegames/shooting/?tag1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shooting Games - Most Played Shooting Games Online - ladbox.com](http://www.ladbox.com/onlinegames/shooting/?tag1)
 
@@ -29,9 +33,6 @@ title: http://www.ladbox.com/onlinegames/shooting/?tag1
 *  JS Response Bytes: 441686
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

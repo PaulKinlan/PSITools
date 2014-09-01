@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://cabgrab.net/operators.php
+MinimizeRenderBlockingResources: true
 ---
 ## [CabGrab](http://cabgrab.net/operators.php)
 
@@ -29,9 +30,6 @@ title: http://cabgrab.net/operators.php
 *  JS Response Bytes: 322364
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 592
-
-### Performance issues
-
 
 ### Performance issues
 

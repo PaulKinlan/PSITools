@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://jsdo.it/anonymous/vfU8B/edit
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [2014-08-26 16th - jsdo.it](http://jsdo.it/anonymous/vfU8B/edit)
 
@@ -29,9 +33,6 @@ title: http://jsdo.it/anonymous/vfU8B/edit
 *  JS Response Bytes: 1103279
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 494
-
-### Performance issues
-
 
 ### Performance issues
 

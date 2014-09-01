@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.kobolo.co/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Kobolo - חיפוש דירות להשכרה](http://www.kobolo.co/)
 
@@ -29,9 +32,6 @@ title: http://www.kobolo.co/
 *  JS Response Bytes: 1476374
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1648
-
-### Performance issues
-
 
 ### Performance issues
 

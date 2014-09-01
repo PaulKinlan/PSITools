@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.letstagg.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [letstagg.com | Online Bookmarking Service](http://www.letstagg.com/)
 
@@ -29,9 +34,6 @@ title: http://www.letstagg.com/
 *  JS Response Bytes: 200867
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 716
-
-### Performance issues
-
 
 ### Performance issues
 

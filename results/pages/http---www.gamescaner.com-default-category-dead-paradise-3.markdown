@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamescaner.com/default-category/dead-paradise-3
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dead Paradise 3 - Gamescaner.com](http://www.gamescaner.com/default-category/dead-paradise-3)
 
@@ -29,9 +34,6 @@ title: http://www.gamescaner.com/default-category/dead-paradise-3
 *  JS Response Bytes: 732704
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1514
-
-### Performance issues
-
 
 ### Performance issues
 

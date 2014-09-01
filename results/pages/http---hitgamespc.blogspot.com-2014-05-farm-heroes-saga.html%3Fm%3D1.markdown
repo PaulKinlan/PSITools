@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://hitgamespc.blogspot.com/2014/05/farm-heroes-saga.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Hit Game and Application: Farm Heroes Saga](http://hitgamespc.blogspot.com/2014/05/farm-heroes-saga.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://hitgamespc.blogspot.com/2014/05/farm-heroes-saga.html?m=1
 *  JS Response Bytes: 1354662
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95880
-
-### Performance issues
-
 
 ### Performance issues
 

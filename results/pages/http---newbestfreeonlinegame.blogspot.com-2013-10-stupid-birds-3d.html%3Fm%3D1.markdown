@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://newbestfreeonlinegame.blogspot.com/2013/10/stupid-birds-3d.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [New Best Free Online Game: Stupid Birds 3D](http://newbestfreeonlinegame.blogspot.com/2013/10/stupid-birds-3d.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://newbestfreeonlinegame.blogspot.com/2013/10/stupid-birds-3d.html?m=
 *  JS Response Bytes: 1292723
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111049
-
-### Performance issues
-
 
 ### Performance issues
 

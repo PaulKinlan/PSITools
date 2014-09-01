@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://crm.pro-vigil.com:85/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pro-Vigil CRM](https://crm.pro-vigil.com:85/)
 
@@ -29,9 +33,6 @@ title: https://crm.pro-vigil.com:85/
 *  JS Response Bytes: 1236
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

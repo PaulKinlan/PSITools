@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://frloa.r2games.com/app/googleapp
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Site officiel de League of Angels en version française. Rejoignez la Ligue !](http://frloa.r2games.com/app/googleapp)
 
@@ -29,9 +33,6 @@ title: http://frloa.r2games.com/app/googleapp
 *  JS Response Bytes: 1092143
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1436
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.drogbaster.it/tools/maker_3d_chrome.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [▷ Programma online per Creare scritte in 3D gratis](http://www.drogbaster.it/tools/maker_3d_chrome.html)
 
@@ -29,9 +33,6 @@ title: http://www.drogbaster.it/tools/maker_3d_chrome.html
 *  JS Response Bytes: 1783841
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 136013
-
-### Performance issues
-
 
 ### Performance issues
 

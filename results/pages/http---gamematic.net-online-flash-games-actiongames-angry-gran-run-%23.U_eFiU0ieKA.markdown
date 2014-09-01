@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/actiongames/angry-gran-run/#.U_eFiU0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Gran Run « Online Flash Game Angry Gran Run](http://gamematic.net/online-flash-games/actiongames/angry-gran-run/#.U_eFiU0ieKA)
 
@@ -29,9 +37,6 @@ title: http://gamematic.net/online-flash-games/actiongames/angry-gran-run/#.U_eF
 *  JS Response Bytes: 1262142
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41846
-
-### Performance issues
-
 
 ### Performance issues
 

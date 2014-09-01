@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://iddaasonuclari.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [İddaa sonuçları ve canlı skor - iddaasonuclari.com](http://iddaasonuclari.com/)
 
@@ -29,9 +34,6 @@ title: http://iddaasonuclari.com/
 *  JS Response Bytes: 1350558
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99835
-
-### Performance issues
-
 
 ### Performance issues
 

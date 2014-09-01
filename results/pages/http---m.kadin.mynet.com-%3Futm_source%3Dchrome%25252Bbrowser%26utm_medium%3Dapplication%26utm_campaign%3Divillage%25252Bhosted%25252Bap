@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.kadin.mynet.com/?utm_source=chrome%252Bbrowser&utm_medium=application&utm_campaign=ivillage%252Bhosted%252Bapp
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Mynet Kadın](http://m.kadin.mynet.com/?utm_source=chrome%252Bbrowser&utm_medium=application&utm_campaign=ivillage%252Bhosted%252Bapp)
 
@@ -29,9 +32,6 @@ title: http://m.kadin.mynet.com/?utm_source=chrome%252Bbrowser&utm_medium=applic
 *  JS Response Bytes: 797962
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4411
-
-### Performance issues
-
 
 ### Performance issues
 

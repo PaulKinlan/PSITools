@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.gamingto.com/default-category/alligator-like-duck
+SizeTapTargetsAppropriately: true
 ---
 ## [gamingto.com](http://ww2.gamingto.com/default-category/alligator-like-duck)
 
@@ -29,9 +30,6 @@ title: http://ww2.gamingto.com/default-category/alligator-like-duck
 *  JS Response Bytes: 229918
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21057
-
-### Performance issues
-
 
 ### Performance issues
 

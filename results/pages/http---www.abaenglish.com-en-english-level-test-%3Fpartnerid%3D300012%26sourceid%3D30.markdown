@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.abaenglish.com/en/english-level-test/?partnerid=300012&sourceid=30
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [English Level Test](http://www.abaenglish.com/en/english-level-test/?partnerid=300012&sourceid=30)
 
@@ -29,9 +34,6 @@ title: http://www.abaenglish.com/en/english-level-test/?partnerid=300012&sourcei
 *  JS Response Bytes: 623056
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 53191
-
-### Performance issues
-
 
 ### Performance issues
 

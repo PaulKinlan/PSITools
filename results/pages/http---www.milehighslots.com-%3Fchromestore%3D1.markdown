@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.milehighslots.com/?chromestore=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
 ---
 ## [Mile High Slots](http://www.milehighslots.com/?chromestore=1)
 
@@ -29,9 +33,6 @@ title: http://www.milehighslots.com/?chromestore=1
 *  JS Response Bytes: 1616137
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96729
-
-### Performance issues
-
 
 ### Performance issues
 

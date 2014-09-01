@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesfamous.com/play-game/273/stupid-birds-3d.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Stupid birds 3D - Games Famous - Online Flash Games](http://www.gamesfamous.com/play-game/273/stupid-birds-3d.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamesfamous.com/play-game/273/stupid-birds-3d.html
 *  JS Response Bytes: 2670167
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105346
-
-### Performance issues
-
 
 ### Performance issues
 

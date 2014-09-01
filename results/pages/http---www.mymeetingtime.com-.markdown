@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mymeetingtime.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Plan your meeting across time zones and find the best time - MyMeetingTime.com](http://www.mymeetingtime.com/)
 
@@ -29,9 +33,6 @@ title: http://www.mymeetingtime.com/
 *  JS Response Bytes: 563538
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 71352
-
-### Performance issues
-
 
 ### Performance issues
 

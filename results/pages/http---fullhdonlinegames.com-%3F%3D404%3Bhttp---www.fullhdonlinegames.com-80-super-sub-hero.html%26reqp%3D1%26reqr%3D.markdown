@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://fullhdonlinegames.com/?=404;http://www.fullhdonlinegames.com:80/super-sub-hero.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [fullhdonlinegames.com](http://fullhdonlinegames.com/?=404;http://www.fullhdonlinegames.com:80/super-sub-hero.html&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://fullhdonlinegames.com/?=404;http://www.fullhdonlinegames.com:80/su
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 124
-
-### Performance issues
-
 
 ### Performance issues
 

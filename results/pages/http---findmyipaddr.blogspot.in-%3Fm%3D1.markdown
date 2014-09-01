@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://findmyipaddr.blogspot.in/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Whats your ip?](http://findmyipaddr.blogspot.in/?m=1)
 
@@ -29,9 +30,6 @@ title: http://findmyipaddr.blogspot.in/?m=1
 *  JS Response Bytes: 249577
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 563
-
-### Performance issues
-
 
 ### Performance issues
 

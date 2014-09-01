@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://minecrafttgamehd.blogspot.com.tr/2014/04/angry-gray-run.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [minecraft hd game: Angry gray run](http://minecrafttgamehd.blogspot.com.tr/2014/04/angry-gray-run.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://minecrafttgamehd.blogspot.com.tr/2014/04/angry-gray-run.html?m=1
 *  JS Response Bytes: 1532704
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 140205
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.friendize.me/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [friendize.me - Join Us Now!](http://www.friendize.me/)
 
@@ -29,9 +33,6 @@ title: http://www.friendize.me/
 *  JS Response Bytes: 807067
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14016
-
-### Performance issues
-
 
 ### Performance issues
 

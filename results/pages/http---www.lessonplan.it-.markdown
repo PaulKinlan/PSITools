@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.lessonplan.it/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Lesson plan | Micro lezioni sull'immobiliare](http://www.lessonplan.it/)
 
@@ -29,9 +31,6 @@ title: http://www.lessonplan.it/
 *  JS Response Bytes: 109109
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 162340
-
-### Performance issues
-
 
 ### Performance issues
 

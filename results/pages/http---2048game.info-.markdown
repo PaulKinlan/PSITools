@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://2048game.info/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [2048](http://2048game.info/)
 
@@ -29,9 +34,6 @@ title: http://2048game.info/
 *  JS Response Bytes: 2046551
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112690
-
-### Performance issues
-
 
 ### Performance issues
 

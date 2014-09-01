@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.voyance-az.com/horoscope-sagittaire
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Voyance-AZ.com - Horoscope Sagittaire](http://www.voyance-az.com/horoscope-sagittaire)
 
@@ -29,9 +33,6 @@ title: http://www.voyance-az.com/horoscope-sagittaire
 *  JS Response Bytes: 2414613
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 347007
-
-### Performance issues
-
 
 ### Performance issues
 

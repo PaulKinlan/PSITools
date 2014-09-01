@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.jazo.nl/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jazo Zevenaar B.V.: Metaalbewerking, Puien, Trafodeuren, Ventilatieroosters, Veiligheid](http://www.jazo.nl/)
 
@@ -29,9 +33,6 @@ title: http://www.jazo.nl/
 *  JS Response Bytes: 171588
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

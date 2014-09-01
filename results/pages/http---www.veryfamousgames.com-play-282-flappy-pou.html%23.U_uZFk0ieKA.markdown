@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.veryfamousgames.com/play/282/flappy-pou.html#.U_uZFk0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flappy Pou - veryfamousgames](http://www.veryfamousgames.com/play/282/flappy-pou.html#.U_uZFk0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.veryfamousgames.com/play/282/flappy-pou.html#.U_uZFk0ieKA
 *  JS Response Bytes: 975909
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16230
-
-### Performance issues
-
 
 ### Performance issues
 

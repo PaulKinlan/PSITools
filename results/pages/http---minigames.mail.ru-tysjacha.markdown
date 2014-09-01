@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://minigames.mail.ru/tysjacha
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [Мини-игры@Mail.Ru](http://minigames.mail.ru/tysjacha)
 
@@ -29,9 +31,6 @@ title: http://minigames.mail.ru/tysjacha
 *  JS Response Bytes: 103992
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

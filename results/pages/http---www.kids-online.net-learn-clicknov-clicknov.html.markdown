@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.kids-online.net/learn/clicknov/clicknov.html
+EnableGzipCompression: true
 ---
 ## [Kids Online](http://www.kids-online.net/learn/clicknov/clicknov.html)
 
@@ -29,9 +30,6 @@ title: http://www.kids-online.net/learn/clicknov/clicknov.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

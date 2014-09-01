@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://reversephone-inteligator.chromestore.info/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Got a Phone Number that you don't recognize? Perform an Instant Reverse Phone Search and Find the Owner of the Number.](http://reversephone-inteligator.chromestore.info/)
 
@@ -29,9 +32,6 @@ title: http://reversephone-inteligator.chromestore.info/
 *  JS Response Bytes: 68749
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2771
-
-### Performance issues
-
 
 ### Performance issues
 

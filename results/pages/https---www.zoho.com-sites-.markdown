@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.zoho.com/sites/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Zoho Sites - Create a free website and blog; get free hosting](https://www.zoho.com/sites/)
 
@@ -29,9 +32,6 @@ title: https://www.zoho.com/sites/
 *  JS Response Bytes: 211220
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117778
-
-### Performance issues
-
 
 ### Performance issues
 

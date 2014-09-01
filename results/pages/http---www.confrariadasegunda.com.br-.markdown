@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.confrariadasegunda.com.br/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [Família Confraria da 2ª - Home](http://www.confrariadasegunda.com.br/)
 
@@ -29,9 +34,6 @@ title: http://www.confrariadasegunda.com.br/
 *  JS Response Bytes: 335298
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 89872
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesgator.com/delta-force/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Delta Force](http://www.gamesgator.com/delta-force/)
 
@@ -29,9 +35,6 @@ title: http://www.gamesgator.com/delta-force/
 *  JS Response Bytes: 2200296
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 83955
-
-### Performance issues
-
 
 ### Performance issues
 

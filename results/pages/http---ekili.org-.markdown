@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ekili.org/
+MinimizeRenderBlockingResources: true
 ---
 ## [ekili - find what you really like!](http://ekili.org/)
 
@@ -29,9 +30,6 @@ title: http://ekili.org/
 *  JS Response Bytes: 424479
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3838
-
-### Performance issues
-
 
 ### Performance issues
 

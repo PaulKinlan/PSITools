@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://coolonlinegamehub.blogspot.com/2014/06/diner-dash-4.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [Chrome App Blog: Diner Dash 4](http://coolonlinegamehub.blogspot.com/2014/06/diner-dash-4.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://coolonlinegamehub.blogspot.com/2014/06/diner-dash-4.html?m=1
 *  JS Response Bytes: 763009
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96229
-
-### Performance issues
-
 
 ### Performance issues
 

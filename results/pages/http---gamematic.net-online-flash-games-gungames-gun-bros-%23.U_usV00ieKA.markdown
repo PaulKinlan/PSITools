@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/gungames/gun-bros/#.U_usV00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gun Bros « Online Flash Game Gun Bros](http://gamematic.net/online-flash-games/gungames/gun-bros/#.U_usV00ieKA)
 
@@ -29,9 +34,6 @@ title: http://gamematic.net/online-flash-games/gungames/gun-bros/#.U_usV00ieKA
 *  JS Response Bytes: 2557490
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 47911
-
-### Performance issues
-
 
 ### Performance issues
 

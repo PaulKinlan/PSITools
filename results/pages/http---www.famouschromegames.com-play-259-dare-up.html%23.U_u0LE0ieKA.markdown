@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.famouschromegames.com/play/259/dare-up.html#.U_u0LE0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DARE UP - famouschromegames](http://www.famouschromegames.com/play/259/dare-up.html#.U_u0LE0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.famouschromegames.com/play/259/dare-up.html#.U_u0LE0ieKA
 *  JS Response Bytes: 1529285
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28612
-
-### Performance issues
-
 
 ### Performance issues
 

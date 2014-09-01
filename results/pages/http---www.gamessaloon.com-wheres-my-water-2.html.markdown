@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamessaloon.com/wheres-my-water-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Where’s My Water? 2 : Games Saloon](http://www.gamessaloon.com/wheres-my-water-2.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamessaloon.com/wheres-my-water-2.html
 *  JS Response Bytes: 1529901
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98568
-
-### Performance issues
-
 
 ### Performance issues
 
