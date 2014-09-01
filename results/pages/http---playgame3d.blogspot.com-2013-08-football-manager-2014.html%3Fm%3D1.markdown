@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playgame3d.blogspot.com/2013/08/football-manager-2014.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Online Free GamePlay: Football Manager 2014](http://playgame3d.blogspot.com/2013/08/football-manager-2014.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://playgame3d.blogspot.com/2013/08/football-manager-2014.html?m=1
 *  JS Response Bytes: 1903125
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116085
-
-### Performance issues
-
 
 ### Performance issues
 

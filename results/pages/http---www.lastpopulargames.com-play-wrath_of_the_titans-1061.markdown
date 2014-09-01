@@ -33,8 +33,5 @@ title: http://www.lastpopulargames.com/play/wrath_of_the_titans-1061
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

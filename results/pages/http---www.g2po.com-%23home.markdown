@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.g2po.com/#home
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Home Page - G2PO](http://www.g2po.com/#home)
 
@@ -29,9 +32,6 @@ title: http://www.g2po.com/#home
 *  JS Response Bytes: 2184289
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 158654
-
-### Performance issues
-
 
 ### Performance issues
 

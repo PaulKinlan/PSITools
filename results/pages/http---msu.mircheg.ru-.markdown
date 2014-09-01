@@ -33,8 +33,5 @@ title: http://msu.mircheg.ru/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

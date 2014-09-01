@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mariosupergames.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MARIO GAMES ONLINE - Play Super Mario Games Online Free](http://www.mariosupergames.com/)
 
@@ -29,9 +34,6 @@ title: http://www.mariosupergames.com/
 *  JS Response Bytes: 1132565
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19032
-
-### Performance issues
-
 
 ### Performance issues
 

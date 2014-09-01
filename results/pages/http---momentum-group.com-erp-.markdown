@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://momentum-group.com/erp/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Momentum | The world’s first Pay-per-Use ERP System!](http://momentum-group.com/erp/)
 
@@ -29,9 +32,6 @@ title: http://momentum-group.com/erp/
 *  JS Response Bytes: 578525
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11737
-
-### Performance issues
-
 
 ### Performance issues
 

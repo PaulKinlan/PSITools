@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2pg.com/game/kawairun-2/play/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kawairun 2 | 2 Player Games](http://www.2pg.com/game/kawairun-2/play/)
 
@@ -29,9 +34,6 @@ title: http://www.2pg.com/game/kawairun-2/play/
 *  JS Response Bytes: 1493416
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24233
-
-### Performance issues
-
 
 ### Performance issues
 

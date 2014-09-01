@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mahjonggmahjongg.com/ChromeMahjong.php
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chrome Mahjong](http://www.mahjonggmahjongg.com/ChromeMahjong.php)
 
@@ -29,9 +34,6 @@ title: http://www.mahjonggmahjongg.com/ChromeMahjong.php
 *  JS Response Bytes: 1482801
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98326
-
-### Performance issues
-
 
 ### Performance issues
 

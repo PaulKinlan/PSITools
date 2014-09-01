@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/camperwars-desert-ops/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Camper Wars Desert Ops](http://www.war-games.ws/camperwars-desert-ops/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/camperwars-desert-ops/
 *  JS Response Bytes: 2305866
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 120364
-
-### Performance issues
-
 
 ### Performance issues
 

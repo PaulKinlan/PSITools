@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://b.socrative.com/login/teacher/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Socrative](http://b.socrative.com/login/teacher/)
 
@@ -29,9 +31,6 @@ title: http://b.socrative.com/login/teacher/
 *  JS Response Bytes: 412369
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 64497
-
-### Performance issues
-
 
 ### Performance issues
 

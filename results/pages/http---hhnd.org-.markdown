@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://hhnd.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Hip Hop Never Dies | As a strong but yet diverse way of an outlook on life, Hip Hop is now a way of life and is here to stay.](http://hhnd.org/)
 
@@ -29,9 +31,6 @@ title: http://hhnd.org/
 *  JS Response Bytes: 1536311
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 347737
-
-### Performance issues
-
 
 ### Performance issues
 

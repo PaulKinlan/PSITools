@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://finestsearchonline.com/frame.aspx?u=http%3A%2F%2Fdsparking.com%2F%3Fo_id%3D59290%26domainname%3Dfinestsearchonline.com&r=2&adi=100
+AvoidLandingPageRedirects: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [finestsearchonline.com](http://finestsearchonline.com/frame.aspx?u=http%3A%2F%2Fdsparking.com%2F%3Fo_id%3D59290%26domainname%3Dfinestsearchonline.com&r=2&adi=100)
 
@@ -29,9 +33,6 @@ title: http://finestsearchonline.com/frame.aspx?u=http%3A%2F%2Fdsparking.com%2F%
 *  JS Response Bytes: 65728
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1797
-
-### Performance issues
-
 
 ### Performance issues
 

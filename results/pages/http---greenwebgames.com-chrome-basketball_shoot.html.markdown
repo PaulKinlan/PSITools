@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://greenwebgames.com/chrome/basketball_shoot.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Basketball shot - This online game is so addictive -](http://greenwebgames.com/chrome/basketball_shoot.html)
 
@@ -29,9 +34,6 @@ title: http://greenwebgames.com/chrome/basketball_shoot.html
 *  JS Response Bytes: 733311
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 11387
-
-### Performance issues
-
 
 ### Performance issues
 

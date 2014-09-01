@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://playgames9.com/?=404;http://www.playgames9.com:80/angry-birds-space.html&reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [playgames9.com](http://playgames9.com/?=404;http://www.playgames9.com:80/angry-birds-space.html&reqp=1&reqr=)
 
@@ -29,9 +33,6 @@ title: http://playgames9.com/?=404;http://www.playgames9.com:80/angry-birds-spac
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 322
-
-### Performance issues
-
 
 ### Performance issues
 

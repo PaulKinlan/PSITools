@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeridegames.com/onlineGames/100399?sId=Chrome_Webstore_100399&actid=Chrome_Webstore_100399
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://www.freeridegames.com/onlineGames/100399?sId=Chrome_Webstore_100399&actid=Chrome_Webstore_100399)
 
@@ -29,9 +34,6 @@ title: http://www.freeridegames.com/onlineGames/100399?sId=Chrome_Webstore_10039
 *  JS Response Bytes: 1152254
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1877
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.job3.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Job3 Instant](http://www.job3.com/)
 
@@ -29,9 +33,6 @@ title: http://www.job3.com/
 *  JS Response Bytes: 907674
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2427
-
-### Performance issues
-
 
 ### Performance issues
 

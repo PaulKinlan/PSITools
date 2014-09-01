@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://hub.softec.com.my:60/TMSPro_Portal/Default.aspx
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TMS Pro :: Portal](http://hub.softec.com.my:60/TMSPro_Portal/Default.aspx)
 
@@ -29,9 +32,6 @@ title: http://hub.softec.com.my:60/TMSPro_Portal/Default.aspx
 *  JS Response Bytes: 598240
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 506
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://deutsch-englisch-ubersetzung.herokuapp.com/
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Deutsch Englisch Übersetzung](http://deutsch-englisch-ubersetzung.herokuapp.com/)
 
@@ -29,9 +31,6 @@ title: http://deutsch-englisch-ubersetzung.herokuapp.com/
 *  JS Response Bytes: 1841906
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 165841
-
-### Performance issues
-
 
 ### Performance issues
 

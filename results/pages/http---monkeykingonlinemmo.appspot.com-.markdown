@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://monkeykingonlinemmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Monkey King Online](http://monkeykingonlinemmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://monkeykingonlinemmo.appspot.com/
 *  JS Response Bytes: 1022621
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35482
-
-### Performance issues
-
 
 ### Performance issues
 

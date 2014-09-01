@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://chrome.baeblemusic.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Full Concert Videos, Sessions, Interviews and Music Videos - Baeblemusic.com](http://chrome.baeblemusic.com/)
 
@@ -29,9 +36,6 @@ title: http://chrome.baeblemusic.com/
 *  JS Response Bytes: 796803
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55695
-
-### Performance issues
-
 
 ### Performance issues
 

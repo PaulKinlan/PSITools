@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://thewordsearch.com/user/numbergames/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Number Games](http://thewordsearch.com/user/numbergames/)
 
@@ -29,9 +33,6 @@ title: http://thewordsearch.com/user/numbergames/
 *  JS Response Bytes: 473948
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 378
-
-### Performance issues
-
 
 ### Performance issues
 

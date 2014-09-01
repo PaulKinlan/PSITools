@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.negane.com/super_mario_world_emu/
+UseLegibleFontSizes: true
 ---
 ## [403 Forbidden](http://www.negane.com/super_mario_world_emu/)
 
@@ -29,9 +30,6 @@ title: http://www.negane.com/super_mario_world_emu/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 526
-
-### Performance issues
-
 
 ### Performance issues
 

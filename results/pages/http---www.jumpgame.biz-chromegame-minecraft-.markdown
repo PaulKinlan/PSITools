@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.jumpgame.biz/chromegame/minecraft/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [jump game Chrome – minecraft](http://www.jumpgame.biz/chromegame/minecraft/)
 
@@ -29,9 +34,6 @@ title: http://www.jumpgame.biz/chromegame/minecraft/
 *  JS Response Bytes: 851925
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5151
-
-### Performance issues
-
 
 ### Performance issues
 

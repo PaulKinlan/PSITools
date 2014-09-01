@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.w-asd.com/nav/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
 ---
 ## [WASD](http://www.w-asd.com/nav/)
 
@@ -29,9 +32,6 @@ title: http://www.w-asd.com/nav/
 *  JS Response Bytes: 493584
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 90746
-
-### Performance issues
-
 
 ### Performance issues
 

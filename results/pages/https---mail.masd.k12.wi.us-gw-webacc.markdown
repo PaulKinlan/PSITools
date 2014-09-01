@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://mail.masd.k12.wi.us/gw/webacc
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Novell GroupWise](https://mail.masd.k12.wi.us/gw/webacc)
 
@@ -29,9 +31,6 @@ title: https://mail.masd.k12.wi.us/gw/webacc
 *  JS Response Bytes: 130742
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mobilemy.justcloud.com/splash
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Just Cloud Mobile - Free Mobile Photo Backup](http://mobilemy.justcloud.com/splash)
 
@@ -29,9 +32,6 @@ title: http://mobilemy.justcloud.com/splash
 *  JS Response Bytes: 107196
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3055
-
-### Performance issues
-
 
 ### Performance issues
 

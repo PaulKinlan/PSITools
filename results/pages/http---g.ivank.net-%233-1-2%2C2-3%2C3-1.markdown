@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://g.ivank.net/#3:1-2,2-3,3-1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Graph drawer](http://g.ivank.net/#3:1-2,2-3,3-1)
 
@@ -29,9 +32,6 @@ title: http://g.ivank.net/#3:1-2,2-3,3-1
 *  JS Response Bytes: 580837
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94972
-
-### Performance issues
-
 
 ### Performance issues
 

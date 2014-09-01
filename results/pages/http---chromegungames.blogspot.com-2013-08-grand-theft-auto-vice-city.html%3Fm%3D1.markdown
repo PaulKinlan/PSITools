@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://chromegungames.blogspot.com/2013/08/grand-theft-auto-vice-city.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://chromegungames.blogspot.com/2013/08/grand-theft-auto-vice-city.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://chromegungames.blogspot.com/2013/08/grand-theft-auto-vice-city.htm
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19309
-
-### Performance issues
-
 
 ### Performance issues
 

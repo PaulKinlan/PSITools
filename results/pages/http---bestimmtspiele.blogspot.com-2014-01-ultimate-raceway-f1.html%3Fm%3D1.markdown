@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://bestimmtspiele.blogspot.com/2014/01/ultimate-raceway-f1.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
 ---
 ## [Bestimmt Spiele: Ultimate Raceway F1](http://bestimmtspiele.blogspot.com/2014/01/ultimate-raceway-f1.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://bestimmtspiele.blogspot.com/2014/01/ultimate-raceway-f1.html?m=1
 *  JS Response Bytes: 1637914
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95890
-
-### Performance issues
-
 
 ### Performance issues
 

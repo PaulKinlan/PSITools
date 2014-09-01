@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.huddlebuy.co.uk/deals/free/free-moo-business-cards
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Huddlebuy](http://www.huddlebuy.co.uk/deals/free/free-moo-business-cards)
 
@@ -29,9 +32,6 @@ title: http://www.huddlebuy.co.uk/deals/free/free-moo-business-cards
 *  JS Response Bytes: 656147
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63574
-
-### Performance issues
-
 
 ### Performance issues
 

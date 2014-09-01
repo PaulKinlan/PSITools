@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.beebrite.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Brain Training and Mind Games - Beebrite](http://www.beebrite.com/)
 
@@ -29,9 +32,6 @@ title: http://www.beebrite.com/
 *  JS Response Bytes: 330237
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 134182
-
-### Performance issues
-
 
 ### Performance issues
 

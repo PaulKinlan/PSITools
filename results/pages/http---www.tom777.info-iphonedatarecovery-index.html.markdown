@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.tom777.info/iphonedatarecovery/index.html
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [iPhone Data Recovery- Recover lost iPhone contacts, photos, notes, sms messages, call history, ect.](http://www.tom777.info/iphonedatarecovery/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.tom777.info/iphonedatarecovery/index.html
 *  JS Response Bytes: 399882
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15151
-
-### Performance issues
-
 
 ### Performance issues
 

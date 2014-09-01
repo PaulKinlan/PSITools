@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://apps.makemytrip.com/chrome/
+UseLegibleFontSizes: true
 ---
 ## [Apache Tomcat/6.0.32 - Error report](http://apps.makemytrip.com/chrome/)
 
@@ -29,9 +30,6 @@ title: http://apps.makemytrip.com/chrome/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1178
-
-### Performance issues
-
 
 ### Performance issues
 

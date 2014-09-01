@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.agamesfree.com/angry-birds-seasons.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Seasons | A Games Free](http://www.agamesfree.com/angry-birds-seasons.html)
 
@@ -29,9 +33,6 @@ title: http://www.agamesfree.com/angry-birds-seasons.html
 *  JS Response Bytes: 1693674
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98565
-
-### Performance issues
-
 
 ### Performance issues
 

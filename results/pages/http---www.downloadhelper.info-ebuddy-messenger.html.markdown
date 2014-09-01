@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.downloadhelper.info/ebuddy-messenger.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
 ---
 ## [eBuddy Messenger | Download Helper](http://www.downloadhelper.info/ebuddy-messenger.html)
 
@@ -29,9 +32,6 @@ title: http://www.downloadhelper.info/ebuddy-messenger.html
 *  JS Response Bytes: 503420
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 75708
-
-### Performance issues
-
 
 ### Performance issues
 

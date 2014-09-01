@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.thenewgames.net/new-games/new-ben-10-games
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ben 10 Games | The New Games Online, new games, y8 friv games, y8 friv, y8 games, online games, fun games, most played games, the best games, free games, flash new games, bussy games, car games, action games | the new games, the best games, most played games](http://www.thenewgames.net/new-games/new-ben-10-games)
 
@@ -29,9 +35,6 @@ title: http://www.thenewgames.net/new-games/new-ben-10-games
 *  JS Response Bytes: 246680
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7763
-
-### Performance issues
-
 
 ### Performance issues
 

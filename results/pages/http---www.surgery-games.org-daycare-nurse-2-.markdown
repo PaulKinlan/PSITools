@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.surgery-games.org/daycare-nurse-2/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Daycare Nurse game](http://www.surgery-games.org/daycare-nurse-2/)
 
@@ -29,9 +36,6 @@ title: http://www.surgery-games.org/daycare-nurse-2/
 *  JS Response Bytes: 2429938
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 128755
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://partners.schoolspeedtest.org/montana.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Montana SchoolSpeedTest - SchoolSpeedTest](http://partners.schoolspeedtest.org/montana.html)
 
@@ -29,9 +31,6 @@ title: http://partners.schoolspeedtest.org/montana.html
 *  JS Response Bytes: 2534225
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 78006
-
-### Performance issues
-
 
 ### Performance issues
 

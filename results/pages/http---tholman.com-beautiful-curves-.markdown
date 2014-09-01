@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://tholman.com/beautiful-curves/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Beautiful Curves](http://tholman.com/beautiful-curves/)
 
@@ -29,9 +35,6 @@ title: http://tholman.com/beautiful-curves/
 *  JS Response Bytes: 1325889
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117730
-
-### Performance issues
-
 
 ### Performance issues
 

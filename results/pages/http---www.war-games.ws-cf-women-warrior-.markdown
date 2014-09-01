@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.war-games.ws/cf-women-warrior/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CF Women Warrior](http://www.war-games.ws/cf-women-warrior/)
 
@@ -29,9 +34,6 @@ title: http://www.war-games.ws/cf-women-warrior/
 *  JS Response Bytes: 2292913
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115212
-
-### Performance issues
-
 
 ### Performance issues
 

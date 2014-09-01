@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gcic.peachnet.edu/default.aspx/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Georgia Career Information Center](http://www.gcic.peachnet.edu/default.aspx/)
 
@@ -29,9 +33,6 @@ title: http://www.gcic.peachnet.edu/default.aspx/
 *  JS Response Bytes: 143082
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

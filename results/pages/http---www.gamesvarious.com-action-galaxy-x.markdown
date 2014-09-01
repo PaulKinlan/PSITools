@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/action/galaxy-x
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Galaxy X - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/action/galaxy-x)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/action/galaxy-x
 *  JS Response Bytes: 2220339
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 132212
-
-### Performance issues
-
 
 ### Performance issues
 

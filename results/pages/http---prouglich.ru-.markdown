@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://prouglich.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Про Углич](http://prouglich.ru/)
 
@@ -29,9 +32,6 @@ title: http://prouglich.ru/
 *  JS Response Bytes: 174854
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 873
-
-### Performance issues
-
 
 ### Performance issues
 

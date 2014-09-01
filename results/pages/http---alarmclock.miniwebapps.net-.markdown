@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://alarmclock.miniwebapps.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Alarm Clock](http://alarmclock.miniwebapps.net/)
 
@@ -29,9 +35,6 @@ title: http://alarmclock.miniwebapps.net/
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

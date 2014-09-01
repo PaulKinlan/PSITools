@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.tunnelgame.net/flash-games/cargo-bridge/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cargo Bridge « Flash Games, Online Games](http://www.tunnelgame.net/flash-games/cargo-bridge/)
 
@@ -29,9 +35,6 @@ title: http://www.tunnelgame.net/flash-games/cargo-bridge/
 *  JS Response Bytes: 1190115
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16513
-
-### Performance issues
-
 
 ### Performance issues
 

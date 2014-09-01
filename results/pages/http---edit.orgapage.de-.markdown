@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://edit.orgapage.de/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PHP Code Editor](http://edit.orgapage.de/)
 
@@ -29,9 +34,6 @@ title: http://edit.orgapage.de/
 *  JS Response Bytes: 1260972
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7834
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -33,8 +33,5 @@ title: http://www.littleletter.io/ll/index.html?&km_Access+From=Chrome+App
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://jolecule.appspot.com/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [jolecule](http://jolecule.appspot.com/)
 
@@ -29,9 +31,6 @@ title: http://jolecule.appspot.com/
 *  JS Response Bytes: 2120
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 422
-
-### Performance issues
-
 
 ### Performance issues
 

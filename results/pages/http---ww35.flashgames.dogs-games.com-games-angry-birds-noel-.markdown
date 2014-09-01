@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ww35.flashgames.dogs-games.com/games/angry-birds-noel/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [dogs-games.com](http://ww35.flashgames.dogs-games.com/games/angry-birds-noel/)
 
@@ -29,9 +33,6 @@ title: http://ww35.flashgames.dogs-games.com/games/angry-birds-noel/
 *  JS Response Bytes: 173123
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 244
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://fd-games.eu.pn/Leo3.html
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Leo The cat Part 3](http://fd-games.eu.pn/Leo3.html)
 
@@ -29,9 +33,6 @@ title: http://fd-games.eu.pn/Leo3.html
 *  JS Response Bytes: 1184595
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18506
-
-### Performance issues
-
 
 ### Performance issues
 

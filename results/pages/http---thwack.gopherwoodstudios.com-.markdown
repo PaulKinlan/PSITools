@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://thwack.gopherwoodstudios.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
 ---
 ## [Thwack!! - by Gopherwood Studios](http://thwack.gopherwoodstudios.com/)
 
@@ -29,9 +32,6 @@ title: http://thwack.gopherwoodstudios.com/
 *  JS Response Bytes: 2621696
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 23273
-
-### Performance issues
-
 
 ### Performance issues
 

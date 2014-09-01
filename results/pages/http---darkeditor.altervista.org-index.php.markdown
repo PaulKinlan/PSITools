@@ -33,8 +33,5 @@ title: http://darkeditor.altervista.org/index.php
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

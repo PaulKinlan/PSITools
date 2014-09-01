@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://memory-life.com/home/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Le meilleur site pour vos photos et vidéos - Memory-Life](http://memory-life.com/home/)
 
@@ -29,9 +32,6 @@ title: http://memory-life.com/home/
 *  JS Response Bytes: 563913
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 609519
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mrrenne.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Mr. Renne dot com - Home](http://www.mrrenne.com/)
 
@@ -29,9 +33,6 @@ title: http://www.mrrenne.com/
 *  JS Response Bytes: 245676
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54739
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/alpine-extreme/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Alpine Extreme game](http://www.skateboarding-games.biz/alpine-extreme/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/alpine-extreme/
 *  JS Response Bytes: 2136663
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121001
-
-### Performance issues
-
 
 ### Performance issues
 

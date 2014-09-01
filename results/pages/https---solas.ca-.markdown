@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://solas.ca/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Solas.ca | Find a Place to Rent in the GTA | Post Your Property Ad](https://solas.ca/)
 
@@ -29,9 +32,6 @@ title: https://solas.ca/
 *  JS Response Bytes: 1145470
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25306
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/american-football-rush/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [American Football Rush Game](http://www.footballgam.es/american-football-rush/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/american-football-rush/
 *  JS Response Bytes: 2296840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 157886
-
-### Performance issues
-
 
 ### Performance issues
 

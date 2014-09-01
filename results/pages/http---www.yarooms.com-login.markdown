@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.yarooms.com/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login to YArooms](http://www.yarooms.com/login)
 
@@ -29,9 +33,6 @@ title: http://www.yarooms.com/login
 *  JS Response Bytes: 1227875
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96345
-
-### Performance issues
-
 
 ### Performance issues
 

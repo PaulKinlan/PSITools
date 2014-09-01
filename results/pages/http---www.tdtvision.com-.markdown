@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.tdtvision.com/
+EnableGzipCompression: true
 ---
 ## [CANALES TV ESPAÑOLES](http://www.tdtvision.com/)
 
@@ -29,9 +30,6 @@ title: http://www.tdtvision.com/
 *  JS Response Bytes: 47251
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 860
-
-### Performance issues
-
 
 ### Performance issues
 

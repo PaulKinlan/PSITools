@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.veryfamousgames.com/play/264/i-stunt-2.html#.U_ubw00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [i Stunt 2 - veryfamousgames](http://www.veryfamousgames.com/play/264/i-stunt-2.html#.U_ubw00ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.veryfamousgames.com/play/264/i-stunt-2.html#.U_ubw00ieKA
 *  JS Response Bytes: 2100188
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46543
-
-### Performance issues
-
 
 ### Performance issues
 

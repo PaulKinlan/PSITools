@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://waveside.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Post Homework Assignments FREE at Waveside](http://waveside.com/)
 
@@ -29,9 +32,6 @@ title: http://waveside.com/
 *  JS Response Bytes: 53541
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

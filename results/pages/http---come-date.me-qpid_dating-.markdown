@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://come-date.me/qpid_dating/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [qpid_dating | Come-Date.me](http://come-date.me/qpid_dating/)
 
@@ -29,9 +32,6 @@ title: http://come-date.me/qpid_dating/
 *  JS Response Bytes: 495275
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1552
-
-### Performance issues
-
 
 ### Performance issues
 

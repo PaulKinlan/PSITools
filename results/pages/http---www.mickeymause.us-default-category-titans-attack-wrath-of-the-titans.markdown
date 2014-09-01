@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.mickeymause.us/default-category/titans-attack-wrath-of-the-titans
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Titans Attack: Wrath of the Titans - Mickey Mause](http://www.mickeymause.us/default-category/titans-attack-wrath-of-the-titans)
 
@@ -29,9 +35,6 @@ title: http://www.mickeymause.us/default-category/titans-attack-wrath-of-the-tit
 *  JS Response Bytes: 2043656
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113807
-
-### Performance issues
-
 
 ### Performance issues
 

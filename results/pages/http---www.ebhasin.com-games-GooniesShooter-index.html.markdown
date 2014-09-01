@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ebhasin.com/games/GooniesShooter/index.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Goonies Shooter -:: Bhasinsoft](http://www.ebhasin.com/games/GooniesShooter/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.ebhasin.com/games/GooniesShooter/index.html
 *  JS Response Bytes: 1467766
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109863
-
-### Performance issues
-
 
 ### Performance issues
 

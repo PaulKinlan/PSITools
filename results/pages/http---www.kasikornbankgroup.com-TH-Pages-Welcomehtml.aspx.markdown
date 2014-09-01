@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kasikornbankgroup.com/TH/Pages/Welcomehtml.aspx
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ธนาคารกสิกรไทย](http://www.kasikornbankgroup.com/TH/Pages/Welcomehtml.aspx)
 
@@ -18,28 +23,25 @@ title: http://www.kasikornbankgroup.com/TH/Pages/Welcomehtml.aspx
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 1
-*  Total Request Bytes: 5299
+*  Total Request Bytes: 4506
 
 ### Response data
 
-*  HTML Response Bytes: 40700
-*  Text Response Bytes: 20319
+*  HTML Response Bytes: 40655
+*  Text Response Bytes: 20274
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 265827
-*  JS Response Bytes: 133340
+*  Image Response Bytes: 264016
+*  JS Response Bytes: 133375
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 30701
-
-### Performance issues
-
+*  Other Response Bytes: 32108
 
 ### Performance issues
 
 *  Avoid landing page redirects
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
-*  Prefer asynchronous resources
 
 ### Mobile UX issues
 
+*  Size content to viewport
 *  Size tap targets appropriately
 *  Use legible font sizes

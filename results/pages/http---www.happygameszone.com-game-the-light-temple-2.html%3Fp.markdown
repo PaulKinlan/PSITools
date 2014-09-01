@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.happygameszone.com/game/the-light-temple-2.html?p
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play The Light Temple 2 Games - HappyGamesZone.com](http://www.happygameszone.com/game/the-light-temple-2.html?p)
 
@@ -29,9 +35,6 @@ title: http://www.happygameszone.com/game/the-light-temple-2.html?p
 *  JS Response Bytes: 657249
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95824
-
-### Performance issues
-
 
 ### Performance issues
 

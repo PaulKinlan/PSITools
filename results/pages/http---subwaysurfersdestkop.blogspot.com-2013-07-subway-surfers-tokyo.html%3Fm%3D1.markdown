@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://subwaysurfersdestkop.blogspot.com/2013/07/subway-surfers-tokyo.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Subway Surfers Destkop: Subway Surfers Tokyo](http://subwaysurfersdestkop.blogspot.com/2013/07/subway-surfers-tokyo.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://subwaysurfersdestkop.blogspot.com/2013/07/subway-surfers-tokyo.htm
 *  JS Response Bytes: 2183757
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103126
-
-### Performance issues
-
 
 ### Performance issues
 

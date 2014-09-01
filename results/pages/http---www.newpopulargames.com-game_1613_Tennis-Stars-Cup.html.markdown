@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_1613_Tennis-Stars-Cup.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tennis Stars Cup Flash Games](http://www.newpopulargames.com/game_1613_Tennis-Stars-Cup.html)
 
@@ -29,9 +35,6 @@ title: http://www.newpopulargames.com/game_1613_Tennis-Stars-Cup.html
 *  JS Response Bytes: 1680034
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113333
-
-### Performance issues
-
 
 ### Performance issues
 

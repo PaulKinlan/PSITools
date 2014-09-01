@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://ubuntu.onego.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ubuntu на Онего.ру](http://ubuntu.onego.ru/)
 
@@ -29,9 +34,6 @@ title: http://ubuntu.onego.ru/
 *  JS Response Bytes: 846830
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1915
-
-### Performance issues
-
 
 ### Performance issues
 

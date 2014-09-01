@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.voyance-az.com/horoscope-cancer
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Voyance-AZ.com - Horoscope Cancer](http://www.voyance-az.com/horoscope-cancer)
 
@@ -29,9 +33,6 @@ title: http://www.voyance-az.com/horoscope-cancer
 *  JS Response Bytes: 2570151
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 345163
-
-### Performance issues
-
 
 ### Performance issues
 

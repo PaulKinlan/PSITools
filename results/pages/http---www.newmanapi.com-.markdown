@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.newmanapi.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Newman API](http://www.newmanapi.com/)
 
@@ -29,9 +32,6 @@ title: http://www.newmanapi.com/
 *  JS Response Bytes: 161212
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

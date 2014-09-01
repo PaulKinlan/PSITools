@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.3d-juegos.co/chocar-conducir-3d/game/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D Chocar Conducir 3D juego](http://www.3d-juegos.co/chocar-conducir-3d/game/)
 
@@ -29,9 +37,6 @@ title: http://www.3d-juegos.co/chocar-conducir-3d/game/
 *  JS Response Bytes: 2332334
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49744
-
-### Performance issues
-
 
 ### Performance issues
 

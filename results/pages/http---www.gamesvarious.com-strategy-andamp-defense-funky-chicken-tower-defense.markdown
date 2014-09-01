@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/strategy-andamp-defense/funky-chicken-tower-defense
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Funky Chicken Tower Defense - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/strategy-andamp-defense/funky-chicken-tower-defense)
 
@@ -29,9 +35,6 @@ title: http://www.gamesvarious.com/strategy-andamp-defense/funky-chicken-tower-d
 *  JS Response Bytes: 2212810
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 162770
-
-### Performance issues
-
 
 ### Performance issues
 

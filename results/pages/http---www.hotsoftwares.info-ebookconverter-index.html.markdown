@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.hotsoftwares.info/ebookconverter/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Best eBook Software](http://www.hotsoftwares.info/ebookconverter/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.hotsoftwares.info/ebookconverter/index.html
 *  JS Response Bytes: 911319
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110124
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ucm.me/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [UCM](http://www.ucm.me/)
 
@@ -29,9 +34,6 @@ title: http://www.ucm.me/
 *  JS Response Bytes: 1375214
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163918
-
-### Performance issues
-
 
 ### Performance issues
 

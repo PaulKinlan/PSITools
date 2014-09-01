@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.westernsaga.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Western Saga](http://www.westernsaga.com/)
 
@@ -29,9 +33,6 @@ title: http://www.westernsaga.com/
 *  JS Response Bytes: 534579
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2586
-
-### Performance issues
-
 
 ### Performance issues
 

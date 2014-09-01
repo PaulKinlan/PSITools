@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.douchegames.com/preload/mixed/backgammon
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Backgammon - Play Game Douchbag!!!](http://www.douchegames.com/preload/mixed/backgammon)
 
@@ -29,9 +34,6 @@ title: http://www.douchegames.com/preload/mixed/backgammon
 *  JS Response Bytes: 182846
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1279
-
-### Performance issues
-
 
 ### Performance issues
 

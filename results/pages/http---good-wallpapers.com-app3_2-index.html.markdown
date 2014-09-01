@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://good-wallpapers.com/app3_2/index.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Error / Desktop HD, iPhone, iPad Wallpapers](http://good-wallpapers.com/app3_2/index.html)
 
@@ -29,9 +32,6 @@ title: http://good-wallpapers.com/app3_2/index.html
 *  JS Response Bytes: 591480
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28786
-
-### Performance issues
-
 
 ### Performance issues
 

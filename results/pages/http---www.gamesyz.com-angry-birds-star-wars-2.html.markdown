@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesyz.com/angry-birds-star-wars-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Star Wars 2 : Games YZ](http://www.gamesyz.com/angry-birds-star-wars-2.html)
 
@@ -29,9 +34,6 @@ title: http://www.gamesyz.com/angry-birds-star-wars-2.html
 *  JS Response Bytes: 1529303
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105437
-
-### Performance issues
-
 
 ### Performance issues
 

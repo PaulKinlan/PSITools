@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeshopgames.com/action/gangstar-maze-iii-hd-free#.U_uavU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gangstar Maze III HD Free - Free Shop Games](http://www.freeshopgames.com/action/gangstar-maze-iii-hd-free#.U_uavU0ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.freeshopgames.com/action/gangstar-maze-iii-hd-free#.U_uavU0ieK
 *  JS Response Bytes: 1867127
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25847
-
-### Performance issues
-
 
 ### Performance issues
 

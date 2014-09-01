@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.6funny.com/qsqy/server/17
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [傾世情緣 - 第 17 服 | 6Funny 遊戲平台](http://www.6funny.com/qsqy/server/17)
 
@@ -29,9 +33,6 @@ title: http://www.6funny.com/qsqy/server/17
 *  JS Response Bytes: 436975
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2147
-
-### Performance issues
-
 
 ### Performance issues
 

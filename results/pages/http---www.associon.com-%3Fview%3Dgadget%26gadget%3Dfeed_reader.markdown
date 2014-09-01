@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.associon.com/?view=gadget&gadget=feed_reader
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ASSOCION | GADGET : Feed Reader](http://www.associon.com/?view=gadget&gadget=feed_reader)
 
@@ -29,9 +32,6 @@ title: http://www.associon.com/?view=gadget&gadget=feed_reader
 *  JS Response Bytes: 2974825
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 210479
-
-### Performance issues
-
 
 ### Performance issues
 

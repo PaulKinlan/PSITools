@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://v-koktebel.ru/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [В Коктебель | Коктебель фото и отдых в Коктебеле, Лисья бухта и Карадаг на карте Коктебель](http://v-koktebel.ru/)
 
@@ -29,9 +33,6 @@ title: http://v-koktebel.ru/
 *  JS Response Bytes: 1213617
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3486
-
-### Performance issues
-
 
 ### Performance issues
 

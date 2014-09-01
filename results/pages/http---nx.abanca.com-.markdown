@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://nx.abanca.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [NX ABANCA - Gama NX](http://nx.abanca.com/)
 
@@ -29,9 +32,6 @@ title: http://nx.abanca.com/
 *  JS Response Bytes: 615358
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1840
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.mymoregames.com/game/desktop-racing-2.html?p
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Desktop Racing 2 Games on MyMoreGames.com](http://www.mymoregames.com/game/desktop-racing-2.html?p)
 
@@ -29,9 +34,6 @@ title: http://www.mymoregames.com/game/desktop-racing-2.html?p
 *  JS Response Bytes: 314926
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

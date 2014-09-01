@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gamebjk.info/command-conquer-tiberium-alliances/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games – Command & Conquer Tiberium Alliances](http://gamebjk.info/command-conquer-tiberium-alliances/)
 
@@ -29,9 +33,6 @@ title: http://gamebjk.info/command-conquer-tiberium-alliances/
 *  JS Response Bytes: 521255
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1651
-
-### Performance issues
-
 
 ### Performance issues
 

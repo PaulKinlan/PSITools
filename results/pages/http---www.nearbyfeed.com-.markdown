@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.nearbyfeed.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Location based (LBS) stream, check in, place, friends - Nearbyfeed.com](http://www.nearbyfeed.com/)
 
@@ -29,9 +33,6 @@ title: http://www.nearbyfeed.com/
 *  JS Response Bytes: 285597
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

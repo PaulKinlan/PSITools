@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://arcadechrome.com/gch/?g=253
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [Turtle Virtual Pet](http://arcadechrome.com/gch/?g=253)
 
@@ -29,9 +33,6 @@ title: http://arcadechrome.com/gch/?g=253
 *  JS Response Bytes: 388170
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1471
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.2spieler.com/einkaufszentrum-polizist/game/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [2 Spieler Einkaufszentrum Polizist Spiel](http://www.2spieler.com/einkaufszentrum-polizist/game/)
 
@@ -29,9 +35,6 @@ title: http://www.2spieler.com/einkaufszentrum-polizist/game/
 *  JS Response Bytes: 3197927
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 149699
-
-### Performance issues
-
 
 ### Performance issues
 

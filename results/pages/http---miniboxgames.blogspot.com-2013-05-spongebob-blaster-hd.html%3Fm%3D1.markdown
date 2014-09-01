@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://miniboxgames.blogspot.com/2013/05/spongebob-blaster-hd.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Mini Box Games: SpongeBob Blaster HD](http://miniboxgames.blogspot.com/2013/05/spongebob-blaster-hd.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://miniboxgames.blogspot.com/2013/05/spongebob-blaster-hd.html?m=1
 *  JS Response Bytes: 2175848
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287169
-
-### Performance issues
-
 
 ### Performance issues
 

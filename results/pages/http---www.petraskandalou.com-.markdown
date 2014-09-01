@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.petraskandalou.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Petra Skandalou](http://www.petraskandalou.com/)
 
@@ -29,9 +32,6 @@ title: http://www.petraskandalou.com/
 *  JS Response Bytes: 323635
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 64021
-
-### Performance issues
-
 
 ### Performance issues
 

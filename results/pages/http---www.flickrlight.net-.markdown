@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.flickrlight.net/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
 ---
 ## [[Flickrlight] Flickr â™¥ Silverlight !](http://www.flickrlight.net/)
 
@@ -29,9 +31,6 @@ title: http://www.flickrlight.net/
 *  JS Response Bytes: 49628
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 583
-
-### Performance issues
-
 
 ### Performance issues
 

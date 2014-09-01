@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://www.qunb.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [qunb - Create and share beautiful data visualizations of your web analytics](https://www.qunb.com/)
 
@@ -29,9 +30,6 @@ title: https://www.qunb.com/
 *  JS Response Bytes: 471589
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 309
-
-### Performance issues
-
 
 ### Performance issues
 

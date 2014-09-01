@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://www.cloudcontacts.com/~cloudcp4/login.php
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CloudContacts - Login](https://www.cloudcontacts.com/~cloudcp4/login.php)
 
@@ -29,9 +35,6 @@ title: https://www.cloudcontacts.com/~cloudcp4/login.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1420
-
-### Performance issues
-
 
 ### Performance issues
 

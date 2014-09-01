@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.playpainting.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Colourful Painting Games for Kids](http://www.playpainting.com/)
 
@@ -29,9 +34,6 @@ title: http://www.playpainting.com/
 *  JS Response Bytes: 2378154
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148522
-
-### Performance issues
-
 
 ### Performance issues
 

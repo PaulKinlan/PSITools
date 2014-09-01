@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://wieduschnellabnimmst.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
 ---
 ## [die beste Diät für Männer und Frauen](http://wieduschnellabnimmst.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://wieduschnellabnimmst.blogspot.com/?m=1
 *  JS Response Bytes: 1181058
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2816
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/sewer-skater/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sewer Skater game](http://www.skateboarding-games.biz/sewer-skater/)
 
@@ -29,9 +36,6 @@ title: http://www.skateboarding-games.biz/sewer-skater/
 *  JS Response Bytes: 2279763
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122486
-
-### Performance issues
-
 
 ### Performance issues
 

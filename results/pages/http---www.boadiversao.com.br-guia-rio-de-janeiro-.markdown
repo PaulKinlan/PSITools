@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.boadiversao.com.br/guia/rio-de-janeiro/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Boa Diversão – Noite, shows, cinema, artes, teatros, gastronomia, bares, esporte e saúde, promoções, fotos, notícias e muito mais - Boa Diversão](http://www.boadiversao.com.br/guia/rio-de-janeiro/)
 
@@ -29,9 +32,6 @@ title: http://www.boadiversao.com.br/guia/rio-de-janeiro/
 *  JS Response Bytes: 474488
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1606
-
-### Performance issues
-
 
 ### Performance issues
 

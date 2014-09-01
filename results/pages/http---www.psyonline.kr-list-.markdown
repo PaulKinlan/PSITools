@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.psyonline.kr/list/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [LIST](http://www.psyonline.kr/list/)
 
@@ -29,9 +34,6 @@ title: http://www.psyonline.kr/list/
 *  JS Response Bytes: 134489
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

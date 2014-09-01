@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.webanywhere.co.uk/workplace/resources/elearning-roi-calculator
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free ROI Calculator | Webanywhere](http://www.webanywhere.co.uk/workplace/resources/elearning-roi-calculator)
 
@@ -29,9 +33,6 @@ title: http://www.webanywhere.co.uk/workplace/resources/elearning-roi-calculator
 *  JS Response Bytes: 933345
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54214
-
-### Performance issues
-
 
 ### Performance issues
 

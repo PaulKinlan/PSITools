@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://kid2play.com/driving/on-the-run-the-getaway/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [On The Run The Getaway](http://kid2play.com/driving/on-the-run-the-getaway/)
 
@@ -29,9 +34,6 @@ title: http://kid2play.com/driving/on-the-run-the-getaway/
 *  JS Response Bytes: 2352388
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112569
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.miniportal.us/app_en/converter/index.htm
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Currency Converter](http://www.miniportal.us/app_en/converter/index.htm)
 
@@ -29,9 +32,6 @@ title: http://www.miniportal.us/app_en/converter/index.htm
 *  JS Response Bytes: 761228
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28539
-
-### Performance issues
-
 
 ### Performance issues
 

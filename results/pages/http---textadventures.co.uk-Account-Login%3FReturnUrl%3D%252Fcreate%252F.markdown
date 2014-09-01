@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://textadventures.co.uk/Account/Login?ReturnUrl=%2Fcreate%2F
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Log in](http://textadventures.co.uk/Account/Login?ReturnUrl=%2Fcreate%2F)
 
@@ -29,9 +34,6 @@ title: http://textadventures.co.uk/Account/Login?ReturnUrl=%2Fcreate%2F
 *  JS Response Bytes: 392137
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31039
-
-### Performance issues
-
 
 ### Performance issues
 

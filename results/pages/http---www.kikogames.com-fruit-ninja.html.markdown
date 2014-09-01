@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.kikogames.com/fruit-ninja.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fruit Ninja | Kiko Games](http://www.kikogames.com/fruit-ninja.html)
 
@@ -29,9 +34,6 @@ title: http://www.kikogames.com/fruit-ninja.html
 *  JS Response Bytes: 1529565
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103919
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://traxmo.com/app#signin
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Traxmo](http://traxmo.com/app#signin)
 
@@ -29,9 +34,6 @@ title: http://traxmo.com/app#signin
 *  JS Response Bytes: 735846
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://gaminghouse.info/snowboard-word-search/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://gaminghouse.info/snowboard-word-search/)
 
@@ -29,9 +30,6 @@ title: http://gaminghouse.info/snowboard-word-search/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 561
-
-### Performance issues
-
 
 ### Performance issues
 

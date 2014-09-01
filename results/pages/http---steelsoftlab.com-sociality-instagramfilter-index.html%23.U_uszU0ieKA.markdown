@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://steelsoftlab.com/sociality/instagramfilter/index.html#.U_uszU0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Instagram-like Filters](http://steelsoftlab.com/sociality/instagramfilter/index.html#.U_uszU0ieKA)
 
@@ -29,9 +33,6 @@ title: http://steelsoftlab.com/sociality/instagramfilter/index.html#.U_uszU0ieKA
 *  JS Response Bytes: 815667
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 68766
-
-### Performance issues
-
 
 ### Performance issues
 

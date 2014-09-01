@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mathematics.jds.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DynaMath](http://mathematics.jds.com/)
 
@@ -29,9 +32,6 @@ title: http://mathematics.jds.com/
 *  JS Response Bytes: 1335353
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95268
-
-### Performance issues
-
 
 ### Performance issues
 

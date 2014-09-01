@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.top-vendeur.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Top vendeur](http://www.top-vendeur.com/)
 
@@ -29,9 +32,6 @@ title: http://www.top-vendeur.com/
 *  JS Response Bytes: 429739
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

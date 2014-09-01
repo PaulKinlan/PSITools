@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://shaiya-mmo.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Shaiya Online](http://shaiya-mmo.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://shaiya-mmo.appspot.com/
 *  JS Response Bytes: 632748
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51969
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://juegosdetodo.co/big-farm/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Juego de Big Farm Latino - juegosdetodo.co](http://juegosdetodo.co/big-farm/)
 
@@ -29,9 +34,6 @@ title: http://juegosdetodo.co/big-farm/
 *  JS Response Bytes: 1413888
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115483
-
-### Performance issues
-
 
 ### Performance issues
 

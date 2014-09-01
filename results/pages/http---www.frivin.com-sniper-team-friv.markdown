@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.frivin.com/sniper-team/friv
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sniper Team | Friv And Friv Games More Online Friv Game](http://www.frivin.com/sniper-team/friv)
 
@@ -29,9 +34,6 @@ title: http://www.frivin.com/sniper-team/friv
 *  JS Response Bytes: 1994868
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110164
-
-### Performance issues
-
 
 ### Performance issues
 

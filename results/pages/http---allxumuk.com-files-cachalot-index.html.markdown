@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://allxumuk.com/files/cachalot/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Agent Cachalot](http://allxumuk.com/files/cachalot/index.html)
 
@@ -29,9 +33,6 @@ title: http://allxumuk.com/files/cachalot/index.html
 *  JS Response Bytes: 283748
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

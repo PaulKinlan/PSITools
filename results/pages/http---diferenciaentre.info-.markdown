@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://diferenciaentre.info/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Diferencia entre cosas similares o que se parecen](http://diferenciaentre.info/)
 
@@ -29,9 +33,6 @@ title: http://diferenciaentre.info/
 *  JS Response Bytes: 419718
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2259
-
-### Performance issues
-
 
 ### Performance issues
 

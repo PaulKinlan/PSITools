@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://login.mailpro.com/?lang=%20
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login - Mailpro](https://login.mailpro.com/?lang=%20)
 
@@ -29,9 +35,6 @@ title: https://login.mailpro.com/?lang=%20
 *  JS Response Bytes: 4344
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 904
-
-### Performance issues
-
 
 ### Performance issues
 

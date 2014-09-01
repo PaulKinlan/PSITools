@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gamedata.bluesky.cn/checkers/index.html#menu
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Checkers](http://gamedata.bluesky.cn/checkers/index.html#menu)
 
@@ -29,9 +31,6 @@ title: http://gamedata.bluesky.cn/checkers/index.html#menu
 *  JS Response Bytes: 319644
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

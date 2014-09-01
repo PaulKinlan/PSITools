@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.latestlondonweather.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Latest London Weather - weather in London - local London weather - weather in London England - weather forecast London uk - LatestLondonWeather.com](http://www.latestlondonweather.com/)
 
@@ -29,9 +33,6 @@ title: http://www.latestlondonweather.com/
 *  JS Response Bytes: 1032393
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2308
-
-### Performance issues
-
 
 ### Performance issues
 

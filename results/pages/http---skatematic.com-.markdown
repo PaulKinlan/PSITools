@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://skatematic.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Skatematic](http://skatematic.com/)
 
@@ -29,9 +32,6 @@ title: http://skatematic.com/
 *  JS Response Bytes: 396009
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 148
-
-### Performance issues
-
 
 ### Performance issues
 

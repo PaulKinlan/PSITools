@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.lotterypowerpicks.com/mobile/lpp_mobile.htm
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [LPP Mobile Home](http://www.lotterypowerpicks.com/mobile/lpp_mobile.htm)
 
@@ -29,9 +33,6 @@ title: http://www.lotterypowerpicks.com/mobile/lpp_mobile.htm
 *  JS Response Bytes: 839079
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 518
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://huaban.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [最新采集_图片大全_花瓣网](http://huaban.com/)
 
@@ -29,9 +33,6 @@ title: http://huaban.com/
 *  JS Response Bytes: 209407
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

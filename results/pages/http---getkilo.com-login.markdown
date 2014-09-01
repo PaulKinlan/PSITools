@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://getkilo.com/login
+AvoidLandingPageRedirects: true
 ---
 ## [Kilo is a calorie tracker built for speed, simplicity, and freedom.](http://getkilo.com/login)
 
@@ -29,9 +30,6 @@ title: http://getkilo.com/login
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 994
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.ebay.com.au/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [eBay Mobile Web](http://m.ebay.com.au/)
 
@@ -29,9 +31,6 @@ title: http://m.ebay.com.au/
 *  JS Response Bytes: 279248
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1084
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://yasgame.com/flappy-bird/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [YasGame.Com Free Flash Game – Sayfa bulunamadı](http://yasgame.com/flappy-bird/)
 
@@ -29,9 +33,6 @@ title: http://yasgame.com/flappy-bird/
 *  JS Response Bytes: 572268
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21179
-
-### Performance issues
-
 
 ### Performance issues
 

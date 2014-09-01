@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamevole.com/index.php?task=view&id=217
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Proto Bat-Bot - GaMeVole - just Challange! And Play Free! Play Online!](http://www.gamevole.com/index.php?task=view&id=217)
 
@@ -29,9 +34,6 @@ title: http://www.gamevole.com/index.php?task=view&id=217
 *  JS Response Bytes: 929776
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1843
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.goldgirlsgames.com/decorating/shakira#.U_eJyE0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shakira - Flash Game For Girl](http://www.goldgirlsgames.com/decorating/shakira#.U_eJyE0ieKA)
 
@@ -29,9 +36,6 @@ title: http://www.goldgirlsgames.com/decorating/shakira#.U_eJyE0ieKA
 *  JS Response Bytes: 1721463
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42454
-
-### Performance issues
-
 
 ### Performance issues
 

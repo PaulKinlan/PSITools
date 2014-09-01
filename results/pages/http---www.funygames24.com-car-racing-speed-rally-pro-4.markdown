@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.funygames24.com/car-racing/speed-rally-pro-4
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Speed Rally Pro - funygames24](http://www.funygames24.com/car-racing/speed-rally-pro-4)
 
@@ -29,9 +34,6 @@ title: http://www.funygames24.com/car-racing/speed-rally-pro-4
 *  JS Response Bytes: 3200022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 104689
-
-### Performance issues
-
 
 ### Performance issues
 

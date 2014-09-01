@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://app.offiserv.com/main
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
 ---
 ## [Sign in to OffiServ - OffiServ](https://app.offiserv.com/main)
 
@@ -29,9 +32,6 @@ title: https://app.offiserv.com/main
 *  JS Response Bytes: 2249776
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 963
-
-### Performance issues
-
 
 ### Performance issues
 

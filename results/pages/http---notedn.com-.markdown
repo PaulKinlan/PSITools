@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://notedn.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Notedn | Keep your notes in the cloud](http://notedn.com/)
 
@@ -29,9 +32,6 @@ title: http://notedn.com/
 *  JS Response Bytes: 1352941
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96358
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://happyhomefurniture.co.in/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Happy Home Furniture - Happy Home Furniture](http://happyhomefurniture.co.in/)
 
@@ -29,9 +34,6 @@ title: http://happyhomefurniture.co.in/
 *  JS Response Bytes: 1541044
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94185
-
-### Performance issues
-
 
 ### Performance issues
 

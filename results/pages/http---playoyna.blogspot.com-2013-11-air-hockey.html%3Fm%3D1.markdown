@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://playoyna.blogspot.com/2013/11/air-hockey.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free play games: Air Hockey](http://playoyna.blogspot.com/2013/11/air-hockey.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://playoyna.blogspot.com/2013/11/air-hockey.html?m=1
 *  JS Response Bytes: 971633
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 287146
-
-### Performance issues
-
 
 ### Performance issues
 

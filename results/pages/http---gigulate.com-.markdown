@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gigulate.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Music news, tickets, concert and tour dates from Gigulate. Sorted.](http://gigulate.com/)
 
@@ -29,9 +32,6 @@ title: http://gigulate.com/
 *  JS Response Bytes: 1019712
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2459
-
-### Performance issues
-
 
 ### Performance issues
 

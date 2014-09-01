@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ourapp.co/index.php/app/index/Hajji/18
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
 ---
 ## [Tawasol/Nafithtech Mobile Appliacation Download](http://ourapp.co/index.php/app/index/Hajji/18)
 
@@ -29,9 +31,6 @@ title: http://ourapp.co/index.php/app/index/Hajji/18
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

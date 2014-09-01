@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.retrobotapp.com/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Retrobot | Log in](http://www.retrobotapp.com/login)
 
@@ -29,9 +32,6 @@ title: http://www.retrobotapp.com/login
 *  JS Response Bytes: 427621
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 60444
-
-### Performance issues
-
 
 ### Performance issues
 

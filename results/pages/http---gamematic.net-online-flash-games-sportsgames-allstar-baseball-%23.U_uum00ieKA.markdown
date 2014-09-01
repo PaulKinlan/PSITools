@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/sportsgames/allstar-baseball/#.U_uum00ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Allstar Baseball « Online Flash Game Allstar Baseball](http://gamematic.net/online-flash-games/sportsgames/allstar-baseball/#.U_uum00ieKA)
 
@@ -29,9 +34,6 @@ title: http://gamematic.net/online-flash-games/sportsgames/allstar-baseball/#.U_
 *  JS Response Bytes: 2840892
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 69090
-
-### Performance issues
-
 
 ### Performance issues
 

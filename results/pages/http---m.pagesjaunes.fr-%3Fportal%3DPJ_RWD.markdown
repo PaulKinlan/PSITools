@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.pagesjaunes.fr/?portal=PJ_RWD
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [PagesJaunes](http://m.pagesjaunes.fr/?portal=PJ_RWD)
 
@@ -22,16 +26,13 @@ title: http://m.pagesjaunes.fr/?portal=PJ_RWD
 
 ### Response data
 
-*  HTML Response Bytes: 3285
-*  Text Response Bytes: 1236882
-*  CSS Response Bytes: 261278
-*  Image Response Bytes: 162753
-*  JS Response Bytes: 696113
+*  HTML Response Bytes: 3284
+*  Text Response Bytes: 1236880
+*  CSS Response Bytes: 261277
+*  Image Response Bytes: 162720
+*  JS Response Bytes: 696109
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 1987
-
-### Performance issues
-
+*  Other Response Bytes: 1986
 
 ### Performance issues
 

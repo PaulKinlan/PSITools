@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.codesa.com.uy/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CODESA - Compañia Omnibusera del Este S.A.](http://www.codesa.com.uy/)
 
@@ -29,9 +36,6 @@ title: http://www.codesa.com.uy/
 *  JS Response Bytes: 2999216
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15318
-
-### Performance issues
-
 
 ### Performance issues
 

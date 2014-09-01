@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://eowp.alc.co.jp/sp/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [ログイン：英辞郎 on the WEB Pro](https://eowp.alc.co.jp/sp/login)
 
@@ -29,9 +31,6 @@ title: https://eowp.alc.co.jp/sp/login
 *  JS Response Bytes: 62463
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 667
-
-### Performance issues
-
 
 ### Performance issues
 

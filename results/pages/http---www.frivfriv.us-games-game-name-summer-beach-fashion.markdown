@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.frivfriv.us/games/game/name/summer-beach-fashion
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [summer-beach-fashion Friv Games](http://www.frivfriv.us/games/game/name/summer-beach-fashion)
 
@@ -29,9 +33,6 @@ title: http://www.frivfriv.us/games/game/name/summer-beach-fashion
 *  JS Response Bytes: 1717799
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112672
-
-### Performance issues
-
 
 ### Performance issues
 

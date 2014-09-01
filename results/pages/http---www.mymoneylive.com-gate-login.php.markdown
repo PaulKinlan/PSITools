@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mymoneylive.com/gate/login.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [User Login](http://www.mymoneylive.com/gate/login.php)
 
@@ -29,9 +33,6 @@ title: http://www.mymoneylive.com/gate/login.php
 *  JS Response Bytes: 131379
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 192
-
-### Performance issues
-
 
 ### Performance issues
 

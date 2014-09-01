@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.i51test.com/online/tpedu.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [网站访问报错](http://www.i51test.com/online/tpedu.html)
 
@@ -29,9 +32,6 @@ title: http://www.i51test.com/online/tpedu.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

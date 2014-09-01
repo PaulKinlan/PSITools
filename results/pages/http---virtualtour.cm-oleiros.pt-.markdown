@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://virtualtour.cm-oleiros.pt/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Município de Oleiros](http://virtualtour.cm-oleiros.pt/)
 
@@ -29,9 +33,6 @@ title: http://virtualtour.cm-oleiros.pt/
 *  JS Response Bytes: 1217187
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

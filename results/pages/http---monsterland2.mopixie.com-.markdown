@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://monsterland2.mopixie.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Monsterland 2: Junior Revenge • Hacked Games • Play funtoosh online games • Mopixie.com](http://monsterland2.mopixie.com/)
 
@@ -29,9 +35,6 @@ title: http://monsterland2.mopixie.com/
 *  JS Response Bytes: 2485463
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 305601
-
-### Performance issues
-
 
 ### Performance issues
 

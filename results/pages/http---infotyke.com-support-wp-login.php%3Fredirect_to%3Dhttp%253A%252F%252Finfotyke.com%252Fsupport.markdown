@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://infotyke.com/support/wp-login.php?redirect_to=http%3A%2F%2Finfotyke.com%2Fsupport
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Support › Log In](http://infotyke.com/support/wp-login.php?redirect_to=http%3A%2F%2Finfotyke.com%2Fsupport)
 
@@ -29,9 +32,6 @@ title: http://infotyke.com/support/wp-login.php?redirect_to=http%3A%2F%2Finfotyk
 *  JS Response Bytes: 182940
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1238
-
-### Performance issues
-
 
 ### Performance issues
 

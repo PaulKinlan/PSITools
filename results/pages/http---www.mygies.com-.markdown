@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.mygies.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mygies - Play Free Online Games](http://www.mygies.com/)
 
@@ -29,9 +35,6 @@ title: http://www.mygies.com/
 *  JS Response Bytes: 436739
 *  Flash Response Bytes: 32019
 *  Other Response Bytes: 5885
-
-### Performance issues
-
 
 ### Performance issues
 

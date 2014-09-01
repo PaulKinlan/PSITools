@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.777flashgames.com/angry-birds-friends.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Friends | 777 Flash Games](http://www.777flashgames.com/angry-birds-friends.html)
 
@@ -29,9 +33,6 @@ title: http://www.777flashgames.com/angry-birds-friends.html
 *  JS Response Bytes: 1693270
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103958
-
-### Performance issues
-
 
 ### Performance issues
 

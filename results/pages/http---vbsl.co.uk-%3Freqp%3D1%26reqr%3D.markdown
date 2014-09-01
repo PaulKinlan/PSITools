@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://vbsl.co.uk/?reqp=1&reqr=
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [vbsl.co.uk](http://vbsl.co.uk/?reqp=1&reqr=)
 
@@ -29,9 +32,6 @@ title: http://vbsl.co.uk/?reqp=1&reqr=
 *  JS Response Bytes: 304173
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52
-
-### Performance issues
-
 
 ### Performance issues
 

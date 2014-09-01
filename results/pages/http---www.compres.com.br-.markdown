@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.compres.com.br/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Loja Virtual Compres](http://www.compres.com.br/)
 
@@ -29,9 +34,6 @@ title: http://www.compres.com.br/
 *  JS Response Bytes: 218761
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 224
-
-### Performance issues
-
 
 ### Performance issues
 

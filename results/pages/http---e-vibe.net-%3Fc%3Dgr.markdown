@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://e-vibe.net/?c=gr
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Radio stations from Greece Όλοι οι ραδιοφωνικοί σταθμοί σε όλη την Ελλάδα / [Free Internet Radio] / Listen Live](http://e-vibe.net/?c=gr)
 
@@ -29,9 +32,6 @@ title: http://e-vibe.net/?c=gr
 *  JS Response Bytes: 994846
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97919
-
-### Performance issues
-
 
 ### Performance issues
 

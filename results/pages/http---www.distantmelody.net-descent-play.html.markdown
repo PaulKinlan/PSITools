@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.distantmelody.net/descent/play.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Descent](http://www.distantmelody.net/descent/play.html)
 
@@ -29,9 +35,6 @@ title: http://www.distantmelody.net/descent/play.html
 *  JS Response Bytes: 942246
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109055
-
-### Performance issues
-
 
 ### Performance issues
 

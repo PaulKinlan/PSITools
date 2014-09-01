@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://gamesonline.ws/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Games Online](http://gamesonline.ws/)
 
@@ -29,9 +33,6 @@ title: http://gamesonline.ws/
 *  JS Response Bytes: 230065
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 323
-
-### Performance issues
-
 
 ### Performance issues
 

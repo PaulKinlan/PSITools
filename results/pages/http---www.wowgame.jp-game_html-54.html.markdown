@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.wowgame.jp/game_html/54.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [レストランパニック｜おもしろゲーム｜無料ゲームならワウゲーム](http://www.wowgame.jp/game_html/54.html)
 
@@ -29,9 +35,6 @@ title: http://www.wowgame.jp/game_html/54.html
 *  JS Response Bytes: 2229053
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 101997
-
-### Performance issues
-
 
 ### Performance issues
 

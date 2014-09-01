@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.noteflight.com/login
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Noteflight - Online Music Notation Software](http://www.noteflight.com/login)
 
@@ -29,9 +32,6 @@ title: http://www.noteflight.com/login
 *  JS Response Bytes: 1220414
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 753
-
-### Performance issues
-
 
 ### Performance issues
 

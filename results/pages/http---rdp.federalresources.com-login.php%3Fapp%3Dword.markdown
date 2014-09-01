@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://rdp.federalresources.com/login.php?app=word
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [wApp Login](http://rdp.federalresources.com/login.php?app=word)
 
@@ -29,9 +33,6 @@ title: http://rdp.federalresources.com/login.php?app=word
 *  JS Response Bytes: 391629
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 71
-
-### Performance issues
-
 
 ### Performance issues
 

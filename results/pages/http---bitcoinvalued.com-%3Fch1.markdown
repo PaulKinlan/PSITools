@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://bitcoinvalued.com/?ch1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bitcoin Value Today | BitcoinValued.com](http://bitcoinvalued.com/?ch1)
 
@@ -29,9 +33,6 @@ title: http://bitcoinvalued.com/?ch1
 *  JS Response Bytes: 1487859
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 45514
-
-### Performance issues
-
 
 ### Performance issues
 

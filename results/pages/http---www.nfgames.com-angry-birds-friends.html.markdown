@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.nfgames.com/angry-birds-friends.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Friends | NF Games](http://www.nfgames.com/angry-birds-friends.html)
 
@@ -29,9 +36,6 @@ title: http://www.nfgames.com/angry-birds-friends.html
 *  JS Response Bytes: 1693387
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102963
-
-### Performance issues
-
 
 ### Performance issues
 

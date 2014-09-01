@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.truenorthmechanical.com/
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [Electrical Services And Plumbing Services In The Wilmington NC Area](http://m.truenorthmechanical.com/)
 
@@ -29,9 +31,6 @@ title: http://m.truenorthmechanical.com/
 *  JS Response Bytes: 805
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 515
-
-### Performance issues
-
 
 ### Performance issues
 

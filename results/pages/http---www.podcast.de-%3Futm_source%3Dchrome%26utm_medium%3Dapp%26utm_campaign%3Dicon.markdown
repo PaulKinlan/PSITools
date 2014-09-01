@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.podcast.de/?utm_source=chrome&utm_medium=app&utm_campaign=icon
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Podcast-Verzeichnis mit MP3s + Videos - podcast.de hat Videopodcasts, Downloads, Hörbücher + Hörspiele](http://www.podcast.de/?utm_source=chrome&utm_medium=app&utm_campaign=icon)
 
@@ -29,9 +33,6 @@ title: http://www.podcast.de/?utm_source=chrome&utm_medium=app&utm_campaign=icon
 *  JS Response Bytes: 1988188
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 147549
-
-### Performance issues
-
 
 ### Performance issues
 

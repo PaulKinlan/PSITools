@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.terrypower.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Local Greensboro Search Marketing - SEO for small businesses (336) 310-9322](http://www.terrypower.com/)
 
@@ -29,9 +31,6 @@ title: http://www.terrypower.com/
 *  JS Response Bytes: 343821
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

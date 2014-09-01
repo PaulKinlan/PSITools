@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.monitems.com/en/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Monitems](http://www.monitems.com/en/)
 
@@ -29,9 +33,6 @@ title: http://www.monitems.com/en/
 *  JS Response Bytes: 346868
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 273
-
-### Performance issues
-
 
 ### Performance issues
 

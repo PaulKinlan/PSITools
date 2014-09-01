@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.aeriagames.com/playnow/ddtus
+AvoidLandingPageRedirects: true
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [DDTank - Free Online Browser-based Game at Aeria Games](http://www.aeriagames.com/playnow/ddtus)
 
@@ -29,9 +32,6 @@ title: http://www.aeriagames.com/playnow/ddtus
 *  JS Response Bytes: 564875
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2047
-
-### Performance issues
-
 
 ### Performance issues
 

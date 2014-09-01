@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.elementi.ws/gcalendarcleaner/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Calendar Cleaner for Google Calendar™](http://www.elementi.ws/gcalendarcleaner/)
 
@@ -29,9 +32,6 @@ title: http://www.elementi.ws/gcalendarcleaner/
 *  JS Response Bytes: 3081
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

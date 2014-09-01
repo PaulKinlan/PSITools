@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://mail.zmailcloud.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [zMailCloud Web Client Log In](https://mail.zmailcloud.com/)
 
@@ -29,9 +32,6 @@ title: https://mail.zmailcloud.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 914
-
-### Performance issues
-
 
 ### Performance issues
 

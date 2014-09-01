@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/siege-hero/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Siege Hero Game — Sultans of Game](http://www.sultansofgame.com/games/siege-hero/)
 
@@ -29,9 +34,6 @@ title: http://www.sultansofgame.com/games/siege-hero/
 *  JS Response Bytes: 1740401
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 126645
-
-### Performance issues
-
 
 ### Performance issues
 

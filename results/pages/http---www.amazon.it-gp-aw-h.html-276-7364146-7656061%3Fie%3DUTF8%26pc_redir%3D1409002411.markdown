@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.amazon.it/gp/aw/h.html/276-7364146-7656061?ie=UTF8&pc_redir=1409002411
+AvoidLandingPageRedirects: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Amazon](http://www.amazon.it/gp/aw/h.html/276-7364146-7656061?ie=UTF8&pc_redir=1409002411)
 
@@ -29,9 +32,6 @@ title: http://www.amazon.it/gp/aw/h.html/276-7364146-7656061?ie=UTF8&pc_redir=14
 *  JS Response Bytes: 392419
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1666
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://akama.ch/webapps/ted-soundboard/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [ted-soundboard movie teddy html5](http://akama.ch/webapps/ted-soundboard/)
 
@@ -29,9 +33,6 @@ title: http://akama.ch/webapps/ted-soundboard/
 *  JS Response Bytes: 550668
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15506
-
-### Performance issues
-
 
 ### Performance issues
 

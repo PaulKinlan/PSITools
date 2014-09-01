@@ -1,6 +1,12 @@
 ---
 layout: result
 title: https://gluegent-addressbook.appspot.com/auth.jsp
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sign In](https://gluegent-addressbook.appspot.com/auth.jsp)
 
@@ -29,9 +35,6 @@ title: https://gluegent-addressbook.appspot.com/auth.jsp
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 857
-
-### Performance issues
-
 
 ### Performance issues
 

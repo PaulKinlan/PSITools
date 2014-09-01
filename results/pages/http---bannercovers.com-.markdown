@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://bannercovers.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BannerCovers.com | Facebook Timeline Cover Photos Banner and Images](http://bannercovers.com/)
 
@@ -29,9 +34,6 @@ title: http://bannercovers.com/
 *  JS Response Bytes: 1416097
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28669
-
-### Performance issues
-
 
 ### Performance issues
 

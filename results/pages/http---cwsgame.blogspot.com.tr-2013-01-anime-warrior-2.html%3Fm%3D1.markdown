@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://cwsgame.blogspot.com.tr/2013/01/anime-warrior-2.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Chrome Web Store Games: Anime Warrior 2](http://cwsgame.blogspot.com.tr/2013/01/anime-warrior-2.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://cwsgame.blogspot.com.tr/2013/01/anime-warrior-2.html?m=1
 *  JS Response Bytes: 2396303
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 302606
-
-### Performance issues
-
 
 ### Performance issues
 

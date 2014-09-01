@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://arcadechrome.com/gc/?g=672
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [Type Command Robot](http://arcadechrome.com/gc/?g=672)
 
@@ -29,9 +32,6 @@ title: http://arcadechrome.com/gc/?g=672
 *  JS Response Bytes: 388259
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1471
-
-### Performance issues
-
 
 ### Performance issues
 

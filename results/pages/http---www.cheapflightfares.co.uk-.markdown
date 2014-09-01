@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.cheapflightfares.co.uk/
+MinimizeRenderBlockingResources: true
 ---
 ## [cheapflightfares.co.uk - cheapflightfares Resources and Information.](http://www.cheapflightfares.co.uk/)
 
@@ -29,9 +30,6 @@ title: http://www.cheapflightfares.co.uk/
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

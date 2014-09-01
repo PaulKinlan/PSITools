@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.bestfreegames.co/driving/3d-parking/
+UseLegibleFontSizes: true
 ---
 ## [](http://www.bestfreegames.co/driving/3d-parking/)
 
@@ -29,9 +30,6 @@ title: http://www.bestfreegames.co/driving/3d-parking/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1116
-
-### Performance issues
-
 
 ### Performance issues
 

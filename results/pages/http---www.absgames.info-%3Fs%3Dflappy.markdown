@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.absgames.info/?s=flappy
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online free best games – Search Results – flappy](http://www.absgames.info/?s=flappy)
 
@@ -29,9 +33,6 @@ title: http://www.absgames.info/?s=flappy
 *  JS Response Bytes: 566562
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16515
-
-### Performance issues
-
 
 ### Performance issues
 

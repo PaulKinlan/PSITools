@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://cssgames.com/grand-theft-auto-vice-city.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CSSGames.Com – Grand Theft Auto: Vice City](http://cssgames.com/grand-theft-auto-vice-city.html)
 
@@ -29,9 +35,6 @@ title: http://cssgames.com/grand-theft-auto-vice-city.html
 *  JS Response Bytes: 413262
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 816
-
-### Performance issues
-
 
 ### Performance issues
 

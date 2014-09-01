@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.sapost.blogspot.com/?utm_source=chrome_app&utm_medium=browser&utm_campaign=chrome_app_2&m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
 ---
 ## [SA POST](http://www.sapost.blogspot.com/?utm_source=chrome_app&utm_medium=browser&utm_campaign=chrome_app_2&m=1)
 
@@ -29,9 +32,6 @@ title: http://www.sapost.blogspot.com/?utm_source=chrome_app&utm_medium=browser&
 *  JS Response Bytes: 242545
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 676
-
-### Performance issues
-
 
 ### Performance issues
 

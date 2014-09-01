@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.thegamesarea.com/pyramid-run.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pyramid Run : The Games Area](http://www.thegamesarea.com/pyramid-run.html)
 
@@ -29,9 +34,6 @@ title: http://www.thegamesarea.com/pyramid-run.html
 *  JS Response Bytes: 2080337
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117457
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://lambadan.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Lambadan.net](http://lambadan.net/)
 
@@ -29,9 +33,6 @@ title: http://lambadan.net/
 *  JS Response Bytes: 271150
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 163
-
-### Performance issues
-
 
 ### Performance issues
 

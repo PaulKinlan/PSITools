@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://comarch-cloud.pl/oferta/produkty/optima/
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Comarch ERP Optima w modelu usługowym](http://comarch-cloud.pl/oferta/produkty/optima/)
 
@@ -29,9 +32,6 @@ title: http://comarch-cloud.pl/oferta/produkty/optima/
 *  JS Response Bytes: 40463
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 363
-
-### Performance issues
-
 
 ### Performance issues
 

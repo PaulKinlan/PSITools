@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/game/name/block-story
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [block-story Addicting Games](http://www.2addictinggames.com/games/game/name/block-story)
 
@@ -29,9 +34,6 @@ title: http://www.2addictinggames.com/games/game/name/block-story
 *  JS Response Bytes: 1925213
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97721
-
-### Performance issues
-
 
 ### Performance issues
 

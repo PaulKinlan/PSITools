@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.japanesepod101.com/?src=chromewebstore
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Learn Japanese online. With our podcast, learning Japanese is easy. | JapanesePod101.com](http://www.japanesepod101.com/?src=chromewebstore)
 
@@ -29,9 +33,6 @@ title: http://www.japanesepod101.com/?src=chromewebstore
 *  JS Response Bytes: 598545
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8781
-
-### Performance issues
-
 
 ### Performance issues
 

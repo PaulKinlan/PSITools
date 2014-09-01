@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://essence-eservices.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Home](http://essence-eservices.com/)
 
@@ -29,9 +33,6 @@ title: http://essence-eservices.com/
 *  JS Response Bytes: 1289987
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

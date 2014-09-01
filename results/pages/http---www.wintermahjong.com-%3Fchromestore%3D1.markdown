@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.wintermahjong.com/?chromestore=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Winter Mahjong](http://www.wintermahjong.com/?chromestore=1)
 
@@ -29,9 +34,6 @@ title: http://www.wintermahjong.com/?chromestore=1
 *  JS Response Bytes: 208253
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

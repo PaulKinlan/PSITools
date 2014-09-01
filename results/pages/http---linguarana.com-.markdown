@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://linguarana.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome - Linguarana](http://linguarana.com/)
 
@@ -29,9 +32,6 @@ title: http://linguarana.com/
 *  JS Response Bytes: 1183865
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 154239
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.opzionibinariesw.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Opzioni Binarie SW: Strategie Trading](http://www.opzionibinariesw.com/)
 
@@ -29,9 +32,6 @@ title: http://www.opzionibinariesw.com/
 *  JS Response Bytes: 167096
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16477
-
-### Performance issues
-
 
 ### Performance issues
 

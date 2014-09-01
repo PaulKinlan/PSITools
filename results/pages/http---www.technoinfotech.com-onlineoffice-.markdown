@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.technoinfotech.com/onlineoffice/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Group-Office](http://www.technoinfotech.com/onlineoffice/)
 
@@ -29,9 +33,6 @@ title: http://www.technoinfotech.com/onlineoffice/
 *  JS Response Bytes: 1874762
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

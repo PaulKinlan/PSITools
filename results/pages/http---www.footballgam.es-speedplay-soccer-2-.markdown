@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/speedplay-soccer-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Speedplay Soccer 2 Game](http://www.footballgam.es/speedplay-soccer-2/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/speedplay-soccer-2/
 *  JS Response Bytes: 2296884
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156369
-
-### Performance issues
-
 
 ### Performance issues
 

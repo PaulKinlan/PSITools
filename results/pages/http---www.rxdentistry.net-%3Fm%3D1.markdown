@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.rxdentistry.net/?m=1
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [RxDentistry](http://www.rxdentistry.net/?m=1)
 
@@ -29,9 +36,6 @@ title: http://www.rxdentistry.net/?m=1
 *  JS Response Bytes: 2319265
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 313507
-
-### Performance issues
-
 
 ### Performance issues
 

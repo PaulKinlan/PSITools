@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://marine.geogarage.com/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://marine.geogarage.com/)
 
@@ -29,9 +31,6 @@ title: http://marine.geogarage.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 525
-
-### Performance issues
-
 
 ### Performance issues
 

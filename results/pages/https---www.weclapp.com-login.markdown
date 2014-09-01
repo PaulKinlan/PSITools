@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.weclapp.com/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Seite nicht gefunden](https://www.weclapp.com/login)
 
@@ -18,7 +22,7 @@ title: https://www.weclapp.com/login
 *  Number of JS Resources: 19
 *  Number of CSS Resources: 23
 *  Nubmer of Static Resources: 21
-*  Total Request Bytes: 9652
+*  Total Request Bytes: 9649
 
 ### Response data
 
@@ -26,12 +30,9 @@ title: https://www.weclapp.com/login
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 691610
 *  Image Response Bytes: 36894
-*  JS Response Bytes: 498425
+*  JS Response Bytes: 498420
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 124529
-
-### Performance issues
-
+*  Other Response Bytes: 124525
 
 ### Performance issues
 

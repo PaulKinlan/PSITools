@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesofaddicts.com/popular-games/urban-basketball
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Online Games | Gamesogaddicts.com | Play Most Popular Games Free](http://www.gamesofaddicts.com/popular-games/urban-basketball)
 
@@ -29,9 +34,6 @@ title: http://www.gamesofaddicts.com/popular-games/urban-basketball
 *  JS Response Bytes: 2433405
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 83426
-
-### Performance issues
-
 
 ### Performance issues
 

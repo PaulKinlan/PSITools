@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://phasenkasper.de/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Phasenkasper - Erlebnisse und Erfahrungen aus der Technikwelt](http://phasenkasper.de/)
 
@@ -29,9 +33,6 @@ title: http://phasenkasper.de/
 *  JS Response Bytes: 578501
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

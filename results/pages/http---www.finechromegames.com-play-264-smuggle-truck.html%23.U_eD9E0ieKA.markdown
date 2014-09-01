@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.finechromegames.com/play/264/smuggle-truck.html#.U_eD9E0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Smuggle Truck - finechromegames](http://www.finechromegames.com/play/264/smuggle-truck.html#.U_eD9E0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.finechromegames.com/play/264/smuggle-truck.html#.U_eD9E0ieKA
 *  JS Response Bytes: 1750648
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 49259
-
-### Performance issues
-
 
 ### Performance issues
 

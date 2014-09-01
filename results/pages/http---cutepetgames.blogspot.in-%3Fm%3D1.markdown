@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://cutepetgames.blogspot.in/?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Cute Pet Games](http://cutepetgames.blogspot.in/?m=1)
 
@@ -29,9 +33,6 @@ title: http://cutepetgames.blogspot.in/?m=1
 *  JS Response Bytes: 1379718
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110982
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://momokuro.kjhr.jp/mobile/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ももクロ情報局](http://momokuro.kjhr.jp/mobile/)
 
@@ -29,9 +34,6 @@ title: http://momokuro.kjhr.jp/mobile/
 *  JS Response Bytes: 541376
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30604
-
-### Performance issues
-
 
 ### Performance issues
 

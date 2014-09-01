@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/the-operation-in-the-temple-of-doom/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [The Operation In The Temple Of Doom game](http://www.surgery-games.org/the-operation-in-the-temple-of-doom/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/the-operation-in-the-temple-of-doom/
 *  JS Response Bytes: 2697587
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122263
-
-### Performance issues
-
 
 ### Performance issues
 

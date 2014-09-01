@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://mydelivery.net23.net/dev/Vortex%20Based%20Mathematics/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Vortex Based Mathematics](http://mydelivery.net23.net/dev/Vortex%20Based%20Mathematics/)
 
@@ -29,9 +33,6 @@ title: http://mydelivery.net23.net/dev/Vortex%20Based%20Mathematics/
 *  JS Response Bytes: 205485
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 119626
-
-### Performance issues
-
 
 ### Performance issues
 

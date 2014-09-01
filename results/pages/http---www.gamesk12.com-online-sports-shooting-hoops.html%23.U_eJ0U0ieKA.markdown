@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/sports/shooting-hoops.html#.U_eJ0U0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shooting Hoops Play Shooting Hoops on Gamesk12.com Free Online Games](http://www.gamesk12.com/online/sports/shooting-hoops.html#.U_eJ0U0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.gamesk12.com/online/sports/shooting-hoops.html#.U_eJ0U0ieKA
 *  JS Response Bytes: 1080541
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25771
-
-### Performance issues
-
 
 ### Performance issues
 

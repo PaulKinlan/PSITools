@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.iproperty.com.my/apps
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Download iProperty Apps for your device](http://m.iproperty.com.my/apps)
 
@@ -29,9 +32,6 @@ title: http://m.iproperty.com.my/apps
 *  JS Response Bytes: 157295
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1613
-
-### Performance issues
-
 
 ### Performance issues
 

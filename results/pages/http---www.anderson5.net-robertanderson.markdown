@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.anderson5.net/robertanderson
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Robert Anderson College and Career Academy / Homepage](http://www.anderson5.net/robertanderson)
 
@@ -29,9 +32,6 @@ title: http://www.anderson5.net/robertanderson
 *  JS Response Bytes: 692773
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16005
-
-### Performance issues
-
 
 ### Performance issues
 

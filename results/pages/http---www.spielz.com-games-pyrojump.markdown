@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.spielz.com/games/pyrojump
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [spiele](http://www.spielz.com/games/pyrojump)
 
@@ -29,9 +35,6 @@ title: http://www.spielz.com/games/pyrojump
 *  JS Response Bytes: 1065427
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17019
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://cssgames.com/pou-online-hd.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CSSGames.Com – Pou Online HD](http://cssgames.com/pou-online-hd.html)
 
@@ -29,9 +36,6 @@ title: http://cssgames.com/pou-online-hd.html
 *  JS Response Bytes: 413433
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 803
-
-### Performance issues
-
 
 ### Performance issues
 

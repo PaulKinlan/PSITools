@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://ulextranet.ullink.com/login.jsp;jsessionid=dr4g4JKMdoHXMo0pcoJLjw
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [UL Extranet - Login](https://ulextranet.ullink.com/login.jsp;jsessionid=dr4g4JKMdoHXMo0pcoJLjw)
 
@@ -29,9 +32,6 @@ title: https://ulextranet.ullink.com/login.jsp;jsessionid=dr4g4JKMdoHXMo0pcoJLjw
 *  JS Response Bytes: 151111
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 482
-
-### Performance issues
-
 
 ### Performance issues
 

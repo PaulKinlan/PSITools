@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.navigamer.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [NaViGaMeR - Super Mario Bros, GTA, Sonic, Puzzle Bobble, and much more games](http://www.navigamer.com/)
 
@@ -29,9 +34,6 @@ title: http://www.navigamer.com/
 *  JS Response Bytes: 1637686
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 860304
-
-### Performance issues
-
 
 ### Performance issues
 

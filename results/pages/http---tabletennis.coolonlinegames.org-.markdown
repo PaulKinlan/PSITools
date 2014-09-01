@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://tabletennis.coolonlinegames.org/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Table Tennis - Cool Online Games](http://tabletennis.coolonlinegames.org/)
 
@@ -29,9 +36,6 @@ title: http://tabletennis.coolonlinegames.org/
 *  JS Response Bytes: 891973
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2173
-
-### Performance issues
-
 
 ### Performance issues
 

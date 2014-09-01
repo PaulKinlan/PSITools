@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamgamgame.com/default-category/n-the-way-on-the-ninja
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [N The Way On The Ninja - AV Arcade](http://www.gamgamgame.com/default-category/n-the-way-on-the-ninja)
 
@@ -29,9 +35,6 @@ title: http://www.gamgamgame.com/default-category/n-the-way-on-the-ninja
 *  JS Response Bytes: 2333852
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99514
-
-### Performance issues
-
 
 ### Performance issues
 

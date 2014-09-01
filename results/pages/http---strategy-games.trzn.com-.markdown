@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://strategy-games.trzn.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Strategy Games - Online Strategy & Defense games](http://strategy-games.trzn.com/)
 
@@ -29,9 +32,6 @@ title: http://strategy-games.trzn.com/
 *  JS Response Bytes: 1757800
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 116019
-
-### Performance issues
-
 
 ### Performance issues
 

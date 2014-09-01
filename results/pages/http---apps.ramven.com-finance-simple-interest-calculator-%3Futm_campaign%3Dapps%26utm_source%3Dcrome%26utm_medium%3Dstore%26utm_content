@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://apps.ramven.com/finance/simple-interest-calculator/?utm_campaign=apps&utm_source=crome&utm_medium=store&utm_content=html5&utm_term=sinterest
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Simple Interest Calculator](http://apps.ramven.com/finance/simple-interest-calculator/?utm_campaign=apps&utm_source=crome&utm_medium=store&utm_content=html5&utm_term=sinterest)
 
@@ -29,9 +31,6 @@ title: http://apps.ramven.com/finance/simple-interest-calculator/?utm_campaign=a
 *  JS Response Bytes: 137422
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

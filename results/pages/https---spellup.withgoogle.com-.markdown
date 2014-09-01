@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://spellup.withgoogle.com/
+InlineRenderBlockingCss: true
+ServerResponseTime: true
 ---
 ## [Spell Up](https://spellup.withgoogle.com/)
 
@@ -29,9 +31,6 @@ title: https://spellup.withgoogle.com/
 *  JS Response Bytes: 1319272
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14958
-
-### Performance issues
-
 
 ### Performance issues
 

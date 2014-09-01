@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://xplicitmessenger.domainseasy.org/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Xplicit Messenger](http://xplicitmessenger.domainseasy.org/)
 
@@ -29,9 +32,6 @@ title: http://xplicitmessenger.domainseasy.org/
 *  JS Response Bytes: 430463
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1544
-
-### Performance issues
-
 
 ### Performance issues
 

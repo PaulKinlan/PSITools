@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://abcgames58.blogspot.com/2013/07/angry-gran-run-2.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://abcgames58.blogspot.com/2013/07/angry-gran-run-2.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://abcgames58.blogspot.com/2013/07/angry-gran-run-2.html?m=1
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19280
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://jaymoon.org/rss/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Tiny Tiny RSS : Login](http://jaymoon.org/rss/)
 
@@ -29,9 +33,6 @@ title: http://jaymoon.org/rss/
 *  JS Response Bytes: 801369
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://blade-hunter.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Play Blade Hunter Online](http://blade-hunter.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://blade-hunter.appspot.com/
 *  JS Response Bytes: 730083
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 32601
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/organ-donor-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Organ Donor game](http://www.surgery-games.org/organ-donor-2/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/organ-donor-2/
 *  JS Response Bytes: 2636892
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122102
-
-### Performance issues
-
 
 ### Performance issues
 

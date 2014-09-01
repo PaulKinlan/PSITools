@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.subje.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Subje.com - Live video chat, simple and easy chatroulette.](http://www.subje.com/)
 
@@ -29,9 +34,6 @@ title: http://www.subje.com/
 *  JS Response Bytes: 1318695
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96087
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://seamlessdocs.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [SeamlessDocs](https://seamlessdocs.com/)
 
@@ -29,9 +30,6 @@ title: https://seamlessdocs.com/
 *  JS Response Bytes: 630281
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 66734
-
-### Performance issues
-
 
 ### Performance issues
 

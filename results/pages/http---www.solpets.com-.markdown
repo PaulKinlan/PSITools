@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.solpets.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Solpets](http://www.solpets.com/)
 
@@ -29,9 +33,6 @@ title: http://www.solpets.com/
 *  JS Response Bytes: 1117017
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5200
-
-### Performance issues
-
 
 ### Performance issues
 

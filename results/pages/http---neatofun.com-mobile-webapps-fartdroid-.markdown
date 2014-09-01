@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://neatofun.com/mobile/webapps/fartdroid/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FartDroid - Fart Machine](http://neatofun.com/mobile/webapps/fartdroid/)
 
@@ -29,9 +35,6 @@ title: http://neatofun.com/mobile/webapps/fartdroid/
 *  JS Response Bytes: 445531
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16839
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://pluraclube.com/apps/discovery-other-world-jogo-beta-para-navegador-de-invasao-alienigena/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Discovery Other World, jogo beta para navegador de invasão alienígena | Pluraclube Apps - Jogos e aplicativos gratuítos Android e Web](http://pluraclube.com/apps/discovery-other-world-jogo-beta-para-navegador-de-invasao-alienigena/)
 
@@ -29,9 +34,6 @@ title: http://pluraclube.com/apps/discovery-other-world-jogo-beta-para-navegador
 *  JS Response Bytes: 1225354
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15448
-
-### Performance issues
-
 
 ### Performance issues
 

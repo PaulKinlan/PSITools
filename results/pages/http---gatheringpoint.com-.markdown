@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://gatheringpoint.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [GatheringPoint](http://gatheringpoint.com/)
 
@@ -29,9 +31,6 @@ title: http://gatheringpoint.com/
 *  JS Response Bytes: 1859108
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1388
-
-### Performance issues
-
 
 ### Performance issues
 

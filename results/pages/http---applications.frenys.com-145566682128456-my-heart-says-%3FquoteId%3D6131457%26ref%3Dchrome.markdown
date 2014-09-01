@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://applications.frenys.com/145566682128456-my-heart-says/?quoteId=6131457&ref=chrome
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [♥ My Heart Says](http://applications.frenys.com/145566682128456-my-heart-says/?quoteId=6131457&ref=chrome)
 
@@ -29,9 +33,6 @@ title: http://applications.frenys.com/145566682128456-my-heart-says/?quoteId=613
 *  JS Response Bytes: 691558
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 24420
-
-### Performance issues
-
 
 ### Performance issues
 

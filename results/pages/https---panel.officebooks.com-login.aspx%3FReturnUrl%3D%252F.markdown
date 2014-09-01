@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://panel.officebooks.com/login.aspx?ReturnUrl=%2F
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [OfficeBooks - Login](https://panel.officebooks.com/login.aspx?ReturnUrl=%2F)
 
@@ -29,9 +34,6 @@ title: https://panel.officebooks.com/login.aspx?ReturnUrl=%2F
 *  JS Response Bytes: 1952517
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 60832
-
-### Performance issues
-
 
 ### Performance issues
 

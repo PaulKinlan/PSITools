@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://starbros.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [StarBros Apps Blog](http://starbros.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://starbros.blogspot.com/?m=1
 *  JS Response Bytes: 314297
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 557
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://pichars.org/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Pichars.org](http://pichars.org/)
 
@@ -29,9 +32,6 @@ title: http://pichars.org/
 *  JS Response Bytes: 724379
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1851
-
-### Performance issues
-
 
 ### Performance issues
 

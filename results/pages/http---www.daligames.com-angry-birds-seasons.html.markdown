@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.daligames.com/angry-birds-seasons.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Seasons | Dali Games](http://www.daligames.com/angry-birds-seasons.html)
 
@@ -29,9 +36,6 @@ title: http://www.daligames.com/angry-birds-seasons.html
 *  JS Response Bytes: 1693458
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102586
-
-### Performance issues
-
 
 ### Performance issues
 

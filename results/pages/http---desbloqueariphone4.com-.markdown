@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://desbloqueariphone4.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Desbloquear y liberar iPhone 4](http://desbloqueariphone4.com/)
 
@@ -29,9 +34,6 @@ title: http://desbloqueariphone4.com/
 *  JS Response Bytes: 1267169
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1500
-
-### Performance issues
-
 
 ### Performance issues
 

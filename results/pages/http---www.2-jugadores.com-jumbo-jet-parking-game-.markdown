@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.2-jugadores.com/jumbo-jet-parking/game/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Jumbo Jet Aparcamiento juego](http://www.2-jugadores.com/jumbo-jet-parking/game/)
 
@@ -29,9 +36,6 @@ title: http://www.2-jugadores.com/jumbo-jet-parking/game/
 *  JS Response Bytes: 1886994
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 51796
-
-### Performance issues
-
 
 ### Performance issues
 

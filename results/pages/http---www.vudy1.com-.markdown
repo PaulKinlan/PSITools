@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.vudy1.com/
+AvoidLandingPageRedirects: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Félicitations ! Votre domaine a bien été créé chez OVH !](http://www.vudy1.com/)
 
@@ -18,7 +22,7 @@ title: http://www.vudy1.com/
 *  Number of JS Resources: 0
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 11
-*  Total Request Bytes: 1793
+*  Total Request Bytes: 1787
 
 ### Response data
 
@@ -28,10 +32,7 @@ title: http://www.vudy1.com/
 *  Image Response Bytes: 196455
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 776
-
-### Performance issues
-
+*  Other Response Bytes: 773
 
 ### Performance issues
 

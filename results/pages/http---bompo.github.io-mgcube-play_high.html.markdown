@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://bompo.github.io/mgcube/play_high.html
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [qb - 3d puzzle game](http://bompo.github.io/mgcube/play_high.html)
 
@@ -29,9 +35,6 @@ title: http://bompo.github.io/mgcube/play_high.html
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1098
-
-### Performance issues
-
 
 ### Performance issues
 

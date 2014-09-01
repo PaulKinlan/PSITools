@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.popob.com/bloxorz/#.U_eKVE0ieKA
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bloxorz – PoPoB Game Area](http://www.popob.com/bloxorz/#.U_eKVE0ieKA)
 
@@ -29,9 +33,6 @@ title: http://www.popob.com/bloxorz/#.U_eKVE0ieKA
 *  JS Response Bytes: 1279659
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141706
-
-### Performance issues
-
 
 ### Performance issues
 

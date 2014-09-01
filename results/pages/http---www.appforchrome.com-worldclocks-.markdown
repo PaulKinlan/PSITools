@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.appforchrome.com/worldclocks/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [World Clocks](http://www.appforchrome.com/worldclocks/)
 
@@ -29,9 +35,6 @@ title: http://www.appforchrome.com/worldclocks/
 *  JS Response Bytes: 571465
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

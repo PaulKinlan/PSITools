@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.mcxcontrol.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MCXControl.com - Daily Updates about Commodity Market in India](http://www.mcxcontrol.com/)
 
@@ -29,9 +33,6 @@ title: http://www.mcxcontrol.com/
 *  JS Response Bytes: 1231142
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1196
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://gamematic.net/online-flash-games/adventure-games/fancy-pants/#.U_up2U0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Fancy Pants « Online Flash Game Fancy Pants](http://gamematic.net/online-flash-games/adventure-games/fancy-pants/#.U_up2U0ieKA)
 
@@ -29,9 +35,6 @@ title: http://gamematic.net/online-flash-games/adventure-games/fancy-pants/#.U_u
 *  JS Response Bytes: 1262658
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46803
-
-### Performance issues
-
 
 ### Performance issues
 

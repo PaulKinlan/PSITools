@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.zoho.com/reports/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Reporting and Business Intelligence Service: Zoho Reports](https://www.zoho.com/reports/)
 
@@ -29,9 +34,6 @@ title: https://www.zoho.com/reports/
 *  JS Response Bytes: 1270661
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 59355
-
-### Performance issues
-
 
 ### Performance issues
 

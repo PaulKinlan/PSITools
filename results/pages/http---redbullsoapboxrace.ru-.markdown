@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://redbullsoapboxrace.ru/
+UseLegibleFontSizes: true
 ---
 ## [403 Forbidden](http://redbullsoapboxrace.ru/)
 
@@ -29,9 +30,6 @@ title: http://redbullsoapboxrace.ru/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 522
-
-### Performance issues
-
 
 ### Performance issues
 

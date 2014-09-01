@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.playme.com/ww/iphone/vradio/christmas-songs_1640931?vert=christmas
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Playme Radio](http://www.playme.com/ww/iphone/vradio/christmas-songs_1640931?vert=christmas)
 
@@ -29,9 +32,6 @@ title: http://www.playme.com/ww/iphone/vradio/christmas-songs_1640931?vert=chris
 *  JS Response Bytes: 1618090
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2078
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.buttonbass.com/HipHopCube/HipHopCube.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ButtonBass Hip Hop Cube](http://www.buttonbass.com/HipHopCube/HipHopCube.html)
 
@@ -29,9 +35,6 @@ title: http://www.buttonbass.com/HipHopCube/HipHopCube.html
 *  JS Response Bytes: 1649353
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113297
-
-### Performance issues
-
 
 ### Performance issues
 

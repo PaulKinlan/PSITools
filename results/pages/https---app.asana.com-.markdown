@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://app.asana.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Asana - Log In](https://app.asana.com/)
 
@@ -18,20 +20,17 @@ title: https://app.asana.com/
 *  Number of JS Resources: 10
 *  Number of CSS Resources: 4
 *  Nubmer of Static Resources: 17
-*  Total Request Bytes: 3135
+*  Total Request Bytes: 3575
 
 ### Response data
 
-*  HTML Response Bytes: 8322
+*  HTML Response Bytes: 8356
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 672606
+*  CSS Response Bytes: 672702
 *  Image Response Bytes: 12399
-*  JS Response Bytes: 231184
+*  JS Response Bytes: 231485
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

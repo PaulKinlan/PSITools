@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ramadanapp.weebly.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [RamadanApp - Ramadan Prayers](http://ramadanapp.weebly.com/)
 
@@ -29,9 +33,6 @@ title: http://ramadanapp.weebly.com/
 *  JS Response Bytes: 245676
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43749
-
-### Performance issues
-
 
 ### Performance issues
 

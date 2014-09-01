@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://macbay.dk/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [MacBay](http://macbay.dk/)
 
@@ -29,9 +31,6 @@ title: http://macbay.dk/
 *  JS Response Bytes: 229097
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7721
-
-### Performance issues
-
 
 ### Performance issues
 

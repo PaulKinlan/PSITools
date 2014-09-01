@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://helpwithwords.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Words with Friends Help](http://helpwithwords.com/)
 
@@ -29,9 +33,6 @@ title: http://helpwithwords.com/
 *  JS Response Bytes: 111887
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

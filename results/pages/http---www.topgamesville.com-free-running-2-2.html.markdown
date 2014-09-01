@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.topgamesville.com/free-running-2-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Running 2 : Top Games Ville](http://www.topgamesville.com/free-running-2-2.html)
 
@@ -29,9 +33,6 @@ title: http://www.topgamesville.com/free-running-2-2.html
 *  JS Response Bytes: 3044898
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 184892
-
-### Performance issues
-
 
 ### Performance issues
 

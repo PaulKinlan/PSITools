@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mechalite.com/dat/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Mechalite D.A.T.](http://mechalite.com/dat/)
 
@@ -29,9 +32,6 @@ title: http://mechalite.com/dat/
 *  JS Response Bytes: 1529327
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 874
-
-### Performance issues
-
 
 ### Performance issues
 

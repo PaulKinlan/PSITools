@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://thebestandthenewestonlinegames.blogspot.com/2013/11/endless-war-7.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [The best and the newest online games: Endless War 7](http://thebestandthenewestonlinegames.blogspot.com/2013/11/endless-war-7.html?m=1)
 
@@ -29,9 +34,6 @@ title: http://thebestandthenewestonlinegames.blogspot.com/2013/11/endless-war-7.
 *  JS Response Bytes: 1659457
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96202
-
-### Performance issues
-
 
 ### Performance issues
 

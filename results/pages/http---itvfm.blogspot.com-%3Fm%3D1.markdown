@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://itvfm.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Redirecting](http://itvfm.blogspot.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://itvfm.blogspot.com/?m=1
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15087
-
-### Performance issues
-
 
 ### Performance issues
 

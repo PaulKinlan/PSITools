@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://phandroid.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Android News & Reviews - Phandroid.com](http://phandroid.com/)
 
@@ -29,9 +33,6 @@ title: http://phandroid.com/
 *  JS Response Bytes: 846904
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19327
-
-### Performance issues
-
 
 ### Performance issues
 

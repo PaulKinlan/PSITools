@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamechrome.biz/uncategorized/counter-strike/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Counter Strike | Game Chrome](http://www.gamechrome.biz/uncategorized/counter-strike/)
 
@@ -29,9 +34,6 @@ title: http://www.gamechrome.biz/uncategorized/counter-strike/
 *  JS Response Bytes: 881402
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5716
-
-### Performance issues
-
 
 ### Performance issues
 

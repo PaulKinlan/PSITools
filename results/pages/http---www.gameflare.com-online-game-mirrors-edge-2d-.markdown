@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameflare.com/online-game/mirrors-edge-2d/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mirrors Edge 2D - online game | GameFlare.com](http://www.gameflare.com/online-game/mirrors-edge-2d/)
 
@@ -29,9 +34,6 @@ title: http://www.gameflare.com/online-game/mirrors-edge-2d/
 *  JS Response Bytes: 2028892
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 304702
-
-### Performance issues
-
 
 ### Performance issues
 

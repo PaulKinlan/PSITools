@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.private-joe.com/
+SizeTapTargetsAppropriately: true
 ---
 ## [Private-Joe.com: The Leading Private Joe Site on the Net](http://www.private-joe.com/)
 
@@ -29,9 +30,6 @@ title: http://www.private-joe.com/
 *  JS Response Bytes: 250887
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

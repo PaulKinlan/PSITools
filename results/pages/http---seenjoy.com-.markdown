@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://seenjoy.com/
+UseLegibleFontSizes: true
 ---
 ## [Site Not Found](http://seenjoy.com/)
 
@@ -29,9 +30,6 @@ title: http://seenjoy.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 297
-
-### Performance issues
-
 
 ### Performance issues
 

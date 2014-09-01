@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.webkasta.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Webkasta Information Technology Solutions | Home | Your IT Solutions Prpvider](http://www.webkasta.com/)
 
@@ -29,9 +32,6 @@ title: http://www.webkasta.com/
 *  JS Response Bytes: 508452
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20579
-
-### Performance issues
-
 
 ### Performance issues
 

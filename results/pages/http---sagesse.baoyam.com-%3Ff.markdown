@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://sagesse.baoyam.com/?f
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [baoyam.com](http://sagesse.baoyam.com/?f)
 
@@ -18,20 +20,17 @@ title: http://sagesse.baoyam.com/?f
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 13
-*  Total Request Bytes: 2012
+*  Total Request Bytes: 2011
 
 ### Response data
 
-*  HTML Response Bytes: 56630
+*  HTML Response Bytes: 57246
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 53863
 *  JS Response Bytes: 1768
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 361
-
-### Performance issues
-
 
 ### Performance issues
 

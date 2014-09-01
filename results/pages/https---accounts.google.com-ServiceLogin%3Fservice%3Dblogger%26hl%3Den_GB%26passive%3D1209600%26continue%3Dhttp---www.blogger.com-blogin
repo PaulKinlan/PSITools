@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://accounts.google.com/ServiceLogin?service=blogger&hl=en_GB&passive=1209600&continue=http://www.blogger.com/blogin.g?blogspotURL%3Dhttp://vportnov-test-web-store.blogspot.com/?m%253D1%26zx%3Dbe4yv5oveoxu&ltmpl=private
+AvoidLandingPageRedirects: true
 ---
 ## [Blogger](https://accounts.google.com/ServiceLogin?service=blogger&hl=en_GB&passive=1209600&continue=http://www.blogger.com/blogin.g?blogspotURL%3Dhttp://vportnov-test-web-store.blogspot.com/?m%253D1%26zx%3Dbe4yv5oveoxu&ltmpl=private)
 
@@ -29,9 +30,6 @@ title: https://accounts.google.com/ServiceLogin?service=blogger&hl=en_GB&passive
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 52556
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gamesgator.com/downhill-jam/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Downhill Jam](http://www.gamesgator.com/downhill-jam/)
 
@@ -29,9 +36,6 @@ title: http://www.gamesgator.com/downhill-jam/
 *  JS Response Bytes: 1034703
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 89869
-
-### Performance issues
-
 
 ### Performance issues
 

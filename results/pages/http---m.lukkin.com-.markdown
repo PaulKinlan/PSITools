@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.lukkin.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Lukkin](http://m.lukkin.com/)
 
@@ -29,9 +33,6 @@ title: http://m.lukkin.com/
 *  JS Response Bytes: 985775
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2485
-
-### Performance issues
-
 
 ### Performance issues
 

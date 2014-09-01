@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.nergames.pw/?s=Modern+Combat+5+Blackout
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Modern Combat 5 Blackout – Search Results – Online Best Games](http://www.nergames.pw/?s=Modern+Combat+5+Blackout)
 
@@ -29,9 +34,6 @@ title: http://www.nergames.pw/?s=Modern+Combat+5+Blackout
 *  JS Response Bytes: 718335
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

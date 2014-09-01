@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://facebridge.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Website is offline | 522: Connection timed out](http://facebridge.net/)
 
@@ -29,9 +31,6 @@ title: http://facebridge.net/
 *  JS Response Bytes: 32931
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6734
-
-### Performance issues
-
 
 ### Performance issues
 

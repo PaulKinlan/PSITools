@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.games27.com/clash-of-clans.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Clash Of Clans | Games 27](http://www.games27.com/clash-of-clans.html)
 
@@ -29,9 +37,6 @@ title: http://www.games27.com/clash-of-clans.html
 *  JS Response Bytes: 1529383
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98532
-
-### Performance issues
-
 
 ### Performance issues
 

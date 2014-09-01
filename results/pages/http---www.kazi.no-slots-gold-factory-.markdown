@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.kazi.no/slots/gold-factory/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gold factory @ Kazi.noKazi.no](http://www.kazi.no/slots/gold-factory/)
 
@@ -29,9 +35,6 @@ title: http://www.kazi.no/slots/gold-factory/
 *  JS Response Bytes: 1164831
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 141017
-
-### Performance issues
-
 
 ### Performance issues
 

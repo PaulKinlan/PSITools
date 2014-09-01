@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://elmaleka.hooxs.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [الملكه](http://elmaleka.hooxs.com/)
 
@@ -29,9 +32,6 @@ title: http://elmaleka.hooxs.com/
 *  JS Response Bytes: 721554
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 20999
-
-### Performance issues
-
 
 ### Performance issues
 

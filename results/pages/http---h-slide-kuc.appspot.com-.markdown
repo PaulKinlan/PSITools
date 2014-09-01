@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://h-slide-kuc.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
 ---
 ## [Kuc.Slide-h for tumblr](http://h-slide-kuc.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://h-slide-kuc.appspot.com/
 *  JS Response Bytes: 453906
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6528
-
-### Performance issues
-
 
 ### Performance issues
 

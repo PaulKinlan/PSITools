@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://game3235.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [game3235](http://game3235.blogspot.com/?m=1)
 
@@ -22,16 +23,13 @@ title: http://game3235.blogspot.com/?m=1
 
 ### Response data
 
-*  HTML Response Bytes: 56600
+*  HTML Response Bytes: 56601
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 21448
-*  Image Response Bytes: 5488
-*  JS Response Bytes: 314320
+*  CSS Response Bytes: 21447
+*  Image Response Bytes: 5487
+*  JS Response Bytes: 314381
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 559
-
-### Performance issues
-
 
 ### Performance issues
 

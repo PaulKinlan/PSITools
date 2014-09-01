@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://voxsupinc.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Voxsup – 4Cinsights.com](http://voxsupinc.com/)
 
@@ -29,9 +31,6 @@ title: http://voxsupinc.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43453
-
-### Performance issues
-
 
 ### Performance issues
 

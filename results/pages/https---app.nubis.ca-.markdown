@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://app.nubis.ca/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Log in/Register](https://app.nubis.ca/)
 
@@ -29,9 +33,6 @@ title: https://app.nubis.ca/
 *  JS Response Bytes: 171275
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1384
-
-### Performance issues
-
 
 ### Performance issues
 

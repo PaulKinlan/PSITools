@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://guitartuner.guitarstringsforlife.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://guitartuner.guitarstringsforlife.com/)
 
@@ -29,9 +34,6 @@ title: http://guitartuner.guitarstringsforlife.com/
 *  JS Response Bytes: 58674
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

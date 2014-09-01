@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://blogblogs.com/#!/all
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Blogblogs](http://blogblogs.com/#!/all)
 
@@ -29,9 +32,6 @@ title: http://blogblogs.com/#!/all
 *  JS Response Bytes: 1423843
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 182912
-
-### Performance issues
-
 
 ### Performance issues
 

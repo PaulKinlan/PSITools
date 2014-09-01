@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.bizidog.pt/Mobile.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [bizidog](http://www.bizidog.pt/Mobile.aspx)
 
@@ -29,9 +32,6 @@ title: http://www.bizidog.pt/Mobile.aspx
 *  JS Response Bytes: 1876940
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 653
-
-### Performance issues
-
 
 ### Performance issues
 

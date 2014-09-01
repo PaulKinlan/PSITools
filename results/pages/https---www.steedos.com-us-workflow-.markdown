@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.steedos.com/us/workflow/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [oWorkflow - SteedOS.com](https://www.steedos.com/us/workflow/)
 
@@ -29,9 +33,6 @@ title: https://www.steedos.com/us/workflow/
 *  JS Response Bytes: 662123
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 602
-
-### Performance issues
-
 
 ### Performance issues
 

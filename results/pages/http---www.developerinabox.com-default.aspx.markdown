@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.developerinabox.com/default.aspx
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SQLCMS - A CMS for SQL Server databases that you or your clients can use!](http://www.developerinabox.com/default.aspx)
 
@@ -29,9 +34,6 @@ title: http://www.developerinabox.com/default.aspx
 *  JS Response Bytes: 731210
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 855
-
-### Performance issues
-
 
 ### Performance issues
 

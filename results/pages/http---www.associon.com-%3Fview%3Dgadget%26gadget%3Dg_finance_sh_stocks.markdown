@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.associon.com/?view=gadget&gadget=g_finance_sh_stocks
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ASSOCION | GADGET : G.Finance - Shanghai Stocks (Real-time)](http://www.associon.com/?view=gadget&gadget=g_finance_sh_stocks)
 
@@ -29,9 +32,6 @@ title: http://www.associon.com/?view=gadget&gadget=g_finance_sh_stocks
 *  JS Response Bytes: 3273332
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 212076
-
-### Performance issues
-
 
 ### Performance issues
 

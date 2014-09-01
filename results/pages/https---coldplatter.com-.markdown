@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://coldplatter.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Coldplatter Consulting : We make the web.](https://coldplatter.com/)
 
@@ -29,9 +31,6 @@ title: https://coldplatter.com/
 *  JS Response Bytes: 152945
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 46505
-
-### Performance issues
-
 
 ### Performance issues
 

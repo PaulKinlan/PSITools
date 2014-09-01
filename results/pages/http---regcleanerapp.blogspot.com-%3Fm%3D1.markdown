@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://regcleanerapp.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Registry Cleaner](http://regcleanerapp.blogspot.com/?m=1)
 
@@ -29,9 +30,6 @@ title: http://regcleanerapp.blogspot.com/?m=1
 *  JS Response Bytes: 314963
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 565
-
-### Performance issues
-
 
 ### Performance issues
 

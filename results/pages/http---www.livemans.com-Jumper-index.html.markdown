@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.livemans.com/Jumper/index.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Jumper](http://www.livemans.com/Jumper/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.livemans.com/Jumper/index.html
 *  JS Response Bytes: 465305
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

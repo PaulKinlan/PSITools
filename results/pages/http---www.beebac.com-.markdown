@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.beebac.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Beebac - Social School](http://www.beebac.com/)
 
@@ -29,9 +32,6 @@ title: http://www.beebac.com/
 *  JS Response Bytes: 965120
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

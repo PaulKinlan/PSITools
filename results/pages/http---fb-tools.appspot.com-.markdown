@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://fb-tools.appspot.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FB-Photos Tools - Facebook Tools](http://fb-tools.appspot.com/)
 
@@ -29,9 +33,6 @@ title: http://fb-tools.appspot.com/
 *  JS Response Bytes: 2493055
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 310526
-
-### Performance issues
-
 
 ### Performance issues
 

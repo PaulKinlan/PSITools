@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.aspec.com/login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sales Methodology Software Tool - ASPEC Cloud | SalesWays](https://www.aspec.com/login)
 
@@ -29,9 +33,6 @@ title: https://www.aspec.com/login
 *  JS Response Bytes: 831858
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1741
-
-### Performance issues
-
 
 ### Performance issues
 

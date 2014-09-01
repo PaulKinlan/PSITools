@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gigalb.com/
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gigalb - The Journey of me Finding My dreams » And Finding My Wife LOL](http://gigalb.com/)
 
@@ -29,9 +32,6 @@ title: http://gigalb.com/
 *  JS Response Bytes: 100946
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 379
-
-### Performance issues
-
 
 ### Performance issues
 

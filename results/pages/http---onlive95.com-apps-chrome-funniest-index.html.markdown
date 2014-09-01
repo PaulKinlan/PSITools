@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://onlive95.com/apps/chrome/funniest/index.html
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [OnLive95.com Watch Daily Doze of funniest, hottest, cutest and most shocking videos](http://onlive95.com/apps/chrome/funniest/index.html)
 
@@ -29,9 +32,6 @@ title: http://onlive95.com/apps/chrome/funniest/index.html
 *  JS Response Bytes: 1786689
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 405834
-
-### Performance issues
-
 
 ### Performance issues
 

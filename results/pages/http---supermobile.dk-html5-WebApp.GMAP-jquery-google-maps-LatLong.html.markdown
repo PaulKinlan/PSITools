@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://supermobile.dk/html5/WebApp.GMAP/jquery-google-maps-LatLong.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [WGS84](http://supermobile.dk/html5/WebApp.GMAP/jquery-google-maps-LatLong.html)
 
@@ -29,9 +33,6 @@ title: http://supermobile.dk/html5/WebApp.GMAP/jquery-google-maps-LatLong.html
 *  JS Response Bytes: 692517
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54202
-
-### Performance issues
-
 
 ### Performance issues
 

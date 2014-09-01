@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.shwari.com/biashara/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Shwari dot com](http://www.shwari.com/biashara/)
 
@@ -29,9 +35,6 @@ title: http://www.shwari.com/biashara/
 *  JS Response Bytes: 438795
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14508
-
-### Performance issues
-
 
 ### Performance issues
 

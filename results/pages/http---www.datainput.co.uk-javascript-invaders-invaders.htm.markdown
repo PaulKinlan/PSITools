@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.datainput.co.uk/javascript/invaders/invaders.htm
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Space Invaders](http://www.datainput.co.uk/javascript/invaders/invaders.htm)
 
@@ -29,9 +32,6 @@ title: http://www.datainput.co.uk/javascript/invaders/invaders.htm
 *  JS Response Bytes: 143165
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

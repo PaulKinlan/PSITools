@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.pidginhost.com/en
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [PidginHost: Dedicated Server, Cloud Hosting & Managed Hosting](https://www.pidginhost.com/en)
 
@@ -29,9 +33,6 @@ title: https://www.pidginhost.com/en
 *  JS Response Bytes: 638004
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 74399
-
-### Performance issues
-
 
 ### Performance issues
 

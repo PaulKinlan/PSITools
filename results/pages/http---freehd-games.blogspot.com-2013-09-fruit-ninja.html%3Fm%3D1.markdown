@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://freehd-games.blogspot.com/2013/09/fruit-ninja.html?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free online web games: Fruit Ninja](http://freehd-games.blogspot.com/2013/09/fruit-ninja.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://freehd-games.blogspot.com/2013/09/fruit-ninja.html?m=1
 *  JS Response Bytes: 1533289
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 140105
-
-### Performance issues
-
 
 ### Performance issues
 

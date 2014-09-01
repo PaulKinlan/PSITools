@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.dotoneapps.com/funtest/
+MinimizeRenderBlockingResources: true
 ---
 ## [심리테스트](http://www.dotoneapps.com/funtest/)
 
@@ -29,9 +30,6 @@ title: http://www.dotoneapps.com/funtest/
 *  JS Response Bytes: 20897
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1078
-
-### Performance issues
-
 
 ### Performance issues
 

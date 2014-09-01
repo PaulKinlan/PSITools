@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.securegrc.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [eGestalt Aegify - Continuous Security and Compliance](https://www.securegrc.com/)
 
@@ -29,9 +34,6 @@ title: https://www.securegrc.com/
 *  JS Response Bytes: 679062
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15417
-
-### Performance issues
-
 
 ### Performance issues
 

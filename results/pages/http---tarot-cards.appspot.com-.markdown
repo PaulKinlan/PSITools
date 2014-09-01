@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://tarot-cards.appspot.com/
+MinimizeRenderBlockingResources: true
 ---
 ## [Tarot cards](http://tarot-cards.appspot.com/)
 
@@ -29,9 +30,6 @@ title: http://tarot-cards.appspot.com/
 *  JS Response Bytes: 135162
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

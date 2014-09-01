@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ualg.pt/home/pt#_=_
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bem-vindo a Universidade do Algarve | Universidade do Algarve](http://www.ualg.pt/home/pt#_=_)
 
@@ -29,9 +33,6 @@ title: http://www.ualg.pt/home/pt#_=_
 *  JS Response Bytes: 255316
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1105
-
-### Performance issues
-
 
 ### Performance issues
 

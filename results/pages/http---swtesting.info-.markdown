@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://swtesting.info/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [swtesting.info - Index](http://swtesting.info/)
 
@@ -29,9 +35,6 @@ title: http://swtesting.info/
 *  JS Response Bytes: 899915
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 822
-
-### Performance issues
-
 
 ### Performance issues
 

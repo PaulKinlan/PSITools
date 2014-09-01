@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/760150/?autoAction=true&sId=Chrome_Webstore_Nov12_760150
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download The Tiny Bang Story for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/760150/?autoAction=true&sId=Chrome_Webstore_Nov12_760150)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/760150/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1437816
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30772
-
-### Performance issues
-
 
 ### Performance issues
 

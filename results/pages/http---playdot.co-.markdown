@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://playdot.co/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Play Games Online | Playdot](http://playdot.co/)
 
@@ -29,9 +31,6 @@ title: http://playdot.co/
 *  JS Response Bytes: 757666
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15510
-
-### Performance issues
-
 
 ### Performance issues
 

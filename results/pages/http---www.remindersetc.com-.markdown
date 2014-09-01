@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.remindersetc.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Reminders etc.](http://www.remindersetc.com/)
 
@@ -29,9 +34,6 @@ title: http://www.remindersetc.com/
 *  JS Response Bytes: 267824
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

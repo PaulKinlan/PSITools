@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gokiu.com/game/dora-mega-memory-11
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dora Mega Memory Game - Gokiu](http://www.gokiu.com/game/dora-mega-memory-11)
 
@@ -29,9 +33,6 @@ title: http://www.gokiu.com/game/dora-mega-memory-11
 *  JS Response Bytes: 608322
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17437
-
-### Performance issues
-
 
 ### Performance issues
 

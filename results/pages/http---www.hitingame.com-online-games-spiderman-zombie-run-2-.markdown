@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.hitingame.com/online-games/spiderman-zombie-run-2/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Spiderman Zombie Run 2 « Online Flash Games – Popular Flash Games](http://www.hitingame.com/online-games/spiderman-zombie-run-2/)
 
@@ -29,9 +37,6 @@ title: http://www.hitingame.com/online-games/spiderman-zombie-run-2/
 *  JS Response Bytes: 1227933
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 61401
-
-### Performance issues
-
 
 ### Performance issues
 

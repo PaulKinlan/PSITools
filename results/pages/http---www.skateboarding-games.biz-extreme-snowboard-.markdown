@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/extreme-snowboard/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Extreme Snowboard game](http://www.skateboarding-games.biz/extreme-snowboard/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/extreme-snowboard/
 *  JS Response Bytes: 2123627
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122377
-
-### Performance issues
-
 
 ### Performance issues
 

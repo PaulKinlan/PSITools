@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.groovesharkdownload.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Grooveshark Downloader - The Ultimate Chrome Extension for Downloading Songs](http://www.groovesharkdownload.net/)
 
@@ -29,9 +33,6 @@ title: http://www.groovesharkdownload.net/
 *  JS Response Bytes: 656549
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2204
-
-### Performance issues
-
 
 ### Performance issues
 

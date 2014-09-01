@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gameboysite.com/chrome/944.html#.U_uuo00ieKA
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Break Wall - free flash game,flash game,small game,online flash game](http://www.gameboysite.com/chrome/944.html#.U_uuo00ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.gameboysite.com/chrome/944.html#.U_uuo00ieKA
 *  JS Response Bytes: 918905
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7965
-
-### Performance issues
-
 
 ### Performance issues
 

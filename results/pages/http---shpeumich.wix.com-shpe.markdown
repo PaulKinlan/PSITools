@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://shpeumich.wix.com/shpe
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [SHPE at University of Michigan](http://shpeumich.wix.com/shpe)
 
@@ -29,9 +34,6 @@ title: http://shpeumich.wix.com/shpe
 *  JS Response Bytes: 4200622
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 26049
-
-### Performance issues
-
 
 ### Performance issues
 

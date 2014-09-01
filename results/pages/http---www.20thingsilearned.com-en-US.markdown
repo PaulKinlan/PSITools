@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.20thingsilearned.com/en-US
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/en-US)
 
@@ -29,9 +36,6 @@ title: http://www.20thingsilearned.com/en-US
 *  JS Response Bytes: 732574
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 7992
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://onlinegamesplaynew.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [New Online Games Play](http://onlinegamesplaynew.blogspot.com/?m=1)
 
@@ -18,20 +19,17 @@ title: http://onlinegamesplaynew.blogspot.com/?m=1
 *  Number of JS Resources: 9
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 13
-*  Total Request Bytes: 3669
+*  Total Request Bytes: 3667
 
 ### Response data
 
-*  HTML Response Bytes: 60461
+*  HTML Response Bytes: 60462
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 21448
 *  Image Response Bytes: 19271
-*  JS Response Bytes: 596079
+*  JS Response Bytes: 596073
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2975
-
-### Performance issues
-
 
 ### Performance issues
 

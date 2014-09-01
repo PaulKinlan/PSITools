@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://bestchromefregames.blogspot.com/2013/08/bad-boys-2.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Free games, online card games, casino games, flash games: Bad Boys 2](http://bestchromefregames.blogspot.com/2013/08/bad-boys-2.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://bestchromefregames.blogspot.com/2013/08/bad-boys-2.html?m=1
 *  JS Response Bytes: 1590127
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99222
-
-### Performance issues
-
 
 ### Performance issues
 

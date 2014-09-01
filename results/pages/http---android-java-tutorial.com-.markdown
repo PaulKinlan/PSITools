@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://android-java-tutorial.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Android Java Tutorial | A Java Tutorial Using the Android Platform](http://android-java-tutorial.com/)
 
@@ -29,9 +33,6 @@ title: http://android-java-tutorial.com/
 *  JS Response Bytes: 238419
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 211
-
-### Performance issues
-
 
 ### Performance issues
 

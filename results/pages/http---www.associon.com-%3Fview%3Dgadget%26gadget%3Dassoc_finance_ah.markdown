@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.associon.com/?view=gadget&gadget=assoc_finance_ah
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ASSOCION | GADGET : Assoc Finance - A + H Shares](http://www.associon.com/?view=gadget&gadget=assoc_finance_ah)
 
@@ -29,9 +32,6 @@ title: http://www.associon.com/?view=gadget&gadget=assoc_finance_ah
 *  JS Response Bytes: 2737475
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 212273
-
-### Performance issues
-
 
 ### Performance issues
 

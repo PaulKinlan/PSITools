@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://sg.kink.jp/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [勝手に物語|空想科学|冒険活劇|古代](http://sg.kink.jp/)
 
@@ -29,9 +33,6 @@ title: http://sg.kink.jp/
 *  JS Response Bytes: 389526
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 678
-
-### Performance issues
-
 
 ### Performance issues
 

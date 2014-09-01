@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.associon.com/?view=gadget&gadget=assoc_finance_currency_indexes
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ASSOCION | GADGET : Assoc Finance - DIY Forex Indexes](http://www.associon.com/?view=gadget&gadget=assoc_finance_currency_indexes)
 
@@ -29,9 +32,6 @@ title: http://www.associon.com/?view=gadget&gadget=assoc_finance_currency_indexe
 *  JS Response Bytes: 3120203
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 211870
-
-### Performance issues
-
 
 ### Performance issues
 

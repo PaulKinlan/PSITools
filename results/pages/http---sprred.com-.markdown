@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://sprred.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [sprred.com](http://sprred.com/)
 
@@ -29,9 +31,6 @@ title: http://sprred.com/
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

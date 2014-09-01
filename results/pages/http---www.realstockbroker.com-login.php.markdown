@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.realstockbroker.com/login.php
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [REALSTOCKBROKER.COM](http://www.realstockbroker.com/login.php)
 
@@ -29,9 +31,6 @@ title: http://www.realstockbroker.com/login.php
 *  JS Response Bytes: 219745
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

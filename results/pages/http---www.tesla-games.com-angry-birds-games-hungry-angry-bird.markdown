@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.tesla-games.com/angry-birds-games/hungry-angry-bird
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Playing Hungry Angry Bird - Games - Play Free Online Games at Tesla Games](http://www.tesla-games.com/angry-birds-games/hungry-angry-bird)
 
@@ -29,9 +35,6 @@ title: http://www.tesla-games.com/angry-birds-games/hungry-angry-bird
 *  JS Response Bytes: 1312577
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1680
-
-### Performance issues
-
 
 ### Performance issues
 

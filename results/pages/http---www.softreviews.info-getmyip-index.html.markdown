@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.softreviews.info/getmyip/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Get My Computer Internet IP Address](http://www.softreviews.info/getmyip/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.softreviews.info/getmyip/index.html
 *  JS Response Bytes: 913669
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112860
-
-### Performance issues
-
 
 ### Performance issues
 

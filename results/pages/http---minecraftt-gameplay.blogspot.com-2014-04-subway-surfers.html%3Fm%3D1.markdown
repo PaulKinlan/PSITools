@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://minecraftt-gameplay.blogspot.com/2014/04/subway-surfers.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
 ---
 ## [minecraft download best of chrome game: Subway Surfers](http://minecraftt-gameplay.blogspot.com/2014/04/subway-surfers.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://minecraftt-gameplay.blogspot.com/2014/04/subway-surfers.html?m=1
 *  JS Response Bytes: 720854
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95595
-
-### Performance issues
-
 
 ### Performance issues
 

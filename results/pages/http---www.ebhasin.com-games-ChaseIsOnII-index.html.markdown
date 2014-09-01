@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.ebhasin.com/games/ChaseIsOnII/index.html
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chase Is On-II -::- Bhasinsoft](http://www.ebhasin.com/games/ChaseIsOnII/index.html)
 
@@ -29,9 +34,6 @@ title: http://www.ebhasin.com/games/ChaseIsOnII/index.html
 *  JS Response Bytes: 1373266
 *  Flash Response Bytes: 676206
 *  Other Response Bytes: 110926
-
-### Performance issues
-
 
 ### Performance issues
 

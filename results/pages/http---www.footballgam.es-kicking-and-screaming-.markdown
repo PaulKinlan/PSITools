@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/kicking-and-screaming/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kicking And Screaming Game](http://www.footballgam.es/kicking-and-screaming/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/kicking-and-screaming/
 *  JS Response Bytes: 2460646
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 142989
-
-### Performance issues
-
 
 ### Performance issues
 

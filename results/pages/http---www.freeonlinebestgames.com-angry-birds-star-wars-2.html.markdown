@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.freeonlinebestgames.com/angry-birds-star-wars-2.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Angry Birds Star Wars 2 | Free Online Best Games](http://www.freeonlinebestgames.com/angry-birds-star-wars-2.html)
 
@@ -29,9 +37,6 @@ title: http://www.freeonlinebestgames.com/angry-birds-star-wars-2.html
 *  JS Response Bytes: 1529926
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98629
-
-### Performance issues
-
 
 ### Performance issues
 

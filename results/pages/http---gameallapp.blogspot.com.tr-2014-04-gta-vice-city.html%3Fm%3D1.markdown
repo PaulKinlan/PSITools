@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://gameallapp.blogspot.com.tr/2014/04/gta-vice-city.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [World Best Popular Chrome All Game: gta vice city](http://gameallapp.blogspot.com.tr/2014/04/gta-vice-city.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://gameallapp.blogspot.com.tr/2014/04/gta-vice-city.html?m=1
 *  JS Response Bytes: 1400099
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 292395
-
-### Performance issues
-
 
 ### Performance issues
 

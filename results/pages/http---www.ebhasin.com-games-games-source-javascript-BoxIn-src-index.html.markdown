@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ebhasin.com/games/games-source/javascript/BoxIn/src/index.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Box In -::- Bhasinsoft -::-](http://www.ebhasin.com/games/games-source/javascript/BoxIn/src/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.ebhasin.com/games/games-source/javascript/BoxIn/src/index.html
 *  JS Response Bytes: 1512228
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112014
-
-### Performance issues
-
 
 ### Performance issues
 

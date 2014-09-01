@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/doctor-dune/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Doctor Dune game](http://www.skateboarding-games.biz/doctor-dune/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/doctor-dune/
 *  JS Response Bytes: 2280954
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 121642
-
-### Performance issues
-
 
 ### Performance issues
 

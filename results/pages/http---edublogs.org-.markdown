@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://edublogs.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Edublogs – education blogs for teachers, students and schools](http://edublogs.org/)
 
@@ -29,9 +34,6 @@ title: http://edublogs.org/
 *  JS Response Bytes: 420091
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 8783
-
-### Performance issues
-
 
 ### Performance issues
 

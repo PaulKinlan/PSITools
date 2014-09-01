@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://googleinteract-qa.lexmark.com/gmailinteract/GoogleDrive/testDriveAppV4.html
+EnableGzipCompression: true
 ---
 ## [](http://googleinteract-qa.lexmark.com/gmailinteract/GoogleDrive/testDriveAppV4.html)
 
@@ -29,9 +30,6 @@ title: http://googleinteract-qa.lexmark.com/gmailinteract/GoogleDrive/testDriveA
 *  JS Response Bytes: 1157686
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 4198
-
-### Performance issues
-
 
 ### Performance issues
 

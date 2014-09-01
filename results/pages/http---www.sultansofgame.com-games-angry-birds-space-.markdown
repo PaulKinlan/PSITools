@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sultansofgame.com/games/angry-birds-space/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Play Angry Birds Space Game — Sultans of Game](http://www.sultansofgame.com/games/angry-birds-space/)
 
@@ -29,9 +34,6 @@ title: http://www.sultansofgame.com/games/angry-birds-space/
 *  JS Response Bytes: 1514295
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 139030
-
-### Performance issues
-
 
 ### Performance issues
 

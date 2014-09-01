@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww5.ehcdortmund.de/
+MinimizeRenderBlockingResources: true
 ---
 ## [ehcdortmund.de - ehcdortmund Resources and Information.](http://ww5.ehcdortmund.de/)
 
@@ -29,9 +30,6 @@ title: http://ww5.ehcdortmund.de/
 *  JS Response Bytes: 164112
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 180
-
-### Performance issues
-
 
 ### Performance issues
 

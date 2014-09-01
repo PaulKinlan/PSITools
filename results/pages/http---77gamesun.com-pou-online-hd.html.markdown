@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://77gamesun.com/pou-online-hd.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [77GamesUN.Com | Flash Game Site| Play Game | – Pou Online HD](http://77gamesun.com/pou-online-hd.html)
 
@@ -29,9 +35,6 @@ title: http://77gamesun.com/pou-online-hd.html
 *  JS Response Bytes: 413735
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 805
-
-### Performance issues
-
 
 ### Performance issues
 

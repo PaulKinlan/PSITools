@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.club-scootergt.com/mobiquo/smartbanner/welcome.php?referer=http%3A%2F%2Fwww.club-scootergt.com%2F&code=97f029f7ca81c3d43a9b36bb74d9e0ab&board_url=http%3A%2F%2Fwww.club-scootergt.com&lang=en
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
 ---
 ## [Stay in touch with us via Tapatalk app](http://www.club-scootergt.com/mobiquo/smartbanner/welcome.php?referer=http%3A%2F%2Fwww.club-scootergt.com%2F&code=97f029f7ca81c3d43a9b36bb74d9e0ab&board_url=http%3A%2F%2Fwww.club-scootergt.com&lang=en)
 
@@ -29,9 +32,6 @@ title: http://www.club-scootergt.com/mobiquo/smartbanner/welcome.php?referer=htt
 *  JS Response Bytes: 93553
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 783
-
-### Performance issues
-
 
 ### Performance issues
 

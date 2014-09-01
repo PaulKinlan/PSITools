@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.androidgamesdownload.org/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Find Best Android Games! Free Android Games Download! – Android Park](http://www.androidgamesdownload.org/)
 
@@ -29,9 +32,6 @@ title: http://www.androidgamesdownload.org/
 *  JS Response Bytes: 1325823
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18428
-
-### Performance issues
-
 
 ### Performance issues
 

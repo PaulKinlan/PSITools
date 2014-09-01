@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.yrsgames.com/?s=pou&x=0&y=0
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [pou « Search Results « Free Best HD Games Play Now](http://www.yrsgames.com/?s=pou&x=0&y=0)
 
@@ -29,9 +33,6 @@ title: http://www.yrsgames.com/?s=pou&x=0&y=0
 *  JS Response Bytes: 398593
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14085
-
-### Performance issues
-
 
 ### Performance issues
 

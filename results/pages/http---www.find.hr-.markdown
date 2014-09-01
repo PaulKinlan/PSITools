@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.find.hr/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FIND.HR - pronađite mjesto za savršeni odmor u Hrvatskoj](http://www.find.hr/)
 
@@ -29,9 +34,6 @@ title: http://www.find.hr/
 *  JS Response Bytes: 1125358
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 56598
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.downtweet.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [今日お金を借りられる即日融資OKの消費者金融](http://www.downtweet.com/)
 
@@ -29,9 +33,6 @@ title: http://www.downtweet.com/
 *  JS Response Bytes: 9116
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

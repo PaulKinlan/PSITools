@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://ahoia.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Ahoia | Digital Agency London](http://ahoia.com/)
 
@@ -29,9 +31,6 @@ title: http://ahoia.com/
 *  JS Response Bytes: 566043
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 865
-
-### Performance issues
-
 
 ### Performance issues
 

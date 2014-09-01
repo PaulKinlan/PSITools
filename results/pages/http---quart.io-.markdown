@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://quart.io/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
 ---
 ## [Quart － Simple Publishing](http://quart.io/)
 
@@ -29,9 +32,6 @@ title: http://quart.io/
 *  JS Response Bytes: 62648
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 234499
-
-### Performance issues
-
 
 ### Performance issues
 

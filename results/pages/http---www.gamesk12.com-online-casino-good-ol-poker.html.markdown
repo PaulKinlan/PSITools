@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.gamesk12.com/online/casino/good-ol-poker.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Good Ol' Poker Play Good Ol' Poker on Gamesk12.com Free Online Games](http://www.gamesk12.com/online/casino/good-ol-poker.html)
 
@@ -29,9 +35,6 @@ title: http://www.gamesk12.com/online/casino/good-ol-poker.html
 *  JS Response Bytes: 1843954
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100682
-
-### Performance issues
-
 
 ### Performance issues
 

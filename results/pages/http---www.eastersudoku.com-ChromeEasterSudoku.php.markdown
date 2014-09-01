@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.eastersudoku.com/ChromeEasterSudoku.php
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chrome Easter Sudoku](http://www.eastersudoku.com/ChromeEasterSudoku.php)
 
@@ -29,9 +34,6 @@ title: http://www.eastersudoku.com/ChromeEasterSudoku.php
 *  JS Response Bytes: 913973
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1285
-
-### Performance issues
-
 
 ### Performance issues
 

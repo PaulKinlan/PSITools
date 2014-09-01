@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamexcenter.net/renault-trucks-racing/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Renault-trucks-racing | GameXcenter](http://www.gamexcenter.net/renault-trucks-racing/)
 
@@ -29,9 +33,6 @@ title: http://www.gamexcenter.net/renault-trucks-racing/
 *  JS Response Bytes: 1106861
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 165497
-
-### Performance issues
-
 
 ### Performance issues
 

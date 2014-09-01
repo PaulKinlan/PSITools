@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/rocket-skateboard/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Rocket Skateboard game](http://www.skateboarding-games.biz/rocket-skateboard/)
 
@@ -29,9 +34,6 @@ title: http://www.skateboarding-games.biz/rocket-skateboard/
 *  JS Response Bytes: 2123727
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 115514
-
-### Performance issues
-
 
 ### Performance issues
 

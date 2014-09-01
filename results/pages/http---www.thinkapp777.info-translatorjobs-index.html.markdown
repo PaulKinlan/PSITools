@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.thinkapp777.info/translatorjobs/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Find Real Translator Jobs 2014](http://www.thinkapp777.info/translatorjobs/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.thinkapp777.info/translatorjobs/index.html
 *  JS Response Bytes: 911967
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96717
-
-### Performance issues
-
 
 ### Performance issues
 

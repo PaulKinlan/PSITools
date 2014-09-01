@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.gameover99.com/shooter/gangster-granny
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Gangster Granny - Gameover99](http://www.gameover99.com/shooter/gangster-granny)
 
@@ -29,9 +36,6 @@ title: http://www.gameover99.com/shooter/gangster-granny
 *  JS Response Bytes: 2155907
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 113711
-
-### Performance issues
-
 
 ### Performance issues
 

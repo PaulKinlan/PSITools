@@ -33,8 +33,5 @@ title: http://www.gauthierlerouzic.com/dskchrome/DSK_Game/canvas/
 ### Performance issues
 
 
-### Performance issues
-
-
 ### Mobile UX issues
 

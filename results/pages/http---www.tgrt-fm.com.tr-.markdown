@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.tgrt-fm.com.tr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TGRT FM](http://www.tgrt-fm.com.tr/)
 
@@ -29,9 +34,6 @@ title: http://www.tgrt-fm.com.tr/
 *  JS Response Bytes: 331453
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 314
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://chrome.appstores.eu/happybird/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [Happy Bird with a Hat](http://chrome.appstores.eu/happybird/)
 
@@ -29,9 +33,6 @@ title: http://chrome.appstores.eu/happybird/
 *  JS Response Bytes: 637589
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19681
-
-### Performance issues
-
 
 ### Performance issues
 

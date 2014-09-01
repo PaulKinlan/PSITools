@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://chromegamespro.com/raptor-safari/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chrome Games Pro – Raptor Safari](http://chromegamespro.com/raptor-safari/)
 
@@ -29,9 +34,6 @@ title: http://chromegamespro.com/raptor-safari/
 *  JS Response Bytes: 922508
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15970
-
-### Performance issues
-
 
 ### Performance issues
 

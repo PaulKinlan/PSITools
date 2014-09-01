@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://go.dxy.cn/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [丁香导航，最专业的医学导航](http://go.dxy.cn/)
 
@@ -29,9 +31,6 @@ title: http://go.dxy.cn/
 *  JS Response Bytes: 146694
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

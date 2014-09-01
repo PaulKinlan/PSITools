@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.simulationgames.ws/kings-island-2-diablo-2/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kings Island 2 (Diablo 2) game](http://www.simulationgames.ws/kings-island-2-diablo-2/)
 
@@ -29,9 +34,6 @@ title: http://www.simulationgames.ws/kings-island-2-diablo-2/
 *  JS Response Bytes: 2719889
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 139280
-
-### Performance issues
-
 
 ### Performance issues
 

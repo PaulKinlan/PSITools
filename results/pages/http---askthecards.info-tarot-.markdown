@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://askthecards.info/tarot/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Re-directing to your free tarot reading page...](http://askthecards.info/tarot/)
 
@@ -29,9 +31,6 @@ title: http://askthecards.info/tarot/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.verygaming.com/puzzles/bunny-cannon
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bunny Cannon - Best Games - VeryGaming - Play Free Online Games](http://www.verygaming.com/puzzles/bunny-cannon)
 
@@ -29,9 +34,6 @@ title: http://www.verygaming.com/puzzles/bunny-cannon
 *  JS Response Bytes: 414320
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 25156
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://equiperemota.keeple.com.br/Portal/Default.aspx
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Equipe Remota](http://equiperemota.keeple.com.br/Portal/Default.aspx)
 
@@ -29,9 +34,6 @@ title: http://equiperemota.keeple.com.br/Portal/Default.aspx
 *  JS Response Bytes: 2076826
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1765
-
-### Performance issues
-
 
 ### Performance issues
 

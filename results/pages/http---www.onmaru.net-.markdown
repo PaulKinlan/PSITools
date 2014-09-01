@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.onmaru.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [온마루 - 모두 모여라!](http://www.onmaru.net/)
 
@@ -29,9 +33,6 @@ title: http://www.onmaru.net/
 *  JS Response Bytes: 1542849
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3074
-
-### Performance issues
-
 
 ### Performance issues
 

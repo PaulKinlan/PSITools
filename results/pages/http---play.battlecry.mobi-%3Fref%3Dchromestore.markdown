@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://play.battlecry.mobi/?ref=chromestore
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [BATTLECRY (RPG) - World At War](http://play.battlecry.mobi/?ref=chromestore)
 
@@ -29,9 +31,6 @@ title: http://play.battlecry.mobi/?ref=chromestore
 *  JS Response Bytes: 1685225
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

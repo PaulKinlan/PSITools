@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://ww35.dogs-games.com/games/scooby-doo-1000/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [dogs-games.com](http://ww35.dogs-games.com/games/scooby-doo-1000/)
 
@@ -29,9 +34,6 @@ title: http://ww35.dogs-games.com/games/scooby-doo-1000/
 *  JS Response Bytes: 173123
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 232
-
-### Performance issues
-
 
 ### Performance issues
 

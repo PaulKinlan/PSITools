@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://medicalquestions.1bestlink.net/#gsc.tab=0
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ask medical & health questions!](http://medicalquestions.1bestlink.net/#gsc.tab=0)
 
@@ -29,9 +33,6 @@ title: http://medicalquestions.1bestlink.net/#gsc.tab=0
 *  JS Response Bytes: 978002
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16457
-
-### Performance issues
-
 
 ### Performance issues
 

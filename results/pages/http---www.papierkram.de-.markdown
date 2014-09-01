@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.papierkram.de/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [Papierkram – Online Buchhaltungssoftware für Freiberufler und kleine Unternehmen bis 20 Mitarbeiter](http://www.papierkram.de/)
 
@@ -29,9 +32,6 @@ title: http://www.papierkram.de/
 *  JS Response Bytes: 323461
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14370
-
-### Performance issues
-
 
 ### Performance issues
 

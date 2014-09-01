@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://newarrivalphone.blogspot.com/2014/02/phone-brands-list.html?m=1
+SizeContentToViewport: true
+UseLegibleFontSizes: true
 ---
 ## [new arrival phone: phone brands list](http://newarrivalphone.blogspot.com/2014/02/phone-brands-list.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://newarrivalphone.blogspot.com/2014/02/phone-brands-list.html?m=1
 *  JS Response Bytes: 519421
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 915
-
-### Performance issues
-
 
 ### Performance issues
 

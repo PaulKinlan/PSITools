@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://bestgametoplay.co/Category/girls
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Best Game To Play – Girl Games](http://bestgametoplay.co/Category/girls)
 
@@ -29,9 +34,6 @@ title: http://bestgametoplay.co/Category/girls
 *  JS Response Bytes: 1657962
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96094
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://minecraftt-play-game.blogspot.com.tr/2014/04/gta-vice-city.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [minecraft download hd game](http://minecraftt-play-game.blogspot.com.tr/2014/04/gta-vice-city.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://minecraftt-play-game.blogspot.com.tr/2014/04/gta-vice-city.html?m=
 *  JS Response Bytes: 788531
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331312
-
-### Performance issues
-
 
 ### Performance issues
 

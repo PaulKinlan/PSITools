@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.schoolinmobile.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [School in Mobile](http://www.schoolinmobile.com/)
 
@@ -29,9 +32,6 @@ title: http://www.schoolinmobile.com/
 *  JS Response Bytes: 1165176
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 17846
-
-### Performance issues
-
 
 ### Performance issues
 

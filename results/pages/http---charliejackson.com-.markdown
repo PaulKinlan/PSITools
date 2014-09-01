@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://charliejackson.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [Charlie Jackson](http://charliejackson.com/)
 
@@ -29,9 +31,6 @@ title: http://charliejackson.com/
 *  JS Response Bytes: 127263
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

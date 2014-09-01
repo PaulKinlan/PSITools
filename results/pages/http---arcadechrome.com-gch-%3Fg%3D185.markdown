@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://arcadechrome.com/gch/?g=185
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [American Football](http://arcadechrome.com/gch/?g=185)
 
@@ -29,9 +35,6 @@ title: http://arcadechrome.com/gch/?g=185
 *  JS Response Bytes: 1512677
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 39372
-
-### Performance issues
-
 
 ### Performance issues
 

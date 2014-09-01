@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.socialesman.com/app/monster-trucks-nitro-2/monster-trucks-nitro-2.html
+MinimizeRenderBlockingResources: true
 ---
 ## [Clone doesnt have this page](http://www.socialesman.com/app/monster-trucks-nitro-2/monster-trucks-nitro-2.html)
 
@@ -29,9 +30,6 @@ title: http://www.socialesman.com/app/monster-trucks-nitro-2/monster-trucks-nitr
 *  JS Response Bytes: 824764
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97411
-
-### Performance issues
-
 
 ### Performance issues
 

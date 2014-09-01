@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.1314jiankang.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [1314健康网](http://www.1314jiankang.com/)
 
@@ -29,9 +33,6 @@ title: http://www.1314jiankang.com/
 *  JS Response Bytes: 96409
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 651
-
-### Performance issues
-
 
 ### Performance issues
 

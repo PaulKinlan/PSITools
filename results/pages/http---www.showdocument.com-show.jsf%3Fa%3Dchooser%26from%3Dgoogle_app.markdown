@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.showdocument.com/show.jsf?a=chooser&from=google_app
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ShowDocument | Host | 32239](http://www.showdocument.com/show.jsf?a=chooser&from=google_app)
 
@@ -29,9 +32,6 @@ title: http://www.showdocument.com/show.jsf?a=chooser&from=google_app
 *  JS Response Bytes: 166798
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

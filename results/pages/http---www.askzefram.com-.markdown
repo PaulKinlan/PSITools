@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.askzefram.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Ask Zefram - Job Search SuperEngine](http://www.askzefram.com/)
 
@@ -29,9 +33,6 @@ title: http://www.askzefram.com/
 *  JS Response Bytes: 276674
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 547
-
-### Performance issues
-
 
 ### Performance issues
 

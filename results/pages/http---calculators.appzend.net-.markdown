@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://calculators.appzend.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Financial - Magic Calculators](http://calculators.appzend.net/)
 
@@ -29,9 +33,6 @@ title: http://calculators.appzend.net/
 *  JS Response Bytes: 459930
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14084
-
-### Performance issues
-
 
 ### Performance issues
 

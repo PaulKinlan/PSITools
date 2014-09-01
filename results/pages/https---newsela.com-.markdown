@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://newsela.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Newsela | Nonfiction Literacy and Current Events](https://newsela.com/)
 
@@ -29,9 +32,6 @@ title: https://newsela.com/
 *  JS Response Bytes: 663174
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 308
-
-### Performance issues
-
 
 ### Performance issues
 

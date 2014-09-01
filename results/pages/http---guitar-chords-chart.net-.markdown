@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://guitar-chords-chart.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+UseLegibleFontSizes: true
 ---
 ## [Guitar Chords Chart - chords fingering search](http://guitar-chords-chart.net/)
 
@@ -29,9 +32,6 @@ title: http://guitar-chords-chart.net/
 *  JS Response Bytes: 1576985
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110176
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://unity-games-online.net/play-rail-rush
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Rail Rush Online | Unity-Games-Online.Net](http://unity-games-online.net/play-rail-rush)
 
@@ -29,9 +31,6 @@ title: http://unity-games-online.net/play-rail-rush
 *  JS Response Bytes: 3411538
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 178348
-
-### Performance issues
-
 
 ### Performance issues
 

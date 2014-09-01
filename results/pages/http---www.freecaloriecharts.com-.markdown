@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freecaloriecharts.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Free Calorie Charts](http://www.freecaloriecharts.com/)
 
@@ -29,9 +34,6 @@ title: http://www.freecaloriecharts.com/
 *  JS Response Bytes: 649500
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15247
-
-### Performance issues
-
 
 ### Performance issues
 

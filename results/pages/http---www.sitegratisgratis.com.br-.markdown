@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.sitegratisgratis.com.br/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Site Grátis - Fazer Site - Criar Site - Site Profissional Grátis](http://www.sitegratisgratis.com.br/)
 
@@ -29,9 +35,6 @@ title: http://www.sitegratisgratis.com.br/
 *  JS Response Bytes: 1617912
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 101351
-
-### Performance issues
-
 
 ### Performance issues
 

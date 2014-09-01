@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://chromezgame.blogspot.com.tr/2014/03/jetpack.html?m=1
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
 ---
 ## [Chrome Game: jetpack](http://chromezgame.blogspot.com.tr/2014/03/jetpack.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://chromezgame.blogspot.com.tr/2014/03/jetpack.html?m=1
 *  JS Response Bytes: 720868
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97180
-
-### Performance issues
-
 
 ### Performance issues
 

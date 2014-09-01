@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://sites.google.com/site/appforhongkong/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [appforhongkong](https://sites.google.com/site/appforhongkong/)
 
@@ -29,9 +32,6 @@ title: https://sites.google.com/site/appforhongkong/
 *  JS Response Bytes: 412396
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28643
-
-### Performance issues
-
 
 ### Performance issues
 

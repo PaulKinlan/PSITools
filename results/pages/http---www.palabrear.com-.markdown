@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.palabrear.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Palabrear - Diviértete y aprende con este juego de palabras encadenadas con el que conseguirás ampliar tu vocabulario.](http://www.palabrear.com/)
 
@@ -29,9 +35,6 @@ title: http://www.palabrear.com/
 *  JS Response Bytes: 1379173
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95769
-
-### Performance issues
-
 
 ### Performance issues
 

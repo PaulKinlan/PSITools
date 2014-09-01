@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.habbo.fi/?utm_source=chrme
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Habbo: Tapaa kavereita, pelaa ja chattaile!](https://www.habbo.fi/?utm_source=chrme)
 
@@ -29,9 +34,6 @@ title: https://www.habbo.fi/?utm_source=chrme
 *  JS Response Bytes: 572334
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117425
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://miner.legalmy.org/092243/53.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Games Play » Minecraft Demo](http://miner.legalmy.org/092243/53.html)
 
@@ -29,9 +34,6 @@ title: http://miner.legalmy.org/092243/53.html
 *  JS Response Bytes: 725373
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15532
-
-### Performance issues
-
 
 ### Performance issues
 

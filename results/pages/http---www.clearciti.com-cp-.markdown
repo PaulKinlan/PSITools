@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.clearciti.com/cp/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ConfinedPal - Prison Pen Pals](http://www.clearciti.com/cp/)
 
@@ -29,9 +32,6 @@ title: http://www.clearciti.com/cp/
 *  JS Response Bytes: 41102
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

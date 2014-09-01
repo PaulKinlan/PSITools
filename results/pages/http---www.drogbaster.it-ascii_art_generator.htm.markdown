@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.drogbaster.it/ascii_art_generator.htm
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Tools Online Ascii Art Generator](http://www.drogbaster.it/ascii_art_generator.htm)
 
@@ -29,9 +32,6 @@ title: http://www.drogbaster.it/ascii_art_generator.htm
 *  JS Response Bytes: 1813186
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 127152
-
-### Performance issues
-
 
 ### Performance issues
 

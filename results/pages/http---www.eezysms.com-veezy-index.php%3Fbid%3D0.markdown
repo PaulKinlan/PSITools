@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.eezysms.com/veezy/index.php?bid=0
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [WWW.EEZYSMS.COM | FREE SMS | SMS INDIA | SMS ANYWHERE | EASY SMS | SMS FROM COMPUTER | ONLINE SMSing](http://www.eezysms.com/veezy/index.php?bid=0)
 
@@ -29,9 +35,6 @@ title: http://www.eezysms.com/veezy/index.php?bid=0
 *  JS Response Bytes: 893322
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1472
-
-### Performance issues
-
 
 ### Performance issues
 

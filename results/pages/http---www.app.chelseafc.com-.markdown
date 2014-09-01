@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.app.chelseafc.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Chelsea FC](http://www.app.chelseafc.com/)
 
@@ -29,9 +35,6 @@ title: http://www.app.chelseafc.com/
 *  JS Response Bytes: 890179
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95974
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://it.lookforevents.com/mobile/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 ---
 ## [MappEventi Mobile](https://it.lookforevents.com/mobile/)
 
@@ -29,9 +31,6 @@ title: https://it.lookforevents.com/mobile/
 *  JS Response Bytes: 165064
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31859
-
-### Performance issues
-
 
 ### Performance issues
 

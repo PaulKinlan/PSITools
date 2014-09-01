@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.letterboxd.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Letterboxd • Your life in film](http://www.letterboxd.com/)
 
@@ -29,9 +31,6 @@ title: http://www.letterboxd.com/
 *  JS Response Bytes: 968843
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

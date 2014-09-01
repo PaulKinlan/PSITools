@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://schoolwebapp2012.web.fc2.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [WEBアプリ制作講座科 <<講師：中野洋介>>](http://schoolwebapp2012.web.fc2.com/)
 
@@ -29,9 +33,6 @@ title: http://schoolwebapp2012.web.fc2.com/
 *  JS Response Bytes: 839506
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 43950
-
-### Performance issues
-
 
 ### Performance issues
 

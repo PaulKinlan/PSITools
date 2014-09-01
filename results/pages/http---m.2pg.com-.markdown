@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.2pg.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [2 Player Mobile Games | Play on iphone,ipad android tablets or smartphones](http://m.2pg.com/)
 
@@ -29,9 +32,6 @@ title: http://m.2pg.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 6689
-
-### Performance issues
-
 
 ### Performance issues
 

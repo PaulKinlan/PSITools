@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://trips.furkot.com/mobile/welcome
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Furkot](https://trips.furkot.com/mobile/welcome)
 
@@ -29,9 +34,6 @@ title: https://trips.furkot.com/mobile/welcome
 *  JS Response Bytes: 444940
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1476
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://progressquest.com/play/roster.html
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Progress Quest - Roster](http://progressquest.com/play/roster.html)
 
@@ -29,9 +32,6 @@ title: http://progressquest.com/play/roster.html
 *  JS Response Bytes: 204698
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

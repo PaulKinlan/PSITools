@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.sofit4.com.br/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Controle de Frota Sofit - Software para Controle e Gestão de Frota](http://www.sofit4.com.br/)
 
@@ -29,9 +34,6 @@ title: http://www.sofit4.com.br/
 *  JS Response Bytes: 2765280
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105880
-
-### Performance issues
-
 
 ### Performance issues
 

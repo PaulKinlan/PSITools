@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.war-games.ws/nob-war/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Nob War](http://www.war-games.ws/nob-war/)
 
@@ -29,9 +36,6 @@ title: http://www.war-games.ws/nob-war/
 *  JS Response Bytes: 2292659
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 132141
-
-### Performance issues
-
 
 ### Performance issues
 

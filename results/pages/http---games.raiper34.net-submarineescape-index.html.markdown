@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://games.raiper34.net/submarineescape/index.html
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Submarine Escape](http://games.raiper34.net/submarineescape/index.html)
 
@@ -29,9 +35,6 @@ title: http://games.raiper34.net/submarineescape/index.html
 *  JS Response Bytes: 1781879
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15416
-
-### Performance issues
-
 
 ### Performance issues
 

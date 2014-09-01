@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.onlinebestgamesin.blogspot.in/2014/02/temple-run-2.html?m=1
+MinimizeRenderBlockingResources: true
 ---
 ## [Online Best Games: Temple Run 2](http://www.onlinebestgamesin.blogspot.in/2014/02/temple-run-2.html?m=1)
 
@@ -29,9 +30,6 @@ title: http://www.onlinebestgamesin.blogspot.in/2014/02/temple-run-2.html?m=1
 *  JS Response Bytes: 610803
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95593
-
-### Performance issues
-
 
 ### Performance issues
 

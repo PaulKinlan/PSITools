@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://buildasnowman.raiper34.net/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Build a Snowman](http://buildasnowman.raiper34.net/)
 
@@ -29,9 +36,6 @@ title: http://buildasnowman.raiper34.net/
 *  JS Response Bytes: 2517328
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15374
-
-### Performance issues
-
 
 ### Performance issues
 

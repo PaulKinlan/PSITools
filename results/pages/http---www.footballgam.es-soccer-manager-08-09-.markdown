@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/soccer-manager-08-09/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Soccer Manager 08 / 09 Game](http://www.footballgam.es/soccer-manager-08-09/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/soccer-manager-08-09/
 *  JS Response Bytes: 2140432
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 159798
-
-### Performance issues
-
 
 ### Performance issues
 

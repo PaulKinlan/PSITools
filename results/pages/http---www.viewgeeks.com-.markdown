@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.viewgeeks.com/
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Site Maintenance](http://www.viewgeeks.com/)
 
@@ -29,9 +31,6 @@ title: http://www.viewgeeks.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

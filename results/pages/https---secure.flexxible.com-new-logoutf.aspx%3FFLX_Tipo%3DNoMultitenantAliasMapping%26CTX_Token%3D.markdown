@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://secure.flexxible.com/new/logoutf.aspx?FLX_Tipo=NoMultitenantAliasMapping&CTX_Token=
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Flexxible secure|desktop](https://secure.flexxible.com/new/logoutf.aspx?FLX_Tipo=NoMultitenantAliasMapping&CTX_Token=)
 
@@ -29,9 +34,6 @@ title: https://secure.flexxible.com/new/logoutf.aspx?FLX_Tipo=NoMultitenantAlias
 *  JS Response Bytes: 165005
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 493
-
-### Performance issues
-
 
 ### Performance issues
 

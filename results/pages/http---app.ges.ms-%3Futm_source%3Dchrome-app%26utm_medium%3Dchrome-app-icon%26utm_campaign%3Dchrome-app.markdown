@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://app.ges.ms/?utm_source=chrome-app&utm_medium=chrome-app-icon&utm_campaign=chrome-app
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [ges.ms | The best application to SMS your Google Contacts and Groups](http://app.ges.ms/?utm_source=chrome-app&utm_medium=chrome-app-icon&utm_campaign=chrome-app)
 
@@ -29,9 +34,6 @@ title: http://app.ges.ms/?utm_source=chrome-app&utm_medium=chrome-app-icon&utm_c
 *  JS Response Bytes: 3372131
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100975
-
-### Performance issues
-
 
 ### Performance issues
 

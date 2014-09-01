@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://stjamesschool.scootpad.com/index
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [ScootPad :: Learning Personalized and Accelerated! Common Core Standards. Math. ELA. Reading. Spelling. Vocabulary. Writing. Projects. Games.](https://stjamesschool.scootpad.com/index)
 
@@ -29,9 +34,6 @@ title: https://stjamesschool.scootpad.com/index
 *  JS Response Bytes: 204379
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

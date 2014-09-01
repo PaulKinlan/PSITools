@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.konplayer.com/shooting/raving-rabbids-travel-in-time/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Raving Rabbids Travel In Time » KonPlayer](http://www.konplayer.com/shooting/raving-rabbids-travel-in-time/)
 
@@ -29,9 +33,6 @@ title: http://www.konplayer.com/shooting/raving-rabbids-travel-in-time/
 *  JS Response Bytes: 919195
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14666
-
-### Performance issues
-
 
 ### Performance issues
 

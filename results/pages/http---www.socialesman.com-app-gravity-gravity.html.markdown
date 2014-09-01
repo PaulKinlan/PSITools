@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.socialesman.com/app/gravity/gravity.html
+MinimizeRenderBlockingResources: true
 ---
 ## [Clone doesnt have this page](http://www.socialesman.com/app/gravity/gravity.html)
 
@@ -29,9 +30,6 @@ title: http://www.socialesman.com/app/gravity/gravity.html
 *  JS Response Bytes: 824331
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97407
-
-### Performance issues
-
 
 ### Performance issues
 

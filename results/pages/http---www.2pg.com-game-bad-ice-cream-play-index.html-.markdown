@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.2pg.com/game/bad-ice-cream/play/index.html/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bad Ice Cream | 2 Player Games](http://www.2pg.com/game/bad-ice-cream/play/index.html/)
 
@@ -29,9 +34,6 @@ title: http://www.2pg.com/game/bad-ice-cream/play/index.html/
 *  JS Response Bytes: 1381307
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 31553
-
-### Performance issues
-
 
 ### Performance issues
 

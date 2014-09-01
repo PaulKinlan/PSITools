@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_2061_Truck-Wars.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Truck Wars Flash Games](http://www.newpopulargames.com/game_2061_Truck-Wars.html)
 
@@ -29,9 +35,6 @@ title: http://www.newpopulargames.com/game_2061_Truck-Wars.html
 *  JS Response Bytes: 1677967
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112880
-
-### Performance issues
-
 
 ### Performance issues
 

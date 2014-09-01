@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://web.ctrox.ch/
+UseLegibleFontSizes: true
 ---
 ## [403 Forbidden](http://web.ctrox.ch/)
 
@@ -29,9 +30,6 @@ title: http://web.ctrox.ch/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 464
-
-### Performance issues
-
 
 ### Performance issues
 

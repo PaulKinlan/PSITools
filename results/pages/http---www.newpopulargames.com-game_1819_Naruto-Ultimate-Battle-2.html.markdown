@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.newpopulargames.com/game_1819_Naruto-Ultimate-Battle-2.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Naruto Ultimate Battle 2 Flash Games](http://www.newpopulargames.com/game_1819_Naruto-Ultimate-Battle-2.html)
 
@@ -29,9 +35,6 @@ title: http://www.newpopulargames.com/game_1819_Naruto-Ultimate-Battle-2.html
 *  JS Response Bytes: 1679926
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112879
-
-### Performance issues
-
 
 ### Performance issues
 

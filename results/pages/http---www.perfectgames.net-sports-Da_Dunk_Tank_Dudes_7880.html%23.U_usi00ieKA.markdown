@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.perfectgames.net/sports/Da_Dunk_Tank_Dudes_7880.html#.U_usi00ieKA
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Da Dunk Tank Dudes_Perfectgames](http://www.perfectgames.net/sports/Da_Dunk_Tank_Dudes_7880.html#.U_usi00ieKA)
 
@@ -29,9 +34,6 @@ title: http://www.perfectgames.net/sports/Da_Dunk_Tank_Dudes_7880.html#.U_usi00i
 *  JS Response Bytes: 219876
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2003
-
-### Performance issues
-
 
 ### Performance issues
 

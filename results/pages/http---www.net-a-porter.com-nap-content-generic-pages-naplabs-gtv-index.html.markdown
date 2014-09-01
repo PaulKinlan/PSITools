@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.net-a-porter.com/nap/content/generic/pages/naplabs/gtv/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [NET-A-PORTER TV](http://www.net-a-porter.com/nap/content/generic/pages/naplabs/gtv/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.net-a-porter.com/nap/content/generic/pages/naplabs/gtv/index.h
 *  JS Response Bytes: 394085
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1498
-
-### Performance issues
-
 
 ### Performance issues
 

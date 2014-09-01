@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.goldpricerealtime.com/goldPrice.html#.U_eLWk0ieKA
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Gold trade price live in US dollars](http://www.goldpricerealtime.com/goldPrice.html#.U_eLWk0ieKA)
 
@@ -29,9 +33,6 @@ title: http://www.goldpricerealtime.com/goldPrice.html#.U_eLWk0ieKA
 *  JS Response Bytes: 1020434
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 96224
-
-### Performance issues
-
 
 ### Performance issues
 

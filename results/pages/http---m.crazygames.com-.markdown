@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://m.crazygames.com/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
 ---
 ## [CrazyGames Mobile](http://m.crazygames.com/)
 
@@ -29,9 +32,6 @@ title: http://m.crazygames.com/
 *  JS Response Bytes: 617829
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1707
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.lookout.com/m
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
 ---
 ## [Lookout Mobile Security](https://www.lookout.com/m)
 
@@ -29,9 +32,6 @@ title: https://www.lookout.com/m
 *  JS Response Bytes: 556346
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 716
-
-### Performance issues
-
 
 ### Performance issues
 

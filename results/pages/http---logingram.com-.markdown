@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://logingram.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [LoginGram | Instagram Web Viewer](http://logingram.com/)
 
@@ -29,9 +33,6 @@ title: http://logingram.com/
 *  JS Response Bytes: 1273582
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 142419
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://ireallydontgiveacrap.com/chrome/app/needformadness/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Need For Madness 2](http://ireallydontgiveacrap.com/chrome/app/needformadness/)
 
@@ -29,9 +33,6 @@ title: http://ireallydontgiveacrap.com/chrome/app/needformadness/
 *  JS Response Bytes: 388629
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16311
-
-### Performance issues
-
 
 ### Performance issues
 

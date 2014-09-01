@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://mataaula.com/NatalFurioso/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Natal Furioso - Este ano o Natal vai ficar furioso!](http://mataaula.com/NatalFurioso/)
 
@@ -29,9 +32,6 @@ title: http://mataaula.com/NatalFurioso/
 *  JS Response Bytes: 1665997
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

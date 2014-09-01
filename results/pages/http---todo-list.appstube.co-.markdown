@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://todo-list.appstube.co/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [To-do List](http://todo-list.appstube.co/)
 
@@ -29,9 +34,6 @@ title: http://todo-list.appstube.co/
 *  JS Response Bytes: 910096
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16287
-
-### Performance issues
-
 
 ### Performance issues
 

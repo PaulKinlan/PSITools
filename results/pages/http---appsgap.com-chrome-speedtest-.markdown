@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://appsgap.com/chrome/speedtest/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Speed test by Ookla - The Global Broadband Speed Test](http://appsgap.com/chrome/speedtest/)
 
@@ -29,9 +33,6 @@ title: http://appsgap.com/chrome/speedtest/
 *  JS Response Bytes: 494847
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29291
-
-### Performance issues
-
 
 ### Performance issues
 

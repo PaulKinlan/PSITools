@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.aiseesoft.com/dvd-creator-for-mac/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DVD Creator for Mac - Easily create DVD disc, DVD folder and ISO image file on Mac](http://www.aiseesoft.com/dvd-creator-for-mac/)
 
@@ -29,9 +34,6 @@ title: http://www.aiseesoft.com/dvd-creator-for-mac/
 *  JS Response Bytes: 1600822
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 114462
-
-### Performance issues
-
 
 ### Performance issues
 

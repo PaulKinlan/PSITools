@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gameshoop.com/android-andamp-ios-games/hugo-coast
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [](http://www.gameshoop.com/android-andamp-ios-games/hugo-coast)
 
@@ -29,9 +32,6 @@ title: http://www.gameshoop.com/android-andamp-ios-games/hugo-coast
 *  JS Response Bytes: 165946
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

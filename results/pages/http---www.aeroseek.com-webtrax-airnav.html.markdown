@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.aeroseek.com/webtrax/airnav.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Aeroseek: Live Flight Tracker - Real-Time Flight Status](http://www.aeroseek.com/webtrax/airnav.html)
 
@@ -29,9 +33,6 @@ title: http://www.aeroseek.com/webtrax/airnav.html
 *  JS Response Bytes: 3479284
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156392
-
-### Performance issues
-
 
 ### Performance issues
 

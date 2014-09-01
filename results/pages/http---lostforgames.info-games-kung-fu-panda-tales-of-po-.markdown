@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://lostforgames.info/games/kung-fu-panda-tales-of-po/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kung Fu Panda: Tales of Po | Lost For Games](http://lostforgames.info/games/kung-fu-panda-tales-of-po/)
 
@@ -29,9 +34,6 @@ title: http://lostforgames.info/games/kung-fu-panda-tales-of-po/
 *  JS Response Bytes: 519625
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 42716
-
-### Performance issues
-
 
 ### Performance issues
 

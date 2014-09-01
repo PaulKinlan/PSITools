@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://beta.get-flux.com/_ntr/_attachments/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [flux](https://beta.get-flux.com/_ntr/_attachments/)
 
@@ -29,9 +33,6 @@ title: https://beta.get-flux.com/_ntr/_attachments/
 *  JS Response Bytes: 644384
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

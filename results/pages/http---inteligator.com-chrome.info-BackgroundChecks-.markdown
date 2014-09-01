@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://inteligator.com-chrome.info/BackgroundChecks/
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Background Check Background Check](http://inteligator.com-chrome.info/BackgroundChecks/)
 
@@ -29,9 +32,6 @@ title: http://inteligator.com-chrome.info/BackgroundChecks/
 *  JS Response Bytes: 68829
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2796
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.ottobib.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bibliography and Works Cited Generator for MLA, APA, Wikipedia and Bibtex - OttoBib.com](http://www.ottobib.com/)
 
@@ -29,9 +33,6 @@ title: http://www.ottobib.com/
 *  JS Response Bytes: 410747
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1384
-
-### Performance issues
-
 
 ### Performance issues
 

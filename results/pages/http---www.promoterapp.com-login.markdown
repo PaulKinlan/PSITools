@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.promoterapp.com/login
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Promoter – Track press about your games. Automagically.](http://www.promoterapp.com/login)
 
@@ -29,9 +32,6 @@ title: http://www.promoterapp.com/login
 *  JS Response Bytes: 78493
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2668
-
-### Performance issues
-
 
 ### Performance issues
 

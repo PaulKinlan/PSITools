@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://newbestfreeonlinegame.blogspot.com/2013/10/wheres-my-duck-special-version.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [New Best Free Online Game: Wheres My Duck Special Version](http://newbestfreeonlinegame.blogspot.com/2013/10/wheres-my-duck-special-version.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://newbestfreeonlinegame.blogspot.com/2013/10/wheres-my-duck-special-
 *  JS Response Bytes: 1692075
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 112440
-
-### Performance issues
-
 
 ### Performance issues
 

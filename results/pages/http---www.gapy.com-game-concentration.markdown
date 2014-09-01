@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.gapy.com/game/concentration
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://www.gapy.com/game/concentration)
 
@@ -29,9 +30,6 @@ title: http://www.gapy.com/game/concentration
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 681
-
-### Performance issues
-
 
 ### Performance issues
 

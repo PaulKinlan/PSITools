@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.escutar.eu/mapas/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Escutar Portugal](http://www.escutar.eu/mapas/)
 
@@ -29,9 +34,6 @@ title: http://www.escutar.eu/mapas/
 *  JS Response Bytes: 640169
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 55804
-
-### Performance issues
-
 
 ### Performance issues
 

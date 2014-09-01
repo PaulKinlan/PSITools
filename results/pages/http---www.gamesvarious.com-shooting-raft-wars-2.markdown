@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/shooting/raft-wars-2
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Raft Wars 2 - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/shooting/raft-wars-2)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/shooting/raft-wars-2
 *  JS Response Bytes: 2180311
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99471
-
-### Performance issues
-
 
 ### Performance issues
 

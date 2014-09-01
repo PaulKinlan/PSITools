@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www-phoneregistry.chr0mestore.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Investigate any Mobile, Landline or Unlisted Phone Number with Phoneregistry.com](http://www-phoneregistry.chr0mestore.com/)
 
@@ -29,9 +32,6 @@ title: http://www-phoneregistry.chr0mestore.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

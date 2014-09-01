@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.appmonestry.com/apps/frog/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Crazy Frog](http://www.appmonestry.com/apps/frog/index.html)
 
@@ -29,9 +32,6 @@ title: http://www.appmonestry.com/apps/frog/index.html
 *  JS Response Bytes: 936099
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15325
-
-### Performance issues
-
 
 ### Performance issues
 

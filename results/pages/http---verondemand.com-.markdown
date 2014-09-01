@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://verondemand.com/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Ver on Demand](http://verondemand.com/)
 
@@ -29,9 +32,6 @@ title: http://verondemand.com/
 *  JS Response Bytes: 214487
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 125735
-
-### Performance issues
-
 
 ### Performance issues
 

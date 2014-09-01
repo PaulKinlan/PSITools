@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://vrp.viamente.com/?view=login&act=go&page=login
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Sign in - Viamente Route Planner](https://vrp.viamente.com/?view=login&act=go&page=login)
 
@@ -29,9 +33,6 @@ title: https://vrp.viamente.com/?view=login&act=go&page=login
 *  JS Response Bytes: 61526
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2725
-
-### Performance issues
-
 
 ### Performance issues
 

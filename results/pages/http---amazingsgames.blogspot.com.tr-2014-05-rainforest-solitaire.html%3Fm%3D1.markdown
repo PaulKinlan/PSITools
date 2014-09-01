@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://amazingsgames.blogspot.com.tr/2014/05/rainforest-solitaire.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
 ---
 ## [Amazing Game: Rainforest Solitaire](http://amazingsgames.blogspot.com.tr/2014/05/rainforest-solitaire.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://amazingsgames.blogspot.com.tr/2014/05/rainforest-solitaire.html?m=
 *  JS Response Bytes: 1270918
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111049
-
-### Performance issues
-
 
 ### Performance issues
 

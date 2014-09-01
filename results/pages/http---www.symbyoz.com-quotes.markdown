@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.symbyoz.com/quotes
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Life Quotes & Quote Pictures Maker - Symbyoz](http://www.symbyoz.com/quotes)
 
@@ -29,9 +32,6 @@ title: http://www.symbyoz.com/quotes
 *  JS Response Bytes: 3244885
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 306908
-
-### Performance issues
-
 
 ### Performance issues
 

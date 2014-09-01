@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://pirates-anime.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Anime Pirates](http://pirates-anime.com/)
 
@@ -29,9 +34,6 @@ title: http://pirates-anime.com/
 *  JS Response Bytes: 226936
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 749
-
-### Performance issues
-
 
 ### Performance issues
 

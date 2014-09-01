@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://4-types.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FREEex: 4-types Determination Test(English)](http://4-types.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://4-types.appspot.com/
 *  JS Response Bytes: 1161860
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 95639
-
-### Performance issues
-
 
 ### Performance issues
 

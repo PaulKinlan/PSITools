@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://web.taskcracker.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [TaskCracker - online task management Google tasks](http://web.taskcracker.com/)
 
@@ -29,9 +35,6 @@ title: http://web.taskcracker.com/
 *  JS Response Bytes: 1455156
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97254
-
-### Performance issues
-
 
 ### Performance issues
 

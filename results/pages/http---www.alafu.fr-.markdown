@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.alafu.fr/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Alafu.fr, Petites Annonces Gratuites](http://www.alafu.fr/)
 
@@ -29,9 +32,6 @@ title: http://www.alafu.fr/
 *  JS Response Bytes: 46260
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 468
-
-### Performance issues
-
 
 ### Performance issues
 

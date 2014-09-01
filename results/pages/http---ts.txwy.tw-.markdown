@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://ts.txwy.tw/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [吞食三國 - 官方網站(台灣 繁體版)](http://ts.txwy.tw/)
 
@@ -29,9 +35,6 @@ title: http://ts.txwy.tw/
 *  JS Response Bytes: 458413
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1308
-
-### Performance issues
-
 
 ### Performance issues
 

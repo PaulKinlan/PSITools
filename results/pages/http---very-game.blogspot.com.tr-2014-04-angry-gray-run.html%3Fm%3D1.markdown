@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://very-game.blogspot.com.tr/2014/04/angry-gray-run.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+SizeTapTargetsAppropriately: true
 ---
 ## [chrome store online game](http://very-game.blogspot.com.tr/2014/04/angry-gray-run.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://very-game.blogspot.com.tr/2014/04/angry-gray-run.html?m=1
 *  JS Response Bytes: 788529
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 331110
-
-### Performance issues
-
 
 ### Performance issues
 

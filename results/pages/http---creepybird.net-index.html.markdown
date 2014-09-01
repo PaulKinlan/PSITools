@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://creepybird.net/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Creepy Bird - a Flappy Bird Clone for SNES](http://creepybird.net/index.html)
 
@@ -29,9 +34,6 @@ title: http://creepybird.net/index.html
 *  JS Response Bytes: 712901
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

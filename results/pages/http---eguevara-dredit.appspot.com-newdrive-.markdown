@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://eguevara-dredit.appspot.com/newdrive/
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://eguevara-dredit.appspot.com/newdrive/)
 
@@ -29,9 +30,6 @@ title: http://eguevara-dredit.appspot.com/newdrive/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 443
-
-### Performance issues
-
 
 ### Performance issues
 

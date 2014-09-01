@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.justeat.it/?utm_medium=chrome&utm_source=ChromeStartPage&utm_campaign=ChromeApp
+MinimizeRenderBlockingResources: true
+UseLegibleFontSizes: true
 ---
 ## [JUSTEAT.it | Pizza a domicilio: Roma, Milano, Torino, Firenze - Ordina on line](http://www.justeat.it/?utm_medium=chrome&utm_source=ChromeStartPage&utm_campaign=ChromeApp)
 
@@ -29,9 +31,6 @@ title: http://www.justeat.it/?utm_medium=chrome&utm_source=ChromeStartPage&utm_c
 *  JS Response Bytes: 500540
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 63364
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freeonlinebestgames.com/minecraft.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [MineCraft | Free Online Best Games](http://www.freeonlinebestgames.com/minecraft.html)
 
@@ -29,9 +34,6 @@ title: http://www.freeonlinebestgames.com/minecraft.html
 *  JS Response Bytes: 1529199
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 117553
-
-### Performance issues
-
 
 ### Performance issues
 

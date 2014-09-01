@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://beauty.enginestart.me/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Beauty](http://beauty.enginestart.me/)
 
@@ -29,9 +32,6 @@ title: http://beauty.enginestart.me/
 *  JS Response Bytes: 1588120
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 118008
-
-### Performance issues
-
 
 ### Performance issues
 

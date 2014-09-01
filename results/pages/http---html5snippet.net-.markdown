@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://html5snippet.net/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [NewSnippet](http://html5snippet.net/)
 
@@ -29,9 +34,6 @@ title: http://html5snippet.net/
 *  JS Response Bytes: 438479
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21895
-
-### Performance issues
-
 
 ### Performance issues
 

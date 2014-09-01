@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesvarious.com/sports/extreme-skater-hd
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Extreme Skater HD - Best Games - GamesVarious - Play Free Online Games](http://www.gamesvarious.com/sports/extreme-skater-hd)
 
@@ -29,9 +34,6 @@ title: http://www.gamesvarious.com/sports/extreme-skater-hd
 *  JS Response Bytes: 2275334
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 100164
-
-### Performance issues
-
 
 ### Performance issues
 

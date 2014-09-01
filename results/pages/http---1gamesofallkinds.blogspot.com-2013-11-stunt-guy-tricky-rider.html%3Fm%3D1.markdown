@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://1gamesofallkinds.blogspot.com/2013/11/stunt-guy-tricky-rider.html?m=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Games Of All Kinds: Stunt Guy Tricky Rider](http://1gamesofallkinds.blogspot.com/2013/11/stunt-guy-tricky-rider.html?m=1)
 
@@ -29,9 +33,6 @@ title: http://1gamesofallkinds.blogspot.com/2013/11/stunt-guy-tricky-rider.html?
 *  JS Response Bytes: 1113366
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 111824
-
-### Performance issues
-
 
 ### Performance issues
 

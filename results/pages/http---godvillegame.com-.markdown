@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://godvillegame.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome to Godville](http://godvillegame.com/)
 
@@ -29,9 +32,6 @@ title: http://godvillegame.com/
 *  JS Response Bytes: 1570580
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2275
-
-### Performance issues
-
 
 ### Performance issues
 

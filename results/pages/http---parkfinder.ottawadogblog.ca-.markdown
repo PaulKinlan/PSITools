@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://parkfinder.ottawadogblog.ca/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+ServerResponseTime: true
 ---
 ## [Ottawa Dog Park Finder · Ottawa Dog Blog](http://parkfinder.ottawadogblog.ca/)
 
@@ -29,9 +32,6 @@ title: http://parkfinder.ottawadogblog.ca/
 *  JS Response Bytes: 59915
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1660
-
-### Performance issues
-
 
 ### Performance issues
 

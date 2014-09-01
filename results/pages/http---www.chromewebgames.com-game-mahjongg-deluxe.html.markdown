@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.chromewebgames.com/game/mahjongg-deluxe.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mahjongg Deluxe Games online](http://www.chromewebgames.com/game/mahjongg-deluxe.html)
 
@@ -29,9 +35,6 @@ title: http://www.chromewebgames.com/game/mahjongg-deluxe.html
 *  JS Response Bytes: 721545
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 102195
-
-### Performance issues
-
 
 ### Performance issues
 

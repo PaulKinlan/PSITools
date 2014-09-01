@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.studyblue.com/mobile/appSuccess.html?utm_campaign=10109_chromeapp&utm_medium=appstore&utm_source=chromewebstore
+MinimizeRenderBlockingResources: true
 ---
 ## [StudyBlue Mobile - iPhone](http://www.studyblue.com/mobile/appSuccess.html?utm_campaign=10109_chromeapp&utm_medium=appstore&utm_source=chromewebstore)
 
@@ -29,9 +30,6 @@ title: http://www.studyblue.com/mobile/appSuccess.html?utm_campaign=10109_chrome
 *  JS Response Bytes: 65498
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3932
-
-### Performance issues
-
 
 ### Performance issues
 

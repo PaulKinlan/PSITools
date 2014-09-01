@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://splan.me/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [splan - Plan easy. | Personal Project Manager](http://splan.me/)
 
@@ -29,9 +32,6 @@ title: http://splan.me/
 *  JS Response Bytes: 376094
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 87650
-
-### Performance issues
-
 
 ### Performance issues
 

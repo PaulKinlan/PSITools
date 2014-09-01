@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.dodonow.cn/main.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [动动脑云教育 - 最专业的儿童能力成长系统](http://www.dodonow.cn/main.html)
 
@@ -29,9 +32,6 @@ title: http://www.dodonow.cn/main.html
 *  JS Response Bytes: 166426
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

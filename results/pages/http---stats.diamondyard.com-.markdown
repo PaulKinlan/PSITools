@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://stats.diamondyard.com/
+UseLegibleFontSizes: true
 ---
 ## [](http://stats.diamondyard.com/)
 
@@ -29,9 +30,6 @@ title: http://stats.diamondyard.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

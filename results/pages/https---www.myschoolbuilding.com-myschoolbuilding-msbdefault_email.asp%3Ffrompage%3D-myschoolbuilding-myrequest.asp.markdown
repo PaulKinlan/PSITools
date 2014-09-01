@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.myschoolbuilding.com/myschoolbuilding/msbdefault_email.asp?frompage=/myschoolbuilding/myrequest.asp
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Welcome to MySchoolBuilding](https://www.myschoolbuilding.com/myschoolbuilding/msbdefault_email.asp?frompage=/myschoolbuilding/myrequest.asp)
 
@@ -29,9 +34,6 @@ title: https://www.myschoolbuilding.com/myschoolbuilding/msbdefault_email.asp?fr
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3075
-
-### Performance issues
-
 
 ### Performance issues
 

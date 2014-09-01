@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.jumpgame.biz/chromegame/counter-strike/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [jump game Chrome – Counter Strike](http://www.jumpgame.biz/chromegame/counter-strike/)
 
@@ -29,9 +34,6 @@ title: http://www.jumpgame.biz/chromegame/counter-strike/
 *  JS Response Bytes: 893727
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5272
-
-### Performance issues
-
 
 ### Performance issues
 

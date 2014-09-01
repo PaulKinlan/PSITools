@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://kiss-lecturas.appspot.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [kiss Lecturas](http://kiss-lecturas.appspot.com/)
 
@@ -29,9 +34,6 @@ title: http://kiss-lecturas.appspot.com/
 *  JS Response Bytes: 326947
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

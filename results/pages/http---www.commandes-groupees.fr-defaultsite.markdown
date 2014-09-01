@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.commandes-groupees.fr/defaultsite
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [1&1 Internet - Hébergement Web, enregistrement noms de domaine et services Web](http://www.commandes-groupees.fr/defaultsite)
 
@@ -29,9 +32,6 @@ title: http://www.commandes-groupees.fr/defaultsite
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 65
-
-### Performance issues
-
 
 ### Performance issues
 

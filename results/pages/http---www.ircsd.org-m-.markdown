@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.ircsd.org/m/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Home](http://www.ircsd.org/m/)
 
@@ -29,9 +32,6 @@ title: http://www.ircsd.org/m/
 *  JS Response Bytes: 186694
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 411
-
-### Performance issues
-
 
 ### Performance issues
 

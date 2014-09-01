@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://adamruf.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Adam Ruf, San Francisco UX/UI Designer](http://adamruf.com/)
 
@@ -29,9 +33,6 @@ title: http://adamruf.com/
 *  JS Response Bytes: 418151
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28721
-
-### Performance issues
-
 
 ### Performance issues
 

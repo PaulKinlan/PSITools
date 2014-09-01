@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://oyunlar9.com/online-futbol-oyna.html?utm_source=ChromeWebStore&utm_medium=OnlineFutbol&utm_content=webapp&utm_campaign=kisayol
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Online Futbol Oyna - Oyunlar 9](http://oyunlar9.com/online-futbol-oyna.html?utm_source=ChromeWebStore&utm_medium=OnlineFutbol&utm_content=webapp&utm_campaign=kisayol)
 
@@ -29,9 +35,6 @@ title: http://oyunlar9.com/online-futbol-oyna.html?utm_source=ChromeWebStore&utm
 *  JS Response Bytes: 2943773
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 303457
-
-### Performance issues
-
 
 ### Performance issues
 

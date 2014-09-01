@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.webfungames.com/game/death-racing.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Death Racing Two Player Games, 2 player games, online multiplayer games.](http://www.webfungames.com/game/death-racing.html)
 
@@ -29,9 +36,6 @@ title: http://www.webfungames.com/game/death-racing.html
 *  JS Response Bytes: 1234615
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105183
-
-### Performance issues
-
 
 ### Performance issues
 

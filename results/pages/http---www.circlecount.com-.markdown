@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.circlecount.com/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [CircleCount.com ─ Google+ Statistics - Get your CircleRank & see the most popular people at Google+](http://www.circlecount.com/)
 
@@ -29,9 +33,6 @@ title: http://www.circlecount.com/
 *  JS Response Bytes: 1797932
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 150653
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://longcountdown.appspot.com/
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [](http://longcountdown.appspot.com/)
 
@@ -29,9 +32,6 @@ title: http://longcountdown.appspot.com/
 *  JS Response Bytes: 798
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

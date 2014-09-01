@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://bologames.com/subway-surf.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [BoloGames.Com | Flash Games – Subway Surf](http://bologames.com/subway-surf.html)
 
@@ -29,9 +35,6 @@ title: http://bologames.com/subway-surf.html
 *  JS Response Bytes: 412220
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 803
-
-### Performance issues
-
 
 ### Performance issues
 

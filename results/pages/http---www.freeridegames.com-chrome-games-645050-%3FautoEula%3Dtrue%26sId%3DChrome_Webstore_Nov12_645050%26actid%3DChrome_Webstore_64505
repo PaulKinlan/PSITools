@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/645050/?autoEula=true&sId=Chrome_Webstore_Nov12_645050&actid=Chrome_Webstore_645050
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Antique Shop for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/645050/?autoEula=true&sId=Chrome_Webstore_Nov12_645050&actid=Chrome_Webstore_645050)
 
@@ -29,9 +35,6 @@ title: http://www.freeridegames.com/chrome/games/645050/?autoEula=true&sId=Chrom
 *  JS Response Bytes: 1469030
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 54685
-
-### Performance issues
-
 
 ### Performance issues
 

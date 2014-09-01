@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://1453abdgames.blogspot.com/2013/09/rail-rush-2.html?m=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://1453abdgames.blogspot.com/2013/09/rail-rush-2.html?m=1)
 
@@ -29,9 +32,6 @@ title: http://1453abdgames.blogspot.com/2013/09/rail-rush-2.html?m=1
 *  JS Response Bytes: 41022
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19277
-
-### Performance issues
-
 
 ### Performance issues
 

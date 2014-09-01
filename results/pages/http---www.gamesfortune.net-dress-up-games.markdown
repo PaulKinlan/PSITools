@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.gamesfortune.net/dress-up-games
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Dress-Up Games - Free Online Games | GamesFortune.net](http://www.gamesfortune.net/dress-up-games)
 
@@ -29,9 +34,6 @@ title: http://www.gamesfortune.net/dress-up-games
 *  JS Response Bytes: 1346732
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5586
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://my.waveapps.com/register/?service=payroll&next=/?referrer=chrome-web-store
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Wave • Sign up for Wave](https://my.waveapps.com/register/?service=payroll&next=/?referrer=chrome-web-store)
 
@@ -29,9 +32,6 @@ title: https://my.waveapps.com/register/?service=payroll&next=/?referrer=chrome-
 *  JS Response Bytes: 1385146
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 10846
-
-### Performance issues
-
 
 ### Performance issues
 

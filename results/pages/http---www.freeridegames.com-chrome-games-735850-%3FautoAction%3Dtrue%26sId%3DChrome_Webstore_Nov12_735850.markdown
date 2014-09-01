@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.freeridegames.com/chrome/games/735850/?autoAction=true&sId=Chrome_Webstore_Nov12_735850
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Download Stand O Food 3 for free at FreeRide Games!](http://www.freeridegames.com/chrome/games/735850/?autoAction=true&sId=Chrome_Webstore_Nov12_735850)
 
@@ -29,9 +36,6 @@ title: http://www.freeridegames.com/chrome/games/735850/?autoAction=true&sId=Chr
 *  JS Response Bytes: 1710646
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 19724
-
-### Performance issues
-
 
 ### Performance issues
 

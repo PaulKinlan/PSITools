@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.gamesupreme.net/new-popular-games/131/rat-fishing
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [gamesupreme.net](http://www.gamesupreme.net/new-popular-games/131/rat-fishing)
 
@@ -29,9 +32,6 @@ title: http://www.gamesupreme.net/new-popular-games/131/rat-fishing
 *  JS Response Bytes: 209609
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

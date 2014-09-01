@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://app.process.st/login?source=chrome-web-store
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Process Street](https://app.process.st/login?source=chrome-web-store)
 
@@ -29,9 +34,6 @@ title: https://app.process.st/login?source=chrome-web-store
 *  JS Response Bytes: 2773059
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 862
-
-### Performance issues
-
 
 ### Performance issues
 

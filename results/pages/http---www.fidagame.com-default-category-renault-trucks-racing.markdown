@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.fidagame.com/default-category/renault-trucks-racing
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Renault Trucks Racing - Fidagame.com](http://www.fidagame.com/default-category/renault-trucks-racing)
 
@@ -29,9 +34,6 @@ title: http://www.fidagame.com/default-category/renault-trucks-racing
 *  JS Response Bytes: 2851030
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 103969
-
-### Performance issues
-
 
 ### Performance issues
 

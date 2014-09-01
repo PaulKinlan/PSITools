@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.iphoneipaddatarecovery.com/allmymusic/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [iphoneipaddatarecovery.com](http://www.iphoneipaddatarecovery.com/allmymusic/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.iphoneipaddatarecovery.com/allmymusic/index.html
 *  JS Response Bytes: 209104
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

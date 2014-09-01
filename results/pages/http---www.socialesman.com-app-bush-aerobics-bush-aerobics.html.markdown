@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.socialesman.com/app/bush-aerobics/bush-aerobics.html
+MinimizeRenderBlockingResources: true
 ---
 ## [Clone doesnt have this page](http://www.socialesman.com/app/bush-aerobics/bush-aerobics.html)
 
@@ -29,9 +30,6 @@ title: http://www.socialesman.com/app/bush-aerobics/bush-aerobics.html
 *  JS Response Bytes: 824684
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97409
-
-### Performance issues
-
 
 ### Performance issues
 

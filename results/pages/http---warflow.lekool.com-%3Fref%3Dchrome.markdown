@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://warflow.lekool.com/?ref=chrome
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Warflow-Free MMO RTS Browser War Game at Lekool](http://warflow.lekool.com/?ref=chrome)
 
@@ -29,9 +33,6 @@ title: http://warflow.lekool.com/?ref=chrome
 *  JS Response Bytes: 637779
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 94972
-
-### Performance issues
-
 
 ### Performance issues
 

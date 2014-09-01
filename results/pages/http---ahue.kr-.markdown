@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://ahue.kr/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [HUE Magazine | Art, Culture & Human](http://ahue.kr/)
 
@@ -29,9 +32,6 @@ title: http://ahue.kr/
 *  JS Response Bytes: 703795
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14967
-
-### Performance issues
-
 
 ### Performance issues
 

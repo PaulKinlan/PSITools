@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://plantvszombies01.clicollect.com/voyage/games/plantsvs.zombies.html
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Plants VS. Zombies](http://plantvszombies01.clicollect.com/voyage/games/plantsvs.zombies.html)
 
@@ -29,9 +35,6 @@ title: http://plantvszombies01.clicollect.com/voyage/games/plantsvs.zombies.html
 *  JS Response Bytes: 886883
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 3420
-
-### Performance issues
-
 
 ### Performance issues
 

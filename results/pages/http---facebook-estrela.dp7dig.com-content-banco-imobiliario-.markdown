@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://facebook-estrela.dp7dig.com/content/banco-imobiliario/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Banco Imobiliário](http://facebook-estrela.dp7dig.com/content/banco-imobiliario/)
 
@@ -29,9 +34,6 @@ title: http://facebook-estrela.dp7dig.com/content/banco-imobiliario/
 *  JS Response Bytes: 568543
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1254
-
-### Performance issues
-
 
 ### Performance issues
 

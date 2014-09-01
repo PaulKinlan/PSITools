@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://bodyfatremovalguide.org/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Body Fat Removal Guide |](http://bodyfatremovalguide.org/)
 
@@ -29,9 +33,6 @@ title: http://bodyfatremovalguide.org/
 *  JS Response Bytes: 1002377
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15665
-
-### Performance issues
-
 
 ### Performance issues
 

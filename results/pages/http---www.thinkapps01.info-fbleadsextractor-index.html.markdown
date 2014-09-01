@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.thinkapps01.info/fbleadsextractor/index.html
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [FB Leads Extractor](http://www.thinkapps01.info/fbleadsextractor/index.html)
 
@@ -29,9 +35,6 @@ title: http://www.thinkapps01.info/fbleadsextractor/index.html
 *  JS Response Bytes: 909910
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109055
-
-### Performance issues
-
 
 ### Performance issues
 

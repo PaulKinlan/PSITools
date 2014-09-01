@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://themes-google-chrome.tumblr.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [Темы для Google Chrome](http://themes-google-chrome.tumblr.com/)
 
@@ -29,9 +32,6 @@ title: http://themes-google-chrome.tumblr.com/
 *  JS Response Bytes: 316324
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1019
-
-### Performance issues
-
 
 ### Performance issues
 

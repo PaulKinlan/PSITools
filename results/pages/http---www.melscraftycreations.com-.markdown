@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.melscraftycreations.com/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [                            Mel's Crafty Creations - Home](http://www.melscraftycreations.com/)
 
@@ -29,9 +32,6 @@ title: http://www.melscraftycreations.com/
 *  JS Response Bytes: 245596
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 158757
-
-### Performance issues
-
 
 ### Performance issues
 

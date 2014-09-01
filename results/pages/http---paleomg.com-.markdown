@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://paleomg.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [PaleOMG – Paleo Recipes](http://paleomg.com/)
 
@@ -29,9 +33,6 @@ title: http://paleomg.com/
 *  JS Response Bytes: 1463650
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 41149
-
-### Performance issues
-
 
 ### Performance issues
 

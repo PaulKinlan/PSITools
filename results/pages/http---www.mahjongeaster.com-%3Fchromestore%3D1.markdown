@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.mahjongeaster.com/?chromestore=1
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Easter Mahjong](http://www.mahjongeaster.com/?chromestore=1)
 
@@ -29,9 +32,6 @@ title: http://www.mahjongeaster.com/?chromestore=1
 *  JS Response Bytes: 208334
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

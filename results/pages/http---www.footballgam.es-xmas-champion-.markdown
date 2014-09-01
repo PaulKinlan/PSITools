@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.footballgam.es/xmas-champion/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Xmas Champion Game](http://www.footballgam.es/xmas-champion/)
 
@@ -29,9 +36,6 @@ title: http://www.footballgam.es/xmas-champion/
 *  JS Response Bytes: 2139084
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 159147
-
-### Performance issues
-
 
 ### Performance issues
 

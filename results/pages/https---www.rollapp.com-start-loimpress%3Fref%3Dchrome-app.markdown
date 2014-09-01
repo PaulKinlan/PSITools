@@ -1,6 +1,11 @@
 ---
 layout: result
 title: https://www.rollapp.com/start/loimpress?ref=chrome-app
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [LibreOffice Impress on rollApp](https://www.rollapp.com/start/loimpress?ref=chrome-app)
 
@@ -29,9 +34,6 @@ title: https://www.rollapp.com/start/loimpress?ref=chrome-app
 *  JS Response Bytes: 261113
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44335
-
-### Performance issues
-
 
 ### Performance issues
 

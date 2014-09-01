@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://m.funnygames.biz/?gameid=19575&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=bloons_td_5
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funnygames.biz/?gameid=19575&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=bloons_td_5)
 
@@ -29,9 +35,6 @@ title: http://m.funnygames.biz/?gameid=19575&utm_source=cws&utm_medium=app&utm_c
 *  JS Response Bytes: 1265760
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28400
-
-### Performance issues
-
 
 ### Performance issues
 

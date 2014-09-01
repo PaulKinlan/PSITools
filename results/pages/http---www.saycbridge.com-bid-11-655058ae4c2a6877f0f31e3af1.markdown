@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.saycbridge.com/bid/11-655058ae4c2a6877f0f31e3af1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PrioritizeVisibleContent: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Bidding Practice - SAYC Bridge](http://www.saycbridge.com/bid/11-655058ae4c2a6877f0f31e3af1)
 
@@ -29,9 +33,6 @@ title: http://www.saycbridge.com/bid/11-655058ae4c2a6877f0f31e3af1
 *  JS Response Bytes: 316072
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

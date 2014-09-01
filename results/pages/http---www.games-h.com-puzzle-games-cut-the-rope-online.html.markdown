@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.games-h.com/puzzle-games/cut-the-rope-online.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Playing Cut The Rope Online - Play Free Online Games at Games-H.COM](http://www.games-h.com/puzzle-games/cut-the-rope-online.html)
 
@@ -29,9 +35,6 @@ title: http://www.games-h.com/puzzle-games/cut-the-rope-online.html
 *  JS Response Bytes: 3302498
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 140308
-
-### Performance issues
-
 
 ### Performance issues
 

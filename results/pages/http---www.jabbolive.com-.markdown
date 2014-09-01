@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.jabbolive.com/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [JABBO Live! - The world's first video chat music game.](http://www.jabbolive.com/)
 
@@ -29,9 +35,6 @@ title: http://www.jabbolive.com/
 *  JS Response Bytes: 1542759
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 98254
-
-### Performance issues
-
 
 ### Performance issues
 

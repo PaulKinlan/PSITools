@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://fastdic.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Fast Dictionary - فست دیکشنری فارسی به انگلیسی و انگلیسی به فارسی](http://fastdic.com/)
 
@@ -29,9 +32,6 @@ title: http://fastdic.com/
 *  JS Response Bytes: 530276
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1952
-
-### Performance issues
-
 
 ### Performance issues
 

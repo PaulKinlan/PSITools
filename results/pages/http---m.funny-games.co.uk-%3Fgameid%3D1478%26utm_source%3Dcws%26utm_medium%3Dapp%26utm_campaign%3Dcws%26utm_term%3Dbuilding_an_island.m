@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://m.funny-games.co.uk/?gameid=1478&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=building_an_island
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [](http://m.funny-games.co.uk/?gameid=1478&utm_source=cws&utm_medium=app&utm_campaign=cws&utm_term=building_an_island)
 
@@ -29,9 +33,6 @@ title: http://m.funny-games.co.uk/?gameid=1478&utm_source=cws&utm_medium=app&utm
 *  JS Response Bytes: 1266601
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 28431
-
-### Performance issues
-
 
 ### Performance issues
 

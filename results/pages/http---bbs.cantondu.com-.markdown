@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://bbs.cantondu.com/
+UseLegibleFontSizes: true
 ---
 ## [](http://bbs.cantondu.com/)
 
@@ -29,9 +30,6 @@ title: http://bbs.cantondu.com/
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

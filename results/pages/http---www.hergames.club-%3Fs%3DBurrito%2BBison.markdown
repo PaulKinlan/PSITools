@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.hergames.club/?s=Burrito+Bison
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Burrito Bison – Search Results – Online Best Games](http://www.hergames.club/?s=Burrito+Bison)
 
@@ -29,9 +34,6 @@ title: http://www.hergames.club/?s=Burrito+Bison
 *  JS Response Bytes: 718344
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 14381
-
-### Performance issues
-
 
 ### Performance issues
 

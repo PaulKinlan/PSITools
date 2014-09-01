@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.webstoregames.com/flash-games/prince-of-persia.php
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Prince of Persia - Free Games Online, Free Online Games, Flash Games!](http://www.webstoregames.com/flash-games/prince-of-persia.php)
 
@@ -29,9 +35,6 @@ title: http://www.webstoregames.com/flash-games/prince-of-persia.php
 *  JS Response Bytes: 1329875
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105520
-
-### Performance issues
-
 
 ### Performance issues
 

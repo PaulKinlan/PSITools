@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.dainbinder.com/?m=1
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Dain Binder's Technology Blog](http://www.dainbinder.com/?m=1)
 
@@ -29,9 +32,6 @@ title: http://www.dainbinder.com/?m=1
 *  JS Response Bytes: 2138942
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 347758
-
-### Performance issues
-
 
 ### Performance issues
 

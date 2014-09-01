@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.playygame.com/where039s-my-water.html
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://www.playygame.com/where039s-my-water.html)
 
@@ -29,9 +31,6 @@ title: http://www.playygame.com/where039s-my-water.html
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1399
-
-### Performance issues
-
 
 ### Performance issues
 

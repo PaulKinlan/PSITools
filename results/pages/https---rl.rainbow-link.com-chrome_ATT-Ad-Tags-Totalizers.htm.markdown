@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://rl.rainbow-link.com/chrome_ATT/Ad-Tags-Totalizers.htm
+UseLegibleFontSizes: true
 ---
 ## [](https://rl.rainbow-link.com/chrome_ATT/Ad-Tags-Totalizers.htm)
 
@@ -29,9 +30,6 @@ title: https://rl.rainbow-link.com/chrome_ATT/Ad-Tags-Totalizers.htm
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

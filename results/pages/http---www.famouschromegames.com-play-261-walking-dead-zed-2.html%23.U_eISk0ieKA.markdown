@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.famouschromegames.com/play/261/walking-dead-zed-2.html#.U_eISk0ieKA
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Walking Dead Zed 2 - famouschromegames](http://www.famouschromegames.com/play/261/walking-dead-zed-2.html#.U_eISk0ieKA)
 
@@ -29,9 +35,6 @@ title: http://www.famouschromegames.com/play/261/walking-dead-zed-2.html#.U_eISk
 *  JS Response Bytes: 1483388
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 35519
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://mapsengine.google.com/map/splash?app=mp
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
 ---
 ## [Maps Engine Lite](https://mapsengine.google.com/map/splash?app=mp)
 
@@ -29,9 +31,6 @@ title: https://mapsengine.google.com/map/splash?app=mp
 *  JS Response Bytes: 1742846
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 91357
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://fullofgames.net/game/divines-of-the-east/108/cpvid=cadot&ts=ca
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [FullOfGames.net](http://fullofgames.net/game/divines-of-the-east/108/cpvid=cadot&ts=ca)
 
@@ -29,9 +32,6 @@ title: http://fullofgames.net/game/divines-of-the-east/108/cpvid=cadot&ts=ca
 *  JS Response Bytes: 771961
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 67910
-
-### Performance issues
-
 
 ### Performance issues
 

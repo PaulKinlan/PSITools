@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.surgery-games.org/psychic-ward/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Psychic Ward game](http://www.surgery-games.org/psychic-ward/)
 
@@ -29,9 +35,6 @@ title: http://www.surgery-games.org/psychic-ward/
 *  JS Response Bytes: 2272333
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 122510
-
-### Performance issues
-
 
 ### Performance issues
 

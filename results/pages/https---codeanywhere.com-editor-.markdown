@@ -1,6 +1,7 @@
 ---
 layout: result
 title: https://codeanywhere.com/editor/
+EnableGzipCompression: true
 ---
 ## [Codeanywhere](https://codeanywhere.com/editor/)
 
@@ -29,9 +30,6 @@ title: https://codeanywhere.com/editor/
 *  JS Response Bytes: 2958304
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 68862
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://halhub.com/wp-login.php
+MinimizeRenderBlockingResources: true
 ---
 ## [HalHub › Log In](http://halhub.com/wp-login.php)
 
@@ -29,9 +30,6 @@ title: http://halhub.com/wp-login.php
 *  JS Response Bytes: 152301
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 78370
-
-### Performance issues
-
 
 ### Performance issues
 

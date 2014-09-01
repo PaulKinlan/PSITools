@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://newchromegames.blogspot.com/2013/07/online-pes-2013.html?m=1
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
 ---
 ## [Free Online Games](http://newchromegames.blogspot.com/2013/07/online-pes-2013.html?m=1)
 
@@ -29,9 +31,6 @@ title: http://newchromegames.blogspot.com/2013/07/online-pes-2013.html?m=1
 *  JS Response Bytes: 248929
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 44684
-
-### Performance issues
-
 
 ### Performance issues
 

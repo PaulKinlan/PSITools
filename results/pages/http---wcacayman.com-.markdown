@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://wcacayman.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Wesleyan Christian Academy - Wesleyan Christian Academy](http://wcacayman.com/)
 
@@ -29,9 +32,6 @@ title: http://wcacayman.com/
 *  JS Response Bytes: 12442
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

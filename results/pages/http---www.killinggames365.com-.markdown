@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.killinggames365.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Killing Games 365: Play Online For Free](http://www.killinggames365.com/)
 
@@ -29,9 +34,6 @@ title: http://www.killinggames365.com/
 *  JS Response Bytes: 781664
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 750
-
-### Performance issues
-
 
 ### Performance issues
 

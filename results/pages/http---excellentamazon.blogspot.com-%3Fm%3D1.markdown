@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://excellentamazon.blogspot.com/?m=1
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Blog not found](http://excellentamazon.blogspot.com/?m=1)
 
@@ -29,9 +33,6 @@ title: http://excellentamazon.blogspot.com/?m=1
 *  JS Response Bytes: 41021
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 18785
-
-### Performance issues
-
 
 ### Performance issues
 

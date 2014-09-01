@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.hotsoftwares.info/pdfeditor/index.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [All-in-1 PDF Solution: Create, Edit, Convert PDF Documents & Forms App](http://www.hotsoftwares.info/pdfeditor/index.html)
 
@@ -29,9 +33,6 @@ title: http://www.hotsoftwares.info/pdfeditor/index.html
 *  JS Response Bytes: 935599
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110124
-
-### Performance issues
-
 
 ### Performance issues
 

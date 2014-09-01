@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://newonlinegamezz.com/2048-puzzle/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [New Online Games – 2048](http://newonlinegamezz.com/2048-puzzle/)
 
@@ -29,9 +33,6 @@ title: http://newonlinegamezz.com/2048-puzzle/
 *  JS Response Bytes: 1036555
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15201
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.freetrendtools.com/calculator
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Calculator - Free Trend Tools](http://www.freetrendtools.com/calculator)
 
@@ -29,9 +34,6 @@ title: http://www.freetrendtools.com/calculator
 *  JS Response Bytes: 117017
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 906
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://kml.inovmapping.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
 ---
 ## [KML | iNovmapping](http://kml.inovmapping.com/)
 
@@ -29,9 +32,6 @@ title: http://kml.inovmapping.com/
 *  JS Response Bytes: 317953
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 223
-
-### Performance issues
-
 
 ### Performance issues
 

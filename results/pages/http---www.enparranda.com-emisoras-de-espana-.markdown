@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.enparranda.com/emisoras-de-espana/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Enparranda.com - Emisoras Radios Online de España](http://www.enparranda.com/emisoras-de-espana/)
 
@@ -29,9 +34,6 @@ title: http://www.enparranda.com/emisoras-de-espana/
 *  JS Response Bytes: 1394784
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 109745
-
-### Performance issues
-
 
 ### Performance issues
 

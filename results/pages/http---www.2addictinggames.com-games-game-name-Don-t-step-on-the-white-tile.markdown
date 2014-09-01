@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.2addictinggames.com/games/game/name/Don-t-step-on-the-white-tile
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Don-t-step-on-the-white-tile Addicting Games](http://www.2addictinggames.com/games/game/name/Don-t-step-on-the-white-tile)
 
@@ -29,9 +36,6 @@ title: http://www.2addictinggames.com/games/game/name/Don-t-step-on-the-white-ti
 *  JS Response Bytes: 1828147
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 97076
-
-### Performance issues
-
 
 ### Performance issues
 

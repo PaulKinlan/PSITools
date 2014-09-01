@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.dnasearchengine.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [DNA Search Engine](http://www.dnasearchengine.com/)
 
@@ -29,9 +33,6 @@ title: http://www.dnasearchengine.com/
 *  JS Response Bytes: 349557
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 487
-
-### Performance issues
-
 
 ### Performance issues
 

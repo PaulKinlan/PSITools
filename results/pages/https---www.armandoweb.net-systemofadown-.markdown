@@ -1,6 +1,10 @@
 ---
 layout: result
 title: https://www.armandoweb.net/systemofadown/
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [System Of A Down Lyrics and Videos](https://www.armandoweb.net/systemofadown/)
 
@@ -29,9 +33,6 @@ title: https://www.armandoweb.net/systemofadown/
 *  JS Response Bytes: 2029684
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 609
-
-### Performance issues
-
 
 ### Performance issues
 

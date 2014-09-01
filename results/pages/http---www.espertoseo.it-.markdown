@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://www.espertoseo.it/
+MinimizeRenderBlockingResources: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Esperto SEO](http://www.espertoseo.it/)
 
@@ -18,20 +21,17 @@ title: http://www.espertoseo.it/
 *  Number of JS Resources: 13
 *  Number of CSS Resources: 15
 *  Nubmer of Static Resources: 66
-*  Total Request Bytes: 8025
+*  Total Request Bytes: 8023
 
 ### Response data
 
 *  HTML Response Bytes: 55243
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 378592
-*  Image Response Bytes: 492313
-*  JS Response Bytes: 275866
+*  CSS Response Bytes: 378588
+*  Image Response Bytes: 491794
+*  JS Response Bytes: 275862
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1332
-
-### Performance issues
-
 
 ### Performance issues
 

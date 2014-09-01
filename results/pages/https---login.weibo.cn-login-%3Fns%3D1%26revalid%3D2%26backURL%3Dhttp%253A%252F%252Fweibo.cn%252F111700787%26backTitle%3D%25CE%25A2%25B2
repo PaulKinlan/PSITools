@@ -1,6 +1,8 @@
 ---
 layout: result
 title: https://login.weibo.cn/login/?ns=1&revalid=2&backURL=http%3A%2F%2Fweibo.cn%2F111700787&backTitle=%CE%A2%B2%A9&vt=
+AvoidLandingPageRedirects: true
+SizeTapTargetsAppropriately: true
 ---
 ## [微博](https://login.weibo.cn/login/?ns=1&revalid=2&backURL=http%3A%2F%2Fweibo.cn%2F111700787&backTitle=%CE%A2%B2%A9&vt=)
 
@@ -29,9 +31,6 @@ title: https://login.weibo.cn/login/?ns=1&revalid=2&backURL=http%3A%2F%2Fweibo.c
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2243
-
-### Performance issues
-
 
 ### Performance issues
 

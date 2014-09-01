@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://bestsportsgames.co/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [All Kind Of Sports Games](http://bestsportsgames.co/)
 
@@ -29,9 +35,6 @@ title: http://bestsportsgames.co/
 *  JS Response Bytes: 632372
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1917
-
-### Performance issues
-
 
 ### Performance issues
 

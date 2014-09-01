@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://hellorun.helloenjoy.com/?ref=ChromeWebStore
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+PrioritizeVisibleContent: true
 ---
 ## [HelloRun™](http://hellorun.helloenjoy.com/?ref=ChromeWebStore)
 
@@ -29,9 +33,6 @@ title: http://hellorun.helloenjoy.com/?ref=ChromeWebStore
 *  JS Response Bytes: 969620
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

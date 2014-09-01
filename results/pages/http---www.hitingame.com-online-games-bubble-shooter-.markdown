@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.hitingame.com/online-games/bubble-shooter/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Bubble Shooter « Online Flash Games – Popular Flash Games](http://www.hitingame.com/online-games/bubble-shooter/)
 
@@ -29,9 +35,6 @@ title: http://www.hitingame.com/online-games/bubble-shooter/
 *  JS Response Bytes: 1050100
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 22766
-
-### Performance issues
-
 
 ### Performance issues
 

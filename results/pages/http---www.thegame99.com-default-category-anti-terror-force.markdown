@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.thegame99.com/default-category/anti-terror-force
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Anti-Terror-Force - AV Arcade](http://www.thegame99.com/default-category/anti-terror-force)
 
@@ -29,9 +34,6 @@ title: http://www.thegame99.com/default-category/anti-terror-force
 *  JS Response Bytes: 2163055
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 105162
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,13 @@
 ---
 layout: result
 title: http://www.skateboarding-games.biz/maximal-skateboard/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Maximal Skateboard game](http://www.skateboarding-games.biz/maximal-skateboard/)
 
@@ -29,9 +36,6 @@ title: http://www.skateboarding-games.biz/maximal-skateboard/
 *  JS Response Bytes: 2123175
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 126227
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,14 @@
 ---
 layout: result
 title: http://www.3d-oyunlar.co/3d-tilt/game/
+MinimizeRenderBlockingResources: true
+InlineRenderBlockingCss: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [3D 3D Tilt oyunu](http://www.3d-oyunlar.co/3d-tilt/game/)
 
@@ -29,9 +37,6 @@ title: http://www.3d-oyunlar.co/3d-tilt/game/
 *  JS Response Bytes: 1369180
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 16969
-
-### Performance issues
-
 
 ### Performance issues
 

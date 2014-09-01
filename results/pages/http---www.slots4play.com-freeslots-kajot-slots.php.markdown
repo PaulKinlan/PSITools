@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.slots4play.com/freeslots/kajot-slots.php
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+ServerResponseTime: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Kajot Slots - Latest Kajot Slot Games](http://www.slots4play.com/freeslots/kajot-slots.php)
 
@@ -29,9 +34,6 @@ title: http://www.slots4play.com/freeslots/kajot-slots.php
 *  JS Response Bytes: 1660031
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 99052
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://navigamer.com/doompack/
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Doom - Heretic - Hexen - NaViGaMeR](http://navigamer.com/doompack/)
 
@@ -29,9 +34,6 @@ title: http://navigamer.com/doompack/
 *  JS Response Bytes: 429729
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 75711
-
-### Performance issues
-
 
 ### Performance issues
 

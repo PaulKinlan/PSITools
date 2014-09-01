@@ -1,6 +1,9 @@
 ---
 layout: result
 title: http://app.apps-builder.com//265685#bmb=1
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
 ---
 ## [Shoppen!](http://app.apps-builder.com//265685#bmb=1)
 
@@ -29,9 +32,6 @@ title: http://app.apps-builder.com//265685#bmb=1
 *  JS Response Bytes: 1226914
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 9647
-
-### Performance issues
-
 
 ### Performance issues
 

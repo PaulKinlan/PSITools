@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://www.apptrajectory.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Trajectory](https://www.apptrajectory.com/)
 
@@ -29,9 +32,6 @@ title: https://www.apptrajectory.com/
 *  JS Response Bytes: 702190
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

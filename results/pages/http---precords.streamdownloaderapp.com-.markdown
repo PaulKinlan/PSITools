@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://precords.streamdownloaderapp.com/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
 ---
 ## [streamdownloaderapp.com](http://precords.streamdownloaderapp.com/)
 
@@ -29,9 +33,6 @@ title: http://precords.streamdownloaderapp.com/
 *  JS Response Bytes: 209104
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 0
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://radio.appzend.net/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Radio Live Stations](http://radio.appzend.net/)
 
@@ -29,9 +33,6 @@ title: http://radio.appzend.net/
 *  JS Response Bytes: 387411
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 15152
-
-### Performance issues
-
 
 ### Performance issues
 

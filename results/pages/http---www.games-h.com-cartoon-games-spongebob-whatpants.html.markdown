@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.games-h.com/cartoon-games/spongebob-whatpants.html
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+AvoidPlugins: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Playing Spongebob WhatPants - Play Free Online Games at Games-H.COM](http://www.games-h.com/cartoon-games/spongebob-whatpants.html)
 
@@ -29,9 +35,6 @@ title: http://www.games-h.com/cartoon-games/spongebob-whatpants.html
 *  JS Response Bytes: 2955737
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 140789
-
-### Performance issues
-
 
 ### Performance issues
 

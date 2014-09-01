@@ -1,6 +1,11 @@
 ---
 layout: result
 title: http://www.footballgam.es/mickey-mouse-football/
+MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
+SizeContentToViewport: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Mickey Mouse Football Game](http://www.footballgam.es/mickey-mouse-football/)
 
@@ -29,9 +34,6 @@ title: http://www.footballgam.es/mickey-mouse-football/
 *  JS Response Bytes: 2296895
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 156827
-
-### Performance issues
-
 
 ### Performance issues
 

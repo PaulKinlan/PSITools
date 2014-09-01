@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://techteam.gr/
+MinimizeRenderBlockingResources: true
+PrioritizeVisibleContent: true
+EnableGzipCompression: true
+ServerResponseTime: true
 ---
 ## [- Techteam.gr - Τεχνολογία - Gadgets - Άρθρα - Downloads](http://techteam.gr/)
 
@@ -29,9 +33,6 @@ title: http://techteam.gr/
 *  JS Response Bytes: 1731656
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 30736
-
-### Performance issues
-
 
 ### Performance issues
 

@@ -1,6 +1,12 @@
 ---
 layout: result
 title: http://www.jobvendor.ru/
+MinimizeRenderBlockingResources: true
+PreferAsyncResources: true
+EnableGzipCompression: true
+ServerResponseTime: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
 ---
 ## [Работа в Москве — вакансии, более 600 тысяч предложений работы](http://www.jobvendor.ru/)
 
@@ -29,9 +35,6 @@ title: http://www.jobvendor.ru/
 *  JS Response Bytes: 915784
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 110161
-
-### Performance issues
-
 
 ### Performance issues
 

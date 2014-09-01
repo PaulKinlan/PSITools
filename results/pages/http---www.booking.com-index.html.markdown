@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://www.booking.com/index.html
+MinimizeRenderBlockingResources: true
+ServerResponseTime: true
 ---
 ## [Booking.com: 531,099 hotels worldwide. 35+ million hotel reviews.](http://www.booking.com/index.html)
 
@@ -29,9 +31,6 @@ title: http://www.booking.com/index.html
 *  JS Response Bytes: 395186
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1822
-
-### Performance issues
-
 
 ### Performance issues
 

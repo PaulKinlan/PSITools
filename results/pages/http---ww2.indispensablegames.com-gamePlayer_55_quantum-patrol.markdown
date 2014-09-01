@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://ww2.indispensablegames.com/gamePlayer_55_quantum-patrol
+SizeTapTargetsAppropriately: true
 ---
 ## [indispensablegames.com](http://ww2.indispensablegames.com/gamePlayer_55_quantum-patrol)
 
@@ -29,9 +30,6 @@ title: http://ww2.indispensablegames.com/gamePlayer_55_quantum-patrol
 *  JS Response Bytes: 229840
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 21059
-
-### Performance issues
-
 
 ### Performance issues
 

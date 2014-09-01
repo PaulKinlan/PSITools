@@ -1,6 +1,7 @@
 ---
 layout: result
 title: http://www.mikelipson.com/whomentionedme/index.php
+UseLegibleFontSizes: true
 ---
 ## [404 Not Found](http://www.mikelipson.com/whomentionedme/index.php)
 
@@ -29,9 +30,6 @@ title: http://www.mikelipson.com/whomentionedme/index.php
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 520
-
-### Performance issues
-
 
 ### Performance issues
 

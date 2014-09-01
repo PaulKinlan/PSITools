@@ -1,6 +1,10 @@
 ---
 layout: result
 title: http://www.gamlab.com/games/Games.asp?Gam_id=1
+MinimizeRenderBlockingResources: true
+AvoidPlugins: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Music Box Challeng](http://www.gamlab.com/games/Games.asp?Gam_id=1)
 
@@ -29,9 +33,6 @@ title: http://www.gamlab.com/games/Games.asp?Gam_id=1
 *  JS Response Bytes: 643
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 5416
-
-### Performance issues
-
 
 ### Performance issues
 

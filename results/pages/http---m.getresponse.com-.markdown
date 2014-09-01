@@ -1,6 +1,8 @@
 ---
 layout: result
 title: http://m.getresponse.com/
+AvoidLandingPageRedirects: true
+MinimizeRenderBlockingResources: true
 ---
 ## [Email Marketing Software, Autoresponder - GetResponse](http://m.getresponse.com/)
 
@@ -29,9 +31,6 @@ title: http://m.getresponse.com/
 *  JS Response Bytes: 114433
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 674
-
-### Performance issues
-
 
 ### Performance issues
 

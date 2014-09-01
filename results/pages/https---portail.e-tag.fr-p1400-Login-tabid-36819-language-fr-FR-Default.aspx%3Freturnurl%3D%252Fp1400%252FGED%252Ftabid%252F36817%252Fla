@@ -1,6 +1,9 @@
 ---
 layout: result
 title: https://portail.e-tag.fr/p1400/Login/tabid/36819/language/fr-FR/Default.aspx?returnurl=%2Fp1400%2FGED%2Ftabid%2F36817%2Flanguage%2Ffr-FR%2FDefault.aspx
+MinimizeRenderBlockingResources: true
+SizeTapTargetsAppropriately: true
+UseLegibleFontSizes: true
 ---
 ## [Login](https://portail.e-tag.fr/p1400/Login/tabid/36819/language/fr-FR/Default.aspx?returnurl=%2Fp1400%2FGED%2Ftabid%2F36817%2Flanguage%2Ffr-FR%2FDefault.aspx)
 
@@ -29,9 +32,6 @@ title: https://portail.e-tag.fr/p1400/Login/tabid/36819/language/fr-FR/Default.a
 *  JS Response Bytes: 687055
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 1064
-
-### Performance issues
-
 
 ### Performance issues
 
