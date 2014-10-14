@@ -2,7 +2,6 @@
 layout: result
 title: http://playfreegames11.blogspot.com/2013/10/fairway-solitaire-new.html?m=1
 MinimizeRenderBlockingResources: true
-InlineRenderBlockingCss: true
 SizeTapTargetsAppropriately: true
 UseLegibleFontSizes: true
 ---
@@ -22,22 +21,21 @@ UseLegibleFontSizes: true
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 1102
+*  Total Request Bytes: 1103
 
 ### Response data
 
 *  HTML Response Bytes: 0
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 46652
-*  Image Response Bytes: 2949
-*  JS Response Bytes: 41022
+*  CSS Response Bytes: 46677
+*  Image Response Bytes: 2966
+*  JS Response Bytes: 41259
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 18844
+*  Other Response Bytes: 18869
 
 ### Performance issues
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
-*  Inline render-blocking CSS
 
 ### Mobile UX issues
 

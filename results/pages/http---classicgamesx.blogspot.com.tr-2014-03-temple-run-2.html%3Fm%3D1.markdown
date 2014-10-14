@@ -21,17 +21,17 @@ SizeContentToViewport: true
 *  Number of JS Resources: 11
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 16
-*  Total Request Bytes: 3045
+*  Total Request Bytes: 3046
 
 ### Response data
 
-*  HTML Response Bytes: 71373
+*  HTML Response Bytes: 71376
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 21448
-*  Image Response Bytes: 4698
-*  JS Response Bytes: 610674
+*  CSS Response Bytes: 21464
+*  Image Response Bytes: 4728
+*  JS Response Bytes: 611706
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 95588
+*  Other Response Bytes: 95604
 
 ### Performance issues
 

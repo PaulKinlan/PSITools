@@ -20,7 +20,7 @@ UseLegibleFontSizes: true
 *  Number of JS Resources: 0
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 0
-*  Total Request Bytes: 296
+*  Total Request Bytes: 292
 
 ### Response data
 

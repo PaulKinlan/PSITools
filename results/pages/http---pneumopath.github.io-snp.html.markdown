@@ -27,9 +27,9 @@ UseLegibleFontSizes: true
 
 *  HTML Response Bytes: 1898
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 524
+*  CSS Response Bytes: 521
 *  Image Response Bytes: 0
-*  JS Response Bytes: 11082
+*  JS Response Bytes: 11076
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 588
 

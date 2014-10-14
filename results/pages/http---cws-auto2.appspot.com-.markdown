@@ -23,7 +23,7 @@ UseLegibleFontSizes: true
 
 ### Response data
 
-*  HTML Response Bytes: 384
+*  HTML Response Bytes: 392
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 0

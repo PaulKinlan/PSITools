@@ -20,17 +20,17 @@ AvoidPlugins: true
 *  Number of JS Resources: 19
 *  Number of CSS Resources: 3
 *  Nubmer of Static Resources: 26
-*  Total Request Bytes: 6137
+*  Total Request Bytes: 6230
 
 ### Response data
 
-*  HTML Response Bytes: 92767
+*  HTML Response Bytes: 95100
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 38388
-*  Image Response Bytes: 39374
-*  JS Response Bytes: 1068334
+*  CSS Response Bytes: 38412
+*  Image Response Bytes: 39429
+*  JS Response Bytes: 1074892
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 97991
+*  Other Response Bytes: 98024
 
 ### Performance issues
 

@@ -13,22 +13,22 @@ title: http://www.feedspot.com/
 
 ### Request information
 
-*  Number of Resources: 10
-*  Number of Hosts: 5
+*  Number of Resources: 9
+*  Number of Hosts: 4
 *  Number of JS Resources: 2
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 7
-*  Total Request Bytes: 1355
+*  Total Request Bytes: 1322
 
 ### Response data
 
-*  HTML Response Bytes: 44958
+*  HTML Response Bytes: 44953
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 68358
-*  JS Response Bytes: 289791
+*  Image Response Bytes: 68367
+*  JS Response Bytes: 289956
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 451
+*  Other Response Bytes: 0
 
 ### Performance issues
 

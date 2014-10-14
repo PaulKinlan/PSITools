@@ -19,17 +19,17 @@ AvoidLandingPageRedirects: true
 *  Number of JS Resources: 0
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 2218
+*  Total Request Bytes: 2221
 
 ### Response data
 
-*  HTML Response Bytes: 56261
+*  HTML Response Bytes: 56397
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 23356
+*  Image Response Bytes: 23379
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 53505
+*  Other Response Bytes: 53552
 
 ### Performance issues
 
