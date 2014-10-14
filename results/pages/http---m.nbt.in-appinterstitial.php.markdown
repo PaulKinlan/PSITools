@@ -27,7 +27,7 @@ MinimizeRenderBlockingResources: true
 *  HTML Response Bytes: 1562
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 782
-*  Image Response Bytes: 67076
+*  Image Response Bytes: 67101
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 500
