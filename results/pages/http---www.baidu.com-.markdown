@@ -22,7 +22,7 @@ title: http://www.baidu.com/
 
 ### Response data
 
-*  HTML Response Bytes: 4876
+*  HTML Response Bytes: 4877
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 2676
