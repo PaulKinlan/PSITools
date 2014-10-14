@@ -50,7 +50,7 @@ results/sites:
 results/apps:
 	mkdir -p results/apps
 
-apps: output/pages output/apps 
+apps: output/pages output/apps results/apps/apps-firefox.markdown
 
 sites: output/pages output/sites results/sites/alexa-top-10.markdown results/sites/singapore-top-100.markdown results/sites/philippines-top-100.markdown results/sites/malaysian-top-100.markdown results/sites/indonesian-top-100.markdown results/sites/nigerian-top-100.markdown results/sites/kenyan-top-100.markdown results/sites/south-african-top-100.markdown results/sites/indian-top-100.markdown results/sites/dutch-top-100.markdown results/sites/danish-top-100.markdown results/sites/romainian-top-100.markdown results/sites/polish-top-100.markdown results/sites/czech-republic-top-100.markdown results/sites/italian-top-100.markdown results/sites/spanish-top-100.markdown results/sites/computers.markdown results/sites/sports.markdown results/sites/south-korean-top-100.markdown results/sites/shopping.markdown results/sites/thai-top-100.markdown results/sites/german-top-100.markdown results/sites/uk-top-100.markdown results/sites/japanese-top-100.markdown results/sites/french-top-100.markdown results/sites/wordpress.markdown results/sites/news.markdown results/sites/themeforest-livepopular.markdown results/sites/webdeveloperdocs.markdown
 
