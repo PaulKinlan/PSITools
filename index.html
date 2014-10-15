@@ -5,25 +5,12 @@ description: Using a mobile browser we crawl a selection of sites once a week an
 ---
 
 <h2>Country breakdown</h2>
-{% for page in site.pages %}{% if page.layout == "article" and page.category == "country" %}
-<div>
- <h3><a href="{{site.baseurl}}{{page.url | remove_first:'/'}}">{{ page.title }}</a></h3>
- <p>{{page.description}}</p>
-</div>
-{% endif %}{% endfor %}
-
-<h2>Industry breakdown</h2>
-{% for page in site.pages %}{% if page.layout == "article" and page.category == "industry" %}
-<div>
- <h3><a href="{{site.baseurl}}{{page.url | remove_first:'/'}}">{{ page.title }}</a></h3>
- <p>{{page.description}}</p>
-</div>
-{% endif %}{% endfor %}
-
-<h2>Web Apps</h2>
-{% for page in site.pages %}{% if page.layout == "article" and page.category == "apps" %}
-<div>
- <h3><a href="{{site.baseurl}}{{page.url | remove_first:'/'}}">{{ page.title }}</a></h3>
- <p>{{page.description}}</p>
-</div>
-{% endif %}{% endfor %}
+{% for category in site.categories %}
+  <h2>{{category.name}}</h2>
+  {% for page in category.pages %}
+  <div>
+    <h3><a href="{{site.baseurl}}{{page.url | remove_first:'/'}}">{{ page.title }}</a></h3>
+    <p>{{page.description}}</p>
+  </div>
+  {% endfor%}
+{% endfor %}
