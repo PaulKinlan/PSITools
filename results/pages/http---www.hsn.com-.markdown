@@ -2,6 +2,7 @@
 layout: result
 title: http://www.hsn.com/
 MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 SizeTapTargetsAppropriately: true
 ---
 ## [Online Shopping | Shop Official HSN Site at HSN.com](http://www.hsn.com/)
@@ -15,26 +16,27 @@ SizeTapTargetsAppropriately: true
 
 ### Request information
 
-*  Number of Resources: 64
-*  Number of Hosts: 23
+*  Number of Resources: 63
+*  Number of Hosts: 22
 *  Number of JS Resources: 20
 *  Number of CSS Resources: 3
-*  Nubmer of Static Resources: 35
-*  Total Request Bytes: 10832
+*  Nubmer of Static Resources: 33
+*  Total Request Bytes: 10573
 
 ### Response data
 
-*  HTML Response Bytes: 42839
-*  Text Response Bytes: 10815
-*  CSS Response Bytes: 248861
-*  Image Response Bytes: 405212
-*  JS Response Bytes: 1466421
+*  HTML Response Bytes: 42655
+*  Text Response Bytes: 10786
+*  CSS Response Bytes: 248830
+*  Image Response Bytes: 405025
+*  JS Response Bytes: 1466235
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 9582
+*  Other Response Bytes: 9580
 
 ### Performance issues
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
 
 ### Mobile UX issues
 

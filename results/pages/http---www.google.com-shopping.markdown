@@ -23,10 +23,10 @@ SizeTapTargetsAppropriately: true
 
 ### Response data
 
-*  HTML Response Bytes: 38887
+*  HTML Response Bytes: 38837
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
-*  Image Response Bytes: 754874
+*  Image Response Bytes: 754901
 *  JS Response Bytes: 253608
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 563

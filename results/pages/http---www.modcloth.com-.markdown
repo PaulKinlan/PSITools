@@ -21,17 +21,17 @@ EnableGzipCompression: true
 *  Number of JS Resources: 28
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 90
-*  Total Request Bytes: 25066
+*  Total Request Bytes: 24603
 
 ### Response data
 
-*  HTML Response Bytes: 189972
+*  HTML Response Bytes: 190323
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 121088
-*  Image Response Bytes: 643523
-*  JS Response Bytes: 1098322
+*  Image Response Bytes: 643327
+*  JS Response Bytes: 1098525
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 12099
+*  Other Response Bytes: 11900
 
 ### Performance issues
 

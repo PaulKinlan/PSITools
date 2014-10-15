@@ -2,7 +2,6 @@
 layout: result
 title: http://us.moo.com/
 MinimizeRenderBlockingResources: true
-EnableGzipCompression: true
 ---
 ## [MOO](http://us.moo.com/)
 
@@ -15,27 +14,26 @@ EnableGzipCompression: true
 
 ### Request information
 
-*  Number of Resources: 118
+*  Number of Resources: 119
 *  Number of Hosts: 38
 *  Number of JS Resources: 25
 *  Number of CSS Resources: 1
 *  Nubmer of Static Resources: 31
-*  Total Request Bytes: 31004
+*  Total Request Bytes: 31864
 
 ### Response data
 
-*  HTML Response Bytes: 19374
-*  Text Response Bytes: 796
-*  CSS Response Bytes: 124809
-*  Image Response Bytes: 874674
-*  JS Response Bytes: 832178
+*  HTML Response Bytes: 19232
+*  Text Response Bytes: 797
+*  CSS Response Bytes: 124810
+*  Image Response Bytes: 874695
+*  JS Response Bytes: 822330
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 41923
+*  Other Response Bytes: 43155
 
 ### Performance issues
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
-*  Enable compression
 
 ### Mobile UX issues
 
