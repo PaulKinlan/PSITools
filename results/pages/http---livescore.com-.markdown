@@ -18,11 +18,11 @@ title: http://livescore.com/
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 3
-*  Total Request Bytes: 716
+*  Total Request Bytes: 717
 
 ### Response data
 
-*  HTML Response Bytes: 6036
+*  HTML Response Bytes: 6028
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 30291

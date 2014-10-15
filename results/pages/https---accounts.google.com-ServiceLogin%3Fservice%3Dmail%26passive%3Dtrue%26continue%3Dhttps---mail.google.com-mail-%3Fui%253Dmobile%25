@@ -15,21 +15,21 @@ AvoidLandingPageRedirects: true
 ### Request information
 
 *  Number of Resources: 10
-*  Number of Hosts: 6
+*  Number of Hosts: 5
 *  Number of JS Resources: 0
 *  Number of CSS Resources: 0
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 1035
+*  Total Request Bytes: 1043
 
 ### Response data
 
-*  HTML Response Bytes: 63862
+*  HTML Response Bytes: 63866
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 0
 *  Image Response Bytes: 23751
 *  JS Response Bytes: 0
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 50856
+*  Other Response Bytes: 50334
 
 ### Performance issues
 
