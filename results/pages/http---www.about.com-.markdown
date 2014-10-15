@@ -22,15 +22,15 @@ SizeTapTargetsAppropriately: true
 *  Number of JS Resources: 7
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 31
-*  Total Request Bytes: 3111
+*  Total Request Bytes: 3105
 
 ### Response data
 
-*  HTML Response Bytes: 147291
+*  HTML Response Bytes: 146979
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 37321
 *  Image Response Bytes: 474910
-*  JS Response Bytes: 406280
+*  JS Response Bytes: 406085
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 29667
 

@@ -28,7 +28,7 @@ EnableGzipCompression: true
 *  HTML Response Bytes: 5119
 *  Text Response Bytes: 5669
 *  CSS Response Bytes: 15455
-*  Image Response Bytes: 58902
+*  Image Response Bytes: 58903
 *  JS Response Bytes: 100554
 *  Flash Response Bytes: 0
 *  Other Response Bytes: 2765
