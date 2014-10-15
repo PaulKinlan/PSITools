@@ -2,6 +2,7 @@
 layout: result
 title: http://www.hostgator.com/
 MinimizeRenderBlockingResources: true
+EnableGzipCompression: true
 SizeContentToViewport: true
 SizeTapTargetsAppropriately: true
 ---
@@ -16,26 +17,27 @@ SizeTapTargetsAppropriately: true
 
 ### Request information
 
-*  Number of Resources: 120
-*  Number of Hosts: 35
+*  Number of Resources: 119
+*  Number of Hosts: 34
 *  Number of JS Resources: 22
 *  Number of CSS Resources: 6
 *  Nubmer of Static Resources: 47
-*  Total Request Bytes: 19218
+*  Total Request Bytes: 18699
 
 ### Response data
 
 *  HTML Response Bytes: 27952
 *  Text Response Bytes: 0
-*  CSS Response Bytes: 72595
-*  Image Response Bytes: 248370
-*  JS Response Bytes: 861745
+*  CSS Response Bytes: 72502
+*  Image Response Bytes: 247668
+*  JS Response Bytes: 861938
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 26379
+*  Other Response Bytes: 25979
 
 ### Performance issues
 
 *  Eliminate render-blocking JavaScript and CSS in above-the-fold content
+*  Enable compression
 
 ### Mobile UX issues
 

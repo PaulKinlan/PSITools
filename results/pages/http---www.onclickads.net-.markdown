@@ -21,17 +21,17 @@ UseLegibleFontSizes: true
 *  Number of JS Resources: 1
 *  Number of CSS Resources: 2
 *  Nubmer of Static Resources: 4
-*  Total Request Bytes: 2300
+*  Total Request Bytes: 2302
 
 ### Response data
 
 *  HTML Response Bytes: 3562
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 2521
-*  Image Response Bytes: 32806
+*  Image Response Bytes: 32542
 *  JS Response Bytes: 9972
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 43716
+*  Other Response Bytes: 43720
 
 ### Performance issues
 

@@ -15,22 +15,22 @@ MinimizeRenderBlockingResources: true
 
 ### Request information
 
-*  Number of Resources: 23
-*  Number of Hosts: 10
-*  Number of JS Resources: 7
+*  Number of Resources: 25
+*  Number of Hosts: 12
+*  Number of JS Resources: 9
 *  Number of CSS Resources: 3
-*  Nubmer of Static Resources: 13
-*  Total Request Bytes: 3553
+*  Nubmer of Static Resources: 14
+*  Total Request Bytes: 3880
 
 ### Response data
 
-*  HTML Response Bytes: 69909
+*  HTML Response Bytes: 71687
 *  Text Response Bytes: 0
 *  CSS Response Bytes: 173448
 *  Image Response Bytes: 5487
-*  JS Response Bytes: 509152
+*  JS Response Bytes: 524802
 *  Flash Response Bytes: 0
-*  Other Response Bytes: 2156
+*  Other Response Bytes: 2135
 
 ### Performance issues
 
